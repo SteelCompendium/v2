@@ -2,881 +2,605 @@
 
 ---
 
-<div class="sc-cards">
-<a class="sc-card sc-fil" href="advanced-studies.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Advanced Studies</div></div></div>
-  <div class="sc-card__blurb">You somehow obtained the notebook of a brilliant but eccentric member of your class. The knowled…</div>
-</a>
-<a class="sc-card sc-fil" href="amnesia.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Amnesia</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have a supernatural possession—a 1st-echelon trinket of your choice (see Treasures in Chapte…</div>
-    <div class="is-drawback"><b>Drawback</b>You take a bane on any test made to recall lore.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="animal-form.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Animal Form</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>As a maneuver, you take the form of a specific animal of size 1T. You retain all your other stat…</div>
-    <div class="is-drawback"><b>Drawback</b>At the start of any turn while you are winded, the Director can spend 1 Malice to force you to t…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="antihero.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Antihero</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have 3 antihero tokens. Whenever you use an ability or other effect that costs your Heroic R…</div>
-    <div class="is-drawback"><b>Drawback</b>While you have fewer than 3 antihero tokens, you exude a villainous aspect. You and each ally wi…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="artifact-bonded.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Artifact Bonded</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Choose an artifact (see Treasures in Chapter 13: Rewards). The first time in an encounter that y…</div>
-    <div class="is-drawback"><b>Drawback</b>Each time the artifact appears, you lose a Recovery. If you have no Recoveries remaining, you ta…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="bereaved.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Bereaved</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Whenever you don&#39;t know what to do, you can appeal to your loved one&#39;s spirit for help. You spen…</div>
-    <div class="is-drawback"><b>Drawback</b>You have corruption weakness 5.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="betrothed.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Betrothed</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You escaped with a dowry present—a 1st-echelon trinket of your choice (see Treasures in Chapter…</div>
-    <div class="is-drawback"><b>Drawback</b>All those who learn of you running out on your commitment think less of you and spread nasty rum…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="chaos-touched.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Chaos Touched</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You gain an edge on the Escape Grab, Grab, and Knockback maneuvers. Additionally, you can hold a…</div>
-    <div class="is-drawback"><b>Drawback</b>While dying, you grow and retract uncoordinated limbs at random, imposing a bane on your power r…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="chosen-one.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Chosen One</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have 3 destiny points. Whenever you spend your Heroic Resource for your class, you can spend…</div>
-    <div class="is-drawback"><b>Drawback</b>Whenever you spend 1 or more destiny points, you take 1d10 psychic damage that can&#39;t be reduced…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="consuming-interest.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Consuming Interest</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have one skill of your choice from the lore skill group, and you can use the Study Lore proj…</div>
-    <div class="is-drawback"><b>Drawback</b>You can&#39;t imagine ever being wrong on the topic of your obsession. Whenever you make a test to r…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="corrupted-mentor.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Corrupted Mentor</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You know the Corrupt Spirit maneuver, taught to you by your mentor. (In retrospect, that probabl…</div>
-    <div class="is-drawback"><b>Drawback</b>You have holy weakness 1. Each time you use Corrupt Spirit, your holy weakness increases by 1, t…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="coward.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Coward</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>While you are frightened, you can move toward the source of your fear.</div>
-    <div class="is-drawback"><b>Drawback</b>Whenever you make a saving throw to end the frightened condition, you roll a d10 twice and take…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="crash-landed.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Crash Landed</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have the Timescape skill (from the lore skill group). Additionally, you have a power pack th…</div>
-    <div class="is-drawback"><b>Drawback</b>You take a bane on any test made to know about anything related to the world where you crash lan…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="cult-victim.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Cult Victim</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Once per turn, you can move through solid matter 1 square thick or less. If you end your turn in…</div>
-    <div class="is-drawback"><b>Drawback</b>You have corruption weakness 5.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="curse-of-caution.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Curse of Caution</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Until you&#39;ve taken your turn in a combat round, any strike made against you takes a bane.</div>
-    <div class="is-drawback"><b>Drawback</b>You have a −1 penalty to speed.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="curse-of-immortality.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Curse of Immortality</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You don&#39;t age. Additionally, whenever you would die, you instead enter a state of suspended anim…</div>
-    <div class="is-drawback"><b>Drawback</b>You take a bane on any test made to recall lore.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="curse-of-misfortune.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Curse of Misfortune</div></div></div>
-  <div class="sc-card__blurb">You should have never pissed off that mage! Maybe they deserved your ire, or maybe you were just…</div>
-</a>
-<a class="sc-card sc-fil" href="curse-of-poverty.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Curse of Poverty</div></div></div>
-  <div class="sc-card__blurb">A soothsayer once predicted you would have a long life, even as they told you you&#39;d never be ric…</div>
-</a>
-<a class="sc-card sc-fil" href="curse-of-punishment.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Curse of Punishment</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have 1 additional Recovery.</div>
-    <div class="is-drawback"><b>Drawback</b>When you are out of Recoveries, you are dying, no matter what your current Stamina is.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="curse-of-stone.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Curse of Stone</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have a +1 bonus to stability. Additionally, you can use a free maneuver to cause your body,…</div>
-    <div class="is-drawback"><b>Drawback</b>You have sonic weakness 5. Additionally, while you are winded, you are dazed.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="cursed-weapon.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Cursed Weapon</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have a leveled weapon of your choice (see Treasures in Chapter 13: Rewards).</div>
-    <div class="is-drawback"><b>Drawback</b>You have damage weakness 2.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="disgraced.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Disgraced</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You earn 1 Renown, and you have one skill of your choice from the interpersonal or intrigue skil…</div>
-    <div class="is-drawback"><b>Drawback</b>Anyone who has heard of you and is influenced by your Renown treats you as infamous. Whenever yo…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="dragon-dreams.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Dragon Dreams</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Choose 2 ancestry points&#39;&#39; worth of purchased dragon knight traits (see Chapter 3: Ancestries).…</div>
-    <div class="is-drawback"><b>Drawback</b>Whenever you are reduced to 0 Stamina, you explode with heat and fire. You and each creature wit…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="elemental-inside.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Elemental Inside</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You gain a +3 bonus to Stamina at 1st level, then again at 4th, 7th, and 10th levels.</div>
-    <div class="is-drawback"><b>Drawback</b>While you are dying, your possessing elemental takes control of your body. The elemental yearns…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="evanesceria.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Evanesceria</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>At the start of any combat round, you can attempt to absent yourself from reality by rolling a d…</div>
-    <div class="is-drawback"><b>Drawback</b>Whenever you start a respite activity, roll 2d10. If you roll a 1 on either die, you inadvertent…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="exile.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Exile</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You know one extant language of your choice (see Languages in Orden in Chapter 4: Background).</div>
-    <div class="is-drawback"><b>Drawback</b>If any NPC from your homeland recognizes you, whether in your homeland or elsewhere, they attemp…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="fallen-immortal.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Fallen Immortal</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have the Religion skill (from the lore skill group). Additionally, whenever you use an abili…</div>
-    <div class="is-drawback"><b>Drawback</b>You will never fully gain a mortal&#39;s comfort with untruth. Any test you make to deceive another…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="famous-relative.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Famous Relative</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have a piece of magic jewelry such as a signet ring. As a maneuver, you can use this item to…</div>
-    <div class="is-drawback"><b>Drawback</b>You earn no Victories from combat encounters or other challenges for which your relative was pre…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="feytouched.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Feytouched</div></div></div>
-  <div class="sc-card__blurb">Your birth was attended by faeries. A friendly fairy blessed you, granting you strength so you c…</div>
-</a>
-<a class="sc-card sc-fil" href="fiery-ideal.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Fiery Ideal</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>While you fight on behalf of your special purpose, whenever you obtain a tier 3 outcome with a d…</div>
-    <div class="is-drawback"><b>Drawback</b>Whenever the Director determines that you act against your purpose or fail to live up to the hig…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="fire-and-chaos.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Fire and Chaos</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have fire immunity 5.</div>
-    <div class="is-drawback"><b>Drawback</b>You have cold weakness 5.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="following-in-the-footsteps.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Following in the Footsteps</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Choose a heroic ability for your class of a higher level than you currently are. When you take t…</div>
-    <div class="is-drawback"><b>Drawback</b>In your quest for advanced techniques, you have neglected the basics. Choose a heroic ability yo…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="forbidden-romance.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Forbidden Romance</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You can secretly call on your betrothed for favors. Though they support you from afar, they migh…</div>
-    <div class="is-drawback"><b>Drawback</b>When your lover is in trouble, they might call on you for help. But if your relationship is disc…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="frostheart.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Frostheart</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have cold immunity 5. Additionally, whenever you make a strike that deals untyped damage, th…</div>
-    <div class="is-drawback"><b>Drawback</b>You have fire weakness 5.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="getting-too-old-for-this.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Getting Too Old for This</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>On your turn, you can choose a heroic ability that you would be able to learn if you were one le…</div>
-    <div class="is-drawback"><b>Drawback</b>While you are winded, you take a −2 penalty to speed.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="gnoll-mauled.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Gnoll-Mauled</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Whenever an ally within 5 squares is reduced to 0 Stamina, you can use a triggered action to mov…</div>
-    <div class="is-drawback"><b>Drawback</b>While you are dazed, if you start your turn adjacent to one or more creatures, you must use your…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="greening.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Greening</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have corruption immunity 5.</div>
-    <div class="is-drawback"><b>Drawback</b>You have fire weakness 5.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="grifter.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Grifter</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have one skill of your choice from the intrigue skill group.</div>
-    <div class="is-drawback"><b>Drawback</b>Whenever you meet an NPC for the first time, the Director can decide that NPC was a victim of on…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="grounded.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Grounded</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have the 1st-level Elementalist Specialization feature Motivate Earth (see Chapter 5: Classe…</div>
-    <div class="is-drawback"><b>Drawback</b>You attract lightning. Whenever any creature within 2 squares of you takes lightning damage, you…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="guilty-conscience.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Guilty Conscience</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You&#39;re determined to stay alive so you can set things right. When your Stamina reaches the negat…</div>
-    <div class="is-drawback"><b>Drawback</b>Many people blame you for the evils you caused. They might be unfriendly or hostile to you—and y…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="hawk-rider.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Hawk Rider</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>As long as you are not in a building or other structure, you can spend 1 uninterrupted minute to…</div>
-    <div class="is-drawback"><b>Drawback</b>People aware of the origin of your mount are afraid to interact with you, since they worry the H…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="host-body.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Host Body</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You are a sapient fungus who inhabits a humanoid body. Your host body follows all the usual rule…</div>
-    <div class="is-drawback"><b>Drawback</b>You have fire weakness 5. Additionally, you take a bane on any test made to read a humanoid crea…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="hunted.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Hunted</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have one skill of your choice from the intrigue skill group. Additionally, whenever one or m…</div>
-    <div class="is-drawback"><b>Drawback</b>Each time you earn Renown, your pursuer learns your location. Unless you lay low or move to a ne…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="hunter.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Hunter</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Choose one skill from the following:</div>
-    <div class="is-drawback"><b>Drawback</b>You are so obsessed with finding your quarry that you take a bane on any test made to track othe…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="indebted.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Indebted</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You&#39;re good with money—because you&#39;ve had to be. Whenever you earn Wealth, you earn 1 more than…</div>
-    <div class="is-drawback"><b>Drawback</b>Your starting Wealth is −5. While your Wealth is lower than 1, you can purchase items as if you…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="infernal-contract-but-like-bad.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Infernal Contract... But, Like, Bad</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Choose one of the following benefits:</div>
-    <div class="is-drawback"><b>Drawback</b>Your body bears a fiendish mark. Any creature who understands religion and notes the mark can te…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="infernal-contract.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Infernal Contract</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Whenever you are present for a battle in which both sides have creatures who aren&#39;&#39;t surprised,…</div>
-    <div class="is-drawback"><b>Drawback</b>The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiend…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="ivory-tower.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Ivory Tower</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have three skills of your choice, and you know one dead language of your choice (see Languag…</div>
-    <div class="is-drawback"><b>Drawback</b>The Director chooses one of the skills you have from this complication. You lose that skill and…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="lifebonded.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Lifebonded</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Choose another creature who doesn&#39;t have the Lifebonded complication. When you die, your body di…</div>
-    <div class="is-drawback"><b>Drawback</b>If the creature you&#39;re bound to dies, you die as well, no matter what other traits or features y…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="lightning-soul.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Lightning Soul</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Whenever you regain Stamina in combat, you gain 1 surge. Whenever you spend a surge to deal extr…</div>
-    <div class="is-drawback"><b>Drawback</b>Whenever you are wet, you have damage weakness 5.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="loner.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Loner</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>When you finish a respite, choose a skill you don&#39;t have. You have that skill until the end of y…</div>
-    <div class="is-drawback"><b>Drawback</b>Now that you finally have people who care about you, you won&#39;t let anyone take them away! Whenev…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="lost-in-time.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Lost in Time</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Choose a damage type from acid, cold, corruption, fire, holy, lightning, poison, psychic, or son…</div>
-    <div class="is-drawback"><b>Drawback</b>You automatically fail any test made to recall information from the period during which you were…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="lost-your-head.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Lost Your Head</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have the following ability.</div>
-    <div class="is-drawback"><b>Drawback</b>Having no head, you can&#39;t see, hear, smell, taste, or verbalize except by using the Share Head a…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="lucky.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Lucky</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>When you spend a hero token to succeed on a saving throw or to reroll a test, roll a d10. On a 6…</div>
-    <div class="is-drawback"><b>Drawback</b>Whenever you obtain a tier 1 outcome on a test and don&#39;t spend a hero token to reroll, you take…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="master-chef.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Master Chef</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have the Cooking skill (from the crafting skill group). Additionally, whenever you finish a…</div>
-    <div class="is-drawback"><b>Drawback</b>The first time each day you eat food you didn&#39;t prepare, you lose 2 Recoveries.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="meddling-butler.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Meddling Butler</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have a retainer, in addition to any followers you acquire through Renown or other means. As…</div>
-    <div class="is-drawback"><b>Drawback</b>Outside of combat, your retainer is under the Director&#39;s control. The retainer sometimes acts wi…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="medium.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Medium</div></div></div>
-  <div class="sc-card__blurb">You can perceive ghosts and spirits that others don&#39;t sense. These supernatural entities constan…</div>
-</a>
-<a class="sc-card sc-fil" href="medusa-blood.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Medusa Blood</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have the following ability.</div>
-    <div class="is-drawback"><b>Drawback</b>Out of combat, you use your Stone Eyes ability on anyone who meets your gaze, whether you intend…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="misunderstood.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Misunderstood</div></div></div>
-  <div class="sc-card__blurb">Your appearance marks you as part of a group that is universally feared. You might be a gentle s…</div>
-</a>
-<a class="sc-card sc-fil" href="mundane.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Mundane</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have immunity to corruption, holy, and psychic damage equal to your level.</div>
-    <div class="is-drawback"><b>Drawback</b>Whenever you carry more than three magic treasures, you take a bane on power rolls.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="outlaw.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Outlaw</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You earn 1 Renown.</div>
-    <div class="is-drawback"><b>Drawback</b>Law enforcement officials and bounty hunters who recognize you attempt to arrest you.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="pirate.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Pirate</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>When interacting with pirates or pirate hunters, you treat your Renown as 2 higher than usual. A…</div>
-    <div class="is-drawback"><b>Drawback</b>The pirates holding the other pieces of the map would very much like to get their hands on your…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="preacher.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Preacher</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>As a respite activity, you can attempt to convert members of a community to your cause. Make a P…</div>
-    <div class="is-drawback"><b>Drawback</b>If you fail in your conversion attempt, one of your existing followers of the Director&#39;s choice…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="primordial-sickness.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Primordial Sickness</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have corruption immunity 5 and poison immunity 5.</div>
-    <div class="is-drawback"><b>Drawback</b>Your number of Recoveries is permanently reduced by 1.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="prisoner-of-the-synlirii.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Prisoner of the Synlirii</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You can telepathically communicate with any creature within 10 squares of you if they share a la…</div>
-    <div class="is-drawback"><b>Drawback</b>Any voiceless talker within 1 mile knows your location, and can overhear and understand your tel…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="promising-apprentice.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Promising Apprentice</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have one skill of your choice from the crafting skill group. Additionally, choose one of you…</div>
-    <div class="is-drawback"><b>Drawback</b>Whoever killed your mentor cursed you. You take a bane on any test that doesn&#39;t use one of your…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="psychic-eruption.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Psychic Eruption</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have the following heroic ability.</div>
-    <div class="is-drawback"><b>Drawback</b>Whenever you become bleeding, frightened, or weakened, you must use Psychic Blast as a free trig…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="raised-by-beasts.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Raised by Beasts</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have the Handle Animals skill (from the interpersonal skill group). Additionally, choose a t…</div>
-    <div class="is-drawback"><b>Drawback</b>You don&#39;&#39;t have a culture (see Culture in Chapter 4: Background), though you can speak Caelian.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="refugee.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Refugee</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>When your family fled your homeland, they left their most valuable asset behind. Work with the D…</div>
-    <div class="is-drawback"><b>Drawback</b>The faction that invaded your homeland wants you captured or dead. Any of their agents or sympat…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="rival.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Rival</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Choose one of your skills. That skill grants a +3 bonus to tests instead of +2.</div>
-    <div class="is-drawback"><b>Drawback</b>Your rival has similar statistics to yours, but always had one skill they excelled at, as determ…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="rogue-talent.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Rogue Talent</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have the following ability, which you can use as a ranged free strike.</div>
-    <div class="is-drawback"><b>Drawback</b>You have psychic weakness 5.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="runaway.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Runaway</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have one skill of your choice from the crafting skill group.</div>
-    <div class="is-drawback"><b>Drawback</b>Members of your extended family are looking for you, intending to drag you home—and you&#39;ve never…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="searching-for-a-cure.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Searching for a Cure</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Choose a type of monster connected to your homeland&#39;s plight, such as a vampire, ghost, or medus…</div>
-    <div class="is-drawback"><b>Drawback</b>You have started to succumb to the curse or plague, and will suffer the fate of your family if y…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="secret-identity.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Secret Identity</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have a skill of your choice from the intrigue skill group. Additionally, you can resume your…</div>
-    <div class="is-drawback"><b>Drawback</b>Each time you resume your true identity while you are still hunted, you have a 20 percent cumula…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="secret-twin.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Secret Twin</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have a 1st-echelon trinket of your choice. This was a signature treasure of your twin, and h…</div>
-    <div class="is-drawback"><b>Drawback</b>Your twin disappeared because someone wanted them dead. Whenever you finish a respite, roll a d1…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="self-taught.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Self-Taught</div></div></div>
-  <div class="sc-card__blurb">While your peers were learning their trades in fancy schools, you honed your capabilities on the…</div>
-</a>
-<a class="sc-card sc-fil" href="sewer-folk.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Sewer Folk</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You can automatically climb or swim (your choice) at full speed while moving, and you never get…</div>
-    <div class="is-drawback"><b>Drawback</b>You have poison weakness 5.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="shadow-born.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Shadow Born</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Whenever you start your turn with concealment, you gain 1 surge.</div>
-    <div class="is-drawback"><b>Drawback</b>You have holy weakness 5.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="shared-spirit.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Shared Spirit</div></div></div>
-  <div class="sc-card__blurb">A supernatural spirit occupies your body, with each of you controlling your body by turns. You a…</div>
-</a>
-<a class="sc-card sc-fil" href="shattered-legacy.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Shattered Legacy</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You know one language of your choice. Additionally, you have one leveled treasure of your choice…</div>
-    <div class="is-drawback"><b>Drawback</b>The chosen leveled treasure is broken and completely inoperative. Repairing the treasure require…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="shipwrecked.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Shipwrecked</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have two skills of your choice from the exploration skill group.</div>
-    <div class="is-drawback"><b>Drawback</b>You have forgotten one language you know of your choice.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="siblings-shield.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Sibling&#39;s Shield</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>While you wear your sibling&#39;s shield on your back, you can&#39;t be flanked.</div>
-    <div class="is-drawback"><b>Drawback</b>Visions of your dead sibling haunt you at night. Whenever you take a respite, make an Intuition…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="silent-sentinel.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Silent Sentinel</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have the Eavesdrop and Sneak skills from the intrigue skill group, plus one skill of your ch…</div>
-    <div class="is-drawback"><b>Drawback</b>You have sonic weakness 5. Additionally, whenever you take sonic damage, you are dazed until the…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="slight-case-of-lycanthropy.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Slight Case of Lycanthropy</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Whenever you make a non-minion creature winded or kill a non-minion creature, you gain 1 surge.</div>
-    <div class="is-drawback"><b>Drawback</b>At the start of each of your turns, if you have five or more surges—or one or more surges while…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="stolen-face.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Stolen Face</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You can spend 5 uninterrupted minutes to rearrange your face to resemble the face of another cre…</div>
-    <div class="is-drawback"><b>Drawback</b>Whenever you take damage, your face becomes blank, with no eyes, nose, mouth, or ears. This does…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="strange-inheritance.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Strange Inheritance</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have a somewhat inoperative 2nd-echelon trinket of the Director&#39;&#39;s choice (see Treasures in…</div>
-    <div class="is-drawback"><b>Drawback</b>With no other inheritance, you accumulated debts. The first time your Wealth exceeds 1, you lose…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="stripped-of-rank.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Stripped of Rank</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have the following ability.</div>
-    <div class="is-drawback"><b>Drawback</b>Rather than attracting followers at 3, 6, 9, and 12 Renown, you can attract followers only when…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="thrill-seeker.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Thrill Seeker</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Each time your party reaches 2, 4, and 6 Victories, you earn the party a hero token.</div>
-    <div class="is-drawback"><b>Drawback</b>At the start of a new game session, the party doesn&#39;t earn a hero token for your character.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="vampire-scion.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Vampire Scion</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Whenever you make a melee free strike against an adjacent creature, you can do so by biting that…</div>
-    <div class="is-drawback"><b>Drawback</b>While you have temporary Stamina from this complication, you grow visible fangs, you take a bane…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="voice-in-your-head.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Voice in Your Head</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>The Director tells you when you hear the voice. The voice seems to be aware of your surroundings…</div>
-    <div class="is-drawback"><b>Drawback</b>Eventually, the voice reveals it wants something from you that you might not want to provide. If…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="vow-of-duty.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Vow of Duty</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You gain a +1 bonus to stability.</div>
-    <div class="is-drawback"><b>Drawback</b>If you are ever forced to disobey your organization&#39;s orders, your stability becomes 0 until you…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="vow-of-honesty.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Vow of Honesty</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>If a creature is of a lower level than you, you automatically know when they are lying, though y…</div>
-    <div class="is-drawback"><b>Drawback</b>When you lie, your honor is stained and you lose this complication&#39;s benefit. Additionally, you…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="waking-dreams.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Waking Dreams</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>With a tier 2 outcome, you experience a vision of an event currently happening in your world. Th…</div>
-    <div class="is-drawback"><b>Drawback</b>With a tier 1 outcome, you receive a painful vision that is fractal and inscrutable. When you fi…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="war-dog-collar.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">War Dog Collar</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Even if you are a war dog yourself, other war dogs can&#39;t use their Posthumous Promotion ability…</div>
-    <div class="is-drawback"><b>Drawback</b>Each time you use your Posthumous Retirement ability, the Director can spend 3 Malice to make yo…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="war-of-assassins.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">War of Assassins</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Having gained the favor of the faction you helped, you can call on its members three times for f…</div>
-    <div class="is-drawback"><b>Drawback</b>The faction you wronged hates you, and its members would love to see you pay for your transgress…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="ward.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Ward</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You know how to talk to monarchs, aristocrats, and other wealthy leaders. When you engage with a…</div>
-    <div class="is-drawback"><b>Drawback</b>Your royal ward can be a burden. Whenever you take a respite, roll a d10. On a 1, your ward cont…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="waterborn.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Waterborn</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You can automatically swim at full speed while moving, and you can breathe underwater. Additiona…</div>
-    <div class="is-drawback"><b>Drawback</b>You have lightning weakness 5. Additionally, the ocean or a creature it sends to seek you can as…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="wodewalker.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Wodewalker</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>Your recovery value increases by an amount equal to your highest characteristic score.</div>
-    <div class="is-drawback"><b>Drawback</b>You have fire weakness 5.</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="wrathful-spirit.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Wrathful Spirit</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>While you are taunted by a creature, you gain an edge on strikes against that creature. Addition…</div>
-    <div class="is-drawback"><b>Drawback</b>In combat, whenever a creature makes a strike against you and you are not taunted, you are taunt…</div>
-  </div>
-</a>
-<a class="sc-card sc-fil" href="wrongly-imprisoned.md">
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
-    <div><div class="sc-card__type">Complication</div>
-    <div class="sc-card__name">Wrongly Imprisoned</div></div></div>
-  <div class="sc-card__bd">
-    <div class="is-benefit"><b>Benefit</b>You have two skills of your choice, neither of which can be from the interpersonal skill group.</div>
-    <div class="is-drawback"><b>Drawback</b>Your health suffered in prison. Whenever you are winded, you are stricken with a hacking cough t…</div>
-  </div>
+<div class="sc-cards sc-cards--wide">
+<a class="sc-card sc-card--wide sc-fil" href="advanced-studies.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Advanced Studies</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You somehow obtained the notebook of a brilliant but eccentric member of your class. The knowledge held within those notes should help you unlock powerful new abilities—if you can ever figure out what the notes mean.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="amnesia.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Amnesia</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You have no memory of your past before the... incident. Hopefully, you&#39;ll regain your memory soon and find out what the incident was. In the meantime, you need friends so you won&#39;t be alone when your past catches up to you.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="animal-form.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Animal Form</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it&#39;s convenient—and sometimes when it&#39;s inconvenient as well.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="antihero.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Antihero</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You used to be a villain. You&#39;re (mostly) reformed now, but in desperate moments, you sometimes draw on the rage and hatred that fueled your old life. In those moments, even your friends aren&#39;t sure whose side you&#39;re on. They don&#39;t need to…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="artifact-bonded.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Artifact Bonded</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">A powerful artifact has bonded to you, though you don&#39;t know whether you&#39;re destined to wield the artifact or to destroy it. You&#39;re not powerful enough to use it at the moment, although you might be someday. For now, though, the artifact ha…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="bereaved.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Bereaved</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">The most important person to you—perhaps a family member, mentor, or lover—was killed. The only thing that keeps you going is the faint connection you have with this person&#39;s spirit, and the hope that one day you can tie up their unfinished…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="betrothed.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Betrothed</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Your parents made a deal, and as part of that deal, you&#39;re supposed to marry someone—or something—you didn&#39;t choose. But no one is going to tell you what to do! They&#39;ll all be sorry to find that you&#39;ve run away to become a mighty adventurer…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="chaos-touched.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Chaos Touched</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You came into contact with a mote of pure chaos energy, or were subjected to a supernatural effect or object that fused chaos into your very being. Now you can sprout and retract your limbs in a way that horrifies unprepared onlookers.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="chosen-one.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Chosen One</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Perhaps the stars marked you out at birth, or maybe your name appears in an ancient prophecy. In any case, a sinister cult has decided that you&#39;re important to their plans—though you don&#39;t particularly like the fate those plans have in stor…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="consuming-interest.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Consuming Interest</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Ever since you were a kid, you&#39;ve been obsessed with a certain topic. During your travels, you spend your free time gleaning all the information you can on that obsession. You might not be the world&#39;s leading expert quite yet, but people sh…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="corrupted-mentor.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Corrupted Mentor</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Your mentor taught you everything and you trusted them completely until they went rogue, betraying you or the organization you both belonged to. Their current whereabouts and activities are unknown, though disturbing rumors are heard from t…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="coward.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Coward</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Some call you a coward, just because you shriek and run when you encounter danger. Sure, you might not have the natural bravado of less-imaginative people. And sure, you&#39;re always imagining the many horrible ways you could die, but you&#39;re u…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="crash-landed.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Crash Landed</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You used to flit around the stars in your own ship. But an ugly run-in with a pirate (or a pirate hunter) has left you marooned on this backwater world. You&#39;re prepared to carve out a life here—at least until you can hitch a ride somewhere…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="cult-victim.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Cult Victim</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Cultists captured you while raiding your home, then began an unholy ritual to turn your body into an undead spirit. Though the ritual failed, your body became infused with corrupted magic, turning you partially incorporeal.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="curse-of-caution.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Curse of Caution</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">When you were young, you did something reckless and unthinking that endangered a hag or cost them something dear. The hag cursed you to always take your time, forcing you to be cautious and thorough—even to your detriment. The curse has sav…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="curse-of-immortality.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Curse of Immortality</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">For as long as you can remember, you&#39;ve never gotten older. You&#39;ve simply adventured through one age after another. Still, your memory of past events—even those you were involved with—is a little hazy. Apparently, your memory isn&#39;t as long-…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="curse-of-misfortune.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Curse of Misfortune</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You should have never pissed off that mage! Maybe they deserved your ire, or maybe you were just being a bully. But whatever the case, they cursed you before skipping town. Now, in moments of pressure that require great skill, you have a te…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="curse-of-poverty.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Curse of Poverty</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">A soothsayer once predicted you would have a long life, even as they told you you&#39;d never be rich. But you&#39;re determined to prove them wrong. You&#39;ll get rich or die trying!</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="curse-of-punishment.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Curse of Punishment</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Through ignorance, fear, spite, or selfishness, you refused to help someone in need. To teach you a lesson, a deity offered you what seemed to be a blessing—extra power to help you heal yourself in times of need, but harsh consequences shou…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="curse-of-stone.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Curse of Stone</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">As a child, you met a creature who turns people to stone, such as a medusa. You escaped half petrified, avoiding the fate of others who stand as statues now.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="cursed-weapon.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Cursed Weapon</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">When you were young, you found or were given a magic weapon. Since then, you&#39;ve carried it always at your side, letting it inspire you to lead the life of a hero—even though the weapon is cursed.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="disgraced.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Disgraced</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You&#39;re a disgraced member of a powerful family or guild, having been turned out by your relatives or peers. Those you were once close to won&#39;t give you the time of day anymore, much less lend a helping hand, until you clear your name or cle…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="dragon-dreams.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Dragon Dreams</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You sometimes have strange dreams of a raging inferno... a gleaming pile of treasure... of spreading your wings and taking flight. You haven&#39;t told anyone about these dreams, except for your one strange relative who seems to know more than…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="elemental-inside.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Elemental Inside</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">When an evil mage threatened someone you loved, you blocked that foe&#39;s summoning of an elemental creature by absorbing their magic with your body. You are now infused with the power of that elemental—who isn&#39;t at all happy about it.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="evanesceria.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Evanesceria</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You have contracted a rare magical disease called evanesceria. From time to time, you&#39;re not quite yourself—or anyone else either. You simply... vanish, then return later with no memory of your absence.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="exile.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Exile</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Whether you&#39;re a convicted criminal, a noble stripped of their title, or a person who made one too many enemies, you&#39;ve been cast forth from your homeland, never to return. At least not until you&#39;re strong enough to set things right.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="fallen-immortal.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Fallen Immortal</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You used to be an immortal creature, dispensing justice and doing the bidding of the gods. Now, whether as punishment or reward, you have been ordered to set your true nature aside and become a mortal. Your remaining years will be short, bu…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="famous-relative.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Famous Relative</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Sure, you&#39;re a promising young hero in your own right—but people always ask you about your famous relative. Will you equal or surpass your relative&#39;s accomplishments, or will you always live in their shadow?</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="feytouched.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Feytouched</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Your birth was attended by faeries. A friendly fairy blessed you, granting you strength so you could defend yourself. In response, an unfriendly fairy granted you a life filled with peril so that you might prove your strength.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="fiery-ideal.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Fiery Ideal</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">A spirit beyond your comprehension instilled in you a special purpose, choosing you to be the guardian of a place, a cause, or a philosophy. The flame that now burns in your soul can sear your enemies—or you if you fall short of expectation…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="fire-and-chaos.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Fire and Chaos</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">A great monster who breathed fire burned your home to the ground. While everything around you was consumed, you somehow stood strong amid the inferno, your body adapting to ignore the effects of the flames.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="following-in-the-footsteps.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Following in the Footsteps</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Your personal idol was a mighty hero, and you have modeled yourself after them. From studying the many heroic tales told of them, you hope to someday learn your idol&#39;s most famous battle technique.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="forbidden-romance.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Forbidden Romance</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You are in love with someone powerful, but tragic circumstances mean you cannot be with them. Whether your lover is from a feuding family, betrothed to another, or has been driven from your side, you are fated to always be apart.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="frostheart.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Frostheart</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">At the edge of the world, you were lost in a winter storm and presumed dead. But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="getting-too-old-for-this.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Getting Too Old for This</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You were once a renowned hero, but you&#39;ve been living the last few years in blissful peace. Now you&#39;re coming out of retirement for one last hurrah. Your fighting skills might have atrophied to the point where you&#39;re no stronger than a wet-…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="gnoll-mauled.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Gnoll-Mauled</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">As a child, you survived a gnoll attack. But that attack left you with a jagged scar and the occasional fit of bloodlust.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="greening.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Greening</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You once felt the call of a great tree in the middle of a forest, whose life force was being drained by a parasitic supernatural moss clinging to its roots. As you removed the moss, you felt as if you were being filled with green elemental…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="grifter.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Grifter</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You used to be a con artist, but those days are pretty much behind you. Being a hero is an even better racket. After all, if you&#39;re saving the world, who can be mad at you for stealing a few coins along the way?</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="grounded.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Grounded</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Once when you were a child, your settlement was in danger and you called out to the earth for aid. That call was answered by a summoning of protective dirt-and-stone walls, and ever since then, you&#39;ve felt the earth&#39;s presence as a friend a…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="guilty-conscience.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Guilty Conscience</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">The world is in trouble—and it&#39;s partly your fault. Maybe you helped a villain rise to power or inadvertently released a demon from imprisonment. Now it&#39;s your mission to repair the damage you caused.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="hawk-rider.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Hawk Rider</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You travel with a giant hawk who you stole from the Hawklords (see Vasloria in Chapter 1: The Basics). You might once have been a Hawklord yourself, or perhaps you escaped their captivity. Having a giant hawk companion comes with its share…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="host-body.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Host Body</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">&#34;Do not be alarmed! We are not the humanoid we appear to be. We are an intelligent fungal collective, using this body as a host. No, we are doing nothing unsavory! This body was dead when we found it, and we merely gave it another chance at…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="hunted.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Hunted</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You have long stayed one step ahead of a pursuer—perhaps a bounty hunter determined to bring you to justice, a revenant, or an assassin intent on your death. Someday, you&#39;ll be strong enough to face your pursuer. But for now, you live your…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="hunter.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Hunter</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You are hunting someone or something—perhaps a wanted criminal, a person who wronged you, or a dangerous monster or beast. You won&#39;t rest until you face off against your quarry!</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="indebted.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Indebted</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">A deal you made went south, or you got involved with the wrong people. Now you owe a debt or a ransom that would bankrupt a minor noble. To pay it off, you&#39;ll need to take some dangerous risks.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="infernal-contract-but-like-bad.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Infernal Contract... But, Like, Bad</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You made a deal with a devil. Not a very good deal, because it wasn&#39;t a very good devil. It&#39;s too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the devil to void the deal.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="infernal-contract.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Infernal Contract</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You made a deal (perhaps unknowingly) with an archdevil that has tied you to that fiend&#39;s service. When you first learned of this deal, you were taken to the Seven Cities of Hell, where some of the timescape&#39;s best minds taught you the ways…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="ivory-tower.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Ivory Tower</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You studied in an academy or other educational institution. Your training was thorough and your reading list was wide-ranging. But when you left school, you discovered there were serious gaps in your education. Maybe some of those books wer…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="lifebonded.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Lifebonded</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">In a sinister ritual, your soul has been bound to that of another creature. This might be a companion, a creature you are beholden to, or an enemy. When they die, you die—making you the perfect bodyguard.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="lightning-soul.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Lightning Soul</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You were caught in a storm and struck by lightning—but something saved you from death. Perhaps it was a gods—given miracle, a latent psionic gift, or the magic of a helpful elementalist, but you absorbed the lightning into your body. It&#39;s a…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="loner.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Loner</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You&#39;ve always been a lone wolf. With no one else to lean on, you&#39;ve picked up a million survival tricks. Which made it all the more surprising when you joined your current adventuring group and found the family you&#39;d never known you needed.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="lost-in-time.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Lost in Time</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">In a long-ago age, a cataclysm overtook your city. You weren&#39;t killed, but some arcane accident caused you to be suspended in time until now. Alone, you must navigate the world around you with a head full of outdated memories—and a few anci…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="lost-your-head.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Lost Your Head</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">A bredbeddle stole your head! Usually, being beheaded by one of those magical giants is fatal (see Draw Steel: Monsters), but your latent psionic ability allows you to survive despite your decapitation.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="lucky.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Lucky</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You&#39;ve always had a lucky streak. When you leave things in the hands of fate, you succeed more than you fail. But luck is fickle—and when you don&#39;t trust it, it deserts you.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="master-chef.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Master Chef</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Before you were a hero, you were a chef—and when you retire, you have big plans for your next restaurant or inn. In the meantime, you&#39;re on the lookout for rare ingredients that only a wandering adventurer can find. After all, it&#39;s food tha…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="meddling-butler.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Meddling Butler</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You&#39;re not sure what you did to deserve it, but for some reason, your family saddled you with an old, trusted, and extremely irritating family servant. They&#39;re supremely competent, of course, but they sometimes seem to forget who&#39;s in charg…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="medium.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Medium</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You can perceive ghosts and spirits that others don&#39;t sense. These supernatural entities constantly whisper unsettling secrets in your mind—when they&#39;re not trying to kill you.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="medusa-blood.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Medusa Blood</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Your mother and father never saw eye to eye. You know this because your father is still alive and your mother is a medusa. This made your childhood difficult, and now it&#39;s making your adulthood complicated as well.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="misunderstood.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Misunderstood</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Your appearance marks you as part of a group that is universally feared. You might be a gentle soul, but you&#39;re not often given a chance to prove it. It&#39;s no wonder you usually wear a hood.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="mundane.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Mundane</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You&#39;re hopelessly nonmagical. When you try to use magic abilities, or even when they&#39;re used on you, they never work right. Even magic devices seem to fizzle in your presence.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="outlaw.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Outlaw</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You might be a common bandit or an idealistic freedom fighter, but in any event, the authorities don&#39;t approve of your actions. You&#39;ve managed to stay one step ahead of the law so far, but until your name is cleared, you&#39;ve got to keep a lo…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="pirate.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Pirate</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You have a piratical past (and maybe a piratical present and future as well). Though you&#39;re not well-known ashore, other pirates have a way of recognizing their own.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="preacher.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Preacher</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">When you were young, you almost died in an accident or attack, but a vision of a god or saint showed you the way to save yourself and others you loved. That event drove you into the church and gave you a strong belief in a particular religi…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="primordial-sickness.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Primordial Sickness</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You once contracted a terrible illness for which no one could find a cure. You sought out a primordial swamp said to be either cursed or miraculously salubrious. It turned out to be both, keeping your illness at bay while corrupting your bo…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="prisoner-of-the-synlirii.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Prisoner of the Synlirii</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You were captured by the psionic beings known as voiceless talkers (see Draw Steel: Monsters). You escaped them, but you can&#39;t escape a feeling that&#39;s lingered since then in the back of your mind-the feeling of being watched.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="promising-apprentice.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Promising Apprentice</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You were apprenticed to learn a crafting trade. Your mentor said you had a special gift and might well become a master of your craft someday. But before your training was complete, your mentor was killed.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="psychic-eruption.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Psychic Eruption</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">In times of stress, you get headaches. Psionic energy builds up in your mind until you feel as though your head might explode. And if you&#39;re not careful, it actually does explode, radiating psychic waves that harm friends and enemies alike.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="raised-by-beasts.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Raised by Beasts</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes, bears, or wolves) took you in. Returning to so-called civilization was a shock, but you&#39;re now determined to learn all you can about your own kind.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="refugee.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Refugee</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">A hostile army—perhaps the forces of Ajax, the Iron Saint—conquered your homeland. Your family escaped, but you can&#39;t return home until your oppressors are defeated once and for all.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="rival.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Rival</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Whatever your accomplishments, you&#39;ll forever measure yourself against a former companion who always seemed to stay one step ahead of you.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="rogue-talent.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Rogue Talent</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You are the only survivor of a cataclysmic psionic event—an experiment gone wrong, a voiceless talker attack, or some naturally occurring phenomenon of a far-off part of the timescape. It left you with a psionic talent, but also made you vu…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="runaway.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Runaway</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">To your embarrassment, no sinister omens attended your birth and your closet contains no skeletons. You&#39;re just an ordinary person raised in a hardworking family. You&#39;re expected to carry on the family business—but who can settle down to a…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="searching-for-a-cure.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Searching for a Cure</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Your homeland has been corrupted by some terrible curse or plague, and you&#39;re the only one who escaped it. The members of your family still exist, but in changed forms—perhaps as vampire spawn, zombies, or living statues. People tell you th…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="secret-identity.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Secret Identity</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You&#39;re secretly important—but it&#39;s not safe for your true identity to be known. Perhaps you&#39;re the witness to a crime or a member of a royal family on the run from a usurper. Until you are no longer at risk of being hunted, you&#39;ll maintain…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="secret-twin.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Secret Twin</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You have an identical twin—either a sibling or someone who looks so much like you that no one would ever know the difference. Your secret twin had a life you coveted, or perhaps had obligations that couldn&#39;t go unfulfilled. So when they wen…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="self-taught.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Self-Taught</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">While your peers were learning their trades in fancy schools, you honed your capabilities on the mean streets with nothing but your own instinct as a guide. What you lost in polish and tactical acumen, you now make up for in raw power.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="sewer-folk.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Sewer Folk</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Impoverished or on the run, you spent your formative years living in the sewers of a major city. There, you learned lessons that have served you well, although the miasma of the sewers did permanent damage to your health.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="shadow-born.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Shadow Born</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You were born in the dusk land ruled by the Queen of Shadows, and its darkness has seeped into your bones. (See The Myriad Worlds of the Timescape in Chapter 1: The Basics.)</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="shared-spirit.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Shared Spirit</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">A supernatural spirit occupies your body, with each of you controlling your body by turns. You and the spirit share the same short-term goals and work equally well with your companions, though you might have different personalities, manneri…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="shattered-legacy.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Shattered Legacy</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You&#39;re the heir to a powerful supernatural treasure that has been in your family for generations. One problem, though: that treasure is broken. Some ancestor of yours sundered it while saving the world. Or maybe they tripped and smashed it…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="shipwrecked.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Shipwrecked</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You are the sole survivor of a shipwreck that left you stranded on a remote and inhospitable island for years. Your struggle to survive there granted you insight into the natural world but distanced you from who you once were.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="siblings-shield.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Sibling&#39;s Shield</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You were tasked with delivering a ceremonial shield to your older sibling, a celebrated warrior, for their years of service. When you arrived at their homestead, you found them dead on their doorstep with their own sword lodged in their bac…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="silent-sentinel.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Silent Sentinel</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You were trained by a group of spies, who psionically infused silence into your every step and enhanced your ability to hear distant whispers. But your enhanced hearing has some nasty side effects.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="slight-case-of-lycanthropy.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Slight Case of Lycanthropy</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Maybe you were bitten as a child, or maybe it&#39;s a family curse. Either way, you have a malady that is best not discussed in public, lest torches and pitchforks make an appearance.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="stolen-face.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Stolen Face</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">An evil fairy cursed you, leaving you with a blank visage instead of a face. Although you&#39;re able to imitate other peoples&#39; features, you&#39;d like to have your own back.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="strange-inheritance.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Strange Inheritance</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Your siblings each inherited money or land, but you received a strange, seemingly useless trinket—along with the advice that maybe you weren&#39;t cut out for an ordinary, peaceful life.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="stripped-of-rank.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Stripped of Rank</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You were trained as an officer, but you no longer serve. Whether you fled from a battle, were dishonorably discharged, or defected from an evil army, you make your own way in the world now—though your military training will never truly leav…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="thrill-seeker.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Thrill Seeker</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You live for danger. Whether in battle or mundane peril, you can transcend your usual limits—and once you&#39;ve tasted that excitement, you want more.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="vampire-scion.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Vampire Scion</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">A vampire has bitten you. You&#39;re not undead—or not yet, anyway—but your connection with your vampire progenitor fills you with urges you fight to control.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="voice-in-your-head.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Voice in Your Head</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You occasionally hear a voice in your head, giving you orders or offering advice. You don&#39;t know who the voice is or why it comes to you, but when you&#39;ve followed the advice, it&#39;s usually proved to be sound.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="vow-of-duty.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Vow of Duty</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You have sworn an oath to an organization. That organization is your rock, and as long as your faith in it remains unshaken, you are immovable.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="vow-of-honesty.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Vow of Honesty</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You were brought up to a strict standard of behavior. You cannot tell a lie.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="waking-dreams.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Waking Dreams</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You broke a magic amulet, immersing your mind in weird energy that granted you the power of premonition. However, you struggle to control this new gift. Whenever you take a respite, make a Reason test to determine whether you gain this comp…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="war-dog-collar.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">War Dog Collar</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You wear a loyalty collar from one of Ajax&#39;s war dogs (see Draw Steel: Monsters). You&#39;ve managed to rig the collar so it explodes outward while keeping you safe.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="war-of-assassins.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">War of Assassins</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Being in the wrong place at the wrong time saw you caught in the middle of a conflict between two warring assassins&#39; guilds. Whether by choice or by accident, you wound up helping one faction at the expense of the other.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="ward.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Ward</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Your childhood sweetheart was royalty, and the two of you stayed close throughout the years. When your former sweetheart died, you swore an oath to dedicate your life to become a role model for their child, advising them in the ways of bein…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="waterborn.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Waterborn</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You nearly lost your life at sea, but then you heard the voice. Someone—or something—in the water called out to you, telling you to swim. The ocean was suddenly no longer your doom but your parent, granting you a fragment of its power. But…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="wodewalker.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Wodewalker</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You were dying in the wode, collapsing while starving and wounded. When you woke, you discovered that a group of green elementalists had saved your life by infusing the regenerative bark of a tree to your body.</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="wrathful-spirit.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Wrathful Spirit</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You&#39;re quick to anger, never letting an insult go without slinging one right back. In combat, you fight as if possessed by a literal spirit of wrath. No matter the tactical circumstances, when someone injures you, you feel compelled to answ…</div>
+</div>
+</a>
+<a class="sc-card sc-card--wide sc-fil" href="wrongly-imprisoned.md">
+  <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></span></span>
+  <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Wrongly Imprisoned</div></div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You spent many years imprisoned for a crime you didn&#39;t commit. During your long hours of solitary confinement, you honed your skills and recited the names of those who framed you. Someday, you will have your revenge.</div>
+</div>
 </a>
 </div>

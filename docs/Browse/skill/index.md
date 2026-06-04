@@ -85,7 +85,7 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></span></span>
     <div><div class="sc-card__type">Skill</div>
     <div class="sc-card__name">Eavesdrop</div></div></div>
-  <div class="sc-card__blurb">Actively listen to something that is hard to hear, such as a whispered conversation through a do…</div>
+  <div class="sc-card__blurb">Actively listen to something that is hard to hear, such as a whispered conversation through a door.</div>
 </a>
 <a class="sc-card sc-fil" href="empathize.md">
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></span></span>
