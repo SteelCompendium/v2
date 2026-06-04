@@ -28,7 +28,7 @@ To override generated content, place your file at the same relative path under `
 
 ## Naming
 
-- JavaScript files: kebab-case (`scc-permalink-copy.js`, `browse-enhancements.js`)
+- JavaScript files: kebab-case (`scc-headerlinks.js`, `browse-enhancements.js`)
 - CSS files: snake_case (`custom_font.css`, `palette.css`) -- legacy convention
 - Jinja2 overrides: match mkdocs-material's naming (`main.html`, `partials/content.html`)
 

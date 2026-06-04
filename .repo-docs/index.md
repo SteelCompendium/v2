@@ -75,7 +75,7 @@ v2/
 ## Current Status
 
 - **Health:** active development
-- **Last significant change:** Retired the SCC address-bar rewrite (2026-05-31) -- it broke mkdocs-material's search/sitemap fetch on direct page loads; SCC links are now stable redirect stubs + self-canonical + a "Copy permalink" button (supersedes the 2026-05-23 permalink system)
+- **Last significant change:** SCC-aware heading permalinks (2026-06-04) -- the native heading ¶ icons now copy permalinks (stable `/scc/<code>/` on coded headings via `data-scc`, friendly `#anchor` otherwise); replaced the page-title "Copy permalink" button. Builds on the retired address-bar rewrite (2026-05-31) and the redirect-stub + self-canonical layers. See `decisions/2026-06-04-scc-heading-permalinks.md`.
 - **Known blockers:** None
 - **Known issues:** None
 

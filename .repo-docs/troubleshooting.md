@@ -32,11 +32,15 @@ updated: 2026-05-31
 
 **Fix:** Resolved by retiring the rewrite (ADR 2026-05-31). The friendly URL now stays in the bar, matching the built path, so `config.base` resolves to the true root. If this regresses, confirm nothing is calling `history.replaceState`/`pushState` to change the page's path.
 
-### "Copy permalink" button not appearing
+### Heading ¶ icon copies the wrong link (or no SCC link)
 
-**Symptom:** No "🔗 Copy permalink" button next to the page title.
+**Symptom:** Clicking a heading's ¶ anchor copies a friendly `#anchor` URL where you expected a stable `/scc/<code>/` link (or vice versa).
 
-**Check:** Verify the page has `scc` in its YAML frontmatter (so `overrides/main.html` emits `<meta name="scc-permalink">`). Verify `scc-permalink-copy.js` is listed in `mkdocs.yml` `extra_javascript`. The button is appended to the first `.md-content h1`, so it only appears on content pages that have an `<h1>`.
+**Check:**
+- An SCC-coded heading must carry a `data-scc` attribute on its `<hN>` (emitted by `steel-etl` `RenderSubtree` for sections that classify to a code). View source: structural headings (e.g. "1st-Level Features") intentionally have no `data-scc` and copy the friendly `#anchor` — that is correct.
+- SCC links are composed from `<meta name="scc-base">` (every page) as `${scc-base}${code}/`; the H1 uses `<meta name="scc-permalink">` (only on pages with an `scc` frontmatter field). Confirm `overrides/main.html` emits both metas.
+- Verify `scc-headerlinks.js` is listed in `mkdocs.yml` `extra_javascript`. It wires `a.headerlink` under `document$`, so it depends on `toc: permalink: true` rendering the ¶ anchors.
+- SCC-backed anchors get the `.headerlink--scc` accent class; if styling is missing, check `docs/stylesheets/extra.css`.
 
 ### Content changes not appearing
 

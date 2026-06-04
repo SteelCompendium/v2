@@ -66,10 +66,11 @@ For every page with an `scc` frontmatter field, generates `docs/scc/{scc-code}/i
 
 Overrides mkdocs-material's `{% block site_meta %}` to emit `<link rel="canonical">` pointing to the page's own friendly URL (`page.canonical_url`). The SCC URL is *not* used as canonical — it is a `noindex` redirect stub, so pointing canonical at it would be circular. Search engines index the friendly page.
 
-**Layer 3: Copy affordance** (JavaScript, `docs/javascripts/scc-permalink-copy.js`)
+**Layer 3: Copy affordance** (JavaScript, `docs/javascripts/scc-headerlinks.js`)
 
-- `overrides/main.html` (`{% block extrahead %}`) emits `<meta name="scc-permalink">` with the SCC URL on pages that have an `scc` field.
-- `scc-permalink-copy.js` reads that meta and renders a "🔗 Copy permalink" button next to the page `<h1>`. Clicking it copies the stable SCC URL to the clipboard. Uses `document$.subscribe` so it works under instant navigation. The address bar is **not** modified.
+- `overrides/main.html` (`{% block extrahead %}`) emits `<meta name="scc-permalink">` (page-level SCC URL, on pages that have an `scc` field) and `<meta name="scc-base">` (`{site_url}scc/`, on every page).
+- The pipeline (`steel-etl` `RenderSubtree`) marks each SCC-coded subheading with a `{data-scc="<code>"}` attr_list attribute on the rendered `<hN>`.
+- `scc-headerlinks.js` reuses mkdocs-material's native heading-anchor (¶ `.headerlink`) icon as the copy affordance: the H1 ¶ copies the page `scc-permalink`; a heading with `data-scc` copies the stable `${scc-base}${code}/`; any other (structural) heading copies the friendly page URL + `#anchor`. Clicking copies to the clipboard **and** keeps the native jump-to-anchor. SCC-backed anchors get `.headerlink--scc` (accent styling). Uses `document$.subscribe` so it works under instant navigation. The address bar is **not** modified. See decision `2026-06-04-scc-heading-permalinks.md`.
 
 ### URL flow
 
@@ -78,7 +79,7 @@ Initial page load:
   browser requests /v2/Browse/class/fury/
   -> server returns friendly page HTML
   -> address bar stays /v2/Browse/class/fury/ (canonical, indexable)
-  -> "Copy permalink" button copies /v2/scc/mcdm.heroes.v1/class/fury/
+  -> the heading ¶ icons copy stable SCC URLs (e.g. /v2/scc/mcdm.heroes.v1/class/fury/)
 
 SCC permalink visit (shared link):
   browser requests /v2/scc/mcdm.heroes.v1/class/fury/
@@ -90,7 +91,7 @@ SCC permalink visit (shared link):
 
 ### Theme overrides (`overrides/`)
 
-- `main.html`: extends `base.html` -- owns `site_meta` block (self-canonical link), `extrahead` block (`scc-permalink` meta, font preference restoration)
+- `main.html`: extends `base.html` -- owns `site_meta` block (self-canonical link), `extrahead` block (`scc-permalink` + `scc-base` metas, font preference restoration)
 - `partials/content.html`: content area layout
 - `partials/toc.html`: table of contents layout
 
@@ -100,7 +101,7 @@ Synced with mkdocs-material 9.7.6. If upgrading, re-check `site_meta` block shap
 
 | File | Purpose |
 |------|---------|
-| `scc-permalink-copy.js` | "Copy permalink" button that copies the stable SCC URL |
+| `scc-headerlinks.js` | Reuses the heading ¶ icons to copy permalinks: stable SCC URL on `data-scc` headings, friendly `#anchor` otherwise |
 | `ability-cards.js` | Ability card rendering enhancements |
 | `browse-enhancements.js` | Browse section UX improvements |
 | `keyboard-nav.js` | Keyboard navigation support |
