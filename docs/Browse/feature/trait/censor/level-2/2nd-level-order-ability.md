@@ -16,7 +16,7 @@ Your [censor order](../level-1/censor-order.md) grants your choice of one of two
 
 Choose one of the following abilities.
 
-### It Is Justice You Fear
+### It Is Justice You Fear {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/it-is-justice-you-fear"}
 
 
 *I am but a vessel. Your own deeds weigh upon you.*
@@ -33,7 +33,7 @@ Choose one of the following abilities.
 
 **Effect:** If the target is already [frightened](../../../../condition/frightened.md) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
 
-### Revelator
+### Revelator {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/revelator"}
 
 
 *You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](../../../ability/censor/level-1/judgment.md).*
@@ -48,7 +48,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Prescient Grace
+### Prescient Grace {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/prescient-grace"}
 
 
 *Gifted by a prescient vision, you warn an ally of an impending attack.*
@@ -61,7 +61,7 @@ Choose one of the following abilities.
 
 **Effect:** You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.
 
-### With My Blessing
+### With My Blessing {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/with-my-blessing"}
 
 
 *A word in prayer, and the gods show the way.*
@@ -76,7 +76,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Blessing of the Faithful
+### Blessing of the Faithful {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/blessing-of-the-faithful"}
 
 
 *The gods reward your faith.*
@@ -87,7 +87,7 @@ Choose one of the following abilities.
 
 **Effect:** Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.
 
-### Sentenced
+### Sentenced {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/sentenced"}
 
 
 *The shock of your condemnation freezes your enemy in their boots.*

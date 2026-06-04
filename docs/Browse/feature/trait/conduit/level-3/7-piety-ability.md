@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 7 piety to use.
 
-## Fear of the Gods
+## Fear of the Gods {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/fear-of-the-gods"}
 
 
 *Your divine magic makes a creature appear as what your enemies fear most.*
@@ -29,7 +29,7 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 
 **Effect:** Each target is [frightened](../../../../condition/frightened.md) of you or a creature you choose within distance.
 
-## Saint's Raiment
+## Saint's Raiment {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/saints-raiment"}
 
 
 *An ally becomes the wearer of an empowered golden cloak.*
@@ -40,7 +40,7 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 
 **Effect:** The target gains 20 temporary Stamina and 3 surges.
 
-## Soul Siphon
+## Soul Siphon {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/soul-siphon"}
 
 
 *A beam of energy connects a foe to a friend, draining life from one to heal the other.*
@@ -57,7 +57,7 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 
 **Effect:** One ally within distance can spend any number of Recoveries.
 
-## Words of Wrath and Grace
+## Words of Wrath and Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/words-of-wrath-and-grace"}
 
 
 *Your saint grants your enemies a vision of pain and fills your allies with healing energy.*

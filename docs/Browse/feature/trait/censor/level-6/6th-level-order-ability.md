@@ -16,7 +16,7 @@ Your [censor order](../level-1/censor-order.md) grants your choice of one of two
 
 Choose one of the following abilities.
 
-### Begone!
+### Begone! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/begone"}
 
 
 *You terrify your enemies into retreating, creating chaos in their ranks.*
@@ -31,7 +31,7 @@ Choose one of the following abilities.
 - **12-16:** 6 psychic damage; slide 5
 - **17+:** 8 psychic damage; slide 7
 
-### Pain of Your Own Making
+### Pain of Your Own Making {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/pain-of-your-own-making"}
 
 
 *You reverse the effects from an evildoer.*
@@ -48,7 +48,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Burden of Evil
+### Burden of Evil {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil"}
 
 
 *You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*
@@ -63,7 +63,7 @@ Choose one of the following abilities.
 - **12-16:** Slide 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
 - **17+:** Slide 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 
-### Edict of Peace
+### Edict of Peace {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/edict-of-peace"}
 
 
 *You anticipate your foes' moves and deny them.*
@@ -78,7 +78,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Congregation
+### Congregation {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/congregation"}
 
 
 *You focus your allies' wrath on a chosen foe.*
@@ -95,7 +95,7 @@ Choose one of the following abilities.
 
 **Effect:** Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 surges before making the strike.
 
-### Intercede
+### Intercede {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/intercede"}
 
 
 *You take your ally's place.*

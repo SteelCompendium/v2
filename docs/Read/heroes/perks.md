@@ -37,27 +37,27 @@ Whenever a feature allows you to gain a perk, that feature tells you which type 
 
 This section presents crafting perks in alphabetical order.
 
-#### Area of Expertise
+#### Area of Expertise {data-scc="mcdm.heroes.v1/perk/area-of-expertise"}
 
 Choose one skill you already have from the crafting skill group. Whenever you obtain a tier 1 outcome on an easy or medium test using this skill, you treat it as a tier 2 outcome instead. Additionally, if you spend 1 minute inspecting an object related to the chosen skill, you can estimate its value and learn of any flaws in its construction.
 
-#### Expert Artisan
+#### Expert Artisan {data-scc="mcdm.heroes.v1/perk/expert-artisan"}
 
 Whenever you make a test as part of a crafting or research project that uses a skill you already have from the crafting skill group, you can make the power roll twice and use either roll.
 
-#### Handy
+#### Handy {data-scc="mcdm.heroes.v1/perk/handy"}
 
 Whenever you make a test to craft something and don't have a skill that applies to the test, you gain a +1 bonus to the power roll.
 
-#### Improvisation Creation
+#### Improvisation Creation {data-scc="mcdm.heroes.v1/perk/improvisation-creation"}
 
 Without needing to make a test—and even without tools—you can quickly jury-rig or repair a mundane item or piece of equipment related to a skill you have from the crafting skill group. That item lasts for 1 hour or works for one use or activation (whichever comes first, as the Director determines), then breaks beyond repair. For example, if you have the Carpentry skill, you could repair a rickety wooden bridge long enough for a group of creatures to cross it, or build a simple shovel made of wood that can be used for 1 hour.
 
-#### Inspired Artisan
+#### Inspired Artisan {data-scc="mcdm.heroes.v1/perk/inspired-artisan"}
 
 When you make a project roll using a skill from the crafting skill group, you can spend a hero token to make another project roll for the same project as part of the same respite activity. You can't use this perk more than once per respite.
 
-#### Traveling Artisan
+#### Traveling Artisan {data-scc="mcdm.heroes.v1/perk/traveling-artisan"}
 
 On any day when you don't take a respite, you can spend 1 uninterrupted hour working on a crafting project using a skill you have from the crafting skill group. If you do so, you gain 1d10 project points toward that project.
 
@@ -71,43 +71,43 @@ On any day when you don't take a respite, you can spend 1 uninterrupted hour wor
 
 This section presents exploration perks in alphabetical order.
 
-#### Brawny
+#### Brawny {data-scc="mcdm.heroes.v1/perk/brawny"}
 
 Whenever you fail a Might test, you can lose Stamina equal to 1d6 + your level to improve the outcome of the test by one tier. You can use this perk only once per test.
 
-#### Camouflage Hunter
+#### Camouflage Hunter {data-scc="mcdm.heroes.v1/perk/camouflage-hunter"}
 
 Whenever you are in wilderness, once you are hidden from a creature, you don't need cover or concealment to stay hidden from them.
 
-#### Danger Sense
+#### Danger Sense {data-scc="mcdm.heroes.v1/perk/danger-sense"}
 
 Whenever you are in a natural environment (but not in a settlement in that environment), you gain an edge on tests made using the Alertness skill, and you can't be surprised. Additionally, you have a connection to nature that warns you if any natural disaster is imminent within the next 72 hours, though you don't know exactly what it will entail (an earthquake, a wildfire, and so forth).
 
-#### Friend Catapult
+#### Friend Catapult {data-scc="mcdm.heroes.v1/perk/friend-catapult"}
 
 As a maneuver, you grab a willing adjacent ally or object of your size or smaller, then vertical push that target up to a number of squares equal to twice your Might score. If a creature you push falls as a result of this movement, the effective distance of the fall is reduced by a number of squares equal to twice your Might score. When you use this perk, you can't use it again until you earn 1 or more Victories.
 
-#### I've Got You!
+#### I've Got You! {data-scc="mcdm.heroes.v1/perk/ive-got-you"}
 
 Whenever a willing ally falls and would land on you or adjacent to you, you can safely catch them as a free triggered action. Neither of you takes damage from the ally's fall.
 
-#### Monster Whisperer
+#### Monster Whisperer {data-scc="mcdm.heroes.v1/perk/monster-whisperer"}
 
 You can use the Handle Animals skill to interact with nonsapient creatures who are not animals.
 
-#### Put Your Back Into It!
+#### Put Your Back Into It! {data-scc="mcdm.heroes.v1/perk/put-your-back-into-it"}
 
 During montage tests, whenever you make a test to assist a test and obtain a tier 1 outcome, the assisted test doesn't take a bane. Additionally, once per montage test, you can turn an ally's tier 1 test outcome into a tier 2 outcome.
 
-#### Team Leader
+#### Team Leader {data-scc="mcdm.heroes.v1/perk/team-leader"}
 
 At the start of a group test or montage test, you can spend a hero token. If you do, all participants make tests as if they also had any skill you have from the exploration group.
 
-#### Teamwork
+#### Teamwork {data-scc="mcdm.heroes.v1/perk/teamwork"}
 
 When you take your first turn during any montage test, you can both make a test and assist another hero's test.
 
-#### Wood Wise
+#### Wood Wise {data-scc="mcdm.heroes.v1/perk/wood-wise"}
 
 When you make a test using a skill from the exploration skill group and at least one of the d10s rolled is a 1, you can reroll one d10. You can use this perk only once per test.
 
@@ -115,43 +115,43 @@ When you make a test using a skill from the exploration skill group and at least
 
 This section presents interpersonal perks in alphabetical order.
 
-#### Charming Liar
+#### Charming Liar {data-scc="mcdm.heroes.v1/perk/charming-liar"}
 
 If you fail a test using the Lie skill, you don't suffer any consequences associated with the failure. Additionally, during a negotiation, you can be caught in one lie without negative consequences. When you use either benefit of this perk, you can't use this perk again until you earn 1 or more Victories.
 
-#### Dazzler
+#### Dazzler {data-scc="mcdm.heroes.v1/perk/dazzler"}
 
 Whenever a creature watches you sing, dance, or perform a role (as an actor, not just in disguise) for 1 uninterrupted minute or more, you gain an edge on any test made to influence that creature for 1 hour after the performance ends.
 
-#### Engrossing Monologue
+#### Engrossing Monologue {data-scc="mcdm.heroes.v1/perk/engrossing-monologue"}
 
 Whenever you are not in combat, you can shout to get the attention of hearing creatures within 10 squares of you. Each such creature who is not hostile toward you listens to what you have to say for 1 uninterrupted minute or more, or until they sense danger or any form of imminent harm. While creatures are listening to you, each of your allies gains an edge on tests made to avoid being noticed by those creatures.
 
-#### Harmonizer
+#### Harmonizer {data-scc="mcdm.heroes.v1/perk/harmonizer"}
 
 You can make a Presence test using the Music skill to influence creatures who don't have emotions or can't understand you. Additionally, once during a negotiation when an ally makes an argument, you can play music to give that ally an edge on their test.
 
-#### Lie Detector
+#### Lie Detector {data-scc="mcdm.heroes.v1/perk/lie-detector"}
 
 In response to another creature communicating information to you, you can spend a hero token to determine whether that information contained any knowing lies. If so, you know what the lies are, but not what the truth is.
 
-#### Open Book
+#### Open Book {data-scc="mcdm.heroes.v1/perk/open-book"}
 
 Whenever you speak one-on-one with a creature, you can ask them one question about themself that might typically offend them or raise suspicion. If they choose not to answer honestly, they simply deflect or redirect the question, with no further complications. If they choose to answer honestly, the creature can immediately ask you a question about yourself in turn, which you must answer honestly.
 
-#### Pardon My Friend
+#### Pardon My Friend {data-scc="mcdm.heroes.v1/perk/pardon-my-friend"}
 
 When an ally within 5 squares fails a Presence test, you can step in and make a Presence test that takes a bane, with your roll replacing the ally's roll. This perk can be used only once per test, even if more than one character has it.
 
-#### Power Player
+#### Power Player {data-scc="mcdm.heroes.v1/perk/power-player"}
 
 Whenever you make a test that uses the [Brag](../../Browse/skill/brag.md), [Flirt](../../Browse/skill/flirt.md), or [Intimidate](../../Browse/skill/intimidate.md) skills, you can use Might instead of any other characteristic the test calls for.
 
-#### So Tell Me...
+#### So Tell Me... {data-scc="mcdm.heroes.v1/perk/so-tell-me"}
 
 Whenever you succeed on a Presence test to influence one or more creatures, you can ask one creature you influenced a follow-up question after the test resolves, which they must answer honestly. At the Director's discretion, the creature doesn't have to answer the question completely—or at all—if the response would put them or a loved one in danger.
 
-#### Spot the Tell
+#### Spot the Tell {data-scc="mcdm.heroes.v1/perk/spot-the-tell"}
 
 Whenever you make a test to read a person and obtain a tier 3 outcome, you notice several tells that give away their true feelings. Any test you make to read that person in the future gains an edge.
 
@@ -159,27 +159,27 @@ Whenever you make a test to read a person and obtain a tier 3 outcome, you notic
 
 This section presents intrigue perks in alphabetical order.
 
-#### Criminal Contacts
+#### Criminal Contacts {data-scc="mcdm.heroes.v1/perk/criminal-contacts"}
 
 You have access to a network of [criminal contacts](../../Browse/perk/criminal-contacts.md). As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a Presence test. On a tier 2 outcome, you learn one piece of information that would be common among criminals—the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves' guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be uncommon among criminals as long as such information exists—the location of a local treasure cache, the location of a murder weapon used in a noble's assassination, the name of an NPC secretly bankrolling a local assassin's guild, and so forth.
 
-#### Forgettable Face
+#### Forgettable Face {data-scc="mcdm.heroes.v1/perk/forgettable-face"}
 
 If you spend 10 minutes or less interacting with a creature who hasn't met you before, you can cause them to forget your face when you part. If asked to describe you, the creature gives only a vague, blank, and unhelpful description. Additionally, if you spend 1 hour or more assembling a disguise, you automatically obtain a tier 2 outcome on any test that could make use of the Disguise skill. If you have the Disguise skill, you automatically obtain a tier 3 outcome on the test.
 
-#### Gum Up the Works
+#### Gum Up the Works {data-scc="mcdm.heroes.v1/perk/gum-up-the-works"}
 
 Whenever a mundane trap activates within 3 squares, you can use a triggered action to move up to 3 squares toward it. If this movement brings you adjacent to any of the trap's mechanisms, you can jam the trap, preventing it from activating. As long as you stay adjacent to the mechanism, the trap can't go off unless an attempt to disarm it fails.
 
-#### Lucky Dog
+#### Lucky Dog {data-scc="mcdm.heroes.v1/perk/lucky-dog"}
 
 Whenever you fail a test using any skill from the intrigue skill group, you can lose Stamina equal to 1d6 + your level to improve the outcome of the test by one tier. You can use this perk only once per test.
 
-#### Master of Disguise
+#### Master of Disguise {data-scc="mcdm.heroes.v1/perk/master-of-disguise"}
 
 You can don or remove a disguise as part of any test you make using the Hide skill, or while using the Hide maneuver.
 
-#### Slipped Lead
+#### Slipped Lead {data-scc="mcdm.heroes.v1/perk/slipped-lead"}
 
 You gain an edge on tests made to escape bonds. Given 1 uninterrupted minute, you can escape any mundane bonds without making a test. Additionally, it's not immediately obvious when you've escaped bonds until you do something that makes it clear you have done so (cast them off, use an ability that harms one or more creatures, and so forth).
 
@@ -187,19 +187,19 @@ You gain an edge on tests made to escape bonds. Given 1 uninterrupted minute, yo
 
 This section presents lore perks in alphabetical order.
 
-#### But I Know Who Does
+#### But I Know Who Does {data-scc="mcdm.heroes.v1/perk/but-i-know-who-does"}
 
 Whenever you fail a test to recall lore using a skill from the lore skill group, you instinctively recall the nearest location where the information you seek might be found. This could be the tower of a local sage, a library in a nearby city, somewhere deep in a dungeon, or any other location of the Director's determination. The Director can decide that certain lore can't be revealed this way.
 
-#### Eidetic Memory
+#### Eidetic Memory {data-scc="mcdm.heroes.v1/perk/eidetic-memory"}
 
 Your mind is an encyclopedia, though not always an easy one to organize. When you finish a respite, choose one skill from the lore skill group that you don't have. You have that skill until you finish your next respite. Additionally, if you spend 1 uninterrupted minute or more reading any page of text, you can memorize its contents, allowing you to memorize entire books with sufficient time.
 
-#### Expert Sage
+#### Expert Sage {data-scc="mcdm.heroes.v1/perk/expert-sage"}
 
 Whenever you make a test as part of a crafting or research project using a skill from the lore skill group, you can make the power roll twice and use either roll.
 
-#### I've Read About This Place
+#### I've Read About This Place {data-scc="mcdm.heroes.v1/perk/ive-read-about-this-place"}
 
 Each time you enter a settlement you've never been to before, you can ask the Director one of the following questions:
 
@@ -209,19 +209,19 @@ Each time you enter a settlement you've never been to before, you can ask the Di
 
 If the Director doesn't have an answer to the question you ask, or doesn't want to answer, you can instead ask a different question.
 
-#### Linguist
+#### Linguist {data-scc="mcdm.heroes.v1/perk/linguist"}
 
 You automatically learn two new languages, as long as you have regularly heard those languages spoken or seen them written before. Additionally, if you spend 7 days or more in a place where you regularly hear or read a language you don't know, you can pick up enough of that language to hold a conversation or understand basic written information. Having picked up a language this way, you can subsequently learn it using the Learn New Language research project at half the usual project goal cost (see Chapter 12: [Downtime Projects](downtime-projects.md)).
 
-#### Polymath
+#### Polymath {data-scc="mcdm.heroes.v1/perk/polymath"}
 
 Whenever you make a test to recall lore and don't have a skill that applies to the test, you gain a +1 bonus to the power roll.
 
-#### Specialist
+#### Specialist {data-scc="mcdm.heroes.v1/perk/specialist"}
 
 You are a leading expert on a particular subject. Choose one skill you have from the lore skill group. You always have a double edge on tests made to recall lore using this skill. Additionally, your [specialist](../../Browse/perk/specialist.md) knowledge grants you notoriety in fields related to the chosen skill. You treat your Renown as 1 higher when negotiating with an NPC who knows your reputation, or 2 higher if they have the same skill you chose for this perk.
 
-#### Traveling Sage
+#### Traveling Sage {data-scc="mcdm.heroes.v1/perk/traveling-sage"}
 
 On any day when you don't take a respite, you can spend 1 uninterrupted hour working on a research project using a skill you have from the lore skill group. If you do so, you gain 1d10 project points toward that project.
 
@@ -229,7 +229,7 @@ On any day when you don't take a respite, you can spend 1 uninterrupted hour wor
 
 This section presents supernatural perks in alphabetical order.
 
-#### Arcane Trick
+#### Arcane Trick {data-scc="mcdm.heroes.v1/perk/arcane-trick"}
 
 You have the following ability.
 
@@ -252,11 +252,11 @@ You have the following ability.
 > - You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using [Arcane Trick](../../Browse/perk/arcane-trick.md).
 > - You touch a size 1T object to cover it with an illusion that makes it look like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.
 
-#### Creature Sense
+#### Creature Sense {data-scc="mcdm.heroes.v1/perk/creature-sense"}
 
 As a maneuver, choose a creature within 10 squares. If that creature is your level or lower, you learn the keywords in their stat block (Demon, Humanoid, Undead, and so forth).
 
-#### Familiar
+#### Familiar {data-scc="mcdm.heroes.v1/perk/familiar"}
 
 A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your [familiar](../../Browse/perk/familiar.md)—or to adopt you as their [familiar](../../Browse/perk/familiar.md).
 
@@ -280,7 +280,7 @@ If your [familiar](../../Browse/perk/familiar.md) is destroyed, you can restore 
 > 
 > While you and your [familiar](../../Browse/perk/familiar.md) are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.
 
-#### Invisible Force
+#### Invisible Force {data-scc="mcdm.heroes.v1/perk/invisible-force"}
 
 You have the following ability.
 
@@ -295,7 +295,7 @@ You have the following ability.
 >
 > **Effect:** You can grab or manipulate the target object with your mind, moving the object up to a number of squares equal to your Reason, Intuition, or Presence score (your choice). You can use this ability to turn doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and size 1T. You can't use this ability to break a smaller piece off a larger object.
 
-#### Psychic Whisper
+#### Psychic Whisper {data-scc="mcdm.heroes.v1/perk/psychic-whisper"}
 
 You have the following ability.
 
@@ -310,11 +310,11 @@ You have the following ability.
 >
 > **Effect:** As long as the target understands one or more languages, you send a telepathic message to them that takes 10 seconds or less to speak. The target knows who the message is from and can decide to ignore it and subsequent messages.
 
-#### Ritualist
+#### Ritualist {data-scc="mcdm.heroes.v1/perk/ritualist"}
 
 You can spend 1 uninterrupted minute to perform a magic ritual of blessing, targeting yourself or one willing creature you touch. The target has a double edge on the next test they make within the next minute. A target can't use this benefit on an activity that takes longer than 1 minute.
 
-#### Thingspeaker
+#### Thingspeaker {data-scc="mcdm.heroes.v1/perk/thingspeaker"}
 
 When you hold an object in your hand for 1 uninterrupted minute, you can sense whether it bears emotional resonance. Objects with emotional resonance could include treasured gifts, murder weapons, or personal keepsakes. If the Director determines that the object bears emotional resonance, you learn the most dominant emotion associated with the object, then receive a vision that answers one of the following questions:
 

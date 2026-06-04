@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 9 ferocity to use.
 
-## Deadshot
+## Deadshot {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-5/deadshot"}
 
 *You channel your companion's feral senses to take the perfect shot.*
 
@@ -28,7 +28,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 **Effect:** If you are hidden, you remain hidden after the strike.
 
-## Dogpile
+## Dogpile {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-5/dogpile"}
 
 *You and your allies surround your enemy like a pack of wolves, mobbing them and pulling them down.*
 
@@ -44,7 +44,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 **Effect:** Each ally adjacent to the target can use a free triggered action to deal damage to the target equal to their highest characteristic score.
 
-## One, Two, Three, Heave
+## One, Two, Three, Heave {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-5/one-two-three-heave"}
 
 *Harnessing your companion's strength, you send your foe flying.*
 
@@ -60,7 +60,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 **Effect:** If your companion is adjacent to the target, this [forced movement](../../../../movement/forced-movement.md) can ignore the target's stability.
 
-## Rip Them Apart!
+## Rip Them Apart! {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-5/rip-them-apart"}
 
 *In a gruesome display, you and your companion rip off a pinned enemy's limb or other body part and toss it away.*
 

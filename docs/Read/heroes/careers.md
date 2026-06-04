@@ -65,7 +65,7 @@ It might be the case that you're obsessed with getting back what you lost. You m
 
 The careers your character can select from are presented in alphabetical order.
 
-### Agent
+### Agent {data-scc="mcdm.heroes.v1/career/agent"}
 
 You worked as a spy for a government or organization. In defining your career, think about the following questions:
 
@@ -91,7 +91,7 @@ You gain the following career benefits:
 | 5   | **Spies and Lovers:** While embedded in an undercover assignment, you fell for someone on the other side. They discovered you were a double [agent](../../Browse/career/agent.md), and though you insisted your feelings were real, the deceit cut too deep for your love interest to ignore. They exposed you, spurned you, or died because of their closeness to you. You left the espionage business to become a hero with nothing to hide.                                                 |
 | 6   | **Turncoat:** You spent your life in service of your country or an organization that upheld your values. During your undercover operations, you discovered that everything you had been told was a lie. Whether you confronted your superiors or were exposed, you were stripped of your service medals before you left to become a true hero.                                                                                                                 |
 
-### Aristocrat
+### Aristocrat {data-scc="mcdm.heroes.v1/career/aristocrat"}
 
 Career? Who needs a career when you're born into money! Or marry into it! Or con your way into it! Whatever the case, you didn't need to work thanks to (someone's) generational wealth. In defining your career, think about the following questions:
 
@@ -121,7 +121,7 @@ You gain the following career benefits:
 | 5  | **Royal Pauper:** Seeking a break from noble duties, you sought a lookalike to switch identities with. It went so well that you made a habit of switching whenever you were bored. Unfortunately, your counterpart became so good at imitating you that they convinced all those around you that you were an impostor. You lost contact with your family, but now pursue a heroic path free of the pomp of your old life. |
 | 6  | **Wicked Secret:** One parent passed away when you were a baby and the other remarried years later. Then that parent died under suspicious circumstances. Their spouse ousted you, and you were banished (and possibly hunted). Rising from tragedy, you now seek to right the wrongs of the world. |
 
-### Artisan
+### Artisan {data-scc="mcdm.heroes.v1/career/artisan"}
 
 You made and sold useful wares. In defining your career, think about the following questions:
 
@@ -149,7 +149,7 @@ You gain the following career benefits:
 | 5  | **Tarnished Honor:** A new patron commissioned some art, but on completion, they refused to pay you and claimed the work as their own. You were accused of plagiarism and run out of town. For you, heroics are about restoring your name and honor. |
 | 6  | **Twisted Skill:** You had great success that caused an unscrupulous rival to curse you. For a time, everything you tried to create turned to ruin. You broke the curse through adventuring, and in doing so, discovered a new joy and purpose that now defines you. |
 
-### Beggar
+### Beggar {data-scc="mcdm.heroes.v1/career/beggar"}
 
 You lived by going to a tavern, crossroads, city street, or other busy area and begging passersby for money or food. In defining your career, think about the following questions:
 
@@ -175,7 +175,7 @@ You gain the following career benefits:
 | 5  | **Strange Charity:** A passerby dropped something in your cup. When you counted your day's collections, you found a magic coin among the coppers. You knew immediately that it was special. When the other beggars—your friends, you thought—showed that they were ready to murder you for it, you killed several of them in self-defense before you fled, leaving behind the only semblance of community you had. |
 | 6  | **Witness:** You witnessed something you weren't meant to. Others would kill you if they knew, and they might be searching for you even now. You remain on the move, terrified of remaining in one place too long lest it all catch up to you. Perhaps if you make a big enough name for yourself, you can become untouchable and finally speak of what happened without fear. |
 
-### Criminal
+### Criminal {data-scc="mcdm.heroes.v1/career/criminal"}
 
 You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin. In defining your career, think about the following questions:
 
@@ -203,7 +203,7 @@ You gain the following career benefits:
 | 5  | **Simply Survival:** Stealing was a matter of survival for you and not what defined you—at least in your mind. But when your thieving actions led to innocent folk being harmed, you knew you could be better. You turned your back on your old life, though your old skills still come in handy. |
 | 6  | **Stand Against Tyranny:** When a tyrant rose to power in your homeland, they began cracking down on all criminals with deadly raids and public executions. The nature of the crime didn't matter, with pickpockets and beggars made to kneel before the axe alongside murderers. After losing enough friends, you stood up and joined the resistance—not just against this tyrant, but against authoritarians anywhere. |
 
-### Disciple
+### Disciple {data-scc="mcdm.heroes.v1/career/disciple"}
 
 You worked in a church, temple, or other religious institution as part of the clergy. In defining your career, think about the following questions:
 
@@ -229,7 +229,7 @@ You gain the following career benefits:
 | 5  | **Near-Death Experience:** While serving at a religious institution, you almost died in an accident. When you woke, you had lost all memory of ever having worked for the church or temple. Though the clergy encouraged you to stay, you left to forge a new path. Your sense of altruism—whether instilled in you by your past work or a part of who you naturally are—guides you in your life. |
 | 6  | **Taxing Times:** The faith-based organization you were once part of became corrupt. It used its status in the community to accumulate wealth through tithes, while its leaders sought political appointments. During a season of drought, the institution stockpiled resources and refused to give aid, resulting in the deaths of many. You became a hero to fight against such corruption and to honor those you lost. |
 
-### Explorer
+### Explorer {data-scc="mcdm.heroes.v1/career/explorer"}
 
 You ventured into uncharted areas and made your living as a cartographer, researcher, resource seeker, or treasure hunter. In defining your career, think about the following questions:
 
@@ -256,7 +256,7 @@ You gain the following career benefits:
 | 5  | **Wanderlust:** You saw yourself as an observer and operated within a code of conduct. You swore to never interfere with a group by exposing them to your technology, knowledge, or values. But when faced with a moral conundrum, you either broke your code or stood idly by—and suffered the consequences. During this incident, you lost your observation journal but became a hero who refuses to let evil stand unchecked. |
 | 6  | **Wind in Your Sails:** As a seafaring [explorer](../../Browse/career/explorer.md), you lived to chart unknown courses. Though travel on the high seas was fraught with danger, the destination was always rewarding in riches, knowledge, or some other meaningful benefit. But your luck ran out when your ship was destroyed by pirates or other enemy forces. Now you've taken to protecting those who seek safe passage while also hoping to avenge your crew. |
 
-### Farmer
+### Farmer {data-scc="mcdm.heroes.v1/career/farmer"}
 
 You grew crops or cared for livestock. In defining your career, think about the following questions:
 
@@ -284,7 +284,7 @@ You gain the following career benefits:
 | 5  | **Razed:** Your animals were killed, your crops and home set ablaze. The culprits might have been wandering bandits, raiders from a nearby kingdom, or hired thugs sent by a rival farm. Whoever they were, they left you with nothing. You couldn't face the thought of starting again from scratch, so you took up a life of heroism to protect others from such villainy. |
 | 6  | **Stolen:** Your family bred horses—beautiful creatures that few could rival on the track and in the jousting lists. When a local noble arrived with an offer to buy your prized stallion, your father refused. The noble struck him down where he stood and stole the horse. Without that stallion, the renowned bloodline would end. You intend to get them back—and get revenge. |
 
-### Gladiator
+### Gladiator {data-scc="mcdm.heroes.v1/career/gladiator"}
 
 In the past, you entertained the masses with flashy displays of violence in the arena. In defining your career, think about the following questions:
 
@@ -312,7 +312,7 @@ You gain the following career benefits:
 | 5  | **Scion's Compassion:** You were born a noble, but the duplicitous and power-hungry nature of your family had you seeking your own fortune in the arena. You saw that competitors brought there by circumstance and not choice suffered. You gave all you could of your family money to those lessfortunate folk, and then set out to make a real difference in this cruel world. |
 | 6  | **Warriors' Home:** The orphanage you grew up in secretly supplied gladiators to the arena. Forced to fight against many childhood friends as an adult, you vowed to dismantle the arena and free other victims. You became a liberator, dedicated to ending the oppression of others until your dying breath. |
 
-### Laborer
+### Laborer {data-scc="mcdm.heroes.v1/career/laborer"}
 
 You worked as a [farmer](../../Browse/career/farmer.md), builder, clothes washer, forester, miner, or some other profession engaged in hard manual labor. In defining your career, think about the following questions:
 
@@ -340,7 +340,7 @@ You gain the following career benefits:
 | 5  | **Shining Light:** You kept a lighthouse along the constantly stormy cliffs of your village with your mentor. On a clear and sunny day, your mentor vanished. Finding only a cryptic notebook filled with his musings on the supernatural, you left to find out what really happened. The trail has gone cold for now, and you're helping others find their loved ones in the meantime. |
 | 6  | **Slow and Steady:** You labored silently as an uncaring boss drove those around you into the ground, pushing you to work harder to lessen the burden on your companions. But when the boss pushed too far and killed a friend of yours, you led an uprising against them. That was the start of your adventuring life. |
 
-### Mage's Apprentice
+### Mage's Apprentice {data-scc="mcdm.heroes.v1/career/mages-apprentice"}
 
 For long years, you studied magic under the mentorship of a more experienced mage. In defining your career, think about the following questions:
 
@@ -368,7 +368,7 @@ You gain the following career benefits:
 | 5  | **Otherworldly:** While studying magic, you accidentally sent yourself from your original world to this one. Now you're stranded here, hoping to find ancient texts or powerful magic treasures that might transport you back home. A life of adventure it is! | 
 | 6  | **Ultimate Power:** The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn't until you met an adventuring [elementalist](../../Browse/class/elementalist.md) that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day. |
 
-### Performer
+### Performer {data-scc="mcdm.heroes.v1/career/performer"}
 
 You can sing, act, or dance well enough that people actually pay you to do it. Imagine that! In defining your career, think about the following questions:
 
@@ -394,7 +394,7 @@ You gain the following career benefits:
 | 5  | **Speechless:** A heckler's mocking words left you utterly speechless during a performance, stinging your pride and stirring your arrogance. The incident strained your legendary voice, and you could speak only in soft whispers. The heckler was a fey trickster who stole your voice, promising to give it back after you accomplished real good in the world. |
 | 6  | **Tragic Lesson:** When a producer who once shortchanged you shouted out on the street for you to stop a thief who had picked their pocket, your spite toward them inspired you to let the thief run right on by. But that decision led to tragedy when the thief later harmed someone you loved. From that moment on, you made it your responsibility to protect others. |
 
-### Politician
+### Politician {data-scc="mcdm.heroes.v1/career/politician"}
 
 You worked as a leader within a formal, bureaucratic organization or government. You might have been appointed, born, or elected into your position, but getting people to agree and making decisions for the people you serve (or who served you) was your job. In defining your career, think about the following questions:
 
@@ -424,7 +424,7 @@ You gain the following career benefits:
 | 5  | **Self-Serving:** You used your skills to collect incriminating or scandalous information about your opponents to blackmail them. A rival got one step ahead of you and stole your book of dirty secrets. But instead of using it against you, they gave you an opportunity to leave the world of politics behind. Saved from public humiliation, you now use your skills for the greater good. |
 | 6  | **Unbound:** The red tape required to achieve anything through your political position resulted in a crisis being mishandled and countless people harmed or killed. After that unfortunate event, you resolved to live unfettered by bureaucratic interference, seeking to do good through action, not paperwork. |
 
-### Sage
+### Sage {data-scc="mcdm.heroes.v1/career/sage"}
 
 From an early age, you dedicated yourself to learning, whether you shared the knowledge of the world with others or sought out secret lore only for yourself. In defining your career, think about the following questions:
 
@@ -452,7 +452,7 @@ You gain the following career benefits:
 | 5  | **Unforeseen Futures:** In your pursuit of ancient knowledge, you discovered a prophecy that has yet to come to pass. And that prophecy involves someone who might be... you. Since your discovery, strange dreams have plagued you, driving you to seek out your destiny. |
 | 6  | **Vanishing:** At first you thought it was your imagination, and you brushed off the disappearance of random sentences in historical books. Then as the books changed to entirely blank pages, the disappearances became difficult to ignore, particularly those involving ancient or critical text. Driven by the desire to preserve knowledge, you have made it your purpose to restore and reverse those vanishing texts before they forever disappear. |
 
-### Sailor
+### Sailor {data-scc="mcdm.heroes.v1/career/sailor"}
 
 You worked on a ship, whether a merchant cog, a mercenary or military craft, or a pirate vessel. You might have been a deckhand, a mate, or even the captain. In defining your career, think about the following questions:
 
@@ -478,7 +478,7 @@ You gain the following career benefits:
 **Marooned:** There was a mutiny, and you were on the losing side. You were marooned on an island and escaped when a merchant vessel was blown off course by a storm and found you. Your reputation is ruined among sailors, so you seek adventure elsewhere.
 **Water Fear:** A catastrophic storm hit while you were at sea, destroying your ship and leaving you as the only survivor. Once you recovered, you tried to sign on with another ship, but the thought of the open water turned your legs to jelly. Instead, you've taken on the role of a traveling hero to make ends meet.
 
-### Soldier
+### Soldier {data-scc="mcdm.heroes.v1/career/soldier"}
 
 In your formative years, you fought tirelessly in skirmishes and campaigns against enemy forces. In defining your career, think about the following questions:
 
@@ -506,7 +506,7 @@ You gain the following career benefits:
 | 5  | **Stolen Valor:** Tired of eking out an existence on the streets, you enrolled in the military. However, you were unable to escape your lower-status background until the officer leading your unit fell in battle. In the chaos that ensued, you assumed their identity and returned home a hero. But when suspicion arose, you took on the life of an adventurer, staying always on the move. |
 | 6  | **Vow of Sacrifice:** You promised a fellow [soldier](../../Browse/career/soldier.md) that you'd protect his family if he ever fell in battle. When he did, you traveled to his village, but found its people slain or scattered by war. Driven by your vow, you have dedicated your life to finding any survivors and protecting others from a similar fate. |
 
-### Warden
+### Warden {data-scc="mcdm.heroes.v1/career/warden"}
 
 You protected a wild region from those who sought to harm it, such as poachers and cultists bent on the destruction of the natural world. Knowing your land well, you could also serve as a guide or the leader of a rescue party for those wandering the wilds. In defining your career, think about the following questions:
 
@@ -534,7 +534,7 @@ You gain the following career benefits:
 | 5  | **Portents:** There were signs. You tried to ignore them, but when a great beast died at your feet, you had to recognize the truth. You were meant to leave your home territory, meant to fight a battle for the fate of all lands—and so you gave up the only life you've ever known. |
 | 6  | **Theft:** You were responsible for guarding something precious, something vital to your region's survival. But you let someone in, and they betrayed your trust by stealing the thing you were meant to guard. You left your chosen territory to atone for your mistake. |
 
-### Watch Officer
+### Watch Officer {data-scc="mcdm.heroes.v1/career/watch-officer"}
 
 You served as an officer of the law for a local government. You might have been a single person in a much larger city watch or the only constable patrolling a small village. In defining your career, think about the following questions:
 

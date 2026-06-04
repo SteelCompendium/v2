@@ -269,7 +269,7 @@ Ancestries also have purchased traits, but you don't get every purchased trait y
 
 For example, the [devil](../../Browse/ancestry/devil.md) ancestry has the signature trait Silver Tongue and 3 ancestry points to spend on seven different traits. A player creating a [devil](../../Browse/ancestry/devil.md) hero could select Barbed Tail, Glowing Eyes, and Hellsight, each of which costs 1 ancestry point, or they could select one of those traits plus Impressive Horns or Wings, each of which costs 2 ancestry points. But they couldn't select both Impressive Horns and Wings, since their combined cost of 4 exceeds the ancestry points budget for the [devil](../../Browse/ancestry/devil.md).
 
-## Devil
+## Devil {data-scc="mcdm.heroes.v1/ancestry/devil"}
 
 The native ancestry of the Seven Cities of Hell, [devils](../../Browse/ancestry/devil.md) are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each [devil](../../Browse/ancestry/devil.md) is born with some *hellmark*-horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
 
@@ -375,11 +375,11 @@ and the outrageous sums I spend looking good, I always feel *underdressed* in yo
 
 She blushed in spite of herself and raised her own glass in a toast. "You silver-tongued [devil](../../Browse/ancestry/devil.md)."
 
-### Devil Traits
+### Devil Traits {data-scc="mcdm.heroes.v1/feature.trait.devil/devil-traits"}
 
 [Devil](../../Browse/ancestry/devil.md) heroes have access to the following traits.
 
-#### Signature Trait: Silver Tongue
+#### Signature Trait: Silver Tongue {data-scc="mcdm.heroes.v1/feature.trait.devil/silver-tongue"}
 
 Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](tests.md)), and you gain an edge on tests when attempting to discover an NPC's motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](negotiation.md)).
 
@@ -387,35 +387,35 @@ Your innate magic allows you to twist how your words are perceived to get a bett
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beast Legs, Impressive Horns.)
 
-##### Barbed Tail
+##### Barbed Tail {data-scc="mcdm.heroes.v1/feature.trait.devil/barbed-tail"}
 
 Your pointy tail allows you to punctuate all your actions. Once per round when you make a melee strike, you can deal extra damage with the strike equal to your highest characteristic score.
 
-##### Beast Legs
+##### Beast Legs {data-scc="mcdm.heroes.v1/feature.trait.devil/beast-legs"}
 
 Your powerful legs make you faster. You have speed 6.
 
-##### Glowing Eyes
+##### Glowing Eyes {data-scc="mcdm.heroes.v1/feature.trait.devil/glowing-eyes"}
 
 Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to deal that creature psychic damage equal to 1d10 + your level.
 
-##### Hellsight
+##### Hellsight {data-scc="mcdm.heroes.v1/feature.trait.devil/hellsight"}
 
 Your eyes let you see through darkness, fog, and other obscuring effects. You don't take a bane on strikes made against creatures with concealment.
 
-##### Impressive Horns
+##### Impressive Horns {data-scc="mcdm.heroes.v1/feature.trait.devil/impressive-horns"}
 
 Your cherished horns are larger than the average [devil's](../../Browse/ancestry/devil.md), and a hardened representation of your force of will. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
 
-##### Prehensile Tail
+##### Prehensile Tail {data-scc="mcdm.heroes.v1/feature.trait.devil/prehensile-tail"}
 
 Your prehensile tail allows you to challenge foes on all sides. You can't be flanked.
 
-##### Wings
+##### Wings {data-scc="mcdm.heroes.v1/feature.trait.devil/wings"}
 
 You possess wings powerful enough to take you airborne. While using your wings to [fly](../../Browse/movement/fly.md), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](../../Browse/movement/fly.md) at 3rd level or lower, you have damage weakness 5.
 
-## Dragon Knight
+## Dragon Knight {data-scc="mcdm.heroes.v1/ancestry/dragon-knight"}
 
 The ritual of Dracogenesis that grants the power to create a generation of [dragon knights](../../Browse/ancestry/dragon-knight.md)—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 
@@ -501,11 +501,11 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 
 "Exactly," Vaantikalisax said. Then he turned and left the inn.
 
-### Dragon Knight Traits
+### Dragon Knight Traits {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/dragon-knight-traits"}
 
 [Dragon knight](../../Browse/ancestry/dragon-knight.md) heroes have access to the following traits.
 
-#### Signature Trait: Wyrmplate
+#### Signature Trait: Wyrmplate {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/wyrmplate"}
 
 Your hardened scales grant you damage immunity equal to your level to one of the following damage types: acid, cold, corruption, fire, lightning, or poison. You can change your damage immunity type when you finish a respite.
 
@@ -513,15 +513,15 @@ Your hardened scales grant you damage immunity equal to your level to one of the
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* [Dragon Breath](../../Browse/feature/ability/dragon-knight/dragon-breath.md), Prismatic Scales.)
 
-##### Draconian Guard
+##### Draconian Guard {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/draconian-guard"}
 
 Whenever you or an adjacent creature takes damage from a strike, you can use a triggered action to guard against the blow. You reduce any damage from the strike by an amount equal to your level.
 
-##### Draconian Pride
+##### Draconian Pride {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/draconian-pride"}
 
 You have the following signature ability.
 
-###### Draconian Pride
+###### Draconian Pride {data-scc="mcdm.heroes.v1/feature.ability.dragon-knight/draconian-pride"}
 
 *You let loose a mighty roar to shake your foes' spirits.*
 
@@ -535,11 +535,11 @@ You have the following signature ability.
 - **12-16:** 5 damage; push 1
 - **17+:** 7 damage; push 2
 
-##### Dragon Breath
+##### Dragon Breath {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/dragon-breath"}
 
 You have the following signature ability.
 
-###### Dragon Breath
+###### Dragon Breath {data-scc="mcdm.heroes.v1/feature.ability.dragon-knight/dragon-breath"}
 
 *A furious exhalation of energy washes over your foes.*
 
@@ -555,21 +555,21 @@ You have the following signature ability.
 
 **Effect:** You choose the ability's damage type from acid, cold, corruption, fire, lightning, or poison.
 
-##### Prismatic Scales
+##### Prismatic Scales {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/prismatic-scales"}
 
 Select one damage immunity granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.
 
-##### Remember Your Oath
+##### Remember Your Oath {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/remember-your-oath"}
 
 As a maneuver, you can recite the following oath. Until the start of your next turn, whenever you make a saving throw, you succeed on a 4 or higher.
 
 *Even should the sun stop in the sky Even should the night last a thousand years I will stand forever I shall not yield Those who suffer and yearn for justice I am your sword and shield I will yield no ground I will speak no lies I will stand against all tyrants Until the last villain dies*
 
-##### Wings
+##### Wings {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/wings"}
 
 You possess wings powerful enough to take you airborne. While using your wings to [fly](../../Browse/movement/fly.md), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](../../Browse/movement/fly.md) at 3rd level or lower, you have damage weakness 5.
 
-## Dwarf
+## Dwarf {data-scc="mcdm.heroes.v1/ancestry/dwarf"}
 
 Possessed of a strength that belies their size, [dwarves](../../Browse/ancestry/dwarf.md) have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel [dwarves](../../Browse/ancestry/dwarf.md).
 
@@ -673,11 +673,11 @@ Dazar stared at the man, this knight of Tor, and looked at Embers quietly radiat
 
 John was grinning madly at Embers. She held up three fingers.
 
-### Dwarf Traits
+### Dwarf Traits {data-scc="mcdm.heroes.v1/feature.trait.dwarf/dwarf-traits"}
 
 [Dwarf](../../Browse/ancestry/dwarf.md) heroes have access to the following traits.
 
-#### Signature Trait: Runic Carving
+#### Signature Trait: Runic Carving {data-scc="mcdm.heroes.v1/feature.trait.dwarf/runic-carving"}
 
 You can carve a rune onto your skin with 10 uninterrupted minutes of work, which is activated by the magic within your body. The rune you carve determines the benefit you receive, chosen from among the following:
 
@@ -693,27 +693,27 @@ You can have one rune active at a time, and can change or remove a rune with 10 
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Spark Off Your Skin.)
 
-##### Great Fortitude
+##### Great Fortitude {data-scc="mcdm.heroes.v1/feature.trait.dwarf/great-fortitude"}
 
 Your hearty constitution prevents you from losing strength. You can't be made [weakened](../../Browse/condition/weakened.md).
 
-##### Grounded
+##### Grounded {data-scc="mcdm.heroes.v1/feature.trait.dwarf/grounded"}
 
 Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to stability.
 
-##### Spark Off Your Skin
+##### Spark Off Your Skin {data-scc="mcdm.heroes.v1/feature.trait.dwarf/spark-off-your-skin"}
 
 Your stone skin affords you potent protection. You have a +6 bonus to Stamina, and that bonus increases by 6 at 4th, 7th, and 10th levels.
 
-##### Stand Tough
+##### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stand-tough"}
 
 Your body is made to withstand the blows of your enemies. Your Might score is treated as 1 higher for the purpose of resisting potencies, and you gain an edge on Might tests when called for to resist environmental effects or a creature's traits or abilities.
 
-##### Stone Singer
+##### Stone Singer {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stone-singer"}
 
 You have a magic connection to the earth. When you spend 1 uninterrupted hour singing, you can reshape any unworked mundane stone within 3 squares. You can't destroy this stone, but you can move each square of it anywhere within 3 squares, piling it off to one side to dig a hole or building it up to create a wall.
 
-## Wode Elf
+## Wode Elf {data-scc="mcdm.heroes.v1/ancestry/wode-elf"}
 
 Children of the sylvan celestials and masters of the elf-haunted forests called wodes, [wode elves](../../Browse/ancestry/wode-elf.md) see all forests as their domain by birthright. They know and enjoy their reputation among [humans](../../Browse/ancestry/human.md) for snatching children who wander too far into the woods. [Humans](../../Browse/ancestry/human.md) *should* fear the trees.
 
@@ -797,11 +797,11 @@ The children nodded. The elf, satisfied, marched off and they followed.
 
 Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" their escort called out. "The wode is a dream! With a little luck, one you may soon wake safely from."
 
-### Wode Elf Traits
+### Wode Elf Traits {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-traits"}
 
 [Wode elf](../../Browse/ancestry/wode-elf.md) heroes have access to the following traits.
 
-#### Signature Trait: Wode Elf Glamor
+#### Signature Trait: Wode Elf Glamor {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-glamor"}
 
 You can magically alter your appearance to better blend in with your surroundings. You gain an edge on tests made to hide and sneak, and tests made to search for you while you are hidden take a bane.
 
@@ -809,31 +809,31 @@ You can magically alter your appearance to better blend in with your surrounding
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Swift, Otherworldly Grace.)
 
-##### Forest Walk
+##### Forest Walk {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/forest-walk"}
 
 You can [shift](../../Browse/movement/shifting.md) into and while within [difficult terrain](../../Browse/movement/difficult-terrain.md).
 
-##### Quick and Brutal
+##### Quick and Brutal {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/quick-and-brutal"}
 
 Whenever you score a critical hit, you can take an additional main action and an additional move action instead of just a main action.
 
-##### Otherworldly Grace
+##### Otherworldly Grace {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/otherworldly-grace"}
 
 Your elf body and mind can't be contained for long. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
 
-##### Revisit Memory
+##### Revisit Memory {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/revisit-memory"}
 
 Accessing memories is as easy as living in the present for you. You gain an edge on tests made to recall lore.
 
-##### Swift
+##### Swift {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/swift"}
 
 You have speed 6.
 
-##### The Wode Defends
+##### The Wode Defends {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/the-wode-defends"}
 
 You have the following signature ability. Signature abilities can be used at will.
 
-###### The Wode Defends
+###### The Wode Defends {data-scc="mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends"}
 
 *Thorny vines erupt from every surface and attempt to bind your foe.*
 
@@ -847,7 +847,7 @@ You have the following signature ability. Signature abilities can be used at wil
 - **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](../../Browse/condition/slowed.md) (save ends)
 - **17+:** 5 + M or A damage; A < STRONG, [restrained](../../Browse/condition/restrained.md) (save ends)
 
-## High Elf
+## High Elf {data-scc="mcdm.heroes.v1/ancestry/high-elf"}
 
 Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, [high elf](../../Browse/ancestry/high-elf.md) history describes a better age, before the coming of [humans](../../Browse/ancestry/human.md) and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
@@ -919,11 +919,11 @@ The king turned back to them. "Should any of you seek hidden lore or deep wisdom
 
 Llyander put their hands on their hips and regarded the children. "Not bad for your second quest. What shall you do for an encore?"
 
-### High Elf Traits
+### High Elf Traits {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-elf-traits"}
 
 [High elf](../../Browse/ancestry/high-elf.md) heroes have access to the following traits.
 
-#### Signature Trait: High Elf Glamor
+#### Signature Trait: High Elf Glamor {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-elf-glamor"}
 
 A magic glamor makes others perceive you as interesting and engaging, granting you an edge on Presence tests using the [Flirt](../../Browse/skill/flirt.md) or [Persuade](../../Browse/skill/persuade.md) skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
 
@@ -931,31 +931,31 @@ A magic glamor makes others perceive you as interesting and engaging, granting y
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* High Senses, Otherworldly Grace.)
 
-##### Glamor of Terror
+##### Glamor of Terror {data-scc="mcdm.heroes.v1/feature.trait.high-elf/glamor-of-terror"}
 
 When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a triggered action to make that creature [frightened](../../Browse/condition/frightened.md) of you until the end of their next turn.
 
-##### Graceful Retreat
+##### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.high-elf/graceful-retreat"}
 
 You gain a +1 bonus to the distance you can shift when you take the Disengage move action.
 
-##### High Senses
+##### High Senses {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-senses"}
 
 Your senses are especially keen and perceptive. You gain an edge on tests made to notice threats.
 
-##### Otherworldly Grace
+##### Otherworldly Grace {data-scc="mcdm.heroes.v1/feature.trait.high-elf/otherworldly-grace"}
 
 Your elf body and mind can't be contained for long. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
 
-##### Revisit Memory
+##### Revisit Memory {data-scc="mcdm.heroes.v1/feature.trait.high-elf/revisit-memory"}
 
 Accessing memories is as easy as living in the present for you. You gain an edge on tests made to recall lore.
 
-##### Unstoppable Mind
+##### Unstoppable Mind {data-scc="mcdm.heroes.v1/feature.trait.high-elf/unstoppable-mind"}
 
 Your mind allows you to maintain your focus in any situation. You can't be made [dazed](../../Browse/condition/dazed.md).
 
-## Hakaan
+## Hakaan {data-scc="mcdm.heroes.v1/ancestry/hakaan"}
 
 In spite of their friendly, outgoing nature, the rare presence of a [hakaan](../../Browse/ancestry/hakaan.md) in [human](../../Browse/ancestry/human.md) society is considered a harbinger. An omen of dark times.
 
@@ -1053,11 +1053,11 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 
 "Well you can't ever be disarmed," John said. "That could be useful." Ardashir's smile was brilliant. "I suffice," he said.
 
-### Hakaan Traits
+### Hakaan Traits {data-scc="mcdm.heroes.v1/feature.trait.hakaan/hakaan-traits"}
 
 [Hakaan](../../Browse/ancestry/hakaan.md) heroes have access to the following traits.
 
-#### Signature Trait: Big!
+#### Signature Trait: Big! {data-scc="mcdm.heroes.v1/feature.trait.hakaan/big"}
 
 Your stature reflects your giant forebears. Your size is 1L.
 
@@ -1065,11 +1065,11 @@ Your stature reflects your giant forebears. Your size is 1L.
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Doomsight, Forceful.)
 
-##### All Is a Feather
+##### All Is a Feather {data-scc="mcdm.heroes.v1/feature.trait.hakaan/all-is-a-feather"}
 
 You are exceptionally strong. You gain an edge on tests made to lift and haul heavy objects.
 
-##### Doomsight
+##### Doomsight {data-scc="mcdm.heroes.v1/feature.trait.hakaan/doomsight"}
 
 Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on tests and ability rolls, and you don't die no matter how low your Stamina falls. You then die immediately at the end of the encounter, and can't be returned to life by any means.
 
@@ -1077,19 +1077,19 @@ If you don't predetermine your death encounter, you can choose to become doomed 
 
 Additionally, when your Stamina reaches the negative of your winded value and you are not doomed, you turn to rubble instead of experiencing death. You are unaware of your surroundings in this state, and you can't regain Stamina or have this effect undone in any way. After 12 hours, you regain Stamina equal to your recovery value.
 
-##### Forceful
+##### Forceful {data-scc="mcdm.heroes.v1/feature.trait.hakaan/forceful"}
 
 Whenever you [force move](../../Browse/movement/forced-movement.md) a creature or object, the [forced movement](../../Browse/movement/forced-movement.md) distance gains a +1 bonus.
 
-##### Great Fortitude
+##### Great Fortitude {data-scc="mcdm.heroes.v1/feature.trait.hakaan/great-fortitude"}
 
 Your hearty constitution prevents you from losing strength. You can't be made [weakened](../../Browse/condition/weakened.md).
 
-##### Stand Tough
+##### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.hakaan/stand-tough"}
 
 Your body is made to withstand the blows of your enemies. Your Might score is treated as 1 higher for the purpose of resisting potencies, and you gain an edge on Might tests when called for to resist environmental effects or a creature's traits or abilities.
 
-## Human
+## Human {data-scc="mcdm.heroes.v1/ancestry/human"}
 
 [Humans](../../Browse/ancestry/human.md) belong to the world in a way the other speaking peoples do not. You can sense the presence of the supernatural—that... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
 
@@ -1131,11 +1131,11 @@ Stopping Ajax will require you to become something else. You must become heroes.
 
 Some of your names, I will see written in future textbooks. But some of your names, I will see written in the stars.
 
-### Human Traits
+### Human Traits {data-scc="mcdm.heroes.v1/feature.trait.human/human-traits"}
 
 [Human](../../Browse/ancestry/human.md) heroes have access to the following traits.
 
-#### Signature Trait: Detect the Supernatural
+#### Signature Trait: Detect the Supernatural {data-scc="mcdm.heroes.v1/feature.trait.human/detect-the-supernatural"}
 
 As a maneuver, you can open your awareness to detect supernatural creatures and phenomena. Until the end of your next turn, you know the location of any supernatural object, or any undead, construct, or creature from another world within 5 squares, even if you don't have line of effect to that object or creature. You know if you're detecting an item or a creature, and you know the nature of any creature you detect.
 
@@ -1143,27 +1143,27 @@ As a maneuver, you can open your awareness to detect supernatural creatures and 
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Perseverance, Staying Power.)
 
-##### Can't Take Hold
+##### Can't Take Hold {data-scc="mcdm.heroes.v1/feature.trait.human/cant-take-hold"}
 
 Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary [difficult terrain](../../Browse/movement/difficult-terrain.md) created by magic and psionic abilities. Additionally, when you are [force moved](../../Browse/movement/forced-movement.md) by a magic or psionic ability, you can reduce the [forced movement](../../Browse/movement/forced-movement.md) distance by 1.
 
-##### Determination
+##### Determination {data-scc="mcdm.heroes.v1/feature.trait.human/determination"}
 
 A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](../../Browse/condition/frightened.md), [slowed](../../Browse/condition/slowed.md), or [weakened](../../Browse/condition/weakened.md), you can use a maneuver to immediately end one of those conditions.
 
-##### Perseverance
+##### Perseverance {data-scc="mcdm.heroes.v1/feature.trait.human/perseverance"}
 
 Giving up is for other people. You gain an edge on tests made using the [Endurance](../../Browse/skill/endurance.md) skill. Additionally, when you are [slowed](../../Browse/condition/slowed.md), your speed is reduced to 3 instead of 2.
 
-##### Resist the Unnatural
+##### Resist the Unnatural {data-scc="mcdm.heroes.v1/feature.trait.human/resist-the-unnatural"}
 
 Your instinctive resilience protects you from injuries beyond the routine. Whenever you take damage that isn't untyped, you can use a triggered action to take half the damage.
 
-##### Staying Power
+##### Staying Power {data-scc="mcdm.heroes.v1/feature.trait.human/staying-power"}
 
 Your [human](../../Browse/ancestry/human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of Recoveries by 2.
 
-## Memonek
+## Memonek {data-scc="mcdm.heroes.v1/ancestry/memonek"}
 
 The native denizens of Axiom, the Plane of Uttermost Law, [memonek](../../Browse/ancestry/memonek.md) dwell in a land with lakes and trees and birds and flowers. But on this alien world, the lakes are seas of mercury, the birds glitter with wings of glass stretched gossamer thin, and the flowers' petals are iridescent metal as flexible and fragile as any earthly rose.
 
@@ -1253,15 +1253,15 @@ John offered his hand. Revile shook it and then held it.
 
 "But there might be enough."
 
-### Memonek Traits
+### Memonek Traits {data-scc="mcdm.heroes.v1/feature.trait.memonek/memonek-traits"}
 
 [Memonek](../../Browse/ancestry/memonek.md) heroes have access to the following traits.
 
-#### Signature Trait: Fall Lightly
+#### Signature Trait: Fall Lightly {data-scc="mcdm.heroes.v1/feature.trait.memonek/fall-lightly"}
 
 Your silicone body is low in density. Whenever you fall, you reduce the distance of the fall by 2 squares.
 
-#### Signature Trait: Lightweight
+#### Signature Trait: Lightweight {data-scc="mcdm.heroes.v1/feature.trait.memonek/lightweight"}
 
 Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your size as one size smaller than it is.
 
@@ -1269,35 +1269,35 @@ Your body is light for a creature of your height. Whenever another creature atte
 
 You have 4 ancestry points to spend on the following traits. (*Quick Build:* Lightning Nimbleness, Nonstop.)
 
-##### I Am Law
+##### I Am Law {data-scc="mcdm.heroes.v1/feature.trait.memonek/i-am-law"}
 
 Your lawful nature and quick reflexes mean you give no quarter to creatures trying to get past you. Enemies can't move through your space unless you allow them to do so.
 
-##### Keeper of Order
+##### Keeper of Order {data-scc="mcdm.heroes.v1/feature.trait.memonek/keeper-of-order"}
 
 Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an adjacent creature makes a power roll, you can use a free triggered action to remove an edge or a bane on the roll, to turn a double edge into an edge, or to turn a double bane into a bane.
 
-##### Lightning Nimbleness
+##### Lightning Nimbleness {data-scc="mcdm.heroes.v1/feature.trait.memonek/lightning-nimbleness"}
 
 You can push your body to move at incredible speeds. Your speed is 7.
 
-##### Nonstop
+##### Nonstop {data-scc="mcdm.heroes.v1/feature.trait.memonek/nonstop"}
 
 Your connection to Axiom allows you to regulate your movement. You can't be made [slowed](../../Browse/condition/slowed.md).
 
-##### Systematic Mind
+##### Systematic Mind {data-scc="mcdm.heroes.v1/feature.trait.memonek/systematic-mind"}
 
 You gain an edge on tests made to parse schematics, maps, and other systematic documents that aren't inherently chaotic. In addition, you treat any language you don't know as if you know a related language.
 
-##### Unphased
+##### Unphased {data-scc="mcdm.heroes.v1/feature.trait.memonek/unphased"}
 
 Your ordered mind can't be caught off guard. You can't be made surprised.
 
-##### Useful Emotion
+##### Useful Emotion {data-scc="mcdm.heroes.v1/feature.trait.memonek/useful-emotion"}
 
 Velloparatha—the worldsickness—might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 surge.
 
-## Orc
+## Orc {data-scc="mcdm.heroes.v1/ancestry/orc"}
 
 An anger that cannot be hidden. A [fury](../../Browse/class/fury.md) that drives them in battle. [Orcs](../../Browse/ancestry/orc.md) are famed throughout the world as consummate warriors—a reputation that the peace—loving [orcs](../../Browse/ancestry/orc.md) find distasteful.
 
@@ -1421,11 +1421,11 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 
 "Well," she said. "What do we do next?"
 
-### Orc Traits
+### Orc Traits {data-scc="mcdm.heroes.v1/feature.trait.orc/orc-traits"}
 
 [Orc](../../Browse/ancestry/orc.md) heroes have access to the following traits.
 
-#### Signature Trait: Relentless
+#### Signature Trait: Relentless {data-scc="mcdm.heroes.v1/feature.trait.orc/relentless"}
 
 Whenever a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
 
@@ -1433,27 +1433,27 @@ Whenever a creature deals damage to you that leaves you dying, you can make a fr
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing Recovery, Grounded.)
 
-##### Bloodfire Rush
+##### Bloodfire Rush {data-scc="mcdm.heroes.v1/feature.trait.orc/bloodfire-rush"}
 
 The magic coursing through your veins makes you run faster in the heat of battle. The first time in any combat round that you take damage, you gain a +2 bonus to speed until the end of the round.
 
-##### Glowing Recovery
+##### Glowing Recovery {data-scc="mcdm.heroes.v1/feature.trait.orc/glowing-recovery"}
 
 Your bloodfire allows you to regain your strength quicker than others. Whenever you use the Catch Breath maneuver, you can spend as many Recoveries as you like.
 
-##### Grounded
+##### Grounded {data-scc="mcdm.heroes.v1/feature.trait.orc/grounded"}
 
 The magic in your blood makes it difficult for others to move you. You have a +1 bonus to stability.
 
-##### Nonstop
+##### Nonstop {data-scc="mcdm.heroes.v1/feature.trait.orc/nonstop"}
 
 Your bloodfire supplies you with a constant rush of adrenaline. You can't be made [slowed](../../Browse/condition/slowed.md).
 
-##### Passionate Artisan
+##### Passionate Artisan {data-scc="mcdm.heroes.v1/feature.trait.orc/passionate-artisan"}
 
 When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the crafting skill group, whether you have those skills or not. Whenever you make a project roll for a crafting project that uses these skills, you gain a +2 bonus to the roll.
 
-## Polder
+## Polder {data-scc="mcdm.heroes.v1/ancestry/polder"}
 
 After [humans](../../Browse/ancestry/human.md), [polders](../../Browse/ancestry/polder.md) are the most numerous and diverse ancestry in Orden. They are not [humans](../../Browse/ancestry/human.md), but they live in and among [humans](../../Browse/ancestry/human.md) and share their gods and culture. Almost every [human](../../Browse/ancestry/human.md) culture in Orden has a [polder](../../Browse/ancestry/polder.md) saint or a [human](../../Browse/ancestry/human.md) saint venerated by [polder](../../Browse/ancestry/polder.md).
 
@@ -1569,7 +1569,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) stared at them for a
 
 "Maybe you're right," he said.
 
-### Polder Traits
+### Polder Traits {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-traits"}
 
 [Polder](../../Browse/ancestry/polder.md) heroes have access to the following traits.
 
@@ -1577,7 +1577,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) stared at them for a
 
 You have the following ability.
 
-###### Shadowmeld
+###### Shadowmeld {data-scc="mcdm.heroes.v1/feature.ability.polder/shadowmeld"}
 
 *You become an actual shadow.*
 
@@ -1589,7 +1589,7 @@ You have the following ability.
 
 If the surface you are flattened against is destroyed, this ability ends and you take 1d6 damage that can't be reduced in any way.
 
-#### Signature Trait: Small!
+#### Signature Trait: Small! {data-scc="mcdm.heroes.v1/feature.trait.polder/small"}
 
 Your diminutive stature lets you easily get out of—or into—trouble. Your size is 1S.
 
@@ -1597,31 +1597,31 @@ Your diminutive stature lets you easily get out of—or into—trouble. Your siz
 
 You have 4 ancestry points to spend on the following traits. (*Quick Build:* Corruption Immunity, Fearless, Graceful Retreat.)
 
-##### Corruption Immunity
+##### Corruption Immunity {data-scc="mcdm.heroes.v1/feature.trait.polder/corruption-immunity"}
 
 Your innate [shadow](../../Browse/class/shadow.md) magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
 
-##### Fearless
+##### Fearless {data-scc="mcdm.heroes.v1/feature.trait.polder/fearless"}
 
 Courage is all you know. You can't be made [frightened](../../Browse/condition/frightened.md).
 
-##### Graceful Retreat
+##### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.polder/graceful-retreat"}
 
 Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the Disengage move action.
 
-##### Nimblestep
+##### Nimblestep {data-scc="mcdm.heroes.v1/feature.trait.polder/nimblestep"}
 
 A light step serves you well when speed is of the essence. You ignore the effects of [difficult terrain](../../Browse/movement/difficult-terrain.md) and can move at full speed while sneaking.
 
-##### Polder Geist
+##### Polder Geist {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-geist"}
 
 Evading others' notice gives you freedom to move. At the start of each of your turns during combat, if no enemy has line of effect to you or if you are hidden from or have concealment from any enemy with line of effect to you, you gain a +3 bonus to speed until the end of your turn.
 
-##### Reactive Tumble
+##### Reactive Tumble {data-scc="mcdm.heroes.v1/feature.trait.polder/reactive-tumble"}
 
 Staying light on your feet lets you quickly get back into position. Whenever you are [force moved](../../Browse/movement/forced-movement.md), you can use a free triggered action to [shift](../../Browse/movement/shifting.md) 1 square after the [forced movement](../../Browse/movement/forced-movement.md) is resolved.
 
-## Revenant
+## Revenant {data-scc="mcdm.heroes.v1/ancestry/revenant"}
 
 The dead walk among us. Some of them are happier about it than others.
 
@@ -1685,15 +1685,15 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 
 "*I deal in steel.*"
 
-### Revenant Traits
+### Revenant Traits {data-scc="mcdm.heroes.v1/feature.trait.revenant/revenant-traits"}
 
 [Revenant](../../Browse/ancestry/revenant.md) heroes have access to the following traits.
 
-#### Signature Trait: Former Life
+#### Signature Trait: Former Life {data-scc="mcdm.heroes.v1/feature.trait.revenant/former-life"}
 
 Choose the ancestry you were before you died. Your size is that ancestry's size and your speed is 5. Unless you select one of the Previous Life traits (see below), you don't receive any other ancestral traits from your original ancestry.
 
-#### Signature Trait: Tough But Withered
+#### Signature Trait: Tough But Withered {data-scc="mcdm.heroes.v1/feature.trait.revenant/tough-but-withered"}
 
 Your undead body grants you immunity to cold, corruption, lightning, and poison damage equal to your level, but you have fire weakness 5. You can't suffocate, and you don't need to eat or drink to stay alive.
 
@@ -1703,23 +1703,23 @@ Additionally, when your Stamina reaches the negative of your winded value, you b
 
 You have 2 ancestry points to spend on the following traits, or 3 ancestry points if your size is 1S. (*Quick Build:* Bloodless, plus Undead Influence if size 1S.)
 
-##### Bloodless
+##### Bloodless {data-scc="mcdm.heroes.v1/feature.trait.revenant/bloodless"}
 
 For you, an open wound is indistinguishable from a scratch. You can't be made [bleeding](../../Browse/condition/bleeding.md) even while dying.
 
-##### Previous Life: 1 Point
+##### Previous Life: 1 Point {data-scc="mcdm.heroes.v1/feature.trait.revenant/previous-life-1-point"}
 
 You select a purchased trait that costs 1 ancestry point from your previous ancestry. You can take this trait multiple times, selecting a different 1 point trait from your previous ancestry each time.
 
-##### Previous Life: 2 Points
+##### Previous Life: 2 Points {data-scc="mcdm.heroes.v1/feature.trait.revenant/previous-life-2-points"}
 
 You select a purchased trait that costs 2 ancestry points from your previous ancestry.
 
-##### Undead Influence
+##### Undead Influence {data-scc="mcdm.heroes.v1/feature.trait.revenant/undead-influence"}
 
 Your supernatural gifts allow you to influence other undead. You gain an edge on Reason, Intuition, and Presence tests made to interact with undead creatures.
 
-##### Vengeance Mark
+##### Vengeance Mark {data-scc="mcdm.heroes.v1/feature.trait.revenant/vengeance-mark"}
 
 As a maneuver, you place a magic sigil on a creature within 10 squares. When you place a sigil, you decide where it appears on the creature's body, and whether the sigil is visible to only you or to all creatures.
 
@@ -1727,7 +1727,7 @@ You always know the direction to the exact location of a creature who bears one 
 
 Additionally, you have the following signature ability. Signature abilities can be used at will.
 
-###### Detonate Sigil
+###### Detonate Sigil {data-scc="mcdm.heroes.v1/feature.ability.revenant/detonate-sigil"}
 
 *A magic sigil you placed on a creature explodes with energy.*
 
@@ -1743,7 +1743,7 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 **Effect:** The sigil disappears from the creature.
 
-## Time Raider
+## Time Raider {data-scc="mcdm.heroes.v1/ancestry/time-raider"}
 
 The original servitor species of the synliroi—evil psions with near godlike power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "[time raiders](../../Browse/ancestry/time-raider.md)" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
 
@@ -1837,11 +1837,11 @@ At the sound, the [orc](../../Browse/ancestry/orc.md) dashed forward into a knot
 
 John hadn't hesitated, he'd already drawn his sword and falchion. "All right, you patchwork son of a bitch." He charged Lycaon who fumbled with the shortsword on his belt.
 
-### Time Raider Traits
+### Time Raider Traits {data-scc="mcdm.heroes.v1/feature.trait.time-raider/time-raider-traits"}
 
 [Time raider](../../Browse/ancestry/time-raider.md) heroes have access to the following traits.
 
-#### Signature Trait: Psychic Scar
+#### Signature Trait: Psychic Scar {data-scc="mcdm.heroes.v1/feature.trait.time-raider/psychic-scar"}
 
 Your mind is a formidable layer of defense. You have psychic immunity equal to your level.
 
@@ -1849,27 +1849,27 @@ Your mind is a formidable layer of defense. You have psychic immunity equal to y
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beyondsight, Psionic Gift with [Psionic Bolt](../../Browse/feature/ability/time-raider/psionic-bolt.md).)
 
-##### Beyondsight
+##### Beyondsight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/beyondsight"}
 
 As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can't see the area within 1 square of you and you don't have line of effect to any creature or object in that area. You can restore your usual vision as a maneuver.
 
-##### Foresight
+##### Foresight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/foresight"}
 
 Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with concealment who isn't hidden from you within 20, and you negate the usual bane on strikes against such creatures. Additionally, whenever you are targeted by a strike, you can use a triggered action to impose a bane on the power roll.
 
-##### Four-Armed Athletics
+##### Four-Armed Athletics {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-athletics"}
 
 Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](../../Browse/skill/climb.md), [Gymnastics](../../Browse/skill/gymnastics.md), or [Swim](../../Browse/skill/swim.md) skills when you can use all your arms in the attempt.
 
-##### Four-Armed Martial Arts
+##### Four-Armed Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts"}
 
 Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](../../Browse/condition/grabbed.md) at a time.
 
-##### Psionic Gift
+##### Psionic Gift {data-scc="mcdm.heroes.v1/feature.trait.time-raider/psionic-gift"}
 
 Choose one signature ability from the following options. Signature abilities can be used at will.
 
-###### Concussive Slam
+###### Concussive Slam {data-scc="mcdm.heroes.v1/feature.ability.time-raider/concussive-slam"}
 
 *You slam an invisible force down upon the target.*
 
@@ -1883,7 +1883,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 5 + R, I, or P damage; push 1
 - **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../Browse/condition/prone.md)
 
-###### Psionic Bolt
+###### Psionic Bolt {data-scc="mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt"}
 
 *You shoot forth a purple beam of psychic force that moves your target.*
 
@@ -1897,7 +1897,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 5 + R, I, or P psychic damage; slide 2
 - **17+:** 7 + R, I, or P psychic damage; slide 3
 
-###### Minor Acceleration
+###### Minor Acceleration {data-scc="mcdm.heroes.v1/feature.ability.time-raider/minor-acceleration"}
 
 *You fill yourself or an ally with a burst of speed.*
 

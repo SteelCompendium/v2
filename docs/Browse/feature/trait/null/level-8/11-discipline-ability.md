@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 11 discipline to use.
 
-## Arcane Purge
+## Arcane Purge {data-scc="mcdm.heroes.v1/feature.ability.null.level-8/arcane-purge"}
 
 
 *You focus your [null field](../level-1/null-field.md) into a pressure point strike that prevents your foe from channeling sorcery.*
@@ -29,7 +29,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 
 **Effect:** While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.
 
-## Phase Hurl
+## Phase Hurl {data-scc="mcdm.heroes.v1/feature.ability.null.level-8/phase-hurl"}
 
 
 *You throw your foe out of phase with this manifold, causing them to harm other enemies as they return.*
@@ -46,7 +46,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 
 **Effect:** The target and each creature or object they collide with from this [forced movement](../../../../movement/forced-movement.md) takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](../../../../condition/dazed.md) this way, they see glimpses of creatures from other parts of the timescape.
 
-## Scalar Assault
+## Scalar Assault {data-scc="mcdm.heroes.v1/feature.ability.null.level-8/scalar-assault"}
 
 
 *You warp reality to grow a limb for just a moment and make a single devastating attack.*
@@ -61,7 +61,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 - **12-16:** 17 psychic damage; push 5
 - **17+:** 23 psychic damage; push 7
 
-## Synaptic Anchor
+## Synaptic Anchor {data-scc="mcdm.heroes.v1/feature.ability.null.level-8/synaptic-anchor"}
 
 
 *You disrupt an enemy's strike and create a [feedback loop](../../../ability/talent/level-1/feedback-loop.md) in their mind, preventing them from focusing on future attacks.*

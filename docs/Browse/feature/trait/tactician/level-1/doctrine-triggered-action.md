@@ -20,7 +20,7 @@ Your [tactical doctrine](tactical-doctrine.md) grants you a triggered action, as
 | Mastermind | [Overwatch](../../../ability/tactician/level-1/overwatch.md)        |
 | Vanguard   | [Parry](../../../ability/tactician/level-1/parry.md)            |
 
-### Advanced Tactics
+### Advanced Tactics {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/advanced-tactics"}
 
 
 *Your leadership aids an ally.*
@@ -35,7 +35,7 @@ Your [tactical doctrine](tactical-doctrine.md) grants you a triggered action, as
 
 **Spend 1 Focus:** If the damage has any potency effect associated with it, the potency is increased by 1.
 
-### Overwatch
+### Overwatch {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/overwatch"}
 
 
 *Under your direction, an ally waits for just the right moment to strike.*
@@ -50,7 +50,7 @@ Your [tactical doctrine](tactical-doctrine.md) grants you a triggered action, as
 
 **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](../../../../condition/slowed.md) (EoT).
 
-### Parry
+### Parry {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/parry"}
 
 
 *Your quick reflexes cost an enemy the precision they seek.*

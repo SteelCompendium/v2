@@ -16,7 +16,7 @@ You manifest a variety of psionic powers that let you impact the environment, bo
 
 Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Incinerate](../../../ability/talent/level-1/incinerate.md), [Kinetic Grip](../../../ability/talent/level-1/kinetic-grip.md).)
 
-### Entropic Bolt
+### Entropic Bolt {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/entropic-bolt"}
 
 
 *You advance an enemy's age for a moment.*
@@ -35,7 +35,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Strained:** You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the power roll.
 
-### Hoarfrost
+### Hoarfrost {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost"}
 
 
 *You blast a foe with a pulse of cold energy.*
@@ -52,7 +52,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Strained:** You are [slowed](../../../../condition/slowed.md) until the end of your next turn. Additionally, a target [slowed](../../../../condition/slowed.md) by this ability is [restrained](../../../../condition/restrained.md) instead.
 
-### Incinerate
+### Incinerate {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/incinerate"}
 
 
 *The air erupts into a column of smokeless flame.*
@@ -71,7 +71,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Strained:** The size of the cube increases by 2, but the fire disappears at the end of your turn.
 
-### Kinetic Grip
+### Kinetic Grip {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip"}
 
 
 *You lift and hurl your foe away from you.*
@@ -88,7 +88,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Strained:** You must vertical push the target instead of sliding them.
 
-### Kinetic Pulse
+### Kinetic Pulse {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-pulse"}
 
 
 *The force of your mind hurls enemies backward.*
@@ -105,7 +105,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Strained:** The size of the burst increases by 2, and you are [bleeding](../../../../condition/bleeding.md) until the start of your next turn.
 
-### Materialize
+### Materialize {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/materialize"}
 
 
 *You picture an object in your mind and give it form—directly above your opponent's head.*
@@ -124,7 +124,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Strained:** The object explodes after the damage is dealt, and each creature adjacent to the target takes damage equal to your Reason score. You also take damage equal to your Reason score that can't be reduced in any way.
 
-### Optic Blast
+### Optic Blast {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/optic-blast"}
 
 
 *Your eyes emit rays of powerful enervating force.*
@@ -143,7 +143,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Strained:** You gain 1 surge that you can use immediately, and you take damage equal to your Reason score that can't be reduced in any way.
 
-### Spirit Sword
+### Spirit Sword {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/spirit-sword"}
 
 
 *You form a blade of mind energy and stab your target, invigorating yourself.*
@@ -170,7 +170,7 @@ You know a range of heroic abilities, all of which cost clarity to fuel them.
 
 Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](../../../ability/talent/level-1/choke.md).)
 
-### Awe
+### Awe {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/awe"}
 
 
 *You project psionic energy out to a creature and take on a new visage in their mind.*
@@ -187,7 +187,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 - **12-16:** 6 + P psychic damage; I < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
 - **17+:** 9 + P psychic damage; I < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 
-### Choke
+### Choke {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/choke"}
 
 
 *You crush a foe in a telekinetic grip.*
@@ -204,7 +204,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 **Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](../../../../condition/restrained.md) by this ability, this [forced movement](../../../../movement/forced-movement.md) ignores their stability.
 
-### Precognition
+### Precognition {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/precognition"}
 
 
 *You give a target a glimpse into the future so that they're ready for what comes next.*
@@ -215,7 +215,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 **Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a free strike against the source of the damage.
 
-### Smolder
+### Smolder {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/smolder"}
 
 
 *Smoke flows from your enemy like tears as their skin begins to blacken and flake.*
@@ -236,7 +236,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](../../../ability/talent/level-1/inertia-soak.md).)
 
-### Flashback
+### Flashback {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/flashback"}
 
 
 *The target is thrown several seconds back through time and gets to do it all again.*
@@ -249,7 +249,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 
 **Strained:** You take 1d6 damage and are [slowed](../../../../condition/slowed.md) (save ends).
 
-### Inertia Soak
+### Inertia Soak {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/inertia-soak"}
 
 
 *Your psionic energy surrounds the target and pushes everything else away from them.*
@@ -262,7 +262,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 
 **Strained:** You are [weakened](../../../../condition/weakened.md) (save ends). While you are [weakened](../../../../condition/weakened.md) this way, whenever you are force moved, the [forced movement](../../../../movement/forced-movement.md) distance gains a +5 bonus.
 
-### Iron
+### Iron {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/iron"}
 
 
 *The target's skin turns to hard, dark metal, impenetrable and dense.*
@@ -275,7 +275,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 
 **Strained:** You can't use maneuvers (save ends).
 
-### Perfect Clarity
+### Perfect Clarity {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/perfect-clarity"}
 
 
 *You clear the mind of nothing but the goal.*

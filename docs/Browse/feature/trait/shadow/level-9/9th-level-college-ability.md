@@ -16,7 +16,7 @@ Your [shadow college](../level-1/shadow-college.md) grants your choice of one of
 
 Choose one of the following abilities.
 
-### Cacophony of Cinders
+### Cacophony of Cinders {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/cacophony-of-cinders"}
 
 
 *You tumble through the battle, stabbing foes and [teleporting](../../../../movement/teleport.md) allies.*
@@ -33,7 +33,7 @@ Choose one of the following abilities.
 - **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../../movement/teleport.md) up to 5 squares.
 - **17+:** An enemy takes 14 damage; an ally can [teleport](../../../../movement/teleport.md) up to 7 squares.
 
-### Demon Door
+### Demon Door {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/demon-door"}
 
 
 *You create a temporary portal to allow a massive demonic hand to reach through.*
@@ -54,7 +54,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Chain Reaction
+### Chain Reaction {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/chain-reaction"}
 
 
 *One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*
@@ -71,7 +71,7 @@ Choose one of the following abilities.
 - **12-16:** 10 damage
 - **17+:** 15 damage
 
-### To the Stars
+### To the Stars {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/to-the-stars"}
 
 
 *You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
@@ -92,7 +92,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### I Am You
+### I Am You {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/i-am-you"}
 
 
 *Your mask reflects your foe's face. Surely they won't need it much longer.*
@@ -103,7 +103,7 @@ Choose one of the following abilities.
 
 **Effect:** Until the end of the encounter, you gain the target's damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target's signature ability, using their bonus for the power roll.
 
-### It Was Me All Along
+### It Was Me All Along {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/it-was-me-all-along"}
 
 
 *After everything you've been through together, you twist the blade and make the pain extra personal.*

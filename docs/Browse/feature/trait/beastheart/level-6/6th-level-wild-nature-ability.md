@@ -16,7 +16,7 @@ Your wild nature grants your choice of one of two heroic abilities.
 
 Choose one of the following abilities.
 
-### Sic 'Em!
+### Sic 'Em! {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/sic-em"}
 
 *Your companion rushes forward to protect you from a dangerous foe.*
 
@@ -32,7 +32,7 @@ Choose one of the following abilities.
 
 **Spend 2 Ferocity:** Your companion can use this ability as a triggered action against an enemy who damages you.
 
-### Stare Down
+### Stare Down {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/stare-down"}
 
 *Your companion locks eyes with an enemy, imposing their will upon the enemy and daring them to move a muscle.*
 
@@ -52,7 +52,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Soft Underbelly
+### Soft Underbelly {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/soft-underbelly"}
 
 *Your companion ducks under your enemy's guard and rakes open their soft vitals, leaving them vulnerable.*
 
@@ -68,7 +68,7 @@ Choose one of the following abilities.
 
 **Effect:** While [bleeding](../../../../condition/bleeding.md) this way, the target has damage weakness 5.
 
-### Wraith Heart
+### Wraith Heart {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/wraith-heart"}
 
 *You and your companion become soul-freezing wraiths.*
 
@@ -82,7 +82,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Lead the Pack
+### Lead the Pack {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/lead-the-pack"}
 
 *Roaring like wild beasts, your companion and your allies rush toward the foe.*
 
@@ -92,7 +92,7 @@ Choose one of the following abilities.
 
 **Effect:** Your companion [shifts](../../../../movement/shifting.md) up to their speed and can make a melee free strike. As a free triggered action, you and up to 10 allies within 10 squares of your companion's starting position can shift up to their speed and make free strikes.
 
-### Rolling Thunder
+### Rolling Thunder {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/rolling-thunder"}
 
 *The rumble of your companion's dash is a rolling thunderclap, their impact an earthquake.*
 
@@ -114,7 +114,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Elements Unleashed
+### Elements Unleashed {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/elements-unleashed"}
 
 *Your companion's body becomes a bank of glowing coals, a web of arcing lightning, a cloud of rumbling thunder, or a flurry of dancing ice crystals.*
 
@@ -132,7 +132,7 @@ Your companion's transformation lasts until the start of your next turn. At the 
 
 **Spend 2 Ferocity:** You also transform.
 
-### Killing Frost
+### Killing Frost {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-6/killing-frost"}
 
 *Black frost freezes boots to the floor and creeps up trapped victims until they're completely encased in ice.*
 

@@ -111,11 +111,11 @@ Dazar stared at the man, this knight of Tor, and looked at Embers quietly radiat
 
 John was grinning madly at Embers. She held up three fingers.
 
-## Dwarf Traits
+## Dwarf Traits {data-scc="mcdm.heroes.v1/feature.trait.dwarf/dwarf-traits"}
 
 [Dwarf](dwarf.md) heroes have access to the following traits.
 
-### Signature Trait: Runic Carving
+### Signature Trait: Runic Carving {data-scc="mcdm.heroes.v1/feature.trait.dwarf/runic-carving"}
 
 You can carve a rune onto your skin with 10 uninterrupted minutes of work, which is activated by the magic within your body. The rune you carve determines the benefit you receive, chosen from among the following:
 
@@ -131,22 +131,22 @@ You can have one rune active at a time, and can change or remove a rune with 10 
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Spark Off Your Skin.)
 
-#### Great Fortitude
+#### Great Fortitude {data-scc="mcdm.heroes.v1/feature.trait.dwarf/great-fortitude"}
 
 Your hearty constitution prevents you from losing strength. You can't be made [weakened](../condition/weakened.md).
 
-#### Grounded
+#### Grounded {data-scc="mcdm.heroes.v1/feature.trait.dwarf/grounded"}
 
 Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to stability.
 
-#### Spark Off Your Skin
+#### Spark Off Your Skin {data-scc="mcdm.heroes.v1/feature.trait.dwarf/spark-off-your-skin"}
 
 Your stone skin affords you potent protection. You have a +6 bonus to Stamina, and that bonus increases by 6 at 4th, 7th, and 10th levels.
 
-#### Stand Tough
+#### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stand-tough"}
 
 Your body is made to withstand the blows of your enemies. Your Might score is treated as 1 higher for the purpose of resisting potencies, and you gain an edge on Might tests when called for to resist environmental effects or a creature's traits or abilities.
 
-#### Stone Singer
+#### Stone Singer {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stone-singer"}
 
 You have a magic connection to the earth. When you spend 1 uninterrupted hour singing, you can reshape any unworked mundane stone within 3 squares. You can't destroy this stone, but you can move each square of it anywhere within 3 squares, piling it off to one side to dig a hole or building it up to create a wall.

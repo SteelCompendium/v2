@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Coat the Blade
+## Coat the Blade {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/coat-the-blade"}
 
 
 *A little poison goes a long way.*

@@ -20,11 +20,11 @@ Your [talent tradition](talent-tradition.md) grants you two features, as shown o
 | Telekinesis | [Minor Telekinesis](../../../ability/talent/level-1/minor-telekinesis.md), [Repel](../../../ability/talent/level-1/repel.md)         |
 | Telepathy   | [Feedback Loop](../../../ability/talent/level-1/feedback-loop.md), [Remote Assistance](../../../ability/talent/level-1/remote-assistance.md) |
 
-## Accelerate
+## Accelerate {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/accelerate"}
 
 You have the following ability.
 
-### Accelerate
+### Accelerate {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/accelerate"}
 
 
 *To your ally, it seems as though the world has slowed down.*
@@ -37,11 +37,11 @@ You have the following ability.
 
 **Spend 2 Clarity:** The target can use a maneuver.
 
-## Again
+## Again {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/again"}
 
 You have the following ability.
 
-### Again
+### Again {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/again"}
 
 
 *You step back a split second to see if things play out a little differently.*
@@ -54,11 +54,11 @@ You have the following ability.
 
 **Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.
 
-## Feedback Loop
+## Feedback Loop {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/feedback-loop"}
 
 You have the following ability.
 
-### Feedback Loop
+### Feedback Loop {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/feedback-loop"}
 
 
 *Creating a brief psychic link between an enemy and their target gives that foe a taste of their own medicine.*
@@ -71,11 +71,11 @@ You have the following ability.
 
 **Effect:** The target takes psychic damage equal to half the triggering damage.
 
-## Minor Telekinesis
+## Minor Telekinesis {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/minor-telekinesis"}
 
 You have the following ability.
 
-### Minor Telekinesis
+### Minor Telekinesis {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/minor-telekinesis"}
 
 
 *Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
@@ -90,11 +90,11 @@ You have the following ability.
 
 **Spend 3 Clarity:** You can vertical slide the target.
 
-## Remote Assistance
+## Remote Assistance {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/remote-assistance"}
 
 You have the following ability.
 
-### Remote Assistance
+### Remote Assistance {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/remote-assistance"}
 
 
 *An ally gains the benefit of your intellect.*

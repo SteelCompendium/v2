@@ -13,7 +13,7 @@ type: chapter
 
 Virtue is its own reward... but wouldn't a magic sword also be kind of nice? As heroes adventure, they find and craft treasures even as they are awarded titles, earn renown, attract followers, and amass wealth. This chapter presents all the various rewards a hero can earn during their career! As you read over the rewards within, make note of the treasures and titles your hero would like to earn. Then you can start pursuing them during your adventures.
 
-## Treasures
+## Treasures {data-scc="mcdm.heroes.v1/chapter/treasures"}
 
 You've helped save the world! Or at least a corner of that world important to you. Now you deserve the treasures that can help you do so even more efficiently next time. So claim your magic sword, psionic shield, and Catapult Dust, and ride to your next adventure!
 
@@ -39,7 +39,7 @@ other times, generous and well-off individuals such as monarchs and powerful mag
 
 Heroes can also craft their own treasures, forging the tools they need to get the job done using the rules in Chapter 12: [Downtime Projects](downtime-projects.md). Items that can be crafted have their item prerequisite, project source, project roll characteristic, and project goal (the number of project points needed to complete the project) noted in their descriptions.
 
-#### What Does This Treasure Do?
+#### What Does This Treasure Do? {data-scc="mcdm.heroes.v1/treasure/what-does-this-treasure-do"}
 
 When a hero finds a treasure, they learn its properties if they examine it for 5 uninterrupted minutes, unless the item's description says otherwise.
 
@@ -47,7 +47,7 @@ When a hero finds a treasure, they learn its properties if they examine it for 5
 >
 > Each treasure has an item prerequisite necessary for crafting it. The exact nature of many of the materials used as an item's prerequisite is left nebulous so that the Director can more easily work those materials into a campaign. What's a mindspider, and how rare is their silk? That's for the Director to decide, whether they want to drop prerequisite items into their planned adventures or craft an entire side quest around finding them.
 
-#### Wearing Treasures
+#### Wearing Treasures {data-scc="mcdm.heroes.v1/treasure/wearing-treasures"}
 
 Many treasures, such as cloaks, jewelry, hats, and boots, must be worn. Unless the Director deems otherwise, these items supernaturally resize themselves to fit the creature using them.
 
@@ -57,7 +57,7 @@ Though body keywords indicate where a treasure is meant to be worn, treasures ca
 
 If a wearable treasure comes as a set, such as a pair of bracers, boots, or earrings, all items in the set must be worn to gain the treasure's benefits.
 
-#### Wielding Treasures
+#### Wielding Treasures {data-scc="mcdm.heroes.v1/treasure/wielding-treasures"}
 
 Some treasures are wielded in the form of weapons or implements. A weapon might have the Light Weapon, Medium Weapon, or Heavy Weapon keywords, or might have a keyword denoting a specific category of weapon (Bow, Polearm, and so forth). An implement might have the Implement keyword or a keyword denoting the type of implement (Orb, Wand, and so forth). Armor is also considered a wielded treasure, with the Light Armor, Medium Armor, or Heavy Armor keywords, or the Shield keyword.
 
@@ -71,11 +71,11 @@ If your hero doesn't use a kit, they can't gain benefits from using armor or wea
 
 A weapon's damage bonus only adds to melee abilities if your kit has a melee damage bonus. A weapon's damage bonus only adds to ranged abilities if your kit has a ranged damage bonus.
 
-#### Magic and Psionic Treasures
+#### Magic and Psionic Treasures {data-scc="mcdm.heroes.v1/treasure/magic-and-psionic-treasures"}
 
 The Magic and Psionic keywords for treasures refer to how those treasures are created, not how they are used. Just as magic potions and swords aren't limited only to characters who wield magic themselves, the Magic and Psionic keywords don't restrict the use of treasures to only certain types of characters, so that an implement with the Magic keyword can be used to enhance abilities with the Psionic keyword, and vice versa. Treasures that have the Magic or Psionic keyword and are used to enhance an ability don't add those keywords to the ability.
 
-#### Stamina Bonuses and Damage Bonuses
+#### Stamina Bonuses and Damage Bonuses {data-scc="mcdm.heroes.v1/treasure/stamina-bonuses-and-damage-bonuses"}
 
 If two treasures give a creature a bonus to their Stamina or a bonus to the rolled damage of their abilities, only the higher bonus applies unless the treasure's description notes otherwise. Stamina bonuses and damage bonuses from consumables ignore this rule, and can be stacked with other Stamina bonuses and damage bonuses granted by treasures.
 
@@ -105,7 +105,7 @@ Your character can carry any number of consumables at a time.
 >
 > Negotiation rules, motivations, pitfalls, interest, and patience: Chapter 11: [Negotiation](negotiation.md).
 
-#### 1st-Echelon Consumables
+#### 1st-Echelon Consumables {data-scc="mcdm.heroes.v1/treasure/1st-echelon-consumables"}
 
 This section presents 1st-echelon consumable treasures in alphabetical order.
 
@@ -355,7 +355,7 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Effect:** As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 bonus to the distance of any [forced movement](../../Browse/movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../../Browse/movement/forced-movement.md), you can push each creature targeted by the ability up to 2 squares.
 
-#### 2nd-Echelon Consumables
+#### 2nd-Echelon Consumables {data-scc="mcdm.heroes.v1/treasure/2nd-echelon-consumables"}
 
 This section presents 2nd-echelon consumable treasures in alphabetical order.
 
@@ -511,7 +511,7 @@ If you pull a size 1T object adjacent to you, you can catch it. This treasure ca
 
 **Effect:** As a maneuver, you throw this vial up to 10 squares, destroying the vial and creating a 2-cube ethereal vortex centered on the spot where it lands. The vortex dissipates at the end of the encounter or when you dismiss it (no action required). Any creature who enters the vortex for the first time in a combat round or starts their turn there takes 10 psychic damage. At the start of each of your turns, you can move the vortex up to 5 squares (no action required).
 
-#### 3rd-Echelon Consumables
+#### 3rd-Echelon Consumables {data-scc="mcdm.heroes.v1/treasure/3rd-echelon-consumables"}
 
 This section presents 3rd-echelon consumable treasures in alphabetical order.
 
@@ -649,7 +649,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Effect:** When you drink this tonic as a maneuver, you feel a surge of physical and spiritual immunity. You can immediately end up to three conditions or effects affecting you. Additionally, until the start of your next turn, you can ignore any effect that would last until the end of your next turn or be ended by a saving throw.
 
-#### 4th-Echelon Consumables
+#### 4th-Echelon Consumables {data-scc="mcdm.heroes.v1/treasure/4th-echelon-consumables"}
 
 This section presents 4th-echelon consumable treasures in alphabetical order.
 
@@ -727,7 +727,7 @@ Trinkets are treasures that can be used at will without a reduction in their pot
 
 Like consumables, trinket treasures are organized by echelon. You can carry any number of trinkets.
 
-#### 1st-Echelon Trinkets
+#### 1st-Echelon Trinkets {data-scc="mcdm.heroes.v1/treasure/1st-echelon-trinkets"}
 
 This section presents 1st-echelon trinket treasures in alphabetical order.
 
@@ -931,7 +931,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Effect:** These boots can temporarily unbind themselves from the chains of the earth, letting you move through the air as high as 3 squares above the ground from where you started. If you end your turn while you are still airborne, you fall.
 
-#### 2nd-Echelon Trinkets
+#### 2nd-Echelon Trinkets {data-scc="mcdm.heroes.v1/treasure/2nd-echelon-trinkets"}
 
 This section presents 2nd-echelon trinket treasures in alphabetical order.
 
@@ -1069,7 +1069,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 The coin must be picked up before it can be used again. If any creature picks up the coin, its effects immediately end.
 
-#### 3rd-Echelon Trinkets
+#### 3rd-Echelon Trinkets {data-scc="mcdm.heroes.v1/treasure/3rd-echelon-trinkets"}
 
 This section presents 3rd-echelon trinket treasures in alphabetical order.
 
@@ -1187,7 +1187,7 @@ Additionally, you have the following ability.
 
 **Effect:** Once per turn, you can use a maneuver to [teleport](../../Browse/movement/teleport.md) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](../../Browse/movement/teleport.md), you can [teleport](../../Browse/movement/teleport.md) up to 3 additional squares.
 
-#### 4th-Echelon Trinkets
+#### 4th-Echelon Trinkets {data-scc="mcdm.heroes.v1/treasure/4th-echelon-trinkets"}
 
 This section presents 4th-echelon trinket treasures in alphabetical order.
 
@@ -1233,11 +1233,11 @@ A trapped spirit remains in the lantern for 10 minutes. They remember being trap
 
 Like trinkets, leveled treasures can be used at will without a reduction in potency. However, leveled treasures tap into their wielder's will in a way that trinkets don't, becoming more powerful and increasing their capabilities as you gain new levels.
 
-#### Leveled Benefits
+#### Leveled Benefits {data-scc="mcdm.heroes.v1/treasure/leveled-benefits"}
 
 Each leveled treasure has benefits that you gain at 1st, 5th, and 9th levels. You can't use a treasure's benefit until you achieve the appropriate benefits level. [Leveled benefits](../../Browse/treasure/leveled-benefits.md) are cumulative.
 
-#### Carry Three Safely
+#### Carry Three Safely {data-scc="mcdm.heroes.v1/treasure/carry-three-safely"}
 
 Your connection with leveled treasures doesn't just make them useful. It also makes them dangerous. Each leveled treasure is a quasi-sentient, purpose-driven entity. A magic sword wishes to be used in combat. A psionic implement yearns to unleash its powerful magic. As such, a creature can safely carry a maximum of three leveled treasures at a time. If you carry more leveled treasures, those items become jealous of one another and fight for your attention, attempting to subconsciously influence you into using them—and leaving your other items behind.
 
@@ -1251,7 +1251,7 @@ It's fine to own or possess more than three leveled treasures, as long as the ex
 >
 > Because you can carry up to three leveled treasures safely, it's easy to assume that your hero should always seek out and carry three such treasures. The truth is that many heroes find carrying just one or two leveled treasures a perfect thematic and mechanical fit, and have no real need for more. That's totally fine! You'll still be super powerful with just one leveled treasure, especially if you obtain or craft trinkets and consumables that might serve you better.
 
-#### Leveled Armor Treasures
+#### Leveled Armor Treasures {data-scc="mcdm.heroes.v1/treasure/leveled-armor-treasures"}
 
 Magic and psionic armor and shields are the primary tools of heroes always ready to hurl themselves into combat. This section presents [leveled armor treasures](../../Browse/treasure/leveled-armor-treasures.md) in alphabetical order.
 
@@ -1455,7 +1455,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **9th Level:** The shield's bonus to Stamina increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](../../Browse/condition/grabbed.md) up to 5 squares.
 
-#### Leveled Implement Treasures
+#### Leveled Implement Treasures {data-scc="mcdm.heroes.v1/treasure/leveled-implement-treasures"}
 
 Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects used by magic and psionic heroes to focus their power. This section presents [leveled implement treasures](../../Browse/treasure/leveled-implement-treasures.md) in alphabetical order.
 
@@ -1579,7 +1579,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **9th Level:** While the tome is open, you automatically obtain a tier 3 outcome on Reason tests made to recall lore, and when you use a heroic ability, its Heroic Resource cost is reduced by 1 (to a minimum of 1).
 
-#### Leveled Weapon Treasures
+#### Leveled Weapon Treasures {data-scc="mcdm.heroes.v1/treasure/leveled-weapon-treasures"}
 
 For combat-focused heroes, weapons channeling magic and psionic power can easily tip the balance of any battle. This section presents [leveled weapon treasures](../../Browse/treasure/leveled-weapon-treasures.md) in alphabetical order.
 
@@ -1859,7 +1859,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to move up to your speed and make either a signature ability strike or a melee free strike.
 
-#### Other Leveled Treasures
+#### Other Leveled Treasures {data-scc="mcdm.heroes.v1/treasure/other-leveled-treasures"}
 
 In addition to armor, shields, implements, and weapons, heroes can make use of a wide range of [magic and psionic treasures](../../Browse/treasure/magic-and-psionic-treasures.md). This section presents other types of leveled treasures in alphabetical order.
 
@@ -2033,7 +2033,7 @@ When the Mortal Coil is left unattended or is in the possession of a creature wh
 
 **Beneath Contempt:** Deities and their servants always overlook the Mortal Coil and its host—either unable to notice it, or not considering it a threat. If the artifact is somehow destroyed or unmade through godly power, it consumes a year of life from every humanoid in the manifold where it was destroyed, then reforms in a hidden place.
 
-## Titles
+## Titles {data-scc="mcdm.heroes.v1/chapter/titles"}
 
 Titles are special benefits earned by heroes through adventure and mighty deeds. Heroes must win titles—sometimes individually, sometimes as a group—by accomplishing heroic tasks. Titles are the record of a hero's accomplishments, forming the basis of the stories told of them in taverns or whispered in the halls of the mighty.
 
@@ -2093,7 +2093,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 >
 > While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for. As such, it's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, you can include the [Demon Slayer](../../Browse/title/demon-slayer.md) or [Dragon Blooded](../../Browse/title/dragon-blooded.md) titles as potential rewards alongside that magic cloak or psionic dagger. You can even use titles to inspire adventures. What challenges should a hero face to earn the [Demigod](../../Browse/title/demigod.md) title?
 
-#### Ancient Loremaster
+#### Ancient Loremaster {data-scc="mcdm.heroes.v1/title/ancient-loremaster"}
 
 *It's astonishing what you find in old books. Look at this—nearly complete schematics for a war automaton, gathering dust because nobody here reads Zaliac.*
 
@@ -2105,7 +2105,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 - *Rare Books:* You add rare, ancient books to your collection. Whenever you undertake a research project, roll 1d6 for each dead language you know and add the total to the project roll.
 - *Susurrus Codex:* You find a sinister book that whispers advice in a voice no one else can hear. As long as you follow the book's advice, you gain an edge on Reason tests and take a bane on Presence tests. You can stop following the book's advice at any time, but the book won't speak to you for the rest of the day.
 
-#### Battleaxe Diplomat
+#### Battleaxe Diplomat {data-scc="mcdm.heroes.v1/title/battleaxe-diplomat"}
 
 *We seem to be equals in might and combat prowess. Perhaps we should bandy words awhile instead.*
 
@@ -2117,7 +2117,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 - *Truce!:* You have a double edge on tests made to stop combat and start a negotiation.
 - *Warriors' Understanding:* You gain an edge on Presence tests made to interact with creatures you have fought against in combat encounters.
 
-#### Brawler
+#### Brawler {data-scc="mcdm.heroes.v1/title/brawler"}
 
 *We won't kill you. But you might wish we had.*
 
@@ -2130,7 +2130,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 - *Headbutt:* While you are [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md), your free strikes don't take a bane when those conditions would impose one.
 - *If I Wanted You Dead, You'd Be Dead:* Whenever you defeat foes without killing any of them (including the foes you defeat to meet the prerequisite for this title), you gain an edge on tests during negotiations with those foes.
 
-#### City Rat
+#### City Rat {data-scc="mcdm.heroes.v1/title/city-rat"}
 
 *Stay out all night, visit the dives. Get in a fight, run from the cops. That's the real city.*
 
@@ -2142,7 +2142,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 - *One with the Crowd:* While you're using one or more creatures as cover, you gain an edge on tests made to hide and sneak.
 - *Street Smart:* While in a settlement, you can't be surprised.
 
-#### Doomed
+#### Doomed {data-scc="mcdm.heroes.v1/title/doomed"}
 
 *I don't know what it meant, but when I watched her die, I saw a vision. I watched her die and saw my own death. Am I losing my mind?*
 
@@ -2150,7 +2150,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Effect:** You aren't destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but remain conscious, you can become [doomed](../../Browse/title/doomed.md). If you do, you can't regain Stamina, you automatically obtain a tier 3 outcome on tests and power rolls, and you don't die until your Stamina reaches the negative of your Stamina maximum. At the end of the encounter, you die.
 
-#### Dwarven Legionnaire
+#### Dwarven Legionnaire {data-scc="mcdm.heroes.v1/title/dwarven-legionnaire"}
 
 *I have learned much. It might be your courage that inspires others. Watch your opponent's shield as well as their sword. And above all, [stand fast](../../Browse/feature/trait/censor/level-5/stand-fast.md), and do not yield.*
 
@@ -2162,7 +2162,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 - *Rune of Alarm:* You can spend 10 uninterrupted minutes to inscribe a magic eye-shaped rune on a surface. The rune sheds light for 2 squares. The rune is dispelled 1 minute after it is activated or if you inscribe the rune elsewhere. The rune activates when an enemy comes within 2 squares of it. When the rune is activated, you wake up if you are nonmagically asleep, and you can perceive through the rune for 1 minute as if you were in its square.
 - *Stonemeld:* While adjacent to a stone wall, you can use a maneuver to gain concealment. This concealment lasts until you leave the square or use an ability.
 
-#### Elemental Dabbler
+#### Elemental Dabbler {data-scc="mcdm.heroes.v1/title/elemental-dabbler"}
 
 *Spirit of fire, I command you!*
 
@@ -2174,7 +2174,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 - *Elemental Immunity:* You have immunity to the chosen damage type equal to your highest characteristic score.
 - *Elemental Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal damage of the chosen type instead of its usual damage type.
 
-#### Faction Member
+#### Faction Member {data-scc="mcdm.heroes.v1/title/faction-member"}
 
 *In six months, I'll be running this place.*
 
@@ -2191,7 +2191,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 **Special:** You can gain this title multiple times, once for each faction. You can be stripped of this title if you act against the faction's interests.
 
-#### Local Hero
+#### Local Hero {data-scc="mcdm.heroes.v1/title/local-hero"}
 
 *Your coin won't spend here. The Heroes of Gravesford drink for free in this tavern!*
 
@@ -2207,7 +2207,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 >
 > Many titles bestow Renown, followers, and wealth upon heroes. Those topics are covered later in this chapter.
 
-#### Mage Hunter
+#### Mage Hunter {data-scc="mcdm.heroes.v1/title/mage-hunter"}
 
 *Their power is dangerous. Unnatural. Someone needs to do something.*
 
@@ -2219,7 +2219,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 - *Oh No, You Don't!:* Whenever an adjacent creature uses an ability with the Magic keyword, you can make a free strike against them as a triggered action.
 - *Stink of Magic:* As a maneuver, you open your senses to the residue of magic. Until the end of your next turn, you are aware of whether each creature within 5 squares is a construct, an undead, or a creature from another world, and whether they have used a magic ability in the previous hour. Additionally, you can't be surprised by constructs, undead, or creatures from another world.
 
-#### Marshal
+#### Marshal {data-scc="mcdm.heroes.v1/title/marshal"}
 
 *I said you had twenty-four hours to leave town. That was... what, about twenty-four hours ago?*
 
@@ -2232,7 +2232,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 - *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the My Life for Yours feature from the [censor](../../Browse/class/censor.md) class. When you use that ability, you can't spend wrath unless you have the Wrath class feature.
 - *Trained Tracker:* You gain an edge on tests made to track criminals.
 
-#### Monster Bane
+#### Monster Bane {data-scc="mcdm.heroes.v1/title/monster-bane"}
 
 *You dare mock Blunwin Mousebane? You think my deed trivial? Ah, but you didn't see the size of the mouse!*
 
@@ -2244,7 +2244,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 - *Monster Soother:* You gain an edge on tests made to calm or tame nonsapient creatures.
 - *Monster Trophy:* You decorate your equipment with a trophy from a creature you defeated. While the trophy is visible, you gain an edge on tests made to intimidate sapient creatures.
 
-#### Owed a Favor
+#### Owed a Favor {data-scc="mcdm.heroes.v1/title/owed-a-favor"}
 
 *The Guild's gratitude knows no bounds! We'll repay you in any way we can... short of actually paying you.*
 
@@ -2254,7 +2254,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 Additionally, the faction is a good source of information. The Director chooses a skill from the crafting or lore skill groups appropriate to the faction, such as the Criminal Underworld skill for an outlaw gang, the Blacksmithing skill for a blacksmith's guild, or the Society skill for a [noble](../../Browse/title/noble.md) house. While in a settlement where the faction has a presence, you gain this skill if you don't already have it. If you already have the skill, you instead gain an edge on tests made using the skill.
 
-#### Presumed Dead
+#### Presumed Dead {data-scc="mcdm.heroes.v1/title/presumed-dead"}
 
 *But... you're dead. We went to your funeral.*
 
@@ -2264,7 +2264,7 @@ Additionally, the faction is a good source of information. The Director chooses 
 
 At a dramatic moment determined by the Director, you rejoin your party with an explanation for your narrow escape, and how you found your new trinket along the way.
 
-#### Ratcatcher
+#### Ratcatcher {data-scc="mcdm.heroes.v1/title/ratcatcher"}
 
 *I like fighting these little guys. Means I don't have to waste money on a helmet.*
 
@@ -2288,7 +2288,7 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 - *Deadly and Big:* Your strikes gain a +3 damage bonus against creatures whose size is smaller than yours.
 - *Everybody Move!:* When you use the Knockback maneuver, you can target one additional creature of your size or two additional smaller creatures.
 
-#### Saved for a Worse Fate
+#### Saved for a Worse Fate {data-scc="mcdm.heroes.v1/title/saved-for-a-worse-fate"}
 
 *Drink this. You'll need all your strength for what lies ahead!*
 
@@ -2303,7 +2303,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 - *Sacrifices:* You are to be dropped in a volcano, fed to a sacred monster, abandoned in a desert, or otherwise sacrificed to a higher power. You are bedecked with holy jewelry. Each hero earns 1 Wealth.
 - *Saviors:* Your captors fear an even stronger foe, and they want you to defeat this enemy for them. You can even keep any treasure you find while doing so.
 
-#### Ship Captain
+#### Ship Captain {data-scc="mcdm.heroes.v1/title/ship-captain"}
 
 *Up anchor, shipmates! 'Tisn't gold but glory we seek!*
 
@@ -2316,7 +2316,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 - *Signal Flags:* While aboard a ship, you can communicate with and conduct negotiations with another ship up to 5 miles away, as long as you and creatures on the other ship have line of effect to each other. You gain an edge on Presence tests made while negotiating in this way.
 - *Trained Crewmember:* You gain an edge on tests made to handle air or sea vessels.
 
-#### Troupe Leading Player
+#### Troupe Leading Player {data-scc="mcdm.heroes.v1/title/troupe-leading-player"}
 
 *We're actors! We're the opposite of people!*
 
@@ -2329,7 +2329,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 - *Supporting Player:* You gain an edge on group tests using Presence and on tests made to assist another creature with a Presence test.
 - *Work the Crowd:* While any of your allies is playing music or performing, you gain an edge on tests made to conceal objects, hide, pick pockets, or sneak.
 
-#### Wanted Dead or Alive
+#### Wanted Dead or Alive {data-scc="mcdm.heroes.v1/title/wanted-dead-or-alive"}
 
 *A hundred silver?! An insult! I turned my father in for fifty golden crowns. And he was innocent!*
 
@@ -2341,7 +2341,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 - *Minion Mower:* When you make a melee strike that targets a minion and at least one more minion is within distance of the strike, the strike gains a +3 damage bonus.
 - *No, You're Under Arrest!:* You gain an edge on the Escape Grab maneuver. Additionally, when you succeed on a test to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an adjacent creature of the same size without them immediately noticing.
 
-#### Zombie Slayer
+#### Zombie Slayer {data-scc="mcdm.heroes.v1/title/zombie-slayer"}
 
 *Why won't you die?! You've already done it once, you should be good at it by now!*
 
@@ -2368,7 +2368,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
-#### Arena Fighter
+#### Arena Fighter {data-scc="mcdm.heroes.v1/title/arena-fighter"}
 
 *You've never seen the showstopper? The move so brutal it was banned in the arena? Come closer and I'll show it to you.*
 
@@ -2396,7 +2396,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 >
 > **Effect:** If you kill a non-minion opponent using this ability, each enemy within 3 squares of you is [frightened](../../Browse/condition/frightened.md) (save ends).
 
-#### Awakened
+#### Awakened {data-scc="mcdm.heroes.v1/title/awakened"}
 
 *I was grappling with them, and when they died... I felt something happen. To me.*
 
@@ -2408,7 +2408,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Rogue [Talent](../../Browse/class/talent.md):* Choose one triggered action that the [talent](../../Browse/class/talent.md) class has access to at 1st level. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend clarity, you can't do so unless you have the Clarity class feature.
 - *Telepathy:* As a maneuver, you communicate telepathically with a creature within 10 squares who understands a language you know. The creature can respond telepathically as part of the same maneuver.
 
-#### Battlefield Commander
+#### Battlefield Commander {data-scc="mcdm.heroes.v1/title/battlefield-commander"}
 
 *Spells and shadows have their place, but it takes soldiers to hold the field.*
 
@@ -2432,7 +2432,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Renowned Warrior:* You earn 1 Renown.
 - *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../../Browse/class/tactician.md) class. You gain that feature even if you don't have the [Tactical Doctrine](../../Browse/feature/trait/tactician/level-1/tactical-doctrine.md) feature.
 
-#### Blood Magic
+#### Blood Magic {data-scc="mcdm.heroes.v1/title/blood-magic"}
 
 *Flow, blood, thou fiend's libation, and catch my foes in conflagration!*
 
@@ -2444,7 +2444,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Bloody Murder:* When you deal rolled damage to a creature with a strike, you can take damage equal to your level to deal twice that much corruption damage to the creature. The damage you take from this title can't be reduced in any way. You can use this benefit only once per ability. If the creature is reduced to 0 Stamina by this corruption damage, the creature explodes in a [shower of blood](../../Browse/feature/ability/fury/level-9/shower-of-blood.md) and you regain the Stamina you lost. You can't use this benefit on creatures without blood, such as constructs, elementals, or undead.
 - *I Reject This Evil Power!:* You gain corruption immunity equal to your level.
 
-#### Corsair
+#### Corsair {data-scc="mcdm.heroes.v1/title/corsair"}
 
 *Haul down your flag or we'll burn you to the waterline!*
 
@@ -2457,7 +2457,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Fearsome Reputation:* You earn 1 Renown.
 - *Scoundrel Tactics:* While aboard a ship, you can use the following skills to make a test to influence another ship up to 5 miles away whose crewmembers have line of effect to you, and you gain an edge when you do so. You can use Disguise to hide your ship's identity or general type, Intimidate to convince another ship's crew to flee or surrender, or Hide or Sneak to let your ship avoid notice.
 
-#### Faction Officer
+#### Faction Officer {data-scc="mcdm.heroes.v1/title/faction-officer"}
 
 *If you want or need something, talk to me. I have a certain... influence in these parts.*
 
@@ -2468,7 +2468,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Requisition:* When you gain this title, you gain a 1st- or 2nd-echelon magic trinket of your choice from your faction (see Treasures earlier in this chapter). Whenever you gain a level, you can swap the trinket out for another one.
 - *You're the Boss:* Lower-ranking members of your faction follow your routine orders. In nonroutine matters, you gain an edge on tests made to influence those characters' behavior.
 
-#### Fey Friend
+#### Fey Friend {data-scc="mcdm.heroes.v1/title/fey-friend"}
 
 *Do you enjoy the vintage? Yes, you can understand my tongue now. One does not drink at my table and leave unchanged.*
 
@@ -2480,7 +2480,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Gift of Foresight:* When resisting potencies, your Intuition score is considered to be 1 higher than usual.
 - *Gift of Knowledge:* You gain an edge on tests you make that use any skill from the lore skill group.
 
-#### Giant Slayer
+#### Giant Slayer {data-scc="mcdm.heroes.v1/title/giant-slayer"}
 
 *Come back here, puny one, and let me crush you!*
 
@@ -2508,7 +2508,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 - *Up the Beanstalk:* You have the [Climb](../../Browse/skill/climb.md) skill. If you already have this skill, you instead gain an edge on tests made using the [Climb](../../Browse/skill/climb.md) skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
 
-#### Godsworn
+#### Godsworn {data-scc="mcdm.heroes.v1/title/godsworn"}
 
 *He seemed like he needed help! Now the dead speak to me. I think maybe that old man was more than he appeared.*
 
@@ -2520,7 +2520,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Last-Ditch Prayer:* As a free maneuver, you recite a prayer for help, gaining a pool of 2d10 of the Heroic Resource granted by your class. This pool disappears at the end of your turn if you haven't used it. Once you use this benefit, you can't use it again until you perform another service for a god or saint, or until you gain a level.
 - *Touched by the Divine:* Choose a god or saint from the Deities and  Domains table in Chapter 14: [Gods and Religion](gods-and-religion.md). From that god or saint's domains, choose a [Conduit](../../Browse/class/conduit.md) 1st-level domain feature (see Chapter 5: [Classes](classes.md)).
 
-#### Heist Hero
+#### Heist Hero {data-scc="mcdm.heroes.v1/title/heist-hero"}
 
 *Everybody know their assignments? All right, let's go.*
 
@@ -2545,7 +2545,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 >
 > **Effect:** You momentarily attract the target's notice to let your ally reroll their test. Once you use this ability, you can't use it again against the same target for 1 hour.
 
-#### Knight
+#### Knight {data-scc="mcdm.heroes.v1/title/knight"}
 
 *Kneel, heroes. Arise, knights of Tor, and may your swords be ever sharp in our service.*
 
@@ -2576,7 +2576,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 >
 > **Special:** If you take this title, you might occasionally be called upon to perform duties for the person who knighted you.
 
-#### Master Librarian
+#### Master Librarian {data-scc="mcdm.heroes.v1/title/master-librarian"}
 
 *You want to know the exact coordinates of the **Gem of the Waves** shipwreck? I came across that just the other day in an unpublished memoir of its second mate. Let me get that for you.*
 
@@ -2589,7 +2589,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Picked Up a Few Things:* You know a skill from the lore skill group.
 - *Polyglot:* You know two languages. Additionally, the project goal for the Learn New Language project is halved for you.
 
-#### Special Agent
+#### Special Agent {data-scc="mcdm.heroes.v1/title/special-agent"}
 
 *And this is interesting... if you twist the third button on your overcoat no, don't do it now!*
 
@@ -2610,7 +2610,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 - Choose a square within 10 squares, even if you don't have line of effect to it. You can observe the area around that square as if you were in it.
 - You throw the boffin up to 10 squares, where it explodes in a 5 cube. Each creature in the area takes fire damage equal to 2d10 + your level. The boffin is permanently destroyed but can be replaced by your spymaster... though they don't like doing so too often.
 
-#### Sworn Hunter
+#### Sworn Hunter {data-scc="mcdm.heroes.v1/title/sworn-hunter"}
 
 *I will follow you to the ends of the earth—just so I can kick you off the edge.*
 
@@ -2622,7 +2622,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 - *Particular Set of Skills:* You know a skill from the intrigue skill group.
 - *We're In This Together:* When you have a creature [grabbed](../../Browse/condition/grabbed.md) and take damage from an ability not used by that creature, the [grabbed](../../Browse/condition/grabbed.md) creature takes the same damage.
 
-#### Undead Slain
+#### Undead Slain {data-scc="mcdm.heroes.v1/title/undead-slain"}
 
 *No, I didn't get bitten. And yes, I'm fine!*
 
@@ -2634,7 +2634,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 - *Incorporeal Undead:* You can move through other creatures and objects. The first time in a combat round that you pass through a creature, that creature takes corruption damage equal to half your level. You don't take damage from being [force moved](../../Browse/movement/forced-movement.md) into objects.
 - *Other Corporeal Undead:* When you are reduced to 0 Stamina by damage that isn't fire or holy damage and your body isn't destroyed, you can regain half your Stamina and [fall prone](../../Browse/condition/prone.md). Once you use this benefit, you can't use it again until you earn 10 or more Victories.
 
-#### Unstoppable
+#### Unstoppable {data-scc="mcdm.heroes.v1/title/unstoppable"}
 
 *I seen the goblin king run 'im through with a spear. Then I seen 'im pull 'imself back up, spear still in 'im, and headbutt the goblin king... then he pulls out the spear and throws it on the goblin king's corpse.*
 
@@ -2650,7 +2650,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
-#### Armed and Dangerous
+#### Armed and Dangerous {data-scc="mcdm.heroes.v1/title/armed-and-dangerous"}
 
 *I'm not picky. Any tool will suffice. A sword seems a most appropriate tool for this job.*
 
@@ -2658,7 +2658,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** You can use and gain the benefits of kits.
 
-#### Back From the Grave
+#### Back From the Grave {data-scc="mcdm.heroes.v1/title/back-from-the-grave"}
 
 *Hi! Remember me?*
 
@@ -2666,7 +2666,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** You are restored to life. You gain the Tough But Withered signature trait from the [revenant](../../Browse/ancestry/revenant.md) ancestry.
 
-#### Demon Slayer
+#### Demon Slayer {data-scc="mcdm.heroes.v1/title/demon-slayer"}
 
 *F'lath v'korr en zaratha g'rrack.*
 
@@ -2682,7 +2682,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Special:** When you make a Presence test and roll a natural 5 or lower, you are cursed to communicate in only Proto-Ctholl for 1 minute, whether you know that language or not.
 
-#### Diabolist
+#### Diabolist {data-scc="mcdm.heroes.v1/title/diabolist"}
 
 *If you can't beat 'em, join 'em.*
 
@@ -2695,7 +2695,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 - *Sly [Devil](../../Browse/ancestry/devil.md):* You gain the Silver Tongue signature trait from the [devil](../../Browse/ancestry/devil.md) ancestry.
 - *Untouched by Corruption:* Whenever you use a damage-dealing ability, that ability can deal holy damage instead of its usual damage type.
 
-#### Dragon Blooded
+#### Dragon Blooded {data-scc="mcdm.heroes.v1/title/dragon-blooded"}
 
 *I stabbed the wyrm Axarthan in the heart and their silver blood washed over me, leaving me... as you see.*
 
@@ -2706,7 +2706,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 - *Dragon Scaled:* Dragon scales grow on your body wherever the heart's blood of the dragon touched you. You gain the Wyrmplate signature trait from the [dragon knight](../../Browse/ancestry/dragon-knight.md) ancestry (see Chapter 3: [Ancestries](ancestries.md)).
 - *Dragon Touched:* You gain 3 ancestry points to spend on purchased [dragon knight](../../Browse/ancestry/dragon-knight.md) [ancestry traits](ancestries.md).
 
-#### Fleet Admiral
+#### Fleet Admiral {data-scc="mcdm.heroes.v1/title/fleet-admiral"}
 
 *All hail the Pirate Queen!*
 
@@ -2724,7 +2724,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
   - *Light Winds:* No effects due to weather.
   - *Storm:* The crew of an unsheltered wind-powered vessel must make a medium group Reason test. On a failure, the vessel needs repairs and moves at half speed until those repairs are made.
 
-#### Maestro
+#### Maestro {data-scc="mcdm.heroes.v1/title/maestro"}
 
 *When I saw the bloodstained manuscript under Fellwander's arm, I knew his quest for the Opera was over—and with it, his chance for redemption.*
 
@@ -2754,7 +2754,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 - *Music of the Spheres:* As a main action, you sing or play a note as delicate and sharp as glass—and just as easily shattered. Until the start of your next turn, whenever a creature within 10 squares makes a strike, they take 8 sonic damage. Whenever you make a strike during that same period, you also take 8 sonic damage.
 
-#### Master Crafter
+#### Master Crafter {data-scc="mcdm.heroes.v1/title/master-crafter"}
 
 *The sword Vanartha has been remade, mightier now than on the day it was forged.*
 
@@ -2767,7 +2767,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 - *Skilled Hands:* You have a skill from the crafting skill group that would have been used during the creation of the prerequisite item. If you already have that skill, you instead gain an edge on tests made using the skill. Additionally, you gain a second skill of your choice from the crafting skill group.
 - *Strong Hands Make Light Work:* Whenever you make a project roll, you can use Might as the project roll characteristic.
 
-#### Noble
+#### Noble {data-scc="mcdm.heroes.v1/title/noble"}
 
 *Technically, I'm called Lord Morninghill these days. I did a little favor for Duke Kenway at the Battle of Black Forest.*
 
@@ -2781,7 +2781,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Special:** If you take this title, you might occasionally be called upon to perform duties for the person who granted your [noble](../../Browse/title/noble.md) rank.
 
-#### Planar Voyager
+#### Planar Voyager {data-scc="mcdm.heroes.v1/title/planar-voyager"}
 
 *I've seen skywhales floating above the seas of Primordius. I've seen star freighters dancing around the moons of Axiom. So I guess you're right, I'm not from around these parts.*
 
@@ -2793,7 +2793,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 - *Stellar Knowledge:* You gain the Mechanics skill. If you already have this skill, you instead gain an edge on tests made using the skill. Additionally, you gain the item prerequisite and project source for a psionic trinket.
 - *[Time Raider](../../Browse/ancestry/time-raider.md) Training:* You gain 2 ancestry points to spend on purchased [time raider](../../Browse/ancestry/time-raider.md) [ancestry traits](ancestries.md) (see Chapter 3: [Ancestries](ancestries.md)).
 
-#### Scarred
+#### Scarred {data-scc="mcdm.heroes.v1/title/scarred"}
 
 *Last time we fought, I gave you a little token to remember me by... now it appears you need another reminder of my power.*
 
@@ -2803,7 +2803,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Special:** You can gain this title multiple times. The second and each subsequent time that you gain it, your Stamima maximum doesn't increase..
 
-#### Siege Breaker
+#### Siege Breaker {data-scc="mcdm.heroes.v1/title/siege-breaker"}
 
 *Best way to deal with a castle siege? Be on the outside.*
 
@@ -2815,7 +2815,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 - *Hold the Line:* While you're within 5 squares of an ally, you and each ally within 5 squares of you gains a +3 bonus to stability.
 - *Last Defender:* Whenever an ally within 5 squares is reduced to 0 Stamina, you gain temporary Stamina equal to the ally's level (or 1 if they have no level). If you already have temporary Stamina granted by this title, you increase your temporary Stamina by the amount you would have gained.
 
-#### Teacher
+#### Teacher {data-scc="mcdm.heroes.v1/title/teacher"}
 
 *Someday, I'll understand how peeling these carrots for dinner relates to my [elementalist](../../Browse/class/elementalist.md) training.*
 
@@ -2827,7 +2827,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 Titles suitable for 4th-echelon characters are presented in alphabetical order.
 
-#### Champion Competitor
+#### Champion Competitor {data-scc="mcdm.heroes.v1/title/champion-competitor"}
 
 *Marduk uses the Beldoit Gambit! Avanna counters with the Iron Defense and goes on the attack! Marduk's last tower is knocked down! And just like that, we have a new... world... champion!*
 
@@ -2839,7 +2839,7 @@ Titles suitable for 4th-echelon characters are presented in alphabetical order.
 - *Glory and Riches:* You earn 2 Renown and 1 Wealth.
 - *I'll Just Take the Prize:* You gain a trinket or leveled treasure of the Director's choice.
 
-#### Demigod
+#### Demigod {data-scc="mcdm.heroes.v1/title/demigod"}
 
 *The ritual is complete. I feel your power flow through me. I am become a god! Ah-ha-ha-ha-ha!*
 
@@ -2857,7 +2857,7 @@ Additionally, choose one of the following benefits:
 - *Divine Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal corruption or holy damage instead of its usual damage type.
 - *Missionaries:* You earn 2 Renown.
 
-#### Enlightened
+#### Enlightened {data-scc="mcdm.heroes.v1/title/enlightened"}
 
 *Don't you see? This world that seems so real to you is nothing but a game, and all the people merely pieces!*
 
@@ -2869,7 +2869,7 @@ Additionally, choose one of the following benefits:
 - *Mind Over Matter:* Whenever you spend a Recovery, you can end one condition on yourself.
 - *Rearrange the Game Pieces:* You can reach behind the curtain and alter reality. At the start of combat, choose yourself or any creature within 5 squares. The chosen target must move up to their speed to a space you choose, but can't enter [damaging terrain](../../Browse/movement/damaging-terrain.md) or terrain that could impose a condition on them. The target doesn't appear to move or [teleport](../../Browse/movement/teleport.md) to that space—they are simply there. No one but you has any memory of the target's previous position.
 
-#### Forsaken
+#### Forsaken {data-scc="mcdm.heroes.v1/title/forsaken"}
 
 *The quest is done, the enemy is defeated, and the Blade of a Thousand Years has passed from our hands. What do we do with the rest of our lives?*
 
@@ -2881,7 +2881,7 @@ Additionally, choose one of the following benefits:
 - *Perfect Protection:* The Director chooses a damage type that is dealt by or thematically related to the artifact—for instance, holy for the Blade of a Thousand Years, psychic for the Encepter, or corruption for the Mortal Coil. You have immunity all to the chosen damage type.
 - *Poor Compensation:* Instead of disappearing or otherwise departing, the artifact turns into a trinket or leveled treasure of the Director's choice that has the same approximate shape as the lost item—for instance, any magic sword for the Blade of a Thousand Years, any implement for the Encepter, or a Thief of Joy or any other torque for the Mortal Coil.
 
-#### Monarch
+#### Monarch {data-scc="mcdm.heroes.v1/title/monarch"}
 
 *The tyrant is dead! Long live the new king!*
 
@@ -2901,7 +2901,7 @@ Additionally, choose one of the following benefits:
 
 **Special:** If you take this title, you might be called upon to perform duties for your nation.
 
-#### Peace Bringer
+#### Peace Bringer {data-scc="mcdm.heroes.v1/title/peace-bringer"}
 
 *There goes Diana, [peace bringer](../../Browse/title/peace-bringer.md). She has won many a victory with her sword, but her greatest deed was convincing two nations to stop fighting.*
 
@@ -2914,7 +2914,7 @@ Additionally, choose one of the following benefits:
 - *Hear Me Out:* While you are present in a negotiation, an NPC's starting patience increases by 3 (to a maximum of 5).
 - *Many Paths to Peace:* When you make a test with a skill from the interpersonal skill group, you can use any characteristic of your choice for the test.
 
-#### Reborn
+#### Reborn {data-scc="mcdm.heroes.v1/title/reborn"}
 
 *I remember this world. I suppose my task is not yet complete.*
 
@@ -2930,7 +2930,7 @@ Additionally, choose one of the following benefits:
 
 **Special:** If a [hakaan](../../Browse/ancestry/hakaan.md) gains this title as a result of using their Doomsight trait, they lose that trait.
 
-#### Theoretical Warrior
+#### Theoretical Warrior {data-scc="mcdm.heroes.v1/title/theoretical-warrior"}
 
 *I've read about this tactic in books—it looks fairly straightforward.*
 
@@ -2940,7 +2940,7 @@ Additionally, choose one of the following benefits:
 
 Additionally, choose a heroic ability belonging to any class. You gain this heroic ability, which can be paid for using the Heroic Resource of your class. You can't use a heroic ability that requires a class feature you don't have.
 
-#### Tireless
+#### Tireless {data-scc="mcdm.heroes.v1/title/tireless"}
 
 *To reach Giant's Foot by dawn, we'll have to run every step of the way. Let's get moving.*
 
@@ -2952,7 +2952,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 - *Reserves of Strength:* Your recovery value is half your Stamina
 - *Undying:* You can't be affected by the [bleeding](../../Browse/condition/bleeding.md) condition.
 
-#### Unchained
+#### Unchained {data-scc="mcdm.heroes.v1/title/unchained"}
 
 *I'll never get away with it? My dear, I already have.*
 
@@ -2995,11 +2995,11 @@ You can recruit followers up to the maximum your Renown allows as a respite acti
 | 9      | 3                   |
 | 12     | 4                   |
 
-#### Stronghold
+#### Stronghold {data-scc="mcdm.heroes.v1/title/stronghold"}
 
 Many followers stay at a [stronghold](../../Browse/title/stronghold.md), which is a home base you designate and can change. Your [stronghold](../../Browse/title/stronghold.md) is typically a location shared by your fellow heroes. It could be a few rooms at an inn in a sleepy village, an old castle you claimed after clearing it of monsters, or a fleet of sailing ships.
 
-#### Follower Types
+#### Follower Types {data-scc="mcdm.heroes.v1/title/follower-types"}
 
 When you attract a new follower, you decide on their name and ancestry, and choose what role they play in their service to you.
 

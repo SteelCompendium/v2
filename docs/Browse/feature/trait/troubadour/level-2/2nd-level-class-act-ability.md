@@ -16,7 +16,7 @@ Your [troubadour class act](../level-1/troubadour-class-act.md) grants your choi
 
 Choose one of the following abilities.
 
-### Guest Star
+### Guest Star {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/guest-star"}
 
 
 *We offered them a percentage of the gross. So they're working for free!*
@@ -27,7 +27,7 @@ Choose one of the following abilities.
 
 **Effect:** A [guest star](../../../ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This [guest star](../../../ability/troubadour/level-2/guest-star.md) is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged free strikes. At the end of the encounter, or when the [guest star](../../../ability/troubadour/level-2/guest-star.md) is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
 
-### Twist at the End
+### Twist at the End {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/twist-at-the-end"}
 
 
 *You didn't see that coming, did you?!*
@@ -42,7 +42,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Classic Chandelier Stunt
+### Classic Chandelier Stunt {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/classic-chandelier-stunt"}
 
 
 *Audiences love this bit.*
@@ -53,7 +53,7 @@ Choose one of the following abilities.
 
 **Effect:** Each target can [shift](../../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee free strike that deals extra damage equal to twice their highest characteristic score.
 
-### En Garde!
+### En Garde! {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/en-garde"}
 
 
 *Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*
@@ -74,7 +74,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Encore
+### Encore {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/encore"}
 
 
 *Again! Again!*
@@ -85,7 +85,7 @@ Choose one of the following abilities.
 
 **Effect:** You use an ability that you have observed being used this combat round. The ability must have the Strike keyword, cost 5 or fewer of a Heroic Resource, and cost no Malice. When you make the strike, you use your Presence score for any power rolls, and any damage you deal is sonic damage.
 
-### Tough Crowd
+### Tough Crowd {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/tough-crowd"}
 
 
 *Your fans don't seem to like the opening act...*

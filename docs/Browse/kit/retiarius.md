@@ -34,7 +34,7 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 ## Signature Ability
 
-### Net and Stab
+### Net and Stab {data-scc="mcdm.heroes.v1/feature.ability.retiarius/net-and-stab"}
 
 *The well-thrown net that follows your main attack leaves your foes right where you want them.*
 

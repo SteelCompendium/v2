@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability, which you can use once on your turn.
 
-## Healing Grace
+## Healing Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/healing-grace"}
 
 
 *Your divine energy restores the righteous.*

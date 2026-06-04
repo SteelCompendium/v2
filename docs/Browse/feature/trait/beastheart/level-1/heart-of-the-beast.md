@@ -14,7 +14,7 @@ You and your companion share a primordial bond so intense your hearts literally 
 
 Both you and your companion can use the following ability.
 
-### Heart of the Beast
+### Heart of the Beast {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/heart-of-the-beast"}
 
 *"Better look away—this might not be pretty."*
 
@@ -30,7 +30,7 @@ Both you and your companion can use the following ability.
 
 **Spend 5 Ferocity:** You restore your dead partner to life with 1 Stamina, even if their body was destroyed. They gain no temporary Stamina if you use this ability this way.
 
-### Feral Strike
+### Feral Strike {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/feral-strike"}
 
 Relying on their instincts, your companion launches toward the nearest threat. Your companion lunges into the fray, attacking wildly with teeth, claws, or other weapons.
 

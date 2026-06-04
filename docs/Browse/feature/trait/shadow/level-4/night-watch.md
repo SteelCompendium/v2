@@ -14,7 +14,7 @@ Your sense for stealth shows those around you how to evade notice. While you are
 
 Additionally, you have the following ability.
 
-## Night Watch
+## Night Watch {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-4/night-watch"}
 
 
 *A steely dagger from out of the blue knocks another weapon off course.*

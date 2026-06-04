@@ -17,11 +17,11 @@ The following perks can be taken only by beastheart characters.
 
 This section presents exploration perks in alphabetical order.
 
-### Born Tracker
+### Born Tracker {data-scc="mcdm.beastheart.v1/perk/born-tracker"}
 
 You and your companion gain an edge on tests made to track creatures, find your way, or search for hidden creatures.
 
-### Ride Along
+### Ride Along {data-scc="mcdm.beastheart.v1/perk/ride-along"}
 
 Your bond with your companion has permeated your very soul; you are just as much beast as you are beastheart. You can leave behind your mortal body and join your consciousness to that of your companion. You have the following ability.
 
@@ -41,7 +41,7 @@ While you are riding along, your companion continues to benefit from any magic t
 
 While you are riding along, you can't act except to spend a free maneuver to regain your body. You also regain your body if your companion dies or chooses to eject you. When you regain your body, you reappear in a space adjacent to your companion.
 
-### Wild Rumpus
+### Wild Rumpus {data-scc="mcdm.beastheart.v1/perk/wild-rumpus"}
 
 You have the following ability.
 
@@ -57,7 +57,7 @@ You have the following ability.
 
 equal to your level until you finish a respite or gain 1 or more Victories. This damage can't be reduced in any way and doesn't end this ability's effect.
 
-### Wilds Explorer
+### Wilds Explorer {data-scc="mcdm.beastheart.v1/perk/wilds-explorer"}
 
 You and your companion gain an edge on tests made to overcome environmental cold, heat, weather, unsteady ground, or challenging terrain. During your turn, you and your companion can ignore the first square of [difficult terrain](../../Browse/movement/difficult-terrain.md) you each enter.
 
@@ -65,7 +65,7 @@ You and your companion gain an edge on tests made to overcome environmental cold
 
 This section presents an intrigue perk.
 
-### Trained Thief
+### Trained Thief {data-scc="mcdm.beastheart.v1/perk/trained-thief"}
 
 You have the Conceal Object or Pick Pocket skill. Your companion can make a test using that skill as a maneuver.
 
@@ -73,14 +73,14 @@ You have the Conceal Object or Pick Pocket skill. Your companion can make a test
 
 This section presents interpersonal perks in alphabetical order.
 
-### People Sense
+### People Sense {data-scc="mcdm.beastheart.v1/perk/people-sense"}
 
 Whenever you or your companion makes a test to determine a creature's motives, emotions, or body language while within 5 squares of each other, your partner can make the same test as a free triggered action. You both use the higher result.
 
-### Voice of the Wild
+### Voice of the Wild {data-scc="mcdm.beastheart.v1/perk/voice-of-the-wild"}
 
 Your companion can speak any language you can speak.
 
-### You Can Pet Them, They're Friendly
+### You Can Pet Them, They're Friendly {data-scc="mcdm.beastheart.v1/perk/you-can-pet-them-theyre-friendly"}
 
 Whenever you make a Presence test to interact with a creature while you are within 5 squares of your companion, you can use your companion's Presence instead of your own.

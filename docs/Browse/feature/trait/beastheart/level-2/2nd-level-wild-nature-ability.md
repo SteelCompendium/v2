@@ -16,7 +16,7 @@ Your wild nature grants your choice of one of two heroic abilities.
 
 Choose one of the following abilities.
 
-### Fetch!
+### Fetch! {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/fetch"}
 
 *Your companion blinks out of existence, returning with a visitor you were particularly hoping to meet.*
 
@@ -34,7 +34,7 @@ Choose one of the following abilities.
 
 After making the power roll, your companion can teleport with a [grabbed](../../../../condition/grabbed.md) creature or held object, provided the creature or object can fit in the destination. You choose which squares adjacent to your companion the [grabbed](../../../../condition/grabbed.md) creature or held object is teleported to.
 
-### Omnomnom
+### Omnomnom {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/omnomnom"}
 
 *What do you have in your mouth? No! Bad boy!*
 
@@ -58,7 +58,7 @@ Once per round at the start of your turn, the swallowed creature takes acid dama
 
 Choose one of the following abilities.
 
-### Jump Scare
+### Jump Scare {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/jump-scare"}
 
 *Surprised to see me?*
 
@@ -76,7 +76,7 @@ Choose one of the following abilities.
 - **12-16:** 6 damage; P < AVERAGE [frightened](../../../../condition/frightened.md) (save ends)
 - **17+:** 10 damage; P < STRONG [frightened](../../../../condition/frightened.md) (save ends)
 
-### On You Like Your Shadow
+### On You Like Your Shadow {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/on-you-like-your-shadow"}
 
 *Your companion darts around their target, staying out of reach and using them as a shield.*
 
@@ -96,7 +96,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Foe Bowling
+### Foe Bowling {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/foe-bowling"}
 
 *Your companion sends one enemy tumbling into another, taking them both out.*
 
@@ -112,7 +112,7 @@ Choose one of the following abilities.
 
 **Effect:** If the target is [force moved](../../../../movement/forced-movement.md) at least 1 square, an enemy adjacent to the target at the end of this forced movement is also targeted by this ability's power roll, but they don't trigger this effect.
 
-### One Roar and We're Back In the Fight
+### One Roar and We're Back In the Fight {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/one-roar-and-were-back-in-the-fight"}
 
 *Your companion builds up courage with a roar, growl, or aggressive display.*
 
@@ -126,7 +126,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Burning Lash
+### Burning Lash {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/burning-lash"}
 
 *A blazing tongue of energy entangles a foe.*
 
@@ -142,7 +142,7 @@ Choose one of the following abilities.
 
 **Spend 1 Ferocity:** If you are within distance of the target, you can use a free maneuver to wield a second whip, dealing extra fire or lightning damage equal to your Intuition score.
 
-### Howling Gale
+### Howling Gale {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-2/howling-gale"}
 
 *A blizzard or thunderstorm sends foes flying and lifts you like a feather.*
 

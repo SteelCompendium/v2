@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Trinity of Trickery
+## Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-7/trinity-of-trickery"}
 
 
 *Hey! I'm over here. No, here, numbskull.*

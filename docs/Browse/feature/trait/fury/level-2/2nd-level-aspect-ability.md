@@ -16,7 +16,7 @@ Your [primordial aspect](../level-1/primordial-aspect.md) grants your choice of 
 
 Choose one of the following abilities.
 
-### Special Delivery
+### Special Delivery {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/special-delivery"}
 
 
 *You ready?*
@@ -27,7 +27,7 @@ Choose one of the following abilities.
 
 **Effect:** You vertically push the target up to 4 squares. This [forced movement](../../../../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
 
-### Wrecking Ball
+### Wrecking Ball {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball"}
 
 
 *It's easier to destroy than to create. Much easier, in fact!*
@@ -50,7 +50,7 @@ Additionally, you make one power roll that targets each enemy you move adjacent 
 
 Choose one of the following abilities.
 
-### Death... Death!
+### Death... Death! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/death-death"}
 
 
 *Your unbridled rage strikes terror in their hearts.*
@@ -65,7 +65,7 @@ Choose one of the following abilities.
 - **12-16:** 5 + M damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)
 - **17+:** 8 + M damage; P < STRONG, [dazed](../../../../condition/dazed.md) and [frightened](../../../../condition/frightened.md) (save ends)
 
-### Phalanx-Breaker
+### Phalanx-Breaker {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/phalanx-breaker"}
 
 
 *Organizing your forces like feckless creatures of Law. Pitiful.*
@@ -86,7 +86,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Apex Predator
+### Apex Predator {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/apex-predator"}
 
 
 *I will hunt you down.*
@@ -103,7 +103,7 @@ Choose one of the following abilities.
 
 **Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
 
-### Visceral Roar
+### Visceral Roar {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/visceral-roar"}
 
 
 *The sound of the storm within you staggers your opponents.*

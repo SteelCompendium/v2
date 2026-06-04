@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 9 clarity to use.
 
-## Exothermic Shield
+## Exothermic Shield {data-scc="mcdm.heroes.v1/feature.ability.talent.level-5/exothermic-shield"}
 
 
 *You encase the target in psionic flame and allow them to flicker without fear of burning out.*
@@ -25,7 +25,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 
 **Strained:** The target gains 2 surges. You are [weakened](../../../../condition/weakened.md) and [slowed](../../../../condition/slowed.md) (save ends).
 
-## Hypersonic
+## Hypersonic {data-scc="mcdm.heroes.v1/feature.ability.talent.level-5/hypersonic"}
 
 
 *You move fast enough to turn around and watch your foes feel the aftermath.*
@@ -44,7 +44,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 
 **Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../../../../condition/slowed.md) until the end of your turn and each target is [slowed](../../../../condition/slowed.md) until the end of their turn.
 
-## Mind Snare
+## Mind Snare {data-scc="mcdm.heroes.v1/feature.ability.talent.level-5/mind-snare"}
 
 
 *You latch onto your prey's brain and don't let go, like a song they can't get out of their head.*
@@ -63,7 +63,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 
 **Strained:** While [slowed](../../../../condition/slowed.md) this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are [slowed](../../../../condition/slowed.md) this way.
 
-## Soulbound
+## Soulbound {data-scc="mcdm.heroes.v1/feature.ability.talent.level-5/soulbound"}
 
 
 *You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.*

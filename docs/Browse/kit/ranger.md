@@ -37,7 +37,7 @@ You wear medium armor and wield a bow and a medium weapon.
 
 ## Signature Ability
 
-### Hamstring Shot
+### Hamstring Shot {data-scc="mcdm.heroes.v1/feature.ability.ranger/hamstring-shot"}
 
 *A well-placed shot leaves your enemy struggling to move.*
 

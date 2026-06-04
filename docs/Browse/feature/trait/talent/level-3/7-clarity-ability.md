@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 7 clarity to use.
 
-## Fling Through Time
+## Fling Through Time {data-scc="mcdm.heroes.v1/feature.ability.talent.level-3/fling-through-time"}
 
 
 *You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.*
@@ -31,7 +31,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](../../../../ancestry/human.md)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
 
-## Force Orbs
+## Force Orbs {data-scc="mcdm.heroes.v1/feature.ability.talent.level-3/force-orbs"}
 
 
 *Spheres of solid psionic energy float around you.*
@@ -52,7 +52,7 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 
 **Strained:** You create five orbs, and you are [weakened](../../../../condition/weakened.md) while you have any orbs active.
 
-## Reflector Field
+## Reflector Field {data-scc="mcdm.heroes.v1/feature.ability.talent.level-3/reflector-field"}
 
 
 *A protective field reverses the momentum of incoming attacks.*
@@ -65,7 +65,7 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 
 **Strained:** The size of the aura increases by 1. Whenever your aura reflects an ability, you take 2d6 damage and forget a memory, as determined by you and the Director.
 
-## Soul Burn
+## Soul Burn {data-scc="mcdm.heroes.v1/feature.ability.talent.level-3/soul-burn"}
 
 
 *You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*

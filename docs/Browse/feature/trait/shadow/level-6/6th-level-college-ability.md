@@ -16,7 +16,7 @@ Your [shadow college](../level-1/shadow-college.md) grants your choice of one of
 
 Choose one of the following abilities.
 
-### Black Ash Eruption
+### Black Ash Eruption {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/black-ash-eruption"}
 
 
 *Your attack produces a cloud of black ash that launches an enemy into the air.*
@@ -33,7 +33,7 @@ Choose one of the following abilities.
 
 **Effect:** A creature [force moved](../../../../movement/forced-movement.md) by this ability must be moved straight upward.
 
-### Cinderstorm
+### Cinderstorm {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/cinderstorm"}
 
 
 *You [teleport](../../../../movement/teleport.md) your friends in a burst of ash and fire.*
@@ -48,7 +48,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### One Vial Makes You Better
+### One Vial Makes You Better {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-better"}
 
 
 *A well-timed throw of a potion will keep your allies in the fight.*
@@ -61,7 +61,7 @@ Choose one of the following abilities.
 
 A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.
 
-### One Vial Makes You Faster
+### One Vial Makes You Faster {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-faster"}
 
 
 *Each ally who catches a potion you throw can take the battle to the next level.*
@@ -84,7 +84,7 @@ A creature who drinks the potion receives benefits based on your power roll.
 
 Choose one of the following abilities.
 
-### Look!
+### Look! {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/look"}
 
 
 *You distract your foes, allowing your allies to take advantage of that distraction.*
@@ -95,7 +95,7 @@ Choose one of the following abilities.
 
 **Effect:** Until the start of your next turn, any ability roll made against a target gains an edge.
 
-### Puppet Strings
+### Puppet Strings {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/puppet-strings"}
 
 
 *You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.*

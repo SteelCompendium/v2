@@ -16,7 +16,7 @@ You specialize in dealing damage, then getting out of harm's way before the inev
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../../../ability/shadow/level-1/teamwork-has-its-place.md).)
 
-### Gasping in Pain
+### Gasping in Pain {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/gasping-in-pain"}
 
 
 *Your precise strikes let your allies take advantage of a target's agony.*
@@ -33,7 +33,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** One ally within 5 squares of the target gains 1 surge.
 
-### I Work Better Alone
+### I Work Better Alone {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/i-work-better-alone"}
 
 
 *"It's better, just you and me. Isn't it?"*
@@ -50,7 +50,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** If the target has none of your allies adjacent to them, you gain 1 surge before making the power roll.
 
-### Teamwork Has Its Place
+### Teamwork Has Its Place {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/teamwork-has-its-place"}
 
 
 *You attack an enemy as an ally exposes their weakness.*
@@ -67,7 +67,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** If any ally is adjacent to the target, you gain 1 surge before making the power roll.
 
-### You Were Watching the Wrong One
+### You Were Watching the Wrong One {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/you-were-watching-the-wrong-one"}
 
 
 *They can't watch both of you at once.*
@@ -92,7 +92,7 @@ A range of heroic abilities define your combat prowess, all of which make use of
 
 Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* [Get In Get Out](../../../ability/shadow/level-1/get-in-get-out.md).)
 
-### Disorienting Strike
+### Disorienting Strike {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/disorienting-strike"}
 
 
 *Your attack leaves them reeling, allowing you to follow up.*
@@ -109,7 +109,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 **Effect:** You can [shift](../../../../movement/shifting.md) into any square the target leaves when you slide them.
 
-### Eviscerate
+### Eviscerate {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/eviscerate"}
 
 
 *You leave your foe bleeding out after a devastating attack.*
@@ -124,7 +124,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
 - **17+:** 10 + A damage; A < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 
-### Get In Get Out
+### Get In Get Out {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/get-in-get-out"}
 
 
 *Move unexpectedly, strike fast, and be gone!*
@@ -141,7 +141,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 **Effect:** You can [shift](../../../../movement/shifting.md) up to your speed, dividing that movement before or after your strike as desired.
 
-### Two Throats at Once
+### Two Throats at Once {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/two-throats-at-once"}
 
 
 *A bargain.*
@@ -160,7 +160,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: [Coup de Grace](../../../ability/shadow/level-1/coup-de-grace.md).)
 
-### Coup de Grace
+### Coup de Grace {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/coup-de-grace"}
 
 
 *Your blade might be the last thing they see.*
@@ -175,7 +175,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 - **12-16:** 2d6 + 11 + A damage
 - **17+:** 2d6 + 16 + A damage
 
-### One Hundred Throats
+### One Hundred Throats {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/one-hundred-throats"}
 
 
 *As you move across the battlefield, every foe within reach feels your wrath.*
@@ -192,7 +192,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 - **12-16:** 6 damage
 - **17+:** 9 damage
 
-### Setup
+### Setup {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/setup"}
 
 
 *Your friends will thank you.*
@@ -207,7 +207,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 - **12-16:** 9 + A damage; R < AVERAGE, the target has damage weakness 5 (save ends)
 - **17+:** 13 + A damage; R < STRONG, the target has damage weakness 5 (save ends)
 
-### Shadowstrike
+### Shadowstrike {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/shadowstrike"}
 
 
 *They have no idea what the college taught you.*

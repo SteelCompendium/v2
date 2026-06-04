@@ -21,7 +21,7 @@ Your [elemental specialization](elemental-specialization.md) grants you a trigge
 | Green           | [Breath of Dawn Remembered](../../../ability/elementalist/level-1/breath-of-dawn-remembered.md) |
 | Void            | [Subtle Relocation](../../../ability/elementalist/level-1/subtle-relocation.md)         |
 
-### Breath of Dawn Remembered
+### Breath of Dawn Remembered {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/breath-of-dawn-remembered"}
 
 
 *The power you channel grants the ability to get back in the fight.*
@@ -36,7 +36,7 @@ Your [elemental specialization](elemental-specialization.md) grants you a trigge
 
 **Spend 1+ Essence:** The target can spend an additional Recovery for each essence spent.
 
-### Explosive Assistance
+### Explosive Assistance {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/explosive-assistance"}
 
 
 *You add a little magic to an ally's aggression at just the right time.*
@@ -51,7 +51,7 @@ Your [elemental specialization](elemental-specialization.md) grants you a trigge
 
 **Spend 1 Essence:** The [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to twice your Reason score instead.
 
-### Skin Like Castle Walls
+### Skin Like Castle Walls {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/skin-like-castle-walls"}
 
 
 *You cover yourself or an ally in protective stone.*
@@ -66,7 +66,7 @@ Your [elemental specialization](elemental-specialization.md) grants you a trigge
 
 **Spend 1 Essence:** If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.
 
-### Subtle Relocation
+### Subtle Relocation {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/subtle-relocation"}
 
 
 *You call on the void to swallow and spit out an ally.*

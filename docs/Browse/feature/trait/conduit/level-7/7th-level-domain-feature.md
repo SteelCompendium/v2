@@ -29,15 +29,15 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Trickery   | [Trinity of Trickery](../../../ability/censor/level-7/trinity-of-trickery.md)          |
 | War        | [Your Triumphs Are Remembered](../../censor/level-7/your-triumphs-are-remembered.md) |
 
-## Blessing of Iron
+## Blessing of Iron {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/blessing-of-iron"}
 
 The gods send divine favor to you and your allies. While you are not dying, enemies take a bane on strikes against you or any ally within 3 squares of you.
 
-## Covenant of the Heart
+## Covenant of the Heart {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/covenant-of-the-heart"}
 
 You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
 
-### Guided to Your Side
+### Guided to Your Side {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-7/guided-to-your-side"}
 
 
 *You concentrate on a friend and [teleport](../../../../movement/teleport.md) to them.*
@@ -48,23 +48,23 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 
 **Effect:** Each target is [teleport](../../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
-## Divine Quartermaster
+## Divine Quartermaster {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/divine-quartermaster"}
 
 Each time you finish a respite, you can choose a treasure with a project goal equal to 50 times your level or less. You gain a divine version of this treasure that lasts until you finish another respite or it is consumed.
 
-## Font of Grace
+## Font of Grace {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/font-of-grace"}
 
 Each time you use your [Healing Grace](../../../ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
 
-## Gods' Library
+## Gods' Library {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/gods-library"}
 
 You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](../../../../../Read/heroes/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
 
-## Light of the Burning Sun
+## Light of the Burning Sun {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/light-of-the-burning-sun"}
 
 Sun infuses your body. Whenever you use an ability to deal rolled damage to another creature, that ability deals an extra 5 fire damage, or an extra 15 fire damage if the creature is undead. Additionally, you have fire immunity equal to your level, which is added to any other fire immunity you have.
 
-## Nature's Bounty
+## Nature's Bounty {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/natures-bounty"}
 
 When you finish a respite, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:
 
@@ -76,15 +76,15 @@ When you finish a respite, you can prepare a magic meal using local flora for an
 
 Each benefit lasts until the creature who gains it finishes another respite.
 
-## Thunderstruck
+## Thunderstruck {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/thunderstruck"}
 
 Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 surge. Additionally, if you use an ability that force moves a creature, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.
 
-## Trinity of Trickery
+## Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/trinity-of-trickery"}
 
 You have the following ability.
 
-### Trinity of Trickery
+### Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-7/trinity-of-trickery"}
 
 
 *Hey! I'm over here. No, here, numbskull.*
@@ -95,16 +95,16 @@ You have the following ability.
 
 **Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free [triggered action](../level-1/triggered-action.md) to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 
-## Word of Death Deferred
+## Word of Death Deferred {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/word-of-death-deferred"}
 
 You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../../../ability/conduit/level-1/healing-grace.md) ability dies and you are not dying, you can use a free [triggered action](../level-1/triggered-action.md) to instead have that ally fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an extra 5 damage to winded creatures.
 
-## Word of Fate Denied
+## Word of Fate Denied {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/word-of-fate-denied"}
 
 When an ally within 10 squares takes damage that would leave them dying, you can use a free [triggered action](../level-1/triggered-action.md) to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can't be reduced in any way.
 
-## Your Triumphs Are Remembered
+## Your Triumphs Are Remembered {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/your-triumphs-are-remembered"}
 
 The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a respite, you and any other heroes who rested with you regain 1 Victory after your Victories are converted to XP. This Victory isn't converted into XP at the end of a subsequent respite.

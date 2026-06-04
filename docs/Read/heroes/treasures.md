@@ -35,7 +35,7 @@ other times, generous and well-off individuals such as monarchs and powerful mag
 
 Heroes can also craft their own treasures, forging the tools they need to get the job done using the rules in Chapter 12: [Downtime Projects](downtime-projects.md). Items that can be crafted have their item prerequisite, project source, project roll characteristic, and project goal (the number of project points needed to complete the project) noted in their descriptions.
 
-### What Does This Treasure Do?
+### What Does This Treasure Do? {data-scc="mcdm.heroes.v1/treasure/what-does-this-treasure-do"}
 
 When a hero finds a treasure, they learn its properties if they examine it for 5 uninterrupted minutes, unless the item's description says otherwise.
 
@@ -43,7 +43,7 @@ When a hero finds a treasure, they learn its properties if they examine it for 5
 >
 > Each treasure has an item prerequisite necessary for crafting it. The exact nature of many of the materials used as an item's prerequisite is left nebulous so that the Director can more easily work those materials into a campaign. What's a mindspider, and how rare is their silk? That's for the Director to decide, whether they want to drop prerequisite items into their planned adventures or craft an entire side quest around finding them.
 
-### Wearing Treasures
+### Wearing Treasures {data-scc="mcdm.heroes.v1/treasure/wearing-treasures"}
 
 Many treasures, such as cloaks, jewelry, hats, and boots, must be worn. Unless the Director deems otherwise, these items supernaturally resize themselves to fit the creature using them.
 
@@ -53,7 +53,7 @@ Though body keywords indicate where a treasure is meant to be worn, treasures ca
 
 If a wearable treasure comes as a set, such as a pair of bracers, boots, or earrings, all items in the set must be worn to gain the treasure's benefits.
 
-### Wielding Treasures
+### Wielding Treasures {data-scc="mcdm.heroes.v1/treasure/wielding-treasures"}
 
 Some treasures are wielded in the form of weapons or implements. A weapon might have the Light Weapon, Medium Weapon, or Heavy Weapon keywords, or might have a keyword denoting a specific category of weapon (Bow, Polearm, and so forth). An implement might have the Implement keyword or a keyword denoting the type of implement (Orb, Wand, and so forth). Armor is also considered a wielded treasure, with the Light Armor, Medium Armor, or Heavy Armor keywords, or the Shield keyword.
 
@@ -67,11 +67,11 @@ If your hero doesn't use a kit, they can't gain benefits from using armor or wea
 
 A weapon's damage bonus only adds to melee abilities if your kit has a melee damage bonus. A weapon's damage bonus only adds to ranged abilities if your kit has a ranged damage bonus.
 
-### Magic and Psionic Treasures
+### Magic and Psionic Treasures {data-scc="mcdm.heroes.v1/treasure/magic-and-psionic-treasures"}
 
 The Magic and Psionic keywords for treasures refer to how those treasures are created, not how they are used. Just as magic potions and swords aren't limited only to characters who wield magic themselves, the Magic and Psionic keywords don't restrict the use of treasures to only certain types of characters, so that an implement with the Magic keyword can be used to enhance abilities with the Psionic keyword, and vice versa. Treasures that have the Magic or Psionic keyword and are used to enhance an ability don't add those keywords to the ability.
 
-### Stamina Bonuses and Damage Bonuses
+### Stamina Bonuses and Damage Bonuses {data-scc="mcdm.heroes.v1/treasure/stamina-bonuses-and-damage-bonuses"}
 
 If two treasures give a creature a bonus to their Stamina or a bonus to the rolled damage of their abilities, only the higher bonus applies unless the treasure's description notes otherwise. Stamina bonuses and damage bonuses from consumables ignore this rule, and can be stacked with other Stamina bonuses and damage bonuses granted by treasures.
 
@@ -101,7 +101,7 @@ Your character can carry any number of consumables at a time.
 >
 > Negotiation rules, motivations, pitfalls, interest, and patience: Chapter 11: [Negotiation](negotiation.md).
 
-### 1st-Echelon Consumables
+### 1st-Echelon Consumables {data-scc="mcdm.heroes.v1/treasure/1st-echelon-consumables"}
 
 This section presents 1st-echelon consumable treasures in alphabetical order.
 
@@ -351,7 +351,7 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Effect:** As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 bonus to the distance of any [forced movement](../../Browse/movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../../Browse/movement/forced-movement.md), you can push each creature targeted by the ability up to 2 squares.
 
-### 2nd-Echelon Consumables
+### 2nd-Echelon Consumables {data-scc="mcdm.heroes.v1/treasure/2nd-echelon-consumables"}
 
 This section presents 2nd-echelon consumable treasures in alphabetical order.
 
@@ -507,7 +507,7 @@ If you pull a size 1T object adjacent to you, you can catch it. This treasure ca
 
 **Effect:** As a maneuver, you throw this vial up to 10 squares, destroying the vial and creating a 2-cube ethereal vortex centered on the spot where it lands. The vortex dissipates at the end of the encounter or when you dismiss it (no action required). Any creature who enters the vortex for the first time in a combat round or starts their turn there takes 10 psychic damage. At the start of each of your turns, you can move the vortex up to 5 squares (no action required).
 
-### 3rd-Echelon Consumables
+### 3rd-Echelon Consumables {data-scc="mcdm.heroes.v1/treasure/3rd-echelon-consumables"}
 
 This section presents 3rd-echelon consumable treasures in alphabetical order.
 
@@ -645,7 +645,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Effect:** When you drink this tonic as a maneuver, you feel a surge of physical and spiritual immunity. You can immediately end up to three conditions or effects affecting you. Additionally, until the start of your next turn, you can ignore any effect that would last until the end of your next turn or be ended by a saving throw.
 
-### 4th-Echelon Consumables
+### 4th-Echelon Consumables {data-scc="mcdm.heroes.v1/treasure/4th-echelon-consumables"}
 
 This section presents 4th-echelon consumable treasures in alphabetical order.
 
@@ -723,7 +723,7 @@ Trinkets are treasures that can be used at will without a reduction in their pot
 
 Like consumables, trinket treasures are organized by echelon. You can carry any number of trinkets.
 
-### 1st-Echelon Trinkets
+### 1st-Echelon Trinkets {data-scc="mcdm.heroes.v1/treasure/1st-echelon-trinkets"}
 
 This section presents 1st-echelon trinket treasures in alphabetical order.
 
@@ -927,7 +927,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Effect:** These boots can temporarily unbind themselves from the chains of the earth, letting you move through the air as high as 3 squares above the ground from where you started. If you end your turn while you are still airborne, you fall.
 
-### 2nd-Echelon Trinkets
+### 2nd-Echelon Trinkets {data-scc="mcdm.heroes.v1/treasure/2nd-echelon-trinkets"}
 
 This section presents 2nd-echelon trinket treasures in alphabetical order.
 
@@ -1065,7 +1065,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 The coin must be picked up before it can be used again. If any creature picks up the coin, its effects immediately end.
 
-### 3rd-Echelon Trinkets
+### 3rd-Echelon Trinkets {data-scc="mcdm.heroes.v1/treasure/3rd-echelon-trinkets"}
 
 This section presents 3rd-echelon trinket treasures in alphabetical order.
 
@@ -1183,7 +1183,7 @@ Additionally, you have the following ability.
 
 **Effect:** Once per turn, you can use a maneuver to [teleport](../../Browse/movement/teleport.md) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](../../Browse/movement/teleport.md), you can [teleport](../../Browse/movement/teleport.md) up to 3 additional squares.
 
-### 4th-Echelon Trinkets
+### 4th-Echelon Trinkets {data-scc="mcdm.heroes.v1/treasure/4th-echelon-trinkets"}
 
 This section presents 4th-echelon trinket treasures in alphabetical order.
 
@@ -1229,11 +1229,11 @@ A trapped spirit remains in the lantern for 10 minutes. They remember being trap
 
 Like trinkets, leveled treasures can be used at will without a reduction in potency. However, leveled treasures tap into their wielder's will in a way that trinkets don't, becoming more powerful and increasing their capabilities as you gain new levels.
 
-### Leveled Benefits
+### Leveled Benefits {data-scc="mcdm.heroes.v1/treasure/leveled-benefits"}
 
 Each leveled treasure has benefits that you gain at 1st, 5th, and 9th levels. You can't use a treasure's benefit until you achieve the appropriate benefits level. [Leveled benefits](../../Browse/treasure/leveled-benefits.md) are cumulative.
 
-### Carry Three Safely
+### Carry Three Safely {data-scc="mcdm.heroes.v1/treasure/carry-three-safely"}
 
 Your connection with leveled treasures doesn't just make them useful. It also makes them dangerous. Each leveled treasure is a quasi-sentient, purpose-driven entity. A magic sword wishes to be used in combat. A psionic implement yearns to unleash its powerful magic. As such, a creature can safely carry a maximum of three leveled treasures at a time. If you carry more leveled treasures, those items become jealous of one another and fight for your attention, attempting to subconsciously influence you into using them—and leaving your other items behind.
 
@@ -1247,7 +1247,7 @@ It's fine to own or possess more than three leveled treasures, as long as the ex
 >
 > Because you can carry up to three leveled treasures safely, it's easy to assume that your hero should always seek out and carry three such treasures. The truth is that many heroes find carrying just one or two leveled treasures a perfect thematic and mechanical fit, and have no real need for more. That's totally fine! You'll still be super powerful with just one leveled treasure, especially if you obtain or craft trinkets and consumables that might serve you better.
 
-### Leveled Armor Treasures
+### Leveled Armor Treasures {data-scc="mcdm.heroes.v1/treasure/leveled-armor-treasures"}
 
 Magic and psionic armor and shields are the primary tools of heroes always ready to hurl themselves into combat. This section presents [leveled armor treasures](../../Browse/treasure/leveled-armor-treasures.md) in alphabetical order.
 
@@ -1451,7 +1451,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **9th Level:** The shield's bonus to Stamina increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](../../Browse/condition/grabbed.md) up to 5 squares.
 
-### Leveled Implement Treasures
+### Leveled Implement Treasures {data-scc="mcdm.heroes.v1/treasure/leveled-implement-treasures"}
 
 Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects used by magic and psionic heroes to focus their power. This section presents [leveled implement treasures](../../Browse/treasure/leveled-implement-treasures.md) in alphabetical order.
 
@@ -1575,7 +1575,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **9th Level:** While the tome is open, you automatically obtain a tier 3 outcome on Reason tests made to recall lore, and when you use a heroic ability, its Heroic Resource cost is reduced by 1 (to a minimum of 1).
 
-### Leveled Weapon Treasures
+### Leveled Weapon Treasures {data-scc="mcdm.heroes.v1/treasure/leveled-weapon-treasures"}
 
 For combat-focused heroes, weapons channeling magic and psionic power can easily tip the balance of any battle. This section presents [leveled weapon treasures](../../Browse/treasure/leveled-weapon-treasures.md) in alphabetical order.
 
@@ -1855,7 +1855,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to move up to your speed and make either a signature ability strike or a melee free strike.
 
-### Other Leveled Treasures
+### Other Leveled Treasures {data-scc="mcdm.heroes.v1/treasure/other-leveled-treasures"}
 
 In addition to armor, shields, implements, and weapons, heroes can make use of a wide range of [magic and psionic treasures](../../Browse/treasure/magic-and-psionic-treasures.md). This section presents other types of leveled treasures in alphabetical order.
 

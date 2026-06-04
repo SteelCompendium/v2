@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 9 essence to use. Alternatively, you can choose one of the 9-assence abilities you didn't select at 5th level (see 5th-Level Features).
 
-## Luminous Champion Aloft
+## Luminous Champion Aloft {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-6/luminous-champion-aloft"}
 
 
 *They shine vibrantly, a beautiful diamond in the night sky.*
@@ -25,7 +25,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 **Persistent 1:** The effect lasts until the start of your next turn.
 
-## Magma Titan
+## Magma Titan {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-6/magma-titan"}
 
 
 *Their body swells with lava, mud, and might, towering over their enemies.*
@@ -44,7 +44,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 **Persistent 2:** The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 Recoveries.
 
-## Meteor
+## Meteor {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-6/meteor"}
 
 
 *You [teleport](../../../../movement/teleport.md) the target into the air and let the ground and the elemental force of fire do the rest.*
@@ -61,7 +61,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 **Effect:** If the target is [teleport](../../../../movement/teleport.md)ed to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is [difficult terrain](../../../../movement/difficult-terrain.md).
 
-## The Wode Remembers and Returns
+## The Wode Remembers and Returns {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-6/the-wode-remembers-and-returns"}
 
 
 *You create a terrarium that spans from canopy above to underbrush below.*

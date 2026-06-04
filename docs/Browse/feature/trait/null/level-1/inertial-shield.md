@@ -12,7 +12,7 @@ type: trait
 
 Your instincts for danger let you predict attacks before they happen.
 
-## Inertial Shield
+## Inertial Shield {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/inertial-shield"}
 
 
 *You intuit the course of an incoming attack, reducing its effects.*

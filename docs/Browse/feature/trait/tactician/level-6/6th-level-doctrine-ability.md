@@ -16,7 +16,7 @@ Your [tactical doctrine](../level-1/tactical-doctrine.md) grants your choice of 
 
 Choose one of the following abilities.
 
-### Coordinated Execution
+### Coordinated Execution {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-6/coordinated-execution"}
 
 
 *You direct your ally to make a killing blow.*
@@ -29,7 +29,7 @@ Choose one of the following abilities.
 
 **Effect:** If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 Stamina. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's power roll automatically obtains a tier 3 outcome.
 
-### Panic in Their Lines
+### Panic in Their Lines {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-6/panic-in-their-lines"}
 
 
 *You confuse your foes, causing them to turn on each other.*
@@ -50,7 +50,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Battle Plan
+### Battle Plan {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-6/battle-plan"}
 
 
 *With new understanding of your foes, you create the perfect plan to win the battle.*
@@ -63,7 +63,7 @@ Choose one of the following abilities.
 
 **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to make the strike ignore damage immunity and deal extra damage equal to three times your Reason score.
 
-### Hustle!
+### Hustle! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-6/hustle"}
 
 
 *You and your allies coordinate to form a new battle line.*
@@ -78,7 +78,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Instant Retaliation
+### Instant Retaliation {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation"}
 
 
 *You [parry](../../../ability/tactician/level-1/parry.md) with almost supernatural speed.*
@@ -97,7 +97,7 @@ Choose one of the following abilities.
 - **12-16:** A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
 - **17+:** A < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 
-### To Me Squad!
+### To Me Squad! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-6/to-me-squad"}
 
 
 *You lead your allies in a charge.*

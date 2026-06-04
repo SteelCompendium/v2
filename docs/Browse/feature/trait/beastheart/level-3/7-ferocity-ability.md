@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 7 ferocity to use.
 
-## Death and Violence
+## Death and Violence {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-3/death-and-violence"}
 
 *You leap from your foe's corpse.*
 
@@ -30,7 +30,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 - **12-16:** 4 psychic damage; P < AVERAGE [frightened](../../../../condition/frightened.md) (save ends)
 - **17+:** 8 psychic damage; P < STRONG [frightened](../../../../condition/frightened.md) (save ends)
 
-## Head to Head
+## Head to Head {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-3/head-to-head"}
 
 *Your bloody-forehead smash drives your companion into a frenzy.*
 
@@ -46,7 +46,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 
 **Effect:** You are [bleeding](../../../../condition/bleeding.md) (save ends). Until the end of your next turn, your companion gains an edge on power rolls.
 
-## Jaws of Death
+## Jaws of Death {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-3/jaws-of-death"}
 
 *Spectral teeth clamp on a foe, chaining them to you and draining their life essence.*
 
@@ -62,7 +62,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 
 **Effect:** Whenever a target more than 3 squares away from you fails the saving throw while [weakened](../../../../condition/weakened.md) this way, you can pull the target up to a number of squares equal to your Intuition score as a free triggered action.
 
-## Shieldbreaker
+## Shieldbreaker {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-3/shieldbreaker"}
 
 *You smash through their guard and shatter their armor, leaving them wide open.*
 

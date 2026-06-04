@@ -20,14 +20,14 @@ Your [primordial aspect](../level-1/primordial-aspect.md) grants you a feature, 
 | Reaver     | [Inescapable Wrath](inescapable-wrath.md) |
 | Stormwight | [Tooth and Claw](tooth-and-claw.md)    |
 
-## Inescapable Wrath
+## Inescapable Wrath {data-scc="mcdm.heroes.v1/feature.trait.fury.level-2/inescapable-wrath"}
 
 You have a bonus to speed equal to your Agility score, and you ignore [difficult terrain](../../../../movement/difficult-terrain.md).
 
-## Tooth and Claw
+## Tooth and Claw {data-scc="mcdm.heroes.v1/feature.trait.fury.level-2/tooth-and-claw"}
 
 At the end of each of your turns, each enemy adjacent to you takes damage equal to your Might score.
 
-## Unstoppable Force
+## Unstoppable Force {data-scc="mcdm.heroes.v1/feature.trait.fury.level-2/unstoppable-force"}
 
 Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can jump as part of your charge.

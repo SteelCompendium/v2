@@ -10,7 +10,7 @@ type: trait
 
 A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.
 
-## Grab
+## Grab {data-scc="mcdm.heroes.v1/feature.ability.common.maneuvers/grab"}
 
 
 | **Melee, Weapon** |        **Maneuver** |

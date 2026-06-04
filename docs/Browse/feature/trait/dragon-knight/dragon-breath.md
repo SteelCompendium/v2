@@ -11,7 +11,7 @@ type: trait
 
 You have the following signature ability.
 
-## Dragon Breath
+## Dragon Breath {data-scc="mcdm.heroes.v1/feature.ability.dragon-knight/dragon-breath"}
 
 *A furious exhalation of energy washes over your foes.*
 

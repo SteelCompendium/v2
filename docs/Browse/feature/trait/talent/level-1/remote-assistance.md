@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Remote Assistance
+## Remote Assistance {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/remote-assistance"}
 
 
 *An ally gains the benefit of your intellect.*

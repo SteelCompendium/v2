@@ -12,7 +12,7 @@ type: trait
 
 You know how to focus the attention of your allies as you push them toward victory. You have the following ability.
 
-## Mark
+## Mark {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/mark"}
 
 
 *You draw your allies' attention to a specific foe—with devastating effect.*

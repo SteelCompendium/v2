@@ -31,7 +31,7 @@ You wear no armor and wield a whip.
 
 ## Signature Ability
 
-### Extension of My Arm
+### Extension of My Arm {data-scc="mcdm.heroes.v1/feature.ability.whirlwind/extension-of-my-arm"}
 
 *When you draw your whip back after an attack, your enemy is drawn ever closer.*
 

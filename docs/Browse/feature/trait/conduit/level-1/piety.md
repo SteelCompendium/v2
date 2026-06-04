@@ -30,7 +30,7 @@ Though you can't gain piety outside of combat, you can use your heroic abilities
 
 When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../../../ability/conduit/level-1/healing-grace.md), you can use it as if you had spent an amount of piety equal to your Victories.
 
-## Domain Piety and Effects
+## Domain Piety and Effects {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/domain-piety-and-effects"}
 
 Your choice of domains provides you with two additional ways to earn piety during combat, as triggered by specific events. You might even have a single event trigger both your piety effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain piety from both your domains.
 

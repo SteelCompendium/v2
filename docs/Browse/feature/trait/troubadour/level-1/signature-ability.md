@@ -12,7 +12,7 @@ type: trait
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Witty Banter](../../../ability/troubadour/level-1/witty-banter.md).)
 
-## Artful Flourish
+## Artful Flourish {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/artful-flourish"}
 
 
 *And they said practicing fencing was a waste!*
@@ -31,7 +31,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Spend 2+ Drama:** You can target one additional creature or object for every 2 drama spent.
 
-## Cutting Sarcasm
+## Cutting Sarcasm {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/cutting-sarcasm"}
 
 
 *There you are, radiating your usual charisma.*
@@ -46,7 +46,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
 - **17+:** 7 + P psychic damage; P < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
 
-## Instigator
+## Instigator {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/instigator"}
 
 
 *I didn't do it! What?*
@@ -63,7 +63,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** The target is [taunted](../../../../condition/taunted.md) by you or a willing ally adjacent to you until the end of the target's next turn.
 
-## Witty Banter
+## Witty Banter {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter"}
 
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
@@ -90,7 +90,7 @@ You master a range of heroic abilities, all of which cost drama to empower them.
 
 Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* [Harsh Critic](../../../ability/troubadour/level-1/harsh-critic.md).)
 
-### Harsh Critic
+### Harsh Critic {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/harsh-critic"}
 
 
 *Just one bad review will ruin their day.*
@@ -107,7 +107,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 **Effect:** The first time the target uses an ability before the start of your next turn, any effects from the ability's tier outcomes other than damage are negated for all targets. Ability effects that always happen regardless of the power roll work as usual.
 
-### Hypnotic Overtones
+### Hypnotic Overtones {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones"}
 
 
 *You produce an entrancing note that twists the senses in a spectacular fashion.*
@@ -124,7 +124,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 **Spend 2+ Drama:** The size of the burst increases by 1 for every 2 drama spent.
 
-### Quick Rewrite
+### Quick Rewrite {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite"}
 
 
 *You write something unexpected into the scene that hinders your enemy.*
@@ -141,7 +141,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 **Effect:** The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
 
-### Upstage
+### Upstage {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/upstage"}
 
 
 *As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
@@ -162,7 +162,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* [Dramatic Reversal](../../../ability/troubadour/level-1/dramatic-reversal.md).)
 
-### Dramatic Reversal
+### Dramatic Reversal {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-reversal"}
 
 
 *Give the audience a surprise.*
@@ -177,7 +177,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 - **12-16:** The target can [shift](../../../../movement/shifting.md) up to 2 squares and make a free strike that gains an edge.
 - **17+:** The target can [shift](../../../../movement/shifting.md) up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.
 
-### Fake Your Death
+### Fake Your Death {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/fake-your-death"}
 
 
 *O happy dagger, this is thy sheath!*
@@ -188,7 +188,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 
 **Effect:** You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to speed and you ignore [difficult terrain](../../../../movement/difficult-terrain.md). The illusion and your invisibility last until the end of your next turn, or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.
 
-### Flip the Script
+### Flip the Script {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/flip-the-script"}
 
 
 *You try a different take on events, justifying the new locations everyone ended up in.*
@@ -199,7 +199,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 
 **Effect:** Each target can [teleport](../../../../movement/teleport.md) up to 5 squares. Any [teleport](../../../../movement/teleport.md)ed target who was [slowed](../../../../condition/slowed.md) is no longer [slowed](../../../../condition/slowed.md).
 
-### Method Acting
+### Method Acting {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/method-acting"}
 
 
 *They're so hurt by your performance, you start to believe it yourself.*

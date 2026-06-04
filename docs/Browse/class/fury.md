@@ -62,7 +62,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 As a 1st-level [fury](fury.md), you gain the following features.
 
-### Primordial Aspect
+### Primordial Aspect {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/primordial-aspect"}
 
 You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
 
@@ -72,7 +72,7 @@ You are a product of customs older than warfare, older than civilization, older 
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.
 
-### Ferocity
+### Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/ferocity"}
 
 Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called ferocity.
 
@@ -94,7 +94,7 @@ Though you can't gain ferocity outside of combat, you can use your heroic abilit
 
 When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as [To the Uttermost End](../feature/ability/fury/level-1/to-the-uttermost-end.md), you can use it as if you had spent an amount of ferocity equal to your Victories.
 
-### Growing Ferocity
+### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/growing-ferocity"}
 
 You gain certain benefits in combat based on the amount of ferocity you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of ferocity you spend during your turn.
 
@@ -122,7 +122,7 @@ Some [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) benefit
 | 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Agility score. |
 
-### 1st-Level Aspect Features
+### 1st-Level Aspect Features {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/1st-level-aspect-features"}
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants you two features, as shown on the 1st-Level Aspect Features table.
 
@@ -134,31 +134,31 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 | Reaver     | Kit, [Primordial Cunning](../feature/trait/fury/level-1/primordial-cunning.md)        |
 | Stormwight | [Beast Shape](../feature/trait/fury/level-1/beast-shape.md), [Relentless Hunter](../feature/trait/fury/level-1/relentless-hunter.md) |
 
-#### Beast Shape
+#### Beast Shape {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/beast-shape"}
 
 You can use and gain the benefits of a stormwight kit (see [Stormwight Kits](../feature/trait/fury/stormwight-kits.md)). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) feature.
 
-#### Kit
+#### Kit {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/kit"}
 
 You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../Read/heroes/kits.md) for more information. (*Quick Build:* [Panther](../kit/panther.md).)
 
-#### Primordial Cunning
+#### Primordial Cunning {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/primordial-cunning"}
 
 You are never surprised. Additionally, whenever you would push a target with [forced movement](../movement/forced-movement.md), you can slide them instead.
 
 As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-#### Primordial Strength
+#### Primordial Strength {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/primordial-strength"}
 
 Whenever you damage an object with a weapon strike, the strike deals extra damage equal to your Might score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your Might score.
 
 As your ferocity grows, you gain benefits as noted on the Berserker [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-#### Relentless Hunter
+#### Relentless Hunter {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/relentless-hunter"}
 
 You gain an edge on tests made using the [Track](../skill/track.md) skill.
 
-### Aspect Triggered Action
+### Aspect Triggered Action {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/aspect-triggered-action"}
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants you a triggered action, as shown on the Aspect Triggered Actions table.
 
@@ -170,7 +170,7 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 | Reaver                   | [Unearthly Reflexes](../feature/ability/fury/level-1/unearthly-reflexes.md) |
 | Stormwight               | [Furious Change](../feature/ability/fury/level-1/furious-change.md)     |
 
-##### Furious Change
+##### Furious Change {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/furious-change"}
 
 
 *In your anger, you revert to a more bestial form.*
@@ -185,7 +185,7 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 
-##### Lines of Force
+##### Lines of Force {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/lines-of-force"}
 
 
 *You redirect the energy of motion.*
@@ -200,7 +200,7 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 **Spend 1 Ferocity:** The [forced movement](../movement/forced-movement.md) distance gains a bonus equal to twice your Might score instead.
 
-##### Unearthly Reflexes
+##### Unearthly Reflexes {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/unearthly-reflexes"}
 
 
 *You are as elusive as a hummingbird.*
@@ -215,11 +215,11 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 **Spend 1 Ferocity:** If the damage has any potency effects associated with it, the potency is reduced by 1 for you.
 
-### Mighty Leaps
+### Mighty Leaps {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/mighty-leaps"}
 
 You can't obtain lower than a tier 2 outcome on any Might test made to jump (see Movement Types in Chapter 10: [Combat](../../Read/heroes/combat.md)).
 
-### Fury Abilities
+### Fury Abilities {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/fury-abilities"}
 
 You specialize in dealing massive damage on the battlefield, and have mastered unique martial abilities that allow you to strike hard and keep moving.
 
@@ -227,7 +227,7 @@ You specialize in dealing massive damage on the battlefield, and have mastered u
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../feature/ability/fury/level-1/to-the-death.md)!)
 
-##### Brutal Slam
+##### Brutal Slam {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/brutal-slam"}
 
 
 *The heavy impact of your weapon attacks drives your foes ever back.*
@@ -242,7 +242,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 6 + M damage; push 2
 - **17+:** 9 + M damage; push 4
 
-##### Hit and Run
+##### Hit and Run {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/hit-and-run"}
 
 
 *Staying in constant motion helps you slip out of reach after a brutal assault.*
@@ -259,7 +259,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** You can [shift](../movement/shifting.md) 1 square.
 
-##### Impaled!
+##### Impaled! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/impaled"}
 
 
 *You skewer your enemy like a boar upon a spit.*
@@ -274,7 +274,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../condition/grabbed.md)
 - **17+:** 7 + M damage; M < STRONG, [grabbed](../condition/grabbed.md)
 
-##### To the Death!
+##### To the Death! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/to-the-death"}
 
 
 *Your reckless assault leaves you tactically vulnerable.*
@@ -299,7 +299,7 @@ You fight with an array of heroic abilities, all of which cost ferocity to fuel 
 
 Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
 
-##### Back!
+##### Back! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/back"}
 
 
 *You hew about you with your mighty weapon, hurling enemies backward.*
@@ -314,7 +314,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 - **12-16:** 8 damage; push 1
 - **17+:** 11 damage; push 3
 
-##### Out of the Way!
+##### Out of the Way! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/out-of-the-way"}
 
 
 *Your enemies will clear your path—whether they want to or not.*
@@ -331,7 +331,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 **Effect:** When you slide the target, you can move into any square they leave. If you take damage from an opportunity attack by moving this way, the target takes the same damage.
 
-##### Tide of Death
+##### Tide of Death {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/tide-of-death"}
 
 
 *Teach them the folly of lining up for you.*
@@ -350,7 +350,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 **Effect:** The last target you damage takes extra damage equal to your Might score for each opportunity attack you trigger during your move.
 
-##### Your Entrails Are Your Extrails!
+##### Your Entrails Are Your Extrails! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/your-entrails-are-your-extrails"}
 
 
 *Hard for them to fight when they're busy holding in their giblets.*
@@ -371,7 +371,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](../feature/ability/fury/level-1/blood-for-blood.md)!)
 
-##### Blood for Blood!
+##### Blood for Blood! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/blood-for-blood"}
 
 
 *See how well they fight after you've bled them dry.*
@@ -388,7 +388,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 **Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 
-##### Make Peace With Your God!
+##### Make Peace With Your God! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/make-peace-with-your-god"}
 
 
 *Anger is your energy.*
@@ -399,7 +399,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 **Effect:** You gain 1 surge, and the next ability roll you make this turn automatically obtains a tier 3 outcome.
 
-##### Thunder Roar
+##### Thunder Roar {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/thunder-roar"}
 
 
 *You unleash a howl that hurls your enemies back.*
@@ -416,7 +416,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 **Effect:** The targets are [force moved](../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 
-##### To the Uttermost End
+##### To the Uttermost End {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/to-the-uttermost-end"}
 
 
 *You gut your life force to ensure a foe's demise.*
@@ -437,11 +437,11 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 As a 2nd-level [fury](fury.md), you gain the following features.
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.fury.level-2/perk"}
 
 You gain one crafting, exploration, or intrigue perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
-### 2nd-Level Aspect Feature
+### 2nd-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.trait.fury.level-2/2nd-level-aspect-feature"}
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants you a feature, as shown on the 2nd-Level Aspect Features table.
 
@@ -453,19 +453,19 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 | Reaver     | [Inescapable Wrath](../feature/trait/fury/level-2/inescapable-wrath.md) |
 | Stormwight | [Tooth and Claw](../feature/trait/fury/level-2/tooth-and-claw.md)    |
 
-#### Inescapable Wrath
+#### Inescapable Wrath {data-scc="mcdm.heroes.v1/feature.trait.fury.level-2/inescapable-wrath"}
 
 You have a bonus to speed equal to your Agility score, and you ignore [difficult terrain](../movement/difficult-terrain.md).
 
-#### Tooth and Claw
+#### Tooth and Claw {data-scc="mcdm.heroes.v1/feature.trait.fury.level-2/tooth-and-claw"}
 
 At the end of each of your turns, each enemy adjacent to you takes damage equal to your Might score.
 
-#### Unstoppable Force
+#### Unstoppable Force {data-scc="mcdm.heroes.v1/feature.trait.fury.level-2/unstoppable-force"}
 
 Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can jump as part of your charge.
 
-### 2nd-Level Aspect Ability
+### 2nd-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.trait.fury.level-2/2nd-level-aspect-ability"}
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants your choice of one of two heroic abilities.
 
@@ -473,7 +473,7 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 Choose one of the following abilities.
 
-##### Special Delivery
+##### Special Delivery {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/special-delivery"}
 
 
 *You ready?*
@@ -484,7 +484,7 @@ Choose one of the following abilities.
 
 **Effect:** You vertically push the target up to 4 squares. This [forced movement](../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
 
-##### Wrecking Ball
+##### Wrecking Ball {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball"}
 
 
 *It's easier to destroy than to create. Much easier, in fact!*
@@ -507,7 +507,7 @@ Additionally, you make one power roll that targets each enemy you move adjacent 
 
 Choose one of the following abilities.
 
-##### Death... Death!
+##### Death... Death! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/death-death"}
 
 
 *Your unbridled rage strikes terror in their hearts.*
@@ -522,7 +522,7 @@ Choose one of the following abilities.
 - **12-16:** 5 + M damage; P < AVERAGE, [dazed](../condition/dazed.md) and [frightened](../condition/frightened.md) (save ends)
 - **17+:** 8 + M damage; P < STRONG, [dazed](../condition/dazed.md) and [frightened](../condition/frightened.md) (save ends)
 
-##### Phalanx-Breaker
+##### Phalanx-Breaker {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/phalanx-breaker"}
 
 
 *Organizing your forces like feckless creatures of Law. Pitiful.*
@@ -543,7 +543,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-##### Apex Predator
+##### Apex Predator {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/apex-predator"}
 
 
 *I will hunt you down.*
@@ -560,7 +560,7 @@ Choose one of the following abilities.
 
 **Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
 
-##### Visceral Roar
+##### Visceral Roar {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/visceral-roar"}
 
 
 *The sound of the storm within you staggers your opponents.*
@@ -581,7 +581,7 @@ Choose one of the following abilities.
 
 As a 3rd-level [fury](fury.md), you gain the following features.
 
-### 3rd-Level Aspect Feature
+### 3rd-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.trait.fury.level-3/3rd-level-aspect-feature"}
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants you a feature, as shown on the 3rd-Level Aspect Features table.
 
@@ -593,27 +593,27 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 | Reaver                    | [See Through Their Tricks](../feature/trait/fury/level-3/see-through-their-tricks.md) |
 | Stormwight                | Nature's Knight          |
 
-#### Immovable Object
+#### Immovable Object {data-scc="mcdm.heroes.v1/feature.trait.fury.level-3/immovable-object"}
 
 You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by [forced movement](../movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../condition/grabbed.md).
 
 Additionally, you have a bonus to stability equal to your Might score.
 
-#### Nature's Knight
+#### Nature's Knight {data-scc="mcdm.heroes.v1/feature.trait.fury.level-3/natures-knight"}
 
 You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.
 
 When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in [animal form](../complication/animal-form.md) (see [Stormwight Kits](../feature/trait/fury/stormwight-kits.md)).
 
-#### See Through Their Tricks
+#### See Through Their Tricks {data-scc="mcdm.heroes.v1/feature.trait.fury.level-3/see-through-their-tricks"}
 
 You have a double edge on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double edge on tests made to gamble!
 
-### 7-Ferocity Ability
+### 7-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.trait.fury.level-3/7-ferocity-ability"}
 
 Choose one heroic ability from the following options, each of which costs 7 ferocity to use.
 
-#### Demon Unleashed
+#### Demon Unleashed {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/demon-unleashed"}
 
 
 *Foes tremble at the sight of you.*
@@ -624,7 +624,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 
 **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](../condition/frightened.md) until the end of their turn.
 
-#### Face the Storm!
+#### Face the Storm! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/face-the-storm"}
 
 
 *Shocked in the face of your naked brutality, your enemy's instincts take over.*
@@ -635,7 +635,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 
 **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is [taunted](../condition/taunted.md) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](../condition/taunted.md) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
 
-#### Steelbreaker
+#### Steelbreaker {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/steelbreaker"}
 
 
 *See how useless their weapons are!*
@@ -646,7 +646,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 
 **Effect:** You gain 20 temporary Stamina.
 
-#### You Are Already Dead
+#### You Are Already Dead {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/you-are-already-dead"}
 
 
 *Slash. Walk away.*
@@ -661,31 +661,31 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 
 As a 4th-level [fury](fury.md), you gain the following features.
 
-### Characteristic Increase
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.fury.level-4/characteristic-increase"}
 
 Your Might and Agility scores each increase to 3.
 
-### Damaging Ferocity
+### Damaging Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury.level-4/damaging-ferocity"}
 
 The first time you take damage each combat round, you gain 2 ferocity instead of 1.
 
-### Growing Ferocity Improvement
+### Growing Ferocity Improvement {data-scc="mcdm.heroes.v1/feature.trait.fury.level-4/growing-ferocity-improvement"}
 
 Your [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) feature provides additional benefits when you have 8 or more ferocity.
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.fury.level-4/perk"}
 
 You gain one perk of your choice.
 
-### Primordial Attunement
+### Primordial Attunement {data-scc="mcdm.heroes.v1/feature.trait.fury.level-4/primordial-attunement"}
 
 As your ferocity manifests elemental forces created by the Primordial Chaos, you are aware of how elemental power interacts with those around you. You automatically sense whether any creature within 10 squares has damage immunity or damage weakness to acid, cold, corruption, fire, lightning, poison, or sonic damage, learning whether they have immunity or weakness, the value of that immunity or weakness, and the specific damage type. Additionally, you automatically sense any source of one of those damage types within 10 squares, such as a fire or a source of elemental power.
 
-### Primordial Strike
+### Primordial Strike {data-scc="mcdm.heroes.v1/feature.trait.fury.level-4/primordial-strike"}
 
 You can manifest your ferocity directly as an elemental force created by the Primordial Chaos. As part of any strike, you can spend 1 ferocity to gain 1 surge that must be used for that strike. The extra damage dealt by the surge can be acid, cold, corruption, fire, lightning, poison, or sonic (your choice).
 
-### Skill
+### Skill {data-scc="mcdm.heroes.v1/feature.trait.fury.level-4/skill"}
 
 You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
@@ -693,7 +693,7 @@ You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/h
 
 As a 5th-level [fury](fury.md), you gain the following features.
 
-### 5th-Level Aspect Feature
+### 5th-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.trait.fury.level-5/5th-level-aspect-feature"}
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants you a feature, as shown on the 5th-Level Aspect Features table.
 
@@ -705,23 +705,23 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 | Reaver     | [Unfettered](../feature/trait/fury/level-5/unfettered.md) |
 | Stormwight | [Stormborn](../feature/trait/fury/level-5/stormborn.md)  |
 
-#### Bounder
+#### Bounder {data-scc="mcdm.heroes.v1/feature.trait.fury.level-5/bounder"}
 
 Your jump distance and height double (see Movement Types in Chapter 10: [Combat](../../Read/heroes/combat.md)). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you [land prone](../condition/prone.md) (see Falling in Chapter 10). You [are not prone](../condition/prone.md) after falling and landing on another creature.
 
-#### Stormborn
+#### Stormborn {data-scc="mcdm.heroes.v1/feature.trait.fury.level-5/stormborn"}
 
 You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level [conduit](conduit.md) (see 1st-Level Domain Feature in the [Conduit](conduit.md) section).
 
-#### Unfettered
+#### Unfettered {data-scc="mcdm.heroes.v1/feature.trait.fury.level-5/unfettered"}
 
 At the start of your turn, you can end any [restrained](../condition/restrained.md) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
 
-### 9-Ferocity Ability
+### 9-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.trait.fury.level-5/9-ferocity-ability"}
 
 Choose one heroic ability from the following options, each of which costs 9 ferocity to use.
 
-#### Debilitating Strike
+#### Debilitating Strike {data-scc="mcdm.heroes.v1/feature.ability.fury.level-5/debilitating-strike"}
 
 
 *You need just one blow to sabotage your target.*
@@ -738,7 +738,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 **Effect:** While [slowed](../condition/slowed.md) this way, the target takes 1 damage for every square they move, including from [forced movement](../movement/forced-movement.md).
 
-#### My Turn!
+#### My Turn! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-5/my-turn"}
 
 
 *You quickly strike back at a foe.*
@@ -757,7 +757,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 **Effect:** You can spend a Recovery.
 
-#### Rebounding Storm
+#### Rebounding Storm {data-scc="mcdm.heroes.v1/feature.ability.fury.level-5/rebounding-storm"}
 
 
 *You knock around enemies like playthings.*
@@ -774,7 +774,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 **Effect:** When a target would end this [forced movement](../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as [forced movement](../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
 
-#### To Stone!
+#### To Stone! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-5/to-stone"}
 
 
 *You channel the Primordial Chaos into blows that petrify your foe... literally.*
@@ -795,23 +795,23 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 As a 6th-level [fury](fury.md), you gain the following features.
 
-### Marauder of the Primordial Chaos
+### Marauder of the Primordial Chaos {data-scc="mcdm.heroes.v1/feature.trait.fury.level-6/marauder-of-the-primordial-chaos"}
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
 Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../condition/frightened.md) of you (save ends).
 
-### Primordial Portal
+### Primordial Portal {data-scc="mcdm.heroes.v1/feature.trait.fury.level-6/primordial-portal"}
 
 As a main action, you can touch a magic source of elemental power and use it to create a portal to Quintessence. You can then use a main action to [teleport](../movement/teleport.md) yourself and any willing creatures within 10 squares of you through the portal and onto a safe island in Quintessence, or to [teleport](../movement/teleport.md) back again. You can maintain a number of portals equal to your Might score, each leading to the same safe island in Quintessence. If a portal in your network is destroyed, it is no longer part of the network. You can remove a portal from your network no matter your distance from it, including across different worlds (no action required).
 
 (Exploring Quintessence is possible from your island, but continued safety is not guaranteed.)
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.fury.level-6/perk"}
 
 You gain one crafting, exploration, or intrigue perk of your choice.
 
-### 6th-Level Aspect Ability
+### 6th-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.trait.fury.level-6/6th-level-aspect-ability"}
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants your choice of one of two heroic abilities.
 
@@ -819,7 +819,7 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 Choose one of the following abilities.
 
-##### Avalanche Impact
+##### Avalanche Impact {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/avalanche-impact"}
 
 
 *You leap and crash down, causing a shockwave that devastates foes.*
@@ -836,7 +836,7 @@ Choose one of the following abilities.
 - **12-16:** 7 damage; push 2
 - **17+:** 11 damage; push 3
 
-##### Force of Storms
+##### Force of Storms {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/force-of-storms"}
 
 
 *You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.*
@@ -857,7 +857,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-##### Death Strike
+##### Death Strike {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/death-strike"}
 
 
 *Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.*
@@ -870,7 +870,7 @@ Choose one of the following abilities.
 
 **Effect:** You target a creature adjacent to you with the same strike, using the same power roll as the triggering strike.
 
-##### Seek and Destroy
+##### Seek and Destroy {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/seek-and-destroy"}
 
 
 *You break through the enemy lines to make an example.*
@@ -893,7 +893,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-##### Pounce
+##### Pounce {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/pounce"}
 
 
 *You strike at the target like the ultimate predator you are.*
@@ -910,7 +910,7 @@ Choose one of the following abilities.
 
 **Effect:** You can [shift](../movement/shifting.md) up to 4 squares, bringing the target with you. While [grabbed](../condition/grabbed.md) this way, the target takes damage equal to twice your Might score at the start of each of your turns.
 
-##### Riders on the Storm
+##### Riders on the Storm {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/riders-on-the-storm"}
 
 
 *You focus your connection to the Primordial Chaos into a seething storm.*
@@ -927,25 +927,25 @@ Choose one of the following abilities.
 
 As a 7th-level [fury](fury.md), you gain the following features.
 
-### Characteristic Increase
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.fury.level-7/characteristic-increase"}
 
 Each of your characteristic scores increases by 1, to a maximum of 4.
 
-### Elemental Form
+### Elemental Form {data-scc="mcdm.heroes.v1/feature.trait.fury.level-7/elemental-form"}
 
 You exhibit ever-stronger signs of how the force of the Primordial Chaos flows within you. Whenever you show strong emotion or increase your ferocity, elemental motes attuned to your mood flit around you, and your skin changes in appearance to reflect an element of your choice.
 
 Additionally, if you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Might score. If you are a stormwight, you have immunity to the damage type of your [Primordial Storm](../feature/trait/fury/primordial-storm.md) feature equal to twice your Might score.
 
-### Greater Ferocity
+### Greater Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury.level-7/greater-ferocity"}
 
 When you gain ferocity at the start of each of your turns during combat, you gain 1d3 + 1 ferocity instead of 1d3.
 
-### Growing Ferocity Improvement
+### Growing Ferocity Improvement {data-scc="mcdm.heroes.v1/feature.trait.fury.level-7/growing-ferocity-improvement"}
 
 Your [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) feature provides additional benefits when you have 10 or more ferocity.
 
-### Skill
+### Skill {data-scc="mcdm.heroes.v1/feature.trait.fury.level-7/skill"}
 
 You gain one skill of your choice.
 
@@ -953,11 +953,11 @@ You gain one skill of your choice.
 
 As an 8th-level [fury](fury.md), you gain the following features.
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.fury.level-8/perk"}
 
 You gain one perk of your choice.
 
-### 8th-Level Aspect Feature
+### 8th-Level Aspect Feature {data-scc="mcdm.heroes.v1/feature.trait.fury.level-8/8th-level-aspect-feature"}
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants you a feature, as shown on the 8th-Level Aspect Features table.
 
@@ -969,23 +969,23 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 | Reaver     | [A Step Ahead](../feature/trait/fury/level-8/a-step-ahead.md)       |
 | Stormwight | [Menagerie](../feature/trait/fury/level-8/menagerie.md)          |
 
-#### Menagerie
+#### Menagerie {data-scc="mcdm.heroes.v1/feature.trait.fury.level-8/menagerie"}
 
 You can use all [stormwight kits](../feature/trait/fury/stormwight-kits.md). During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
-#### A Step Ahead
+#### A Step Ahead {data-scc="mcdm.heroes.v1/feature.trait.fury.level-8/a-step-ahead"}
 
 You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can [shift](../movement/shifting.md) gains a bonus equal to your Agility score.
 
-#### Strongest There Is
+#### Strongest There Is {data-scc="mcdm.heroes.v1/feature.trait.fury.level-8/strongest-there-is"}
 
 Your strength is unmatched. Whenever you make a Might test, you can roll three dice and choose which two to use. Additionally, whenever you use the Knockback maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Might score.
 
-### 11-Ferocity Ability
+### 11-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.trait.fury.level-8/11-ferocity-ability"}
 
 Choose one heroic ability from the following options, each of which costs 11 ferocity to use.
 
-#### Elemental Ferocity
+#### Elemental Ferocity {data-scc="mcdm.heroes.v1/feature.ability.fury.level-8/elemental-ferocity"}
 
 
 *Your primordial energy makes for instant retribution.*
@@ -996,7 +996,7 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 **Effect:** You gain 10 temporary Stamina. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 Stamina, you gain 10 temporary Stamina.
 
-#### Overkill
+#### Overkill {data-scc="mcdm.heroes.v1/feature.ability.fury.level-8/overkill"}
 
 
 *You strike so no damage is wasted.*
@@ -1013,7 +1013,7 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 **Effect:** If the target is a minion or is winded but isn't a leader or solo creature, they are reduced to 0 Stamina before this ability's damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.
 
-#### Primordial Rage
+#### Primordial Rage {data-scc="mcdm.heroes.v1/feature.ability.fury.level-8/primordial-rage"}
 
 
 *Your ferocity manifests into [primordial power](../feature/trait/fury/level-10/primordial-power.md).*
@@ -1024,7 +1024,7 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 **Effect:** Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, you can choose one target of any ability you use, with that target taking an extra 15 damage of the chosen type. Additionally, whenever you gain ferocity from taking damage, the source of the damage takes 5 damage of the chosen type.
 
-#### Relentless Death
+#### Relentless Death {data-scc="mcdm.heroes.v1/feature.ability.fury.level-8/relentless-death"}
 
 
 *You won't escape your fate.*
@@ -1045,11 +1045,11 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 As a 9th-level [fury](fury.md), you gain the following features.
 
-### Harbinger of the Primordial Chaos
+### Harbinger of the Primordial Chaos {data-scc="mcdm.heroes.v1/feature.trait.fury.level-9/harbinger-of-the-primordial-chaos"}
 
 You can create a temporary source of elemental power as a respite activity. This source of elemental power lasts 24 hours after creation, and can be used to create a portal to Quintessence with your [Primordial Portal](../feature/trait/fury/level-6/primordial-portal.md) feature. If you do so, the source of elemental power lasts as long as the portal is maintained in your network.
 
-### 9th-Level Aspect Ability
+### 9th-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.trait.fury.level-9/9th-level-aspect-ability"}
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) grants your choice of one of two heroic abilities.
 
@@ -1057,7 +1057,7 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 Choose one of the following abilities.
 
-##### Death Comes for You All!
+##### Death Comes for You All! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-9/death-comes-for-you-all"}
 
 
 *You use your weapon to create a destructive shockwave.*
@@ -1074,7 +1074,7 @@ Choose one of the following abilities.
 
 **Effect:** If this [forced movement](../movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage.
 
-##### Primordial Vortex
+##### Primordial Vortex {data-scc="mcdm.heroes.v1/feature.ability.fury.level-9/primordial-vortex"}
 
 
 *You channel the power of the Primordial Chaos to pull foes to you.*
@@ -1095,7 +1095,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-##### Primordial Bane
+##### Primordial Bane {data-scc="mcdm.heroes.v1/feature.ability.fury.level-9/primordial-bane"}
 
 
 *You attune the target to be weaker to a specific element.*
@@ -1112,7 +1112,7 @@ Choose one of the following abilities.
 
 **Effect:** Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any damage immunity to the chosen type and gains weakness 10 to the chosen type (save ends).
 
-##### Shower of Blood
+##### Shower of Blood {data-scc="mcdm.heroes.v1/feature.ability.fury.level-9/shower-of-blood"}
 
 
 *You shock your foes with the brutality of your strike, resetting the balance of combat.*
@@ -1133,7 +1133,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-##### Death Rattle
+##### Death Rattle {data-scc="mcdm.heroes.v1/feature.ability.fury.level-9/death-rattle"}
 
 
 *You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.*
@@ -1148,7 +1148,7 @@ Choose one of the following abilities.
 - **12-16:** 6 psychic damage; any target who is a minion is reduced to 0 Stamina, as does one winded target who is not a leader or solo creature
 - **17+:** 10 psychic damage; each target who is not a leader or solo creature is winded; any target who is a minion is reduced to 0 Stamina, as does one winded target who is not a leader or solo creature
 
-##### Deluge
+##### Deluge {data-scc="mcdm.heroes.v1/feature.ability.fury.level-9/deluge"}
 
 
 *You summon your [primordial storm](../feature/trait/fury/primordial-storm.md).*
@@ -1169,7 +1169,7 @@ Choose one of the following abilities.
 
 As a 10th-level [fury](fury.md), you gain the following features.
 
-### Chaos Incarnate
+### Chaos Incarnate {data-scc="mcdm.heroes.v1/feature.trait.fury.level-10/chaos-incarnate"}
 
 Your mastery of elemental forces protects and emboldens you. If you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to twice your Might score. If you are a stormwight, your damage immunity from your [Primordial Storm](../feature/trait/fury/primordial-storm.md) feature (see [Stormwight Kits](../feature/trait/fury/stormwight-kits.md)) increases to three times your Might score.
 
@@ -1177,23 +1177,23 @@ When any elemental or any other creature whose abilities deal acid, cold, corrup
 
 Additionally, when you use [Primordial Strike](../feature/trait/fury/level-4/primordial-strike.md), you can spend up to 3 ferocity, gaining 1 surge per ferocity spent to use for that strike.
 
-### Characteristic Increase
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.fury.level-10/characteristic-increase"}
 
 Your Might and Agility scores each increase to 5.
 
-### Growing Ferocity Improvement
+### Growing Ferocity Improvement {data-scc="mcdm.heroes.v1/feature.trait.fury.level-10/growing-ferocity-improvement"}
 
 Your [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) feature provides additional benefits when you have 12 or more ferocity.
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.fury.level-10/perk"}
 
 You gain one crafting, exploration, or intrigue perk of your choice.
 
-### Primordial Ferocity
+### Primordial Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury.level-10/primordial-ferocity"}
 
 The first time you take damage each combat round, you gain 3 ferocity instead of 2.
 
-### Primordial Power
+### Primordial Power {data-scc="mcdm.heroes.v1/feature.trait.fury.level-10/primordial-power"}
 
 You have an epic resource called [primordial power](../feature/trait/fury/level-10/primordial-power.md). Each time you finish a respite, you gain [primordial power](../feature/trait/fury/level-10/primordial-power.md) equal to the XP you gain. You can spend [primordial power](../feature/trait/fury/level-10/primordial-power.md) on your abilities as if it were ferocity.
 
@@ -1203,27 +1203,27 @@ You can also spend 3 [primordial power](../feature/trait/fury/level-10/primordia
 
 [Primordial power](../feature/trait/fury/level-10/primordial-power.md) remains until you spend it.
 
-### Skill
+### Skill {data-scc="mcdm.heroes.v1/feature.trait.fury.level-10/skill"}
 
 You gain one skill of your choice.
 
-## Stormwight Kits
+## Stormwight Kits {data-scc="mcdm.heroes.v1/feature.trait.fury/stormwight-kits"}
 
 The stormwight [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional [stormwight kits](../feature/trait/fury/stormwight-kits.md) through play, changing them out during a respite as with any other kit (see Chapter 6: [Kits](../../Read/heroes/kits.md)).
 
-### Kit Features
+### Kit Features {data-scc="mcdm.heroes.v1/feature.trait.fury/kit-features"}
 
 All [stormwight kits](../feature/trait/fury/stormwight-kits.md) have the following features in common.
 
-#### Aspect Benefits and Animal Form
+#### Aspect Benefits and Animal Form {data-scc="mcdm.heroes.v1/feature.trait.fury/aspect-benefits-and-animal-form"}
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.
 
-#### Aspect of the Wild
+#### Aspect of the Wild {data-scc="mcdm.heroes.v1/feature.trait.fury/aspect-of-the-wild"}
 
 You have the following ability.
 
-##### Aspect of the Wild
+##### Aspect of the Wild {data-scc="mcdm.heroes.v1/feature.ability.fury/aspect-of-the-wild"}
 
 
 *You assume the form of the animal who channels your ferocity.*
@@ -1236,15 +1236,15 @@ You have the following ability.
 
 **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another [animal form](../complication/animal-form.md), into your hybrid form, or back into your true form.
 
-#### Primordial Storm
+#### Primordial Storm {data-scc="mcdm.heroes.v1/feature.trait.fury/primordial-storm"}
 
 Each stormwight kit is associated with a [primordial storm](../feature/trait/fury/primordial-storm.md), which channels a specific damage type used by some of your abilities.
 
-#### Equipment
+#### Equipment {data-scc="mcdm.heroes.v1/feature.trait.fury/equipment"}
 
 You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your ferocity grows.
 
-#### Kit Bonuses
+#### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.trait.fury/kit-bonuses"}
 
 These bonuses apply in your true form, your [animal form](../complication/animal-form.md), and your hybrid form. See Chapter 6: [Kits](../../Read/heroes/kits.md) for information on [kit bonuses](../feature/trait/fury/boren/kit-bonuses.md).
 
@@ -1252,31 +1252,31 @@ These bonuses apply in your true form, your [animal form](../complication/animal
 
 You gain a new signature ability from your kit.
 
-#### Growing Ferocity
+#### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury/growing-ferocity"}
 
 Each stormwight kit grants a set of benefits for your [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) feature.
 
-### Boren
+### Boren {data-scc="mcdm.heroes.v1/kit/boren"}
 
 With this stormwight kit, you channel your [primordial ferocity](../feature/trait/fury/level-10/primordial-ferocity.md) into the form of a bear, becoming large, durable, and imposing. [Boren](../kit/boren.md) are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
 
-#### Aspect Benefits
+#### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.trait.fury.boren/aspect-benefits"}
 
 Whenever you use [forced movement](../movement/forced-movement.md) to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature [grabbed](../condition/grabbed.md) by you.
 
-#### Animal Form: Bear
+#### Animal Form: Bear {data-scc="mcdm.heroes.v1/feature.trait.fury.boren/animal-form-bear"}
 
 While you are in your bear form, your size is 2 and you gain a +1 bonus to distance with melee weapon abilities.
 
-#### Hybrid Form: Bear
+#### Hybrid Form: Bear {data-scc="mcdm.heroes.v1/feature.trait.fury.boren/hybrid-form-bear"}
 
 While you are in your hybrid form, your size is 2 and you gain a +1 bonus to distance with melee weapon abilities. At 4th level, the first time you take hybrid form in an encounter, you gain 10 temporary Stamina.
 
-#### Primordial Storm: Blizzard
+#### Primordial Storm: Blizzard {data-scc="mcdm.heroes.v1/feature.trait.fury.boren/primordial-storm-blizzard"}
 
 Your primordial damage type is cold.
 
-#### Kit Bonuses
+#### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.trait.fury.boren/kit-bonuses"}
 
 - **Stamina Bonus:** +9 per echelon
 - **Stability Bonus:** +2
@@ -1284,7 +1284,7 @@ Your primordial damage type is cold.
 
 #### Signature Ability
 
-##### Bear Claws
+##### Bear Claws {data-scc="mcdm.heroes.v1/feature.ability.boren/bear-claws"}
 
 *Attacks with your sharp and deadly claws grab the weak.*
 
@@ -1298,7 +1298,7 @@ Your primordial damage type is cold.
 - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../condition/grabbed.md)
 - **17+:** 11 + M damage; M < STRONG, [grabbed](../condition/grabbed.md)
 
-#### Growing Ferocity
+#### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury.boren/growing-ferocity"}
 
 As your ferocity grows, you gain benefits as noted on the [Boren](../kit/boren.md) [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -1313,27 +1313,27 @@ As your ferocity grows, you gain benefits as noted on the [Boren](../kit/boren.m
 | 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                                               |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](../condition/grabbed.md), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
 
-### Corven
+### Corven {data-scc="mcdm.heroes.v1/kit/corven"}
 
 With this stormwight kit, you channel your [primordial ferocity](../feature/trait/fury/level-10/primordial-ferocity.md) into the form of a crow, becoming stealthy and quick. [Corven](../kit/corven.md) are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the warm and fast-rising anabatic wind.
 
-#### Aspect Benefits
+#### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.trait.fury.corven/aspect-benefits"}
 
 You gain an edge on tests made to hide and sneak. Additionally, whenever you fall, you can use a free triggered action to use your [Aspect of the Wild](../feature/ability/fury/aspect-of-the-wild.md) ability.
 
-#### Animal Form: Crow
+#### Animal Form: Crow {data-scc="mcdm.heroes.v1/feature.trait.fury.corven/animal-form-crow"}
 
 While you are in your crow form, your size is 1T and you can [fly](../movement/fly.md). You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/aspect-of-the-wild.md).
 
-#### Hybrid Form: Crow
+#### Hybrid Form: Crow {data-scc="mcdm.heroes.v1/feature.trait.fury.corven/hybrid-form-crow"}
 
 While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can [fly](../movement/fly.md).
 
-#### Primordial Storm: Anabatic Wind
+#### Primordial Storm: Anabatic Wind {data-scc="mcdm.heroes.v1/feature.trait.fury.corven/primordial-storm-anabatic-wind"}
 
 Your primordial damage type is fire.
 
-#### Kit Bonuses
+#### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.trait.fury.corven/kit-bonuses"}
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +3
@@ -1342,7 +1342,7 @@ Your primordial damage type is fire.
 
 #### Signature Ability
 
-##### Wing Buffet
+##### Wing Buffet {data-scc="mcdm.heroes.v1/feature.ability.corven/wing-buffet"}
 
 *Foes who try to close in around you do so at their peril.*
 
@@ -1358,7 +1358,7 @@ Your primordial damage type is fire.
 
 **Effect:** You can [shift](../movement/shifting.md) up to 2 squares before or after making the power roll.
 
-#### Growing Ferocity
+#### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury.corven/growing-ferocity"}
 
 As your ferocity grows, you gain benefits as noted on the [Corven](../kit/corven.md) [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -1373,27 +1373,27 @@ As your ferocity grows, you gain benefits as noted on the [Corven](../kit/corven
 | 10 (7th level)  | You have a double edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver.                                                    |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you. |
 
-### Raden
+### Raden {data-scc="mcdm.heroes.v1/kit/raden"}
 
 With this stormwight kit, you channel your [primordial ferocity](../feature/trait/fury/level-10/primordial-ferocity.md) into the form of a rat, becoming mobile and elusive. [Raden](../kit/raden.md) are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood—a surge of corrupted water that draws forth hordes of rats.
 
-#### Aspect Benefits
+#### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.trait.fury.raden/aspect-benefits"}
 
 You gain an edge on tests made to hide and sneak. Additionally, you ignore [difficult terrain](../movement/difficult-terrain.md).
 
-#### Animal Form: Rat
+#### Animal Form: Rat {data-scc="mcdm.heroes.v1/feature.trait.fury.raden/animal-form-rat"}
 
 While you are in your rat form, your size is 1T and you can automatically climb at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to climb other creatures. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/aspect-of-the-wild.md).
 
-#### Hybrid Form: Rat
+#### Hybrid Form: Rat {data-scc="mcdm.heroes.v1/feature.trait.fury.raden/hybrid-form-rat"}
 
 While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically climb at full speed while moving.
 
-#### Primordial Storm: Rat Flood
+#### Primordial Storm: Rat Flood {data-scc="mcdm.heroes.v1/feature.trait.fury.raden/primordial-storm-rat-flood"}
 
 Your primordial damage type is corruption.
 
-#### Kit Bonuses
+#### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.trait.fury.raden/kit-bonuses"}
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +3
@@ -1402,7 +1402,7 @@ Your primordial damage type is corruption.
 
 #### Signature Ability
 
-##### Driving Pounce
+##### Driving Pounce {data-scc="mcdm.heroes.v1/feature.ability.raden/driving-pounce"}
 
 *Your enemies try in vain to fall back from your pouncing attack.*
 
@@ -1418,7 +1418,7 @@ Your primordial damage type is corruption.
 
 **Effect:** You can [shift](../movement/shifting.md) up to the same number of squares that you pushed the target.
 
-#### Growing Ferocity
+#### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury.raden/growing-ferocity"}
 
 As your ferocity grows, you gain benefits as noted on the [Raden](../kit/raden.md) [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -1433,27 +1433,27 @@ As your ferocity grows, you gain benefits as noted on the [Raden](../kit/raden.m
 | 10 (7th level)  | You have a double edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver                                                     |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you. |
 
-### Vuken
+### Vuken {data-scc="mcdm.heroes.v1/kit/vuken"}
 
 With this stormwight kit, you channel your [primordial ferocity](../feature/trait/fury/level-10/primordial-ferocity.md) into the form of a wolf, becoming a fleet-footed hunter. [Vuken](../kit/vuken.md) are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
 
-#### Aspect Benefits
+#### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/aspect-benefits"}
 
 Whenever you use the Knockback maneuver, you can then use the Aid Attack maneuver as a free triggered action.
 
-#### Animal Form: Wolf
+#### Animal Form: Wolf {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/animal-form-wolf"}
 
 While you are in your wolf form, your size is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../movement/difficult-terrain.md).
 
-#### Hybrid Form: Wolf
+#### Hybrid Form: Wolf {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/hybrid-form-wolf"}
 
 While you are in your hybrid form, your size is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../movement/difficult-terrain.md). At 4th level, the first time you take hybrid form in an encounter, you gain 10 temporary Stamina.
 
-#### Primordial Storm: Lightning Storm
+#### Primordial Storm: Lightning Storm {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/primordial-storm-lightning-storm"}
 
 Your primordial damage type is lightning.
 
-#### Kit Bonuses
+#### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/kit-bonuses"}
 
 - **Stamina Bonus:** +9 per echelon
 - **Speed Bonus:** +2
@@ -1462,7 +1462,7 @@ Your primordial damage type is lightning.
 
 #### Signature Ability
 
-##### Unbalancing Attack
+##### Unbalancing Attack {data-scc="mcdm.heroes.v1/feature.ability.vuken/unbalancing-attack"}
 
 *A wild assault forces your foe onto their back.*
 
@@ -1476,7 +1476,7 @@ Your primordial damage type is lightning.
 - **12-16:** 7 + M damage; A < AVERAGE[, prone](../condition/prone.md)
 - **17+:** 9 + M damage; A < STRONG[, prone](../condition/prone.md)
 
-#### Growing Ferocity
+#### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/growing-ferocity"}
 
 As your ferocity grows, you gain benefits as noted on the [Vuken](../kit/vuken.md) [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 

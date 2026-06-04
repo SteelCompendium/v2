@@ -12,7 +12,7 @@ type: trait
 
 You have the following performance abilities, which are usable with your [Routines](routines.md) feature.
 
-## "Thunder Mother"
+## "Thunder Mother" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/thunder-mother"}
 
 
 *All for thunder motherrr! ♪ Run and hide for coverrr!♪*
@@ -29,7 +29,7 @@ You have the following performance abilities, which are usable with your [Routin
 - **12-16:** Lightning damage equal to 5 + your level
 - **17+:** Lightning damage equal to 10 + your level
 
-## "Ballad of the Beast"
+## "Ballad of the Beast" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/ballad-of-the-beast"}
 
 
 *Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*

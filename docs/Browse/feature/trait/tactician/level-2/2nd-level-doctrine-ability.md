@@ -16,7 +16,7 @@ Your [tactical doctrine](../level-1/tactical-doctrine.md) grants your choice of 
 
 Choose one of the following abilities.
 
-### Fog of War
+### Fog of War {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-2/fog-of-war"}
 
 
 *Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.*
@@ -29,7 +29,7 @@ Choose one of the following abilities.
 
 **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a free strike against a creature of your choice within 5 squares of them.
 
-### Try Me Instead
+### Try Me Instead {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-2/try-me-instead"}
 
 
 *"Try picking on someone my size."*
@@ -50,7 +50,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### I've Got Your Back
+### I've Got Your Back {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-2/ive-got-your-back"}
 
 
 *Your enemy will think twice about attacking your friend.*
@@ -67,7 +67,7 @@ Choose one of the following abilities.
 
 **Effect:** One ally adjacent to the target can spend a Recovery.
 
-### Targets of Opportunity
+### Targets of Opportunity {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-2/targets-of-opportunity"}
 
 
 *You point out easy targets to your friends, allowing them to include more enemies in their attacks.*
@@ -84,7 +84,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### No Dying on My Watch
+### No Dying on My Watch {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-2/no-dying-on-my-watch"}
 
 
 *You prioritize saving an ally over your own safety.*
@@ -103,7 +103,7 @@ Choose one of the following abilities.
 - **12-16:** R < AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
 - **17+:** R < STRONG, the target is [frightened](../../../../condition/frightened.md) of the triggering ally (save ends)
 
-### Squad! On Me!
+### Squad! On Me! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-2/squad-on-me"}
 
 
 *Together we are invincible!*

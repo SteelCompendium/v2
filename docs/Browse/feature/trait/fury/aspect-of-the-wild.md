@@ -11,7 +11,7 @@ type: trait
 
 You have the following ability.
 
-## Aspect of the Wild
+## Aspect of the Wild {data-scc="mcdm.heroes.v1/feature.ability.fury/aspect-of-the-wild"}
 
 
 *You assume the form of the animal who channels your ferocity.*

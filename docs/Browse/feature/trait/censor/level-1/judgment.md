@@ -12,7 +12,7 @@ type: trait
 
 You pick out the enemies most worthy of your wrath and place a divine [judgment](../../../ability/censor/level-1/judgment.md) upon them, censoring them with the power of your god. You have the following ability.
 
-## Judgment
+## Judgment {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/judgment"}
 
 
 *You utter a prayer that outlines your foe in holy energy.*
@@ -36,7 +36,7 @@ Additionally, you can spend 1 wrath to take one of the following free triggered 
   
 You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
 
-## Judgment Order Benefit
+## Judgment Order Benefit {data-scc="mcdm.heroes.v1/feature.trait.censor.level-1/judgment-order-benefit"}
 
 The first time on a turn that you use your [Judgment](../../../ability/censor/level-1/judgment.md) ability to judge a creature, you gain the following benefit based on your order:
 

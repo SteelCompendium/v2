@@ -11,7 +11,7 @@ type: trait
 
 [Time raider](../../../ancestry/time-raider.md) heroes have access to the following traits.
 
-## Signature Trait: Psychic Scar
+## Signature Trait: Psychic Scar {data-scc="mcdm.heroes.v1/feature.trait.time-raider/psychic-scar"}
 
 Your mind is a formidable layer of defense. You have psychic immunity equal to your level.
 
@@ -19,27 +19,27 @@ Your mind is a formidable layer of defense. You have psychic immunity equal to y
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beyondsight, Psionic Gift with [Psionic Bolt](../../ability/time-raider/psionic-bolt.md).)
 
-### Beyondsight
+### Beyondsight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/beyondsight"}
 
 As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can't see the area within 1 square of you and you don't have line of effect to any creature or object in that area. You can restore your usual vision as a maneuver.
 
-### Foresight
+### Foresight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/foresight"}
 
 Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with concealment who isn't hidden from you within 20, and you negate the usual bane on strikes against such creatures. Additionally, whenever you are targeted by a strike, you can use a triggered action to impose a bane on the power roll.
 
-### Four-Armed Athletics
+### Four-Armed Athletics {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-athletics"}
 
 Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](../../../skill/climb.md), [Gymnastics](../../../skill/gymnastics.md), or [Swim](../../../skill/swim.md) skills when you can use all your arms in the attempt.
 
-### Four-Armed Martial Arts
+### Four-Armed Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts"}
 
 Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](../../../condition/grabbed.md) at a time.
 
-### Psionic Gift
+### Psionic Gift {data-scc="mcdm.heroes.v1/feature.trait.time-raider/psionic-gift"}
 
 Choose one signature ability from the following options. Signature abilities can be used at will.
 
-#### Concussive Slam
+#### Concussive Slam {data-scc="mcdm.heroes.v1/feature.ability.time-raider/concussive-slam"}
 
 *You slam an invisible force down upon the target.*
 
@@ -53,7 +53,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 5 + R, I, or P damage; push 1
 - **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../../condition/prone.md)
 
-#### Psionic Bolt
+#### Psionic Bolt {data-scc="mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt"}
 
 *You shoot forth a purple beam of psychic force that moves your target.*
 
@@ -67,7 +67,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 5 + R, I, or P psychic damage; slide 2
 - **17+:** 7 + R, I, or P psychic damage; slide 3
 
-#### Minor Acceleration
+#### Minor Acceleration {data-scc="mcdm.heroes.v1/feature.ability.time-raider/minor-acceleration"}
 
 *You fill yourself or an ally with a burst of speed.*
 

@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 9 ferocity to use.
 
-## Debilitating Strike
+## Debilitating Strike {data-scc="mcdm.heroes.v1/feature.ability.fury.level-5/debilitating-strike"}
 
 
 *You need just one blow to sabotage your target.*
@@ -29,7 +29,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 **Effect:** While [slowed](../../../../condition/slowed.md) this way, the target takes 1 damage for every square they move, including from [forced movement](../../../../movement/forced-movement.md).
 
-## My Turn!
+## My Turn! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-5/my-turn"}
 
 
 *You quickly strike back at a foe.*
@@ -48,7 +48,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 **Effect:** You can spend a Recovery.
 
-## Rebounding Storm
+## Rebounding Storm {data-scc="mcdm.heroes.v1/feature.ability.fury.level-5/rebounding-storm"}
 
 
 *You knock around enemies like playthings.*
@@ -65,7 +65,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 **Effect:** When a target would end this [forced movement](../../../../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as [forced movement](../../../../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
 
-## To Stone!
+## To Stone! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-5/to-stone"}
 
 
 *You channel the Primordial Chaos into blows that petrify your foe... literally.*

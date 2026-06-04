@@ -123,7 +123,7 @@ The [dragon knight](dragon-knight.md) stared at them for a moment, then turned b
 
 "Maybe you're right," he said.
 
-## Polder Traits
+## Polder Traits {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-traits"}
 
 [Polder](polder.md) heroes have access to the following traits.
 
@@ -131,7 +131,7 @@ The [dragon knight](dragon-knight.md) stared at them for a moment, then turned b
 
 You have the following ability.
 
-##### Shadowmeld
+##### Shadowmeld {data-scc="mcdm.heroes.v1/feature.ability.polder/shadowmeld"}
 
 *You become an actual shadow.*
 
@@ -143,7 +143,7 @@ You have the following ability.
 
 If the surface you are flattened against is destroyed, this ability ends and you take 1d6 damage that can't be reduced in any way.
 
-### Signature Trait: Small!
+### Signature Trait: Small! {data-scc="mcdm.heroes.v1/feature.trait.polder/small"}
 
 Your diminutive stature lets you easily get out of—or into—trouble. Your size is 1S.
 
@@ -151,26 +151,26 @@ Your diminutive stature lets you easily get out of—or into—trouble. Your siz
 
 You have 4 ancestry points to spend on the following traits. (*Quick Build:* Corruption Immunity, Fearless, Graceful Retreat.)
 
-#### Corruption Immunity
+#### Corruption Immunity {data-scc="mcdm.heroes.v1/feature.trait.polder/corruption-immunity"}
 
 Your innate [shadow](../class/shadow.md) magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.
 
-#### Fearless
+#### Fearless {data-scc="mcdm.heroes.v1/feature.trait.polder/fearless"}
 
 Courage is all you know. You can't be made [frightened](../condition/frightened.md).
 
-#### Graceful Retreat
+#### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.polder/graceful-retreat"}
 
 Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the Disengage move action.
 
-#### Nimblestep
+#### Nimblestep {data-scc="mcdm.heroes.v1/feature.trait.polder/nimblestep"}
 
 A light step serves you well when speed is of the essence. You ignore the effects of [difficult terrain](../movement/difficult-terrain.md) and can move at full speed while sneaking.
 
-#### Polder Geist
+#### Polder Geist {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-geist"}
 
 Evading others' notice gives you freedom to move. At the start of each of your turns during combat, if no enemy has line of effect to you or if you are hidden from or have concealment from any enemy with line of effect to you, you gain a +3 bonus to speed until the end of your turn.
 
-#### Reactive Tumble
+#### Reactive Tumble {data-scc="mcdm.heroes.v1/feature.trait.polder/reactive-tumble"}
 
 Staying light on your feet lets you quickly get back into position. Whenever you are [force moved](../movement/forced-movement.md), you can use a free triggered action to [shift](../movement/shifting.md) 1 square after the [forced movement](../movement/forced-movement.md) is resolved.

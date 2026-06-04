@@ -31,7 +31,7 @@ You wear no armor and wield only your unarmed strikes.
 
 ## Signature Ability
 
-### Battle Grace
+### Battle Grace {data-scc="mcdm.heroes.v1/feature.ability.martial-artist/battle-grace"}
 
 *You feint to move your enemies into perfect position.*
 

@@ -31,7 +31,7 @@ You wear light armor and wield a medium weapon.
 
 ## Signature Ability
 
-### Unmooring
+### Unmooring {data-scc="mcdm.heroes.v1/feature.ability.battlemind/unmooring"}
 
 *Your weapon unleashes psionic energy that reduces your target's weight.*
 

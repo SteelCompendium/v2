@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 11 insight to use.
 
-## Assassinate
+## Assassinate {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/assassinate"}
 
 
 *A practiced attack will instantly kill an already weakened foe.*
@@ -29,7 +29,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 
 **Effect:** A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.
 
-## Shadowgrasp
+## Shadowgrasp {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/shadowgrasp"}
 
 
 *The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*
@@ -44,7 +44,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 - **12-16:** 16 corruption damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
 - **17+:** 21 corruption damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 
-## Speed of Shadows
+## Speed of Shadows {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/speed-of-shadows"}
 
 
 *You make multiple strikes against a foe before they even notice they're dead.*
@@ -55,7 +55,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 
 **Effect:** You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can [shift](../../../../movement/shifting.md) up to 2 squares between each use.
 
-## They Always Line Up
+## They Always Line Up {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/they-always-line-up"}
 
 
 *You fire a projectile so fast that it passes through a line of foes, hamstringing them.*

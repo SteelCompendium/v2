@@ -31,7 +31,7 @@ You wear medium armor and wield a polearm.
 
 ## Signature Ability
 
-### Forward Thrust, Backward Smash
+### Forward Thrust, Backward Smash {data-scc="mcdm.heroes.v1/feature.ability.guisarmier/forward-thrust-backward-smash"}
 
 *In your hands, the haft is as good as the head.*
 

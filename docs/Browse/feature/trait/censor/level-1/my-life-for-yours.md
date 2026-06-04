@@ -12,7 +12,7 @@ type: trait
 
 You channel your will to mend your wounds or the wounds of your allies. You have the following ability.
 
-## My Life for Yours
+## My Life for Yours {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/my-life-for-yours"}
 
 
 *You channel some of your vitality into more resilience for you or an ally.*

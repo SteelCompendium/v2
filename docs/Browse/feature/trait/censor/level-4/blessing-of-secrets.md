@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Blessing of Secrets
+## Blessing of Secrets {data-scc="mcdm.heroes.v1/feature.ability.censor.level-4/blessing-of-secrets"}
 
 
 *You project an illusory aura that makes you and allies harder to notice.*

@@ -16,7 +16,7 @@ Your [talent tradition](../level-1/talent-tradition.md) grants your choice of on
 
 Choose one of the following abilities.
 
-### Applied Chronometrics
+### Applied Chronometrics {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/applied-chronometrics"}
 
 
 *Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.*
@@ -35,7 +35,7 @@ Choose one of the following abilities.
 
 **Strained:** Your speed is halved until the end of the encounter.
 
-### Slow
+### Slow {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/slow"}
 
 
 *Perhaps they wonder why everyone else is moving so quickly?*
@@ -58,7 +58,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Gravitic Burst
+### Gravitic Burst {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/gravitic-burst"}
 
 
 *Everyone get away from me!*
@@ -75,7 +75,7 @@ Choose one of the following abilities.
 
 **Strained:** The size of the burst increases by 1, and you are [weakened](../../../../condition/weakened.md) until the end of your turn.
 
-### Levity and Gravity
+### Levity and Gravity {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/levity-and-gravity"}
 
 
 *You raise the target slightly into the air, then smother them against the ground.*
@@ -96,7 +96,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Overwhelm
+### Overwhelm {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/overwhelm"}
 
 
 *You overload their senses, turning all their subconscious thoughts into conscious ones.*
@@ -113,7 +113,7 @@ Choose one of the following abilities.
 
 **Strained:** You start crying, and you can't use triggered actions or make free strikes until the end of the target's next turn.
 
-### Synaptic Override
+### Synaptic Override {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/synaptic-override"}
 
 
 *You control an enemy's nervous system. How pleasant for them.*

@@ -10,7 +10,7 @@ type: trait
 
 A creature who is [grabbed](../../../../condition/grabbed.md) by another creature, an object, or an effect (see Grab below) can attempt to escape by using the following ability.
 
-## Escape Grab
+## Escape Grab {data-scc="mcdm.heroes.v1/feature.ability.common.maneuvers/escape-grab"}
 
 
 | **-**       | **Maneuver** |

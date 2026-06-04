@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 7 essence to use.
 
-## Erase
+## Erase {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/erase"}
 
 
 *With a flick of the wrist, you phase creatures out of existence.*
@@ -31,7 +31,7 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 
 **Effect:** Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a bane on power rolls. At the end of their first turn, they have a double bane on power rolls. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
 
-## Maw of Earth
+## Maw of Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/maw-of-earth"}
 
 
 *You open up the ground, spewing out shrapnel of stone and debris.*
@@ -48,7 +48,7 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 
 **Effect:** The ground in or directly beneath the area drops 3 squares.
 
-## Swarm of Spirits
+## Swarm of Spirits {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/swarm-of-spirits"}
 
 
 *Guardian animal spirits surround you to harry your foes and bolster your allies.*
@@ -67,7 +67,7 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 
 **Persistent 1:** You make the power roll again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn.
 
-## Wall of Fire
+## Wall of Fire {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/wall-of-fire"}
 
 
 *A blazing, beautifully organized inferno erupts at your command.*

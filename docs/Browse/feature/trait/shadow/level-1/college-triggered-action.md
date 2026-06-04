@@ -20,7 +20,7 @@ Your [shadow college](shadow-college.md) grants you a triggered action, as shown
 | Caustic Alchemy | [Defensive Roll](../../../ability/shadow/level-1/defensive-roll.md)        |
 | Harlequin Mask  | [Clever Trick](../../../ability/shadow/level-1/clever-trick.md)          |
 
-### Clever Trick
+### Clever Trick {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/clever-trick"}
 
 
 *You sow a moment of confusion in combat, to your enemy's peril.*
@@ -33,7 +33,7 @@ Your [shadow college](shadow-college.md) grants you a triggered action, as shown
 
 **Effect:** Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.
 
-### Defensive Roll
+### Defensive Roll {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/defensive-roll"}
 
 
 *When an enemy attacks, you roll with the impact to reduce the harm.*
@@ -48,7 +48,7 @@ Your [shadow college](shadow-college.md) grants you a triggered action, as shown
 
 **Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
 
-### In All This Confusion
+### In All This Confusion {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion"}
 
 
 *You vanish in a plume of black smoke to avoid danger.*

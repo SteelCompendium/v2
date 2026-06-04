@@ -28,7 +28,7 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 ## Signature Ability
 
-### Protective Attack
+### Protective Attack {data-scc="mcdm.heroes.v1/feature.ability.shining-armor/protective-attack"}
 
 *The strength of your assault makes it impossible for your foe to ignore you.*
 

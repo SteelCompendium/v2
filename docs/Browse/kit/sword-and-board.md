@@ -31,7 +31,7 @@ You wear medium armor and wield a shield and a medium weapon.
 
 ## Signature Ability
 
-### Shield Bash
+### Shield Bash {data-scc="mcdm.heroes.v1/feature.ability.sword-and-board/shield-bash"}
 
 *In your hands, a shield isn't just for protection.*
 

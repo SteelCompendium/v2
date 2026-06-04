@@ -91,11 +91,11 @@ The children nodded. The elf, satisfied, marched off and they followed.
 
 Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" their escort called out. "The wode is a dream! With a little luck, one you may soon wake safely from."
 
-## Wode Elf Traits
+## Wode Elf Traits {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-traits"}
 
 [Wode elf](wode-elf.md) heroes have access to the following traits.
 
-### Signature Trait: Wode Elf Glamor
+### Signature Trait: Wode Elf Glamor {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-glamor"}
 
 You can magically alter your appearance to better blend in with your surroundings. You gain an edge on tests made to hide and sneak, and tests made to search for you while you are hidden take a bane.
 
@@ -103,31 +103,31 @@ You can magically alter your appearance to better blend in with your surrounding
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Swift, Otherworldly Grace.)
 
-#### Forest Walk
+#### Forest Walk {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/forest-walk"}
 
 You can [shift](../movement/shifting.md) into and while within [difficult terrain](../movement/difficult-terrain.md).
 
-#### Quick and Brutal
+#### Quick and Brutal {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/quick-and-brutal"}
 
 Whenever you score a critical hit, you can take an additional main action and an additional move action instead of just a main action.
 
-#### Otherworldly Grace
+#### Otherworldly Grace {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/otherworldly-grace"}
 
 Your elf body and mind can't be contained for long. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
 
-#### Revisit Memory
+#### Revisit Memory {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/revisit-memory"}
 
 Accessing memories is as easy as living in the present for you. You gain an edge on tests made to recall lore.
 
-#### Swift
+#### Swift {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/swift"}
 
 You have speed 6.
 
-#### The Wode Defends
+#### The Wode Defends {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/the-wode-defends"}
 
 You have the following signature ability. Signature abilities can be used at will.
 
-##### The Wode Defends
+##### The Wode Defends {data-scc="mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends"}
 
 *Thorny vines erupt from every surface and attempt to bind your foe.*
 

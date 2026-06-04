@@ -12,7 +12,7 @@ type: trait
 
 You have the following performance ability, which is usable with your [Routines](../level-1/routines.md) feature.
 
-## Spotlight
+## Spotlight {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-6/spotlight"}
 
 
 *The audience is watching, so you'd better give them a show.*

@@ -61,7 +61,7 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 As a 1st-level [shadow](shadow.md), you gain the following features.
 
-### Shadow College
+### Shadow College {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/shadow-college"}
 
 [Shadow](shadow.md) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](shadow.md) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
@@ -73,7 +73,7 @@ You graduated from a [shadow college](../feature/trait/shadow/level-1/shadow-col
 
 Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) is your subclass, and your choice of college determines many of the features you'll gain as you gain new levels.
 
-### Insight
+### Insight {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/insight"}
 
 By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called insight.
 
@@ -93,7 +93,7 @@ Although you can't gain insight outside of combat, you can use your heroic abili
 
 When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as [Black Ash Teleport](../feature/ability/shadow/level-1/black-ash-teleport.md), you can use it as if you had spent an amount of insight equal to your Victories.
 
-### 1st-Level College Features
+### 1st-Level College Features {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/1st-level-college-features"}
 
 Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants you one or two features, as shown on the 1st-Level College Features table.
 
@@ -105,11 +105,11 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 | Caustic Alchemy | [Coat the Blade](../feature/ability/shadow/level-1/coat-the-blade.md), [Smoke Bomb](../feature/trait/shadow/level-1/smoke-bomb.md) |
 | Harlequin Mask  | I'm No Threat              |
 
-#### Black Ash Teleport
+#### Black Ash Teleport {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/black-ash-teleport"}
 
 You have the following ability.
 
-##### Black Ash Teleport
+##### Black Ash Teleport {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/black-ash-teleport"}
 
 
 *In a swirl of black ash, you step from one place to another.*
@@ -122,11 +122,11 @@ You have the following ability.
 
 **Spend 1+ Insight:** You [teleport](../movement/teleport.md) 1 additional square for each insight spent.
 
-#### Coat the Blade
+#### Coat the Blade {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/coat-the-blade"}
 
 You have the following ability.
 
-##### Coat the Blade
+##### Coat the Blade {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/coat-the-blade"}
 
 
 *A little poison goes a long way.*
@@ -139,11 +139,11 @@ You have the following ability.
 
 **Spend 1+ Insight:** For each insight you spend, you gain 1 additional surge.
 
-#### I'm No Threat
+#### I'm No Threat {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/im-no-threat"}
 
 You have the following ability.
 
-##### I'm No Threat
+##### I'm No Threat {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/im-no-threat"}
 
 
 *Taking on an illusory countenance gives you an advantage on [subterfuge](../feature/trait/shadow/level-10/subterfuge.md).*
@@ -158,11 +158,11 @@ The illusion ends when you harm another creature, when you physically interact w
 
 **Spend 1 Insight:** Choose a creature whose size is no more than 1 greater than yours and who is within 10 squares. This ability's illusion makes you appear as that creature. This illusion covers your entire body, including clothing and armor, and alters your voice to sound like that of the creature. You gain an edge on tests made to convince the creature's allies that you are the creature.
 
-#### Smoke Bomb
+#### Smoke Bomb {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/smoke-bomb"}
 
 You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the Hide maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can [shift](../movement/shifting.md) a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
 
-### College Triggered Action
+### College Triggered Action {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/college-triggered-action"}
 
 Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants you a triggered action, as shown on the College Triggered Actions table.
 
@@ -174,7 +174,7 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 | Caustic Alchemy | [Defensive Roll](../feature/ability/shadow/level-1/defensive-roll.md)        |
 | Harlequin Mask  | [Clever Trick](../feature/ability/shadow/level-1/clever-trick.md)          |
 
-##### Clever Trick
+##### Clever Trick {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/clever-trick"}
 
 
 *You sow a moment of confusion in combat, to your enemy's peril.*
@@ -187,7 +187,7 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 
 **Effect:** Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.
 
-##### Defensive Roll
+##### Defensive Roll {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/defensive-roll"}
 
 
 *When an enemy attacks, you roll with the impact to reduce the harm.*
@@ -202,7 +202,7 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 
 **Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
 
-##### In All This Confusion
+##### In All This Confusion {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion"}
 
 
 *You vanish in a plume of black smoke to avoid danger.*
@@ -217,11 +217,11 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 
 **Spend 1+ Insight:** You [teleport](../movement/teleport.md) 1 additional square for each insight spent.
 
-### Hesitation Is Weakness
+### Hesitation Is Weakness {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/hesitation-is-weakness"}
 
 You have the following ability.
 
-#### Hesitation Is Weakness
+#### Hesitation Is Weakness {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/hesitation-is-weakness"}
 
 
 *Keep up the attack. Never give them a moment's grace.*
@@ -234,11 +234,11 @@ You have the following ability.
 
 **Effect:** You take your turn after the triggering hero.
 
-### Kit
+### Kit {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/kit"}
 
 You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../Read/heroes/kits.md) for more information. (*Quick Build:* [Cloak and Dagger](../kit/cloak-and-dagger.md).)
 
-### Shadow Abilities
+### Shadow Abilities {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/shadow-abilities"}
 
 You specialize in dealing damage, then getting out of harm's way before the inevitable counterattack. You know a number of unique martial abilities that define your presence on the battlefield.
 
@@ -246,7 +246,7 @@ You specialize in dealing damage, then getting out of harm's way before the inev
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Teamwork Has Its Place](../feature/ability/shadow/level-1/teamwork-has-its-place.md).)
 
-##### Gasping in Pain
+##### Gasping in Pain {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/gasping-in-pain"}
 
 
 *Your precise strikes let your allies take advantage of a target's agony.*
@@ -263,7 +263,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** One ally within 5 squares of the target gains 1 surge.
 
-##### I Work Better Alone
+##### I Work Better Alone {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/i-work-better-alone"}
 
 
 *"It's better, just you and me. Isn't it?"*
@@ -280,7 +280,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** If the target has none of your allies adjacent to them, you gain 1 surge before making the power roll.
 
-##### Teamwork Has Its Place
+##### Teamwork Has Its Place {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/teamwork-has-its-place"}
 
 
 *You attack an enemy as an ally exposes their weakness.*
@@ -297,7 +297,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** If any ally is adjacent to the target, you gain 1 surge before making the power roll.
 
-##### You Were Watching the Wrong One
+##### You Were Watching the Wrong One {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/you-were-watching-the-wrong-one"}
 
 
 *They can't watch both of you at once.*
@@ -322,7 +322,7 @@ A range of heroic abilities define your combat prowess, all of which make use of
 
 Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* [Get In Get Out](../feature/ability/shadow/level-1/get-in-get-out.md).)
 
-##### Disorienting Strike
+##### Disorienting Strike {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/disorienting-strike"}
 
 
 *Your attack leaves them reeling, allowing you to follow up.*
@@ -339,7 +339,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 **Effect:** You can [shift](../movement/shifting.md) into any square the target leaves when you slide them.
 
-##### Eviscerate
+##### Eviscerate {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/eviscerate"}
 
 
 *You leave your foe bleeding out after a devastating attack.*
@@ -354,7 +354,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 - **12-16:** 6 + A damage; A < AVERAGE, [bleeding](../condition/bleeding.md) (save ends)
 - **17+:** 10 + A damage; A < STRONG, [bleeding](../condition/bleeding.md) (save ends)
 
-##### Get In Get Out
+##### Get In Get Out {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/get-in-get-out"}
 
 
 *Move unexpectedly, strike fast, and be gone!*
@@ -371,7 +371,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 **Effect:** You can [shift](../movement/shifting.md) up to your speed, dividing that movement before or after your strike as desired.
 
-##### Two Throats at Once
+##### Two Throats at Once {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/two-throats-at-once"}
 
 
 *A bargain.*
@@ -390,7 +390,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: [Coup de Grace](../feature/ability/shadow/level-1/coup-de-grace.md).)
 
-##### Coup de Grace
+##### Coup de Grace {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/coup-de-grace"}
 
 
 *Your blade might be the last thing they see.*
@@ -405,7 +405,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 - **12-16:** 2d6 + 11 + A damage
 - **17+:** 2d6 + 16 + A damage
 
-##### One Hundred Throats
+##### One Hundred Throats {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/one-hundred-throats"}
 
 
 *As you move across the battlefield, every foe within reach feels your wrath.*
@@ -422,7 +422,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 - **12-16:** 6 damage
 - **17+:** 9 damage
 
-##### Setup
+##### Setup {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/setup"}
 
 
 *Your friends will thank you.*
@@ -437,7 +437,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 - **12-16:** 9 + A damage; R < AVERAGE, the target has damage weakness 5 (save ends)
 - **17+:** 13 + A damage; R < STRONG, the target has damage weakness 5 (save ends)
 
-##### Shadowstrike
+##### Shadowstrike {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/shadowstrike"}
 
 
 *They have no idea what the college taught you.*
@@ -452,11 +452,11 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 As a 2nd-level [shadow](shadow.md), you gain the following features.
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-2/perk"}
 
 You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
-### 2nd-Level College Feature
+### 2nd-Level College Feature {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-2/2nd-level-college-feature"}
 
 Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants you a feature, as shown on the 2nd-Level College Features table.
 
@@ -468,21 +468,21 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 | Caustic Alchemy            | [Trained Assassin](../feature/trait/shadow/level-2/trained-assassin.md) |
 | Harlequin Mask             | Friend!          |
 
-#### Burning Ash
+#### Burning Ash {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-2/burning-ash"}
 
 The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to [teleport](../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.
 
-#### Friend!
+#### Friend! {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-2/friend"}
 
 Your illusions make your enemies believe you are their friend in critical moments. Whenever an enemy uses an ability or trait that targets multiple allies and you are within distance of the effect, you can choose to be a target of the effect as well.
 
 Additionally, when you use your I'm No Threat ability, you can take the Disengage move action as part of that ability.
 
-#### Trained Assassin
+#### Trained Assassin {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-2/trained-assassin"}
 
 You know just where to cut your enemies. Whenever you make a strike that has no bane or double bane, and that incorporates 1 or more surges, you gain 1 additional surge that you can use only on that strike.
 
-### 2nd-Level College Ability
+### 2nd-Level College Ability {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-2/2nd-level-college-ability"}
 
 Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants your choice of one of two heroic abilities.
 
@@ -490,7 +490,7 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 
 Choose one of the following abilities.
 
-##### In a Puff of Ash
+##### In a Puff of Ash {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-2/in-a-puff-of-ash"}
 
 
 *You enchant a strike with your [teleport](../movement/teleport.md)ation magic.*
@@ -505,7 +505,7 @@ Choose one of the following abilities.
 - **12-16:** 10 + A damage; you can [teleport](../movement/teleport.md) the target up to 3 squares
 - **17+:** 14 + A damage; you can [teleport](../movement/teleport.md) the target up to 5 squares
 
-##### Too Slow
+##### Too Slow {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-2/too-slow"}
 
 
 *Your foe made a big mistake.*
@@ -522,7 +522,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-##### Sticky Bomb
+##### Sticky Bomb {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-2/sticky-bomb"}
 
 
 *Explosives are best when they're attached to an enemy.*
@@ -539,7 +539,7 @@ Choose one of the following abilities.
 - **12-16:** 7 + A fire damage
 - **17+:** 11 + A fire damage
 
-##### Stink Bomb
+##### Stink Bomb {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-2/stink-bomb"}
 
 
 *Putrid yellow gas explodes from a bomb you toss.*
@@ -560,7 +560,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-##### Machinations of Sound
+##### Machinations of Sound {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-2/machinations-of-sound"}
 
 
 *Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*
@@ -577,7 +577,7 @@ Choose one of the following abilities.
 
 **Effect:** This [forced movement](../movement/forced-movement.md) ignores stability. Instead, the [forced movement](../movement/forced-movement.md) is reduced by a number equal to the target's Intuition score.
 
-##### So Gullible
+##### So Gullible {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-2/so-gullible"}
 
 
 *When your enemy strikes, you reveal you were in a different place all along.*
@@ -594,11 +594,11 @@ Choose one of the following abilities.
 
 As a 3rd-level [shadow](shadow.md), you gain the following features.
 
-### Careful Observation
+### Careful Observation {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-3/careful-observation"}
 
 You have the following ability.
 
-#### Careful Observation
+#### Careful Observation {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/careful-observation"}
 
 
 *A moment of focus leaves a foe firmly in your sights.*
@@ -609,11 +609,11 @@ You have the following ability.
 
 **Effect:** As long as you remain within distance of the target, maintain line of effect to them, and strike no other creature first, you gain an edge on the next strike you make against the assessed creature, and gain 1 surge you can use only on that strike.
 
-### 7-Insight Ability
+### 7-Insight Ability {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-3/7-insight-ability"}
 
 Choose one heroic ability from the following options, each of which costs 7 insight to use.
 
-#### Dancer
+#### Dancer {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/dancer"}
 
 
 *You enter a flow state that makes you nearly impossible to pin down.*
@@ -624,7 +624,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 **Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../movement/forced-movement.md) adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
 
-#### Misdirecting Strike
+#### Misdirecting Strike {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/misdirecting-strike"}
 
 
 *"Why are you looking at ME?!"*
@@ -641,7 +641,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 **Effect:** The target is [taunted](../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next turn.
 
-#### Pinning Shot
+#### Pinning Shot {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/pinning-shot"}
 
 
 *One missile—placed well and placed hard.*
@@ -656,7 +656,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 - **12-16:** 12 + A damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
 - **17+:** 16 + A damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-#### Staggering Blow
+#### Staggering Blow {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/staggering-blow"}
 
 
 *There's no recovering from this.*
@@ -675,21 +675,21 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 As a 4th-level [shadow](shadow.md), you gain the following features.
 
-### Characteristic Increase
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-4/characteristic-increase"}
 
 Your Agility score increases to 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 3.
 
-### Keep It Down
+### Keep It Down {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-4/keep-it-down"}
 
 While conversing with any creature you share a language with, you can decide whether anyone else can perceive what you're conveying, even while yelling.
 
-### Night Watch
+### Night Watch {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-4/night-watch"}
 
 Your sense for stealth shows those around you how to evade notice. While you are hidden, enemies take a bane on tests made to search for you or other hidden creatures within 10 squares of you.
 
 Additionally, you have the following ability.
 
-#### Night Watch
+#### Night Watch {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-4/night-watch"}
 
 
 *A steely dagger from out of the blue knocks another weapon off course.*
@@ -702,15 +702,15 @@ Additionally, you have the following ability.
 
 **Effect:** The target takes half the damage. You remain hidden.
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-4/perk"}
 
 You gain one perk of your choice.
 
-### Skill
+### Skill {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-4/skill"}
 
 You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
-### Surge of Insight
+### Surge of Insight {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-4/surge-of-insight"}
 
 The first time each combat round that you deal damage incorporating 1 or more surges, you gain 2 insight instead of 1.
 
@@ -718,7 +718,7 @@ The first time each combat round that you deal damage incorporating 1 or more su
 
 As a 5th-level [shadow](shadow.md), you gain the following features.
 
-### 5th-Level College Feature
+### 5th-Level College Feature {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-5/5th-level-college-feature"}
 
 Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants you a feature, as shown on the 5th-Level College Features table.
 
@@ -730,29 +730,29 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 | Caustic Alchemy | [Volatile Reagents](../feature/trait/shadow/level-5/volatile-reagents.md) |
 | Harlequin Mask  | [Harlequin Gambit](../feature/trait/shadow/level-5/harlequin-gambit.md)  |
 
-#### Harlequin Gambit
+#### Harlequin Gambit {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-5/harlequin-gambit"}
 
 Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your I'm No Threat ability and then move up to your speed.
 
 If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending insight. If you do, while I'm No Threat is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
 
-#### Trail of Cinders
+#### Trail of Cinders {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-5/trail-of-cinders"}
 
 Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your [Black Ash Teleport](../feature/ability/shadow/level-1/black-ash-teleport.md) ability.
 
 Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to [teleport](../movement/teleport.md). The creature appears in an unoccupied space adjacent to the space into which you [teleport](../movement/teleport.md)ed. If no such space exists, they can't [teleport](../movement/teleport.md) with you.
 
-#### Volatile Reagents
+#### Volatile Reagents {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-5/volatile-reagents"}
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
 Additionally, your [Defensive Roll](../feature/ability/shadow/level-1/defensive-roll.md) ability now allows you to [shift](../movement/shifting.md) up to 5 squares, including [shifting](../movement/shifting.md) vertically. If you don't end this [shift](../movement/shifting.md) on solid ground and are not [flying](../movement/fly.md), you fall.
 
-### 9-Insight Ability
+### 9-Insight Ability {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-5/9-insight-ability"}
 
 Choose one heroic ability from the following options, each of which costs 9 insight to use.
 
-#### Blackout
+#### Blackout {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/blackout"}
 
 
 *You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*
@@ -763,7 +763,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 
 **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../movement/shifting.md) to a new location within the area and make a free strike against them.
 
-#### Into the Shadows
+#### Into the Shadows {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows"}
 
 
 *You sweep your foe off their feet and plunge them into absolute darkness.*
@@ -780,7 +780,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 - **12-16:** 13 + A corruption damage
 - **17+:** 17 + A corruption damage
 
-#### Shadowfall
+#### Shadowfall {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/shadowfall"}
 
 
 *You vanish. They fall. You reappear.*
@@ -797,7 +797,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 
 **Effect:** You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.
 
-#### You Talk Too Much
+#### You Talk Too Much {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/you-talk-too-much"}
 
 
 *Silence is a virtue. A knife pinning their mouth shut is the next best thing.*
@@ -818,11 +818,11 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 
 As a 6th-level [shadow](shadow.md), you gain the following features.
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-6/perk"}
 
 You gain one perk of your choice.
 
-### Umbral Form
+### Umbral Form {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-6/umbral-form"}
 
 As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
@@ -834,7 +834,7 @@ As a maneuver, you lose control of yourself, becoming a shadow creature dripping
 - Creatures gain an edge on strikes against you.
 - You take a bane on Presence tests made to interact with other creatures.
 
-### 6th-Level College Ability
+### 6th-Level College Ability {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-6/6th-level-college-ability"}
 
 Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants your choice of one of two heroic abilities.
 
@@ -842,7 +842,7 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 
 Choose one of the following abilities.
 
-##### Black Ash Eruption
+##### Black Ash Eruption {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/black-ash-eruption"}
 
 
 *Your attack produces a cloud of black ash that launches an enemy into the air.*
@@ -859,7 +859,7 @@ Choose one of the following abilities.
 
 **Effect:** A creature [force moved](../movement/forced-movement.md) by this ability must be moved straight upward.
 
-##### Cinderstorm
+##### Cinderstorm {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/cinderstorm"}
 
 
 *You [teleport](../movement/teleport.md) your friends in a burst of ash and fire.*
@@ -874,7 +874,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-##### One Vial Makes You Better
+##### One Vial Makes You Better {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-better"}
 
 
 *A well-timed throw of a potion will keep your allies in the fight.*
@@ -887,7 +887,7 @@ Choose one of the following abilities.
 
 A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.
 
-##### One Vial Makes You Faster
+##### One Vial Makes You Faster {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-faster"}
 
 
 *Each ally who catches a potion you throw can take the battle to the next level.*
@@ -910,7 +910,7 @@ A creature who drinks the potion receives benefits based on your power roll.
 
 Choose one of the following abilities.
 
-##### Look!
+##### Look! {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/look"}
 
 
 *You distract your foes, allowing your allies to take advantage of that distraction.*
@@ -921,7 +921,7 @@ Choose one of the following abilities.
 
 **Effect:** Until the start of your next turn, any ability roll made against a target gains an edge.
 
-##### Puppet Strings
+##### Puppet Strings {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/puppet-strings"}
 
 
 *You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.*
@@ -942,23 +942,23 @@ Choose one of the following abilities.
 
 As a 7th-level [shadow](shadow.md), you gain the following features.
 
-### Characteristic Increase
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-7/characteristic-increase"}
 
 Each of your characteristic scores increases by 1, to a maximum of 4.
 
-### Keen Insight
+### Keen Insight {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-7/keen-insight"}
 
 At the start of each of your turns during combat, you gain 1d3 + 1 insight instead of 1d3.
 
-### Skill
+### Skill {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-7/skill"}
 
 You gain one skill of your choice.
 
-### Careful Observation Improvement
+### Careful Observation Improvement {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-7/careful-observation-improvement"}
 
 You can target two creatures simultaneously with your [Careful Observation](../feature/ability/shadow/level-3/careful-observation.md) ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
 
-### Ventriloquist
+### Ventriloquist {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-7/ventriloquist"}
 
 Whenever you communicate, you can throw your voice so that it seems to originate from a creature or object within 10 squares. If you are hidden, talking this way doesn't cause you to be revealed.
 
@@ -966,11 +966,11 @@ Whenever you communicate, you can throw your voice so that it seems to originate
 
 As an 8th-level [shadow](shadow.md), you gain the following features.
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-8/perk"}
 
 You gain one perk of your choice.
 
-### 8th-Level College Feature
+### 8th-Level College Feature {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-8/8th-level-college-feature"}
 
 Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants you a feature, as shown on the 8th-Level College Features table.
 
@@ -982,19 +982,19 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 | Caustic Alchemy | [Time Bomb](../feature/ability/shadow/level-8/time-bomb.md)   |
 | Harlequin Mask  | [Parkour](../feature/trait/shadow/level-8/parkour.md)     |
 
-#### Cinder Step
+#### Cinder Step {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-8/cinder-step"}
 
 Whenever you willingly move, you can [teleport](../movement/teleport.md). When you [teleport](../movement/teleport.md) this way, it counts as using a shadow ability for the purpose of using your [Burning Ash](../feature/trait/shadow/level-2/burning-ash.md) and [Trail of Cinders](../feature/trait/shadow/level-5/trail-of-cinders.md) features.
 
-#### Parkour
+#### Parkour {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-8/parkour"}
 
 Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../feature/trait/shadow/level-5/harlequin-gambit.md) feature as a free triggered action when a creature is reduced to 0 Stamina by your [Clever Trick](../feature/ability/shadow/level-1/clever-trick.md) ability.
 
-#### Time Bomb
+#### Time Bomb {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-8/time-bomb"}
 
 You have damage immunity against area abilities and effects equal to your Agility score. You also have the following ability, which you can use once per round on your turn.
 
-##### Time Bomb
+##### Time Bomb {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/time-bomb"}
 
 
 *The longer it cooks, the bigger the boom.*
@@ -1009,11 +1009,11 @@ For each combat round that has passed since this ability was last used in the cu
 
 **Spend 2+ Insight:** For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
 
-### 11-Insight Ability
+### 11-Insight Ability {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-8/11-insight-ability"}
 
 Choose one heroic ability from the following options, each of which costs 11 insight to use.
 
-#### Assassinate
+#### Assassinate {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/assassinate"}
 
 
 *A practiced attack will instantly kill an already weakened foe.*
@@ -1030,7 +1030,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 
 **Effect:** A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.
 
-#### Shadowgrasp
+#### Shadowgrasp {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/shadowgrasp"}
 
 
 *The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*
@@ -1045,7 +1045,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 - **12-16:** 16 corruption damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
 - **17+:** 21 corruption damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-#### Speed of Shadows
+#### Speed of Shadows {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/speed-of-shadows"}
 
 
 *You make multiple strikes against a foe before they even notice they're dead.*
@@ -1056,7 +1056,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 
 **Effect:** You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can [shift](../movement/shifting.md) up to 2 squares between each use.
 
-#### They Always Line Up
+#### They Always Line Up {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/they-always-line-up"}
 
 
 *You fire a projectile so fast that it passes through a line of foes, hamstringing them.*
@@ -1075,13 +1075,13 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 
 As a 9th-level [shadow](shadow.md), you gain the following features.
 
-### Gloom Squad
+### Gloom Squad {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-9/gloom-squad"}
 
 At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have insight and can't use the [Careful Observation](../feature/ability/shadow/level-3/careful-observation.md) ability, the [Umbral Form](../feature/trait/shadow/level-6/umbral-form.md) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a free strike. While making a free strike, a clone must choose targets that you or another clone aren't also striking.
 
 Outside of combat, you can have one clone active for every 2 Victories you have. If a clone is destroyed, you must wait 1 hour before creating another one.
 
-### 9th-Level College Ability
+### 9th-Level College Ability {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-9/9th-level-college-ability"}
 
 Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants your choice of one of two heroic abilities.
 
@@ -1089,7 +1089,7 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 
 Choose one of the following abilities.
 
-##### Cacophony of Cinders
+##### Cacophony of Cinders {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/cacophony-of-cinders"}
 
 
 *You tumble through the battle, stabbing foes and [teleporting](../movement/teleport.md) allies.*
@@ -1106,7 +1106,7 @@ Choose one of the following abilities.
 - **12-16:** An enemy takes 10 damage; an ally can [teleport](../movement/teleport.md) up to 5 squares.
 - **17+:** An enemy takes 14 damage; an ally can [teleport](../movement/teleport.md) up to 7 squares.
 
-##### Demon Door
+##### Demon Door {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/demon-door"}
 
 
 *You create a temporary portal to allow a massive demonic hand to reach through.*
@@ -1127,7 +1127,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-##### Chain Reaction
+##### Chain Reaction {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/chain-reaction"}
 
 
 *One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*
@@ -1144,7 +1144,7 @@ Choose one of the following abilities.
 - **12-16:** 10 damage
 - **17+:** 15 damage
 
-##### To the Stars
+##### To the Stars {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/to-the-stars"}
 
 
 *You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
@@ -1165,7 +1165,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-##### I Am You
+##### I Am You {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/i-am-you"}
 
 
 *Your mask reflects your foe's face. Surely they won't need it much longer.*
@@ -1176,7 +1176,7 @@ Choose one of the following abilities.
 
 **Effect:** Until the end of the encounter, you gain the target's damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target's signature ability, using their bonus for the power roll.
 
-##### It Was Me All Along
+##### It Was Me All Along {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/it-was-me-all-along"}
 
 
 *After everything you've been through together, you twist the blade and make the pain extra personal.*
@@ -1197,33 +1197,33 @@ Choose one of the following abilities.
 
 As a 10th-level [shadow](shadow.md), you gain the following features.
 
-### Characteristic Increase
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-10/characteristic-increase"}
 
 Your Agility score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.
 
-### Death Pool
+### Death Pool {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-10/death-pool"}
 
 The first time each combat round that you deal damage incorporating 1 or more surges, you gain 3 insight instead of 2.
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-10/perk"}
 
 You gain one perk of your choice.
 
-### Skill
+### Skill {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-10/skill"}
 
 You gain one skill of your choice.
 
-### Careful Observation Improvement
+### Careful Observation Improvement {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-10/careful-observation-improvement"}
 
 You can target three creatures simultaneously with your [Careful Observation](../feature/ability/shadow/level-3/careful-observation.md) ability.
 
-### Improved Umbral Form
+### Improved Umbral Form {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-10/improved-umbral-form"}
 
 You gain full control over the [shadow](shadow.md) creature you become with your [Umbral Form](../feature/trait/shadow/level-6/umbral-form.md) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
 
 While you are in your [umbral form](../feature/trait/shadow/level-6/umbral-form.md), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](../movement/teleport.md) to unoccupied spaces of your choice within that location. Each creature who [teleports](../movement/teleport.md) this way is invisible for 1 hour or until they use an ability.
 
-### Subterfuge
+### Subterfuge {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-10/subterfuge"}
 
 You have an epic resource called [subterfuge](../feature/trait/shadow/level-10/subterfuge.md). Each time you finish a respite, you gain [subterfuge](../feature/trait/shadow/level-10/subterfuge.md) equal to the XP you gain. You can spend [subterfuge](../feature/trait/shadow/level-10/subterfuge.md) on your abilities as if it were insight.
 

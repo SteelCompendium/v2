@@ -20,14 +20,14 @@ Your [talent tradition](../level-1/talent-tradition.md) grants you a feature, as
 | Telekinesis                  | [Ease Their Fall](ease-their-fall.md) |
 | Telepathy                    | [Ease the Mind](ease-the-mind.md)   |
 
-## Ease the Hours
+## Ease the Hours {data-scc="mcdm.heroes.v1/feature.trait.talent.level-2/ease-the-hours"}
 
 You can increase the number of rounds in a montage test by 1 if the test would end before the heroes hit the success limit.
 
-## Ease the Mind
+## Ease the Mind {data-scc="mcdm.heroes.v1/feature.trait.talent.level-2/ease-the-mind"}
 
 You gain an edge on tests made to stop combat and start a negotiation. Additionally, if you are present during a negotiation, any NPC who has a hostile or suspicious starting attitude has their patience increased by 1 (to a maximum of 5).
 
-## Ease Their Fall
+## Ease Their Fall {data-scc="mcdm.heroes.v1/feature.trait.talent.level-2/ease-their-fall"}
 
 Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free triggered action to reduce the falling damage by an amount equal to 2 + your Reason score.

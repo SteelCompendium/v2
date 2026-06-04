@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Star Power
+## Star Power {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/star-power"}
 
 
 *Your years of practicing fencing and dancing pay off on the battlefield.*

@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 9 essence to use.
 
-## Combustion Deferred
+## Combustion Deferred {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/combustion-deferred"}
 
 
 *Your flames dance from kindling to kindling to kindling.*
@@ -29,7 +29,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 **Effect:** When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.
 
-## Storm of Sands
+## Storm of Sands {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/storm-of-sands"}
 
 
 *Dirt and debris swirl into a dark, pulsing hurricane.*
@@ -48,7 +48,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 **Persistent 1:** The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the power roll again without spending essence.
 
-## Subverted Perception of Space
+## Subverted Perception of Space {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/subverted-perception-of-space"}
 
 
 *You rip an enemy's world in twain.*
@@ -63,7 +63,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 - **12-16:** 10 + R corruption damage; the target has line of effect only to creatures and objects within 4 squares of them until the start of your next turn
 - **17+:** 15 + R corruption damage; the target has line of effect only to adjacent creatures and objects until the start of your next turn
 
-## Web of All That's Come Before
+## Web of All That's Come Before {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/web-of-all-thats-come-before"}
 
 
 *Threads you've been weaving through your adventures create a vibrant, pearlescent web.*

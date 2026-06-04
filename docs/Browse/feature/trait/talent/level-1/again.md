@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Again
+## Again {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/again"}
 
 
 *You step back a split second to see if things play out a little differently.*

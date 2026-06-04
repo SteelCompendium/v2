@@ -20,11 +20,11 @@ Your [shadow college](shadow-college.md) grants you one or two features, as show
 | Caustic Alchemy | [Coat the Blade](../../../ability/shadow/level-1/coat-the-blade.md), [Smoke Bomb](smoke-bomb.md) |
 | Harlequin Mask  | I'm No Threat              |
 
-## Black Ash Teleport
+## Black Ash Teleport {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/black-ash-teleport"}
 
 You have the following ability.
 
-### Black Ash Teleport
+### Black Ash Teleport {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/black-ash-teleport"}
 
 
 *In a swirl of black ash, you step from one place to another.*
@@ -37,11 +37,11 @@ You have the following ability.
 
 **Spend 1+ Insight:** You [teleport](../../../../movement/teleport.md) 1 additional square for each insight spent.
 
-## Coat the Blade
+## Coat the Blade {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/coat-the-blade"}
 
 You have the following ability.
 
-### Coat the Blade
+### Coat the Blade {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/coat-the-blade"}
 
 
 *A little poison goes a long way.*
@@ -54,11 +54,11 @@ You have the following ability.
 
 **Spend 1+ Insight:** For each insight you spend, you gain 1 additional surge.
 
-## I'm No Threat
+## I'm No Threat {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/im-no-threat"}
 
 You have the following ability.
 
-### I'm No Threat
+### I'm No Threat {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/im-no-threat"}
 
 
 *Taking on an illusory countenance gives you an advantage on [subterfuge](../level-10/subterfuge.md).*
@@ -73,6 +73,6 @@ The illusion ends when you harm another creature, when you physically interact w
 
 **Spend 1 Insight:** Choose a creature whose size is no more than 1 greater than yours and who is within 10 squares. This ability's illusion makes you appear as that creature. This illusion covers your entire body, including clothing and armor, and alters your voice to sound like that of the creature. You gain an edge on tests made to convince the creature's allies that you are the creature.
 
-## Smoke Bomb
+## Smoke Bomb {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/smoke-bomb"}
 
 You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the Hide maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can [shift](../../../../movement/shifting.md) a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.

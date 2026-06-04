@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 9 drama to use.
 
-## Action Hero
+## Action Hero {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/action-hero"}
 
 
 *You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.*
@@ -29,7 +29,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 
 **Effect:** Unless you score a critical hit, this ability can't reduce a non-minion target below 1 Stamina.
 
-## Continuity Error
+## Continuity Error {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/continuity-error"}
 
 
 *Your subject is written into two places at once.*
@@ -40,7 +40,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 
 **Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's Stamina, is [weakened](../../../../condition/weakened.md), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.
 
-## Love Song
+## Love Song {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/love-song"}
 
 
 *You play a small ditty that plants you inside your target's heart.*
@@ -51,7 +51,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 
 **Effect:** The target gains 20 temporary Stamina. Until the end of the encounter, whenever the target takes damage while you're within distance, you can choose to take the damage instead of the target.
 
-## Patter Song
+## Patter Song {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/patter-song"}
 
 
 *Dazzle them with your fancy patter and they forget where they were.*

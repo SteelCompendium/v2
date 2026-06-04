@@ -16,7 +16,7 @@ You rely on a unique blend of martial techniques and psionic prowess to take dow
 
 Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Faster Than the Eye](../../../ability/null/level-1/faster-than-the-eye.md), [Inertial Step](../../../ability/null/level-1/inertial-step.md).)
 
-### Dance of Blows
+### Dance of Blows {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/dance-of-blows"}
 
 
 *You strike everywhere at once, tricking an enemy into moving out of position.*
@@ -33,7 +33,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** You can slide one adjacent enemy up to a number of squares equal to your Intuition score.
 
-### Faster Than the Eye
+### Faster Than the Eye {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/faster-than-the-eye"}
 
 
 *You strike so quickly that your hands become a blur.*
@@ -50,7 +50,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** You can deal damage equal to your Agility score to one creature or object adjacent to you.
 
-### Inertial Step
+### Inertial Step {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/inertial-step"}
 
 
 *You flit about the battlefield and take an opportunistic strike.*
@@ -67,7 +67,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this strike.
 
-### Joint Lock
+### Joint Lock {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/joint-lock"}
 
 
 *You contort your enemy's body into a stance they struggle to escape from.*
@@ -82,7 +82,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../../../../condition/grabbed.md)
 - **17+:** 9 + A damage; A < STRONG, [grabbed](../../../../condition/grabbed.md)
 
-### Kinetic Strike
+### Kinetic Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/kinetic-strike"}
 
 
 *Your opponent staggers. They cannot ignore you.*
@@ -97,7 +97,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 5 + A damage; [taunted](../../../../condition/taunted.md) (EoT), slide 1
 - **17+:** 6 + A damage; [taunted](../../../../condition/taunted.md) (EoT), slide 2
 
-### Magnetic Strike
+### Magnetic Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/magnetic-strike"}
 
 
 *The force of your blow extends past the limits of your body, pulling your enemy closer.*
@@ -112,7 +112,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 8 + A psychic damage; vertical pull 2
 - **17+:** 11 + A psychic damage; vertical pull 3
 
-### Phase Inversion Strike
+### Phase Inversion Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/phase-inversion-strike"}
 
 
 *You step momentarily out of phase as you pull an enemy through you.*
@@ -129,7 +129,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** Before the push is resolved, you [teleport](../../../../movement/teleport.md) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleport](../../../../movement/teleport.md)ed this way, you can't push them.
 
-### Pressure Points
+### Pressure Points {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/pressure-points"}
 
 
 *You strike at key nerve clusters to leave your foe staggered.*
@@ -152,7 +152,7 @@ You have mastered a range of heroic abilities, all of them channeled through you
 
 Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* [Chronal Spike](../../../ability/null/level-1/chronal-spike.md).)
 
-### Chronal Spike
+### Chronal Spike {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/chronal-spike"}
 
 
 *You foresee the best moment to strike, then exploit it.*
@@ -169,7 +169,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 **Effect:** You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
-### Psychic Pulse
+### Psychic Pulse {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/psychic-pulse"}
 
 
 *A burst of psionic energy interferes with your enemy's synapses.*
@@ -180,7 +180,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 **Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null Field](null-field.md) ability increases by 1. At the end of your current turn, each enemy in the area of your [Null Field](null-field.md) ability takes psychic damage equal to your Intuition score.
 
-### Relentless Nemesis
+### Relentless Nemesis {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/relentless-nemesis"}
 
 
 *You strike, and for the next few moments, your enemy can't escape you.*
@@ -197,7 +197,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 **Effect:** Until the start of your next turn, whenever the target finishes moving or being [force moved](../../../../movement/forced-movement.md), you can use a free triggered action to [shift](../../../../movement/shifting.md) up to your speed. You must end this [shift](../../../../movement/shifting.md) adjacent to the target.
 
-### Stunning Blow
+### Stunning Blow {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/stunning-blow"}
 
 
 *You focus your psionic technique into a concussive punch.*
@@ -216,7 +216,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* [A Squad Unto Myself](../../../ability/null/level-1/a-squad-unto-myself.md).)
 
-### Arcane Disruptor
+### Arcane Disruptor {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/arcane-disruptor"}
 
 
 *Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.*
@@ -233,7 +233,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 
 **Effect:** While [weakened](../../../../condition/weakened.md) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
 
-### Impart Force
+### Impart Force {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/impart-force"}
 
 
 *A single touch from you, and your enemy flies backward.*
@@ -250,7 +250,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 
 **Effect:** An object you target must be your size or smaller. You gain an edge on this ability. Additionally, for each square you push the target, they take 1 psychic damage.
 
-### Phase Strike
+### Phase Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/phase-strike"}
 
 
 *For a moment, your foe slips out of phase with this manifold.*
@@ -267,7 +267,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 
 **Effect:** A target who goes out of phase is [slowed](../../../../condition/slowed.md), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
 
-### A Squad Unto Myself
+### A Squad Unto Myself {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/a-squad-unto-myself"}
 
 
 *You move so quickly, it seems as though an army assaulted your foes.*

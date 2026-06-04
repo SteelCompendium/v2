@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Hands of the Maker
+## Hands of the Maker {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/hands-of-the-maker"}
 
 
 *You craft objects with the power of your mind.*

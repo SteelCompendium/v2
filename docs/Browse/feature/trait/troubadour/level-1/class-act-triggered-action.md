@@ -20,7 +20,7 @@ Your [troubadour class act](troubadour-class-act.md) grants you a triggered acti
 | Duelist   | [Riposte](../../../ability/troubadour/level-1/riposte.md)                |
 | Virtuoso  | [Harmonize](../../../ability/troubadour/level-1/harmonize.md)              |
 
-### Harmonize
+### Harmonize {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/harmonize"}
 
 
 *Give the chorus a little punch.*
@@ -35,7 +35,7 @@ Your [troubadour class act](troubadour-class-act.md) grants you a triggered acti
 
 **Spend 1+ Drama:** You can trigger this ability when a target uses an ability that has a Heroic Resource cost of 3 + each additional drama spent.
 
-### Riposte
+### Riposte {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/riposte"}
 
 
 *"I'd have brought treats had I known I'd be fighting a dog."*
@@ -48,7 +48,7 @@ Your [troubadour class act](troubadour-class-act.md) grants you a triggered acti
 
 **Effect:** The target makes a free strike against the creature who made the triggering strike.
 
-### Turnabout Is Fair Play
+### Turnabout Is Fair Play {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/turnabout-is-fair-play"}
 
 
 *All's fair in love and whatever.*

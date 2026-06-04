@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 11 essence to use.
 
-## Heart of the Wode
+## Heart of the Wode {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/heart-of-the-wode"}
 
 
 *You call forth one of the Great Tree's many splinters to provide for your every need.*
@@ -25,7 +25,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 
 Each enemy who ends their turn within 3 squares of the tree is [restrained](../../../../condition/restrained.md) until the end of their next turn. A creature [restrained](../../../../condition/restrained.md) this way can use a main action to end the effect early.
 
-## Muse of Fire
+## Muse of Fire {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/muse-of-fire"}
 
 
 *The fire burns hot enough to sear the face of any god watching.*
@@ -42,7 +42,7 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../.
 
 **Effect:** The Director's Malice can become negative as a result of this ability.
 
-## Return to Oblivion
+## Return to Oblivion {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/return-to-oblivion"}
 
 
 *You create a tear in reality that could consume everything.*
@@ -53,7 +53,7 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../.
 
 **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../../../../condition/prone.md). At the end of the round, if a winded enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 
-## World Torn Asunder
+## World Torn Asunder {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/world-torn-asunder"}
 
 
 *You stomp your foot and quake the whole world over.*

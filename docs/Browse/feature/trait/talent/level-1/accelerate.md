@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Accelerate
+## Accelerate {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/accelerate"}
 
 
 *To your ally, it seems as though the world has slowed down.*

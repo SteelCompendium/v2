@@ -20,11 +20,11 @@ Your [troubadour class act](troubadour-class-act.md) grants you two features, as
 | Duelist    | [Acrobatics](../../../ability/troubadour/level-1/acrobatics.md), [Star Power](../../../ability/troubadour/level-1/star-power.md)             |
 | Virtuoso   | [Power Chord](../../../ability/troubadour/level-1/power-chord.md), [Virtuoso Performances](virtuoso-performances.md) |
 
-## Acrobatics
+## Acrobatics {data-scc="mcdm.heroes.v1/feature.trait.troubadour.level-1/acrobatics"}
 
 You have the following performance ability, which is usable with your [Routines](routines.md) feature.
 
-### Acrobatics
+### Acrobatics {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/acrobatics"}
 
 
 *Folks love a good tumble.*
@@ -35,11 +35,11 @@ You have the following performance ability, which is usable with your [Routines]
 
 **Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to jump, tumble, or climb as part of their movement before the end of their turn.
 
-## Blocking
+## Blocking {data-scc="mcdm.heroes.v1/feature.trait.troubadour.level-1/blocking"}
 
 You have the following performance ability, which is usable with your [Routines](routines.md) feature.
 
-### Blocking
+### Blocking {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/blocking"}
 
 
 *No, no, no, you lose the audience that way. Try it like this...*
@@ -50,11 +50,11 @@ You have the following performance ability, which is usable with your [Routines]
 
 **Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](../../../../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../../../../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
-## Dramatic Monologue
+## Dramatic Monologue {data-scc="mcdm.heroes.v1/feature.trait.troubadour.level-1/dramatic-monologue"}
 
 You have the following ability.
 
-### Dramatic Monologue
+### Dramatic Monologue {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-monologue"}
 
 
 *It doesn't need to make sense. Just say it with emotion.*
@@ -71,11 +71,11 @@ You have the following ability.
 
 **Spend 1 Drama:** You can choose two targets for the chosen effect.
 
-## Power Chord
+## Power Chord {data-scc="mcdm.heroes.v1/feature.trait.troubadour.level-1/power-chord"}
 
 You have the following ability.
 
-### Power Chord
+### Power Chord {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/power-chord"}
 
 
 *Your instrument rings true and your music blows everyone away.*
@@ -90,11 +90,11 @@ You have the following ability.
 - **12-16:** Push 2
 - **17+:** Push 3
 
-## Star Power
+## Star Power {data-scc="mcdm.heroes.v1/feature.trait.troubadour.level-1/star-power"}
 
 You have the following ability.
 
-### Star Power
+### Star Power {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/star-power"}
 
 
 *Your years of practicing fencing and dancing pay off on the battlefield.*
@@ -107,11 +107,11 @@ You have the following ability.
 
 **Spend 1 Drama:** You gain a +4 bonus to speed instead.
 
-## Virtuoso Performances
+## Virtuoso Performances {data-scc="mcdm.heroes.v1/feature.trait.troubadour.level-1/virtuoso-performances"}
 
 You have the following performance abilities, which are usable with your [Routines](routines.md) feature.
 
-### "Thunder Mother"
+### "Thunder Mother" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/thunder-mother"}
 
 
 *All for thunder motherrr! ♪ Run and hide for coverrr!♪*
@@ -128,7 +128,7 @@ You have the following performance abilities, which are usable with your [Routin
 - **12-16:** Lightning damage equal to 5 + your level
 - **17+:** Lightning damage equal to 10 + your level
 
-### "Ballad of the Beast"
+### "Ballad of the Beast" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/ballad-of-the-beast"}
 
 
 *Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*

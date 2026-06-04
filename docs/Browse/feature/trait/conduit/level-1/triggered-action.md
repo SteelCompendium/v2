@@ -12,7 +12,7 @@ type: trait
 
 Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../../../ability/conduit/level-1/word-of-guidance.md).)
 
-## Word of Guidance
+## Word of Guidance {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-guidance"}
 
 
 *You invigorate an attacking ally with divine energy.*
@@ -27,7 +27,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 **Spend 1 Piety:** The power roll has a double edge.
 
-## Word of Judgment
+## Word of Judgment {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-judgment"}
 
 
 *Your holy word saps an attacking enemy's strength.*

@@ -116,7 +116,7 @@ Crafting projects enable heroes to create vehicles, supernatural treasures, and 
 
 Unless a project has an event table of its own, the Director uses the Crafting and Research Events table for crafting project events.
 
-#### Build Airship
+#### Build Airship {data-scc="mcdm.heroes.v1/project/build-airship"}
 
 **Item Prerequisite:** Wind Crystal of Quintessence
 
@@ -140,7 +140,7 @@ An airship is an object (giving it damage immunity all to poison and psychic dam
 | 51-100 miles        | 2             |
 | More than 100 miles | 3             |
 
-#### Build or Repair Road
+#### Build or Repair Road {data-scc="mcdm.heroes.v1/project/build-or-repair-road"}
 
 **Item Prerequisite:** Three writs of approval, from an engineers' guild, a masons' guild, and a guards' guild
 
@@ -173,7 +173,7 @@ Time spent traveling between locations on the road is cut in half. Access to res
 | 9   | Before the roll, the proposed road touches on a supernatural intersection—a crossing place between multiple worlds that draws interest from a powerful [devil](../../Browse/ancestry/devil.md). The completion of the project becomes the personal interest of this being, who offers to increase progress—but demands a future favor from the hero. If the deal is accepted, each project roll for the project is doubled until its completion.                                            |
 | 10  | After the roll, a guildmaster has it out for the hero. Whether from a past conflict or something about the way this project has unfolded, the guildmaster has made it their mission to hinder the project by dragging the hero's name through the mud. The hero's renown is treated as 1 less than usual while these rumors persist.                                                                                                                      |
 
-#### Craft Teleportation Platform
+#### Craft Teleportation Platform {data-scc="mcdm.heroes.v1/project/craft-teleportation-platform"}
 
 **Item Prerequisite:** One spatial navigator
 
@@ -187,11 +187,11 @@ When you complete this project, you end up with a 3-square-by-3 square [teleport
 
 Each time the [teleport](../../Browse/movement/teleport.md)ation platform is used, the chance of it malfunctioning and [teleporting](../../Browse/movement/teleport.md) creatures or objects on it to a random platform increases by 1 percent (to a maximum of 50 percent). You can restore the platform back to its original condition and reset this chance of malfunction as a respite activity.
 
-#### Craft Treasure
+#### Craft Treasure {data-scc="mcdm.heroes.v1/project/craft-treasure"}
 
 You can craft the items found in Treasures in Chapter 13: [Rewards](rewards.md). Each treasure notes its item prerequisite, project source, project roll characteristic, and project goal.
 
-#### Find a Cure
+#### Find a Cure {data-scc="mcdm.heroes.v1/project/find-a-cure"}
 
 **Item Prerequisite:** Varies (see description)
 
@@ -207,7 +207,7 @@ The number of project points it takes to complete this project is equal to 50 ti
 
 When you complete this project, you craft one dose of an alchemical cure for the affliction. Once the project is completed, you can craft subsequent doses for the same affliction for half the number of project points required for the initial project.
 
-#### Imbue Treasure
+#### Imbue Treasure {data-scc="mcdm.heroes.v1/project/imbue-treasure"}
 
 You can create leveled treasures by imbuing items with magic or psionic power. You must have a mundane version of the item you plan to imbue, such as a sword or shield, when you start this project.
 
@@ -342,7 +342,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Dragon Soul II:** While you are winded, your head transforms into a dragon's head and you have the following ability.
 
-###### Dragon's Fire
+###### Dragon's Fire {data-scc="mcdm.heroes.v1/feature.ability.common/dragons-fire"}
 
 *You open your maw and unleash hell.*
 
@@ -693,7 +693,7 @@ Heroes can undertake many different types of research downtime projects, which c
 
 Unless a project has an event table of its own or a special event entry, the Director uses the Crafting and Research Events table for research project events.
 
-#### Discover Lore
+#### Discover Lore {data-scc="mcdm.heroes.v1/project/discover-lore"}
 
 **Item Prerequisite:** None
 
@@ -787,7 +787,7 @@ Forbidden knowledge is lore that a powerful individual or organization is attemp
 | 97-98  | Before the roll, part of the hero's project source or other materials shrinks and is pulled through a mousehole. A group of radenwights sent magical mice to steal the resources so they can finish their own project. The radenwights are willing to negotiate if the hero doesn't approach them aggressively.                                                                                                                                                                                                 |
 | 99-100 | Before the roll, an elemental springs forth from the project source and pulls the hero into a duel. If the hero can survive 3 rounds of combat with the elemental on their own, the elemental vanishes and leaves behind a completed project. If the hero flees, falls unconscious, or gets help from an ally, the elemental destroys the project source as they disappear.                                                                                                                                     |
 
-#### Go Undercover
+#### Go Undercover {data-scc="mcdm.heroes.v1/project/go-undercover"}
 
 **Item Prerequisite:** Special
 
@@ -822,7 +822,7 @@ Additionally, while you work to complete this project, you might be called upon 
 | 9   | Before the roll, the hero stumbles upon an old memento from when they worked their former career. They can choose between gaining an automatic breakthrough on the project roll or gaining a hero token.                                                                                                                                                                                                              |
 | 10  | After the roll, the hero gets back into the rhythm of their former career. They can make two additional project rolls.                                                                                                                                                                                                                                                                                                |
 
-#### Hone Career Skills
+#### Hone Career Skills {data-scc="mcdm.heroes.v1/project/hone-career-skills"}
 
 **Item Prerequisite:** None
 
@@ -834,7 +834,7 @@ Additionally, while you work to complete this project, you might be called upon 
 
 You revisit your previous life to freshen up on the experience it provided you. When this project is complete, you gain an edge on tests made using the skills provided by your career.
 
-#### Learn From a Master
+#### Learn From a Master {data-scc="mcdm.heroes.v1/project/learn-from-a-master"}
 
 **Item Prerequisite:** None
 
@@ -881,7 +881,7 @@ You sharpen the effectiveness of one of your abilities of your choice. Choose be
 
 You learn to use one of your heroic abilities more efficiently, reducing its baseline Heroic Resource cost by 1 (to a minimum of 1). An ability can only be improved this way once.
 
-#### Learn New Language
+#### Learn New Language {data-scc="mcdm.heroes.v1/project/learn-new-language"}
 
 **Item Prerequisite:** None
 
@@ -893,7 +893,7 @@ You learn to use one of your heroic abilities more efficiently, reducing its bas
 
 When you start this project, choose a language taught by the project source. When the project is complete, you understand the language.
 
-#### Learn New Skill
+#### Learn New Skill {data-scc="mcdm.heroes.v1/project/learn-new-skill"}
 
 **Item Prerequisite:** None
 
@@ -905,7 +905,7 @@ When you start this project, choose a language taught by the project source. Whe
 
 When you start this project, choose a skill taught by the project source. When the project is complete, you have that skill.
 
-#### Perfect New Recipe
+#### Perfect New Recipe {data-scc="mcdm.heroes.v1/project/perfect-new-recipe"}
 
 **Item Prerequisite:** Varies
 
@@ -939,7 +939,7 @@ A creature can benefit from the food of only one recipe at a time, and can't ben
 
 Not all heroes want to craft or research during their time between adventures. Some might wish to build organizations, reconnect with family or friends, or just go fishing.
 
-#### Community Service
+#### Community Service {data-scc="mcdm.heroes.v1/project/community-service"}
 
 **Item Prerequisite:** None
 
@@ -968,7 +968,7 @@ While undertaking this project, you provide help to people in need, doing odd jo
 | 9   | Before the roll, a local malcontent has turned their focus on the hero and roused the people against them. The hero must either contend with angry locals preventing them from resting (losing the usual benefit of the respite) or find the malcontent and win them over before proceeding.                                                                                                                                     | 
 | 10  | Before the roll, a thief, assassin, or other criminal offers to assist the hero. They can offer 50 points toward the completion of the project, as long as the hero looks the other way if they ever cross paths again.                                                                                                                                                                                                          |
 
-#### Fishing
+#### Fishing {data-scc="mcdm.heroes.v1/project/fishing"}
 
 **Item Prerequisite:** None
 
@@ -1010,7 +1010,7 @@ Whether for sustenance, relaxation, or bragging rights, you've gone fishing, pro
 | 9   | While fishing, the hero is pulled into the water by an ancient fish and must make a hard Might test. On a success, the hero reels in a humongous fish worth 100 points. On a failure, they end the current respite with 1 fewer Recoveries than usual. On a success with a complication, the hero obtains both outcomes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | 10  | While fishing, the hero notes what appears to be an underwater cavern. If the cavern is explored, it reveals a treasure of the Director's choice guarded by a [revenant](../../Browse/ancestry/revenant.md) knight fulfilling their duty until their captain returns.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-#### Spend Time With Loved Ones
+#### Spend Time With Loved Ones {data-scc="mcdm.heroes.v1/project/spend-time-with-loved-ones"}
 
 **Item Prerequisite:** None
 

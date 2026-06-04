@@ -21,19 +21,19 @@ You become the embodiment of the element of your chosen specialization. Whenever
 | Green          | [Master of Green](master-of-green.md) |
 | Void           | [Master of Void](master-of-void.md)  |
 
-## Master of Earth
+## Master of Earth {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-10/master-of-earth"}
 
 You have damage immunity 5.
 
 Additionally, as a respite activity, you can shape the mundane earth around you in a 1-mile radius. You can open sinkholes, form mountains, level mundane structures or whole settlements, create canyons, raise islands or sink them in the sea, and perform similar feats. You can't use this respite activity if another creature within 1 mile is already using it. Once you use this respite activity, you can't use it again for 10 days.
 
-## Master of Fire
+## Master of Fire {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-10/master-of-fire"}
 
 The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
 Additionally, your [Return to Formlessness](../../../ability/elementalist/level-1/return-to-formlessness.md) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](../../../../../Read/heroes/rewards.md)), you gain breath equal to its echelon.
 
-## Master of Green
+## Master of Green {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-10/master-of-green"}
 
 The number of Recoveries you have increases by 2, and each time you finish a respite, you can grant each ally who finished the respite with you 2 additional Recoveries. Your allies' additional Recoveries disappear when they finish their next respite.
 
@@ -41,7 +41,7 @@ Additionally, as a respite activity, you can perform a ritual that causes a frui
 
 As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their Stamina, they can end all conditions or effects on themself, and they can stand up if [prone](../../../../condition/prone.md). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
 
-## Master of Void
+## Master of Void {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-10/master-of-void"}
 
 Whenever you willingly move, you can [teleport](../../../../movement/teleport.md).
 

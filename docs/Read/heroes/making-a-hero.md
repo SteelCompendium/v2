@@ -100,7 +100,7 @@ You can also make free strikes on your turn to represent using weapons your hero
 
 See Free Strikes in Chapter 10: [Combat](combat.md) for more information on using free strikes, and see Abilities in Chapter 5: [Classes](classes.md) for information on the ability format and how to read it.
 
-###### Melee Weapon Free Strike
+###### Melee Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common/melee-weapon-free-strike"}
 
 | **Charge, Melee, Strike, Weapon**  |               **Main action** |
 |------------------------------------|------------------------------:|
@@ -112,7 +112,7 @@ See Free Strikes in Chapter 10: [Combat](combat.md) for more information on usin
 - **12-16:** 5 + M or A damage
 - **17+:** 7 + M or A damage
 
-###### Ranged Weapon Free Strike
+###### Ranged Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common/ranged-weapon-free-strike"}
 
 | **Ranged, Strike, Weapon**  |               **Main action** |
 |-----------------------------|------------------------------:|

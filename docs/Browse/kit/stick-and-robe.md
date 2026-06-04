@@ -34,7 +34,7 @@ You wear light armor and wield a polearm.
 
 ## Signature Ability
 
-### Where I Want You
+### Where I Want You {data-scc="mcdm.heroes.v1/feature.ability.stick-and-robe/where-i-want-you"}
 
 *When your stick speaks, your enemy moves.*
 

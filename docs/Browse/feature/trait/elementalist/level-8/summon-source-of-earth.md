@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Summon Source of Earth
+## Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/summon-source-of-earth"}
 
 
 *The ground rumbles as an elemental bursts forth, ready to serve.*

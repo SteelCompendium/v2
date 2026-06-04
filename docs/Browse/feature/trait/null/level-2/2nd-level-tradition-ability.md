@@ -16,7 +16,7 @@ Your [null tradition](../level-1/null-tradition.md) grants your choice of one of
 
 Choose one of the following abilities.
 
-### Blur
+### Blur {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/blur"}
 
 
 *You release stored time, allowing you to act twice.*
@@ -27,7 +27,7 @@ Choose one of the following abilities.
 
 **Effect:** You can use a signature or heroic ability. You gain an edge on that ability's power rolls.
 
-### Force Redirected
+### Force Redirected {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/force-redirected"}
 
 
 *The force of your strike moves your target in a surprising direction.*
@@ -46,7 +46,7 @@ Choose one of the following abilities.
 
 Choose one of the following heroic abilities.
 
-### Entropic Field
+### Entropic Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/entropic-field"}
 
 
 *You drastically increase the local entropy.*
@@ -61,7 +61,7 @@ Choose one of the following heroic abilities.
 - **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
 - **17+:** 13 cold damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 
-### Heat Sink
+### Heat Sink {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/heat-sink"}
 
 
 *You absorb ambient heat, coating the ground in frost and precipitating snow from the air.*
@@ -76,7 +76,7 @@ Choose one of the following heroic abilities.
 
 Choose one of the following abilities.
 
-### Gravitic Strike
+### Gravitic Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/gravitic-strike"}
 
 
 *Your fist emanates gravitic force that pulls a distant enemy closer.*
@@ -91,7 +91,7 @@ Choose one of the following abilities.
 - **12-16:** 12 + A psychic damage; vertical pull 5
 - **17+:** 16 + A psychic damage; vertical pull 7
 
-### Kinetic Shield
+### Kinetic Shield {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/kinetic-shield"}
 
 
 *You manifest a force barrier that absorbs incoming kinetic energy.*

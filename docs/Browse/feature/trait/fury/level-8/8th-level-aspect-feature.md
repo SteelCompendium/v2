@@ -20,14 +20,14 @@ Your [primordial aspect](../level-1/primordial-aspect.md) grants you a feature, 
 | Reaver     | [A Step Ahead](a-step-ahead.md)       |
 | Stormwight | [Menagerie](menagerie.md)          |
 
-## Menagerie
+## Menagerie {data-scc="mcdm.heroes.v1/feature.trait.fury.level-8/menagerie"}
 
 You can use all [stormwight kits](../stormwight-kits.md). During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
-## A Step Ahead
+## A Step Ahead {data-scc="mcdm.heroes.v1/feature.trait.fury.level-8/a-step-ahead"}
 
 You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can [shift](../../../../movement/shifting.md) gains a bonus equal to your Agility score.
 
-## Strongest There Is
+## Strongest There Is {data-scc="mcdm.heroes.v1/feature.trait.fury.level-8/strongest-there-is"}
 
 Your strength is unmatched. Whenever you make a Might test, you can roll three dice and choose which two to use. Additionally, whenever you use the Knockback maneuver, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Might score.

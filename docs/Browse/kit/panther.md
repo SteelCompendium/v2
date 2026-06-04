@@ -31,7 +31,7 @@ You wear no armor and wield a heavy weapon.
 
 ## Signature Ability
 
-### Devastating Rush
+### Devastating Rush {data-scc="mcdm.heroes.v1/feature.ability.panther/devastating-rush"}
 
 *The faster you move, the harder you hit.*
 

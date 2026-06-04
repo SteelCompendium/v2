@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 7 drama to use.
 
-## Extensive Rewrites
+## Extensive Rewrites {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/extensive-rewrites"}
 
 
 *No, this isn't right. That foe was over there!*
@@ -29,7 +29,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 **Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
 
-## Infernal Gavotte
+## Infernal Gavotte {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/infernal-gavotte"}
 
 
 *A spicy performance lights a fire under your allies' feet.*
@@ -46,7 +46,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 **Effect:** Each ally in the area can [shift](../../../../movement/shifting.md) up to 2 squares.
 
-## Star Solo
+## Star Solo {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/star-solo"}
 
 
 *Your performance travels and doesn't stop moving until your audience is completely rocked.*
@@ -63,7 +63,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 **Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending drama.
 
-## We Meet at Last
+## We Meet at Last {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/we-meet-at-last"}
 
 
 *You magically intertwine your fate with another creature—for better or worse.*

@@ -15,7 +15,7 @@ What makes a hero? Is their desire to stand up for the innocent and protect othe
 
 No. A hero's life experience and background make them what they are. That background starts with the culture in which a hero was raised, and is threaded through the career that led them to a life of adventuring.
 
-## Culture
+## Culture {data-scc="mcdm.heroes.v1/chapter/cultures"}
 
 A hero's culture describes the beliefs, customs, values, and way of life held by the community in which they were raised. This community provides life experiences that give a character some of their game statistics. Even if a hero doesn't share their culture's values, those values shaped their early development and way of life. In fact, some people become heroes primarily from the rejection of the ways of their culture.
 
@@ -88,13 +88,13 @@ Your culture's environment aspect describes where the people of that culture spe
 
 When you build a culture, select its environment aspect from the following options: nomadic, rural, secluded, urban, or wilderness. You gain skill options from your chosen environment. All of these environments can be found in any sort of terrain, whether aboveground, in subterranean caverns, deep in trackless forest, or even underwater.
 
-##### Nomadic
+##### Nomadic {data-scc="mcdm.heroes.v1/culture/nomadic"}
 
 A [nomadic](../../Browse/culture/nomadic.md) culture travels from place to place to survive. Members of a [nomadic](../../Browse/culture/nomadic.md) culture might follow animal migrations or the weather, travel to sell their wares or services, or simply enjoy a restless lifestyle full of new experiences and peoples. Those who grow up in [nomadic](../../Browse/culture/nomadic.md) cultures learn to navigate the wilderness and work closely with others to survive.
 
 **Skill Options:** One skill from the exploration or interpersonal skill groups. (*Quick Build:* [Navigate](../../Browse/skill/navigate.md).)
 
-##### Rural
+##### Rural {data-scc="mcdm.heroes.v1/culture/rural"}
 
 A [rural](../../Browse/culture/rural.md) culture is one located in a town, village, or smaller settled enclave. People dwelling in such places often cultivate the land, trade goods or services with travelers passing through, harvest fish from the sea, or mine metals and gems from the earth.
 
@@ -104,7 +104,7 @@ gets the sniffles, folks want an acolyte ready to wear the fancy robes should th
 
 **Skill Options:** One skill from the crafting or lore skill groups. (*Quick Build:* [Nature](../../Browse/skill/nature.md).)
 
-##### Secluded
+##### Secluded {data-scc="mcdm.heroes.v1/culture/secluded"}
 
 A [secluded](../../Browse/culture/secluded.md) culture is based in one relatively close-quarters structure—a building, a cavern, and so forth—and interacts with other cultures only rarely. Such places are often buildings or complexes such as monasteries, castles, or prisons. Folk in a [secluded](../../Browse/culture/secluded.md) culture have little or no reason to leave their home or interact with other cultures on the outside, but might have an awareness of those cultures and of events happening beyond their enclave.
 
@@ -112,13 +112,13 @@ When people live together in close quarters, they typically learn to get along. 
 
 **Skill Options:** One skill from the interpersonal or lore skill groups. (*Quick Build:* [Read Person](../../Browse/skill/read-person.md).)
 
-##### Urban
+##### Urban {data-scc="mcdm.heroes.v1/culture/urban"}
 
 An [urban](../../Browse/culture/urban.md) culture is always centered in a city. Such a culture might arise within the walls of Capital, a massive metropolis with a cosmopolitan population; within a network of caverns that hold an underground city; or in any other place where a large population lives relatively close together. The people of [urban](../../Browse/culture/urban.md) cultures often learn to effectively misdirect others in order to navigate the crowds and the political machinations that can come with city life.
 
 **Skill Options:** One skill from the interpersonal or intrigue skill groups. (*Quick Build:* [Alertness](../../Browse/skill/alertness.md).)
 
-##### Wilderness
+##### Wilderness {data-scc="mcdm.heroes.v1/culture/wilderness"}
 
 A [wilderness](../../Browse/culture/wilderness.md) culture doesn't try to tame the terrain in which its people live, whether desert, forest, swamp, tundra, ocean, or more exotic climes. Instead, the folk of such a culture thrive amid nature, taking their sustenance and shelter from the land. A wilderness culture might be a circle of druids protecting a remote wode, a band of brigands hiding out in desert caves, or a camp of [orc](../../Browse/ancestry/orc.md) mercenaries who call the trackless mountains home. People in a [wilderness](../../Browse/culture/wilderness.md) culture learn how to use the land for all they need to live, typically crafting their own tools, clothing, and more.
 
@@ -130,7 +130,7 @@ Your culture's organization aspect determines the functioning and leadership of 
 
 When you build a culture, select its organization aspect from the following options: [bureaucratic](../../Browse/culture/bureaucratic.md) or [communal](../../Browse/culture/communal.md). You gain skill options from your chosen system of organization.
 
-##### Bureaucratic
+##### Bureaucratic {data-scc="mcdm.heroes.v1/culture/bureaucratic"}
 
 [Bureaucratic](../../Browse/culture/bureaucratic.md) cultures are steeped in official leadership and formally recorded laws. Members of such a culture are often ranked in power according to those laws, with a small group of people holding the power to rule according to birthright, popular vote, or some other official and measurable standard. Many bureaucratic communities
 
@@ -140,7 +140,7 @@ Those who thrive in [bureaucratic](../../Browse/culture/bureaucratic.md) culture
 
 **Skill Options:** One skill from the interpersonal or intrigue skill groups. (*Quick Build:* [Persuade](../../Browse/skill/persuade.md).)
 
-##### Communal
+##### Communal {data-scc="mcdm.heroes.v1/culture/communal"}
 
 A [communal](../../Browse/culture/communal.md) culture is a place where all members of the culture are considered equal. The community works together to make important decisions that affect the majority of the culture. While they elect leaders to carry out these decisions and organize their efforts, each person has a relatively equal say in how the culture operates, and everyone contributes to help their people survive and thrive. Individuals often share the burdens of governing, physical labor, childcare, and other duties. A collective of farmers who work together to cultivate and protect their land without a noble, a city of pirates where each person can do as they wish, and a traveling theatrical troupe whose members vote on every artistic and administrative decision are all communal cultures.
 
@@ -154,37 +154,37 @@ Your culture's upbringing aspect is a more specific and personal part of your he
 
 Pick your upbringing aspect from the following list: [academic](../../Browse/culture/academic.md), [creative](../../Browse/culture/creative.md), [labor](../../Browse/culture/labor.md), [lawless](../../Browse/culture/lawless.md), [martial](../../Browse/culture/martial.md), or [noble](../../Browse/culture/noble.md). You gain skill options from your chosen aspect.
 
-##### Academic
+##### Academic {data-scc="mcdm.heroes.v1/culture/academic"}
 
 Your hero was raised by people who collect, study, and share books and other records. Some academics focus on one area of study, such as a college for wizards dedicated to the study of magic, or a church that teaches the word of one deity. People in an [academic](../../Browse/culture/academic.md) culture learn how to wield the power that is knowledge.
 
 **Skill Options:** One skill from the lore skill group. (*Quick Build:* [History](../../Browse/skill/history.md).)
 
-##### Creative
+##### Creative {data-scc="mcdm.heroes.v1/culture/creative"}
 
 A hero with a [creative](../../Browse/culture/creative.md) upbringing was raised among folk who create art or other works valuable enough to trade. A [creative](../../Browse/culture/creative.md) culture might produce fine art such as dance, music, or sculpture, or more practical wares such as wagons, weapons, tools, or buildings. People in such cultures learn the value of quality crafting and attention to detail.
 
 **Skill Options:** The [Music](../../Browse/skill/music.md) or [Perform](../../Browse/skill/perform.md) skill (from the interpersonal skill group), or one skill from the crafting group. (*Quick Build:* [Perform](../../Browse/skill/perform.md).)
 
-##### Labor
+##### Labor {data-scc="mcdm.heroes.v1/culture/labor"}
 
 Your hero came of age in a culture where people labored for a living. They might have been cultivators, typically raising crops or livestock on a farm. They might have harvested natural resources, whether by hunting, trapping, logging, or mining. Or they might have excelled at manual [labor](../../Browse/culture/labor.md) tied to settlement and trade, such as construction, carting, loading cargo, and so forth. People with a [labor](../../Browse/culture/labor.md) upbringing know the value of hard work.
 
 **Skill Options:** The [Blacksmithing](../../Browse/skill/blacksmithing.md) skill (from the crafting skill group), the [Handle Animals](../../Browse/skill/handle-animals.md) skill (from the interpersonal group), or a skill from the exploration group. (*Quick Build:* [Lift](../../Browse/skill/lift.md).)
 
-##### Lawless
+##### Lawless {data-scc="mcdm.heroes.v1/culture/lawless"}
 
 Your hero grew up among folk who performed activities that other people—whether within or outside their culture—considered unlawful. A band of pirates, a guild of assassins, or an organization of spies all commit unlawful acts for money. And under tyranny, people engaged in rebellion are often considered [lawless](../../Browse/culture/lawless.md) in their actions and activities. People brought up in a [lawless](../../Browse/culture/lawless.md) culture typically don't mind breaking the rules when it suits them—and are good at making sure no one finds out they did.
 
 **Skill Options:** One skill from the intrigue skill group. (*Quick Build:* [Sneak](../../Browse/skill/sneak.md).)
 
-##### Martial
+##### Martial {data-scc="mcdm.heroes.v1/culture/martial"}
 
 A hero with a [martial](../../Browse/culture/martial.md) upbringing was raised by warriors. These might have been the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a [martial](../../Browse/culture/martial.md) upbringing are always ready for a fight—and they know how to finish that fight.
 
 **Skill Options:** One of the following: [Blacksmithing](../../Browse/skill/blacksmithing.md) or [Fletching](../../Browse/skill/fletching.md) from the crafting skill group; [Climb](../../Browse/skill/climb.md), [Endurance](../../Browse/skill/endurance.md), or [Ride](../../Browse/skill/ride.md) from the exploration group; [Intimidate](../../Browse/skill/intimidate.md) from the interpersonal group; [Alertness](../../Browse/skill/alertness.md) or [Track](../../Browse/skill/track.md) from the intrigue group; or [Monsters](../../Browse/skill/monsters.md) or [Strategy](../../Browse/skill/strategy.md) from the lore skill group (*Quick Build:* [Intimidate](../../Browse/skill/intimidate.md).)
 
-##### Noble
+##### Noble {data-scc="mcdm.heroes.v1/culture/noble"}
 
 Your hero grew up among leaders who rule over others and play the games of politics to maintain power. Many families are [noble](../../Browse/culture/noble.md)s by birthright, but some cultures have [noble](../../Browse/culture/noble.md) titles earned through deeds or popularity. Whatever the case, heroes with this background understand why the whispered words in the right ear can sometimes be more powerful than any army.
 
@@ -300,7 +300,7 @@ The Dead Languages table shows some of the dead languages of Orden, and the mode
 
 Khamish is still spoken by lizardfolk and other creatures connected to the beast lords. However, the forms spoken today only vaguely resemble their original tongues and have been adapted for use within their speakers' own circles.
 
-## Careers
+## Careers {data-scc="mcdm.heroes.v1/chapter/careers"}
 
 Being a hero isn't a job. It's a calling. But before you answered that call, you had a different job or vocation that paid the bills. Thank the gods for that, because the experience you gained in that career is now helping you save lives and slay monsters.
 
@@ -356,7 +356,7 @@ It might be the case that you're obsessed with getting back what you lost. You m
 
 The careers your character can select from are presented in alphabetical order.
 
-#### Agent
+#### Agent {data-scc="mcdm.heroes.v1/career/agent"}
 
 You worked as a spy for a government or organization. In defining your career, think about the following questions:
 
@@ -382,7 +382,7 @@ You gain the following career benefits:
 | 5   | **Spies and Lovers:** While embedded in an undercover assignment, you fell for someone on the other side. They discovered you were a double [agent](../../Browse/career/agent.md), and though you insisted your feelings were real, the deceit cut too deep for your love interest to ignore. They exposed you, spurned you, or died because of their closeness to you. You left the espionage business to become a hero with nothing to hide.                                                 |
 | 6   | **Turncoat:** You spent your life in service of your country or an organization that upheld your values. During your undercover operations, you discovered that everything you had been told was a lie. Whether you confronted your superiors or were exposed, you were stripped of your service medals before you left to become a true hero.                                                                                                                 |
 
-#### Aristocrat
+#### Aristocrat {data-scc="mcdm.heroes.v1/career/aristocrat"}
 
 Career? Who needs a career when you're born into money! Or marry into it! Or con your way into it! Whatever the case, you didn't need to work thanks to (someone's) generational wealth. In defining your career, think about the following questions:
 
@@ -412,7 +412,7 @@ You gain the following career benefits:
 | 5  | **Royal Pauper:** Seeking a break from noble duties, you sought a lookalike to switch identities with. It went so well that you made a habit of switching whenever you were bored. Unfortunately, your counterpart became so good at imitating you that they convinced all those around you that you were an impostor. You lost contact with your family, but now pursue a heroic path free of the pomp of your old life. |
 | 6  | **Wicked Secret:** One parent passed away when you were a baby and the other remarried years later. Then that parent died under suspicious circumstances. Their spouse ousted you, and you were banished (and possibly hunted). Rising from tragedy, you now seek to right the wrongs of the world. |
 
-#### Artisan
+#### Artisan {data-scc="mcdm.heroes.v1/career/artisan"}
 
 You made and sold useful wares. In defining your career, think about the following questions:
 
@@ -440,7 +440,7 @@ You gain the following career benefits:
 | 5  | **Tarnished Honor:** A new patron commissioned some art, but on completion, they refused to pay you and claimed the work as their own. You were accused of plagiarism and run out of town. For you, heroics are about restoring your name and honor. |
 | 6  | **Twisted Skill:** You had great success that caused an unscrupulous rival to curse you. For a time, everything you tried to create turned to ruin. You broke the curse through adventuring, and in doing so, discovered a new joy and purpose that now defines you. |
 
-#### Beggar
+#### Beggar {data-scc="mcdm.heroes.v1/career/beggar"}
 
 You lived by going to a tavern, crossroads, city street, or other busy area and begging passersby for money or food. In defining your career, think about the following questions:
 
@@ -466,7 +466,7 @@ You gain the following career benefits:
 | 5  | **Strange Charity:** A passerby dropped something in your cup. When you counted your day's collections, you found a magic coin among the coppers. You knew immediately that it was special. When the other beggars—your friends, you thought—showed that they were ready to murder you for it, you killed several of them in self-defense before you fled, leaving behind the only semblance of community you had. |
 | 6  | **Witness:** You witnessed something you weren't meant to. Others would kill you if they knew, and they might be searching for you even now. You remain on the move, terrified of remaining in one place too long lest it all catch up to you. Perhaps if you make a big enough name for yourself, you can become untouchable and finally speak of what happened without fear. |
 
-#### Criminal
+#### Criminal {data-scc="mcdm.heroes.v1/career/criminal"}
 
 You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin. In defining your career, think about the following questions:
 
@@ -494,7 +494,7 @@ You gain the following career benefits:
 | 5  | **Simply Survival:** Stealing was a matter of survival for you and not what defined you—at least in your mind. But when your thieving actions led to innocent folk being harmed, you knew you could be better. You turned your back on your old life, though your old skills still come in handy. |
 | 6  | **Stand Against Tyranny:** When a tyrant rose to power in your homeland, they began cracking down on all criminals with deadly raids and public executions. The nature of the crime didn't matter, with pickpockets and beggars made to kneel before the axe alongside murderers. After losing enough friends, you stood up and joined the resistance—not just against this tyrant, but against authoritarians anywhere. |
 
-#### Disciple
+#### Disciple {data-scc="mcdm.heroes.v1/career/disciple"}
 
 You worked in a church, temple, or other religious institution as part of the clergy. In defining your career, think about the following questions:
 
@@ -520,7 +520,7 @@ You gain the following career benefits:
 | 5  | **Near-Death Experience:** While serving at a religious institution, you almost died in an accident. When you woke, you had lost all memory of ever having worked for the church or temple. Though the clergy encouraged you to stay, you left to forge a new path. Your sense of altruism—whether instilled in you by your past work or a part of who you naturally are—guides you in your life. |
 | 6  | **Taxing Times:** The faith-based organization you were once part of became corrupt. It used its status in the community to accumulate wealth through tithes, while its leaders sought political appointments. During a season of drought, the institution stockpiled resources and refused to give aid, resulting in the deaths of many. You became a hero to fight against such corruption and to honor those you lost. |
 
-#### Explorer
+#### Explorer {data-scc="mcdm.heroes.v1/career/explorer"}
 
 You ventured into uncharted areas and made your living as a cartographer, researcher, resource seeker, or treasure hunter. In defining your career, think about the following questions:
 
@@ -547,7 +547,7 @@ You gain the following career benefits:
 | 5  | **Wanderlust:** You saw yourself as an observer and operated within a code of conduct. You swore to never interfere with a group by exposing them to your technology, knowledge, or values. But when faced with a moral conundrum, you either broke your code or stood idly by—and suffered the consequences. During this incident, you lost your observation journal but became a hero who refuses to let evil stand unchecked. |
 | 6  | **Wind in Your Sails:** As a seafaring [explorer](../../Browse/career/explorer.md), you lived to chart unknown courses. Though travel on the high seas was fraught with danger, the destination was always rewarding in riches, knowledge, or some other meaningful benefit. But your luck ran out when your ship was destroyed by pirates or other enemy forces. Now you've taken to protecting those who seek safe passage while also hoping to avenge your crew. |
 
-#### Farmer
+#### Farmer {data-scc="mcdm.heroes.v1/career/farmer"}
 
 You grew crops or cared for livestock. In defining your career, think about the following questions:
 
@@ -575,7 +575,7 @@ You gain the following career benefits:
 | 5  | **Razed:** Your animals were killed, your crops and home set ablaze. The culprits might have been wandering bandits, raiders from a nearby kingdom, or hired thugs sent by a rival farm. Whoever they were, they left you with nothing. You couldn't face the thought of starting again from scratch, so you took up a life of heroism to protect others from such villainy. |
 | 6  | **Stolen:** Your family bred horses—beautiful creatures that few could rival on the track and in the jousting lists. When a local noble arrived with an offer to buy your prized stallion, your father refused. The noble struck him down where he stood and stole the horse. Without that stallion, the renowned bloodline would end. You intend to get them back—and get revenge. |
 
-#### Gladiator
+#### Gladiator {data-scc="mcdm.heroes.v1/career/gladiator"}
 
 In the past, you entertained the masses with flashy displays of violence in the arena. In defining your career, think about the following questions:
 
@@ -603,7 +603,7 @@ You gain the following career benefits:
 | 5  | **Scion's Compassion:** You were born a noble, but the duplicitous and power-hungry nature of your family had you seeking your own fortune in the arena. You saw that competitors brought there by circumstance and not choice suffered. You gave all you could of your family money to those lessfortunate folk, and then set out to make a real difference in this cruel world. |
 | 6  | **Warriors' Home:** The orphanage you grew up in secretly supplied gladiators to the arena. Forced to fight against many childhood friends as an adult, you vowed to dismantle the arena and free other victims. You became a liberator, dedicated to ending the oppression of others until your dying breath. |
 
-#### Laborer
+#### Laborer {data-scc="mcdm.heroes.v1/career/laborer"}
 
 You worked as a [farmer](../../Browse/career/farmer.md), builder, clothes washer, forester, miner, or some other profession engaged in hard manual labor. In defining your career, think about the following questions:
 
@@ -631,7 +631,7 @@ You gain the following career benefits:
 | 5  | **Shining Light:** You kept a lighthouse along the constantly stormy cliffs of your village with your mentor. On a clear and sunny day, your mentor vanished. Finding only a cryptic notebook filled with his musings on the supernatural, you left to find out what really happened. The trail has gone cold for now, and you're helping others find their loved ones in the meantime. |
 | 6  | **Slow and Steady:** You labored silently as an uncaring boss drove those around you into the ground, pushing you to work harder to lessen the burden on your companions. But when the boss pushed too far and killed a friend of yours, you led an uprising against them. That was the start of your adventuring life. |
 
-#### Mage's Apprentice
+#### Mage's Apprentice {data-scc="mcdm.heroes.v1/career/mages-apprentice"}
 
 For long years, you studied magic under the mentorship of a more experienced mage. In defining your career, think about the following questions:
 
@@ -659,7 +659,7 @@ You gain the following career benefits:
 | 5  | **Otherworldly:** While studying magic, you accidentally sent yourself from your original world to this one. Now you're stranded here, hoping to find ancient texts or powerful magic treasures that might transport you back home. A life of adventure it is! | 
 | 6  | **Ultimate Power:** The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn't until you met an adventuring [elementalist](../../Browse/class/elementalist.md) that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day. |
 
-#### Performer
+#### Performer {data-scc="mcdm.heroes.v1/career/performer"}
 
 You can sing, act, or dance well enough that people actually pay you to do it. Imagine that! In defining your career, think about the following questions:
 
@@ -685,7 +685,7 @@ You gain the following career benefits:
 | 5  | **Speechless:** A heckler's mocking words left you utterly speechless during a performance, stinging your pride and stirring your arrogance. The incident strained your legendary voice, and you could speak only in soft whispers. The heckler was a fey trickster who stole your voice, promising to give it back after you accomplished real good in the world. |
 | 6  | **Tragic Lesson:** When a producer who once shortchanged you shouted out on the street for you to stop a thief who had picked their pocket, your spite toward them inspired you to let the thief run right on by. But that decision led to tragedy when the thief later harmed someone you loved. From that moment on, you made it your responsibility to protect others. |
 
-#### Politician
+#### Politician {data-scc="mcdm.heroes.v1/career/politician"}
 
 You worked as a leader within a formal, bureaucratic organization or government. You might have been appointed, born, or elected into your position, but getting people to agree and making decisions for the people you serve (or who served you) was your job. In defining your career, think about the following questions:
 
@@ -715,7 +715,7 @@ You gain the following career benefits:
 | 5  | **Self-Serving:** You used your skills to collect incriminating or scandalous information about your opponents to blackmail them. A rival got one step ahead of you and stole your book of dirty secrets. But instead of using it against you, they gave you an opportunity to leave the world of politics behind. Saved from public humiliation, you now use your skills for the greater good. |
 | 6  | **Unbound:** The red tape required to achieve anything through your political position resulted in a crisis being mishandled and countless people harmed or killed. After that unfortunate event, you resolved to live unfettered by bureaucratic interference, seeking to do good through action, not paperwork. |
 
-#### Sage
+#### Sage {data-scc="mcdm.heroes.v1/career/sage"}
 
 From an early age, you dedicated yourself to learning, whether you shared the knowledge of the world with others or sought out secret lore only for yourself. In defining your career, think about the following questions:
 
@@ -743,7 +743,7 @@ You gain the following career benefits:
 | 5  | **Unforeseen Futures:** In your pursuit of ancient knowledge, you discovered a prophecy that has yet to come to pass. And that prophecy involves someone who might be... you. Since your discovery, strange dreams have plagued you, driving you to seek out your destiny. |
 | 6  | **Vanishing:** At first you thought it was your imagination, and you brushed off the disappearance of random sentences in historical books. Then as the books changed to entirely blank pages, the disappearances became difficult to ignore, particularly those involving ancient or critical text. Driven by the desire to preserve knowledge, you have made it your purpose to restore and reverse those vanishing texts before they forever disappear. |
 
-#### Sailor
+#### Sailor {data-scc="mcdm.heroes.v1/career/sailor"}
 
 You worked on a ship, whether a merchant cog, a mercenary or military craft, or a pirate vessel. You might have been a deckhand, a mate, or even the captain. In defining your career, think about the following questions:
 
@@ -769,7 +769,7 @@ You gain the following career benefits:
 **Marooned:** There was a mutiny, and you were on the losing side. You were marooned on an island and escaped when a merchant vessel was blown off course by a storm and found you. Your reputation is ruined among sailors, so you seek adventure elsewhere.
 **Water Fear:** A catastrophic storm hit while you were at sea, destroying your ship and leaving you as the only survivor. Once you recovered, you tried to sign on with another ship, but the thought of the open water turned your legs to jelly. Instead, you've taken on the role of a traveling hero to make ends meet.
 
-#### Soldier
+#### Soldier {data-scc="mcdm.heroes.v1/career/soldier"}
 
 In your formative years, you fought tirelessly in skirmishes and campaigns against enemy forces. In defining your career, think about the following questions:
 
@@ -797,7 +797,7 @@ You gain the following career benefits:
 | 5  | **Stolen Valor:** Tired of eking out an existence on the streets, you enrolled in the military. However, you were unable to escape your lower-status background until the officer leading your unit fell in battle. In the chaos that ensued, you assumed their identity and returned home a hero. But when suspicion arose, you took on the life of an adventurer, staying always on the move. |
 | 6  | **Vow of Sacrifice:** You promised a fellow [soldier](../../Browse/career/soldier.md) that you'd protect his family if he ever fell in battle. When he did, you traveled to his village, but found its people slain or scattered by war. Driven by your vow, you have dedicated your life to finding any survivors and protecting others from a similar fate. |
 
-#### Warden
+#### Warden {data-scc="mcdm.heroes.v1/career/warden"}
 
 You protected a wild region from those who sought to harm it, such as poachers and cultists bent on the destruction of the natural world. Knowing your land well, you could also serve as a guide or the leader of a rescue party for those wandering the wilds. In defining your career, think about the following questions:
 
@@ -825,7 +825,7 @@ You gain the following career benefits:
 | 5  | **Portents:** There were signs. You tried to ignore them, but when a great beast died at your feet, you had to recognize the truth. You were meant to leave your home territory, meant to fight a battle for the fate of all lands—and so you gave up the only life you've ever known. |
 | 6  | **Theft:** You were responsible for guarding something precious, something vital to your region's survival. But you let someone in, and they betrayed your trust by stealing the thing you were meant to guard. You left your chosen territory to atone for your mistake. |
 
-#### Watch Officer
+#### Watch Officer {data-scc="mcdm.heroes.v1/career/watch-officer"}
 
 You served as an officer of the law for a local government. You might have been a single person in a much larger city watch or the only constable patrolling a small village. In defining your career, think about the following questions:
 

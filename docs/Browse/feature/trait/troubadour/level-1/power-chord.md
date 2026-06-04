@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Power Chord
+## Power Chord {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/power-chord"}
 
 
 *Your instrument rings true and your music blows everyone away.*

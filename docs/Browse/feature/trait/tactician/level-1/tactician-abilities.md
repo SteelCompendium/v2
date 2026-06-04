@@ -12,7 +12,7 @@ type: trait
 
 You are a formidable combatant in your own right, but your greatest strength is the abilities you wield that let you shape control of the battlefield.
 
-## Kit Signature Ability
+## Kit Signature Ability {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-1/kit-signature-ability"}
 
 Each kit from your [Field Arsenal](field-arsenal.md) feature grants you a signature ability. Signature abilities can be used at will.
 
@@ -24,7 +24,7 @@ Your heroic abilities cover a range of combat tactics, all of which require focu
 
 Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* [Inspiring Strike](../../../ability/tactician/level-1/inspiring-strike.md).)
 
-### Battle Cry
+### Battle Cry {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/battle-cry"}
 
 
 *You shout a phrase that galvanizes your team.*
@@ -39,7 +39,7 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 - **12-16:** Each target gains 2 surges.
 - **17+:** Each target gains 3 surges.
 
-### Concussive Strike
+### Concussive Strike {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/concussive-strike"}
 
 
 *Your precise strike leaves your foe struggling to respond.*
@@ -54,7 +54,7 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 - **12-16:** 5 + M damage; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
 - **17+:** 8 + M damage; M < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 
-### Inspiring Strike
+### Inspiring Strike {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/inspiring-strike"}
 
 
 *Your attack gives an ally hope.*
@@ -69,7 +69,7 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 - **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a Recovery
 - **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a Recovery, and each of you gains an edge on the next ability roll you make during the encounter
 
-### Squad! Forward!
+### Squad! Forward! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/squad-forward"}
 
 
 *On your command, you and your allies force back the enemy line.*

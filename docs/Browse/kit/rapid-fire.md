@@ -34,7 +34,7 @@ You wear light armor and wield a bow.
 
 ## Signature Ability
 
-### Two Shot
+### Two Shot {data-scc="mcdm.heroes.v1/feature.ability.rapid-fire/two-shot"}
 
 *When you fire two arrows back-to-back, both hit their mark.*
 

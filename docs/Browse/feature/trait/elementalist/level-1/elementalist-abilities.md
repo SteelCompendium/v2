@@ -16,7 +16,7 @@ Your understanding of elemental magic grants you unique abilities, letting you d
 
 Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Bifurcated Incineration](../../../ability/elementalist/level-1/bifurcated-incineration.md), [Viscous Fire](../../../ability/elementalist/level-1/viscous-fire.md).)
 
-### Afflict a Bountiful Decay
+### Afflict a Bountiful Decay {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/afflict-a-bountiful-decay"}
 
 
 *Your curse causes your foe's flesh to rot off as spores that aid your allies.*
@@ -33,7 +33,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** Choose yourself or one ally within distance. That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
 
-### Bifurcated Incineration
+### Bifurcated Incineration {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/bifurcated-incineration"}
 
 
 *Two jets of flame lance out at your command.*
@@ -48,7 +48,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 4 fire damage
 - **17+:** 6 fire damage
 
-### Grasp of Beyond
+### Grasp of Beyond {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/grasp-of-beyond"}
 
 
 *You absorb the life energy of another creature and use it to [teleport](../../../../movement/teleport.md).*
@@ -65,7 +65,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** You can [teleport](../../../../movement/teleport.md) up to a number of squares equal to your Reason score.
 
-### The Green Within, the Green Without
+### The Green Within, the Green Without {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/the-green-within-the-green-without"}
 
 
 *Whipping vines erupt from a foe's body to grasp at another close by.*
@@ -82,7 +82,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** You slide one creature within 10 squares of the target up to 2 squares.
 
-### Meteoric Introduction
+### Meteoric Introduction {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/meteoric-introduction"}
 
 
 *You give your enemy a gentle tap-like an asteroid impact.*
@@ -97,7 +97,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 5 + R damage; push 3
 - **17+:** 8 + R damage; push 4
 
-### Ray of Agonizing Self-Reflection
+### Ray of Agonizing Self-Reflection {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/ray-of-agonizing-self-reflection"}
 
 
 *You inflict pain and doubt in equal measure.*
@@ -112,7 +112,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
 - **17+:** 6 + R corruption damage; R < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 
-### Unquiet Ground
+### Unquiet Ground {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/unquiet-ground"}
 
 
 *A sudden storm of detritus assaults your foes and leaves them struggling to move.*
@@ -129,7 +129,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** The ground beneath the area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
 
-### Viscous Fire
+### Viscous Fire {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/viscous-fire"}
 
 
 *A jet of heavy fire erupts where you strike.*
@@ -152,7 +152,7 @@ You channel a variety of heroic abilities, all of them fueled by your essence.
 
 Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
 
-### Behold the Mystery
+### Behold the Mystery {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/behold-the-mystery"}
 
 
 *You open a rift into the void to harry your foes.*
@@ -169,7 +169,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 **Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
 
-### The Flesh, a Crucible
+### The Flesh, a Crucible {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/the-flesh-a-crucible"}
 
 
 *Fire engulfs your target and continues to churn.*
@@ -186,7 +186,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 **Persistent 1:** If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).
 
-### Invigorating Growth
+### Invigorating Growth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/invigorating-growth"}
 
 
 *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
@@ -203,7 +203,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 **Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
 
-### Ripples in the Earth
+### Ripples in the Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/ripples-in-the-earth"}
 
 
 *Like a stone was dropped into a pond, waves in the earth radiate from you.*
@@ -224,7 +224,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* [Conflagration](../../../ability/elementalist/level-1/conflagration.md).)
 
-### Conflagration
+### Conflagration {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/conflagration"}
 
 
 *A storm of fire descends upon your enemies.*
@@ -241,7 +241,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 **Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
 
-### Instantaneous Excavation
+### Instantaneous Excavation {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/instantaneous-excavation"}
 
 
 *The surface of the world around you opens up to swallow foes.*
@@ -260,7 +260,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 **Persistent 1:** At the start of your turn, you open another hole, making a power roll against each creature who could fall into the hole when it opens without spending essence.
 
-### No More Than a Breeze
+### No More Than a Breeze {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/no-more-than-a-breeze"}
 
 
 *The material substance of a creature shreds away at your command.*
@@ -273,7 +273,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 **Persistent 1:** The effect lasts until the start of your next turn.
 
-### Test of Rain
+### Test of Rain {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/test-of-rain"}
 
 
 *You call down a rain that burns your enemies and restores your allies.*

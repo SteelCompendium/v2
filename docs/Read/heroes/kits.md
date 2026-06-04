@@ -149,7 +149,7 @@ This section details each kit, whose bonuses and benefits are summarized in the 
 >
 > Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged free strikes with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
 
-#### Arcane Archer
+#### Arcane Archer {data-scc="mcdm.heroes.v1/kit/arcane-archer"}
 
 The [Arcane Archer](../../Browse/kit/arcane-archer.md) kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
 
@@ -169,7 +169,7 @@ You wear no armor and wield a bow.
 
 ##### Signature Ability
 
-###### Exploding Arrow
+###### Exploding Arrow {data-scc="mcdm.heroes.v1/feature.ability.arcane-archer/exploding-arrow"}
 
 *Your ammunition explodes with magical energy.*
 
@@ -185,7 +185,7 @@ You wear no armor and wield a bow.
 
 **Effect:** One creature or object of your choice within 2 squares of the target takes fire damage equal to the characteristic score used for this ability's power roll.
 
-#### Battlemind
+#### Battlemind {data-scc="mcdm.heroes.v1/kit/battlemind"}
 
 Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The [Battlemind](../../Browse/kit/battlemind.md) kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.
 
@@ -205,7 +205,7 @@ You wear light armor and wield a medium weapon.
 
 ##### Signature Ability
 
-###### Unmooring
+###### Unmooring {data-scc="mcdm.heroes.v1/feature.ability.battlemind/unmooring"}
 
 *Your weapon unleashes psionic energy that reduces your target's weight.*
 
@@ -221,7 +221,7 @@ You wear light armor and wield a medium weapon.
 
 **Effect:** Until the end of the target's next turn, any [forced movement](../../Browse/movement/forced-movement.md) that affects the target has its distance increased by 2.
 
-#### Cloak and Dagger
+#### Cloak and Dagger {data-scc="mcdm.heroes.v1/kit/cloak-and-dagger"}
 
 Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the [Cloak and Dagger](../../Browse/kit/cloak-and-dagger.md) kit makes you more mobile while increasing the effectiveness of your short-range strikes.
 
@@ -245,7 +245,7 @@ You wear light armor and wield one or two light weapons.
 
 ##### Signature Ability
 
-###### Fade
+###### Fade {data-scc="mcdm.heroes.v1/feature.ability.cloak-and-dagger/fade"}
 
 *A stab, and a few quick, careful steps back.*
 
@@ -259,7 +259,7 @@ You wear light armor and wield one or two light weapons.
 - **12-16:** 6 + M or A damage; you can [shift](../../Browse/movement/shifting.md) up to 2 squares
 - **17+:** 8 + M or A damage; you can [shift](../../Browse/movement/shifting.md) up to 3 squares
 
-#### Dual Wielder
+#### Dual Wielder {data-scc="mcdm.heroes.v1/kit/dual-wielder"}
 
 The [Dual Wielder](../../Browse/kit/dual-wielder.md) kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in hand, making you a whirling dealer of death.
 
@@ -279,7 +279,7 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 ##### Signature Ability
 
-###### Double Strike
+###### Double Strike {data-scc="mcdm.heroes.v1/feature.ability.dual-wielder/double-strike"}
 
 *Why strike once when you could do it twice?*
 
@@ -295,7 +295,7 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 **Effect:** If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same power roll for both targets.
 
-#### Guisarmier
+#### Guisarmier {data-scc="mcdm.heroes.v1/kit/guisarmier"}
 
 The [Guisarmier](../../Browse/kit/guisarmier.md) kit is for those who want to use a polearm for extended reach while remaining protected by sturdy armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
 
@@ -315,7 +315,7 @@ You wear medium armor and wield a polearm.
 
 ##### Signature Ability
 
-###### Forward Thrust, Backward Smash
+###### Forward Thrust, Backward Smash {data-scc="mcdm.heroes.v1/feature.ability.guisarmier/forward-thrust-backward-smash"}
 
 *In your hands, the haft is as good as the head.*
 
@@ -329,7 +329,7 @@ You wear medium armor and wield a polearm.
 - **12-16:** 7 damage
 - **17+:** 9 damage
 
-#### Martial Artist
+#### Martial Artist {data-scc="mcdm.heroes.v1/kit/martial-artist"}
 
 If you want to be fast in a fight, then [Martial Artist](../../Browse/kit/martial-artist.md) is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes against opponents, and allows you to be the ultimate skirmisher.
 
@@ -349,7 +349,7 @@ You wear no armor and wield only your unarmed strikes.
 
 ##### Signature Ability
 
-###### Battle Grace
+###### Battle Grace {data-scc="mcdm.heroes.v1/feature.ability.martial-artist/battle-grace"}
 
 *You feint to move your enemies into perfect position.*
 
@@ -365,7 +365,7 @@ You wear no armor and wield only your unarmed strikes.
 
 **Effect:** If you obtain a tier 2 or tier 3 outcome and can't swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.
 
-#### Mountain
+#### Mountain {data-scc="mcdm.heroes.v1/kit/mountain"}
 
 The [Mountain](../../Browse/kit/mountain.md) kit does exactly what it says on the tin. You don heavy armor and raise a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to strike.
 
@@ -383,7 +383,7 @@ You wear heavy armor and wield a heavy weapon.
 
 ##### Signature Ability
 
-###### Pain for Pain
+###### Pain for Pain {data-scc="mcdm.heroes.v1/feature.ability.mountain/pain-for-pain"}
 
 *An enemy who tagged you will pay for that.*
 
@@ -399,7 +399,7 @@ You wear heavy armor and wield a heavy weapon.
 
 **Effect:** If the target dealt damage to you since the end of your last turn, this strike deals additional damage equal to your Might or Agility score (your choice).
 
-#### Panther
+#### Panther {data-scc="mcdm.heroes.v1/kit/panther"}
 
 If you want a good balance of protection, speed, and damage, the [Panther](../../Browse/kit/panther.md) kit is for you. This kit increases your Stamina not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
 
@@ -419,7 +419,7 @@ You wear no armor and wield a heavy weapon.
 
 ##### Signature Ability
 
-###### Devastating Rush
+###### Devastating Rush {data-scc="mcdm.heroes.v1/feature.ability.panther/devastating-rush"}
 
 *The faster you move, the harder you hit.*
 
@@ -435,7 +435,7 @@ You wear no armor and wield a heavy weapon.
 
 **Effect:** You can move up to 3 squares straight toward the target before this strike, which deals extra damage equal to the number of squares you move this way.
 
-#### Pugilist
+#### Pugilist {data-scc="mcdm.heroes.v1/kit/pugilist"}
 
 Meant for brawlers and boxers, the [Pugilist](../../Browse/kit/pugilist.md) kit gives you access to a melee fighting style that grants a boost to Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
 
@@ -455,7 +455,7 @@ You wear no armor and wield only your unarmed strikes.
 
 ##### Signature Ability
 
-###### Let's Dance
+###### Let's Dance {data-scc="mcdm.heroes.v1/feature.ability.pugilist/lets-dance"}
 
 *Keeping your enemies stumbling around the battlefield is second nature to you.*
 
@@ -471,7 +471,7 @@ You wear no armor and wield only your unarmed strikes.
 
 **Effect:** You can [shift](../../Browse/movement/shifting.md) into any square the target leaves after you slide them.
 
-#### Raider
+#### Raider {data-scc="mcdm.heroes.v1/kit/raider"}
 
 The [Raider](../../Browse/kit/raider.md) kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
 
@@ -495,7 +495,7 @@ You wear light armor and wield a shield and a light weapon.
 
 ##### Signature Ability
 
-###### Raider's Awe
+###### Raider's Awe {data-scc="mcdm.heroes.v1/feature.ability.raider/raiders-awe"}
 
 *You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../../Browse/feature/trait/tactician/level-7/shock-and-awe.md)")*
 
@@ -511,7 +511,7 @@ You wear light armor and wield a shield and a light weapon.
 
 **Effect:** The target takes a bane on their next power roll made before the end of their next turn.
 
-#### Ranger
+#### Ranger {data-scc="mcdm.heroes.v1/kit/ranger"}
 
 The [Ranger](../../Browse/kit/ranger.md) kit outfits you with medium armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.
 
@@ -535,7 +535,7 @@ You wear medium armor and wield a bow and a medium weapon.
 
 ##### Signature Ability
 
-###### Hamstring Shot
+###### Hamstring Shot {data-scc="mcdm.heroes.v1/feature.ability.ranger/hamstring-shot"}
 
 *A well-placed shot leaves your enemy struggling to move.*
 
@@ -549,7 +549,7 @@ You wear medium armor and wield a bow and a medium weapon.
 - **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](../../Browse/condition/slowed.md) (save ends)
 - **17+:** 7 + M or A damage; A < STRONG, [slowed](../../Browse/condition/slowed.md) (save ends)
 
-#### Rapid-Fire
+#### Rapid-Fire {data-scc="mcdm.heroes.v1/kit/rapid-fire"}
 
 The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes before they can get close enough to counterattack.
 
@@ -571,7 +571,7 @@ You wear light armor and wield a bow.
 
 ##### Signature Ability
 
-###### Two Shot
+###### Two Shot {data-scc="mcdm.heroes.v1/feature.ability.rapid-fire/two-shot"}
 
 *When you fire two arrows back-to-back, both hit their mark.*
 
@@ -585,7 +585,7 @@ You wear light armor and wield a bow.
 - **12-16:** 6 damage
 - **17+:** 8 damage
 
-#### Retiarius
+#### Retiarius {data-scc="mcdm.heroes.v1/kit/retiarius"}
 
 The [retiarius](../../Browse/kit/retiarius.md) is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
 
@@ -607,7 +607,7 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 ##### Signature Ability
 
-###### Net and Stab
+###### Net and Stab {data-scc="mcdm.heroes.v1/feature.ability.retiarius/net-and-stab"}
 
 *The well-thrown net that follows your main attack leaves your foes right where you want them.*
 
@@ -621,7 +621,7 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 - **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../../Browse/condition/slowed.md) (EoT)
 - **17+:** 8 + M or A damage; A < STRONG, [restrained](../../Browse/condition/restrained.md) (EoT)
 
-#### Shining Armor
+#### Shining Armor {data-scc="mcdm.heroes.v1/kit/shining-armor"}
 
 The [Shining Armor](../../Browse/kit/shining-armor.md) kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
@@ -639,7 +639,7 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 ##### Signature Ability
 
-###### Protective Attack
+###### Protective Attack {data-scc="mcdm.heroes.v1/feature.ability.shining-armor/protective-attack"}
 
 *The strength of your assault makes it impossible for your foe to ignore you.*
 
@@ -655,7 +655,7 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 **Effect:** The target is [taunted](../../Browse/condition/taunted.md) until the end of their next turn.
 
-#### Sniper
+#### Sniper {data-scc="mcdm.heroes.v1/kit/sniper"}
 
 The [Sniper](../../Browse/kit/sniper.md) kit gives you the tools and techniques to take down enemies from afar. This kit can help you become the archer who lurks behind trees or down tunnels, picking off enemies with a bow or crossbow as they approach.
 
@@ -675,7 +675,7 @@ You wear no armor and wield a bow.
 
 ##### Signature Ability
 
-###### Patient Shot
+###### Patient Shot {data-scc="mcdm.heroes.v1/feature.ability.sniper/patient-shot"}
 
 *Breathe... aim... wait... then strike!*
 
@@ -691,7 +691,7 @@ You wear no armor and wield a bow.
 
 **Effect:** If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
 
-#### Spellsword
+#### Spellsword {data-scc="mcdm.heroes.v1/kit/spellsword"}
 
 The [Spellsword](../../Browse/kit/spellsword.md) kit combines melee strikes and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.
 
@@ -711,7 +711,7 @@ You wear light armor and wield a shield and a medium weapon.
 
 ##### Signature Ability
 
-###### Leaping Lightning
+###### Leaping Lightning {data-scc="mcdm.heroes.v1/feature.ability.spellsword/leaping-lightning"}
 
 *Lightning jumps from your weapon as you strike to harm a nearby foe.*
 
@@ -727,7 +727,7 @@ You wear light armor and wield a shield and a medium weapon.
 
 **Effect:** A creature or object of your choice within 2 squares of the target takes lightning damage equal to the characteristic score used for this ability's power roll.
 
-#### Stick and Robe
+#### Stick and Robe {data-scc="mcdm.heroes.v1/kit/stick-and-robe"}
 
 Armed with a simple reach weapon, often a quarterstaff, a character using the [Stick and Robe](../../Browse/kit/stick-and-robe.md) kit is highly mobile thanks to their light armor. This allows your hero to make maximum use of their weapon's length.
 
@@ -749,7 +749,7 @@ You wear light armor and wield a polearm.
 
 ##### Signature Ability
 
-###### Where I Want You
+###### Where I Want You {data-scc="mcdm.heroes.v1/feature.ability.stick-and-robe/where-i-want-you"}
 
 *When your stick speaks, your enemy moves.*
 
@@ -763,7 +763,7 @@ You wear light armor and wield a polearm.
 - **12-16:** 7 + M or A damage; slide 1
 - **17+:** 10 + M or A damage; slide 3
 
-#### Swashbuckler
+#### Swashbuckler {data-scc="mcdm.heroes.v1/kit/swashbuckler"}
 
 If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the [Swashbuckler](../../Browse/kit/swashbuckler.md) kit. This is a great kit for heroes who want to be master duelists.
 
@@ -783,7 +783,7 @@ You wear light armor and wield a medium weapon.
 
 ##### Signature Ability
 
-###### Fancy Footwork
+###### Fancy Footwork {data-scc="mcdm.heroes.v1/feature.ability.swashbuckler/fancy-footwork"}
 
 *All combat is a dance—and you'll be the one leading.*
 
@@ -799,7 +799,7 @@ You wear light armor and wield a medium weapon.
 
 **Effect:** You can [shift](../../Browse/movement/shifting.md) into any square the target leaves after you push them.
 
-#### Sword and Board
+#### Sword and Board {data-scc="mcdm.heroes.v1/kit/sword-and-board"}
 
 The [Sword and Board](../../Browse/kit/sword-and-board.md) kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
 
@@ -819,7 +819,7 @@ You wear medium armor and wield a shield and a medium weapon.
 
 ##### Signature Ability
 
-###### Shield Bash
+###### Shield Bash {data-scc="mcdm.heroes.v1/feature.ability.sword-and-board/shield-bash"}
 
 *In your hands, a shield isn't just for protection.*
 
@@ -833,7 +833,7 @@ You wear medium armor and wield a shield and a medium weapon.
 - **12-16:** 7 + M or A damage; push 2
 - **17+:** 9 + M or A damage; push 3; M < STRONG[, prone](../../Browse/condition/prone.md)
 
-#### Warrior Priest
+#### Warrior Priest {data-scc="mcdm.heroes.v1/kit/warrior-priest"}
 
 The [Warrior Priest](../../Browse/kit/warrior-priest.md) kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.
 
@@ -853,7 +853,7 @@ You wear heavy armor and wield a light weapon.
 
 ##### Signature Ability
 
-###### Weakening Brand
+###### Weakening Brand {data-scc="mcdm.heroes.v1/feature.ability.warrior-priest/weakening-brand"}
 
 *The impact of your weapon brands your target for destruction.*
 
@@ -869,7 +869,7 @@ You wear heavy armor and wield a light weapon.
 
 **Effect:** Until the end of the target's next turn, they have damage weakness equal to the characteristic score used for this ability's power roll.
 
-#### Whirlwind
+#### Whirlwind {data-scc="mcdm.heroes.v1/kit/whirlwind"}
 
 The [Whirlwind](../../Browse/kit/whirlwind.md) kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
 
@@ -889,7 +889,7 @@ You wear no armor and wield a whip.
 
 ##### Signature Ability
 
-###### Extension of My Arm
+###### Extension of My Arm {data-scc="mcdm.heroes.v1/feature.ability.whirlwind/extension-of-my-arm"}
 
 *When you draw your whip back after an attack, your enemy is drawn ever closer.*
 

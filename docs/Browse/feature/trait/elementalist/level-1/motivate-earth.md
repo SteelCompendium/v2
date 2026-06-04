@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Motivate Earth
+## Motivate Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/motivate-earth"}
 
 
 *The earth rises, falls, or opens up at your command.*

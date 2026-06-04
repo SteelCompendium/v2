@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Practical Magic
+## Practical Magic {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/practical-magic"}
 
 
 *Your mastery of elemental power lets you customize your conjurations.*

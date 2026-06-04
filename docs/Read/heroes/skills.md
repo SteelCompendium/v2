@@ -80,43 +80,43 @@ Consequences for tests made with crafting skills typically include wasting rare 
 | Mechanics     | Build machines and clockwork items                 |
 | Tailoring     | Craft clothing of cloth or leather                 |
 
-#### Alchemy
+#### Alchemy {data-scc="mcdm.heroes.v1/skill/alchemy"}
 
 Make bombs and potions.
 
-#### Architecture
+#### Architecture {data-scc="mcdm.heroes.v1/skill/architecture"}
 
 Create buildings and vehicles.
 
-#### Blacksmithing
+#### Blacksmithing {data-scc="mcdm.heroes.v1/skill/blacksmithing"}
 
 Forge metal armor and weapons.
 
-#### Carpentry
+#### Carpentry {data-scc="mcdm.heroes.v1/skill/carpentry"}
 
 Create items out of wood.
 
-#### Cooking
+#### Cooking {data-scc="mcdm.heroes.v1/skill/cooking"}
 
 Create delicious dishes.
 
-#### Fletching
+#### Fletching {data-scc="mcdm.heroes.v1/skill/fletching"}
 
 Make ranged weapons and ammunition.
 
-#### Forgery
+#### Forgery {data-scc="mcdm.heroes.v1/skill/forgery"}
 
 Create false badges, documents, and other items.
 
-#### Jewelry
+#### Jewelry {data-scc="mcdm.heroes.v1/skill/jewelry"}
 
 Create bracelets, crowns, rings, and other jewelry.
 
-#### Mechanics
+#### Mechanics {data-scc="mcdm.heroes.v1/skill/mechanics"}
 
 Build machines and clockwork items.
 
-#### Tailoring
+#### Tailoring {data-scc="mcdm.heroes.v1/skill/tailoring"}
 
 Craft clothing of cloth or leather.
 
@@ -143,43 +143,43 @@ Consequences for tests made with exploration skills include harming yourself, yo
 | Ride       | Ride and control a nonsapient mount, such as a horse            |
 | Swim       | Move through deep liquid                                        |
 
-#### Climb
+#### Climb {data-scc="mcdm.heroes.v1/skill/climb"}
 
 Move up vertical surfaces.
 
-#### Drive
+#### Drive {data-scc="mcdm.heroes.v1/skill/drive"}
 
 Control vehicles.
 
-#### Endurance
+#### Endurance {data-scc="mcdm.heroes.v1/skill/endurance"}
 
 Remain engaged in strenuous activity over a long period of time.
 
-#### Gymnastics
+#### Gymnastics {data-scc="mcdm.heroes.v1/skill/gymnastics"}
 
 Move across unsteady or narrow surfaces; tumble.
 
-#### Heal
+#### Heal {data-scc="mcdm.heroes.v1/skill/heal"}
 
 Use mundane first aid.
 
-#### Jump
+#### Jump {data-scc="mcdm.heroes.v1/skill/jump"}
 
 Leap vertical and horizontal distances.
 
-#### Lift
+#### Lift {data-scc="mcdm.heroes.v1/skill/lift"}
 
 Pick up, carry, and throw heavy objects.
 
-#### Navigate
+#### Navigate {data-scc="mcdm.heroes.v1/skill/navigate"}
 
 Read a map and travel without becoming lost.
 
-#### Ride
+#### Ride {data-scc="mcdm.heroes.v1/skill/ride"}
 
 Ride and control a nonsapient mount, such as a horse.
 
-#### Swim
+#### Swim {data-scc="mcdm.heroes.v1/skill/swim"}
 
 Move through deep liquid.
 
@@ -209,55 +209,55 @@ Consequences for tests made with interpersonal skills include making the creatur
 | Persuade       | Convince someone to agree with you through use of your charms and grace |
 | Read Person    | Read the emotions and body language of other creatures                  |
 
-#### Brag
+#### Brag {data-scc="mcdm.heroes.v1/skill/brag"}
 
 Impress others with stories of your deeds.
 
-#### Empathize
+#### Empathize {data-scc="mcdm.heroes.v1/skill/empathize"}
 
 Relate to someone on a personal level.
 
-#### Flirt
+#### Flirt {data-scc="mcdm.heroes.v1/skill/flirt"}
 
 Attract romantic attention from someone.
 
-#### Gamble
+#### Gamble {data-scc="mcdm.heroes.v1/skill/gamble"}
 
 Make bets with others.
 
-#### Handle Animals
+#### Handle Animals {data-scc="mcdm.heroes.v1/skill/handle-animals"}
 
 Interact with nonsapient animal wildlife.
 
-#### Interrogate
+#### Interrogate {data-scc="mcdm.heroes.v1/skill/interrogate"}
 
 Obtain information from a creature withholding it.
 
-#### Intimidate
+#### Intimidate {data-scc="mcdm.heroes.v1/skill/intimidate"}
 
 Awe or scare a creature.
 
-#### Lead
+#### Lead {data-scc="mcdm.heroes.v1/skill/lead"}
 
 Inspire people to action.
 
-#### Lie
+#### Lie {data-scc="mcdm.heroes.v1/skill/lie"}
 
 Convince someone that a falsehood is true.
 
-#### Music
+#### Music {data-scc="mcdm.heroes.v1/skill/music"}
 
 Perform music vocally or with an instrument.
 
-#### Perform
+#### Perform {data-scc="mcdm.heroes.v1/skill/perform"}
 
 Engage in dance, oratory, acting, or some other physical performance.
 
-#### Persuade
+#### Persuade {data-scc="mcdm.heroes.v1/skill/persuade"}
 
 Convince someone to agree with you through use of your charms and grace.
 
-#### Read Person
+#### Read Person {data-scc="mcdm.heroes.v1/skill/read-person"}
 
 Read the emotions and body language of other creatures.
 
@@ -286,51 +286,51 @@ Consequences for tests made with intrigue skills include getting caught in the a
 | Sneak          | Move silently                                                                                      |
 | Track          | Follow a trail that another creature has left behind                                               |
 
-#### Alertness
+#### Alertness {data-scc="mcdm.heroes.v1/skill/alertness"}
 
 Intuitively sense the details of your surroundings.
 
-#### Conceal Object
+#### Conceal Object {data-scc="mcdm.heroes.v1/skill/conceal-object"}
 
 Hide an object on your person or in your environment.
 
-#### Disguise
+#### Disguise {data-scc="mcdm.heroes.v1/skill/disguise"}
 
 Change your appearance to look like a different person.
 
-#### Eavesdrop
+#### Eavesdrop {data-scc="mcdm.heroes.v1/skill/eavesdrop"}
 
 Actively listen to something that is hard to hear, such as a whispered conversation through a door.
 
-#### Escape Artist
+#### Escape Artist {data-scc="mcdm.heroes.v1/skill/escape-artist"}
 
 Escape from bonds such as rope or manacles.
 
-#### Hide
+#### Hide {data-scc="mcdm.heroes.v1/skill/hide"}
 
 Conceal yourself from others' observation.
 
-#### Pick Lock
+#### Pick Lock {data-scc="mcdm.heroes.v1/skill/pick-lock"}
 
 Open a lock without using the key.
 
-#### Pick Pocket
+#### Pick Pocket {data-scc="mcdm.heroes.v1/skill/pick-pocket"}
 
 Steal an item that another person wears or carries without them noticing.
 
-#### Sabotage
+#### Sabotage {data-scc="mcdm.heroes.v1/skill/sabotage"}
 
 Disable a mechanical device such as a trap.
 
-#### Search
+#### Search {data-scc="mcdm.heroes.v1/skill/search"}
 
 Actively search an environment for important details and items.
 
-#### Sneak
+#### Sneak {data-scc="mcdm.heroes.v1/skill/sneak"}
 
 Move silently.
 
-#### Track
+#### Track {data-scc="mcdm.heroes.v1/skill/track"}
 
 Follow a trail that another creature has left behind.
 
@@ -359,51 +359,51 @@ Consequences for tests made with lore skills typically include learning an incor
 | Strategy            | Knowing about battle tactics and logistics                                                 |
 | Timescape           | Knowing about the many worlds of the timescape                                             |
 
-#### Criminal Underworld
+#### Criminal Underworld {data-scc="mcdm.heroes.v1/skill/criminal-underworld"}
 
 Knowing about criminal organizations, their crimes, their relationships, and their leaders.
 
-#### Culture
+#### Culture {data-scc="mcdm.heroes.v1/skill/culture"}
 
 Knowing about a culture's customs, folktales, and taboos.
 
-#### History
+#### History {data-scc="mcdm.heroes.v1/skill/history"}
 
 Knowing about significant past events.
 
-#### Magic
+#### Magic {data-scc="mcdm.heroes.v1/skill/magic"}
 
 Knowing about magical places, spells, rituals, items, and phenomena.
 
-#### Monsters
+#### Monsters {data-scc="mcdm.heroes.v1/skill/monsters"}
 
 Knowing monster ecology, strengths, and weaknesses.
 
-#### Nature
+#### Nature {data-scc="mcdm.heroes.v1/skill/nature"}
 
 Knowing about natural flora, fauna, and weather.
 
-#### Psionics
+#### Psionics {data-scc="mcdm.heroes.v1/skill/psionics"}
 
 Knowing about psionic places, spells, rituals, items, and phenomena.
 
-#### Religion
+#### Religion {data-scc="mcdm.heroes.v1/skill/religion"}
 
 Knowing about religious mythology, practices, and rituals.
 
-#### Rumors
+#### Rumors {data-scc="mcdm.heroes.v1/skill/rumors"}
 
 Knowing gossip, legends, and uncertain truths.
 
-#### Society
+#### Society {data-scc="mcdm.heroes.v1/skill/society"}
 
 Knowing noble etiquette and the leadership and power dynamics of noble families.
 
-#### Strategy
+#### Strategy {data-scc="mcdm.heroes.v1/skill/strategy"}
 
 Knowing about battle tactics and logistics.
 
-#### Timescape
+#### Timescape {data-scc="mcdm.heroes.v1/skill/timescape"}
 
 Knowing about the many worlds of the timescape.
 

@@ -20,14 +20,14 @@ Your [null tradition](../level-1/null-tradition.md) grants you a feature, as sho
 | Cryokinetic   | [Synaptic Triage](synaptic-triage.md)   |
 | Metakinetic   | [Inertial Dampener](inertial-dampener.md) |
 
-## Inertial Dampener
+## Inertial Dampener {data-scc="mcdm.heroes.v1/feature.trait.null.level-8/inertial-dampener"}
 
 You and each creature or object of your choice in the area of your [Null Field](../level-1/null-field.md) ability gain a bonus to stability equal to your Intuition score. A creature who attempts to [force move](../../../../movement/forced-movement.md) a target with this bonus takes psychic damage equal to your Intuition score.
 
-## Shared Momentum
+## Shared Momentum {data-scc="mcdm.heroes.v1/feature.trait.null.level-8/shared-momentum"}
 
 When you take the Disengage move action, one ally in the area of your [Null Field](../level-1/null-field.md) ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
 
-## Synaptic Triage
+## Synaptic Triage {data-scc="mcdm.heroes.v1/feature.trait.null.level-8/synaptic-triage"}
 
 As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null Field](../level-1/null-field.md) ability also gains this benefit.

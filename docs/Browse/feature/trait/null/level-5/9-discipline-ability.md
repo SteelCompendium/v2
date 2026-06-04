@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 9 discipline to use.
 
-## Anticipating Strike
+## Anticipating Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/anticipating-strike"}
 
 
 *You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
@@ -31,7 +31,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 
 **Effect:** This strike resolves before the triggering movement or main action.
 
-## Iron Grip
+## Iron Grip {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/iron-grip"}
 
 
 *You grab the target with supernatural force.*
@@ -48,7 +48,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 
 **Effect:** While [grabbed](../../../../condition/grabbed.md) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
-## Phase Leap
+## Phase Leap {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/phase-leap"}
 
 
 *You leap beyond reality, leaving an afterimage of yourself.*
@@ -59,7 +59,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 
 **Effect:** You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null Field](../level-1/null-field.md) ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
 
-## Synaptic Reset
+## Synaptic Reset {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/synaptic-reset"}
 
 
 *You expand your nullifying power to mitigate harmful effects.*

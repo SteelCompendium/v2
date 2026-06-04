@@ -10,23 +10,23 @@ type: kit
 
 With this stormwight kit, you channel your [primordial ferocity](../feature/trait/fury/level-10/primordial-ferocity.md) into the form of a bear, becoming large, durable, and imposing. [Boren](boren.md) are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
 
-## Aspect Benefits
+## Aspect Benefits {data-scc="mcdm.heroes.v1/feature.trait.fury.boren/aspect-benefits"}
 
 Whenever you use [forced movement](../movement/forced-movement.md) to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature [grabbed](../condition/grabbed.md) by you.
 
-## Animal Form: Bear
+## Animal Form: Bear {data-scc="mcdm.heroes.v1/feature.trait.fury.boren/animal-form-bear"}
 
 While you are in your bear form, your size is 2 and you gain a +1 bonus to distance with melee weapon abilities.
 
-## Hybrid Form: Bear
+## Hybrid Form: Bear {data-scc="mcdm.heroes.v1/feature.trait.fury.boren/hybrid-form-bear"}
 
 While you are in your hybrid form, your size is 2 and you gain a +1 bonus to distance with melee weapon abilities. At 4th level, the first time you take hybrid form in an encounter, you gain 10 temporary Stamina.
 
-## Primordial Storm: Blizzard
+## Primordial Storm: Blizzard {data-scc="mcdm.heroes.v1/feature.trait.fury.boren/primordial-storm-blizzard"}
 
 Your primordial damage type is cold.
 
-## Kit Bonuses
+## Kit Bonuses {data-scc="mcdm.heroes.v1/feature.trait.fury.boren/kit-bonuses"}
 
 - **Stamina Bonus:** +9 per echelon
 - **Stability Bonus:** +2
@@ -34,7 +34,7 @@ Your primordial damage type is cold.
 
 ## Signature Ability
 
-### Bear Claws
+### Bear Claws {data-scc="mcdm.heroes.v1/feature.ability.boren/bear-claws"}
 
 *Attacks with your sharp and deadly claws grab the weak.*
 
@@ -48,7 +48,7 @@ Your primordial damage type is cold.
 - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../condition/grabbed.md)
 - **17+:** 11 + M damage; M < STRONG, [grabbed](../condition/grabbed.md)
 
-## Growing Ferocity
+## Growing Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury.boren/growing-ferocity"}
 
 As your ferocity grows, you gain benefits as noted on the [Boren](boren.md) [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 

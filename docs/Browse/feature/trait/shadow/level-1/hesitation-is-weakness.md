@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Hesitation Is Weakness
+## Hesitation Is Weakness {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/hesitation-is-weakness"}
 
 
 *Keep up the attack. Never give them a moment's grace.*

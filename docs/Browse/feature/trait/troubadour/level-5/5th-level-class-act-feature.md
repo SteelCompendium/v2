@@ -12,7 +12,7 @@ type: trait
 
 Your [troubadour class act](../level-1/troubadour-class-act.md) grants your choice of one of two features.
 
-## Auteur Features
+## Auteur Features {data-scc="mcdm.heroes.v1/feature.trait.troubadour.level-5/auteur-features"}
 
 Choose one of the following features.
 
@@ -24,7 +24,7 @@ Once on each of your turns, you can use a free maneuver to change one condition 
 
 You have the following performance ability, which is usable with your [Routines](../level-1/routines.md) feature.
 
-### Take Two!
+### Take Two! {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/take-two"}
 
 
 *One more, and this time make it interesting.*
@@ -35,7 +35,7 @@ You have the following performance ability, which is usable with your [Routines]
 
 **Effect:** While this performance is active, each target who starts their turn in the area can reroll the first power roll that turn that obtains a tier 2 outcome. They must use the new roll.
 
-## Duelist Features
+## Duelist Features {data-scc="mcdm.heroes.v1/feature.trait.troubadour.level-5/duelist-features"}
 
 Choose one of the following features.
 
@@ -47,7 +47,7 @@ Once on each of your turns while the target of your Foil feature is adjacent to 
 
 You have the following performance ability, which is usable with your [Routines](../level-1/routines.md) feature.
 
-### We Can't Be Upstaged!
+### We Can't Be Upstaged! {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/we-cant-be-upstaged"}
 
 
 *Swordplay so graceful it looks like you all practiced this.*
@@ -58,7 +58,7 @@ You have the following performance ability, which is usable with your [Routines]
 
 **Effect:** While this performance is active, a target who starts their turn in the area gains a bonus to the distance they can [shift](../../../../movement/shifting.md) equal to your Presence score until the end of their turn.
 
-## Virtuoso Features
+## Virtuoso Features {data-scc="mcdm.heroes.v1/feature.trait.troubadour.level-5/virtuoso-features"}
 
 Choose one of the following features.
 

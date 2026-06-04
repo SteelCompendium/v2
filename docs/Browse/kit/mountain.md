@@ -28,7 +28,7 @@ You wear heavy armor and wield a heavy weapon.
 
 ## Signature Ability
 
-### Pain for Pain
+### Pain for Pain {data-scc="mcdm.heroes.v1/feature.ability.mountain/pain-for-pain"}
 
 *An enemy who tagged you will pay for that.*
 

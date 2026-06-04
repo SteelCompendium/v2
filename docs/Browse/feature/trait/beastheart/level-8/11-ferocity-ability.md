@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 11 ferocity to use.
 
-## Life-Drinking Wound
+## Life-Drinking Wound {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-8/life-drinking-wound"}
 
 *As your attack strikes home, your enemy's escaping life force drifts to your allies in crimson threads.*
 
@@ -28,7 +28,7 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 **Effect:** Up to three creatures within 2 squares of the target gain temporary Stamina equal to half the damage dealt.
 
-## On the Razor's Edge
+## On the Razor's Edge {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-8/on-the-razors-edge"}
 
 *Driven by the pain and desperation of battle, you and your companion spend your last strength in a flurry of wild attacks.*
 
@@ -44,7 +44,7 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 **Effect:** Your companion can use this ability against an adjacent target, making their own power roll. Both power rolls gain an edge if either of you is [bleeding](../../../../condition/bleeding.md), dying, or winded, and your power roll has a double edge if your companion is dead or otherwise unable to act.
 
-## Ride or Die
+## Ride or Die {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-8/ride-or-die"}
 
 *Your enemies might be stronger than you, but that's why you're not alone.*
 
@@ -54,7 +54,7 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 **Effect:** You and your companion each use a different ability that costs 9 or fewer ferocity and is either a main action or a maneuver. These abilities cost no ferocity. If an ability lets you spend additional ferocity for an enhanced effect, you can't do so.
 
-## Turn the World To Ash
+## Turn the World To Ash {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-8/turn-the-world-to-ash"}
 
 *Wrenching power from your primordial bond, you unleash elemental power in a devastating conflagration you can't control.*
 

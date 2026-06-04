@@ -19,7 +19,7 @@ Your wild nature grants you a maneuver, as shown on the Wild Nature Maneuvers ta
 | Punisher    | [Avalanche Rush](../../../ability/beastheart/level-1/avalanche-rush.md)       |
 | Spark       | [Jaws of the Storm](../../../ability/beastheart/level-1/jaws-of-the-storm.md) |
 
-### Avalanche Rush
+### Avalanche Rush {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/avalanche-rush"}
 
 *You ride a cascade of ice over your foes.*
 
@@ -33,7 +33,7 @@ You can move up to 3 squares before and after you use this ability. During this 
 
 **Spend 1 Ferocity:** If the target has M < STRONG, they are knocked [prone](../../../../condition/prone.md).
 
-### Jaws of the Storm
+### Jaws of the Storm {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/jaws-of-the-storm"}
 
 *Your foes are torn by a tempest of primordial teeth and claws.*
 
@@ -45,7 +45,7 @@ You can move up to 3 squares before and after you use this ability. During this 
 
 **Spend 1 Ferocity:** The size of the cube increases by 1.
 
-### Lightning Leap
+### Lightning Leap {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/lightning-leap"}
 
 *You summon a lightning bolt and ride it into battle.*
 
@@ -57,7 +57,7 @@ You can move up to 3 squares before and after you use this ability. During this 
 
 **Spend 1 Ferocity:** Your jump doesn't provoke opportunity attacks.
 
-### Living Arrow
+### Living Arrow {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/living-arrow"}
 
 *You point, and your companion appears.*
 

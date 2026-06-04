@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* [Hammer and Anvil](../../../ability/tactician/level-1/hammer-and-anvil.md).)
 
-## Hammer and Anvil
+## Hammer and Anvil {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/hammer-and-anvil"}
 
 
 *"Let's not argue about who's the hammer and who's the anvil!"*
@@ -29,7 +29,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 
 **Effect:** If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.
 
-## Mind Game
+## Mind Game {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/mind-game"}
 
 
 *Your attack demoralizes your foe. Your allies begin to think you can win.*
@@ -48,7 +48,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 
 **Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.
 
-## Now!
+## Now! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/now"}
 
 
 *Your allies wait for your command—then unleash death!*
@@ -59,7 +59,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 
 **Effect:** Each target can make a free strike.
 
-## This Is What We Planned For
+## This Is What We Planned For {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/this-is-what-we-planned-for"}
 
 
 *All those coordination drills you made them do finally pay off.*

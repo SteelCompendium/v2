@@ -10,23 +10,23 @@ type: kit
 
 With this stormwight kit, you channel your [primordial ferocity](../feature/trait/fury/level-10/primordial-ferocity.md) into the form of a rat, becoming mobile and elusive. [Raden](raden.md) are associated with the wild nature of the rat, before cities became their habitat. This aspect is associated with the rat flood—a surge of corrupted water that draws forth hordes of rats.
 
-## Aspect Benefits
+## Aspect Benefits {data-scc="mcdm.heroes.v1/feature.trait.fury.raden/aspect-benefits"}
 
 You gain an edge on tests made to hide and sneak. Additionally, you ignore [difficult terrain](../movement/difficult-terrain.md).
 
-## Animal Form: Rat
+## Animal Form: Rat {data-scc="mcdm.heroes.v1/feature.trait.fury.raden/animal-form-rat"}
 
 While you are in your rat form, your size is 1T and you can automatically climb at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to climb other creatures. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/aspect-of-the-wild.md).
 
-## Hybrid Form: Rat
+## Hybrid Form: Rat {data-scc="mcdm.heroes.v1/feature.trait.fury.raden/hybrid-form-rat"}
 
 While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically climb at full speed while moving.
 
-## Primordial Storm: Rat Flood
+## Primordial Storm: Rat Flood {data-scc="mcdm.heroes.v1/feature.trait.fury.raden/primordial-storm-rat-flood"}
 
 Your primordial damage type is corruption.
 
-## Kit Bonuses
+## Kit Bonuses {data-scc="mcdm.heroes.v1/feature.trait.fury.raden/kit-bonuses"}
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +3
@@ -35,7 +35,7 @@ Your primordial damage type is corruption.
 
 ## Signature Ability
 
-### Driving Pounce
+### Driving Pounce {data-scc="mcdm.heroes.v1/feature.ability.raden/driving-pounce"}
 
 *Your enemies try in vain to fall back from your pouncing attack.*
 
@@ -51,7 +51,7 @@ Your primordial damage type is corruption.
 
 **Effect:** You can [shift](../movement/shifting.md) up to the same number of squares that you pushed the target.
 
-## Growing Ferocity
+## Growing Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury.raden/growing-ferocity"}
 
 As your ferocity grows, you gain benefits as noted on the [Raden](raden.md) [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 

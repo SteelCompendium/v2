@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 9 focus to use.
 
-## Squad! Gear Check!
+## Squad! Gear Check! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-5/squad-gear-check"}
 
 
 *You distract a foe while your allies secure their defensive gear.*
@@ -29,7 +29,7 @@ Choose one heroic ability from the following options, each of which costs 9 focu
 
 **Effect:** You and each ally adjacent to the target gain 10 temporary Stamina.
 
-## Squad! Remember Your Training!
+## Squad! Remember Your Training! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-5/squad-remember-your-training"}
 
 
 *You remind your allies how to best use their gear.*
@@ -40,7 +40,7 @@ Choose one heroic ability from the following options, each of which costs 9 focu
 
 **Effect:** Each target gains 1 surge and can use a signature ability that has a double edge.
 
-## Win This Day!
+## Win This Day! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-5/win-this-day"}
 
 
 *You inspire your allies to recover and gather their strength.*
@@ -51,7 +51,7 @@ Choose one heroic ability from the following options, each of which costs 9 focu
 
 **Effect:** Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they [are prone](../../../../condition/prone.md).
 
-## You've Still Got Something Left
+## You've Still Got Something Left {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-5/youve-still-got-something-left"}
 
 
 *You push an ally to use a heroic ability sooner than they otherwise would.*

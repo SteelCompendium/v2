@@ -159,7 +159,7 @@ The Deities and Domains table and the Saints and Domains table summarize each of
 | Yllin Dyrvis                        | Knowledge, Nature             |
 | Zarok the Law-Giver                 | Protection, War               |
 
-### Val
+### Val {data-scc="mcdm.heroes.v1/god/val"}
 
 **Domains:** Creation, Knowledge, Life, Nature, Protection
 
@@ -227,7 +227,7 @@ Illwyv li Orchiax, the Moonknight, Marshall of the Gloaming, Manslayer. When [hu
 
 Illwyv it was who first realized the folly of treating with these creatures. A great hunter of the Quercus Court, she gathered her band of elite Helriath Harriers and made war on the [humans](../../Browse/ancestry/human.md) who would kill the wode.
 
-### Ord
+### Ord {data-scc="mcdm.heroes.v1/god/ord"}
 
 **Domains:** Creation, Knowledge, Protection, Sun, War
 
@@ -277,7 +277,7 @@ After the war, Stakros turned his [talents](../../Browse/class/talent.md) to pea
 
 Stakros teaches the value of knowledge for knowledge's sake, and the power of the mind to overcome any obstacle. He also teaches that knowledge is power, and in unready hands can only be dangerous.
 
-### Kul
+### Kul {data-scc="mcdm.heroes.v1/god/kul"}
 
 **Domains:** Knowledge, Life, Sun, Trickery, War
 
@@ -455,7 +455,7 @@ Like the other gods of the timescape, the Lords of Hell are too busy to attend t
 
 Like Orden, there are dozens of saints in Hell, some obscure. These three are some of the most popular and the most likely saints for a [conduit](../../Browse/class/conduit.md) or [censor](../../Browse/class/censor.md) to follow.
 
-#### Thellasko the Great Designer
+#### Thellasko the Great Designer {data-scc="mcdm.heroes.v1/god/thellasko"}
 
 **Domains:** Knowledge, War
 
@@ -529,7 +529,7 @@ Some of them take it more seriously than others though. People in the most dista
 
 Like all peoples of Orden, the people of Vasloria are well aware there are other gods. They do not particularly think their gods are *better*, just, "These are the local ones who matter to us." A priest of Cavall who journeyed far from Corwell and found themselves in the distant desert land Khemhara could still act as a [conduit](../../Browse/class/conduit.md) of Saint Llewellyn the Valiant, but they would look around the Heliopolis and see the animal-headed gods of the Khemharans and the astonishing feats of masonry and astronomy the Khemharans achieved and think: "Well. Obviously the gods of Vasloria aren't that big a deal here, but these gods certainly are!" The peoples of each region of Orden prefer their own gods because they understand them best, not because they think they are "more powerful."
 
-#### Adûn
+#### Adûn {data-scc="mcdm.heroes.v1/god/adun"}
 
 **Domains:** Creation, Life, Love, Protection
 
@@ -585,7 +585,7 @@ Fleeing across the bridge, the refugees found the body of Gryffyn, author of thi
 
 Saint Gryffyn the Stout teaches that despair is the enemy of action. That unyielding endurance is the cure for impossible odds. That more than sword and spell, hard work is the savior of the people.
 
-#### Cavall
+#### Cavall {data-scc="mcdm.heroes.v1/god/cavall"}
 
 **Domains:** Life, Love, Protection, War
 
@@ -681,7 +681,7 @@ Twelve days after they rode out, Zür returned with Lady Gwenllian's body on her
 
 Gwenllian is the saint of those who stand watch, of all those who must carry a burden ceaselessly. Gwenllian teaches that vigilance is its own reward.
 
-#### Salorna
+#### Salorna {data-scc="mcdm.heroes.v1/god/salorna"}
 
 **Domains:** Life, Nature, Storm, Sun
 
@@ -857,7 +857,7 @@ But most citizens of the timescape do not carry the gods with them in their dail
 
 The closest analog to worship in Orden to be found in the upper worlds would be in Alloy, the City at the Center of the Timescape. The great port city where civilizations across the timescape come to trade is also a city of temples. Temples to every god and saint and hero and herald in the timescape—some dead, some forgotten—can be found somewhere in the ancient city's limits. Folk from Orden arriving in Alloy (an incredibly rare event, as it takes enormous energies to lift one's ship up out of the slow-time of the lower words) remark at how familiar Alloy seems to them. It is a city where the upper and lower worlds mingle and steel sabers sometimes cross with swords made of hard light.
 
-#### Nebular the Star Mother
+#### Nebular the Star Mother {data-scc="mcdm.heroes.v1/god/nebular"}
 
 **Domains:** Creation, Life, Love, Sun
 
@@ -905,7 +905,7 @@ The [memonek](../../Browse/ancestry/memonek.md) officers and soldiers of UNISOL 
 
 Lady Magnetar is the Herald of Nebulon the Star Mother aiding those who fight in the cause of light and life and order. She is invoked whenever a great sacrifice must be made. "Lady Magnetar, let my sacrifice not be in vain."
 
-#### OV the Wave Pilot
+#### OV the Wave Pilot {data-scc="mcdm.heroes.v1/god/ov"}
 
 **Domains:** Fate, Knowledge, Storm, Sun
 

@@ -16,7 +16,7 @@ Your wild nature grants your choice of one of two heroic abilities.
 
 Choose one of the following abilities.
 
-### Banshee Howl
+### Banshee Howl {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/banshee-howl"}
 
 *Your companion's howl, screech, roar, or psychic emanation presages death to those who hear it.*
 
@@ -34,7 +34,7 @@ Choose one of the following abilities.
 
 **Spend 1 Ferocity:** This ability also affects a 3 burst originating from you. An enemy in both areas is only affected once.
 
-### Relentless
+### Relentless {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/relentless"}
 
 *Your companion launches at your foe, shielding allies with their body.*
 
@@ -54,7 +54,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Behold the Face of Chaos
+### Behold the Face of Chaos {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/behold-the-face-of-chaos"}
 
 *Your companion appears next to their victim in the guise of a heart-stopping nightmare.*
 
@@ -70,7 +70,7 @@ Choose one of the following abilities.
 - **12-16:** 20 + I psychic damage; P < AVERAGE [frightened](../../../../condition/frightened.md) (save ends)
 - **17+:** 27 + I psychic damage; P < STRONG [frightened](../../../../condition/frightened.md) (save ends)
 
-### Let's Take This Outside
+### Let's Take This Outside {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/lets-take-this-outside"}
 
 *Your companion drags your chosen foe into storms of the Primordial Plane.*
 
@@ -88,7 +88,7 @@ The effect ends when one of you dies or you end it as a free maneuver. The targe
 
 Choose one of the following abilities.
 
-### Battle Frenzy
+### Battle Frenzy {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/battle-frenzy"}
 
 *Your companion shatters the floodgates that keep their rampage dammed up, and it cascades into the unprepared minds of nearby creatures.*
 
@@ -108,7 +108,7 @@ Choose one of the following abilities.
 
 A battle-frenzied creature must use a free triggered action to make a melee free strike against themself or a creature adjacent to them. You choose each creature's target. After making this strike, they are no longer battle frenzied.
 
-### Juggernaut
+### Juggernaut {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/juggernaut"}
 
 *Your companion plows through the front lines, tossing enemies—and allies—this way and that.*
 
@@ -128,7 +128,7 @@ A battle-frenzied creature must use a free triggered action to make a melee free
 
 Choose one of the following abilities.
 
-### For the Pack!
+### For the Pack! {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/for-the-pack"}
 
 *They'd tell stories in hushed tones of your companion's last stand—if any of them lived to tell the tale.*
 
@@ -148,7 +148,7 @@ Choose one of the following abilities.
 
 **Effect:** Your companion dies. If you are dead and in the area, you are restored to life with 1 Stamina. You and each ally in the area can spend up to 2 Recoveries.
 
-### Wild Hunt
+### Wild Hunt {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-9/wild-hunt"}
 
 *Your companion summons a ravening pack of spectral ancestors to devour your foes.*
 

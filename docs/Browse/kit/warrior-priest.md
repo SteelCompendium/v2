@@ -31,7 +31,7 @@ You wear heavy armor and wield a light weapon.
 
 ## Signature Ability
 
-### Weakening Brand
+### Weakening Brand {data-scc="mcdm.heroes.v1/feature.ability.warrior-priest/weakening-brand"}
 
 *The impact of your weapon brands your target for destruction.*
 

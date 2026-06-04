@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Dramatic Monologue
+## Dramatic Monologue {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-monologue"}
 
 
 *It doesn't need to make sense. Just say it with emotion.*

@@ -37,7 +37,7 @@ You wear light armor and wield a shield and a light weapon.
 
 ## Signature Ability
 
-### Raider's Awe
+### Raider's Awe {data-scc="mcdm.heroes.v1/feature.ability.raider/raiders-awe"}
 
 *You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../feature/trait/tactician/level-7/shock-and-awe.md)")*
 

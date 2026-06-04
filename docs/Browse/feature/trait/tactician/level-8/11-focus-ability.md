@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 11 focus to use.
 
-## Go Now and Speed Well
+## Go Now and Speed Well {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-8/go-now-and-speed-well"}
 
 
 *You direct an attack to strike true.*
@@ -23,7 +23,7 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 
 **Effect:** The target gains 2 surges and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.
 
-## Finish Them!
+## Finish Them! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-8/finish-them"}
 
 
 *You point out an opening to your ally so they can land a killing blow.*
@@ -36,7 +36,7 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 
 **Effect:** The target is killed. Additionally, the creature who caused the target to be winded can spend a Recovery.
 
-## Floodgates Open
+## Floodgates Open {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-8/floodgates-open"}
 
 
 *You direct your squad to strike in unison and with devastating effect.*
@@ -47,7 +47,7 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 
 **Effect:** Each target gains 1 surge and can use a signature ability as a free triggered action. That ability gains an edge on the power roll and increases the potency of any potency effects by 1.
 
-## I'll Open and You'll Close
+## I'll Open and You'll Close {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-8/ill-open-and-youll-close"}
 
 
 *You create an opening for an ally.*

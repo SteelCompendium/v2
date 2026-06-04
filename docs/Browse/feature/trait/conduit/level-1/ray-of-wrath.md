@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability, which can be used as a ranged free strike.
 
-## Ray of Wrath
+## Ray of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/ray-of-wrath"}
 
 
 *You unleash a blast of holy light upon your foe.*

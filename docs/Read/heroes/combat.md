@@ -154,7 +154,7 @@ A single move or other effect can never allow a creature to move more squares th
 
 A creature can't move diagonally when doing so would involve passing through the corner of a wall or some other object that completely fills the corner between the creature's space and the space they are moving to. This rule applies only to moving past objects, not moving past other creatures.
 
-#### Shifting
+#### Shifting {data-scc="mcdm.heroes.v1/movement/shifting"}
 
 [Shifting](../../Browse/movement/shifting.md) is a careful form of movement that allows a creature to move safely past dangerous foes. Certain abilities, features, and other rules allow you to [shift](../../Browse/movement/shifting.md) a specific number of squares, sometimes up to your speed. Whenever you [shift](../../Browse/movement/shifting.md), creatures can't make opportunity attacks against you triggered by that movement (see Opportunity Attacks later in this chapter).
 
@@ -164,11 +164,11 @@ You can't [shift](../../Browse/movement/shifting.md) into or while within [diffi
 
 Creatures in the game can use eight types of movement: walk, [burrow](../../Browse/movement/burrow.md), climb, swim, jump, [crawl](../../Browse/movement/crawl.md), [fly](../../Browse/movement/fly.md), and [teleport](../../Browse/movement/teleport.md).
 
-##### Walk
+##### Walk {data-scc="mcdm.heroes.v1/movement/walk"}
 
 Walking is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
 
-##### Burrow
+##### Burrow {data-scc="mcdm.heroes.v1/movement/burrow"}
 
 A creature who has "[burrow](../../Browse/movement/burrow.md)" in their speed entry, or who gains the temporary ability to [burrow](../../Browse/movement/burrow.md), can move through dirt horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block or the effect that lets them [burrow](../../Browse/movement/burrow.md) says otherwise. Similarly, a [burrowing](../../Browse/movement/burrow.md) creature doesn't leave a tunnel unless the rules say so.
 
@@ -194,7 +194,7 @@ If you are on the ground and adjacent to a creature who is beneath the ground wh
 
 If a creature who can't [burrow](../../Browse/movement/burrow.md) wants to dig into the ground, they can use the following ability provided their speed is 2 or more.
 
-###### Claw Dirt
+###### Claw Dirt {data-scc="mcdm.heroes.v1/feature.ability.common/claw-dirt"}
 
 | **-**       | **Maneuver** |
 |-------------|-------------:|
@@ -210,7 +210,7 @@ If a creature who can't [burrow](../../Browse/movement/burrow.md) wants to dig i
 
 While a creature who is completely beneath the ground while [burrowing](../../Browse/movement/burrow.md) is force moved by movement that isn't vertical, they aren't moved, and they take 1 damage for each square they would have been force moved. If the [forced movement](../../Browse/movement/forced-movement.md) is vertical, the creature is moved through the dirt as if it were air.
 
-##### Climb or Swim
+##### Climb or Swim {data-scc="mcdm.heroes.v1/movement/climb-or-swim"}
 
 A creature who has "climb" in their speed entry, or who gains the temporary ability to automatically climb, can climb across vertical and horizontal surfaces at full speed. Likewise, a creature who has "swim" in their speed entry, or who gains the temporary ability to automatically swim, can swim in liquid at full speed.
 
@@ -236,7 +236,7 @@ While you climb or ride a creature, you gain an edge on melee abilities used aga
 
 If you are [knocked prone](../../Browse/condition/prone.md) while climbing or riding a creature, you fall and l[and prone](../../Browse/condition/prone.md) in an adjacent space of your choice, taking damage as usual from the fall.
 
-##### Jump
+##### Jump {data-scc="mcdm.heroes.v1/movement/jump"}
 
 Whenever an effect allows you to move (including using the Advance move action), you can automatically long jump a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your jump is automatically 1 square as part of that movement.
 
@@ -250,19 +250,19 @@ If you want to jump even longer or higher than your baseline jump allows, make a
 
 You can't jump farther or higher than the distance of the effect that allows you to move. You can't jump out of [difficult terrain](../../Browse/movement/difficult-terrain.md) or [damaging terrain](../../Browse/movement/damaging-terrain.md) (see below).
 
-##### Crawl
+##### Crawl {data-scc="mcdm.heroes.v1/movement/crawl"}
 
 If you [are prone](../../Browse/condition/prone.md) (see Conditions in Chapter 5: [Classes](classes.md)), you can remain prone and [crawl](../../Browse/movement/crawl.md) on the ground. Doing so costs you 1 additional square of movement for every square you [crawl](../../Browse/movement/crawl.md). If you intentionally want to [crawl](../../Browse/movement/crawl.md), you can [fall prone](../../Browse/condition/prone.md) as a free maneuver. While voluntarily prone, you can choose to stand as a free maneuver.
 
-##### Fly
+##### Fly {data-scc="mcdm.heroes.v1/movement/fly"}
 
 A creature who has "[fly](../../Browse/movement/fly.md)" in their speed entry, or who gains the temporary ability to [fly](../../Browse/movement/fly.md), can move through the air vertically or horizontally at full speed and remain in midair. If a [flying](../../Browse/movement/fly.md) creature is [knocked prone](../../Browse/condition/prone.md) or has their speed reduced to 0, they fall (see Falling below).
 
-##### Hover
+##### Hover {data-scc="mcdm.heroes.v1/movement/hover"}
 
 A creature who has "[hover](../../Browse/movement/hover.md)" in their speed entry (most commonly alongside "[fly](../../Browse/movement/fly.md)" or "[teleport](../../Browse/movement/teleport.md)"), or who gains the temporary ability to [hover](../../Browse/movement/hover.md), can remain motionless in midair. They don't fall even if they are [knocked prone](../../Browse/condition/prone.md) or their speed is reduced to 0.
 
-##### Teleport
+##### Teleport {data-scc="mcdm.heroes.v1/movement/teleport"}
 
 When a creature [teleports](../../Browse/movement/teleport.md), they move from one space to another space instantaneously. The following rules apply to [teleporting](../../Browse/movement/teleport.md):
 
@@ -290,21 +290,21 @@ A creature who falls and lands on another creature causes that creature to take 
 
 When a creature first falls from a great height, they fall 100 squares in the first round. At the end of each subsequent round that they remain falling, they fall another 100 squares.
 
-#### Difficult Terrain
+#### Difficult Terrain {data-scc="mcdm.heroes.v1/movement/difficult-terrain"}
 
 Areas of thick underbrush, rubble, spiderwebs, or other obstacles to movement create [difficult terrain](../../Browse/movement/difficult-terrain.md). It costs 1 additional square of movement to enter a square of [difficult terrain](../../Browse/movement/difficult-terrain.md).
 
-#### Damaging Terrain
+#### Damaging Terrain {data-scc="mcdm.heroes.v1/movement/damaging-terrain"}
 
 Areas of acid, fire, sharp rocks, lava, or any other terrain that causes damage to creatures within it is [damaging terrain](../../Browse/movement/damaging-terrain.md). The damage dealt by [damaging terrain](../../Browse/movement/damaging-terrain.md) is noted in the terrain's description or in the description of the effect that creates the terrain.
 
-#### High Ground
+#### High Ground {data-scc="mcdm.heroes.v1/movement/high-ground"}
 
 Whenever a creature uses an ability to target a creature or object while standing on the ground and occupying a space that is fully above the target's space, they gain an edge on the power roll against that target. To be fully above a target, the bottom of a creature's space must be higher than or bordering on the top of the target's space.
 
 A creature can gain this benefit while climbing only if they have "climb" in their speed entry or can automatically climb at full speed while moving.
 
-#### Forced Movement
+#### Forced Movement {data-scc="mcdm.heroes.v1/movement/forced-movement"}
 
 Some actions and maneuvers allow a creature to push, pull, or slide a target creature or object a specific distance across the battlefield. Collectively, these types of movement are called [forced movement](../../Browse/movement/forced-movement.md).
 
@@ -391,15 +391,15 @@ Some creatures have traits or abilities that trigger when they die or are reduce
 
 A move action allows a creature to move around the battlefield. Sometimes you'll already be exactly where you want to be so that you don't need to use a move action on your turn. That's okay! The decision to not move is just as tactical as the decision to move.
 
-#### Advance
+#### Advance {data-scc="mcdm.heroes.v1/feature.trait.common.move-actions/advance"}
 
 When a creature takes the Advance move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.
 
-#### Disengage
+#### Disengage {data-scc="mcdm.heroes.v1/feature.trait.common.move-actions/disengage"}
 
 When a creature takes the Disengage move action, they can [shift](../../Browse/movement/shifting.md) 1 square. Certain class features, kits, and other rules allow a creature to [shift](../../Browse/movement/shifting.md) more than 1 square when they disengage. A creature who does so can break up their [shift](../../Browse/movement/shifting.md) with their maneuver and main action however they wish.
 
-#### Ride
+#### Ride {data-scc="mcdm.heroes.v1/feature.trait.common.move-actions/ride"}
 
 A creature can take the Ride move action only while mounted on another creature (see Mounted Combat below). When a creature takes the Ride move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the Ride move action to have their mount use the Disengage move action as a free triggered action. A creature can use the Ride move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
 
@@ -409,21 +409,21 @@ A maneuver typically involves less focus and exertion than a main action (see be
 
 Sometimes you might not have anything you can do with your maneuver. That's totally fine! Often, the best thing to do on your turn is take a main action and move on.
 
-#### Aid Attack
+#### Aid Attack {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/aid-attack"}
 
 A creature who uses the Aid Attack maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an edge.
 
-#### Catch Breath
+#### Catch Breath {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/catch-breath"}
 
 A creature who uses the Catch Breath maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for Stamina. See Recoveries in Chapter 1: [The Basics](the-basics.md).)
 
 A creature who is dying (see Dying and Death in Stamina below) can't use the Catch Breath maneuver, but other creatures can help them spend Recoveries in other ways.
 
-#### Escape Grab
+#### Escape Grab {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/escape-grab"}
 
 A creature who is [grabbed](../../Browse/condition/grabbed.md) by another creature, an object, or an effect (see Grab below) can attempt to escape by using the following ability.
 
-##### Escape Grab
+##### Escape Grab {data-scc="mcdm.heroes.v1/feature.ability.common.maneuvers/escape-grab"}
 
 
 | **-**       | **Maneuver** |
@@ -440,11 +440,11 @@ A creature who is [grabbed](../../Browse/condition/grabbed.md) by another creatu
 
 See Conditions in Chapter 5: [Classes](classes.md) for information on the [grabbed](../../Browse/condition/grabbed.md) condition.
 
-#### Grab
+#### Grab {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/grab"}
 
 A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.
 
-##### Grab
+##### Grab {data-scc="mcdm.heroes.v1/feature.ability.common.maneuvers/grab"}
 
 
 | **Melee, Weapon** |        **Maneuver** |
@@ -463,15 +463,15 @@ Unless otherwise indicated, a creature can grab only one creature at a time.
 
 See Conditions in Chapter 5: [Classes](classes.md) for information on the [grabbed](../../Browse/condition/grabbed.md) condition.
 
-#### Hide
+#### Hide {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/hide"}
 
 Using the Hide maneuver, a creature attempts to hide from other creatures who aren't observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: [Tests](tests.md) for full details.
 
-#### Knockback
+#### Knockback {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/knockback"}
 
 A creature wanting to push an adjacent creature away from them can attempt to shove that creature using the following ability.
 
-##### Knockback
+##### Knockback {data-scc="mcdm.heroes.v1/feature.ability.common.maneuvers/knockback"}
 
 
 | **Melee, Weapon** |        **Maneuver** |
@@ -486,21 +486,21 @@ A creature wanting to push an adjacent creature away from them can attempt to sh
 
 **Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
 
-#### Make or Assist a Test
+#### Make or Assist a Test {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/make-or-assist-a-test"}
 
 Many tests are maneuvers if made in combat. Searching a chest with a Reason test, picking a door's lock with an Agility test, or lifting a portcullis with a Might test would all be maneuvers. Assisting a test is also a maneuver in combat (see Assist a Test in Chapter 9: [Tests](tests.md)).
 
 Complex or time-consuming tests might require a main action if made in combat—or could take so long that they can't be made during combat at all. Other tests that take no time at all, such as a Reason test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.
 
-#### Search for Hidden Creatures
+#### Search for Hidden Creatures {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/search-for-hidden-creatures"}
 
 The Search for Hidden Creatures maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: [Tests](tests.md)).
 
-#### Stand Up
+#### Stand Up {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/stand-up"}
 
 A creature can use the Stand Up maneuver to stand up if they [are prone](../../Browse/condition/prone.md), ending that condition. Alternatively, they can use this maneuver to make a willing adjacent prone creature stand up.
 
-#### Use Consumable
+#### Use Consumable {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/use-consumable"}
 
 Unless otherwise noted in its description, a creature can activate a consumable treasure such as a potion with the Use Consumable maneuver. A creature can use this maneuver to administer a consumable treasure that benefits the user either to themself or to a willing adjacent creature. See Consumables in Chapter 13: [Rewards](rewards.md).
 
@@ -512,21 +512,21 @@ You can also use your main action to help another creature regain Stamina, charg
 
 You can convert your main action into a maneuver or a move action, allowing you to [take two](../../Browse/feature/ability/troubadour/level-5/take-two.md) maneuvers or move actions on your turn.
 
-#### Charge
+#### Charge {data-scc="mcdm.heroes.v1/feature.trait.common.main-actions/charge"}
 
 When a creature takes the Charge main action, they move up to their speed in a straight line, then make a melee free strike (see Free Strikes below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a free strike.
 
 A creature can't move through [difficult terrain](../../Browse/movement/difficult-terrain.md) or [shift](../../Browse/movement/shifting.md) when they charge. They can [fly](../../Browse/movement/fly.md) or [burrow](../../Browse/movement/burrow.md) as part of the Charge main action if they have that movement available to them, but they can't climb or swim while charging unless they can automatically use that movement at full speed.
 
-#### Defend
+#### Defend {data-scc="mcdm.heroes.v1/feature.trait.common.main-actions/defend"}
 
 When a creature takes the Defend main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](../../Browse/condition/taunted.md) by them (see Conditions in Chapter 5: [Classes](classes.md)).
 
-#### Free Strike
+#### Free Strike {data-scc="mcdm.heroes.v1/feature.trait.common.main-actions/free-strike"}
 
 A creature can use this main action to make a free strike (see Free  Strikes below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but free strikes are available for when all else fails. For instance, a [fury](../../Browse/class/fury.md) who has no other options for ranged strikes might use the Ranged Weapon Free Strike ability with an improvised weapon when battling a [flying](../../Browse/movement/fly.md) foe.
 
-#### Heal
+#### Heal {data-scc="mcdm.heroes.v1/feature.trait.common.main-actions/heal"}
 
 A creature who uses the Heal main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.
 
@@ -552,7 +552,7 @@ Every hero has two standard free strike abilities available to them. Your class 
 
 A melee weapon free strike is a melee strike made with an unarmed strike or an improvised weapon. A ranged weapon free strike is a ranged strike made with an improvised weapon. At the Director's discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage when used for a free strike.
 
-###### Melee Weapon Free Strike
+###### Melee Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common.free-strikes/melee-weapon-free-strike-combat"}
 
 | **Charge, Melee, Stike, Weapon** |               **Main action** |
 | -------------------------------- | -----------------------------:|
@@ -564,7 +564,7 @@ A melee weapon free strike is a melee strike made with an unarmed strike or an i
 - **12-16:** 5 + M or A damage
 - **17+:** 7 + M or A damage
 
-###### Ranged Weapon Free Strike
+###### Ranged Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common.free-strikes/ranged-weapon-free-strike-combat"}
 
 | **Ranged, Stike, Weapon** |               **Main action** |
 |---------------------------| -----------------------------:|

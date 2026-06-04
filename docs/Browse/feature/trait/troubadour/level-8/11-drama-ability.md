@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 11 drama to use.
 
-## Dramatic Reveal
+## Dramatic Reveal {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/dramatic-reveal"}
 
 
 *A little stage trickery, and where once stood a foe, now stands a friend!*
@@ -23,7 +23,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 
 **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../../../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../../../movement/teleport.md)ed ally can then make a melee free strike.
 
-## Power Ballad
+## Power Ballad {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/power-ballad"}
 
 
 *A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.*
@@ -34,7 +34,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 
 **Effect:** Until the end of the encounter, whenever the target takes damage while winded, they can use a free triggered action to deal half the damage they took to the source of the damage.
 
-## Saved in the Edit
+## Saved in the Edit {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/saved-in-the-edit"}
 
 
 *You shout a word of power that allows you to rewrite reality to your whims.*
@@ -50,7 +50,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 - The target has a bonus to stability and a penalty to speed equal to your Presence score.
 - The target has a bonus to speed and a penalty to stability equal to your Presence score.
 
-## The Show Must Go On
+## The Show Must Go On {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/the-show-must-go-on"}
 
 
 *You shine a bright light on the players on the stage and compel them to finish the performance.*

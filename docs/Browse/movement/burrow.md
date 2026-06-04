@@ -32,7 +32,7 @@ If you are on the ground and adjacent to a creature who is beneath the ground wh
 
 If a creature who can't [burrow](burrow.md) wants to dig into the ground, they can use the following ability provided their speed is 2 or more.
 
-## Claw Dirt
+## Claw Dirt {data-scc="mcdm.heroes.v1/feature.ability.common/claw-dirt"}
 
 | **-**       | **Maneuver** |
 |-------------|-------------:|

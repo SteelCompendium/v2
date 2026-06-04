@@ -16,7 +16,7 @@ You specialize in dealing massive damage on the battlefield, and have mastered u
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../../../ability/fury/level-1/to-the-death.md)!)
 
-### Brutal Slam
+### Brutal Slam {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/brutal-slam"}
 
 
 *The heavy impact of your weapon attacks drives your foes ever back.*
@@ -31,7 +31,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 6 + M damage; push 2
 - **17+:** 9 + M damage; push 4
 
-### Hit and Run
+### Hit and Run {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/hit-and-run"}
 
 
 *Staying in constant motion helps you slip out of reach after a brutal assault.*
@@ -48,7 +48,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** You can [shift](../../../../movement/shifting.md) 1 square.
 
-### Impaled!
+### Impaled! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/impaled"}
 
 
 *You skewer your enemy like a boar upon a spit.*
@@ -63,7 +63,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
 - **17+:** 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
 
-### To the Death!
+### To the Death! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/to-the-death"}
 
 
 *Your reckless assault leaves you tactically vulnerable.*
@@ -88,7 +88,7 @@ You fight with an array of heroic abilities, all of which cost ferocity to fuel 
 
 Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
 
-### Back!
+### Back! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/back"}
 
 
 *You hew about you with your mighty weapon, hurling enemies backward.*
@@ -103,7 +103,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 - **12-16:** 8 damage; push 1
 - **17+:** 11 damage; push 3
 
-### Out of the Way!
+### Out of the Way! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/out-of-the-way"}
 
 
 *Your enemies will clear your path—whether they want to or not.*
@@ -120,7 +120,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 **Effect:** When you slide the target, you can move into any square they leave. If you take damage from an opportunity attack by moving this way, the target takes the same damage.
 
-### Tide of Death
+### Tide of Death {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/tide-of-death"}
 
 
 *Teach them the folly of lining up for you.*
@@ -139,7 +139,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 **Effect:** The last target you damage takes extra damage equal to your Might score for each opportunity attack you trigger during your move.
 
-### Your Entrails Are Your Extrails!
+### Your Entrails Are Your Extrails! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/your-entrails-are-your-extrails"}
 
 
 *Hard for them to fight when they're busy holding in their giblets.*
@@ -160,7 +160,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](../../../ability/fury/level-1/blood-for-blood.md)!)
 
-### Blood for Blood!
+### Blood for Blood! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/blood-for-blood"}
 
 
 *See how well they fight after you've bled them dry.*
@@ -177,7 +177,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 **Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 
-### Make Peace With Your God!
+### Make Peace With Your God! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/make-peace-with-your-god"}
 
 
 *Anger is your energy.*
@@ -188,7 +188,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 **Effect:** You gain 1 surge, and the next ability roll you make this turn automatically obtains a tier 3 outcome.
 
-### Thunder Roar
+### Thunder Roar {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/thunder-roar"}
 
 
 *You unleash a howl that hurls your enemies back.*
@@ -205,7 +205,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 **Effect:** The targets are [force moved](../../../../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 
-### To the Uttermost End
+### To the Uttermost End {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/to-the-uttermost-end"}
 
 
 *You gut your life force to ensure a foe's demise.*

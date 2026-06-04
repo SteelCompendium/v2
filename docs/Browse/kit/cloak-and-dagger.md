@@ -37,7 +37,7 @@ You wear light armor and wield one or two light weapons.
 
 ## Signature Ability
 
-### Fade
+### Fade {data-scc="mcdm.heroes.v1/feature.ability.cloak-and-dagger/fade"}
 
 *A stab, and a few quick, careful steps back.*
 

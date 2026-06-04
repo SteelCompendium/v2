@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## I'm No Threat
+## I'm No Threat {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/im-no-threat"}
 
 
 *Taking on an illusory countenance gives you an advantage on [subterfuge](../level-10/subterfuge.md).*

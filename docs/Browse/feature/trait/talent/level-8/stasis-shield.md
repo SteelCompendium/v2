@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Stasis Shield
+## Stasis Shield {data-scc="mcdm.heroes.v1/feature.ability.talent.level-8/stasis-shield"}
 
 
 *You freeze time just long enough to bring the victim to safety!*

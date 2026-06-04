@@ -10,23 +10,23 @@ type: kit
 
 With this stormwight kit, you channel your [primordial ferocity](../feature/trait/fury/level-10/primordial-ferocity.md) into the form of a wolf, becoming a fleet-footed hunter. [Vuken](vuken.md) are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
 
-## Aspect Benefits
+## Aspect Benefits {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/aspect-benefits"}
 
 Whenever you use the Knockback maneuver, you can then use the Aid Attack maneuver as a free triggered action.
 
-## Animal Form: Wolf
+## Animal Form: Wolf {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/animal-form-wolf"}
 
 While you are in your wolf form, your size is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../movement/difficult-terrain.md).
 
-## Hybrid Form: Wolf
+## Hybrid Form: Wolf {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/hybrid-form-wolf"}
 
 While you are in your hybrid form, your size is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../movement/difficult-terrain.md). At 4th level, the first time you take hybrid form in an encounter, you gain 10 temporary Stamina.
 
-## Primordial Storm: Lightning Storm
+## Primordial Storm: Lightning Storm {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/primordial-storm-lightning-storm"}
 
 Your primordial damage type is lightning.
 
-## Kit Bonuses
+## Kit Bonuses {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/kit-bonuses"}
 
 - **Stamina Bonus:** +9 per echelon
 - **Speed Bonus:** +2
@@ -35,7 +35,7 @@ Your primordial damage type is lightning.
 
 ## Signature Ability
 
-### Unbalancing Attack
+### Unbalancing Attack {data-scc="mcdm.heroes.v1/feature.ability.vuken/unbalancing-attack"}
 
 *A wild assault forces your foe onto their back.*
 
@@ -49,7 +49,7 @@ Your primordial damage type is lightning.
 - **12-16:** 7 + M damage; A < AVERAGE[, prone](../condition/prone.md)
 - **17+:** 9 + M damage; A < STRONG[, prone](../condition/prone.md)
 
-## Growing Ferocity
+## Growing Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/growing-ferocity"}
 
 As your ferocity grows, you gain benefits as noted on the [Vuken](vuken.md) [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 

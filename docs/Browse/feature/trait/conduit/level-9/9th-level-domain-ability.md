@@ -29,7 +29,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | Trickery   | [Night Falls](../../../ability/conduit/level-9/night-falls.md)              |
 | War        | [Righteous Phalanx](../../../ability/conduit/level-9/righteous-phalanx.md)        |
 
-### Alacrity of the Heart
+### Alacrity of the Heart {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/alacrity-of-the-heart"}
 
 
 *You speak inspiring words to a friend and spur them to incredible feats.*
@@ -40,7 +40,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.
 
-### Bend Fate
+### Bend Fate {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/bend-fate"}
 
 
 *The gods know you must prevail, and they bless your fate.*
@@ -51,7 +51,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the end of the encounter or until you are dying, each of the target's power rolls has its outcome improved by one tier.
 
-### Blessing of the Fortress
+### Blessing of the Fortress {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/blessing-of-the-fortress"}
 
 
 *A magic circle extends out from you, barring foes from getting close.*
@@ -62,7 +62,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you by moving or by being [force moved](../../../../movement/forced-movement.md) by any enemy. Targets can be [force moved](../../../../movement/forced-movement.md) closer to you by you or your allies, or can move closer because of your movement.
 
-### Divine Dragon
+### Divine Dragon {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/divine-dragon"}
 
 
 *From nothing but divine will, you create a powerful ally.*
@@ -89,7 +89,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 - **12-16:** 5 + I damage
 - **17+:** 8 + I damage
 
-### Godstorm
+### Godstorm {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/godstorm"}
 
 
 *You summon a divine storm that remains under your control.*
@@ -106,7 +106,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 **Effect:** A raging storm fills the area until the end of the encounter or until you are dying. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.
 
-### Night Falls
+### Night Falls {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/night-falls"}
 
 
 *You summon darkness that thwarts only your foes.*
@@ -117,7 +117,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 **Effect:** Until the end of the encounter or until you are dying, the area is filled with magic darkness that your enemies can't see through, but you and your allies can.
 
-### Radiance of Grace
+### Radiance of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/radiance-of-grace"}
 
 
 *Intense light is emitted from your body, healing your allies.*
@@ -128,7 +128,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 **Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../../../../condition/prone.md).
 
-### Righteous Phalanx
+### Righteous Phalanx {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/righteous-phalanx"}
 
 
 *A wall of spinning swords and knives appears where you wish.*
@@ -139,7 +139,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 **Effect:** The wall lasts until the end of the encounter or until you are dying, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 15 damage.
 
-### Solar Flare
+### Solar Flare {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/solar-flare"}
 
 
 *You call down a sphere of fire that burns your foes to ash.*
@@ -154,7 +154,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 - **12-16:** 14 fire damage
 - **17+:** 19 fire damage
 
-### Thorn Cage
+### Thorn Cage {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/thorn-cage"}
 
 
 *Vines burst forth from the ground and bind your foe, slowly closing around them.*
@@ -171,7 +171,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 **Effect:** While [restrained](../../../../condition/restrained.md) this way, the target takes 10 damage at the start of each of your turns.
 
-### Word of Final Redemption
+### Word of Final Redemption {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/word-of-final-redemption"}
 
 
 *Your death will fuel our victory.*
@@ -184,7 +184,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 **Effect:** Before the target dies, you can look at their stat block and force them to use one ability that is a main action or a maneuver. If the ability costs a Heroic Resource or Malice, the creature can use it without any cost. For the purpose of using this ability, your allies and enemies are the target's allies and enemies, and you decide who the ability targets.
 
-### Word of Weakening
+### Word of Weakening {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/word-of-weakening"}
 
 
 *You utter a divine word that makes a foe brittle.*

@@ -12,7 +12,7 @@ type: trait
 
 You project a psionic field of order around your body, dampening the effects of supernatural abilities harmful to you and your allies.
 
-## Null Field
+## Null Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/null-field"}
 
 
 *You project an aura that dampens the power of your foes.*

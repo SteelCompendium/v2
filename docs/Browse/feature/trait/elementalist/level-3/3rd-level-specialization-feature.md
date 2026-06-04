@@ -21,19 +21,19 @@ Your [elemental specialization](../level-1/elemental-specialization.md) grants y
 | Green          | [Remember Growth and Sun and Rain](../../../ability/elementalist/level-3/remember-growth-and-sun-and-rain.md) |
 | Void           | [Distance Is Only Memory](distance-is-only-memory.md)          |
 
-## A Conversation With Fire
+## A Conversation With Fire {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-3/a-conversation-with-fire"}
 
 When you spend 1 uninterrupted minute in front of a fire, you can speak the name of another creature. If that creature is willing to speak to you, their image appears in the fire, and they can see you before them in a shimmering ball of light. The two of you can speak to each other through these images as if you were together in person. As a maneuver, you or the creature can end the conversation.
 
-## Distance Is Only Memory
+## Distance Is Only Memory {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-3/distance-is-only-memory"}
 
 Each time you finish a respite, you can open a two-way portal that leads to any place you have previously been. You and your allies can pass through the portal, which remains open for 1 hour or until you dismiss it as a main action.
 
-## Earth Accepts Me
+## Earth Accepts Me {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-3/earth-accepts-me"}
 
 You have the following ability.
 
-### Earth Accepts Me
+### Earth Accepts Me {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/earth-accepts-me"}
 
 
 *You can slip into the stone.*
@@ -44,11 +44,11 @@ You have the following ability.
 
 **Effect:** You step into a mundane dirt, metal, or stone object (including a wall) that is as large as you or larger. You can remain inside the object for as long as you like. While inside the object, you can observe events and speak to creatures outside it, but you don't have line of effect to anything outside the object and vice versa. You can travel through the object freely until you exit it. If the object you meld with is destroyed, you take 10 damage and exit the object.
 
-## Remember Growth and Sun and Rain
+## Remember Growth and Sun and Rain {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-3/remember-growth-and-sun-and-rain"}
 
 You have the following ability.
 
-### Remember Growth and Sun and Rain
+### Remember Growth and Sun and Rain {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/remember-growth-and-sun-and-rain"}
 
 
 *You stir any wood's memory and learn what it has seen.*

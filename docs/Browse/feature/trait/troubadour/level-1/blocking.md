@@ -12,7 +12,7 @@ type: trait
 
 You have the following performance ability, which is usable with your [Routines](routines.md) feature.
 
-## Blocking
+## Blocking {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/blocking"}
 
 
 *No, no, no, you lose the audience that way. Try it like this...*

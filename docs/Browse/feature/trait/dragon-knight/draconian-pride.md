@@ -11,7 +11,7 @@ type: trait
 
 You have the following signature ability.
 
-## Draconian Pride
+## Draconian Pride {data-scc="mcdm.heroes.v1/feature.ability.dragon-knight/draconian-pride"}
 
 *You let loose a mighty roar to shake your foes' spirits.*
 

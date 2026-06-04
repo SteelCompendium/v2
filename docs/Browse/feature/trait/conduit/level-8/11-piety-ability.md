@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 11 piety to use.
 
-## Arise!
+## Arise! {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/arise"}
 
 
 *Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.*
@@ -23,7 +23,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 
 **Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../../../../condition/prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
 
-## Blessing of Steel
+## Blessing of Steel {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-steel"}
 
 
 *A protective aura defends your allies from harm.*
@@ -34,7 +34,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 
 **Effect:** Until the end of the encounter, any ability roll made against a target takes a bane and each target has damage immunity 5.
 
-## Blessing of the Blade
+## Blessing of the Blade {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-the-blade"}
 
 
 *"The power of the gods is within you, friends. Allow me to unleash it."*
@@ -45,7 +45,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 
 **Effect:** At the end of each of your turns until the end of the encounter or until you are dying, each target gains 3 surges.
 
-## Drag the Unworthy
+## Drag the Unworthy {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/drag-the-unworthy"}
 
 
 *You conjure an angel who moves a foe and heals your allies.*

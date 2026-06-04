@@ -63,13 +63,13 @@ The power of the gods flows through you! As a vessel for [divine power](../featu
 
 As a [conduit](conduit.md), you gain the following features.
 
-### Deity and Domains
+### Deity and Domains {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/deity-and-domains"}
 
 Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](../../Read/heroes/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
 After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your subclass, and your choice of domains determines many of the features you'll gain as you gain new levels. (*Quick Build:* Adûn for deity, and Life and Protection as domains.)
 
-### Piety
+### Piety {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/piety"}
 
 Your deity grants you a Heroic Resource called piety, letting you heal and empower your allies, and unleash holy power upon your foes.
 
@@ -91,7 +91,7 @@ Though you can't gain piety outside of combat, you can use your heroic abilities
 
 When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md), you can use it as if you had spent an amount of piety equal to your Victories.
 
-#### Domain Piety and Effects
+#### Domain Piety and Effects {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/domain-piety-and-effects"}
 
 Your choice of domains provides you with two additional ways to earn piety during combat, as triggered by specific events. You might even have a single event trigger both your piety effects. For example, the Sun domain grants piety when a nearby creature takes fire or holy damage, while the War domain grants piety when a nearby creature takes damage of 10 + your level or higher. If you have both those domains and a nearby creature takes an appropriate amount of fire damage, you gain piety from both your domains.
 
@@ -157,7 +157,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
 - **Prayer Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.
 
-### 1st-Level Domain Feature
+### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/1st-level-domain-feature"}
 
 Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level [Conduit](conduit.md) Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* [Revitalizing Ritual](../feature/trait/censor/level-1/revitalizing-ritual.md) and the [Heal](../skill/heal.md) skill from the Life domain.)
 
@@ -178,17 +178,17 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Trickery   | [Inspired Deception](../feature/trait/censor/level-1/inspired-deception.md)            | Intrigue      |
 | War        | [Sanctified Weapon](../feature/trait/censor/level-1/sanctified-weapon.md)             | Exploration   |
 
-#### Blessing of Compassion
+#### Blessing of Compassion {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/blessing-of-compassion"}
 
 You exude a magic presence that can soothe those willing to socially engage with you. You gain an edge on any test made to assist another creature with a test.
 
 Additionally, when you are present at the start of a negotiation, one NPC of your choice has their patience increased by 1 (to a maximum of 5), and the first test made to influence them gains an edge.
 
-#### Blessing of Comprehension
+#### Blessing of Comprehension {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/blessing-of-comprehension"}
 
 You can interpret diagrams and charts even if you don't understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)).
 
-#### Blessing of Fortunate Weather
+#### Blessing of Fortunate Weather {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/blessing-of-fortunate-weather"}
 
 Each time you finish a respite, you can decide the weather conditions within 100 squares. Until you finish another respite, the weather conditions you establish follow you through any mundane outdoor locations. Choose one of the following types of weather, each of which grants a benefit to you and your allies:
 
@@ -200,11 +200,11 @@ Each time you finish a respite, you can decide the weather conditions within 100
 
 If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.
 
-#### Faithful Friend
+#### Faithful Friend {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/faithful-friend"}
 
 You have the following ability.
 
-##### Faithful Friend
+##### Faithful Friend {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/faithful-friend"}
 
 
 *An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.*
@@ -215,11 +215,11 @@ You have the following ability.
 
 **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can [fly](../movement/fly.md), but can't physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can't be reduced in any way.
 
-#### Grave Speech
+#### Grave Speech {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/grave-speech"}
 
 You have the following ability.
 
-##### Grave Speech
+##### Grave Speech {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/grave-speech"}
 
 
 *You commune with the lingering soul of the recently dead.*
@@ -230,11 +230,11 @@ You have the following ability.
 
 **Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 
-#### Hands of the Maker
+#### Hands of the Maker {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/hands-of-the-maker"}
 
 You have the following ability.
 
-##### Hands of the Maker
+##### Hands of the Maker {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/hands-of-the-maker"}
 
 
 *You craft objects with the power of your mind.*
@@ -245,35 +245,35 @@ You have the following ability.
 
 **Effect:** You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Intuition score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
 
-#### Inner Light
+#### Inner Light {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/inner-light"}
 
 Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of [morning light](../feature/ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
 
-#### Inspired Deception
+#### Inspired Deception {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/inspired-deception"}
 
 The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use Intuition on the test instead of another characteristic.
 
-#### Oracular Visions
+#### Oracular Visions {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/oracular-visions"}
 
 Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a test, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining fate points when you finish a respite.
 
-#### Protective Circle
+#### Protective Circle {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/protective-circle"}
 
 You can spend 10 uninterrupted minutes to create a [protective circle](../feature/trait/censor/level-1/protective-circle.md) on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the [protective circle](../feature/trait/censor/level-1/protective-circle.md), a creature can't be targeted by strikes.
 
-#### Revitalizing Ritual
+#### Revitalizing Ritual {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/revitalizing-ritual"}
 
 Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. The chosen character gains a bonus to their recovery value equal to your level that lasts until you finish another respite.
 
-#### Sanctified Weapon
+#### Sanctified Weapon {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/sanctified-weapon"}
 
 As a respite activity, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to rolled damage with abilities that use the weapon. This benefit lasts until you finish another respite.
 
-### Healing Grace
+### Healing Grace {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/healing-grace"}
 
 You have the following ability, which you can use once on your turn.
 
-#### Healing Grace
+#### Healing Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/healing-grace"}
 
 
 *Your divine energy restores the righteous.*
@@ -291,11 +291,11 @@ You have the following ability, which you can use once on your turn.
 - A [prone target](../condition/prone.md) can stand up.
 - A target can spend 1 additional Recovery.
 
-### Ray of Wrath
+### Ray of Wrath {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/ray-of-wrath"}
 
 You have the following ability, which can be used as a ranged free strike.
 
-#### Ray of Wrath
+#### Ray of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/ray-of-wrath"}
 
 
 *You unleash a blast of holy light upon your foe.*
@@ -312,11 +312,11 @@ You have the following ability, which can be used as a ranged free strike.
 
 **Effect:** You can have this ability deal holy damage.
 
-### Triggered Action
+### Triggered Action {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/triggered-action"}
 
 Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance](../feature/ability/conduit/level-1/word-of-guidance.md).)
 
-#### Word of Guidance
+#### Word of Guidance {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-guidance"}
 
 
 *You invigorate an attacking ally with divine energy.*
@@ -331,7 +331,7 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 **Spend 1 Piety:** The power roll has a double edge.
 
-#### Word of Judgment
+#### Word of Judgment {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-judgment"}
 
 
 *Your holy word saps an attacking enemy's strength.*
@@ -346,53 +346,53 @@ Choose one of the following triggered actions. (*Quick Build:* [Word of Guidance
 
 **Spend 1 Piety:** The power roll has a double bane against the target.
 
-### Prayer
+### Prayer {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/prayer"}
 
 Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit Ward](../feature/trait/conduit/level-1/conduit-ward.md) below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](../feature/trait/conduit/level-1/prayer-of-distance.md).)
 
-#### Prayer of Destruction
+#### Prayer of Destruction {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-destruction"}
 
 Your god infuses wrath within your being. You gain a +1 bonus to rolled damage with magic abilities.
 
-#### Prayer of Distance
+#### Prayer of Distance {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-distance"}
 
 Your god blesses you with the ability to stretch your divine magic farther. You have a +2 bonus to the distance of your ranged magic abilities.
 
-#### Prayer of Soldier's Skill
+#### Prayer of Soldier's Skill {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-soldiers-skill"}
 
 Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including free strikes. You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this blessing.
 
-#### Prayer of Speed
+#### Prayer of Speed {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-speed"}
 
 Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the Disengage move action.
 
-#### Prayer of Steel
+#### Prayer of Steel {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-steel"}
 
 Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
 
-### Conduit Ward
+### Conduit Ward {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/conduit-ward"}
 
 Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* [Bastion Ward](../feature/trait/conduit/level-1/bastion-ward.md).)
 
-#### Bastion Ward
+#### Bastion Ward {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/bastion-ward"}
 
 Your god grants you a holy countenance that protects you at all times. You gain a +1 bonus to saving throws.
 
-#### Quickness Ward
+#### Quickness Ward {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/quickness-ward"}
 
 The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can [shift](../movement/shifting.md) up to a number of squares equal to your Intuition score after the damage is dealt.
 
-#### Sanctuary Ward
+#### Sanctuary Ward {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/sanctuary-ward"}
 
 In response to a foe's aggression, your god protects you. Whenever another creature damages you, that creature can't target you with a strike until you harm them or one of their allies, or until the end of their next turn.
 
-#### Spirit Ward
+#### Spirit Ward {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/spirit-ward"}
 
 Invisible spirits surround you if you are harmed. Whenever an adjacent creature deals damage to you, they take corruption damage equal to your Intuition score.
 
-### Conduit Abilities
+### Conduit Abilities {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/conduit-abilities"}
 
 Your training and faith let you specialize in magic that buffs your allies, debuffs your foes, and allows you to hold your own in combat alongside your friends.
 
@@ -400,7 +400,7 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../feature/ability/conduit/level-1/blessed-light.md), [Staggering Curse](../feature/ability/conduit/level-1/staggering-curse.md).)
 
-##### Blessed Light
+##### Blessed Light {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/blessed-light"}
 
 
 *Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*
@@ -417,7 +417,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** One ally within distance gains a number of surges equal to the tier outcome of your power roll.
 
-##### Drain
+##### Drain {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/drain"}
 
 
 *You drain the energy from your target to revitalize yourself or an ally.*
@@ -434,7 +434,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** You or one ally within distance can spend a Recovery.
 
-##### Holy Lash
+##### Holy Lash {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/holy-lash"}
 
 
 *A tendril of divine energy shoots forth to draw in your foe.*
@@ -449,7 +449,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 5 + I holy damage; vertical pull 3
 - **17+:** 8 + I holy damage; vertical pull 4
 
-##### Lightfall
+##### Lightfall {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/lightfall"}
 
 
 *A rain of holy light scours your enemies and repositions your allies.*
@@ -466,7 +466,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** You can [teleport](../movement/teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
 
-##### Sacrificial Offer
+##### Sacrificial Offer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/sacrificial-offer"}
 
 
 *Divine magic tears at your foe and defends a nearby friend.*
@@ -483,7 +483,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** Choose yourself or one ally within distance. That character can impose a bane on one power roll made against them before the end of their next turn.
 
-##### Staggering Curse
+##### Staggering Curse {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/staggering-curse"}
 
 
 *A blast of judgment disorients your foe.*
@@ -498,7 +498,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 5 + I holy damage; slide 2
 - **17+:** 8 + I holy damage; slide 3
 
-##### Warrior's Prayer
+##### Warrior's Prayer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/warriors-prayer"}
 
 
 *Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
@@ -515,7 +515,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** You or one ally within distance gains temporary Stamina equal to your Intuition score.
 
-##### Wither
+##### Wither {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/wither"}
 
 
 *A bolt of holy energy saps the life from a foe.*
@@ -538,7 +538,7 @@ You make use of a number of heroic abilities, all of which channel piety to empo
 
 Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* [Violence Will Not Aid Thee](../feature/ability/conduit/level-1/violence-will-not-aid-thee.md).)
 
-##### Call the Thunder Down
+##### Call the Thunder Down {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down"}
 
 
 *You ask your saint for thunder and your prayer is answered.*
@@ -555,7 +555,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 **Effect:** You can push each willing ally in the area the same distance, ignoring stability.
 
-##### Font of Wrath
+##### Font of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/font-of-wrath"}
 
 
 *A brilliant column of holy light appears on the battlefield, striking out at nearby enemies.*
@@ -566,7 +566,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 **Effect:** You summon a spirit of size 2 who can't be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit's space, but enemies can't. Any enemy who moves within 2 squares of the spirit for the first time in a combat round or starts their turn there takes holy damage equal to your Intuition score.
 
-##### Judgment's Hammer
+##### Judgment's Hammer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/judgments-hammer"}
 
 
 *Your divine [fury](fury.md) is a hammer that crashes down upon the unrighteous.*
@@ -581,7 +581,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 - **12-16:** 6 + I holy damage; A < AVERAGE[, prone](../condition/prone.md)
 - **17+:** 9 + I holy damage; A < STRONG, [prone and](../condition/prone.md) can't stand (save ends)
 
-##### Violence Will Not Aid Thee
+##### Violence Will Not Aid Thee {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/violence-will-not-aid-thee"}
 
 
 *After some holy lightning, your enemy will think twice about their next attack.*
@@ -602,7 +602,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* [Curse of Terror](../feature/ability/conduit/level-1/curse-of-terror.md).)
 
-##### Corruption's Curse
+##### Corruption's Curse {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/corruptions-curse"}
 
 
 *Cursed by you, your enemy takes more damage from your allies.*
@@ -617,7 +617,7 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 - **12-16:** 6 + I corruption damage; M < AVERAGE, damage weakness 5 (save ends)
 - **17+:** 9 + I corruption damage; M < STRONG, damage weakness 5 (save ends)
 
-##### Curse of Terror
+##### Curse of Terror {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/curse-of-terror"}
 
 
 *Fear of divine judgment overwhelms your foe.*
@@ -632,7 +632,7 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../condition/frightened.md) (save ends)
 - **17+:** 13 + I holy damage; I < STRONG, [frightened](../condition/frightened.md) (save ends)
 
-##### Faith Is Our Armor
+##### Faith Is Our Armor {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/faith-is-our-armor"}
 
 
 *The heroes' armor glows with golden light, granting divine protection.*
@@ -649,7 +649,7 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 - **12-16:** The target gains 10 temporary Stamina.
 - **17+:** The target gains 15 temporary Stamina.
 
-##### Sermon of Grace
+##### Sermon of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/sermon-of-grace"}
 
 
 *You inspire your allies with tales of your saint's great deeds.*
@@ -664,19 +664,19 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 
 As a 2nd-level [conduit](conduit.md), you gain the following features.
 
-### The Lists of Heaven
+### The Lists of Heaven {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-2/the-lists-of-heaven"}
 
 Your deity is aware of your growing influence, making it easier to draw their attention and power when you heal your allies. Whenever you allow another creature to spend a Recovery, you can also spend a Recovery.
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-2/perk"}
 
 You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
-### 2nd-Level Domain Feature
+### 2nd-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-2/2nd-level-domain-feature"}
 
 You gain the 1st-level domain feature and ability to choose a skill for the domain you selected at 1st level but whose domain feature you didn't take at that level (see 1st-Level Domain Feature).
 
-### 2nd-Level Domain Ability
+### 2nd-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-2/2nd-level-domain-ability"}
 
 Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](conduit.md) Domain Abilities table.
 
@@ -697,7 +697,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | Trickery   | [Divine Comedy](../feature/ability/conduit/level-2/divine-comedy.md)                |
 | War        | [Blessing of Insight](../feature/ability/conduit/level-2/blessing-of-insight.md)          |
 
-##### Blessing of Fate and Destiny
+##### Blessing of Fate and Destiny {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-fate-and-destiny"}
 
 
 *Your enemies suffer their fate; your allies embrace their destiny!*
@@ -711,7 +711,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 - Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use.
 - Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls.
 
-##### Blessing of Insight
+##### Blessing of Insight {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-insight"}
 
 
 *The gods grant insight revealing where best to strike your enemies.*
@@ -722,7 +722,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.
 
-##### Divine Comedy
+##### Divine Comedy {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/divine-comedy"}
 
 
 *You and your allies swap places to confound your foes.*
@@ -733,7 +733,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
 
-##### The Gods Command You Obey
+##### The Gods Command You Obey {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/the-gods-command-you-obey"}
 
 
 *You speak with the voice of your saint, commanding your enemies.*
@@ -748,7 +748,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 - **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
 - **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 
-##### Morning Light
+##### Morning Light {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/morning-light"}
 
 
 *Light shines at your command, burning your foes and blessing your allies.*
@@ -765,7 +765,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.
 
-##### Nature Judges Thee
+##### Nature Judges Thee {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/nature-judges-thee"}
 
 
 *Mystical thorned vines appear at your bidding and bind your foes.*
@@ -780,7 +780,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 - **12-16:** 3 damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
 - **17+:** 7 damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-##### Our Hearts Your Strength
+##### Our Hearts Your Strength {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/our-hearts-your-strength"}
 
 
 *An ally gains strength from their friends.*
@@ -791,7 +791,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the end of the encounter or until the target is dying, at the start of each of the target's turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
 
-##### Reap
+##### Reap {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/reap"}
 
 
 *The gods reward those who smite their foes.*
@@ -802,7 +802,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.
 
-##### Sacred Bond
+##### Sacred Bond {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/sacred-bond"}
 
 
 *You forge a divine connection between two creatures.*
@@ -813,7 +813,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to spend a Recovery.
 
-##### Saint's Tempest
+##### Saint's Tempest {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/saints-tempest"}
 
 
 *A raging storm appears, striking your foes with lightning and throwing them around with wind.*
@@ -828,7 +828,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 - **12-16:** 5 lightning damage; vertical slide 2
 - **17+:** 7 lightning damage; vertical slide 3
 
-##### Statue of Power
+##### Statue of Power {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/statue-of-power"}
 
 
 *A marble statue of your deity rises from the earth.*
@@ -839,7 +839,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 surge at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
 
-##### Wellspring of Grace
+##### Wellspring of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/wellspring-of-grace"}
 
 
 *A holy light is emitted from your body, healing your allies.*
@@ -854,17 +854,17 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 As a 3rd-level [conduit](conduit.md), you gain the following features.
 
-### Minor Miracle
+### Minor Miracle {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-3/minor-miracle"}
 
 As a respite activity, you can perform a religious ritual and beseech the gods to restore a dead creature to life. You must have at least half the creature's remains, and they must have died within the last 24 hours from an effect that isn't age related. The creature's soul must be willing to return to life for the ritual to work. If they are not willing, you instinctively understand that as you start the respite activity and can cease it immediately.
 
 A creature with a willing soul returns to life at the end of the respite with full Stamina and half their Recoveries. You regain only half your Recoveries at the end of the respite.
 
-### 7-Piety Ability
+### 7-Piety Ability {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-3/7-piety-ability"}
 
 Choose one heroic ability from the following options, each of which costs 7 piety to use.
 
-#### Fear of the Gods
+#### Fear of the Gods {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/fear-of-the-gods"}
 
 
 *Your divine magic makes a creature appear as what your enemies fear most.*
@@ -881,7 +881,7 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 
 **Effect:** Each target is [frightened](../condition/frightened.md) of you or a creature you choose within distance.
 
-#### Saint's Raiment
+#### Saint's Raiment {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/saints-raiment"}
 
 
 *An ally becomes the wearer of an empowered golden cloak.*
@@ -892,7 +892,7 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 
 **Effect:** The target gains 20 temporary Stamina and 3 surges.
 
-#### Soul Siphon
+#### Soul Siphon {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/soul-siphon"}
 
 
 *A beam of energy connects a foe to a friend, draining life from one to heal the other.*
@@ -909,7 +909,7 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 
 **Effect:** One ally within distance can spend any number of Recoveries.
 
-#### Words of Wrath and Grace
+#### Words of Wrath and Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/words-of-wrath-and-grace"}
 
 
 *Your saint grants your enemies a vision of pain and fills your allies with healing energy.*
@@ -930,23 +930,23 @@ Choose one heroic ability from the following options, each of which costs 7 piet
 
 As a 4th-level [conduit](conduit.md), you gain the following features.
 
-### Blessed Domain
+### Blessed Domain {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-4/blessed-domain"}
 
 Whenever you gain piety from a domain effect, you gain 1 additional piety.
 
-### Characteristic Increase
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-4/characteristic-increase"}
 
 Your Intuition score increases to 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 3.
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-4/perk"}
 
 You gain one perk of your choice.
 
-### Skill
+### Skill {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-4/skill"}
 
 You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
-### 4th-Level Domain Feature
+### 4th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-4/4th-level-domain-feature"}
 
 Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level [Conduit](conduit.md) Domain Features table.
 
@@ -975,7 +975,7 @@ Your divine presence causes those you deem worthy to recover quickly from a figh
 
 You have the following ability.
 
-##### Blessing of Secrets
+##### Blessing of Secrets {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-4/blessing-of-secrets"}
 
 
 *You project an illusory aura that makes you and allies harder to notice.*
@@ -1032,15 +1032,15 @@ As a main action, you touch a living tree and make it part of a divine transport
 
 As a 5th-level [conduit](conduit.md), you gain the following features.
 
-### 5th-Level Domain Feature
+### 5th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-5/5th-level-domain-feature"}
 
 You gain the 4th-level domain feature for the domain whose feature you didn't select at that level (see 4th-Level Domain Feature).
 
-### 9-Piety Ability
+### 9-Piety Ability {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-5/9-piety-ability"}
 
 Choose one heroic ability from the following options, each of which costs 9 piety to use.
 
-#### Beacon of Grace
+#### Beacon of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-5/beacon-of-grace"}
 
 
 *You ignite a foe with holy radiance, rewarding allies who attack them.*
@@ -1057,7 +1057,7 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 
 **Effect:** Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to move this effect to another creature within distance.
 
-#### Penance
+#### Penance {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-5/penance"}
 
 
 *"If you won't kneel, the gods will make you."*
@@ -1072,7 +1072,7 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 - **12-16:** 7 corruption damage; I < AVERAGE, [prone and](../condition/prone.md) can't stand (save ends)
 - **17+:** 11 corruption damage; I < STRONG, [prone and](../condition/prone.md) can't stand (save ends)
 
-#### Sanctuary
+#### Sanctuary {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-5/sanctuary"}
 
 
 *You send yourself or an ally to a divine manifold to instantaneously regain health.*
@@ -1083,7 +1083,7 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 
 **Effect:** The target is removed from the encounter map until the start of their next turn and can spend any number of Recoveries. At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.
 
-#### Vessel of Retribution
+#### Vessel of Retribution {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-5/vessel-of-retribution"}
 
 
 *You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.*
@@ -1098,7 +1098,7 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 
 As a 6th-level [conduit](conduit.md), you gain the following features.
 
-### Burgeoning Saint
+### Burgeoning Saint {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-6/burgeoning-saint"}
 
 You are infused with the power your deity reserves for their most worthy instruments. You have the following benefits:
 
@@ -1107,11 +1107,11 @@ You are infused with the power your deity reserves for their most worthy instrum
 - You have corruption immunity 10 or holy immunity 10 (your choice).
 - Your clothing and equipment changes in a way that reflects your status as your deity's chosen champion, such as ordinary robes turning into gold vestments or a simple dagger becoming a wicked blade with intricate etching.
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-6/perk"}
 
 You gain one crafting, lore, or supernatural perk of your choice.
 
-### 6th-Level Domain Ability
+### 6th-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-6/6th-level-domain-ability"}
 
 Choose one of your domains. You gain a heroic ability from that domain, as shown on the 6th-Level [Conduit](conduit.md) Domain Abilities table.
 
@@ -1132,7 +1132,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | Trickery   | [Invocation of Mystery](../feature/ability/conduit/level-6/invocation-of-mystery.md)      |
 | War        | [Blade of the Heavens](../feature/ability/conduit/level-6/blade-of-the-heavens.md)       |
 
-##### Aura of Souls
+##### Aura of Souls {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/aura-of-souls"}
 
 
 *A whirlwind of souls of the dead flies around you at your command.*
@@ -1143,7 +1143,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This [forced movement](../movement/forced-movement.md) ignores stability for your allies.
 
-##### Blade of the Heavens
+##### Blade of the Heavens {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/blade-of-the-heavens"}
 
 
 *A greatsword streams down from the sky, threatening to pin your foe.*
@@ -1158,7 +1158,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 - **12-16:** 12 + I damage; A < AVERAGE, [prone and](../condition/prone.md) [restrained](../condition/restrained.md) (save ends)
 - **17+:** 16 + I damage; A < STRONG, [prone and](../condition/prone.md) [restrained](../condition/restrained.md) (save ends)
 
-##### Blessing of the Midday Sun
+##### Blessing of the Midday Sun {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/blessing-of-the-midday-sun"}
 
 
 *Your body emits a heat that bakes your enemies and inspires your allies.*
@@ -1169,7 +1169,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the end of the encounter or until you are dying, each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 surge at the end of each of your turns.
 
-##### Cuirass of the Gods
+##### Cuirass of the Gods {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/cuirass-of-the-gods"}
 
 
 *Your allies are covered in spiritual armor.*
@@ -1180,7 +1180,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** You can target yourself instead of one creature with this ability. Each target has damage immunity 5 until the start of your next turn.
 
-##### Gods' Machine
+##### Gods' Machine {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/gods-machine"}
 
 
 *You conjure a whirring tank made of blades and metal.*
@@ -1199,7 +1199,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 Once on each subsequent turn, you can use a free maneuver to move the machine a number of squares up to your Intuition score then repeat the power roll.
 
-##### Invocation of Mystery
+##### Invocation of Mystery {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-mystery"}
 
 
 *"Now you see us..."*
@@ -1210,7 +1210,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 **Effect:** Each target is invisible until the start of your next turn.
 
-##### Invocation of Undoing
+##### Invocation of Undoing {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-undoing"}
 
 
 *You utter a secret word of destruction known only to deities.*
@@ -1227,7 +1227,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 **Special:** You can choose to have this ability deal damage to and push objects, and to deal damage to buildings.
 
-##### Lauded by God
+##### Lauded by God {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/lauded-by-god"}
 
 
 *You beseech the gods to give your allies what they need to win the day, and the gods answer.*
@@ -1238,7 +1238,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 **Effect:** Each target gains 3 of their Heroic Resource.
 
-##### Lightning Lord
+##### Lightning Lord {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/lightning-lord"}
 
 
 *Lightning bursts forth from your body in several directions.*
@@ -1255,7 +1255,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 **Effect:** The targets are [force moved](../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 
-##### Revitalizing Grace
+##### Revitalizing Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/revitalizing-grace"}
 
 
 *With a gesture, you restore your health and that of your allies.*
@@ -1266,7 +1266,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 **Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](../condition/prone.md).
 
-##### Spirit Stampede
+##### Spirit Stampede {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/spirit-stampede"}
 
 
 *Animal spirits run through the battlefield, trampling your foes.*
@@ -1281,7 +1281,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 - **12-16:** 8 damage; M < AVERAGE, [prone and](../condition/prone.md) can't stand (save ends)
 - **17+:** 11 damage; M < STRONG, [prone and](../condition/prone.md) can't stand (save ends)
 
-##### Your Story Ends Here
+##### Your Story Ends Here {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/your-story-ends-here"}
 
 
 *You bend the fate of a foe, willing them to die.*
@@ -1302,19 +1302,19 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 As a 7th-level [conduit](conduit.md), you gain the following features.
 
-### Characteristic Increase
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/characteristic-increase"}
 
 Each of your characteristic scores increases by 1, to a maximum of 4.
 
-### Faithful's Reward
+### Faithful's Reward {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/faithfuls-reward"}
 
 When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 piety.
 
-### Skill
+### Skill {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/skill"}
 
 You gain one skill of your choice.
 
-### 7th-Level Domain Feature
+### 7th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/7th-level-domain-feature"}
 
 Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level [Conduit](conduit.md) Domain Features table.
 
@@ -1335,15 +1335,15 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Trickery   | [Trinity of Trickery](../feature/ability/censor/level-7/trinity-of-trickery.md)          |
 | War        | [Your Triumphs Are Remembered](../feature/trait/censor/level-7/your-triumphs-are-remembered.md) |
 
-#### Blessing of Iron
+#### Blessing of Iron {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/blessing-of-iron"}
 
 The gods send divine favor to you and your allies. While you are not dying, enemies take a bane on strikes against you or any ally within 3 squares of you.
 
-#### Covenant of the Heart
+#### Covenant of the Heart {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/covenant-of-the-heart"}
 
 You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
 
-##### Guided to Your Side
+##### Guided to Your Side {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-7/guided-to-your-side"}
 
 
 *You concentrate on a friend and [teleport](../movement/teleport.md) to them.*
@@ -1354,23 +1354,23 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 
 **Effect:** Each target is [teleport](../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need line of effect to the bonded creature but you must be on the same world.
 
-#### Divine Quartermaster
+#### Divine Quartermaster {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/divine-quartermaster"}
 
 Each time you finish a respite, you can choose a treasure with a project goal equal to 50 times your level or less. You gain a divine version of this treasure that lasts until you finish another respite or it is consumed.
 
-#### Font of Grace
+#### Font of Grace {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/font-of-grace"}
 
 Each time you use your [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../feature/trait/conduit/level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
 
-#### Gods' Library
+#### Gods' Library {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/gods-library"}
 
 You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don't already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
 
-#### Light of the Burning Sun
+#### Light of the Burning Sun {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/light-of-the-burning-sun"}
 
 Sun infuses your body. Whenever you use an ability to deal rolled damage to another creature, that ability deals an extra 5 fire damage, or an extra 15 fire damage if the creature is undead. Additionally, you have fire immunity equal to your level, which is added to any other fire immunity you have.
 
-#### Nature's Bounty
+#### Nature's Bounty {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/natures-bounty"}
 
 When you finish a respite, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:
 
@@ -1382,15 +1382,15 @@ When you finish a respite, you can prepare a magic meal using local flora for an
 
 Each benefit lasts until the creature who gains it finishes another respite.
 
-#### Thunderstruck
+#### Thunderstruck {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/thunderstruck"}
 
 Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 surge. Additionally, if you use an ability that force moves a creature, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.
 
-#### Trinity of Trickery
+#### Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/trinity-of-trickery"}
 
 You have the following ability.
 
-##### Trinity of Trickery
+##### Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-7/trinity-of-trickery"}
 
 
 *Hey! I'm over here. No, here, numbskull.*
@@ -1401,17 +1401,17 @@ You have the following ability.
 
 **Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 
-#### Word of Death Deferred
+#### Word of Death Deferred {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/word-of-death-deferred"}
 
 You can stop death from taking your allies. When an ally within distance of your [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md) ability dies and you are not dying, you can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to instead have that ally fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an extra 5 damage to winded creatures.
 
-#### Word of Fate Denied
+#### Word of Fate Denied {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/word-of-fate-denied"}
 
 When an ally within 10 squares takes damage that would leave them dying, you can use a free [triggered action](../feature/trait/conduit/level-1/triggered-action.md) to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can't be reduced in any way.
 
-#### Your Triumphs Are Remembered
+#### Your Triumphs Are Remembered {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-7/your-triumphs-are-remembered"}
 
 The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a respite, you and any other heroes who rested with you regain 1 Victory after your Victories are converted to XP. This Victory isn't converted into XP at the end of a subsequent respite.
 
@@ -1419,19 +1419,19 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 As an 8th-level [conduit](conduit.md), you gain the following features.
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-8/perk"}
 
 You gain one perk of your choice.
 
-### 8th-Level Domain Feature
+### 8th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-8/8th-level-domain-feature"}
 
 You gain the 7th-level domain feature for the domain whose feature you didn't select at that level (see 7th-Level Domain Feature).
 
-### 11-Piety Ability
+### 11-Piety Ability {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-8/11-piety-ability"}
 
 Choose one heroic ability from the following options, each of which costs 11 piety to use.
 
-#### Arise!
+#### Arise! {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/arise"}
 
 
 *Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.*
@@ -1442,7 +1442,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 
 **Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../condition/prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
 
-#### Blessing of Steel
+#### Blessing of Steel {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-steel"}
 
 
 *A protective aura defends your allies from harm.*
@@ -1453,7 +1453,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 
 **Effect:** Until the end of the encounter, any ability roll made against a target takes a bane and each target has damage immunity 5.
 
-#### Blessing of the Blade
+#### Blessing of the Blade {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-the-blade"}
 
 
 *"The power of the gods is within you, friends. Allow me to unleash it."*
@@ -1464,7 +1464,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 
 **Effect:** At the end of each of your turns until the end of the encounter or until you are dying, each target gains 3 surges.
 
-#### Drag the Unworthy
+#### Drag the Unworthy {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/drag-the-unworthy"}
 
 
 *You conjure an angel who moves a foe and heals your allies.*
@@ -1485,15 +1485,15 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 
 As a 9th-level [conduit](conduit.md), you gain the following features.
 
-### Faith's Sword
+### Faith's Sword {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-9/faiths-sword"}
 
 Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your [Burgeoning Saint](../feature/trait/conduit/level-6/burgeoning-saint.md) feature until you finish another respite. Additionally, you can spend piety as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.
 
-### Ordained
+### Ordained {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-9/ordained"}
 
 Your god elevates the power flowing through you. Your characteristic scores are treated as 1 higher for the purpose of resisting potencies. Additionally, while you have 5 or more Victories, you speak with the voice of your deity. You have a double edge on Presence tests made to influence other creatures.
 
-### 9th-Level Domain Ability
+### 9th-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-9/9th-level-domain-ability"}
 
 Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level [Conduit](conduit.md) Domain Abilities table.
 
@@ -1514,7 +1514,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | Trickery   | [Night Falls](../feature/ability/conduit/level-9/night-falls.md)              |
 | War        | [Righteous Phalanx](../feature/ability/conduit/level-9/righteous-phalanx.md)        |
 
-##### Alacrity of the Heart
+##### Alacrity of the Heart {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/alacrity-of-the-heart"}
 
 
 *You speak inspiring words to a friend and spur them to incredible feats.*
@@ -1525,7 +1525,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.
 
-##### Bend Fate
+##### Bend Fate {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/bend-fate"}
 
 
 *The gods know you must prevail, and they bless your fate.*
@@ -1536,7 +1536,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the end of the encounter or until you are dying, each of the target's power rolls has its outcome improved by one tier.
 
-##### Blessing of the Fortress
+##### Blessing of the Fortress {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/blessing-of-the-fortress"}
 
 
 *A magic circle extends out from you, barring foes from getting close.*
@@ -1547,7 +1547,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you by moving or by being [force moved](../movement/forced-movement.md) by any enemy. Targets can be [force moved](../movement/forced-movement.md) closer to you by you or your allies, or can move closer because of your movement.
 
-##### Divine Dragon
+##### Divine Dragon {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/divine-dragon"}
 
 
 *From nothing but divine will, you create a powerful ally.*
@@ -1574,7 +1574,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 - **12-16:** 5 + I damage
 - **17+:** 8 + I damage
 
-##### Godstorm
+##### Godstorm {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/godstorm"}
 
 
 *You summon a divine storm that remains under your control.*
@@ -1591,7 +1591,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 **Effect:** A raging storm fills the area until the end of the encounter or until you are dying. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.
 
-##### Night Falls
+##### Night Falls {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/night-falls"}
 
 
 *You summon darkness that thwarts only your foes.*
@@ -1602,7 +1602,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 **Effect:** Until the end of the encounter or until you are dying, the area is filled with magic darkness that your enemies can't see through, but you and your allies can.
 
-##### Radiance of Grace
+##### Radiance of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/radiance-of-grace"}
 
 
 *Intense light is emitted from your body, healing your allies.*
@@ -1613,7 +1613,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 **Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../condition/prone.md).
 
-##### Righteous Phalanx
+##### Righteous Phalanx {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/righteous-phalanx"}
 
 
 *A wall of spinning swords and knives appears where you wish.*
@@ -1624,7 +1624,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 **Effect:** The wall lasts until the end of the encounter or until you are dying, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 15 damage.
 
-##### Solar Flare
+##### Solar Flare {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/solar-flare"}
 
 
 *You call down a sphere of fire that burns your foes to ash.*
@@ -1639,7 +1639,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 - **12-16:** 14 fire damage
 - **17+:** 19 fire damage
 
-##### Thorn Cage
+##### Thorn Cage {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/thorn-cage"}
 
 
 *Vines burst forth from the ground and bind your foe, slowly closing around them.*
@@ -1656,7 +1656,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 **Effect:** While [restrained](../condition/restrained.md) this way, the target takes 10 damage at the start of each of your turns.
 
-##### Word of Final Redemption
+##### Word of Final Redemption {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/word-of-final-redemption"}
 
 
 *Your death will fuel our victory.*
@@ -1669,7 +1669,7 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 **Effect:** Before the target dies, you can look at their stat block and force them to use one ability that is a main action or a maneuver. If the ability costs a Heroic Resource or Malice, the creature can use it without any cost. For the purpose of using this ability, your allies and enemies are the target's allies and enemies, and you decide who the ability targets.
 
-##### Word of Weakening
+##### Word of Weakening {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/word-of-weakening"}
 
 
 *You utter a divine word that makes a foe brittle.*
@@ -1690,17 +1690,17 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 As a 10th-level [conduit](conduit.md), you gain the following features.
 
-### Avatar
+### Avatar {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-10/avatar"}
 
 You are now an [avatar](../feature/trait/conduit/level-10/avatar.md) of your god! When you use your Prayer feature, you can be affected by up to three prayers at once, and you can change all those prayers and your ward as a respite activity. You can also use a maneuver to activate one of your domain effects (see [Domain Piety and Effects](../feature/trait/conduit/level-1/domain-piety-and-effects.md)) without needing to pray.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 
-### Characteristic Increase
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-10/characteristic-increase"}
 
 Your Intuition score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.
 
-### Divine Power
+### Divine Power {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-10/divine-power"}
 
 You have an epic resource called [divine power](../feature/trait/conduit/level-10/divine-power.md). Each time you finish a respite, you gain [divine power](../feature/trait/conduit/level-10/divine-power.md) equal to the XP you gain. You can spend [divine power](../feature/trait/conduit/level-10/divine-power.md) on your abilities as if it were piety.
 
@@ -1708,14 +1708,14 @@ Additionally, you can spend [divine power](../feature/trait/conduit/level-10/div
 
 [Divine power](../feature/trait/conduit/level-10/divine-power.md) remains until you spend it.
 
-### Most Pious
+### Most Pious {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-10/most-pious"}
 
 When you roll for piety at the start of your turn in combat and you pray, you gain 1 additional piety.
 
-### Perk
+### Perk {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-10/perk"}
 
 You gain one crafting, lore, or supernatural perk of your choice.
 
-### Skill
+### Skill {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-10/skill"}
 
 You gain one skill of your choice.

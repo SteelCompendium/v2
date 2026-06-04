@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Careful Observation
+## Careful Observation {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/careful-observation"}
 
 
 *A moment of focus leaves a foe firmly in your sights.*

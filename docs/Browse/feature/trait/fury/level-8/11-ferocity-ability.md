@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 11 ferocity to use.
 
-## Elemental Ferocity
+## Elemental Ferocity {data-scc="mcdm.heroes.v1/feature.ability.fury.level-8/elemental-ferocity"}
 
 
 *Your primordial energy makes for instant retribution.*
@@ -23,7 +23,7 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 **Effect:** You gain 10 temporary Stamina. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 Stamina, you gain 10 temporary Stamina.
 
-## Overkill
+## Overkill {data-scc="mcdm.heroes.v1/feature.ability.fury.level-8/overkill"}
 
 
 *You strike so no damage is wasted.*
@@ -40,7 +40,7 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 **Effect:** If the target is a minion or is winded but isn't a leader or solo creature, they are reduced to 0 Stamina before this ability's damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.
 
-## Primordial Rage
+## Primordial Rage {data-scc="mcdm.heroes.v1/feature.ability.fury.level-8/primordial-rage"}
 
 
 *Your ferocity manifests into [primordial power](../level-10/primordial-power.md).*
@@ -51,7 +51,7 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 **Effect:** Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, you can choose one target of any ability you use, with that target taking an extra 15 damage of the chosen type. Additionally, whenever you gain ferocity from taking damage, the source of the damage takes 5 damage of the chosen type.
 
-## Relentless Death
+## Relentless Death {data-scc="mcdm.heroes.v1/feature.ability.fury.level-8/relentless-death"}
 
 
 *You won't escape your fate.*

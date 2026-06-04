@@ -19,7 +19,7 @@ Your wild nature grants you a triggered action, as shown on the Wild Nature Trig
 | Punisher    | [Thunderclap](../../../ability/beastheart/level-1/thunderclap.md)               |
 | Spark       | [Pyre](../../../ability/beastheart/level-1/pyre.md)                             |
 
-### Pyre
+### Pyre {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/pyre"}
 
 *You burn to ash before your foes' eyes.*
 
@@ -33,7 +33,7 @@ Your wild nature grants you a triggered action, as shown on the Wild Nature Trig
 
 **Spend 1 Ferocity:** When you [teleport](../../../../movement/teleport.md) this way, each enemy adjacent to your original space takes lightning or fire damage (your choice) equal to your Intuition score.
 
-### Shadow in the Mist
+### Shadow in the Mist {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/shadow-in-the-mist"}
 
 *While everyone's eyes are drawn to your foe, you wreathe yourself in obscuring mist.*
 
@@ -47,7 +47,7 @@ Your wild nature grants you a triggered action, as shown on the Wild Nature Trig
 
 **Spend 1 Ferocity:** You can move up to a number of squares equal to twice your Intuition score and ignore [difficult terrain](../../../../movement/difficult-terrain.md) during this movement.
 
-### The Pack Defends
+### The Pack Defends {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/the-pack-defends"}
 
 *You siphon away the pain and endure it yourself.*
 
@@ -61,7 +61,7 @@ Your wild nature grants you a triggered action, as shown on the Wild Nature Trig
 
 **Spend 1 Ferocity:** You spend a Recovery without regaining Stamina, and the target regains Stamina equal to your recovery value.
 
-### Thunderclap
+### Thunderclap {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/thunderclap"}
 
 *The force of your counterattack cracks the air.*
 
@@ -75,7 +75,7 @@ Your wild nature grants you a triggered action, as shown on the Wild Nature Trig
 
 **Spend 1 Ferocity:** The [forced movement](../../../../movement/forced-movement.md) distance is doubled.
 
-### Kit
+### Kit {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/kit"}
 
 You can use and gain the benefits of a kit. See the <u>Kits</u> chapter of Draw Steel: Heroes for more information.
 
@@ -84,7 +84,7 @@ You and your companion both gain the benefits of the kit, with the following exc
 - Only you can use the kit's signature ability, not your companion.
 - Your companion is always armed to the teeth. When choosing or changing a kit, your companion can choose between the melee damage bonus provided by the kit (if any) or a melee damage bonus of +0/+0/+4.
 
-### Beasthearts and Magic Treasure
+### Beasthearts and Magic Treasure {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/beasthearts-and-magic-treasure"}
 
 #### Consumables
 

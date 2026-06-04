@@ -16,7 +16,7 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* [Blessed Light](../../../ability/conduit/level-1/blessed-light.md), [Staggering Curse](../../../ability/conduit/level-1/staggering-curse.md).)
 
-### Blessed Light
+### Blessed Light {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/blessed-light"}
 
 
 *Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*
@@ -33,7 +33,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** One ally within distance gains a number of surges equal to the tier outcome of your power roll.
 
-### Drain
+### Drain {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/drain"}
 
 
 *You drain the energy from your target to revitalize yourself or an ally.*
@@ -50,7 +50,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** You or one ally within distance can spend a Recovery.
 
-### Holy Lash
+### Holy Lash {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/holy-lash"}
 
 
 *A tendril of divine energy shoots forth to draw in your foe.*
@@ -65,7 +65,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 5 + I holy damage; vertical pull 3
 - **17+:** 8 + I holy damage; vertical pull 4
 
-### Lightfall
+### Lightfall {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/lightfall"}
 
 
 *A rain of holy light scours your enemies and repositions your allies.*
@@ -82,7 +82,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** You can [teleport](../../../../movement/teleport.md) yourself and each ally in the area to unoccupied spaces in the area.
 
-### Sacrificial Offer
+### Sacrificial Offer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/sacrificial-offer"}
 
 
 *Divine magic tears at your foe and defends a nearby friend.*
@@ -99,7 +99,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** Choose yourself or one ally within distance. That character can impose a bane on one power roll made against them before the end of their next turn.
 
-### Staggering Curse
+### Staggering Curse {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/staggering-curse"}
 
 
 *A blast of judgment disorients your foe.*
@@ -114,7 +114,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 5 + I holy damage; slide 2
 - **17+:** 8 + I holy damage; slide 3
 
-### Warrior's Prayer
+### Warrior's Prayer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/warriors-prayer"}
 
 
 *Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
@@ -131,7 +131,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** You or one ally within distance gains temporary Stamina equal to your Intuition score.
 
-### Wither
+### Wither {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/wither"}
 
 
 *A bolt of holy energy saps the life from a foe.*
@@ -154,7 +154,7 @@ You make use of a number of heroic abilities, all of which channel piety to empo
 
 Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* [Violence Will Not Aid Thee](../../../ability/conduit/level-1/violence-will-not-aid-thee.md).)
 
-### Call the Thunder Down
+### Call the Thunder Down {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down"}
 
 
 *You ask your saint for thunder and your prayer is answered.*
@@ -171,7 +171,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 **Effect:** You can push each willing ally in the area the same distance, ignoring stability.
 
-### Font of Wrath
+### Font of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/font-of-wrath"}
 
 
 *A brilliant column of holy light appears on the battlefield, striking out at nearby enemies.*
@@ -182,7 +182,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 **Effect:** You summon a spirit of size 2 who can't be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit's space, but enemies can't. Any enemy who moves within 2 squares of the spirit for the first time in a combat round or starts their turn there takes holy damage equal to your Intuition score.
 
-### Judgment's Hammer
+### Judgment's Hammer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/judgments-hammer"}
 
 
 *Your divine [fury](../../../../class/fury.md) is a hammer that crashes down upon the unrighteous.*
@@ -197,7 +197,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 - **12-16:** 6 + I holy damage; A < AVERAGE[, prone](../../../../condition/prone.md)
 - **17+:** 9 + I holy damage; A < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)
 
-### Violence Will Not Aid Thee
+### Violence Will Not Aid Thee {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/violence-will-not-aid-thee"}
 
 
 *After some holy lightning, your enemy will think twice about their next attack.*
@@ -218,7 +218,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* [Curse of Terror](../../../ability/conduit/level-1/curse-of-terror.md).)
 
-### Corruption's Curse
+### Corruption's Curse {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/corruptions-curse"}
 
 
 *Cursed by you, your enemy takes more damage from your allies.*
@@ -233,7 +233,7 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 - **12-16:** 6 + I corruption damage; M < AVERAGE, damage weakness 5 (save ends)
 - **17+:** 9 + I corruption damage; M < STRONG, damage weakness 5 (save ends)
 
-### Curse of Terror
+### Curse of Terror {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/curse-of-terror"}
 
 
 *Fear of divine judgment overwhelms your foe.*
@@ -248,7 +248,7 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 - **12-16:** 9 + I holy damage; I < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
 - **17+:** 13 + I holy damage; I < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
 
-### Faith Is Our Armor
+### Faith Is Our Armor {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/faith-is-our-armor"}
 
 
 *The heroes' armor glows with golden light, granting divine protection.*
@@ -265,7 +265,7 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 - **12-16:** The target gains 10 temporary Stamina.
 - **17+:** The target gains 15 temporary Stamina.
 
-### Sermon of Grace
+### Sermon of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/sermon-of-grace"}
 
 
 *You inspire your allies with tales of your saint's great deeds.*

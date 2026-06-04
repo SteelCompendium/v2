@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Grave Speech
+## Grave Speech {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/grave-speech"}
 
 
 *You commune with the lingering soul of the recently dead.*

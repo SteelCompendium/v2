@@ -12,7 +12,7 @@ type: trait
 
 You have the following performance ability, which is usable with your [Routines](routines.md) feature.
 
-## Acrobatics
+## Acrobatics {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/acrobatics"}
 
 
 *Folks love a good tumble.*

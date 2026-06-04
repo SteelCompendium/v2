@@ -12,7 +12,7 @@ type: trait
 
 You have the following performance abilities, which are usable with your [Routines](../level-1/routines.md) feature.
 
-## "Fire Up the Night"
+## "Fire Up the Night" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/fire-up-the-night"}
 
 
 *Maybe you and I ♪ We can still bring the light!♪*
@@ -23,7 +23,7 @@ You have the following performance abilities, which are usable with your [Routin
 
 **Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../../../Read/heroes/tests.md)).
 
-## "Never-Ending Hero"
+## "Never-Ending Hero" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/never-ending-hero"}
 
 
 *And toniiight we can truly say ♪ They will alllways find a way!♪*

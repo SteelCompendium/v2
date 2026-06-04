@@ -11,15 +11,15 @@ type: trait
 
 All [stormwight kits](stormwight-kits.md) have the following features in common.
 
-## Aspect Benefits and Animal Form
+## Aspect Benefits and Animal Form {data-scc="mcdm.heroes.v1/feature.trait.fury/aspect-benefits-and-animal-form"}
 
 Your [primordial aspect](level-1/primordial-aspect.md) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.
 
-## Aspect of the Wild
+## Aspect of the Wild {data-scc="mcdm.heroes.v1/feature.trait.fury/aspect-of-the-wild"}
 
 You have the following ability.
 
-### Aspect of the Wild
+### Aspect of the Wild {data-scc="mcdm.heroes.v1/feature.ability.fury/aspect-of-the-wild"}
 
 
 *You assume the form of the animal who channels your ferocity.*
@@ -32,15 +32,15 @@ You have the following ability.
 
 **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another [animal form](../../../complication/animal-form.md), into your hybrid form, or back into your true form.
 
-## Primordial Storm
+## Primordial Storm {data-scc="mcdm.heroes.v1/feature.trait.fury/primordial-storm"}
 
 Each stormwight kit is associated with a [primordial storm](primordial-storm.md), which channels a specific damage type used by some of your abilities.
 
-## Equipment
+## Equipment {data-scc="mcdm.heroes.v1/feature.trait.fury/equipment"}
 
 You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your ferocity grows.
 
-## Kit Bonuses
+## Kit Bonuses {data-scc="mcdm.heroes.v1/feature.trait.fury/kit-bonuses"}
 
 These bonuses apply in your true form, your [animal form](../../../complication/animal-form.md), and your hybrid form. See Chapter 6: [Kits](../../../../Read/heroes/kits.md) for information on [kit bonuses](boren/kit-bonuses.md).
 
@@ -48,6 +48,6 @@ These bonuses apply in your true form, your [animal form](../../../complication/
 
 You gain a new signature ability from your kit.
 
-## Growing Ferocity
+## Growing Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury/growing-ferocity"}
 
 Each stormwight kit grants a set of benefits for your [Growing Ferocity](boren/growing-ferocity.md) feature.

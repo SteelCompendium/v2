@@ -20,7 +20,7 @@ Once on each of your turns while the target of your Foil feature is adjacent to 
 
 You have the following performance ability, which is usable with your [Routines](../level-1/routines.md) feature.
 
-## We Can't Be Upstaged!
+## We Can't Be Upstaged! {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/we-cant-be-upstaged"}
 
 
 *Swordplay so graceful it looks like you all practiced this.*

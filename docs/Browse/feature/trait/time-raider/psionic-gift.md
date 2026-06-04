@@ -11,7 +11,7 @@ type: trait
 
 Choose one signature ability from the following options. Signature abilities can be used at will.
 
-## Concussive Slam
+## Concussive Slam {data-scc="mcdm.heroes.v1/feature.ability.time-raider/concussive-slam"}
 
 *You slam an invisible force down upon the target.*
 
@@ -25,7 +25,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 5 + R, I, or P damage; push 1
 - **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../../condition/prone.md)
 
-## Psionic Bolt
+## Psionic Bolt {data-scc="mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt"}
 
 *You shoot forth a purple beam of psychic force that moves your target.*
 
@@ -39,7 +39,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 5 + R, I, or P psychic damage; slide 2
 - **17+:** 7 + R, I, or P psychic damage; slide 3
 
-## Minor Acceleration
+## Minor Acceleration {data-scc="mcdm.heroes.v1/feature.ability.time-raider/minor-acceleration"}
 
 *You fill yourself or an ally with a burst of speed.*
 

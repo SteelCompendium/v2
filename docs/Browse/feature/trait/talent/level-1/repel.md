@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Repel
+## Repel {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/repel"}
 
 
 *They aren't going anywhere, but you might!*

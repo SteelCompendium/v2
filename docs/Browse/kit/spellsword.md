@@ -31,7 +31,7 @@ You wear light armor and wield a shield and a medium weapon.
 
 ## Signature Ability
 
-### Leaping Lightning
+### Leaping Lightning {data-scc="mcdm.heroes.v1/feature.ability.spellsword/leaping-lightning"}
 
 *Lightning jumps from your weapon as you strike to harm a nearby foe.*
 

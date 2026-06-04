@@ -16,7 +16,7 @@ Your [talent tradition](../level-1/talent-tradition.md) grants your choice of on
 
 Choose one of the following abilities.
 
-### Fate
+### Fate {data-scc="mcdm.heroes.v1/feature.ability.talent.level-6/fate"}
 
 
 *Your foe gets a glimpse of how it will end for them.*
@@ -35,7 +35,7 @@ Choose one of the following abilities.
 - **12-16:** 13 + P psychic damage
 - **17+:** 17 + P psychic damage
 
-### Stasis Field
+### Stasis Field {data-scc="mcdm.heroes.v1/feature.ability.talent.level-6/stasis-field"}
 
 
 *Keep everything as it was. Ignore everything that will be.*
@@ -60,7 +60,7 @@ Make a power roll that targets each enemy in the area.
 
 Choose one of the following abilities.
 
-### Gravitic Well
+### Gravitic Well {data-scc="mcdm.heroes.v1/feature.ability.talent.level-6/gravitic-well"}
 
 
 *You bend gravity into a fine point and pull your foes toward it.*
@@ -79,7 +79,7 @@ Choose one of the following abilities.
 
 **Strained:** The size of the area increases by 2. You also target yourself and each ally within distance.
 
-### Greater Kinetic Grip
+### Greater Kinetic Grip {data-scc="mcdm.heroes.v1/feature.ability.talent.level-6/greater-kinetic-grip"}
 
 
 *You raise the target into the air without breaking a sweat.*
@@ -100,7 +100,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Synaptic Conditioning
+### Synaptic Conditioning {data-scc="mcdm.heroes.v1/feature.ability.talent.level-6/synaptic-conditioning"}
 
 
 *It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!*
@@ -117,7 +117,7 @@ Choose one of the following abilities.
 
 **Strained:** While the target is under this effect, you no longer consider your enemies to be your enemies when using your abilities and features.
 
-### Synaptic Dissipation
+### Synaptic Dissipation {data-scc="mcdm.heroes.v1/feature.ability.talent.level-6/synaptic-dissipation"}
 
 
 *You manipulate your enemies' minds and make them wonder if you were ever really there in the first place.*

@@ -20,7 +20,7 @@ Your [primordial aspect](primordial-aspect.md) grants you a triggered action, as
 | Reaver                   | [Unearthly Reflexes](../../../ability/fury/level-1/unearthly-reflexes.md) |
 | Stormwight               | [Furious Change](../../../ability/fury/level-1/furious-change.md)     |
 
-### Furious Change
+### Furious Change {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/furious-change"}
 
 
 *In your anger, you revert to a more bestial form.*
@@ -35,7 +35,7 @@ Your [primordial aspect](primordial-aspect.md) grants you a triggered action, as
 
 **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 
-### Lines of Force
+### Lines of Force {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/lines-of-force"}
 
 
 *You redirect the energy of motion.*
@@ -50,7 +50,7 @@ Your [primordial aspect](primordial-aspect.md) grants you a triggered action, as
 
 **Spend 1 Ferocity:** The [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to twice your Might score instead.
 
-### Unearthly Reflexes
+### Unearthly Reflexes {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/unearthly-reflexes"}
 
 
 *You are as elusive as a hummingbird.*

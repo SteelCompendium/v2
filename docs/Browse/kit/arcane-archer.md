@@ -31,7 +31,7 @@ You wear no armor and wield a bow.
 
 ## Signature Ability
 
-### Exploding Arrow
+### Exploding Arrow {data-scc="mcdm.heroes.v1/feature.ability.arcane-archer/exploding-arrow"}
 
 *Your ammunition explodes with magical energy.*
 

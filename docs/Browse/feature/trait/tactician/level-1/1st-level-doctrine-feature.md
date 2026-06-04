@@ -20,17 +20,17 @@ Your [tactical doctrine](tactical-doctrine.md) grants you a feature, as shown on
 | Mastermind | [Studied Commander](studied-commander.md)   |
 | Vanguard   | [Commanding Presence](commanding-presence.md) |
 
-## Commanding Presence
+## Commanding Presence {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-1/commanding-presence"}
 
 You command any room you walk into. While you are present during a negotiation, each hero with you treats their Renown as 2 higher than usual. Additionally, each hero with you during a combat encounter has a double edge on tests made to stop combat and start a negotiation.
 
-## Covert Operations
+## Covert Operations {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-1/covert-operations"}
 
 While in your presence or working according to your plans, each of your allies gains an edge on tests using any skill from the intrigue skill group. Additionally, you can use the [Lead](../../../../skill/lead.md) skill to assist another creature with any test made using a skill from the intrigue group.
 
 At the Director's discretion, you and your allies can use skills from the intrigue skill group to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.
 
-## Studied Commander
+## Studied Commander {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-1/studied-commander"}
 
 Your encyclopedic knowledge of the history of battle lets you apply that knowledge to current challenges. While you are present, each hero with you treats the Discover Lore project related to a war or battle as one category cheaper. This makes projects seeking common lore free, but such projects still require a respite activity to complete. (See Chapter 12: [Downtime Projects](../../../../../Read/heroes/downtime-projects.md) for more information.)
 

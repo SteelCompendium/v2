@@ -17,23 +17,23 @@ Additionally, when your Stamina reaches the negative of your winded value, you b
 
 You have 2 ancestry points to spend on the following traits, or 3 ancestry points if your size is 1S. (*Quick Build:* Bloodless, plus Undead Influence if size 1S.)
 
-## Bloodless
+## Bloodless {data-scc="mcdm.heroes.v1/feature.trait.revenant/bloodless"}
 
 For you, an open wound is indistinguishable from a scratch. You can't be made [bleeding](../../../condition/bleeding.md) even while dying.
 
-## Previous Life: 1 Point
+## Previous Life: 1 Point {data-scc="mcdm.heroes.v1/feature.trait.revenant/previous-life-1-point"}
 
 You select a purchased trait that costs 1 ancestry point from your previous ancestry. You can take this trait multiple times, selecting a different 1 point trait from your previous ancestry each time.
 
-## Previous Life: 2 Points
+## Previous Life: 2 Points {data-scc="mcdm.heroes.v1/feature.trait.revenant/previous-life-2-points"}
 
 You select a purchased trait that costs 2 ancestry points from your previous ancestry.
 
-## Undead Influence
+## Undead Influence {data-scc="mcdm.heroes.v1/feature.trait.revenant/undead-influence"}
 
 Your supernatural gifts allow you to influence other undead. You gain an edge on Reason, Intuition, and Presence tests made to interact with undead creatures.
 
-## Vengeance Mark
+## Vengeance Mark {data-scc="mcdm.heroes.v1/feature.trait.revenant/vengeance-mark"}
 
 As a maneuver, you place a magic sigil on a creature within 10 squares. When you place a sigil, you decide where it appears on the creature's body, and whether the sigil is visible to only you or to all creatures.
 
@@ -41,7 +41,7 @@ You always know the direction to the exact location of a creature who bears one 
 
 Additionally, you have the following signature ability. Signature abilities can be used at will.
 
-### Detonate Sigil
+### Detonate Sigil {data-scc="mcdm.heroes.v1/feature.ability.revenant/detonate-sigil"}
 
 *A magic sigil you placed on a creature explodes with energy.*
 

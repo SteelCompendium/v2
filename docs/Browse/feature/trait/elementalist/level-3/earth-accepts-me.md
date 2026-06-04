@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Earth Accepts Me
+## Earth Accepts Me {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/earth-accepts-me"}
 
 
 *You can slip into the stone.*

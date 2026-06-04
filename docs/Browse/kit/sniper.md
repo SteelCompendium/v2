@@ -31,7 +31,7 @@ You wear no armor and wield a bow.
 
 ## Signature Ability
 
-### Patient Shot
+### Patient Shot {data-scc="mcdm.heroes.v1/feature.ability.sniper/patient-shot"}
 
 *Breathe... aim... wait... then strike!*
 

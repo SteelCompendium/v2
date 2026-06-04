@@ -20,7 +20,7 @@ Once on each of your turns, you can use a free maneuver to change one condition 
 
 You have the following performance ability, which is usable with your [Routines](../level-1/routines.md) feature.
 
-## Take Two!
+## Take Two! {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/take-two"}
 
 
 *One more, and this time make it interesting.*

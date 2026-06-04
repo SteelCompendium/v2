@@ -31,7 +31,7 @@ You wear no armor and wield only your unarmed strikes.
 
 ## Signature Ability
 
-### Let's Dance
+### Let's Dance {data-scc="mcdm.heroes.v1/feature.ability.pugilist/lets-dance"}
 
 *Keeping your enemies stumbling around the battlefield is second nature to you.*
 

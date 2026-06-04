@@ -16,7 +16,7 @@ You use a blend of martial techniques and divine magic to attack your foes and d
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../../ability/censor/level-1/your-allies-cannot-save-you.md)!)
 
-### Back Blasphemer!
+### Back Blasphemer! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/back-blasphemer"}
 
 
 *You channel power through your weapon to repel foes.*
@@ -31,7 +31,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 4 holy damage; push 2
 - **17+:** 6 holy damage; push 3
 
-### Every Step... Death!
+### Every Step... Death! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/every-step-death"}
 
 
 *You show your foe a glimpse of their fate after death.*
@@ -48,7 +48,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.
 
-### Halt Miscreant!
+### Halt Miscreant! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/halt-miscreant"}
 
 
 *You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
@@ -63,7 +63,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
 - **17+:** 7 + M holy damage; P < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 
-### Your Allies Cannot Save You!
+### Your Allies Cannot Save You! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/your-allies-cannot-save-you"}
 
 
 *Your magic strike turns your foe's guilt into a burst of holy power.*
@@ -88,7 +88,7 @@ You call upon a number of heroic abilities, all of them bound to your wrath.
 
 Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* [The Gods Punish and Defend](../../../ability/censor/level-1/the-gods-punish-and-defend.md).)
 
-### Behold a Shield of Faith!
+### Behold a Shield of Faith! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith"}
 
 
 *A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
@@ -105,7 +105,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 **Effect:** Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you.
 
-### Driving Assault
+### Driving Assault {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault"}
 
 
 *As you force your enemy back with your weapon, you use your faith to stay close.*
@@ -122,7 +122,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 **Effect:** You can [shift](../../../../movement/shifting.md) up to your speed in a straight line toward the target after pushing them.
 
-### The Gods Punish and Defend
+### The Gods Punish and Defend {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/the-gods-punish-and-defend"}
 
 
 *You channel holy energy to smite a foe and heal an ally.*
@@ -139,7 +139,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 **Effect:** You can spend a Recovery to allow yourself or one ally within 10 squares to regain Stamina equal to your recovery value.
 
-### Repent!
+### Repent! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/repent"}
 
 
 *You conjure memories of their sins to harry your foes.*
@@ -158,7 +158,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* [Purifying Fire](../../../ability/censor/level-1/purifying-fire.md).)
 
-### Arrest
+### Arrest {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/arrest"}
 
 
 *"I got you, you son of a bitch."*
@@ -175,7 +175,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 **Effect:** If the target makes a strike against a creature while [grabbed](../../../../condition/grabbed.md) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
 
-### Behold the Face of Justice!
+### Behold the Face of Justice! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/behold-the-face-of-justice"}
 
 
 *You attack a foe and your enemies behold a vision of the true nature of your resolve.*
@@ -192,7 +192,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 **Effect:** Each enemy [frightened](../../../../condition/frightened.md) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
 
-### Censored
+### Censored {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/censored"}
 
 
 *Judged and [sentenced](../../../ability/censor/level-2/sentenced.md).*
@@ -209,7 +209,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 **Effect:** When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.
 
-### Purifying Fire
+### Purifying Fire {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/purifying-fire"}
 
 
 *The gods judge, fire cleanses.*

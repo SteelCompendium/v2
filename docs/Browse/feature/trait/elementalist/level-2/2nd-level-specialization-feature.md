@@ -21,17 +21,17 @@ Your [elemental specialization](../level-1/elemental-specialization.md) grants y
 | Green          | [Disciple of the Green](disciple-of-the-green.md)     |
 | Void           | [There Is No Space Between](../../../ability/elementalist/level-2/there-is-no-space-between.md) |
 
-## Disciple of Earth
+## Disciple of Earth {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-2/disciple-of-earth"}
 
 Your body is strengthened by your mind's connection to the element of permanence. You have a +6 bonus to Stamina, and you gain an additional +3 bonus to Stamina whenever you gain a level past 2nd.
 
-## Disciple of Fire
+## Disciple of Fire {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-2/disciple-of-fire"}
 
 Your connection to fire allows you to protect yourself from it, even as you rip away the protections of others. You have fire immunity equal to 5 plus your level. Additionally, fire damage you deal ignores a target's fire immunity.
 
 At the start of a combat encounter, you gain a number of surges equal to your Victories. Whenever you spend a surge to deal extra damage, you can make that damage fire damage.
 
-## Disciple of the Green
+## Disciple of the Green {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-2/disciple-of-the-green"}
 
 You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](../../../../complication/animal-form.md), you can speak, and you use your Reason score to make melee free strikes. Your statistics stay the same except as noted on the table.
 
@@ -66,11 +66,11 @@ You can revert back to your true form as a maneuver. You can't enter an [animal 
 | Rhinoceros          | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a melee free strike as part of the Charge action, that<br>strike gains an edge.                                                                                                                                                                               |
 | King terror lizard  | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your melee free strike is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                          |
 
-## There Is No Space Between
+## There Is No Space Between {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-2/there-is-no-space-between"}
 
 You have the following ability.
 
-### There Is No Space Between
+### There Is No Space Between {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-2/there-is-no-space-between"}
 
 
 *Knowledge of the mystery reveals that two spaces are the same space.*

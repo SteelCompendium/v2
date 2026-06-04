@@ -16,7 +16,7 @@ Your [censor order](../level-1/censor-order.md) grants your choice of one of two
 
 Choose one of the following abilities.
 
-### Banish
+### Banish {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/banish"}
 
 
 *You sever the target's tenuous connection to the world.*
@@ -33,7 +33,7 @@ Choose one of the following abilities.
 
 **Effect:** This ability gains an edge against demons, [devils](../../../../ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
 
-### Terror Manifest
+### Terror Manifest {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/terror-manifest"}
 
 
 *"I know what you fear."*
@@ -54,7 +54,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Blessing and a Curse
+### Blessing and a Curse {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/blessing-and-a-curse"}
 
 
 *The gods bless and damn in equal measure.*
@@ -67,7 +67,7 @@ Choose one of the following abilities.
 
 **Effect:** The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.
 
-### Fulfill Your Destiny
+### Fulfill Your Destiny {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/fulfill-your-destiny"}
 
 
 *You have looked at various futures, and only this one works.*
@@ -84,7 +84,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Apostate
+### Apostate {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/apostate"}
 
 
 *You channel holy energy to seal an enemy's fate.*
@@ -101,7 +101,7 @@ Choose one of the following abilities.
 
 **Effect:** Until the end of the encounter or until you are dying, the target has damage weakness 10.
 
-### Edict of Unyielding Resolve
+### Edict of Unyielding Resolve {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/edict-of-unyielding-resolve"}
 
 
 *You and your allies are clad in shimmering armor.*

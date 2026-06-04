@@ -29,7 +29,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | Trickery   | [Invocation of Mystery](../../../ability/conduit/level-6/invocation-of-mystery.md)      |
 | War        | [Blade of the Heavens](../../../ability/conduit/level-6/blade-of-the-heavens.md)       |
 
-### Aura of Souls
+### Aura of Souls {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/aura-of-souls"}
 
 
 *A whirlwind of souls of the dead flies around you at your command.*
@@ -40,7 +40,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This [forced movement](../../../../movement/forced-movement.md) ignores stability for your allies.
 
-### Blade of the Heavens
+### Blade of the Heavens {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/blade-of-the-heavens"}
 
 
 *A greatsword streams down from the sky, threatening to pin your foe.*
@@ -55,7 +55,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 - **12-16:** 12 + I damage; A < AVERAGE, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)
 - **17+:** 16 + I damage; A < STRONG, [prone and](../../../../condition/prone.md) [restrained](../../../../condition/restrained.md) (save ends)
 
-### Blessing of the Midday Sun
+### Blessing of the Midday Sun {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/blessing-of-the-midday-sun"}
 
 
 *Your body emits a heat that bakes your enemies and inspires your allies.*
@@ -66,7 +66,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** Until the end of the encounter or until you are dying, each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 surge at the end of each of your turns.
 
-### Cuirass of the Gods
+### Cuirass of the Gods {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/cuirass-of-the-gods"}
 
 
 *Your allies are covered in spiritual armor.*
@@ -77,7 +77,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Effect:** You can target yourself instead of one creature with this ability. Each target has damage immunity 5 until the start of your next turn.
 
-### Gods' Machine
+### Gods' Machine {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/gods-machine"}
 
 
 *You conjure a whirring tank made of blades and metal.*
@@ -96,7 +96,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 Once on each subsequent turn, you can use a free maneuver to move the machine a number of squares up to your Intuition score then repeat the power roll.
 
-### Invocation of Mystery
+### Invocation of Mystery {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-mystery"}
 
 
 *"Now you see us..."*
@@ -107,7 +107,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 **Effect:** Each target is invisible until the start of your next turn.
 
-### Invocation of Undoing
+### Invocation of Undoing {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-undoing"}
 
 
 *You utter a secret word of destruction known only to deities.*
@@ -124,7 +124,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 **Special:** You can choose to have this ability deal damage to and push objects, and to deal damage to buildings.
 
-### Lauded by God
+### Lauded by God {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/lauded-by-god"}
 
 
 *You beseech the gods to give your allies what they need to win the day, and the gods answer.*
@@ -135,7 +135,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 **Effect:** Each target gains 3 of their Heroic Resource.
 
-### Lightning Lord
+### Lightning Lord {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/lightning-lord"}
 
 
 *Lightning bursts forth from your body in several directions.*
@@ -152,7 +152,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 **Effect:** The targets are [force moved](../../../../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 
-### Revitalizing Grace
+### Revitalizing Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/revitalizing-grace"}
 
 
 *With a gesture, you restore your health and that of your allies.*
@@ -163,7 +163,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 **Effect:** Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if [prone](../../../../condition/prone.md).
 
-### Spirit Stampede
+### Spirit Stampede {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/spirit-stampede"}
 
 
 *Animal spirits run through the battlefield, trampling your foes.*
@@ -178,7 +178,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 - **12-16:** 8 damage; M < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)
 - **17+:** 11 damage; M < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)
 
-### Your Story Ends Here
+### Your Story Ends Here {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/your-story-ends-here"}
 
 
 *You bend the fate of a foe, willing them to die.*

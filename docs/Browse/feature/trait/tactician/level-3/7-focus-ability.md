@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 7 focus to use.
 
-## Frontal Assault
+## Frontal Assault {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-3/frontal-assault"}
 
 
 *The purpose of a charge is to break their morale and force a retreat.*
@@ -23,7 +23,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 
 **Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../../../../movement/shifting.md) up to 2 squares. Additionally, any ally using the Charge main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee free strike.
 
-## Hit 'Em Hard!
+## Hit 'Em Hard! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-3/hit-em-hard"}
 
 
 *Your allies see the advantages in attacking the targets you select.*
@@ -34,7 +34,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 
 **Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, that creature gains 2 surges, which they can use immediately.
 
-## Rout
+## Rout {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-3/rout"}
 
 
 *The tide begins to turn.*
@@ -45,7 +45,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 
 **Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the creature who dealt the damage (save ends).
 
-## Stay Strong and Focus!
+## Stay Strong and Focus! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-3/stay-strong-and-focus"}
 
 
 *"We can do this! Keep faith and hold fast!"*

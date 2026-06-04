@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 9 insight to use.
 
-## Blackout
+## Blackout {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/blackout"}
 
 
 *You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*
@@ -23,7 +23,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 
 **Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../../../../movement/shifting.md) to a new location within the area and make a free strike against them.
 
-## Into the Shadows
+## Into the Shadows {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows"}
 
 
 *You sweep your foe off their feet and plunge them into absolute darkness.*
@@ -40,7 +40,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 - **12-16:** 13 + A corruption damage
 - **17+:** 17 + A corruption damage
 
-## Shadowfall
+## Shadowfall {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/shadowfall"}
 
 
 *You vanish. They fall. You reappear.*
@@ -57,7 +57,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 
 **Effect:** You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.
 
-## You Talk Too Much
+## You Talk Too Much {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/you-talk-too-much"}
 
 
 *Silence is a virtue. A knife pinning their mouth shut is the next best thing.*

@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 11 wrath to use.
 
-## Excommunication
+## Excommunication {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/excommunication"}
 
 
 *You curse your foe to become a bane to their allies.*
@@ -29,7 +29,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 **Effect:** At the end of each of your turns, a target [weakened](../../../../condition/weakened.md) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target [weakened](../../../../condition/weakened.md) this way can't be targeted by their allies' abilities.
 
-## Hand of the Gods
+## Hand of the Gods {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/hand-of-the-gods"}
 
 
 *You use your foe as a tool against your enemies.*
@@ -46,7 +46,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 **Effect:** Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of flanking.
 
-## Pillar of Holy Fire
+## Pillar of Holy Fire {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/pillar-of-holy-fire"}
 
 
 *Your enemy's guilt fuels a holy flame that burns your foes.*
@@ -63,7 +63,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 **Effect:** At the end of each of your turns, a target [dazed](../../../../condition/dazed.md) this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.
 
-## Your Allies Turn on You!
+## Your Allies Turn on You! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/your-allies-turn-on-you"}
 
 
 *You turn your enemies' ire to the target.*

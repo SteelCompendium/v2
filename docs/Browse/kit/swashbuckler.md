@@ -31,7 +31,7 @@ You wear light armor and wield a medium weapon.
 
 ## Signature Ability
 
-### Fancy Footwork
+### Fancy Footwork {data-scc="mcdm.heroes.v1/feature.ability.swashbuckler/fancy-footwork"}
 
 *All combat is a dance—and you'll be the one leading.*
 

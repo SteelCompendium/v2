@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 7 insight to use.
 
-## Dancer
+## Dancer {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/dancer"}
 
 
 *You enter a flow state that makes you nearly impossible to pin down.*
@@ -23,7 +23,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 **Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../../../../movement/forced-movement.md) adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
 
-## Misdirecting Strike
+## Misdirecting Strike {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/misdirecting-strike"}
 
 
 *"Why are you looking at ME?!"*
@@ -40,7 +40,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 **Effect:** The target is [taunted](../../../../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next turn.
 
-## Pinning Shot
+## Pinning Shot {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/pinning-shot"}
 
 
 *One missile—placed well and placed hard.*
@@ -55,7 +55,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 - **12-16:** 12 + A damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
 - **17+:** 16 + A damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
 
-## Staggering Blow
+## Staggering Blow {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/staggering-blow"}
 
 
 *There's no recovering from this.*

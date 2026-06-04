@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability.
 
-## Black Ash Teleport
+## Black Ash Teleport {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/black-ash-teleport"}
 
 
 *In a swirl of black ash, you step from one place to another.*

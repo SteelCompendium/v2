@@ -16,7 +16,7 @@ Guided by the ebb and flow of battle, you trade off attacking with your companio
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Come On!)
 
-### Bodyswap
+### Bodyswap {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/bodyswap"}
 
 *You and your ally morph into each other, magically switching places.*
 
@@ -32,7 +32,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 5 + I damage
 - **17+:** 7 + I damage
 
-### Come On!
+### Come On! {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/come-on"}
 
 *You launch a flurry of attacks to cover your movement.*
 
@@ -48,7 +48,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** Your companion can make a melee free strike. You both [shift](../../../../movement/shifting.md) up to a number of squares equal to your Intuition score.
 
-### Covering Fire
+### Covering Fire {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/covering-fire"}
 
 *Keep your head down, or I'll shoot it off!*
 
@@ -64,7 +64,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** If the target is not [prone](../../../../condition/prone.md), they must use a free triggered action to fall [prone](../../../../condition/prone.md) or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.
 
-### Stormrage
+### Stormrage {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/stormrage"}
 
 *Lances of primordial energy leap from you and your companion to sear, crush, or freeze your foe.*
 
@@ -88,7 +88,7 @@ From traveling and fighting alongside your companion, you have learned a number 
 
 Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Hungry Like the Wolf.)
 
-#### Bring the Thunder
+#### Bring the Thunder {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/bring-the-thunder"}
 
 *Your companion unleashes a shattering roar, screech, or howl that terrifies your foes—or at least gets their attention.*
 
@@ -104,7 +104,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 **Spend 1 Ferocity:** This ability also affects a 2 burst originating from you. An enemy in both areas is only affected once.
 
-#### Herd the Sheep
+#### Herd the Sheep {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/herd-the-sheep"}
 
 *Your companion circles your foe, luring them out of position with fake openings and unpredictable attacks.*
 
@@ -120,7 +120,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 **Effect:** You and your companion can [shift](../../../../movement/shifting.md) up to a number of squares equal to the number of squares the target was [force moved](../../../../movement/forced-movement.md).
 
-#### Hungry Like the Wolf
+#### Hungry Like the Wolf {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/hungry-like-the-wolf"}
 
 *The enemy's blood flows like wine, invigorating your companion.*
 
@@ -134,7 +134,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 - **12-16:** 7 + M damage; you and your companion can each spend a Recovery
 - **17+:** 11 + M damage; A < STRONG [bleeding](../../../../condition/bleeding.md) (EoT); you and your companion can each spend a Recovery and shift up to 2 squares
 
-#### Pushover
+#### Pushover {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/pushover"}
 
 *You and your companion surround your foe in order to bring them down.*
 
@@ -154,7 +154,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (Quick Build: I Feed On Your Pain!)
 
-#### All of You Versus All of Me
+#### All of You Versus All of Me {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/all-of-you-versus-all-of-me"}
 
 *Let all of them come forward and shatter themselves against your might!*
 
@@ -166,7 +166,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 **Spend 1 Ferocity:** This ability also affects a 3 burst originating from your companion. Targets in this second area are [taunted](../../../../condition/taunted.md) by your companion. An enemy in both areas is [taunted](../../../../condition/taunted.md) only by you.
 
-#### I Feed On Your Pain!
+#### I Feed On Your Pain! {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/i-feed-on-your-pain"}
 
 *Invigorated by the smell of blood, you strike a savage blow.*
 
@@ -182,7 +182,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 **Effect:** If the target is killed by this damage, or is winded or [bleeding](../../../../condition/bleeding.md) after taking this damage, you gain 2 surges.
 
-#### Rain of Fire
+#### Rain of Fire {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/rain-of-fire"}
 
 *As your arrows rain down on your foes, flames spiral around your companion, setting the arrows ablaze.*
 
@@ -198,7 +198,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 **Effect:** If your companion is in the area, they deal fire damage equal to their Intuition score to each target.
 
-#### You Let Me Get Too Close
+#### You Let Me Get Too Close {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-1/you-let-me-get-too-close"}
 
 *The wilderness has no concept of fair play.*
 

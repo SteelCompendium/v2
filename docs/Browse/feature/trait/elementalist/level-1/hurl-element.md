@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability, which can be used as a ranged free strike.
 
-## Hurl Element
+## Hurl Element {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/hurl-element"}
 
 
 *You cast a ball of elemental energy at a foe.*

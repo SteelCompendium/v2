@@ -12,7 +12,7 @@ type: trait
 
 You have the following ability, which can be used as a ranged free strike.
 
-## Mind Spike
+## Mind Spike {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/mind-spike"}
 
 
 *A telepathic bolt instantly zaps a creature's brain.*

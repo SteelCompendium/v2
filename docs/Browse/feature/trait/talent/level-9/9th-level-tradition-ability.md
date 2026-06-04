@@ -16,7 +16,7 @@ Your [talent tradition](../level-1/talent-tradition.md) grants your choice of on
 
 Choose one of the following abilities.
 
-### Acceleration Field
+### Acceleration Field {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field"}
 
 
 *You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.*
@@ -35,7 +35,7 @@ Choose one of the following abilities.
 - **12-16:** 6 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
 - **17+:** 10 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
 
-### Borrow From the Future
+### Borrow From the Future {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/borrow-from-the-future"}
 
 
 *You lean on future heroism to assist you in the now.*
@@ -50,7 +50,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Fulcrum
+### Fulcrum {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/fulcrum"}
 
 
 *You precisely manipulate the creatures around you.*
@@ -69,7 +69,7 @@ Choose one of the following abilities.
 
 **Strained:** You can choose to reduce the size of the burst by 2 (to a minimum of 1 burst) to give the [forced movement](../../../../movement/forced-movement.md) distance a +2 bonus. You take half the total damage all targets take from [forced movement](../../../../movement/forced-movement.md).
 
-### Gravitic Nova
+### Gravitic Nova {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/gravitic-nova"}
 
 
 *Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.*
@@ -92,7 +92,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Resonant Mind Spike
+### Resonant Mind Spike {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/resonant-mind-spike"}
 
 
 *You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.*
@@ -111,7 +111,7 @@ Choose one of the following abilities.
 
 **Strained:** The ability roll scores a critical hit on a natural 17 or higher. You take half the damage the target takes, and you can't reduce this damage in any way.
 
-### Synaptic Terror
+### Synaptic Terror {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/synaptic-terror"}
 
 
 *You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.*

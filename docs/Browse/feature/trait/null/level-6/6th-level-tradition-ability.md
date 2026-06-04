@@ -16,7 +16,7 @@ Your [null tradition](../level-1/null-tradition.md) grants your choice of one of
 
 Choose one of the following abilities.
 
-### Interphase
+### Interphase {data-scc="mcdm.heroes.v1/feature.ability.null.level-6/interphase"}
 
 
 *You slip into a faster timestream to act more quickly.*
@@ -27,7 +27,7 @@ Choose one of the following abilities.
 
 **Effect:** You can use up to three signature abilities, each of which gains an edge.
 
-### Phase Step
+### Phase Step {data-scc="mcdm.heroes.v1/feature.ability.null.level-6/phase-step"}
 
 
 *You weaken your connection to this manifold, allowing you to move through and damage enemies.*
@@ -48,7 +48,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Ice Pillars
+### Ice Pillars {data-scc="mcdm.heroes.v1/feature.ability.null.level-6/ice-pillars"}
 
 
 *Pillars of ice erupt from the ground and launch your foes into the air.*
@@ -65,7 +65,7 @@ Choose one of the following abilities.
 
 **Effect:** The pillars vanish as soon as the effects of the [forced movement](../../../../movement/forced-movement.md) are resolved.
 
-### Wall of Ice
+### Wall of Ice {data-scc="mcdm.heroes.v1/feature.ability.null.level-6/wall-of-ice"}
 
 
 *You create a [wall of ice](../../../ability/null/level-6/wall-of-ice.md).*
@@ -80,7 +80,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-### Gravitic Charge
+### Gravitic Charge {data-scc="mcdm.heroes.v1/feature.ability.null.level-6/gravitic-charge"}
 
 
 *You channel your discipline into momentum that defies gravity.*
@@ -97,7 +97,7 @@ Choose one of the following abilities.
 
 **Effect:** This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your [force move](../../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
 
-### Iron Body
+### Iron Body {data-scc="mcdm.heroes.v1/feature.ability.null.level-6/iron-body"}
 
 
 *You focus until your body becomes as hard as iron.*

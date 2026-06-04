@@ -12,7 +12,7 @@ type: trait
 
 Choose one heroic ability from the following options, each of which costs 7 ferocity to use.
 
-## Demon Unleashed
+## Demon Unleashed {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/demon-unleashed"}
 
 
 *Foes tremble at the sight of you.*
@@ -23,7 +23,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 
 **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](../../../../condition/frightened.md) until the end of their turn.
 
-## Face the Storm!
+## Face the Storm! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/face-the-storm"}
 
 
 *Shocked in the face of your naked brutality, your enemy's instincts take over.*
@@ -34,7 +34,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 
 **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is [taunted](../../../../condition/taunted.md) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](../../../../condition/taunted.md) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
 
-## Steelbreaker
+## Steelbreaker {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/steelbreaker"}
 
 
 *See how useless their weapons are!*
@@ -45,7 +45,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 
 **Effect:** You gain 20 temporary Stamina.
 
-## You Are Already Dead
+## You Are Already Dead {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/you-are-already-dead"}
 
 
 *Slash. Walk away.*
