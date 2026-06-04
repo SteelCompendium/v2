@@ -1,0 +1,161 @@
+/* ============================================================
+   Steel Compendium — steel-redesign.css
+   DROP-IN for the v2 MkDocs site. Add AFTER the existing
+   stylesheets in mkdocs.yml `extra_css` (so it can override).
+   Uses the site's own Material vars (--md-*, --sc-*, font vars)
+   and adds a small steel-ornament token set.
+
+   Scope: Browse LANDING (.grid.cards) + category INDEX cards
+   (.sc-cards / .sc-card emitted by steel-etl buildIndexContent).
+   Power roll, ability cards, statblocks: untouched here.
+   ============================================================ */
+
+/* ── Steel ornament tokens (polished silver-steel; NOT gold) ── */
+[data-md-color-scheme="slate"] {
+  --fx-metal:        #a9b0b5;
+  --fx-metal-bright: #d9dee1;
+  --fx-metal-grad:   linear-gradient(180deg, #e3e7e9 0%, #a9b0b5 48%, #686f74 100%);
+  --fx-metal-line:   rgba(176,183,187,.5);
+  --fx-metal-faint:  rgba(176,183,187,.16);
+  --fx-card-bg:      linear-gradient(160deg, #232a2e, #181c1f);
+  --fx-bevel:        inset 0 1px 0 rgba(255,255,255,.07);
+  --fx-emboss:       0 1px 0 rgba(0,0,0,.55), 0 -1px 0 rgba(255,255,255,.04);
+}
+[data-md-color-scheme="default"] {
+  --fx-metal:        #5f676c;
+  --fx-metal-bright: #2c3338;
+  --fx-metal-grad:   linear-gradient(180deg, #9aa1a6 0%, #6a7176 48%, #474d51 100%);
+  --fx-metal-line:   rgba(95,103,108,.45);
+  --fx-metal-faint:  rgba(95,103,108,.14);
+  --fx-card-bg:      linear-gradient(160deg, #ffffff, #eef1f1);
+  --fx-bevel:        inset 0 1px 0 rgba(255,255,255,.8);
+  --fx-emboss:       none;
+}
+.ds-etch { /* faint damascus watermark, opt-in on mastheads */
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='90' height='30'%3E%3Cpath d='M0 15 Q22 2 45 15 T90 15' fill='none' stroke='%23b0b7bb' stroke-width='1'/%3E%3C/svg%3E");
+  background-size: 90px 30px;
+}
+
+/* ── Reusable heraldic crest (wraps a Material icon / .twemoji) ── */
+.sc-crest { position: relative; display: inline-grid; place-items: center;
+  width: 38px; height: 43px; flex: 0 0 auto;
+  --shield: polygon(6% 0, 94% 0, 94% 58%, 50% 100%, 6% 58%);
+  clip-path: var(--shield); background: var(--fx-metal-grad); }
+.sc-crest::before { content: ""; position: absolute; inset: 1.5px; clip-path: var(--shield);
+  background: radial-gradient(circle at 42% 30%, #2b3137, #14181b); }
+.sc-crest > * { position: relative; z-index: 1; display: grid; place-items: center;
+  /* optical centering — nudge the glyph UP so it sits in the shield's visual center */
+  transform: translateY(-2px); }
+.sc-crest .twemoji, .sc-crest svg { width: 19px; height: 19px; color: var(--fx-metal-bright); fill: currentColor; }
+[data-md-color-scheme="default"] .sc-crest::before { background: radial-gradient(circle at 42% 30%, #f6f8f8, #dfe4e5); }
+[data-md-color-scheme="default"] .sc-crest .twemoji, [data-md-color-scheme="default"] .sc-crest svg { color: #2c3338; }
+.sc-crest.lg { width: 50px; height: 56px; }
+.sc-crest.lg .twemoji, .sc-crest.lg svg { width: 24px; height: 24px; }
+
+/* ── Filigree corners (added by a tiny inline-CSS pseudo, no markup needed) ── */
+.sc-fil { position: relative; }
+.sc-fil::before, .sc-fil::after { content: ""; position: absolute; width: 13px; height: 13px;
+  border: 0 solid var(--fx-metal-line); opacity: 0; transition: opacity .2s; pointer-events: none; }
+.sc-fil::before { top: 7px; left: 7px; border-top-width: 1px; border-left-width: 1px; }
+.sc-fil::after  { bottom: 7px; right: 7px; border-bottom-width: 1px; border-right-width: 1px; }
+.sc-fil:hover::before, .sc-fil:hover::after { opacity: .85; }
+
+/* ============================================================
+   BROWSE LANDING — restyle Material .grid.cards into steel plates
+   (markup: each card starts with a crest icon; .grid.cards in
+   Browse/index.md — see handoff README)
+   ============================================================ */
+.md-typeset .grid.cards > ul {
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+  gap: 1rem; align-items: stretch;
+}
+.md-typeset .grid.cards > ul > li {
+  position: relative; display: flex; flex-direction: column;
+  border: 1px solid rgba(255,255,255,.05); border-radius: .5rem; padding: 1.1rem 1.2rem;
+  background: var(--fx-card-bg); box-shadow: var(--fx-bevel), 0 6px 18px rgba(0,0,0,.3);
+  transition: box-shadow .2s ease, transform .2s ease;
+}
+[data-md-color-scheme="default"] .md-typeset .grid.cards > ul > li {
+  border-color: var(--md-default-fg-color--lightest); box-shadow: var(--fx-bevel), 0 4px 12px rgba(0,0,0,.08);
+}
+.md-typeset .grid.cards > ul > li:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--fx-bevel), 0 14px 28px rgba(0,0,0,.42), 0 0 0 1px var(--fx-metal-line);
+}
+.md-typeset .grid.cards > ul > li:hover::before,
+.md-typeset .grid.cards > ul > li:hover::after { opacity: .85; }
+.md-typeset .grid.cards > ul > li::before, .md-typeset .grid.cards > ul > li::after {
+  content: ""; position: absolute; width: 13px; height: 13px; border: 0 solid var(--fx-metal-line);
+  opacity: 0; transition: opacity .2s; pointer-events: none;
+}
+.md-typeset .grid.cards > ul > li::before { top: 8px; left: 8px; border-top-width: 1px; border-left-width: 1px; }
+.md-typeset .grid.cards > ul > li::after  { bottom: 8px; right: 8px; border-bottom-width: 1px; border-right-width: 1px; }
+
+/* leading crest + title on one row (markup: a .sc-cardhead wrapper holding
+   the crest span + the ### h3 — see handoff README) */
+.md-typeset .grid.cards > ul > li .sc-cardhead { display: flex; align-items: center; gap: .7rem; margin: 0 0 .1rem; }
+.md-typeset .grid.cards > ul > li h3 {
+  font-family: var(--md-small-header-font); font-size: 1.5rem; line-height: 1;
+  color: var(--sc-steel-lighter); margin: 0; text-shadow: var(--fx-emboss);
+}
+/* count badge already injected by browse-enhancements.js — restyle to steel */
+.md-typeset .browse-card-count {
+  margin-left: auto; font-family: var(--md-code-font, monospace); font-weight: 700; font-size: .8rem;
+  color: var(--fx-metal-bright); background: var(--fx-metal-faint);
+  border: 1px solid var(--fx-metal-line); border-radius: 5px; padding: .1rem .5rem;
+}
+.md-typeset .grid.cards > ul > li > hr { margin: .7rem 0; }
+.md-typeset .grid.cards > ul > li > p { color: var(--md-default-fg-color--light); font-size: .82rem; }
+.md-typeset .grid.cards > ul > li > p:last-child { margin-top: auto; color: var(--fx-metal); }
+
+/* ============================================================
+   CATEGORY INDEX — rich "stat-at-a-glance" cards
+   Emitted by steel-etl as: <div class="sc-cards"> of <a class="sc-card">
+   ============================================================ */
+.md-typeset .sc-cards {
+  list-style: none; padding: 0; margin: 1rem 0 0;
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr)); gap: 1rem;
+}
+.md-typeset .sc-card {
+  position: relative; display: block; text-decoration: none; color: inherit;
+  border: 1px solid rgba(255,255,255,.05); border-radius: .55rem; padding: 1rem 1.1rem;
+  background: var(--fx-card-bg); box-shadow: var(--fx-bevel), 0 6px 18px rgba(0,0,0,.3);
+  transition: box-shadow .2s ease, transform .2s ease; overflow: hidden;
+}
+[data-md-color-scheme="default"] .md-typeset .sc-card { border-color: var(--md-default-fg-color--lightest); box-shadow: var(--fx-bevel), 0 4px 12px rgba(0,0,0,.08); }
+.md-typeset .sc-card:hover { transform: translateY(-2px); box-shadow: var(--fx-bevel), 0 12px 26px rgba(0,0,0,.42), 0 0 0 1px var(--fx-metal-line); }
+.md-typeset .sc-card:hover.sc-fil::before, .md-typeset .sc-card:hover.sc-fil::after { opacity: .85; }
+
+.sc-card__head { display: flex; align-items: center; gap: .7rem; }
+.sc-card__type { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .08em;
+  font-size: .8rem; color: var(--fx-metal); }
+.sc-card__name { font-family: var(--md-large-header-font); text-transform: uppercase; font-size: 1.45rem;
+  line-height: 1; color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss); margin: .15rem 0 .1rem; }
+.sc-card__equip { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .03em;
+  font-size: .8rem; color: var(--md-default-fg-color--lighter); }
+
+.sc-card__stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: .35rem; margin: .8rem 0 0; }
+.sc-card__stat { background: rgba(0,0,0,.25); border: 1px solid var(--fx-metal-faint); border-radius: 6px;
+  padding: .4rem .25rem; text-align: center; }
+[data-md-color-scheme="default"] .sc-card__stat { background: rgba(0,0,0,.04); }
+.sc-card__stat .v { font-family: var(--md-code-font, monospace); font-weight: 700; font-size: .92rem; color: var(--sc-steel-lighter); }
+.sc-card__stat .l { font-family: var(--md-small-header-font); font-variant: small-caps; font-size: .68rem;
+  letter-spacing: .05em; color: var(--md-default-fg-color--lighter); margin-top: .1rem; }
+.sc-card__stat.is-dmg .v { color: var(--fx-metal-bright); }
+
+.sc-card__sig { display: flex; align-items: center; gap: .55rem; margin-top: .8rem;
+  padding-top: .7rem; border-top: 1px solid var(--fx-metal-faint); }
+.sc-card__dot { width: 9px; height: 9px; border-radius: 50%; flex: 0 0 auto; background: var(--md-accent-fg-color); }
+.sc-card__dot[data-type="strike"]    { background: var(--sc-ability-strike); }
+.sc-card__dot[data-type="ranged"]    { background: var(--sc-ability-ranged); }
+.sc-card__dot[data-type="area"]      { background: var(--sc-ability-area); }
+.sc-card__dot[data-type="passive"]   { background: var(--sc-ability-passive); }
+.sc-card__dot[data-type="maneuver"]  { background: var(--sc-ability-maneuver); }
+.sc-card__dot[data-type="triggered"] { background: var(--sc-ability-triggered); }
+.sc-card__sig-label { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .06em;
+  font-size: .72rem; color: var(--fx-metal); }
+.sc-card__sig-name { font-family: var(--md-small-header-font); font-size: .95rem; color: var(--md-default-fg-color); }
+
+@media screen and (max-width: 44.98em) {
+  .md-typeset .grid.cards > ul, .md-typeset .sc-cards { grid-template-columns: 1fr; }
+}

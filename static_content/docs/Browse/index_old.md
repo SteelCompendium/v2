@@ -9,7 +9,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
 <div class="grid cards" markdown>
 
--   <div class="sc-cardhead" markdown><span class="sc-crest">:material-shield-sword:</span> ### Classes</div>
+-   ### Classes
 
     ---
 
@@ -17,7 +17,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     [:octicons-arrow-right-24: View Classes](class/index.md)
 
--   <div class="sc-cardhead" markdown><span class="sc-crest">:material-account-group:</span> ### Ancestries</div>
+-   ### Ancestries
 
     ---
 
@@ -25,7 +25,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     [:octicons-arrow-right-24: View Ancestries](ancestry/index.md)
 
--   <div class="sc-cardhead" markdown><span class="sc-crest">:material-auto-fix:</span> ### Abilities</div>
+-   ### Abilities
 
     ---
 
@@ -33,7 +33,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     [:octicons-arrow-right-24: View Abilities](feature/ability/index.md)
 
--   <div class="sc-cardhead" markdown><span class="sc-crest">:material-bag-personal:</span> ### Kits</div>
+-   ### Kits
 
     ---
 
@@ -41,7 +41,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     [:octicons-arrow-right-24: View Kits](kit/index.md)
 
--   <div class="sc-cardhead" markdown><span class="sc-crest">:material-briefcase-variant:</span> ### Careers</div>
+-   ### Careers
 
     ---
 
@@ -49,7 +49,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     [:octicons-arrow-right-24: View Careers](career/index.md)
 
--   <div class="sc-cardhead" markdown><span class="sc-crest">:material-alert-decagram:</span> ### Complications</div>
+-   ### Complications
 
     ---
 
@@ -57,7 +57,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     [:octicons-arrow-right-24: View Complications](complication/index.md)
 
--   <div class="sc-cardhead" markdown><span class="sc-crest">:material-star-circle:</span> ### Features</div>
+-   ### Features
 
     ---
 
@@ -65,7 +65,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     [:octicons-arrow-right-24: View Features](feature/index.md)
 
--   <div class="sc-cardhead" markdown><span class="sc-crest">:material-diamond-stone:</span> ### Perks</div>
+-   ### Perks
 
     ---
 
@@ -73,7 +73,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     [:octicons-arrow-right-24: View Perks](perk/index.md)
 
--   <div class="sc-cardhead" markdown><span class="sc-crest">:material-crown:</span> ### Titles</div>
+-   ### Titles
 
     ---
 
@@ -81,7 +81,7 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     [:octicons-arrow-right-24: View Titles](title/index.md)
 
--   <div class="sc-cardhead" markdown><span class="sc-crest">:material-treasure-chest:</span> ### Treasures</div>
+-   ### Treasures
 
     ---
 
