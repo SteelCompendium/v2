@@ -103,12 +103,10 @@
   font-size: 1.5rem; line-height: 1;
   color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss);
 }
-/* count badge already injected by browse-enhancements.js — restyle to steel */
-.md-typeset .browse-card-count {
-  margin-left: auto; font-family: var(--md-code-font, monospace); font-weight: 700; font-size: .8rem;
-  color: var(--fx-metal-bright); background: var(--fx-metal-faint);
-  border: 1px solid var(--fx-metal-line); border-radius: 5px; padding: .1rem .5rem;
-}
+/* count badge injected by browse-enhancements.js — hidden on the landing cards.
+   (Long titles like “Complications” pushed it off the plate, and the raw count
+   adds little to the hub.) Remove this rule to bring the steel badge back. */
+.md-typeset .browse-card-count { display: none; }
 .md-typeset .grid.cards > ul > li > hr { margin: .7rem 0; }
 .md-typeset .grid.cards > ul > li > p { color: var(--md-default-fg-color--light); font-size: .82rem; }
 .md-typeset .grid.cards > ul > li > p:last-child { margin-top: auto; color: var(--fx-metal); }
@@ -137,9 +135,11 @@
 .sc-card__name { font-family: var(--md-large-header-font); text-transform: uppercase; font-size: 1.45rem;
   line-height: 1; color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss); margin: .15rem 0 .1rem; }
 .sc-card__equip { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .03em;
-  font-size: .8rem; color: var(--md-default-fg-color--lighter); }
+  font-size: .8rem; color: var(--md-default-fg-color--lighter); margin-top: .2rem; }
 
 .sc-card__stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: .35rem; margin: .8rem 0 0; }
+/* a second stat row (kits: offense under defense) tucks tight under the first */
+.sc-card__stats + .sc-card__stats { margin-top: .35rem; }
 .sc-card__stat { background: rgba(0,0,0,.25); border: 1px solid var(--fx-metal-faint); border-radius: 6px;
   padding: .4rem .25rem; text-align: center; }
 [data-md-color-scheme="default"] .sc-card__stat { background: rgba(0,0,0,.04); }
@@ -161,6 +161,10 @@
 .sc-card__bd .is-benefit b  { color: var(--sc-tier-high); }
 .sc-card__bd .is-drawback b { color: var(--sc-tier-low); }
 .sc-card__blurb { font-size: .82rem; color: var(--md-default-fg-color--light); line-height: 1.5; margin-top: .5rem; }
+.sc-card__flavor { font-size: .84rem; color: var(--md-default-fg-color--light); line-height: 1.5; margin-top: .55rem; text-wrap: pretty; }
+/* class primer — a light taste, clamped so it can never bloat the card */
+.sc-card__primer { font-size: .82rem; color: var(--md-default-fg-color--light); line-height: 1.5; margin-top: .6rem;
+  text-wrap: pretty; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
 
 .sc-card__sig { display: flex; align-items: center; gap: .55rem; margin-top: .8rem;
   padding-top: .7rem; border-top: 1px solid var(--fx-metal-faint); }
@@ -174,6 +178,30 @@
 .sc-card__sig-label { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .06em;
   font-size: .72rem; color: var(--fx-metal); }
 .sc-card__sig-name { font-family: var(--md-small-header-font); font-size: .95rem; color: var(--md-default-fg-color); }
+
+/* ============================================================
+   WIDE EDITORIAL CARDS — high-count, text-led types (complication, perk)
+   Emitted as <div class="sc-cards sc-cards--wide"> of <a class="sc-card sc-card--wide">
+   crest · name column · body column — full width, room for a longer line of text.
+   ============================================================ */
+.md-typeset .sc-cards--wide { grid-template-columns: 1fr; gap: .7rem; }
+.md-typeset .sc-card--wide {
+  display: grid; grid-template-columns: auto 13rem minmax(0, 1fr); align-items: center;
+  gap: 1.25rem; padding: .85rem 1.3rem;
+}
+.sc-card--wide .sc-card__namecol { min-width: 0; }
+.sc-card--wide .sc-card__name { font-size: 1.5rem; margin: .1rem 0 0; }
+.sc-card--wide .sc-card__type { font-size: .76rem; }
+.sc-card--wide .sc-card__body { min-width: 0; }
+.sc-card--wide .sc-card__body > :first-child { margin-top: 0; }
+.sc-card--wide .sc-card__flavor { margin-top: 0; }
+.sc-card--wide .sc-card__line { margin-top: 0; }
+.sc-card--wide .sc-card__line + .sc-card__flavor { margin-top: .35rem; }
+
+@media screen and (max-width: 50em) {
+  .md-typeset .sc-card--wide { grid-template-columns: auto minmax(0, 1fr); }
+  .md-typeset .sc-card--wide .sc-card__body { grid-column: 1 / -1; }
+}
 
 @media screen and (max-width: 44.98em) {
   .md-typeset .grid.cards > ul, .md-typeset .sc-cards { grid-template-columns: 1fr; }
