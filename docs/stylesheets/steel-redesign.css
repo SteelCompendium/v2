@@ -129,6 +129,19 @@
 .md-typeset .sc-card:hover { transform: translateY(-2px); box-shadow: var(--fx-bevel), 0 12px 26px rgba(0,0,0,.42), 0 0 0 1px var(--fx-metal-line); }
 .md-typeset .sc-card:hover.sc-fil::before, .md-typeset .sc-card:hover.sc-fil::after { opacity: .85; }
 
+/* Stretched-link: the card is a <div>; this overlay <a> is the whole-card click
+   target (the card links to its page). Real links inside the card (rendered from
+   markdown by steel-etl's inlineMD) sit above the overlay via z-index, so they stay
+   independently clickable. This is the standard fix for "clickable links inside a
+   clickable card" — a card-wrapping <a> would make those inner links invalid
+   <a>-in-<a> that browsers split apart. */
+.md-typeset .sc-card__link { position: absolute; inset: 0; z-index: 0; border-radius: inherit; }
+.md-typeset .sc-card__line a, .md-typeset .sc-card__body a {
+  position: relative; z-index: 1;
+  color: var(--fx-metal-bright); text-decoration: none;
+}
+.md-typeset .sc-card__line a:hover, .md-typeset .sc-card__body a:hover { text-decoration: underline; }
+
 .sc-card__head { display: flex; align-items: center; gap: .7rem; }
 .sc-card__type { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .08em;
   font-size: .8rem; color: var(--fx-metal); }
