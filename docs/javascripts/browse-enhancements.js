@@ -22,6 +22,9 @@
     var items = doc.querySelectorAll(".browse-index li");
     if (items.length > 0) return items.length;
 
+    var cards = doc.querySelectorAll(".sc-card");
+    if (cards.length > 0) return cards.length;
+
     // Fallback: count links in the main content
     var links = doc.querySelectorAll(".md-content a[href]");
     return links.length > 0 ? links.length : null;

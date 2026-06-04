@@ -91,12 +91,17 @@
 .md-typeset .grid.cards > ul > li::before { top: 8px; left: 8px; border-top-width: 1px; border-left-width: 1px; }
 .md-typeset .grid.cards > ul > li::after  { bottom: 8px; right: 8px; border-bottom-width: 1px; border-right-width: 1px; }
 
-/* leading crest + title on one row (markup: a .sc-cardhead wrapper holding
-   the crest span + the ### h3 — see handoff README) */
-.md-typeset .grid.cards > ul > li .sc-cardhead { display: flex; align-items: center; gap: .7rem; margin: 0 0 .1rem; }
-.md-typeset .grid.cards > ul > li h3 {
-  font-family: var(--md-small-header-font); font-size: 1.5rem; line-height: 1;
-  color: var(--sc-steel-lighter); margin: 0; text-shadow: var(--fx-emboss);
+/* leading crest + title on one row. Markup is a single Material heading whose
+   first inline is an icon carrying .sc-crest:
+       ### :material-shield-sword:{ .sc-crest } Classes
+   → <h3><span class="twemoji sc-crest"><svg/></span> Classes</h3>
+   The h3 itself is the flex row; the count badge (appended by
+   browse-enhancements.js) is pushed to the right. */
+.md-typeset .grid.cards > ul > li > h3 {
+  display: flex; align-items: center; gap: .7rem; margin: 0 0 .1rem;
+  font-family: var(--md-large-header-font); text-transform: uppercase;
+  font-size: 1.5rem; line-height: 1;
+  color: var(--sc-steel-lighter); text-shadow: var(--fx-emboss);
 }
 /* count badge already injected by browse-enhancements.js — restyle to steel */
 .md-typeset .browse-card-count {
@@ -142,6 +147,20 @@
 .sc-card__stat .l { font-family: var(--md-small-header-font); font-variant: small-caps; font-size: .68rem;
   letter-spacing: .05em; color: var(--md-default-fg-color--lighter); margin-top: .1rem; }
 .sc-card__stat.is-dmg .v { color: var(--fx-metal-bright); }
+
+/* extra card pieces for the other index types */
+.sc-card__line { font-family: var(--md-small-header-font); font-size: .82rem; color: var(--md-default-fg-color--light); margin-top: .55rem; }
+.sc-card__line b { color: var(--fx-metal); font-variant: small-caps; letter-spacing: .04em; font-weight: 400; }
+.sc-card__line .hl { color: var(--fx-metal-bright); font-variant: normal; letter-spacing: 0; }
+.sc-card__tags { display: flex; flex-wrap: wrap; gap: .3rem; margin-top: .6rem; }
+.sc-tag { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .03em; font-size: .74rem;
+  color: var(--md-default-fg-color--light); border: 1px solid var(--fx-metal-faint); border-radius: 5px; padding: .08rem .5rem; }
+.sc-card__bd { margin-top: .6rem; display: flex; flex-direction: column; gap: .3rem; }
+.sc-card__bd > div { font-size: .8rem; line-height: 1.45; color: var(--md-default-fg-color--light); }
+.sc-card__bd b { font-variant: small-caps; letter-spacing: .04em; font-weight: 700; margin-right: .35rem; }
+.sc-card__bd .is-benefit b  { color: var(--sc-tier-high); }
+.sc-card__bd .is-drawback b { color: var(--sc-tier-low); }
+.sc-card__blurb { font-size: .82rem; color: var(--md-default-fg-color--light); line-height: 1.5; margin-top: .5rem; }
 
 .sc-card__sig { display: flex; align-items: center; gap: .55rem; margin-top: .8rem;
   padding-top: .7rem; border-top: 1px solid var(--fx-metal-faint); }
