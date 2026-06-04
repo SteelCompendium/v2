@@ -14,7 +14,7 @@
   <a class="sc-card__link" href="area-of-expertise/" aria-label="Area of Expertise"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Area of Expertise</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">Choose one skill you already have from the crafting skill group. Whenever you obtain a tier 1 outcome on an easy or medium test using this skill, you treat it as a tier 2 outcome instead. Additionally, if you spend 1 minute inspecting an ob…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Choose one skill you already have from the crafting skill group. Whenever you obtain a tier 1 outcome on an easy or medium test using this skill, you treat it as a tier 2 outcome instead. Additionally, if you spend 1 minute inspecting an object related to the chosen skill, you can estimate its value and learn of any flaws in its construction.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
@@ -35,7 +35,7 @@
   <a class="sc-card__link" href="but-i-know-who-does/" aria-label="But I Know Who Does"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">But I Know Who Does</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">Whenever you fail a test to recall lore using a skill from the lore skill group, you instinctively recall the nearest location where the information you seek might be found. This could be the tower of a local sage, a library in a nearby cit…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Whenever you fail a test to recall lore using a skill from the lore skill group, you instinctively recall the nearest location where the information you seek might be found. This could be the tower of a local sage, a library in a nearby city, somewhere deep in a dungeon, or any other location of the Director&#39;s determination. The Director can decide that certain lore can&#39;t be revealed this way.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
@@ -49,7 +49,7 @@
   <a class="sc-card__link" href="charming-liar/" aria-label="Charming Liar"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Charming Liar</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">If you fail a test using the Lie skill, you don&#39;t suffer any consequences associated with the failure. Additionally, during a negotiation, you can be caught in one lie without negative consequences. When you use either benefit of this perk,…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">If you fail a test using the Lie skill, you don&#39;t suffer any consequences associated with the failure. Additionally, during a negotiation, you can be caught in one lie without negative consequences. When you use either benefit of this perk, you can&#39;t use this perk again until you earn 1 or more Victories.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
@@ -63,14 +63,14 @@
   <a class="sc-card__link" href="criminal-contacts/" aria-label="Criminal Contacts"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Criminal Contacts</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">You have access to a network of criminal contacts. As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a Presence test. On a tier 2 outcome, you learn one piece of information th…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You have access to a network of criminal contacts. As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a Presence test. On a tier 2 outcome, you learn one piece of information that would be common among criminals—the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves&#39; guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be…</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
   <a class="sc-card__link" href="danger-sense/" aria-label="Danger Sense"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Danger Sense</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">Whenever you are in a natural environment (but not in a settlement in that environment), you gain an edge on tests made using the Alertness skill, and you can&#39;t be surprised. Additionally, you have a connection to nature that warns you if a…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Whenever you are in a natural environment (but not in a settlement in that environment), you gain an edge on tests made using the Alertness skill, and you can&#39;t be surprised. Additionally, you have a connection to nature that warns you if any natural disaster is imminent within the next 72 hours, though you don&#39;t know exactly what it will entail (an earthquake, a wildfire, and so forth).</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
@@ -84,14 +84,14 @@
   <a class="sc-card__link" href="eidetic-memory/" aria-label="Eidetic Memory"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Eidetic Memory</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">Your mind is an encyclopedia, though not always an easy one to organize. When you finish a respite, choose one skill from the lore skill group that you don&#39;t have. You have that skill until you finish your next respite. Additionally, if you…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Your mind is an encyclopedia, though not always an easy one to organize. When you finish a respite, choose one skill from the lore skill group that you don&#39;t have. You have that skill until you finish your next respite. Additionally, if you spend 1 uninterrupted minute or more reading any page of text, you can memorize its contents, allowing you to memorize entire books with sufficient time.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
   <a class="sc-card__link" href="engrossing-monologue/" aria-label="Engrossing Monologue"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Engrossing Monologue</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">Whenever you are not in combat, you can shout to get the attention of hearing creatures within 10 squares of you. Each such creature who is not hostile toward you listens to what you have to say for 1 uninterrupted minute or more, or until…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Whenever you are not in combat, you can shout to get the attention of hearing creatures within 10 squares of you. Each such creature who is not hostile toward you listens to what you have to say for 1 uninterrupted minute or more, or until they sense danger or any form of imminent harm. While creatures are listening to you, each of your allies gains an edge on tests made to avoid being noticed by those creatures.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
@@ -112,28 +112,34 @@
   <a class="sc-card__link" href="familiar/" aria-label="Familiar"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Familiar</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your familiar—or to adopt you as their familiar.</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your familiar—or to adopt you as their familiar.<br>
+<br>
+The spirit uses the familiar stat block.<br>
+<br>
+The familiar can hold small objects in their mouth or claws, but can&#39;t perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can&#39;t harm other creatures or objects. They can flank in combat, but only with you.<br>
+<br>
+If your famil…</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
   <a class="sc-card__link" href="forgettable-face/" aria-label="Forgettable Face"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Forgettable Face</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">If you spend 10 minutes or less interacting with a creature who hasn&#39;t met you before, you can cause them to forget your face when you part. If asked to describe you, the creature gives only a vague, blank, and unhelpful description. Additi…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">If you spend 10 minutes or less interacting with a creature who hasn&#39;t met you before, you can cause them to forget your face when you part. If asked to describe you, the creature gives only a vague, blank, and unhelpful description. Additionally, if you spend 1 hour or more assembling a disguise, you automatically obtain a tier 2 outcome on any test that could make use of the Disguise skill. If you have the Disguise skill, you automatically obtain a tier 3 outcome on the tes…</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
   <a class="sc-card__link" href="friend-catapult/" aria-label="Friend Catapult"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Friend Catapult</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">As a maneuver, you grab a willing adjacent ally or object of your size or smaller, then vertical push that target up to a number of squares equal to twice your Might score. If a creature you push falls as a result of this movement, the effe…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">As a maneuver, you grab a willing adjacent ally or object of your size or smaller, then vertical push that target up to a number of squares equal to twice your Might score. If a creature you push falls as a result of this movement, the effective distance of the fall is reduced by a number of squares equal to twice your Might score. When you use this perk, you can&#39;t use it again until you earn 1 or more Victories.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
   <a class="sc-card__link" href="gum-up-the-works/" aria-label="Gum Up the Works"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Gum Up the Works</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">Whenever a mundane trap activates within 3 squares, you can use a triggered action to move up to 3 squares toward it. If this movement brings you adjacent to any of the trap&#39;s mechanisms, you can jam the trap, preventing it from activating.…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Whenever a mundane trap activates within 3 squares, you can use a triggered action to move up to 3 squares toward it. If this movement brings you adjacent to any of the trap&#39;s mechanisms, you can jam the trap, preventing it from activating. As long as you stay adjacent to the mechanism, the trap can&#39;t go off unless an attempt to disarm it fails.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
@@ -147,14 +153,14 @@
   <a class="sc-card__link" href="harmonizer/" aria-label="Harmonizer"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Harmonizer</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">You can make a Presence test using the Music skill to influence creatures who don&#39;t have emotions or can&#39;t understand you. Additionally, once during a negotiation when an ally makes an argument, you can play music to give that ally an edge…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You can make a Presence test using the Music skill to influence creatures who don&#39;t have emotions or can&#39;t understand you. Additionally, once during a negotiation when an ally makes an argument, you can play music to give that ally an edge on their test.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
   <a class="sc-card__link" href="improvisation-creation/" aria-label="Improvisation Creation"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Improvisation Creation</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">Without needing to make a test—and even without tools—you can quickly jury-rig or repair a mundane item or piece of equipment related to a skill you have from the crafting skill group. That item lasts for 1 hour or works for one use or acti…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Without needing to make a test—and even without tools—you can quickly jury-rig or repair a mundane item or piece of equipment related to a skill you have from the crafting skill group. That item lasts for 1 hour or works for one use or activation (whichever comes first, as the Director determines), then breaks beyond repair. For example, if you have the Carpentry skill, you could repair a rickety wooden bridge long enough for a group of creatures to cross it, or build a simpl…</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
@@ -196,7 +202,7 @@
   <a class="sc-card__link" href="linguist/" aria-label="Linguist"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Linguist</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">You automatically learn two new languages, as long as you have regularly heard those languages spoken or seen them written before. Additionally, if you spend 7 days or more in a place where you regularly hear or read a language you don&#39;t kn…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You automatically learn two new languages, as long as you have regularly heard those languages spoken or seen them written before. Additionally, if you spend 7 days or more in a place where you regularly hear or read a language you don&#39;t know, you can pick up enough of that language to hold a conversation or understand basic written information. Having picked up a language this way, you can subsequently learn it using the Learn New Language research project at half the usual…</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
@@ -224,7 +230,7 @@
   <a class="sc-card__link" href="open-book/" aria-label="Open Book"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Open Book</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">Whenever you speak one-on-one with a creature, you can ask them one question about themself that might typically offend them or raise suspicion. If they choose not to answer honestly, they simply deflect or redirect the question, with no fu…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Whenever you speak one-on-one with a creature, you can ask them one question about themself that might typically offend them or raise suspicion. If they choose not to answer honestly, they simply deflect or redirect the question, with no further complications. If they choose to answer honestly, the creature can immediately ask you a question about yourself in turn, which you must answer honestly.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
@@ -280,28 +286,28 @@
   <a class="sc-card__link" href="ritualist/" aria-label="Ritualist"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Ritualist</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">You can spend 1 uninterrupted minute to perform a magic ritual of blessing, targeting yourself or one willing creature you touch. The target has a double edge on the next test they make within the next minute. A target can&#39;t use this benefi…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You can spend 1 uninterrupted minute to perform a magic ritual of blessing, targeting yourself or one willing creature you touch. The target has a double edge on the next test they make within the next minute. A target can&#39;t use this benefit on an activity that takes longer than 1 minute.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
   <a class="sc-card__link" href="slipped-lead/" aria-label="Slipped Lead"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Slipped Lead</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">You gain an edge on tests made to escape bonds. Given 1 uninterrupted minute, you can escape any mundane bonds without making a test. Additionally, it&#39;s not immediately obvious when you&#39;ve escaped bonds until you do something that makes it…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You gain an edge on tests made to escape bonds. Given 1 uninterrupted minute, you can escape any mundane bonds without making a test. Additionally, it&#39;s not immediately obvious when you&#39;ve escaped bonds until you do something that makes it clear you have done so (cast them off, use an ability that harms one or more creatures, and so forth).</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
   <a class="sc-card__link" href="so-tell-me/" aria-label="So Tell Me..."></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">So Tell Me...</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">Whenever you succeed on a Presence test to influence one or more creatures, you can ask one creature you influenced a follow-up question after the test resolves, which they must answer honestly. At the Director&#39;s discretion, the creature do…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Whenever you succeed on a Presence test to influence one or more creatures, you can ask one creature you influenced a follow-up question after the test resolves, which they must answer honestly. At the Director&#39;s discretion, the creature doesn&#39;t have to answer the question completely—or at all—if the response would put them or a loved one in danger.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
   <a class="sc-card__link" href="specialist/" aria-label="Specialist"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Specialist</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">You are a leading expert on a particular subject. Choose one skill you have from the lore skill group. You always have a double edge on tests made to recall lore using this skill. Additionally, your specialist knowledge grants you notoriety…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You are a leading expert on a particular subject. Choose one skill you have from the lore skill group. You always have a double edge on tests made to recall lore using this skill. Additionally, your specialist knowledge grants you notoriety in fields related to the chosen skill. You treat your Renown as 1 higher when negotiating with an NPC who knows your reputation, or 2 higher if they have the same skill you chose for this perk.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
@@ -329,7 +335,7 @@
   <a class="sc-card__link" href="thingspeaker/" aria-label="Thingspeaker"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Thingspeaker</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">When you hold an object in your hand for 1 uninterrupted minute, you can sense whether it bears emotional resonance. Objects with emotional resonance could include treasured gifts, murder weapons, or personal keepsakes. If the Director dete…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">When you hold an object in your hand for 1 uninterrupted minute, you can sense whether it bears emotional resonance. Objects with emotional resonance could include treasured gifts, murder weapons, or personal keepsakes. If the Director determines that the object bears emotional resonance, you learn the most dominant emotion associated with the object, then receive a vision that answers one of the following questions:</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
@@ -371,7 +377,7 @@
   <a class="sc-card__link" href="wilds-explorer/" aria-label="Wilds Explorer"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 5.8a2 2 0 0 0 1.3 1.3L21 12l-5.8 1.9a2 2 0 0 0-1.3 1.3L12 21l-1.9-5.8a2 2 0 0 0-1.3-1.3L3 12l5.8-1.9a2 2 0 0 0 1.3-1.3Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Perk</div><div class="sc-card__name">Wilds Explorer</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">You and your companion gain an edge on tests made to overcome environmental cold, heat, weather, unsteady ground, or challenging terrain. During your turn, you and your companion can ignore the first square of difficult terrain you each ent…</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You and your companion gain an edge on tests made to overcome environmental cold, heat, weather, unsteady ground, or challenging terrain. During your turn, you and your companion can ignore the first square of difficult terrain you each enter.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">

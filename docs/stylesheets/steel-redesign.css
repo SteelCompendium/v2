@@ -175,9 +175,16 @@
 .sc-card__bd .is-drawback b { color: var(--sc-tier-low); }
 .sc-card__blurb { font-size: .82rem; color: var(--md-default-fg-color--light); line-height: 1.5; margin-top: .5rem; }
 .sc-card__flavor { font-size: .84rem; color: var(--md-default-fg-color--light); line-height: 1.5; margin-top: .55rem; text-wrap: pretty; }
-/* class primer — a light taste, clamped so it can never bloat the card */
-.sc-card__primer { font-size: .82rem; color: var(--md-default-fg-color--light); line-height: 1.5; margin-top: .6rem;
-  text-wrap: pretty; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+/* class intro — the full first section (everything before "Basics"), rendered
+   with its paragraph/blockquote structure intact */
+.sc-card__intro { font-size: .82rem; color: var(--md-default-fg-color--light); line-height: 1.5; margin-top: .6rem;
+  text-wrap: pretty; }
+.sc-card__intro > :first-child { margin-top: 0; }
+.sc-card__intro p { margin: .5rem 0 0; }
+.sc-card__intro blockquote { margin: .55rem 0 0; padding: .1rem 0 .1rem .7rem;
+  border-left: 2px solid var(--fx-metal-faint); color: var(--md-default-fg-color--light); font-style: italic; }
+.sc-card__intro blockquote p { margin: .2rem 0 0; }
+.sc-card__intro ul, .sc-card__intro ol { margin: .35rem 0 0; padding-left: 1.1rem; }
 
 .sc-card__sig { display: flex; align-items: center; gap: .55rem; margin-top: .8rem;
   padding-top: .7rem; border-top: 1px solid var(--fx-metal-faint); }
