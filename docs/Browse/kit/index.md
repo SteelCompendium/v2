@@ -7,8 +7,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m3 21 9-9"/><path d="M15 4V2"/><path d="M15 16v-2"/><path d="M8 9h2"/><path d="M20 9h2"/><path d="M17.8 11.8 19 13"/><path d="M15 9h.01"/><path d="M17.8 6.2 19 5"/><path d="M12.2 6.2 11 5"/></svg></span></span>
     <div><div class="sc-card__type">Magic Kit</div>
     <div class="sc-card__name">Arcane Archer</div></div></div>
-  <div class="sc-card__equip">No armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">No armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -20,8 +20,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m3 21 9-9"/><path d="M15 4V2"/><path d="M15 16v-2"/><path d="M8 9h2"/><path d="M20 9h2"/><path d="M17.8 11.8 19 13"/><path d="M15 9h.01"/><path d="M17.8 6.2 19 5"/><path d="M12.2 6.2 11 5"/></svg></span></span>
     <div><div class="sc-card__type">Psionic Kit</div>
     <div class="sc-card__name">Battlemind</div></div></div>
-  <div class="sc-card__equip">Light armor &middot; Medium weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Light armor &middot; Medium weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+3</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+2</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
@@ -33,8 +33,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Boren</div></div></div>
-  <div class="sc-card__equip">— armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">— armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -46,8 +46,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Cloak and Dagger</div></div></div>
-  <div class="sc-card__equip">Light armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Light armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+3</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+2</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -59,8 +59,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Corven</div></div></div>
-  <div class="sc-card__equip">— armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">— armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -72,8 +72,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Dual Wielder</div></div></div>
-  <div class="sc-card__equip">Medium armor &middot; Light weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Medium armor &middot; Light weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+6</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+2</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -85,8 +85,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Guisarmier</div></div></div>
-  <div class="sc-card__equip">Medium armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Medium armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+6</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
@@ -98,8 +98,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Martial Artist</div></div></div>
-  <div class="sc-card__equip">No armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">No armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+3</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+3</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -111,8 +111,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Mountain</div></div></div>
-  <div class="sc-card__equip">Heavy armor &middot; Heavy weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Heavy armor &middot; Heavy weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+9</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">+2</div><div class="l">Stability</div></div>
@@ -124,8 +124,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Panther</div></div></div>
-  <div class="sc-card__equip">No armor &middot; Heavy weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">No armor &middot; Heavy weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+6</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
@@ -137,8 +137,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Pugilist</div></div></div>
-  <div class="sc-card__equip">No armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">No armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+6</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+2</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
@@ -150,8 +150,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Raden</div></div></div>
-  <div class="sc-card__equip">— armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">— armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -163,8 +163,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Raider</div></div></div>
-  <div class="sc-card__equip">Light armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Light armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+6</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -176,8 +176,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Ranger</div></div></div>
-  <div class="sc-card__equip">Medium armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Medium armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+6</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -189,8 +189,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Rapid-Fire</div></div></div>
-  <div class="sc-card__equip">Light armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Light armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+3</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -202,8 +202,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Retiarius</div></div></div>
-  <div class="sc-card__equip">Light armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Light armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+3</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -215,8 +215,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Shining Armor</div></div></div>
-  <div class="sc-card__equip">Heavy armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Heavy armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+12</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
@@ -228,8 +228,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Sniper</div></div></div>
-  <div class="sc-card__equip">No armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">No armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -241,8 +241,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m3 21 9-9"/><path d="M15 4V2"/><path d="M15 16v-2"/><path d="M8 9h2"/><path d="M20 9h2"/><path d="M17.8 11.8 19 13"/><path d="M15 9h.01"/><path d="M17.8 6.2 19 5"/><path d="M12.2 6.2 11 5"/></svg></span></span>
     <div><div class="sc-card__type">Magic Kit</div>
     <div class="sc-card__name">Spellsword</div></div></div>
-  <div class="sc-card__equip">Light armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Light armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+6</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
@@ -254,8 +254,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Stick and Robe</div></div></div>
-  <div class="sc-card__equip">Light armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Light armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+3</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+2</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -267,8 +267,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Swashbuckler</div></div></div>
-  <div class="sc-card__equip">Light armor &middot; Medium weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Light armor &middot; Medium weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+3</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+3</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -280,8 +280,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Sword and Board</div></div></div>
-  <div class="sc-card__equip">Medium armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Medium armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+9</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
@@ -293,8 +293,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Vuken</div></div></div>
-  <div class="sc-card__equip">— armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">— armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
@@ -306,8 +306,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m3 21 9-9"/><path d="M15 4V2"/><path d="M15 16v-2"/><path d="M8 9h2"/><path d="M20 9h2"/><path d="M17.8 11.8 19 13"/><path d="M15 9h.01"/><path d="M17.8 6.2 19 5"/><path d="M12.2 6.2 11 5"/></svg></span></span>
     <div><div class="sc-card__type">Magic Kit</div>
     <div class="sc-card__name">Warrior Priest</div></div></div>
-  <div class="sc-card__equip">Heavy armor &middot; Light weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">Heavy armor &middot; Light weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">+9</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
@@ -319,8 +319,8 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Whirlwind</div></div></div>
-  <div class="sc-card__equip">No armor &middot; — weapon</div>
-  <div class="sc-card__stats">
+  <div class="sc-card__line">No armor &middot; — weapon</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina</div></div>
     <div class="sc-card__stat"><div class="v">+3</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
