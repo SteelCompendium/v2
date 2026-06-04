@@ -24,7 +24,7 @@
     Self-canonical on the friendly page. The SCC URL (/scc/<code>/) is a stable,
     shareable redirect entry point, not real content — pointing canonical at it
     would target a noindex redirect stub. Search engines index the friendly page;
-    the SCC permalink is surfaced to humans via the copy button (scc-permalink-copy.js).
+    the SCC permalink is surfaced to humans via the heading-anchor icons (scc-headerlinks.js).
   -#}
   {% if page.canonical_url %}
     <link rel="canonical" href="{{ page.canonical_url }}">
@@ -59,9 +59,10 @@
 <meta name="scc-base" content="{{ config.site_url }}scc/">
 {% if page and page.meta and page.meta.scc %}
 {#-
-  Expose the page's SCC permalink. scc-permalink-copy.js reads this to render a
-  "copy permalink" button. The address bar is NOT rewritten — the friendly URL
-  is the real, canonical, indexable location; the SCC URL is a stable redirect.
+  Expose the page's SCC permalink. scc-headerlinks.js reads this so the page H1's
+  heading-anchor (¶) icon copies the stable SCC link. The address bar is NOT
+  rewritten — the friendly URL is the real, canonical, indexable location; the
+  SCC URL is a stable redirect.
 -#}
 <meta name="scc-permalink" content="{{ config.site_url }}scc/{{ page.meta.scc }}/">
 {% endif %}

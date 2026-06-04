@@ -178,45 +178,26 @@ th:empty {
     font-family: var(--md-code-font, monospace);
 }
 
-/* SCC permalink copy button (next to the page title) */
-.scc-permalink-copy {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.35em;
-    margin-left: 0.6em;
-    padding: 0.15em 0.6em;
-    font-size: 0.4em;
+/* SCC-backed heading permalinks: distinct accent vs. the muted default ¶.
+   Material renders the ¶ as a.headerlink (hover-revealed). scc-headerlinks.js
+   adds .headerlink--scc to anchors that copy a stable /scc/<code>/ link, and a
+   transient .headerlink--copied on a successful copy. */
+.md-typeset .headerlink--scc {
+    color: var(--md-accent-fg-color);
+}
+
+.md-typeset .headerlink--scc:hover {
+    color: var(--md-accent-fg-color);
+    opacity: 1;
+}
+
+/* Brief "Copied!" confirmation rendered next to the icon. */
+.md-typeset .headerlink.headerlink--copied::after {
+    content: " Copied!";
+    font-size: 0.7em;
     font-weight: 600;
-    line-height: 1.4;
+    color: var(--md-accent-fg-color);
     vertical-align: middle;
-    cursor: pointer;
-    color: var(--md-default-fg-color--light);
-    background: var(--md-default-bg-color);
-    border: 1px solid var(--md-default-fg-color--lightest);
-    border-radius: 1em;
-    transition: color 0.15s, border-color 0.15s, background 0.15s;
-}
-
-.scc-permalink-copy:hover {
-    color: var(--md-accent-fg-color);
-    border-color: var(--md-accent-fg-color);
-    background: var(--md-accent-fg-color--transparent);
-}
-
-.scc-permalink-copy:focus-visible {
-    outline: 2px solid var(--md-accent-fg-color);
-    outline-offset: 2px;
-}
-
-.scc-permalink-copy--flash {
-    color: var(--md-accent-fg-color);
-    border-color: var(--md-accent-fg-color);
-    background: var(--md-accent-fg-color--transparent);
-}
-
-.scc-permalink-copy__icon {
-    font-size: 1.1em;
-    line-height: 1;
 }
 
 /* Browse expandable index sections */
