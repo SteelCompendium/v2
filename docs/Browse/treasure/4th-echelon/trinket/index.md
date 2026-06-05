@@ -9,7 +9,12 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Battle Wings</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__blurb">Only a beastheart&#39;s companion or an animal can wear this item. While wearing it, the creat…</div>
+  <div class="sc-card__flavor">These gently undulating wings affix themselves to a creature&#39;s shoulders.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+    <div class="sc-card__stat"><div class="v">600</div><div class="l">Project Goal</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A creature's feather given as a gift by the creature</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Khelt and Yllric <strong>Project Roll Characteristic:</strong> Agility or Intuition</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="gravekeepers-lantern/" aria-label="Gravekeeper&#39;s Lantern"></a>
@@ -17,7 +22,13 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Gravekeeper&#39;s Lantern</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">The Gravekeeper&#39;&#39;s Lantern can temporarily trap a nonhostile spirit of the dead—either an…</div>
+  <div class="sc-card__flavor">This ancient wooden lantern is inscribed with eldritch runes and stained with dark blood.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">600</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> The powdered jawbone of a powerful spellcaster, wood from a tree marking multiple graves</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Hyrallic</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="psi-blade/" aria-label="Psi Blade"></a>
@@ -25,6 +36,12 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Psi Blade</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Arms</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__blurb">While wearing this metallic band, you can use a maneuver to project a glowing blade of rip…</div>
+  <div class="sc-card__flavor">This wide metal bracer is set with a glowing gemstone.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">600</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Presence</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> Steel alloy, one fine-cut topaz</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Mindspeech</div>
 </div>
 </div>

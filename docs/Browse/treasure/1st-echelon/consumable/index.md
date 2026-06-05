@@ -9,7 +9,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Black Ash Dart</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">As a maneuver, you make a ranged free strike using a black ash dart. The strike deals an e…</div>
+  <div class="sc-card__flavor">A diamond-shaped dart holds a shimmering black vial at its core.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">45 (yields 1d3 darts, or three darts if crafted by a shadow)</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> Three vials of black ash from the College of Black Ash</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Szetch</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="blood-essence-vial/" aria-label="Blood Essence Vial"></a>
@@ -17,7 +23,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Blood Essence Vial</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Potion</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__blurb">When you damage an adjacent creature who has blood, you can capture the target&#39;s life esse…</div>
+  <div class="sc-card__flavor">A brittle glass tube has a ruby set atop it, attached by a hinge.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Reason</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A ruby purloined from a vampire</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Proto-Ctholl</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="buzz-balm/" aria-label="Buzz Balm"></a>
@@ -25,7 +37,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Buzz Balm</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Oil</span></div>
-  <div class="sc-card__blurb">As a maneuver, you rub the balm on your body and feel it tingle across your skin. You imme…</div>
+  <div class="sc-card__flavor">This cooling orange salve crackles and pops when exposed to the air.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> An ounce of demon honey</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Kalliak</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="catapult-dust/" aria-label="Catapult Dust"></a>
@@ -33,7 +51,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Catapult Dust</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">Catapult Dust was developed as a cost-effective magic siege weapon. As a main action, you…</div>
+  <div class="sc-card__flavor">A small leather pouch is filled with this fine blue powder.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> An ounce of witherite crystal</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="giants-blood-flame/" aria-label="Giant&#39;s-Blood Flame"></a>
@@ -41,7 +65,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Giant&#39;s-Blood Flame</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Oil</span></div>
-  <div class="sc-card__blurb">As a maneuver, you coat a weapon in this oil and ignite it. The weapon burns persistently…</div>
+  <div class="sc-card__flavor">A small pot is filled with a viscous, ochre oil that smells of sulfur and burnt hair.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> One vial of fire giant blood</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="growth-potion/" aria-label="Growth Potion"></a>
@@ -49,7 +79,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Growth Potion</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Potion</span></div>
-  <div class="sc-card__blurb">As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, c…</div>
+  <div class="sc-card__flavor">This thick green liquid tastes of licorice and potatoes.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A half-pound of seagrass</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="healing-potion/" aria-label="Healing Potion"></a>
@@ -57,7 +93,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Healing Potion</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Potion</span></div>
-  <div class="sc-card__blurb">When you drink this potion as a maneuver, you regain Stamina equal to your recovery value…</div>
+  <div class="sc-card__flavor">Thick and red, this liquid tastes of sour beer.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> An ounce of costmary leaves</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="imps-tongue/" aria-label="Imp&#39;s Tongue"></a>
@@ -65,7 +107,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Imp&#39;s Tongue</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">As a maneuver, you place the imp&#39;s tongue on your own tongue, causing it to reconstitute a…</div>
+  <div class="sc-card__flavor">The tongue of an imp has been dried and preserved. Yuck.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> One imp's tongue</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="lachomp-tooth/" aria-label="Lachomp Tooth"></a>
@@ -73,7 +121,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Lachomp Tooth</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__blurb">As a maneuver, you attach a lachomp tooth to a weapon, allowing that weapon to supernatura…</div>
+  <div class="sc-card__flavor">A thumb-sized serrated tooth manages to scratch your flesh in some way whenever it is handled.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">45 (yields 1d3 teeth)</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A leftover carcass of a lachomp meal</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="mirror-token/" aria-label="Mirror Token"></a>
@@ -81,7 +135,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Mirror Token</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__blurb">While the Mirror Token is on your person and you are targeted by a ranged strike, you can…</div>
+  <div class="sc-card__flavor">A gold-rimmed, mirror-faced coin trembles in the hand as if it were repelled by your touch.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> Three sheets of glass, sunbaked gold dust</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Variac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="pocket-homunculus/" aria-label="Pocket Homunculus"></a>
@@ -89,7 +149,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Pocket Homunculus</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__blurb">When activated as a maneuver, this item erupts in a bright flash, you can shift 1 square w…</div>
+  <div class="sc-card__flavor">A densely interlocking sphere of clockwork gears features facets that show the countenance of the item&#39;s wielder.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A strip of starmetal coated in the blood of the item's crafter</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Zaliac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="portable-cloud/" aria-label="Portable Cloud"></a>
@@ -97,7 +163,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Portable Cloud</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">As a maneuver, you throw this delicate glass sphere up to 5 squares, breaking it and creat…</div>
+  <div class="sc-card__flavor">This thin glass sphere holds a tiny roiling cloud.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">30 or 45 (see below)</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A cup of rainwater from a sacred fey grove, plus an optional prerequisite (see below)</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="professor-veratismos-quaff-n-huff-snuff/" aria-label="Professor Veratismo&#39;s Quaff &#39;n Huff Snuff"></a>
@@ -105,7 +177,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Professor Veratismo&#39;s Quaff &#39;n Huff Snuff</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Potion</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__blurb">As a maneuver, you sprinkle a dose of this powder onto food or drink, or blow it at an adj…</div>
+  <div class="sc-card__flavor">This tiny compact holds a colorless powder with the slightest astringent smell.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> The roots of a just-budded nightshade</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="snapdragon/" aria-label="Snapdragon"></a>
@@ -113,6 +191,12 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Snapdragon</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your…</div>
+  <div class="sc-card__flavor">This delicate orange blossom has a sickly-sweet smell.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">45 (yields 1d6 + 1 snapdragons)</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> Fifty snapdragon seeds</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Yllyric</div>
 </div>
 </div>

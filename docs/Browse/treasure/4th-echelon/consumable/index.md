@@ -9,7 +9,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Breath of Creation</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__blurb">When you inhale the Breath of Creation as a maneuver, you are imbued with cosmic power. Yo…</div>
+  <div class="sc-card__flavor">A glass flask holds a roiling storm of astral plasma.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">360</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Intuition or Presence</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> The captured breath of a god, an ounce of condensed dreams</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in the First Language</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="elixir-of-saint-elspeth/" aria-label="Elixir of Saint Elspeth"></a>
@@ -17,7 +23,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Elixir of Saint Elspeth</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Potion</span></div>
-  <div class="sc-card__blurb">When you pour the elixir onto your forehead as a maneuver, it vanishes and you protect you…</div>
+  <div class="sc-card__flavor">This thick red liquid smells of cinnamon.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">360</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Presence</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> An ounce of the blood of Saint Elspeth</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="page-from-the-infinite-library-solaris/" aria-label="Page From the Infinite Library: Solaris"></a>
@@ -25,7 +37,13 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Page From the Infinite Library: Solaris</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">As a maneuver, you spend 1 Heroic Resource to destroy this page and create a 4-cube area w…</div>
+  <div class="sc-card__flavor">This page is covered with writing and diagrams detailing the release of limitless energy—and the dangers of that process.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">360</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> One vial of sacred ink, blessed parchment</div>
+  <div class="sc-card__line"><b>Source</b> Reference materials in the First Language from the</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="restorative-of-the-bright-court/" aria-label="Restorative of the Bright Court"></a>
@@ -33,6 +51,12 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Restorative of the Bright Court</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">When opened as a maneuver, this vial bursts into a storm of multicolored lights. You and e…</div>
+  <div class="sc-card__flavor">An ornately decorated golden vial smells of summer rain and subtle zesty fruits.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">360</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Presence</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A year's lifespan from the creator or another willing creature, the laughter of a young hero</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Khelt</div>
 </div>
 </div>

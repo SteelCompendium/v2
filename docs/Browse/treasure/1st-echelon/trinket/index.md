@@ -9,7 +9,13 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Color Cloak (Blue)</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__blurb">While worn, a blue Color Cloak grants you cold immunity equal to your level.</div>
+  <div class="sc-card__flavor">This silky-blue hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;ice.&#34;</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A pint of blue ichor, soul chalk</div>
+  <div class="sc-card__line"><b>Source</b> Licensing agreements in Anjali</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="color-cloak-red/" aria-label="Color Cloak (Red)"></a>
@@ -17,7 +23,13 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Color Cloak (Red)</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__blurb">While worn, a red Color Cloak grants you fire immunity equal to your level.</div>
+  <div class="sc-card__flavor">This red woolen hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;fire.&#34;</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A pint of red ichor, soul chalk</div>
+  <div class="sc-card__line"><b>Source</b> Licensing agreements in Anjali</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="color-cloak-yellow/" aria-label="Color Cloak (Yellow)"></a>
@@ -25,7 +37,13 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Color Cloak (Yellow)</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__blurb">While worn, a yellow Color Cloak grants you lightning immunity equal to your level.</div>
+  <div class="sc-card__flavor">This yellow rubbery hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;lightning.&#34;</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A pint of yellow ichor, soul chalk</div>
+  <div class="sc-card__line"><b>Source</b> Licensing agreements in Anjali</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="deadweight/" aria-label="Deadweight"></a>
@@ -33,7 +51,13 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Deadweight</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each sq…</div>
+  <div class="sc-card__flavor">Though this humanoid femur is coated in lead, it feels impossibly heavy for its size.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> One humanoid femur, one bar of lead laced with starmetal</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="displacing-replacement-bracer/" aria-label="Displacing Replacement Bracer"></a>
@@ -41,7 +65,13 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Displacing Replacement Bracer</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Arms</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__blurb">As a maneuver, you transfer an object of size 1S or 1T held in one hand with another objec…</div>
+  <div class="sc-card__flavor">A wooden bangle is etched with an ambigram sigil of the Zaliac word for &#34;transfer.&#34;</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> Petrified wood from a tree that has not been observed since falling</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Zaliac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="divine-vine/" aria-label="Divine Vine"></a>
@@ -49,7 +79,13 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Divine Vine</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squa…</div>
+  <div class="sc-card__flavor">A coil of emerald-green vines is topped with the jaws of an enormous Venus flytrap.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Presence</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> Three withered mundane vines, a tree's blessing</div>
+  <div class="sc-card__line"><b>Source</b> Songs in Yllyric</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="flameshade-gloves/" aria-label="Flameshade Gloves"></a>
@@ -57,7 +93,13 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Flameshade Gloves</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Hands</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__blurb">When you use a move action while wearing these gloves, you can place one hand upon a munda…</div>
+  <div class="sc-card__flavor">These finely stitched gloves appear to flicker in and out of reality when first handled.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A humanoid's shadow disconnected from its source</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Khelt</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="gecko-gloves/" aria-label="Gecko Gloves"></a>
@@ -65,7 +107,13 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Gecko Gloves</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Hands</span><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">While you wear these gloves, your grip is all but impossible to break. You can&#39;t be disarm…</div>
+  <div class="sc-card__flavor">These scaled gloves have palms and fingers covered in near-invisible sticky hairs.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> Ten gecko tails</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="hellcharger-helm/" aria-label="Hellcharger Helm"></a>
@@ -73,7 +121,13 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Hellcharger Helm</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Head</span><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">Whenever you use the Charge main action while wearing this helmet, you gain a +5 bonus to…</div>
+  <div class="sc-card__flavor">A steel helm is set with two curved ebony horns, a crackling plume of fire floating between them.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might or Reason</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> One broken contract, one ingot of steel</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Anjali and Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="mask-of-the-many/" aria-label="Mask of the Many"></a>
@@ -81,7 +135,13 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Mask of the Many</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Head</span><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">While you wear this mask, you can use a maneuver to transform into any humanoid of equival…</div>
+  <div class="sc-card__flavor">A plain white mask is lined with soft black velvet—which smells faintly of blood.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> One used death shroud</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="precious-collar/" aria-label="Precious Collar"></a>
@@ -89,7 +149,11 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Precious Collar</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__blurb">Only a beastheart&#39;s companion can wear this collar. As a free maneuver, the companion can…</div>
+  <div class="sc-card__flavor">This gold collar is bedazzled with semiprecious gems spelling out a cute pet name.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> One collar worn by a royal pet <strong>Project Source:</strong> Texts or lore in Vaslorian <strong>Project Roll Characteristic:</strong> Reason or Intuition</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="quantum-satchel/" aria-label="Quantum Satchel"></a>
@@ -97,7 +161,13 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Quantum Satchel</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">When the brooch is removed from this bag and placed in a container or room, it magically e…</div>
+  <div class="sc-card__flavor">A woven metal drawstring seals this plain-looking leather bag, which is affixed with an opal brooch.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> One uncut opal</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="ruby-ring-of-recall/" aria-label="Ruby Ring of Recall"></a>
@@ -105,7 +175,13 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Ruby Ring of Recall</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Ring</span></div>
-  <div class="sc-card__blurb">While wearing this ring, you can pull a willing, unconscious, or dead creature within 2 sq…</div>
+  <div class="sc-card__flavor">A dim light gleams in the heart of this ring&#39;s gem.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason, Intuition, or Presence</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> A ruby retrieved from an ancient sky elf ruin</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Hyrallic</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="speaking-scarab/" aria-label="Speaking Scarab"></a>
@@ -113,7 +189,13 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Speaking Scarab</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Neck</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__blurb">Only a beastheart&#39;s companion or an animal can wear this necklace. While wearing this neck…</div>
+  <div class="sc-card__flavor">This black leather necklace is set with a golden representation of a scarab beetle.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason, Intuition, or Presence</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> Jewelry worn by a voiceless talker</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Variac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="unbinder-boots/" aria-label="Unbinder Boots"></a>
@@ -121,6 +203,12 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Unbinder Boots</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Feet</span><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__blurb">These boots can temporarily unbind themselves from the chains of the earth, letting you mo…</div>
+  <div class="sc-card__flavor">A pair of ornately embroidered leather boots are covered in images of broken chains.</div>
+  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+    <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
+  </div>
+  <div class="sc-card__line"><b>Prerequisite</b> One battered gold chain of at least fifty links</div>
+  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 </div>
