@@ -78,12 +78,15 @@ sections:
       - chapter/
     group_by_book: true
 
-  # Bestiary (when monsters are added)
-  # - name: Bestiary
-  #   include:
-  #     - monster/
-  #     - statblock/
-  #   sort: natural
+  # Bestiary: modular monster pages (Monsters book). Group lore pages are
+  # lore-only; statblocks/malice live under each group; terrain and retainers
+  # are their own type trees. The book-faithful view is the Read tab's chapters.
+  - name: Bestiary
+    include:
+      - monster/
+      - dynamic-terrain/
+      - retainer/
+    sort: natural
 
 # Exclude these sections from search (avoids duplicate results)
 search_exclude:
