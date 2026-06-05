@@ -68,7 +68,10 @@
   letter-spacing: .1em; font-size: .86rem; color: var(--act);
 }
 .sc-trait__dia { width: 7px; height: 7px; transform: rotate(45deg); background: var(--act); flex: 0 0 auto; }
-.sc-trait__name {
+/* .md-typeset prefix so this beats Material's `.md-typeset h3` rule, whose
+   large top-margin + line-height were being inherited and shifting the name
+   (same fix as .sc-ability__name). */
+.md-typeset .sc-trait__name {
   font-family: var(--md-large-header-font); text-transform: uppercase;
   font-size: 1.5rem; line-height: 1.04; color: var(--sc-steel-lighter);
   text-shadow: var(--fx-emboss); margin: .25rem 0 0; letter-spacing: .01em;
@@ -124,13 +127,17 @@
 /* ════════════════════════════════════════════════════════════
    LEAD-IN + NEST — how children attach to the trait
    ════════════════════════════════════════════════════════════ */
+/* a run-in label that wraps rich prose (links included) — must stay a normal
+   text block, NOT flex, or each inline run/link becomes its own flex column */
 .sc-trait__leadin {
-  display: flex; align-items: center; gap: .5rem;
   font-family: var(--md-small-header-font); font-style: italic;
   font-size: .94rem; color: var(--fx-metal-bright);
   margin: 1rem 0 .15rem;
 }
-.sc-trait__leadin .sc-trait__dia { background: var(--fx-metal); transform: rotate(45deg) translateY(0); }
+.sc-trait__leadin .sc-trait__dia {
+  display: inline-block; vertical-align: middle; margin-right: .5rem;
+  background: var(--fx-metal); transform: rotate(45deg);
+}
 
 /* groups a contiguous run of nested abilities / sub-traits (no rail — the
    trait niche already contains them; nested cards sit full-width inside it) */
