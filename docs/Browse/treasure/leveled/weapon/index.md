@@ -25,7 +25,7 @@
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Medium Weapon</span></div>
   <div class="sc-card__flavor">This crystal blade houses a stormy vortex of fire, ice, and lightning.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">450 1st Level: Any weapon ability that deals rolled damage using this weapon gains a +1 damage bonus. Additionally, you can change the damage type of such abilities to cold, fire, lightning, or sonic.</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> A ruby hardened in the fires of the City of Brass, a sapphire that has been struck by lightning</div>
