@@ -21,8 +21,9 @@ Provide the most usable, searchable, and linkable online reference for the Draw 
 | Term | Meaning |
 |------|---------|
 | SCC | Steel Compendium Classification -- hierarchical code identifying every piece of content (e.g., `mcdm.heroes.v1/class/fury`) |
-| Browse | Tab section with modular pages organized by content type |
-| Read | Tab section with full rulebook chapters in book order |
+| Browse | Tab section with modular rules pages organized by content type |
+| Bestiary | Tab section with modular Monsters-book pages (monster groups, statblocks, malice, terrain, retainers); monster group pages are lore-only |
+| Read | Tab section with full rulebook chapters in book order, grouped per book (book-faithful, everything inline) |
 | Composite | A generated page that aggregates traits and abilities into a parent page (e.g., all fury abilities merged into the fury class page) |
 | Group | A remapping that nests related content under a parent directory (e.g., kit signature abilities under `Kits/`) |
 | Static content | Hand-authored files in `static_content/docs/` that override generated content |

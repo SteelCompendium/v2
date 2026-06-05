@@ -40,9 +40,10 @@ v2/
   site.yaml              # steel-etl site builder config (sections, groups)
   justfile               # Build recipes (update, serve, build, clean_docs)
   docs/                  # MkDocs content root (mostly GENERATED -- do not edit)
-    Browse/              # Generated: modular pages by type (class, ancestry, kit, etc.)
-    Read/                # Generated: rulebook chapters in book order
-    scc/                 # Generated: SCC permalink redirect stubs (1,419 files)
+    Browse/              # Generated: modular rules pages by type (class, ancestry, kit, etc.)
+    Bestiary/            # Generated: modular Monsters-book pages (monster/, dynamic-terrain/, retainer/)
+    Read/                # Generated: rulebook chapters in book order, grouped per book
+    scc/                 # Generated: SCC permalink redirect stubs (~2,588 files)
     javascripts/         # SAFE TO EDIT: client-side features
     stylesheets/         # SAFE TO EDIT: CSS customization
     Media/               # Site assets (favicon, etc.)
@@ -58,7 +59,7 @@ v2/
   static_content/        # SAFE TO EDIT: hand-authored overrides for generated pages
     docs/
       Browse/            # Static Browse overrides (e.g., Browse/index.md grid cards)
-      Bestiary/          # Bestiary placeholder content
+      Bestiary/          # Static Bestiary overrides (e.g., landing page)
       preferences.md     # User preferences page
   .repo-docs/            # This documentation
 ```

@@ -27,15 +27,15 @@ The site has no server-side routing. All dynamic behavior is client-side JavaScr
 
 Configured by `site.yaml`. Reads ETL md-linked output and maps it into `docs/`:
 
-- **Section mapping**: `Browse/` (modular by type), `Read/` (book order chapters)
-- **Book-faithful pages**: each `md-linked` page is a full book-order render of its source section's subtree (own body + all nested descendants inline, headings normalized, ability statblocks un-blockquoted). Pages are direct section-mapped renders — no composite reassembly step. Produced by `RenderSubtree` in `steel-etl/internal/content/render_subtree.go`.
+- **Section mapping**: `Browse/` (modular rules by type), `Bestiary/` (modular Monsters-book pages — monster groups/statblocks/malice, terrain, retainers), `Read/` (book-order chapters, grouped per book)
+- **Book-faithful pages**: each `md-linked` page is a full book-order render of its source section's subtree (own body + all nested descendants inline, headings normalized, ability statblocks un-blockquoted). Pages are direct section-mapped renders — no composite reassembly step. Produced by `RenderSubtree` in `steel-etl/internal/content/render_subtree.go`. (Exception: monster **group** pages are lore-only in `Bestiary/` — the pipeline skips `RenderSubtree` for `@type: monster` — while the everything-inline view lives on the `Read/` monster chapters.)
 - **Groups**: nest kit signature abilities under `Kits/` subdirectory
 - **SCC stubs**: generate `scc/{code}/index.html` redirect files (see below)
 - **Static overrides**: `static_content/docs/` files are copied last, overriding generated content
 
 ### Generated vs hand-authored
 
-Everything under `docs/Browse/`, `docs/Read/`, and `docs/scc/` is wiped and regenerated on each build. Do not edit these directly -- changes will be lost. To override a generated page, place your version at the same relative path under `static_content/docs/`.
+Everything under `docs/Browse/`, `docs/Bestiary/`, `docs/Read/`, and `docs/scc/` is wiped and regenerated on each build. Do not edit these directly -- changes will be lost. To override a generated page, place your version at the same relative path under `static_content/docs/`.
 
 Safe to edit: `docs/javascripts/`, `docs/stylesheets/`, `overrides/`, `scripts/`, `static_content/`, `mkdocs.yml`, `site.yaml`.
 
@@ -129,7 +129,7 @@ Synced with mkdocs-material 9.7.6. If upgrading, re-check `site_meta` block shap
 ## Key Features
 
 - `navigation.instant` + `navigation.instant.preview`: SPA-like navigation
-- `navigation.tabs` + `navigation.tabs.sticky`: top-level tab navigation (Browse, Read)
+- `navigation.tabs` + `navigation.tabs.sticky`: top-level tab navigation (Browse, Bestiary, Read)
 - `toc.permalink`: heading anchor links
 - `material.extensions.preview`: link preview popups for Browse and Read sections
 - Google Analytics (`G-PMF9SHHXNY`)
