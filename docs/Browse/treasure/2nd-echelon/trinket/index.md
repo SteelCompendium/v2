@@ -9,7 +9,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Bastion Belt</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Waist</span></div>
-  <div class="sc-card__flavor">This thick leather belt features a bone clasp and feels unusually heavy when handled.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This thick leather belt features a bone clasp and feels unusually heavy when handled.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -23,7 +23,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Evilest Eye</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Neck</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">A perfectly preserved eyeball hangs unnervingly from a gold chain.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A perfectly preserved eyeball hangs unnervingly from a gold chain.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -37,7 +37,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Insightful Crown</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Head</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">Shaped of polished crystal, this shimmering circlet shifts through myriad colors in the presence of strong emotions.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">Shaped of polished crystal, this shimmering circlet shifts through myriad colors in the presence of strong emotions.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -51,7 +51,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Key of Inquiry</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">A foot-long platinum key is set with three opals.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A foot-long platinum key is set with three opals.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -65,7 +65,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Mediator&#39;s Charm</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Head</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">A fancy gold earring is set with a small ruby.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A fancy gold earring is set with a small ruby.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Presence</div><div class="l">Roll Characteristic</div></div>
@@ -79,7 +79,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Necklace of the Bayou</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__flavor">A worn leather circlet bears a lizard-shaped pendant of rotting wood.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A worn leather circlet bears a lizard-shaped pendant of rotting wood.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -93,7 +93,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Scannerstone</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">This flat, palm-sized triangular stone is decorated with a starfield of tiny gems.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This flat, palm-sized triangular stone is decorated with a starfield of tiny gems.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -107,7 +107,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Stop-&#39;n-Go Coin</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">This small, featureless coin is solid green on one side and solid red on the other.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This small, featureless coin is solid green on one side and solid red on the other.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -121,7 +121,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Werewolf Tooth Pendant</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__flavor">The blood encrusting this tooth can never be washed off.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">The blood encrusting this tooth can never be washed off.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might or Intuition</div><div class="l">Roll Characteristic</div></div>

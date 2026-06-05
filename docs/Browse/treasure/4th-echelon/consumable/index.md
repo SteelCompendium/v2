@@ -9,7 +9,7 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Breath of Creation</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">A glass flask holds a roiling storm of astral plasma.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A glass flask holds a roiling storm of astral plasma.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">360</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Intuition or Presence</div><div class="l">Roll Characteristic</div></div>
@@ -23,7 +23,7 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Elixir of Saint Elspeth</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Potion</span></div>
-  <div class="sc-card__flavor">This thick red liquid smells of cinnamon.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This thick red liquid smells of cinnamon.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">360</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Presence</div><div class="l">Roll Characteristic</div></div>
@@ -37,7 +37,7 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Page From the Infinite Library: Solaris</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">This page is covered with writing and diagrams detailing the release of limitless energy—and the dangers of that process.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This page is covered with writing and diagrams detailing the release of limitless energy—and the dangers of that process.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">360</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -51,7 +51,7 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Restorative of the Bright Court</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">An ornately decorated golden vial smells of summer rain and subtle zesty fruits.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">An ornately decorated golden vial smells of summer rain and subtle zesty fruits.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">360</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Presence</div><div class="l">Roll Characteristic</div></div>

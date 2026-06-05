@@ -9,7 +9,7 @@
     <div><div class="sc-card__type">Treasure</div>
     <div class="sc-card__name">Blade of a Thousand Years</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic; Light Weapon</span><span class="sc-tag">Medium Weapon</span><span class="sc-tag">or Heavy Weapon</span></div>
-  <div class="sc-card__flavor">This fabled sword features a hilt made of glittering starlight, out of which its gleaming metal blade extends.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This fabled sword features a hilt made of glittering starlight, out of which its gleaming metal blade extends.</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="encepter/" aria-label="Encepter"></a>
@@ -17,7 +17,7 @@
     <div><div class="sc-card__type">Treasure</div>
     <div class="sc-card__name">Encepter</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">A bejeweled scepter with a spiraling porcelain handle balances an orb of light above its crown.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A bejeweled scepter with a spiraling porcelain handle balances an orb of light above its crown.</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="mortal-coil/" aria-label="Mortal Coil"></a>
@@ -25,6 +25,6 @@
     <div><div class="sc-card__type">Treasure</div>
     <div class="sc-card__name">Mortal Coil</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">This floating helix of golden metal spins ever faster as it activates, crackling with crimson sparks.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This floating helix of golden metal spins ever faster as it activates, crackling with crimson sparks.</div>
 </div>
 </div>

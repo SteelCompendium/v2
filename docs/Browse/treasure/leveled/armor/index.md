@@ -9,7 +9,7 @@
     <div><div class="sc-card__type">Armor</div>
     <div class="sc-card__name">Adaptive Second Skin of Toxins</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Light Armor</span><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">This suit is shaped of tough leather and set with thousands of tiny barbs on the inside, all thankfully pain-free to the touch.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This suit is shaped of tough leather and set with thousands of tiny barbs on the inside, all thankfully pain-free to the touch.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -23,7 +23,7 @@
     <div><div class="sc-card__type">Armor</div>
     <div class="sc-card__name">Cavalry Armor</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Heavy Armor</span><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">Wearing this absurdly heavy plate armor makes it almost impossible to move—and once you get into motion, it&#39;s equally hard to stop.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">Wearing this absurdly heavy plate armor makes it almost impossible to move—and once you get into motion, it&#39;s equally hard to stop.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -36,7 +36,7 @@
     <div><div class="sc-card__type">Armor</div>
     <div class="sc-card__name">Chain of the Sea and Sky</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Heavy Armor</span><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">This set of heavy chain mail is created to allow free movement in extreme environments without sacrificing protection.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This set of heavy chain mail is created to allow free movement in extreme environments without sacrificing protection.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -50,7 +50,7 @@
     <div><div class="sc-card__type">Armor</div>
     <div class="sc-card__name">Grand Scarab</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Medium Armor</span></div>
-  <div class="sc-card__flavor">The blue-purple carapace and wings of a gigantic scarab beetle have been formed into an ornate breastplate.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">The blue-purple carapace and wings of a gigantic scarab beetle have been formed into an ornate breastplate.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -64,7 +64,7 @@
     <div><div class="sc-card__type">Armor</div>
     <div class="sc-card__name">King&#39;s Roar</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Shield</span></div>
-  <div class="sc-card__flavor">A sunmetal kite shield bears the face of a lion on its front, its mouth opening wider over the course of battle.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A sunmetal kite shield bears the face of a lion on its front, its mouth opening wider over the course of battle.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason, Intuition, or Presence</div><div class="l">Roll Characteristic</div></div>
@@ -78,7 +78,7 @@
     <div><div class="sc-card__type">Armor</div>
     <div class="sc-card__name">Kuran&#39;zoi Prismscale</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Medium Armor</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">Each scale of this iridescent armor shimmers with the faint image of a frozen moment of time.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">Each scale of this iridescent armor shimmers with the faint image of a frozen moment of time.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Intuition or Presence</div><div class="l">Roll Characteristic</div></div>
@@ -92,7 +92,7 @@
     <div><div class="sc-card__type">Armor</div>
     <div class="sc-card__name">Pack Harness</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Light Armor</span><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">While wearing these worn leather bands, your companion appears as not a single creature, but a hunting pack.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">While wearing these worn leather bands, your companion appears as not a single creature, but a hunting pack.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -106,7 +106,7 @@
     <div><div class="sc-card__type">Armor</div>
     <div class="sc-card__name">Paper Trappings</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Light Armor</span><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">This delicate robe is made from thousands of pages torn from books, intricately folded together without a single thread to bind them.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This delicate robe is made from thousands of pages torn from books, intricately folded together without a single thread to bind them.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -120,7 +120,7 @@
     <div><div class="sc-card__type">Armor</div>
     <div class="sc-card__name">Rampant Shield</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Shield</span></div>
-  <div class="sc-card__flavor">This battered shield bears a magically animated painting of a lion rampant.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This battered shield bears a magically animated painting of a lion rampant.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
@@ -133,7 +133,7 @@
     <div><div class="sc-card__type">Armor</div>
     <div class="sc-card__name">Shrouded Memory</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Light Armor</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">This midnight-dark leather coat is embossed with fractal patterns that appear different each time they are observed.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This midnight-dark leather coat is embossed with fractal patterns that appear different each time they are observed.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Presence</div><div class="l">Roll Characteristic</div></div>
@@ -147,7 +147,7 @@
     <div><div class="sc-card__type">Armor</div>
     <div class="sc-card__name">Spiny Turtle</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Heavy Armor</span><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">This heavy mechanized plate armor of gnomish make is designed to create its own cover on the battlefield.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This heavy mechanized plate armor of gnomish make is designed to create its own cover on the battlefield.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -161,7 +161,7 @@
     <div><div class="sc-card__type">Armor</div>
     <div class="sc-card__name">Star-Hunter</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Heavy Armor</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">Shimmering light flows like liquid along this suit of crystalline armor.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">Shimmering light flows like liquid along this suit of crystalline armor.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -175,7 +175,7 @@
     <div><div class="sc-card__type">Armor</div>
     <div class="sc-card__name">Telekinetic Bulwark</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span><span class="sc-tag">Shield</span></div>
-  <div class="sc-card__flavor">An unseen force seems to draw this steel shield toward nearby creatures.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">An unseen force seems to draw this steel shield toward nearby creatures.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -189,7 +189,7 @@
     <div><div class="sc-card__type">Armor</div>
     <div class="sc-card__name">Thorn Dragonscale</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Medium Armor</span></div>
-  <div class="sc-card__flavor">This armor, fashioned from the barbed scales of a thorn dragon, still pulses with the echo of the dragon&#39;s heartbeat.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This armor, fashioned from the barbed scales of a thorn dragon, still pulses with the echo of the dragon&#39;s heartbeat.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>

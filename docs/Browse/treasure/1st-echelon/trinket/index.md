@@ -9,7 +9,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Color Cloak (Blue)</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__flavor">This silky-blue hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;ice.&#34;</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This silky-blue hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;ice.&#34;</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -23,7 +23,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Color Cloak (Red)</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__flavor">This red woolen hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;fire.&#34;</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This red woolen hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;fire.&#34;</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -37,7 +37,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Color Cloak (Yellow)</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__flavor">This yellow rubbery hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;lightning.&#34;</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This yellow rubbery hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;lightning.&#34;</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -51,7 +51,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Deadweight</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">Though this humanoid femur is coated in lead, it feels impossibly heavy for its size.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">Though this humanoid femur is coated in lead, it feels impossibly heavy for its size.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -65,7 +65,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Displacing Replacement Bracer</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Arms</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">A wooden bangle is etched with an ambigram sigil of the Zaliac word for &#34;transfer.&#34;</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A wooden bangle is etched with an ambigram sigil of the Zaliac word for &#34;transfer.&#34;</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason</div><div class="l">Roll Characteristic</div></div>
@@ -79,7 +79,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Divine Vine</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">A coil of emerald-green vines is topped with the jaws of an enormous Venus flytrap.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A coil of emerald-green vines is topped with the jaws of an enormous Venus flytrap.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Presence</div><div class="l">Roll Characteristic</div></div>
@@ -93,7 +93,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Flameshade Gloves</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Hands</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">These finely stitched gloves appear to flicker in and out of reality when first handled.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">These finely stitched gloves appear to flicker in and out of reality when first handled.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason</div><div class="l">Roll Characteristic</div></div>
@@ -107,7 +107,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Gecko Gloves</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Hands</span><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">These scaled gloves have palms and fingers covered in near-invisible sticky hairs.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">These scaled gloves have palms and fingers covered in near-invisible sticky hairs.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -121,7 +121,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Hellcharger Helm</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Head</span><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">A steel helm is set with two curved ebony horns, a crackling plume of fire floating between them.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A steel helm is set with two curved ebony horns, a crackling plume of fire floating between them.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might or Reason</div><div class="l">Roll Characteristic</div></div>
@@ -135,7 +135,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Mask of the Many</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Head</span><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">A plain white mask is lined with soft black velvet—which smells faintly of blood.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A plain white mask is lined with soft black velvet—which smells faintly of blood.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -149,7 +149,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Precious Collar</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__flavor">This gold collar is bedazzled with semiprecious gems spelling out a cute pet name.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This gold collar is bedazzled with semiprecious gems spelling out a cute pet name.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
@@ -161,7 +161,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Quantum Satchel</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">A woven metal drawstring seals this plain-looking leather bag, which is affixed with an opal brooch.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A woven metal drawstring seals this plain-looking leather bag, which is affixed with an opal brooch.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -175,7 +175,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Ruby Ring of Recall</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Ring</span></div>
-  <div class="sc-card__flavor">A dim light gleams in the heart of this ring&#39;s gem.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A dim light gleams in the heart of this ring&#39;s gem.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason, Intuition, or Presence</div><div class="l">Roll Characteristic</div></div>
@@ -189,7 +189,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Speaking Scarab</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Neck</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">This black leather necklace is set with a golden representation of a scarab beetle.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This black leather necklace is set with a golden representation of a scarab beetle.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason, Intuition, or Presence</div><div class="l">Roll Characteristic</div></div>
@@ -203,7 +203,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Unbinder Boots</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Feet</span><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">A pair of ornately embroidered leather boots are covered in images of broken chains.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A pair of ornately embroidered leather boots are covered in images of broken chains.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>

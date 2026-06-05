@@ -9,7 +9,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Battle Wings</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__flavor">These gently undulating wings affix themselves to a creature&#39;s shoulders.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">These gently undulating wings affix themselves to a creature&#39;s shoulders.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">600</div><div class="l">Project Goal</div></div>
   </div>
@@ -22,7 +22,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Gravekeeper&#39;s Lantern</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">This ancient wooden lantern is inscribed with eldritch runes and stained with dark blood.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This ancient wooden lantern is inscribed with eldritch runes and stained with dark blood.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">600</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -36,7 +36,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Psi Blade</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Arms</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">This wide metal bracer is set with a glowing gemstone.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This wide metal bracer is set with a glowing gemstone.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">600</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Presence</div><div class="l">Roll Characteristic</div></div>

@@ -9,9 +9,9 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Black Ash Dart</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">A diamond-shaped dart holds a shimmering black vial at its core.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A diamond-shaped dart holds a shimmering black vial at its core.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">45 (yields 1d3 darts, or three darts if crafted by a shadow)</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v has-tip" title="45 (yields 1d3 darts, or three darts if crafted by a shadow)">45*</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> Three vials of black ash from the College of Black Ash</div>
@@ -23,7 +23,7 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Blood Essence Vial</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Potion</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">A brittle glass tube has a ruby set atop it, attached by a hinge.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A brittle glass tube has a ruby set atop it, attached by a hinge.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Reason</div><div class="l">Roll Characteristic</div></div>
@@ -37,7 +37,7 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Buzz Balm</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Oil</span></div>
-  <div class="sc-card__flavor">This cooling orange salve crackles and pops when exposed to the air.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This cooling orange salve crackles and pops when exposed to the air.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -51,7 +51,7 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Catapult Dust</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">A small leather pouch is filled with this fine blue powder.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A small leather pouch is filled with this fine blue powder.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -65,7 +65,7 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Giant&#39;s-Blood Flame</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Oil</span></div>
-  <div class="sc-card__flavor">A small pot is filled with a viscous, ochre oil that smells of sulfur and burnt hair.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A small pot is filled with a viscous, ochre oil that smells of sulfur and burnt hair.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -79,7 +79,7 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Growth Potion</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Potion</span></div>
-  <div class="sc-card__flavor">This thick green liquid tastes of licorice and potatoes.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This thick green liquid tastes of licorice and potatoes.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -93,7 +93,7 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Healing Potion</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Potion</span></div>
-  <div class="sc-card__flavor">Thick and red, this liquid tastes of sour beer.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">Thick and red, this liquid tastes of sour beer.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -107,7 +107,7 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Imp&#39;s Tongue</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">The tongue of an imp has been dried and preserved. Yuck.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">The tongue of an imp has been dried and preserved. Yuck.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -121,9 +121,9 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Lachomp Tooth</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">A thumb-sized serrated tooth manages to scratch your flesh in some way whenever it is handled.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A thumb-sized serrated tooth manages to scratch your flesh in some way whenever it is handled.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">45 (yields 1d3 teeth)</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v has-tip" title="45 (yields 1d3 teeth)">45*</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> A leftover carcass of a lachomp meal</div>
@@ -135,7 +135,7 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Mirror Token</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">A gold-rimmed, mirror-faced coin trembles in the hand as if it were repelled by your touch.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A gold-rimmed, mirror-faced coin trembles in the hand as if it were repelled by your touch.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
@@ -149,7 +149,7 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Pocket Homunculus</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">A densely interlocking sphere of clockwork gears features facets that show the countenance of the item&#39;s wielder.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A densely interlocking sphere of clockwork gears features facets that show the countenance of the item&#39;s wielder.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason</div><div class="l">Roll Characteristic</div></div>
@@ -163,9 +163,9 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Portable Cloud</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">This thin glass sphere holds a tiny roiling cloud.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This thin glass sphere holds a tiny roiling cloud.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">30 or 45 (see below)</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v has-tip" title="30 or 45 (see below)">30*</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> A cup of rainwater from a sacred fey grove, plus an optional prerequisite (see below)</div>
@@ -177,7 +177,7 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Professor Veratismo&#39;s Quaff &#39;n Huff Snuff</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Potion</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor">This tiny compact holds a colorless powder with the slightest astringent smell.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This tiny compact holds a colorless powder with the slightest astringent smell.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason</div><div class="l">Roll Characteristic</div></div>
@@ -191,9 +191,9 @@
     <div><div class="sc-card__type">Consumable</div>
     <div class="sc-card__name">Snapdragon</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span></div>
-  <div class="sc-card__flavor">This delicate orange blossom has a sickly-sweet smell.</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This delicate orange blossom has a sickly-sweet smell.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">45 (yields 1d6 + 1 snapdragons)</div><div class="l">Project Goal</div></div>
+    <div class="sc-card__stat"><div class="v has-tip" title="45 (yields 1d6 + 1 snapdragons)">45*</div><div class="l">Project Goal</div></div>
     <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> Fifty snapdragon seeds</div>
