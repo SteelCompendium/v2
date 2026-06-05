@@ -8,6 +8,15 @@ type: trait
 
 ---
 
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Knockback</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>A creature wanting to push an adjacent creature away from them can attempt to shove that creature using the following ability.</p>
+<div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
 <div class="sc-ability__head">
 <span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
@@ -31,10 +40,10 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>A creature wanting to push an adjacent creature away from them can attempt to shove that creature using the following ability.</p><p>## Knockback {data-scc=&#34;mcdm.heroes.v1/feature.ability.common.maneuvers/knockback&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.</p></div>
 </div>
 </article>
+</div>
+</div>
+</section>

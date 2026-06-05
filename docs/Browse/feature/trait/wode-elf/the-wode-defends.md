@@ -9,6 +9,16 @@ type: trait
 
 ---
 
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Wode Elf</div>
+<h3 class="sc-trait__name">The Wode Defends</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following signature ability. Signature abilities can be used at will.</p>
+<div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
 <span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
@@ -16,7 +26,7 @@ type: trait
 <div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
 <h3 class="sc-ability__name">The Wode Defends</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">Thorny vines erupt from every surface and attempt to bind your foe.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
@@ -32,7 +42,7 @@ type: trait
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 + M or A damage; A &lt; STRONG, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
 </div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following signature ability. Signature abilities can be used at will.</p><p>## The Wode Defends {data-scc=&#34;mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends&#34;}</p></div>
-</div>
 </article>
+</div>
+</div>
+</section>

@@ -10,16 +10,14 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">Hybrid Form: Wolf</h3>
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury</div>
+<h3 class="sc-trait__name">Hybrid Form: Wolf</h3>
 </div>
-<div class="sc-ability__corner"></div>
+</header>
+<div class="sc-trait__body">
+<p>While you are in your hybrid form, your size is 1L, you have a +2 bonus to speed, and you ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>. At 4th level, the first time you take hybrid form in an encounter, you gain 10 temporary Stamina.</p>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While you are in your hybrid form, your size is 1L, you have a +2 bonus to speed, and you ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>. At 4th level, the first time you take hybrid form in an encounter, you gain 10 temporary Stamina.</p></div>
-</div>
-</article>
+</section>

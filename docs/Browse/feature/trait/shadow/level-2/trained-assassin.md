@@ -10,16 +10,15 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">Trained Assassin</h3>
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow</div>
+<h3 class="sc-trait__name">Trained Assassin</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You know just where to cut your enemies. Whenever you make a strike that has no bane or double bane, and that incorporates 1 or more surges, you gain 1 additional surge that you can use only on that strike.</p>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You know just where to cut your enemies. Whenever you make a strike that has no bane or double bane, and that incorporates 1 or more surges, you gain 1 additional surge that you can use only on that strike.</p></div>
-</div>
-</article>
+</section>

@@ -10,6 +10,17 @@ type: trait
 
 ---
 
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour</div>
+<h3 class="sc-trait__name">Dramatic Monologue</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability.</p>
+<div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
 <div class="sc-ability__head">
 <span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
@@ -26,11 +37,11 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability.</p><p>## Dramatic Monologue {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-monologue&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>Choose one of the following effects:</p><ul><li>You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn.</li><li>You weave a tale of high-stakes heroics. One ally within distance gains 1 surge.</li><li>You insult a foe where they&#39;re most vulnerable. One enemy within distance takes a bane on the next power roll they make before the end of their next turn.</li></ul></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">You can choose two targets for the chosen effect.</span></div>
 </article>
+</div>
+</div>
+</section>

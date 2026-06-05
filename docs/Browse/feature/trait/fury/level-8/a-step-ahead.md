@@ -10,16 +10,15 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">A Step Ahead</h3>
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury</div>
+<h3 class="sc-trait__name">A Step Ahead</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can <a href="../../../../../movement/shifting/">shift</a> gains a bonus equal to your Agility score.</p>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can <a href="../../../../../movement/shifting/">shift</a> gains a bonus equal to your Agility score.</p></div>
-</div>
-</article>
+</section>

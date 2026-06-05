@@ -10,16 +10,14 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">Kit Bonuses</h3>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury</div>
+<h3 class="sc-trait__name">Kit Bonuses</h3>
 </div>
-<div class="sc-ability__corner"></div>
+</header>
+<div class="sc-trait__body">
+<ul><li><b>Stamina Bonus:</b> +9 per echelon</li><li><b>Speed Bonus:</b> +2</li><li><b>Melee Damage Bonus:</b> +2/+2/+2</li><li><b>Disengage Bonus:</b> +1</li></ul>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><ul><li><b>Stamina Bonus:</b> +9 per echelon</li><li><b>Speed Bonus:</b> +2</li><li><b>Melee Damage Bonus:</b> +2/+2/+2</li><li><b>Disengage Bonus:</b> +1</li></ul></div>
-</div>
-</article>
+</section>

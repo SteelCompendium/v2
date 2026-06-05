@@ -10,16 +10,15 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">I Am the Weapon</h3>
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null</div>
+<h3 class="sc-trait__name">I Am the Weapon</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">9</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your Stamina increases by 21 and you can&#39;t be made <a href="../../../../../condition/bleeding/">bleeding</a> even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.</p>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your Stamina increases by 21 and you can&#39;t be made <a href="../../../../../condition/bleeding/">bleeding</a> even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.</p></div>
-</div>
-</article>
+</section>

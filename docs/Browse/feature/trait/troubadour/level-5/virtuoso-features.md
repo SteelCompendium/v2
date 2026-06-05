@@ -10,16 +10,37 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">Virtuoso Features</h3>
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Troubadour</div>
+<h3 class="sc-trait__name">Virtuoso Features</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Choose one of the following features.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Bolstering Banter</h3>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following features.</p><p>## Bolstering Banter</p><p>Once on each of your turns, you can use a free maneuver to exchange words with a target of your current performance, other than yourself. The target can spend a Recovery to gain temporary Stamina equal to their recovery value.</p><p>## Medley</p><p>You can maintain two performances at a time using your <a href="../../level-1/routines/">Routines</a> feature.</p></div>
+</header>
+<div class="sc-trait__body">
+<p>Once on each of your turns, you can use a free maneuver to exchange words with a target of your current performance, other than yourself. The target can spend a Recovery to gain temporary Stamina equal to their recovery value.</p>
 </div>
-</article>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Medley</h3>
+</div>
+</header>
+<div class="sc-trait__body">
+<p>You can maintain two performances at a time using your <a href="../../level-1/routines/">Routines</a> feature.</p>
+</div>
+</section>
+</div>
+</div>
+</section>

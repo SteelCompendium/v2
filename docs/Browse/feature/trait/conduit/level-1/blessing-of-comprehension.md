@@ -10,16 +10,15 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">Blessing of Comprehension</h3>
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit</div>
+<h3 class="sc-trait__name">Blessing of Comprehension</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: <a href="../../../../../../Read/heroes/downtime-projects/">Downtime Projects</a>).</p>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: <a href="../../../../../../Read/heroes/downtime-projects/">Downtime Projects</a>).</p></div>
-</div>
-</article>
+</section>

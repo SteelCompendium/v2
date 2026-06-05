@@ -10,28 +10,19 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">Blessing of Fortunate Weather</h3>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit</div>
+<h3 class="sc-trait__name">Blessing of Fortunate Weather</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Each time you finish a respite, you can decide the weather conditions within 100 squares. Until you finish another respite, the weather conditions you establish follow you through any mundane outdoor locations. Choose one of the following types of weather, each of which grants a benefit to you and your allies:</p>
+<p><b>Clear:</b> You and your allies gain an edge on tests that use the Search or Navigate skills.</p>
+<p><b>Foggy:</b> You and your allies gain an edge on tests that use the Hide skill. <b>Overcast:</b> You and your allies gain an edge on tests that use the <a href="../../../../../skill/endurance/">Endurance</a> skill.</p>
+<p><b>Precipitation:</b> When the ground is muddy or snowy, you and your allies gain an edge on tests that use the <a href="../../../../../skill/track/">Track</a> skill.</p>
+<p>If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.</p>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Each time you finish a respite, you can decide the weather conditions within 100 squares. Until you finish another respite, the weather conditions you establish follow you through any mundane outdoor locations. Choose one of the following types of weather, each of which grants a benefit to you and your allies:</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Clear</span></div>
-<div class="sc-ability__section-body"><p>You and your allies gain an edge on tests that use the Search or Navigate skills.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Foggy</span></div>
-<div class="sc-ability__section-body"><p>You and your allies gain an edge on tests that use the Hide skill. <b>Overcast:</b> You and your allies gain an edge on tests that use the <a href="../../../../../skill/endurance/">Endurance</a> skill.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Precipitation</span></div>
-<div class="sc-ability__section-body"><p>When the ground is muddy or snowy, you and your allies gain an edge on tests that use the <a href="../../../../../skill/track/">Track</a> skill.</p><p>If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.</p></div>
-</div>
-</article>
+</section>

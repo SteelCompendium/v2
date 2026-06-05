@@ -10,24 +10,60 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">8th-Level Aspect Feature</h3>
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury</div>
+<h3 class="sc-trait__name">8th-Level Aspect Feature</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants you a feature, as shown on the 8th-Level Aspect Features table.</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">8th-Level Aspect Features Table</h3>
 </div>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Aspect</span></div>
-<div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Berserker</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../strongest-there-is/">Strongest There Is</a></div></div>
+</header>
+<div class="sc-trait__body">
+<p>| Aspect | Feature | |------------|--------------------| | Berserker | <a href="../strongest-there-is/">Strongest There Is</a> | | Reaver | <a href="../a-step-ahead/">A Step Ahead</a> | | Stormwight | <a href="../menagerie/">Menagerie</a> |</p>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants you a feature, as shown on the 8th-Level Aspect Features table.</p><p>### 8th-Level Aspect Features Table</p></div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Menagerie</h3>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Menagerie {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-8/menagerie&#34;}</p><p>You can use all <a href="../../stormwight-kits/">stormwight kits</a>. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature&#39;s Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.</p><p>## A Step Ahead {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-8/a-step-ahead&#34;}</p><p>You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can <a href="../../../../../movement/shifting/">shift</a> gains a bonus equal to your Agility score.</p><p>## Strongest There Is {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-8/strongest-there-is&#34;}</p><p>Your strength is unmatched. Whenever you make a Might test, you can roll three dice and choose which two to use. Additionally, whenever you use the Knockback maneuver, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Might score.</p></div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can use all <a href="../../stormwight-kits/">stormwight kits</a>. During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature&#39;s Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.</p>
 </div>
-</article>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">A Step Ahead</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can <a href="../../../../../movement/shifting/">shift</a> gains a bonus equal to your Agility score.</p>
+</div>
+</section>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Strongest There Is</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your strength is unmatched. Whenever you make a Might test, you can roll three dice and choose which two to use. Additionally, whenever you use the Knockback maneuver, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Might score.</p>
+</div>
+</section>
+</div>
+</div>
+</section>

@@ -10,12 +10,23 @@ type: trait
 
 ---
 
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Conduit</div>
+<h3 class="sc-trait__name">Triggered Action</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following triggered actions. (<em>Quick Build:</em> <a href="../../../../ability/conduit/level-1/word-of-guidance/">Word of Guidance</a>.)</p>
+<div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="triggered">
 <div class="sc-ability__head">
 <span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
 <div class="sc-ability__titles">
 <div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
-<h3 class="sc-ability__name">Triggered Action</h3>
+<h3 class="sc-ability__name">Word of Guidance</h3>
 </div>
 <div class="sc-ability__corner"></div>
 </div>
@@ -26,9 +37,6 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following triggered actions. (*Quick Build:* <a href="../../../../ability/conduit/level-1/word-of-guidance/">Word of Guidance</a>.)</p><p>## Word of Guidance {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-guidance&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
 <div class="sc-ability__section-body"><p>The target makes an ability roll for a damage-dealing ability.</p></div>
 </div>
@@ -36,8 +44,22 @@ type: trait
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>The power roll gains an edge.</p></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Word of Judgment {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-judgment&#34;}</p></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The power roll has a double edge.</span></div>
+</article>
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Word of Judgment</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your holy word saps an attacking enemy&#39;s strength.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
@@ -47,6 +69,8 @@ type: trait
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>The power roll takes a bane against the target.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The power roll has a double edge.</span></div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The power roll has a double bane against the target.</span></div>
 </article>
+</div>
+</div>
+</section>

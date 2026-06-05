@@ -11,16 +11,15 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">Trailing Mycelia</h3>
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart</div>
+<h3 class="sc-trait__name">Trailing Mycelia</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">10</span></div>
+</header>
+<div class="sc-trait__body">
+<p>While the sporeling is rampaging, you and the sporeling sprout rootlike, gripping mycelia along your limbs, and whenever you or the sporeling makes a strike against a creature who has M &lt; STRONG, the creature is <a href="../../../../../../condition/grabbed/">grabbed</a> by the attacker. Additionally, you and the sporeling can&#39;t be force moved or knocked <a href="../../../../../../condition/prone/">prone</a> until the sporeling&#39;s rampage ends.</p>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While the sporeling is rampaging, you and the sporeling sprout rootlike, gripping mycelia along your limbs, and whenever you or the sporeling makes a strike against a creature who has M &lt; STRONG, the creature is <a href="../../../../../../condition/grabbed/">grabbed</a> by the attacker. Additionally, you and the sporeling can&#39;t be force moved or knocked <a href="../../../../../../condition/prone/">prone</a> until the sporeling&#39;s rampage ends.</p></div>
-</div>
-</article>
+</section>

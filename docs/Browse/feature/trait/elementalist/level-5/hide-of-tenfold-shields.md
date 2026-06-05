@@ -10,16 +10,16 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">Hide of Tenfold Shields</h3>
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Elementalist</div>
+<h3 class="sc-trait__name">Hide of Tenfold Shields</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">5</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an <a href="../../../../../complication/animal-form/">animal form</a> in combat, which is added to any temporary Stamina provided by the <a href="../../../../../complication/animal-form/">animal form</a>.</p>
+<p>Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.</p>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an <a href="../../../../../complication/animal-form/">animal form</a> in combat, which is added to any temporary Stamina provided by the <a href="../../../../../complication/animal-form/">animal form</a>.</p><p>Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.</p></div>
-</div>
-</article>
+</section>

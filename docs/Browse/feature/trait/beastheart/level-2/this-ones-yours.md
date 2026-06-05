@@ -11,17 +11,28 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart</div>
+<h3 class="sc-trait__name">This One&#39;s Yours</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">2</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Once per turn, you or your companion can use the following free triggered action.</p>
+<div class="sc-trait__nest">
+<article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
 <div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
 <h3 class="sc-ability__name">This One&#39;s Yours</h3>
 </div>
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Once per turn, you or your companion can use the following free triggered action.</p><p>## This One&#39;s Yours {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-2/this-ones-yours&#34;}</p><p>When someone is pushed into you, you reach out to steady an ally or send a foe careening off in another direction.</p></div>
+<div class="sc-ability__section-body"><p>When someone is pushed into you, you reach out to steady an ally or send a foe careening off in another direction.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
@@ -33,3 +44,6 @@ type: trait
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You and your companions can each use this free triggered action on the same turn.</span></div>
 </article>
+</div>
+</div>
+</section>

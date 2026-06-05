@@ -10,16 +10,15 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">Scan</h3>
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent</div>
+<h3 class="sc-trait__name">Scan</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">3</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: <a href="../../../../../../Read/heroes/tests/">Tests</a>). Additionally, once you establish line of effect to a thinking creature within distance of your <a href="../../../../ability/talent/level-1/mind-spike/">Mind Spike</a> ability, you always have line of effect to that creature until they move beyond that distance.</p>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: <a href="../../../../../../Read/heroes/tests/">Tests</a>). Additionally, once you establish line of effect to a thinking creature within distance of your <a href="../../../../ability/talent/level-1/mind-spike/">Mind Spike</a> ability, you always have line of effect to that creature until they move beyond that distance.</p></div>
-</div>
-</article>
+</section>

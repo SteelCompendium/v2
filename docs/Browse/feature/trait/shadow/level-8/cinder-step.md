@@ -10,16 +10,15 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">Cinder Step</h3>
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow</div>
+<h3 class="sc-trait__name">Cinder Step</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">8</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Whenever you willingly move, you can <a href="../../../../../movement/teleport/">teleport</a>. When you <a href="../../../../../movement/teleport/">teleport</a> this way, it counts as using a shadow ability for the purpose of using your <a href="../../level-2/burning-ash/">Burning Ash</a> and <a href="../../level-5/trail-of-cinders/">Trail of Cinders</a> features.</p>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you willingly move, you can <a href="../../../../../movement/teleport/">teleport</a>. When you <a href="../../../../../movement/teleport/">teleport</a> this way, it counts as using a shadow ability for the purpose of using your <a href="../../level-2/burning-ash/">Burning Ash</a> and <a href="../../level-5/trail-of-cinders/">Trail of Cinders</a> features.</p></div>
-</div>
-</article>
+</section>

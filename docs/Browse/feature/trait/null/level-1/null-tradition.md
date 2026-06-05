@@ -10,16 +10,17 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">Null Tradition</h3>
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null</div>
+<h3 class="sc-trait__name">Null Tradition</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a <a href="../null-tradition/">null tradition</a> from the following options, each of which grants you a skill. (<em>Quick Build:</em> Chronokinetic and the <a href="../../../../../skill/monsters/">Monsters</a> skill.)</p>
+<ul><li><b>Chronokinetic:</b> Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.</li><li><b>Cryokinetic:</b> You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.</li><li><b>Metakinetic:</b> You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.</li></ul>
+<p>Your <a href="../null-tradition/">null tradition</a> is your subclass, and your choice of tradition determines many of the features you&#39;ll gain as you gain new levels.</p>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a <a href="../null-tradition/">null tradition</a> from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the <a href="../../../../../skill/monsters/">Monsters</a> skill.)</p><ul><li><b>Chronokinetic:</b> Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.</li><li><b>Cryokinetic:</b> You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.</li><li><b>Metakinetic:</b> You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.</li></ul><p>Your <a href="../null-tradition/">null tradition</a> is your subclass, and your choice of tradition determines many of the features you&#39;ll gain as you gain new levels.</p></div>
-</div>
-</article>
+</section>

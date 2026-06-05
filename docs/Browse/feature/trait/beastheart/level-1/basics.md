@@ -10,50 +10,35 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">Basics</h3>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Beastheart</div>
+<h3 class="sc-trait__name">Basics</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span><b>Starting Characteristics:</b> You start with a Might of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristic scores:</p>
+<ul><li>2, −1, −1</li><li>1, 1, −1</li><li>1, 0, 0</li></ul>
+<p><b>Weak Potency:</b> Might − 2</p>
+<p><b>Average Potency:</b> Might − 1</p>
+<p><b>Strong Potency:</b> Might</p>
+<p><b>Starting Stamina at 1st Level:</b> 21</p>
+<p><b>Stamina Gained at 2nd and Higher Levels:</b> 12</p>
+<p><b>Recoveries:</b> 12</p>
+<p><b>Skills:</b> You gain the <a href="../../../../../skill/handle-animals/">Animal Handling</a> skill. Then choose any two skills from the exploration or intrigue skill groups. (<em>Quick Build:</em> <a href="../../../../../skill/handle-animals/">Animal Handling</a>, <a href="../../../../../skill/navigate/">Navigate</a>, <a href="../../../../../skill/track/">Track</a>.)</p>
+<div class="sc-trait__nest">
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<h3 class="sc-trait__name">Beastheart Advancement Table</h3>
 </div>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Level</span></div>
-<div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1st</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../wild-nature/">Wild Nature</a>, <a href="../companion/">Companion</a>, <a href="../heart-of-the-beast/">Heart of the Beast</a>, <a href="../../../../ability/beastheart/level-1/feral-strike/">Feral Strike</a>, <a href="../ferocity/">Ferocity</a>, <a href="../rampage/">Rampage</a>, <a href="../wild-nature-maneuver/">Wild Nature Maneuver</a>, <a href="../wild-nature-triggered-action/">Wild Nature Triggered Action</a>, <a href="../kit/">Kit</a>, <a href="../beastheart-abilities/">Beastheart Abilities</a></div></div>
+</header>
+<div class="sc-trait__body">
+<p>| Level | Features | Abilities | Wild Nature Abilities | |-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------------| | 1st | <a href="../wild-nature/">Wild Nature</a>, <a href="../companion/">Companion</a>, <a href="../heart-of-the-beast/">Heart of the Beast</a>, <a href="../../../../ability/beastheart/level-1/feral-strike/">Feral Strike</a>, <a href="../ferocity/">Ferocity</a>, <a href="../rampage/">Rampage</a>, <a href="../wild-nature-maneuver/">Wild Nature Maneuver</a>, <a href="../wild-nature-triggered-action/">Wild Nature Triggered Action</a>, <a href="../kit/">Kit</a>, <a href="../beastheart-abilities/">Beastheart Abilities</a> | Signature, 3, 5 | — | | 2nd | <a href="../../level-2/perk/">Perk</a>, <a href="../../level-2/everyones-best-friend/">Everyone’s Best Friend</a>, <a href="../../level-2/2nd-level-wild-nature-feature/">Wild Nature Feature</a>, <a href="../../level-2/2nd-level-wild-nature-ability/">Wild Nature Ability</a> | Signature, 3, 5 | 5 | | 3rd | <a href="../../level-3/companion-advancement-feature/">Companion Advancement Feature</a>, <a href="../../level-3/7-ferocity-ability/">7-Ferocity Ability</a> | Signature, 3, 5, 7 | 5 | | 4th | <a href="../../level-4/characteristic-increase/">Characteristic Increase</a>, <a href="../../level-4/perk/">Perk</a>, <a href="../../level-4/rampage-improvement/">Rampage Improvement</a>, <a href="../../level-4/skill/">Skill</a>, <a href="../../level-4/unleash-the-beast/">Unleash the Beast</a> | Signature, 3, 5, 7 | 5 | | 5th | <a href="../../level-5/5th-level-wild-nature-feature/">Wild Nature Feature</a>, <a href="../../level-5/9-ferocity-ability/">9-Ferocity Ability</a> | Signature, 3, 5, 7, 9 | 5 | | 6th | <a href="../../level-6/perk/">Perk</a>, <a href="../../level-6/become-the-beast/">Become the Beast</a>, <a href="../../level-6/6th-level-wild-nature-ability/">Wild Nature Ability</a> | Signature, 3, 5, 7, 9 | 5, 9 | | 7th | <a href="../../level-7/characteristic-increase/">Characteristic Increase</a>, <a href="../../level-7/feral-heart/">Feral Heart</a>, <a href="../../level-7/rampage-improvement/">Rampage Improvement</a>, <a href="../../level-7/skill/">Skill</a> | Signature, 3, 5, 7, 9 | 5, 9 | | 8th | <a href="../../level-8/8th-level-wild-nature-feature/">Wild Nature Feature</a>, <a href="../../level-8/perk/">Perk</a>, <a href="../../level-8/11-ferocity-ability/">11-Ferocity Ability</a> | Signature, 3, 5, 7, 9, 11 | 5, 9 | | 9th | <a href="../../level-9/avatar-of-the-green/">Avatar of the Green</a>, <a href="../../level-9/9th-level-wild-nature-ability/">Wild Nature Ability</a> | Signature, 3, 5, 7, 9, 11 | 5, 9, 11 | | 10th | <a href="../../level-10/characteristic-increase/">Characteristic Increase</a>, <a href="../../level-10/companion-advancement-feature/">Companion Advancement Feature</a>, <a href="../../level-10/final-evolution/">Final Evolution</a>, <a href="../../level-10/perk/">Perk</a>, <a href="../../level-10/ferox/">Ferox</a>, <a href="../../level-10/rampage-improvement/">Rampage Improvement</a>, <a href="../../level-10/skill/">Skill</a> | Signature, 3, 5, 7, 9, 11 | 5, 9, 11 |</p>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Starting Characteristics</span></div>
-<div class="sc-ability__section-body"><p>You start with a Might of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristic scores:</p><ul><li>2, −1, −1</li><li>1, 1, −1</li><li>1, 0, 0</li></ul></div>
+</section>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Weak Potency</span></div>
-<div class="sc-ability__section-body"><p>Might − 2</p></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Average Potency</span></div>
-<div class="sc-ability__section-body"><p>Might − 1</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strong Potency</span></div>
-<div class="sc-ability__section-body"><p>Might</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Starting Stamina at 1st Level</span></div>
-<div class="sc-ability__section-body"><p>21</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Stamina Gained at 2nd and Higher Levels</span></div>
-<div class="sc-ability__section-body"><p>12</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Recoveries</span></div>
-<div class="sc-ability__section-body"><p>12</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Skills</span></div>
-<div class="sc-ability__section-body"><p>You gain the <a href="../../../../../skill/handle-animals/">Animal Handling</a> skill. Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* <a href="../../../../../skill/handle-animals/">Animal Handling</a>, <a href="../../../../../skill/navigate/">Navigate</a>, <a href="../../../../../skill/track/">Track</a>.)</p><p>#### Beastheart Advancement Table</p></div>
-</div>
-</article>
+</section>

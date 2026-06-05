@@ -10,6 +10,17 @@ type: trait
 
 ---
 
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null</div>
+<h3 class="sc-trait__name">Null Field</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You project a psionic field of order around your body, dampening the effects of supernatural abilities harmful to you and your allies.</p>
+<div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
 <div class="sc-ability__head">
 <span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
@@ -26,10 +37,10 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You project a psionic field of order around your body, dampening the effects of supernatural abilities harmful to you and your allies.</p><p>## Null Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-1/null-field&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>Each target reduces their potencies by 1.</p><p>Once as a free maneuver on each of your turns, you can spend 1 discipline and give your <a href="../null-field/">Null Field</a> one of the following additional effects until the start of your next turn:</p><ul><li>Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.</li><li>Inertial Anchor: Any target who starts their turn in the area can&#39;t <a href="../../../../../movement/shifting/">shift</a>.</li><li>Synaptic Break: Whenever you or any ally uses an ability against a target that has a potency effect, the potency is increased by 1.</li></ul><p>This ability remains active even after an encounter ends. It ends only if you are dying or if you willingly end it (no action required).</p></div>
 </div>
 </article>
+</div>
+</div>
+</section>

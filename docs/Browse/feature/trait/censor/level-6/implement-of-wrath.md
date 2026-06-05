@@ -10,16 +10,16 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">Implement of Wrath</h3>
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor</div>
+<h3 class="sc-trait__name">Implement of Wrath</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">6</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Each time you finish a respite, you can choose one hero&#39;s weapon, including your own, to channel supernatural power as an implement of your god&#39;s wrath. The weapon becomes magic and gains the following benefits until your next respite:</p>
+<ul><li>Strikes with the weapon deal extra holy damage equal to the wielder&#39;s highest characteristic score.</li><li>Any creature struck by the weapon who has holy weakness and has P &lt; STRONG is <a href="../../../../../condition/frightened/">frightened</a> and <a href="../../../../../condition/weakened/">weakened</a> (save ends).</li><li>Any minion targeted by a strike using the weapon dies. That minion&#39;s Stamina maximum is removed from the minion Stamina pool before any damage is applied to the rest of the squad.</li><li>The weapon&#39;s wielder can&#39;t be made <a href="../../../../../condition/frightened/">frightened</a>.</li></ul>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Each time you finish a respite, you can choose one hero&#39;s weapon, including your own, to channel supernatural power as an implement of your god&#39;s wrath. The weapon becomes magic and gains the following benefits until your next respite:</p><ul><li>Strikes with the weapon deal extra holy damage equal to the wielder&#39;s highest characteristic score.</li><li>Any creature struck by the weapon who has holy weakness and has P &lt; STRONG is <a href="../../../../../condition/frightened/">frightened</a> and <a href="../../../../../condition/weakened/">weakened</a> (save ends).</li><li>Any minion targeted by a strike using the weapon dies. That minion&#39;s Stamina maximum is removed from the minion Stamina pool before any damage is applied to the rest of the squad.</li><li>The weapon&#39;s wielder can&#39;t be made <a href="../../../../../condition/frightened/">frightened</a>.</li></ul></div>
-</div>
-</article>
+</section>

@@ -10,6 +10,17 @@ type: trait
 
 ---
 
+<section class="sc-trait" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Talent</div>
+<h3 class="sc-trait__name">Mind Spike</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">1</span></div>
+</header>
+<div class="sc-trait__body">
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability, which can be used as a ranged free strike.</p>
+<div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
 <span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
@@ -34,10 +45,10 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability, which can be used as a ranged free strike.</p><p>## Mind Spike {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/mind-spike&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
 <div class="sc-ability__section-body"><p>The target takes an extra 2 psychic damage. You also take 2 psychic damage that can&#39;t be reduced in any way.</p></div>
 </div>
 </article>
+</div>
+</div>
+</section>

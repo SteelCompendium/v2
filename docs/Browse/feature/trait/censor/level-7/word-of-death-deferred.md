@@ -10,16 +10,16 @@ type: trait
 
 ---
 
-<article class="sc-ability sc-fil" data-action="trait">
-<div class="sc-ability__head">
-<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
-<div class="sc-ability__titles">
-<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
-<h3 class="sc-ability__name">Word of Death Deferred</h3>
+<section class="sc-trait sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Censor</div>
+<h3 class="sc-trait__name">Word of Death Deferred</h3>
 </div>
-<div class="sc-ability__corner"></div>
+<div class="sc-trait__tag">Level <span class="num">7</span></div>
+</header>
+<div class="sc-trait__body">
+<p>You can stop death from taking your allies. When an ally within distance of your <a href="../../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.</p>
+<p>Additionally, your abilities deal an extra 5 damage to winded creatures.</p>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can stop death from taking your allies. When an ally within distance of your <a href="../../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.</p><p>Additionally, your abilities deal an extra 5 damage to winded creatures.</p></div>
-</div>
-</article>
+</section>
