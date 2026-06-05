@@ -1,0 +1,28 @@
+---
+echelon: "2"
+effect: As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), and [taunted](../../../condition/taunted.md) conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
+keywords:
+    - Psionic
+name: Breath of Dawn
+scc: mcdm.heroes.v1/treasure.2nd-echelon.consumable/breath-of-dawn
+treasure_type: consumable
+type: treasure
+---
+
+# Breath of Dawn
+
+---
+
+*A glass flask contains a whirl of gentle sunlight.*
+
+**Keywords:** Psionic
+
+**Item Prerequisite:** The breath of a mystic sage captured at sunrise
+
+**Project Source:** Texts or lore in Hyrallic
+
+**Project Roll Characteristic:** Intuition or Presence
+
+**Project Goal:** 90
+
+**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), and [taunted](../../../condition/taunted.md) conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
