@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While the lightbender is rampaging, your grip on spatial reality is weakened, and once on each of your turns, you or the lightbender can teleport up to 3 spaces as a free maneuver. Additionally, strikes made against you and the lightbender have a double bane until the lightbender&#39;s rampage ends.</p></div>
+<div class="sc-ability__section-body"><p>While the lightbender is rampaging, your grip on spatial reality is <a href="../../../../../../condition/weakened/">weakened</a>, and once on each of your turns, you or the lightbender can teleport up to 3 spaces as a free maneuver. Additionally, strikes made against you and the lightbender have a double bane until the lightbender&#39;s rampage ends.</p></div>
 </div>
 </article>

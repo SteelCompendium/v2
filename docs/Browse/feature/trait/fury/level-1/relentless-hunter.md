@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You gain an edge on tests made using the Track skill.</p></div>
+<div class="sc-ability__section-body"><p>You gain an edge on tests made using the <a href="../../../../../skill/track/">Track</a> skill.</p></div>
 </div>
 </article>

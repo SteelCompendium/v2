@@ -26,7 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One mundane wooden object</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your elemental specialization grants you a feature, as shown on the 3rd-Level Elemental Specialization Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/elemental-specialization/">elemental specialization</a> grants you a feature, as shown on the 3rd-Level <a href="../../level-1/elemental-specialization/">Elemental Specialization</a> Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 3rd-Level Elemental Specialization Features Table</p></div>

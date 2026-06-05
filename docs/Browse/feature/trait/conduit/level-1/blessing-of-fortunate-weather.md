@@ -28,11 +28,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Foggy</span></div>
-<div class="sc-ability__section-body"><p>You and your allies gain an edge on tests that use the Hide skill. <b>Overcast:</b> You and your allies gain an edge on tests that use the Endurance skill.</p></div>
+<div class="sc-ability__section-body"><p>You and your allies gain an edge on tests that use the Hide skill. <b>Overcast:</b> You and your allies gain an edge on tests that use the <a href="../../../../../skill/endurance/">Endurance</a> skill.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Precipitation</span></div>
-<div class="sc-ability__section-body"><p>When the ground is muddy or snowy, you and your allies gain an edge on tests that use the Track skill.</p></div>
+<div class="sc-ability__section-body"><p>When the ground is muddy or snowy, you and your allies gain an edge on tests that use the <a href="../../../../../skill/track/">Track</a> skill.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.</p></div>

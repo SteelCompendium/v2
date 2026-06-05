@@ -43,9 +43,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 damage; vertical slide 2; M &lt; WEAK prone</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 damage; vertical slide 4; M &lt; AVERAGE prone</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 damage; vertical slide 6; M &lt; STRONG prone</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 damage; vertical slide 2; M &lt; WEAK <a href="../../../../../condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 damage; vertical slide 4; M &lt; AVERAGE <a href="../../../../../condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 damage; vertical slide 6; M &lt; STRONG <a href="../../../../../condition/prone/">prone</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">

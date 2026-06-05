@@ -51,6 +51,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you and a willing ally are standing on the ground within 10 squares of each other, you can teleport to swap places. If you do, you gain an edge on this ability.</p></div>
+<div class="sc-ability__section-body"><p>If you and a willing ally are standing on the ground within 10 squares of each other, you can <a href="../../../../../movement/teleport/">teleport</a> to swap places. If you do, you gain an edge on this ability.</p></div>
 </div>
 </article>

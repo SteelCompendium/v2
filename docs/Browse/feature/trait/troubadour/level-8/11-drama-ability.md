@@ -41,7 +41,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to teleport an ally within distance of that ability into the creature&#39;s space in a plume of rose petals. You or the teleported ally can then make a melee free strike.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to <a href="../../../../../movement/teleport/">teleport</a> an ally within distance of that ability into the creature&#39;s space in a plume of rose petals. You or the <a href="../../../../../movement/teleport/">teleport</a>ed ally can then make a melee free strike.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Power Ballad {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-8/power-ballad&#34;}</p></div>

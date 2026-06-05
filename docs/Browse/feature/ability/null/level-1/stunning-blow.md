@@ -42,9 +42,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A damage; I &lt; WEAK, dazed and slowed (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + A damage; I &lt; AVERAGE, dazed and slowed (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + A damage; I &lt; STRONG, dazed and slowed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A damage; I &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> and <a href="../../../../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + A damage; I &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> and <a href="../../../../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + A damage; I &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> and <a href="../../../../../condition/slowed/">slowed</a> (save ends)</span></div>
 </div>
 </div>
 </article>

@@ -20,7 +20,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You weave an elemental enchantment into your body that enhances your statistics. Choose one of the following enchantments. You can change your enchantment and ward (see Elementalist Ward below) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction.)</p></div>
+<div class="sc-ability__section-body"><p>You weave an elemental <a href="../enchantment/">enchantment</a> into your body that enhances your statistics. Choose one of the following enchantments. You can change your <a href="../enchantment/">enchantment</a> and ward (see <a href="../elementalist-ward/">Elementalist Ward</a> below) by performing a complex ritual as a respite activity. (*Quick Build:* <a href="../enchantment-of-destruction/">Enchantment of Destruction</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Enchantment of Battle {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-1/enchantment-of-battle&#34;}</p></div>
@@ -29,13 +29,13 @@ type: trait
 <div class="sc-ability__section-body"><p>You can wear light armor and wield light weapons effectively, even though you don&#39;t have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including free strikes. You can use light armor treasures and light weapon treasures.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>If you have a kit, you can&#39;t take this enchantment.</p></div>
+<div class="sc-ability__section-body"><p>If you have a kit, you can&#39;t take this <a href="../enchantment/">enchantment</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Enchantment of Celerity {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-1/enchantment-of-celerity&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You gain a +1 bonus to speed and to the distance you can shift when you take the Disengage move action.</p></div>
+<div class="sc-ability__section-body"><p>You gain a +1 bonus to speed and to the distance you can <a href="../../../../../movement/shifting/">shift</a> when you take the Disengage move action.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Enchantment of Destruction {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-1/enchantment-of-destruction&#34;}</p></div>

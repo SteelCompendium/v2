@@ -28,13 +28,13 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M damage; R &lt; WEAK, weakened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M damage; R &lt; AVERAGE, weakened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + M damage; R &lt; STRONG, weakened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M damage; R &lt; WEAK, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M damage; R &lt; AVERAGE, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + M damage; R &lt; STRONG, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* Hammer and Anvil.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* <a href="../../../../ability/tactician/level-1/hammer-and-anvil/">Hammer and Anvil</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Hammer and Anvil {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/hammer-and-anvil&#34;}</p></div>

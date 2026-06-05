@@ -39,11 +39,11 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target force moves a creature or object.</p></div>
+<div class="sc-ability__section-body"><p>The target <a href="../../../../../movement/forced-movement/">force move</a>s a creature or object.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The forced movement distance gains a bonus equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Reason score.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">The forced movement distance gains a bonus equal to twice your Reason score instead.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">The <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to twice your Reason score instead.</span></div>
 </article>

@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your null tradition grants your choice of one of two abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/null-tradition/">null tradition</a> grants your choice of one of two abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 2nd-Level Chronokinetic Ability</p></div>
@@ -66,7 +66,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the size of your Null Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the size of your <a href="../../level-1/null-field/">Null Field</a> ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 2nd-Level Metakinetic Ability</p></div>
@@ -82,6 +82,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While you have temporary Stamina from this ability, you can&#39;t be made bleeding even while dying.</p></div>
+<div class="sc-ability__section-body"><p>While you have temporary Stamina from this ability, you can&#39;t be made <a href="../../../../../condition/bleeding/">bleeding</a> even while dying.</p></div>
 </div>
 </article>

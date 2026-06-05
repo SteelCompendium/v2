@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of your next turn, you and your companion can fly and gain a +3 bonus to speed.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of your next turn, you and your companion can <a href="../../../../../movement/fly/">fly</a> and gain a +3 bonus to speed.</p></div>
 </div>
 </article>

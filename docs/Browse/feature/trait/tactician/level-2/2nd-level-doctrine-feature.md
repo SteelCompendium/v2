@@ -22,10 +22,10 @@ type: trait
 <div class="sc-ability__kw"><span class="sc-ability__chip">Doctrine</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Insurgent</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Infiltration Tactics</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../infiltration-tactics/">Infiltration Tactics</a></div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your tactical doctrine grants you a feature, as shown on the 2nd-Level Doctrine Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/tactical-doctrine/">tactical doctrine</a> grants you a feature, as shown on the 2nd-Level Doctrine Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 2nd-Level Doctrine Features Table</p></div>
@@ -50,6 +50,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>
-<div class="sc-ability__section-body"><p>When a creature marked by you attempts to move or shift within distance of your melee free strike, you can use a free triggered action and spend 2 focus to make a melee free strike against that creature.</p></div>
+<div class="sc-ability__section-body"><p>When a creature marked by you attempts to move or <a href="../../../../../movement/shifting/">shift</a> within distance of your melee free strike, you can use a free triggered action and spend 2 focus to make a melee free strike against that creature.</p></div>
 </div>
 </article>

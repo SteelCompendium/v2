@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever the spark makes a strike against a creature while rampaging, they can cause a target who has M &lt; AVERAGE to be dazed until the end of the target&#39;s next turn.</p></div>
+<div class="sc-ability__section-body"><p>Whenever the spark makes a strike against a creature while rampaging, they can cause a target who has M &lt; AVERAGE to be <a href="../../../../../../condition/dazed/">dazed</a> until the end of the target&#39;s next turn.</p></div>
 </div>
 </article>

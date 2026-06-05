@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.</p></div>
+<div class="sc-ability__section-body"><p>Each target can spend a Recovery. Additionally, each target can use a free <a href="../../../../trait/conduit/level-1/triggered-action/">triggered action</a> to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if <a href="../../../../../condition/prone/">prone</a>.</p></div>
 </div>
 </article>

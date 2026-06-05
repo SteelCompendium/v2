@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While the spark is rampaging, you and the spark can shift up to your speed as a free maneuver once on each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>While the spark is rampaging, you and the spark can <a href="../../../../../../movement/shifting/">shift</a> up to your speed as a free maneuver once on each of your turns.</p></div>
 </div>
 </article>

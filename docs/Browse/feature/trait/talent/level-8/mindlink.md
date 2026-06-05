@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your Telepathic Speech feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.</p></div>
 </div>
 </article>

@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P &lt; AVERAGE is taunted until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy taunted by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P &lt; AVERAGE is <a href="../../../../../condition/taunted/">taunted</a> until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy <a href="../../../../../condition/taunted/">taunted</a> by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.</p></div>
 </div>
 </article>

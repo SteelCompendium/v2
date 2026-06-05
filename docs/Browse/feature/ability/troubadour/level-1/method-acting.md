@@ -42,13 +42,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + A damage; P &lt; WEAK, weakened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + A damage; P &lt; AVERAGE, weakened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + A damage; P &lt; STRONG, weakened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + A damage; P &lt; WEAK, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + A damage; P &lt; AVERAGE, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + A damage; P &lt; STRONG, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can become bleeding (save ends) to deal an extra 5 corruption damage to the target.</p></div>
+<div class="sc-ability__section-body"><p>You can become <a href="../../../../../condition/bleeding/">bleeding</a> (save ends) to deal an extra 5 corruption damage to the target.</p></div>
 </div>
 </article>

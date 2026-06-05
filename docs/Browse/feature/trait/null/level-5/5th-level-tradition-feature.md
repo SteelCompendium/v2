@@ -22,10 +22,10 @@ type: trait
 <div class="sc-ability__kw"><span class="sc-ability__chip">Tradition</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Chronokinetic</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Instant Action</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../instant-action/">Instant Action</a></div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your null tradition grants you a feature, as shown on the 5th-Level Tradition Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/null-tradition/">null tradition</a> grants you a feature, as shown on the 5th-Level Tradition Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 5th-Level Tradition Features Table</p></div>

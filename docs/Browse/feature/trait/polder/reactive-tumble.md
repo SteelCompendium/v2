@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Staying light on your feet lets you quickly get back into position. Whenever you are force moved, you can use a free triggered action to shift 1 square after the forced movement is resolved.</p></div>
+<div class="sc-ability__section-body"><p>Staying light on your feet lets you quickly get back into position. Whenever you are <a href="../../../../movement/forced-movement/">force moved</a>, you can use a free triggered action to <a href="../../../../movement/shifting/">shift</a> 1 square after the <a href="../../../../movement/forced-movement/">forced movement</a> is resolved.</p></div>
 </div>
 </article>

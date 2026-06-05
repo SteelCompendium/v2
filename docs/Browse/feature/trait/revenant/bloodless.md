@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>For you, an open wound is indistinguishable from a scratch. You can&#39;t be made bleeding even while dying.</p></div>
+<div class="sc-ability__section-body"><p>For you, an open wound is indistinguishable from a scratch. You can&#39;t be made <a href="../../../../condition/bleeding/">bleeding</a> even while dying.</p></div>
 </div>
 </article>

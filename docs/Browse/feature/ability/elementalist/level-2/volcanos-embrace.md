@@ -43,9 +43,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + R fire damage; A &lt; WEAK, restrained (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + R fire damage; A &lt; AVERAGE, restrained (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R fire damage; A &lt; STRONG, restrained (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + R fire damage; A &lt; WEAK, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + R fire damage; A &lt; AVERAGE, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R fire damage; A &lt; STRONG, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
 </div>
 </div>
 </article>

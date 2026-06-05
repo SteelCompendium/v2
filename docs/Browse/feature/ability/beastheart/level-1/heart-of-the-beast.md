@@ -36,9 +36,9 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You must spend a Recovery without regaining Stamina. Your partner gains temporary Stamina equal to your recovery value as they leap out of your chest. Your partner teleports to your space from any distance, even if they don&#39;t have line of effect to you.</p></div>
+<div class="sc-ability__section-body"><p>You must spend a Recovery without regaining Stamina. Your partner gains temporary Stamina equal to your recovery value as they leap out of your chest. Your partner <a href="../../../../../movement/teleport/">teleports</a> to your space from any distance, even if they don&#39;t have line of effect to you.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">Your partner can shift up to their speed.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">Your partner can <a href="../../../../../movement/shifting/">shift</a> up to their speed.</span></div>
 <div class="sc-ability__enh"><span class="cost">Spend 1–5 Ferocity</span><span class="txt">Your partner gains additional temporary Stamina equal to their Might score for each ferocity spent this way.</span></div>
 <div class="sc-ability__enh"><span class="cost">Spend 5 Ferocity</span><span class="txt">You restore your dead partner to life with 1 Stamina, even if their body was destroyed. They gain no temporary Stamina if you use this ability this way.</span></div>
 </article>

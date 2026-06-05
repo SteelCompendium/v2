@@ -38,11 +38,11 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target would be force moved.</p></div>
+<div class="sc-ability__section-body"><p>The target would be <a href="../../../../../movement/forced-movement/">force moved</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can select a new target of the same size or smaller within distance to be force moved instead. You become the source of the forced movement, determine the new target&#39;s destination, and can push the target instead of using the original forced movement type. Additionally, the forced movement distance gains a bonus equal to your Might score.</p></div>
+<div class="sc-ability__section-body"><p>You can select a new target of the same size or smaller within distance to be force moved instead. You become the source of the <a href="../../../../../movement/forced-movement/">forced movement</a>, determine the new target&#39;s destination, and can push the target instead of using the original <a href="../../../../../movement/forced-movement/">forced movement</a> type. Additionally, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Might score.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The forced movement distance gains a bonus equal to twice your Might score instead.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to twice your Might score instead.</span></div>
 </article>

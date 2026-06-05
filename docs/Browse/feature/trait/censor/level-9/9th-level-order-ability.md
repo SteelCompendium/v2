@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your censor order grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/censor-order/">censor order</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 9th-Level Exorcist Abilities</p></div>
@@ -47,14 +47,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This ability gains an edge against demons, devils, undead, and creatures not native to your current world. If you know the target&#39;s true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.</p></div>
+<div class="sc-ability__section-body"><p>This ability gains an edge against demons, <a href="../../../../../ancestry/devil/">devils</a>, undead, and creatures not native to your current world. If you know the target&#39;s true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Terror Manifest {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-9/terror-manifest&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While frightened this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target frightened this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/frightened/">frightened</a> this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target <a href="../../../../../condition/frightened/">frightened</a> this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 9th-Level Oracle Abilities</p></div>

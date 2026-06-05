@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally the target comes adjacent to during the forced movement can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>Each ally the target comes adjacent to during the <a href="../../../../../movement/forced-movement/">forced movement</a> can spend a Recovery.</p></div>
 </div>
 </article>

@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following performance abilities, which are usable with your Routines feature.</p></div>
+<div class="sc-ability__section-body"><p>You have the following performance abilities, which are usable with your <a href="../routines/">Routines</a> feature.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## &#34;Thunder Mother&#34; {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/thunder-mother&#34;}</p></div>

@@ -53,6 +53,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You are weakened (save ends). If you scored a critical hit with this ability, you die.</p></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/weakened/">weakened</a> (save ends). If you scored a critical hit with this ability, you die.</p></div>
 </div>
 </article>

@@ -28,9 +28,9 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + A damage; A &lt; WEAK, grabbed</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + A damage; A &lt; AVERAGE, grabbed</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + A damage; A &lt; STRONG, grabbed</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + A damage; A &lt; WEAK, <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + A damage; A &lt; AVERAGE, <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + A damage; A &lt; STRONG, <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">
@@ -52,14 +52,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/grabbed/">grabbed</a> this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Phase Leap {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-5/phase-leap&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your Null Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage&#39;s space.</p></div>
+<div class="sc-ability__section-body"><p>You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your <a href="../../level-1/null-field/">Null Field</a> ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage&#39;s space.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Synaptic Reset {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-5/synaptic-reset&#34;}</p></div>

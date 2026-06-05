@@ -25,10 +25,10 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Whenever you use the Knockback maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead.</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you use your Inertial Shield ability, you can then use the Grab maneuver as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>Whenever you use your <a href="../../../../ability/null/level-1/inertial-shield/">Inertial Shield</a> ability, you can then use the Grab maneuver as a free triggered action.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the Cryokinetic Mastery table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
+<div class="sc-ability__section-body"><p>Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the <a href="../cryokinetic-mastery/">Cryokinetic Mastery</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Cryokinetic Mastery Table</p></div>

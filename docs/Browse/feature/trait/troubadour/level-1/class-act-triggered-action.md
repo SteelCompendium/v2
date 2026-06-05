@@ -26,7 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your troubadour class act grants you a triggered action, as shown on the Class Act Triggered Actions table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../troubadour-class-act/">troubadour class act</a> grants you a triggered action, as shown on the Class Act Triggered Actions table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Class Act Triggered Action Table</p></div>

@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you force move a creature or object, the forced movement distance gains a +1 bonus.</p></div>
+<div class="sc-ability__section-body"><p>Whenever you <a href="../../../../movement/forced-movement/">force move</a> a creature or object, the <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a +1 bonus.</p></div>
 </div>
 </article>

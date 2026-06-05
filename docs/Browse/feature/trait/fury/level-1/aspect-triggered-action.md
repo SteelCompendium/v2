@@ -26,7 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your primordial aspect grants you a triggered action, as shown on the Aspect Triggered Actions table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../primordial-aspect/">primordial aspect</a> grants you a triggered action, as shown on the Aspect Triggered Actions table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Aspect Triggered Actions Table</p></div>
@@ -40,18 +40,18 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.</p></div>
+<div class="sc-ability__section-body"><p>You gain temporary Stamina equal to your Might score and can enter your <a href="../../../../../complication/animal-form/">animal form</a> or hybrid form.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Lines of Force {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-1/lines-of-force&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target would be force moved.</p></div>
+<div class="sc-ability__section-body"><p>The target would be <a href="../../../../../movement/forced-movement/">force moved</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can select a new target of the same size or smaller within distance to be force moved instead. You become the source of the forced movement, determine the new target&#39;s destination, and can push the target instead of using the original forced movement type. Additionally, the forced movement distance gains a bonus equal to your Might score.</p></div>
+<div class="sc-ability__section-body"><p>You can select a new target of the same size or smaller within distance to be force moved instead. You become the source of the <a href="../../../../../movement/forced-movement/">forced movement</a>, determine the new target&#39;s destination, and can push the target instead of using the original <a href="../../../../../movement/forced-movement/">forced movement</a> type. Additionally, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Might score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Unearthly Reflexes {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-1/unearthly-reflexes&#34;}</p></div>
@@ -62,9 +62,9 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take half the damage from the triggering effect and can shift up to a number of squares equal to your Agility score.</p></div>
+<div class="sc-ability__section-body"><p>You take half the damage from the triggering effect and can <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Agility score.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If you are not dying, you can spend a Recovery.</span></div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The forced movement distance gains a bonus equal to twice your Might score instead.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to twice your Might score instead.</span></div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the damage has any potency effects associated with it, the potency is reduced by 1 for you.</span></div>
 </article>

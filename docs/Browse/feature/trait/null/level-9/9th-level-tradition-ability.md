@@ -28,13 +28,13 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + A psychic damage; I &lt; WEAK, dazed</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + A psychic damage; I &lt; AVERAGE, dazed</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + A psychic damage; I &lt; STRONG, dazed</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + A psychic damage; I &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + A psychic damage; I &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + A psychic damage; I &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your null tradition grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/null-tradition/">null tradition</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 9th-Level Chronokinetic Abilities</p></div>
@@ -75,14 +75,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your Entropic Adaptability trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your <a href="../../level-2/entropic-adaptability/">Entropic Adaptability</a> trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Heat Drain {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-9/heat-drain&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While restrained this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while restrained this way, any potency associated with the damage is reduced by 2.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/restrained/">restrained</a> this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while <a href="../../../../../condition/restrained/">restrained</a> this way, any potency associated with the damage is reduced by 2.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 9th-Level Metakinetic Abilities</p></div>
@@ -106,6 +106,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While dazed this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director&#39;s discretion.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/dazed/">dazed</a> this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director&#39;s discretion.</p></div>
 </div>
 </article>

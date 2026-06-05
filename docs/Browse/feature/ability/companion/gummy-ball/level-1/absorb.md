@@ -39,7 +39,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes acid damage equal to 3 + the ball&#39;s Might score, and if they have A &lt; AVERAGE, the ball moves into the target&#39;s space. If the target completely fits within the ball&#39;s space, the target is grabbed by the ball.</p></div>
+<div class="sc-ability__section-body"><p>The target takes acid damage equal to 3 + the ball&#39;s Might score, and if they have A &lt; AVERAGE, the ball moves into the target&#39;s space. If the target completely fits within the ball&#39;s space, the target is <a href="../../../../../../condition/grabbed/">grabbed</a> by the ball.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A target grabbed this way takes acid damage equal to the ball&#39;s Might score at the end of each of the ball&#39;s turns.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A target <a href="../../../../../../condition/grabbed/">grabbed</a> this way takes acid damage equal to the ball&#39;s Might score at the end of each of the ball&#39;s turns.</span></div>
 </article>

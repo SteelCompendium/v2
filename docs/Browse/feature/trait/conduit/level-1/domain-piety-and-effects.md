@@ -53,7 +53,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Life Domain Piety and Effect</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- <b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina. - <b>Prayer Effect:</b> Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they are prone. Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>- <b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina. - <b>Prayer Effect:</b> Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they <a href="../../../../../condition/prone/">are prone</a>. Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Love Domain Piety and Effect</p></div>
@@ -71,13 +71,13 @@ type: trait
 <div class="sc-ability__section-body"><p>## Protection Domain Piety and Effect</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- <b>Piety:</b> You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a triggered action to reduce incoming damage or to impose a bane or double bane on an enemy&#39;s power roll. - <b>Prayer Effect:</b> One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>- <b>Piety:</b> You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a <a href="../triggered-action/">triggered action</a> to reduce incoming damage or to impose a bane or double bane on an enemy&#39;s power roll. - <b>Prayer Effect:</b> One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Storm Domain Piety and Effect</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- <b>Piety:</b> You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved. - <b>Prayer Effect:</b> Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>- <b>Piety:</b> You gain 2 piety the first time in an encounter that an enemy within 10 squares is <a href="../../../../../movement/forced-movement/">force moved</a>. - <b>Prayer Effect:</b> Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Sun Domain Piety and Effect</p></div>
@@ -89,7 +89,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Trickery Domain Piety and Effect</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- <b>Piety:</b> You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver. - <b>Prayer Effect:</b> You slide one creature within 10 squares of you up to a number of squares equal to 5 + your conduit level.</p></div>
+<div class="sc-ability__section-body"><p>- <b>Piety:</b> You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or <a href="../../../../../skill/hide/">Hide</a> maneuver. - <b>Prayer Effect:</b> You slide one creature within 10 squares of you up to a number of squares equal to 5 + your <a href="../../../../../class/conduit/">conduit</a> level.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## War Domain Piety and Effect</p></div>

@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can shift up to 2 squares between your use of each ability.</p></div>
+<div class="sc-ability__section-body"><p>You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares between your use of each ability.</p></div>
 </div>
 </article>

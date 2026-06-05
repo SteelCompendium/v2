@@ -22,10 +22,10 @@ type: trait
 <div class="sc-ability__kw"><span class="sc-ability__chip">Doctrine</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Insurgent</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Distracted, Leave No Trace</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../distracted/">Distracted</a>, <a href="../leave-no-trace/">Leave No Trace</a></div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your tactical doctrine grants you two features, as shown on the 5th-Level Doctrine Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/tactical-doctrine/">tactical doctrine</a> grants you two features, as shown on the 5th-Level Doctrine Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 5th-Level Doctrine Features Table</p></div>

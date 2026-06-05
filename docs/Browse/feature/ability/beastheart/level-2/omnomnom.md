@@ -51,13 +51,13 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>This ability targets only creatures who are grabbed and are your companion&#39;s size or smaller.</p></div>
+<div class="sc-ability__section-body"><p>This ability targets only creatures who are <a href="../../../../../condition/grabbed/">grabbed</a> and are your companion&#39;s size or smaller.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A swallowed creature shares your companion&#39;s space, is grabbed and restrained, and has line of effect only to your companion. Nothing has line of effect to the swallowed creature.</p></div>
+<div class="sc-ability__section-body"><p>A swallowed creature shares your companion&#39;s space, is <a href="../../../../../condition/grabbed/">grabbed</a> and <a href="../../../../../condition/restrained/">restrained</a>, and has line of effect only to your companion. Nothing has line of effect to the swallowed creature.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Once per round at the start of your turn, the swallowed creature takes acid damage equal to 1 + your companion&#39;s Might score. If the swallowed creature escapes the grab, your companion immediately regurgitates the creature, who lands prone in an unoccupied square adjacent to your companion. Your companion can also regurgitate a swallowed creature as a free maneuver. Your companion can have only one creature swallowed at a time.</p></div>
+<div class="sc-ability__section-body"><p>Once per round at the start of your turn, the swallowed creature takes acid damage equal to 1 + your companion&#39;s Might score. If the swallowed creature escapes the grab, your companion immediately regurgitates the creature, who lands <a href="../../../../../condition/prone/">prone</a> in an unoccupied square adjacent to your companion. Your companion can also regurgitate a swallowed creature as a free maneuver. Your companion can have only one creature swallowed at a time.</p></div>
 </div>
 </article>

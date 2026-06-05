@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever one target takes damage, the other target can use a free triggered action to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free triggered action to spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever one target takes damage, the other target can use a free <a href="../../../../trait/conduit/level-1/triggered-action/">triggered action</a> to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free <a href="../../../../trait/conduit/level-1/triggered-action/">triggered action</a> to spend a Recovery.</p></div>
 </div>
 </article>

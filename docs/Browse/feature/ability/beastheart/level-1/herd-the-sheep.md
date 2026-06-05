@@ -43,13 +43,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M damage; slide 1; I &lt; WEAK weakened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M damage; slide 2; I &lt; AVERAGE weakened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M damage; slide 4; I &lt; STRONG weakened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M damage; slide 1; I &lt; WEAK <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M damage; slide 2; I &lt; AVERAGE <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M damage; slide 4; I &lt; STRONG <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and your companion can shift up to a number of squares equal to the number of squares the target was force moved.</p></div>
+<div class="sc-ability__section-body"><p>You and your companion can <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to the number of squares the target was <a href="../../../../../movement/forced-movement/">force moved</a>.</p></div>
 </div>
 </article>

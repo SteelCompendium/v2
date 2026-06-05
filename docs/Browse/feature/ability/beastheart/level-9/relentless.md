@@ -45,13 +45,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 + M damage; P &lt; WEAK taunted (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 + M damage; P &lt; AVERAGE taunted (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">22 + M damage; P &lt; STRONG taunted (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 + M damage; P &lt; WEAK <a href="../../../../../condition/taunted/">taunted</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 + M damage; P &lt; AVERAGE <a href="../../../../../condition/taunted/">taunted</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">22 + M damage; P &lt; STRONG <a href="../../../../../condition/taunted/">taunted</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While the target is taunted this way, all creatures except your companion have immunity 10 to damage dealt by the target.</p></div>
+<div class="sc-ability__section-body"><p>While the target is <a href="../../../../../condition/taunted/">taunted</a> this way, all creatures except your companion have immunity 10 to damage dealt by the target.</p></div>
 </div>
 </article>

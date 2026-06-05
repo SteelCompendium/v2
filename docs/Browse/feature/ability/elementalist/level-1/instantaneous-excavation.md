@@ -42,7 +42,7 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target can shift 1 square from the edge of the hole to the nearest unoccupied space of their choice.</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target can <a href="../../../../../movement/shifting/">shift</a> 1 square from the edge of the hole to the nearest unoccupied space of their choice.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target falls into the hole.</span></div>
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target falls into the hole and can&#39;t reduce the height of the fall.</span></div>
 </div>

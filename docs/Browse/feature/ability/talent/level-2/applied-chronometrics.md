@@ -49,7 +49,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, each target gains a +5 bonus to speed, they can&#39;t be made dazed, and they can use an additional maneuver on their turn. If a target is already dazed, that condition ends for them.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, each target gains a +5 bonus to speed, they can&#39;t be made <a href="../../../../../condition/dazed/">dazed</a>, and they can use an additional maneuver on their turn. If a target is already <a href="../../../../../condition/dazed/">dazed</a>, that condition ends for them.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

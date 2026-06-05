@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your movement no longer provokes opportunity attacks. Additionally, you can use your Harlequin Gambit feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.</p></div>
+<div class="sc-ability__section-body"><p>Your movement no longer provokes opportunity attacks. Additionally, you can use your <a href="../../level-5/harlequin-gambit/">Harlequin Gambit</a> feature as a free triggered action when a creature is reduced to 0 Stamina by your <a href="../../../../ability/shadow/level-1/clever-trick/">Clever Trick</a> ability.</p></div>
 </div>
 </article>

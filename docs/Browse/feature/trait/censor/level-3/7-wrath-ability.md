@@ -54,6 +54,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever a target moves or is force moved out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever a target moves or is <a href="../../../../../movement/forced-movement/">force moved</a> out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.</p></div>
 </div>
 </article>

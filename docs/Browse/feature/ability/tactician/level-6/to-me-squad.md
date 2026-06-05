@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is hit with two or more strikes as part of this ability and they have R &lt; STRONG, they are dazed (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.</p></div>
+<div class="sc-ability__section-body"><p>If the target is hit with two or more strikes as part of this ability and they have R &lt; STRONG, they are <a href="../../../../../condition/dazed/">dazed</a> (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.</p></div>
 </div>
 </article>

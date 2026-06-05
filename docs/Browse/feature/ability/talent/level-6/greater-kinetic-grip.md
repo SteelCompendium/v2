@@ -42,13 +42,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 4 + R; M &lt; WEAK, the forced movement is vertical</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 8 + R; M &lt; AVERAGE, the forced movement is vertical</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 12 + R; prone; M &lt; STRONG, the forced movement is vertical</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 4 + R; M &lt; WEAK, the <a href="../../../../../movement/forced-movement/">forced movement</a> is vertical</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 8 + R; M &lt; AVERAGE, the <a href="../../../../../movement/forced-movement/">forced movement</a> is vertical</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 12 + R; <a href="../../../../../condition/prone/">prone</a>; M &lt; STRONG, the <a href="../../../../../movement/forced-movement/">forced movement</a> is vertical</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The forced movement ignores stability. You take 2d6 damage and are weakened (save ends).</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../../movement/forced-movement/">forced movement</a> ignores stability. You take 2d6 damage and are <a href="../../../../../condition/weakened/">weakened</a> (save ends).</p></div>
 </div>
 </article>

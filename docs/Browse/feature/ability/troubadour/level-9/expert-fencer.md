@@ -45,7 +45,7 @@ type: ability
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">15 + A damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">21 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">28 + A damage; M &lt; STRONG, bleeding (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">28 + A damage; M &lt; STRONG, <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

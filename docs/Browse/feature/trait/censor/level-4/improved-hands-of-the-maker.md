@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>When you use your Hands of the Maker ability, you can create a mundane object that is size 2 or smaller.</p></div>
+<div class="sc-ability__section-body"><p>When you use your <a href="../../../../ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a> ability, you can create a mundane object that is size 2 or smaller.</p></div>
 </div>
 </article>

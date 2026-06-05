@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While you have 5 or more Victories, you can fly. If you can already fly, you have a +2 bonus to speed while flying instead.</p></div>
+<div class="sc-ability__section-body"><p>While you have 5 or more Victories, you can <a href="../../../../../movement/fly/">fly</a>. If you can already <a href="../../../../../movement/fly/">fly</a>, you have a +2 bonus to speed while <a href="../../../../../movement/fly/">flying</a> instead.</p></div>
 </div>
 </article>

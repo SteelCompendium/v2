@@ -39,7 +39,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the condor&#39;s Might score. Additionally, enemies are weakened while adjacent to the condor until the end of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the condor&#39;s Might score. Additionally, enemies are <a href="../../../../../../condition/weakened/">weakened</a> while adjacent to the condor until the end of your next turn.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">An enemy who would be weakened by this ability is taunted instead.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">An enemy who would be <a href="../../../../../../condition/weakened/">weakened</a> by this ability is <a href="../../../../../../condition/taunted/">taunted</a> instead.</span></div>
 </article>

@@ -20,7 +20,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* Bastion Ward.)</p></div>
+<div class="sc-ability__section-body"><p>Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (*Quick Build:* <a href="../bastion-ward/">Bastion Ward</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Bastion Ward {data-scc=&#34;mcdm.heroes.v1/feature.trait.conduit.level-1/bastion-ward&#34;}</p></div>
@@ -32,7 +32,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Quickness Ward {data-scc=&#34;mcdm.heroes.v1/feature.trait.conduit.level-1/quickness-ward&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can shift up to a number of squares equal to your Intuition score after the damage is dealt.</p></div>
+<div class="sc-ability__section-body"><p>The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Intuition score after the damage is dealt.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Sanctuary Ward {data-scc=&#34;mcdm.heroes.v1/feature.trait.conduit.level-1/sanctuary-ward&#34;}</p></div>

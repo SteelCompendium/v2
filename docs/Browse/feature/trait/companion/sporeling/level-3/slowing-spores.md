@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be slowed until the end of the target&#39;s next turn.</p></div>
+<div class="sc-ability__section-body"><p>Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be <a href="../../../../../../condition/slowed/">slowed</a> until the end of the target&#39;s next turn.</p></div>
 </div>
 </article>

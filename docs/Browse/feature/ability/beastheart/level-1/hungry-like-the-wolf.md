@@ -45,7 +45,7 @@ type: ability
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M damage; your companion can spend a Recovery</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + M damage; you and your companion can each spend a Recovery</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M damage; A &lt; STRONG bleeding (EoT); you and your companion can each spend a Recovery and shift up to 2 squares</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M damage; A &lt; STRONG <a href="../../../../../condition/bleeding/">bleeding</a> (EoT); you and your companion can each spend a Recovery and shift up to 2 squares</span></div>
 </div>
 </div>
 </article>

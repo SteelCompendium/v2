@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While the condor is flying and has a speed greater than 0, ranged strikes against them take a bane.</p></div>
+<div class="sc-ability__section-body"><p>While the condor is <a href="../../../../../../movement/fly/">flying</a> and has a speed greater than 0, ranged strikes against them take a bane.</p></div>
 </div>
 </article>

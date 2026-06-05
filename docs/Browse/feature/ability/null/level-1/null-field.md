@@ -38,10 +38,10 @@ type: ability
 <div class="sc-ability__section-body"><p>Each target reduces their potencies by 1.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Once as a free maneuver on each of your turns, you can spend 1 discipline and give your Null Field one of the following additional effects until the start of your next turn:</p></div>
+<div class="sc-ability__section-body"><p>Once as a free maneuver on each of your turns, you can spend 1 discipline and give your <a href="../../../../trait/null/level-1/null-field/">Null Field</a> one of the following additional effects until the start of your next turn:</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares. - Inertial Anchor: Any target who starts their turn in the area can&#39;t shift. - Synaptic Break: Whenever you or any ally uses an ability against a target that has a potency effect, the potency is increased by 1.</p></div>
+<div class="sc-ability__section-body"><p>- Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares. - Inertial Anchor: Any target who starts their turn in the area can&#39;t <a href="../../../../../movement/shifting/">shift</a>. - Synaptic Break: Whenever you or any ally uses an ability against a target that has a potency effect, the potency is increased by 1.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>This ability remains active even after an encounter ends. It ends only if you are dying or if you willingly end it (no action required).</p></div>

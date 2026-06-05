@@ -43,13 +43,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage; vertical push 4; prone</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + M damage; vertical push 6; prone</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + M damage; vertical push 8; prone</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage; vertical push 4; <a href="../../../../../condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + M damage; vertical push 6; <a href="../../../../../condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + M damage; vertical push 8; <a href="../../../../../condition/prone/">prone</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If your companion is adjacent to the target, this forced movement can ignore the target&#39;s stability.</p></div>
+<div class="sc-ability__section-body"><p>If your companion is adjacent to the target, this <a href="../../../../../movement/forced-movement/">forced movement</a> can ignore the target&#39;s stability.</p></div>
 </div>
 </article>

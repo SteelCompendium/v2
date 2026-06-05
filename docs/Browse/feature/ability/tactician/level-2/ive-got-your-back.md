@@ -42,9 +42,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + R damage; taunted (EoT)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + R damage; taunted (EoT)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R damage; taunted (EoT)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + R damage; <a href="../../../../../condition/taunted/">taunted</a> (EoT)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + R damage; <a href="../../../../../condition/taunted/">taunted</a> (EoT)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R damage; <a href="../../../../../condition/taunted/">taunted</a> (EoT)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

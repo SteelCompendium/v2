@@ -43,13 +43,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + I damage; P &lt; WEAK weakened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + I damage; P &lt; AVERAGE weakened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + I damage; P &lt; STRONG weakened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + I damage; P &lt; WEAK <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + I damage; P &lt; AVERAGE <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + I damage; P &lt; STRONG <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Whenever a target more than 3 squares away from you fails the saving throw while weakened this way, you can pull the target up to a number of squares equal to your Intuition score as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>Whenever a target more than 3 squares away from you fails the saving throw while <a href="../../../../../condition/weakened/">weakened</a> this way, you can pull the target up to a number of squares equal to your Intuition score as a free triggered action.</p></div>
 </div>
 </article>

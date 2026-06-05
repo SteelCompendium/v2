@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and teleport those targets to unoccupied spaces in the area. A target can&#39;t be teleported in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and <a href="../../../../../movement/teleport/">teleport</a> those targets to unoccupied spaces in the area. A target can&#39;t be <a href="../../../../../movement/teleport/">teleport</a>ed in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.</p></div>
 </div>
 </article>

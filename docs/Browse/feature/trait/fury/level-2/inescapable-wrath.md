@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have a bonus to speed equal to your Agility score, and you ignore difficult terrain.</p></div>
+<div class="sc-ability__section-body"><p>You have a bonus to speed equal to your Agility score, and you ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
 </div>
 </article>

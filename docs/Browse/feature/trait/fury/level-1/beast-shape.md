@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your Growing Ferocity feature.</p></div>
+<div class="sc-ability__section-body"><p>You can use and gain the benefits of a stormwight kit (see <a href="../../stormwight-kits/">Stormwight Kits</a>). Your stormwight kit grants you a number of benefits, including benefits tied to your <a href="../../boren/growing-ferocity/">Growing Ferocity</a> feature.</p></div>
 </div>
 </article>

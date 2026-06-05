@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you use an ability that deals rolled damage to a bleeding creature while the deinonychus is rampaging, you gain 2 surges.</p></div>
+<div class="sc-ability__section-body"><p>Whenever you use an ability that deals rolled damage to a <a href="../../../../../../condition/bleeding/">bleeding</a> creature while the deinonychus is rampaging, you gain 2 surges.</p></div>
 </div>
 </article>

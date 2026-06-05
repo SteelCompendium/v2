@@ -48,6 +48,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.</p></div>
+<div class="sc-ability__section-body"><p>The targets are <a href="../../../../../movement/forced-movement/">force moved</a> one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.</p></div>
 </div>
 </article>

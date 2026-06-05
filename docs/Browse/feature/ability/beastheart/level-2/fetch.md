@@ -45,16 +45,16 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M damage; M &lt; WEAK grabbed</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M damage; M &lt; AVERAGE grabbed</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + M damage; M &lt; STRONG grabbed</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M damage; M &lt; WEAK <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M damage; M &lt; AVERAGE <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + M damage; M &lt; STRONG <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion can teleport up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.</p></div>
+<div class="sc-ability__section-body"><p>Your companion can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>After making the power roll, your companion can teleport with a grabbed creature or held object, provided the creature or object can fit in the destination. You choose which squares adjacent to your companion the grabbed creature or held object is teleported to.</p></div>
+<div class="sc-ability__section-body"><p>After making the power roll, your companion can teleport with a <a href="../../../../../condition/grabbed/">grabbed</a> creature or held object, provided the creature or object can fit in the destination. You choose which squares adjacent to your companion the <a href="../../../../../condition/grabbed/">grabbed</a> creature or held object is teleported to.</p></div>
 </div>
 </article>

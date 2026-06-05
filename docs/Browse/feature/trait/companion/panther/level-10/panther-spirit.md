@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While the panther is rampaging, you and the panther are invisible and can move through objects and terrain, which are difficult terrain for you both. A creature who ends their turn inside a solid object from moving this way is teleported to the last unoccupied space they previously occupied.</p></div>
+<div class="sc-ability__section-body"><p>While the panther is rampaging, you and the panther are invisible and can move through objects and terrain, which are <a href="../../../../../../movement/difficult-terrain/">difficult terrain</a> for you both. A creature who ends their turn inside a solid object from moving this way is <a href="../../../../../../movement/teleport/">teleported</a> to the last unoccupied space they previously occupied.</p></div>
 </div>
 </article>

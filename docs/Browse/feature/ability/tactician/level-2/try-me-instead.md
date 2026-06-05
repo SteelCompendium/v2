@@ -42,13 +42,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R damage; R &lt; WEAK, frightened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + R damage; R &lt; AVERAGE, frightened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 + R damage; R &lt; STRONG, frightened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R damage; R &lt; WEAK, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + R damage; R &lt; AVERAGE, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 + R damage; R &lt; STRONG, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You shift up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.</p></div>
 </div>
 </article>

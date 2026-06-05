@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>When a target would end this forced movement by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as forced movement remains, this effect continues if the target collides with another creature or object.</p></div>
+<div class="sc-ability__section-body"><p>When a target would end this <a href="../../../../../movement/forced-movement/">forced movement</a> by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as <a href="../../../../../movement/forced-movement/">forced movement</a> remains, this effect continues if the target collides with another creature or object.</p></div>
 </div>
 </article>

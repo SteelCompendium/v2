@@ -19,7 +19,7 @@ type: trait
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.</p>
+<p class="sc-ability__flavor">You focus your <a href="../../level-1/null-field/">null field</a> into a pressure point strike that prevents your foe from channeling sorcery.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
@@ -48,7 +48,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is dazed this way, they see glimpses of creatures from other parts of the timescape.</p></div>
+<div class="sc-ability__section-body"><p>The target and each creature or object they collide with from this <a href="../../../../../movement/forced-movement/">forced movement</a> takes psychic damage equal to the total number of squares the target was force moved. While the target is <a href="../../../../../condition/dazed/">dazed</a> this way, they see glimpses of creatures from other parts of the timescape.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Scalar Assault {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-8/scalar-assault&#34;}</p></div>
@@ -58,10 +58,10 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target takes damage from another creature&#39;s ability while in the area of your Null Field ability.</p></div>
+<div class="sc-ability__section-body"><p>The target takes damage from another creature&#39;s ability while in the area of your <a href="../../level-1/null-field/">Null Field</a> ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes half the damage, and if the triggering creature has I &lt; AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.</p></div>
+<div class="sc-ability__section-body"><p>The target takes half the damage, and if the triggering creature has I &lt; AVERAGE, they are <a href="../../../../../condition/dazed/">dazed</a> (save ends). While the triggering creature is <a href="../../../../../condition/dazed/">dazed</a> this way, they take psychic damage equal to your Intuition score whenever they use a main action.</p></div>
 </div>
 </article>

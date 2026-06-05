@@ -37,8 +37,8 @@ type: ability
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">No effect.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can grab the target, but if you do, the target can make a melee free strike against you before they are grabbed.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target is grabbed by you.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can grab the target, but if you do, the target can make a melee free strike against you before they are <a href="../../../../../condition/grabbed/">grabbed</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target is <a href="../../../../../condition/grabbed/">grabbed</a> by you.</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
@@ -49,6 +49,6 @@ type: ability
 <div class="sc-ability__section-body"><p>Unless otherwise indicated, a creature can grab only one creature at a time.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>See Conditions in Chapter 5: Classes for information on the grabbed condition.</p></div>
+<div class="sc-ability__section-body"><p>See Conditions in Chapter 5: <a href="../../../../../../Read/heroes/classes/">Classes</a> for information on the <a href="../../../../../condition/grabbed/">grabbed</a> condition.</p></div>
 </div>
 </article>

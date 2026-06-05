@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can shift up to a number of squares equal to your Intuition score after the damage is dealt.</p></div>
+<div class="sc-ability__section-body"><p>The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Intuition score after the damage is dealt.</p></div>
 </div>
 </article>

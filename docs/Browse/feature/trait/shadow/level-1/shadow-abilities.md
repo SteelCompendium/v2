@@ -40,7 +40,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Signature Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Teamwork Has Its Place.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* <a href="../../../../ability/shadow/level-1/teamwork-has-its-place/">Teamwork Has Its Place</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Gasping in Pain {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-1/gasping-in-pain&#34;}</p></div>
@@ -80,14 +80,14 @@ type: trait
 <div class="sc-ability__section-body"><p>### 3-Insight Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* Get In Get Out.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* <a href="../../../../ability/shadow/level-1/get-in-get-out/">Get In Get Out</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Disorienting Strike {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-1/disorienting-strike&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can shift into any square the target leaves when you slide them.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> into any square the target leaves when you slide them.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Eviscerate {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-1/eviscerate&#34;}</p></div>
@@ -97,7 +97,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can shift up to your speed, dividing that movement before or after your strike as desired.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to your speed, dividing that movement before or after your strike as desired.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Two Throats at Once {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-1/two-throats-at-once&#34;}</p></div>
@@ -106,7 +106,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## 5-Insight Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: Coup de Grace.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: <a href="../../../../ability/shadow/level-1/coup-de-grace/">Coup de Grace</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Coup de Grace {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-1/coup-de-grace&#34;}</p></div>
@@ -116,7 +116,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You shift up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Setup {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-1/setup&#34;}</p></div>

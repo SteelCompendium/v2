@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>A tolerance for pain and distress allows you to push through difficult situations. If you are frightened, slowed, or weakened, you can use a maneuver to immediately end one of those conditions.</p></div>
+<div class="sc-ability__section-body"><p>A tolerance for pain and distress allows you to push through difficult situations. If you are <a href="../../../../condition/frightened/">frightened</a>, <a href="../../../../condition/slowed/">slowed</a>, or <a href="../../../../condition/weakened/">weakened</a>, you can use a maneuver to immediately end one of those conditions.</p></div>
 </div>
 </article>

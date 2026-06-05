@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>These bonuses apply in your true form, your animal form, and your hybrid form. See Chapter 6: Kits for information on kit bonuses.</p></div>
+<div class="sc-ability__section-body"><p>These bonuses apply in your true form, your <a href="../../../../complication/animal-form/">animal form</a>, and your hybrid form. See Chapter 6: <a href="../../../../../Read/heroes/kits/">Kits</a> for information on <a href="../boren/kit-bonuses/">kit bonuses</a>.</p></div>
 </div>
 </article>

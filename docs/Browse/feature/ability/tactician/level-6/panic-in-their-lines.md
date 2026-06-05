@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If a target is force moved into another creature, they must make a free strike against that creature.</p></div>
+<div class="sc-ability__section-body"><p>If a target is <a href="../../../../../movement/forced-movement/">force moved</a> into another creature, they must make a free strike against that creature.</p></div>
 </div>
 </article>

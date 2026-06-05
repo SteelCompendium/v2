@@ -19,7 +19,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Human heroes have access to the following traits.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../ancestry/human/">Human</a> heroes have access to the following traits.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Signature Trait: Detect the Supernatural {data-scc=&#34;mcdm.heroes.v1/feature.trait.human/detect-the-supernatural&#34;}</p></div>
@@ -37,19 +37,19 @@ type: trait
 <div class="sc-ability__section-body"><p>### Can&#39;t Take Hold {data-scc=&#34;mcdm.heroes.v1/feature.trait.human/cant-take-hold&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary difficult terrain created by magic and psionic abilities. Additionally, when you are force moved by a magic or psionic ability, you can reduce the forced movement distance by 1.</p></div>
+<div class="sc-ability__section-body"><p>Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary <a href="../../../../movement/difficult-terrain/">difficult terrain</a> created by magic and psionic abilities. Additionally, when you are <a href="../../../../movement/forced-movement/">force moved</a> by a magic or psionic ability, you can reduce the <a href="../../../../movement/forced-movement/">forced movement</a> distance by 1.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Determination {data-scc=&#34;mcdm.heroes.v1/feature.trait.human/determination&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>A tolerance for pain and distress allows you to push through difficult situations. If you are frightened, slowed, or weakened, you can use a maneuver to immediately end one of those conditions.</p></div>
+<div class="sc-ability__section-body"><p>A tolerance for pain and distress allows you to push through difficult situations. If you are <a href="../../../../condition/frightened/">frightened</a>, <a href="../../../../condition/slowed/">slowed</a>, or <a href="../../../../condition/weakened/">weakened</a>, you can use a maneuver to immediately end one of those conditions.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Perseverance {data-scc=&#34;mcdm.heroes.v1/feature.trait.human/perseverance&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Giving up is for other people. You gain an edge on tests made using the Endurance skill. Additionally, when you are slowed, your speed is reduced to 3 instead of 2.</p></div>
+<div class="sc-ability__section-body"><p>Giving up is for other people. You gain an edge on tests made using the <a href="../../../../skill/endurance/">Endurance</a> skill. Additionally, when you are <a href="../../../../condition/slowed/">slowed</a>, your speed is reduced to 3 instead of 2.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Resist the Unnatural {data-scc=&#34;mcdm.heroes.v1/feature.trait.human/resist-the-unnatural&#34;}</p></div>
@@ -61,6 +61,6 @@ type: trait
 <div class="sc-ability__section-body"><p>### Staying Power {data-scc=&#34;mcdm.heroes.v1/feature.trait.human/staying-power&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your human physiology allows you to fight, run, and stay awake longer than others. You increase your number of Recoveries by 2.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../../../ancestry/human/">human</a> physiology allows you to fight, run, and stay awake longer than others. You increase your number of Recoveries by 2.</p></div>
 </div>
 </article>

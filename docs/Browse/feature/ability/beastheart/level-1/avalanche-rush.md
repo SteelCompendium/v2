@@ -38,10 +38,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + your Might score, and if they have M &lt; AVERAGE, they are knocked prone.</p></div>
+<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + your Might score, and if they have M &lt; AVERAGE, they are knocked <a href="../../../../../condition/prone/">prone</a>.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can move up to 3 squares before and after you use this ability. During this movement, a prone enemy&#39;s space doesn&#39;t count as difficult terrain, and the first time you enter a prone enemy&#39;s space, that enemy takes cold damage equal to your Might score.</p></div>
+<div class="sc-ability__section-body"><p>You can move up to 3 squares before and after you use this ability. During this movement, a <a href="../../../../../condition/prone/">prone</a> enemy&#39;s space doesn&#39;t count as difficult terrain, and the first time you enter a <a href="../../../../../condition/prone/">prone</a> enemy&#39;s space, that enemy takes cold damage equal to your Might score.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are knocked prone.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are knocked <a href="../../../../../condition/prone/">prone</a>.</span></div>
 </article>

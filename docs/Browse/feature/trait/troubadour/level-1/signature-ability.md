@@ -28,20 +28,20 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + A damage; P &lt; WEAK, weakened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + A damage; P &lt; AVERAGE, weakened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + A damage; P &lt; STRONG, weakened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + A damage; P &lt; WEAK, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + A damage; P &lt; AVERAGE, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + A damage; P &lt; STRONG, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Witty Banter.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* <a href="../../../../ability/troubadour/level-1/witty-banter/">Witty Banter</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Artful Flourish {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/artful-flourish&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can shift up to 3 squares.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to 3 squares.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Cutting Sarcasm {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/cutting-sarcasm&#34;}</p></div>
@@ -51,7 +51,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is taunted by you or a willing ally adjacent to you until the end of the target&#39;s next turn.</p></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../../../condition/taunted/">taunted</a> by you or a willing ally adjacent to you until the end of the target&#39;s next turn.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Witty Banter {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter&#34;}</p></div>
@@ -70,7 +70,7 @@ type: trait
 <div class="sc-ability__section-body"><p>### 3-Drama Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* Harsh Critic.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* <a href="../../../../ability/troubadour/level-1/harsh-critic/">Harsh Critic</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Harsh Critic {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/harsh-critic&#34;}</p></div>
@@ -87,20 +87,20 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area is difficult terrain for enemies.</p></div>
+<div class="sc-ability__section-body"><p>The area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Upstage {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/upstage&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You shift up to your speed. You make one power roll that targets each enemy you move adjacent to during this shift.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your speed. You make one power roll that targets each enemy you move adjacent to during this <a href="../../../../../movement/shifting/">shift</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 5-Drama Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* Dramatic Reversal.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* <a href="../../../../ability/troubadour/level-1/dramatic-reversal/">Dramatic Reversal</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Dramatic Reversal {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-reversal&#34;}</p></div>
@@ -110,21 +110,21 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to speed and you ignore difficult terrain. The illusion and your invisibility last until the end of your next turn, or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.</p></div>
+<div class="sc-ability__section-body"><p>You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to speed and you ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>. The illusion and your invisibility last until the end of your next turn, or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Flip the Script {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/flip-the-script&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can teleport up to 5 squares. Any teleported target who was slowed is no longer slowed.</p></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares. Any <a href="../../../../../movement/teleport/">teleport</a>ed target who was <a href="../../../../../condition/slowed/">slowed</a> is no longer <a href="../../../../../condition/slowed/">slowed</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Method Acting {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/method-acting&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can become bleeding (save ends) to deal an extra 5 corruption damage to the target.</p></div>
+<div class="sc-ability__section-body"><p>You can become <a href="../../../../../condition/bleeding/">bleeding</a> (save ends) to deal an extra 5 corruption damage to the target.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2+ Drama</span><span class="txt">You can target one additional creature or object for every 2 drama spent.</span></div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">The chosen ally can spend a Recovery.</span></div>

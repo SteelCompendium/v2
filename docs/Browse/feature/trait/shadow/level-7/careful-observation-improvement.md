@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can target two creatures simultaneously with your Careful Observation ability, observing both simultaneously. Making a strike against one target doesn&#39;t end your observation of the other target.</p></div>
+<div class="sc-ability__section-body"><p>You can target two creatures simultaneously with your <a href="../../../../ability/shadow/level-3/careful-observation/">Careful Observation</a> ability, observing both simultaneously. Making a strike against one target doesn&#39;t end your observation of the other target.</p></div>
 </div>
 </article>

@@ -29,9 +29,9 @@ type: trait
 <div class="sc-ability__section-body"><p>### Customizing Your Companion</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Want a companion not listed here? You can often use one of these stat blocks to represent a similar beast. For instance, you could use the condor companion for an escaped Hawklord hawk, the wolf for a dog or jackal, or even the boar for a particularly ornery stag or elk.</p></div>
+<div class="sc-ability__section-body"><p>Want a companion not listed here? You can often use one of these stat blocks to represent a similar beast. For instance, you could use the <a href="../../../../../feature-group/companion/condor/">condor</a> companion for an escaped Hawklord hawk, the <a href="../../../../../feature-group/companion/wolf/">wolf</a> for a dog or jackal, or even the <a href="../../../../../feature-group/companion/boar/">boar</a> for a particularly ornery stag or elk.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>With the Director&#39;s permission, you can also change the damage types of your companion&#39;s abilities to better match your vision. Perhaps instead of a hellhound you travel with a white wolf that deals cold damage instead of fire damage; maybe your elemental spark is an elemental ember that deals fire damage; or maybe your panther is a shadow whose Pounce maneuver deals corruption or cold damage.</p></div>
+<div class="sc-ability__section-body"><p>With the Director&#39;s permission, you can also change the damage types of your companion&#39;s abilities to better match your vision. Perhaps instead of a <a href="../../../../../feature-group/companion/hellhound/">hellhound</a> you travel with a white wolf that deals cold damage instead of fire damage; maybe your <a href="../../../../../feature-group/companion/elemental-spark/">elemental spark</a> is an elemental ember that deals fire damage; or maybe your <a href="../../../../../feature-group/companion/panther/">panther</a> is a shadow whose <a href="../../../../ability/companion/panther/level-1/pounce/">Pounce</a> maneuver deals corruption or cold damage.</p></div>
 </div>
 </article>

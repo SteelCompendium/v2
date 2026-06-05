@@ -44,7 +44,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You must spend a Recovery without regaining Stamina. Your partner gains temporary Stamina equal to your recovery value as they leap out of your chest. Your partner teleports to your space from any distance, even if they don&#39;t have line of effect to you.</p></div>
+<div class="sc-ability__section-body"><p>You must spend a Recovery without regaining Stamina. Your partner gains temporary Stamina equal to your recovery value as they leap out of your chest. Your partner <a href="../../../../../movement/teleport/">teleports</a> to your space from any distance, even if they don&#39;t have line of effect to you.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Feral Strike {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/feral-strike&#34;}</p></div>
@@ -63,9 +63,9 @@ type: trait
 <div class="sc-ability__section-body"><p>This ability gains the following benefit based on your wild nature.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- <b>Guardian:</b> Each enemy target is taunted by your companion until the start of your next turn. - <b>Prowler:</b> Each enemy target is weakened until the start of your next turn. - <b>Punisher:</b> Your companion slides each target up to a number of squares equal to their Might score. - <b>Spark:</b> This strike deals cold, fire, lightning, or sonic damage. You gain 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>- <b>Guardian:</b> Each enemy target is <a href="../../../../../condition/taunted/">taunted</a> by your companion until the start of your next turn. - <b>Prowler:</b> Each enemy target is <a href="../../../../../condition/weakened/">weakened</a> until the start of your next turn. - <b>Punisher:</b> Your companion slides each target up to a number of squares equal to their Might score. - <b>Spark:</b> This strike deals cold, fire, lightning, or sonic damage. You gain 1 surge.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">Your partner can shift up to their speed.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">Your partner can <a href="../../../../../movement/shifting/">shift</a> up to their speed.</span></div>
 <div class="sc-ability__enh"><span class="cost">Spend 1–5 Ferocity</span><span class="txt">Your partner gains additional temporary Stamina equal to their Might score for each ferocity spent this way.</span></div>
 <div class="sc-ability__enh"><span class="cost">Spend 5 Ferocity</span><span class="txt">You restore your dead partner to life with 1 Stamina, even if their body was destroyed. They gain no temporary Stamina if you use this ability this way.</span></div>
 </article>

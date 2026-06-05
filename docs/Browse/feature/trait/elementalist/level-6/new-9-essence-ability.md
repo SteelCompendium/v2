@@ -28,9 +28,9 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You teleport the target up to 4 squares.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You teleport the target up to 6 squares.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You teleport the target up to 8 squares.</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You <a href="../../../../../movement/teleport/">teleport</a> the target up to 4 squares.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You <a href="../../../../../movement/teleport/">teleport</a> the target up to 6 squares.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You <a href="../../../../../movement/teleport/">teleport</a> the target up to 8 squares.</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
@@ -41,7 +41,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has a +3 bonus to speed, they can fly, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>The target has a +3 bonus to speed, they can <a href="../../../../../movement/fly/">fly</a>, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
@@ -55,7 +55,7 @@ type: trait
 <div class="sc-ability__section-body"><p>Until the start of your next turn, the target has the following benefits:</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target&#39;s new space slides to the nearest unoccupied space, ignoring stability. If the target doesn&#39;t have space to grow, they grow as much as they can and become restrained until the effect ends. - They have fire immunity 10. - Their strikes deal extra fire damage equal to twice your Reason score. - When the target force moves a creature or object, the forced movement distance gains a +2 bonus. - They can use their highest characteristic instead of Might for Might power rolls.</p></div>
+<div class="sc-ability__section-body"><p>- Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target&#39;s new space slides to the nearest unoccupied space, ignoring stability. If the target doesn&#39;t have space to grow, they grow as much as they can and become <a href="../../../../../condition/restrained/">restrained</a> until the effect ends. - They have fire immunity 10. - Their strikes deal extra fire damage equal to twice your Reason score. - When the target force moves a creature or object, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a +2 bonus. - They can use their highest characteristic instead of Might for Might power rolls.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
@@ -66,14 +66,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is teleported to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is difficult terrain.</p></div>
+<div class="sc-ability__section-body"><p>If the target is <a href="../../../../../movement/teleport/">teleport</a>ed to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## The Wode Remembers and Returns {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-6/the-wode-remembers-and-returns&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is difficult terrain for enemies, and any ally who ends their turn in the area has cover.</p></div>
+<div class="sc-ability__section-body"><p>The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies, and any ally who ends their turn in the area has cover.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>

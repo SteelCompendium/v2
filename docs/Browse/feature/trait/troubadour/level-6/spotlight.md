@@ -26,7 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following performance ability, which is usable with your Routines feature.</p></div>
+<div class="sc-ability__section-body"><p>You have the following performance ability, which is usable with your <a href="../../level-1/routines/">Routines</a> feature.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Spotlight {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-6/spotlight&#34;}</p></div>

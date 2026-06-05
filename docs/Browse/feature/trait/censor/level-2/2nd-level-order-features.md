@@ -22,10 +22,10 @@ type: trait
 <div class="sc-ability__kw"><span class="sc-ability__chip">Order</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Exorcist</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Saint&#39;s Vigilance, A Sense for Truth</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Saint&#39;s Vigilance, <a href="../a-sense-for-truth/">A Sense for Truth</a></div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your censor order grants you two features, as shown on the 2nd-Level Order Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/censor-order/">censor order</a> grants you two features, as shown on the 2nd-Level Order Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 2nd-Level Order Features Table</p></div>
@@ -52,7 +52,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Saint&#39;s Vigilance {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-2/saints-vigilance&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can&#39;t use the Hide maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your Judgment ability against them as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can&#39;t use the Hide maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your <a href="../../../../ability/censor/level-1/judgment/">Judgment</a> ability against them as a free triggered action.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## A Sense for Truth {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-2/a-sense-for-truth&#34;}</p></div>

@@ -43,9 +43,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R damage; M &lt; WEAK, prone</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + R damage; M &lt; AVERAGE, prone</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + R damage; M &lt; STRONG, prone</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R damage; M &lt; WEAK<a href="../../../../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + R damage; M &lt; AVERAGE<a href="../../../../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + R damage; M &lt; STRONG<a href="../../../../../condition/prone/">, prone</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">

@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>If the ability force moves a target, the forced movement distance gains a bonus equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>If the ability force moves a target, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Reason score.</p></div>
 </div>
 </article>

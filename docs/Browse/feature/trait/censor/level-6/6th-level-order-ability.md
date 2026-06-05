@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your censor order grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/censor-order/">censor order</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 6th-Level Exorcist Abilities</p></div>
@@ -83,7 +83,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally can shift up to 2 squares and gains 2 surges before making the strike.</p></div>
+<div class="sc-ability__section-body"><p>Each ally can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares and gains 2 surges before making the strike.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Intercede {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-6/intercede&#34;}</p></div>

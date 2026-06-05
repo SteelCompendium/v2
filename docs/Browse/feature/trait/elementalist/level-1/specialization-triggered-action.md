@@ -26,7 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your elemental specialization grants you a triggered action, as shown on the Specialization Triggered Actions table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../elemental-specialization/">elemental specialization</a> grants you a triggered action, as shown on the Specialization Triggered Actions table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Elemental Specialization Triggered Actions Table</p></div>
@@ -47,11 +47,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target force moves a creature or object.</p></div>
+<div class="sc-ability__section-body"><p>The target <a href="../../../../../movement/forced-movement/">force move</a>s a creature or object.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The forced movement distance gains a bonus equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Reason score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Skin Like Castle Walls {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-1/skin-like-castle-walls&#34;}</p></div>
@@ -69,14 +69,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target starts their turn, moves, or is force moved.</p></div>
+<div class="sc-ability__section-body"><p>The target starts their turn, moves, or is <a href="../../../../../movement/forced-movement/">force moved</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/teleport/">teleport</a> the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can <a href="../../../../../movement/teleport/">teleport</a> them at any point during the move.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1+ Essence</span><span class="txt">The target can spend an additional Recovery for each essence spent.</span></div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">The forced movement distance gains a bonus equal to twice your Reason score instead.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">The <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to twice your Reason score instead.</span></div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.</span></div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">You teleport the target up to a number of squares equal to twice your Reason score instead.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">You <a href="../../../../../movement/teleport/">teleport</a> the target up to a number of squares equal to twice your Reason score instead.</span></div>
 </article>

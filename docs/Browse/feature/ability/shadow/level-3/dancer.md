@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the Disengage move action as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever an enemy moves or is <a href="../../../../../movement/forced-movement/">force moved</a> adjacent to you or damages you, you can take the Disengage move action as a free triggered action.</p></div>
 </div>
 </article>

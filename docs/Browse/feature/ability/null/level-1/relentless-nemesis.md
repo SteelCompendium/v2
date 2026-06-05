@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, whenever the target finishes moving or being force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, whenever the target finishes moving or being <a href="../../../../../movement/forced-movement/">force moved</a>, you can use a free triggered action to <a href="../../../../../movement/shifting/">shift</a> up to your speed. You must end this <a href="../../../../../movement/shifting/">shift</a> adjacent to the target.</p></div>
 </div>
 </article>

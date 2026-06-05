@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: Downtime Projects).</p></div>
+<div class="sc-ability__section-body"><p>You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: <a href="../../../../../../Read/heroes/downtime-projects/">Downtime Projects</a>).</p></div>
 </div>
 </article>

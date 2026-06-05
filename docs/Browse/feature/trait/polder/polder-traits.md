@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Polder heroes have access to the following traits.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../ancestry/polder/">Polder</a> heroes have access to the following traits.</p></div>
 </div>
 </article>

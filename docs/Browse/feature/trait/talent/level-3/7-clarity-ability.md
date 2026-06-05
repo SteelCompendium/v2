@@ -28,9 +28,9 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + P damage; P &lt; WEAK, dazed (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + P damage; P &lt; AVERAGE, dazed (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + P damage; P &lt; STRONG, dazed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + P damage; P &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + P damage; P &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + P damage; P &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
@@ -45,7 +45,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a human). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.</p></div>
+<div class="sc-ability__section-body"><p>You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a <a href="../../../../../ancestry/human/">human</a>). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Force Orbs {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-3/force-orbs&#34;}</p></div>
@@ -59,7 +59,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You create five orbs, and you are weakened while you have any orbs active.</p></div>
+<div class="sc-ability__section-body"><p>You create five orbs, and you are <a href="../../../../../condition/weakened/">weakened</a> while you have any orbs active.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Reflector Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-3/reflector-field&#34;}</p></div>

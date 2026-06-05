@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You or your companion can use your Shadow in the Mist ability even when targeted by the triggering ability.</p></div>
+<div class="sc-ability__section-body"><p>You or your companion can use your <a href="../../../../ability/beastheart/level-1/shadow-in-the-mist/">Shadow in the Mist</a> ability even when targeted by the triggering ability.</p></div>
 </div>
 </article>

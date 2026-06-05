@@ -32,7 +32,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">3</span> Piety</div></div>
 </div>
-<p class="sc-ability__flavor">Your divine fury is a hammer that crashes down upon the unrighteous.</p>
+<p class="sc-ability__flavor">Your divine <a href="../../../../../class/fury/">fury</a> is a hammer that crashes down upon the unrighteous.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
@@ -41,9 +41,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + I holy damage; A &lt; WEAK, prone</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + I holy damage; A &lt; AVERAGE, prone</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + I holy damage; A &lt; STRONG, prone and can&#39;t stand (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + I holy damage; A &lt; WEAK<a href="../../../../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + I holy damage; A &lt; AVERAGE<a href="../../../../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + I holy damage; A &lt; STRONG, <a href="../../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
 </div>
 </div>
 </article>

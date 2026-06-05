@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can shift when you take the Disengage move action equal to your Agility score.</p></div>
+<div class="sc-ability__section-body"><p>The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can <a href="../../../../../movement/shifting/">shift</a> when you take the Disengage move action equal to your Agility score.</p></div>
 </div>
 </article>

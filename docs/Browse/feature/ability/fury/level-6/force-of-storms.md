@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>When the target ends this forced movement, each creature within 2 squares of the target is pushed 3 squares.</p></div>
+<div class="sc-ability__section-body"><p>When the target ends this <a href="../../../../../movement/forced-movement/">forced movement</a>, each creature within 2 squares of the target is pushed 3 squares.</p></div>
 </div>
 </article>

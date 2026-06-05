@@ -41,13 +41,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; push 1; M &lt; WEAK, dazed (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; push 2; M &lt; AVERAGE, dazed (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; push 3; M &lt; STRONG, dazed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; push 1; M &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; push 2; M &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; push 3; M &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This ability deals your primordial damage type (see Stormwight Kits).</p></div>
+<div class="sc-ability__section-body"><p>This ability deals your primordial damage type (see <a href="../../../../trait/fury/stormwight-kits/">Stormwight Kits</a>).</p></div>
 </div>
 </article>

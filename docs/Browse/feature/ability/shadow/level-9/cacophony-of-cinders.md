@@ -33,7 +33,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Insight</div></div>
 </div>
-<p class="sc-ability__flavor">You tumble through the battle, stabbing foes and teleporting allies.</p>
+<p class="sc-ability__flavor">You tumble through the battle, stabbing foes and <a href="../../../../../movement/teleport/">teleporting</a> allies.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
@@ -42,13 +42,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">An enemy takes 6 damage; an ally can teleport up to 3 squares.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">An enemy takes 10 damage; an ally can teleport up to 5 squares.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">An enemy takes 14 damage; an ally can teleport up to 7 squares.</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">An enemy takes 6 damage; an ally can <a href="../../../../../movement/teleport/">teleport</a> up to 3 squares.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">An enemy takes 10 damage; an ally can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">An enemy takes 14 damage; an ally can <a href="../../../../../movement/teleport/">teleport</a> up to 7 squares.</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You shift up to twice your speed, making one power roll that targets each creature you come adjacent to during the shift.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to twice your speed, making one power roll that targets each creature you come adjacent to during the <a href="../../../../../movement/shifting/">shift</a>.</p></div>
 </div>
 </article>

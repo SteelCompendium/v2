@@ -44,6 +44,6 @@ type: trait
 <div class="sc-ability__section-body"><p>Although you can&#39;t gain insight outside of combat, you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash Teleport, you can use it as if you had spent an amount of insight equal to your Victories.</p></div>
+<div class="sc-ability__section-body"><p>When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as <a href="../../../../ability/shadow/level-1/black-ash-teleport/">Black Ash Teleport</a>, you can use it as if you had spent an amount of insight equal to your Victories.</p></div>
 </div>
 </article>

@@ -34,7 +34,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Insight</div></div>
 </div>
-<p class="sc-ability__flavor">You enchant a strike with your teleportation magic.</p>
+<p class="sc-ability__flavor">You enchant a strike with your <a href="../../../../../movement/teleport/">teleport</a>ation magic.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
@@ -43,9 +43,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + A damage; you can teleport the target 1 square</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + A damage; you can teleport the target up to 3 squares</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + A damage; you can teleport the target up to 5 squares</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + A damage; you can <a href="../../../../../movement/teleport/">teleport</a> the target 1 square</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + A damage; you can <a href="../../../../../movement/teleport/">teleport</a> the target up to 3 squares</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + A damage; you can <a href="../../../../../movement/teleport/">teleport</a> the target up to 5 squares</span></div>
 </div>
 </div>
 </article>

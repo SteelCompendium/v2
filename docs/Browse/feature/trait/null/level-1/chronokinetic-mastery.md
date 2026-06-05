@@ -25,10 +25,10 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Whenever you use the Knockback maneuver, you can use the Disengage move action as a free triggered action either before or after the maneuver.</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you use the Inertial Shield ability, you can use the Disengage move action as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>Whenever you use the <a href="../../../../ability/null/level-1/inertial-shield/">Inertial Shield</a> ability, you can use the Disengage move action as a free triggered action.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the Chronokinetic Mastery table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
+<div class="sc-ability__section-body"><p>Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the <a href="../chronokinetic-mastery/">Chronokinetic Mastery</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Chronokinetic Mastery Table</p></div>

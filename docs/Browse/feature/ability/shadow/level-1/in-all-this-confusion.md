@@ -41,7 +41,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.</p></div>
+<div class="sc-ability__section-body"><p>You take half the damage, then can <a href="../../../../../movement/teleport/">teleport</a> up to 4 squares after the triggering effect resolves.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1+ Insight</span><span class="txt">You teleport 1 additional square for each insight spent.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1+ Insight</span><span class="txt">You <a href="../../../../../movement/teleport/">teleport</a> 1 additional square for each insight spent.</span></div>
 </article>

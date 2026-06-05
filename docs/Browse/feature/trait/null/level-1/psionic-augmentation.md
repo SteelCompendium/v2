@@ -20,7 +20,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* Speed Augmentation.)</p></div>
+<div class="sc-ability__section-body"><p>Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* <a href="../speed-augmentation/">Speed Augmentation</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Density Augmentation {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-1/density-augmentation&#34;}</p></div>
@@ -38,6 +38,6 @@ type: trait
 <div class="sc-ability__section-body"><p>## Speed Augmentation {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-1/speed-augmentation&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You gain a +1 bonus to speed and to the distance you can shift when you take the Disengage move action.</p></div>
+<div class="sc-ability__section-body"><p>You gain a +1 bonus to speed and to the distance you can <a href="../../../../../movement/shifting/">shift</a> when you take the Disengage move action.</p></div>
 </div>
 </article>

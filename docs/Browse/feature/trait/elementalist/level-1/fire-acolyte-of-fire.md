@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your Hurl Element ability (see below) also gains this bonus when you use it to deal fire damage.</p></div>
+<div class="sc-ability__section-body"><p>You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your <a href="../../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability (see below) also gains this bonus when you use it to deal fire damage.</p></div>
 </div>
 </article>

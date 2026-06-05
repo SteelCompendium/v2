@@ -39,11 +39,11 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target starts their turn, moves, or is force moved.</p></div>
+<div class="sc-ability__section-body"><p>The target starts their turn, moves, or is <a href="../../../../../movement/forced-movement/">force moved</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/teleport/">teleport</a> the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can <a href="../../../../../movement/teleport/">teleport</a> them at any point during the move.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">You teleport the target up to a number of squares equal to twice your Reason score instead.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">You <a href="../../../../../movement/teleport/">teleport</a> the target up to a number of squares equal to twice your Reason score instead.</span></div>
 </article>

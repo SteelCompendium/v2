@@ -20,9 +20,9 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash Teleport ability.</p></div>
+<div class="sc-ability__section-body"><p>Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your <a href="../../../../ability/shadow/level-1/black-ash-teleport/">Black Ash Teleport</a> ability.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to teleport. The creature appears in an unoccupied space adjacent to the space into which you teleported. If no such space exists, they can&#39;t teleport with you.</p></div>
+<div class="sc-ability__section-body"><p>Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to <a href="../../../../../movement/teleport/">teleport</a>. The creature appears in an unoccupied space adjacent to the space into which you <a href="../../../../../movement/teleport/">teleport</a>ed. If no such space exists, they can&#39;t <a href="../../../../../movement/teleport/">teleport</a> with you.</p></div>
 </div>
 </article>

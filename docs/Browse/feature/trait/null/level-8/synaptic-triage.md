@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your Null Field ability also gains this benefit.</p></div>
+<div class="sc-ability__section-body"><p>As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your <a href="../../level-1/null-field/">Null Field</a> ability also gains this benefit.</p></div>
 </div>
 </article>

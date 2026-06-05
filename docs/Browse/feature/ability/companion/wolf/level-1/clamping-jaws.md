@@ -39,7 +39,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the wolf&#39;s Might score, and if they have M &lt; AVERAGE, they are grabbed by the wolf.</p></div>
+<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the wolf&#39;s Might score, and if they have M &lt; AVERAGE, they are <a href="../../../../../../condition/grabbed/">grabbed</a> by the wolf.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are grabbed by the wolf.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a href="../../../../../../condition/grabbed/">grabbed</a> by the wolf.</span></div>
 </article>

@@ -43,13 +43,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P damage; P &lt; WEAK, restrained (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + P damage; P &lt; AVERAGE, restrained (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + P damage; P &lt; STRONG, restrained (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P damage; P &lt; WEAK, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + P damage; P &lt; AVERAGE, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + P damage; P &lt; STRONG, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While the target is restrained this way, your abilities that impose forced movement can still move them.</p></div>
+<div class="sc-ability__section-body"><p>While the target is <a href="../../../../../condition/restrained/">restrained</a> this way, your abilities that impose <a href="../../../../../movement/forced-movement/">forced movement</a> can still move them.</p></div>
 </div>
 </article>

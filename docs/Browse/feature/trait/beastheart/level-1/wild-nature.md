@@ -24,19 +24,19 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Guardian</span></div>
-<div class="sc-ability__section-body"><p>You are the fearless defender of your pack—anyone who harms them must go through you. You have the Read Person skill.</p></div>
+<div class="sc-ability__section-body"><p>You are the fearless defender of your pack—anyone who harms them must go through you. You have the <a href="../../../../../skill/read-person/">Read Person</a> skill.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Prowler</span></div>
-<div class="sc-ability__section-body"><p>You are an unseen ambusher that strikes from the shadows. Your prey is dead before they even know you&#39;re there. You have the Hide skill.</p></div>
+<div class="sc-ability__section-body"><p>You are an unseen ambusher that strikes from the shadows. Your prey is dead before they even know you&#39;re there. You have the <a href="../../../../../skill/hide/">Hide</a> skill.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Punisher</span></div>
-<div class="sc-ability__section-body"><p>Using brute force, you overwhelm anyone unwise enough to earn your wrath. You have the Endurance skill.</p></div>
+<div class="sc-ability__section-body"><p>Using brute force, you overwhelm anyone unwise enough to earn your wrath. You have the <a href="../../../../../skill/endurance/">Endurance</a> skill.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Spark</span></div>
-<div class="sc-ability__section-body"><p>Your connection to nature has imbued you and your companion with the raging magic of an elemental storm. Flame, frost, and lightning crackle from your hands and their claws. You have the Magic skill.</p></div>
+<div class="sc-ability__section-body"><p>Your connection to nature has imbued you and your companion with the raging magic of an elemental storm. Flame, frost, and lightning crackle from your hands and their claws. You have the <a href="../../../../../skill/magic/">Magic</a> skill.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Your wild nature is your subclass, and your choice of wild nature determines many of the features you&#39;ll gain as you gain new levels.</p></div>

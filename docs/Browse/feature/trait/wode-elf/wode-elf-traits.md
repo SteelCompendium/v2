@@ -27,13 +27,13 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might or Agility</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M or A damage; A &lt; WEAK, slowed (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + M or A damage; A &lt; AVERAGE, slowed (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 + M or A damage; A &lt; STRONG, restrained (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M or A damage; A &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + M or A damage; A &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 + M or A damage; A &lt; STRONG, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Wode elf heroes have access to the following traits.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../ancestry/wode-elf/">Wode elf</a> heroes have access to the following traits.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Signature Trait: Wode Elf Glamor {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-glamor&#34;}</p></div>
@@ -51,7 +51,7 @@ type: trait
 <div class="sc-ability__section-body"><p>### Forest Walk {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/forest-walk&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can shift into and while within difficult terrain.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> into and while within <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Quick and Brutal {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/quick-and-brutal&#34;}</p></div>

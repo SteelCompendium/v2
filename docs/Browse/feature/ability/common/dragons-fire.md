@@ -44,7 +44,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Leyline Walker</span></div>
-<div class="sc-ability__section-body"><p>Once per turn as a move action, you can spend any amount of your movement to instead teleport that distance.</p></div>
+<div class="sc-ability__section-body"><p>Once per turn as a move action, you can spend any amount of your movement to instead <a href="../../../../movement/teleport/">teleport</a> that distance.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Life</span></div>
@@ -67,10 +67,10 @@ type: ability
 <div class="sc-ability__section-body"><p>Whenever you move out of a square, you can choose to leave an imprint behind that lasts until the end of the encounter, until your imprint takes 20 or more damage, or until you create a new imprint. The square is occupied by your imprint, and you can share that space with it.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>On your turn, you can teleport to the imprint&#39;s space as a free maneuver. When you are targeted by an ability, you can use a free triggered action to teleport to your imprint, and the power roll for the ability is an automatic tier 1 result.</p></div>
+<div class="sc-ability__section-body"><p>On your turn, you can <a href="../../../../movement/teleport/">teleport</a> to the imprint&#39;s space as a free maneuver. When you are targeted by an ability, you can use a free triggered action to <a href="../../../../movement/teleport/">teleport</a> to your imprint, and the power roll for the ability is an automatic tier 1 result.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Unbending</span></div>
-<div class="sc-ability__section-body"><p>You can&#39;t be subjected to forced movement unless you choose to be. Effects that ignore Stability also ignore this enhancement.</p></div>
+<div class="sc-ability__section-body"><p>You can&#39;t be subjected to <a href="../../../../movement/forced-movement/">forced movement</a> unless you choose to be. Effects that ignore Stability also ignore this enhancement.</p></div>
 </div>
 </article>

@@ -44,7 +44,7 @@ type: ability
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 damage; M &lt; STRONG, prone</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 damage; M &lt; STRONG<a href="../../../../../condition/prone/">, prone</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">

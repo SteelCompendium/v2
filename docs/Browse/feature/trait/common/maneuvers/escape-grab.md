@@ -26,21 +26,21 @@ type: trait
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might or Agility</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">No effect.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can escape the grab, but if you do, a creature who has you grabbed can make a melee free strike against you before you are no longer grabbed.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You are no longer grabbed.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can escape the grab, but if you do, a creature who has you <a href="../../../../../condition/grabbed/">grabbed</a> can make a melee free strike against you before you are no longer <a href="../../../../../condition/grabbed/">grabbed</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You are no longer <a href="../../../../../condition/grabbed/">grabbed</a>.</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>A creature who is grabbed by another creature, an object, or an effect (see Grab below) can attempt to escape by using the following ability.</p></div>
+<div class="sc-ability__section-body"><p>A creature who is <a href="../../../../../condition/grabbed/">grabbed</a> by another creature, an object, or an effect (see Grab below) can attempt to escape by using the following ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Escape Grab {data-scc=&#34;mcdm.heroes.v1/feature.ability.common.maneuvers/escape-grab&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you grabbed.</p></div>
+<div class="sc-ability__section-body"><p>You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you <a href="../../../../../condition/grabbed/">grabbed</a>.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>See Conditions in Chapter 5: Classes for information on the grabbed condition.</p></div>
+<div class="sc-ability__section-body"><p>See Conditions in Chapter 5: <a href="../../../../../../Read/heroes/classes/">Classes</a> for information on the <a href="../../../../../condition/grabbed/">grabbed</a> condition.</p></div>
 </div>
 </article>

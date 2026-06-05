@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your Mind Spike ability to take the same damage.</p></div>
+<div class="sc-ability__section-body"><p>Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your <a href="../../../../ability/talent/level-1/mind-spike/">Mind Spike</a> ability to take the same damage.</p></div>
 </div>
 </article>

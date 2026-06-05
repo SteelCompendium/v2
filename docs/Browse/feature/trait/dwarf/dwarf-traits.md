@@ -19,7 +19,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Dwarf heroes have access to the following traits.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../ancestry/dwarf/">Dwarf</a> heroes have access to the following traits.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Signature Trait: Runic Carving {data-scc=&#34;mcdm.heroes.v1/feature.trait.dwarf/runic-carving&#34;}</p></div>
@@ -29,7 +29,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Detection</span></div>
-<div class="sc-ability__section-body"><p>Pick a specific type of creature (such as goblins or humans) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don&#39;t have line of effect to the creature or object. You can change the type of creature or object as a maneuver.</p></div>
+<div class="sc-ability__section-body"><p>Pick a specific type of creature (such as goblins or <a href="../../../../ancestry/human/">humans</a>) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don&#39;t have line of effect to the creature or object. You can change the type of creature or object as a maneuver.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Light</span></div>
@@ -52,7 +52,7 @@ type: trait
 <div class="sc-ability__section-body"><p>### Great Fortitude {data-scc=&#34;mcdm.heroes.v1/feature.trait.dwarf/great-fortitude&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your hearty constitution prevents you from losing strength. You can&#39;t be made weakened.</p></div>
+<div class="sc-ability__section-body"><p>Your hearty constitution prevents you from losing strength. You can&#39;t be made <a href="../../../../condition/weakened/">weakened</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Grounded {data-scc=&#34;mcdm.heroes.v1/feature.trait.dwarf/grounded&#34;}</p></div>

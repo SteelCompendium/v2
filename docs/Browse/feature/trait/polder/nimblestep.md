@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>A light step serves you well when speed is of the essence. You ignore the effects of difficult terrain and can move at full speed while sneaking.</p></div>
+<div class="sc-ability__section-body"><p>A light step serves you well when speed is of the essence. You ignore the effects of <a href="../../../../movement/difficult-terrain/">difficult terrain</a> and can move at full speed while sneaking.</p></div>
 </div>
 </article>

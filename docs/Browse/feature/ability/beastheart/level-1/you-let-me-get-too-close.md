@@ -44,9 +44,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + M damage; M &lt; WEAK grabbed</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + M damage; M &lt; AVERAGE grabbed</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + M damage; M &lt; STRONG grabbed</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + M damage; M &lt; WEAK <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + M damage; M &lt; AVERAGE <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + M damage; M &lt; STRONG <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">

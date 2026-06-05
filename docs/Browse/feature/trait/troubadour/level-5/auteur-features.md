@@ -32,13 +32,13 @@ type: trait
 <div class="sc-ability__section-body"><p>## Fix It in Post</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your Dramatic Monologue ability. Choose one of the following conditions on the target: bleeding, frightened, prone, slowed, or taunted. You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.</p></div>
+<div class="sc-ability__section-body"><p>Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your <a href="../../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability. Choose one of the following conditions on the target: <a href="../../../../../condition/bleeding/">bleeding</a>, <a href="../../../../../condition/frightened/">frightened</a><a href="../../../../../condition/prone/">, prone</a>, <a href="../../../../../condition/slowed/">slowed</a>, or <a href="../../../../../condition/taunted/">taunted</a>. You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Take Two!</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following performance ability, which is usable with your Routines feature.</p></div>
+<div class="sc-ability__section-body"><p>You have the following performance ability, which is usable with your <a href="../../level-1/routines/">Routines</a> feature.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Take Two! {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/take-two&#34;}</p></div>

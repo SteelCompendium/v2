@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally can shift up to 2 squares and gains 2 surges before making the strike.</p></div>
+<div class="sc-ability__section-body"><p>Each ally can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares and gains 2 surges before making the strike.</p></div>
 </div>
 </article>

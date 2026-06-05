@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your tactical doctrine grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/tactical-doctrine/">tactical doctrine</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 6th-Level Insurgent Abilities</p></div>
@@ -58,7 +58,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If a target is force moved into another creature, they must make a free strike against that creature.</p></div>
+<div class="sc-ability__section-body"><p>If a target is <a href="../../../../../movement/forced-movement/">force moved</a> into another creature, they must make a free strike against that creature.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 6th-Level Mastermind Abilities</p></div>
@@ -82,7 +82,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You mark two enemies within 10 squares of you. Each target can shift up to their speed. You and each target gain 2 surges.</p></div>
+<div class="sc-ability__section-body"><p>You mark two enemies within 10 squares of you. Each target can <a href="../../../../../movement/shifting/">shift</a> up to their speed. You and each target gain 2 surges.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 6th-Level Vanguard Abilities</p></div>
@@ -106,6 +106,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is hit with two or more strikes as part of this ability and they have R &lt; STRONG, they are dazed (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.</p></div>
+<div class="sc-ability__section-body"><p>If the target is hit with two or more strikes as part of this ability and they have R &lt; STRONG, they are <a href="../../../../../condition/dazed/">dazed</a> (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.</p></div>
 </div>
 </article>

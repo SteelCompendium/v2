@@ -32,7 +32,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Drama</div></div>
 </div>
-<p class="sc-ability__flavor">Your jam session creates new genres that compel everyone to get up and move.</p>
+<p class="sc-ability__flavor">Your <a href="../jam-session/">jam session</a> creates new genres that compel everyone to get up and move.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 burst</div></div>

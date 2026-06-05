@@ -41,7 +41,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target is frightened of you or a creature you choose within distance.</p></div>
+<div class="sc-ability__section-body"><p>Each target is <a href="../../../../../condition/frightened/">frightened</a> of you or a creature you choose within distance.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Saint&#39;s Raiment {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-3/saints-raiment&#34;}</p></div>

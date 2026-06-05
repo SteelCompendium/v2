@@ -34,13 +34,13 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any elemental specialization to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.</p></div>
+<div class="sc-ability__section-body"><p>Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any <a href="../elemental-specialization/">elemental specialization</a> to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Signature Abilities</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Bifurcated Incineration, Viscous Fire.)</p></div>
+<div class="sc-ability__section-body"><p>Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* <a href="../../../../ability/elementalist/level-1/bifurcated-incineration/">Bifurcated Incineration</a>, <a href="../../../../ability/elementalist/level-1/viscous-fire/">Viscous Fire</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Afflict a Bountiful Decay {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-1/afflict-a-bountiful-decay&#34;}</p></div>
@@ -57,7 +57,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can teleport up to a number of squares equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/teleport/">teleport</a> up to a number of squares equal to your Reason score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### The Green Within, the Green Without {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-1/the-green-within-the-green-without&#34;}</p></div>
@@ -77,7 +77,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The ground beneath the area is difficult terrain for enemies.</p></div>
+<div class="sc-ability__section-body"><p>The ground beneath the area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Viscous Fire {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-1/viscous-fire&#34;}</p></div>
@@ -126,7 +126,7 @@ type: trait
 <div class="sc-ability__section-body"><p>### 5-Essence Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* Conflagration.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* <a href="../../../../ability/elementalist/level-1/conflagration/">Conflagration</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Conflagration {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-1/conflagration&#34;}</p></div>
@@ -151,7 +151,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the target can move through solid matter, they ignore difficult terrain, and their movement can&#39;t provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the target can move through solid matter, they ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>, and their movement can&#39;t provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>

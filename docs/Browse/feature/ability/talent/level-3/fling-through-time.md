@@ -43,9 +43,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + P corruption damage; P &lt; WEAK, weakened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + P corruption damage; the target is flung through time, and if P &lt; AVERAGE, they are weakened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + P corruption damage; the target is flung through time, and if P &lt; STRONG, they are weakened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + P corruption damage; P &lt; WEAK, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + P corruption damage; the target is flung through time, and if P &lt; AVERAGE, they are <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + P corruption damage; the target is flung through time, and if P &lt; STRONG, they are <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
@@ -54,6 +54,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a human). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.</p></div>
+<div class="sc-ability__section-body"><p>You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a <a href="../../../../../ancestry/human/">human</a>). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.</p></div>
 </div>
 </article>

@@ -47,24 +47,24 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion can teleport up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.</p></div>
+<div class="sc-ability__section-body"><p>Your companion can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares before and after making the power roll. Instead of grabbing the target, your companion can pick up a target object that is smaller than they are. You can forgo dealing damage with this ability.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>After making the power roll, your companion can teleport with a grabbed creature or held object, provided the creature or object can fit in the destination. You choose which squares adjacent to your companion the grabbed creature or held object is teleported to.</p></div>
+<div class="sc-ability__section-body"><p>After making the power roll, your companion can teleport with a <a href="../../../../../condition/grabbed/">grabbed</a> creature or held object, provided the creature or object can fit in the destination. You choose which squares adjacent to your companion the <a href="../../../../../condition/grabbed/">grabbed</a> creature or held object is teleported to.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Omnomnom {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-2/omnomnom&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>This ability targets only creatures who are grabbed and are your companion&#39;s size or smaller.</p></div>
+<div class="sc-ability__section-body"><p>This ability targets only creatures who are <a href="../../../../../condition/grabbed/">grabbed</a> and are your companion&#39;s size or smaller.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A swallowed creature shares your companion&#39;s space, is grabbed and restrained, and has line of effect only to your companion. Nothing has line of effect to the swallowed creature.</p></div>
+<div class="sc-ability__section-body"><p>A swallowed creature shares your companion&#39;s space, is <a href="../../../../../condition/grabbed/">grabbed</a> and <a href="../../../../../condition/restrained/">restrained</a>, and has line of effect only to your companion. Nothing has line of effect to the swallowed creature.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Once per round at the start of your turn, the swallowed creature takes acid damage equal to 1 + your companion&#39;s Might score. If the swallowed creature escapes the grab, your companion immediately regurgitates the creature, who lands prone in an unoccupied square adjacent to your companion. Your companion can also regurgitate a swallowed creature as a free maneuver. Your companion can have only one creature swallowed at a time.</p></div>
+<div class="sc-ability__section-body"><p>Once per round at the start of your turn, the swallowed creature takes acid damage equal to 1 + your companion&#39;s Might score. If the swallowed creature escapes the grab, your companion immediately regurgitates the creature, who lands <a href="../../../../../condition/prone/">prone</a> in an unoccupied square adjacent to your companion. Your companion can also regurgitate a swallowed creature as a free maneuver. Your companion can have only one creature swallowed at a time.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 2nd-Level Prowler Abilities</p></div>
@@ -81,7 +81,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion shifts up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.</p></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../../../movement/shifting/">shifts</a> up to a number of squares equal to their Intuition score. During this movement, they are invisible. They then make a power roll.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### On You Like Your Shadow {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-2/on-you-like-your-shadow&#34;}</p></div>
@@ -101,7 +101,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is force moved at least 1 square, an enemy adjacent to the target at the end of this forced movement is also targeted by this ability&#39;s power roll, but they don&#39;t trigger this effect.</p></div>
+<div class="sc-ability__section-body"><p>If the target is <a href="../../../../../movement/forced-movement/">force moved</a> at least 1 square, an enemy adjacent to the target at the end of this forced movement is also targeted by this ability&#39;s power roll, but they don&#39;t trigger this effect.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### One Roar and We&#39;re Back In the Fight {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-2/one-roar-and-were-back-in-the-fight&#34;}</p></div>
@@ -124,7 +124,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of your next turn, you and your companion can fly and gain a +3 bonus to speed.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of your next turn, you and your companion can <a href="../../../../../movement/fly/">fly</a> and gain a +3 bonus to speed.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If you are within distance of the target, you can use a free maneuver to wield a second whip, dealing extra fire or lightning damage equal to your Intuition score.</span></div>
 </article>

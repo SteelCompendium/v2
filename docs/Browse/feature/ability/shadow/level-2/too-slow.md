@@ -37,10 +37,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>You use your In All This Confusion ability.</p></div>
+<div class="sc-ability__section-body"><p>You use your <a href="../../level-1/in-all-this-confusion/">In All This Confusion</a> ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>You ignore any effects associated with the damage that triggered your <a href="../../level-1/in-all-this-confusion/">In All This Confusion</a> ability. Before you <a href="../../../../../movement/teleport/">teleport</a>, you can make a free strike against a creature who damaged you to trigger <a href="../../level-1/in-all-this-confusion/">In All This Confusion</a>. After you <a href="../../../../../movement/teleport/">teleport</a>, you can spend a Recovery.</p></div>
 </div>
 </article>

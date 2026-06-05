@@ -22,10 +22,10 @@ type: trait
 <div class="sc-ability__kw"><span class="sc-ability__chip">Specialization</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Earth</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Quaking Earth</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../quaking-earth/">Quaking Earth</a></div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the Mantle of Essence Specialization Effects table. You can activate and deactivate the aura at will (no action required).</p></div>
+<div class="sc-ability__section-body"><p>While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the <a href="../mantle-of-essence/">Mantle of Essence</a> Specialization Effects table. You can activate and deactivate the aura at will (no action required).</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Mantle of Essence Specialization Effects Table</p></div>

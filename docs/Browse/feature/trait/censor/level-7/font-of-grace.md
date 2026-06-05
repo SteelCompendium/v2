@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Each time you use your My Life for Yours ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don&#39;t use this wrath, it is lost. Additionally, the target of My Life for Yours gains 10 temporary Stamina.</p></div>
+<div class="sc-ability__section-body"><p>Each time you use your <a href="../../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don&#39;t use this wrath, it is lost. Additionally, the target of <a href="../../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> gains 10 temporary Stamina.</p></div>
 </div>
 </article>

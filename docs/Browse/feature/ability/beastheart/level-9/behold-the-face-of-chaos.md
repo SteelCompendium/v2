@@ -45,13 +45,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">13 + I psychic damage; P &lt; WEAK frightened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">20 + I psychic damage; P &lt; AVERAGE frightened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">27 + I psychic damage; P &lt; STRONG frightened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">13 + I psychic damage; P &lt; WEAK <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">20 + I psychic damage; P &lt; AVERAGE <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">27 + I psychic damage; P &lt; STRONG <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion teleports up to their speed.</p></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../../../movement/teleport/">teleports</a> up to their speed.</p></div>
 </div>
 </article>

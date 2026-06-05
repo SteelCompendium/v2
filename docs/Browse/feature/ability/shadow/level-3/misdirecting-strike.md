@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is taunted by a willing ally within 5 squares of you until the end of the target&#39;s next turn.</p></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../../../condition/taunted/">taunted</a> by a willing ally within 5 squares of you until the end of the target&#39;s next turn.</p></div>
 </div>
 </article>

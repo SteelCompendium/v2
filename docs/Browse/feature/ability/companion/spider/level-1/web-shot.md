@@ -39,7 +39,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target has M &lt; AVERAGE, they are restrained until the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>If the target has M &lt; AVERAGE, they are <a href="../../../../../../condition/restrained/">restrained</a> until the end of their next turn.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are restrained (save ends).</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a href="../../../../../../condition/restrained/">restrained</a> (save ends).</span></div>
 </article>

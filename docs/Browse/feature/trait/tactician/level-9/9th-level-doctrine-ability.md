@@ -19,7 +19,7 @@ type: trait
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">I had to pry this secret from the shadow colleges.</p>
+<p class="sc-ability__flavor">I had to pry this secret from the <a href="../../../shadow/level-1/shadow-college/">shadow college</a>s.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your tactical doctrine grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/tactical-doctrine/">tactical doctrine</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 9th-Level Insurgent Abilities</p></div>
@@ -47,7 +47,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can shift up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Their Lack of Focus Is Their Undoing {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-9/their-lack-of-focus-is-their-undoing&#34;}</p></div>
@@ -91,7 +91,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you use this ability as part of the Charge main action, enemies&#39; spaces don&#39;t count as difficult terrain for your movement. Additionally, if you move through any creature&#39;s space, you can slide that creature 1 square out of the path of your charge.</p></div>
+<div class="sc-ability__section-body"><p>If you use this ability as part of the Charge main action, enemies&#39; spaces don&#39;t count as <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for your movement. Additionally, if you move through any creature&#39;s space, you can slide that creature 1 square out of the path of your charge.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### That One Is Mine! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-9/that-one-is-mine&#34;}</p></div>

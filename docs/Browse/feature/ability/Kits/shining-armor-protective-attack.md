@@ -44,6 +44,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is taunted until the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../../condition/taunted/">taunted</a> until the end of their next turn.</p></div>
 </div>
 </article>

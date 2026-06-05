@@ -34,7 +34,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Discipline</div></div>
 </div>
-<p class="sc-ability__flavor">You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.</p>
+<p class="sc-ability__flavor">You focus your <a href="../../../../trait/null/level-1/null-field/">null field</a> into a pressure point strike that prevents your foe from channeling sorcery.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>

@@ -44,14 +44,14 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 sonic damage; I &lt; WEAK frightened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 sonic damage; I &lt; AVERAGE frightened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 sonic damage; I &lt; STRONG frightened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 sonic damage; I &lt; WEAK <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 sonic damage; I &lt; AVERAGE <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 sonic damage; I &lt; STRONG <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While frightened this way, a creature takes 10 psychic damage at the start of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/frightened/">frightened</a> this way, a creature takes 10 psychic damage at the start of each of your turns.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 3 burst originating from you. An enemy in both areas is only affected once.</span></div>
 </article>

@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>The distance of your ranged psionic abilities increases by 5. Additionally, the range of your Telepathic Speech feature increases to 1 mile.</p></div>
+<div class="sc-ability__section-body"><p>The distance of your ranged psionic abilities increases by 5. Additionally, the range of your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature increases to 1 mile.</p></div>
 </div>
 </article>

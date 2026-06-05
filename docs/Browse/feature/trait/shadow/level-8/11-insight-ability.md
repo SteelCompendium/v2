@@ -28,9 +28,9 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 damage; M &lt; WEAK, slowed (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 damage; M &lt; AVERAGE, slowed (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 damage; M &lt; STRONG, slowed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 damage; M &lt; WEAK, <a href="../../../../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 damage; M &lt; AVERAGE, <a href="../../../../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 damage; M &lt; STRONG, <a href="../../../../../condition/slowed/">slowed</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
@@ -51,7 +51,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can shift up to 2 squares between each use.</p></div>
+<div class="sc-ability__section-body"><p>You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares between each use.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## They Always Line Up {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-8/they-always-line-up&#34;}</p></div>

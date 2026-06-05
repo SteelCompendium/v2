@@ -28,7 +28,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">Taps, kicks, steps. It&#39;s all &#34;choreography.</p>
+<p class="sc-ability__flavor">Taps, kicks, steps. It&#39;s all &#34;<a href="../choreography/">choreography</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 aura</div></div>

@@ -43,5 +43,5 @@ type: ability
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>At any time during the target&#39;s movement, one ally can make a free strike against them.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the target has R &lt; AVERAGE, they are slowed (EoT).</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the target has R &lt; AVERAGE, they are <a href="../../../../../condition/slowed/">slowed</a> (EoT).</span></div>
 </article>

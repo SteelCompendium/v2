@@ -42,13 +42,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + P psychic damage; P &lt; WEAK, frightened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + P psychic damage; P &lt; AVERAGE, frightened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + P psychic damage; P &lt; STRONG, frightened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + P psychic damage; P &lt; WEAK, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + P psychic damage; P &lt; AVERAGE, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + P psychic damage; P &lt; STRONG, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While frightened this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target frightened this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/frightened/">frightened</a> this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target <a href="../../../../../condition/frightened/">frightened</a> this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.</p></div>
 </div>
 </article>

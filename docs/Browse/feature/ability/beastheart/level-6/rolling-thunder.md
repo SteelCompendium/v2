@@ -45,14 +45,14 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 sonic damage; M &lt; WEAK prone</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 sonic damage; M &lt; AVERAGE prone</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 sonic damage; M &lt; STRONG prone</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 sonic damage; M &lt; WEAK <a href="../../../../../condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 sonic damage; M &lt; AVERAGE <a href="../../../../../condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 sonic damage; M &lt; STRONG <a href="../../../../../condition/prone/">prone</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion shifts up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.</p></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../../../movement/shifting/">shifts</a> up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2 Ferocity</span><span class="txt">You can move up to your speed. The power roll also targets each enemy you come adjacent to during the move.</span></div>
 </article>

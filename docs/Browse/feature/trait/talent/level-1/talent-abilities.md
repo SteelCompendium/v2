@@ -34,13 +34,13 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different talent traditions or focus on abilities tied to your chosen tradition to dedicate yourself to its power.</p></div>
+<div class="sc-ability__section-body"><p>You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different <a href="../talent-tradition/">talent tradition</a>s or focus on abilities tied to your chosen tradition to dedicate yourself to its power.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Signature Abilities</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Incinerate, Kinetic Grip.)</p></div>
+<div class="sc-ability__section-body"><p>Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* <a href="../../../../ability/talent/level-1/incinerate/">Incinerate</a>, <a href="../../../../ability/talent/level-1/kinetic-grip/">Kinetic Grip</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Entropic Bolt {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/entropic-bolt&#34;}</p></div>
@@ -58,7 +58,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You are slowed until the end of your next turn. Additionally, a target slowed by this ability is restrained instead.</p></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/slowed/">slowed</a> until the end of your next turn. Additionally, a target <a href="../../../../../condition/slowed/">slowed</a> by this ability is <a href="../../../../../condition/restrained/">restrained</a> instead.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Incinerate {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/incinerate&#34;}</p></div>
@@ -83,7 +83,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The size of the burst increases by 2, and you are bleeding until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>The size of the burst increases by 2, and you are <a href="../../../../../condition/bleeding/">bleeding</a> until the start of your next turn.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Materialize {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/materialize&#34;}</p></div>
@@ -128,7 +128,7 @@ type: trait
 <div class="sc-ability__section-body"><p>### 3-Clarity Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Choke.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* <a href="../../../../ability/talent/level-1/choke/">Choke</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Awe {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/awe&#34;}</p></div>
@@ -142,7 +142,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can vertical pull the target up to 2 squares. If the target is made restrained by this ability, this forced movement ignores their stability.</p></div>
+<div class="sc-ability__section-body"><p>You can vertical pull the target up to 2 squares. If the target is made <a href="../../../../../condition/restrained/">restrained</a> by this ability, this <a href="../../../../../movement/forced-movement/">forced movement</a> ignores their stability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Precognition {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/precognition&#34;}</p></div>
@@ -162,7 +162,7 @@ type: trait
 <div class="sc-ability__section-body"><p>### 5-Clarity Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* Inertia Soak.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* <a href="../../../../ability/talent/level-1/inertia-soak/">Inertia Soak</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Flashback {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/flashback&#34;}</p></div>
@@ -173,18 +173,18 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You take 1d6 damage and are slowed (save ends).</p></div>
+<div class="sc-ability__section-body"><p>You take 1d6 damage and are <a href="../../../../../condition/slowed/">slowed</a> (save ends).</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Inertia Soak {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/inertia-soak&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally&#39;s stability. A creature can only be force moved this way once a turn.</p></div>
+<div class="sc-ability__section-body"><p>The target ignores <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> and takes no damage from <a href="../../../../../movement/forced-movement/">forced movement</a> until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally&#39;s stability. A creature can only be force moved this way once a turn.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You are weakened (save ends). While you are weakened this way, whenever you are force moved, the forced movement distance gains a +5 bonus.</p></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/weakened/">weakened</a> (save ends). While you are <a href="../../../../../condition/weakened/">weakened</a> this way, whenever you are force moved, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a +5 bonus.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Iron {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/iron&#34;}</p></div>

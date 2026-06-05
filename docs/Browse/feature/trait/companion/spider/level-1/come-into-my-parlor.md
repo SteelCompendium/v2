@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever the spider makes a strike against a restrained creature, the spider deals extra poison damage equal to twice their Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>Whenever the spider makes a strike against a <a href="../../../../../../condition/restrained/">restrained</a> creature, the spider deals extra poison damage equal to twice their Intuition score.</p></div>
 </div>
 </article>

@@ -48,7 +48,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are difficult terrain for you. You automatically destroy each square of structure you move through and leave behind a square of difficult terrain.</p></div>
+<div class="sc-ability__section-body"><p>You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for you. You automatically destroy each square of structure you move through and leave behind a square of <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Additionally, you make one power roll that targets each enemy you move adjacent to during this movement.</p></div>

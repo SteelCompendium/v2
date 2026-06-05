@@ -41,7 +41,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.</p></div>
+<div class="sc-ability__section-body"><p>You gain temporary Stamina equal to your Might score and can enter your <a href="../../../../../complication/animal-form/">animal form</a> or hybrid form.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If you are not dying, you can spend a Recovery.</span></div>
 </article>

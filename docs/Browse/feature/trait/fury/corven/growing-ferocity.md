@@ -22,10 +22,10 @@ type: trait
 <div class="sc-ability__kw"><span class="sc-ability__chip">Ferocity</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Whenever you use the Disengage move action, the distance you can shift gains a bonus equal to your Agility score.</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Whenever you use the Disengage move action, the distance you can <a href="../../../../../movement/shifting/">shift</a> gains a bonus equal to your Agility score.</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>As your ferocity grows, you gain benefits as noted on the Corven Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
+<div class="sc-ability__section-body"><p>As your ferocity grows, you gain benefits as noted on the <a href="../../../../../kit/corven/">Corven</a> <a href="../../boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Corven Growing Ferocity Table</p></div>

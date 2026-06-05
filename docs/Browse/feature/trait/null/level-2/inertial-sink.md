@@ -20,9 +20,9 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be grabbed.</p></div>
+<div class="sc-ability__section-body"><p>You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by <a href="../../../../../movement/forced-movement/">forced movement</a>, and so forth. This has no effect on whether you can be <a href="../../../../../condition/grabbed/">grabbed</a>.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being force moved, you reduce that damage by an amount equal to your level.</p></div>
+<div class="sc-ability__section-body"><p>Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being <a href="../../../../../movement/forced-movement/">force moved</a>, you reduce that damage by an amount equal to your level.</p></div>
 </div>
 </article>

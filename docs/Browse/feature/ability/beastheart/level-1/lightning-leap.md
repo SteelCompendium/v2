@@ -38,7 +38,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + your Might score. Before you use this ability, you can jump up to a number of squares equal to your Intuition score in a straight line. During this jump, enemies&#39; spaces don&#39;t count as difficult terrain for you. The target takes extra lightning damage equal to the number of squares you jumped this way.</p></div>
+<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + your Might score. Before you use this ability, you can <a href="../../../../../movement/jump/">jump</a> up to a number of squares equal to your Intuition score in a straight line. During this jump, enemies&#39; spaces don&#39;t count as <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for you. The target takes extra lightning damage equal to the number of squares you jumped this way.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">Your jump doesn&#39;t provoke opportunity attacks.</span></div>
 </article>

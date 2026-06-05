@@ -41,9 +41,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + A damage; M &lt; WEAK, bleeding (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 + A damage; M &lt; AVERAGE, bleeding (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 + A damage; bleeding (EoT), or if M &lt; STRONG, bleeding (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + A damage; M &lt; WEAK, <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 + A damage; M &lt; AVERAGE, <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 + A damage; <a href="../../../../../condition/bleeding/">bleeding</a> (EoT), or if M &lt; STRONG, <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
 </div>
 </div>
 </article>

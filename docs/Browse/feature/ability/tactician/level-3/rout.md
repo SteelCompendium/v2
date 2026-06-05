@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R &lt; AVERAGE, the target is frightened of the creature who dealt the damage (save ends).</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R &lt; AVERAGE, the target is <a href="../../../../../condition/frightened/">frightened</a> of the creature who dealt the damage (save ends).</p></div>
 </div>
 </article>

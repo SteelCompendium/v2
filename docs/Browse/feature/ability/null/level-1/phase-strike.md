@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A target who goes out of phase is slowed, has their stability reduced by 2, and can&#39;t obtain a tier 3 outcome on ability rolls.</p></div>
+<div class="sc-ability__section-body"><p>A target who goes out of phase is <a href="../../../../../condition/slowed/">slowed</a>, has their stability reduced by 2, and can&#39;t obtain a tier 3 outcome on ability rolls.</p></div>
 </div>
 </article>

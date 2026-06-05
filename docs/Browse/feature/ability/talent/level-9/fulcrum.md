@@ -53,6 +53,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You can choose to reduce the size of the burst by 2 (to a minimum of 1 burst) to give the forced movement distance a +2 bonus. You take half the total damage all targets take from forced movement.</p></div>
+<div class="sc-ability__section-body"><p>You can choose to reduce the size of the burst by 2 (to a minimum of 1 burst) to give the <a href="../../../../../movement/forced-movement/">forced movement</a> distance a +2 bonus. You take half the total damage all targets take from <a href="../../../../../movement/forced-movement/">forced movement</a>.</p></div>
 </div>
 </article>

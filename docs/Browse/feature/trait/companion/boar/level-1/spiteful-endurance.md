@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While the boar is winded, they have damage immunity equal to their Might score and ignore the effects of bleeding.</p></div>
+<div class="sc-ability__section-body"><p>While the boar is winded, they have damage immunity equal to their Might score and ignore the effects of <a href="../../../../../../condition/bleeding/">bleeding</a>.</p></div>
 </div>
 </article>

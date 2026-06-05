@@ -26,7 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You gain a domain feature from your domain, as shown on the 4th-Level Censor Domain Features table.</p></div>
+<div class="sc-ability__section-body"><p>You gain a domain feature from your domain, as shown on the 4th-Level <a href="../../../../../class/censor/">Censor</a> Domain Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 4th-Level Censor Domain Features Table</p></div>
@@ -35,7 +35,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Blessing of Life {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-4/blessing-of-life&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your My Life for Yours ability regains Stamina, they regain additional Stamina equal to your Presence score.</p></div>
+<div class="sc-ability__section-body"><p>Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your <a href="../../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability regains Stamina, they regain additional Stamina equal to your Presence score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Blessing of Secrets {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-4/blessing-of-secrets&#34;}</p></div>
@@ -48,7 +48,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
+<div class="sc-ability__section-body"><p>Each creature in the area has a double edge on tests made to <a href="../../../../../skill/hide/">hide</a> or <a href="../../../../../skill/sneak/">sneak</a>. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Impervious Touch {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-4/impervious-touch&#34;}</p></div>
@@ -63,13 +63,13 @@ type: trait
 <div class="sc-ability__section-body"><p>## Improved Hands of the Maker {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-4/improved-hands-of-the-maker&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>When you use your Hands of the Maker ability, you can create a mundane object that is size 2 or smaller.</p></div>
+<div class="sc-ability__section-body"><p>When you use your <a href="../../../../ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a> ability, you can create a mundane object that is size 2 or smaller.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Improved Sanctified Weapon {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-4/improved-sanctified-weapon&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.</p></div>
+<div class="sc-ability__section-body"><p>The weapon improved by your <a href="../../level-1/sanctified-weapon/">Sanctified Weapon</a> feature grants a +3 bonus to rolled damage instead of +1.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Invocation of the Heart {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-4/invocation-of-the-heart&#34;}</p></div>
@@ -105,12 +105,12 @@ type: trait
 <div class="sc-ability__section-body"><p>## Windwalk {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-4/windwalk&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While you have 5 or more Victories, you can fly. If you can already fly, you have a +2 bonus to speed while flying instead.</p></div>
+<div class="sc-ability__section-body"><p>While you have 5 or more Victories, you can <a href="../../../../../movement/fly/">fly</a>. If you can already <a href="../../../../../movement/fly/">fly</a>, you have a +2 bonus to speed while <a href="../../../../../movement/fly/">flying</a> instead.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Wode Road {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-4/wode-road&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Presence score. Whenever you touch any tree in your network, you can use a main action to teleport yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).</p></div>
+<div class="sc-ability__section-body"><p>As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Presence score. Whenever you touch any tree in your network, you can use a main action to <a href="../../../../../movement/teleport/">teleport</a> yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).</p></div>
 </div>
 </article>

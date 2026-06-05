@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Cloak and Dagger.)</p></div>
+<div class="sc-ability__section-body"><p>You can use and gain the benefits of a kit. See Chapter 6: <a href="../../../../../../Read/heroes/kits/">Kits</a> for more information. (*Quick Build:* <a href="../../../../../kit/cloak-and-dagger/">Cloak and Dagger</a>.)</p></div>
 </div>
 </article>

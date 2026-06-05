@@ -30,11 +30,11 @@ type: trait
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; if the target has R &lt; WEAK, before the damage is resolved, they make a free strike.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; if the target has R &lt; AVERAGE, before the damage is resolved, they use a main action ability of your choice.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; if the target has R &lt; STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; if the target has R &lt; STRONG, before the damage is resolved, they can <a href="../../../../../movement/shifting/">shift</a> up to their speed and use a main action ability of your choice.</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your shadow college grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/shadow-college/">shadow college</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 6th-Level Black Ash Abilities</p></div>
@@ -47,14 +47,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A creature force moved by this ability must be moved straight upward.</p></div>
+<div class="sc-ability__section-body"><p>A creature <a href="../../../../../movement/forced-movement/">force moved</a> by this ability must be moved straight upward.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Cinderstorm {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/cinderstorm&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can teleport up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.</p></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares. For each target in addition to you who <a href="../../../../../movement/teleport/">teleports</a> away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 6th-Level Caustic Alchemy Abilities</p></div>

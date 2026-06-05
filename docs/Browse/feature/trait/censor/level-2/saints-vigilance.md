@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can&#39;t use the Hide maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your Judgment ability against them as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can&#39;t use the Hide maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your <a href="../../../../ability/censor/level-1/judgment/">Judgment</a> ability against them as a free triggered action.</p></div>
 </div>
 </article>

@@ -40,7 +40,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Signature Abilities</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Faster Than the Eye, Inertial Step.)</p></div>
+<div class="sc-ability__section-body"><p>Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* <a href="../../../../ability/null/level-1/faster-than-the-eye/">Faster Than the Eye</a>, <a href="../../../../ability/null/level-1/inertial-step/">Inertial Step</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Dance of Blows {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-1/dance-of-blows&#34;}</p></div>
@@ -61,7 +61,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can shift up to half your speed before or after you make this strike.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to half your speed before or after you make this strike.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Joint Lock {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-1/joint-lock&#34;}</p></div>
@@ -77,7 +77,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Before the push is resolved, you teleport the target to a square adjacent to you and opposite the one they started in. If the target can&#39;t be teleported this way, you can&#39;t push them.</p></div>
+<div class="sc-ability__section-body"><p>Before the push is resolved, you <a href="../../../../../movement/teleport/">teleport</a> the target to a square adjacent to you and opposite the one they started in. If the target can&#39;t be <a href="../../../../../movement/teleport/">teleport</a>ed this way, you can&#39;t push them.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Pressure Points {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-1/pressure-points&#34;}</p></div>
@@ -92,28 +92,28 @@ type: trait
 <div class="sc-ability__section-body"><p>### 3-Discipline Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* Chronal Spike.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* <a href="../../../../ability/null/level-1/chronal-spike/">Chronal Spike</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Chronal Spike {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-1/chronal-spike&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can shift up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its discipline cost as usual.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its discipline cost as usual.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Psychic Pulse {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-1/psychic-pulse&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your Null Field ability increases by 1. At the end of your current turn, each enemy in the area of your Null Field ability takes psychic damage equal to your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your <a href="../null-field/">Null Field</a> ability increases by 1. At the end of your current turn, each enemy in the area of your <a href="../null-field/">Null Field</a> ability takes psychic damage equal to your Intuition score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Relentless Nemesis {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-1/relentless-nemesis&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, whenever the target finishes moving or being force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, whenever the target finishes moving or being <a href="../../../../../movement/forced-movement/">force moved</a>, you can use a free triggered action to <a href="../../../../../movement/shifting/">shift</a> up to your speed. You must end this <a href="../../../../../movement/shifting/">shift</a> adjacent to the target.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Stunning Blow {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-1/stunning-blow&#34;}</p></div>
@@ -122,14 +122,14 @@ type: trait
 <div class="sc-ability__section-body"><p>### 5-Discipline Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* A Squad Unto Myself.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* <a href="../../../../ability/null/level-1/a-squad-unto-myself/">A Squad Unto Myself</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Arcane Disruptor {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-1/arcane-disruptor&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While weakened this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/weakened/">weakened</a> this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Impart Force {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-1/impart-force&#34;}</p></div>
@@ -143,7 +143,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A target who goes out of phase is slowed, has their stability reduced by 2, and can&#39;t obtain a tier 3 outcome on ability rolls.</p></div>
+<div class="sc-ability__section-body"><p>A target who goes out of phase is <a href="../../../../../condition/slowed/">slowed</a>, has their stability reduced by 2, and can&#39;t obtain a tier 3 outcome on ability rolls.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### A Squad Unto Myself {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-1/a-squad-unto-myself&#34;}</p></div>

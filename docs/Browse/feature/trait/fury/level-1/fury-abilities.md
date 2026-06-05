@@ -40,7 +40,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Signature Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* To the Death!)</p></div>
+<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* <a href="../../../../ability/fury/level-1/to-the-death/">To the Death</a>!)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Brutal Slam {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-1/brutal-slam&#34;}</p></div>
@@ -50,7 +50,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can shift 1 square.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> 1 square.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Impaled! {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-1/impaled&#34;}</p></div>
@@ -89,7 +89,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your speed in a straight line, and enemy squares are not difficult terrain for this movement. You can end this movement in a creature&#39;s space and move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.</p></div>
+<div class="sc-ability__section-body"><p>You move up to your speed in a straight line, and enemy squares are not <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for this movement. You can end this movement in a creature&#39;s space and move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -100,13 +100,13 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While bleeding this way, the target takes damage equal to your Might score at the end of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/bleeding/">bleeding</a> this way, the target takes damage equal to your Might score at the end of each of your turns.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 5-Ferocity Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* Blood for Blood!)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* <a href="../../../../ability/fury/level-1/blood-for-blood/">Blood for Blood</a>!)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Blood for Blood! {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-1/blood-for-blood&#34;}</p></div>
@@ -127,7 +127,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.</p></div>
+<div class="sc-ability__section-body"><p>The targets are <a href="../../../../../movement/forced-movement/">force moved</a> one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### To the Uttermost End {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-1/to-the-uttermost-end&#34;}</p></div>

@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While you are in your hybrid form, your size is 1L, you have a +2 bonus to speed, and you ignore difficult terrain. At 4th level, the first time you take hybrid form in an encounter, you gain 10 temporary Stamina.</p></div>
+<div class="sc-ability__section-body"><p>While you are in your hybrid form, your size is 1L, you have a +2 bonus to speed, and you ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>. At 4th level, the first time you take hybrid form in an encounter, you gain 10 temporary Stamina.</p></div>
 </div>
 </article>

@@ -42,13 +42,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M damage; M &lt; WEAK, bleeding (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M damage; M &lt; AVERAGE, bleeding (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M damage; M &lt; STRONG, bleeding (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M damage; M &lt; WEAK, <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M damage; M &lt; AVERAGE, <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M damage; M &lt; STRONG, <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While bleeding this way, the target takes damage equal to your Might score at the end of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/bleeding/">bleeding</a> this way, the target takes damage equal to your Might score at the end of each of your turns.</p></div>
 </div>
 </article>

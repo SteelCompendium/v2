@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can spend 10 uninterrupted minutes to create a protective circle on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the protective circle, a creature can&#39;t be targeted by strikes.</p></div>
+<div class="sc-ability__section-body"><p>You can spend 10 uninterrupted minutes to create a <a href="../protective-circle/">protective circle</a> on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the <a href="../protective-circle/">protective circle</a>, a creature can&#39;t be targeted by strikes.</p></div>
 </div>
 </article>

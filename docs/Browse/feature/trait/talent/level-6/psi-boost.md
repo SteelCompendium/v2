@@ -20,13 +20,13 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a psi boost to it and enhance its effects. A psi boost&#39;s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.</p></div>
+<div class="sc-ability__section-body"><p>Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a <a href="../../../null/level-7/psi-boost/">psi boost</a> to it and enhance its effects. A <a href="../../../null/level-7/psi-boost/">psi boost</a>&#39;s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Dynamic Power {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-6/dynamic-power&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>If the ability force moves a target, the forced movement distance gains a bonus equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>If the ability force moves a target, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Reason score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Expanded Power {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-6/expanded-power&#34;}</p></div>

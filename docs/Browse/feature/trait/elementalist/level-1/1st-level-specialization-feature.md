@@ -26,7 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One mundane object</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your elemental specialization grants you a feature, as shown on the 1st-Level Elemental Specialization Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../elemental-specialization/">elemental specialization</a> grants you a feature, as shown on the 1st-Level <a href="../elemental-specialization/">Elemental Specialization</a> Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 1st-Level Elemental Specialization Features Table</p></div>
@@ -45,7 +45,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn&#39;t gain the use of the Shared Void Sense ability.</p></div>
+<div class="sc-ability__section-body"><p>For each Victory you have, you can target one creature. Each target gains the benefit of your <a href="../a-beyonding-of-vision/">A Beyonding of Vision</a> feature until the end of your next turn, but doesn&#39;t gain the use of the <a href="../../../../ability/elementalist/level-1/shared-void-sense/">Shared Void Sense</a> ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## It Is the Soul Which Hears {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-1/it-is-the-soul-which-hears&#34;}</p></div>

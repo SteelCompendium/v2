@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The ground beneath the area is difficult terrain for enemies.</p></div>
+<div class="sc-ability__section-body"><p>The ground beneath the area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</p></div>
 </div>
 </article>

@@ -45,9 +45,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 + M damage; taunted (save ends); M &lt; WEAK prone</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">16 + M damage; taunted (save ends); M &lt; AVERAGE prone</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + M damage; taunted (save ends); M &lt; STRONG prone and can&#39;t stand (EoT)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 + M damage; <a href="../../../../../condition/taunted/">taunted</a> (save ends); M &lt; WEAK <a href="../../../../../condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">16 + M damage; <a href="../../../../../condition/taunted/">taunted</a> (save ends); M &lt; AVERAGE <a href="../../../../../condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + M damage; <a href="../../../../../condition/taunted/">taunted</a> (save ends); M &lt; STRONG <a href="../../../../../condition/prone/">prone</a> and can&#39;t stand (EoT)</span></div>
 </div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2 Ferocity</span><span class="txt">Your companion can use this ability as a triggered action against an enemy who damages you.</span></div>

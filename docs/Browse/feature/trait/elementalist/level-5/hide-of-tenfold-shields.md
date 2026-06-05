@@ -20,7 +20,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an animal form in combat, which is added to any temporary Stamina provided by the animal form.</p></div>
+<div class="sc-ability__section-body"><p>Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an <a href="../../../../../complication/animal-form/">animal form</a> in combat, which is added to any temporary Stamina provided by the <a href="../../../../../complication/animal-form/">animal form</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.</p></div>

@@ -44,6 +44,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-year-old). Additionally, you are weakened and slowed (save ends).</p></div>
+<div class="sc-ability__section-body"><p>You and the target both permanently grow visibly younger (the equivalent of 20 <a href="../../../../../ancestry/human/">human</a> years, to the minimum of an 18-year-old). Additionally, you are <a href="../../../../../condition/weakened/">weakened</a> and <a href="../../../../../condition/slowed/">slowed</a> (save ends).</p></div>
 </div>
 </article>

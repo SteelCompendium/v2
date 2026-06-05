@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever the deinonychus deals damage to a bleeding creature, they gain 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>Whenever the deinonychus deals damage to a <a href="../../../../../../condition/bleeding/">bleeding</a> creature, they gain 1 surge.</p></div>
 </div>
 </article>

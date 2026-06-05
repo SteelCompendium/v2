@@ -51,6 +51,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion can use this ability against an adjacent target, making their own power roll. Both power rolls gain an edge if either of you is bleeding, dying, or winded, and your power roll has a double edge if your companion is dead or otherwise unable to act.</p></div>
+<div class="sc-ability__section-body"><p>Your companion can use this ability against an adjacent target, making their own power roll. Both power rolls gain an edge if either of you is <a href="../../../../../condition/bleeding/">bleeding</a>, dying, or winded, and your power roll has a double edge if your companion is dead or otherwise unable to act.</p></div>
 </div>
 </article>

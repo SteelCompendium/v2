@@ -19,7 +19,7 @@ type: trait
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">You enchant a strike with your teleportation magic.</p>
+<p class="sc-ability__flavor">You enchant a strike with your <a href="../../../../../movement/teleport/">teleport</a>ation magic.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your shadow college grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/shadow-college/">shadow college</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 2nd-Level Black Ash Ability</p></div>
@@ -50,11 +50,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>You use your In All This Confusion ability.</p></div>
+<div class="sc-ability__section-body"><p>You use your <a href="../../../../ability/shadow/level-1/in-all-this-confusion/">In All This Confusion</a> ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>You ignore any effects associated with the damage that triggered your <a href="../../../../ability/shadow/level-1/in-all-this-confusion/">In All This Confusion</a> ability. Before you <a href="../../../../../movement/teleport/">teleport</a>, you can make a free strike against a creature who damaged you to trigger <a href="../../../../ability/shadow/level-1/in-all-this-confusion/">In All This Confusion</a>. After you <a href="../../../../../movement/teleport/">teleport</a>, you can spend a Recovery.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 2nd-Level Caustic Alchemy Ability</p></div>
@@ -74,7 +74,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M &lt; AVERAGE is weakened (save ends).</p></div>
+<div class="sc-ability__section-body"><p>The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M &lt; AVERAGE is <a href="../../../../../condition/weakened/">weakened</a> (save ends).</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 2nd-Level Harlequin Mask Ability</p></div>
@@ -87,7 +87,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target&#39;s Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>This <a href="../../../../../movement/forced-movement/">forced movement</a> ignores stability. Instead, the <a href="../../../../../movement/forced-movement/">forced movement</a> is reduced by a number equal to the target&#39;s Intuition score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### So Gullible {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-2/so-gullible&#34;}</p></div>
@@ -98,6 +98,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>You use your <a href="../../../../ability/shadow/level-1/clever-trick/">Clever Trick</a> ability with no insight cost against the triggering creature and strike. You can <a href="../../../../../movement/teleport/">teleport</a> to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.</p></div>
 </div>
 </article>

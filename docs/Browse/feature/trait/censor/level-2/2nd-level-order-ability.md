@@ -28,13 +28,13 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P damage; P &lt; WEAK, restrained (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + P damage; P &lt; AVERAGE, restrained (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + P damage; P &lt; STRONG, restrained (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P damage; P &lt; WEAK, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + P damage; P &lt; AVERAGE, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + P damage; P &lt; STRONG, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your censor order grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/censor-order/">censor order</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 2nd-Level Exorcist Ability</p></div>
@@ -47,14 +47,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is already frightened of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.</p></div>
+<div class="sc-ability__section-body"><p>If the target is already <a href="../../../../../condition/frightened/">frightened</a> of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Revelator {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-2/revelator&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can&#39;t become hidden again until the start of your next turn. You can then use your Judgment ability against one target as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can&#39;t become hidden again until the start of your next turn. You can then use your <a href="../../../../ability/censor/level-1/judgment/">Judgment</a> ability against one target as a free triggered action.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 2nd-Level Oracle Ability</p></div>
@@ -98,6 +98,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While the target is restrained this way, your abilities that impose forced movement can still move them.</p></div>
+<div class="sc-ability__section-body"><p>While the target is <a href="../../../../../condition/restrained/">restrained</a> this way, your abilities that impose <a href="../../../../../movement/forced-movement/">forced movement</a> can still move them.</p></div>
 </div>
 </article>

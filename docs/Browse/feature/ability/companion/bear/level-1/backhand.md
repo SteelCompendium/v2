@@ -41,5 +41,5 @@ type: ability
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>The target takes damage equal to 4 + the bear&#39;s Might score and is pushed up to 2 squares.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The target is force moved up to a number of additional squares equal to the bear&#39;s Might score.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The target is <a href="../../../../../../movement/forced-movement/">force moved</a> up to a number of additional squares equal to the bear&#39;s Might score.</span></div>
 </article>

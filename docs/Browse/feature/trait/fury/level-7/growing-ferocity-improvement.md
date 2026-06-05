@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your Growing Ferocity feature provides additional benefits when you have 10 or more ferocity.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../boren/growing-ferocity/">Growing Ferocity</a> feature provides additional benefits when you have 10 or more ferocity.</p></div>
 </div>
 </article>

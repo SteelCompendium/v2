@@ -33,7 +33,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Dragon knight heroes have access to the following traits.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../ancestry/dragon-knight/">Dragon knight</a> heroes have access to the following traits.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Signature Trait: Wyrmplate {data-scc=&#34;mcdm.heroes.v1/feature.trait.dragon-knight/wyrmplate&#34;}</p></div>
@@ -45,7 +45,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Purchased Dragon Knight Traits</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have 3 ancestry points to spend on the following traits. (*Quick Build:* Dragon Breath, Prismatic Scales.)</p></div>
+<div class="sc-ability__section-body"><p>You have 3 ancestry points to spend on the following traits. (*Quick Build:* <a href="../../../ability/dragon-knight/dragon-breath/">Dragon Breath</a>, Prismatic Scales.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Draconian Guard {data-scc=&#34;mcdm.heroes.v1/feature.trait.dragon-knight/draconian-guard&#34;}</p></div>
@@ -91,6 +91,6 @@ type: trait
 <div class="sc-ability__section-body"><p>### Wings {data-scc=&#34;mcdm.heroes.v1/feature.trait.dragon-knight/wings&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You possess wings powerful enough to take you airborne. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to fly at 3rd level or lower, you have damage weakness 5.</p></div>
+<div class="sc-ability__section-body"><p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../../../movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to <a href="../../../../movement/fly/">fly</a> at 3rd level or lower, you have damage weakness 5.</p></div>
 </div>
 </article>

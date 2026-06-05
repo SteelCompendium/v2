@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and your companion shift up to your speeds. During this movement, you are both invisible, can move through enemies and objects, and ignore difficult terrain. You each deal corruption damage equal to your own Intuition score to each enemy you pass through during this movement. You can both damage each enemy once this way.</p></div>
+<div class="sc-ability__section-body"><p>You and your companion <a href="../../../../../movement/shifting/">shift</a> up to your speeds. During this movement, you are both invisible, can move through enemies and objects, and ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>. You each deal corruption damage equal to your own Intuition score to each enemy you pass through during this movement. You can both damage each enemy once this way.</p></div>
 </div>
 </article>

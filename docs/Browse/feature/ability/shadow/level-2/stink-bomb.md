@@ -48,6 +48,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M &lt; AVERAGE is weakened (save ends).</p></div>
+<div class="sc-ability__section-body"><p>The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M &lt; AVERAGE is <a href="../../../../../condition/weakened/">weakened</a> (save ends).</p></div>
 </div>
 </article>

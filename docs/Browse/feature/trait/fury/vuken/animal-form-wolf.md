@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While you are in your wolf form, your size is 1L, you have a +2 bonus to speed, and you ignore difficult terrain.</p></div>
+<div class="sc-ability__section-body"><p>While you are in your wolf form, your size is 1L, you have a +2 bonus to speed, and you ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
 </div>
 </article>

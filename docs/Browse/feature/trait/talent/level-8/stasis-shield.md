@@ -37,7 +37,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is teleported to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm&#39;s way.</p></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../../../movement/teleport/">teleport</a>ed to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm&#39;s way.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

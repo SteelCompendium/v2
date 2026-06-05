@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests). Additionally, once you establish line of effect to a thinking creature within distance of your Mind Spike ability, you always have line of effect to that creature until they move beyond that distance.</p></div>
+<div class="sc-ability__section-body"><p>You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: <a href="../../../../../../Read/heroes/tests/">Tests</a>). Additionally, once you establish line of effect to a thinking creature within distance of your <a href="../../../../ability/talent/level-1/mind-spike/">Mind Spike</a> ability, you always have line of effect to that creature until they move beyond that distance.</p></div>
 </div>
 </article>

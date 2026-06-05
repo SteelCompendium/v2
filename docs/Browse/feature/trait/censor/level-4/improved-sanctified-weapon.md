@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.</p></div>
+<div class="sc-ability__section-body"><p>The weapon improved by your <a href="../../level-1/sanctified-weapon/">Sanctified Weapon</a> feature grants a +3 bonus to rolled damage instead of +1.</p></div>
 </div>
 </article>

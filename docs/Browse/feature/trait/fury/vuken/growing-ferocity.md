@@ -25,7 +25,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Whenever you use the Knockback maneuver, you can target one additional creature.</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>As your ferocity grows, you gain benefits as noted on the Vuken Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
+<div class="sc-ability__section-body"><p>As your ferocity grows, you gain benefits as noted on the <a href="../../../../../kit/vuken/">Vuken</a> <a href="../../boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Vuken Growing Ferocity Table</p></div>

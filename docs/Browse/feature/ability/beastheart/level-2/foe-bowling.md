@@ -45,13 +45,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M damage; push 2; M &lt; WEAK prone</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M damage; push 3; M &lt; AVERAGE prone</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M damage; push 4; M &lt; STRONG prone</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M damage; push 2; M &lt; WEAK <a href="../../../../../condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M damage; push 3; M &lt; AVERAGE <a href="../../../../../condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M damage; push 4; M &lt; STRONG <a href="../../../../../condition/prone/">prone</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is force moved at least 1 square, an enemy adjacent to the target at the end of this forced movement is also targeted by this ability&#39;s power roll, but they don&#39;t trigger this effect.</p></div>
+<div class="sc-ability__section-body"><p>If the target is <a href="../../../../../movement/forced-movement/">force moved</a> at least 1 square, an enemy adjacent to the target at the end of this forced movement is also targeted by this ability&#39;s power roll, but they don&#39;t trigger this effect.</p></div>
 </div>
 </article>

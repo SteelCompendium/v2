@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can&#39;t obtain lower than a tier 2 outcome on any Might test made to jump (see Movement Types in Chapter 10: Combat).</p></div>
+<div class="sc-ability__section-body"><p>You can&#39;t obtain lower than a tier 2 outcome on any Might test made to jump (see Movement Types in Chapter 10: <a href="../../../../../../Read/heroes/combat/">Combat</a>).</p></div>
 </div>
 </article>

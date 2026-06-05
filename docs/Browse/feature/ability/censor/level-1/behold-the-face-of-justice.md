@@ -44,13 +44,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M holy damage; if the target has P &lt; WEAK, each enemy within 2 squares of them is frightened of you (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M holy damage; if the target has P &lt; AVERAGE, each enemy within 2 squares of them is frightened of you (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M holy damage; if the target has P &lt; STRONG, each enemy within 2 squares of them is frightened of you (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M holy damage; if the target has P &lt; WEAK, each enemy within 2 squares of them is <a href="../../../../../condition/frightened/">frightened</a> of you (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M holy damage; if the target has P &lt; AVERAGE, each enemy within 2 squares of them is <a href="../../../../../condition/frightened/">frightened</a> of you (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M holy damage; if the target has P &lt; STRONG, each enemy within 2 squares of them is <a href="../../../../../condition/frightened/">frightened</a> of you (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy frightened this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.</p></div>
+<div class="sc-ability__section-body"><p>Each enemy <a href="../../../../../condition/frightened/">frightened</a> this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.</p></div>
 </div>
 </article>

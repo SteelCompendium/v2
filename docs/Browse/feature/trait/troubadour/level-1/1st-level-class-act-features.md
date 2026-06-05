@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your troubadour class act grants you two features, as shown on the 1st-Level Class Act Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../troubadour-class-act/">troubadour class act</a> grants you two features, as shown on the 1st-Level Class Act Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 1st-Level Class Act Features Table</p></div>
@@ -43,7 +43,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Acrobatics {data-scc=&#34;mcdm.heroes.v1/feature.trait.troubadour.level-1/acrobatics&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following performance ability, which is usable with your Routines feature.</p></div>
+<div class="sc-ability__section-body"><p>You have the following performance ability, which is usable with your <a href="../routines/">Routines</a> feature.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Acrobatics {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/acrobatics&#34;}</p></div>
@@ -56,14 +56,14 @@ type: trait
 <div class="sc-ability__section-body"><p>## Blocking {data-scc=&#34;mcdm.heroes.v1/feature.trait.troubadour.level-1/blocking&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following performance ability, which is usable with your Routines feature.</p></div>
+<div class="sc-ability__section-body"><p>You have the following performance ability, which is usable with your <a href="../routines/">Routines</a> feature.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Blocking {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/blocking&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and teleport those targets to unoccupied spaces in the area. A target can&#39;t be teleported in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and <a href="../../../../../movement/teleport/">teleport</a> those targets to unoccupied spaces in the area. A target can&#39;t be <a href="../../../../../movement/teleport/">teleport</a>ed in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Dramatic Monologue {data-scc=&#34;mcdm.heroes.v1/feature.trait.troubadour.level-1/dramatic-monologue&#34;}</p></div>
@@ -107,7 +107,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Virtuoso Performances {data-scc=&#34;mcdm.heroes.v1/feature.trait.troubadour.level-1/virtuoso-performances&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following performance abilities, which are usable with your Routines feature.</p></div>
+<div class="sc-ability__section-body"><p>You have the following performance abilities, which are usable with your <a href="../routines/">Routines</a> feature.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### &#34;Thunder Mother&#34; {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/thunder-mother&#34;}</p></div>

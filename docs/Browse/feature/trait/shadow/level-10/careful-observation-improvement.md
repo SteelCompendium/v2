@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can target three creatures simultaneously with your Careful Observation ability.</p></div>
+<div class="sc-ability__section-body"><p>You can target three creatures simultaneously with your <a href="../../../../ability/shadow/level-3/careful-observation/">Careful Observation</a> ability.</p></div>
 </div>
 </article>

@@ -39,7 +39,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the deinonychus&#39;s Might score, and if they have M &lt; AVERAGE, they are bleeding until the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the deinonychus&#39;s Might score, and if they have M &lt; AVERAGE, they are <a href="../../../../../../condition/bleeding/">bleeding</a> until the end of their next turn.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A target who has M &lt; STRONG is bleeding (save ends).</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">A target who has M &lt; STRONG is <a href="../../../../../../condition/bleeding/">bleeding</a> (save ends).</span></div>
 </article>

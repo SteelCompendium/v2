@@ -36,7 +36,7 @@ type: trait
 <div class="sc-ability__section-body"><p>The target can spend a Recovery.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- You can target one additional ally within distance. - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn. - A prone target can stand up. - A target can spend 1 additional Recovery.</p></div>
+<div class="sc-ability__section-body"><p>- You can target one additional ally within distance. - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn. - A <a href="../../../../../condition/prone/">prone target</a> can stand up. - A target can spend 1 additional Recovery.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1+ Piety</span><span class="txt">For each piety spent, choose one of the following enhancements:</span></div>
 </article>

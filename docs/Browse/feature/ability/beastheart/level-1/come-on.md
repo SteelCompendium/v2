@@ -51,6 +51,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion can make a melee free strike. You both shift up to a number of squares equal to your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>Your companion can make a melee free strike. You both <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Intuition score.</p></div>
 </div>
 </article>

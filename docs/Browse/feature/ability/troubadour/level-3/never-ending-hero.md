@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of bleeding until the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of <a href="../../../../../condition/bleeding/">bleeding</a> until the end of their turn.</p></div>
 </div>
 </article>

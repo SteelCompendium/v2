@@ -19,7 +19,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Hakaan heroes have access to the following traits.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../ancestry/hakaan/">Hakaan</a> heroes have access to the following traits.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Signature Trait: Big! {data-scc=&#34;mcdm.heroes.v1/feature.trait.hakaan/big&#34;}</p></div>
@@ -55,13 +55,13 @@ type: trait
 <div class="sc-ability__section-body"><p>### Forceful {data-scc=&#34;mcdm.heroes.v1/feature.trait.hakaan/forceful&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you force move a creature or object, the forced movement distance gains a +1 bonus.</p></div>
+<div class="sc-ability__section-body"><p>Whenever you <a href="../../../../movement/forced-movement/">force move</a> a creature or object, the <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a +1 bonus.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Great Fortitude {data-scc=&#34;mcdm.heroes.v1/feature.trait.hakaan/great-fortitude&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your hearty constitution prevents you from losing strength. You can&#39;t be made weakened.</p></div>
+<div class="sc-ability__section-body"><p>Your hearty constitution prevents you from losing strength. You can&#39;t be made <a href="../../../../condition/weakened/">weakened</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Stand Tough {data-scc=&#34;mcdm.heroes.v1/feature.trait.hakaan/stand-tough&#34;}</p></div>

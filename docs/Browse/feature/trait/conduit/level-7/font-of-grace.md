@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Each time you use your Healing Grace ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don&#39;t use this piety, it is lost. Additionally, you can use your Minor Miracle feature to return a creature to life even if you don&#39;t have their remains.</p></div>
+<div class="sc-ability__section-body"><p>Each time you use your <a href="../../../../ability/conduit/level-1/healing-grace/">Healing Grace</a> ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don&#39;t use this piety, it is lost. Additionally, you can use your <a href="../../level-3/minor-miracle/">Minor Miracle</a> feature to return a creature to life even if you don&#39;t have their remains.</p></div>
 </div>
 </article>

@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your Null Field ability increases by 1. At the end of your current turn, each enemy in the area of your Null Field ability takes psychic damage equal to your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your <a href="../../../../trait/null/level-1/null-field/">Null Field</a> ability increases by 1. At the end of your current turn, each enemy in the area of your <a href="../../../../trait/null/level-1/null-field/">Null Field</a> ability takes psychic damage equal to your Intuition score.</p></div>
 </div>
 </article>

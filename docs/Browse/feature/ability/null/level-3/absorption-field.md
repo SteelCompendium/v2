@@ -27,7 +27,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">7</span> Discipline</div></div>
 </div>
-<p class="sc-ability__flavor">Your null field absorbs kinetic energy.</p>
+<p class="sc-ability__flavor">Your <a href="../../../../trait/null/level-1/null-field/">null field</a> absorbs kinetic energy.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your <a href="../../../../trait/null/level-1/null-field/">Null Field</a> ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.</p></div>
 </div>
 </article>

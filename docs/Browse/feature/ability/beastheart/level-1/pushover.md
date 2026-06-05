@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This forced movement can pass through your space but not end there. If the target passes through your space, they fall prone and take extra damage equal to your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>This forced movement can pass through your space but not end there. If the target passes through your space, they fall <a href="../../../../../condition/prone/">prone</a> and take extra damage equal to your Intuition score.</p></div>
 </div>
 </article>

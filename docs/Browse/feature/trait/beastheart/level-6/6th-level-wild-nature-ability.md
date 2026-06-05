@@ -28,9 +28,9 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 cold damage; I &lt; WEAK restrained (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 cold damage; I &lt; AVERAGE restrained (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 cold damage; I &lt; STRONG restrained (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 cold damage; I &lt; WEAK <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 cold damage; I &lt; AVERAGE <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 cold damage; I &lt; STRONG <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
@@ -50,7 +50,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The first time the target uses a move action, main action, maneuver, or triggered action before the start of your next turn, your companion makes the following power roll before the target acts. If the target hasn&#39;t acted before the start of your next turn, they are frightened of your companion (save ends).</p></div>
+<div class="sc-ability__section-body"><p>The first time the target uses a move action, main action, maneuver, or triggered action before the start of your next turn, your companion makes the following power roll before the target acts. If the target hasn&#39;t acted before the start of your next turn, they are <a href="../../../../../condition/frightened/">frightened</a> of your companion (save ends).</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 6th-Level Prowler Abilities</p></div>
@@ -63,14 +63,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While bleeding this way, the target has damage weakness 5.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/bleeding/">bleeding</a> this way, the target has damage weakness 5.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Wraith Heart {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-6/wraith-heart&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and your companion shift up to your speeds. During this movement, you are both invisible, can move through enemies and objects, and ignore difficult terrain. You each deal corruption damage equal to your own Intuition score to each enemy you pass through during this movement. You can both damage each enemy once this way.</p></div>
+<div class="sc-ability__section-body"><p>You and your companion <a href="../../../../../movement/shifting/">shift</a> up to your speeds. During this movement, you are both invisible, can move through enemies and objects, and ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>. You each deal corruption damage equal to your own Intuition score to each enemy you pass through during this movement. You can both damage each enemy once this way.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 6th-Level Punisher Abilities</p></div>
@@ -83,14 +83,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion shifts up to their speed and can make a melee free strike. As a free triggered action, you and up to 10 allies within 10 squares of your companion&#39;s starting position can shift up to their speed and make free strikes.</p></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../../../movement/shifting/">shifts</a> up to their speed and can make a melee free strike. As a free triggered action, you and up to 10 allies within 10 squares of your companion&#39;s starting position can shift up to their speed and make free strikes.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Rolling Thunder {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-6/rolling-thunder&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion shifts up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.</p></div>
+<div class="sc-ability__section-body"><p>Your companion <a href="../../../../../movement/shifting/">shifts</a> up to their speed and makes one power roll that targets each enemy they come adjacent to during the shift. If your companion targets only one enemy with this ability, the power roll gains an edge.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 6th-Level Spark Abilities</p></div>
@@ -106,7 +106,7 @@ type: trait
 <div class="sc-ability__section-body"><p>Your companion transforms into a creature made of elemental energy. Choose a damage type from cold, fire, lightning, or sonic damage. While transformed, your companion gains the following benefits:</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- Your companion can fly. If they could already fly, they gain a +2 bonus to speed. - When your companion enters another creature&#39;s space for the first time on a turn or damages a creature with a strike, your companion deals 5 damage of the chosen type to the creature. - Your companion has immunity all to the chosen damage type and immunity 5 to all other damage.</p></div>
+<div class="sc-ability__section-body"><p>- Your companion can <a href="../../../../../movement/fly/">fly</a>. If they could already fly, they gain a +2 bonus to speed. - When your companion enters another creature&#39;s space for the first time on a turn or damages a creature with a strike, your companion deals 5 damage of the chosen type to the creature. - Your companion has immunity all to the chosen damage type and immunity 5 to all other damage.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Your companion&#39;s transformation lasts until the start of your next turn. At the start of each of your turns, you can spend 3 ferocity to extend the transformation&#39;s duration for one turn. When you do so, you can change the chosen damage type.</p></div>
@@ -116,7 +116,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While restrained this way, a creature takes 5 cold damage at the start of each of your turns. A creature killed by this ability becomes an ice statue and their space is difficult terrain.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/restrained/">restrained</a> this way, a creature takes 5 cold damage at the start of each of your turns. A creature killed by this ability becomes an ice statue and their space is difficult terrain.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2 Ferocity</span><span class="txt">Your companion can use this ability as a triggered action against an enemy who damages you.</span></div>
 <div class="sc-ability__enh"><span class="cost">Spend 2 Ferocity</span><span class="txt">You can move up to your speed. The power roll also targets each enemy you come adjacent to during the move.</span></div>

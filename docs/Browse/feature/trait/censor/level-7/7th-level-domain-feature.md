@@ -19,14 +19,14 @@ type: trait
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">You concentrate on a friend and teleport to them.</p>
+<p class="sc-ability__flavor">You concentrate on a friend and <a href="../../../../../movement/teleport/">teleport</a> to them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Domain</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You gain a domain feature from your domain, as shown on the 7th-Level Censor Domain Features table.</p></div>
+<div class="sc-ability__section-body"><p>You gain a domain feature from your domain, as shown on the 7th-Level <a href="../../../../../class/censor/">Censor</a> Domain Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 7th-Level Censor Domain Features Table</p></div>
@@ -41,14 +41,14 @@ type: trait
 <div class="sc-ability__section-body"><p>## Covenant of the Heart {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-7/covenant-of-the-heart&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.</p></div>
+<div class="sc-ability__section-body"><p>You can maintain bonds with up to three willing creatures using your <a href="../../level-4/invocation-of-the-heart/">Invocation of the Heart</a> feature. Additionally, you have the following ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Guided to Your Side {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-7/guided-to-your-side&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don&#39;t need line of effect to the bonded creature but you must be on the same world.</p></div>
+<div class="sc-ability__section-body"><p>Each target is <a href="../../../../../movement/teleport/">teleport</a>ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your <a href="../../level-4/invocation-of-the-heart/">Invocation of the Heart</a> feature. You don&#39;t need line of effect to the bonded creature but you must be on the same world.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Divine Quartermaster {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-7/divine-quartermaster&#34;}</p></div>
@@ -60,13 +60,13 @@ type: trait
 <div class="sc-ability__section-body"><p>## Font of Grace {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-7/font-of-grace&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Each time you use your My Life for Yours ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don&#39;t use this wrath, it is lost. Additionally, the target of My Life for Yours gains 10 temporary Stamina.</p></div>
+<div class="sc-ability__section-body"><p>Each time you use your <a href="../../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don&#39;t use this wrath, it is lost. Additionally, the target of <a href="../../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> gains 10 temporary Stamina.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Gods&#39; Library {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-7/gods-library&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: Downtime Projects). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don&#39;t already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.</p></div>
+<div class="sc-ability__section-body"><p>You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: <a href="../../../../../../Read/heroes/downtime-projects/">Downtime Projects</a>). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don&#39;t already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Light of the Burning Sun {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-7/light-of-the-burning-sun&#34;}</p></div>
@@ -90,7 +90,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Ride the Lightning {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-7/ride-the-lightning&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Presence score. While you are under the effect of your Windwalk feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If Windwalk already grants you a bonus to speed, this bonus adds to that.</p></div>
+<div class="sc-ability__section-body"><p>Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Presence score. While you are under the effect of your <a href="../../level-4/windwalk/">Windwalk</a> feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If <a href="../../level-4/windwalk/">Windwalk</a> already grants you a bonus to speed, this bonus adds to that.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Trinity of Trickery {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-7/trinity-of-trickery&#34;}</p></div>
@@ -109,7 +109,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Word of Death Deferred {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-7/word-of-death-deferred&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can stop death from taking your allies. When an ally within distance of your My Life for Yours ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.</p></div>
+<div class="sc-ability__section-body"><p>You can stop death from taking your allies. When an ally within distance of your <a href="../../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Additionally, your abilities deal an extra 5 damage to winded creatures.</p></div>

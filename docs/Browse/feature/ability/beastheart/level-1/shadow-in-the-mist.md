@@ -41,7 +41,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You become invisible until the end of your next turn or you deal damage. You can then use the Hide maneuver even if you are observed and can move up to a number of squares equal to your Intuition score before or after using that maneuver.</p></div>
+<div class="sc-ability__section-body"><p>You become invisible until the end of your next turn or you deal damage. You can then use the <a href="../../../../../skill/hide/">Hide</a> maneuver even if you are observed and can move up to a number of squares equal to your Intuition score before or after using that maneuver.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You can move up to a number of squares equal to twice your Intuition score and ignore difficult terrain during this movement.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You can move up to a number of squares equal to twice your Intuition score and ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> during this movement.</span></div>
 </article>

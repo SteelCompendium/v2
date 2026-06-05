@@ -27,7 +27,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">You concentrate on a friend and teleport to them.</p>
+<p class="sc-ability__flavor">You concentrate on a friend and <a href="../../../../../movement/teleport/">teleport</a> to them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don&#39;t need line of effect to the bonded creature but you must be on the same world.</p></div>
+<div class="sc-ability__section-body"><p>Each target is <a href="../../../../../movement/teleport/">teleport</a>ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your <a href="../../../../trait/censor/level-4/invocation-of-the-heart/">Invocation of the Heart</a> feature. You don&#39;t need line of effect to the bonded creature but you must be on the same world.</p></div>
 </div>
 </article>

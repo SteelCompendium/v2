@@ -47,6 +47,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature&#39;s space.</p></div>
+<div class="sc-ability__section-body"><p>This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your <a href="../../../../../movement/forced-movement/">force move</a>ment had ended, but you keep moving through that creature&#39;s space.</p></div>
 </div>
 </article>

@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>When you take the Disengage move action, one ally in the area of your Null Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.</p></div>
+<div class="sc-ability__section-body"><p>When you take the Disengage move action, one ally in the area of your <a href="../../level-1/null-field/">Null Field</a> ability can also take the Disengage move action as a free triggered action, using your distance for that move action.</p></div>
 </div>
 </article>

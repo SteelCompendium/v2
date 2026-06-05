@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your Stamina increases by 21 and you can&#39;t be made bleeding even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.</p></div>
+<div class="sc-ability__section-body"><p>Your Stamina increases by 21 and you can&#39;t be made <a href="../../../../../condition/bleeding/">bleeding</a> even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.</p></div>
 </div>
 </article>

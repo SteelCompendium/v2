@@ -23,7 +23,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Detection</span></div>
-<div class="sc-ability__section-body"><p>Pick a specific type of creature (such as goblins or humans) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don&#39;t have line of effect to the creature or object. You can change the type of creature or object as a maneuver.</p></div>
+<div class="sc-ability__section-body"><p>Pick a specific type of creature (such as goblins or <a href="../../../../ancestry/human/">humans</a>) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don&#39;t have line of effect to the creature or object. You can change the type of creature or object as a maneuver.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Light</span></div>

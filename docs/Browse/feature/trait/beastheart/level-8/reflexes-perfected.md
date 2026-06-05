@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your and your companion&#39;s free strikes deal extra damage equal to your Intuition score. Whenever an adjacent enemy moves to a space that isn&#39;t adjacent, you or your companion can make an opportunity attack, even if the enemy shifted, teleported, was force moved, or another feature that doesn&#39;t provoke opportunity attacks.</p></div>
+<div class="sc-ability__section-body"><p>Your and your companion&#39;s free strikes deal extra damage equal to your Intuition score. Whenever an adjacent enemy moves to a space that isn&#39;t adjacent, you or your companion can make an opportunity attack, even if the enemy <a href="../../../../../movement/shifting/">shifted</a>, <a href="../../../../../movement/teleport/">teleported</a>, was <a href="../../../../../movement/forced-movement/">force moved</a>, or another feature that doesn&#39;t provoke opportunity attacks.</p></div>
 </div>
 </article>

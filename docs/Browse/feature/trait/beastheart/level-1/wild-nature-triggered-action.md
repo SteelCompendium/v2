@@ -37,7 +37,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take half the damage and teleport up to 5 squares.</p></div>
+<div class="sc-ability__section-body"><p>You take half the damage and <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Shadow in the Mist {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/shadow-in-the-mist&#34;}</p></div>
@@ -48,7 +48,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You become invisible until the end of your next turn or you deal damage. You can then use the Hide maneuver even if you are observed and can move up to a number of squares equal to your Intuition score before or after using that maneuver.</p></div>
+<div class="sc-ability__section-body"><p>You become invisible until the end of your next turn or you deal damage. You can then use the <a href="../../../../../skill/hide/">Hide</a> maneuver even if you are observed and can move up to a number of squares equal to your Intuition score before or after using that maneuver.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### The Pack Defends {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/the-pack-defends&#34;}</p></div>
@@ -70,7 +70,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You deal sonic damage equal to your Might score to the target and push them up to a number of squares equal to 1 + your Might score. If this forced movement pushes the target away from the creature they damaged, the creature takes half the triggering damage.</p></div>
+<div class="sc-ability__section-body"><p>You deal sonic damage equal to your Might score to the target and push them up to a number of squares equal to 1 + your Might score. If this <a href="../../../../../movement/forced-movement/">forced movement</a> pushes the target away from the creature they damaged, the creature takes half the triggering damage.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Kit {data-scc=&#34;mcdm.beastheart.v1/feature.trait.beastheart.level-1/kit&#34;}</p></div>
@@ -100,7 +100,7 @@ type: trait
 <div class="sc-ability__section-body"><p>Your companion can&#39;t use trinkets that are designed to be worn by bipeds (such as cloaks, masks, and hats) or require words or gestures to activate. However, your companion can benefit from one necklace, pendant, collar, or other trinket with the Neck keyword that doesn&#39;t require any action to activate, such as a Necklace of the Bayou or one of the new magic trinkets presented in this document.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You companion doesn&#39;t need to wear their trinket around their neck: a condor might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!</p></div>
+<div class="sc-ability__section-body"><p>You companion doesn&#39;t need to wear their trinket around their neck: a <a href="../../../../../feature-group/companion/condor/">condor</a> might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>#### Leveled Items</p></div>
@@ -108,8 +108,8 @@ type: trait
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Although your companion can&#39;t wield a sword, they can benefit from a magic blade! When you wield and gain the benefits of a leveled weapon, armor, implement, or other item, your companion gains those same benefits as if they were wielding the treasure.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">When you teleport this way, each enemy adjacent to your original space takes lightning or fire damage (your choice) equal to your Intuition score.</span></div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You can move up to a number of squares equal to twice your Intuition score and ignore difficult terrain during this movement.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">When you <a href="../../../../../movement/teleport/">teleport</a> this way, each enemy adjacent to your original space takes lightning or fire damage (your choice) equal to your Intuition score.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You can move up to a number of squares equal to twice your Intuition score and ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> during this movement.</span></div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You spend a Recovery without regaining Stamina, and the target regains Stamina equal to your recovery value.</span></div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The forced movement distance is doubled.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The <a href="../../../../../movement/forced-movement/">forced movement</a> distance is doubled.</span></div>
 </article>

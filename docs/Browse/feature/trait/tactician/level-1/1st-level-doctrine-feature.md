@@ -22,10 +22,10 @@ type: trait
 <div class="sc-ability__kw"><span class="sc-ability__chip">Doctrine</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Insurgent</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Covert Operations</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../covert-operations/">Covert Operations</a></div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your tactical doctrine grants you a feature, as shown on the 1st-Level Doctrine Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../tactical-doctrine/">tactical doctrine</a> grants you a feature, as shown on the 1st-Level Doctrine Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 1st-Level Doctrine Features Table</p></div>
@@ -40,7 +40,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Covert Operations {data-scc=&#34;mcdm.heroes.v1/feature.trait.tactician.level-1/covert-operations&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While in your presence or working according to your plans, each of your allies gains an edge on tests using any skill from the intrigue skill group. Additionally, you can use the Lead skill to assist another creature with any test made using a skill from the intrigue group.</p></div>
+<div class="sc-ability__section-body"><p>While in your presence or working according to your plans, each of your allies gains an edge on tests using any skill from the intrigue skill group. Additionally, you can use the <a href="../../../../../skill/lead/">Lead</a> skill to assist another creature with any test made using a skill from the intrigue group.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>At the Director&#39;s discretion, you and your allies can use skills from the intrigue skill group to attempt research or reconnaissance during a negotiation instead of outside of a negotiation.</p></div>
@@ -49,7 +49,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Studied Commander {data-scc=&#34;mcdm.heroes.v1/feature.trait.tactician.level-1/studied-commander&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your encyclopedic knowledge of the history of battle lets you apply that knowledge to current challenges. While you are present, each hero with you treats the Discover Lore project related to a war or battle as one category cheaper. This makes projects seeking common lore free, but such projects still require a respite activity to complete. (See Chapter 12: Downtime Projects for more information.)</p></div>
+<div class="sc-ability__section-body"><p>Your encyclopedic knowledge of the history of battle lets you apply that knowledge to current challenges. While you are present, each hero with you treats the Discover Lore project related to a war or battle as one category cheaper. This makes projects seeking common lore free, but such projects still require a respite activity to complete. (See Chapter 12: <a href="../../../../../../Read/heroes/downtime-projects/">Downtime Projects</a> for more information.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Additionally, if you have 24 hours or more before a combat encounter or negotiation, and you have one or more clues or rumors regarding the encounter or negotiation, you can make a Reason test as a respite activity. The following test outcomes apply to a combat encounter:</p></div>

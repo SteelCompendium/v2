@@ -26,7 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following triggered actions. (*Quick Build:* Word of Guidance.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one of the following triggered actions. (*Quick Build:* <a href="../../../../ability/conduit/level-1/word-of-guidance/">Word of Guidance</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Word of Guidance {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-guidance&#34;}</p></div>

@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your primordial aspect grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 9th-Level Berserker Abilities</p></div>
@@ -47,14 +47,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If this forced movement causes a target to be hurled through an object, that target takes an extra 10 damage.</p></div>
+<div class="sc-ability__section-body"><p>If this <a href="../../../../../movement/forced-movement/">forced movement</a> causes a target to be hurled through an object, that target takes an extra 10 damage.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Primordial Vortex {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-9/primordial-vortex&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.</p></div>
+<div class="sc-ability__section-body"><p>If this <a href="../../../../../movement/forced-movement/">forced movement</a> causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 9th-Level Reaver Abilities</p></div>

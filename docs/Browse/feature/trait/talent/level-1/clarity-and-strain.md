@@ -29,7 +29,7 @@ type: trait
 <div class="sc-ability__section-body"><p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain clarity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 clarity.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, the first time each combat round that a creature is force moved, you gain 1 clarity.</p></div>
+<div class="sc-ability__section-body"><p>Additionally, the first time each combat round that a creature is <a href="../../../../../movement/forced-movement/">force moved</a>, you gain 1 clarity.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>You can spend clarity you don&#39;t have, pushing that Heroic Resource into negative numbers to a maximum negative value equal to 1 + your Reason score. At the end of each of your turns, you take 1 damage for each negative point of clarity.</p></div>
@@ -50,6 +50,6 @@ type: trait
 <div class="sc-ability__section-body"><p>Additionally, whenever you use any ability or effect that costs clarity within 1 minute of using another such ability, you take 1d6 damage and incur any strain effect from using the new ability. Whenever you use an ability with a strain effect outside of combat, you can take 1d6 damage and incur the effect if you don&#39;t incur it for other reasons.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as Minor Telekinesis, you can use it as if you had spent an amount of clarity equal to your Victories.</p></div>
+<div class="sc-ability__section-body"><p>When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as <a href="../../../../ability/talent/level-1/minor-telekinesis/">Minor Telekinesis</a>, you can use it as if you had spent an amount of clarity equal to your Victories.</p></div>
 </div>
 </article>

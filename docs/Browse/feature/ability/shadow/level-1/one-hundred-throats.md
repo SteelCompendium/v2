@@ -48,6 +48,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You shift up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.</p></div>
 </div>
 </article>

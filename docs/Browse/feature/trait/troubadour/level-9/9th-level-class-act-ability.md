@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your troubadour class act grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/troubadour-class-act/">troubadour class act</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 9th-Level Auteur Abilities</p></div>
@@ -54,7 +54,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer slowed or weakened if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.</p></div>
+<div class="sc-ability__section-body"><p>The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer <a href="../../../../../condition/slowed/">slowed</a> or <a href="../../../../../condition/weakened/">weakened</a> if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 9th-Level Duelist Abilities</p></div>
@@ -94,6 +94,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Forced movement from this ability ignores stability.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../../movement/forced-movement/">Forced movement</a> from this ability ignores stability.</p></div>
 </div>
 </article>

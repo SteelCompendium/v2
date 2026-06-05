@@ -22,10 +22,10 @@ type: trait
 <div class="sc-ability__kw"><span class="sc-ability__chip">Tradition</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Chronokinetic</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Rapid Processing</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../rapid-processing/">Rapid Processing</a></div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/null-tradition/">null tradition</a> grants you a feature, as shown on the 2nd-Level Tradition Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 2nd-Level Tradition Features Table</p></div>
@@ -34,16 +34,16 @@ type: trait
 <div class="sc-ability__section-body"><p>## Entropic Adaptability {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-2/entropic-adaptability&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically climb at full speed while moving.</p></div>
+<div class="sc-ability__section-body"><p>You have cold immunity equal to twice your Intuition score. Additionally, you ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> related to cold and ice, and you can automatically climb at full speed while moving.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Inertial Sink {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-2/inertial-sink&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by forced movement, and so forth. This has no effect on whether you can be grabbed.</p></div>
+<div class="sc-ability__section-body"><p>You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by <a href="../../../../../movement/forced-movement/">forced movement</a>, and so forth. This has no effect on whether you can be <a href="../../../../../condition/grabbed/">grabbed</a>.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being force moved, you reduce that damage by an amount equal to your level.</p></div>
+<div class="sc-ability__section-body"><p>Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being <a href="../../../../../movement/forced-movement/">force moved</a>, you reduce that damage by an amount equal to your level.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Rapid Processing {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-2/rapid-processing&#34;}</p></div>

@@ -45,21 +45,21 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target dies. You teleport to the target&#39;s space, shift up to a number of squares equal to your Might score, and can then make a melee free strike. You then make the following power roll, targeting each enemy within 5 squares of the target:</p></div>
+<div class="sc-ability__section-body"><p>The target dies. You <a href="../../../../../movement/teleport/">teleport</a> to the target&#39;s space, <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Might score, and can then make a melee free strike. You then make the following power roll, targeting each enemy within 5 squares of the target:</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Head to Head {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-3/head-to-head&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You are bleeding (save ends). Until the end of your next turn, your companion gains an edge on power rolls.</p></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/bleeding/">bleeding</a> (save ends). Until the end of your next turn, your companion gains an edge on power rolls.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Jaws of Death {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-3/jaws-of-death&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Whenever a target more than 3 squares away from you fails the saving throw while weakened this way, you can pull the target up to a number of squares equal to your Intuition score as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>Whenever a target more than 3 squares away from you fails the saving throw while <a href="../../../../../condition/weakened/">weakened</a> this way, you can pull the target up to a number of squares equal to your Intuition score as a free triggered action.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Shieldbreaker {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-3/shieldbreaker&#34;}</p></div>

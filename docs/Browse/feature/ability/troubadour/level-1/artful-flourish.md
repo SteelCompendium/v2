@@ -50,7 +50,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can shift up to 3 squares.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to 3 squares.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2+ Drama</span><span class="txt">You can target one additional creature or object for every 2 drama spent.</span></div>
 </article>

@@ -37,7 +37,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You, your companion, and the target enter the heart of an eternal storm on Quintessence. The three of you can&#39;t affect or be affected by any creatures except each other. Creatures in this area are always adjacent to each other and can&#39;t move or teleport away from each other, but can otherwise act normally.</p></div>
+<div class="sc-ability__section-body"><p>You, your companion, and the target enter the heart of an eternal storm on Quintessence. The three of you can&#39;t affect or be affected by any creatures except each other. Creatures in this area are always adjacent to each other and can&#39;t move or <a href="../../../../../movement/teleport/">teleport</a> away from each other, but can otherwise act normally.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>While on Quintessence, the target takes 5 cold damage, 5 fire damage, 5 lightning damage, and 5 sonic damage at the start of each of your turns.</p></div>

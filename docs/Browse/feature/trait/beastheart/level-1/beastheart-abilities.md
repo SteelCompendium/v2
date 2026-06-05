@@ -28,9 +28,9 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + M damage; M &lt; WEAK grabbed</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + M damage; M &lt; AVERAGE grabbed</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + M damage; M &lt; STRONG grabbed</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + M damage; M &lt; WEAK <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + M damage; M &lt; AVERAGE <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + M damage; M &lt; STRONG <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">
@@ -47,21 +47,21 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you and a willing ally are standing on the ground within 10 squares of each other, you can teleport to swap places. If you do, you gain an edge on this ability.</p></div>
+<div class="sc-ability__section-body"><p>If you and a willing ally are standing on the ground within 10 squares of each other, you can <a href="../../../../../movement/teleport/">teleport</a> to swap places. If you do, you gain an edge on this ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Come On! {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/come-on&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion can make a melee free strike. You both shift up to a number of squares equal to your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>Your companion can make a melee free strike. You both <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Intuition score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Covering Fire {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/covering-fire&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is not prone, they must use a free triggered action to fall prone or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>If the target is not <a href="../../../../../condition/prone/">prone</a>, they must use a free triggered action to fall <a href="../../../../../condition/prone/">prone</a> or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Stormrage {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/stormrage&#34;}</p></div>
@@ -90,7 +90,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and your companion can shift up to a number of squares equal to the number of squares the target was force moved.</p></div>
+<div class="sc-ability__section-body"><p>You and your companion can <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to the number of squares the target was <a href="../../../../../movement/forced-movement/">force moved</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>#### Hungry Like the Wolf {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/hungry-like-the-wolf&#34;}</p></div>
@@ -100,7 +100,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This forced movement can pass through your space but not end there. If the target passes through your space, they fall prone and take extra damage equal to your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>This forced movement can pass through your space but not end there. If the target passes through your space, they fall <a href="../../../../../condition/prone/">prone</a> and take extra damage equal to your Intuition score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 5-Ferocity Ability</p></div>
@@ -113,14 +113,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can spend a Recovery and gain 3 temporary Stamina for each target. Each target is taunted by you until the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>You can spend a Recovery and gain 3 temporary Stamina for each target. Each target is <a href="../../../../../condition/taunted/">taunted</a> by you until the end of their next turn.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>#### I Feed On Your Pain! {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/i-feed-on-your-pain&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is killed by this damage, or is winded or bleeding after taking this damage, you gain 2 surges.</p></div>
+<div class="sc-ability__section-body"><p>If the target is killed by this damage, or is winded or <a href="../../../../../condition/bleeding/">bleeding</a> after taking this damage, you gain 2 surges.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>#### Rain of Fire {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/rain-of-fire&#34;}</p></div>
@@ -137,5 +137,5 @@ type: trait
 <div class="sc-ability__section-body"><p>If you grab the target while your companion is adjacent to them, your companion can make a melee free strike against the target.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 2 burst originating from you. An enemy in both areas is only affected once.</span></div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 3 burst originating from your companion. Targets in this second area are taunted by your companion. An enemy in both areas is taunted only by you.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 3 burst originating from your companion. Targets in this second area are <a href="../../../../../condition/taunted/">taunted</a> by your companion. An enemy in both areas is <a href="../../../../../condition/taunted/">taunted</a> only by you.</span></div>
 </article>

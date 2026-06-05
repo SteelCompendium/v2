@@ -26,14 +26,14 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You pick out the enemies most worthy of your wrath and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.</p></div>
+<div class="sc-ability__section-body"><p>You pick out the enemies most worthy of your wrath and place a divine <a href="../../../../ability/censor/level-1/judgment/">judgment</a> upon them, censoring them with the power of your god. You have the following ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Judgment {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/judgment&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another censor judges the target.</p></div>
+<div class="sc-ability__section-body"><p>The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another <a href="../../../../../class/censor/">censor</a> judges the target.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.</p></div>
@@ -45,7 +45,7 @@ type: trait
 <div class="sc-ability__section-body"><p>Additionally, you can spend 1 wrath to take one of the following free triggered actions:</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting. - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll. - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature. - If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>- When an adjacent creature judged by you starts to <a href="../../../../../movement/shifting/">shift</a>, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from <a href="../../../../../movement/shifting/">shifting</a>. - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll. - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature. - If you damage a creature judged by you with a melee ability, the creature is <a href="../../../../../condition/taunted/">taunted</a> by you until the end of their next turn.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.</p></div>
@@ -54,9 +54,9 @@ type: trait
 <div class="sc-ability__section-body"><p>## Judgment Order Benefit {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-1/judgment-order-benefit&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>The first time on a turn that you use your Judgment ability to judge a creature, you gain the following benefit based on your order:</p></div>
+<div class="sc-ability__section-body"><p>The first time on a turn that you use your <a href="../../../../ability/censor/level-1/judgment/">Judgment</a> ability to judge a creature, you gain the following benefit based on your order:</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- <b>Exorcist:</b> You can teleport up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination. - <b>Oracle:</b> You can deal holy damage equal to twice your Presence score to the judged creature. - <b>Paragon:</b> You can vertical pull the judged creature up to a number of squares equal to twice your Presence score.</p></div>
+<div class="sc-ability__section-body"><p>- <b>Exorcist:</b> You can <a href="../../../../../movement/teleport/">teleport</a> up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination. - <b>Oracle:</b> You can deal holy damage equal to twice your Presence score to the judged creature. - <b>Paragon:</b> You can vertical pull the judged creature up to a number of squares equal to twice your Presence score.</p></div>
 </div>
 </article>

@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You gain an edge on tests made to hide and sneak. Additionally, whenever you fall, you can use a free triggered action to use your Aspect of the Wild ability.</p></div>
+<div class="sc-ability__section-body"><p>You gain an edge on tests made to hide and sneak. Additionally, whenever you fall, you can use a free triggered action to use your <a href="../../../../ability/fury/aspect-of-the-wild/">Aspect of the Wild</a> ability.</p></div>
 </div>
 </article>

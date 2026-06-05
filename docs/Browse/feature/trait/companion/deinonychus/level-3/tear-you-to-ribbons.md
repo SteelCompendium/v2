@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever the deinonychus makes a strike against a creature while rampaging, the target is bleeding until the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>Whenever the deinonychus makes a strike against a creature while rampaging, the target is <a href="../../../../../../condition/bleeding/">bleeding</a> until the end of their next turn.</p></div>
 </div>
 </article>

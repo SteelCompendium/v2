@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While the panther is rampaging, you can jump up to a number of squares equal to your speed as a free maneuver once on each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>While the panther is rampaging, you can <a href="../../../../../../movement/jump/">jump</a> up to a number of squares equal to your speed as a free maneuver once on each of your turns.</p></div>
 </div>
 </article>

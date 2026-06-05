@@ -37,7 +37,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can spend a Recovery and gain 3 temporary Stamina for each target. Each target is taunted by you until the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>You can spend a Recovery and gain 3 temporary Stamina for each target. Each target is <a href="../../../../../condition/taunted/">taunted</a> by you until the end of their next turn.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 3 burst originating from your companion. Targets in this second area are taunted by your companion. An enemy in both areas is taunted only by you.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 3 burst originating from your companion. Targets in this second area are <a href="../../../../../condition/taunted/">taunted</a> by your companion. An enemy in both areas is <a href="../../../../../condition/taunted/">taunted</a> only by you.</span></div>
 </article>

@@ -36,7 +36,7 @@ type: trait
 <div class="sc-ability__section-body"><p>Your undead body grants you immunity to cold, corruption, lightning, and poison damage equal to your level, but you have fire weakness 5. You can&#39;t suffocate, and you don&#39;t need to eat or drink to stay alive.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, when your Stamina reaches the negative of your winded value, you become inert instead of dying. You fall prone and can&#39;t stand. You continue to observe your surroundings, but you can&#39;t speak, take main actions, maneuvers, move actions, or triggered actions. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.</p></div>
+<div class="sc-ability__section-body"><p>Additionally, when your Stamina reaches the negative of your winded value, you become inert instead of dying. You fall <a href="../../../../condition/prone/">prone</a> and can&#39;t stand. You continue to observe your surroundings, but you can&#39;t speak, take main actions, maneuvers, move actions, or triggered actions. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Purchased Revenant Traits</p></div>
@@ -48,7 +48,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Bloodless {data-scc=&#34;mcdm.heroes.v1/feature.trait.revenant/bloodless&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>For you, an open wound is indistinguishable from a scratch. You can&#39;t be made bleeding even while dying.</p></div>
+<div class="sc-ability__section-body"><p>For you, an open wound is indistinguishable from a scratch. You can&#39;t be made <a href="../../../../condition/bleeding/">bleeding</a> even while dying.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Previous Life: 1 Point {data-scc=&#34;mcdm.heroes.v1/feature.trait.revenant/previous-life-1-point&#34;}</p></div>

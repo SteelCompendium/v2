@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your mind can carry your body through tough times. You ignore difficult terrain and don&#39;t need to spend additional movement while prone.</p></div>
+<div class="sc-ability__section-body"><p>Your mind can carry your body through tough times. You ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> and don&#39;t need to spend additional movement <a href="../../../../../condition/prone/">while prone</a>.</p></div>
 </div>
 </article>

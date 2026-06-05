@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Giving up is for other people. You gain an edge on tests made using the Endurance skill. Additionally, when you are slowed, your speed is reduced to 3 instead of 2.</p></div>
+<div class="sc-ability__section-body"><p>Giving up is for other people. You gain an edge on tests made using the <a href="../../../../skill/endurance/">Endurance</a> skill. Additionally, when you are <a href="../../../../condition/slowed/">slowed</a>, your speed is reduced to 3 instead of 2.</p></div>
 </div>
 </article>

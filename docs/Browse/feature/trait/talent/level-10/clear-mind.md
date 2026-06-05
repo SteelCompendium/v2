@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>The first time each combat round that a creature is force moved, you gain 3 clarity instead of 2.</p></div>
+<div class="sc-ability__section-body"><p>The first time each combat round that a creature is <a href="../../../../../movement/forced-movement/">force moved</a>, you gain 3 clarity instead of 2.</p></div>
 </div>
 </article>

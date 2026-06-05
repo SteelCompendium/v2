@@ -27,7 +27,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Insight</div></div>
 </div>
-<p class="sc-ability__flavor">You teleport your friends in a burst of ash and fire.</p>
+<p class="sc-ability__flavor">You <a href="../../../../../movement/teleport/">teleport</a> your friends in a burst of ash and fire.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 burst</div></div>
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can teleport up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.</p></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares. For each target in addition to you who <a href="../../../../../movement/teleport/">teleports</a> away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.</p></div>
 </div>
 </article>

@@ -38,7 +38,7 @@ type: ability
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R, I, or P damage;</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R, I, or P damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + R, I, or P damage; push 2; M &lt; STRONG, prone</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + R, I, or P damage; push 2; M &lt; STRONG, <a href="../../../../condition/prone/">prone</a></span></div>
 </div>
 </div>
 </article>

@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they are prone.</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they <a href="../../../../../condition/prone/">are prone</a>.</p></div>
 </div>
 </article>

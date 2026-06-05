@@ -20,7 +20,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and psionic augmentation (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Repulsive Ward.)</p></div>
+<div class="sc-ability__section-body"><p>Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and <a href="../../../null/level-1/psionic-augmentation/">psionic augmentation</a> (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* <a href="../repulsive-ward/">Repulsive Ward</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Entropy Ward {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-1/entropy-ward&#34;}</p></div>

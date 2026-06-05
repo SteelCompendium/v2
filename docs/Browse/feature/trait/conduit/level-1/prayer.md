@@ -20,7 +20,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward below) by praying to your god as a respite activity. (*Quick Build:* Prayer of Distance.)</p></div>
+<div class="sc-ability__section-body"><p>Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see <a href="../conduit-ward/">Conduit Ward</a> below) by praying to your god as a respite activity. (*Quick Build:* <a href="../prayer-of-distance/">Prayer of Distance</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Prayer of Destruction {data-scc=&#34;mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-destruction&#34;}</p></div>
@@ -47,7 +47,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Prayer of Speed {data-scc=&#34;mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-speed&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can shift when you take the Disengage move action.</p></div>
+<div class="sc-ability__section-body"><p>Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can <a href="../../../../../movement/shifting/">shift</a> when you take the Disengage move action.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Prayer of Steel {data-scc=&#34;mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-steel&#34;}</p></div>

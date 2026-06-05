@@ -26,7 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following performance abilities, which are usable with your Routines feature.</p></div>
+<div class="sc-ability__section-body"><p>You have the following performance abilities, which are usable with your <a href="../../level-1/routines/">Routines</a> feature.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Moonlight Sonata {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-8/moonlight-sonata&#34;}</p></div>
@@ -40,6 +40,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area ignores difficult terrain, and any ability they use that imposes forced movement gains a +2 bonus to the forced movement distance until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area ignores <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>, and any ability they use that imposes <a href="../../../../../movement/forced-movement/">forced movement</a> gains a +2 bonus to the <a href="../../../../../movement/forced-movement/">forced movement</a> distance until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.</p></div>
 </div>
 </article>

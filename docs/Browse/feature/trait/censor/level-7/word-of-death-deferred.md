@@ -20,7 +20,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can stop death from taking your allies. When an ally within distance of your My Life for Yours ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.</p></div>
+<div class="sc-ability__section-body"><p>You can stop death from taking your allies. When an ally within distance of your <a href="../../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Additionally, your abilities deal an extra 5 damage to winded creatures.</p></div>

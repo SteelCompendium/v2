@@ -41,6 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You take 1d6 damage and are slowed (save ends).</p></div>
+<div class="sc-ability__section-body"><p>You take 1d6 damage and are <a href="../../../../../condition/slowed/">slowed</a> (save ends).</p></div>
 </div>
 </article>

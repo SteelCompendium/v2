@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Before the push is resolved, you teleport the target to a square adjacent to you and opposite the one they started in. If the target can&#39;t be teleported this way, you can&#39;t push them.</p></div>
+<div class="sc-ability__section-body"><p>Before the push is resolved, you <a href="../../../../../movement/teleport/">teleport</a> the target to a square adjacent to you and opposite the one they started in. If the target can&#39;t be <a href="../../../../../movement/teleport/">teleport</a>ed this way, you can&#39;t push them.</p></div>
 </div>
 </article>

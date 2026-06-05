@@ -29,11 +29,11 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>A creature force moved by another creature enters a space adjacent to you.</p></div>
+<div class="sc-ability__section-body"><p>A creature <a href="../../../../../movement/forced-movement/">force moved</a> by another creature enters a space adjacent to you.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You end the forced movement. You can then push the creature up to a number of squares equal to 1 + your Might score. The creature takes 1 damage for each square they are force moved this way.</p></div>
+<div class="sc-ability__section-body"><p>You end the <a href="../../../../../movement/forced-movement/">forced movement</a>. You can then push the creature up to a number of squares equal to 1 + your Might score. The creature takes 1 damage for each square they are force moved this way.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">You and your companions can each use this free triggered action on the same turn.</span></div>
 </article>

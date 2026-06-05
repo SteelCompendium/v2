@@ -19,7 +19,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Orc heroes have access to the following traits.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../ancestry/orc/">Orc</a> heroes have access to the following traits.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Signature Trait: Relentless {data-scc=&#34;mcdm.heroes.v1/feature.trait.orc/relentless&#34;}</p></div>
@@ -55,7 +55,7 @@ type: trait
 <div class="sc-ability__section-body"><p>### Nonstop {data-scc=&#34;mcdm.heroes.v1/feature.trait.orc/nonstop&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your bloodfire supplies you with a constant rush of adrenaline. You can&#39;t be made slowed.</p></div>
+<div class="sc-ability__section-body"><p>Your bloodfire supplies you with a constant rush of adrenaline. You can&#39;t be made <a href="../../../../condition/slowed/">slowed</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Passionate Artisan {data-scc=&#34;mcdm.heroes.v1/feature.trait.orc/passionate-artisan&#34;}</p></div>

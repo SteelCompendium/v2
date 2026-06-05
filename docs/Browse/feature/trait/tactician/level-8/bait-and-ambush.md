@@ -24,6 +24,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>
-<div class="sc-ability__section-body"><p>When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike shift up to a number of squares equal to your Reason score and use the Hide maneuver as a free maneuver once during the shift. The creature can shift before or after the strike is resolved.</p></div>
+<div class="sc-ability__section-body"><p>When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Reason score and use the Hide maneuver as a free maneuver once during the <a href="../../../../../movement/shifting/">shift</a>. The creature can <a href="../../../../../movement/shifting/">shift</a> before or after the strike is resolved.</p></div>
 </div>
 </article>

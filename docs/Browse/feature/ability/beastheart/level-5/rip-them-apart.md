@@ -42,13 +42,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 + M damage; M &lt; WEAK bleeding (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 + M damage; M &lt; AVERAGE bleeding (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">22 + M damage; M &lt; STRONG bleeding (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 + M damage; M &lt; WEAK <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 + M damage; M &lt; AVERAGE <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">22 + M damage; M &lt; STRONG <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is grabbed by your partner, the target takes extra damage equal to your Might score plus your partner&#39;s Might score. If the target is reduced to 0 Stamina by this ability, each enemy within 2 squares who has P &lt; AVERAGE is frightened (save ends).</p></div>
+<div class="sc-ability__section-body"><p>If the target is <a href="../../../../../condition/grabbed/">grabbed</a> by your partner, the target takes extra damage equal to your Might score plus your partner&#39;s Might score. If the target is reduced to 0 Stamina by this ability, each enemy within 2 squares who has P &lt; AVERAGE is <a href="../../../../../condition/frightened/">frightened</a> (save ends).</p></div>
 </div>
 </article>

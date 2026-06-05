@@ -24,6 +24,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>
-<div class="sc-ability__section-body"><p>When a creature marked by you attempts to move or shift within distance of your melee free strike, you can use a free triggered action and spend 2 focus to make a melee free strike against that creature.</p></div>
+<div class="sc-ability__section-body"><p>When a creature marked by you attempts to move or <a href="../../../../../movement/shifting/">shift</a> within distance of your melee free strike, you can use a free triggered action and spend 2 focus to make a melee free strike against that creature.</p></div>
 </div>
 </article>

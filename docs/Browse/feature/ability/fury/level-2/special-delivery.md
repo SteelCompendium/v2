@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You vertically push the target up to 4 squares. This forced movement ignores the target&#39;s stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.</p></div>
+<div class="sc-ability__section-body"><p>You vertically push the target up to 4 squares. This <a href="../../../../../movement/forced-movement/">forced movement</a> ignores the target&#39;s stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.</p></div>
 </div>
 </article>

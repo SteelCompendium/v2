@@ -38,7 +38,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If your companion is within range and can fit into the target space, they teleport to the space. They can then make a melee free strike.</p></div>
+<div class="sc-ability__section-body"><p>If your companion is within range and can fit into the target space, they <a href="../../../../../movement/teleport/">teleport</a> to the space. They can then make a melee free strike.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The distance increases to ranged 15.</span></div>
 </article>

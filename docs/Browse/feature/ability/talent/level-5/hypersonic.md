@@ -50,10 +50,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You teleport to a square on the opposite side of the area before making the power roll.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/teleport/">teleport</a> to a square on the opposite side of the area before making the power roll.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>If you obtain a tier 2 outcome or better, you are slowed until the end of your turn and each target is slowed until the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>If you obtain a tier 2 outcome or better, you are <a href="../../../../../condition/slowed/">slowed</a> until the end of your turn and each target is <a href="../../../../../condition/slowed/">slowed</a> until the end of their turn.</p></div>
 </div>
 </article>

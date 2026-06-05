@@ -42,13 +42,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R cold damage; M &lt; WEAK, slowed (EoT)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + R cold damage; M &lt; AVERAGE, slowed (EoT)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + R cold damage; M &lt; STRONG, slowed (EoT)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R cold damage; M &lt; WEAK, <a href="../../../../../condition/slowed/">slowed</a> (EoT)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + R cold damage; M &lt; AVERAGE, <a href="../../../../../condition/slowed/">slowed</a> (EoT)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + R cold damage; M &lt; STRONG, <a href="../../../../../condition/slowed/">slowed</a> (EoT)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You are slowed until the end of your next turn. Additionally, a target slowed by this ability is restrained instead.</p></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/slowed/">slowed</a> until the end of your next turn. Additionally, a target <a href="../../../../../condition/slowed/">slowed</a> by this ability is <a href="../../../../../condition/restrained/">restrained</a> instead.</p></div>
 </div>
 </article>

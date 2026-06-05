@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your Discipline Mastery feature provides additional benefits when you have 12 or more discipline.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/discipline-mastery/">Discipline Mastery</a> feature provides additional benefits when you have 12 or more discipline.</p></div>
 </div>
 </article>

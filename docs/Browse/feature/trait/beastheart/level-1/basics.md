@@ -22,7 +22,7 @@ type: trait
 <div class="sc-ability__kw"><span class="sc-ability__chip">Level</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1st</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Wild Nature, Companion, Heart of the Beast, Feral Strike, Ferocity, Rampage, Wild Nature Maneuver, Wild Nature Triggered Action, Kit, Beastheart Abilities</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../wild-nature/">Wild Nature</a>, <a href="../companion/">Companion</a>, <a href="../heart-of-the-beast/">Heart of the Beast</a>, <a href="../../../../ability/beastheart/level-1/feral-strike/">Feral Strike</a>, <a href="../ferocity/">Ferocity</a>, <a href="../rampage/">Rampage</a>, <a href="../wild-nature-maneuver/">Wild Nature Maneuver</a>, <a href="../wild-nature-triggered-action/">Wild Nature Triggered Action</a>, <a href="../kit/">Kit</a>, <a href="../beastheart-abilities/">Beastheart Abilities</a></div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Starting Characteristics</span></div>
@@ -57,7 +57,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Skills</span></div>
-<div class="sc-ability__section-body"><p>You gain the Animal Handling skill. Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Animal Handling, Navigate, Track.)</p></div>
+<div class="sc-ability__section-body"><p>You gain the <a href="../../../../../skill/handle-animals/">Animal Handling</a> skill. Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* <a href="../../../../../skill/handle-animals/">Animal Handling</a>, <a href="../../../../../skill/navigate/">Navigate</a>, <a href="../../../../../skill/track/">Track</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>#### Beastheart Advancement Table</p></div>

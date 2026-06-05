@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your Telepathic Speech feature. The NPC must answer the question truthfully to the best of their ability.</p></div>
+<div class="sc-ability__section-body"><p>Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature. The NPC must answer the question truthfully to the best of their ability.</p></div>
 </div>
 </article>

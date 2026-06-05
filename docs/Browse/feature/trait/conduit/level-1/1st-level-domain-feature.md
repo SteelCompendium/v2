@@ -26,7 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level Conduit Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual and the Heal skill from the Life domain.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one of your domains. You gain a domain feature for that domain, as shown on the 1st-Level <a href="../../../../../class/conduit/">Conduit</a> Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* <a href="../../../censor/level-1/revitalizing-ritual/">Revitalizing Ritual</a> and the <a href="../../../../../skill/heal/">Heal</a> skill from the Life domain.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 1st-Level Conduit Domain Features Table</p></div>
@@ -44,7 +44,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Blessing of Comprehension {data-scc=&#34;mcdm.heroes.v1/feature.trait.conduit.level-1/blessing-of-comprehension&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: Downtime Projects).</p></div>
+<div class="sc-ability__section-body"><p>You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: <a href="../../../../../../Read/heroes/downtime-projects/">Downtime Projects</a>).</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Blessing of Fortunate Weather {data-scc=&#34;mcdm.heroes.v1/feature.trait.conduit.level-1/blessing-of-fortunate-weather&#34;}</p></div>
@@ -58,11 +58,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Foggy</span></div>
-<div class="sc-ability__section-body"><p>You and your allies gain an edge on tests that use the Hide skill. <b>Overcast:</b> You and your allies gain an edge on tests that use the Endurance skill.</p></div>
+<div class="sc-ability__section-body"><p>You and your allies gain an edge on tests that use the Hide skill. <b>Overcast:</b> You and your allies gain an edge on tests that use the <a href="../../../../../skill/endurance/">Endurance</a> skill.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Precipitation</span></div>
-<div class="sc-ability__section-body"><p>When the ground is muddy or snowy, you and your allies gain an edge on tests that use the Track skill.</p></div>
+<div class="sc-ability__section-body"><p>When the ground is muddy or snowy, you and your allies gain an edge on tests that use the <a href="../../../../../skill/track/">Track</a> skill.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.</p></div>
@@ -78,7 +78,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can fly, but can&#39;t physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can&#39;t be reduced in any way.</p></div>
+<div class="sc-ability__section-body"><p>You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal has speed 5 and can <a href="../../../../../movement/fly/">fly</a>, but can&#39;t physically interact with the world. While you are within 10 squares of the spirit, you automatically sense everything that type of animal would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, they are dismissed and you take 1d10 psychic damage that can&#39;t be reduced in any way.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Grave Speech {data-scc=&#34;mcdm.heroes.v1/feature.trait.conduit.level-1/grave-speech&#34;}</p></div>
@@ -110,7 +110,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Inner Light {data-scc=&#34;mcdm.heroes.v1/feature.trait.conduit.level-1/inner-light&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of morning light into the chosen character&#39;s soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.</p></div>
+<div class="sc-ability__section-body"><p>Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of <a href="../../../../ability/conduit/level-2/morning-light/">morning light</a> into the chosen character&#39;s soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Inspired Deception {data-scc=&#34;mcdm.heroes.v1/feature.trait.conduit.level-1/inspired-deception&#34;}</p></div>
@@ -128,7 +128,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Protective Circle {data-scc=&#34;mcdm.heroes.v1/feature.trait.conduit.level-1/protective-circle&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can spend 10 uninterrupted minutes to create a protective circle on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the protective circle, a creature can&#39;t be targeted by strikes.</p></div>
+<div class="sc-ability__section-body"><p>You can spend 10 uninterrupted minutes to create a <a href="../../../censor/level-1/protective-circle/">protective circle</a> on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the <a href="../../../censor/level-1/protective-circle/">protective circle</a>, a creature can&#39;t be targeted by strikes.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Revitalizing Ritual {data-scc=&#34;mcdm.heroes.v1/feature.trait.conduit.level-1/revitalizing-ritual&#34;}</p></div>

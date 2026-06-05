@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have cold immunity equal to twice your Intuition score. Additionally, you ignore difficult terrain related to cold and ice, and you can automatically climb at full speed while moving.</p></div>
+<div class="sc-ability__section-body"><p>You have cold immunity equal to twice your Intuition score. Additionally, you ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> related to cold and ice, and you can automatically climb at full speed while moving.</p></div>
 </div>
 </article>

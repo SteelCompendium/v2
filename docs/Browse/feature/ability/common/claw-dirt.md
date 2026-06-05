@@ -34,8 +34,8 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are slowed and weakened (EoT).</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are slowed (EoT).</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are <a href="../../../../condition/slowed/">slowed</a> and <a href="../../../../condition/weakened/">weakened</a> (EoT).</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are <a href="../../../../condition/slowed/">slowed</a> (EoT).</span></div>
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You can move 1 square into, out of, or through ground you are touching that can be burrowed through.</span></div>
 </div>
 </div>

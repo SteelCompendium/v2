@@ -20,9 +20,9 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can fly. While flying, your stability is reduced to 0 and can&#39;t be increased. If you can already fly, you have a +2 bonus to speed while flying instead.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/fly/">fly</a>. While <a href="../../../../../movement/fly/">flying</a>, your stability is reduced to 0 and can&#39;t be increased. If you can already <a href="../../../../../movement/fly/">fly</a>, you have a +2 bonus to speed while <a href="../../../../../movement/fly/">flying</a> instead.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>If you are strained while flying and are force moved, the forced movement distance gains a +2 bonus.</p></div>
+<div class="sc-ability__section-body"><p>If you are strained while <a href="../../../../../movement/fly/">flying</a> and are force moved, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a +2 bonus.</p></div>
 </div>
 </article>

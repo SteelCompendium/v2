@@ -40,7 +40,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Signature Abilities</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Blessed Light, Staggering Curse.)</p></div>
+<div class="sc-ability__section-body"><p>Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* <a href="../../../../ability/conduit/level-1/blessed-light/">Blessed Light</a>, <a href="../../../../ability/conduit/level-1/staggering-curse/">Staggering Curse</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Blessed Light {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-1/blessed-light&#34;}</p></div>
@@ -64,7 +64,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can teleport yourself and each ally in the area to unoccupied spaces in the area.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/teleport/">teleport</a> yourself and each ally in the area to unoccupied spaces in the area.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Sacrificial Offer {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-1/sacrificial-offer&#34;}</p></div>
@@ -96,7 +96,7 @@ type: trait
 <div class="sc-ability__section-body"><p>### 3-Piety Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* Violence Will Not Aid Thee.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* <a href="../../../../ability/conduit/level-1/violence-will-not-aid-thee/">Violence Will Not Aid Thee</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Call the Thunder Down {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down&#34;}</p></div>
@@ -126,7 +126,7 @@ type: trait
 <div class="sc-ability__section-body"><p>### 5-Piety Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* Curse of Terror.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* <a href="../../../../ability/conduit/level-1/curse-of-terror/">Curse of Terror</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Corruption&#39;s Curse {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-1/corruptions-curse&#34;}</p></div>
@@ -146,6 +146,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.</p></div>
+<div class="sc-ability__section-body"><p>Each target can spend a Recovery. Additionally, each target can use a free <a href="../triggered-action/">triggered action</a> to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if <a href="../../../../../condition/prone/">prone</a>.</p></div>
 </div>
 </article>

@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Each kit from your Field Arsenal feature grants you a signature ability. Signature abilities can be used at will.</p></div>
+<div class="sc-ability__section-body"><p>Each kit from your <a href="../field-arsenal/">Field Arsenal</a> feature grants you a signature ability. Signature abilities can be used at will.</p></div>
 </div>
 </article>

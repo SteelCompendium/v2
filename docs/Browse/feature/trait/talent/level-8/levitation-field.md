@@ -33,7 +33,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can fly until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target&#39;s stability is reduced to 0 and can&#39;t be increased.</p></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/fly/">fly</a> until the start of your next turn, and can immediately <a href="../../../../../movement/shifting/">shift</a> up to their speed. You can also <a href="../../../../../movement/shifting/">shift</a> up to your speed. While <a href="../../../../../movement/fly/">flying</a>, a target&#39;s stability is reduced to 0 and can&#39;t be increased.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 5 Clarity</span><span class="txt">The effects last for 1 hour instead.</span></div>
 </article>

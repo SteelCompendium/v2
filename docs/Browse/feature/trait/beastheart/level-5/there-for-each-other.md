@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>When you or your companion uses your The Pack Defends ability to spend a Recovery, you and the target both regain Stamina.</p></div>
+<div class="sc-ability__section-body"><p>When you or your companion uses your <a href="../../../../ability/beastheart/level-1/the-pack-defends/">The Pack Defends</a> ability to spend a Recovery, you and the target both regain Stamina.</p></div>
 </div>
 </article>

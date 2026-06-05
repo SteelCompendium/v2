@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.</p></div>
+<div class="sc-ability__section-body"><p>On a critical hit, the target is <a href="../../../../../condition/grabbed/">grabbed</a> by the demon and pulled through the portal before it closes, never to be seen again.</p></div>
 </div>
 </article>

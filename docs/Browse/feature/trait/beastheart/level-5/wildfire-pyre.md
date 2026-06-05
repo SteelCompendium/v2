@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>When you or your companion deals damage with your Pyre ability, each enemy adjacent to either of you takes the damage.</p></div>
+<div class="sc-ability__section-body"><p>When you or your companion deals damage with your <a href="../../../../ability/beastheart/level-1/pyre/">Pyre</a> ability, each enemy adjacent to either of you takes the damage.</p></div>
 </div>
 </article>

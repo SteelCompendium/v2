@@ -39,7 +39,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the panther&#39;s Might score, and if they have M &lt; AVERAGE, they are knocked prone.</p></div>
+<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + the panther&#39;s Might score, and if they have M &lt; AVERAGE, they are knocked <a href="../../../../../../condition/prone/">prone</a>.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The panther can jump up to a number of squares equal to their speed before using this ability. If they jump at least 1 square in this way, a target who has M &lt; STRONG is knocked prone.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The panther can jump up to a number of squares equal to their speed before using this ability. If they jump at least 1 square in this way, a target who has M &lt; STRONG is knocked <a href="../../../../../../condition/prone/">prone</a>.</span></div>
 </article>

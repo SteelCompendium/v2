@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your troubadour class act grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/troubadour-class-act/">troubadour class act</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 2nd-Level Auteur Ability</p></div>
@@ -47,7 +47,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A guest star appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This guest star is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged free strikes. At the end of the encounter, or when the guest star is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can&#39;t be uplifted this way more than once during an encounter.</p></div>
+<div class="sc-ability__section-body"><p>A <a href="../../../../ability/troubadour/level-2/guest-star/">guest star</a> appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This <a href="../../../../ability/troubadour/level-2/guest-star/">guest star</a> is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged free strikes. At the end of the encounter, or when the <a href="../../../../ability/troubadour/level-2/guest-star/">guest star</a> is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can&#39;t be uplifted this way more than once during an encounter.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Twist at the End {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-2/twist-at-the-end&#34;}</p></div>
@@ -67,7 +67,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can shift up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee free strike that deals extra damage equal to twice their highest characteristic score.</p></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/shifting/">shift</a> up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee free strike that deals extra damage equal to twice their highest characteristic score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### En Garde! {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-2/en-garde&#34;}</p></div>

@@ -28,13 +28,13 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; push 1; M &lt; WEAK, dazed (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; push 2; M &lt; AVERAGE, dazed (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; push 3; M &lt; STRONG, dazed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; push 1; M &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; push 2; M &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; push 3; M &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your primordial aspect grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 2nd-Level Berserker Ability</p></div>
@@ -47,14 +47,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You vertically push the target up to 4 squares. This forced movement ignores the target&#39;s stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.</p></div>
+<div class="sc-ability__section-body"><p>You vertically push the target up to 4 squares. This <a href="../../../../../movement/forced-movement/">forced movement</a> ignores the target&#39;s stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Wrecking Ball {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are difficult terrain for you. You automatically destroy each square of structure you move through and leave behind a square of difficult terrain.</p></div>
+<div class="sc-ability__section-body"><p>You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for you. You automatically destroy each square of structure you move through and leave behind a square of <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Additionally, you make one power roll that targets each enemy you move adjacent to during this movement.</p></div>
@@ -73,7 +73,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You shift up to your speed and make one power roll that targets up to three enemies you move adjacent to during this shift.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your speed and make one power roll that targets up to three enemies you move adjacent to during this <a href="../../../../../movement/shifting/">shift</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 2nd-Level Stormwight Ability</p></div>
@@ -93,6 +93,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This ability deals your primordial damage type (see Stormwight Kits).</p></div>
+<div class="sc-ability__section-body"><p>This ability deals your primordial damage type (see <a href="../../stormwight-kits/">Stormwight Kits</a>).</p></div>
 </div>
 </article>

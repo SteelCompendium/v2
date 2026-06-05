@@ -18,6 +18,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>The Search for Hidden Creatures maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: Tests).</p></div>
+<div class="sc-ability__section-body"><p>The Search for Hidden Creatures maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: <a href="../../../../../../Read/heroes/tests/">Tests</a>).</p></div>
 </div>
 </article>

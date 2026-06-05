@@ -20,7 +20,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see Talent Ward below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Force Augmentation.)</p></div>
+<div class="sc-ability__section-body"><p>Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see <a href="../talent-ward/">Talent Ward</a> below) by undergoing a psionic meditation as a respite activity. (*Quick Build:* <a href="../../../null/level-1/force-augmentation/">Force Augmentation</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Battle Augmentation {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-1/battle-augmentation&#34;}</p></div>
@@ -53,6 +53,6 @@ type: trait
 <div class="sc-ability__section-body"><p>## Speed Augmentation {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-1/speed-augmentation&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You gain a +1 bonus to speed and to the distance you can shift when you take the Disengage move action.</p></div>
+<div class="sc-ability__section-body"><p>You gain a +1 bonus to speed and to the distance you can <a href="../../../../../movement/shifting/">shift</a> when you take the Disengage move action.</p></div>
 </div>
 </article>

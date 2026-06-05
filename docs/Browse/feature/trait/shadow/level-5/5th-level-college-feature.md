@@ -22,10 +22,10 @@ type: trait
 <div class="sc-ability__kw"><span class="sc-ability__chip">College</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Black Ash</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Trail of Cinders</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../trail-of-cinders/">Trail of Cinders</a></div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your shadow college grants you a feature, as shown on the 5th-Level College Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/shadow-college/">shadow college</a> grants you a feature, as shown on the 5th-Level College Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 5th-Level College Features Table</p></div>
@@ -43,10 +43,10 @@ type: trait
 <div class="sc-ability__section-body"><p>## Trail of Cinders {data-scc=&#34;mcdm.heroes.v1/feature.trait.shadow.level-5/trail-of-cinders&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash Teleport ability.</p></div>
+<div class="sc-ability__section-body"><p>Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your <a href="../../../../ability/shadow/level-1/black-ash-teleport/">Black Ash Teleport</a> ability.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to teleport. The creature appears in an unoccupied space adjacent to the space into which you teleported. If no such space exists, they can&#39;t teleport with you.</p></div>
+<div class="sc-ability__section-body"><p>Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to <a href="../../../../../movement/teleport/">teleport</a>. The creature appears in an unoccupied space adjacent to the space into which you <a href="../../../../../movement/teleport/">teleport</a>ed. If no such space exists, they can&#39;t <a href="../../../../../movement/teleport/">teleport</a> with you.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Volatile Reagents {data-scc=&#34;mcdm.heroes.v1/feature.trait.shadow.level-5/volatile-reagents&#34;}</p></div>
@@ -55,6 +55,6 @@ type: trait
 <div class="sc-ability__section-body"><p>Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, your Defensive Roll ability now allows you to shift up to 5 squares, including shifting vertically. If you don&#39;t end this shift on solid ground and are not flying, you fall.</p></div>
+<div class="sc-ability__section-body"><p>Additionally, your <a href="../../../../ability/shadow/level-1/defensive-roll/">Defensive Roll</a> ability now allows you to <a href="../../../../../movement/shifting/">shift</a> up to 5 squares, including <a href="../../../../../movement/shifting/">shifting</a> vertically. If you don&#39;t end this <a href="../../../../../movement/shifting/">shift</a> on solid ground and are not <a href="../../../../../movement/fly/">flying</a>, you fall.</p></div>
 </div>
 </article>

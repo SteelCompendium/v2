@@ -28,9 +28,9 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + R fire damage; A &lt; WEAK, restrained (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + R fire damage; A &lt; AVERAGE, restrained (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R fire damage; A &lt; STRONG, restrained (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + R fire damage; A &lt; WEAK, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + R fire damage; A &lt; AVERAGE, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R fire damage; A &lt; STRONG, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
@@ -44,7 +44,7 @@ type: trait
 <div class="sc-ability__section-body"><p>Until the start of your next turn, the area gains the following effects:</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries. - The area is difficult terrain for enemies. - Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>- Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries. - The area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies. - Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
@@ -62,7 +62,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is teleported to another space within distance. Make a power roll that affects each enemy adjacent to the target&#39;s new space.</p></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../../../movement/teleport/">teleport</a>ed to another space within distance. Make a power roll that affects each enemy adjacent to the target&#39;s new space.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Volcano&#39;s Embrace {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-2/volcanos-embrace&#34;}</p></div>

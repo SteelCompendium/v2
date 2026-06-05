@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you willingly move, you can teleport. When you teleport this way, it counts as using a shadow ability for the purpose of using your Burning Ash and Trail of Cinders features.</p></div>
+<div class="sc-ability__section-body"><p>Whenever you willingly move, you can <a href="../../../../../movement/teleport/">teleport</a>. When you <a href="../../../../../movement/teleport/">teleport</a> this way, it counts as using a shadow ability for the purpose of using your <a href="../../level-2/burning-ash/">Burning Ash</a> and <a href="../../level-5/trail-of-cinders/">Trail of Cinders</a> features.</p></div>
 </div>
 </article>

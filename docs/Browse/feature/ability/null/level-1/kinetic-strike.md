@@ -42,9 +42,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A damage; taunted (EoT)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + A damage; taunted (EoT), slide 1</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + A damage; taunted (EoT), slide 2</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A damage; <a href="../../../../../condition/taunted/">taunted</a> (EoT)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + A damage; <a href="../../../../../condition/taunted/">taunted</a> (EoT), slide 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + A damage; <a href="../../../../../condition/taunted/">taunted</a> (EoT), slide 2</span></div>
 </div>
 </div>
 </article>

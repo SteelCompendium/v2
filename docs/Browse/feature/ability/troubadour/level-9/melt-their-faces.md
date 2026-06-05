@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Forced movement from this ability ignores stability.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../../movement/forced-movement/">Forced movement</a> from this ability ignores stability.</p></div>
 </div>
 </article>

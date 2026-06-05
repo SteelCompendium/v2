@@ -33,7 +33,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Ferocity</div></div>
 </div>
-<p class="sc-ability__flavor">You summon your primordial storm.</p>
+<p class="sc-ability__flavor">You summon your <a href="../../../../trait/fury/primordial-storm/">primordial storm</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 10</div></div>

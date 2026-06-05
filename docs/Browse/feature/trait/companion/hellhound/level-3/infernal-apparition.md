@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P &lt; AVERAGE to be frightened until the end of the target&#39;s next turn.</p></div>
+<div class="sc-ability__section-body"><p>Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P &lt; AVERAGE to be <a href="../../../../../../condition/frightened/">frightened</a> until the end of the target&#39;s next turn.</p></div>
 </div>
 </article>

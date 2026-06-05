@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your unique physiology enhances your movement. You gain an edge on tests that use the Climb, Gymnastics, or Swim skills when you can use all your arms in the attempt.</p></div>
+<div class="sc-ability__section-body"><p>Your unique physiology enhances your movement. You gain an edge on tests that use the <a href="../../../../skill/climb/">Climb</a>, <a href="../../../../skill/gymnastics/">Gymnastics</a>, or <a href="../../../../skill/swim/">Swim</a> skills when you can use all your arms in the attempt.</p></div>
 </div>
 </article>

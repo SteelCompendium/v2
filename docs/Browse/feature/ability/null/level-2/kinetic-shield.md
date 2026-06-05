@@ -47,6 +47,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While you have temporary Stamina from this ability, you can&#39;t be made bleeding even while dying.</p></div>
+<div class="sc-ability__section-body"><p>While you have temporary Stamina from this ability, you can&#39;t be made <a href="../../../../../condition/bleeding/">bleeding</a> even while dying.</p></div>
 </div>
 </article>

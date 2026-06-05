@@ -41,7 +41,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take half the damage and teleport up to 5 squares.</p></div>
+<div class="sc-ability__section-body"><p>You take half the damage and <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">When you teleport this way, each enemy adjacent to your original space takes lightning or fire damage (your choice) equal to your Intuition score.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">When you <a href="../../../../../movement/teleport/">teleport</a> this way, each enemy adjacent to your original space takes lightning or fire damage (your choice) equal to your Intuition score.</span></div>
 </article>

@@ -42,13 +42,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">M &lt; WEAK, prone</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">M &lt; AVERAGE, prone</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">M &lt; STRONG, prone</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">M &lt; WEAK<a href="../../../../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">M &lt; AVERAGE<a href="../../../../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">M &lt; STRONG<a href="../../../../../condition/prone/">, prone</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is prone and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.</p></div>
+<div class="sc-ability__section-body"><p>You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who <a href="../../../../../condition/prone/">is prone</a> and size 2 or smaller falls in. Other creatures can enter the fissure or can <a href="../../../../../movement/shifting/">shift</a> to the nearest unoccupied space of their choice outside it.</p></div>
 </div>
 </article>

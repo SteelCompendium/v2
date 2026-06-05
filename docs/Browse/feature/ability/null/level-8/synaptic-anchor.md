@@ -29,7 +29,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Discipline</div></div>
 </div>
-<p class="sc-ability__flavor">You disrupt an enemy&#39;s strike and create a feedback loop in their mind, preventing them from focusing on future attacks.</p>
+<p class="sc-ability__flavor">You disrupt an enemy&#39;s strike and create a <a href="../../../talent/level-1/feedback-loop/">feedback loop</a> in their mind, preventing them from focusing on future attacks.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
@@ -37,10 +37,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target takes damage from another creature&#39;s ability while in the area of your Null Field ability.</p></div>
+<div class="sc-ability__section-body"><p>The target takes damage from another creature&#39;s ability while in the area of your <a href="../../../../trait/null/level-1/null-field/">Null Field</a> ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes half the damage, and if the triggering creature has I &lt; AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.</p></div>
+<div class="sc-ability__section-body"><p>The target takes half the damage, and if the triggering creature has I &lt; AVERAGE, they are <a href="../../../../../condition/dazed/">dazed</a> (save ends). While the triggering creature is <a href="../../../../../condition/dazed/">dazed</a> this way, they take psychic damage equal to your Intuition score whenever they use a main action.</p></div>
 </div>
 </article>

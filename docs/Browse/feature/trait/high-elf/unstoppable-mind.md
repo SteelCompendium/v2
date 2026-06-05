@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your mind allows you to maintain your focus in any situation. You can&#39;t be made dazed.</p></div>
+<div class="sc-ability__section-body"><p>Your mind allows you to maintain your focus in any situation. You can&#39;t be made <a href="../../../../condition/dazed/">dazed</a>.</p></div>
 </div>
 </article>

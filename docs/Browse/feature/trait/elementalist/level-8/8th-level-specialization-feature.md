@@ -26,7 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your elemental specialization grants you a feature, as shown on the 8th-Level Elemental Specialization Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/elemental-specialization/">elemental specialization</a> grants you a feature, as shown on the 8th-Level <a href="../../level-1/elemental-specialization/">Elemental Specialization</a> Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 8th-Level Elemental Specialization Features Table</p></div>
@@ -35,19 +35,19 @@ type: trait
 <div class="sc-ability__section-body"><p>## Black Hole Star {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-8/black-hole-star&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your Hurl Element ability and vertical pull that target up to 5 squares. If their stability reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores stability for your allies.</p></div>
+<div class="sc-ability__section-body"><p>You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your <a href="../../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability and vertical pull that target up to 5 squares. If their stability reduces this <a href="../../../../../movement/forced-movement/">forced movement</a>, they are pulled a minimum of 2 squares. This <a href="../../../../../movement/forced-movement/">forced movement</a> ignores stability for your allies.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, your Mantle of Essence improves. While in the area of the aura, enemies and objects have their stability reduced by an amount equal to your level.</p></div>
+<div class="sc-ability__section-body"><p>Additionally, your <a href="../../level-4/mantle-of-essence/">Mantle of Essence</a> improves. While in the area of the aura, enemies and objects have their stability reduced by an amount equal to your level.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Chimeric Manifestation {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-8/chimeric-manifestation&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Nature isn&#39;t static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your Disciple of the Green feature on your turn.</p></div>
+<div class="sc-ability__section-body"><p>Nature isn&#39;t static and unchanging, and neither are you. You can enter or exit your <a href="../../../../../complication/animal-form/">animal form</a> as a free maneuver the first time you use your <a href="../../level-2/disciple-of-the-green/">Disciple of the Green</a> feature on your turn.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, whenever you use your Disciple of the Green feature, you can select an additional animal form and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.</p></div>
+<div class="sc-ability__section-body"><p>Additionally, whenever you use your <a href="../../level-2/disciple-of-the-green/">Disciple of the Green</a> feature, you can select an additional <a href="../../../../../complication/animal-form/">animal form</a> and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can&#39;t combine a shark with a bear (5th level).</p></div>
@@ -56,7 +56,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## The Flame Primordial {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-8/the-flame-primordial&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your Return to Formlessness ability instead.</p></div>
+<div class="sc-ability__section-body"><p>You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your <a href="../../../../ability/elementalist/level-1/return-to-formlessness/">Return to Formlessness</a> ability instead.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your Reason score until the start of their next turn. This increases to twice your Reason score if the enemy is made of or is wearing mostly metal.</p></div>
@@ -85,6 +85,6 @@ type: trait
 <div class="sc-ability__section-body"><p>### Source of Earth Statblock</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>&gt; &gt;<b>Source of Earth</b> &gt; &gt;| Elemental | - | Level 8 | BRUTE | EV - | &gt;|:-------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:| &gt;| <b>2</b>&lt;br&gt;Size | <b>6</b>&lt;br&gt;Speed | <b>45</b>&lt;br&gt;Stamina | <b>5</b>&lt;br&gt;Stability | <b>5</b>&lt;br&gt;Free Strike | &gt;| <b>-</b>&lt;br&gt;Immunities | <b>Burrow</b>&lt;br&gt;Movement | | <b>-</b>&lt;br&gt;With Captain | <b>-</b>&lt;br&gt;Weaknesses | &gt;| <b>+3</b>&lt;br&gt;Might | <b>+1</b>&lt;br&gt;Agility | <b>-5</b>&lt;br&gt;Reason | <b>-5</b>&lt;br&gt;Intuition | <b>-3</b>&lt;br&gt;Presence | &gt; &gt;&gt; <b>Earthwalk</b> &gt;&gt; &gt;&gt; Difficult terrain composed of earth and stone doesn&#39;t cost the source extra movement. &gt; &gt;&gt; <b>Tunneler</b> &gt;&gt; &gt;&gt; When the source burrows, they create a size 2 tunnel. &gt; &gt;&gt; <b>Earth Harness</b> &gt;&gt; &gt;&gt; A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source. &gt; &gt;&gt; <b>Boulder Bash</b> &gt;&gt; &gt;&gt; | <b>Melee, Ranged, Strike, Weapon</b> | <b>Signature</b> | &gt;&gt; |-----------------------------------|------------------------------:| &gt;&gt; | <b>📏 Melee 2 or ranged 10</b> | <b>🎯 One creature or object</b> | &gt;&gt; &gt;&gt; <b>Power Roll + 3:</b> &gt;&gt; &gt;&gt; - <b>≤11:</b> 5 damage; push 3 &gt;&gt; - <b>12-16:</b> 9 damage; push 4 &gt;&gt; - <b>17+:</b> 12 damage; push 5</p></div>
+<div class="sc-ability__section-body"><p>&gt; &gt;<b>Source of Earth</b> &gt; &gt;| Elemental | - | Level 8 | BRUTE | EV - | &gt;|:-------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:| &gt;| <b>2</b>&lt;br&gt;Size | <b>6</b>&lt;br&gt;Speed | <b>45</b>&lt;br&gt;Stamina | <b>5</b>&lt;br&gt;Stability | <b>5</b>&lt;br&gt;Free Strike | &gt;| <b>-</b>&lt;br&gt;Immunities | <b><a href="../../../../../movement/burrow/">Burrow</a></b>&lt;br&gt;Movement | | <b>-</b>&lt;br&gt;With Captain | <b>-</b>&lt;br&gt;Weaknesses | &gt;| <b>+3</b>&lt;br&gt;Might | <b>+1</b>&lt;br&gt;Agility | <b>-5</b>&lt;br&gt;Reason | <b>-5</b>&lt;br&gt;Intuition | <b>-3</b>&lt;br&gt;Presence | &gt; &gt;&gt; <b>Earthwalk</b> &gt;&gt; &gt;&gt; <a href="../../../../../movement/difficult-terrain/">Difficult terrain</a> composed of earth and stone doesn&#39;t cost the source extra movement. &gt; &gt;&gt; <b>Tunneler</b> &gt;&gt; &gt;&gt; When the source burrows, they create a size 2 tunnel. &gt; &gt;&gt; <b>Earth Harness</b> &gt;&gt; &gt;&gt; A creature that has the <a href="../../../../ability/elementalist/level-3/earth-accepts-me/">Earth Accepts Me</a> ability can use it as a free action to meld into the source. &gt; &gt;&gt; <b>Boulder Bash</b> &gt;&gt; &gt;&gt; | <b>Melee, Ranged, Strike, Weapon</b> | <b>Signature</b> | &gt;&gt; |-----------------------------------|------------------------------:| &gt;&gt; | <b>📏 Melee 2 or ranged 10</b> | <b>🎯 One creature or object</b> | &gt;&gt; &gt;&gt; <b>Power Roll + 3:</b> &gt;&gt; &gt;&gt; - <b>≤11:</b> 5 damage; push 3 &gt;&gt; - <b>12-16:</b> 9 damage; push 4 &gt;&gt; - <b>17+:</b> 12 damage; push 5</p></div>
 </div>
 </article>

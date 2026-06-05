@@ -33,6 +33,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
+<div class="sc-ability__section-body"><p>Each creature in the area has a double edge on tests made to <a href="../../../../../skill/hide/">hide</a> or <a href="../../../../../skill/sneak/">sneak</a>. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
 </div>
 </article>

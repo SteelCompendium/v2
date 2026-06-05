@@ -42,7 +42,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You deal sonic damage equal to your Might score to the target and push them up to a number of squares equal to 1 + your Might score. If this forced movement pushes the target away from the creature they damaged, the creature takes half the triggering damage.</p></div>
+<div class="sc-ability__section-body"><p>You deal sonic damage equal to your Might score to the target and push them up to a number of squares equal to 1 + your Might score. If this <a href="../../../../../movement/forced-movement/">forced movement</a> pushes the target away from the creature they damaged, the creature takes half the triggering damage.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The forced movement distance is doubled.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The <a href="../../../../../movement/forced-movement/">forced movement</a> distance is doubled.</span></div>
 </article>

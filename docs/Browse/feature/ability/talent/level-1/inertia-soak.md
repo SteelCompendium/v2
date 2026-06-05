@@ -37,10 +37,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally&#39;s stability. A creature can only be force moved this way once a turn.</p></div>
+<div class="sc-ability__section-body"><p>The target ignores <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> and takes no damage from <a href="../../../../../movement/forced-movement/">forced movement</a> until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally&#39;s stability. A creature can only be force moved this way once a turn.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You are weakened (save ends). While you are weakened this way, whenever you are force moved, the forced movement distance gains a +5 bonus.</p></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/weakened/">weakened</a> (save ends). While you are <a href="../../../../../condition/weakened/">weakened</a> this way, whenever you are force moved, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a +5 bonus.</p></div>
 </div>
 </article>

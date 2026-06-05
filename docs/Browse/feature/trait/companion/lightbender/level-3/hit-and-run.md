@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can teleport up to 5 squares and use the Hide maneuver.</p></div>
+<div class="sc-ability__section-body"><p>Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can <a href="../../../../../../movement/teleport/">teleport</a> up to 5 squares and use the <a href="../../../../../../skill/hide/">Hide</a> maneuver.</p></div>
 </div>
 </article>

@@ -32,7 +32,7 @@ type: trait
 <div class="sc-ability__section-body"><p>Your companion can&#39;t use trinkets that are designed to be worn by bipeds (such as cloaks, masks, and hats) or require words or gestures to activate. However, your companion can benefit from one necklace, pendant, collar, or other trinket with the Neck keyword that doesn&#39;t require any action to activate, such as a Necklace of the Bayou or one of the new magic trinkets presented in this document.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You companion doesn&#39;t need to wear their trinket around their neck: a condor might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!</p></div>
+<div class="sc-ability__section-body"><p>You companion doesn&#39;t need to wear their trinket around their neck: a <a href="../../../../../feature-group/companion/condor/">condor</a> might wear a necklace wrapped around a talon, and a gelatinous sphere might carry it suspended inside their body!</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Leveled Items</p></div>

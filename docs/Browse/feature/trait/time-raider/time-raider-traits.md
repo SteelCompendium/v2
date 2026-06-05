@@ -33,7 +33,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Time raider heroes have access to the following traits.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../ancestry/time-raider/">Time raider</a> heroes have access to the following traits.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Signature Trait: Psychic Scar {data-scc=&#34;mcdm.heroes.v1/feature.trait.time-raider/psychic-scar&#34;}</p></div>
@@ -45,7 +45,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Purchased Time Raider Traits</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beyondsight, Psionic Gift with Psionic Bolt.)</p></div>
+<div class="sc-ability__section-body"><p>You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beyondsight, Psionic Gift with <a href="../../../ability/time-raider/psionic-bolt/">Psionic Bolt</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Beyondsight {data-scc=&#34;mcdm.heroes.v1/feature.trait.time-raider/beyondsight&#34;}</p></div>
@@ -63,13 +63,13 @@ type: trait
 <div class="sc-ability__section-body"><p>### Four-Armed Athletics {data-scc=&#34;mcdm.heroes.v1/feature.trait.time-raider/four-armed-athletics&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your unique physiology enhances your movement. You gain an edge on tests that use the Climb, Gymnastics, or Swim skills when you can use all your arms in the attempt.</p></div>
+<div class="sc-ability__section-body"><p>Your unique physiology enhances your movement. You gain an edge on tests that use the <a href="../../../../skill/climb/">Climb</a>, <a href="../../../../skill/gymnastics/">Gymnastics</a>, or <a href="../../../../skill/swim/">Swim</a> skills when you can use all your arms in the attempt.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Four-Armed Martial Arts {data-scc=&#34;mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures grabbed at a time.</p></div>
+<div class="sc-ability__section-body"><p>Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures <a href="../../../../condition/grabbed/">grabbed</a> at a time.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Psionic Gift {data-scc=&#34;mcdm.heroes.v1/feature.trait.time-raider/psionic-gift&#34;}</p></div>
@@ -94,6 +94,6 @@ type: trait
 <div class="sc-ability__section-body"><p>### Unstoppable Mind</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your mind allows you to maintain your focus in any situation. You can&#39;t be made dazed.</p></div>
+<div class="sc-ability__section-body"><p>Your mind allows you to maintain your focus in any situation. You can&#39;t be made <a href="../../../../condition/dazed/">dazed</a>.</p></div>
 </div>
 </article>

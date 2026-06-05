@@ -48,6 +48,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can teleport yourself and each ally in the area to unoccupied spaces in the area.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/teleport/">teleport</a> yourself and each ally in the area to unoccupied spaces in the area.</p></div>
 </div>
 </article>

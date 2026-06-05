@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever the bear targets a creature with a strike that doesn&#39;t impose forced movement while rampaging, the bear can push the target up to a number of squares equal to the bear&#39;s Might score.</p></div>
+<div class="sc-ability__section-body"><p>Whenever the bear targets a creature with a strike that doesn&#39;t impose <a href="../../../../../../movement/forced-movement/">forced movement</a> while rampaging, the bear can push the target up to a number of squares equal to the bear&#39;s Might score.</p></div>
 </div>
 </article>

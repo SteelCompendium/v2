@@ -45,6 +45,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the target&#39;s next turn, any forced movement that affects the target has its distance increased by 2.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the target&#39;s next turn, any <a href="../../../../movement/forced-movement/">forced movement</a> that affects the target has its distance increased by 2.</p></div>
 </div>
 </article>

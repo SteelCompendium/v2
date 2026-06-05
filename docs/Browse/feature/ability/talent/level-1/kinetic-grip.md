@@ -43,7 +43,7 @@ type: ability
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 2 + R</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 4 + R</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 6 + R; prone</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 6 + R; <a href="../../../../../condition/prone/">prone</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">

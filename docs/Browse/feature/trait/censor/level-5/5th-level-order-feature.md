@@ -22,10 +22,10 @@ type: trait
 <div class="sc-ability__kw"><span class="sc-ability__chip">Order</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Exorcist</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Evil Revealed</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../evil-revealed/">Evil Revealed</a></div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your censor order grants you a feature, as shown on the 5th-Level Order Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/censor-order/">censor order</a> grants you a feature, as shown on the 5th-Level Order Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 5th-Level Order Features Table</p></div>
@@ -34,7 +34,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Evil Revealed {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-5/evil-revealed&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature&#39;s disguise or illusion, you can use your Judgment ability against them as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an edge on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature&#39;s disguise or illusion, you can use your <a href="../../../../ability/censor/level-1/judgment/">Judgment</a> ability against them as a free triggered action.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Prophecy {data-scc=&#34;mcdm.heroes.v1/feature.trait.censor.level-5/prophecy&#34;}</p></div>

@@ -29,7 +29,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Discipline</div></div>
 </div>
-<p class="sc-ability__flavor">You create a wall of ice.</p>
+<p class="sc-ability__flavor">You create a <a href="../wall-of-ice/">wall of ice</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">10 wall within 10</div></div>
@@ -37,6 +37,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall&#39;s squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M &lt; AVERAGE is slowed (save ends). Each enemy who is force moved into the wall and has M &lt; AVERAGE is restrained (save ends).</p></div>
+<div class="sc-ability__section-body"><p>You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall&#39;s squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M &lt; AVERAGE is <a href="../../../../../condition/slowed/">slowed</a> (save ends). Each enemy who is <a href="../../../../../movement/forced-movement/">force moved</a> into the wall and has M &lt; AVERAGE is <a href="../../../../../condition/restrained/">restrained</a> (save ends).</p></div>
 </div>
 </article>

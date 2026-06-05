@@ -46,11 +46,11 @@ type: ability
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + M damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + M damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + M damage; M &lt; STRONG bleeding (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + M damage; M &lt; STRONG <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is killed by this damage, or is winded or bleeding after taking this damage, you gain 2 surges.</p></div>
+<div class="sc-ability__section-body"><p>If the target is killed by this damage, or is winded or <a href="../../../../../condition/bleeding/">bleeding</a> after taking this damage, you gain 2 surges.</p></div>
 </div>
 </article>

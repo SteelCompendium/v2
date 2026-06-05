@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your talent tradition grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/talent-tradition/">talent tradition</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 6th-Level Chronopathy Abilities</p></div>
@@ -47,25 +47,25 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked prone.</p></div>
+<div class="sc-ability__section-body"><p>The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are <a href="../../../../../condition/prone/">knocked prone</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>This ability gains the Strike keyword as the vision hurts the target&#39;s psyche. You make a power roll, then are weakened (save ends).</p></div>
+<div class="sc-ability__section-body"><p>This ability gains the Strike keyword as the vision hurts the target&#39;s psyche. You make a power roll, then are <a href="../../../../../condition/weakened/">weakened</a> (save ends).</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Stasis Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-6/stasis-field&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next turn. Each object in the area is restrained and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.</p></div>
+<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next turn. Each object in the area is <a href="../../../../../condition/restrained/">restrained</a> and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Make a power roll that targets each enemy in the area.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>Any creature or object force moved in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects restrained in the area can be force moved. You are restrained until the effect ends.</p></div>
+<div class="sc-ability__section-body"><p>Any creature or object <a href="../../../../../movement/forced-movement/">force moved</a> in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects <a href="../../../../../condition/restrained/">restrained</a> in the area can be <a href="../../../../../movement/forced-movement/">force moved</a>. You are <a href="../../../../../condition/restrained/">restrained</a> until the effect ends.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 6th-Level Telekinesis Abilities</p></div>
@@ -89,7 +89,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The forced movement ignores stability. You take 2d6 damage and are weakened (save ends).</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../../movement/forced-movement/">forced movement</a> ignores stability. You take 2d6 damage and are <a href="../../../../../condition/weakened/">weakened</a> (save ends).</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 6th-Level Telepathy Abilities</p></div>

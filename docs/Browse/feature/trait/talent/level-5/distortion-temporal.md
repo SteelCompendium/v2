@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While you are not dying, time behaves irregularly around you in a 3 aura. That area is difficult terrain for enemies. Additionally, when an ally enters the area for the first time in a combat round or starts their turn there, they gain a +2 bonus to speed until the end of the turn.</p></div>
+<div class="sc-ability__section-body"><p>While you are not dying, time behaves irregularly around you in a 3 aura. That area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies. Additionally, when an ally enters the area for the first time in a combat round or starts their turn there, they gain a +2 bonus to speed until the end of the turn.</p></div>
 </div>
 </article>

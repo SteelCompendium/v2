@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While the wolf is rampaging, you and the wolf are surrounded by an aura of dread, and enemies who start their turn adjacent to you or the wolf who have P &lt; STRONG are frightened until the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>While the wolf is rampaging, you and the wolf are surrounded by an aura of dread, and enemies who start their turn adjacent to you or the wolf who have P &lt; STRONG are <a href="../../../../../../condition/frightened/">frightened</a> until the end of their next turn.</p></div>
 </div>
 </article>

@@ -23,6 +23,6 @@ type: trait
 <div class="sc-ability__section-body"><p>Your mind is an impenetrable palace that shields you from danger. You gain the following effects:</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- You can breathe even when there is no breathable air. - You have psychic immunity 10. - Creatures can&#39;t read your thoughts unless you allow them to. - Your Reason and Intuition are treated as 2 higher for the purpose of resisting the potency of abilities. - You can&#39;t be made taunted or frightened.</p></div>
+<div class="sc-ability__section-body"><p>- You can breathe even when there is no breathable air. - You have psychic immunity 10. - Creatures can&#39;t read your thoughts unless you allow them to. - Your Reason and Intuition are treated as 2 higher for the purpose of resisting the potency of abilities. - You can&#39;t be made <a href="../../../../../condition/taunted/">taunted</a> or <a href="../../../../../condition/frightened/">frightened</a>.</p></div>
 </div>
 </article>

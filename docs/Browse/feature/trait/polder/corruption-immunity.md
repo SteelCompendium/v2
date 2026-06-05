@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your innate shadow magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.</p></div>
+<div class="sc-ability__section-body"><p>Your innate <a href="../../../../class/shadow/">shadow</a> magic grants you resilience against the unnatural. You have corruption immunity equal to your level + 2.</p></div>
 </div>
 </article>

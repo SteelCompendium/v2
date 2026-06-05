@@ -20,7 +20,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and enchantment (see above) by performing a complex ritual as a respite activity. (*Quick Build:* Ward of Surprising Reactivity.)</p></div>
+<div class="sc-ability__section-body"><p>You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and <a href="../enchantment/">enchantment</a> (see above) by performing a complex ritual as a respite activity. (*Quick Build:* <a href="../ward-of-surprising-reactivity/">Ward of Surprising Reactivity</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Ward of Delightful Consequences {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-1/ward-of-delightful-consequences&#34;}</p></div>

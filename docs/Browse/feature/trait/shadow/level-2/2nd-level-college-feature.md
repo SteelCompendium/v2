@@ -22,10 +22,10 @@ type: trait
 <div class="sc-ability__kw"><span class="sc-ability__chip">College</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Black Ash</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Burning Ash</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../burning-ash/">Burning Ash</a></div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your shadow college grants you a feature, as shown on the 2nd-Level College Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/shadow-college/">shadow college</a> grants you a feature, as shown on the 2nd-Level College Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 2nd-Level College Features Table</p></div>
@@ -34,7 +34,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Burning Ash {data-scc=&#34;mcdm.heroes.v1/feature.trait.shadow.level-2/burning-ash&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to teleport away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.</p></div>
+<div class="sc-ability__section-body"><p>The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to <a href="../../../../../movement/teleport/">teleport</a> away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Friend! {data-scc=&#34;mcdm.heroes.v1/feature.trait.shadow.level-2/friend&#34;}</p></div>

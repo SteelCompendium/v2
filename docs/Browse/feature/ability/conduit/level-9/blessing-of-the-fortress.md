@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you by moving or by being force moved by any enemy. Targets can be force moved closer to you by you or your allies, or can move closer because of your movement.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you by moving or by being <a href="../../../../../movement/forced-movement/">force moved</a> by any enemy. Targets can be <a href="../../../../../movement/forced-movement/">force moved</a> closer to you by you or your allies, or can move closer because of your movement.</p></div>
 </div>
 </article>

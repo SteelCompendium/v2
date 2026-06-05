@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your connection to Axiom allows you to regulate your movement. You can&#39;t be made slowed.</p></div>
+<div class="sc-ability__section-body"><p>Your connection to Axiom allows you to regulate your movement. You can&#39;t be made <a href="../../../../condition/slowed/">slowed</a>.</p></div>
 </div>
 </article>

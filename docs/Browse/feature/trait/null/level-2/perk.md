@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: Perks.</p></div>
+<div class="sc-ability__section-body"><p>You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: <a href="../../../../../../Read/heroes/perks/">Perks</a>.</p></div>
 </div>
 </article>

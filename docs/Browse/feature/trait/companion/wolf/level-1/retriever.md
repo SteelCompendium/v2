@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>The wolf can move at full speed while they have a creature grabbed, no matter the grabbed creature&#39;s size.</p></div>
+<div class="sc-ability__section-body"><p>The wolf can move at full speed while they have a creature <a href="../../../../../../condition/grabbed/">grabbed</a>, no matter the <a href="../../../../../../condition/grabbed/">grabbed</a> creature&#39;s size.</p></div>
 </div>
 </article>

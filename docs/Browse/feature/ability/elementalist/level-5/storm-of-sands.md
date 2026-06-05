@@ -50,7 +50,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area lasts until the start of your next turn. It is difficult terrain for enemies, and you and your allies have concealment while in the area.</p></div>
+<div class="sc-ability__section-body"><p>The area lasts until the start of your next turn. It is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies, and you and your allies have concealment while in the area.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>

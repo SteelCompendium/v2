@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your jump distance and height double (see Movement Types in Chapter 10: Combat). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you land prone (see Falling in Chapter 10). You are not prone after falling and landing on another creature.</p></div>
+<div class="sc-ability__section-body"><p>Your jump distance and height double (see Movement Types in Chapter 10: <a href="../../../../../../Read/heroes/combat/">Combat</a>). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you <a href="../../../../../condition/prone/">land prone</a> (see Falling in Chapter 10). You <a href="../../../../../condition/prone/">are not prone</a> after falling and landing on another creature.</p></div>
 </div>
 </article>

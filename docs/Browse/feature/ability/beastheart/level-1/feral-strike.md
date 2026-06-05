@@ -61,6 +61,6 @@ type: ability
 <div class="sc-ability__section-body"><p>This ability gains the following benefit based on your wild nature.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- <b>Guardian:</b> Each enemy target is taunted by your companion until the start of your next turn. - <b>Prowler:</b> Each enemy target is weakened until the start of your next turn. - <b>Punisher:</b> Your companion slides each target up to a number of squares equal to their Might score. - <b>Spark:</b> This strike deals cold, fire, lightning, or sonic damage. You gain 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>- <b>Guardian:</b> Each enemy target is <a href="../../../../../condition/taunted/">taunted</a> by your companion until the start of your next turn. - <b>Prowler:</b> Each enemy target is <a href="../../../../../condition/weakened/">weakened</a> until the start of your next turn. - <b>Punisher:</b> Your companion slides each target up to a number of squares equal to their Might score. - <b>Spark:</b> This strike deals cold, fire, lightning, or sonic damage. You gain 1 surge.</p></div>
 </div>
 </article>

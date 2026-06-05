@@ -19,7 +19,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Memonek heroes have access to the following traits.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../ancestry/memonek/">Memonek</a> heroes have access to the following traits.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Signature Trait: Fall Lightly {data-scc=&#34;mcdm.heroes.v1/feature.trait.memonek/fall-lightly&#34;}</p></div>
@@ -61,7 +61,7 @@ type: trait
 <div class="sc-ability__section-body"><p>### Nonstop {data-scc=&#34;mcdm.heroes.v1/feature.trait.memonek/nonstop&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your connection to Axiom allows you to regulate your movement. You can&#39;t be made slowed.</p></div>
+<div class="sc-ability__section-body"><p>Your connection to Axiom allows you to regulate your movement. You can&#39;t be made <a href="../../../../condition/slowed/">slowed</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Systematic Mind {data-scc=&#34;mcdm.heroes.v1/feature.trait.memonek/systematic-mind&#34;}</p></div>

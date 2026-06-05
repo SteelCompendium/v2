@@ -40,5 +40,5 @@ type: ability
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>The target takes poison damage equal to 3 + the sporeling&#39;s Might score, and the sporeling is invisible to the target until the end of the sporeling&#39;s next turn or they deal damage to the target.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are dazed until the end of their next turn.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the target has M &lt; STRONG, they are <a href="../../../../../../condition/dazed/">dazed</a> until the end of their next turn.</span></div>
 </article>

@@ -48,7 +48,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your speed in a straight line, and enemy squares are not difficult terrain for this movement. You can end this movement in a creature&#39;s space and move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.</p></div>
+<div class="sc-ability__section-body"><p>You move up to your speed in a straight line, and enemy squares are not <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for this movement. You can end this movement in a creature&#39;s space and move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

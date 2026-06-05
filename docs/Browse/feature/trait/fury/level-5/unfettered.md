@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>At the start of your turn, you can end any restrained condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.</p></div>
+<div class="sc-ability__section-body"><p>At the start of your turn, you can end any <a href="../../../../../condition/restrained/">restrained</a> condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.</p></div>
 </div>
 </article>

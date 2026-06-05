@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While you are in your crow form, your size is 1T and you can fly. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can&#39;t use any abilities while in this form except for Aspect of the Wild.</p></div>
+<div class="sc-ability__section-body"><p>While you are in your crow form, your size is 1T and you can <a href="../../../../../movement/fly/">fly</a>. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can&#39;t use any abilities while in this form except for <a href="../../../../ability/fury/aspect-of-the-wild/">Aspect of the Wild</a>.</p></div>
 </div>
 </article>

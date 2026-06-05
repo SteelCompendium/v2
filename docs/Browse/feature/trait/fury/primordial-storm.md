@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Each stormwight kit is associated with a primordial storm, which channels a specific damage type used by some of your abilities.</p></div>
+<div class="sc-ability__section-body"><p>Each stormwight kit is associated with a <a href="../primordial-storm/">primordial storm</a>, which channels a specific damage type used by some of your abilities.</p></div>
 </div>
 </article>

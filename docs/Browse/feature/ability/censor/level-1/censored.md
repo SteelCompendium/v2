@@ -33,7 +33,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Wrath</div></div>
 </div>
-<p class="sc-ability__flavor">Judged and sentenced.</p>
+<p class="sc-ability__flavor">Judged and <a href="../../level-2/sentenced/">sentenced</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>

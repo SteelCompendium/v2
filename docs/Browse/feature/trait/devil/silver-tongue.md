@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: Tests), and you gain an edge on tests when attempting to discover an NPC&#39;s motivations and pitfalls during a negotiation (see Chapter 11: Negotiation).</p></div>
+<div class="sc-ability__section-body"><p>Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>), and you gain an edge on tests when attempting to discover an NPC&#39;s motivations and pitfalls during a negotiation (see Chapter 11: <a href="../../../../../Read/heroes/negotiation/">Negotiation</a>).</p></div>
 </div>
 </article>

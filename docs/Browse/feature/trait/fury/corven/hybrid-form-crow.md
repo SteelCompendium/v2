@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can fly.</p></div>
+<div class="sc-ability__section-body"><p>While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can <a href="../../../../../movement/fly/">fly</a>.</p></div>
 </div>
 </article>

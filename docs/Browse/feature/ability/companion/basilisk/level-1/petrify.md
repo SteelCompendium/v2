@@ -41,7 +41,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes corruption damage equal to 3 + the basilisk&#39;s Might score and is stoned (save ends) (see Stoned).</p></div>
+<div class="sc-ability__section-body"><p>The target takes corruption damage equal to 3 + the basilisk&#39;s Might score and is stoned (save ends) (see <a href="../../../../../trait/companion/basilisk/level-1/stoned/">Stoned</a>).</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">While stoned this way, the target is also slowed.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">While stoned this way, the target is also <a href="../../../../../../condition/slowed/">slowed</a>.</span></div>
 </article>

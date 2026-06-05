@@ -26,7 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your shadow college grants you a triggered action, as shown on the College Triggered Actions table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../shadow-college/">shadow college</a> grants you a triggered action, as shown on the College Triggered Actions table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### College Triggered Actions Table</p></div>
@@ -51,7 +51,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.</p></div>
+<div class="sc-ability__section-body"><p>You take half the triggering damage, then can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares after the triggering effect resolves. If you end this <a href="../../../../../movement/shifting/">shift</a> with concealment or cover, you can use the Hide maneuver even if you are observed.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### In All This Confusion {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-1/in-all-this-confusion&#34;}</p></div>
@@ -62,8 +62,8 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.</p></div>
+<div class="sc-ability__section-body"><p>You take half the damage, then can <a href="../../../../../movement/teleport/">teleport</a> up to 4 squares after the triggering effect resolves.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Insight</span><span class="txt">The potency of any effects associated with the damage are reduced by 1 for you.</span></div>
-<div class="sc-ability__enh"><span class="cost">Spend 1+ Insight</span><span class="txt">You teleport 1 additional square for each insight spent.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1+ Insight</span><span class="txt">You <a href="../../../../../movement/teleport/">teleport</a> 1 additional square for each insight spent.</span></div>
 </article>

@@ -21,6 +21,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While the drake is rampaging, you gain draconic wings and can fly. If you are midair when the drake&#39;s rampage ends, you take no damage from the fall. Additionally, you can use the drake&#39;s Drake Breath maneuver until their rampage ends.</p></div>
+<div class="sc-ability__section-body"><p>While the drake is rampaging, you gain draconic wings and can <a href="../../../../../../movement/fly/">fly</a>. If you are midair when the drake&#39;s rampage ends, you take no damage from the fall. Additionally, you can use the drake&#39;s Drake Breath maneuver until their rampage ends.</p></div>
 </div>
 </article>

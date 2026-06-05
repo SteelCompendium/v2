@@ -28,9 +28,9 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 corruption damage; I &lt; WEAK, prone and can&#39;t stand (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 corruption damage; I &lt; AVERAGE, prone and can&#39;t stand (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 corruption damage; I &lt; STRONG, prone and can&#39;t stand (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 corruption damage; I &lt; WEAK, <a href="../../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 corruption damage; I &lt; AVERAGE, <a href="../../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 corruption damage; I &lt; STRONG, <a href="../../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
@@ -41,7 +41,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free triggered action to move this effect to another creature within distance.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free <a href="../../level-1/triggered-action/">triggered action</a> to move this effect to another creature within distance.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Penance {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-5/penance&#34;}</p></div>

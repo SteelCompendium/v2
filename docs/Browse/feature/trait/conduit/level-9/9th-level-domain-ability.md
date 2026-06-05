@@ -28,13 +28,13 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + I corruption damage; A &lt; WEAK, weakened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + I corruption damage; A &lt; AVERAGE, weakened (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + I corruption damage; A &lt; STRONG, weakened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + I corruption damage; A &lt; WEAK, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + I corruption damage; A &lt; AVERAGE, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + I corruption damage; A &lt; STRONG, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level Conduit Domain Abilities table.</p></div>
+<div class="sc-ability__section-body"><p>Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level <a href="../../../../../class/conduit/">Conduit</a> Domain Abilities table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 9th-Level Conduit Domain Abilities Table</p></div>
@@ -58,14 +58,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you by moving or by being force moved by any enemy. Targets can be force moved closer to you by you or your allies, or can move closer because of your movement.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you by moving or by being <a href="../../../../../movement/forced-movement/">force moved</a> by any enemy. Targets can be <a href="../../../../../movement/forced-movement/">force moved</a> closer to you by you or your allies, or can move closer because of your movement.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Divine Dragon {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-9/divine-dragon&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can fly, stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.</p></div>
+<div class="sc-ability__section-body"><p>You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can <a href="../../../../../movement/fly/">fly</a>, stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.</p></div>
@@ -92,7 +92,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are prone.</p></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they <a href="../../../../../condition/prone/">are prone</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Righteous Phalanx {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-9/righteous-phalanx&#34;}</p></div>
@@ -109,7 +109,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While restrained this way, the target takes 10 damage at the start of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/restrained/">restrained</a> this way, the target takes 10 damage at the start of each of your turns.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Word of Final Redemption {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-9/word-of-final-redemption&#34;}</p></div>
@@ -127,6 +127,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While weakened this way, the target has damage weakness 10.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/weakened/">weakened</a> this way, the target has damage weakness 10.</p></div>
 </div>
 </article>

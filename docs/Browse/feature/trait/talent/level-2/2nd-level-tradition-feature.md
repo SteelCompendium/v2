@@ -22,10 +22,10 @@ type: trait
 <div class="sc-ability__kw"><span class="sc-ability__chip">Tradition</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Chronopathy</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Ease the Hours</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../ease-the-hours/">Ease the Hours</a></div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your talent tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/talent-tradition/">talent tradition</a> grants you a feature, as shown on the 2nd-Level Tradition Features table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 2nd-Level Tradition Features Table</p></div>

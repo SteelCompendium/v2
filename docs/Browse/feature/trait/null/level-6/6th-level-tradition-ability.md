@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your null tradition grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/null-tradition/">null tradition</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 6th-Level Chronokinetic Abilities</p></div>
@@ -54,7 +54,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can shift up to your speed, and squares occupied by enemies or objects are not difficult terrain for this shift. You make one power roll that targets each enemy you moved through during this shift.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to your speed, and squares occupied by enemies or objects are not <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for this <a href="../../../../../movement/shifting/">shift</a>. You make one power roll that targets each enemy you moved through during this <a href="../../../../../movement/shifting/">shift</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 6th-Level Cryokinetic Abilities</p></div>
@@ -67,14 +67,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The pillars vanish as soon as the effects of the forced movement are resolved.</p></div>
+<div class="sc-ability__section-body"><p>The pillars vanish as soon as the effects of the <a href="../../../../../movement/forced-movement/">forced movement</a> are resolved.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Wall of Ice {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-6/wall-of-ice&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall&#39;s squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M &lt; AVERAGE is slowed (save ends). Each enemy who is force moved into the wall and has M &lt; AVERAGE is restrained (save ends).</p></div>
+<div class="sc-ability__section-body"><p>You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall&#39;s squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M &lt; AVERAGE is <a href="../../../../../condition/slowed/">slowed</a> (save ends). Each enemy who is <a href="../../../../../movement/forced-movement/">force moved</a> into the wall and has M &lt; AVERAGE is <a href="../../../../../condition/restrained/">restrained</a> (save ends).</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 6th-Level Metakinetic Abilities</p></div>
@@ -87,7 +87,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature&#39;s space.</p></div>
+<div class="sc-ability__section-body"><p>This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your <a href="../../../../../movement/forced-movement/">force move</a>ment had ended, but you keep moving through that creature&#39;s space.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Iron Body {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-6/iron-body&#34;}</p></div>

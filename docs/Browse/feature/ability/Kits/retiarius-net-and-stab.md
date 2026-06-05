@@ -36,9 +36,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might or Agility</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M or A damage; A &lt; WEAK, slowed (EoT)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M or A damage; A &lt; AVERAGE, slowed (EoT)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M or A damage; A &lt; STRONG, restrained (EoT)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M or A damage; A &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (EoT)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M or A damage; A &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (EoT)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M or A damage; A &lt; STRONG, <a href="../../../../condition/restrained/">restrained</a> (EoT)</span></div>
 </div>
 </div>
 </article>

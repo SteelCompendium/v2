@@ -32,6 +32,6 @@ type: trait
 <div class="sc-ability__section-body"><p>## Medley</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can maintain two performances at a time using your Routines feature.</p></div>
+<div class="sc-ability__section-body"><p>You can maintain two performances at a time using your <a href="../../level-1/routines/">Routines</a> feature.</p></div>
 </div>
 </article>

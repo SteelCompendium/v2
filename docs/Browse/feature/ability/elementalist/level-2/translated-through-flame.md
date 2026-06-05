@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is teleported to another space within distance. Make a power roll that affects each enemy adjacent to the target&#39;s new space.</p></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../../../movement/teleport/">teleport</a>ed to another space within distance. Make a power roll that affects each enemy adjacent to the target&#39;s new space.</p></div>
 </div>
 </article>

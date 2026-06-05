@@ -27,7 +27,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Focus</div></div>
 </div>
-<p class="sc-ability__flavor">I had to pry this secret from the shadow colleges.</p>
+<p class="sc-ability__flavor">I had to pry this secret from the <a href="../../../../trait/shadow/level-1/shadow-college/">shadow college</a>s.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can shift up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.</p></div>
 </div>
 </article>

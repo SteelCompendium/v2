@@ -19,6 +19,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>A magic glamor makes others perceive you as interesting and engaging, granting you an edge on Presence tests using the Flirt or Persuade skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.</p></div>
+<div class="sc-ability__section-body"><p>A magic glamor makes others perceive you as interesting and engaging, granting you an edge on Presence tests using the <a href="../../../../skill/flirt/">Flirt</a> or <a href="../../../../skill/persuade/">Persuade</a> skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.</p></div>
 </div>
 </article>

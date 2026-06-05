@@ -41,7 +41,7 @@ type: ability
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature&#39;s speed is increased by 2 until the end of the encounter.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature can fly until the end of the encounter.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature can <a href="../../../../../movement/fly/">fly</a> until the end of the encounter.</span></div>
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature turns invisible until the end of their next turn.</span></div>
 </div>
 </div>

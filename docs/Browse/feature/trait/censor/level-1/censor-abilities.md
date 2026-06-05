@@ -40,7 +40,7 @@ type: trait
 <div class="sc-ability__section-body"><p>## Signature Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Your Allies Cannot Save You!)</p></div>
+<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* <a href="../../../../ability/censor/level-1/your-allies-cannot-save-you/">Your Allies Cannot Save You</a>!)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Back Blasphemer! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/back-blasphemer&#34;}</p></div>
@@ -72,7 +72,7 @@ type: trait
 <div class="sc-ability__section-body"><p>### 3-Wrath Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* The Gods Punish and Defend.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* <a href="../../../../ability/censor/level-1/the-gods-punish-and-defend/">The Gods Punish and Defend</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Behold a Shield of Faith! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith&#34;}</p></div>
@@ -86,7 +86,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can shift up to your speed in a straight line toward the target after pushing them.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to your speed in a straight line toward the target after pushing them.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### The Gods Punish and Defend {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/the-gods-punish-and-defend&#34;}</p></div>
@@ -102,21 +102,21 @@ type: trait
 <div class="sc-ability__section-body"><p>### 5-Wrath Ability</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* Purifying Fire.)</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* <a href="../../../../ability/censor/level-1/purifying-fire/">Purifying Fire</a>.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Arrest {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/arrest&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike&#39;s distance.</p></div>
+<div class="sc-ability__section-body"><p>If the target makes a strike against a creature while <a href="../../../../../condition/grabbed/">grabbed</a> this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike&#39;s distance.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Behold the Face of Justice! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/behold-the-face-of-justice&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy frightened this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.</p></div>
+<div class="sc-ability__section-body"><p>Each enemy <a href="../../../../../condition/frightened/">frightened</a> this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Censored {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/censored&#34;}</p></div>

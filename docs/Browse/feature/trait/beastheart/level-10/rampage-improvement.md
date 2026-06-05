@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your Rampage feature provides additional effects when your companion has 24 or more rampage.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/rampage/">Rampage</a> feature provides additional effects when your companion has 24 or more rampage.</p></div>
 </div>
 </article>

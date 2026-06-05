@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level Conduit Domain Abilities table.</p></div>
+<div class="sc-ability__section-body"><p>Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level <a href="../../../../../class/conduit/">Conduit</a> Domain Abilities table.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### 2nd-Level Conduit Domain Abilities Table</p></div>
@@ -95,7 +95,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever one target takes damage, the other target can use a free triggered action to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free triggered action to spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever one target takes damage, the other target can use a free <a href="../../level-1/triggered-action/">triggered action</a> to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free <a href="../../level-1/triggered-action/">triggered action</a> to spend a Recovery.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Saint&#39;s Tempest {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-2/saints-tempest&#34;}</p></div>

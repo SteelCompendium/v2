@@ -38,13 +38,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility or Presence</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Taunted (EoT); A &lt; WEAK, prone</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Taunted (EoT); A &lt; AVERAGE, prone</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Taunted (EoT); A &lt; STRONG, prone and can&#39;t stand (EoT)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../../../../condition/taunted/">Taunted</a> (EoT); A &lt; WEAK<a href="../../../../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../../../../condition/taunted/">Taunted</a> (EoT); A &lt; AVERAGE<a href="../../../../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../../../condition/taunted/">Taunted</a> (EoT); A &lt; STRONG, <a href="../../../../../condition/prone/">prone and</a> can&#39;t stand (EoT)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You shift up to your speed. You make one power roll that targets each enemy you move adjacent to during this shift.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your speed. You make one power roll that targets each enemy you move adjacent to during this <a href="../../../../../movement/shifting/">shift</a>.</p></div>
 </div>
 </article>

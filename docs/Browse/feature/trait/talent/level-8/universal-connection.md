@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>The range of your Telepathic Speech feature increases to anywhere on the same world.</p></div>
+<div class="sc-ability__section-body"><p>The range of your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature increases to anywhere on the same world.</p></div>
 </div>
 </article>

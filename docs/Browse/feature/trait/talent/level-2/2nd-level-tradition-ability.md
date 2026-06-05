@@ -34,7 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your talent tradition grants your choice of one of two heroic abilities.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/talent-tradition/">talent tradition</a> grants your choice of one of two heroic abilities.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## 2nd-Level Chronopathy Ability</p></div>
@@ -47,7 +47,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, each target gains a +5 bonus to speed, they can&#39;t be made dazed, and they can use an additional maneuver on their turn. If a target is already dazed, that condition ends for them.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, each target gains a +5 bonus to speed, they can&#39;t be made <a href="../../../../../condition/dazed/">dazed</a>, and they can use an additional maneuver on their turn. If a target is already <a href="../../../../../condition/dazed/">dazed</a>, that condition ends for them.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -75,7 +75,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The size of the burst increases by 1, and you are weakened until the end of your turn.</p></div>
+<div class="sc-ability__section-body"><p>The size of the burst increases by 1, and you are <a href="../../../../../condition/weakened/">weakened</a> until the end of your turn.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Levity and Gravity {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-2/levity-and-gravity&#34;}</p></div>
@@ -106,6 +106,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You take 1d6 damage and are weakened until the end of your turn.</p></div>
+<div class="sc-ability__section-body"><p>You take 1d6 damage and are <a href="../../../../../condition/weakened/">weakened</a> until the end of your turn.</p></div>
 </div>
 </article>
