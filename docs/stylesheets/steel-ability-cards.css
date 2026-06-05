@@ -82,7 +82,7 @@
 .sc-ability__crest { /* extends .sc-crest (the steel shield) */
   width: 3rem; height: 3.4rem; align-self: start; }
 .sc-ability__crest::before { inset: 1.5px; }
-.sc-ability__crest > .sc-ability__glyph { transform: translateY(-3px); } /* optical-center in shield (narrows downward) */
+.sc-ability__crest > .sc-ability__glyph { transform: translateY(-8px); } /* optical-center in shield (narrows downward) */
 .sc-ability__glyph { font-family: "DrawSteelGlyphs", sans-serif; font-size: 1.25rem; line-height: 1;
   color: var(--act); -webkit-font-smoothing: antialiased; }
 
