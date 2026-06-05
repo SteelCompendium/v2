@@ -15,7 +15,11 @@ jobs:
       - name: Check out the code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          # Shallow: gh-deploy (ghp-import) force-pushes a fresh gh-pages branch and
+          # needs no main history; full history was ~248s/run over an ~800MB repo. No
+          # build plugin (search/roamlinks/awesome-nav) reads git history.
+          # See v2/.repo-docs/decisions/2026-06-05-ci-deploy-build-time-perf.md.
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v5

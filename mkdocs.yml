@@ -35,6 +35,13 @@ theme:
     # displayed label is the folder/section title; the index page title is only
     # used on the page itself.
     - navigation.indexes
+    # Build-time perf: render only the active branch of the nav per page instead
+    # of the full 3,097-item tree on every page. Material rebuilds the whole nav
+    # per page (O(pages × nav-size)) — profiled as ~half the build; enabling prune
+    # cut a local `mkdocs build` from ~614s to ~222s (-64%). Top-level tabs stay
+    # via navigation.tabs. Incompatible only with navigation.expand (not used).
+    # See .repo-docs/decisions/2026-06-05-ci-deploy-build-time-perf.md.
+    - navigation.prune
     - search.suggest
     - search.highlight
     - navigation.instant
