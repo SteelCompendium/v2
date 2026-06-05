@@ -167,6 +167,10 @@
 .sc-card__stat .l { font-family: var(--md-small-header-font); font-variant: small-caps; font-size: .68rem;
   letter-spacing: .05em; color: var(--md-default-fg-color--lighter); margin-top: .1rem; line-height: 1.05; }
 .sc-card__stat.is-dmg .v { color: var(--fx-metal-bright); }
+/* A stat value carrying a tooltip (e.g. an abbreviated treasure Project Goal,
+   "45*") must rise above the card's stretched-link overlay so its native title
+   tooltip is reachable on hover. */
+.sc-card__stat .v.has-tip { position: relative; z-index: 1; cursor: help; }
 
 /* extra card pieces for the other index types. The field name (b) and its
    value read as two distinct registers — like the ancestry "Signature Trait"
@@ -186,6 +190,10 @@
 .sc-card__bd .is-drawback b { color: var(--sc-tier-low); }
 .sc-card__blurb { font-size: .82rem; color: var(--md-default-fg-color--light); line-height: 1.5; margin-top: .5rem; }
 .sc-card__flavor { font-size: .84rem; color: var(--md-default-fg-color--light); line-height: 1.5; margin-top: .55rem; text-wrap: pretty; }
+/* Treasure cards reserve a fixed 3-line flavor height (1.5 line-height × 3) so a
+   1-line and a 3-line descriptor produce the same overall card height. Overflow
+   is not hidden — a rare 4+ line descriptor simply grows past the reserve. */
+.sc-card__flavor--clamp { min-height: 4.5em; }
 /* class intro — the full first section (everything before "Basics"), rendered
    with its paragraph/blockquote structure intact */
 .sc-card__intro { font-size: .82rem; color: var(--md-default-fg-color--light); line-height: 1.5; margin-top: .6rem;
