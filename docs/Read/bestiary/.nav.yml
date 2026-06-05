@@ -1,3 +1,7 @@
 title: Bestiary
 nav:
   - index.md
+  - monster-basics.md
+  - monsters.md
+  - dynamic-terrain.md
+  - retainers.md
