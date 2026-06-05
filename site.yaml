@@ -12,20 +12,28 @@ docs_dir: ./docs
 
 # Books for per-book Read grouping. `key` matches the SCC prefix (substring
 # before the first '/'); `folder` is the URL slug; `label` is the display title;
-# `order` sets book ordering in the Read tab.
+# `order` sets book ordering in the Read tab. `icon` is the iconPaths key for the
+# book's card crest (see iconPaths in steel-etl internal/site/cards.go);
+# `description` is the blurb shown on the book card in the Books-tab landing.
 books:
   - key: mcdm.heroes.v1
     folder: heroes
     label: Heroes
     order: 1
+    icon: sword-cross
+    description: "The core rulebook — everything you need to build and play a hero: ancestries, classes, kits, careers, and the rules of play."
   - key: mcdm.beastheart.v1
     folder: beastheart
     label: Beastheart
     order: 2
+    icon: paw
+    description: The beastheart class and its companion — bond with a monstrous ally and fight as one.
   - key: mcdm.monsters.v1
     folder: bestiary
     label: Bestiary
     order: 3
+    icon: skull
+    description: Monsters and adversaries to challenge your heroes, with statblocks and encounter-building guidance.
 
 # Site sections (mapped to MkDocs tabs)
 sections:
