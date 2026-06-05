@@ -27,6 +27,14 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+    # Section index pages: attach a folder's index.md to the section header in
+    # the sidebar (and tabs), so e.g. the "Culture" section links straight to
+    # its index instead of rendering a redundant "Cultures" child entry. Every
+    # generated Browse/Read/Bestiary folder ships an index.md (cards.go), whose
+    # file.name == "index" makes Material's nav-item template pull it up. The
+    # displayed label is the folder/section title; the index page title is only
+    # used on the page itself.
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - navigation.instant
