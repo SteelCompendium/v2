@@ -10,6 +10,19 @@ type: trait
 
 ---
 
-You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.
-
-Additionally, whenever an ally within distance of your [Hurl Element](../../../ability/elementalist/level-1/hurl-element.md) ability is [force moved](../../../../movement/forced-movement.md), you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally's stability by an amount equal to the stability you lost. This change lasts until the end of the round.
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">The Mountain Does Not Move</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Additionally, whenever an ally within distance of your Hurl Element ability is force moved, you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally&#39;s stability by an amount equal to the stability you lost. This change lasts until the end of the round.</p></div>
+</div>
+</article>

@@ -10,26 +10,46 @@ type: trait
 
 ---
 
-Your [tactical doctrine](../level-1/tactical-doctrine.md) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
-
-### 2nd-Level Doctrine Features Table
-
-| Doctrine                    | Feature              |
-|-----------------------------|----------------------|
-| Insurgent                   | [Infiltration Tactics](infiltration-tactics.md) |
-| Mastermind                  | Goaded               |
-| Vanguard                    | [Melee Superiority](melee-superiority.md)    |
-
-## Goaded {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-2/goaded"}
-
-You have learned to leverage your marked foes' psychology and goad them into acting before they're tactically ready. Whenever a creature marked by you uses a strike that targets you or any ally within your line of effect, you can use a free triggered action to change one target of the strike to you or another ally within your line of effect. The new target must be within distance of the ability and within line of effect of the creature using it.
-
-## Infiltration Tactics {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-2/infiltration-tactics"}
-
-You have trained your squad to work together, stay silent, and wait for the opportune time to strike. Whenever you or any ally within 10 squares of you becomes hidden, that creature gains 1 surge.
-
-## Melee Superiority {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-2/melee-superiority"}
-
-After constant drills, you can more accurately anticipate an enemy's plan and thwart their attempts to move across the battlefield. Whenever you make an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.
-
-**Mark Benefit:** When a creature marked by you attempts to move or [shift](../../../../movement/shifting.md) within distance of your melee free strike, you can use a free triggered action and spend 2 focus to make a melee free strike against that creature.
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">2nd-Level Doctrine Feature</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Doctrine</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Insurgent</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Infiltration Tactics</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your tactical doctrine grants you a feature, as shown on the 2nd-Level Doctrine Features table.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### 2nd-Level Doctrine Features Table</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Goaded {data-scc=&#34;mcdm.heroes.v1/feature.trait.tactician.level-2/goaded&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You have learned to leverage your marked foes&#39; psychology and goad them into acting before they&#39;re tactically ready. Whenever a creature marked by you uses a strike that targets you or any ally within your line of effect, you can use a free triggered action to change one target of the strike to you or another ally within your line of effect. The new target must be within distance of the ability and within line of effect of the creature using it.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Infiltration Tactics {data-scc=&#34;mcdm.heroes.v1/feature.trait.tactician.level-2/infiltration-tactics&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You have trained your squad to work together, stay silent, and wait for the opportune time to strike. Whenever you or any ally within 10 squares of you becomes hidden, that creature gains 1 surge.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Melee Superiority {data-scc=&#34;mcdm.heroes.v1/feature.trait.tactician.level-2/melee-superiority&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>After constant drills, you can more accurately anticipate an enemy&#39;s plan and thwart their attempts to move across the battlefield. Whenever you make an opportunity attack, the target&#39;s speed is reduced to 0 until the end of the current turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>
+<div class="sc-ability__section-body"><p>When a creature marked by you attempts to move or shift within distance of your melee free strike, you can use a free triggered action and spend 2 focus to make a melee free strike against that creature.</p></div>
+</div>
+</article>

@@ -10,37 +10,56 @@ type: trait
 
 ---
 
-**Starting Characteristics:** You start with a Might of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristic scores:
-
-- 2, −1, −1
-- 1, 1, −1
-- 1, 0, 0
-
-**Weak Potency:** Might − 2
-
-**Average Potency:** Might − 1
-
-**Strong Potency:** Might
-
-**Starting Stamina at 1st Level:** 21
-
-**Stamina Gained at 2nd and Higher Levels:** 12
-
-**Recoveries:** 12
-
-**Skills:** You gain the [Animal Handling](../../../../skill/handle-animals.md) skill. Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* [Animal Handling](../../../../skill/handle-animals.md), [Navigate](../../../../skill/navigate.md), [Track](../../../../skill/track.md).)
-
-#### Beastheart Advancement Table
-
-| Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Abilities                 | Wild Nature Abilities |
-|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------------|
-| 1st   | [Wild Nature](wild-nature.md), [Companion](companion.md), [Heart of the Beast](heart-of-the-beast.md), [Feral Strike](../../../ability/beastheart/level-1/feral-strike.md), [Ferocity](ferocity.md), [Rampage](rampage.md), [Wild Nature Maneuver](wild-nature-maneuver.md), [Wild Nature Triggered Action](wild-nature-triggered-action.md), [Kit](kit.md), [Beastheart Abilities](beastheart-abilities.md) | Signature, 3, 5           | —                     |
-| 2nd   | [Perk](../level-2/perk.md), [Everyone’s Best Friend](../level-2/everyones-best-friend.md), [Wild Nature Feature](../level-2/2nd-level-wild-nature-feature.md), [Wild Nature Ability](../level-2/2nd-level-wild-nature-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Signature, 3, 5           | 5                     |
-| 3rd   | [Companion Advancement Feature](../level-3/companion-advancement-feature.md), [7-Ferocity Ability](../level-3/7-ferocity-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Signature, 3, 5, 7        | 5                     |
-| 4th   | [Characteristic Increase](../level-4/characteristic-increase.md), [Perk](../level-4/perk.md), [Rampage Improvement](../level-4/rampage-improvement.md), [Skill](../level-4/skill.md), [Unleash the Beast](../level-4/unleash-the-beast.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7        | 5                     |
-| 5th   | [Wild Nature Feature](../level-5/5th-level-wild-nature-feature.md), [9-Ferocity Ability](../level-5/9-ferocity-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Signature, 3, 5, 7, 9     | 5                     |
-| 6th   | [Perk](../level-6/perk.md), [Become the Beast](../level-6/become-the-beast.md), [Wild Nature Ability](../level-6/6th-level-wild-nature-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9     | 5, 9                  |
-| 7th   | [Characteristic Increase](../level-7/characteristic-increase.md), [Feral Heart](../level-7/feral-heart.md), [Rampage Improvement](../level-7/rampage-improvement.md), [Skill](../level-7/skill.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Signature, 3, 5, 7, 9     | 5, 9                  |
-| 8th   | [Wild Nature Feature](../level-8/8th-level-wild-nature-feature.md), [Perk](../level-8/perk.md), [11-Ferocity Ability](../level-8/11-ferocity-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9                  |
-| 9th   | [Avatar of the Green](../level-9/avatar-of-the-green.md), [Wild Nature Ability](../level-9/9th-level-wild-nature-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9, 11 | 5, 9, 11              |
-| 10th  | [Characteristic Increase](../level-10/characteristic-increase.md), [Companion Advancement Feature](../level-10/companion-advancement-feature.md), [Final Evolution](../level-10/final-evolution.md), [Perk](../level-10/perk.md), [Ferox](../level-10/ferox.md), [Rampage Improvement](../level-10/rampage-improvement.md), [Skill](../level-10/skill.md)                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9, 11 | 5, 9, 11              |
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">Basics</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Level</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1st</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Wild Nature, Companion, Heart of the Beast, Feral Strike, Ferocity, Rampage, Wild Nature Maneuver, Wild Nature Triggered Action, Kit, Beastheart Abilities</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Starting Characteristics</span></div>
+<div class="sc-ability__section-body"><p>You start with a Might of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristic scores:</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>- 2, −1, −1 - 1, 1, −1 - 1, 0, 0</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Weak Potency</span></div>
+<div class="sc-ability__section-body"><p>Might − 2</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Average Potency</span></div>
+<div class="sc-ability__section-body"><p>Might − 1</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strong Potency</span></div>
+<div class="sc-ability__section-body"><p>Might</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Starting Stamina at 1st Level</span></div>
+<div class="sc-ability__section-body"><p>21</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Stamina Gained at 2nd and Higher Levels</span></div>
+<div class="sc-ability__section-body"><p>12</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Recoveries</span></div>
+<div class="sc-ability__section-body"><p>12</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Skills</span></div>
+<div class="sc-ability__section-body"><p>You gain the Animal Handling skill. Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Animal Handling, Navigate, Track.)</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>#### Beastheart Advancement Table</p></div>
+</div>
+</article>

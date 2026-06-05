@@ -10,48 +10,50 @@ type: trait
 
 ---
 
-Choose one heroic ability from the following options, each of which costs 7 discipline to use.
-
-## Absorption Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/absorption-field"}
-
-
-*Your [null field](../level-1/null-field.md) absorbs kinetic energy.*
-
-| **Psionic** | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** Until the end of the encounter, the size of your [Null Field](../level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
-
-## Molecular Rearrangement Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/molecular-rearrangement-field"}
-
-
-*Your enemies' wounds open, your allies' wounds close.*
-
-| **Psionic** | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** Until the end of the encounter, the size of your [Null Field](../level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../../../../condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
-
-## Stabilizing Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/stabilizing-field"}
-
-
-*You project order, making it harder for your enemies to interfere with you and your allies.*
-
-| **Psionic** | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** Until the end of the encounter, the size of your [Null Field](../level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, you ignore [difficult terrain](../../../../movement/difficult-terrain.md) and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
-
-## Synapse Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/synapse-field"}
-
-
-*Attacks made by allies in your [null field](../level-1/null-field.md) disrupt your enemies' thoughts, causing psychic pain.*
-
-| **Psionic** | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** Until the end of the encounter, the size of your [Null Field](../level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">7-Discipline Ability</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your null field absorbs kinetic energy.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 discipline to use.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Absorption Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-3/absorption-field&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Molecular Rearrangement Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-3/molecular-rearrangement-field&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I &lt; AVERAGE and enters the area for the first time in a combat round or starts their turn there is bleeding (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Stabilizing Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-3/stabilizing-field&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, you ignore difficult terrain and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Synapse Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-3/synapse-field&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.</p></div>
+</div>
+</article>

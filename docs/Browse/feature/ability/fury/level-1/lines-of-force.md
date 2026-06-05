@@ -21,14 +21,28 @@ type: ability
 
 ---
 
-*You redirect the energy of motion.*
-
-| **Magic, Melee** |               **Triggered** |
-|------------------|----------------------------:|
-| **📏 Melee 1**   | **🎯 Self or one creature** |
-
-**Trigger:** The target would be [force moved](../../../../movement/forced-movement.md).
-
-**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. You become the source of the [forced movement](../../../../movement/forced-movement.md), determine the new target's destination, and can push the target instead of using the original [forced movement](../../../../movement/forced-movement.md) type. Additionally, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Might score.
-
-**Spend 1 Ferocity:** The [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to twice your Might score instead.
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Lines of Force</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You redirect the energy of motion.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target would be force moved.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can select a new target of the same size or smaller within distance to be force moved instead. You become the source of the forced movement, determine the new target&#39;s destination, and can push the target instead of using the original forced movement type. Additionally, the forced movement distance gains a bonus equal to your Might score.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The forced movement distance gains a bonus equal to twice your Might score instead.</span></div>
+</article>

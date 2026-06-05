@@ -10,28 +10,48 @@ type: trait
 
 ---
 
-Your [primordial aspect](../level-1/primordial-aspect.md) grants you a feature, as shown on the 3rd-Level Aspect Features table.
-
-### 3rd-Level Aspect Features Table
-
-| Aspect                    | Feature                  |
-|---------------------------|--------------------------|
-| Berserker                 | [Immovable Object](immovable-object.md)         |
-| Reaver                    | [See Through Their Tricks](see-through-their-tricks.md) |
-| Stormwight                | Nature's Knight          |
-
-## Immovable Object {data-scc="mcdm.heroes.v1/feature.trait.fury.level-3/immovable-object"}
-
-You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by [forced movement](../../../../movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../../../../condition/grabbed.md).
-
-Additionally, you have a bonus to stability equal to your Might score.
-
-## Nature's Knight {data-scc="mcdm.heroes.v1/feature.trait.fury.level-3/natures-knight"}
-
-You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.
-
-When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in [animal form](../../../../complication/animal-form.md) (see [Stormwight Kits](../stormwight-kits.md)).
-
-## See Through Their Tricks {data-scc="mcdm.heroes.v1/feature.trait.fury.level-3/see-through-their-tricks"}
-
-You have a double edge on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double edge on tests made to gamble!
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">3rd-Level Aspect Feature</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Aspect</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Berserker</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Immovable Object</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your primordial aspect grants you a feature, as shown on the 3rd-Level Aspect Features table.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### 3rd-Level Aspect Features Table</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Immovable Object {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-3/immovable-object&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be grabbed.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Additionally, you have a bonus to stability equal to your Might score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Nature&#39;s Knight {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-3/natures-knight&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in animal form (see Stormwight Kits).</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## See Through Their Tricks {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-3/see-through-their-tricks&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You have a double edge on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double edge on tests made to gamble!</p></div>
+</div>
+</article>

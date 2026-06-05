@@ -25,18 +25,35 @@ type: ability
 
 ---
 
-*You form a blade of mind energy and stab your target, invigorating yourself.*
-
-| **Animapathy, Melee, Psionic, Strike** |               **Main action** |
-|----------------------------------------|------------------------------:|
-| **📏 Melee 2**                         | **🎯 One creature or object** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 3 + P damage
-- **12-16:** 6 + P damage
-- **17+:** 9 + P damage
-
-**Effect:** You gain 1 surge.
-
-**Strained:** The target takes an extra 3 damage. You also take 3 damage that can't be reduced in any way.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Spirit Sword</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You form a blade of mind energy and stab your target, invigorating yourself.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Animapathy</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 2</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + P damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + P damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + P damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You gain 1 surge.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The target takes an extra 3 damage. You also take 3 damage that can&#39;t be reduced in any way.</p></div>
+</div>
+</article>

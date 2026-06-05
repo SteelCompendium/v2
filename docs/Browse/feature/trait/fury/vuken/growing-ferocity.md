@@ -10,15 +10,24 @@ type: trait
 
 ---
 
-As your ferocity grows, you gain benefits as noted on the [Vuken](../../../../kit/vuken.md) [Growing Ferocity](../boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
-
-## Vuken Growing Ferocity Table
-
-| Ferocity        | Benefit                                                                                                                                                                                                                          |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Knockback maneuver, you can target one additional creature.                                                                                                                                                 |
-| 4               | The first time on a turn that you push a creature or knock a [creature prone](../../../../condition/prone.md), you gain 1 surge.                                                                                                                                   |
-| 6               | You gain an edge on Agility tests and the Knockback maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time on a turn that you push a creature or knock a [creature prone](../../../../condition/prone.md), you gain 2 surges.                                                                                                                                  |
-| 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../../../../movement/forced-movement.md) on a target, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Agility score. |
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">Growing Ferocity</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ferocity</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Whenever you use the Knockback maneuver, you can target one additional creature.</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>As your ferocity grows, you gain benefits as noted on the Vuken Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Vuken Growing Ferocity Table</p></div>
+</div>
+</article>

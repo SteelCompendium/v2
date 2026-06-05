@@ -19,10 +19,23 @@ type: ability
 
 ---
 
-*Intense light is emitted from your body, healing your allies.*
-
-| **Magic, Ranged**  |    **Main action** |
-|--------------------|-------------------:|
-| **📏 Ranged 10**   | **🎯 Four allies** |
-
-**Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../../../../condition/prone.md).
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Radiance of Grace</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Piety</div></div>
+</div>
+<p class="sc-ability__flavor">Intense light is emitted from your body, healing your allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Four allies</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are prone.</p></div>
+</div>
+</article>

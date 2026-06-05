@@ -10,218 +10,126 @@ type: trait
 
 ---
 
-You use a blend of martial techniques and divine magic to attack your foes and defend your allies.
-
-## Signature Ability
-
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Your Allies Cannot Save You](../../../ability/censor/level-1/your-allies-cannot-save-you.md)!)
-
-### Back Blasphemer! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/back-blasphemer"}
-
-
-*You channel power through your weapon to repel foes.*
-
-| **Area, Magic, Melee, Weapon** |               **Main action** |
-|--------------------------------|------------------------------:|
-| **📏 2 cube within 1**         | **🎯 Each enemy in the area** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 2 holy damage; push 1
-- **12-16:** 4 holy damage; push 2
-- **17+:** 6 holy damage; push 3
-
-### Every Step... Death! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/every-step-death"}
-
-
-*You show your foe a glimpse of their fate after death.*
-
-| **Magic, Ranged, Strike** |               **Main action** |
-|---------------------------|------------------------------:|
-| **📏 Ranged 10**          |           **🎯 One creature** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 5 + P psychic damage
-- **12-16:** 7 + P psychic damage
-- **17+:** 10 + P psychic damage
-
-**Effect:** Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.
-
-### Halt Miscreant! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/halt-miscreant"}
-
-
-*You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
-
-| **Melee, Strike, Weapon**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 2 + M holy damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-- **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
-- **17+:** 7 + M holy damage; P < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
-
-### Your Allies Cannot Save You! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/your-allies-cannot-save-you"}
-
-
-*Your magic strike turns your foe's guilt into a burst of holy power.*
-
-| **Melee, Strike, Weapon**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 3 + M holy damage
-- **12-16:** 5 + M holy damage
-- **17+:** 8 + M holy damage
-
-**Effect:** Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your Presence score.
-
-## Heroic Abilities
-
-You call upon a number of heroic abilities, all of them bound to your wrath.
-
-### 3-Wrath Ability
-
-Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* [The Gods Punish and Defend](../../../ability/censor/level-1/the-gods-punish-and-defend.md).)
-
-### Behold a Shield of Faith! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith"}
-
-
-*A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
-
-| **Melee, Strike, Weapon**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 3 + M holy damage
-- **12-16:** 6 + M holy damage
-- **17+:** 9 + M holy damage
-
-**Effect:** Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you.
-
-### Driving Assault {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault"}
-
-
-*As you force your enemy back with your weapon, you use your faith to stay close.*
-
-| **Melee, Strike, Weapon**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 3 + M damage; push 1
-- **12-16:** 6 + M damage; push 3
-- **17+:** 9 + M damage; push 5
-
-**Effect:** You can [shift](../../../../movement/shifting.md) up to your speed in a straight line toward the target after pushing them.
-
-### The Gods Punish and Defend {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/the-gods-punish-and-defend"}
-
-
-*You channel holy energy to smite a foe and heal an ally.*
-
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 Melee 1**                   | **🎯 One creature or object** |
-
-**Power Roll + Might:**
-
-- **≤11:** 5 + M holy damage
-- **12-16:** 8 + M holy damage
-- **17+:** 11 + M holy damage
-
-**Effect:** You can spend a Recovery to allow yourself or one ally within 10 squares to regain Stamina equal to your recovery value.
-
-### Repent! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/repent"}
-
-
-*You conjure memories of their sins to harry your foes.*
-
-| **Magic, Ranged, Strike**  |    **Main action**  |
-|----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 5 + P holy damage; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-- **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-- **17+:** 11 + P holy damage; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
-
-### 5-Wrath Ability
-
-Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* [Purifying Fire](../../../ability/censor/level-1/purifying-fire.md).)
-
-### Arrest {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/arrest"}
-
-
-*"I got you, you son of a bitch."*
-
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 Melee 1**                   |           **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 6 + M holy damage; [grabbed](../../../../condition/grabbed.md)
-- **12-16:** 9 + M holy damage; [grabbed](../../../../condition/grabbed.md)
-- **17+:** 13 + M holy damage; [grabbed](../../../../condition/grabbed.md)
-
-**Effect:** If the target makes a strike against a creature while [grabbed](../../../../condition/grabbed.md) this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike's distance.
-
-### Behold the Face of Justice! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/behold-the-face-of-justice"}
-
-
-*You attack a foe and your enemies behold a vision of the true nature of your resolve.*
-
-| **Magic, Melee, Ranged, Strike, Weapon**  |               **Main action** |
-|-------------------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**                |           **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 3 + M holy damage; if the target has P < WEAK, each enemy within 2 squares of them is [frightened](../../../../condition/frightened.md) of you (save ends)
-- **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](../../../../condition/frightened.md) of you (save ends)
-- **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](../../../../condition/frightened.md) of you (save ends)
-
-**Effect:** Each enemy [frightened](../../../../condition/frightened.md) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.
-
-### Censored {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/censored"}
-
-
-*Judged and [sentenced](../../../ability/censor/level-2/sentenced.md).*
-
-| **Melee, Strike, Weapon**  |               **Main action** |
-|----------------------------|------------------------------:|
-| **📏 Melee 1**             |           **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 2 + M holy damage
-- **12-16:** 3 + M holy damage
-- **17+:** 5 + M holy damage
-
-**Effect:** When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.
-
-### Purifying Fire {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/purifying-fire"}
-
-
-*The gods judge, fire cleanses.*
-
-| **Magic, Melee, Ranged, Strike, Weapon**  |               **Main action** |
-|-------------------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**                |           **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 5 + M holy damage; M < WEAK, the target has fire weakness 3 (save ends)
-- **12-16:** 9 + M holy damage; M < AVERAGE, the target has fire weakness 5 (save ends)
-- **17+:** 12 + M holy damage; M < STRONG, the target has fire weakness 7 (save ends)
-
-**Effect:** While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Censor Abilities</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You channel power through your weapon to repel foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M holy damage; M &lt; WEAK, the target has fire weakness 3 (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + M holy damage; M &lt; AVERAGE, the target has fire weakness 5 (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + M holy damage; M &lt; STRONG, the target has fire weakness 7 (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You use a blend of martial techniques and divine magic to attack your foes and defend your allies.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Signature Ability</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Your Allies Cannot Save You!)</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Back Blasphemer! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/back-blasphemer&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Every Step... Death! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/every-step-death&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Halt Miscreant! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/halt-miscreant&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Your Allies Cannot Save You! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/your-allies-cannot-save-you&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your Presence score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Heroic Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You call upon a number of heroic abilities, all of them bound to your wrath.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### 3-Wrath Ability</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* The Gods Punish and Defend.)</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Behold a Shield of Faith! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Driving Assault {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can shift up to your speed in a straight line toward the target after pushing them.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### The Gods Punish and Defend {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/the-gods-punish-and-defend&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can spend a Recovery to allow yourself or one ally within 10 squares to regain Stamina equal to your recovery value.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Repent! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/repent&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### 5-Wrath Ability</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* Purifying Fire.)</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Arrest {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/arrest&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike&#39;s distance.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Behold the Face of Justice! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/behold-the-face-of-justice&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each enemy frightened this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Censored {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/censored&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Purifying Fire {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/purifying-fire&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.</p></div>
+</div>
+</article>

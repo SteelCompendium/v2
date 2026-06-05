@@ -10,208 +10,123 @@ type: trait
 
 ---
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [Witty Banter](../../../ability/troubadour/level-1/witty-banter.md).)
-
-## Artful Flourish {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/artful-flourish"}
-
-
-*And they said practicing fencing was a waste!*
-
-| **Melee, Strike, Weapon** |                 **Main action** |
-|---------------------------|--------------------------------:|
-| **📏 Melee 1**            | **🎯 Two creatures or objects** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 2 damage
-- **12-16:** 5 damage
-- **17+:** 7 damage
-
-**Effect:** You can [shift](../../../../movement/shifting.md) up to 3 squares.
-
-**Spend 2+ Drama:** You can target one additional creature or object for every 2 drama spent.
-
-## Cutting Sarcasm {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/cutting-sarcasm"}
-
-
-*There you are, radiating your usual charisma.*
-
-| **Magic, Ranged, Strike, Weapon** |     **Main action** |
-|-----------------------------------|--------------------:|
-| **📏 Ranged 10**                  | **🎯 One creature** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 2 + P psychic damage; P < WEAK, [bleeding](../../../../condition/bleeding.md) (save ends)
-- **12-16:** 5 + P psychic damage; P < AVERAGE, [bleeding](../../../../condition/bleeding.md) (save ends)
-- **17+:** 7 + P psychic damage; P < STRONG, [bleeding](../../../../condition/bleeding.md) (save ends)
-
-## Instigator {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/instigator"}
-
-
-*I didn't do it! What?*
-
-| **Melee, Strike, Weapon**             | **Main action** |
-|---------------------------------------|----------------:|
-| **📏 Melee 1**                        | **🎯 One creature** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 3 + P damage
-- **12-16:** 6 + P damage
-- **17+:** 9 + P damage
-
-**Effect:** The target is [taunted](../../../../condition/taunted.md) by you or a willing ally adjacent to you until the end of the target's next turn.
-
-## Witty Banter {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter"}
-
-
-*A lyrical (and physical) jab insults an enemy and inspires an ally.*
-
-| **Magic, Melee, Ranged, Strike** |     **Main action** |
-|----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**       | **🎯 One creature** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 4 + P psychic damage
-- **12-16:** 5 + P psychic damage
-- **17+:** 7 + P psychic damage
-
-**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
-
-**Spend 1 Drama:** The chosen ally can spend a Recovery.
-
-## Heroic Abilities
-
-You master a range of heroic abilities, all of which cost drama to empower them.
-
-### 3-Drama Ability
-
-Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* [Harsh Critic](../../../ability/troubadour/level-1/harsh-critic.md).)
-
-### Harsh Critic {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/harsh-critic"}
-
-
-*Just one bad review will ruin their day.*
-
-| **Magic, Melee, Ranged, Strike** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 7 + P sonic damage
-- **12-16:** 10 + P sonic damage
-- **17+:** 13 + P sonic damage
-
-**Effect:** The first time the target uses an ability before the start of your next turn, any effects from the ability's tier outcomes other than damage are negated for all targets. Ability effects that always happen regardless of the power roll work as usual.
-
-### Hypnotic Overtones {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones"}
-
-
-*You produce an entrancing note that twists the senses in a spectacular fashion.*
-
-| **Area, Magic** |               **Main action** |
-|-----------------|------------------------------:|
-| **📏 2 burst**  | **🎯 Each enemy in the area** |
-
-**Power Roll + Presence:**
-
-- **≤11:** Slide 1; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-- **12-16:** Slide 1; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-- **17+:** Slide 2; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
-
-**Spend 2+ Drama:** The size of the burst increases by 1 for every 2 drama spent.
-
-### Quick Rewrite {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite"}
-
-
-*You write something unexpected into the scene that hinders your enemy.*
-
-| **Area, Magic, Ranged**     |               **Main action** |
-|-----------------------------|------------------------------:|
-| **📏 3 cube within 10**     | **🎯 Each enemy in the area** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 4 damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-- **12-16:** 5 damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
-- **17+:** 6 damage; P < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
-
-**Effect:** The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
-
-### Upstage {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/upstage"}
-
-
-*As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
-
-| **Melee, Strike, Weapon** | **Maneuver** |
-|---------------------------|-------------:|
-| **📏 Self; see below**    |  **🎯 Self** |
-
-**Effect:** You [shift](../../../../movement/shifting.md) up to your speed. You make one power roll that targets each enemy you move adjacent to during this [shift](../../../../movement/shifting.md).
-
-**Power Roll + Agility or Presence:**
-
-- **≤11:** [Taunted](../../../../condition/taunted.md) (EoT); A < WEAK[, prone](../../../../condition/prone.md)
-- **12-16:** [Taunted](../../../../condition/taunted.md) (EoT); A < AVERAGE[, prone](../../../../condition/prone.md)
-- **17+:** [Taunted](../../../../condition/taunted.md) (EoT); A < STRONG, [prone and](../../../../condition/prone.md) can't stand (EoT)
-
-### 5-Drama Ability
-
-Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* [Dramatic Reversal](../../../ability/troubadour/level-1/dramatic-reversal.md).)
-
-### Dramatic Reversal {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-reversal"}
-
-
-*Give the audience a surprise.*
-
-| **Area, Magic** |                       **Main action** |
-|-----------------|--------------------------------------:|
-| **📏 3 burst**  | **🎯 Self and each ally in the area** |
-
-**Power Roll + Presence:**
-
-- **≤11:** The target can [shift](../../../../movement/shifting.md) 1 square and make a free strike.
-- **12-16:** The target can [shift](../../../../movement/shifting.md) up to 2 squares and make a free strike that gains an edge.
-- **17+:** The target can [shift](../../../../movement/shifting.md) up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.
-
-### Fake Your Death {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/fake-your-death"}
-
-
-*O happy dagger, this is thy sheath!*
-
-| **Magic**   | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to speed and you ignore [difficult terrain](../../../../movement/difficult-terrain.md). The illusion and your invisibility last until the end of your next turn, or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.
-
-### Flip the Script {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/flip-the-script"}
-
-
-*You try a different take on events, justifying the new locations everyone ended up in.*
-
-| **Area, Magic** |                       **Main action** |
-|-----------------|--------------------------------------:|
-| **📏 3 burst**  | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target can [teleport](../../../../movement/teleport.md) up to 5 squares. Any [teleport](../../../../movement/teleport.md)ed target who was [slowed](../../../../condition/slowed.md) is no longer [slowed](../../../../condition/slowed.md).
-
-### Method Acting {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/method-acting"}
-
-
-*They're so hurt by your performance, you start to believe it yourself.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 6 + A damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
-- **12-16:** 10 + A damage; P < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
-- **17+:** 14 + A damage; P < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
-
-**Effect:** You can become [bleeding](../../../../condition/bleeding.md) (save ends) to deal an extra 5 corruption damage to the target.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Signature Ability</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">And they said practicing fencing was a waste!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + A damage; P &lt; WEAK, weakened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + A damage; P &lt; AVERAGE, weakened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + A damage; P &lt; STRONG, weakened (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Witty Banter.)</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Artful Flourish {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/artful-flourish&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can shift up to 3 squares.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Cutting Sarcasm {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/cutting-sarcasm&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Instigator {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/instigator&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is taunted by you or a willing ally adjacent to you until the end of the target&#39;s next turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Witty Banter {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Heroic Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You master a range of heroic abilities, all of which cost drama to empower them.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### 3-Drama Ability</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* Harsh Critic.)</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Harsh Critic {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/harsh-critic&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The first time the target uses an ability before the start of your next turn, any effects from the ability&#39;s tier outcomes other than damage are negated for all targets. Ability effects that always happen regardless of the power roll work as usual.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Hypnotic Overtones {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Quick Rewrite {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The area is difficult terrain for enemies.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Upstage {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/upstage&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You shift up to your speed. You make one power roll that targets each enemy you move adjacent to during this shift.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### 5-Drama Ability</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* Dramatic Reversal.)</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Dramatic Reversal {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-reversal&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Fake Your Death {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/fake-your-death&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to speed and you ignore difficult terrain. The illusion and your invisibility last until the end of your next turn, or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Flip the Script {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/flip-the-script&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can teleport up to 5 squares. Any teleported target who was slowed is no longer slowed.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Method Acting {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/method-acting&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can become bleeding (save ends) to deal an extra 5 corruption damage to the target.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 2+ Drama</span><span class="txt">You can target one additional creature or object for every 2 drama spent.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">The chosen ally can spend a Recovery.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 2+ Drama</span><span class="txt">The size of the burst increases by 1 for every 2 drama spent.</span></div>
+</article>

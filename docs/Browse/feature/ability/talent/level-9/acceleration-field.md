@@ -24,18 +24,35 @@ type: ability
 
 ---
 
-*You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.*
-
-| **Chronopathy, Psionic, Ranged** |     **Main action** |
-|----------------------------------|--------------------:|
-| **📏 Ranged 5**                  | **🎯 Three allies** |
-
-**Effect:** Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.
-
-**Strained:** Make a power roll that targets you and each enemy within distance.
-
-**Power Roll + Presence:**
-
-- **≤11:** 4 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
-- **12-16:** 6 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
-- **17+:** 10 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Acceleration Field</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Clarity</div></div>
+</div>
+<p class="sc-ability__flavor">You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three allies</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 corruption damage; slowed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 corruption damage; slowed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 corruption damage; slowed (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>Make a power roll that targets you and each enemy within distance.</p></div>
+</div>
+</article>

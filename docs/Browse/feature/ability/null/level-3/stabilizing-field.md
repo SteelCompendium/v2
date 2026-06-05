@@ -18,10 +18,23 @@ type: ability
 
 ---
 
-*You project order, making it harder for your enemies to interfere with you and your allies.*
-
-| **Psionic** | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** Until the end of the encounter, the size of your [Null Field](../../../trait/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, you ignore [difficult terrain](../../../../movement/difficult-terrain.md) and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Stabilizing Field</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">7</span> Discipline</div></div>
+</div>
+<p class="sc-ability__flavor">You project order, making it harder for your enemies to interfere with you and your allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, you ignore difficult terrain and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.</p></div>
+</div>
+</article>

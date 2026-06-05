@@ -18,10 +18,23 @@ type: ability
 
 ---
 
-*You direct your squad to strike in unison and with devastating effect.*
-
-| **Ranged**       |     **Main action** |
-|------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 Three allies** |
-
-**Effect:** Each target gains 1 surge and can use a signature ability as a free triggered action. That ability gains an edge on the power roll and increases the potency of any potency effects by 1.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Floodgates Open</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Focus</div></div>
+</div>
+<p class="sc-ability__flavor">You direct your squad to strike in unison and with devastating effect.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three allies</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target gains 1 surge and can use a signature ability as a free triggered action. That ability gains an edge on the power roll and increases the potency of any potency effects by 1.</p></div>
+</div>
+</article>

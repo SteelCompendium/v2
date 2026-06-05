@@ -24,16 +24,31 @@ type: ability
 
 ---
 
-*They're so hurt by your performance, you start to believe it yourself.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 6 + A damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
-- **12-16:** 10 + A damage; P < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
-- **17+:** 14 + A damage; P < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
-
-**Effect:** You can become [bleeding](../../../../condition/bleeding.md) (save ends) to deal an extra 5 corruption damage to the target.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Method Acting</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Drama</div></div>
+</div>
+<p class="sc-ability__flavor">They&#39;re so hurt by your performance, you start to believe it yourself.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + A damage; P &lt; WEAK, weakened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + A damage; P &lt; AVERAGE, weakened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + A damage; P &lt; STRONG, weakened (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can become bleeding (save ends) to deal an extra 5 corruption damage to the target.</p></div>
+</div>
+</article>

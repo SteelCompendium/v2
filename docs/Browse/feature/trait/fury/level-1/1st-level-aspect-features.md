@@ -10,36 +10,60 @@ type: trait
 
 ---
 
-Your [primordial aspect](primordial-aspect.md) grants you two features, as shown on the 1st-Level Aspect Features table.
-
-### 1st-Level Aspect Features Table
-
-| Aspect     | Feature                        |
-|------------|--------------------------------|
-| Berserker  | Kit, [Primordial Strength](primordial-strength.md)       |
-| Reaver     | Kit, [Primordial Cunning](primordial-cunning.md)        |
-| Stormwight | [Beast Shape](beast-shape.md), [Relentless Hunter](relentless-hunter.md) |
-
-## Beast Shape {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/beast-shape"}
-
-You can use and gain the benefits of a stormwight kit (see [Stormwight Kits](../stormwight-kits.md)). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../boren/growing-ferocity.md) feature.
-
-## Kit {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/kit"}
-
-You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../../../../Read/heroes/kits.md) for more information. (*Quick Build:* [Panther](../../../../kit/panther.md).)
-
-## Primordial Cunning {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/primordial-cunning"}
-
-You are never surprised. Additionally, whenever you would push a target with [forced movement](../../../../movement/forced-movement.md), you can slide them instead.
-
-As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
-
-## Primordial Strength {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/primordial-strength"}
-
-Whenever you damage an object with a weapon strike, the strike deals extra damage equal to your Might score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your Might score.
-
-As your ferocity grows, you gain benefits as noted on the Berserker [Growing Ferocity](../boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
-
-## Relentless Hunter {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/relentless-hunter"}
-
-You gain an edge on tests made using the [Track](../../../../skill/track.md) skill.
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">1st-Level Aspect Features</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Aspect</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Berserker</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Kit, Primordial Strength</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your primordial aspect grants you two features, as shown on the 1st-Level Aspect Features table.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### 1st-Level Aspect Features Table</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Beast Shape {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-1/beast-shape&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You can use and gain the benefits of a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including benefits tied to your Growing Ferocity feature.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Kit {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-1/kit&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* Panther.)</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Primordial Cunning {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-1/primordial-cunning&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>As your ferocity grows, you gain benefits as noted on the Reaver Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Primordial Strength {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-1/primordial-strength&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Whenever you damage an object with a weapon strike, the strike deals extra damage equal to your Might score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your Might score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>As your ferocity grows, you gain benefits as noted on the Berserker Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Relentless Hunter {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-1/relentless-hunter&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You gain an edge on tests made using the Track skill.</p></div>
+</div>
+</article>

@@ -25,18 +25,35 @@ type: ability
 
 ---
 
-*You advance an enemy's age for a moment.*
-
-| **Chronopathy, Psionic, Ranged, Strike** |               **Main action** |
-|------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                         | **🎯 One creature or object** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 2 + P corruption damage; P < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-- **12-16:** 3 + P corruption damage; P < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
-- **17+:** 5 + P corruption damage; P < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
-
-**Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
-
-**Strained:** You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the power roll.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Entropic Bolt</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
+</div>
+<p class="sc-ability__flavor">You advance an enemy&#39;s age for a moment.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + P corruption damage; P &lt; WEAK, slowed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + P corruption damage; P &lt; AVERAGE, slowed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 + P corruption damage; P &lt; STRONG, slowed (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the power roll.</p></div>
+</div>
+</article>

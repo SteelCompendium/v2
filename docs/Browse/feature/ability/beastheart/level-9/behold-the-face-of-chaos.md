@@ -27,16 +27,31 @@ type: ability
 
 ---
 
-*Your companion appears next to their victim in the guise of a heart-stopping nightmare.*
-
-| **Companion, Magic, Melee, Strike, Weapon** | **Main action** |
-|---------------------------------------------|----------------:|
-| **📏 Melee 1**                              | **🎯 One creature** |
-
-**Effect:** Your companion [teleports](../../../../movement/teleport.md) up to their speed.
-
-**Power Roll + Intuition:**
-
-- **≤11:** 13 + I psychic damage; P < WEAK [frightened](../../../../condition/frightened.md) (save ends)
-- **12-16:** 20 + I psychic damage; P < AVERAGE [frightened](../../../../condition/frightened.md) (save ends)
-- **17+:** 27 + I psychic damage; P < STRONG [frightened](../../../../condition/frightened.md) (save ends)
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Behold the Face of Chaos</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Ferocity</div></div>
+</div>
+<p class="sc-ability__flavor">Your companion appears next to their victim in the guise of a heart-stopping nightmare.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">13 + I psychic damage; P &lt; WEAK frightened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">20 + I psychic damage; P &lt; AVERAGE frightened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">27 + I psychic damage; P &lt; STRONG frightened (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Your companion teleports up to their speed.</p></div>
+</div>
+</article>

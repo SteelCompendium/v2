@@ -10,122 +10,110 @@ type: trait
 
 ---
 
-Your [talent tradition](../level-1/talent-tradition.md) grants your choice of one of two heroic abilities.
-
-## 9th-Level Chronopathy Abilities
-
-Choose one of the following abilities.
-
-### Acceleration Field {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field"}
-
-
-*You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.*
-
-| **Chronopathy, Psionic, Ranged** |     **Main action** |
-|----------------------------------|--------------------:|
-| **📏 Ranged 5**                  | **🎯 Three allies** |
-
-**Effect:** Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.
-
-**Strained:** Make a power roll that targets you and each enemy within distance.
-
-**Power Roll + Presence:**
-
-- **≤11:** 4 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
-- **12-16:** 6 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
-- **17+:** 10 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
-
-### Borrow From the Future {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/borrow-from-the-future"}
-
-
-*You lean on future heroism to assist you in the now.*
-
-| **Area, Chronopathy, Psionic** |                 **Maneuver** |
-|--------------------------------|-----------------------------:|
-| **📏 2 burst**                 | **🎯 Each ally in the area** |
-
-**Effect:** The targets share 6 of their Heroic Resource among themselves, as you determine. A target can't gain more than 3 of their Heroic Resource this way. After using this ability, you can't gain any clarity until the end of the next combat round.
-
-## 9th-Level Telekinesis Abilities
-
-Choose one of the following abilities.
-
-### Fulcrum {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/fulcrum"}
-
-
-*You precisely manipulate the creatures around you.*
-
-| **Area, Psionic, Telekinesis** |                          **Main action** |
-|--------------------------------|-----------------------------------------:|
-| **📏 Special**                 | **🎯 Each enemy and object in the area** |
-
-**Effect:** Make a power roll to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of size 1L or smaller.
-
-**Power Roll + Reason:**
-
-- **≤11:** 2 burst
-- **12-16:** 3 burst
-- **17+:** 4 burst
-
-**Strained:** You can choose to reduce the size of the burst by 2 (to a minimum of 1 burst) to give the [forced movement](../../../../movement/forced-movement.md) distance a +2 bonus. You take half the total damage all targets take from [forced movement](../../../../movement/forced-movement.md).
-
-### Gravitic Nova {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/gravitic-nova"}
-
-
-*Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.*
-
-| **Area, Psionic, Telekinesis** |                          **Main action** |
-|--------------------------------|-----------------------------------------:|
-| **📏 3 burst**                 | **🎯 Each enemy and object in the area** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 6 damage; push 7
-- **12-16:** 9 damage; push 10
-- **17+:** 13 damage; push 15
-
-**Effect:** On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
-
-**Strained:** You are [weakened](../../../../condition/weakened.md) (save ends). If you scored a critical hit with this ability, you die.
-
-## 9th-Level Telepathy Abilities
-
-Choose one of the following abilities.
-
-### Resonant Mind Spike {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/resonant-mind-spike"}
-
-
-*You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.*
-
-| **Psionic, Ranged, Strike, Telepathy** |     **Main action** |
-| ------------------------------------|--------------------:|
-| **📏 Ranged 10**  | **🎯 One creature** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 15 + R psychic damage
-- **12-16:** 24 + R psychic damage
-- **17+:** 28 + R psychic damage
-
-**Effect:** This ability ignores cover and concealment.
-
-**Strained:** The ability roll scores a critical hit on a natural 17 or higher. You take half the damage the target takes, and you can't reduce this damage in any way.
-
-### Synaptic Terror {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/synaptic-terror"}
-
-
-*You project a terrifying image into the brains of your foes, and their fear psionically invigorates your allies.*
-
-| **Area, Psionic, Telepathy** |                        **Main action** |
-|------------------------------|---------------------------------------:|
-| **📏 3 burst**               | **🎯 Each ally and enemy in the area** |
-
-**Effect:** You and each target ally can't obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability's power roll.
-
-**Power Roll + Reason:**
-
-- **≤11:** R < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
-- **12-16:** R < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
-- **17+:** R < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
-
-**Strained:** You can't use this ability if doing so would cause you to have negative clarity.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">9th-Level Tradition Ability</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally and enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">R &lt; WEAK, frightened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">R &lt; AVERAGE, frightened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">R &lt; STRONG, frightened (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your talent tradition grants your choice of one of two heroic abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 9th-Level Chronopathy Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Acceleration Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>Make a power roll that targets you and each enemy within distance.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Borrow From the Future {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/borrow-from-the-future&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The targets share 6 of their Heroic Resource among themselves, as you determine. A target can&#39;t gain more than 3 of their Heroic Resource this way. After using this ability, you can&#39;t gain any clarity until the end of the next combat round.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 9th-Level Telekinesis Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Fulcrum {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/fulcrum&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Make a power roll to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of size 1L or smaller.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You can choose to reduce the size of the burst by 2 (to a minimum of 1 burst) to give the forced movement distance a +2 bonus. You take half the total damage all targets take from forced movement.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Gravitic Nova {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/gravitic-nova&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You are weakened (save ends). If you scored a critical hit with this ability, you die.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 9th-Level Telepathy Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Resonant Mind Spike {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/resonant-mind-spike&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>This ability ignores cover and concealment.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>The ability roll scores a critical hit on a natural 17 or higher. You take half the damage the target takes, and you can&#39;t reduce this damage in any way.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Synaptic Terror {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/synaptic-terror&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You and each target ally can&#39;t obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability&#39;s power roll.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You can&#39;t use this ability if doing so would cause you to have negative clarity.</p></div>
+</div>
+</article>

@@ -9,32 +9,58 @@ type: trait
 
 ---
 
-[Orc](../../../ancestry/orc.md) heroes have access to the following traits.
-
-## Signature Trait: Relentless {data-scc="mcdm.heroes.v1/feature.trait.orc/relentless"}
-
-Whenever a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
-
-## Purchased Orc Traits
-
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing Recovery, Grounded.)
-
-### Bloodfire Rush {data-scc="mcdm.heroes.v1/feature.trait.orc/bloodfire-rush"}
-
-The magic coursing through your veins makes you run faster in the heat of battle. The first time in any combat round that you take damage, you gain a +2 bonus to speed until the end of the round.
-
-### Glowing Recovery {data-scc="mcdm.heroes.v1/feature.trait.orc/glowing-recovery"}
-
-Your bloodfire allows you to regain your strength quicker than others. Whenever you use the Catch Breath maneuver, you can spend as many Recoveries as you like.
-
-### Grounded {data-scc="mcdm.heroes.v1/feature.trait.orc/grounded"}
-
-The magic in your blood makes it difficult for others to move you. You have a +1 bonus to stability.
-
-### Nonstop {data-scc="mcdm.heroes.v1/feature.trait.orc/nonstop"}
-
-Your bloodfire supplies you with a constant rush of adrenaline. You can't be made [slowed](../../../condition/slowed.md).
-
-### Passionate Artisan {data-scc="mcdm.heroes.v1/feature.trait.orc/passionate-artisan"}
-
-When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the crafting skill group, whether you have those skills or not. Whenever you make a project roll for a crafting project that uses these skills, you gain a +2 bonus to the roll.
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">Orc Traits</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Orc heroes have access to the following traits.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Signature Trait: Relentless {data-scc=&#34;mcdm.heroes.v1/feature.trait.orc/relentless&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Whenever a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Purchased Orc Traits</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing Recovery, Grounded.)</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Bloodfire Rush {data-scc=&#34;mcdm.heroes.v1/feature.trait.orc/bloodfire-rush&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>The magic coursing through your veins makes you run faster in the heat of battle. The first time in any combat round that you take damage, you gain a +2 bonus to speed until the end of the round.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Glowing Recovery {data-scc=&#34;mcdm.heroes.v1/feature.trait.orc/glowing-recovery&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your bloodfire allows you to regain your strength quicker than others. Whenever you use the Catch Breath maneuver, you can spend as many Recoveries as you like.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Grounded {data-scc=&#34;mcdm.heroes.v1/feature.trait.orc/grounded&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>The magic in your blood makes it difficult for others to move you. You have a +1 bonus to stability.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Nonstop {data-scc=&#34;mcdm.heroes.v1/feature.trait.orc/nonstop&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your bloodfire supplies you with a constant rush of adrenaline. You can&#39;t be made slowed.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Passionate Artisan {data-scc=&#34;mcdm.heroes.v1/feature.trait.orc/passionate-artisan&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the crafting skill group, whether you have those skills or not. Whenever you make a project roll for a crafting project that uses these skills, you gain a +2 bonus to the roll.</p></div>
+</div>
+</article>

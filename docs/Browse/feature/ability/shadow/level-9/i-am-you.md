@@ -19,10 +19,23 @@ type: ability
 
 ---
 
-*Your mask reflects your foe's face. Surely they won't need it much longer.*
-
-| **Magic, Ranged** |            **Maneuver** |
-|-------------------|------------------------:|
-| **📏 Ranged 10**  |     **🎯 One creature** |
-
-**Effect:** Until the end of the encounter, you gain the target's damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target's signature ability, using their bonus for the power roll.
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">I Am You</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Insight</div></div>
+</div>
+<p class="sc-ability__flavor">Your mask reflects your foe&#39;s face. Surely they won&#39;t need it much longer.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, you gain the target&#39;s damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target&#39;s signature ability, using their bonus for the power roll.</p></div>
+</div>
+</article>

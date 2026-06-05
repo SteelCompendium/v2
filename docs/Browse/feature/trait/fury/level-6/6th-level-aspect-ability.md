@@ -10,112 +10,102 @@ type: trait
 
 ---
 
-Your [primordial aspect](../level-1/primordial-aspect.md) grants your choice of one of two heroic abilities.
-
-## 6th-Level Berserker Abilities
-
-Choose one of the following abilities.
-
-### Avalanche Impact {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/avalanche-impact"}
-
-
-*You leap and crash down, causing a shockwave that devastates foes.*
-
-| **Magic**   | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** You jump up to your maximum jump distance and make one power roll that targets each creature adjacent to the space where you land.
-
-**Power Roll + Might:**
-
-- **≤11:** 4 damage; push 1
-- **12-16:** 7 damage; push 2
-- **17+:** 11 damage; push 3
-
-### Force of Storms {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/force-of-storms"}
-
-
-*You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 7 + M damage; push 3
-- **12-16:** 11 + M damage; push 5
-- **17+:** 16 + M damage; push 7
-
-**Effect:** When the target ends this [forced movement](../../../../movement/forced-movement.md), each creature within 2 squares of the target is pushed 3 squares.
-
-## 6th-Level Reaver Abilities
-
-Choose one of the following abilities.
-
-### Death Strike {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/death-strike"}
-
-
-*Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.*
-
-| **Melee, Strike, Weapon** | **Free triggered** |
-|---------------------------|-------------------:|
-| **📏 Melee 1**            |        **🎯 Self** |
-
-**Trigger:** You reduce a creature to 0 Stamina with a strike.
-
-**Effect:** You target a creature adjacent to you with the same strike, using the same power roll as the triggering strike.
-
-### Seek and Destroy {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/seek-and-destroy"}
-
-
-*You break through the enemy lines to make an example.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Effect:** You [shift](../../../../movement/shifting.md) up to your speed.
-
-**Power Roll + Might:**
-
-- **≤11:** 4 + M damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
-- **12-16:** 6 + M damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
-- **17+:** 10 + M damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
-
-**Effect:** If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P < AVERAGE, they are [frightened](../../../../condition/frightened.md) of you (save ends).
-
-## 6th-Level Stormwight Abilities
-
-Choose one of the following abilities.
-
-### Pounce {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/pounce"}
-
-
-*You strike at the target like the ultimate predator you are.*
-
-| **Magic, Melee, Strike, Weapon** |     **Main action** |
-|----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 8 damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
-- **12-16:** 13 damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
-- **17+:** 17 damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
-
-**Effect:** You can [shift](../../../../movement/shifting.md) up to 4 squares, bringing the target with you. While [grabbed](../../../../condition/grabbed.md) this way, the target takes damage equal to twice your Might score at the start of each of your turns.
-
-### Riders on the Storm {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/riders-on-the-storm"}
-
-
-*You focus your connection to the Primordial Chaos into a seething storm.*
-
-| **Area, Magic** |                     **Maneuver** |
-|-----------------|---------------------------------:|
-| **📏 3 aura**   | **🎯 Each creature in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can [fly](../../../../movement/fly.md) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](../../../../movement/fly.md) until the start of their next turn or until the effect ends.
-
-**Special:** When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a [primordial storm](../primordial-storm.md) that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">6th-Level Aspect Ability</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You leap and crash down, causing a shockwave that devastates foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 damage; M &lt; WEAK, grabbed</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 damage; M &lt; AVERAGE, grabbed</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 damage; M &lt; STRONG, grabbed</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your primordial aspect grants your choice of one of two heroic abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 6th-Level Berserker Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Avalanche Impact {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/avalanche-impact&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You jump up to your maximum jump distance and make one power roll that targets each creature adjacent to the space where you land.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Force of Storms {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/force-of-storms&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>When the target ends this forced movement, each creature within 2 squares of the target is pushed 3 squares.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 6th-Level Reaver Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Death Strike {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/death-strike&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>You reduce a creature to 0 Stamina with a strike.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You target a creature adjacent to you with the same strike, using the same power roll as the triggering strike.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Seek and Destroy {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/seek-and-destroy&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You shift up to your speed.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P &lt; AVERAGE, they are frightened of you (save ends).</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 6th-Level Stormwight Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Pounce {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/pounce&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can shift up to 4 squares, bringing the target with you. While grabbed this way, the target takes damage equal to twice your Might score at the start of each of your turns.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Riders on the Storm {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/riders-on-the-storm&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can fly while the aura is active. Each ally target who starts or ends their turn in the area can also fly until the start of their next turn or until the effect ends.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
+<div class="sc-ability__section-body"><p>When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a primordial storm that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.</p></div>
+</div>
+</article>

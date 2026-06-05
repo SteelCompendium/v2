@@ -20,12 +20,27 @@ type: ability
 
 ---
 
-*You disrupt an enemy's strike and create a [feedback loop](../../talent/level-1/feedback-loop.md) in their mind, preventing them from focusing on future attacks.*
-
-| **Psionic**            |           **Free triggered** |
-|------------------------|-----------------------------:|
-| **📏 Self; see below** |  **🎯 Self or one creature** |
-
-**Trigger:** The target takes damage from another creature's ability while in the area of your [Null Field](../../../trait/null/level-1/null-field.md) ability.
-
-**Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../condition/dazed.md) (save ends). While the triggering creature is [dazed](../../../../condition/dazed.md) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Synaptic Anchor</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Discipline</div></div>
+</div>
+<p class="sc-ability__flavor">You disrupt an enemy&#39;s strike and create a feedback loop in their mind, preventing them from focusing on future attacks.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target takes damage from another creature&#39;s ability while in the area of your Null Field ability.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes half the damage, and if the triggering creature has I &lt; AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.</p></div>
+</div>
+</article>

@@ -10,112 +10,90 @@ type: trait
 
 ---
 
-Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two heroic abilities.
-
-## 9th-Level Black Ash Abilities
-
-Choose one of the following abilities.
-
-### Cacophony of Cinders {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/cacophony-of-cinders"}
-
-
-*You tumble through the battle, stabbing foes and [teleporting](../../../../movement/teleport.md) allies.*
-
-| **Magic, Melee, Weapon** | **Main action** |
-|--------------------------|----------------:|
-| **📏 Self; see below**   |     **🎯 Self** |
-
-**Effect:** You [shift](../../../../movement/shifting.md) up to twice your speed, making one power roll that targets each creature you come adjacent to during the [shift](../../../../movement/shifting.md).
-
-**Power Roll + Agility:**
-
-- **≤11:** An enemy takes 6 damage; an ally can [teleport](../../../../movement/teleport.md) up to 3 squares.
-- **12-16:** An enemy takes 10 damage; an ally can [teleport](../../../../movement/teleport.md) up to 5 squares.
-- **17+:** An enemy takes 14 damage; an ally can [teleport](../../../../movement/teleport.md) up to 7 squares.
-
-### Demon Door {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/demon-door"}
-
-
-*You create a temporary portal to allow a massive demonic hand to reach through.*
-
-| **Magic, Melee, Strike, Weapon** |     **Main action** |
-|----------------------------------|--------------------:|
-| **📏 Melee 3**                   | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 13 + A corruption damage; push 3
-- **12-16:** 18 + A corruption damage; push 5
-- **17+:** 25 + A corruption damage; push 7
-
-**Effect:** On a critical hit, the target is [grabbed](../../../../condition/grabbed.md) by the demon and pulled through the portal before it closes, never to be seen again.
-
-## 9th-Level Caustic Alchemy Abilities
-
-Choose one of the following abilities.
-
-### Chain Reaction {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/chain-reaction"}
-
-
-*One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*
-
-| **Ranged**       |               **Main action** |
-|------------------|------------------------------:|
-| **📏 Ranged 10** | **🎯 One creature or object** |
-
-**Effect:** Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).
-
-**Power Roll + Agility:**
-
-- **≤11:** 7 damage
-- **12-16:** 10 damage
-- **17+:** 15 damage
-
-### To the Stars {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/to-the-stars"}
-
-
-*You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
-
-| **Melee, Ranged, Strike**   |               **Main action** |
-|-----------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10** | **🎯 One creature or object** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 4 + A fire damage; vertical push 8
-- **12-16:** 7 + A fire damage; vertical push 10
-- **17+:** 11 + A fire damage; vertical push 15
-
-**Effect:** The ground beneath a 3-cube area around the target's starting position is [difficult terrain](../../../../movement/difficult-terrain.md).
-
-## 9th-Level Harlequin Mask Abilities
-
-Choose one of the following abilities.
-
-### I Am You {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/i-am-you"}
-
-
-*Your mask reflects your foe's face. Surely they won't need it much longer.*
-
-| **Magic, Ranged** |            **Maneuver** |
-|-------------------|------------------------:|
-| **📏 Ranged 10**  |     **🎯 One creature** |
-
-**Effect:** Until the end of the encounter, you gain the target's damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target's signature ability, using their bonus for the power roll.
-
-### It Was Me All Along {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/it-was-me-all-along"}
-
-
-*After everything you've been through together, you twist the blade and make the pain extra personal.*
-
-| **Melee, Strike, Weapon** |               **Main action** |
-|---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 15 + A damage
-- **12-16:** 21 + A damage
-- **17+:** 28 + A damage
-
-**Effect:** If you are disguised as a creature the target knew using your I'm No Threat ability, this ability deals extra damage equal to three times your Agility score.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">9th-Level College Ability</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You tumble through the battle, stabbing foes and teleporting allies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">15 + A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">21 + A damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">28 + A damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your shadow college grants your choice of one of two heroic abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 9th-Level Black Ash Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Cacophony of Cinders {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-9/cacophony-of-cinders&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You shift up to twice your speed, making one power roll that targets each creature you come adjacent to during the shift.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Demon Door {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-9/demon-door&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 9th-Level Caustic Alchemy Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Chain Reaction {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-9/chain-reaction&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### To the Stars {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-9/to-the-stars&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The ground beneath a 3-cube area around the target&#39;s starting position is difficult terrain.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 9th-Level Harlequin Mask Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### I Am You {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-9/i-am-you&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, you gain the target&#39;s damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target&#39;s signature ability, using their bonus for the power roll.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### It Was Me All Along {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-9/it-was-me-all-along&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If you are disguised as a creature the target knew using your I&#39;m No Threat ability, this ability deals extra damage equal to three times your Agility score.</p></div>
+</div>
+</article>

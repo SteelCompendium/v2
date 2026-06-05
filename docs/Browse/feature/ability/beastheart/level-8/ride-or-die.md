@@ -18,10 +18,23 @@ type: ability
 
 ---
 
-*Your enemies might be stronger than you, but that's why you're not alone.*
-
-| **Beastheart** | **Main action** |
-|----------------|----------------:|
-| **📏 Self**    | **🎯 Self**     |
-
-**Effect:** You and your companion each use a different ability that costs 9 or fewer ferocity and is either a main action or a maneuver. These abilities cost no ferocity. If an ability lets you spend additional ferocity for an enhanced effect, you can't do so.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Ride or Die</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Ferocity</div></div>
+</div>
+<p class="sc-ability__flavor">Your enemies might be stronger than you, but that&#39;s why you&#39;re not alone.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You and your companion each use a different ability that costs 9 or fewer ferocity and is either a main action or a maneuver. These abilities cost no ferocity. If an ability lets you spend additional ferocity for an enhanced effect, you can&#39;t do so.</p></div>
+</div>
+</article>

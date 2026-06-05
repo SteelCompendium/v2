@@ -25,18 +25,35 @@ type: ability
 
 ---
 
-*Threads you've been weaving through your adventures create a vibrant, pearlescent web.*
-
-| **Area, Green, Magic, Ranged** |               **Main action** |
-|--------------------------------|------------------------------:|
-| **📏 4 cube within 10**        | **🎯 Each enemy in the area** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 2 corruption damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
-- **12-16:** 3 corruption damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
-- **17+:** 5 corruption damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
-
-**Effect:** The area is [difficult terrain](../../../../movement/difficult-terrain.md) until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../../../../condition/restrained.md) (save ends).
-
-**Persistent 1:** The area remains until the start of your next turn.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Web of All That&#39;s Come Before</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Essence</div></div>
+</div>
+<p class="sc-ability__flavor">Threads you&#39;ve been weaving through your adventures create a vibrant, pearlescent web.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 cube within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 corruption damage; A &lt; WEAK, restrained (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 corruption damage; A &lt; AVERAGE, restrained (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 corruption damage; A &lt; STRONG, restrained (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is restrained (save ends).</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
+<div class="sc-ability__section-body"><p>The area remains until the start of your next turn.</p></div>
+</div>
+</article>

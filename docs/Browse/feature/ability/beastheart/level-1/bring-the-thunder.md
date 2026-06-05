@@ -24,16 +24,28 @@ type: ability
 
 ---
 
-*Your companion unleashes a shattering roar, screech, or howl that terrifies your foes—or at least gets their attention.*
-
-| **Area, Companion, Magic** |                **Main action** |
-|----------------------------|-------------------------------:|
-| **📏 2 burst**             | **🎯 Each enemy in the area** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 3 sonic damage; push 1; P < WEAK [taunted](../../../../condition/taunted.md) (save ends)
-- **12-16:** 5 sonic damage; push 2; P < AVERAGE [taunted](../../../../condition/taunted.md) (save ends)
-- **17+:** 7 sonic damage; push 3; P < STRONG [frightened](../../../../condition/frightened.md) (save ends)
-
-**Spend 1 Ferocity:** This ability also affects a 2 burst originating from you. An enemy in both areas is only affected once.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Bring the Thunder</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">3</span> Ferocity</div></div>
+</div>
+<p class="sc-ability__flavor">Your companion unleashes a shattering roar, screech, or howl that terrifies your foes—or at least gets their attention.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 sonic damage; push 1; P &lt; WEAK taunted (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 sonic damage; push 2; P &lt; AVERAGE taunted (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 sonic damage; push 3; P &lt; STRONG frightened (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 2 burst originating from you. An enemy in both areas is only affected once.</span></div>
+</article>

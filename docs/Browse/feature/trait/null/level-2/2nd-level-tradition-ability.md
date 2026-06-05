@@ -10,100 +10,78 @@ type: trait
 
 ---
 
-Your [null tradition](../level-1/null-tradition.md) grants your choice of one of two abilities.
-
-## 2nd-Level Chronokinetic Ability
-
-Choose one of the following abilities.
-
-### Blur {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/blur"}
-
-
-*You release stored time, allowing you to act twice.*
-
-| **Psionic** | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** You can use a signature or heroic ability. You gain an edge on that ability's power rolls.
-
-### Force Redirected {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/force-redirected"}
-
-
-*The force of your strike moves your target in a surprising direction.*
-
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
-|------------------------------------|--------------------:|
-| **📏 Melee 3**                     | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 8 + A damage; slide 1
-- **12-16:** 12 + A damage; slide 3
-- **17+:** 16 + A damage; slide 5
-
-## 2nd-Level Cryokinetic Ability
-
-Choose one of the following heroic abilities.
-
-### Entropic Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/entropic-field"}
-
-
-*You drastically increase the local entropy.*
-
-| **Area, Psionic, Weapon** |               **Main action** |
-|---------------------------|------------------------------:|
-| **📏 3 cube within 1**    | **🎯 Each enemy in the area** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 6 cold damage; A < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-- **12-16:** 9 cold damage; A < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
-- **17+:** 13 cold damage; A < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
-
-### Heat Sink {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/heat-sink"}
-
-
-*You absorb ambient heat, coating the ground in frost and precipitating snow from the air.*
-
-| **Psionic** | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Effect:** Until the start of your next turn, the size of your [Null Field](../level-1/null-field.md) ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
-
-## 2nd-Level Metakinetic Ability
-
-Choose one of the following abilities.
-
-### Gravitic Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/gravitic-strike"}
-
-
-*Your fist emanates gravitic force that pulls a distant enemy closer.*
-
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
-|------------------------------------|--------------------:|
-| **📏 Melee 3**                     | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 8 + A psychic damage; vertical pull 3
-- **12-16:** 12 + A psychic damage; vertical pull 5
-- **17+:** 16 + A psychic damage; vertical pull 7
-
-### Kinetic Shield {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/kinetic-shield"}
-
-
-*You manifest a force barrier that absorbs incoming kinetic energy.*
-
-| **Psionic** | **Maneuver** |
-|-------------|-------------:|
-| **📏 Self** |  **🎯 Self** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** You gain 10 temporary Stamina.
-- **12-16:** You gain 15 temporary Stamina.
-- **17+:** You gain 20 temporary Stamina.
-
-**Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while dying.
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">2nd-Level Tradition Ability</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You release stored time, allowing you to act twice.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You gain 10 temporary Stamina.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You gain 15 temporary Stamina.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You gain 20 temporary Stamina.</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your null tradition grants your choice of one of two abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 2nd-Level Chronokinetic Ability</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Blur {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/blur&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can use a signature or heroic ability. You gain an edge on that ability&#39;s power rolls.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Force Redirected {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/force-redirected&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 2nd-Level Cryokinetic Ability</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following heroic abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Entropic Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/entropic-field&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Heat Sink {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/heat-sink&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the size of your Null Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 2nd-Level Metakinetic Ability</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Gravitic Strike {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/gravitic-strike&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Kinetic Shield {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/kinetic-shield&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While you have temporary Stamina from this ability, you can&#39;t be made bleeding even while dying.</p></div>
+</div>
+</article>

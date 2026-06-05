@@ -10,70 +10,61 @@ type: trait
 
 ---
 
-Choose one heroic ability from the following options, each of which costs 5 essence to use. Alternatively, you can choose one of the 5-essence abilities you didn't select at 1st level (see 1st-Level Features).
-
-## O Flower Aid, O Earth Defend {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-2/o-flower-aid-o-earth-defend"}
-
-
-*Revitalizing plants and jagged stones grow, helping allies and hindering foes.*
-
-| **Area, Earth, Green, Magic, Ranged** |   **Maneuver** |
-|---------------------------------------|---------------:|
-| **📏 3 cube within 10**               | **🎯 Special** |
-
-**Effect:** Until the start of your next turn, the area gains the following effects:
-
-- Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries.
-- The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies.
-- Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.
-
-**Persistent 1:** The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.
-
-## Subvert the Green Within {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-2/subvert-the-green-within"}
-
-
-*Fungal spores sprout inside your enemy's brain, allowing you to control their actions.*
-
-| **Green, Magic, Ranged, Strike, Void** |     **Main action** |
-|----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
-
-**Effect:** The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn't. You then make a power roll against the target of this ability.
-
-**Power Roll + Reason:**
-
-- **≤11:** 5 + R poison damage
-- **12-16:** 9 + R poison damage
-- **17+:** 12 + R poison damage
-
-## Translated Through Flame {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-2/translated-through-flame"}
-
-
-*Your ally disappears, then reappears in a burst of fire.*
-
-| **Fire, Magic, Ranged, Void** |         **Main action** |
-|-------------------------------|------------------------:|
-| **📏 Ranged 10**              | **🎯 Self or one ally** |
-
-**Effect:** The target is [teleport](../../../../movement/teleport.md)ed to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
-
-**Power Roll + Reason:**
-
-- **≤11:** 3 fire damage
-- **12-16:** 5 fire damage
-- **17+:** 8 fire damage
-
-## Volcano's Embrace {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-2/volcanos-embrace"}
-
-
-*Wrap them up in fire and melting stone.*
-
-| **Earth, Fire, Magic, Ranged, Strike** |     **Main action** |
-|----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 5 + R fire damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
-- **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
-- **17+:** 12 + R fire damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">New 5-Essence Ability</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Revitalizing plants and jagged stones grow, helping allies and hindering foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + R fire damage; A &lt; WEAK, restrained (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + R fire damage; A &lt; AVERAGE, restrained (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R fire damage; A &lt; STRONG, restrained (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 essence to use. Alternatively, you can choose one of the 5-essence abilities you didn&#39;t select at 1st level (see 1st-Level Features).</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## O Flower Aid, O Earth Defend {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-2/o-flower-aid-o-earth-defend&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the area gains the following effects:</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>- Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries. - The area is difficult terrain for enemies. - Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
+<div class="sc-ability__section-body"><p>The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Subvert the Green Within {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-2/subvert-the-green-within&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn&#39;t. You then make a power roll against the target of this ability.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Translated Through Flame {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-2/translated-through-flame&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is teleported to another space within distance. Make a power roll that affects each enemy adjacent to the target&#39;s new space.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Volcano&#39;s Embrace {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-2/volcanos-embrace&#34;}</p></div>
+</div>
+</article>

@@ -10,55 +10,42 @@ type: trait
 
 ---
 
-You have the following ability.
-
-## Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/summon-source-of-earth"}
-
-
-*The ground rumbles as an elemental bursts forth, ready to serve.*
-
-| **Earth, Magic, Ranged** | **Main action** |
-|--------------------------|----------------:|
-| **📏 Ranged 10**         |  **🎯 Special** |
-
-**Effect:** A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
-
-The source starts an encounter at full Stamina, but maintains their current Stamina throughout the encounter, even if they are dismissed and you use this ability again. They can't regain Stamina during the encounter. When the source's Stamina is reduced to 0, you can't use this ability again until you earn 1 or more Victories.
-
-**Persistent 2:** The source takes another turn. They are dismissed at the start of your next turn.
-
-
-## Source of Earth Statblock
-
->
->**Source of Earth**
->
->|      Elemental      |           -            |      Level 8      |         BRUTE         |         EV -         |
->|:-------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:|
->|    **2**<br>Size    |     **6**<br>Speed     | **45**<br>Stamina |  **5**<br>Stability   | **5**<br>Free Strike |
->| **-**<br>Immunities | **[Burrow](../../../../movement/burrow.md)**<br>Movement |                   | **-**<br>With Captain | **-**<br>Weaknesses  |
->|   **+3**<br>Might   |   **+1**<br>Agility    | **-5**<br>Reason  |  **-5**<br>Intuition  |  **-3**<br>Presence  |
->
->> **Earthwalk**
->>
->> [Difficult terrain](../../../../movement/difficult-terrain.md) composed of earth and stone doesn't cost the source extra movement.
->
->> **Tunneler**
->>
->> When the source burrows, they create a size 2 tunnel.
->
->> **Earth Harness**
->>
->> A creature that has the [Earth Accepts Me](../../../ability/elementalist/level-3/earth-accepts-me.md) ability can use it as a free action to meld into the source.
->
->> **Boulder Bash**
->>
->> | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
->> |-----------------------------------|------------------------------:|
->> | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
->>
->> **Power Roll + 3:**
->>
->> - **≤11:** 5 damage; push 3
->> - **12-16:** 9 damage; push 4
->> - **17+:** 12 damage; push 5
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Summon Source of Earth</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The ground rumbles as an elemental bursts forth, ready to serve.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You have the following ability.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Summon Source of Earth {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-8/summon-source-of-earth&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A <b>source of earth</b> emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>The source starts an encounter at full Stamina, but maintains their current Stamina throughout the encounter, even if they are dismissed and you use this ability again. They can&#39;t regain Stamina during the encounter. When the source&#39;s Stamina is reduced to 0, you can&#39;t use this ability again until you earn 1 or more Victories.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
+<div class="sc-ability__section-body"><p>The source takes another turn. They are dismissed at the start of your next turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Source of Earth Statblock</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>&gt; &gt;<b>Source of Earth</b> &gt; &gt;| Elemental | - | Level 8 | BRUTE | EV - | &gt;|:-------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:| &gt;| <b>2</b>&lt;br&gt;Size | <b>6</b>&lt;br&gt;Speed | <b>45</b>&lt;br&gt;Stamina | <b>5</b>&lt;br&gt;Stability | <b>5</b>&lt;br&gt;Free Strike | &gt;| <b>-</b>&lt;br&gt;Immunities | <b>Burrow</b>&lt;br&gt;Movement | | <b>-</b>&lt;br&gt;With Captain | <b>-</b>&lt;br&gt;Weaknesses | &gt;| <b>+3</b>&lt;br&gt;Might | <b>+1</b>&lt;br&gt;Agility | <b>-5</b>&lt;br&gt;Reason | <b>-5</b>&lt;br&gt;Intuition | <b>-3</b>&lt;br&gt;Presence | &gt; &gt;&gt; <b>Earthwalk</b> &gt;&gt; &gt;&gt; Difficult terrain composed of earth and stone doesn&#39;t cost the source extra movement. &gt; &gt;&gt; <b>Tunneler</b> &gt;&gt; &gt;&gt; When the source burrows, they create a size 2 tunnel. &gt; &gt;&gt; <b>Earth Harness</b> &gt;&gt; &gt;&gt; A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source. &gt; &gt;&gt; <b>Boulder Bash</b> &gt;&gt; &gt;&gt; | <b>Melee, Ranged, Strike, Weapon</b> | <b>Signature</b> | &gt;&gt; |-----------------------------------|------------------------------:| &gt;&gt; | <b>📏 Melee 2 or ranged 10</b> | <b>🎯 One creature or object</b> | &gt;&gt; &gt;&gt; <b>Power Roll + 3:</b> &gt;&gt; &gt;&gt; - <b>≤11:</b> 5 damage; push 3 &gt;&gt; - <b>12-16:</b> 9 damage; push 4 &gt;&gt; - <b>17+:</b> 12 damage; push 5</p></div>
+</div>
+</article>

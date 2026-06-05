@@ -24,16 +24,31 @@ type: ability
 
 ---
 
-*Your fans don't seem to like the opening act...*
-
-| **Area, Magic, Ranged** | **Main action** |
-|-------------------------|----------------:|
-| **📏 3 cube within 10** |  **🎯 Special** |
-
-**Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.
-
-**Power Roll + Presence:**
-
-- **≤11:** 5 corruption damage; M < WEAK, pull 1 toward the center of the area
-- **12-16:** 9 corruption damage; M < AVERAGE, pull 2 toward the center of the area
-- **17+:** 12 corruption damage; M < STRONG, pull 3 toward the center of the area
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Tough Crowd</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Drama</div></div>
+</div>
+<p class="sc-ability__flavor">Your fans don&#39;t seem to like the opening act...</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 corruption damage; M &lt; WEAK, pull 1 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 corruption damage; M &lt; AVERAGE, pull 2 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 corruption damage; M &lt; STRONG, pull 3 toward the center of the area</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.</p></div>
+</div>
+</article>

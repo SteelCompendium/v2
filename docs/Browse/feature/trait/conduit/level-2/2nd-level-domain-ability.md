@@ -10,174 +10,108 @@ type: trait
 
 ---
 
-Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level [Conduit](../../../../class/conduit.md) Domain Abilities table.
-
-### 2nd-Level Conduit Domain Abilities Table
-
-| Domain     | Ability                      |
-|------------|------------------------------|
-| Creation   | [Statue of Power](../../../ability/conduit/level-2/statue-of-power.md)              |
-| Death      | Reap                         |
-| Fate       | [Blessing of Fate and Destiny](../../../ability/conduit/level-2/blessing-of-fate-and-destiny.md) |
-| Knowledge  | [The Gods Command You Obey](../../../ability/conduit/level-2/the-gods-command-you-obey.md)    |
-| Life       | [Wellspring of Grace](../../../ability/conduit/level-2/wellspring-of-grace.md)          |
-| Love       | [Our Hearts Your Strength](../../../ability/conduit/level-2/our-hearts-your-strength.md)     |
-| Nature     | [Nature Judges Thee](../../../ability/conduit/level-2/nature-judges-thee.md)           |
-| Protection | [Sacred Bond](../../../ability/conduit/level-2/sacred-bond.md)                  |
-| Storm      | Saint's Tempest              |
-| Sun        | [Morning Light](../../../ability/conduit/level-2/morning-light.md)                |
-| Trickery   | [Divine Comedy](../../../ability/conduit/level-2/divine-comedy.md)                |
-| War        | [Blessing of Insight](../../../ability/conduit/level-2/blessing-of-insight.md)          |
-
-### Blessing of Fate and Destiny {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-fate-and-destiny"}
-
-
-*Your enemies suffer their fate; your allies embrace their destiny!*
-
-| **Magic, Ranged**  |        **Main action** |
-|--------------------|-----------------------:|
-| **📏 Ranged 10**   | **🎯 Three creatures** |
-
-**Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:
-
-- Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use.
-- Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls.
-
-### Blessing of Insight {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-insight"}
-
-
-*The gods grant insight revealing where best to strike your enemies.*
-
-| **Magic, Ranged**  |              **Maneuver** |
-|--------------------|--------------------------:|
-| **📏 Ranged 10**   | **🎯 Self and each ally** |
-
-**Effect:** Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.
-
-### Divine Comedy {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/divine-comedy"}
-
-
-*You and your allies swap places to confound your foes.*
-
-| **Area, Magic**  |                          **Maneuver** |
-|------------------|--------------------------------------:|
-| **📏 5 burst**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
-
-### The Gods Command You Obey {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/the-gods-command-you-obey"}
-
-
-*You speak with the voice of your saint, commanding your enemies.*
-
-| **Magic, Ranged, Strike** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a free strike against a target you choose
-- **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
-- **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability
-
-### Morning Light {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/morning-light"}
-
-
-*Light shines at your command, burning your foes and blessing your allies.*
-
-| **Area, Magic**  |               **Main action** |
-|------------------|------------------------------:|
-| **📏 3 burst**   | **🎯 Each enemy in the area** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 4 fire damage
-- **12-16:** 6 fire damage
-- **17+:** 10 fire damage
-
-**Effect:** Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.
-
-### Nature Judges Thee {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/nature-judges-thee"}
-
-
-*Mystical thorned vines appear at your bidding and bind your foes.*
-
-| **Area, Magic, Ranged**  |               **Main action** |
-|--------------------------|------------------------------:|
-| **📏 3 cube within 10**  | **🎯 Each enemy in the area** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 2 damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
-- **12-16:** 3 damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
-- **17+:** 7 damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
-
-### Our Hearts Your Strength {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/our-hearts-your-strength"}
-
-
-*An ally gains strength from their friends.*
-
-| **Magic, Ranged**  |             **Maneuver** |
-|--------------------|-------------------------:|
-| **📏 Ranged 10**   | **🎯 Self and one ally** |
-
-**Effect:** Until the end of the encounter or until the target is dying, at the start of each of the target's turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
-
-### Reap {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/reap"}
-
-
-*The gods reward those who smite their foes.*
-
-| **Magic, Ranged**  |     **Maneuver** |
-|--------------------|-----------------:|
-| **📏 Ranged 10**   | **🎯 Each ally** |
-
-**Effect:** Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.
-
-### Sacred Bond {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/sacred-bond"}
-
-
-*You forge a divine connection between two creatures.*
-
-| **Magic, Ranged**  |             **Maneuver** |
-|--------------------|-------------------------:|
-| **📏 Ranged 10**   | **🎯 Self and one ally** |
-
-**Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free [triggered action](../level-1/triggered-action.md) to spend a Recovery.
-
-### Saint's Tempest {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/saints-tempest"}
-
-
-*A raging storm appears, striking your foes with lightning and throwing them around with wind.*
-
-| **Area, Magic, Ranged**  |               **Main action** |
-|--------------------------|------------------------------:|
-| **📏 3 cube within 10**  | **🎯 Each enemy in the area** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 2 lightning damage; vertical slide 1
-- **12-16:** 5 lightning damage; vertical slide 2
-- **17+:** 7 lightning damage; vertical slide 3
-
-### Statue of Power {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/statue-of-power"}
-
-
-*A marble statue of your deity rises from the earth.*
-
-| **Magic, Ranged**  |   **Maneuver** |
-|--------------------|---------------:|
-| **📏 Ranged 10**   | **🎯 Special** |
-
-**Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 surge at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
-
-### Wellspring of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/wellspring-of-grace"}
-
-
-*A holy light is emitted from your body, healing your allies.*
-
-| **Area, Magic**  |              **Main action** |
-|------------------|-----------------------------:|
-| **📏 3 aura**    | **🎯 Each ally in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, whenever a target starts their turn in the area, they can spend a Recovery.
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">2nd-Level Domain Ability</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your enemies suffer their fate; your allies embrace their destiny!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Domain</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 lightning damage; vertical slide 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 lightning damage; vertical slide 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 lightning damage; vertical slide 3</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of your domains. You gain a heroic ability from that domain, as shown on the 2nd-Level Conduit Domain Abilities table.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### 2nd-Level Conduit Domain Abilities Table</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Blessing of Fate and Destiny {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-fate-and-destiny&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>- Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use. - Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Blessing of Insight {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-insight&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Divine Comedy {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-2/divine-comedy&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### The Gods Command You Obey {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-2/the-gods-command-you-obey&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Morning Light {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-2/morning-light&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Nature Judges Thee {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-2/nature-judges-thee&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Our Hearts Your Strength {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-2/our-hearts-your-strength&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until the target is dying, at the start of each of the target&#39;s turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Reap {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-2/reap&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Sacred Bond {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-2/sacred-bond&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever one target takes damage, the other target can use a free triggered action to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free triggered action to spend a Recovery.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Saint&#39;s Tempest {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-2/saints-tempest&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Statue of Power {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-2/statue-of-power&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 surge at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Wellspring of Grace {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-2/wellspring-of-grace&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever a target starts their turn in the area, they can spend a Recovery.</p></div>
+</div>
+</article>

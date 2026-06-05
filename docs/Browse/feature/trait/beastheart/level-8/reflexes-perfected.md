@@ -11,4 +11,16 @@ type: trait
 
 ---
 
-Your and your companion's free strikes deal extra damage equal to your Intuition score. Whenever an adjacent enemy moves to a space that isn't adjacent, you or your companion can make an opportunity attack, even if the enemy [shifted](../../../../movement/shifting.md), [teleported](../../../../movement/teleport.md), was [force moved](../../../../movement/forced-movement.md), or another feature that doesn't provoke opportunity attacks.
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">Reflexes Perfected</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your and your companion&#39;s free strikes deal extra damage equal to your Intuition score. Whenever an adjacent enemy moves to a space that isn&#39;t adjacent, you or your companion can make an opportunity attack, even if the enemy shifted, teleported, was force moved, or another feature that doesn&#39;t provoke opportunity attacks.</p></div>
+</div>
+</article>

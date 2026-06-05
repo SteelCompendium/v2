@@ -18,10 +18,23 @@ type: ability
 
 ---
 
-*You push an ally to use a heroic ability sooner than they otherwise would.*
-
-| **Ranged**       | **Main action** |
-|------------------|----------------:|
-| **📏 Ranged 10** | **🎯 One ally** |
-
-**Effect:** The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its Heroic Resource cost reduced by 1 + your Reason score (minimum cost 0).
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">You&#39;ve Still Got Something Left</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Focus</div></div>
+</div>
+<p class="sc-ability__flavor">You push an ally to use a heroic ability sooner than they otherwise would.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its Heroic Resource cost reduced by 1 + your Reason score (minimum cost 0).</p></div>
+</div>
+</article>

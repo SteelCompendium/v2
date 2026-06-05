@@ -18,23 +18,38 @@ type: ability
 
 ---
 
-*You utter a prayer that outlines your foe in holy energy.*
-
-| **Magic, Ranged** |     **Maneuver** |
-|-------------------|-----------------:|
-| **📏 Ranged 10**  | **🎯 One enemy** |
-
-**Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](../../../../class/censor.md) judges the target.
-
-Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
-
-When a creature judged by you is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target.
-
-Additionally, you can spend 1 wrath to take one of the following free triggered actions:
-
-- When an adjacent creature judged by you starts to [shift](../../../../movement/shifting.md), you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from [shifting](../../../../movement/shifting.md).
-- When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
-- When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-- If you damage a creature judged by you with a melee ability, the creature is [taunted](../../../../condition/taunted.md) by you until the end of their next turn.
-  
-You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Judgment</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You utter a prayer that outlines your foe in holy energy.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another censor judges the target.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>When a creature judged by you is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Additionally, you can spend 1 wrath to take one of the following free triggered actions:</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>- When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting. - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll. - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature. - If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.</p></div>
+</div>
+</article>

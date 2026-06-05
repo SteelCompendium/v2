@@ -18,12 +18,24 @@ type: ability
 
 ---
 
-*Your foe left an opening. You point this out to an ally!*
-
-| **Ranged** | **Main action** |
-| ---------------------------------------|----------------:|
-| **📏 Ranged 10**  | **🎯 One ally** |
-
-**Effect:** The target can use a signature ability as a free triggered action.
-
-**Spend 5 Focus:** You target two allies instead of one.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Strike Now!</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your foe left an opening. You point this out to an ally!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target can use a signature ability as a free triggered action.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 5 Focus</span><span class="txt">You target two allies instead of one.</span></div>
+</article>

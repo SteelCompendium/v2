@@ -24,16 +24,31 @@ type: ability
 
 ---
 
-*No, no. You don't die until the sequel.*
-
-| **Melee, Strike, Weapon** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Effect:** Add your current Stamina to your target's current Stamina, then you have half that total Stamina and the target has the remainder. If either of you would gain more Stamina this way than their Stamina maximum, the difference in Stamina between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more Stamina than your maximum this way. You then make a power roll.
-
-**Power Roll + Presence:**
-
-- **≤11:** You and the target can each end one effect on yourselves that is ended by a saving throw or that ends at the end of your turns.
-- **12-16:** You and the target can end any effects on yourselves that are ended by a saving throw or that end at the end of your turns.
-- **17+:** You can choose any of the current effects on you and the target that are ended by a saving throw or that end at the end of your turns, apply the chosen effects to the target, and end the rest.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Renegotiated Contract</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Drama</div></div>
+</div>
+<p class="sc-ability__flavor">No, no. You don&#39;t die until the sequel.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You and the target can each end one effect on yourselves that is ended by a saving throw or that ends at the end of your turns.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You and the target can end any effects on yourselves that are ended by a saving throw or that end at the end of your turns.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You can choose any of the current effects on you and the target that are ended by a saving throw or that end at the end of your turns, apply the chosen effects to the target, and end the rest.</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Add your current Stamina to your target&#39;s current Stamina, then you have half that total Stamina and the target has the remainder. If either of you would gain more Stamina this way than their Stamina maximum, the difference in Stamina between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more Stamina than your maximum this way. You then make a power roll.</p></div>
+</div>
+</article>

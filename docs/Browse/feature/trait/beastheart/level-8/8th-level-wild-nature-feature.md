@@ -10,12 +10,21 @@ type: trait
 
 ---
 
-Your wild nature grants you a feature, as shown on the 8th-Level Wild Nature Features table.
-
-| ♦ 8th-Level Wild Nature Features ♦ |                                                                                                            |
-|------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Wild Nature                        | Feature                                                                                                    |
-| Guardian                           | [Reflexes Perfected](reflexes-perfected.md)           |
-| Prowler                            | [Born to Run](born-to-run.md)                         |
-| Punisher                           | [Built for Violence](built-for-violence.md)           |
-| Spark                              | [Nature Will Not Harm Us](nature-will-not-harm-us.md) |
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">8th-Level Wild Nature Feature</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">♦ 8th-Level Wild Nature Features ♦</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Wild Nature</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Feature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your wild nature grants you a feature, as shown on the 8th-Level Wild Nature Features table.</p></div>
+</div>
+</article>

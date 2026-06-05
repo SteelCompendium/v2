@@ -9,4 +9,16 @@ type: trait
 
 ---
 
-Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](../../../skill/climb.md), [Gymnastics](../../../skill/gymnastics.md), or [Swim](../../../skill/swim.md) skills when you can use all your arms in the attempt.
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">Four-Armed Athletics</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your unique physiology enhances your movement. You gain an edge on tests that use the Climb, Gymnastics, or Swim skills when you can use all your arms in the attempt.</p></div>
+</div>
+</article>

@@ -25,16 +25,31 @@ type: ability
 
 ---
 
-*Spectral teeth clamp on a foe, chaining them to you and draining their life essence.*
-
-| **Beastheart, Magic, Melee, Ranged** | **Main action** |
-|--------------------------------------|----------------:|
-| **📏 Melee 1 or ranged 5**           | **🎯 One creature** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 7 + I damage; P < WEAK [weakened](../../../../condition/weakened.md) (save ends)
-- **12-16:** 10 + I damage; P < AVERAGE [weakened](../../../../condition/weakened.md) (save ends)
-- **17+:** 14 + I damage; P < STRONG [weakened](../../../../condition/weakened.md) (save ends)
-
-**Effect:** Whenever a target more than 3 squares away from you fails the saving throw while [weakened](../../../../condition/weakened.md) this way, you can pull the target up to a number of squares equal to your Intuition score as a free triggered action.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Jaws of Death</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">7</span> Ferocity</div></div>
+</div>
+<p class="sc-ability__flavor">Spectral teeth clamp on a foe, chaining them to you and draining their life essence.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + I damage; P &lt; WEAK weakened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + I damage; P &lt; AVERAGE weakened (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + I damage; P &lt; STRONG weakened (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Whenever a target more than 3 squares away from you fails the saving throw while weakened this way, you can pull the target up to a number of squares equal to your Intuition score as a free triggered action.</p></div>
+</div>
+</article>

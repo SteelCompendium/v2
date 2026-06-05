@@ -22,12 +22,27 @@ type: ability
 
 ---
 
-*They shine vibrantly, a beautiful diamond in the night sky.*
-
-| **Fire, Green, Magic, Ranged, Void** |            **Maneuver** |
-|--------------------------------------|------------------------:|
-| **📏 Ranged 10**                     | **🎯 Self or one ally** |
-
-**Effect:** The target has a +3 bonus to speed, they can [fly](../../../../movement/fly.md), and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
-
-**Persistent 1:** The effect lasts until the start of your next turn.
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Luminous Champion Aloft</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Essence</div></div>
+</div>
+<p class="sc-ability__flavor">They shine vibrantly, a beautiful diamond in the night sky.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Void</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target has a +3 bonus to speed, they can fly, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
+<div class="sc-ability__section-body"><p>The effect lasts until the start of your next turn.</p></div>
+</div>
+</article>

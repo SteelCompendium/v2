@@ -10,28 +10,30 @@ type: trait
 
 ---
 
-You gain certain benefits in combat based on the amount of ferocity you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of ferocity you spend during your turn.
-
-Some [Growing Ferocity](../boren/growing-ferocity.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../boren/growing-ferocity.md) tables in this section.
-
-### Berserker Growing Ferocity Table
-
-| Ferocity        | Benefit                                                                                                                                                                                                                        |
-|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Knockback maneuver, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Might score.                                                                                                                 |
-| 4               | The first time you push a creature on a turn, you gain 1 surge.                                                                                                                                                                |
-| 6               | You gain an edge on Might tests and the Knockback maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time you push a creature on a turn, you gain 2 surges.                                                                                                                                                               |
-| 10 (7th level)  | You have a double edge on Might tests and the Knockback maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../../../../movement/forced-movement.md) on a target, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Might score. |
-
-### Reaver Growing Ferocity Table
-
-| Ferocity        | Benefit                                                                                                                                                                                                                          |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Knockback maneuver, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Agility score.                                                                                                                 |
-| 4               | The first time you slide a creature on a turn, you gain 1 surge.                                                                                                                                                                 |
-| 6               | You gain an edge on Agility tests and the Knockback maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time you slide a creature on a turn, you gain 2 surges.                                                                                                                                                                |
-| 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../../../../movement/forced-movement.md) on a target, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Agility score. |
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">Growing Ferocity</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ferocity</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Whenever you use the Knockback maneuver, the forced movement distance gains a bonus equal to your Agility score.</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You gain certain benefits in combat based on the amount of ferocity you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of ferocity you spend during your turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Some Growing Ferocity benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various Growing Ferocity tables in this section.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Berserker Growing Ferocity Table</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Reaver Growing Ferocity Table</p></div>
+</div>
+</article>

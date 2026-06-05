@@ -25,16 +25,31 @@ type: ability
 
 ---
 
-*You channel the Primordial Chaos into blows that petrify your foe... literally.*
-
-| **Magic, Melee, Strike, Weapon** |     **Main action** |
-|----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 9 + M damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-- **12-16:** 13 + M damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
-- **17+:** 18 + M damage; M < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
-
-**Effect:** While the target is [slowed](../../../../condition/slowed.md) this way, any other effect that would make the target [slowed](../../../../condition/slowed.md) instead makes them [restrained](../../../../condition/restrained.md) by this ability. Additionally, a creature who fails the saving throw while [restrained](../../../../condition/restrained.md) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">To Stone!</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Ferocity</div></div>
+</div>
+<p class="sc-ability__flavor">You channel the Primordial Chaos into blows that petrify your foe... literally.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + M damage; M &lt; WEAK, slowed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + M damage; M &lt; AVERAGE, slowed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + M damage; M &lt; STRONG, restrained (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While the target is slowed this way, any other effect that would make the target slowed instead makes them restrained by this ability. Additionally, a creature who fails the saving throw while restrained this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).</p></div>
+</div>
+</article>

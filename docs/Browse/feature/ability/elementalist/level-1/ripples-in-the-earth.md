@@ -24,16 +24,31 @@ type: ability
 
 ---
 
-*Like a stone was dropped into a pond, waves in the earth radiate from you.*
-
-| **Area, Earth, Magic** |               **Main action** |
-|------------------------|------------------------------:|
-| **📏 2 burst**         | **🎯 Each enemy in the area** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 3 damage
-- **12-16:** 5 damage
-- **17+:** 8 damage; M < STRONG[, prone](../../../../condition/prone.md)
-
-**Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Ripples in the Earth</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">3</span> Essence</div></div>
+</div>
+<p class="sc-ability__flavor">Like a stone was dropped into a pond, waves in the earth radiate from you.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 damage; M &lt; STRONG, prone</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can&#39;t collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.</p></div>
+</div>
+</article>

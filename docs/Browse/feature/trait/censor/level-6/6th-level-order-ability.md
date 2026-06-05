@@ -10,100 +10,90 @@ type: trait
 
 ---
 
-Your [censor order](../level-1/censor-order.md) grants your choice of one of two heroic abilities.
-
-## 6th-Level Exorcist Abilities
-
-Choose one of the following abilities.
-
-### Begone! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/begone"}
-
-
-*You terrify your enemies into retreating, creating chaos in their ranks.*
-
-| **Area, Magic** |               **Main action** |
-|-----------------|------------------------------:|
-| **📏 3 burst**  | **🎯 Each enemy in the area** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 4 psychic damage; slide 3
-- **12-16:** 6 psychic damage; slide 5
-- **17+:** 8 psychic damage; slide 7
-
-### Pain of Your Own Making {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/pain-of-your-own-making"}
-
-
-*You reverse the effects from an evildoer.*
-
-| **Magic, Ranged** |      **Free triggered** |
-|-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Trigger:** The target gains a condition or effect that is ended by a saving throw or that ends at the end of their turn.
-
-**Effect:** The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your Presence score.
-
-## 6th-Level Oracle Abilities
-
-Choose one of the following abilities.
-
-### Burden of Evil {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil"}
-
-
-*You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*
-
-| **Magic, Ranged, Strike** |         **Maneuver** |
-|---------------------------|---------------------:|
-| **📏 Ranged 10**          | **🎯 Three enemies** |
-
-**Power Roll + Presence:**
-
-- **≤11:** Slide 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-- **12-16:** Slide 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-- **17+:** Slide 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
-
-### Edict of Peace {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/edict-of-peace"}
-
-
-*You anticipate your foes' moves and deny them.*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 3 aura**   | **🎯 Each enemy in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.
-
-## 6th-Level Paragon Abilities
-
-Choose one of the following abilities.
-
-### Congregation {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/congregation"}
-
-
-*You focus your allies' wrath on a chosen foe.*
-
-| **Melee, Strike, Weapon** |   **Main action** |
-|---------------------------|------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 8 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability against the target
-- **12-16:** 12 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability that gains an edge against the target
-- **17+:** 16 + M damage; as a free triggered action, two allies within 10 squares of the target can each use a strike signature ability that gains an edge against the target
-
-**Effect:** Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 surges before making the strike.
-
-### Intercede {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/intercede"}
-
-
-*You take your ally's place.*
-
-| **Magic, Ranged** | **Free triggered** |
-|-------------------|-------------------:|
-| **📏 Ranged 10**  |    **🎯 One ally** |
-
-**Trigger:** A creature makes a strike against the target.
-
-**Effect:** The target is unaffected by the strike and you become the target instead, even if you aren't a valid target for it. You take half the damage from the strike, and the target gains 3 surges.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">6th-Level Order Ability</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You terrify your enemies into retreating, creating chaos in their ranks.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability against the target</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability that gains an edge against the target</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + M damage; as a free triggered action, two allies within 10 squares of the target can each use a strike signature ability that gains an edge against the target</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your censor order grants your choice of one of two heroic abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 6th-Level Exorcist Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Begone! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-6/begone&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Pain of Your Own Making {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-6/pain-of-your-own-making&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target gains a condition or effect that is ended by a saving throw or that ends at the end of their turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your Presence score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 6th-Level Oracle Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Burden of Evil {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Edict of Peace {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-6/edict-of-peace&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 6th-Level Paragon Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Congregation {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-6/congregation&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each ally can shift up to 2 squares and gains 2 surges before making the strike.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Intercede {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-6/intercede&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>A creature makes a strike against the target.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is unaffected by the strike and you become the target instead, even if you aren&#39;t a valid target for it. You take half the damage from the strike, and the target gains 3 surges.</p></div>
+</div>
+</article>

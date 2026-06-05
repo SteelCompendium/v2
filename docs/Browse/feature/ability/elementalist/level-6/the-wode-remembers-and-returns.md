@@ -22,12 +22,27 @@ type: ability
 
 ---
 
-*You create a terrarium that spans from canopy above to underbrush below.*
-
-| **Area, Earth, Green, Magic, Void** | **Main action** |
-|-------------------------------------|----------------:|
-| **📏 4 burst**                      |  **🎯 Special** |
-
-**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has cover.
-
-**Persistent 2:** The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a Recovery.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">The Wode Remembers and Returns</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Essence</div></div>
+</div>
+<p class="sc-ability__flavor">You create a terrarium that spans from canopy above to underbrush below.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Void</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is difficult terrain for enemies, and any ally who ends their turn in the area has cover.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
+<div class="sc-ability__section-body"><p>The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a Recovery.</p></div>
+</div>
+</article>

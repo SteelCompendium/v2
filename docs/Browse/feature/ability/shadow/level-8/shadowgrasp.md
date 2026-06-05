@@ -22,14 +22,27 @@ type: ability
 
 ---
 
-*The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*
-
-| **Area, Magic** |               **Main action** |
-|-----------------|------------------------------:|
-| **📏 2 burst**  | **🎯 Each enemy in the area** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 11 corruption damage; A < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
-- **12-16:** 16 corruption damage; A < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
-- **17+:** 21 corruption damage; A < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Shadowgrasp</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Insight</div></div>
+</div>
+<p class="sc-ability__flavor">The shadows around you give way, allowing the shadow creature within you to grasp at your foes.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 corruption damage; A &lt; WEAK, restrained (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">16 corruption damage; A &lt; AVERAGE, restrained (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 corruption damage; A &lt; STRONG, restrained (save ends)</span></div>
+</div>
+</div>
+</article>

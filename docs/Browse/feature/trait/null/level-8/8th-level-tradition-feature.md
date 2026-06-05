@@ -10,24 +10,42 @@ type: trait
 
 ---
 
-Your [null tradition](../level-1/null-tradition.md) grants you a feature, as shown on the 8th-Level Tradition Features table.
-
-### 8th-Level Tradition Features Table
-
-| Tradition     | Feature           |
-|---------------|-------------------|
-| Chronokinetic | [Shared Momentum](shared-momentum.md)   |
-| Cryokinetic   | [Synaptic Triage](synaptic-triage.md)   |
-| Metakinetic   | [Inertial Dampener](inertial-dampener.md) |
-
-## Inertial Dampener {data-scc="mcdm.heroes.v1/feature.trait.null.level-8/inertial-dampener"}
-
-You and each creature or object of your choice in the area of your [Null Field](../level-1/null-field.md) ability gain a bonus to stability equal to your Intuition score. A creature who attempts to [force move](../../../../movement/forced-movement.md) a target with this bonus takes psychic damage equal to your Intuition score.
-
-## Shared Momentum {data-scc="mcdm.heroes.v1/feature.trait.null.level-8/shared-momentum"}
-
-When you take the Disengage move action, one ally in the area of your [Null Field](../level-1/null-field.md) ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
-
-## Synaptic Triage {data-scc="mcdm.heroes.v1/feature.trait.null.level-8/synaptic-triage"}
-
-As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null Field](../level-1/null-field.md) ability also gains this benefit.
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">8th-Level Tradition Feature</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Tradition</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Chronokinetic</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Shared Momentum</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your null tradition grants you a feature, as shown on the 8th-Level Tradition Features table.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### 8th-Level Tradition Features Table</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Inertial Dampener {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-8/inertial-dampener&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You and each creature or object of your choice in the area of your Null Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Shared Momentum {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-8/shared-momentum&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>When you take the Disengage move action, one ally in the area of your Null Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Synaptic Triage {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-8/synaptic-triage&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your Null Field ability also gains this benefit.</p></div>
+</div>
+</article>

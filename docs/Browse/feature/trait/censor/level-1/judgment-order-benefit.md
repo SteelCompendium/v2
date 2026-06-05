@@ -10,8 +10,19 @@ type: trait
 
 ---
 
-The first time on a turn that you use your [Judgment](../../../ability/censor/level-1/judgment.md) ability to judge a creature, you gain the following benefit based on your order:
-
-- **Exorcist:** You can [teleport](../../../../movement/teleport.md) up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination.
-- **Oracle:** You can deal holy damage equal to twice your Presence score to the judged creature.
-- **Paragon:** You can vertical pull the judged creature up to a number of squares equal to twice your Presence score.
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">Judgment Order Benefit</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>The first time on a turn that you use your Judgment ability to judge a creature, you gain the following benefit based on your order:</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>- <b>Exorcist:</b> You can teleport up to a number of squares equal to twice your Presence score. This movement must take you closer to the judged creature. You do not need line of effect to your destination. - <b>Oracle:</b> You can deal holy damage equal to twice your Presence score to the judged creature. - <b>Paragon:</b> You can vertical pull the judged creature up to a number of squares equal to twice your Presence score.</p></div>
+</div>
+</article>

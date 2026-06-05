@@ -10,66 +10,58 @@ type: trait
 
 ---
 
-Choose one heroic ability from the following options, each of which costs 11 discipline to use.
-
-## Arcane Purge {data-scc="mcdm.heroes.v1/feature.ability.null.level-8/arcane-purge"}
-
-
-*You focus your [null field](../level-1/null-field.md) into a pressure point strike that prevents your foe from channeling sorcery.*
-
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
-|------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 13 + A damage; M < WEAK, the target is suppressed (save ends)
-- **12-16:** 19 + A damage; M < AVERAGE, the target is suppressed (save ends)
-- **17+:** 24 + A damage; M < STRONG, the target is suppressed (save ends)
-
-**Effect:** While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.
-
-## Phase Hurl {data-scc="mcdm.heroes.v1/feature.ability.null.level-8/phase-hurl"}
-
-
-*You throw your foe out of phase with this manifold, causing them to harm other enemies as they return.*
-
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
-|------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-- **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-- **17+:** 18 + A damage; push 10; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
-
-**Effect:** The target and each creature or object they collide with from this [forced movement](../../../../movement/forced-movement.md) takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](../../../../condition/dazed.md) this way, they see glimpses of creatures from other parts of the timescape.
-
-## Scalar Assault {data-scc="mcdm.heroes.v1/feature.ability.null.level-8/scalar-assault"}
-
-
-*You warp reality to grow a limb for just a moment and make a single devastating attack.*
-
-| **Area, Psionic**      |               **Main action** |
-|------------------------|------------------------------:|
-| **📏 3 cube within 1** | **🎯 Each enemy in the area** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 12 psychic damage; push 3
-- **12-16:** 17 psychic damage; push 5
-- **17+:** 23 psychic damage; push 7
-
-## Synaptic Anchor {data-scc="mcdm.heroes.v1/feature.ability.null.level-8/synaptic-anchor"}
-
-
-*You disrupt an enemy's strike and create a [feedback loop](../../../ability/talent/level-1/feedback-loop.md) in their mind, preventing them from focusing on future attacks.*
-
-| **Psionic**            |           **Free triggered** |
-|------------------------|-----------------------------:|
-| **📏 Self; see below** |  **🎯 Self or one creature** |
-
-**Trigger:** The target takes damage from another creature's ability while in the area of your [Null Field](../level-1/null-field.md) ability.
-
-**Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../condition/dazed.md) (save ends). While the triggering creature is [dazed](../../../../condition/dazed.md) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">11-Discipline Ability</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 psychic damage; push 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 psychic damage; push 5</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">23 psychic damage; push 7</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 discipline to use.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Arcane Purge {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-8/arcane-purge&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Phase Hurl {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-8/phase-hurl&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target and each creature or object they collide with from this forced movement takes psychic damage equal to the total number of squares the target was force moved. While the target is dazed this way, they see glimpses of creatures from other parts of the timescape.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Scalar Assault {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-8/scalar-assault&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Synaptic Anchor {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-8/synaptic-anchor&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target takes damage from another creature&#39;s ability while in the area of your Null Field ability.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target takes half the damage, and if the triggering creature has I &lt; AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.</p></div>
+</div>
+</article>

@@ -19,10 +19,23 @@ type: ability
 
 ---
 
-*You stir any wood's memory and learn what it has seen.*
-
-| **Green, Magic, Melee** |                  **Main action** |
-|-------------------------|---------------------------------:|
-| **📏 Melee 1**          | **🎯 One mundane wooden object** |
-
-**Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object's location as if you were there.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Remember Growth and Sun and Rain</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You stir any wood&#39;s memory and learn what it has seen.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One mundane wooden object</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object&#39;s location as if you were there.</p></div>
+</div>
+</article>

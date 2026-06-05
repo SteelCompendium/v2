@@ -10,88 +10,81 @@ type: trait
 
 ---
 
-Your [elemental specialization](../level-1/elemental-specialization.md) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../level-1/elemental-specialization.md) Features table.
-
-### 8th-Level Elemental Specialization Features Table
-
-| Specialization | Feature                |
-|----------------|------------------------|
-| Earth          | [Summon Source of Earth](../../../ability/elementalist/level-8/summon-source-of-earth.md) |
-| Fire           | [The Flame Primordial](the-flame-primordial.md)   |
-| Green          | [Chimeric Manifestation](chimeric-manifestation.md) |
-| Void           | [Black Hole Star](black-hole-star.md)        |
-
-## Black Hole Star {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-8/black-hole-star"}
-
-You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../../../ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their stability reduces this [forced movement](../../../../movement/forced-movement.md), they are pulled a minimum of 2 squares. This [forced movement](../../../../movement/forced-movement.md) ignores stability for your allies.
-
-Additionally, your [Mantle of Essence](../level-4/mantle-of-essence.md) improves. While in the area of the aura, enemies and objects have their stability reduced by an amount equal to your level.
-
-## Chimeric Manifestation {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-8/chimeric-manifestation"}
-
-Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../../../../complication/animal-form.md) as a free maneuver the first time you use your [Disciple of the Green](../level-2/disciple-of-the-green.md) feature on your turn.
-
-Additionally, whenever you use your [Disciple of the Green](../level-2/disciple-of-the-green.md) feature, you can select an additional [animal form](../../../../complication/animal-form.md) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
-
-You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
-
-## The Flame Primordial {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-8/the-flame-primordial"}
-
-You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your [Return to Formlessness](../../../ability/elementalist/level-1/return-to-formlessness.md) ability instead.
-
-Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your Reason score until the start of their next turn. This increases to twice your Reason score if the enemy is made of or is wearing mostly metal.
-
-## Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-8/summon-source-of-earth"}
-
-You have the following ability.
-
-### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/summon-source-of-earth"}
-
-
-*The ground rumbles as an elemental bursts forth, ready to serve.*
-
-| **Earth, Magic, Ranged** | **Main action** |
-|--------------------------|----------------:|
-| **📏 Ranged 10**         |  **🎯 Special** |
-
-**Effect:** A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
-
-The source starts an encounter at full Stamina, but maintains their current Stamina throughout the encounter, even if they are dismissed and you use this ability again. They can't regain Stamina during the encounter. When the source's Stamina is reduced to 0, you can't use this ability again until you earn 1 or more Victories.
-
-**Persistent 2:** The source takes another turn. They are dismissed at the start of your next turn.
-
-
-### Source of Earth Statblock
-
->
->**Source of Earth**
->
->|      Elemental      |           -            |      Level 8      |         BRUTE         |         EV -         |
->|:-------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:|
->|    **2**<br>Size    |     **6**<br>Speed     | **45**<br>Stamina |  **5**<br>Stability   | **5**<br>Free Strike |
->| **-**<br>Immunities | **[Burrow](../../../../movement/burrow.md)**<br>Movement |                   | **-**<br>With Captain | **-**<br>Weaknesses  |
->|   **+3**<br>Might   |   **+1**<br>Agility    | **-5**<br>Reason  |  **-5**<br>Intuition  |  **-3**<br>Presence  |
->
->> **Earthwalk**
->>
->> [Difficult terrain](../../../../movement/difficult-terrain.md) composed of earth and stone doesn't cost the source extra movement.
->
->> **Tunneler**
->>
->> When the source burrows, they create a size 2 tunnel.
->
->> **Earth Harness**
->>
->> A creature that has the [Earth Accepts Me](../../../ability/elementalist/level-3/earth-accepts-me.md) ability can use it as a free action to meld into the source.
->
->> **Boulder Bash**
->>
->> | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
->> |-----------------------------------|------------------------------:|
->> | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
->>
->> **Power Roll + 3:**
->>
->> - **≤11:** 5 damage; push 3
->> - **12-16:** 9 damage; push 4
->> - **17+:** 12 damage; push 5
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">8th-Level Specialization Feature</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">The ground rumbles as an elemental bursts forth, ready to serve.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Specialization</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your elemental specialization grants you a feature, as shown on the 8th-Level Elemental Specialization Features table.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### 8th-Level Elemental Specialization Features Table</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Black Hole Star {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-8/black-hole-star&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your Hurl Element ability and vertical pull that target up to 5 squares. If their stability reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores stability for your allies.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Additionally, your Mantle of Essence improves. While in the area of the aura, enemies and objects have their stability reduced by an amount equal to your level.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Chimeric Manifestation {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-8/chimeric-manifestation&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Nature isn&#39;t static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your Disciple of the Green feature on your turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Additionally, whenever you use your Disciple of the Green feature, you can select an additional animal form and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can&#39;t combine a shark with a bear (5th level).</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## The Flame Primordial {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-8/the-flame-primordial&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your Return to Formlessness ability instead.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your Reason score until the start of their next turn. This increases to twice your Reason score if the enemy is made of or is wearing mostly metal.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Summon Source of Earth {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-8/summon-source-of-earth&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You have the following ability.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Summon Source of Earth {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-8/summon-source-of-earth&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A <b>source of earth</b> emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>The source starts an encounter at full Stamina, but maintains their current Stamina throughout the encounter, even if they are dismissed and you use this ability again. They can&#39;t regain Stamina during the encounter. When the source&#39;s Stamina is reduced to 0, you can&#39;t use this ability again until you earn 1 or more Victories.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
+<div class="sc-ability__section-body"><p>The source takes another turn. They are dismissed at the start of your next turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Source of Earth Statblock</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>&gt; &gt;<b>Source of Earth</b> &gt; &gt;| Elemental | - | Level 8 | BRUTE | EV - | &gt;|:-------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:| &gt;| <b>2</b>&lt;br&gt;Size | <b>6</b>&lt;br&gt;Speed | <b>45</b>&lt;br&gt;Stamina | <b>5</b>&lt;br&gt;Stability | <b>5</b>&lt;br&gt;Free Strike | &gt;| <b>-</b>&lt;br&gt;Immunities | <b>Burrow</b>&lt;br&gt;Movement | | <b>-</b>&lt;br&gt;With Captain | <b>-</b>&lt;br&gt;Weaknesses | &gt;| <b>+3</b>&lt;br&gt;Might | <b>+1</b>&lt;br&gt;Agility | <b>-5</b>&lt;br&gt;Reason | <b>-5</b>&lt;br&gt;Intuition | <b>-3</b>&lt;br&gt;Presence | &gt; &gt;&gt; <b>Earthwalk</b> &gt;&gt; &gt;&gt; Difficult terrain composed of earth and stone doesn&#39;t cost the source extra movement. &gt; &gt;&gt; <b>Tunneler</b> &gt;&gt; &gt;&gt; When the source burrows, they create a size 2 tunnel. &gt; &gt;&gt; <b>Earth Harness</b> &gt;&gt; &gt;&gt; A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source. &gt; &gt;&gt; <b>Boulder Bash</b> &gt;&gt; &gt;&gt; | <b>Melee, Ranged, Strike, Weapon</b> | <b>Signature</b> | &gt;&gt; |-----------------------------------|------------------------------:| &gt;&gt; | <b>📏 Melee 2 or ranged 10</b> | <b>🎯 One creature or object</b> | &gt;&gt; &gt;&gt; <b>Power Roll + 3:</b> &gt;&gt; &gt;&gt; - <b>≤11:</b> 5 damage; push 3 &gt;&gt; - <b>12-16:</b> 9 damage; push 4 &gt;&gt; - <b>17+:</b> 12 damage; push 5</p></div>
+</div>
+</article>

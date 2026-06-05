@@ -10,96 +10,94 @@ type: trait
 
 ---
 
-Your [censor order](../level-1/censor-order.md) grants your choice of one of two heroic abilities.
-
-## 2nd-Level Exorcist Ability
-
-Choose one of the following abilities.
-
-### It Is Justice You Fear {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/it-is-justice-you-fear"}
-
-
-*I am but a vessel. Your own deeds weigh upon you.*
-
-| **Magic, Ranged, Strike** |     **Main action** |
-|---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 8 + M holy damage; P < WEAK, [frightened](../../../../condition/frightened.md) (save ends)
-- **12-16:** 12 + M holy damage; P < AVERAGE, [frightened](../../../../condition/frightened.md) (save ends)
-- **17+:** 15 + M holy damage; P < STRONG, [frightened](../../../../condition/frightened.md) (save ends)
-
-**Effect:** If the target is already [frightened](../../../../condition/frightened.md) of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.
-
-### Revelator {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/revelator"}
-
-
-*You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](../../../ability/censor/level-1/judgment.md).*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 3 burst**  | **🎯 Each enemy in the area** |
-
-**Effect:** Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../../../ability/censor/level-1/judgment.md) ability against one target as a free triggered action.
-
-## 2nd-Level Oracle Ability
-
-Choose one of the following abilities.
-
-### Prescient Grace {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/prescient-grace"}
-
-
-*Gifted by a prescient vision, you warn an ally of an impending attack.*
-
-| **Magic, Ranged** |          **Triggered** |
-|-------------------|-----------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Trigger:** An enemy within 10 squares starts their turn.
-
-**Effect:** You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.
-
-### With My Blessing {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/with-my-blessing"}
-
-
-*A word in prayer, and the gods show the way.*
-
-| **Magic, Ranged** |         **Main action** |
-|-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
-
-**Effect:** The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).
-
-## 2nd-Level Paragon Ability
-
-Choose one of the following abilities.
-
-### Blessing of the Faithful {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/blessing-of-the-faithful"}
-
-
-*The gods reward your faith.*
-
-| **Area, Magic** |                          **Maneuver** |
-|-----------------|--------------------------------------:|
-| **📏 3 aura**   | **🎯 Self and each ally in the area** |
-
-**Effect:** Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.
-
-### Sentenced {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/sentenced"}
-
-
-*The shock of your condemnation freezes your enemy in their boots.*
-
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 Melee 1**                   |           **🎯 One creature** |
-
-**Power Roll + Presence:**
-
-- **≤11:** 5 + P damage; P < WEAK, [restrained](../../../../condition/restrained.md) (save ends)
-- **12-16:** 9 + P damage; P < AVERAGE, [restrained](../../../../condition/restrained.md) (save ends)
-- **17+:** 12 + P damage; P < STRONG, [restrained](../../../../condition/restrained.md) (save ends)
-
-**Effect:** While the target is [restrained](../../../../condition/restrained.md) this way, your abilities that impose [forced movement](../../../../movement/forced-movement.md) can still move them.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">2nd-Level Order Ability</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">I am but a vessel. Your own deeds weigh upon you.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P damage; P &lt; WEAK, restrained (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + P damage; P &lt; AVERAGE, restrained (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + P damage; P &lt; STRONG, restrained (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your censor order grants your choice of one of two heroic abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 2nd-Level Exorcist Ability</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### It Is Justice You Fear {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-2/it-is-justice-you-fear&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If the target is already frightened of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Revelator {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-2/revelator&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can&#39;t become hidden again until the start of your next turn. You can then use your Judgment ability against one target as a free triggered action.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 2nd-Level Oracle Ability</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Prescient Grace {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-2/prescient-grace&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>An enemy within 10 squares starts their turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### With My Blessing {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-2/with-my-blessing&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 2nd-Level Paragon Ability</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Blessing of the Faithful {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-2/blessing-of-the-faithful&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Sentenced {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-2/sentenced&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>While the target is restrained this way, your abilities that impose forced movement can still move them.</p></div>
+</div>
+</article>

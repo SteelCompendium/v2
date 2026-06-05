@@ -10,32 +10,58 @@ type: trait
 
 ---
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](psi-boost.md) to it and enhance its effects. A [psi boost](psi-boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
-
-## Dynamic Power {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/dynamic-power"}
-
-If the ability force moves a target, the [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.
-
-## Expanded Power {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/expanded-power"}
-
-If the ability targets an area, you increase the size of the area by 1. If the area is a line, you increase the size of one dimension, not both.
-
-## Extended Power {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/extended-power"}
-
-If the ability is ranged, the distance gains a bonus equal to your Intuition score. If the ability is melee, the distance gains a +2 bonus.
-
-## Heightened Power {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/heightened-power"}
-
-If the ability deals rolled damage, it deals extra damage equal to your Intuition score.
-
-## Magnified Power {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/magnified-power"}
-
-If the ability has a potency, you increase that potency by an amount equal to your Intuition score.
-
-## Shared Power {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/shared-power"}
-
-If the ability targets individual creatures or objects, you target one additional creature or object within distance.
-
-## Sharpened Power {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/sharpened-power"}
-
-If the ability has any power roll, that roll gains an edge.
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">Psi Boost</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a psi boost to it and enhance its effects. A psi boost&#39;s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Dynamic Power {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-7/dynamic-power&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>If the ability force moves a target, the forced movement distance gains a bonus equal to your Intuition score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Expanded Power {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-7/expanded-power&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>If the ability targets an area, you increase the size of the area by 1. If the area is a line, you increase the size of one dimension, not both.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Extended Power {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-7/extended-power&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>If the ability is ranged, the distance gains a bonus equal to your Intuition score. If the ability is melee, the distance gains a +2 bonus.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Heightened Power {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-7/heightened-power&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>If the ability deals rolled damage, it deals extra damage equal to your Intuition score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Magnified Power {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-7/magnified-power&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>If the ability has a potency, you increase that potency by an amount equal to your Intuition score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Shared Power {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-7/shared-power&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>If the ability targets individual creatures or objects, you target one additional creature or object within distance.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Sharpened Power {data-scc=&#34;mcdm.heroes.v1/feature.trait.null.level-7/sharpened-power&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>If the ability has any power roll, that roll gains an edge.</p></div>
+</div>
+</article>

@@ -10,6 +10,19 @@ type: trait
 
 ---
 
-You are empowered by your audience, near and far. You can't be made [frightened](../../../../condition/frightened.md), and if you [are prone](../../../../condition/prone.md), you can stand up as a free maneuver.
-
-Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../level-1/scene-partner.md) feature + either your Victories or the number of players in your game (whichever is higher).
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">Roar of the Crowd</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You are empowered by your audience, near and far. You can&#39;t be made frightened, and if you are prone, you can stand up as a free maneuver.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your Scene Partner feature + either your Victories or the number of players in your game (whichever is higher).</p></div>
+</div>
+</article>

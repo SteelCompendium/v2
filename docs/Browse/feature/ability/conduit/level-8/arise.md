@@ -19,10 +19,23 @@ type: ability
 
 ---
 
-*Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.*
-
-| **Magic, Ranged**  |         **Main action** |
-|--------------------|------------------------:|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
-
-**Effect:** The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../../../../condition/prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Arise!</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Piety</div></div>
+</div>
+<p class="sc-ability__flavor">Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are prone. Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.</p></div>
+</div>
+</article>

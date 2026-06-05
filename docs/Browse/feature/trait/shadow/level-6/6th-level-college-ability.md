@@ -10,104 +10,96 @@ type: trait
 
 ---
 
-Your [shadow college](../level-1/shadow-college.md) grants your choice of one of two heroic abilities.
-
-## 6th-Level Black Ash Abilities
-
-Choose one of the following abilities.
-
-### Black Ash Eruption {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/black-ash-eruption"}
-
-
-*Your attack produces a cloud of black ash that launches an enemy into the air.*
-
-| **Magic, Melee, Strike, Weapon** |     **Main action** |
-|----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 3 + A damage; vertical push 5
-- **12-16:** 6 + A damage; vertical push 10
-- **17+:** 9 + A damage; vertical push 15
-
-**Effect:** A creature [force moved](../../../../movement/forced-movement.md) by this ability must be moved straight upward.
-
-### Cinderstorm {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/cinderstorm"}
-
-
-*You [teleport](../../../../movement/teleport.md) your friends in a burst of ash and fire.*
-
-| **Magic**      |                          **Maneuver** |
-|----------------|--------------------------------------:|
-| **📏 4 burst** | **🎯 Self and each ally in the area** |
-
-**Effect:** Each target can [teleport](../../../../movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../../../../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
-
-## 6th-Level Caustic Alchemy Abilities
-
-Choose one of the following abilities.
-
-### One Vial Makes You Better {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-better"}
-
-
-*A well-timed throw of a potion will keep your allies in the fight.*
-
-| **Ranged**       |           **Maneuver** |
-|------------------|-----------------------:|
-| **📏 Ranged 10** | **🎯 Three creatures** |
-
-**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.
-
-A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.
-
-### One Vial Makes You Faster {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-faster"}
-
-
-*Each ally who catches a potion you throw can take the battle to the next level.*
-
-| **Ranged**       |        **Main action** |
-|------------------|-----------------------:|
-| **📏 Ranged 10** | **🎯 Three creatures** |
-
-**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.
-
-A creature who drinks the potion receives benefits based on your power roll.
-
-**Power Roll + Agility:**
-
-- **≤11:** The creature's speed is increased by 2 until the end of the encounter.
-- **12-16:** The creature can [fly](../../../../movement/fly.md) until the end of the encounter.
-- **17+:** The creature turns invisible until the end of their next turn.
-
-## 6th-Level Harlequin Mask Abilities
-
-Choose one of the following abilities.
-
-### Look! {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/look"}
-
-
-*You distract your foes, allowing your allies to take advantage of that distraction.*
-
-| **Area, Magic** |                  **Maneuver** |
-|-----------------|------------------------------:|
-| **📏 5 burst**  | **🎯 Each enemy in the area** |
-
-**Effect:** Until the start of your next turn, any ability roll made against a target gains an edge.
-
-### Puppet Strings {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/puppet-strings"}
-
-
-*You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.*
-
-| **Magic, Melee**, **Strike, Weapon** |    **Main action** |
-|--------------------------------------|-------------------:|
-| **📏 Melee 1**                       | **🎯 Two enemies** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a free strike.
-- **12-16:** 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
-- **17+:** 7 damage; if the target has R < STRONG, before the damage is resolved, they can [shift](../../../../movement/shifting.md) up to their speed and use a main action ability of your choice.
-
-**Effect:** You choose the new targets for the original target's free strike or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">6th-Level College Ability</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your attack produces a cloud of black ash that launches an enemy into the air.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two enemies</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; if the target has R &lt; WEAK, before the damage is resolved, they make a free strike.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; if the target has R &lt; AVERAGE, before the damage is resolved, they use a main action ability of your choice.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; if the target has R &lt; STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your shadow college grants your choice of one of two heroic abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 6th-Level Black Ash Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Black Ash Eruption {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/black-ash-eruption&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A creature force moved by this ability must be moved straight upward.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Cinderstorm {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/cinderstorm&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target can teleport up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 6th-Level Caustic Alchemy Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### One Vial Makes You Better {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-better&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### One Vial Makes You Faster {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-faster&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>A creature who drinks the potion receives benefits based on your power roll.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## 6th-Level Harlequin Mask Abilities</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Look! {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/look&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, any ability roll made against a target gains an edge.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### Puppet Strings {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/puppet-strings&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You choose the new targets for the original target&#39;s free strike or ability. Additionally, if you are hidden or disguised, using this ability doesn&#39;t cause you to be revealed.</p></div>
+</div>
+</article>

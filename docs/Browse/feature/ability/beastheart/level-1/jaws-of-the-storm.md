@@ -21,12 +21,24 @@ type: ability
 
 ---
 
-*Your foes are torn by a tempest of primordial teeth and claws.*
-
-| **Area, Beastheart, Magic** |                  **Maneuver** |
-|-----------------------------|------------------------------:|
-| **📏 2 cube within 5**      | **🎯 Each enemy in the area** |
-
-**Effect:** Each target takes cold, fire, lightning, or sonic damage (your choice) equal to your Might score.
-
-**Spend 1 Ferocity:** The size of the cube increases by 1.
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Jaws of the Storm</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Your foes are torn by a tempest of primordial teeth and claws.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 cube within 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target takes cold, fire, lightning, or sonic damage (your choice) equal to your Might score.</p></div>
+</div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The size of the cube increases by 1.</span></div>
+</article>

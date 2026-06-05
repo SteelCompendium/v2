@@ -10,24 +10,42 @@ type: trait
 
 ---
 
-Your [primordial aspect](../level-1/primordial-aspect.md) grants you a feature, as shown on the 5th-Level Aspect Features table.
-
-### 5th-Level Aspect Features Table
-
-| Aspect     | Feature    |
-|------------|------------|
-| Berserker  | [Bounder](bounder.md)    |
-| Reaver     | [Unfettered](unfettered.md) |
-| Stormwight | [Stormborn](stormborn.md)  |
-
-## Bounder {data-scc="mcdm.heroes.v1/feature.trait.fury.level-5/bounder"}
-
-Your jump distance and height double (see Movement Types in Chapter 10: [Combat](../../../../../Read/heroes/combat.md)). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you [land prone](../../../../condition/prone.md) (see Falling in Chapter 10). You [are not prone](../../../../condition/prone.md) after falling and landing on another creature.
-
-## Stormborn {data-scc="mcdm.heroes.v1/feature.trait.fury.level-5/stormborn"}
-
-You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level [conduit](../../../../class/conduit.md) (see 1st-Level Domain Feature in the [Conduit](../../../../class/conduit.md) section).
-
-## Unfettered {data-scc="mcdm.heroes.v1/feature.trait.fury.level-5/unfettered"}
-
-At the start of your turn, you can end any [restrained](../../../../condition/restrained.md) condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">5th-Level Aspect Feature</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Aspect</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Berserker</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Bounder</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your primordial aspect grants you a feature, as shown on the 5th-Level Aspect Features table.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### 5th-Level Aspect Features Table</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Bounder {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-5/bounder&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your jump distance and height double (see Movement Types in Chapter 10: Combat). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you land prone (see Falling in Chapter 10). You are not prone after falling and landing on another creature.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Stormborn {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-5/stormborn&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level conduit (see 1st-Level Domain Feature in the Conduit section).</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Unfettered {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-5/unfettered&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>At the start of your turn, you can end any restrained condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.</p></div>
+</div>
+</article>

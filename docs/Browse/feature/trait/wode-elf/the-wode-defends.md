@@ -9,18 +9,33 @@ type: trait
 
 ---
 
-You have the following signature ability. Signature abilities can be used at will.
-
-## The Wode Defends {data-scc="mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends"}
-
-*Thorny vines erupt from every surface and attempt to bind your foe.*
-
-| **Magic, Ranged, Strike** |               **Main action** |
-|---------------------------|------------------------------:|
-| **📏 Ranged 10**          |           **🎯 One creature** |
-
-**Power Roll + Might or Agility:**
-
-- **≤11:** 2 + M or A damage; A < WEAK, [slowed](../../../condition/slowed.md) (save ends)
-- **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)
-- **17+:** 5 + M or A damage; A < STRONG, [restrained](../../../condition/restrained.md) (save ends)
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">The Wode Defends</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">Thorny vines erupt from every surface and attempt to bind your foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might or Agility</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M or A damage; A &lt; WEAK, slowed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + M or A damage; A &lt; AVERAGE, slowed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 + M or A damage; A &lt; STRONG, restrained (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You have the following signature ability. Signature abilities can be used at will.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## The Wode Defends {data-scc=&#34;mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends&#34;}</p></div>
+</div>
+</article>

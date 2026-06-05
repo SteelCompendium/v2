@@ -26,16 +26,31 @@ type: ability
 
 ---
 
-*Fungal spores sprout inside your enemy's brain, allowing you to control their actions.*
-
-| **Green, Magic, Ranged, Strike, Void** |     **Main action** |
-|----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
-
-**Effect:** The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn't. You then make a power roll against the target of this ability.
-
-**Power Roll + Reason:**
-
-- **≤11:** 5 + R poison damage
-- **12-16:** 9 + R poison damage
-- **17+:** 12 + R poison damage
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Subvert the Green Within</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Essence</div></div>
+</div>
+<p class="sc-ability__flavor">Fungal spores sprout inside your enemy&#39;s brain, allowing you to control their actions.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Void</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + R poison damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + R poison damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R poison damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn&#39;t. You then make a power roll against the target of this ability.</p></div>
+</div>
+</article>

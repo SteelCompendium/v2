@@ -19,12 +19,27 @@ type: ability
 
 ---
 
-*"I'd have brought treats had I known I'd be fighting a dog."*
-
-| **Melee**      |           **Triggered** |
-|----------------|------------------------:|
-| **📏 Melee 1** | **🎯 Self or one ally** |
-
-**Trigger:** The target takes damage from a melee strike.
-
-**Effect:** The target makes a free strike against the creature who made the triggering strike.
+<article class="sc-ability sc-fil" data-action="triggered">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">)</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Triggered Action</div>
+<h3 class="sc-ability__name">Riposte</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">I&#39;&#39;d have brought treats had I known I&#39;&#39;d be fighting a dog.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
+<div class="sc-ability__section-body"><p>The target takes damage from a melee strike.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target makes a free strike against the creature who made the triggering strike.</p></div>
+</div>
+</article>

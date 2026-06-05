@@ -10,68 +10,58 @@ type: trait
 
 ---
 
-Choose one heroic ability from the following options, each of which costs 9 ferocity to use.
-
-## Deadshot {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-5/deadshot"}
-
-*You channel your companion's feral senses to take the perfect shot.*
-
-| **Beastheart, Ranged, Strike, Weapon** |               **Main action** |
-|----------------------------------------|------------------------------:|
-| **📏 Ranged 15**                       | **🎯 One creature or object** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** 12 + I damage
-- **12-16:** 18 + I damage
-- **17+:** 30 + I damage
-
-**Effect:** If you are hidden, you remain hidden after the strike.
-
-## Dogpile {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-5/dogpile"}
-
-*You and your allies surround your enemy like a pack of wolves, mobbing them and pulling them down.*
-
-| **Beastheart, Melee, Strike, Weapon** |     **Main action** |
-|---------------------------------------|--------------------:|
-| **📏 Melee 1**                        | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 10 + M damage; M < WEAK [grabbed](../../../../condition/grabbed.md) and [prone](../../../../condition/prone.md)
-- **12-16:** 15 + M damage; M < AVERAGE [grabbed](../../../../condition/grabbed.md) and [prone](../../../../condition/prone.md)
-- **17+:** 20 + M damage; M < STRONG [grabbed](../../../../condition/grabbed.md) and [prone](../../../../condition/prone.md)
-
-**Effect:** Each ally adjacent to the target can use a free triggered action to deal damage to the target equal to their highest characteristic score.
-
-## One, Two, Three, Heave {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-5/one-two-three-heave"}
-
-*Harnessing your companion's strength, you send your foe flying.*
-
-| **Beastheart, Melee, Strike, Weapon** | **Main action** |
-|---------------------------------------|----------------:|
-| **📏 Melee 1**                        | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 10 + M damage; vertical push 4; [prone](../../../../condition/prone.md)
-- **12-16:** 15 + M damage; vertical push 6; [prone](../../../../condition/prone.md)
-- **17+:** 20 + M damage; vertical push 8; [prone](../../../../condition/prone.md)
-
-**Effect:** If your companion is adjacent to the target, this [forced movement](../../../../movement/forced-movement.md) can ignore the target's stability.
-
-## Rip Them Apart! {data-scc="mcdm.beastheart.v1/feature.ability.beastheart.level-5/rip-them-apart"}
-
-*In a gruesome display, you and your companion rip off a pinned enemy's limb or other body part and toss it away.*
-
-| **Melee, Strike, Weapon** | **Main action** |
-|---------------------------|----------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
-
-**Power Roll + Might:**
-
-- **≤11:** 11 + M damage; M < WEAK [bleeding](../../../../condition/bleeding.md) (save ends)
-- **12-16:** 17 + M damage; M < AVERAGE [bleeding](../../../../condition/bleeding.md) (save ends)
-- **17+:** 22 + M damage; M < STRONG [bleeding](../../../../condition/bleeding.md) (save ends)
-
-**Effect:** If the target is [grabbed](../../../../condition/grabbed.md) by your partner, the target takes extra damage equal to your Might score plus your partner's Might score. If the target is reduced to 0 Stamina by this ability, each enemy within 2 squares who has P < AVERAGE is [frightened](../../../../condition/frightened.md) (save ends).
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">9-Ferocity Ability</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You channel your companion&#39;s feral senses to take the perfect shot.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Beastheart</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 + M damage; M &lt; WEAK bleeding (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 + M damage; M &lt; AVERAGE bleeding (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">22 + M damage; M &lt; STRONG bleeding (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 ferocity to use.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Deadshot {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-5/deadshot&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If you are hidden, you remain hidden after the strike.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Dogpile {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-5/dogpile&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each ally adjacent to the target can use a free triggered action to deal damage to the target equal to their highest characteristic score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## One, Two, Three, Heave {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-5/one-two-three-heave&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If your companion is adjacent to the target, this forced movement can ignore the target&#39;s stability.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Rip Them Apart! {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-5/rip-them-apart&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If the target is grabbed by your partner, the target takes extra damage equal to your Might score plus your partner&#39;s Might score. If the target is reduced to 0 Stamina by this ability, each enemy within 2 squares who has P &lt; AVERAGE is frightened (save ends).</p></div>
+</div>
+</article>

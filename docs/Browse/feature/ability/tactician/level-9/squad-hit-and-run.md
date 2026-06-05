@@ -18,10 +18,23 @@ type: ability
 
 ---
 
-*I had to pry this secret from the [shadow college](../../../trait/shadow/level-1/shadow-college.md)s.*
-
-| **Ranged**       |            **Main action** |
-|------------------|---------------------------:|
-| **📏 Ranged 10** | **🎯 Self and two allies** |
-
-**Effect:** Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can [shift](../../../../movement/shifting.md) up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Squad! Hit and Run!</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Focus</div></div>
+</div>
+<p class="sc-ability__flavor">I had to pry this secret from the shadow colleges.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and two allies</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can shift up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.</p></div>
+</div>
+</article>

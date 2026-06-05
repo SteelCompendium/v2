@@ -24,16 +24,31 @@ type: ability
 
 ---
 
-*Fire engulfs your target and continues to churn.*
-
-| **Fire, Magic, Ranged, Strike** |               **Main action** |
-|---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 5 + R fire damage
-- **12-16:** 8 + R fire damage
-- **17+:** 11 + R fire damage
-
-**Persistent 1:** If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">The Flesh, a Crucible</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">3</span> Essence</div></div>
+</div>
+<p class="sc-ability__flavor">Fire engulfs your target and continues to churn.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + R fire damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + R fire damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + R fire damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
+<div class="sc-ability__section-body"><p>If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).</p></div>
+</div>
+</article>

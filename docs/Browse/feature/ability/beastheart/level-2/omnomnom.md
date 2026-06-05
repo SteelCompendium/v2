@@ -26,20 +26,38 @@ type: ability
 
 ---
 
-*What do you have in your mouth? No! Bad boy!*
-
-| **Companion, Melee, Strike, Weapon** | **Main action** |
-|--------------------------------------|----------------:|
-| **📏 Melee 1**                       | **🎯 One creature** |
-
-**Special:** This ability targets only creatures who are [grabbed](../../../../condition/grabbed.md) and are your companion's size or smaller.
-
-**Power Roll + Might:**
-
-- **≤11:** 6 + M damage; M < WEAK the target is swallowed
-- **12-16:** 10 + M damage; M < AVERAGE the target is swallowed
-- **17+:** 14 + M damage; M < STRONG the target is swallowed
-
-**Effect:** A swallowed creature shares your companion's space, is [grabbed](../../../../condition/grabbed.md) and [restrained](../../../../condition/restrained.md), and has line of effect only to your companion. Nothing has line of effect to the swallowed creature.
-
-Once per round at the start of your turn, the swallowed creature takes acid damage equal to 1 + your companion's Might score. If the swallowed creature escapes the grab, your companion immediately regurgitates the creature, who lands [prone](../../../../condition/prone.md) in an unoccupied square adjacent to your companion. Your companion can also regurgitate a swallowed creature as a free maneuver. Your companion can have only one creature swallowed at a time.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">Omnomnom</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Ferocity</div></div>
+</div>
+<p class="sc-ability__flavor">What do you have in your mouth? No! Bad boy!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Companion</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M damage; M &lt; WEAK the target is swallowed</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + M damage; M &lt; AVERAGE the target is swallowed</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + M damage; M &lt; STRONG the target is swallowed</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
+<div class="sc-ability__section-body"><p>This ability targets only creatures who are grabbed and are your companion&#39;s size or smaller.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A swallowed creature shares your companion&#39;s space, is grabbed and restrained, and has line of effect only to your companion. Nothing has line of effect to the swallowed creature.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Once per round at the start of your turn, the swallowed creature takes acid damage equal to 1 + your companion&#39;s Might score. If the swallowed creature escapes the grab, your companion immediately regurgitates the creature, who lands prone in an unoccupied square adjacent to your companion. Your companion can also regurgitate a swallowed creature as a free maneuver. Your companion can have only one creature swallowed at a time.</p></div>
+</div>
+</article>

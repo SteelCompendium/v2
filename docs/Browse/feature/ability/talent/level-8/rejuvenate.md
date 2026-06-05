@@ -20,16 +20,30 @@ type: ability
 
 ---
 
-*You reshape the flow of time in the target's body to return it to an earlier state.*
-
-| **Chronopathy, Psionic, Ranged** |            **Maneuver** |
-|----------------------------------|------------------------:|
-| **📏 Ranged 10**                 | **🎯 Self or one ally** |
-
-**Effect:** Choose two of the following effects:
-
-- The target can spend any number of Recoveries.
-- The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
-- The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
-
-**Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../../../../ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are [weakened](../../../../condition/weakened.md) and [slowed](../../../../condition/slowed.md) (save ends).
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Rejuvenate</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Clarity</div></div>
+</div>
+<p class="sc-ability__flavor">You reshape the flow of time in the target&#39;s body to return it to an earlier state.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>Choose two of the following effects:</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>- The target can spend any number of Recoveries. - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn. - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
+<div class="sc-ability__section-body"><p>You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-year-old). Additionally, you are weakened and slowed (save ends).</p></div>
+</div>
+</article>

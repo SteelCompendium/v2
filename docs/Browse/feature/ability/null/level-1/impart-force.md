@@ -25,16 +25,31 @@ type: ability
 
 ---
 
-*A single touch from you, and your enemy flies backward.*
-
-| **Melee, Psionic, Strike, Weapon** |                  **Maneuver** |
-|------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
-
-**Power Roll + Intuition:**
-
-- **≤11:** Push 3
-- **12-16:** Push 5
-- **17+:** Push 7
-
-**Effect:** An object you target must be your size or smaller. You gain an edge on this ability. Additionally, for each square you push the target, they take 1 psychic damage.
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Impart Force</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Discipline</div></div>
+</div>
+<p class="sc-ability__flavor">A single touch from you, and your enemy flies backward.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Push 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Push 5</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Push 7</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>An object you target must be your size or smaller. You gain an edge on this ability. Additionally, for each square you push the target, they take 1 psychic damage.</p></div>
+</div>
+</article>

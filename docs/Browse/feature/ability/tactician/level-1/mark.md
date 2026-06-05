@@ -17,21 +17,35 @@ type: ability
 
 ---
 
-*You draw your allies' attention to a specific foe—with devastating effect.*
-
-| **Ranged**       |        **Maneuver** |
-|------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 One creature** |
-
-**Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](../../../../class/tactician.md) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
-
-You can initially mark only one creature using this ability, though other [tactician](../../../../class/tactician.md) abilities allow you to mark additional creatures at the same time. The mastermind [tactical doctrine](../../../trait/tactician/level-1/tactical-doctrine.md)'s [Anticipation](../../../trait/tactician/level-5/anticipation.md) feature allows you to target additional creatures with this ability starting at 5th level.
-
-While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:
-
-- The ability deals extra damage equal to twice your Reason score.
-- The creature dealing the damage can spend a Recovery.
-- The creature dealing the damage can [shift](../../../../movement/shifting.md) up to a number of squares equal to your Reason score.
-- If you damage a creature marked by you with a melee ability, the creature is [taunted](../../../../condition/taunted.md) by you until the end of their next turn.
-
-You can't gain more than one benefit from the same trigger.
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">Mark</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You draw your allies&#39; attention to a specific foe—with devastating effect.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another tactician marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You can initially mark only one creature using this ability, though other tactician abilities allow you to mark additional creatures at the same time. The mastermind tactical doctrine&#39;s Anticipation feature allows you to target additional creatures with this ability starting at 5th level.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>- The ability deals extra damage equal to twice your Reason score. - The creature dealing the damage can spend a Recovery. - The creature dealing the damage can shift up to a number of squares equal to your Reason score. - If you damage a creature marked by you with a melee ability, the creature is taunted by you until the end of their next turn.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You can&#39;t gain more than one benefit from the same trigger.</p></div>
+</div>
+</article>

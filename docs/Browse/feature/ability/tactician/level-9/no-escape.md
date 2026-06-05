@@ -25,18 +25,35 @@ type: ability
 
 ---
 
-*Nothing will stop you from reaching your foe.*
-
-| **Charge, Melee, Strike, Weapon** |     **Main action** |
-| --------------------------------- | ------------------: |
-| **📏 Melee 1**                    | **🎯 One creature** |
-
-**Effect:** You mark the target.
-
-**Power Roll + Might:**
-
-- **≤11:** 11 + M damage
-- **12-16:** 16 + M damage
-- **17+:** 21 + M damage
-
-**Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as [difficult terrain](../../../../movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
+<article class="sc-ability sc-fil" data-action="main">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">l</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Main Action</div>
+<h3 class="sc-ability__name">No Escape</h3>
+</div>
+<div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Focus</div></div>
+</div>
+<p class="sc-ability__flavor">Nothing will stop you from reaching your foe.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">16 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + M damage</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You mark the target.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>If you use this ability as part of the Charge main action, enemies&#39; spaces don&#39;t count as difficult terrain for your movement. Additionally, if you move through any creature&#39;s space, you can slide that creature 1 square out of the path of your charge.</p></div>
+</div>
+</article>

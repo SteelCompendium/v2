@@ -10,66 +10,58 @@ type: trait
 
 ---
 
-Choose one heroic ability from the following options, each of which costs 9 insight to use.
-
-## Blackout {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/blackout"}
-
-
-*You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.*
-
-| **Area, Magic** |   **Maneuver** |
-|-----------------|---------------:|
-| **📏 3 burst**  | **🎯 Special** |
-
-**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../../../../movement/shifting.md) to a new location within the area and make a free strike against them.
-
-## Into the Shadows {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows"}
-
-
-*You sweep your foe off their feet and plunge them into absolute darkness.*
-
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
-|----------------------------------|------------------------------:|
-| **📏 Melee 1**                   | **🎯 One creature or object** |
-
-**Effect:** You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a power roll upon your return.
-
-**Power Roll + Agility:**
-
-- **≤11:** 8 + A corruption damage
-- **12-16:** 13 + A corruption damage
-- **17+:** 17 + A corruption damage
-
-## Shadowfall {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/shadowfall"}
-
-
-*You vanish. They fall. You reappear.*
-
-| **Area, Melee, Weapon**     |               **Main action** |
-|-----------------------------|------------------------------:|
-| **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 10 damage
-- **12-16:** 14 damage
-- **17+:** 20 damage
-
-**Effect:** You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.
-
-## You Talk Too Much {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/you-talk-too-much"}
-
-
-*Silence is a virtue. A knife pinning their mouth shut is the next best thing.*
-
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
-|-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 10 + A damage; P < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-- **12-16:** 15 + A damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-- **17+:** 21 + A damage; P < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
-
-**Effect:** The target can't communicate with anyone until the end of the encounter.
+<article class="sc-ability sc-fil" data-action="maneuver">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">f</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Maneuver</div>
+<h3 class="sc-ability__name">9-Insight Ability</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<p class="sc-ability__flavor">You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
+</div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + A damage; P &lt; WEAK, dazed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + A damage; P &lt; AVERAGE, dazed (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + A damage; P &lt; STRONG, dazed (save ends)</span></div>
+</div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 insight to use.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Blackout {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-5/blackout&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a free strike against them.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Into the Shadows {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a power roll upon your return.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Shadowfall {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-5/shadowfall&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## You Talk Too Much {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-5/you-talk-too-much&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
+<div class="sc-ability__section-body"><p>The target can&#39;t communicate with anyone until the end of the encounter.</p></div>
+</div>
+</article>

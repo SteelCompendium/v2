@@ -10,37 +10,60 @@ type: trait
 
 ---
 
-Your [elemental specialization](../level-1/elemental-specialization.md) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../level-1/elemental-specialization.md) Features table.
-
-### 5th-Level Elemental Specialization Features Table
-
-| Specialization | Feature                      |
-|----------------|------------------------------|
-| Earth          | [The Mountain Does Not Move](the-mountain-does-not-move.md)   |
-| Fire           | [Smoldering Step](smoldering-step.md)              |
-| Green          | [Hide of Tenfold Shields](hide-of-tenfold-shields.md)      |
-| Void           | [Pierce the Veil of Substance](pierce-the-veil-of-substance.md) |
-
-## Hide of Tenfold Shields {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-5/hide-of-tenfold-shields"}
-
-Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](../../../../complication/animal-form.md) in combat, which is added to any temporary Stamina provided by the [animal form](../../../../complication/animal-form.md).
-
-Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.
-
-## The Mountain Does Not Move {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-5/the-mountain-does-not-move"}
-
-You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.
-
-Additionally, whenever an ally within distance of your [Hurl Element](../../../ability/elementalist/level-1/hurl-element.md) ability is [force moved](../../../../movement/forced-movement.md), you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally's stability by an amount equal to the stability you lost. This change lasts until the end of the round.
-
-## Pierce the Veil of Substance {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-5/pierce-the-veil-of-substance"}
-
-Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.
-
-Additionally, whenever you use a void ability, you or one ally within distance of the ability can [teleport](../../../../movement/teleport.md) a number of squares equal to your Reason score.
-
-## Smoldering Step {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-5/smoldering-step"}
-
-You can use 1 square of movement to walk into an area of fire your size or larger and [teleport](../../../../movement/teleport.md) to any other area of fire your size or larger within 10 squares of the first area.
-
-Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your Reason score.
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">5th-Level Specialization Feature</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Specialization</span></div>
+<div class="sc-ability__rail">
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Earth</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">The Mountain Does Not Move</div></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your elemental specialization grants you a feature, as shown on the 5th-Level Elemental Specialization Features table.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>### 5th-Level Elemental Specialization Features Table</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Hide of Tenfold Shields {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-5/hide-of-tenfold-shields&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an animal form in combat, which is added to any temporary Stamina provided by the animal form.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## The Mountain Does Not Move {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-5/the-mountain-does-not-move&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Additionally, whenever an ally within distance of your Hurl Element ability is force moved, you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally&#39;s stability by an amount equal to the stability you lost. This change lasts until the end of the round.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Pierce the Veil of Substance {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-5/pierce-the-veil-of-substance&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Additionally, whenever you use a void ability, you or one ally within distance of the ability can teleport a number of squares equal to your Reason score.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>## Smoldering Step {data-scc=&#34;mcdm.heroes.v1/feature.trait.elementalist.level-5/smoldering-step&#34;}</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>You can use 1 square of movement to walk into an area of fire your size or larger and teleport to any other area of fire your size or larger within 10 squares of the first area.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your Reason score.</p></div>
+</div>
+</article>

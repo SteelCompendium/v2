@@ -10,4 +10,16 @@ type: trait
 
 ---
 
-Whenever you use an ability to reduce damage dealt to you or to reduce the distance of [forced movement](../../../../movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your [Null Field](../level-1/null-field.md) ability equal to your Intuition score.
+<article class="sc-ability sc-fil" data-action="trait">
+<div class="sc-ability__head">
+<span class="sc-crest sc-ability__crest"><span class="sc-ability__glyph">*</span></span>
+<div class="sc-ability__titles">
+<div class="sc-ability__eyebrow"><span class="sc-ability__dia"></span>Trait</div>
+<h3 class="sc-ability__name">Inertial Fulcrum</h3>
+</div>
+<div class="sc-ability__corner"></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Whenever you use an ability to reduce damage dealt to you or to reduce the distance of forced movement imposed upon you, you can deal damage to one enemy in the area of your Null Field ability equal to your Intuition score.</p></div>
+</div>
+</article>
