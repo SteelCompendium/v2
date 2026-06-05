@@ -15,6 +15,10 @@ docs_dir: ./docs
 # `order` sets book ordering in the Read tab. `icon` is the iconPaths key for the
 # book's card crest (see iconPaths in steel-etl internal/site/cards.go);
 # `description` is the blurb shown on the book card in the Books-tab landing.
+# Gotchas: `icon` must be a key that EXISTS in iconPaths or the crest silently
+# falls back to the scroll glyph (there is no dragon glyph in the MDI free set —
+# the bestiary uses skull). A `description` containing a colon must be quoted, or
+# YAML parses it as a mapping and the config load fails.
 books:
   - key: mcdm.heroes.v1
     folder: heroes
