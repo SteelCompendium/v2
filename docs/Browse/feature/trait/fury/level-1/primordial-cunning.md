@@ -20,9 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You are never surprised. Additionally, whenever you would push a target with <a href="../../../../../movement/forced-movement/">forced movement</a>, you can slide them instead.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>As your ferocity grows, you gain benefits as noted on the Reaver <a href="../../boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
+<div class="sc-ability__section-body"><p>You are never surprised. Additionally, whenever you would push a target with <a href="../../../../../movement/forced-movement/">forced movement</a>, you can slide them instead.</p><p>As your ferocity grows, you gain benefits as noted on the Reaver <a href="../../boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
 </div>
 </article>

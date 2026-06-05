@@ -20,9 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain essence (no action required). When you do, 1 breath becomes 3 essence.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Breath remains until you convert it to essence.</p></div>
+<div class="sc-ability__section-body"><p>You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain essence (no action required). When you do, 1 breath becomes 3 essence.</p><p>Breath remains until you convert it to essence.</p></div>
 </div>
 </article>

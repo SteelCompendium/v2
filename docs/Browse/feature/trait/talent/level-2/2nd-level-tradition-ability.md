@@ -34,16 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/talent-tradition/">talent tradition</a> grants your choice of one of two heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 2nd-Level Chronopathy Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Applied Chronometrics {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-2/applied-chronometrics&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/talent-tradition/">talent tradition</a> grants your choice of one of two heroic abilities.</p><p>## 2nd-Level Chronopathy Ability</p><p>Choose one of the following abilities.</p><p>### Applied Chronometrics {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-2/applied-chronometrics&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -51,10 +42,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>Your speed is halved until the end of the encounter.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Slow {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-2/slow&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your speed is halved until the end of the encounter.</p><p>### Slow {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-2/slow&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -62,43 +50,19 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The potency of this ability increases by 1 and you take 1d6 damage. At the start of each combat round while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 2nd-Level Telekinesis Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Gravitic Burst {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-2/gravitic-burst&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The potency of this ability increases by 1 and you take 1d6 damage. At the start of each combat round while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).</p><p>## 2nd-Level Telekinesis Ability</p><p>Choose one of the following abilities.</p><p>### Gravitic Burst {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-2/gravitic-burst&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The size of the burst increases by 1, and you are <a href="../../../../../condition/weakened/">weakened</a> until the end of your turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Levity and Gravity {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-2/levity-and-gravity&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The size of the burst increases by 1, and you are <a href="../../../../../condition/weakened/">weakened</a> until the end of your turn.</p><p>### Levity and Gravity {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-2/levity-and-gravity&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You take half the damage the target takes.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 2nd-Level Telepathy Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Overwhelm {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-2/overwhelm&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You take half the damage the target takes.</p><p>## 2nd-Level Telepathy Ability</p><p>Choose one of the following abilities.</p><p>### Overwhelm {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-2/overwhelm&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You start crying, and you can&#39;t use triggered actions or make free strikes until the end of the target&#39;s next turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Synaptic Override {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-2/synaptic-override&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You start crying, and you can&#39;t use triggered actions or make free strikes until the end of the target&#39;s next turn.</p><p>### Synaptic Override {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-2/synaptic-override&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

@@ -34,17 +34,11 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* <a href="../../../../ability/tactician/level-1/hammer-and-anvil/">Hammer and Anvil</a>.)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Hammer and Anvil {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/hammer-and-anvil&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* <a href="../../../../ability/tactician/level-1/hammer-and-anvil/">Hammer and Anvil</a>.)</p><p>## Hammer and Anvil {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/hammer-and-anvil&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Mind Game {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/mind-game&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.</p><p>## Mind Game {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/mind-game&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -52,17 +46,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Now! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/now&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.</p><p>## Now! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/now&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can make a free strike.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## This Is What We Planned For {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/this-is-what-we-planned-for&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each target can make a free strike.</p><p>## This Is What We Planned For {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/this-is-what-we-planned-for&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

@@ -20,9 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You are empowered by your audience, near and far. You can&#39;t be made <a href="../../../../../condition/frightened/">frightened</a>, and if you <a href="../../../../../condition/prone/">are prone</a>, you can stand up as a free maneuver.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your <a href="../../level-1/scene-partner/">Scene Partner</a> feature + either your Victories or the number of players in your game (whichever is higher).</p></div>
+<div class="sc-ability__section-body"><p>You are empowered by your audience, near and far. You can&#39;t be made <a href="../../../../../condition/frightened/">frightened</a>, and if you <a href="../../../../../condition/prone/">are prone</a>, you can stand up as a free maneuver.</p><p>Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your <a href="../../level-1/scene-partner/">Scene Partner</a> feature + either your Victories or the number of players in your game (whichever is higher).</p></div>
 </div>
 </article>

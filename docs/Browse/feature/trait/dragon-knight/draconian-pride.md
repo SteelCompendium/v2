@@ -33,9 +33,6 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following signature ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Draconian Pride {data-scc=&#34;mcdm.heroes.v1/feature.ability.dragon-knight/draconian-pride&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You have the following signature ability.</p><p>## Draconian Pride {data-scc=&#34;mcdm.heroes.v1/feature.ability.dragon-knight/draconian-pride&#34;}</p></div>
 </div>
 </article>

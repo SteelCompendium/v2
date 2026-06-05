@@ -34,24 +34,15 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 discipline to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Arcane Purge {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-8/arcane-purge&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 discipline to use.</p><p>## Arcane Purge {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-8/arcane-purge&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Phase Hurl {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-8/phase-hurl&#34;}</p></div>
+<div class="sc-ability__section-body"><p>While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.</p><p>## Phase Hurl {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-8/phase-hurl&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target and each creature or object they collide with from this <a href="../../../../../movement/forced-movement/">forced movement</a> takes psychic damage equal to the total number of squares the target was force moved. While the target is <a href="../../../../../condition/dazed/">dazed</a> this way, they see glimpses of creatures from other parts of the timescape.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Scalar Assault {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-8/scalar-assault&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target and each creature or object they collide with from this <a href="../../../../../movement/forced-movement/">forced movement</a> takes psychic damage equal to the total number of squares the target was force moved. While the target is <a href="../../../../../condition/dazed/">dazed</a> this way, they see glimpses of creatures from other parts of the timescape.</p><p>## Scalar Assault {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-8/scalar-assault&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Synaptic Anchor {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-8/synaptic-anchor&#34;}</p></div>

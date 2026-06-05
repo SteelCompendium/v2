@@ -34,16 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/talent-tradition/">talent tradition</a> grants your choice of one of two heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Chronopathy Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Acceleration Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/talent-tradition/">talent tradition</a> grants your choice of one of two heroic abilities.</p><p>## 9th-Level Chronopathy Abilities</p><p>Choose one of the following abilities.</p><p>### Acceleration Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -58,16 +49,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The targets share 6 of their Heroic Resource among themselves, as you determine. A target can&#39;t gain more than 3 of their Heroic Resource this way. After using this ability, you can&#39;t gain any clarity until the end of the next combat round.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Telekinesis Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Fulcrum {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/fulcrum&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The targets share 6 of their Heroic Resource among themselves, as you determine. A target can&#39;t gain more than 3 of their Heroic Resource this way. After using this ability, you can&#39;t gain any clarity until the end of the next combat round.</p><p>## 9th-Level Telekinesis Abilities</p><p>Choose one of the following abilities.</p><p>### Fulcrum {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/fulcrum&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -75,10 +57,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You can choose to reduce the size of the burst by 2 (to a minimum of 1 burst) to give the <a href="../../../../../movement/forced-movement/">forced movement</a> distance a +2 bonus. You take half the total damage all targets take from <a href="../../../../../movement/forced-movement/">forced movement</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Gravitic Nova {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/gravitic-nova&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You can choose to reduce the size of the burst by 2 (to a minimum of 1 burst) to give the <a href="../../../../../movement/forced-movement/">forced movement</a> distance a +2 bonus. You take half the total damage all targets take from <a href="../../../../../movement/forced-movement/">forced movement</a>.</p><p>### Gravitic Nova {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/gravitic-nova&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -86,16 +65,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/weakened/">weakened</a> (save ends). If you scored a critical hit with this ability, you die.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Telepathy Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Resonant Mind Spike {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/resonant-mind-spike&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/weakened/">weakened</a> (save ends). If you scored a critical hit with this ability, you die.</p><p>## 9th-Level Telepathy Abilities</p><p>Choose one of the following abilities.</p><p>### Resonant Mind Spike {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/resonant-mind-spike&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -103,10 +73,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The ability roll scores a critical hit on a natural 17 or higher. You take half the damage the target takes, and you can&#39;t reduce this damage in any way.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Synaptic Terror {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/synaptic-terror&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The ability roll scores a critical hit on a natural 17 or higher. You take half the damage the target takes, and you can&#39;t reduce this damage in any way.</p><p>### Synaptic Terror {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-9/synaptic-terror&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

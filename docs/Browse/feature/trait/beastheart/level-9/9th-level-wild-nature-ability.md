@@ -34,16 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your wild nature grants your choice of one of two heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 9th-Level Guardian Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Banshee Howl {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-9/banshee-howl&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your wild nature grants your choice of one of two heroic abilities.</p><p>### 9th-Level Guardian Abilities</p><p>Choose one of the following abilities.</p><p>### Banshee Howl {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-9/banshee-howl&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -54,16 +45,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While the target is <a href="../../../../../condition/taunted/">taunted</a> this way, all creatures except your companion have immunity 10 to damage dealt by the target.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 9th-Level Prowler Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Behold the Face of Chaos {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-9/behold-the-face-of-chaos&#34;}</p></div>
+<div class="sc-ability__section-body"><p>While the target is <a href="../../../../../condition/taunted/">taunted</a> this way, all creatures except your companion have immunity 10 to damage dealt by the target.</p><p>### 9th-Level Prowler Abilities</p><p>Choose one of the following abilities.</p><p>### Behold the Face of Chaos {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-9/behold-the-face-of-chaos&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -74,22 +56,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You, your companion, and the target enter the heart of an eternal storm on Quintessence. The three of you can&#39;t affect or be affected by any creatures except each other. Creatures in this area are always adjacent to each other and can&#39;t move or <a href="../../../../../movement/teleport/">teleport</a> away from each other, but can otherwise act normally.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While on Quintessence, the target takes 5 cold damage, 5 fire damage, 5 lightning damage, and 5 sonic damage at the start of each of your turns.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>The effect ends when one of you dies or you end it as a free maneuver. The target can make a save at the end of each of their turns to end the effect early. When the effect ends, you each reappear in the space you left or the nearest unoccupied space. If the target dies on Quintessence, their remains do not return.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 9th-Level Punisher Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Battle Frenzy {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-9/battle-frenzy&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You, your companion, and the target enter the heart of an eternal storm on Quintessence. The three of you can&#39;t affect or be affected by any creatures except each other. Creatures in this area are always adjacent to each other and can&#39;t move or <a href="../../../../../movement/teleport/">teleport</a> away from each other, but can otherwise act normally.</p><p>While on Quintessence, the target takes 5 cold damage, 5 fire damage, 5 lightning damage, and 5 sonic damage at the start of each of your turns.</p><p>The effect ends when one of you dies or you end it as a free maneuver. The target can make a save at the end of each of their turns to end the effect early. When the effect ends, you each reappear in the space you left or the nearest unoccupied space. If the target dies on Quintessence, their remains do not return.</p><p>### 9th-Level Punisher Abilities</p><p>Choose one of the following abilities.</p><p>### Battle Frenzy {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-9/battle-frenzy&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
@@ -97,26 +64,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If a target resists the potency, they can choose to become battle-frenzied.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>A battle-frenzied creature must use a free triggered action to make a melee free strike against themself or a creature adjacent to them. You choose each creature&#39;s target. After making this strike, they are no longer battle frenzied.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Juggernaut {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-9/juggernaut&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If a target resists the potency, they can choose to become battle-frenzied.</p><p>A battle-frenzied creature must use a free triggered action to make a melee free strike against themself or a creature adjacent to them. You choose each creature&#39;s target. After making this strike, they are no longer battle frenzied.</p><p>### Juggernaut {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-9/juggernaut&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion can forgo dealing damage to targets of your choice.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 9th-Level Spark Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### For the Pack! {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-9/for-the-pack&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your companion can forgo dealing damage to targets of your choice.</p><p>### 9th-Level Spark Abilities</p><p>Choose one of the following abilities.</p><p>### For the Pack! {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-9/for-the-pack&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
@@ -128,17 +80,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion dies. If you are dead and in the area, you are restored to life with 1 Stamina. You and each ally in the area can spend up to 2 Recoveries.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Wild Hunt {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-9/wild-hunt&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your companion dies. If you are dead and in the area, you are restored to life with 1 Stamina. You and each ally in the area can spend up to 2 Recoveries.</p><p>### Wild Hunt {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-9/wild-hunt&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion summons a ghostly pack of creatures that resemble them to fill the area. The pack can appear in and move through creatures, objects, and terrain. Once summoned, the pack moves in a straight line toward your companion until it&#39;s centered on your companion&#39;s space, then continues moving in a straight line until it is up to 20 squares away.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your companion targets each enemy inside the pack&#39;s area during its movement once with the following power roll. If a creature is killed by this ability, their body is dragged off to Quintessence to be devoured at leisure.</p></div>
+<div class="sc-ability__section-body"><p>Your companion summons a ghostly pack of creatures that resemble them to fill the area. The pack can appear in and move through creatures, objects, and terrain. Once summoned, the pack moves in a straight line toward your companion until it&#39;s centered on your companion&#39;s space, then continues moving in a straight line until it is up to 20 squares away.</p><p>Your companion targets each enemy inside the pack&#39;s area during its movement once with the following power roll. If a creature is killed by this ability, their body is dragged off to Quintessence to be devoured at leisure.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">This ability also affects a 3 burst originating from you. An enemy in both areas is only affected once.</span></div>
 </article>

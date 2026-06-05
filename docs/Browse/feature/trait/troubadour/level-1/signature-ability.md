@@ -34,10 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* <a href="../../../../ability/troubadour/level-1/witty-banter/">Witty Banter</a>.)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Artful Flourish {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/artful-flourish&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* <a href="../../../../ability/troubadour/level-1/witty-banter/">Witty Banter</a>.)</p><p>## Artful Flourish {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/artful-flourish&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -51,76 +48,43 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is <a href="../../../../../condition/taunted/">taunted</a> by you or a willing ally adjacent to you until the end of the target&#39;s next turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Witty Banter {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../../../condition/taunted/">taunted</a> by you or a willing ally adjacent to you until the end of the target&#39;s next turn.</p><p>## Witty Banter {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Heroic Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You master a range of heroic abilities, all of which cost drama to empower them.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 3-Drama Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* <a href="../../../../ability/troubadour/level-1/harsh-critic/">Harsh Critic</a>.)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Harsh Critic {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/harsh-critic&#34;}</p></div>
+<div class="sc-ability__section-body"><p>## Heroic Abilities</p><p>You master a range of heroic abilities, all of which cost drama to empower them.</p><p>### 3-Drama Ability</p><p>Choose one heroic ability from the following options, each of which costs 3 drama to use. (*Quick Build:* <a href="../../../../ability/troubadour/level-1/harsh-critic/">Harsh Critic</a>.)</p><p>### Harsh Critic {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/harsh-critic&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The first time the target uses an ability before the start of your next turn, any effects from the ability&#39;s tier outcomes other than damage are negated for all targets. Ability effects that always happen regardless of the power roll work as usual.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Hypnotic Overtones {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The first time the target uses an ability before the start of your next turn, any effects from the ability&#39;s tier outcomes other than damage are negated for all targets. Ability effects that always happen regardless of the power roll work as usual.</p><p>### Hypnotic Overtones {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Quick Rewrite {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/quick-rewrite&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Upstage {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/upstage&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</p><p>### Upstage {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/upstage&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your speed. You make one power roll that targets each enemy you move adjacent to during this <a href="../../../../../movement/shifting/">shift</a>.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 5-Drama Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* <a href="../../../../ability/troubadour/level-1/dramatic-reversal/">Dramatic Reversal</a>.)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Dramatic Reversal {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-reversal&#34;}</p></div>
+<div class="sc-ability__section-body"><p>### 5-Drama Ability</p><p>Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* <a href="../../../../ability/troubadour/level-1/dramatic-reversal/">Dramatic Reversal</a>.)</p><p>### Dramatic Reversal {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-reversal&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Fake Your Death {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/fake-your-death&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to speed and you ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>. The illusion and your invisibility last until the end of your next turn, or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Flip the Script {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/flip-the-script&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to speed and you ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>. The illusion and your invisibility last until the end of your next turn, or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.</p><p>### Flip the Script {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/flip-the-script&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares. Any <a href="../../../../../movement/teleport/">teleport</a>ed target who was <a href="../../../../../condition/slowed/">slowed</a> is no longer <a href="../../../../../condition/slowed/">slowed</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Method Acting {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/method-acting&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares. Any <a href="../../../../../movement/teleport/">teleport</a>ed target who was <a href="../../../../../condition/slowed/">slowed</a> is no longer <a href="../../../../../condition/slowed/">slowed</a>.</p><p>### Method Acting {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/method-acting&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

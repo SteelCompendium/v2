@@ -34,17 +34,11 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 ferocity to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Debilitating Strike {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-5/debilitating-strike&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 ferocity to use.</p><p>## Debilitating Strike {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-5/debilitating-strike&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/slowed/">slowed</a> this way, the target takes 1 damage for every square they move, including from <a href="../../../../../movement/forced-movement/">forced movement</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## My Turn! {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-5/my-turn&#34;}</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/slowed/">slowed</a> this way, the target takes 1 damage for every square they move, including from <a href="../../../../../movement/forced-movement/">forced movement</a>.</p><p>## My Turn! {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-5/my-turn&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
@@ -52,17 +46,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can spend a Recovery.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Rebounding Storm {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-5/rebounding-storm&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You can spend a Recovery.</p><p>## Rebounding Storm {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-5/rebounding-storm&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>When a target would end this <a href="../../../../../movement/forced-movement/">forced movement</a> by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as <a href="../../../../../movement/forced-movement/">forced movement</a> remains, this effect continues if the target collides with another creature or object.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## To Stone! {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-5/to-stone&#34;}</p></div>
+<div class="sc-ability__section-body"><p>When a target would end this <a href="../../../../../movement/forced-movement/">forced movement</a> by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as <a href="../../../../../movement/forced-movement/">forced movement</a> remains, this effect continues if the target collides with another creature or object.</p><p>## To Stone! {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-5/to-stone&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

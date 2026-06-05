@@ -34,39 +34,18 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 2nd-Level Berserker Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Special Delivery {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-2/special-delivery&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two heroic abilities.</p><p>## 2nd-Level Berserker Ability</p><p>Choose one of the following abilities.</p><p>### Special Delivery {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-2/special-delivery&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You vertically push the target up to 4 squares. This <a href="../../../../../movement/forced-movement/">forced movement</a> ignores the target&#39;s stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Wrecking Ball {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You vertically push the target up to 4 squares. This <a href="../../../../../movement/forced-movement/">forced movement</a> ignores the target&#39;s stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.</p><p>### Wrecking Ball {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for you. You automatically destroy each square of structure you move through and leave behind a square of <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
+<div class="sc-ability__section-body"><p>You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for you. You automatically destroy each square of structure you move through and leave behind a square of <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p><p>Additionally, you make one power roll that targets each enemy you move adjacent to during this movement.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, you make one power roll that targets each enemy you move adjacent to during this movement.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 2nd-Level Reaver Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Death... Death! {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-2/death-death&#34;}</p></div>
+<div class="sc-ability__section-body"><p>## 2nd-Level Reaver Ability</p><p>Choose one of the following abilities.</p><p>### Death... Death! {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-2/death-death&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Phalanx-Breaker {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-2/phalanx-breaker&#34;}</p></div>
@@ -76,20 +55,11 @@ type: trait
 <div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your speed and make one power roll that targets up to three enemies you move adjacent to during this <a href="../../../../../movement/shifting/">shift</a>.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 2nd-Level Stormwight Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Apex Predator {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-2/apex-predator&#34;}</p></div>
+<div class="sc-ability__section-body"><p>## 2nd-Level Stormwight Ability</p><p>Choose one of the following abilities.</p><p>### Apex Predator {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-2/apex-predator&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target can&#39;t be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Visceral Roar {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-2/visceral-roar&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target can&#39;t be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.</p><p>### Visceral Roar {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-2/visceral-roar&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

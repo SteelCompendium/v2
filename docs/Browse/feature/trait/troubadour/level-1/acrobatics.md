@@ -26,10 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following performance ability, which is usable with your <a href="../routines/">Routines</a> feature.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Acrobatics {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/acrobatics&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You have the following performance ability, which is usable with your <a href="../routines/">Routines</a> feature.</p><p>## Acrobatics {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/acrobatics&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

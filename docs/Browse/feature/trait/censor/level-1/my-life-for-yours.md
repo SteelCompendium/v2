@@ -26,10 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You channel your will to mend your wounds or the wounds of your allies. You have the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## My Life for Yours {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/my-life-for-yours&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You channel your will to mend your wounds or the wounds of your allies. You have the following ability.</p><p>## My Life for Yours {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/my-life-for-yours&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>

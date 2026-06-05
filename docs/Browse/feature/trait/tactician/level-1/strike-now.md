@@ -26,10 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## &#34;Strike Now!&#34; {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/strike-now&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You have the following ability.</p><p>## &#34;Strike Now!&#34; {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/strike-now&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

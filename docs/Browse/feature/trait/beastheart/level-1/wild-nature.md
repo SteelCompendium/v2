@@ -36,9 +36,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Spark</span></div>
-<div class="sc-ability__section-body"><p>Your connection to nature has imbued you and your companion with the raging magic of an elemental storm. Flame, frost, and lightning crackle from your hands and their claws. You have the <a href="../../../../../skill/magic/">Magic</a> skill.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your wild nature is your subclass, and your choice of wild nature determines many of the features you&#39;ll gain as you gain new levels.</p></div>
+<div class="sc-ability__section-body"><p>Your connection to nature has imbued you and your companion with the raging magic of an elemental storm. Flame, frost, and lightning crackle from your hands and their claws. You have the <a href="../../../../../skill/magic/">Magic</a> skill.</p><p>Your wild nature is your subclass, and your choice of wild nature determines many of the features you&#39;ll gain as you gain new levels.</p></div>
 </div>
 </article>

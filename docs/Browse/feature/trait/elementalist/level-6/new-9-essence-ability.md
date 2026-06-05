@@ -34,10 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 essence to use. Alternatively, you can choose one of the 9-assence abilities you didn&#39;t select at 5th level (see 5th-Level Features).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Luminous Champion Aloft {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-6/luminous-champion-aloft&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 essence to use. Alternatively, you can choose one of the 9-assence abilities you didn&#39;t select at 5th level (see 5th-Level Features).</p><p>## Luminous Champion Aloft {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-6/luminous-champion-aloft&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -45,31 +42,19 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>The effect lasts until the start of your next turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Magma Titan {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-6/magma-titan&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The effect lasts until the start of your next turn.</p><p>## Magma Titan {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-6/magma-titan&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the target has the following benefits:</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target&#39;s new space slides to the nearest unoccupied space, ignoring stability. If the target doesn&#39;t have space to grow, they grow as much as they can and become <a href="../../../../../condition/restrained/">restrained</a> until the effect ends. - They have fire immunity 10. - Their strikes deal extra fire damage equal to twice your Reason score. - When the target force moves a creature or object, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a +2 bonus. - They can use their highest characteristic instead of Might for Might power rolls.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the target has the following benefits:</p><ul><li>Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target&#39;s new space slides to the nearest unoccupied space, ignoring stability. If the target doesn&#39;t have space to grow, they grow as much as they can and become <a href="../../../../../condition/restrained/">restrained</a> until the effect ends.</li><li>They have fire immunity 10.</li><li>Their strikes deal extra fire damage equal to twice your Reason score.</li><li>When the target force moves a creature or object, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a +2 bonus.</li><li>They can use their highest characteristic instead of Might for Might power rolls.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
-<div class="sc-ability__section-body"><p>The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 Recoveries.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Meteor {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-6/meteor&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 Recoveries.</p><p>## Meteor {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-6/meteor&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is <a href="../../../../../movement/teleport/">teleport</a>ed to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## The Wode Remembers and Returns {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-6/the-wode-remembers-and-returns&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If the target is <a href="../../../../../movement/teleport/">teleport</a>ed to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p><p>## The Wode Remembers and Returns {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-6/the-wode-remembers-and-returns&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

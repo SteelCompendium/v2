@@ -34,56 +34,26 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/tactical-doctrine/">tactical doctrine</a> grants your choice of one of two heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Insurgent Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Squad! Hit and Run! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-9/squad-hit-and-run&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/tactical-doctrine/">tactical doctrine</a> grants your choice of one of two heroic abilities.</p><p>## 9th-Level Insurgent Abilities</p><p>Choose one of the following abilities.</p><p>### Squad! Hit and Run! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-9/squad-hit-and-run&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Their Lack of Focus Is Their Undoing {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-9/their-lack-of-focus-is-their-undoing&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.</p><p>### Their Lack of Focus Is Their Undoing {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-9/their-lack-of-focus-is-their-undoing&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets&#39; abilities, you make a power roll against each original target.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Mastermind Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Blot Out the Sun! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-9/blot-out-the-sun&#34;}</p></div>
+<div class="sc-ability__section-body"><p>## 9th-Level Mastermind Abilities</p><p>Choose one of the following abilities.</p><p>### Blot Out the Sun! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-9/blot-out-the-sun&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Counterstrategy {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-9/counterstrategy&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike.</p><p>### Counterstrategy {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-9/counterstrategy&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 6 surges. Until the end of the encounter or until you are dying, whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their Heroic Resource.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Vanguard Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### No Escape {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-9/no-escape&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You gain 6 surges. Until the end of the encounter or until you are dying, whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their Heroic Resource.</p><p>## 9th-Level Vanguard Abilities</p><p>Choose one of the following abilities.</p><p>### No Escape {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-9/no-escape&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -91,10 +61,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you use this ability as part of the Charge main action, enemies&#39; spaces don&#39;t count as <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for your movement. Additionally, if you move through any creature&#39;s space, you can slide that creature 1 square out of the path of your charge.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### That One Is Mine! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-9/that-one-is-mine&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If you use this ability as part of the Charge main action, enemies&#39; spaces don&#39;t count as <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for your movement. Additionally, if you move through any creature&#39;s space, you can slide that creature 1 square out of the path of your charge.</p><p>### That One Is Mine! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-9/that-one-is-mine&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

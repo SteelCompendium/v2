@@ -20,9 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, whenever an ally within distance of your <a href="../../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability is <a href="../../../../../movement/forced-movement/">force moved</a>, you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally&#39;s stability by an amount equal to the stability you lost. This change lasts until the end of the round.</p></div>
+<div class="sc-ability__section-body"><p>You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.</p><p>Additionally, whenever an ally within distance of your <a href="../../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability is <a href="../../../../../movement/forced-movement/">force moved</a>, you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally&#39;s stability by an amount equal to the stability you lost. This change lasts until the end of the round.</p></div>
 </div>
 </article>

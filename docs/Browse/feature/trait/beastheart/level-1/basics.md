@@ -26,10 +26,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Starting Characteristics</span></div>
-<div class="sc-ability__section-body"><p>You start with a Might of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristic scores:</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- 2, −1, −1 - 1, 1, −1 - 1, 0, 0</p></div>
+<div class="sc-ability__section-body"><p>You start with a Might of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristic scores:</p><ul><li>2, −1, −1</li><li>1, 1, −1</li><li>1, 0, 0</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Weak Potency</span></div>
@@ -57,9 +54,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Skills</span></div>
-<div class="sc-ability__section-body"><p>You gain the <a href="../../../../../skill/handle-animals/">Animal Handling</a> skill. Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* <a href="../../../../../skill/handle-animals/">Animal Handling</a>, <a href="../../../../../skill/navigate/">Navigate</a>, <a href="../../../../../skill/track/">Track</a>.)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>#### Beastheart Advancement Table</p></div>
+<div class="sc-ability__section-body"><p>You gain the <a href="../../../../../skill/handle-animals/">Animal Handling</a> skill. Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* <a href="../../../../../skill/handle-animals/">Animal Handling</a>, <a href="../../../../../skill/navigate/">Navigate</a>, <a href="../../../../../skill/track/">Track</a>.)</p><p>#### Beastheart Advancement Table</p></div>
 </div>
 </article>

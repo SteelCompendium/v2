@@ -26,10 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../tactical-doctrine/">tactical doctrine</a> grants you a triggered action, as shown on the Doctrine Triggered Actions table.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Doctrine Triggered Actions Table</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../tactical-doctrine/">tactical doctrine</a> grants you a triggered action, as shown on the Doctrine Triggered Actions table.</p><p>### Doctrine Triggered Actions Table</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Advanced Tactics {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/advanced-tactics&#34;}</p></div>

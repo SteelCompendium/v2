@@ -34,24 +34,15 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 insight to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Dancer {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-3/dancer&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 insight to use.</p><p>## Dancer {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-3/dancer&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever an enemy moves or is <a href="../../../../../movement/forced-movement/">force moved</a> adjacent to you or damages you, you can take the Disengage move action as a free triggered action.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Misdirecting Strike {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-3/misdirecting-strike&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever an enemy moves or is <a href="../../../../../movement/forced-movement/">force moved</a> adjacent to you or damages you, you can take the Disengage move action as a free triggered action.</p><p>## Misdirecting Strike {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-3/misdirecting-strike&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is <a href="../../../../../condition/taunted/">taunted</a> by a willing ally within 5 squares of you until the end of the target&#39;s next turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Pinning Shot {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-3/pinning-shot&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../../../condition/taunted/">taunted</a> by a willing ally within 5 squares of you until the end of the target&#39;s next turn.</p><p>## Pinning Shot {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-3/pinning-shot&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Staggering Blow {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-3/staggering-blow&#34;}</p></div>

@@ -34,17 +34,11 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 essence to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Combustion Deferred {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-5/combustion-deferred&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 essence to use.</p><p>## Combustion Deferred {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-5/combustion-deferred&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Storm of Sands {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-5/storm-of-sands&#34;}</p></div>
+<div class="sc-ability__section-body"><p>When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.</p><p>## Storm of Sands {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-5/storm-of-sands&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -52,10 +46,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the power roll again without spending essence.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Subverted Perception of Space {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-5/subverted-perception-of-space&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the power roll again without spending essence.</p><p>## Subverted Perception of Space {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-5/subverted-perception-of-space&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Web of All That&#39;s Come Before {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-5/web-of-all-thats-come-before&#34;}</p></div>

@@ -26,74 +26,14 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/troubadour-class-act/">troubadour class act</a> grants your choice of one of two features.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Auteur Features {data-scc=&#34;mcdm.heroes.v1/feature.trait.troubadour.level-5/auteur-features&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following features.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Fix It in Post</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your <a href="../../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability. Choose one of the following conditions on the target: <a href="../../../../../condition/bleeding/">bleeding</a>, <a href="../../../../../condition/frightened/">frightened</a><a href="../../../../../condition/prone/">, prone</a>, <a href="../../../../../condition/slowed/">slowed</a>, or <a href="../../../../../condition/taunted/">taunted</a>. You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Take Two!</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following performance ability, which is usable with your <a href="../../level-1/routines/">Routines</a> feature.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Take Two! {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/take-two&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/troubadour-class-act/">troubadour class act</a> grants your choice of one of two features.</p><p>## Auteur Features {data-scc=&#34;mcdm.heroes.v1/feature.trait.troubadour.level-5/auteur-features&#34;}</p><p>Choose one of the following features.</p><p>### Fix It in Post</p><p>Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your <a href="../../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability. Choose one of the following conditions on the target: <a href="../../../../../condition/bleeding/">bleeding</a>, <a href="../../../../../condition/frightened/">frightened</a><a href="../../../../../condition/prone/">, prone</a>, <a href="../../../../../condition/slowed/">slowed</a>, or <a href="../../../../../condition/taunted/">taunted</a>. You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.</p><p>### Take Two!</p><p>You have the following performance ability, which is usable with your <a href="../../level-1/routines/">Routines</a> feature.</p><p>### Take Two! {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/take-two&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area can reroll the first power roll that turn that obtains a tier 2 outcome. They must use the new roll.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Duelist Features {data-scc=&#34;mcdm.heroes.v1/feature.trait.troubadour.level-5/duelist-features&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following features.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Verbal Duel</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a free strike, which deals psychic damage instead of its usual damage.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### We Can&#39;t Be Upstaged!</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following performance ability, which is usable with your <a href="../../level-1/routines/">Routines</a> feature.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### We Can&#39;t Be Upstaged! {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/we-cant-be-upstaged&#34;}</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area can reroll the first power roll that turn that obtains a tier 2 outcome. They must use the new roll.</p><p>## Duelist Features {data-scc=&#34;mcdm.heroes.v1/feature.trait.troubadour.level-5/duelist-features&#34;}</p><p>Choose one of the following features.</p><p>### Verbal Duel</p><p>Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a free strike, which deals psychic damage instead of its usual damage.</p><p>### We Can&#39;t Be Upstaged!</p><p>You have the following performance ability, which is usable with your <a href="../../level-1/routines/">Routines</a> feature.</p><p>### We Can&#39;t Be Upstaged! {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/we-cant-be-upstaged&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, a target who starts their turn in the area gains a bonus to the distance they can <a href="../../../../../movement/shifting/">shift</a> equal to your Presence score until the end of their turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Virtuoso Features {data-scc=&#34;mcdm.heroes.v1/feature.trait.troubadour.level-5/virtuoso-features&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following features.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Bolstering Banter</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Once on each of your turns, you can use a free maneuver to exchange words with a target of your current performance, other than yourself. The target can spend a Recovery to gain temporary Stamina equal to their recovery value.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Medley</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can maintain two performances at a time using your <a href="../../level-1/routines/">Routines</a> feature.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, a target who starts their turn in the area gains a bonus to the distance they can <a href="../../../../../movement/shifting/">shift</a> equal to your Presence score until the end of their turn.</p><p>## Virtuoso Features {data-scc=&#34;mcdm.heroes.v1/feature.trait.troubadour.level-5/virtuoso-features&#34;}</p><p>Choose one of the following features.</p><p>### Bolstering Banter</p><p>Once on each of your turns, you can use a free maneuver to exchange words with a target of your current performance, other than yourself. The target can spend a Recovery to gain temporary Stamina equal to their recovery value.</p><p>### Medley</p><p>You can maintain two performances at a time using your <a href="../../level-1/routines/">Routines</a> feature.</p></div>
 </div>
 </article>

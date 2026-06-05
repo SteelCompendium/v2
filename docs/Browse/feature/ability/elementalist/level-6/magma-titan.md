@@ -39,10 +39,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the target has the following benefits:</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target&#39;s new space slides to the nearest unoccupied space, ignoring stability. If the target doesn&#39;t have space to grow, they grow as much as they can and become <a href="../../../../../condition/restrained/">restrained</a> until the effect ends. - They have fire immunity 10. - Their strikes deal extra fire damage equal to twice your Reason score. - When the target force moves a creature or object, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a +2 bonus. - They can use their highest characteristic instead of Might for Might power rolls.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the target has the following benefits:</p><ul><li>Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target&#39;s new space slides to the nearest unoccupied space, ignoring stability. If the target doesn&#39;t have space to grow, they grow as much as they can and become <a href="../../../../../condition/restrained/">restrained</a> until the effect ends.</li><li>They have fire immunity 10.</li><li>Their strikes deal extra fire damage equal to twice your Reason score.</li><li>When the target force moves a creature or object, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a +2 bonus.</li><li>They can use their highest characteristic instead of Might for Might power rolls.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>

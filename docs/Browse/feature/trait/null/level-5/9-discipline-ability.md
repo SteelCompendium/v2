@@ -34,10 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 discipline to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Anticipating Strike {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-5/anticipating-strike&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 discipline to use.</p><p>## Anticipating Strike {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-5/anticipating-strike&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
@@ -45,24 +42,15 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This strike resolves before the triggering movement or main action.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Iron Grip {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-5/iron-grip&#34;}</p></div>
+<div class="sc-ability__section-body"><p>This strike resolves before the triggering movement or main action.</p><p>## Iron Grip {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-5/iron-grip&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/grabbed/">grabbed</a> this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Phase Leap {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-5/phase-leap&#34;}</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/grabbed/">grabbed</a> this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.</p><p>## Phase Leap {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-5/phase-leap&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your <a href="../../level-1/null-field/">Null Field</a> ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage&#39;s space.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Synaptic Reset {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-5/synaptic-reset&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your <a href="../../level-1/null-field/">Null Field</a> ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage&#39;s space.</p><p>## Synaptic Reset {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-5/synaptic-reset&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

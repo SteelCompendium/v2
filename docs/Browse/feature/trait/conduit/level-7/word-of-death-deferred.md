@@ -20,9 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can stop death from taking your allies. When an ally within distance of your <a href="../../../../ability/conduit/level-1/healing-grace/">Healing Grace</a> ability dies and you are not dying, you can use a free <a href="../../level-1/triggered-action/">triggered action</a> to instead have that ally fall unconscious until they regain Stamina.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, your abilities deal an extra 5 damage to winded creatures.</p></div>
+<div class="sc-ability__section-body"><p>You can stop death from taking your allies. When an ally within distance of your <a href="../../../../ability/conduit/level-1/healing-grace/">Healing Grace</a> ability dies and you are not dying, you can use a free <a href="../../level-1/triggered-action/">triggered action</a> to instead have that ally fall unconscious until they regain Stamina.</p><p>Additionally, your abilities deal an extra 5 damage to winded creatures.</p></div>
 </div>
 </article>

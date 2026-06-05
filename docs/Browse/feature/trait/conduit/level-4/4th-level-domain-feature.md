@@ -26,91 +26,13 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level <a href="../../../../../class/conduit/">Conduit</a> Domain Features table.</p></div>
+<div class="sc-ability__section-body"><p>Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level <a href="../../../../../class/conduit/">Conduit</a> Domain Features table.</p><p>### 4th-Level Conduit Domain Features Table</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 4th-Level Conduit Domain Features Table</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Blessing of Life</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your <a href="../../../../ability/conduit/level-1/healing-grace/">Healing Grace</a> ability regains Stamina, they regain additional Stamina equal to your Intuition score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Blessing of Secrets</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Blessing of Secrets {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-4/blessing-of-secrets&#34;}</p></div>
+<div class="sc-ability__section-body"><p>### Blessing of Life</p><p>Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your <a href="../../../../ability/conduit/level-1/healing-grace/">Healing Grace</a> ability regains Stamina, they regain additional Stamina equal to your Intuition score.</p><p>### Blessing of Secrets</p><p>You have the following ability.</p><p>### Blessing of Secrets {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-4/blessing-of-secrets&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each creature in the area has a double edge on tests made to <a href="../../../../../skill/hide/">hide</a> or <a href="../../../../../skill/sneak/">sneak</a>. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Impervious Touch</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>As a maneuver, you can touch an object with a size equal to your Intuition score or smaller and place a protective spell on it. The object has immunity all to untyped damage. You can maintain this spell on a number of objects equal to your Intuition score, and you can end the spell on any object at any time (no action required).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, you can place this spell on a building or vehicle (or a similar structure with the Director&#39;s approval) that is of a size larger than your Intuition score. You can place the spell on only one such target at a time, and you can maintain the spell on a larger target and a number of objects equal to your Intuition score simultaneously.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Improved Hands of the Maker</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>When you use your <a href="../../../../ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a> ability, you can create a mundane object that is size 2 or smaller.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Improved Sanctified Weapon</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>The weapon improved by your <a href="../../../censor/level-1/sanctified-weapon/">Sanctified Weapon</a> feature grants a +3 bonus to rolled damage instead of +1.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Invocation of the Heart</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>As a main action, you forge a bond of love and friendship with a willing creature you touch. While this bond is active, you can telepathically speak with the creature over any distance, including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any test they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Light of Revelation</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can&#39;t hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Oracular Warning</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Each time you finish a respite, you can share the vague dreams of the future granted to you by the gods with allies who finished the respite with you. These premonitions help you and your allies stay alive, granting each of you temporary Stamina equal to 10 + your level that lasts until you finish a respite.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Seance</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can commune with a network of spirits. As a respite activity, you speak the name of a creature who died and isn&#39;t undead. If the creature&#39;s spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn&#39;t free or willing to appear, you can speak another name or choose another respite activity.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Saint&#39;s Epiphany</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>At the start of a respite, you can inspire yourself or another creature taking the same respite with divine knowledge. If the target makes a project roll during this respite, they can add 1d10 plus your Intuition score to the roll.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Windwalk</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>While you have 5 or more Victories, you can <a href="../../../../../movement/fly/">fly</a>. If you can already <a href="../../../../../movement/fly/">fly</a>, you have a +2 bonus to speed while <a href="../../../../../movement/fly/">flying</a> instead.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Wode Road</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to <a href="../../../../../movement/teleport/">teleport</a> yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).</p></div>
+<div class="sc-ability__section-body"><p>Each creature in the area has a double edge on tests made to <a href="../../../../../skill/hide/">hide</a> or <a href="../../../../../skill/sneak/">sneak</a>. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p><p>### Impervious Touch</p><p>As a maneuver, you can touch an object with a size equal to your Intuition score or smaller and place a protective spell on it. The object has immunity all to untyped damage. You can maintain this spell on a number of objects equal to your Intuition score, and you can end the spell on any object at any time (no action required).</p><p>Additionally, you can place this spell on a building or vehicle (or a similar structure with the Director&#39;s approval) that is of a size larger than your Intuition score. You can place the spell on only one such target at a time, and you can maintain the spell on a larger target and a number of objects equal to your Intuition score simultaneously.</p><p>### Improved Hands of the Maker</p><p>When you use your <a href="../../../../ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a> ability, you can create a mundane object that is size 2 or smaller.</p><p>### Improved Sanctified Weapon</p><p>The weapon improved by your <a href="../../../censor/level-1/sanctified-weapon/">Sanctified Weapon</a> feature grants a +3 bonus to rolled damage instead of +1.</p><p>### Invocation of the Heart</p><p>As a main action, you forge a bond of love and friendship with a willing creature you touch. While this bond is active, you can telepathically speak with the creature over any distance, including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any test they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).</p><p>### Light of Revelation</p><p>As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can&#39;t hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.</p><p>### Oracular Warning</p><p>Each time you finish a respite, you can share the vague dreams of the future granted to you by the gods with allies who finished the respite with you. These premonitions help you and your allies stay alive, granting each of you temporary Stamina equal to 10 + your level that lasts until you finish a respite.</p><p>### Seance</p><p>You can commune with a network of spirits. As a respite activity, you speak the name of a creature who died and isn&#39;t undead. If the creature&#39;s spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn&#39;t free or willing to appear, you can speak another name or choose another respite activity.</p><p>### Saint&#39;s Epiphany</p><p>At the start of a respite, you can inspire yourself or another creature taking the same respite with divine knowledge. If the target makes a project roll during this respite, they can add 1d10 plus your Intuition score to the roll.</p><p>### Windwalk</p><p>While you have 5 or more Victories, you can <a href="../../../../../movement/fly/">fly</a>. If you can already <a href="../../../../../movement/fly/">fly</a>, you have a +2 bonus to speed while <a href="../../../../../movement/fly/">flying</a> instead.</p><p>### Wode Road</p><p>As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to <a href="../../../../../movement/teleport/">teleport</a> yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).</p></div>
 </div>
 </article>

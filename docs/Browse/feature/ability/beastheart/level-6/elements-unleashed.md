@@ -38,13 +38,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion transforms into a creature made of elemental energy. Choose a damage type from cold, fire, lightning, or sonic damage. While transformed, your companion gains the following benefits:</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- Your companion can <a href="../../../../../movement/fly/">fly</a>. If they could already fly, they gain a +2 bonus to speed. - When your companion enters another creature&#39;s space for the first time on a turn or damages a creature with a strike, your companion deals 5 damage of the chosen type to the creature. - Your companion has immunity all to the chosen damage type and immunity 5 to all other damage.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your companion&#39;s transformation lasts until the start of your next turn. At the start of each of your turns, you can spend 3 ferocity to extend the transformation&#39;s duration for one turn. When you do so, you can change the chosen damage type.</p></div>
+<div class="sc-ability__section-body"><p>Your companion transforms into a creature made of elemental energy. Choose a damage type from cold, fire, lightning, or sonic damage. While transformed, your companion gains the following benefits:</p><ul><li>Your companion can <a href="../../../../../movement/fly/">fly</a>. If they could already fly, they gain a +2 bonus to speed.</li><li>When your companion enters another creature&#39;s space for the first time on a turn or damages a creature with a strike, your companion deals 5 damage of the chosen type to the creature.</li><li>Your companion has immunity all to the chosen damage type and immunity 5 to all other damage.</li></ul><p>Your companion&#39;s transformation lasts until the start of your next turn. At the start of each of your turns, you can spend 3 ferocity to extend the transformation&#39;s duration for one turn. When you do so, you can change the chosen damage type.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2 Ferocity</span><span class="txt">You also transform.</span></div>
 </article>

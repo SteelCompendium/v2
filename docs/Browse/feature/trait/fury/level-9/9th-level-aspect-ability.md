@@ -34,56 +34,23 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Berserker Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Death Comes for You All! {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-9/death-comes-for-you-all&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two heroic abilities.</p><p>## 9th-Level Berserker Abilities</p><p>Choose one of the following abilities.</p><p>### Death Comes for You All! {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-9/death-comes-for-you-all&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If this <a href="../../../../../movement/forced-movement/">forced movement</a> causes a target to be hurled through an object, that target takes an extra 10 damage.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Primordial Vortex {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-9/primordial-vortex&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If this <a href="../../../../../movement/forced-movement/">forced movement</a> causes a target to be hurled through an object, that target takes an extra 10 damage.</p><p>### Primordial Vortex {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-9/primordial-vortex&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If this <a href="../../../../../movement/forced-movement/">forced movement</a> causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Reaver Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Primordial Bane {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-9/primordial-bane&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If this <a href="../../../../../movement/forced-movement/">forced movement</a> causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.</p><p>## 9th-Level Reaver Abilities</p><p>Choose one of the following abilities.</p><p>### Primordial Bane {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-9/primordial-bane&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any damage immunity to the chosen type and gains weakness 10 to the chosen type (save ends).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Shower of Blood {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-9/shower-of-blood&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any damage immunity to the chosen type and gains weakness 10 to the chosen type (save ends).</p><p>### Shower of Blood {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-9/shower-of-blood&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can&#39;t take triggered actions or free triggered actions, ability rolls made against them gain an edge, and their characteristic scores are considered 1 lower for the purpose of resisting potencies.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Stormwight Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Death Rattle {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-9/death-rattle&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can&#39;t take triggered actions or free triggered actions, ability rolls made against them gain an edge, and their characteristic scores are considered 1 lower for the purpose of resisting potencies.</p><p>## 9th-Level Stormwight Abilities</p><p>Choose one of the following abilities.</p><p>### Death Rattle {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-9/death-rattle&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Deluge {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-9/deluge&#34;}</p></div>

@@ -31,16 +31,10 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>A creature who is <a href="../../../../../condition/grabbed/">grabbed</a> by another creature, an object, or an effect (see Grab below) can attempt to escape by using the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Escape Grab {data-scc=&#34;mcdm.heroes.v1/feature.ability.common.maneuvers/escape-grab&#34;}</p></div>
+<div class="sc-ability__section-body"><p>A creature who is <a href="../../../../../condition/grabbed/">grabbed</a> by another creature, an object, or an effect (see Grab below) can attempt to escape by using the following ability.</p><p>## Escape Grab {data-scc=&#34;mcdm.heroes.v1/feature.ability.common.maneuvers/escape-grab&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you <a href="../../../../../condition/grabbed/">grabbed</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>See Conditions in Chapter 5: <a href="../../../../../../Read/heroes/classes/">Classes</a> for information on the <a href="../../../../../condition/grabbed/">grabbed</a> condition.</p></div>
+<div class="sc-ability__section-body"><p>You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you <a href="../../../../../condition/grabbed/">grabbed</a>.</p><p>See Conditions in Chapter 5: <a href="../../../../../../Read/heroes/classes/">Classes</a> for information on the <a href="../../../../../condition/grabbed/">grabbed</a> condition.</p></div>
 </div>
 </article>

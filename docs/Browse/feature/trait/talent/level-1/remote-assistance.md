@@ -26,10 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Remote Assistance {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/remote-assistance&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You have the following ability.</p><p>## Remote Assistance {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/remote-assistance&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

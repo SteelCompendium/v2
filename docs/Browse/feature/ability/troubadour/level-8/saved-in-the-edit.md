@@ -35,9 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you deal rolled damage to a creature or object, or enable a creature to spend a Recovery, you can use a free triggered action to give that creature or object one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending Recoveries simultaneously, each target receives the same effect:</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- The target has damage weakness equal to your Presence score against any magic, psionic, or weapon ability. - The target has damage immunity equal to your Presence score. - The target has a bonus to stability and a penalty to speed equal to your Presence score. - The target has a bonus to speed and a penalty to stability equal to your Presence score.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you deal rolled damage to a creature or object, or enable a creature to spend a Recovery, you can use a free triggered action to give that creature or object one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending Recoveries simultaneously, each target receives the same effect:</p><ul><li>The target has damage weakness equal to your Presence score against any magic, psionic, or weapon ability.</li><li>The target has damage immunity equal to your Presence score.</li><li>The target has a bonus to stability and a penalty to speed equal to your Presence score.</li><li>The target has a bonus to speed and a penalty to stability equal to your Presence score.</li></ul></div>
 </div>
 </article>

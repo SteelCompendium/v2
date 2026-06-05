@@ -34,48 +34,21 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/null-tradition/">null tradition</a> grants your choice of one of two abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 2nd-Level Chronokinetic Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Blur {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/blur&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/null-tradition/">null tradition</a> grants your choice of one of two abilities.</p><p>## 2nd-Level Chronokinetic Ability</p><p>Choose one of the following abilities.</p><p>### Blur {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/blur&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can use a signature or heroic ability. You gain an edge on that ability&#39;s power rolls.</p></div>
+<div class="sc-ability__section-body"><p>You can use a signature or heroic ability. You gain an edge on that ability&#39;s power rolls.</p><p>### Force Redirected {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/force-redirected&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Force Redirected {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/force-redirected&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 2nd-Level Cryokinetic Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Entropic Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/entropic-field&#34;}</p></div>
+<div class="sc-ability__section-body"><p>## 2nd-Level Cryokinetic Ability</p><p>Choose one of the following heroic abilities.</p><p>### Entropic Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/entropic-field&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Heat Sink {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/heat-sink&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the size of your <a href="../../level-1/null-field/">Null Field</a> ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 2nd-Level Metakinetic Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Gravitic Strike {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/gravitic-strike&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the size of your <a href="../../level-1/null-field/">Null Field</a> ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.</p><p>## 2nd-Level Metakinetic Ability</p><p>Choose one of the following abilities.</p><p>### Gravitic Strike {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/gravitic-strike&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Kinetic Shield {data-scc=&#34;mcdm.heroes.v1/feature.ability.null.level-2/kinetic-shield&#34;}</p></div>

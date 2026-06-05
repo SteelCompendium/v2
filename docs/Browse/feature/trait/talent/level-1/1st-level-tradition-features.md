@@ -26,32 +26,17 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../talent-tradition/">talent tradition</a> grants you two features, as shown on the 1st-Level Tradition Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../talent-tradition/">talent tradition</a> grants you two features, as shown on the 1st-Level Tradition Features table.</p><p>### 1st-Level Tradition Features Table</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 1st-Level Tradition Features Table</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Accelerate {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-1/accelerate&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Accelerate {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/accelerate&#34;}</p></div>
+<div class="sc-ability__section-body"><p>## Accelerate {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-1/accelerate&#34;}</p><p>You have the following ability.</p><p>### Accelerate {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/accelerate&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>The target shifts up to a number of squares equal to your Reason score.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Again {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-1/again&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Again {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/again&#34;}</p></div>
+<div class="sc-ability__section-body"><p>## Again {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-1/again&#34;}</p><p>You have the following ability.</p><p>### Again {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/again&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
@@ -59,16 +44,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Feedback Loop {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-1/feedback-loop&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Feedback Loop {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/feedback-loop&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.</p><p>## Feedback Loop {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-1/feedback-loop&#34;}</p><p>You have the following ability.</p><p>### Feedback Loop {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/feedback-loop&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
@@ -76,29 +52,14 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes psychic damage equal to half the triggering damage.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Minor Telekinesis {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-1/minor-telekinesis&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Minor Telekinesis {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/minor-telekinesis&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target takes psychic damage equal to half the triggering damage.</p><p>## Minor Telekinesis {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-1/minor-telekinesis&#34;}</p><p>You have the following ability.</p><p>### Minor Telekinesis {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/minor-telekinesis&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>You slide the target up to a number of squares equal to your Reason score.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Remote Assistance {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-1/remote-assistance&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Remote Assistance {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/remote-assistance&#34;}</p></div>
+<div class="sc-ability__section-body"><p>## Remote Assistance {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-1/remote-assistance&#34;}</p><p>You have the following ability.</p><p>### Remote Assistance {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/remote-assistance&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

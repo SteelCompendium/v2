@@ -26,10 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../primordial-aspect/">primordial aspect</a> grants you a triggered action, as shown on the Aspect Triggered Actions table.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Aspect Triggered Actions Table</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../primordial-aspect/">primordial aspect</a> grants you a triggered action, as shown on the Aspect Triggered Actions table.</p><p>### Aspect Triggered Actions Table</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Furious Change {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-1/furious-change&#34;}</p></div>

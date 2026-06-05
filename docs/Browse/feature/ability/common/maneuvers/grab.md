@@ -43,12 +43,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Unless otherwise indicated, a creature can grab only one creature at a time.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>See Conditions in Chapter 5: <a href="../../../../../../Read/heroes/classes/">Classes</a> for information on the <a href="../../../../../condition/grabbed/">grabbed</a> condition.</p></div>
+<div class="sc-ability__section-body"><p>You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.</p><p>Unless otherwise indicated, a creature can grab only one creature at a time.</p><p>See Conditions in Chapter 5: <a href="../../../../../../Read/heroes/classes/">Classes</a> for information on the <a href="../../../../../condition/grabbed/">grabbed</a> condition.</p></div>
 </div>
 </article>

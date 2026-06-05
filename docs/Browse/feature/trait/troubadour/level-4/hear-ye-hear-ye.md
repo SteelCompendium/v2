@@ -20,9 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a Presence test:</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- <b>≤11:</b> Your information reaches no one. - <b>12-16:</b> Your information reaches the nearest populated area of town size or larger. You and each ally present when you make the test gain an edge on Presence tests in that area until one of you spends a Recovery. - <b>17+:</b> Your information reaches the nearest populated area of town size or larger, plus the next closest such population. You and allies present for your test gain an edge on Presence tests made in those areas until you start your next respite.</p></div>
+<div class="sc-ability__section-body"><p>By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a Presence test:</p><ul><li><b>≤11:</b> Your information reaches no one.</li><li><b>12-16:</b> Your information reaches the nearest populated area of town size or larger. You and each ally present when you make the test gain an edge on Presence tests in that area until one of you spends a Recovery.</li><li><b>17+:</b> Your information reaches the nearest populated area of town size or larger, plus the next closest such population. You and allies present for your test gain an edge on Presence tests made in those areas until you start your next respite.</li></ul></div>
 </div>
 </article>

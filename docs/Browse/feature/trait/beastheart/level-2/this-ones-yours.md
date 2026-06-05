@@ -21,13 +21,7 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Once per turn, you or your companion can use the following free triggered action.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## This One&#39;s Yours {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-2/this-ones-yours&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>When someone is pushed into you, you reach out to steady an ally or send a foe careening off in another direction.</p></div>
+<div class="sc-ability__section-body"><p>Once per turn, you or your companion can use the following free triggered action.</p><p>## This One&#39;s Yours {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-2/this-ones-yours&#34;}</p><p>When someone is pushed into you, you reach out to steady an ally or send a foe careening off in another direction.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>

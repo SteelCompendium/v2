@@ -34,48 +34,21 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/troubadour-class-act/">troubadour class act</a> grants your choice of one of two heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Auteur Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Here&#39;s How Your Story Ends {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-6/heres-how-your-story-ends&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/troubadour-class-act/">troubadour class act</a> grants your choice of one of two heroic abilities.</p><p>## 6th-Level Auteur Abilities</p><p>Choose one of the following abilities.</p><p>### Here&#39;s How Your Story Ends {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-6/heres-how-your-story-ends&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### You&#39;re All My Understudies {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-6/youre-all-my-understudies&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit&#39;s bonuses.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Duelist Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Blood on the Stage {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-6/blood-on-the-stage&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit&#39;s bonuses.</p><p>## 6th-Level Duelist Abilities</p><p>Choose one of the following abilities.</p><p>### Blood on the Stage {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-6/blood-on-the-stage&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Fight Choreography {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-6/fight-choreography&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and the target each make a melee free strike that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your free strike targets and which enemies the target creature&#39;s free strike targets. You then slide the target 5 squares, ignoring stability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Virtuoso Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Feedback {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-6/feedback&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You and the target each make a melee free strike that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your free strike targets and which enemies the target creature&#39;s free strike targets. You then slide the target 5 squares, ignoring stability.</p><p>## 6th-Level Virtuoso Abilities</p><p>Choose one of the following abilities.</p><p>### Feedback {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-6/feedback&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

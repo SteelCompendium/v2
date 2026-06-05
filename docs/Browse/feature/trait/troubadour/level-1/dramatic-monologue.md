@@ -26,17 +26,11 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Dramatic Monologue {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-monologue&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You have the following ability.</p><p>## Dramatic Monologue {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-monologue&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose one of the following effects:</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn. - You weave a tale of high-stakes heroics. One ally within distance gains 1 surge. - You insult a foe where they&#39;re most vulnerable. One enemy within distance takes a bane on the next power roll they make before the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>Choose one of the following effects:</p><ul><li>You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn.</li><li>You weave a tale of high-stakes heroics. One ally within distance gains 1 surge.</li><li>You insult a foe where they&#39;re most vulnerable. One enemy within distance takes a bane on the next power roll they make before the end of their next turn.</li></ul></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">You can choose two targets for the chosen effect.</span></div>
 </article>

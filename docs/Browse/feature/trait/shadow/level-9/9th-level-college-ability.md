@@ -34,16 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/shadow-college/">shadow college</a> grants your choice of one of two heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Black Ash Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Cacophony of Cinders {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-9/cacophony-of-cinders&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/shadow-college/">shadow college</a> grants your choice of one of two heroic abilities.</p><p>## 9th-Level Black Ash Abilities</p><p>Choose one of the following abilities.</p><p>### Cacophony of Cinders {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-9/cacophony-of-cinders&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -54,16 +45,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>On a critical hit, the target is <a href="../../../../../condition/grabbed/">grabbed</a> by the demon and pulled through the portal before it closes, never to be seen again.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Caustic Alchemy Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Chain Reaction {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-9/chain-reaction&#34;}</p></div>
+<div class="sc-ability__section-body"><p>On a critical hit, the target is <a href="../../../../../condition/grabbed/">grabbed</a> by the demon and pulled through the portal before it closes, never to be seen again.</p><p>## 9th-Level Caustic Alchemy Abilities</p><p>Choose one of the following abilities.</p><p>### Chain Reaction {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-9/chain-reaction&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -74,23 +56,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The ground beneath a 3-cube area around the target&#39;s starting position is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Harlequin Mask Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### I Am You {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-9/i-am-you&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The ground beneath a 3-cube area around the target&#39;s starting position is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p><p>## 9th-Level Harlequin Mask Abilities</p><p>Choose one of the following abilities.</p><p>### I Am You {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-9/i-am-you&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, you gain the target&#39;s damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target&#39;s signature ability, using their bonus for the power roll.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### It Was Me All Along {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-9/it-was-me-all-along&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, you gain the target&#39;s damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target&#39;s signature ability, using their bonus for the power roll.</p><p>### It Was Me All Along {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-9/it-was-me-all-along&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

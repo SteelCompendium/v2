@@ -31,9 +31,6 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Voice</span></div>
-<div class="sc-ability__section-body"><p>As a maneuver, you can communicate telepathically with a willing creature you have met before and who is within 1 mile of you. You must know the creature&#39;s name, and they must speak and understand a language you know. You and the creature can respond to one another as if having a spoken conversation. You can communicate with a different creature by changing the rune.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can have one rune active at a time, and can change or remove a rune with 10 uninterrupted minutes of work.</p></div>
+<div class="sc-ability__section-body"><p>As a maneuver, you can communicate telepathically with a willing creature you have met before and who is within 1 mile of you. You must know the creature&#39;s name, and they must speak and understand a language you know. You and the creature can respond to one another as if having a spoken conversation. You can communicate with a different creature by changing the rune.</p><p>You can have one rune active at a time, and can change or remove a rune with 10 uninterrupted minutes of work.</p></div>
 </div>
 </article>

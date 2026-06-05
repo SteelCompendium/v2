@@ -34,10 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 essence to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Erase {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-3/erase&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 essence to use.</p><p>## Erase {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-3/erase&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
@@ -45,17 +42,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a bane on power rolls. At the end of their first turn, they have a double bane on power rolls. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Maw of Earth {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-3/maw-of-earth&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a bane on power rolls. At the end of their first turn, they have a double bane on power rolls. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.</p><p>## Maw of Earth {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-3/maw-of-earth&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The ground in or directly beneath the area drops 3 squares.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Swarm of Spirits {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-3/swarm-of-spirits&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The ground in or directly beneath the area drops 3 squares.</p><p>## Swarm of Spirits {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-3/swarm-of-spirits&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -63,10 +54,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>You make the power roll again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Wall of Fire {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-3/wall-of-fire&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You make the power roll again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn.</p><p>## Wall of Fire {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-3/wall-of-fire&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

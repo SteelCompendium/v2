@@ -25,13 +25,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Whenever you use the Knockback maneuver, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Agility score.</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You gain certain benefits in combat based on the amount of ferocity you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of ferocity you spend during your turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Some <a href="../../boren/growing-ferocity/">Growing Ferocity</a> benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various <a href="../../boren/growing-ferocity/">Growing Ferocity</a> tables in this section.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Berserker Growing Ferocity Table</p></div>
+<div class="sc-ability__section-body"><p>You gain certain benefits in combat based on the amount of ferocity you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of ferocity you spend during your turn.</p><p>Some <a href="../../boren/growing-ferocity/">Growing Ferocity</a> benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various <a href="../../boren/growing-ferocity/">Growing Ferocity</a> tables in this section.</p><p>### Berserker Growing Ferocity Table</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Reaver Growing Ferocity Table</p></div>

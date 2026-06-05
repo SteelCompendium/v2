@@ -34,31 +34,19 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 focus to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Squad! Gear Check! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-5/squad-gear-check&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 focus to use.</p><p>## Squad! Gear Check! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-5/squad-gear-check&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and each ally adjacent to the target gain 10 temporary Stamina.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Squad! Remember Your Training! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-5/squad-remember-your-training&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You and each ally adjacent to the target gain 10 temporary Stamina.</p><p>## Squad! Remember Your Training! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-5/squad-remember-your-training&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 1 surge and can use a signature ability that has a double edge.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Win This Day! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-5/win-this-day&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 1 surge and can use a signature ability that has a double edge.</p><p>## Win This Day! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-5/win-this-day&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they <a href="../../../../../condition/prone/">are prone</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## You&#39;ve Still Got Something Left {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-5/youve-still-got-something-left&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they <a href="../../../../../condition/prone/">are prone</a>.</p><p>## You&#39;ve Still Got Something Left {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-5/youve-still-got-something-left&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

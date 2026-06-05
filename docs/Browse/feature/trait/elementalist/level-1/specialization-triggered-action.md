@@ -26,10 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../elemental-specialization/">elemental specialization</a> grants you a triggered action, as shown on the Specialization Triggered Actions table.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Elemental Specialization Triggered Actions Table</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../elemental-specialization/">elemental specialization</a> grants you a triggered action, as shown on the Specialization Triggered Actions table.</p><p>### Elemental Specialization Triggered Actions Table</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Breath of Dawn Remembered {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-1/breath-of-dawn-remembered&#34;}</p></div>

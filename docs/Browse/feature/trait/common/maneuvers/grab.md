@@ -31,19 +31,10 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Grab {data-scc=&#34;mcdm.heroes.v1/feature.ability.common.maneuvers/grab&#34;}</p></div>
+<div class="sc-ability__section-body"><p>A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.</p><p>## Grab {data-scc=&#34;mcdm.heroes.v1/feature.ability.common.maneuvers/grab&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Unless otherwise indicated, a creature can grab only one creature at a time.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>See Conditions in Chapter 5: <a href="../../../../../../Read/heroes/classes/">Classes</a> for information on the <a href="../../../../../condition/grabbed/">grabbed</a> condition.</p></div>
+<div class="sc-ability__section-body"><p>You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.</p><p>Unless otherwise indicated, a creature can grab only one creature at a time.</p><p>See Conditions in Chapter 5: <a href="../../../../../../Read/heroes/classes/">Classes</a> for information on the <a href="../../../../../condition/grabbed/">grabbed</a> condition.</p></div>
 </div>
 </article>

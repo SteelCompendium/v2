@@ -34,10 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 ferocity to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Death and Violence {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-3/death-and-violence&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 ferocity to use.</p><p>## Death and Violence {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-3/death-and-violence&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
@@ -52,17 +49,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/bleeding/">bleeding</a> (save ends). Until the end of your next turn, your companion gains an edge on power rolls.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Jaws of Death {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-3/jaws-of-death&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/bleeding/">bleeding</a> (save ends). Until the end of your next turn, your companion gains an edge on power rolls.</p><p>## Jaws of Death {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-3/jaws-of-death&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Whenever a target more than 3 squares away from you fails the saving throw while <a href="../../../../../condition/weakened/">weakened</a> this way, you can pull the target up to a number of squares equal to your Intuition score as a free triggered action.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Shieldbreaker {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-3/shieldbreaker&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Whenever a target more than 3 squares away from you fails the saving throw while <a href="../../../../../condition/weakened/">weakened</a> this way, you can pull the target up to a number of squares equal to your Intuition score as a free triggered action.</p><p>## Shieldbreaker {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-3/shieldbreaker&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

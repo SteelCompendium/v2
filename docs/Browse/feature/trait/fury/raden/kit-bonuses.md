@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- <b>Stamina Bonus:</b> +3 per echelon - <b>Speed Bonus:</b> +3 - <b>Melee Damage Bonus:</b> +2/+2/+2 - <b>Disengage Bonus:</b> +1</p></div>
+<div class="sc-ability__section-body"><ul><li><b>Stamina Bonus:</b> +3 per echelon</li><li><b>Speed Bonus:</b> +3</li><li><b>Melee Damage Bonus:</b> +2/+2/+2</li><li><b>Disengage Bonus:</b> +1</li></ul></div>
 </div>
 </article>

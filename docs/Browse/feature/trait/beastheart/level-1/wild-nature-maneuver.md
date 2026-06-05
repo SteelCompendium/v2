@@ -33,10 +33,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + your Might score, and if they have M &lt; AVERAGE, they are knocked <a href="../../../../../condition/prone/">prone</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can move up to 3 squares before and after you use this ability. During this movement, a <a href="../../../../../condition/prone/">prone</a> enemy&#39;s space doesn&#39;t count as difficult terrain, and the first time you enter a <a href="../../../../../condition/prone/">prone</a> enemy&#39;s space, that enemy takes cold damage equal to your Might score.</p></div>
+<div class="sc-ability__section-body"><p>The target takes damage equal to 3 + your Might score, and if they have M &lt; AVERAGE, they are knocked <a href="../../../../../condition/prone/">prone</a>.</p><p>You can move up to 3 squares before and after you use this ability. During this movement, a <a href="../../../../../condition/prone/">prone</a> enemy&#39;s space doesn&#39;t count as difficult terrain, and the first time you enter a <a href="../../../../../condition/prone/">prone</a> enemy&#39;s space, that enemy takes cold damage equal to your Might score.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Jaws of the Storm {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/jaws-of-the-storm&#34;}</p></div>

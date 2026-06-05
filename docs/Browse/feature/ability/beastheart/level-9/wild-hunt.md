@@ -50,9 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion summons a ghostly pack of creatures that resemble them to fill the area. The pack can appear in and move through creatures, objects, and terrain. Once summoned, the pack moves in a straight line toward your companion until it&#39;s centered on your companion&#39;s space, then continues moving in a straight line until it is up to 20 squares away.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your companion targets each enemy inside the pack&#39;s area during its movement once with the following power roll. If a creature is killed by this ability, their body is dragged off to Quintessence to be devoured at leisure.</p></div>
+<div class="sc-ability__section-body"><p>Your companion summons a ghostly pack of creatures that resemble them to fill the area. The pack can appear in and move through creatures, objects, and terrain. Once summoned, the pack moves in a straight line toward your companion until it&#39;s centered on your companion&#39;s space, then continues moving in a straight line until it is up to 20 squares away.</p><p>Your companion targets each enemy inside the pack&#39;s area during its movement once with the following power roll. If a creature is killed by this ability, their body is dragged off to Quintessence to be devoured at leisure.</p></div>
 </div>
 </article>

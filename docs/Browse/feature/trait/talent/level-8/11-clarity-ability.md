@@ -34,10 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 clarity to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Doubt {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-8/doubt&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 clarity to use.</p><p>## Doubt {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-8/doubt&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -45,10 +42,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You feel dispirited until you finish a respite. If you obtain a tier 3 outcome on the power roll, you and the target each have damage weakness 5 (save ends).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Mindwipe {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-8/mindwipe&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You feel dispirited until you finish a respite. If you obtain a tier 3 outcome on the power roll, you and the target each have damage weakness 5 (save ends).</p><p>## Mindwipe {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-8/mindwipe&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -56,24 +50,15 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You take 3d6 damage.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Rejuvenate {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-8/rejuvenate&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You take 3d6 damage.</p><p>## Rejuvenate {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-8/rejuvenate&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose two of the following effects:</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- The target can spend any number of Recoveries. - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn. - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.</p></div>
+<div class="sc-ability__section-body"><p>Choose two of the following effects:</p><ul><li>The target can spend any number of Recoveries.</li><li>The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.</li><li>The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You and the target both permanently grow visibly younger (the equivalent of 20 <a href="../../../../../ancestry/human/">human</a> years, to the minimum of an 18-year-old). Additionally, you are <a href="../../../../../condition/weakened/">weakened</a> and <a href="../../../../../condition/slowed/">slowed</a> (save ends).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Steel {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-8/steel&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You and the target both permanently grow visibly younger (the equivalent of 20 <a href="../../../../../ancestry/human/">human</a> years, to the minimum of an 18-year-old). Additionally, you are <a href="../../../../../condition/weakened/">weakened</a> and <a href="../../../../../condition/slowed/">slowed</a> (save ends).</p><p>## Steel {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-8/steel&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

@@ -34,31 +34,19 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 piety to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Arise! {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-8/arise&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 piety to use.</p><p>## Arise! {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-8/arise&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they <a href="../../../../../condition/prone/">are prone</a>. Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Blessing of Steel {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-steel&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they <a href="../../../../../condition/prone/">are prone</a>. Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.</p><p>## Blessing of Steel {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-steel&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, any ability roll made against a target takes a bane and each target has damage immunity 5.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Blessing of the Blade {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-the-blade&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, any ability roll made against a target takes a bane and each target has damage immunity 5.</p><p>## Blessing of the Blade {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-the-blade&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each of your turns until the end of the encounter or until you are dying, each target gains 3 surges.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Drag the Unworthy {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-8/drag-the-unworthy&#34;}</p></div>
+<div class="sc-ability__section-body"><p>At the end of each of your turns until the end of the encounter or until you are dying, each target gains 3 surges.</p><p>## Drag the Unworthy {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-8/drag-the-unworthy&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

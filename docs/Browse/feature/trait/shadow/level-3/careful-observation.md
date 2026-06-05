@@ -26,10 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Careful Observation {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-3/careful-observation&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You have the following ability.</p><p>## Careful Observation {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-3/careful-observation&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

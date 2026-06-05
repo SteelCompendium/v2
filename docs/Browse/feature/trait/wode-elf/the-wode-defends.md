@@ -33,9 +33,6 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following signature ability. Signature abilities can be used at will.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## The Wode Defends {data-scc=&#34;mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You have the following signature ability. Signature abilities can be used at will.</p><p>## The Wode Defends {data-scc=&#34;mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends&#34;}</p></div>
 </div>
 </article>

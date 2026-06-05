@@ -25,36 +25,18 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../bait-and-ambush/">Bait and Ambush</a></div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/tactical-doctrine/">tactical doctrine</a> grants you a feature, as shown on the 8th-Level Doctrine Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/tactical-doctrine/">tactical doctrine</a> grants you a feature, as shown on the 8th-Level Doctrine Features table.</p><p>### 8th-Level Doctrine Features Table</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 8th-Level Doctrine Features Table</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Bait and Ambush {data-scc=&#34;mcdm.heroes.v1/feature.trait.tactician.level-8/bait-and-ambush&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have trained your squad to be silent ambushers.</p></div>
+<div class="sc-ability__section-body"><p>## Bait and Ambush {data-scc=&#34;mcdm.heroes.v1/feature.trait.tactician.level-8/bait-and-ambush&#34;}</p><p>You have trained your squad to be silent ambushers.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>
-<div class="sc-ability__section-body"><p>When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Reason score and use the Hide maneuver as a free maneuver once during the <a href="../../../../../movement/shifting/">shift</a>. The creature can <a href="../../../../../movement/shifting/">shift</a> before or after the strike is resolved.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Pincer Movement {data-scc=&#34;mcdm.heroes.v1/feature.trait.tactician.level-8/pincer-movement&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have trained your squad to coordinate their movements to maximize combat impact.</p></div>
+<div class="sc-ability__section-body"><p>When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Reason score and use the Hide maneuver as a free maneuver once during the <a href="../../../../../movement/shifting/">shift</a>. The creature can <a href="../../../../../movement/shifting/">shift</a> before or after the strike is resolved.</p><p>## Pincer Movement {data-scc=&#34;mcdm.heroes.v1/feature.trait.tactician.level-8/pincer-movement&#34;}</p><p>You have trained your squad to coordinate their movements to maximize combat impact.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>
-<div class="sc-ability__section-body"><p>When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to have the character making the strike <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Reason score before the strike is resolved. If you didn&#39;t make the strike, you can make this <a href="../../../../../movement/shifting/">shift</a> as well. If you did make the strike, one ally within 10 squares of you can make this <a href="../../../../../movement/shifting/">shift</a> as well.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## See Your Enemies Driven Before You {data-scc=&#34;mcdm.heroes.v1/feature.trait.tactician.level-8/see-your-enemies-driven-before-you&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have trained your squad to maximize impact and break enemy lines when they attack.</p></div>
+<div class="sc-ability__section-body"><p>When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to have the character making the strike <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Reason score before the strike is resolved. If you didn&#39;t make the strike, you can make this <a href="../../../../../movement/shifting/">shift</a> as well. If you did make the strike, one ally within 10 squares of you can make this <a href="../../../../../movement/shifting/">shift</a> as well.</p><p>## See Your Enemies Driven Before You {data-scc=&#34;mcdm.heroes.v1/feature.trait.tactician.level-8/see-your-enemies-driven-before-you&#34;}</p><p>You have trained your squad to maximize impact and break enemy lines when they attack.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>

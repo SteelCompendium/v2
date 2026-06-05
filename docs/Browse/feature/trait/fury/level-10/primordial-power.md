@@ -20,15 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have an epic resource called <a href="../primordial-power/">primordial power</a>. Each time you finish a respite, you gain <a href="../primordial-power/">primordial power</a> equal to the XP you gain. You can spend <a href="../primordial-power/">primordial power</a> on your abilities as if it were ferocity.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, you can spend any amount of <a href="../primordial-power/">primordial power</a> as a free maneuver, ending one effect on you for each <a href="../primordial-power/">primordial power</a> spent.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can also spend 3 <a href="../primordial-power/">primordial power</a> to create a portal to Quintessence without needing a source of elemental power.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><a href="../primordial-power/">Primordial power</a> remains until you spend it.</p></div>
+<div class="sc-ability__section-body"><p>You have an epic resource called <a href="../primordial-power/">primordial power</a>. Each time you finish a respite, you gain <a href="../primordial-power/">primordial power</a> equal to the XP you gain. You can spend <a href="../primordial-power/">primordial power</a> on your abilities as if it were ferocity.</p><p>Additionally, you can spend any amount of <a href="../primordial-power/">primordial power</a> as a free maneuver, ending one effect on you for each <a href="../primordial-power/">primordial power</a> spent.</p><p>You can also spend 3 <a href="../primordial-power/">primordial power</a> to create a portal to Quintessence without needing a source of elemental power.</p><p><a href="../primordial-power/">Primordial power</a> remains until you spend it.</p></div>
 </div>
 </article>

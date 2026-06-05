@@ -34,26 +34,17 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 insight to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Assassinate {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-8/assassinate&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 insight to use.</p><p>## Assassinate {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-8/assassinate&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Shadowgrasp {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-8/shadowgrasp&#34;}</p></div>
+<div class="sc-ability__section-body"><p>A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.</p><p>## Shadowgrasp {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-8/shadowgrasp&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Speed of Shadows {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-8/speed-of-shadows&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares between each use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## They Always Line Up {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-8/they-always-line-up&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares between each use.</p><p>## They Always Line Up {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-8/they-always-line-up&#34;}</p></div>
 </div>
 </article>

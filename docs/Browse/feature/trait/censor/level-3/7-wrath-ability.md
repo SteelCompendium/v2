@@ -26,31 +26,19 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 wrath to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Edict of Disruptive Isolation {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-disruptive-isolation&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 wrath to use.</p><p>## Edict of Disruptive Isolation {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-disruptive-isolation&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each target takes holy damage equal to your Presence score at the end of each of your turns. A target takes an extra 2d6 holy damage if they are judged by you or if they are adjacent to any enemy.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Edict of Perfect Order {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-perfect-order&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each target takes holy damage equal to your Presence score at the end of each of your turns. A target takes an extra 2d6 holy damage if they are judged by you or if they are adjacent to any enemy.</p><p>## Edict of Perfect Order {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-perfect-order&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever a target uses an ability that costs Malice (see *Draw Steel: Monsters*), they take holy damage equal to three times your Presence score. A target judged by you takes an extra 2d6 holy damage.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Edict of Purifying Pacifism {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-purifying-pacifism&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever a target uses an ability that costs Malice (see *Draw Steel: Monsters*), they take holy damage equal to three times your Presence score. A target judged by you takes an extra 2d6 holy damage.</p><p>## Edict of Purifying Pacifism {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-purifying-pacifism&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever a target makes a strike, they take holy damage equal to twice your Presence score. A target judged by you takes an extra 2d6 holy damage.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Edict of Stillness {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-stillness&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever a target makes a strike, they take holy damage equal to twice your Presence score. A target judged by you takes an extra 2d6 holy damage.</p><p>## Edict of Stillness {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-stillness&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

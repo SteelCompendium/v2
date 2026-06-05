@@ -54,9 +54,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If a target resists the potency, they can choose to become battle-frenzied.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>A battle-frenzied creature must use a free triggered action to make a melee free strike against themself or a creature adjacent to them. You choose each creature&#39;s target. After making this strike, they are no longer battle frenzied.</p></div>
+<div class="sc-ability__section-body"><p>If a target resists the potency, they can choose to become battle-frenzied.</p><p>A battle-frenzied creature must use a free triggered action to make a melee free strike against themself or a creature adjacent to them. You choose each creature&#39;s target. After making this strike, they are no longer battle frenzied.</p></div>
 </div>
 </article>

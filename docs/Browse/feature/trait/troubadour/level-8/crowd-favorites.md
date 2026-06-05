@@ -26,17 +26,11 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following performance abilities, which are usable with your <a href="../../level-1/routines/">Routines</a> feature.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Moonlight Sonata {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-8/moonlight-sonata&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You have the following performance abilities, which are usable with your <a href="../../level-1/routines/">Routines</a> feature.</p><p>## Moonlight Sonata {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-8/moonlight-sonata&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can&#39;t spend Recoveries or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Radical Fantasia {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-8/radical-fantasia&#34;}</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can&#39;t spend Recoveries or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.</p><p>## Radical Fantasia {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-8/radical-fantasia&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

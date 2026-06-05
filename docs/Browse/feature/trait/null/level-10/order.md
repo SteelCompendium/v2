@@ -20,12 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were discipline.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>At the start of a combat encounter, you can spend 1 order to increase the size of your <a href="../../level-1/null-field/">Null Field</a> by 1 until the end of the encounter.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Order remains until you spend it.</p></div>
+<div class="sc-ability__section-body"><p>You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were discipline.</p><p>At the start of a combat encounter, you can spend 1 order to increase the size of your <a href="../../level-1/null-field/">Null Field</a> by 1 until the end of the encounter.</p><p>Order remains until you spend it.</p></div>
 </div>
 </article>

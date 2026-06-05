@@ -34,69 +34,30 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/shadow-college/">shadow college</a> grants your choice of one of two heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Black Ash Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Black Ash Eruption {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/black-ash-eruption&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/shadow-college/">shadow college</a> grants your choice of one of two heroic abilities.</p><p>## 6th-Level Black Ash Abilities</p><p>Choose one of the following abilities.</p><p>### Black Ash Eruption {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/black-ash-eruption&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A creature <a href="../../../../../movement/forced-movement/">force moved</a> by this ability must be moved straight upward.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Cinderstorm {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/cinderstorm&#34;}</p></div>
+<div class="sc-ability__section-body"><p>A creature <a href="../../../../../movement/forced-movement/">force moved</a> by this ability must be moved straight upward.</p><p>### Cinderstorm {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/cinderstorm&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares. For each target in addition to you who <a href="../../../../../movement/teleport/">teleports</a> away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Caustic Alchemy Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### One Vial Makes You Better {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-better&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares. For each target in addition to you who <a href="../../../../../movement/teleport/">teleports</a> away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.</p><p>## 6th-Level Caustic Alchemy Abilities</p><p>Choose one of the following abilities.</p><p>### One Vial Makes You Better {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-better&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### One Vial Makes You Faster {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-faster&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.</p><p>A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.</p><p>### One Vial Makes You Faster {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-faster&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.</p></div>
+<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your power roll.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>A creature who drinks the potion receives benefits based on your power roll.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Harlequin Mask Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Look! {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/look&#34;}</p></div>
+<div class="sc-ability__section-body"><p>## 6th-Level Harlequin Mask Abilities</p><p>Choose one of the following abilities.</p><p>### Look! {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/look&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, any ability roll made against a target gains an edge.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Puppet Strings {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/puppet-strings&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, any ability roll made against a target gains an edge.</p><p>### Puppet Strings {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-6/puppet-strings&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

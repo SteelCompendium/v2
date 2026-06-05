@@ -20,9 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can speak with and understand animals, beasts, and plant creatures, even if they don&#39;t share a language with you. Your ability to communicate with these creatures doesn&#39;t make them inherently more intelligent, but you can use Reason instead of Presence while making tests to influence them.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, you can touch a living plant that is not a plant creature to communicate with it telepathically. You can use words to communicate with the plant, but it communicates with you only by transmitting feelings and sensations that can&#39;t be overly specific.</p></div>
+<div class="sc-ability__section-body"><p>You can speak with and understand animals, beasts, and plant creatures, even if they don&#39;t share a language with you. Your ability to communicate with these creatures doesn&#39;t make them inherently more intelligent, but you can use Reason instead of Presence while making tests to influence them.</p><p>Additionally, you can touch a living plant that is not a plant creature to communicate with it telepathically. You can use words to communicate with the plant, but it communicates with you only by transmitting feelings and sensations that can&#39;t be overly specific.</p></div>
 </div>
 </article>

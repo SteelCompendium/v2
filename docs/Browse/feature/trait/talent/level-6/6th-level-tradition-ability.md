@@ -34,16 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/talent-tradition/">talent tradition</a> grants your choice of one of two heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Chronopathy Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Fate {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-6/fate&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/talent-tradition/">talent tradition</a> grants your choice of one of two heroic abilities.</p><p>## 6th-Level Chronopathy Abilities</p><p>Choose one of the following abilities.</p><p>### Fate {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-6/fate&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -58,23 +49,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next turn. Each object in the area is <a href="../../../../../condition/restrained/">restrained</a> and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Make a power roll that targets each enemy in the area.</p></div>
+<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next turn. Each object in the area is <a href="../../../../../condition/restrained/">restrained</a> and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.</p><p>Make a power roll that targets each enemy in the area.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>Any creature or object <a href="../../../../../movement/forced-movement/">force moved</a> in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects <a href="../../../../../condition/restrained/">restrained</a> in the area can be <a href="../../../../../movement/forced-movement/">force moved</a>. You are <a href="../../../../../condition/restrained/">restrained</a> until the effect ends.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Telekinesis Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Gravitic Well {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-6/gravitic-well&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Any creature or object <a href="../../../../../movement/forced-movement/">force moved</a> in the area takes 2 corruption damage for each square of the area they enter. Creatures and objects <a href="../../../../../condition/restrained/">restrained</a> in the area can be <a href="../../../../../movement/forced-movement/">force moved</a>. You are <a href="../../../../../condition/restrained/">restrained</a> until the effect ends.</p><p>## 6th-Level Telekinesis Abilities</p><p>Choose one of the following abilities.</p><p>### Gravitic Well {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-6/gravitic-well&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -82,30 +61,15 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The size of the area increases by 2. You also target yourself and each ally within distance.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Greater Kinetic Grip {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-6/greater-kinetic-grip&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The size of the area increases by 2. You also target yourself and each ally within distance.</p><p>### Greater Kinetic Grip {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-6/greater-kinetic-grip&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The <a href="../../../../../movement/forced-movement/">forced movement</a> ignores stability. You take 2d6 damage and are <a href="../../../../../condition/weakened/">weakened</a> (save ends).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Telepathy Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Synaptic Conditioning {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-6/synaptic-conditioning&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../../movement/forced-movement/">forced movement</a> ignores stability. You take 2d6 damage and are <a href="../../../../../condition/weakened/">weakened</a> (save ends).</p><p>## 6th-Level Telepathy Abilities</p><p>Choose one of the following abilities.</p><p>### Synaptic Conditioning {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-6/synaptic-conditioning&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>While the target is under this effect, you no longer consider your enemies to be your enemies when using your abilities and features.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Synaptic Dissipation {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-6/synaptic-dissipation&#34;}</p></div>
+<div class="sc-ability__section-body"><p>While the target is under this effect, you no longer consider your enemies to be your enemies when using your abilities and features.</p><p>### Synaptic Dissipation {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-6/synaptic-dissipation&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

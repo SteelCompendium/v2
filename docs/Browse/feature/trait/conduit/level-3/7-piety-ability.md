@@ -34,31 +34,19 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 piety to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Fear of the Gods {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-3/fear-of-the-gods&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 piety to use.</p><p>## Fear of the Gods {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-3/fear-of-the-gods&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target is <a href="../../../../../condition/frightened/">frightened</a> of you or a creature you choose within distance.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Saint&#39;s Raiment {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-3/saints-raiment&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each target is <a href="../../../../../condition/frightened/">frightened</a> of you or a creature you choose within distance.</p><p>## Saint&#39;s Raiment {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-3/saints-raiment&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 20 temporary Stamina and 3 surges.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Soul Siphon {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-3/soul-siphon&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target gains 20 temporary Stamina and 3 surges.</p><p>## Soul Siphon {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-3/soul-siphon&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>One ally within distance can spend any number of Recoveries.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Words of Wrath and Grace {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-3/words-of-wrath-and-grace&#34;}</p></div>
+<div class="sc-ability__section-body"><p>One ally within distance can spend any number of Recoveries.</p><p>## Words of Wrath and Grace {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-3/words-of-wrath-and-grace&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

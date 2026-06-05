@@ -34,16 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/tactical-doctrine/">tactical doctrine</a> grants your choice of one of two heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Insurgent Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Coordinated Execution {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-6/coordinated-execution&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/tactical-doctrine/">tactical doctrine</a> grants your choice of one of two heroic abilities.</p><p>## 6th-Level Insurgent Abilities</p><p>Choose one of the following abilities.</p><p>### Coordinated Execution {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-6/coordinated-execution&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
@@ -51,23 +42,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 Stamina. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability&#39;s power roll automatically obtains a tier 3 outcome.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Panic in Their Lines {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-6/panic-in-their-lines&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 Stamina. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability&#39;s power roll automatically obtains a tier 3 outcome.</p><p>### Panic in Their Lines {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-6/panic-in-their-lines&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If a target is <a href="../../../../../movement/forced-movement/">force moved</a> into another creature, they must make a free strike against that creature.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Mastermind Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Battle Plan {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-6/battle-plan&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If a target is <a href="../../../../../movement/forced-movement/">force moved</a> into another creature, they must make a free strike against that creature.</p><p>## 6th-Level Mastermind Abilities</p><p>Choose one of the following abilities.</p><p>### Battle Plan {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-6/battle-plan&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -75,23 +54,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to make the strike ignore damage immunity and deal extra damage equal to three times your Reason score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Hustle! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-6/hustle&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to make the strike ignore damage immunity and deal extra damage equal to three times your Reason score.</p><p>### Hustle! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-6/hustle&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You mark two enemies within 10 squares of you. Each target can <a href="../../../../../movement/shifting/">shift</a> up to their speed. You and each target gain 2 surges.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Vanguard Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Instant Retaliation {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You mark two enemies within 10 squares of you. Each target can <a href="../../../../../movement/shifting/">shift</a> up to their speed. You and each target gain 2 surges.</p><p>## 6th-Level Vanguard Abilities</p><p>Choose one of the following abilities.</p><p>### Instant Retaliation {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>

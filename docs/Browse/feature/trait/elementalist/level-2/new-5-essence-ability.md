@@ -34,24 +34,15 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 essence to use. Alternatively, you can choose one of the 5-essence abilities you didn&#39;t select at 1st level (see 1st-Level Features).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## O Flower Aid, O Earth Defend {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-2/o-flower-aid-o-earth-defend&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 essence to use. Alternatively, you can choose one of the 5-essence abilities you didn&#39;t select at 1st level (see 1st-Level Features).</p><p>## O Flower Aid, O Earth Defend {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-2/o-flower-aid-o-earth-defend&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the area gains the following effects:</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries. - The area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies. - Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the area gains the following effects:</p><ul><li>Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries.</li><li>The area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</li><li>Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Subvert the Green Within {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-2/subvert-the-green-within&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.</p><p>## Subvert the Green Within {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-2/subvert-the-green-within&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

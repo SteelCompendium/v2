@@ -26,31 +26,19 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 ferocity to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Demon Unleashed {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-3/demon-unleashed&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 ferocity to use.</p><p>## Demon Unleashed {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-3/demon-unleashed&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P &lt; STRONG is <a href="../../../../../condition/frightened/">frightened</a> until the end of their turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Face the Storm! {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-3/face-the-storm&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P &lt; STRONG is <a href="../../../../../condition/frightened/">frightened</a> until the end of their turn.</p><p>## Face the Storm! {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-3/face-the-storm&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P &lt; AVERAGE is <a href="../../../../../condition/taunted/">taunted</a> until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy <a href="../../../../../condition/taunted/">taunted</a> by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Steelbreaker {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-3/steelbreaker&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P &lt; AVERAGE is <a href="../../../../../condition/taunted/">taunted</a> until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy <a href="../../../../../condition/taunted/">taunted</a> by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.</p><p>## Steelbreaker {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-3/steelbreaker&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 20 temporary Stamina.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## You Are Already Dead {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-3/you-are-already-dead&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You gain 20 temporary Stamina.</p><p>## You Are Already Dead {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-3/you-are-already-dead&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

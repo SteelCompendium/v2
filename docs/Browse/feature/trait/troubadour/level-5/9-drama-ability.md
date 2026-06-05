@@ -34,30 +34,18 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 drama to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Action Hero {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/action-hero&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 drama to use.</p><p>## Action Hero {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/action-hero&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Unless you score a critical hit, this ability can&#39;t reduce a non-minion target below 1 Stamina.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Continuity Error {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/continuity-error&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Unless you score a critical hit, this ability can&#39;t reduce a non-minion target below 1 Stamina.</p><p>## Continuity Error {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/continuity-error&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is split into two separate entities, one of which remains in the target&#39;s space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director&#39;s control. Each entity has half the original target&#39;s Stamina, is <a href="../../../../../condition/weakened/">weakened</a>, and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Love Song {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/love-song&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target is split into two separate entities, one of which remains in the target&#39;s space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director&#39;s control. Each entity has half the original target&#39;s Stamina, is <a href="../../../../../condition/weakened/">weakened</a>, and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.</p><p>## Love Song {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/love-song&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 20 temporary Stamina. Until the end of the encounter, whenever the target takes damage while you&#39;re within distance, you can choose to take the damage instead of the target.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Patter Song {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/patter-song&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target gains 20 temporary Stamina. Until the end of the encounter, whenever the target takes damage while you&#39;re within distance, you can choose to take the damage instead of the target.</p><p>## Patter Song {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/patter-song&#34;}</p></div>
 </div>
 </article>

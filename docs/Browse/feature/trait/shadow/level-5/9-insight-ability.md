@@ -34,17 +34,11 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 insight to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Blackout {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-5/blackout&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 insight to use.</p><p>## Blackout {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-5/blackout&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to <a href="../../../../../movement/shifting/">shift</a> to a new location within the area and make a free strike against them.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Into the Shadows {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows&#34;}</p></div>
+<div class="sc-ability__section-body"><p>A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to <a href="../../../../../movement/shifting/">shift</a> to a new location within the area and make a free strike against them.</p><p>## Into the Shadows {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -55,10 +49,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## You Talk Too Much {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-5/you-talk-too-much&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.</p><p>## You Talk Too Much {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-5/you-talk-too-much&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

@@ -26,17 +26,14 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability, which you can use once on your turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Healing Grace {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-1/healing-grace&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You have the following ability, which you can use once on your turn.</p><p>## Healing Grace {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-1/healing-grace&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>The target can spend a Recovery.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- You can target one additional ally within distance. - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn. - A <a href="../../../../../condition/prone/">prone target</a> can stand up. - A target can spend 1 additional Recovery.</p></div>
+<div class="sc-ability__section-body"><ul><li>You can target one additional ally within distance.</li><li>You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.</li><li>A <a href="../../../../../condition/prone/">prone target</a> can stand up.</li><li>A target can spend 1 additional Recovery.</li></ul></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1+ Piety</span><span class="txt">For each piety spent, choose one of the following enhancements:</span></div>
 </article>

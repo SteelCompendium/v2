@@ -26,17 +26,11 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following performance abilities, which are usable with your <a href="../../level-1/routines/">Routines</a> feature.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## &#34;Fire Up the Night&#34; {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-3/fire-up-the-night&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You have the following performance abilities, which are usable with your <a href="../../level-1/routines/">Routines</a> feature.</p><p>## &#34;Fire Up the Night&#34; {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-3/fire-up-the-night&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area doesn&#39;t take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: <a href="../../../../../../Read/heroes/tests/">Tests</a>).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## &#34;Never-Ending Hero&#34; {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-3/never-ending-hero&#34;}</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area doesn&#39;t take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: <a href="../../../../../../Read/heroes/tests/">Tests</a>).</p><p>## &#34;Never-Ending Hero&#34; {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-3/never-ending-hero&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

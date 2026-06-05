@@ -34,16 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different <a href="../talent-tradition/">talent tradition</a>s or focus on abilities tied to your chosen tradition to dedicate yourself to its power.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Signature Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* <a href="../../../../ability/talent/level-1/incinerate/">Incinerate</a>, <a href="../../../../ability/talent/level-1/kinetic-grip/">Kinetic Grip</a>.)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Entropic Bolt {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/entropic-bolt&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different <a href="../talent-tradition/">talent tradition</a>s or focus on abilities tied to your chosen tradition to dedicate yourself to its power.</p><p>## Signature Abilities</p><p>Choose two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* <a href="../../../../ability/talent/level-1/incinerate/">Incinerate</a>, <a href="../../../../ability/talent/level-1/kinetic-grip/">Kinetic Grip</a>.)</p><p>### Entropic Bolt {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/entropic-bolt&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -51,17 +42,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the power roll.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Hoarfrost {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the power roll.</p><p>### Hoarfrost {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/slowed/">slowed</a> until the end of your next turn. Additionally, a target <a href="../../../../../condition/slowed/">slowed</a> by this ability is <a href="../../../../../condition/restrained/">restrained</a> instead.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Incinerate {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/incinerate&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/slowed/">slowed</a> until the end of your next turn. Additionally, a target <a href="../../../../../condition/slowed/">slowed</a> by this ability is <a href="../../../../../condition/restrained/">restrained</a> instead.</p><p>### Incinerate {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/incinerate&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -69,24 +54,15 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The size of the cube increases by 2, but the fire disappears at the end of your turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Kinetic Grip {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The size of the cube increases by 2, but the fire disappears at the end of your turn.</p><p>### Kinetic Grip {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You must vertical push the target instead of sliding them.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Kinetic Pulse {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-pulse&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You must vertical push the target instead of sliding them.</p><p>### Kinetic Pulse {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-pulse&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The size of the burst increases by 2, and you are <a href="../../../../../condition/bleeding/">bleeding</a> until the start of your next turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Materialize {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/materialize&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The size of the burst increases by 2, and you are <a href="../../../../../condition/bleeding/">bleeding</a> until the start of your next turn.</p><p>### Materialize {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/materialize&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -94,10 +70,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The object explodes after the damage is dealt, and each creature adjacent to the target takes damage equal to your Reason score. You also take damage equal to your Reason score that can&#39;t be reduced in any way.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Optic Blast {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/optic-blast&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The object explodes after the damage is dealt, and each creature adjacent to the target takes damage equal to your Reason score. You also take damage equal to your Reason score that can&#39;t be reduced in any way.</p><p>### Optic Blast {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/optic-blast&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -105,10 +78,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You gain 1 surge that you can use immediately, and you take damage equal to your Reason score that can&#39;t be reduced in any way.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Spirit Sword {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/spirit-sword&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You gain 1 surge that you can use immediately, and you take damage equal to your Reason score that can&#39;t be reduced in any way.</p><p>### Spirit Sword {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/spirit-sword&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -116,22 +86,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The target takes an extra 3 damage. You also take 3 damage that can&#39;t be reduced in any way.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Heroic Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You know a range of heroic abilities, all of which cost clarity to fuel them.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 3-Clarity Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* <a href="../../../../ability/talent/level-1/choke/">Choke</a>.)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Awe {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/awe&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target takes an extra 3 damage. You also take 3 damage that can&#39;t be reduced in any way.</p><p>## Heroic Abilities</p><p>You know a range of heroic abilities, all of which cost clarity to fuel them.</p><p>### 3-Clarity Ability</p><p>Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* <a href="../../../../ability/talent/level-1/choke/">Choke</a>.)</p><p>### Awe {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/awe&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -142,30 +97,18 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can vertical pull the target up to 2 squares. If the target is made <a href="../../../../../condition/restrained/">restrained</a> by this ability, this <a href="../../../../../movement/forced-movement/">forced movement</a> ignores their stability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Precognition {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/precognition&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You can vertical pull the target up to 2 squares. If the target is made <a href="../../../../../condition/restrained/">restrained</a> by this ability, this <a href="../../../../../movement/forced-movement/">forced movement</a> ignores their stability.</p><p>### Precognition {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/precognition&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a free strike against the source of the damage.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Smolder {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/smolder&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a free strike against the source of the damage.</p><p>### Smolder {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/smolder&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>Choose the damage type and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 5-Clarity Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* <a href="../../../../ability/talent/level-1/inertia-soak/">Inertia Soak</a>.)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Flashback {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/flashback&#34;}</p></div>
+<div class="sc-ability__section-body"><p>### 5-Clarity Ability</p><p>Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* <a href="../../../../ability/talent/level-1/inertia-soak/">Inertia Soak</a>.)</p><p>### Flashback {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/flashback&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -173,10 +116,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You take 1d6 damage and are <a href="../../../../../condition/slowed/">slowed</a> (save ends).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Inertia Soak {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/inertia-soak&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You take 1d6 damage and are <a href="../../../../../condition/slowed/">slowed</a> (save ends).</p><p>### Inertia Soak {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/inertia-soak&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -184,10 +124,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/weakened/">weakened</a> (save ends). While you are <a href="../../../../../condition/weakened/">weakened</a> this way, whenever you are force moved, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a +5 bonus.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Iron {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/iron&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/weakened/">weakened</a> (save ends). While you are <a href="../../../../../condition/weakened/">weakened</a> this way, whenever you are force moved, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a +5 bonus.</p><p>### Iron {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/iron&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -195,10 +132,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You can&#39;t use maneuvers (save ends).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Perfect Clarity {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/perfect-clarity&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You can&#39;t use maneuvers (save ends).</p><p>### Perfect Clarity {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-1/perfect-clarity&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

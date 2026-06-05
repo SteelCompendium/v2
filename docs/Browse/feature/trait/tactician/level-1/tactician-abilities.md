@@ -34,28 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You are a formidable combatant in your own right, but your greatest strength is the abilities you wield that let you shape control of the battlefield.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Kit Signature Ability {data-scc=&#34;mcdm.heroes.v1/feature.trait.tactician.level-1/kit-signature-ability&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Each kit from your <a href="../field-arsenal/">Field Arsenal</a> feature grants you a signature ability. Signature abilities can be used at will.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Heroic Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your heroic abilities cover a range of combat tactics, all of which require focus to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 3-Focus Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* <a href="../../../../ability/tactician/level-1/inspiring-strike/">Inspiring Strike</a>.)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Battle Cry {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/battle-cry&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You are a formidable combatant in your own right, but your greatest strength is the abilities you wield that let you shape control of the battlefield.</p><p>## Kit Signature Ability {data-scc=&#34;mcdm.heroes.v1/feature.trait.tactician.level-1/kit-signature-ability&#34;}</p><p>Each kit from your <a href="../field-arsenal/">Field Arsenal</a> feature grants you a signature ability. Signature abilities can be used at will.</p><p>## Heroic Abilities</p><p>Your heroic abilities cover a range of combat tactics, all of which require focus to use.</p><p>### 3-Focus Ability</p><p>Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* <a href="../../../../ability/tactician/level-1/inspiring-strike/">Inspiring Strike</a>.)</p><p>### Battle Cry {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/battle-cry&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Concussive Strike {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-1/concussive-strike&#34;}</p></div>

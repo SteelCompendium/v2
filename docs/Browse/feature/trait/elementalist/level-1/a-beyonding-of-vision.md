@@ -26,13 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can&#39;t conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You also gain the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Shared Void Sense {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-1/shared-void-sense&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can&#39;t conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.</p><p>You also gain the following ability.</p><p>## Shared Void Sense {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-1/shared-void-sense&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

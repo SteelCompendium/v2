@@ -34,10 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 clarity to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Exothermic Shield {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-5/exothermic-shield&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 clarity to use.</p><p>## Exothermic Shield {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-5/exothermic-shield&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -45,10 +42,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The target gains 2 surges. You are <a href="../../../../../condition/weakened/">weakened</a> and <a href="../../../../../condition/slowed/">slowed</a> (save ends).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Hypersonic {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-5/hypersonic&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target gains 2 surges. You are <a href="../../../../../condition/weakened/">weakened</a> and <a href="../../../../../condition/slowed/">slowed</a> (save ends).</p><p>## Hypersonic {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-5/hypersonic&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -56,10 +50,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>If you obtain a tier 2 outcome or better, you are <a href="../../../../../condition/slowed/">slowed</a> until the end of your turn and each target is <a href="../../../../../condition/slowed/">slowed</a> until the end of their turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Mind Snare {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-5/mind-snare&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If you obtain a tier 2 outcome or better, you are <a href="../../../../../condition/slowed/">slowed</a> until the end of your turn and each target is <a href="../../../../../condition/slowed/">slowed</a> until the end of their turn.</p><p>## Mind Snare {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-5/mind-snare&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -67,10 +58,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/slowed/">slowed</a> this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are <a href="../../../../../condition/slowed/">slowed</a> this way.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Soulbound {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-5/soulbound&#34;}</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/slowed/">slowed</a> this way, the target instead takes 5 psychic damage for each square they willingly leave. You have a double bane on ability rolls made against the target while they are <a href="../../../../../condition/slowed/">slowed</a> this way.</p><p>## Soulbound {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-5/soulbound&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

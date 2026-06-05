@@ -34,17 +34,11 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 essence to use. Alternatively, you can choose one of the 11-essence abilities you didn&#39;t select at 8th level (see 8th-Level Features).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Earth Rejects You {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-9/earth-rejects-you&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 essence to use. Alternatively, you can choose one of the 11-essence abilities you didn&#39;t select at 8th level (see 8th-Level Features).</p><p>## Earth Rejects You {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-9/earth-rejects-you&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
-<div class="sc-ability__section-body"><p>At the start of your turn, you can use a maneuver to use this ability again without spending essence.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## The Green Defends Its Servants {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-9/the-green-defends-its-servants&#34;}</p></div>
+<div class="sc-ability__section-body"><p>At the start of your turn, you can use a maneuver to use this ability again without spending essence.</p><p>## The Green Defends Its Servants {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-9/the-green-defends-its-servants&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -52,17 +46,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
-<div class="sc-ability__section-body"><p>The effect lasts until the start of your next turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Prism {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-9/prism&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The effect lasts until the start of your next turn.</p><p>## Prism {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-9/prism&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares between your use of each ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Unquenchable Fire {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-9/unquenchable-fire&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares between your use of each ability.</p><p>## Unquenchable Fire {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-9/unquenchable-fire&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

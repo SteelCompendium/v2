@@ -26,10 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../troubadour-class-act/">troubadour class act</a> grants you a triggered action, as shown on the Class Act Triggered Actions table.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Class Act Triggered Action Table</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../troubadour-class-act/">troubadour class act</a> grants you a triggered action, as shown on the Class Act Triggered Actions table.</p><p>### Class Act Triggered Action Table</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Harmonize {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/harmonize&#34;}</p></div>
@@ -51,10 +48,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target makes a free strike against the creature who made the triggering strike.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Turnabout Is Fair Play {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/turnabout-is-fair-play&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target makes a free strike against the creature who made the triggering strike.</p><p>### Turnabout Is Fair Play {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/turnabout-is-fair-play&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>

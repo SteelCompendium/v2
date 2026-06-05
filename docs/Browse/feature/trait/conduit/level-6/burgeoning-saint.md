@@ -20,9 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You are infused with the power your deity reserves for their most worthy instruments. You have the following benefits:</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- You gain an edge on Presence tests made to interact with other creatures. - Whenever you deal damage to an enemy, you can spend a Recovery. - You have corruption immunity 10 or holy immunity 10 (your choice). - Your clothing and equipment changes in a way that reflects your status as your deity&#39;s chosen champion, such as ordinary robes turning into gold vestments or a simple dagger becoming a wicked blade with intricate etching.</p></div>
+<div class="sc-ability__section-body"><p>You are infused with the power your deity reserves for their most worthy instruments. You have the following benefits:</p><ul><li>You gain an edge on Presence tests made to interact with other creatures.</li><li>Whenever you deal damage to an enemy, you can spend a Recovery.</li><li>You have corruption immunity 10 or holy immunity 10 (your choice).</li><li>Your clothing and equipment changes in a way that reflects your status as your deity&#39;s chosen champion, such as ordinary robes turning into gold vestments or a simple dagger becoming a wicked blade with intricate etching.</li></ul></div>
 </div>
 </article>

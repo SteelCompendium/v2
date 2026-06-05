@@ -34,16 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Guided by the ebb and flow of battle, you trade off attacking with your companion and work together to unleash deadly combinations.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Signature Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Come On!)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Bodyswap {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/bodyswap&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Guided by the ebb and flow of battle, you trade off attacking with your companion and work together to unleash deadly combinations.</p><p>## Signature Ability</p><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Come On!)</p><p>### Bodyswap {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/bodyswap&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -54,62 +45,29 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion can make a melee free strike. You both <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Intuition score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Covering Fire {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/covering-fire&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your companion can make a melee free strike. You both <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Intuition score.</p><p>### Covering Fire {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/covering-fire&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is not <a href="../../../../../condition/prone/">prone</a>, they must use a free triggered action to fall <a href="../../../../../condition/prone/">prone</a> or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Stormrage {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/stormrage&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If the target is not <a href="../../../../../condition/prone/">prone</a>, they must use a free triggered action to fall <a href="../../../../../condition/prone/">prone</a> or take extra damage equal to twice your Intuition score. Your companion can shift up to a number of squares equal to their Intuition score.</p><p>### Stormrage {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/stormrage&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can spend 1 surge without gaining its benefits. If you do, your companion can use this ability as a free triggered action, targeting a different creature or object with the same power roll, but they don&#39;t trigger this effect.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Heroic Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>From traveling and fighting alongside your companion, you have learned a number of heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 3-Ferocity Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Hungry Like the Wolf.)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>#### Bring the Thunder {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/bring-the-thunder&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You can spend 1 surge without gaining its benefits. If you do, your companion can use this ability as a free triggered action, targeting a different creature or object with the same power roll, but they don&#39;t trigger this effect.</p><p>## Heroic Abilities</p><p>From traveling and fighting alongside your companion, you have learned a number of heroic abilities.</p><p>### 3-Ferocity Ability</p><p>Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Hungry Like the Wolf.)</p><p>#### Bring the Thunder {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/bring-the-thunder&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>#### Herd the Sheep {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/herd-the-sheep&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and your companion can <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to the number of squares the target was <a href="../../../../../movement/forced-movement/">force moved</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>#### Hungry Like the Wolf {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/hungry-like-the-wolf&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You and your companion can <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to the number of squares the target was <a href="../../../../../movement/forced-movement/">force moved</a>.</p><p>#### Hungry Like the Wolf {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/hungry-like-the-wolf&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>#### Pushover {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/pushover&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This forced movement can pass through your space but not end there. If the target passes through your space, they fall <a href="../../../../../condition/prone/">prone</a> and take extra damage equal to your Intuition score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 5-Ferocity Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (Quick Build: I Feed On Your Pain!)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>#### All of You Versus All of Me {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/all-of-you-versus-all-of-me&#34;}</p></div>
+<div class="sc-ability__section-body"><p>This forced movement can pass through your space but not end there. If the target passes through your space, they fall <a href="../../../../../condition/prone/">prone</a> and take extra damage equal to your Intuition score.</p><p>### 5-Ferocity Ability</p><p>Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (Quick Build: I Feed On Your Pain!)</p><p>#### All of You Versus All of Me {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/all-of-you-versus-all-of-me&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -120,17 +78,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is killed by this damage, or is winded or <a href="../../../../../condition/bleeding/">bleeding</a> after taking this damage, you gain 2 surges.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>#### Rain of Fire {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/rain-of-fire&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If the target is killed by this damage, or is winded or <a href="../../../../../condition/bleeding/">bleeding</a> after taking this damage, you gain 2 surges.</p><p>#### Rain of Fire {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/rain-of-fire&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If your companion is in the area, they deal fire damage equal to their Intuition score to each target.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>#### You Let Me Get Too Close {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/you-let-me-get-too-close&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If your companion is in the area, they deal fire damage equal to their Intuition score to each target.</p><p>#### You Let Me Get Too Close {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-1/you-let-me-get-too-close&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

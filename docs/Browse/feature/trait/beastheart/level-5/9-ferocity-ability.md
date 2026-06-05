@@ -34,31 +34,19 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 ferocity to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Deadshot {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-5/deadshot&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 ferocity to use.</p><p>## Deadshot {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-5/deadshot&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you are hidden, you remain hidden after the strike.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Dogpile {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-5/dogpile&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If you are hidden, you remain hidden after the strike.</p><p>## Dogpile {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-5/dogpile&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally adjacent to the target can use a free triggered action to deal damage to the target equal to their highest characteristic score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## One, Two, Three, Heave {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-5/one-two-three-heave&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each ally adjacent to the target can use a free triggered action to deal damage to the target equal to their highest characteristic score.</p><p>## One, Two, Three, Heave {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-5/one-two-three-heave&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If your companion is adjacent to the target, this <a href="../../../../../movement/forced-movement/">forced movement</a> can ignore the target&#39;s stability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Rip Them Apart! {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-5/rip-them-apart&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If your companion is adjacent to the target, this <a href="../../../../../movement/forced-movement/">forced movement</a> can ignore the target&#39;s stability.</p><p>## Rip Them Apart! {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-5/rip-them-apart&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

@@ -34,17 +34,11 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 focus to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Go Now and Speed Well {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-8/go-now-and-speed-well&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 focus to use.</p><p>## Go Now and Speed Well {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-8/go-now-and-speed-well&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 2 surges and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Finish Them! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-8/finish-them&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target gains 2 surges and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.</p><p>## Finish Them! {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-8/finish-them&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
@@ -52,17 +46,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is killed. Additionally, the creature who caused the target to be winded can spend a Recovery.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Floodgates Open {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-8/floodgates-open&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target is killed. Additionally, the creature who caused the target to be winded can spend a Recovery.</p><p>## Floodgates Open {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-8/floodgates-open&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 1 surge and can use a signature ability as a free triggered action. That ability gains an edge on the power roll and increases the potency of any potency effects by 1.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## I&#39;ll Open and You&#39;ll Close {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-8/ill-open-and-youll-close&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 1 surge and can use a signature ability as a free triggered action. That ability gains an edge on the power roll and increases the potency of any potency effects by 1.</p><p>## I&#39;ll Open and You&#39;ll Close {data-scc=&#34;mcdm.heroes.v1/feature.ability.tactician.level-8/ill-open-and-youll-close&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

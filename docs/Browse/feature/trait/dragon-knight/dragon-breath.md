@@ -33,10 +33,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following signature ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Dragon Breath {data-scc=&#34;mcdm.heroes.v1/feature.ability.dragon-knight/dragon-breath&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You have the following signature ability.</p><p>## Dragon Breath {data-scc=&#34;mcdm.heroes.v1/feature.ability.dragon-knight/dragon-breath&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

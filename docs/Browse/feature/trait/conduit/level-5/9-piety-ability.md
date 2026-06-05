@@ -34,27 +34,18 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 piety to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Beacon of Grace {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-5/beacon-of-grace&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 9 piety to use.</p><p>## Beacon of Grace {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-5/beacon-of-grace&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free <a href="../../level-1/triggered-action/">triggered action</a> to move this effect to another creature within distance.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Penance {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-5/penance&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free <a href="../../level-1/triggered-action/">triggered action</a> to move this effect to another creature within distance.</p><p>## Penance {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-5/penance&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Sanctuary {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-5/sanctuary&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is removed from the encounter map until the start of their next turn and can spend any number of Recoveries. At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Vessel of Retribution {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-5/vessel-of-retribution&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target is removed from the encounter map until the start of their next turn and can spend any number of Recoveries. At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.</p><p>## Vessel of Retribution {data-scc=&#34;mcdm.heroes.v1/feature.ability.conduit.level-5/vessel-of-retribution&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

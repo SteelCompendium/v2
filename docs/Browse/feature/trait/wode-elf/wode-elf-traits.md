@@ -33,57 +33,6 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><a href="../../../../ancestry/wode-elf/">Wode elf</a> heroes have access to the following traits.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Signature Trait: Wode Elf Glamor {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-glamor&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can magically alter your appearance to better blend in with your surroundings. You gain an edge on tests made to hide and sneak, and tests made to search for you while you are hidden take a bane.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Purchased Wode Elf Traits</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have 3 ancestry points to spend on the following traits. (*Quick Build:* Swift, Otherworldly Grace.)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Forest Walk {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/forest-walk&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> into and while within <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Quick and Brutal {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/quick-and-brutal&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you score a critical hit, you can take an additional main action and an additional move action instead of just a main action.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Otherworldly Grace {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/otherworldly-grace&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your elf body and mind can&#39;t be contained for long. Whenever you make a saving throw, you succeed on a roll of 5 or higher.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Revisit Memory {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/revisit-memory&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Accessing memories is as easy as living in the present for you. You gain an edge on tests made to recall lore.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Swift {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/swift&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have speed 6.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### The Wode Defends {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/the-wode-defends&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following signature ability. Signature abilities can be used at will.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>#### The Wode Defends {data-scc=&#34;mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends&#34;}</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../ancestry/wode-elf/">Wode elf</a> heroes have access to the following traits.</p><p>## Signature Trait: Wode Elf Glamor {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-glamor&#34;}</p><p>You can magically alter your appearance to better blend in with your surroundings. You gain an edge on tests made to hide and sneak, and tests made to search for you while you are hidden take a bane.</p><p>## Purchased Wode Elf Traits</p><p>You have 3 ancestry points to spend on the following traits. (*Quick Build:* Swift, Otherworldly Grace.)</p><p>### Forest Walk {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/forest-walk&#34;}</p><p>You can <a href="../../../../movement/shifting/">shift</a> into and while within <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p><p>### Quick and Brutal {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/quick-and-brutal&#34;}</p><p>Whenever you score a critical hit, you can take an additional main action and an additional move action instead of just a main action.</p><p>### Otherworldly Grace {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/otherworldly-grace&#34;}</p><p>Your elf body and mind can&#39;t be contained for long. Whenever you make a saving throw, you succeed on a roll of 5 or higher.</p><p>### Revisit Memory {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/revisit-memory&#34;}</p><p>Accessing memories is as easy as living in the present for you. You gain an edge on tests made to recall lore.</p><p>### Swift {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/swift&#34;}</p><p>You have speed 6.</p><p>### The Wode Defends {data-scc=&#34;mcdm.heroes.v1/feature.trait.wode-elf/the-wode-defends&#34;}</p><p>You have the following signature ability. Signature abilities can be used at will.</p><p>#### The Wode Defends {data-scc=&#34;mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends&#34;}</p></div>
 </div>
 </article>

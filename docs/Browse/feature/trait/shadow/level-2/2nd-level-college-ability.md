@@ -34,16 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/shadow-college/">shadow college</a> grants your choice of one of two heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 2nd-Level Black Ash Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### In a Puff of Ash {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-2/in-a-puff-of-ash&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/shadow-college/">shadow college</a> grants your choice of one of two heroic abilities.</p><p>## 2nd-Level Black Ash Ability</p><p>Choose one of the following abilities.</p><p>### In a Puff of Ash {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-2/in-a-puff-of-ash&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Too Slow {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-2/too-slow&#34;}</p></div>
@@ -54,16 +45,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ignore any effects associated with the damage that triggered your <a href="../../../../ability/shadow/level-1/in-all-this-confusion/">In All This Confusion</a> ability. Before you <a href="../../../../../movement/teleport/">teleport</a>, you can make a free strike against a creature who damaged you to trigger <a href="../../../../ability/shadow/level-1/in-all-this-confusion/">In All This Confusion</a>. After you <a href="../../../../../movement/teleport/">teleport</a>, you can spend a Recovery.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 2nd-Level Caustic Alchemy Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Sticky Bomb {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-2/sticky-bomb&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You ignore any effects associated with the damage that triggered your <a href="../../../../ability/shadow/level-1/in-all-this-confusion/">In All This Confusion</a> ability. Before you <a href="../../../../../movement/teleport/">teleport</a>, you can make a free strike against a creature who damaged you to trigger <a href="../../../../ability/shadow/level-1/in-all-this-confusion/">In All This Confusion</a>. After you <a href="../../../../../movement/teleport/">teleport</a>, you can spend a Recovery.</p><p>## 2nd-Level Caustic Alchemy Ability</p><p>Choose one of the following abilities.</p><p>### Sticky Bomb {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-2/sticky-bomb&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -74,23 +56,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M &lt; AVERAGE is <a href="../../../../../condition/weakened/">weakened</a> (save ends).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 2nd-Level Harlequin Mask Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Machinations of Sound {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-2/machinations-of-sound&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M &lt; AVERAGE is <a href="../../../../../condition/weakened/">weakened</a> (save ends).</p><p>## 2nd-Level Harlequin Mask Ability</p><p>Choose one of the following abilities.</p><p>### Machinations of Sound {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-2/machinations-of-sound&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This <a href="../../../../../movement/forced-movement/">forced movement</a> ignores stability. Instead, the <a href="../../../../../movement/forced-movement/">forced movement</a> is reduced by a number equal to the target&#39;s Intuition score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### So Gullible {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-2/so-gullible&#34;}</p></div>
+<div class="sc-ability__section-body"><p>This <a href="../../../../../movement/forced-movement/">forced movement</a> ignores stability. Instead, the <a href="../../../../../movement/forced-movement/">forced movement</a> is reduced by a number equal to the target&#39;s Intuition score.</p><p>### So Gullible {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-2/so-gullible&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>

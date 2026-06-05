@@ -34,31 +34,19 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 wrath to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Excommunication {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-8/excommunication&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 wrath to use.</p><p>## Excommunication {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-8/excommunication&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each of your turns, a target <a href="../../../../../condition/weakened/">weakened</a> this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target <a href="../../../../../condition/weakened/">weakened</a> this way can&#39;t be targeted by their allies&#39; abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Hand of the Gods {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-8/hand-of-the-gods&#34;}</p></div>
+<div class="sc-ability__section-body"><p>At the end of each of your turns, a target <a href="../../../../../condition/weakened/">weakened</a> this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them. Additionally, a target <a href="../../../../../condition/weakened/">weakened</a> this way can&#39;t be targeted by their allies&#39; abilities.</p><p>## Hand of the Gods {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-8/hand-of-the-gods&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of flanking.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Pillar of Holy Fire {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-8/pillar-of-holy-fire&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of flanking.</p><p>## Pillar of Holy Fire {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-8/pillar-of-holy-fire&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each of your turns, a target <a href="../../../../../condition/dazed/">dazed</a> this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Your Allies Turn on You! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-8/your-allies-turn-on-you&#34;}</p></div>
+<div class="sc-ability__section-body"><p>At the end of each of your turns, a target <a href="../../../../../condition/dazed/">dazed</a> this way deals holy damage equal to twice your Presence score to each enemy within 2 squares of them.</p><p>## Your Allies Turn on You! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-8/your-allies-turn-on-you&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

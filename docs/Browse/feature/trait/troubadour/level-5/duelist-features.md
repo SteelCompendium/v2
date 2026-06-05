@@ -26,22 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following features.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Verbal Duel</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a free strike, which deals psychic damage instead of its usual damage.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## We Can&#39;t Be Upstaged!</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following performance ability, which is usable with your <a href="../../level-1/routines/">Routines</a> feature.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## We Can&#39;t Be Upstaged! {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/we-cant-be-upstaged&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one of the following features.</p><p>## Verbal Duel</p><p>Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a free strike, which deals psychic damage instead of its usual damage.</p><p>## We Can&#39;t Be Upstaged!</p><p>You have the following performance ability, which is usable with your <a href="../../level-1/routines/">Routines</a> feature.</p><p>## We Can&#39;t Be Upstaged! {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-5/we-cant-be-upstaged&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

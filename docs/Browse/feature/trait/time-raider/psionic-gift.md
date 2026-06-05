@@ -33,10 +33,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Concussive Slam {data-scc=&#34;mcdm.heroes.v1/feature.ability.time-raider/concussive-slam&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will.</p><p>## Concussive Slam {data-scc=&#34;mcdm.heroes.v1/feature.ability.time-raider/concussive-slam&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>## Psionic Bolt {data-scc=&#34;mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt&#34;}</p></div>

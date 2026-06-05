@@ -52,15 +52,9 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion moves up to a number of squares equal to their Intuition score straight toward the closest enemy they are aware of, avoiding damaging terrain and ending the movement when they are adjacent to that enemy.</p></div>
+<div class="sc-ability__section-body"><p>Your companion moves up to a number of squares equal to their Intuition score straight toward the closest enemy they are aware of, avoiding damaging terrain and ending the movement when they are adjacent to that enemy.</p><p>Your companion then makes the following power roll:</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your companion then makes the following power roll:</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>This ability gains the following benefit based on your wild nature.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- <b>Guardian:</b> Each enemy target is <a href="../../../../../condition/taunted/">taunted</a> by your companion until the start of your next turn. - <b>Prowler:</b> Each enemy target is <a href="../../../../../condition/weakened/">weakened</a> until the start of your next turn. - <b>Punisher:</b> Your companion slides each target up to a number of squares equal to their Might score. - <b>Spark:</b> This strike deals cold, fire, lightning, or sonic damage. You gain 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>This ability gains the following benefit based on your wild nature.</p><ul><li><b>Guardian:</b> Each enemy target is <a href="../../../../../condition/taunted/">taunted</a> by your companion until the start of your next turn.</li><li><b>Prowler:</b> Each enemy target is <a href="../../../../../condition/weakened/">weakened</a> until the start of your next turn.</li><li><b>Punisher:</b> Your companion slides each target up to a number of squares equal to their Might score.</li><li><b>Spark:</b> This strike deals cold, fire, lightning, or sonic damage. You gain 1 surge.</li></ul></div>
 </div>
 </article>

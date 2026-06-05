@@ -25,9 +25,6 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Whenever you use the Disengage move action, the distance you can <a href="../../../../../movement/shifting/">shift</a> gains a bonus equal to your Agility score.</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>As your ferocity grows, you gain benefits as noted on the <a href="../../../../../kit/raden/">Raden</a> <a href="../../boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Raden Growing Ferocity Table</p></div>
+<div class="sc-ability__section-body"><p>As your ferocity grows, you gain benefits as noted on the <a href="../../../../../kit/raden/">Raden</a> <a href="../../boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p><p>## Raden Growing Ferocity Table</p></div>
 </div>
 </article>

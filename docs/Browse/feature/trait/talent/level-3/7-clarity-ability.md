@@ -34,10 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 clarity to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Fling Through Time {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-3/fling-through-time&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 7 clarity to use.</p><p>## Fling Through Time {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-3/fling-through-time&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -45,24 +42,15 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a <a href="../../../../../ancestry/human/">human</a>). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Force Orbs {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-3/force-orbs&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a <a href="../../../../../ancestry/human/">human</a>). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.</p><p>## Force Orbs {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-3/force-orbs&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create three size 1T orbs that orbit your body. Each orb gives you a cumulative damage immunity 1. Each time you take damage, you lose 1 orb.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Once on each of your turns, you can use a free maneuver to fire an orb at a creature or object within 5 squares as a ranged strike, losing the orb after the strike.</p></div>
+<div class="sc-ability__section-body"><p>You create three size 1T orbs that orbit your body. Each orb gives you a cumulative damage immunity 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your turns, you can use a free maneuver to fire an orb at a creature or object within 5 squares as a ranged strike, losing the orb after the strike.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You create five orbs, and you are <a href="../../../../../condition/weakened/">weakened</a> while you have any orbs active.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Reflector Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-3/reflector-field&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You create five orbs, and you are <a href="../../../../../condition/weakened/">weakened</a> while you have any orbs active.</p><p>## Reflector Field {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-3/reflector-field&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -70,10 +58,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The size of the aura increases by 1. Whenever your aura reflects an ability, you take 2d6 damage and forget a memory, as determined by you and the Director.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Soul Burn {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-3/soul-burn&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The size of the aura increases by 1. Whenever your aura reflects an ability, you take 2d6 damage and forget a memory, as determined by you and the Director.</p><p>## Soul Burn {data-scc=&#34;mcdm.heroes.v1/feature.ability.talent.level-3/soul-burn&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

@@ -25,12 +25,6 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Whenever you use the Knockback maneuver, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Intuition score.</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you use your <a href="../../../../ability/null/level-1/inertial-shield/">Inertial Shield</a> ability, you can then use the Knockback maneuver as a free triggered action.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the <a href="../metakinetic-mastery/">Metakinetic Mastery</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Metakinetic Mastery Table</p></div>
+<div class="sc-ability__section-body"><p>Whenever you use your <a href="../../../../ability/null/level-1/inertial-shield/">Inertial Shield</a> ability, you can then use the Knockback maneuver as a free triggered action.</p><p>Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the <a href="../metakinetic-mastery/">Metakinetic Mastery</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p><p>## Metakinetic Mastery Table</p></div>
 </div>
 </article>

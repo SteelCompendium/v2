@@ -34,31 +34,19 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 ferocity to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Elemental Ferocity {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-8/elemental-ferocity&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 ferocity to use.</p><p>## Elemental Ferocity {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-8/elemental-ferocity&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 10 temporary Stamina. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 Stamina, you gain 10 temporary Stamina.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Overkill {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-8/overkill&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You gain 10 temporary Stamina. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 Stamina, you gain 10 temporary Stamina.</p><p>## Overkill {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-8/overkill&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is a minion or is winded but isn&#39;t a leader or solo creature, they are reduced to 0 Stamina before this ability&#39;s damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Primordial Rage {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-8/primordial-rage&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If the target is a minion or is winded but isn&#39;t a leader or solo creature, they are reduced to 0 Stamina before this ability&#39;s damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.</p><p>## Primordial Rage {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-8/primordial-rage&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, you can choose one target of any ability you use, with that target taking an extra 15 damage of the chosen type. Additionally, whenever you gain ferocity from taking damage, the source of the damage takes 5 damage of the chosen type.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Relentless Death {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-8/relentless-death&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, you can choose one target of any ability you use, with that target taking an extra 15 damage of the chosen type. Additionally, whenever you gain ferocity from taking damage, the source of the damage takes 5 damage of the chosen type.</p><p>## Relentless Death {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-8/relentless-death&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

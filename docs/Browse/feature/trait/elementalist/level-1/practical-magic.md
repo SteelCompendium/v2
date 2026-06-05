@@ -26,16 +26,10 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Practical Magic {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-1/practical-magic&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You have the following ability.</p><p>## Practical Magic {data-scc=&#34;mcdm.heroes.v1/feature.ability.elementalist.level-1/practical-magic&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose one of the following effects:</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- You use the Knockback maneuver (see Chapter 10: <a href="../../../../../../Read/heroes/combat/">Combat</a>), but its distance becomes the range of your <a href="../../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability, and you use Reason instead of Might for the power roll. - You choose a creature within the distance of your <a href="../../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score. - You <a href="../../../../../movement/teleport/">teleport</a> up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to <a href="../../../../../movement/teleport/">teleport</a> 1 additional square for each essence spent.</p></div>
+<div class="sc-ability__section-body"><p>Choose one of the following effects:</p><ul><li>You use the Knockback maneuver (see Chapter 10: <a href="../../../../../../Read/heroes/combat/">Combat</a>), but its distance becomes the range of your <a href="../../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability, and you use Reason instead of Might for the power roll.</li><li>You choose a creature within the distance of your <a href="../../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.</li><li>You <a href="../../../../../movement/teleport/">teleport</a> up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to <a href="../../../../../movement/teleport/">teleport</a> 1 additional square for each essence spent.</li></ul></div>
 </div>
 </article>

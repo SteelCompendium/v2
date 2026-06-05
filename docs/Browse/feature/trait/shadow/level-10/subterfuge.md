@@ -20,12 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have an epic resource called <a href="../subterfuge/">subterfuge</a>. Each time you finish a respite, you gain <a href="../subterfuge/">subterfuge</a> equal to the XP you gain. You can spend <a href="../subterfuge/">subterfuge</a> on your abilities as if it were insight.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, you can spend <a href="../subterfuge/">subterfuge</a> to take additional maneuvers on your turn. You can use one maneuver for each <a href="../subterfuge/">subterfuge</a> you spend.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><a href="../subterfuge/">Subterfuge</a> remains until you spend it.</p></div>
+<div class="sc-ability__section-body"><p>You have an epic resource called <a href="../subterfuge/">subterfuge</a>. Each time you finish a respite, you gain <a href="../subterfuge/">subterfuge</a> equal to the XP you gain. You can spend <a href="../subterfuge/">subterfuge</a> on your abilities as if it were insight.</p><p>Additionally, you can spend <a href="../subterfuge/">subterfuge</a> to take additional maneuvers on your turn. You can use one maneuver for each <a href="../subterfuge/">subterfuge</a> you spend.</p><p><a href="../subterfuge/">Subterfuge</a> remains until you spend it.</p></div>
 </div>
 </article>

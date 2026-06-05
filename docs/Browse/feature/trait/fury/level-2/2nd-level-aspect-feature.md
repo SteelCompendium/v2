@@ -25,27 +25,9 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../unstoppable-force/">Unstoppable Force</a></div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants you a feature, as shown on the 2nd-Level Aspect Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants you a feature, as shown on the 2nd-Level Aspect Features table.</p><p>### 2nd-Level Aspect Features Table</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 2nd-Level Aspect Features Table</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Inescapable Wrath {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-2/inescapable-wrath&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have a bonus to speed equal to your Agility score, and you ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Tooth and Claw {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-2/tooth-and-claw&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>At the end of each of your turns, each enemy adjacent to you takes damage equal to your Might score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Unstoppable Force {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-2/unstoppable-force&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can jump as part of your charge.</p></div>
+<div class="sc-ability__section-body"><p>## Inescapable Wrath {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-2/inescapable-wrath&#34;}</p><p>You have a bonus to speed equal to your Agility score, and you ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p><p>## Tooth and Claw {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-2/tooth-and-claw&#34;}</p><p>At the end of each of your turns, each enemy adjacent to you takes damage equal to your Might score.</p><p>## Unstoppable Force {data-scc=&#34;mcdm.heroes.v1/feature.trait.fury.level-2/unstoppable-force&#34;}</p><p>Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can jump as part of your charge.</p></div>
 </div>
 </article>

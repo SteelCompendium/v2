@@ -34,31 +34,19 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 ferocity to use.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Life-Drinking Wound {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-8/life-drinking-wound&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 11 ferocity to use.</p><p>## Life-Drinking Wound {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-8/life-drinking-wound&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Up to three creatures within 2 squares of the target gain temporary Stamina equal to half the damage dealt.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## On the Razor&#39;s Edge {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-8/on-the-razors-edge&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Up to three creatures within 2 squares of the target gain temporary Stamina equal to half the damage dealt.</p><p>## On the Razor&#39;s Edge {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-8/on-the-razors-edge&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Your companion can use this ability against an adjacent target, making their own power roll. Both power rolls gain an edge if either of you is <a href="../../../../../condition/bleeding/">bleeding</a>, dying, or winded, and your power roll has a double edge if your companion is dead or otherwise unable to act.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Ride or Die {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-8/ride-or-die&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your companion can use this ability against an adjacent target, making their own power roll. Both power rolls gain an edge if either of you is <a href="../../../../../condition/bleeding/">bleeding</a>, dying, or winded, and your power roll has a double edge if your companion is dead or otherwise unable to act.</p><p>## Ride or Die {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-8/ride-or-die&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and your companion each use a different ability that costs 9 or fewer ferocity and is either a main action or a maneuver. These abilities cost no ferocity. If an ability lets you spend additional ferocity for an enhanced effect, you can&#39;t do so.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Turn the World To Ash {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-8/turn-the-world-to-ash&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You and your companion each use a different ability that costs 9 or fewer ferocity and is either a main action or a maneuver. These abilities cost no ferocity. If an ability lets you spend additional ferocity for an enhanced effect, you can&#39;t do so.</p><p>## Turn the World To Ash {data-scc=&#34;mcdm.beastheart.v1/feature.ability.beastheart.level-8/turn-the-world-to-ash&#34;}</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2+ Ferocity</span><span class="txt">You can spend up to 6 ferocity. For every 2 ferocity spent, the size of the burst increases by 1, you gain a +2 bonus to the power roll, and you take 5 damage that can&#39;t be reduced in any way. You can choose how much ferocity you spend after you make the power roll.</span></div>
 </article>

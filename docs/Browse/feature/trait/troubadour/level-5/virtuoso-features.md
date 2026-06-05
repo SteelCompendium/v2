@@ -20,18 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following features.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Bolstering Banter</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Once on each of your turns, you can use a free maneuver to exchange words with a target of your current performance, other than yourself. The target can spend a Recovery to gain temporary Stamina equal to their recovery value.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Medley</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can maintain two performances at a time using your <a href="../../level-1/routines/">Routines</a> feature.</p></div>
+<div class="sc-ability__section-body"><p>Choose one of the following features.</p><p>## Bolstering Banter</p><p>Once on each of your turns, you can use a free maneuver to exchange words with a target of your current performance, other than yourself. The target can spend a Recovery to gain temporary Stamina equal to their recovery value.</p><p>## Medley</p><p>You can maintain two performances at a time using your <a href="../../level-1/routines/">Routines</a> feature.</p></div>
 </div>
 </article>

@@ -20,9 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Although you and your companion share your action economy, you are treated as separate creatures for effects that grant or remove main actions, maneuvers, and move actions. For instance, the talent&#39;s Applied Chronometrics ability grants an extra maneuver. If both you and your companion are targeted by the ability, you both gain extra maneuvers.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Similarly, the <a href="../../../../../condition/dazed/">dazed</a> condition limits what a creature can do on their turn. Being <a href="../../../../../condition/dazed/">dazed</a> works the same on you and your companion as it does on other creatures; whoever is <a href="../../../../../condition/dazed/">dazed</a> can only do one thing on their turn (a move action, maneuver, or main action). You being <a href="../../../../../condition/dazed/">dazed</a> has no effect on your companion, and vice versa.</p></div>
+<div class="sc-ability__section-body"><p>Although you and your companion share your action economy, you are treated as separate creatures for effects that grant or remove main actions, maneuvers, and move actions. For instance, the talent&#39;s Applied Chronometrics ability grants an extra maneuver. If both you and your companion are targeted by the ability, you both gain extra maneuvers.</p><p>Similarly, the <a href="../../../../../condition/dazed/">dazed</a> condition limits what a creature can do on their turn. Being <a href="../../../../../condition/dazed/">dazed</a> works the same on you and your companion as it does on other creatures; whoever is <a href="../../../../../condition/dazed/">dazed</a> can only do one thing on their turn (a move action, maneuver, or main action). You being <a href="../../../../../condition/dazed/">dazed</a> has no effect on your companion, and vice versa.</p></div>
 </div>
 </article>

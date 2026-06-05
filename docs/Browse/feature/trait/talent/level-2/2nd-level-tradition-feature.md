@@ -25,27 +25,9 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v"><a href="../ease-the-hours/">Ease the Hours</a></div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/talent-tradition/">talent tradition</a> grants you a feature, as shown on the 2nd-Level Tradition Features table.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/talent-tradition/">talent tradition</a> grants you a feature, as shown on the 2nd-Level Tradition Features table.</p><p>### 2nd-Level Tradition Features Table</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 2nd-Level Tradition Features Table</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Ease the Hours {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-2/ease-the-hours&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You can increase the number of rounds in a montage test by 1 if the test would end before the heroes hit the success limit.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Ease the Mind {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-2/ease-the-mind&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You gain an edge on tests made to stop combat and start a negotiation. Additionally, if you are present during a negotiation, any NPC who has a hostile or suspicious starting attitude has their patience increased by 1 (to a maximum of 5).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Ease Their Fall {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-2/ease-their-fall&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free triggered action to reduce the falling damage by an amount equal to 2 + your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>## Ease the Hours {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-2/ease-the-hours&#34;}</p><p>You can increase the number of rounds in a montage test by 1 if the test would end before the heroes hit the success limit.</p><p>## Ease the Mind {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-2/ease-the-mind&#34;}</p><p>You gain an edge on tests made to stop combat and start a negotiation. Additionally, if you are present during a negotiation, any NPC who has a hostile or suspicious starting attitude has their patience increased by 1 (to a maximum of 5).</p><p>## Ease Their Fall {data-scc=&#34;mcdm.heroes.v1/feature.trait.talent.level-2/ease-their-fall&#34;}</p><p>Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free triggered action to reduce the falling damage by an amount equal to 2 + your Reason score.</p></div>
 </div>
 </article>

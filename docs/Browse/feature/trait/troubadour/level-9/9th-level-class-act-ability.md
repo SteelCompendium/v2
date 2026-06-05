@@ -34,63 +34,30 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/troubadour-class-act/">troubadour class act</a> grants your choice of one of two heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Auteur Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Epic {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-9/epic&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/troubadour-class-act/">troubadour class act</a> grants your choice of one of two heroic abilities.</p><p>## 9th-Level Auteur Abilities</p><p>Choose one of the following abilities.</p><p>### Epic {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-9/epic&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a free strike against them after the ability is resolved.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Rising Tension {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-9/rising-tension&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a free strike against them after the ability is resolved.</p><p>### Rising Tension {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-9/rising-tension&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer <a href="../../../../../condition/slowed/">slowed</a> or <a href="../../../../../condition/weakened/">weakened</a> if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Duelist Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Expert Fencer {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-9/expert-fencer&#34;}</p></div>
+<div class="sc-ability__section-body"><p>The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer <a href="../../../../../condition/slowed/">slowed</a> or <a href="../../../../../condition/weakened/">weakened</a> if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.</p><p>## 9th-Level Duelist Abilities</p><p>Choose one of the following abilities.</p><p>### Expert Fencer {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-9/expert-fencer&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This ability can&#39;t obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Renegotiated Contract {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-9/renegotiated-contract&#34;}</p></div>
+<div class="sc-ability__section-body"><p>This ability can&#39;t obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.</p><p>### Renegotiated Contract {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-9/renegotiated-contract&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>Add your current Stamina to your target&#39;s current Stamina, then you have half that total Stamina and the target has the remainder. If either of you would gain more Stamina this way than their Stamina maximum, the difference in Stamina between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more Stamina than your maximum this way. You then make a power roll.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 9th-Level Virtuoso Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Jam Session {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session&#34;}</p></div>
+<div class="sc-ability__section-body"><p>## 9th-Level Virtuoso Abilities</p><p>Choose one of the following abilities.</p><p>### Jam Session {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-9/jam-session&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each creature within distance gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Melt Their Faces {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-9/melt-their-faces&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each creature within distance gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.</p><p>### Melt Their Faces {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-9/melt-their-faces&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

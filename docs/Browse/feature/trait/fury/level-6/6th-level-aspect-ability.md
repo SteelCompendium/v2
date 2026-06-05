@@ -34,16 +34,7 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two heroic abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Berserker Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Avalanche Impact {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/avalanche-impact&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two heroic abilities.</p><p>## 6th-Level Berserker Abilities</p><p>Choose one of the following abilities.</p><p>### Avalanche Impact {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/avalanche-impact&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -54,16 +45,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>When the target ends this <a href="../../../../../movement/forced-movement/">forced movement</a>, each creature within 2 squares of the target is pushed 3 squares.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Reaver Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Death Strike {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/death-strike&#34;}</p></div>
+<div class="sc-ability__section-body"><p>When the target ends this <a href="../../../../../movement/forced-movement/">forced movement</a>, each creature within 2 squares of the target is pushed 3 squares.</p><p>## 6th-Level Reaver Abilities</p><p>Choose one of the following abilities.</p><p>### Death Strike {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/death-strike&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
@@ -71,10 +53,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You target a creature adjacent to you with the same strike, using the same power roll as the triggering strike.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Seek and Destroy {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/seek-and-destroy&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You target a creature adjacent to you with the same strike, using the same power roll as the triggering strike.</p><p>### Seek and Destroy {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/seek-and-destroy&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -82,23 +61,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P &lt; AVERAGE, they are <a href="../../../../../condition/frightened/">frightened</a> of you (save ends).</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## 6th-Level Stormwight Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one of the following abilities.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Pounce {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/pounce&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P &lt; AVERAGE, they are <a href="../../../../../condition/frightened/">frightened</a> of you (save ends).</p><p>## 6th-Level Stormwight Abilities</p><p>Choose one of the following abilities.</p><p>### Pounce {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/pounce&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to 4 squares, bringing the target with you. While <a href="../../../../../condition/grabbed/">grabbed</a> this way, the target takes damage equal to twice your Might score at the start of each of your turns.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Riders on the Storm {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/riders-on-the-storm&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to 4 squares, bringing the target with you. While <a href="../../../../../condition/grabbed/">grabbed</a> this way, the target takes damage equal to twice your Might score at the start of each of your turns.</p><p>### Riders on the Storm {data-scc=&#34;mcdm.heroes.v1/feature.ability.fury.level-6/riders-on-the-storm&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

@@ -26,10 +26,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Your <a href="../shadow-college/">shadow college</a> grants you a triggered action, as shown on the College Triggered Actions table.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### College Triggered Actions Table</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../shadow-college/">shadow college</a> grants you a triggered action, as shown on the College Triggered Actions table.</p><p>### College Triggered Actions Table</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Clever Trick {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-1/clever-trick&#34;}</p></div>
@@ -40,10 +37,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Defensive Roll {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-1/defensive-roll&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.</p><p>### Defensive Roll {data-scc=&#34;mcdm.heroes.v1/feature.ability.shadow.level-1/defensive-roll&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>

@@ -34,99 +34,48 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You use a blend of martial techniques and divine magic to attack your foes and defend your allies.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Signature Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* <a href="../../../../ability/censor/level-1/your-allies-cannot-save-you/">Your Allies Cannot Save You</a>!)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Back Blasphemer! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/back-blasphemer&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You use a blend of martial techniques and divine magic to attack your foes and defend your allies.</p><p>## Signature Ability</p><p>Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* <a href="../../../../ability/censor/level-1/your-allies-cannot-save-you/">Your Allies Cannot Save You</a>!)</p><p>### Back Blasphemer! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/back-blasphemer&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Every Step... Death! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/every-step-death&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Halt Miscreant! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/halt-miscreant&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.</p><p>### Halt Miscreant! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/halt-miscreant&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>### Your Allies Cannot Save You! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/your-allies-cannot-save-you&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your Presence score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Heroic Abilities</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You call upon a number of heroic abilities, all of them bound to your wrath.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 3-Wrath Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* <a href="../../../../ability/censor/level-1/the-gods-punish-and-defend/">The Gods Punish and Defend</a>.)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Behold a Shield of Faith! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your Presence score.</p><p>## Heroic Abilities</p><p>You call upon a number of heroic abilities, all of them bound to your wrath.</p><p>### 3-Wrath Ability</p><p>Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* <a href="../../../../ability/censor/level-1/the-gods-punish-and-defend/">The Gods Punish and Defend</a>.)</p><p>### Behold a Shield of Faith! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Driving Assault {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you.</p><p>### Driving Assault {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to your speed in a straight line toward the target after pushing them.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### The Gods Punish and Defend {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/the-gods-punish-and-defend&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to your speed in a straight line toward the target after pushing them.</p><p>### The Gods Punish and Defend {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/the-gods-punish-and-defend&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can spend a Recovery to allow yourself or one ally within 10 squares to regain Stamina equal to your recovery value.</p></div>
+<div class="sc-ability__section-body"><p>You can spend a Recovery to allow yourself or one ally within 10 squares to regain Stamina equal to your recovery value.</p><p>### Repent! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/repent&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Repent! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/repent&#34;}</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### 5-Wrath Ability</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* <a href="../../../../ability/censor/level-1/purifying-fire/">Purifying Fire</a>.)</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Arrest {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/arrest&#34;}</p></div>
+<div class="sc-ability__section-body"><p>### 5-Wrath Ability</p><p>Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* <a href="../../../../ability/censor/level-1/purifying-fire/">Purifying Fire</a>.)</p><p>### Arrest {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/arrest&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target makes a strike against a creature while <a href="../../../../../condition/grabbed/">grabbed</a> this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike&#39;s distance.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Behold the Face of Justice! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/behold-the-face-of-justice&#34;}</p></div>
+<div class="sc-ability__section-body"><p>If the target makes a strike against a creature while <a href="../../../../../condition/grabbed/">grabbed</a> this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike&#39;s distance.</p><p>### Behold the Face of Justice! {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/behold-the-face-of-justice&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy <a href="../../../../../condition/frightened/">frightened</a> this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Censored {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/censored&#34;}</p></div>
+<div class="sc-ability__section-body"><p>Each enemy <a href="../../../../../condition/frightened/">frightened</a> this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.</p><p>### Censored {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/censored&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>### Purifying Fire {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/purifying-fire&#34;}</p></div>
+<div class="sc-ability__section-body"><p>When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.</p><p>### Purifying Fire {data-scc=&#34;mcdm.heroes.v1/feature.ability.censor.level-1/purifying-fire&#34;}</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

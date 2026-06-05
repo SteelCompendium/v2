@@ -39,10 +39,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the area gains the following effects:</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries. - The area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies. - Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the area gains the following effects:</p><ul><li>Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries.</li><li>The area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</li><li>Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>

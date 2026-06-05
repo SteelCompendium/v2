@@ -34,9 +34,6 @@ type: trait
 </div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>You have the following ability.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Power Chord {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/power-chord&#34;}</p></div>
+<div class="sc-ability__section-body"><p>You have the following ability.</p><p>## Power Chord {data-scc=&#34;mcdm.heroes.v1/feature.ability.troubadour.level-1/power-chord&#34;}</p></div>
 </div>
 </article>

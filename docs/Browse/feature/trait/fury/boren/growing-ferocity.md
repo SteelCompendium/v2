@@ -25,9 +25,6 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">You can have up to two creatures <a href="../../../../../condition/grabbed/">grabbed</a> at a time. Additionally, whenever you make a strike against a creature you have <a href="../../../../../condition/grabbed/">grabbed</a>, you gain 1 surge.</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>As your ferocity grows, you gain benefits as noted on the <a href="../../../../../kit/boren/">Boren</a> <a href="../growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>## Boren Growing Ferocity Table</p></div>
+<div class="sc-ability__section-body"><p>As your ferocity grows, you gain benefits as noted on the <a href="../../../../../kit/boren/">Boren</a> <a href="../growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p><p>## Boren Growing Ferocity Table</p></div>
 </div>
 </article>

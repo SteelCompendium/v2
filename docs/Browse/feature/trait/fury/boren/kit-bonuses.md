@@ -20,6 +20,6 @@ type: trait
 <div class="sc-ability__corner"></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>- <b>Stamina Bonus:</b> +9 per echelon - <b>Stability Bonus:</b> +2 - <b>Melee Damage Bonus:</b> +0/+0/+4</p></div>
+<div class="sc-ability__section-body"><ul><li><b>Stamina Bonus:</b> +9 per echelon</li><li><b>Stability Bonus:</b> +2</li><li><b>Melee Damage Bonus:</b> +0/+0/+4</li></ul></div>
 </div>
 </article>
