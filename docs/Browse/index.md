@@ -9,13 +9,13 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
 <div class="grid cards" markdown>
 
--   ### :material-shield-sword:{ .sc-crest } Classes
+-   ### :material-auto-fix:{ .sc-crest } Abilities
 
     ---
 
-    Censor, Conduit, Elementalist, Fury, Null, Shadow, Tactician, Talent, Troubadour
+    All class abilities organized by class and level, plus kit abilities
 
-    [:octicons-arrow-right-24: View Classes](class/index.md)
+    [:octicons-arrow-right-24: View Abilities](feature/ability/index.md)
 
 -   ### :material-account-group:{ .sc-crest } Ancestries
 
@@ -25,22 +25,6 @@ Look up specific rules, abilities, and character options. Use **search** or pick
 
     [:octicons-arrow-right-24: View Ancestries](ancestry/index.md)
 
--   ### :material-auto-fix:{ .sc-crest } Abilities
-
-    ---
-
-    All class abilities organized by class and level, plus kit abilities
-
-    [:octicons-arrow-right-24: View Abilities](feature/ability/index.md)
-
--   ### :material-bag-personal:{ .sc-crest } Kits
-
-    ---
-
-    Martial, caster, and hybrid kits -- Arcane Archer, Battlemind, Cloak and Dagger, Mountain, Panther, Spellsword, and more
-
-    [:octicons-arrow-right-24: View Kits](kit/index.md)
-
 -   ### :material-briefcase-variant:{ .sc-crest } Careers
 
     ---
@@ -48,6 +32,14 @@ Look up specific rules, abilities, and character options. Use **search** or pick
     Agent, Aristocrat, Artisan, Criminal, Gladiator, Sage, Soldier, and more
 
     [:octicons-arrow-right-24: View Careers](career/index.md)
+
+-   ### :material-shield-sword:{ .sc-crest } Classes
+
+    ---
+
+    Censor, Conduit, Elementalist, Fury, Null, Shadow, Tactician, Talent, Troubadour
+
+    [:octicons-arrow-right-24: View Classes](class/index.md)
 
 -   ### :material-alert-decagram:{ .sc-crest } Complications
 
@@ -64,6 +56,14 @@ Look up specific rules, abilities, and character options. Use **search** or pick
     Class features, ancestry features, traits, and more -- organized by source
 
     [:octicons-arrow-right-24: View Features](feature/index.md)
+
+-   ### :material-bag-personal:{ .sc-crest } Kits
+
+    ---
+
+    Martial, caster, and hybrid kits -- Arcane Archer, Battlemind, Cloak and Dagger, Mountain, Panther, Spellsword, and more
+
+    [:octicons-arrow-right-24: View Kits](kit/index.md)
 
 -   ### :material-diamond-stone:{ .sc-crest } Perks
 

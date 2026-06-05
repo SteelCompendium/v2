@@ -5,7 +5,7 @@
 <div class="sc-cards">
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="beastheart/" aria-label="Beastheart"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Beastheart</div></div></div>
   <div class="sc-card__intro"><p>A beastheart never fights alone! You travel with a ferocious beast by your side—no trained pet, but an untamed creature such as a <a href="../feature-group/companion/wolf/">wolf</a>, a <a href="../feature-group/companion/basilisk/">basilisk</a>, or even a young dragon. Bound to you by a primordial connection, your companion honors your wishes just as you are guided by their instincts. But beware! As battle rages on, your companion may succumb to a blood-soaked rampage, lashing out at enemies and friends alike.</p>
@@ -13,7 +13,7 @@
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="censor/" aria-label="Censor"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Censor</div></div></div>
   <div class="sc-card__intro"><p>Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions—or even existence—are anathema to your church.</p>
@@ -27,7 +27,7 @@
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="conduit/" aria-label="Conduit"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Conduit</div></div></div>
   <div class="sc-card__intro"><p>The power of the gods flows through you! As a vessel for <a href="../feature/trait/conduit/level-10/divine-power/">divine power</a>, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.</p>
@@ -39,7 +39,7 @@
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="elementalist/" aria-label="Elementalist"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Elementalist</div></div></div>
   <div class="sc-card__intro"><p>Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.</p>
@@ -51,7 +51,7 @@
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="fury/" aria-label="Fury"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Fury</div></div></div>
   <div class="sc-card__intro"><p>You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the <a href="../kit/panther/">panther</a>, the wolf, you channel <a href="../feature/trait/fury/level-5/unfettered/">unfettered</a> anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.</p>
@@ -63,7 +63,7 @@
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="null/" aria-label="Null"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Null</div></div></div>
   <div class="sc-card__intro"><p>The mind is not separate from the body. Perfection of one requires perfection of the other. You strive for perfect discipline, perfect order, mastery over mind and body, becoming an unarmed psionic warrior who dampens and absorbs magic and psionics. You require no weapons, no tools. You suffice.</p>
@@ -75,7 +75,7 @@
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="shadow/" aria-label="Shadow"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Shadow</div></div></div>
   <div class="sc-card__intro"><p>Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or <a href="shadow/">shadow</a>-magics. Your training and knowledge place you among the elite ranks of assassins, spies, and commandos. But more potent than any weapon or sorcery is your insight into your enemies' weaknesses.</p>
@@ -84,7 +84,7 @@
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="tactician/" aria-label="Tactician"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Tactician</div></div></div>
   <div class="sc-card__intro"><p>Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the followers of evil to best you if they can.</p>
@@ -96,7 +96,7 @@
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="talent/" aria-label="Talent"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Talent</div></div></div>
   <div class="sc-card__intro"><p>Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a <a href="talent/">talent's</a> abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.</p>
@@ -108,7 +108,7 @@
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="troubadour/" aria-label="Troubadour"></a>
-  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/></svg></span></span>
+  <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Troubadour</div></div></div>
   <div class="sc-card__intro"><p>The whole world's a stage, and everyone on it, an actor. No one knows this better than the <a href="troubadour/">troubadour</a>. You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.</p>

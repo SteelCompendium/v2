@@ -136,11 +136,12 @@
    clickable card" — a card-wrapping <a> would make those inner links invalid
    <a>-in-<a> that browsers split apart. */
 .md-typeset .sc-card__link { position: absolute; inset: 0; z-index: 0; border-radius: inherit; }
-.md-typeset .sc-card__line a, .md-typeset .sc-card__body a {
+.md-typeset .sc-card__line a, .md-typeset .sc-card__body a, .md-typeset .sc-card__intro a {
   position: relative; z-index: 1;
   color: var(--fx-metal-bright); text-decoration: none;
 }
-.md-typeset .sc-card__line a:hover, .md-typeset .sc-card__body a:hover { text-decoration: underline; }
+.md-typeset .sc-card__line a:hover, .md-typeset .sc-card__body a:hover,
+.md-typeset .sc-card__intro a:hover { text-decoration: underline; }
 
 .sc-card__head { display: flex; align-items: center; gap: .7rem; }
 .sc-card__type { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .08em;
@@ -156,7 +157,13 @@
 .sc-card__stat { background: rgba(0,0,0,.25); border: 1px solid var(--fx-metal-faint); border-radius: 6px;
   padding: .4rem .25rem; text-align: center; }
 [data-md-color-scheme="default"] .sc-card__stat { background: rgba(0,0,0,.04); }
-.sc-card__stat .v { font-family: var(--md-code-font, monospace); font-weight: 700; font-size: .92rem; color: var(--sc-steel-lighter); }
+/* Fixed-height, centered value box so the label below sits at the same y across
+   the stat row regardless of the value's font-size. Long values (e.g. +1/+1/+1)
+   get a smaller inline font-size; without a constant box height that shrank the
+   cell and "raised" the Melee/Ranged Dmg labels above their dashed siblings. */
+.sc-card__stat .v { font-family: var(--md-code-font, monospace); font-weight: 700; font-size: .92rem;
+  color: var(--sc-steel-lighter); display: flex; align-items: center; justify-content: center;
+  min-height: 1.15rem; line-height: 1.1; }
 .sc-card__stat .l { font-family: var(--md-small-header-font); font-variant: small-caps; font-size: .68rem;
   letter-spacing: .05em; color: var(--md-default-fg-color--lighter); margin-top: .1rem; line-height: 1.05; }
 .sc-card__stat.is-dmg .v { color: var(--fx-metal-bright); }
