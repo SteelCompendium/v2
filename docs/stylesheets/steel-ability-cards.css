@@ -82,8 +82,8 @@
 .sc-ability__crest { /* extends .sc-crest (the steel shield) */
   width: 3rem; height: 3.4rem; align-self: start; }
 .sc-ability__crest::before { inset: 1.5px; }
-.sc-ability__crest > .sc-ability__glyph { transform: translateY(-2px); } /* optical-center in shield */
-.sc-ability__glyph { font-family: "DrawSteelGlyphs", sans-serif; font-size: 1.45rem; line-height: 1;
+.sc-ability__crest > .sc-ability__glyph { transform: translateY(-3px); } /* optical-center in shield (narrows downward) */
+.sc-ability__glyph { font-family: "DrawSteelGlyphs", sans-serif; font-size: 1.25rem; line-height: 1;
   color: var(--act); -webkit-font-smoothing: antialiased; }
 
 /* Bottom-align the eyebrow+name stack to the crest so the name's first-line
@@ -93,12 +93,14 @@
   font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase;
   letter-spacing:.1em; font-size: .92rem; color: var(--act); }
 .sc-ability__dia { width:7px; height:7px; transform:rotate(45deg); background: var(--act); flex:0 0 auto; }
-.sc-ability__name { font-family: var(--md-large-header-font); text-transform: uppercase;
+/* .md-typeset prefix so this beats Material's `.md-typeset h3` rule, whose
+   large top-margin + line-height were being inherited and shifting the name. */
+.md-typeset .sc-ability__name { font-family: var(--md-large-header-font); text-transform: uppercase;
   font-size: 1.85rem; line-height: 1; color: var(--sc-steel-lighter);
-  text-shadow: var(--fx-emboss); margin: .2rem 0 0; letter-spacing:.01em; }
+  text-shadow: var(--fx-emboss); margin: 0; letter-spacing:.01em; }
 
 .sc-ability__corner { position: relative; display:flex; flex-direction:column; align-items:flex-end; }
-.sc-ability__cost { display:flex; align-items:baseline; gap:.3rem; white-space:nowrap;
+.sc-ability__cost { display:flex; align-items:center; gap:.3rem; white-space:nowrap; line-height:1;
   font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase; letter-spacing:.04em;
   font-size: .92rem; color: var(--fx-metal-bright);
   padding: .25rem .7rem; border-radius: 7px; border:1px solid var(--fx-metal-line);
