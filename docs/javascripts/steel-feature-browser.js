@@ -234,10 +234,19 @@
 
   window.SCBrowse = { card: card, mount: mount, ACTIONS: ACTIONS };
 
-  // auto-mount any data island on load
-  if (document.readyState !== "loading") init();
-  else document.addEventListener("DOMContentLoaded", init);
+  // Auto-mount any data island. The Search & Filter UI is the only purely
+  // client-side surface (folder/preview cards are pre-rendered HTML), so the
+  // mount MUST run on every page view. Under Material's `navigation.instant`,
+  // page swaps don't re-fire DOMContentLoaded — subscribe to `document$`
+  // (Material's per-navigation observable) when present, else fall back.
   function init() {
     document.querySelectorAll(".sc-browse-mount").forEach(mount);
+  }
+  if (typeof document$ !== "undefined" && document$ && typeof document$.subscribe === "function") {
+    document$.subscribe(init);
+  } else if (document.readyState !== "loading") {
+    init();
+  } else {
+    document.addEventListener("DOMContentLoaded", init);
   }
 })();
