@@ -25,6 +25,16 @@
         browser.js renders .sc-prev cards into .sc-browse__results).
    ============================================================ */
 
+/* Source-facet chip colours (class / ancestry / kit / other). The only colour
+   tokens this sheet defines — used to colour-code the Search & Filter "Source"
+   chips, whose values aren't all classes. Tuned to read on both themes. */
+:root {
+  --sc-src-class: #5aa9e6;
+  --sc-src-ancestry: #e0a458;
+  --sc-src-kit: #6ec07a;
+  --sc-src-other: var(--fx-metal);
+}
+
 
 /* ════════════════════════════════════════════════════════════
    1 · FOLDER CARDS — index-of-indexes navigation
@@ -153,9 +163,10 @@
 .md-typeset .sc-prev--ability:hover {
   transform: translateY(-2px); box-shadow: var(--fx-bevel), 0 14px 28px rgba(0,0,0,.44), 0 0 0 1px var(--fx-metal-line); }
 
-/* head — crest (ability only) · eyebrow+name · tag/cost */
+/* head — crest · eyebrow+name · tag/cost (both registers carry a crest now) */
 .sc-prev__head { display: grid; grid-template-columns: 1fr auto; align-items: start; gap: .7rem; }
-.sc-prev--ability .sc-prev__head { grid-template-columns: auto 1fr auto; }
+.sc-prev--ability .sc-prev__head,
+.sc-prev--trait .sc-prev__head { grid-template-columns: auto 1fr auto; }
 .sc-prev__crest { width: 2.5rem; height: 2.85rem; align-self: start; }   /* extends .sc-crest */
 .sc-prev__crest > .sc-prev__glyph { transform: translateY(-2px); }
 .sc-prev__glyph { font-family: "DrawSteelGlyphs", sans-serif; font-size: 1.2rem; line-height: 1; color: var(--act); }
@@ -232,12 +243,17 @@
   cursor: pointer; outline: none; -webkit-appearance: none; appearance: none; }
 [data-md-color-scheme="default"] .sc-browse__sort select { background-color: rgba(0,0,0,.03); }
 
-/* facet rows */
+/* facet rows — label column + a wrapping chips column. The chips live in their
+   own grid column so a long row wraps UNDER the first chip, never under the
+   label (which read as confusing overflow). align-items:center keeps the label
+   and chips vertically centered against each other. */
 .sc-browse__facets { margin-top: .8rem; display: flex; flex-direction: column; gap: .5rem; }
-.sc-browse__facet { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem; }
+.sc-browse__facet { display: grid; grid-template-columns: 5.5rem 1fr; align-items: center; gap: .35rem .5rem; }
 .sc-browse__facet > .lbl { font-family: var(--md-small-header-font); font-variant: small-caps; letter-spacing: .07em;
-  font-size: .78rem; color: var(--fx-metal); width: 5.5rem; flex: 0 0 auto; }
+  font-size: .78rem; color: var(--fx-metal); align-self: center; }
+.sc-browse__chips { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem; }
 .sc-chip {
+  display: inline-flex; align-items: center;
   font-family: var(--md-small-header-font); font-variant: small-caps; text-transform: lowercase; letter-spacing: .03em;
   font-size: .84rem; color: var(--md-default-fg-color--light); cursor: pointer; user-select: none;
   padding: .14rem .65rem; border-radius: 6px; border: 1px solid var(--fx-metal-faint); background: rgba(255,255,255,.02);
@@ -266,5 +282,6 @@
 
 @media screen and (max-width: 44.98em) {
   .md-typeset .sc-folders, .md-typeset .sc-folders--lg, .md-typeset .sc-prevs { grid-template-columns: 1fr; }
-  .sc-browse__facet > .lbl { width: 100%; }
+  /* stack the label above its chips on narrow screens */
+  .sc-browse__facet { grid-template-columns: 1fr; align-items: start; }
 }

@@ -9,10 +9,11 @@ type: trait
 
 ---
 
-<section class="sc-trait" data-action="trait">
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Aspect of the Wild maneuver">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Trait</div>
 <h3 class="sc-trait__name">Aspect of the Wild</h3>
 </div>
 </header>

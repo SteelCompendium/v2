@@ -10,10 +10,11 @@ type: trait
 
 ---
 
-<section class="sc-trait" data-action="trait">
+<section class="sc-trait sc-trait--crest" data-action="trait" data-sub="1" data-grant="the Hesitation Is Weakness triggered action">
 <header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
-<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow</div>
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Shadow Trait</div>
 <h3 class="sc-trait__name">Hesitation Is Weakness</h3>
 </div>
 <div class="sc-trait__tag">Level <span class="num">1</span></div>

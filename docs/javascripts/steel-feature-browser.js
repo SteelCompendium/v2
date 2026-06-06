@@ -51,20 +51,26 @@
   }
 
   function traitCard(it, ctx) {
-    var act = it.action || "trait";
-    var eyebrow = ctx ? esc(it.klass) + " · Level " + it.level : esc(it.klass);
+    // Traits use the trait accent + trait crest consistently; the level lives in
+    // the tag, so the eyebrow carries "<Source> Trait · <subclass?>".
+    var eyebrow = esc(it.klass ? it.klass + " Trait" : "Trait");
+    if (it.subclass) eyebrow += " · " + esc(it.subclass);
     var tag = it.tag
       ? '<div class="sc-prev__tag">' + esc(it.tag) + '</div>'
       : '<div class="sc-prev__tag">Level <span class="num">' + esc(it.level) + '</span></div>';
-    var foot = "";
-    var bits = [];
-    if (it.grants) bits.push('<span class="sc-prev__grant"><span class="dot"></span>Grants ' + esc(it.grants) + '</span>');
-    else if (it.benefits) bits.push(metaCell("benefits", String(it.benefits)));
-    if (bits.length) foot = '<div class="sc-prev__foot">' + bits.join("") + "</div>";
-    return '<a class="sc-prev sc-prev--trait sc-fil" data-action="' + esc(act) + '" href="' + esc(it.href || "#") + '">' +
-      '<div class="sc-prev__head"><div class="sc-prev__titles">' +
-        '<div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>' + eyebrow + '</div>' +
-        '<h3 class="sc-prev__name">' + esc(it.name) + '</h3></div>' + tag + '</div>' +
+    var marker = "";
+    if (it.grants) marker = "Grants " + esc(it.grants);
+    else if (it.options > 1) marker = it.options + " options";
+    else if (it.options === 1) marker = "1 option";
+    var foot = marker
+      ? '<div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>' + marker + "</span></div>"
+      : "";
+    return '<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="' + esc(it.href || "#") + '">' +
+      '<div class="sc-prev__head">' +
+        '<span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">' + esc(ACTIONS.trait.glyph) + '</span></span>' +
+        '<div class="sc-prev__titles">' +
+          '<div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>' + eyebrow + '</div>' +
+          '<h3 class="sc-prev__name">' + esc(it.name) + '</h3></div>' + tag + '</div>' +
       (it.flavor ? '<div class="sc-prev__flavor">' + esc(it.flavor) + '</div>' : "") +
       foot + '</a>';
   }
@@ -120,9 +126,17 @@
     var items;
     try { items = JSON.parse(island.textContent); } catch (e) { return; }
 
+    // Source facet: the "class" values are actually classes, ancestries, kits…
+    // Map each to its source so chips can be colour-coded and grouped.
+    var klassSrc = {};
+    items.forEach(function (it) { if (it.klass) klassSrc[it.klass] = it.source || "other"; });
+    var srcValues = uniqueSorted(null, items, "klass").sort(function (a, b) {
+      return (SRC_RANK[klassSrc[a]] || 9) - (SRC_RANK[klassSrc[b]] || 9) || a.localeCompare(b);
+    });
+
     var facets = [
       { key: "kind",     label: "Type",    values: ["trait", "ability"], display: cap },
-      { key: "klass",    label: "Class",   values: uniqueSorted(null, items, "klass") },
+      { key: "klass",    label: "Source",  values: srcValues, dot: function (v) { return srcColor(klassSrc[v]); } },
       { key: "level",    label: "Level",   values: uniqueSorted(null, items, "level", true), display: function (v) { return "Lv " + v; } },
       { key: "action",   label: "Action",  values: uniqueSorted(null, items, "action"), display: function (v) { return (ACTIONS[v] || {}).label || cap(v); }, dot: actionColor },
       { key: "keywords", label: "Keyword", values: uniqueSorted(null, items, "keywords") }
@@ -219,6 +233,12 @@
     return { main: "var(--sc-act-main)", maneuver: "var(--sc-act-maneuver)", triggered: "var(--sc-act-triggered)",
       move: "var(--sc-act-move)", none: "var(--sc-act-none)", trait: "var(--sc-act-trait)" }[v] || "var(--fx-metal)";
   }
+  // source → chip-dot colour + grouping rank for the Source facet.
+  var SRC_RANK = { class: 0, ancestry: 1, kit: 2, other: 3 };
+  function srcColor(s) {
+    return { class: "var(--sc-src-class)", ancestry: "var(--sc-src-ancestry)", kit: "var(--sc-src-kit)",
+      other: "var(--sc-src-other)" }[s] || "var(--fx-metal)";
+  }
   function facetRow(f) {
     var chips = f.values.map(function (v) {
       var dot = f.dot ? '<span class="sc-chip__dot" style="color:' + f.dot(v) + '"></span>' : "";
@@ -226,7 +246,8 @@
       return '<button type="button" class="sc-chip" role="button" aria-pressed="false" data-facet="' + f.key + '" data-value="' + esc(v) + '">' +
         dot + esc(label) + '</button>';
     }).join("");
-    return '<div class="sc-browse__facet"><span class="lbl">' + esc(f.label) + '</span>' + chips + '</div>';
+    return '<div class="sc-browse__facet"><span class="lbl">' + esc(f.label) + '</span>' +
+      '<div class="sc-browse__chips">' + chips + '</div></div>';
   }
   function searchSvg() {
     return '<svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>';
