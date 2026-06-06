@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Aspect | Feature | |------------|------------| | Berserker | <a href="../bounder/">Bounder</a> | | Reaver | <a href="../unfettered/">Unfettered</a> | | Stormwight | <a href="../stormborn/">Stormborn</a> |</p>
+<table><thead><tr><th>Aspect</th><th>Feature</th></tr></thead><tbody><tr><td>Berserker</td><td><a href="../bounder/">Bounder</a></td></tr><tr><td>Reaver</td><td><a href="../unfettered/">Unfettered</a></td></tr><tr><td>Stormwight</td><td><a href="../stormborn/">Stormborn</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

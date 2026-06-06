@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| College | Feature | |-----------------|-------------------| | Black Ash | <a href="../trail-of-cinders/">Trail of Cinders</a> | | Caustic Alchemy | <a href="../volatile-reagents/">Volatile Reagents</a> | | Harlequin Mask | <a href="../harlequin-gambit/">Harlequin Gambit</a> |</p>
+<table><thead><tr><th>College</th><th>Feature</th></tr></thead><tbody><tr><td>Black Ash</td><td><a href="../trail-of-cinders/">Trail of Cinders</a></td></tr><tr><td>Caustic Alchemy</td><td><a href="../volatile-reagents/">Volatile Reagents</a></td></tr><tr><td>Harlequin Mask</td><td><a href="../harlequin-gambit/">Harlequin Gambit</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

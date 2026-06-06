@@ -20,7 +20,7 @@ type: trait
 </header>
 <div class="sc-trait__body">
 <p>Your wild nature grants you a triggered action, as shown on the Wild Nature Triggered Actions table. Each triggered action can be used by either you or your companion.</p>
-<p>| Wild Nature | Triggered Action | |-------------|----------------------------------------------------------------------------------------------------| | Guardian | <a href="../../../../ability/beastheart/level-1/the-pack-defends/">The Pack Defends</a> | | Prowler | <a href="../../../../ability/beastheart/level-1/shadow-in-the-mist/">Shadow in the Mist</a> | | Punisher | <a href="../../../../ability/beastheart/level-1/thunderclap/">Thunderclap</a> | | Spark | <a href="../../../../ability/beastheart/level-1/pyre/">Pyre</a> |</p>
+<table><thead><tr><th>Wild Nature</th><th>Triggered Action</th></tr></thead><tbody><tr><td>Guardian</td><td><a href="../../../../ability/beastheart/level-1/the-pack-defends/">The Pack Defends</a></td></tr><tr><td>Prowler</td><td><a href="../../../../ability/beastheart/level-1/shadow-in-the-mist/">Shadow in the Mist</a></td></tr><tr><td>Punisher</td><td><a href="../../../../ability/beastheart/level-1/thunderclap/">Thunderclap</a></td></tr><tr><td>Spark</td><td><a href="../../../../ability/beastheart/level-1/pyre/">Pyre</a></td></tr></tbody></table>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="triggered">
 <div class="sc-ability__head">

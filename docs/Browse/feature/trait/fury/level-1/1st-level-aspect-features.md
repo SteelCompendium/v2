@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Aspect | Feature | |------------|--------------------------------| | Berserker | Kit, <a href="../primordial-strength/">Primordial Strength</a> | | Reaver | Kit, <a href="../primordial-cunning/">Primordial Cunning</a> | | Stormwight | <a href="../beast-shape/">Beast Shape</a>, <a href="../relentless-hunter/">Relentless Hunter</a> |</p>
+<table><thead><tr><th>Aspect</th><th>Feature</th></tr></thead><tbody><tr><td>Berserker</td><td>Kit, <a href="../primordial-strength/">Primordial Strength</a></td></tr><tr><td>Reaver</td><td>Kit, <a href="../primordial-cunning/">Primordial Cunning</a></td></tr><tr><td>Stormwight</td><td><a href="../beast-shape/">Beast Shape</a>, <a href="../relentless-hunter/">Relentless Hunter</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

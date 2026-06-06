@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| College | Triggered Action | |-----------------|-----------------------| | Black Ash | <a href="../../../../ability/shadow/level-1/in-all-this-confusion/">In All This Confusion</a> | | Caustic Alchemy | <a href="../../../../ability/shadow/level-1/defensive-roll/">Defensive Roll</a> | | Harlequin Mask | <a href="../../../../ability/shadow/level-1/clever-trick/">Clever Trick</a> |</p>
+<table><thead><tr><th>College</th><th>Triggered Action</th></tr></thead><tbody><tr><td>Black Ash</td><td><a href="../../../../ability/shadow/level-1/in-all-this-confusion/">In All This Confusion</a></td></tr><tr><td>Caustic Alchemy</td><td><a href="../../../../ability/shadow/level-1/defensive-roll/">Defensive Roll</a></td></tr><tr><td>Harlequin Mask</td><td><a href="../../../../ability/shadow/level-1/clever-trick/">Clever Trick</a></td></tr></tbody></table>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="triggered">

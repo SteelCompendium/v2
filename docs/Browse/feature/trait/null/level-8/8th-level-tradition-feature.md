@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Tradition | Feature | |---------------|-------------------| | Chronokinetic | <a href="../shared-momentum/">Shared Momentum</a> | | Cryokinetic | <a href="../synaptic-triage/">Synaptic Triage</a> | | Metakinetic | <a href="../inertial-dampener/">Inertial Dampener</a> |</p>
+<table><thead><tr><th>Tradition</th><th>Feature</th></tr></thead><tbody><tr><td>Chronokinetic</td><td><a href="../shared-momentum/">Shared Momentum</a></td></tr><tr><td>Cryokinetic</td><td><a href="../synaptic-triage/">Synaptic Triage</a></td></tr><tr><td>Metakinetic</td><td><a href="../inertial-dampener/">Inertial Dampener</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

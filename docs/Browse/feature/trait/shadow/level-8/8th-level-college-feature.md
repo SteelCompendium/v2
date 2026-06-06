@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| College | Feature | |-----------------|-------------| | Black Ash | <a href="../cinder-step/">Cinder Step</a> | | Caustic Alchemy | <a href="../../../../ability/shadow/level-8/time-bomb/">Time Bomb</a> | | Harlequin Mask | <a href="../parkour/">Parkour</a> |</p>
+<table><thead><tr><th>College</th><th>Feature</th></tr></thead><tbody><tr><td>Black Ash</td><td><a href="../cinder-step/">Cinder Step</a></td></tr><tr><td>Caustic Alchemy</td><td><a href="../../../../ability/shadow/level-8/time-bomb/">Time Bomb</a></td></tr><tr><td>Harlequin Mask</td><td><a href="../parkour/">Parkour</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

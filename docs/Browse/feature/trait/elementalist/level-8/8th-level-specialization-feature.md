@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Specialization | Feature | |----------------|------------------------| | Earth | <a href="../../../../ability/elementalist/level-8/summon-source-of-earth/">Summon Source of Earth</a> | | Fire | <a href="../the-flame-primordial/">The Flame Primordial</a> | | Green | <a href="../chimeric-manifestation/">Chimeric Manifestation</a> | | Void | <a href="../black-hole-star/">Black Hole Star</a> |</p>
+<table><thead><tr><th>Specialization</th><th>Feature</th></tr></thead><tbody><tr><td>Earth</td><td><a href="../../../../ability/elementalist/level-8/summon-source-of-earth/">Summon Source of Earth</a></td></tr><tr><td>Fire</td><td><a href="../the-flame-primordial/">The Flame Primordial</a></td></tr><tr><td>Green</td><td><a href="../chimeric-manifestation/">Chimeric Manifestation</a></td></tr><tr><td>Void</td><td><a href="../black-hole-star/">Black Hole Star</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

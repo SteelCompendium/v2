@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Doctrine | Triggered Action | |------------|------------------| | Insurgent | <a href="../../../../ability/tactician/level-1/advanced-tactics/">Advanced Tactics</a> | | Mastermind | <a href="../../../../ability/tactician/level-1/overwatch/">Overwatch</a> | | Vanguard | <a href="../../../../ability/tactician/level-1/parry/">Parry</a> |</p>
+<table><thead><tr><th>Doctrine</th><th>Triggered Action</th></tr></thead><tbody><tr><td>Insurgent</td><td><a href="../../../../ability/tactician/level-1/advanced-tactics/">Advanced Tactics</a></td></tr><tr><td>Mastermind</td><td><a href="../../../../ability/tactician/level-1/overwatch/">Overwatch</a></td></tr><tr><td>Vanguard</td><td><a href="../../../../ability/tactician/level-1/parry/">Parry</a></td></tr></tbody></table>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="triggered">

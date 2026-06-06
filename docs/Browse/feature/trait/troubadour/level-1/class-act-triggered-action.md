@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Class Act | Triggered Action | |-----------|------------------------| | Auteur | <a href="../../../../ability/troubadour/level-1/turnabout-is-fair-play/">Turnabout Is Fair Play</a> | | Duelist | <a href="../../../../ability/troubadour/level-1/riposte/">Riposte</a> | | Virtuoso | <a href="../../../../ability/troubadour/level-1/harmonize/">Harmonize</a> |</p>
+<table><thead><tr><th>Class Act</th><th>Triggered Action</th></tr></thead><tbody><tr><td>Auteur</td><td><a href="../../../../ability/troubadour/level-1/turnabout-is-fair-play/">Turnabout Is Fair Play</a></td></tr><tr><td>Duelist</td><td><a href="../../../../ability/troubadour/level-1/riposte/">Riposte</a></td></tr><tr><td>Virtuoso</td><td><a href="../../../../ability/troubadour/level-1/harmonize/">Harmonize</a></td></tr></tbody></table>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="triggered">

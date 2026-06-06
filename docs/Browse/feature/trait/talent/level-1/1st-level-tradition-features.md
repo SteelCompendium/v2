@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Tradition | Features | |-------------|----------------------------------| | Chronopathy | <a href="../../../../ability/talent/level-1/accelerate/">Accelerate</a>, Again | | Telekinesis | <a href="../../../../ability/talent/level-1/minor-telekinesis/">Minor Telekinesis</a>, <a href="../../../../ability/talent/level-1/repel/">Repel</a> | | Telepathy | <a href="../../../../ability/talent/level-1/feedback-loop/">Feedback Loop</a>, <a href="../../../../ability/talent/level-1/remote-assistance/">Remote Assistance</a> |</p>
+<table><thead><tr><th>Tradition</th><th>Features</th></tr></thead><tbody><tr><td>Chronopathy</td><td><a href="../../../../ability/talent/level-1/accelerate/">Accelerate</a>, Again</td></tr><tr><td>Telekinesis</td><td><a href="../../../../ability/talent/level-1/minor-telekinesis/">Minor Telekinesis</a>, <a href="../../../../ability/talent/level-1/repel/">Repel</a></td></tr><tr><td>Telepathy</td><td><a href="../../../../ability/talent/level-1/feedback-loop/">Feedback Loop</a>, <a href="../../../../ability/talent/level-1/remote-assistance/">Remote Assistance</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

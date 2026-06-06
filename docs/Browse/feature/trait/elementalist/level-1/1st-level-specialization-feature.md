@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Specialization | Feature | |----------------|----------------------------| | Earth | <a href="../../../../ability/elementalist/level-1/motivate-earth/">Motivate Earth</a> | | Fire | <a href="../../../../ability/elementalist/level-1/return-to-formlessness/">Return to Formlessness</a> | | Green | <a href="../it-is-the-soul-which-hears/">It Is the Soul Which Hears</a> | | Void | <a href="../a-beyonding-of-vision/">A Beyonding of Vision</a> |</p>
+<table><thead><tr><th>Specialization</th><th>Feature</th></tr></thead><tbody><tr><td>Earth</td><td><a href="../../../../ability/elementalist/level-1/motivate-earth/">Motivate Earth</a></td></tr><tr><td>Fire</td><td><a href="../../../../ability/elementalist/level-1/return-to-formlessness/">Return to Formlessness</a></td></tr><tr><td>Green</td><td><a href="../it-is-the-soul-which-hears/">It Is the Soul Which Hears</a></td></tr><tr><td>Void</td><td><a href="../a-beyonding-of-vision/">A Beyonding of Vision</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

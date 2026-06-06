@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Tradition | Feature | |---------------|-----------------------| | Chronokinetic | <a href="../rapid-processing/">Rapid Processing</a> | | Cryokinetic | <a href="../entropic-adaptability/">Entropic Adaptability</a> | | Metakinetic | <a href="../inertial-sink/">Inertial Sink</a> |</p>
+<table><thead><tr><th>Tradition</th><th>Feature</th></tr></thead><tbody><tr><td>Chronokinetic</td><td><a href="../rapid-processing/">Rapid Processing</a></td></tr><tr><td>Cryokinetic</td><td><a href="../entropic-adaptability/">Entropic Adaptability</a></td></tr><tr><td>Metakinetic</td><td><a href="../inertial-sink/">Inertial Sink</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

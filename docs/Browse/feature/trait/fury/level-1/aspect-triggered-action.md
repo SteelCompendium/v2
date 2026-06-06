@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Aspect | Triggered Action | |--------------------------|--------------------| | Berserker | <a href="../../../../ability/fury/level-1/lines-of-force/">Lines of Force</a> | | Reaver | <a href="../../../../ability/fury/level-1/unearthly-reflexes/">Unearthly Reflexes</a> | | Stormwight | <a href="../../../../ability/fury/level-1/furious-change/">Furious Change</a> |</p>
+<table><thead><tr><th>Aspect</th><th>Triggered Action</th></tr></thead><tbody><tr><td>Berserker</td><td><a href="../../../../ability/fury/level-1/lines-of-force/">Lines of Force</a></td></tr><tr><td>Reaver</td><td><a href="../../../../ability/fury/level-1/unearthly-reflexes/">Unearthly Reflexes</a></td></tr><tr><td>Stormwight</td><td><a href="../../../../ability/fury/level-1/furious-change/">Furious Change</a></td></tr></tbody></table>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="triggered">

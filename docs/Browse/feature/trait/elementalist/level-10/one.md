@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Specialization | Feature | |----------------|-----------------| | Earth | <a href="../master-of-earth/">Master of Earth</a> | | Fire | <a href="../master-of-fire/">Master of Fire</a> | | Green | <a href="../master-of-green/">Master of Green</a> | | Void | <a href="../master-of-void/">Master of Void</a> |</p>
+<table><thead><tr><th>Specialization</th><th>Feature</th></tr></thead><tbody><tr><td>Earth</td><td><a href="../master-of-earth/">Master of Earth</a></td></tr><tr><td>Fire</td><td><a href="../master-of-fire/">Master of Fire</a></td></tr><tr><td>Green</td><td><a href="../master-of-green/">Master of Green</a></td></tr><tr><td>Void</td><td><a href="../master-of-void/">Master of Void</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Class Act | Feature | |-----------|-----------------| | Auteur | <a href="../deleted-scene/">Deleted Scene</a> | | Duelist | Masterwork | | Virtuoso | <a href="../crowd-favorites/">Crowd Favorites</a> |</p>
+<table><thead><tr><th>Class Act</th><th>Feature</th></tr></thead><tbody><tr><td>Auteur</td><td><a href="../deleted-scene/">Deleted Scene</a></td></tr><tr><td>Duelist</td><td>Masterwork</td></tr><tr><td>Virtuoso</td><td><a href="../crowd-favorites/">Crowd Favorites</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

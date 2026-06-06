@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Tradition | Features | |-------------|---------------------------------------| | Chronopathy | <a href="../distortion-temporal/">Distortion Temporal</a>, <a href="../speed-of-thought/">Speed of Thought</a> | | Telekinesis | <a href="../kinetic-amplifier/">Kinetic Amplifier</a>, <a href="../triangulate/">Triangulate</a> | | Telepathy | <a href="../compulsion/">Compulsion</a>, <a href="../remote-amplification/">Remote Amplification</a> |</p>
+<table><thead><tr><th>Tradition</th><th>Features</th></tr></thead><tbody><tr><td>Chronopathy</td><td><a href="../distortion-temporal/">Distortion Temporal</a>, <a href="../speed-of-thought/">Speed of Thought</a></td></tr><tr><td>Telekinesis</td><td><a href="../kinetic-amplifier/">Kinetic Amplifier</a>, <a href="../triangulate/">Triangulate</a></td></tr><tr><td>Telepathy</td><td><a href="../compulsion/">Compulsion</a>, <a href="../remote-amplification/">Remote Amplification</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

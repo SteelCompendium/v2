@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Doctrine | Features | |------------|----------------------------------| | Insurgent | <a href="../distracted/">Distracted</a>, <a href="../leave-no-trace/">Leave No Trace</a> | | Mastermind | <a href="../anticipation/">Anticipation</a>, <a href="../i-predicted-that/">I Predicted That</a> | | Vanguard | <a href="../shake-it-off/">Shake It Off</a>, <a href="../tactical-offensive/">Tactical Offensive</a> |</p>
+<table><thead><tr><th>Doctrine</th><th>Features</th></tr></thead><tbody><tr><td>Insurgent</td><td><a href="../distracted/">Distracted</a>, <a href="../leave-no-trace/">Leave No Trace</a></td></tr><tr><td>Mastermind</td><td><a href="../anticipation/">Anticipation</a>, <a href="../i-predicted-that/">I Predicted That</a></td></tr><tr><td>Vanguard</td><td><a href="../shake-it-off/">Shake It Off</a>, <a href="../tactical-offensive/">Tactical Offensive</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

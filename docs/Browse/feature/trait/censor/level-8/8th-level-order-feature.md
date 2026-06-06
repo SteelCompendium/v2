@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Order | Feature | |--------------------------|---------------------| | Exorcist | <a href="../demonologist/">Demonologist</a> | | Oracle | <a href="../their-past-revealed/">Their Past Revealed</a> | | Paragon | Vow |</p>
+<table><thead><tr><th>Order</th><th>Feature</th></tr></thead><tbody><tr><td>Exorcist</td><td><a href="../demonologist/">Demonologist</a></td></tr><tr><td>Oracle</td><td><a href="../their-past-revealed/">Their Past Revealed</a></td></tr><tr><td>Paragon</td><td>Vow</td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

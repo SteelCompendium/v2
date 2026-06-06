@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Tradition | Feature | |---------------|--------------------| | Chronokinetic | <a href="../instant-action/">Instant Action</a> | | Cryokinetic | <a href="../chilling-readiness/">Chilling Readiness</a> | | Metakinetic | <a href="../inertial-fulcrum/">Inertial Fulcrum</a> |</p>
+<table><thead><tr><th>Tradition</th><th>Feature</th></tr></thead><tbody><tr><td>Chronokinetic</td><td><a href="../instant-action/">Instant Action</a></td></tr><tr><td>Cryokinetic</td><td><a href="../chilling-readiness/">Chilling Readiness</a></td></tr><tr><td>Metakinetic</td><td><a href="../inertial-fulcrum/">Inertial Fulcrum</a></td></tr></tbody></table>
 </div>
 </section>
 </div>

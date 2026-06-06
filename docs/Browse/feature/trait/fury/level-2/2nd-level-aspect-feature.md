@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Aspect | Feature | |------------|-------------------| | Berserker | <a href="../unstoppable-force/">Unstoppable Force</a> | | Reaver | <a href="../inescapable-wrath/">Inescapable Wrath</a> | | Stormwight | <a href="../tooth-and-claw/">Tooth and Claw</a> |</p>
+<table><thead><tr><th>Aspect</th><th>Feature</th></tr></thead><tbody><tr><td>Berserker</td><td><a href="../unstoppable-force/">Unstoppable Force</a></td></tr><tr><td>Reaver</td><td><a href="../inescapable-wrath/">Inescapable Wrath</a></td></tr><tr><td>Stormwight</td><td><a href="../tooth-and-claw/">Tooth and Claw</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Doctrine | Feature | |------------|------------------------------------| | Insurgent | <a href="../bait-and-ambush/">Bait and Ambush</a> | | Mastermind | <a href="../pincer-movement/">Pincer Movement</a> | | Vanguard | <a href="../see-your-enemies-driven-before-you/">See Your Enemies Driven Before You</a> |</p>
+<table><thead><tr><th>Doctrine</th><th>Feature</th></tr></thead><tbody><tr><td>Insurgent</td><td><a href="../bait-and-ambush/">Bait and Ambush</a></td></tr><tr><td>Mastermind</td><td><a href="../pincer-movement/">Pincer Movement</a></td></tr><tr><td>Vanguard</td><td><a href="../see-your-enemies-driven-before-you/">See Your Enemies Driven Before You</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

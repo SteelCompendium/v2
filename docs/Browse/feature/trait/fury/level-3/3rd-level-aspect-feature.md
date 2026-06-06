@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Aspect | Feature | |---------------------------|--------------------------| | Berserker | <a href="../immovable-object/">Immovable Object</a> | | Reaver | <a href="../see-through-their-tricks/">See Through Their Tricks</a> | | Stormwight | Nature&#39;s Knight |</p>
+<table><thead><tr><th>Aspect</th><th>Feature</th></tr></thead><tbody><tr><td>Berserker</td><td><a href="../immovable-object/">Immovable Object</a></td></tr><tr><td>Reaver</td><td><a href="../see-through-their-tricks/">See Through Their Tricks</a></td></tr><tr><td>Stormwight</td><td>Nature&#39;s Knight</td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

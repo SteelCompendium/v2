@@ -20,6 +20,6 @@ type: trait
 </header>
 <div class="sc-trait__body">
 <p>Your wild nature grants you a feature, as shown on the 8th-Level Wild Nature Features table.</p>
-<p>| ♦ 8th-Level Wild Nature Features ♦ | | |------------------------------------|------------------------------------------------------------------------------------------------------------| | Wild Nature | Feature | | Guardian | <a href="../reflexes-perfected/">Reflexes Perfected</a> | | Prowler | <a href="../born-to-run/">Born to Run</a> | | Punisher | <a href="../built-for-violence/">Built for Violence</a> | | Spark | <a href="../nature-will-not-harm-us/">Nature Will Not Harm Us</a> |</p>
+<table><thead><tr><th>♦ 8th-Level Wild Nature Features ♦</th><th></th></tr></thead><tbody><tr><td>Wild Nature</td><td>Feature</td></tr><tr><td>Guardian</td><td><a href="../reflexes-perfected/">Reflexes Perfected</a></td></tr><tr><td>Prowler</td><td><a href="../born-to-run/">Born to Run</a></td></tr><tr><td>Punisher</td><td><a href="../built-for-violence/">Built for Violence</a></td></tr><tr><td>Spark</td><td><a href="../nature-will-not-harm-us/">Nature Will Not Harm Us</a></td></tr></tbody></table>
 </div>
 </section>

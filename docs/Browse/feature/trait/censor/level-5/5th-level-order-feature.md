@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Order | Feature | |--------------------------|---------------| | Exorcist | <a href="../evil-revealed/">Evil Revealed</a> | | Oracle | <a href="../prophecy/">Prophecy</a> | | Paragon | <a href="../stand-fast/">Stand Fast</a>! |</p>
+<table><thead><tr><th>Order</th><th>Feature</th></tr></thead><tbody><tr><td>Exorcist</td><td><a href="../evil-revealed/">Evil Revealed</a></td></tr><tr><td>Oracle</td><td><a href="../prophecy/">Prophecy</a></td></tr><tr><td>Paragon</td><td><a href="../stand-fast/">Stand Fast</a>!</td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

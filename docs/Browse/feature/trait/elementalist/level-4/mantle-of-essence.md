@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Specialization | Feature | |----------------|-----------------| | Earth | <a href="../quaking-earth/">Quaking Earth</a> | | Fire | <a href="../burning-grounds/">Burning Grounds</a> | | Green | <a href="../flowering-bed/">Flowering Bed</a> | | Void | <a href="../veiling-bed/">Veiling Bed</a> |</p>
+<table><thead><tr><th>Specialization</th><th>Feature</th></tr></thead><tbody><tr><td>Earth</td><td><a href="../quaking-earth/">Quaking Earth</a></td></tr><tr><td>Fire</td><td><a href="../burning-grounds/">Burning Grounds</a></td></tr><tr><td>Green</td><td><a href="../flowering-bed/">Flowering Bed</a></td></tr><tr><td>Void</td><td><a href="../veiling-bed/">Veiling Bed</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

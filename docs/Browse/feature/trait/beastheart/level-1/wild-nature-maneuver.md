@@ -20,7 +20,7 @@ type: trait
 </header>
 <div class="sc-trait__body">
 <p>Your wild nature grants you a maneuver, as shown on the Wild Nature Maneuvers table. Each maneuver can be used only by the beastheart.</p>
-<p>| Wild Nature | Maneuver | |-------------|--------------------------------------------------------------------------------------------------| | Guardian | <a href="../../../../ability/beastheart/level-1/living-arrow/">Living Arrow</a> | | Prowler | <a href="../../../../ability/beastheart/level-1/lightning-leap/">Lightning Leap</a> | | Punisher | <a href="../../../../ability/beastheart/level-1/avalanche-rush/">Avalanche Rush</a> | | Spark | <a href="../../../../ability/beastheart/level-1/jaws-of-the-storm/">Jaws of the Storm</a> |</p>
+<table><thead><tr><th>Wild Nature</th><th>Maneuver</th></tr></thead><tbody><tr><td>Guardian</td><td><a href="../../../../ability/beastheart/level-1/living-arrow/">Living Arrow</a></td></tr><tr><td>Prowler</td><td><a href="../../../../ability/beastheart/level-1/lightning-leap/">Lightning Leap</a></td></tr><tr><td>Punisher</td><td><a href="../../../../ability/beastheart/level-1/avalanche-rush/">Avalanche Rush</a></td></tr><tr><td>Spark</td><td><a href="../../../../ability/beastheart/level-1/jaws-of-the-storm/">Jaws of the Storm</a></td></tr></tbody></table>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
 <div class="sc-ability__head">

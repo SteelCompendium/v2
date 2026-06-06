@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Tradition | Features | |-------------|-----------------------------------| | Chronopathy | <a href="../doubling-the-hours/">Doubling the Hours</a>, <a href="../../../../ability/talent/level-8/stasis-shield/">Stasis Shield</a> | | Telekinesis | <a href="../../../../ability/talent/level-8/levitation-field/">Levitation Field</a>, <a href="../low-gravity/">Low Gravity</a> | | Telepathy | <a href="../mindlink/">Mindlink</a>, <a href="../universal-connection/">Universal Connection</a> |</p>
+<table><thead><tr><th>Tradition</th><th>Features</th></tr></thead><tbody><tr><td>Chronopathy</td><td><a href="../doubling-the-hours/">Doubling the Hours</a>, <a href="../../../../ability/talent/level-8/stasis-shield/">Stasis Shield</a></td></tr><tr><td>Telekinesis</td><td><a href="../../../../ability/talent/level-8/levitation-field/">Levitation Field</a>, <a href="../low-gravity/">Low Gravity</a></td></tr><tr><td>Telepathy</td><td><a href="../mindlink/">Mindlink</a>, <a href="../universal-connection/">Universal Connection</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

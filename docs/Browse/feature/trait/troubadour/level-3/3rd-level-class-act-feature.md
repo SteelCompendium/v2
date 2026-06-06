@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Class Act | Features | |------------|--------------| | Auteur | <a href="../missed-cue/">Missed Cue</a> | | Duelist | Foil | | Virtuoso | <a href="../second-album/">Second Album</a> |</p>
+<table><thead><tr><th>Class Act</th><th>Features</th></tr></thead><tbody><tr><td>Auteur</td><td><a href="../missed-cue/">Missed Cue</a></td></tr><tr><td>Duelist</td><td>Foil</td></tr><tr><td>Virtuoso</td><td><a href="../second-album/">Second Album</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

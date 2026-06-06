@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Tradition | Features | |------------------------------|-----------------| | Chronopathy | <a href="../ease-the-hours/">Ease the Hours</a> | | Telekinesis | <a href="../ease-their-fall/">Ease Their Fall</a> | | Telepathy | <a href="../ease-the-mind/">Ease the Mind</a> |</p>
+<table><thead><tr><th>Tradition</th><th>Features</th></tr></thead><tbody><tr><td>Chronopathy</td><td><a href="../ease-the-hours/">Ease the Hours</a></td></tr><tr><td>Telekinesis</td><td><a href="../ease-their-fall/">Ease Their Fall</a></td></tr><tr><td>Telepathy</td><td><a href="../ease-the-mind/">Ease the Mind</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Aspect | Feature | |------------|--------------------| | Berserker | <a href="../strongest-there-is/">Strongest There Is</a> | | Reaver | <a href="../a-step-ahead/">A Step Ahead</a> | | Stormwight | <a href="../menagerie/">Menagerie</a> |</p>
+<table><thead><tr><th>Aspect</th><th>Feature</th></tr></thead><tbody><tr><td>Berserker</td><td><a href="../strongest-there-is/">Strongest There Is</a></td></tr><tr><td>Reaver</td><td><a href="../a-step-ahead/">A Step Ahead</a></td></tr><tr><td>Stormwight</td><td><a href="../menagerie/">Menagerie</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

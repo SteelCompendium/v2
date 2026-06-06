@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Doctrine | Feature | |------------|---------------------| | Insurgent | <a href="../covert-operations/">Covert Operations</a> | | Mastermind | <a href="../studied-commander/">Studied Commander</a> | | Vanguard | <a href="../commanding-presence/">Commanding Presence</a> |</p>
+<table><thead><tr><th>Doctrine</th><th>Feature</th></tr></thead><tbody><tr><td>Insurgent</td><td><a href="../covert-operations/">Covert Operations</a></td></tr><tr><td>Mastermind</td><td><a href="../studied-commander/">Studied Commander</a></td></tr><tr><td>Vanguard</td><td><a href="../commanding-presence/">Commanding Presence</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

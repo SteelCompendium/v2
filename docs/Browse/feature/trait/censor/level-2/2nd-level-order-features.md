@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Order | Features | |--------------------------|--------------------------------------| | Exorcist | Saint&#39;s Vigilance, <a href="../a-sense-for-truth/">A Sense for Truth</a> | | Oracle | <a href="../it-was-foretold/">It Was Foretold</a>, <a href="../judge-of-character/">Judge of Character</a> | | Paragon | <a href="../lead-by-example/">Lead by Example</a>, <a href="../stalwart-icon/">Stalwart Icon</a> |</p>
+<table><thead><tr><th>Order</th><th>Features</th></tr></thead><tbody><tr><td>Exorcist</td><td>Saint&#39;s Vigilance, <a href="../a-sense-for-truth/">A Sense for Truth</a></td></tr><tr><td>Oracle</td><td><a href="../it-was-foretold/">It Was Foretold</a>, <a href="../judge-of-character/">Judge of Character</a></td></tr><tr><td>Paragon</td><td><a href="../lead-by-example/">Lead by Example</a>, <a href="../stalwart-icon/">Stalwart Icon</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

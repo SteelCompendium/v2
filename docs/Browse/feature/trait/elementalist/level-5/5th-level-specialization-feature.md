@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Specialization | Feature | |----------------|------------------------------| | Earth | <a href="../the-mountain-does-not-move/">The Mountain Does Not Move</a> | | Fire | <a href="../smoldering-step/">Smoldering Step</a> | | Green | <a href="../hide-of-tenfold-shields/">Hide of Tenfold Shields</a> | | Void | <a href="../pierce-the-veil-of-substance/">Pierce the Veil of Substance</a> |</p>
+<table><thead><tr><th>Specialization</th><th>Feature</th></tr></thead><tbody><tr><td>Earth</td><td><a href="../the-mountain-does-not-move/">The Mountain Does Not Move</a></td></tr><tr><td>Fire</td><td><a href="../smoldering-step/">Smoldering Step</a></td></tr><tr><td>Green</td><td><a href="../hide-of-tenfold-shields/">Hide of Tenfold Shields</a></td></tr><tr><td>Void</td><td><a href="../pierce-the-veil-of-substance/">Pierce the Veil of Substance</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Specialization | Triggered Action | |-----------------|---------------------------| | Earth | <a href="../../../../ability/elementalist/level-1/skin-like-castle-walls/">Skin Like Castle Walls</a> | | Fire | <a href="../../../../ability/elementalist/level-1/explosive-assistance/">Explosive Assistance</a> | | Green | <a href="../../../../ability/elementalist/level-1/breath-of-dawn-remembered/">Breath of Dawn Remembered</a> | | Void | <a href="../../../../ability/elementalist/level-1/subtle-relocation/">Subtle Relocation</a> |</p>
+<table><thead><tr><th>Specialization</th><th>Triggered Action</th></tr></thead><tbody><tr><td>Earth</td><td><a href="../../../../ability/elementalist/level-1/skin-like-castle-walls/">Skin Like Castle Walls</a></td></tr><tr><td>Fire</td><td><a href="../../../../ability/elementalist/level-1/explosive-assistance/">Explosive Assistance</a></td></tr><tr><td>Green</td><td><a href="../../../../ability/elementalist/level-1/breath-of-dawn-remembered/">Breath of Dawn Remembered</a></td></tr><tr><td>Void</td><td><a href="../../../../ability/elementalist/level-1/subtle-relocation/">Subtle Relocation</a></td></tr></tbody></table>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="triggered">

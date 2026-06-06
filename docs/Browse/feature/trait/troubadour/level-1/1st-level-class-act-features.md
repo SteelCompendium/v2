@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Class Act | Features | |------------|------------------------------------| | Auteur | Blocking, <a href="../../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> | | Duelist | <a href="../../../../ability/troubadour/level-1/acrobatics/">Acrobatics</a>, <a href="../../../../ability/troubadour/level-1/star-power/">Star Power</a> | | Virtuoso | <a href="../../../../ability/troubadour/level-1/power-chord/">Power Chord</a>, <a href="../virtuoso-performances/">Virtuoso Performances</a> |</p>
+<table><thead><tr><th>Class Act</th><th>Features</th></tr></thead><tbody><tr><td>Auteur</td><td>Blocking, <a href="../../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a></td></tr><tr><td>Duelist</td><td><a href="../../../../ability/troubadour/level-1/acrobatics/">Acrobatics</a>, <a href="../../../../ability/troubadour/level-1/star-power/">Star Power</a></td></tr><tr><td>Virtuoso</td><td><a href="../../../../ability/troubadour/level-1/power-chord/">Power Chord</a>, <a href="../virtuoso-performances/">Virtuoso Performances</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

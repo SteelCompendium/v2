@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>| Specialization | Feature | |----------------|----------------------------------| | Earth | <a href="../../../../ability/elementalist/level-3/earth-accepts-me/">Earth Accepts Me</a> | | Fire | <a href="../a-conversation-with-fire/">A Conversation With Fire</a> | | Green | <a href="../../../../ability/elementalist/level-3/remember-growth-and-sun-and-rain/">Remember Growth and Sun and Rain</a> | | Void | <a href="../distance-is-only-memory/">Distance Is Only Memory</a> |</p>
+<table><thead><tr><th>Specialization</th><th>Feature</th></tr></thead><tbody><tr><td>Earth</td><td><a href="../../../../ability/elementalist/level-3/earth-accepts-me/">Earth Accepts Me</a></td></tr><tr><td>Fire</td><td><a href="../a-conversation-with-fire/">A Conversation With Fire</a></td></tr><tr><td>Green</td><td><a href="../../../../ability/elementalist/level-3/remember-growth-and-sun-and-rain/">Remember Growth and Sun and Rain</a></td></tr><tr><td>Void</td><td><a href="../distance-is-only-memory/">Distance Is Only Memory</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
