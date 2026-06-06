@@ -144,7 +144,7 @@
 .sc-trait__nest { margin: .35rem 0 .25rem; }
 
 /* nested ability plates: trim the standalone margins so they sit snug */
-.sc-trait__nest > .sc-ability { margin: .55rem 0; }
+.sc-trait__nest > .sc-ability { margin: 1rem 0; }
 .sc-trait__nest > .sc-ability:first-child { margin-top: .15rem; }
 .sc-trait__nest > .sc-ability:last-child  { margin-bottom: .1rem; }
 
