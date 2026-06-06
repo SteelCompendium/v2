@@ -1,12 +1,10 @@
-# Level 7
+# Troubadour — Level 7
 
 ---
 
-<div class="browse-index" markdown>
-
-- [A Muse's Muse](a-muses-muse.md)
-- [Characteristic Increase](characteristic-increase.md)
-- [Equal Billing](equal-billing.md)
-- [Skill](skill.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="a-muses-muse/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">A Muse&#39;s Muse</h3></div><div class="sc-prev__tag">Level <span class="num">7</span></div></div><div class="sc-prev__flavor">At the start of each of your turns during combat, you gain 1d3 + 1 drama instead of 1d3.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="characteristic-increase/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Characteristic Increase</h3></div><div class="sc-prev__tag">Level <span class="num">7</span></div></div><div class="sc-prev__flavor">Each of your characteristic scores increases by 1, to a maximum of 4.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="equal-billing/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Equal Billing</h3></div><div class="sc-prev__tag">Level <span class="num">7</span></div></div><div class="sc-prev__flavor">You can use your Scene Partner feature to form a bond with one willing hero instead of an NPC you interact with using a test. If you bond with another hero, you lose your existing bond with a hero.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="skill/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Skill</h3></div><div class="sc-prev__tag">Level <span class="num">7</span></div></div><div class="sc-prev__flavor">You gain one skill of your choice.</div></a>
 </div>

@@ -2,17 +2,15 @@
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Signature Trait: Fall Lightly](fall-lightly.md)
-- [I Am Law](i-am-law.md)
-- [Keeper of Order](keeper-of-order.md)
-- [Lightning Nimbleness](lightning-nimbleness.md)
-- [Signature Trait: Lightweight](lightweight.md)
-- [Memonek Traits](memonek-traits.md)
-- [Nonstop](nonstop.md)
-- [Systematic Mind](systematic-mind.md)
-- [Unphased](unphased.md)
-- [Useful Emotion](useful-emotion.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="fall-lightly/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Memonek</div><h3 class="sc-prev__name">Signature Trait: Fall Lightly</h3></div></div><div class="sc-prev__flavor">Your silicone body is low in density. Whenever you fall, you reduce the distance of the fall by 2 squares.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="i-am-law/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Memonek</div><h3 class="sc-prev__name">I Am Law</h3></div></div><div class="sc-prev__flavor">Your lawful nature and quick reflexes mean you give no quarter to creatures trying to get past you. Enemies can&#39;t move through your space unless you allow them to do so.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="keeper-of-order/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Memonek</div><h3 class="sc-prev__name">Keeper of Order</h3></div></div><div class="sc-prev__flavor">Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an adjacent creature makes a power roll, you can use a free triggered action to remove an edge or a bane on the roll, to turn a double edge into an edge, or to turn a double bane into a bane.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="lightning-nimbleness/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Memonek</div><h3 class="sc-prev__name">Lightning Nimbleness</h3></div></div><div class="sc-prev__flavor">You can push your body to move at incredible speeds. Your speed is 7.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="lightweight/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Memonek</div><h3 class="sc-prev__name">Signature Trait: Lightweight</h3></div></div><div class="sc-prev__flavor">Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your size as one size smaller than it is.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="memonek-traits/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Memonek</div><h3 class="sc-prev__name">Memonek Traits</h3></div></div><div class="sc-prev__flavor">Memonek heroes have access to the following traits.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="nonstop/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Memonek</div><h3 class="sc-prev__name">Nonstop</h3></div></div><div class="sc-prev__flavor">Your connection to Axiom allows you to regulate your movement. You can&#39;t be made slowed.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="systematic-mind/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Memonek</div><h3 class="sc-prev__name">Systematic Mind</h3></div></div><div class="sc-prev__flavor">You gain an edge on tests made to parse schematics, maps, and other systematic documents that aren&#39;t inherently chaotic. In addition, you treat any language you don&#39;t know as if you know a related language.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="unphased/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Memonek</div><h3 class="sc-prev__name">Unphased</h3></div></div><div class="sc-prev__flavor">Your ordered mind can&#39;t be caught off guard. You can&#39;t be made surprised.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="useful-emotion/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Memonek</div><h3 class="sc-prev__name">Useful Emotion</h3></div></div><div class="sc-prev__flavor">Velloparatha—the worldsickness—might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 surge.</div></a>
 </div>

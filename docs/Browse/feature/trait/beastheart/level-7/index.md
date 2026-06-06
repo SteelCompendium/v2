@@ -1,12 +1,10 @@
-# Level 7
+# Beastheart — Level 7
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Characteristic Increase](characteristic-increase.md)
-- [Feral Heart](feral-heart.md)
-- [Rampage Improvement](rampage-improvement.md)
-- [Skill](skill.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="characteristic-increase/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Characteristic Increase</h3></div><div class="sc-prev__tag">Level <span class="num">7</span></div></div><div class="sc-prev__flavor">Each of your and your companion&#39;s characteristic scores increases by 1, to a maximum of 4.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="feral-heart/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Feral Heart</h3></div><div class="sc-prev__tag">Level <span class="num">7</span></div></div><div class="sc-prev__flavor">At the start of each of your turns in combat, you gain 1d3 + 1 ferocity instead of 1d3.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="rampage-improvement/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Rampage Improvement</h3></div><div class="sc-prev__tag">Level <span class="num">7</span></div></div><div class="sc-prev__flavor">Your Rampage feature provides additional effects when your companion has 20 or more rampage.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="skill/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Skill</h3></div><div class="sc-prev__tag">Level <span class="num">7</span></div></div><div class="sc-prev__flavor">You gain one skill of your choice.</div></a>
 </div>

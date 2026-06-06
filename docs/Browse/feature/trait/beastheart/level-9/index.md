@@ -1,10 +1,8 @@
-# Level 9
+# Beastheart — Level 9
 
 ---
 
-<div class="browse-index" markdown>
-
-- [9th-Level Wild Nature Ability](9th-level-wild-nature-ability.md)
-- [Avatar of the Green](avatar-of-the-green.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="9th-level-wild-nature-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">9th-Level Wild Nature Ability</h3></div><div class="sc-prev__tag">Level <span class="num">9</span></div></div><div class="sc-prev__flavor">Choose one of the following abilities.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 8 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="avatar-of-the-green/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Avatar of the Green</h3></div><div class="sc-prev__tag">Level <span class="num">9</span></div></div><div class="sc-prev__flavor">Your companion has transcended beasthood. Although they&#39;re still your faithful friend, they&#39;re also a vessel for nature&#39;s wisdom and memories. Your companion&#39;s Reason score increases to 1, or increases by 1 if it is already 1 or higher, and they learn every language you know. Your companion can communicate telepathically with any creature within 10 squares, using language as well as images and feelings. Additionally, you learn the Nature skill and one other skill from the lore skill group.</div></a>
 </div>

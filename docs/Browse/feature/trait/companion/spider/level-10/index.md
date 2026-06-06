@@ -1,9 +1,7 @@
-# Level 10
+# Companion — Level 10
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Life Drinker](life-drinker.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="life-drinker/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Companion</div><h3 class="sc-prev__name">Life Drinker</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">Whenever you or the spider deals damage with a maneuver while the spider is rampaging, the attacker regains Stamina equal to the damage dealt.</div></a>
 </div>

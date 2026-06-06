@@ -1,18 +1,16 @@
-# Level 6
+# Talent — Level 6
 
 ---
 
-<div class="browse-index" markdown>
-
-- [6th-Level Tradition Ability](6th-level-tradition-ability.md)
-- [Dynamic Power](dynamic-power.md)
-- [Expanded Power](expanded-power.md)
-- [Extended Power](extended-power.md)
-- [Heightened Power](heightened-power.md)
-- [Magnified Power](magnified-power.md)
-- [Perk](perk.md)
-- [Psi Boost](psi-boost.md)
-- [Shared Power](shared-power.md)
-- [Sharpened Power](sharpened-power.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="6th-level-tradition-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">6th-Level Tradition Ability</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">Choose one of the following abilities.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 6 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="dynamic-power/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Dynamic Power</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">If the ability force moves a target, the forced movement distance gains a bonus equal to your Reason score.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="expanded-power/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Expanded Power</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">If the ability targets an area, you increase the size of the area by 1. If the area is a line, you increase the size of one dimension, not both.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="extended-power/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Extended Power</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">If the ability is ranged, the distance gains a bonus equal to your Reason score. If the ability is melee, the distance gains a +2 bonus.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="heightened-power/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Heightened Power</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">If the ability deals rolled damage, it deals extra damage equal to your Reason score.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="magnified-power/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Magnified Power</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">If the ability has a potency, you increase that potency by an amount equal to your Reason score.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="perk/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Perk</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">You gain one interpersonal, lore, or supernatural perk of your choice.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="psi-boost/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Psi Boost</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a psi boost to it and enhance its effects. A psi boost&#39;s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="shared-power/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Shared Power</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">If the ability targets individual creatures or objects, you target one additional creature or object within distance.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="sharpened-power/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Sharpened Power</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">If the ability has any power roll, that roll gains an edge.</div></a>
 </div>

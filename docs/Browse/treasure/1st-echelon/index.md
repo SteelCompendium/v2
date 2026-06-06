@@ -2,52 +2,15 @@
 
 ---
 
-<details class="browse-expand" markdown>
-<summary><a href="consumable/">Consumable</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Black Ash Dart](consumable/black-ash-dart.md)
-- [Blood Essence Vial](consumable/blood-essence-vial.md)
-- [Buzz Balm](consumable/buzz-balm.md)
-- [Catapult Dust](consumable/catapult-dust.md)
-- [Giant's-Blood Flame](consumable/giants-blood-flame.md)
-- [Growth Potion](consumable/growth-potion.md)
-- [Healing Potion](consumable/healing-potion.md)
-- [Imp's Tongue](consumable/imps-tongue.md)
-- [Lachomp Tooth](consumable/lachomp-tooth.md)
-- [Mirror Token](consumable/mirror-token.md)
-- [Pocket Homunculus](consumable/pocket-homunculus.md)
-- [Portable Cloud](consumable/portable-cloud.md)
-- [Professor Veratismo's Quaff 'n Huff Snuff](consumable/professor-veratismos-quaff-n-huff-snuff.md)
-- [Snapdragon](consumable/snapdragon.md)
-
+<div class="sc-folders sc-folders--lg">
+<a class="sc-folder" href="consumable/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5,4H19A3,3 0 0,1 22,7V11H15V10H9V11H2V7A3,3 0 0,1 5,4M11,11H13V13H11V11M2,12H9V13L11,15H13L15,13V12H22V20H2V12Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Consumable</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">14</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="trinket/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5,4H19A3,3 0 0,1 22,7V11H15V10H9V11H2V7A3,3 0 0,1 5,4M11,11H13V13H11V11M2,12H9V13L11,15H13L15,13V12H22V20H2V12Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Trinket</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">15</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
 </div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="trinket/">Trinket</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Color Cloak (Blue)](trinket/color-cloak-blue.md)
-- [Color Cloak (Red)](trinket/color-cloak-red.md)
-- [Color Cloak (Yellow)](trinket/color-cloak-yellow.md)
-- [Deadweight](trinket/deadweight.md)
-- [Displacing Replacement Bracer](trinket/displacing-replacement-bracer.md)
-- [Divine Vine](trinket/divine-vine.md)
-- [Flameshade Gloves](trinket/flameshade-gloves.md)
-- [Gecko Gloves](trinket/gecko-gloves.md)
-- [Hellcharger Helm](trinket/hellcharger-helm.md)
-- [Mask of the Many](trinket/mask-of-the-many.md)
-- [Precious Collar](trinket/precious-collar.md)
-- [Quantum Satchel](trinket/quantum-satchel.md)
-- [Ruby Ring of Recall](trinket/ruby-ring-of-recall.md)
-- [Speaking Scarab](trinket/speaking-scarab.md)
-- [Unbinder Boots](trinket/unbinder-boots.md)
-
-</div>
-
-</details>
-

@@ -1,12 +1,10 @@
-# Level 6
+# Null — Level 6
 
 ---
 
-<div class="browse-index" markdown>
-
-- [6th-Level Tradition Ability](6th-level-tradition-ability.md)
-- [Elemental Absorption](elemental-absorption.md)
-- [Elemental Buffer](elemental-buffer.md)
-- [Perk](perk.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="6th-level-tradition-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Null</div><h3 class="sc-prev__name">6th-Level Tradition Ability</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">Choose one of the following abilities.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 6 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="elemental-absorption/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Null</div><h3 class="sc-prev__name">Elemental Absorption</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">Whenever you use your Inertial Shield triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="elemental-buffer/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Null</div><h3 class="sc-prev__name">Elemental Buffer</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with damage immunity, you gain 2 surges that can be used only to increase the damage of your next strike.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="perk/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Null</div><h3 class="sc-prev__name">Perk</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">You gain one exploration, interpersonal, or intrigue perk of your choice.</div></a>
 </div>

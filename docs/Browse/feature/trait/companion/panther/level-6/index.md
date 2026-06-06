@@ -1,9 +1,7 @@
-# Level 6
+# Companion — Level 6
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Single Bound](single-bound.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="single-bound/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Companion</div><h3 class="sc-prev__name">Single Bound</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">While the panther is rampaging, you can jump up to a number of squares equal to your speed as a free maneuver once on each of your turns.</div></a>
 </div>

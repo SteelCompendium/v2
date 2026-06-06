@@ -2,14 +2,12 @@
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Dwarf Traits](dwarf-traits.md)
-- [Great Fortitude](great-fortitude.md)
-- [Grounded](grounded.md)
-- [Signature Trait: Runic Carving](runic-carving.md)
-- [Spark Off Your Skin](spark-off-your-skin.md)
-- [Stand Tough](stand-tough.md)
-- [Stone Singer](stone-singer.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="dwarf-traits/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Dwarf</div><h3 class="sc-prev__name">Dwarf Traits</h3></div></div><div class="sc-prev__flavor">Dwarf heroes have access to the following traits.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="great-fortitude/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Dwarf</div><h3 class="sc-prev__name">Great Fortitude</h3></div></div><div class="sc-prev__flavor">Your hearty constitution prevents you from losing strength. You can&#39;t be made weakened.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="grounded/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Dwarf</div><h3 class="sc-prev__name">Grounded</h3></div></div><div class="sc-prev__flavor">Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to stability.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="runic-carving/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Dwarf</div><h3 class="sc-prev__name">Signature Trait: Runic Carving</h3></div></div><div class="sc-prev__flavor">You can carve a rune onto your skin with 10 uninterrupted minutes of work, which is activated by the magic within your body. The rune you carve determines the benefit you receive, chosen from among the following:</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="spark-off-your-skin/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Dwarf</div><h3 class="sc-prev__name">Spark Off Your Skin</h3></div></div><div class="sc-prev__flavor">Your stone skin affords you potent protection. You have a +6 bonus to Stamina, and that bonus increases by 6 at 4th, 7th, and 10th levels.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="stand-tough/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Dwarf</div><h3 class="sc-prev__name">Stand Tough</h3></div></div><div class="sc-prev__flavor">Your body is made to withstand the blows of your enemies. Your Might score is treated as 1 higher for the purpose of resisting potencies, and you gain an edge on Might tests when called for to resist environmental effects or a creature&#39;s traits or abilities.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="stone-singer/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Dwarf</div><h3 class="sc-prev__name">Stone Singer</h3></div></div><div class="sc-prev__flavor">You have a magic connection to the earth. When you spend 1 uninterrupted hour singing, you can reshape any unworked mundane stone within 3 squares. You can&#39;t destroy this stone, but you can move each square of it anywhere within 3 squares, piling it off to one side to dig a hole or building it up to create a wall.</div></a>
 </div>

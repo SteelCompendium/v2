@@ -1,15 +1,13 @@
-# Level 10
+# Shadow — Level 10
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Careful Observation Improvement](careful-observation-improvement.md)
-- [Characteristic Increase](characteristic-increase.md)
-- [Death Pool](death-pool.md)
-- [Improved Umbral Form](improved-umbral-form.md)
-- [Perk](perk.md)
-- [Skill](skill.md)
-- [Subterfuge](subterfuge.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="careful-observation-improvement/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Shadow</div><h3 class="sc-prev__name">Careful Observation Improvement</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">You can target three creatures simultaneously with your Careful Observation ability.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="characteristic-increase/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Shadow</div><h3 class="sc-prev__name">Characteristic Increase</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">Your Agility score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="death-pool/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Shadow</div><h3 class="sc-prev__name">Death Pool</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">The first time each combat round that you deal damage incorporating 1 or more surges, you gain 3 insight instead of 2.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="improved-umbral-form/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Shadow</div><h3 class="sc-prev__name">Improved Umbral Form</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">You gain full control over the shadow creature you become with your Umbral Form feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="perk/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Shadow</div><h3 class="sc-prev__name">Perk</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">You gain one perk of your choice.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="skill/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Shadow</div><h3 class="sc-prev__name">Skill</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">You gain one skill of your choice.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="subterfuge/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Shadow</div><h3 class="sc-prev__name">Subterfuge</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were insight.</div></a>
 </div>

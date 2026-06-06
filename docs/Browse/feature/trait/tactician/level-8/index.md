@@ -1,14 +1,12 @@
-# Level 8
+# Tactician — Level 8
 
 ---
 
-<div class="browse-index" markdown>
-
-- [8th-Level Doctrine Feature](8th-level-doctrine-feature.md)
-- [11-Focus Ability](11-focus-ability.md)
-- [Bait and Ambush](bait-and-ambush.md)
-- [Perk](perk.md)
-- [Pincer Movement](pincer-movement.md)
-- [See Your Enemies Driven Before You](see-your-enemies-driven-before-you.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="8th-level-doctrine-feature/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Tactician</div><h3 class="sc-prev__name">8th-Level Doctrine Feature</h3></div><div class="sc-prev__tag">Level <span class="num">8</span></div></div><div class="sc-prev__flavor">Your tactical doctrine grants you a feature, as shown on the 8th-Level Doctrine Features table.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="11-focus-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Tactician</div><h3 class="sc-prev__name">11-Focus Ability</h3></div><div class="sc-prev__tag">Level <span class="num">8</span></div></div><div class="sc-prev__flavor">Choose one heroic ability from the following options, each of which costs 11 focus to use.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 4 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="bait-and-ambush/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Tactician</div><h3 class="sc-prev__name">Bait and Ambush</h3></div><div class="sc-prev__tag">Level <span class="num">8</span></div></div><div class="sc-prev__flavor">You have trained your squad to be silent ambushers.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="perk/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Tactician</div><h3 class="sc-prev__name">Perk</h3></div><div class="sc-prev__tag">Level <span class="num">8</span></div></div><div class="sc-prev__flavor">You gain one perk of your choice.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="pincer-movement/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Tactician</div><h3 class="sc-prev__name">Pincer Movement</h3></div><div class="sc-prev__tag">Level <span class="num">8</span></div></div><div class="sc-prev__flavor">You have trained your squad to coordinate their movements to maximize combat impact.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="see-your-enemies-driven-before-you/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Tactician</div><h3 class="sc-prev__name">See Your Enemies Driven Before You</h3></div><div class="sc-prev__tag">Level <span class="num">8</span></div></div><div class="sc-prev__flavor">You have trained your squad to maximize impact and break enemy lines when they attack.</div></a>
 </div>

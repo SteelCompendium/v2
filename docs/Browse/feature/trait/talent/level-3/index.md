@@ -1,10 +1,8 @@
-# Level 3
+# Talent — Level 3
 
 ---
 
-<div class="browse-index" markdown>
-
-- [7-Clarity Ability](7-clarity-ability.md)
-- [Scan](scan.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="7-clarity-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">7-Clarity Ability</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">Choose one heroic ability from the following options, each of which costs 7 clarity to use.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 4 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="scan/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Scan</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests). Additionally, once you establish line of effect to a thinking creature within distance of your Mind Spike ability, you always have line of effect to that creature until they move beyond that distance.</div></a>
 </div>

@@ -1,15 +1,13 @@
-# Level 10
+# Fury — Level 10
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Chaos Incarnate](chaos-incarnate.md)
-- [Characteristic Increase](characteristic-increase.md)
-- [Growing Ferocity Improvement](growing-ferocity-improvement.md)
-- [Perk](perk.md)
-- [Primordial Ferocity](primordial-ferocity.md)
-- [Primordial Power](primordial-power.md)
-- [Skill](skill.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="chaos-incarnate/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Chaos Incarnate</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">Your mastery of elemental forces protects and emboldens you. If you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to twice your Might score. If you are a stormwight, your damage immunity from your Primordial Storm feature (see Stormwight Kits) increases to three times your Might score.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="characteristic-increase/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Characteristic Increase</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">Your Might and Agility scores each increase to 5.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="growing-ferocity-improvement/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Growing Ferocity Improvement</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">Your Growing Ferocity feature provides additional benefits when you have 12 or more ferocity.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="perk/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Perk</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">You gain one crafting, exploration, or intrigue perk of your choice.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="primordial-ferocity/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Primordial Ferocity</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">The first time you take damage each combat round, you gain 3 ferocity instead of 2.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="primordial-power/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Primordial Power</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">You have an epic resource called primordial power. Each time you finish a respite, you gain primordial power equal to the XP you gain. You can spend primordial power on your abilities as if it were ferocity.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="skill/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Skill</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">You gain one skill of your choice.</div></a>
 </div>

@@ -2,13 +2,11 @@
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Animal Form: Rat](animal-form-rat.md)
-- [Aspect Benefits](aspect-benefits.md)
-- [Growing Ferocity](growing-ferocity.md)
-- [Hybrid Form: Rat](hybrid-form-rat.md)
-- [Kit Bonuses](kit-bonuses.md)
-- [Primordial Storm: Rat Flood](primordial-storm-rat-flood.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="animal-form-rat/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Animal Form: Rat</h3></div></div><div class="sc-prev__flavor">While you are in your rat form, your size is 1T and you can automatically climb at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to climb other creatures. You can&#39;t use any abilities while in this form except for Aspect of the Wild.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="aspect-benefits/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Aspect Benefits</h3></div></div><div class="sc-prev__flavor">You gain an edge on tests made to hide and sneak. Additionally, you ignore difficult terrain.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="growing-ferocity/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Growing Ferocity</h3></div></div><div class="sc-prev__flavor">As your ferocity grows, you gain benefits as noted on the Raden Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="hybrid-form-rat/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Hybrid Form: Rat</h3></div></div><div class="sc-prev__flavor">While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can automatically climb at full speed while moving.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="kit-bonuses/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Kit Bonuses</h3></div></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="primordial-storm-rat-flood/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Primordial Storm: Rat Flood</h3></div></div><div class="sc-prev__flavor">Your primordial damage type is corruption.</div></a>
 </div>

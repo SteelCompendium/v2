@@ -2,15 +2,13 @@
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Forest Walk](forest-walk.md)
-- [Otherworldly Grace](otherworldly-grace.md)
-- [Quick and Brutal](quick-and-brutal.md)
-- [Revisit Memory](revisit-memory.md)
-- [Swift](swift.md)
-- [The Wode Defends](the-wode-defends.md)
-- [Signature Trait: Wode Elf Glamor](wode-elf-glamor.md)
-- [Wode Elf Traits](wode-elf-traits.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="forest-walk/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Wode Elf</div><h3 class="sc-prev__name">Forest Walk</h3></div></div><div class="sc-prev__flavor">You can shift into and while within difficult terrain.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="otherworldly-grace/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Wode Elf</div><h3 class="sc-prev__name">Otherworldly Grace</h3></div></div><div class="sc-prev__flavor">Your elf body and mind can&#39;t be contained for long. Whenever you make a saving throw, you succeed on a roll of 5 or higher.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="quick-and-brutal/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Wode Elf</div><h3 class="sc-prev__name">Quick and Brutal</h3></div></div><div class="sc-prev__flavor">Whenever you score a critical hit, you can take an additional main action and an additional move action instead of just a main action.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="revisit-memory/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Wode Elf</div><h3 class="sc-prev__name">Revisit Memory</h3></div></div><div class="sc-prev__flavor">Accessing memories is as easy as living in the present for you. You gain an edge on tests made to recall lore.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="swift/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Wode Elf</div><h3 class="sc-prev__name">Swift</h3></div></div><div class="sc-prev__flavor">You have speed 6.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="the-wode-defends/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Wode Elf</div><h3 class="sc-prev__name">The Wode Defends</h3></div></div><div class="sc-prev__flavor">You have the following signature ability. Signature abilities can be used at will.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants the The Wode Defends main action</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="wode-elf-glamor/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Wode Elf</div><h3 class="sc-prev__name">Signature Trait: Wode Elf Glamor</h3></div></div><div class="sc-prev__flavor">You can magically alter your appearance to better blend in with your surroundings. You gain an edge on tests made to hide and sneak, and tests made to search for you while you are hidden take a bane.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="wode-elf-traits/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Wode Elf</div><h3 class="sc-prev__name">Wode Elf Traits</h3></div></div><div class="sc-prev__flavor">Wode elf heroes have access to the following traits.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants the The Wode Defends main action</span></div></a>
 </div>

@@ -1,10 +1,8 @@
-# Level 3
+# Censor — Level 3
 
 ---
 
-<div class="browse-index" markdown>
-
-- [7-Wrath Ability](7-wrath-ability.md)
-- [Look On My Work and Despair](look-on-my-work-and-despair.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="maneuver" href="7-wrath-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Censor</div><h3 class="sc-prev__name">7-Wrath Ability</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">Choose one heroic ability from the following options, each of which costs 7 wrath to use.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 4 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="look-on-my-work-and-despair/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Censor</div><h3 class="sc-prev__name">Look On My Work and Despair</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">Your judgment has grown in divine power, instilling fear in those you condemn. Whenever you use your Judgment ability, you can spend 1 wrath, and if the target has P &lt; AVERAGE, they are frightened of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use Judgment as a free triggered action, if the new target has P &lt; STRONG, they are frightened of you (save ends). If the target is already frightened of you, they instead take holy damage equal to twice your Presence score.</div></a>
 </div>

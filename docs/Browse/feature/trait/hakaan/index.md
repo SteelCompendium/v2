@@ -2,14 +2,12 @@
 
 ---
 
-<div class="browse-index" markdown>
-
-- [All Is a Feather](all-is-a-feather.md)
-- [Signature Trait: Big!](big.md)
-- [Doomsight](doomsight.md)
-- [Forceful](forceful.md)
-- [Great Fortitude](great-fortitude.md)
-- [Hakaan Traits](hakaan-traits.md)
-- [Stand Tough](stand-tough.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="all-is-a-feather/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Hakaan</div><h3 class="sc-prev__name">All Is a Feather</h3></div></div><div class="sc-prev__flavor">You are exceptionally strong. You gain an edge on tests made to lift and haul heavy objects.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="big/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Hakaan</div><h3 class="sc-prev__name">Signature Trait: Big!</h3></div></div><div class="sc-prev__flavor">Your stature reflects your giant forebears. Your size is 1L.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="doomsight/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Hakaan</div><h3 class="sc-prev__name">Doomsight</h3></div></div><div class="sc-prev__flavor">Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on tests and ability rolls, and you don&#39;t die no matter how low your Stamina falls. You then die immediately at the end of the encounter, and can&#39;t be returned to life by any means.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="forceful/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Hakaan</div><h3 class="sc-prev__name">Forceful</h3></div></div><div class="sc-prev__flavor">Whenever you force move a creature or object, the forced movement distance gains a +1 bonus.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="great-fortitude/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Hakaan</div><h3 class="sc-prev__name">Great Fortitude</h3></div></div><div class="sc-prev__flavor">Your hearty constitution prevents you from losing strength. You can&#39;t be made weakened.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="hakaan-traits/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Hakaan</div><h3 class="sc-prev__name">Hakaan Traits</h3></div></div><div class="sc-prev__flavor">Hakaan heroes have access to the following traits.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="stand-tough/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Hakaan</div><h3 class="sc-prev__name">Stand Tough</h3></div></div><div class="sc-prev__flavor">Your body is made to withstand the blows of your enemies. Your Might score is treated as 1 higher for the purpose of resisting potencies, and you gain an edge on Might tests when called for to resist environmental effects or a creature&#39;s traits or abilities.</div></a>
 </div>

@@ -1,13 +1,11 @@
-# Level 5
+# Shadow — Level 5
 
 ---
 
-<div class="browse-index" markdown>
-
-- [5th-Level College Feature](5th-level-college-feature.md)
-- [9-Insight Ability](9-insight-ability.md)
-- [Harlequin Gambit](harlequin-gambit.md)
-- [Trail of Cinders](trail-of-cinders.md)
-- [Volatile Reagents](volatile-reagents.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="5th-level-college-feature/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Shadow</div><h3 class="sc-prev__name">5th-Level College Feature</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">Your shadow college grants you a feature, as shown on the 5th-Level College Features table.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="maneuver" href="9-insight-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Shadow</div><h3 class="sc-prev__name">9-Insight Ability</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">Choose one heroic ability from the following options, each of which costs 9 insight to use.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 4 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="harlequin-gambit/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Shadow</div><h3 class="sc-prev__name">Harlequin Gambit</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your I&#39;m No Threat ability and then move up to your speed.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="trail-of-cinders/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Shadow</div><h3 class="sc-prev__name">Trail of Cinders</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash Teleport ability.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="volatile-reagents/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Shadow</div><h3 class="sc-prev__name">Volatile Reagents</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.</div></a>
 </div>

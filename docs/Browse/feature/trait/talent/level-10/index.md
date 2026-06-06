@@ -1,15 +1,13 @@
-# Level 10
+# Talent — Level 10
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Characteristic Increase](characteristic-increase.md)
-- [Clear Mind](clear-mind.md)
-- [Omnisensory](omnisensory.md)
-- [Perk](perk.md)
-- [Psion](psion.md)
-- [Skill](skill.md)
-- [Vision](vision.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="characteristic-increase/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Characteristic Increase</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">Your Reason and Presence scores each increase to 5.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="clear-mind/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Clear Mind</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">The first time each combat round that a creature is force moved, you gain 3 clarity instead of 2.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="omnisensory/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Omnisensory</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">You have a +10 bonus to the distance of your ranged abilities. Additionally, you don&#39;t need line of effect to a target of a ranged ability if the target is a creature capable of thought who you have previously had line of effect to.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="perk/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Perk</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">You gain one interpersonal, lore, or supernatural perk of your choice.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="psion/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Psion</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">At the start of each of your turns during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="skill/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Skill</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">You gain one skill of your choice.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="vision/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Vision</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">You have an epic resource called vision. Each time you finish a respite, you gain vision equal to the XP you gain. You can spend vision on your abilities as if it were clarity.</div></a>
 </div>

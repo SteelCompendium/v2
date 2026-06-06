@@ -1,9 +1,7 @@
-# Level 6
+# Companion — Level 6
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Conductive](conductive.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="conductive/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Companion</div><h3 class="sc-prev__name">Conductive</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">While the spark is rampaging, lightning sings through your blood, and whenever you make a strike against a creature, you deal extra lightning damage equal to your Might score.</div></a>
 </div>

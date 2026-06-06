@@ -25,6 +25,11 @@
     var cards = doc.querySelectorAll(".sc-card");
     if (cards.length > 0) return cards.length;
 
+    // Nested feature/treasure index pages emit folder or preview anchors
+    // instead of a .browse-index list (steel-indexes.css).
+    var nested = doc.querySelectorAll(".sc-folder, .sc-prev");
+    if (nested.length > 0) return nested.length;
+
     // Fallback: count links in the main content
     var links = doc.querySelectorAll(".md-content a[href]");
     return links.length > 0 ? links.length : null;

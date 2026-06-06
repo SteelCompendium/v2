@@ -1,14 +1,12 @@
-# Level 2
+# Talent — Level 2
 
 ---
 
-<div class="browse-index" markdown>
-
-- [2nd-Level Tradition Ability](2nd-level-tradition-ability.md)
-- [2nd-Level Tradition Feature](2nd-level-tradition-feature.md)
-- [Ease the Hours](ease-the-hours.md)
-- [Ease the Mind](ease-the-mind.md)
-- [Ease Their Fall](ease-their-fall.md)
-- [Perk](perk.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="maneuver" href="2nd-level-tradition-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">2nd-Level Tradition Ability</h3></div><div class="sc-prev__tag">Level <span class="num">2</span></div></div><div class="sc-prev__flavor">Choose one of the following abilities.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 6 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="2nd-level-tradition-feature/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">2nd-Level Tradition Feature</h3></div><div class="sc-prev__tag">Level <span class="num">2</span></div></div><div class="sc-prev__flavor">Your talent tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="ease-the-hours/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Ease the Hours</h3></div><div class="sc-prev__tag">Level <span class="num">2</span></div></div><div class="sc-prev__flavor">You can increase the number of rounds in a montage test by 1 if the test would end before the heroes hit the success limit.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="ease-the-mind/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Ease the Mind</h3></div><div class="sc-prev__tag">Level <span class="num">2</span></div></div><div class="sc-prev__flavor">You gain an edge on tests made to stop combat and start a negotiation. Additionally, if you are present during a negotiation, any NPC who has a hostile or suspicious starting attitude has their patience increased by 1 (to a maximum of 5).</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="ease-their-fall/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Ease Their Fall</h3></div><div class="sc-prev__tag">Level <span class="num">2</span></div></div><div class="sc-prev__flavor">Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free triggered action to reduce the falling damage by an amount equal to 2 + your Reason score.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="perk/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Talent</div><h3 class="sc-prev__name">Perk</h3></div><div class="sc-prev__tag">Level <span class="num">2</span></div></div><div class="sc-prev__flavor">You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: Perks.</div></a>
 </div>

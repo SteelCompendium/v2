@@ -1,9 +1,7 @@
-# Level 10
+# Companion — Level 10
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Twin Colossi](twin-colossi.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="twin-colossi/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Companion</div><h3 class="sc-prev__name">Twin Colossi</h3></div><div class="sc-prev__tag">Level <span class="num">10</span></div></div><div class="sc-prev__flavor">While the bear is rampaging, you gain a +1 bonus to distance with melee weapon abilities, your size increases to match the bear&#39;s size (to a maximum of 3), and your strikes deal an extra 5 damage.</div></a>
 </div>

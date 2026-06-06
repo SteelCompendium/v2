@@ -1,14 +1,12 @@
-# Level 5
+# Elementalist — Level 5
 
 ---
 
-<div class="browse-index" markdown>
-
-- [5th-Level Specialization Feature](5th-level-specialization-feature.md)
-- [9-Essence Ability](9-essence-ability.md)
-- [Hide of Tenfold Shields](hide-of-tenfold-shields.md)
-- [Pierce the Veil of Substance](pierce-the-veil-of-substance.md)
-- [Smoldering Step](smoldering-step.md)
-- [The Mountain Does Not Move](the-mountain-does-not-move.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="5th-level-specialization-feature/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Elementalist</div><h3 class="sc-prev__name">5th-Level Specialization Feature</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">Your elemental specialization grants you a feature, as shown on the 5th-Level Elemental Specialization Features table.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="9-essence-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Elementalist</div><h3 class="sc-prev__name">9-Essence Ability</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">Choose one heroic ability from the following options, each of which costs 9 essence to use.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 4 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="hide-of-tenfold-shields/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Elementalist</div><h3 class="sc-prev__name">Hide of Tenfold Shields</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an animal form in combat, which is added to any temporary Stamina provided by the animal form.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="pierce-the-veil-of-substance/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Elementalist</div><h3 class="sc-prev__name">Pierce the Veil of Substance</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="smoldering-step/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Elementalist</div><h3 class="sc-prev__name">Smoldering Step</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">You can use 1 square of movement to walk into an area of fire your size or larger and teleport to any other area of fire your size or larger within 10 squares of the first area.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="the-mountain-does-not-move/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Elementalist</div><h3 class="sc-prev__name">The Mountain Does Not Move</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.</div></a>
 </div>

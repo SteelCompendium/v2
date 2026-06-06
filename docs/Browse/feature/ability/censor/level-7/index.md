@@ -1,10 +1,8 @@
-# Level 7
+# Censor — Level 7
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Guided to Your Side](guided-to-your-side.md)
-- [Trinity of Trickery](trinity-of-trickery.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--ability sc-fil" data-action="main" href="guided-to-your-side/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">l</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Main Action</div><h3 class="sc-prev__name">Guided to Your Side</h3></div></div><div class="sc-prev__flavor">You concentrate on a friend and [teleport](../../../../movement/teleport.md) to them.</div><div class="sc-prev__kw"><span class="sc-prev__chip">Magic</span><span class="sc-prev__chip">Ranged</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v">Ranged <b>10</b></span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">Self and each ally</span></span></div></a>
+<a class="sc-prev sc-prev--ability sc-fil" data-action="maneuver" href="trinity-of-trickery/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">f</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Maneuver</div><h3 class="sc-prev__name">Trinity of Trickery</h3></div><div class="sc-prev__tag"><span class="num">9</span> Wrath</div></div><div class="sc-prev__flavor">Hey! I&#39;m over here. No, here, numbskull.</div><div class="sc-prev__kw"><span class="sc-prev__chip">Magic</span><span class="sc-prev__chip">Ranged</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v">Ranged <b>10</b></span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">Self or one ally</span></span></div></a>
 </div>

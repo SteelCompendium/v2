@@ -2,199 +2,75 @@
 
 ---
 
-<details class="browse-expand" markdown>
-<summary><a href="basilisk/">Basilisk</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Level 1](basilisk/level-1/)
-- [Level 3](basilisk/level-3/)
-- [Level 6](basilisk/level-6/)
-- [Level 10](basilisk/level-10/)
-
+<div class="sc-folders">
+<a class="sc-folder" href="basilisk/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Basilisk</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">4</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="bear/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Bear</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">4</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="boar/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Boar</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">4</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="condor/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Condor</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">4</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="deinonychus/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Deinonychus</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">4</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="drake/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Drake</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">5</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="elemental-spark/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Elemental Spark</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">4</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="gummy-ball/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Gummy Ball</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">4</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="hellhound/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Hellhound</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">4</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="lightbender/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Lightbender</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">4</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="panther/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Panther</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">4</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="spider/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Spider</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">4</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="sporeling/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Sporeling</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">4</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="wolf/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Wolf</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">4</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
 </div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="bear/">Bear</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Level 1](bear/level-1/)
-- [Level 3](bear/level-3/)
-- [Level 6](bear/level-6/)
-- [Level 10](bear/level-10/)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="boar/">Boar</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Level 1](boar/level-1/)
-- [Level 3](boar/level-3/)
-- [Level 6](boar/level-6/)
-- [Level 10](boar/level-10/)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="condor/">Condor</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Level 1](condor/level-1/)
-- [Level 3](condor/level-3/)
-- [Level 6](condor/level-6/)
-- [Level 10](condor/level-10/)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="deinonychus/">Deinonychus</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Level 1](deinonychus/level-1/)
-- [Level 3](deinonychus/level-3/)
-- [Level 6](deinonychus/level-6/)
-- [Level 10](deinonychus/level-10/)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="drake/">Drake</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Level 1](drake/level-1/)
-- [Level 3](drake/level-3/)
-- [Level 6](drake/level-6/)
-- [Level 10](drake/level-10/)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="elemental-spark/">Elemental Spark</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Level 1](elemental-spark/level-1/)
-- [Level 3](elemental-spark/level-3/)
-- [Level 6](elemental-spark/level-6/)
-- [Level 10](elemental-spark/level-10/)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="gummy-ball/">Gummy Ball</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Level 1](gummy-ball/level-1/)
-- [Level 3](gummy-ball/level-3/)
-- [Level 6](gummy-ball/level-6/)
-- [Level 10](gummy-ball/level-10/)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="hellhound/">Hellhound</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Level 1](hellhound/level-1/)
-- [Level 3](hellhound/level-3/)
-- [Level 6](hellhound/level-6/)
-- [Level 10](hellhound/level-10/)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="lightbender/">Lightbender</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Level 1](lightbender/level-1/)
-- [Level 3](lightbender/level-3/)
-- [Level 6](lightbender/level-6/)
-- [Level 10](lightbender/level-10/)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="panther/">Panther</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Level 1](panther/level-1/)
-- [Level 3](panther/level-3/)
-- [Level 6](panther/level-6/)
-- [Level 10](panther/level-10/)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="spider/">Spider</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Level 1](spider/level-1/)
-- [Level 3](spider/level-3/)
-- [Level 6](spider/level-6/)
-- [Level 10](spider/level-10/)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="sporeling/">Sporeling</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Level 1](sporeling/level-1/)
-- [Level 3](sporeling/level-3/)
-- [Level 6](sporeling/level-6/)
-- [Level 10](sporeling/level-10/)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="wolf/">Wolf</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Level 1](wolf/level-1/)
-- [Level 3](wolf/level-3/)
-- [Level 6](wolf/level-6/)
-- [Level 10](wolf/level-10/)
-
-</div>
-
-</details>
-

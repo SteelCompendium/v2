@@ -1,13 +1,11 @@
-# Level 4
+# Beastheart — Level 4
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Characteristic Increase](characteristic-increase.md)
-- [Perk](perk.md)
-- [Rampage Improvement](rampage-improvement.md)
-- [Skill](skill.md)
-- [Unleash the Beast](unleash-the-beast.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="characteristic-increase/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Characteristic Increase</h3></div><div class="sc-prev__tag">Level <span class="num">4</span></div></div><div class="sc-prev__flavor">Your and your companion&#39;s Might and Intuition scores increase to 3.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="perk/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Perk</h3></div><div class="sc-prev__tag">Level <span class="num">4</span></div></div><div class="sc-prev__flavor">You gain one perk of your choice.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="rampage-improvement/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Rampage Improvement</h3></div><div class="sc-prev__tag">Level <span class="num">4</span></div></div><div class="sc-prev__flavor">Your Rampage feature provides additional effects when your companion has 16 or more rampage.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="skill/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Skill</h3></div><div class="sc-prev__tag">Level <span class="num">4</span></div></div><div class="sc-prev__flavor">You gain one skill of your choice.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="unleash-the-beast/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Unleash the Beast</h3></div><div class="sc-prev__tag">Level <span class="num">4</span></div></div><div class="sc-prev__flavor">The first time each combat round that a creature adjacent to your companion takes damage, you gain 3 ferocity instead of 2 ferocity.</div></a>
 </div>

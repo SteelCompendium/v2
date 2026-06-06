@@ -1,15 +1,13 @@
-# Level 8
+# Elementalist — Level 8
 
 ---
 
-<div class="browse-index" markdown>
-
-- [8th-Level Specialization Feature](8th-level-specialization-feature.md)
-- [11-Essence Ability](11-essence-ability.md)
-- [Black Hole Star](black-hole-star.md)
-- [Chimeric Manifestation](chimeric-manifestation.md)
-- [Perk](perk.md)
-- [Summon Source of Earth](summon-source-of-earth.md)
-- [The Flame Primordial](the-flame-primordial.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="8th-level-specialization-feature/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Elementalist</div><h3 class="sc-prev__name">8th-Level Specialization Feature</h3></div><div class="sc-prev__tag">Level <span class="num">8</span></div></div><div class="sc-prev__flavor">You have the following ability.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants the Summon Source of Earth main action</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="11-essence-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Elementalist</div><h3 class="sc-prev__name">11-Essence Ability</h3></div><div class="sc-prev__tag">Level <span class="num">8</span></div></div><div class="sc-prev__flavor">Choose one heroic ability from the following options, each of which costs 11 essence to use.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 4 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="black-hole-star/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Elementalist</div><h3 class="sc-prev__name">Black Hole Star</h3></div><div class="sc-prev__tag">Level <span class="num">8</span></div></div><div class="sc-prev__flavor">You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your Hurl Element ability and vertical pull that target up to 5 squares. If their stability reduces this forced movement, they are pulled a minimum of 2 squares. This forced movement ignores stability for your allies.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="chimeric-manifestation/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Elementalist</div><h3 class="sc-prev__name">Chimeric Manifestation</h3></div><div class="sc-prev__tag">Level <span class="num">8</span></div></div><div class="sc-prev__flavor">Nature isn&#39;t static and unchanging, and neither are you. You can enter or exit your animal form as a free maneuver the first time you use your Disciple of the Green feature on your turn.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="perk/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Elementalist</div><h3 class="sc-prev__name">Perk</h3></div><div class="sc-prev__tag">Level <span class="num">8</span></div></div><div class="sc-prev__flavor">You gain one perk of your choice.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="summon-source-of-earth/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Elementalist</div><h3 class="sc-prev__name">Summon Source of Earth</h3></div><div class="sc-prev__tag">Level <span class="num">8</span></div></div><div class="sc-prev__flavor">You have the following ability.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants the Summon Source of Earth main action</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="the-flame-primordial/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Elementalist</div><h3 class="sc-prev__name">The Flame Primordial</h3></div><div class="sc-prev__tag">Level <span class="num">8</span></div></div><div class="sc-prev__flavor">You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your Return to Formlessness ability instead.</div></a>
 </div>

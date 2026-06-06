@@ -2,184 +2,55 @@
 
 ---
 
-<details class="browse-expand" markdown>
-<summary><a href="level-1/">Level 1</a></summary>
-
-<div class="browse-index" markdown>
-
-- [1st-Level Specialization Feature](level-1/1st-level-specialization-feature.md)
-- [A Beyonding of Vision](level-1/a-beyonding-of-vision.md)
-- [Earth: Acolyte of Earth](level-1/earth-acolyte-of-earth.md)
-- [Elemental Specialization](level-1/elemental-specialization.md)
-- [Elementalist Abilities](level-1/elementalist-abilities.md)
-- [Elementalist Ward](level-1/elementalist-ward.md)
-- [Enchantment of Battle](level-1/enchantment-of-battle.md)
-- [Enchantment of Celerity](level-1/enchantment-of-celerity.md)
-- [Enchantment of Destruction](level-1/enchantment-of-destruction.md)
-- [Enchantment of Distance](level-1/enchantment-of-distance.md)
-- [Enchantment of Permanence](level-1/enchantment-of-permanence.md)
-- [Enchantment](level-1/enchantment.md)
-- [Essence](level-1/essence.md)
-- [Fire: Acolyte of Fire](level-1/fire-acolyte-of-fire.md)
-- [Green: Acolyte of the Green](level-1/green-acolyte-of-the-green.md)
-- [Hurl Element](level-1/hurl-element.md)
-- [It Is the Soul Which Hears](level-1/it-is-the-soul-which-hears.md)
-- [Motivate Earth](level-1/motivate-earth.md)
-- [Persistent Magic](level-1/persistent-magic.md)
-- [Practical Magic](level-1/practical-magic.md)
-- [Return to Formlessness](level-1/return-to-formlessness.md)
-- [Specialization Triggered Action](level-1/specialization-triggered-action.md)
-- [Void: Acolyte of the Mystery](level-1/void-acolyte-of-the-mystery.md)
-- [Ward of Delightful Consequences](level-1/ward-of-delightful-consequences.md)
-- [Ward of Excellent Protection](level-1/ward-of-excellent-protection.md)
-- [Ward of Nature's Affection](level-1/ward-of-natures-affection.md)
-- [Ward of Surprising Reactivity](level-1/ward-of-surprising-reactivity.md)
-
+<div class="sc-folders">
+<a class="sc-folder" href="level-1/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 1</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">27</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-2/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 2</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">7</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-3/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 3</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">6</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-4/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 4</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">9</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-5/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 5</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">6</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-6/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 6</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">3</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-7/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 7</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">4</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-8/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 8</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">7</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-9/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 9</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">2</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-10/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 10</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">10</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
 </div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-2/">Level 2</a></summary>
-
-<div class="browse-index" markdown>
-
-- [2nd-Level Specialization Feature](level-2/2nd-level-specialization-feature.md)
-- [Disciple of Earth](level-2/disciple-of-earth.md)
-- [Disciple of Fire](level-2/disciple-of-fire.md)
-- [Disciple of the Green](level-2/disciple-of-the-green.md)
-- [New 5-Essence Ability](level-2/new-5-essence-ability.md)
-- [Perk](level-2/perk.md)
-- [There Is No Space Between](level-2/there-is-no-space-between.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-3/">Level 3</a></summary>
-
-<div class="browse-index" markdown>
-
-- [3rd-Level Specialization Feature](level-3/3rd-level-specialization-feature.md)
-- [7-Essence Ability](level-3/7-essence-ability.md)
-- [A Conversation With Fire](level-3/a-conversation-with-fire.md)
-- [Distance Is Only Memory](level-3/distance-is-only-memory.md)
-- [Earth Accepts Me](level-3/earth-accepts-me.md)
-- [Remember Growth and Sun and Rain](level-3/remember-growth-and-sun-and-rain.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-4/">Level 4</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Burning Grounds](level-4/burning-grounds.md)
-- [Characteristic Increase](level-4/characteristic-increase.md)
-- [Flowering Bed](level-4/flowering-bed.md)
-- [Font of Essence](level-4/font-of-essence.md)
-- [Mantle of Essence](level-4/mantle-of-essence.md)
-- [Perk](level-4/perk.md)
-- [Quaking Earth](level-4/quaking-earth.md)
-- [Skill](level-4/skill.md)
-- [Veiling Bed](level-4/veiling-bed.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-5/">Level 5</a></summary>
-
-<div class="browse-index" markdown>
-
-- [5th-Level Specialization Feature](level-5/5th-level-specialization-feature.md)
-- [9-Essence Ability](level-5/9-essence-ability.md)
-- [Hide of Tenfold Shields](level-5/hide-of-tenfold-shields.md)
-- [Pierce the Veil of Substance](level-5/pierce-the-veil-of-substance.md)
-- [Smoldering Step](level-5/smoldering-step.md)
-- [The Mountain Does Not Move](level-5/the-mountain-does-not-move.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-6/">Level 6</a></summary>
-
-<div class="browse-index" markdown>
-
-- [New 9-Essence Ability](level-6/new-9-essence-ability.md)
-- [Perk](level-6/perk.md)
-- [Wyrding](level-6/wyrding.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-7/">Level 7</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Characteristic Increase](level-7/characteristic-increase.md)
-- [Mantle of Quintessence](level-7/mantle-of-quintessence.md)
-- [Skill](level-7/skill.md)
-- [Surging Essence](level-7/surging-essence.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-8/">Level 8</a></summary>
-
-<div class="browse-index" markdown>
-
-- [8th-Level Specialization Feature](level-8/8th-level-specialization-feature.md)
-- [11-Essence Ability](level-8/11-essence-ability.md)
-- [Black Hole Star](level-8/black-hole-star.md)
-- [Chimeric Manifestation](level-8/chimeric-manifestation.md)
-- [Perk](level-8/perk.md)
-- [Summon Source of Earth](level-8/summon-source-of-earth.md)
-- [The Flame Primordial](level-8/the-flame-primordial.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-9/">Level 9</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Grand Wyrding](level-9/grand-wyrding.md)
-- [New 11-Essence Ability](level-9/new-11-essence-ability.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-10/">Level 10</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Breath](level-10/breath.md)
-- [Characteristic Increase](level-10/characteristic-increase.md)
-- [Essential Being](level-10/essential-being.md)
-- [Master of Earth](level-10/master-of-earth.md)
-- [Master of Fire](level-10/master-of-fire.md)
-- [Master of Green](level-10/master-of-green.md)
-- [Master of Void](level-10/master-of-void.md)
-- [One](level-10/one.md)
-- [Perk](level-10/perk.md)
-- [Skill](level-10/skill.md)
-
-</div>
-
-</details>
-

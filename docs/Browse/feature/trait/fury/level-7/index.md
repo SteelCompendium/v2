@@ -1,13 +1,11 @@
-# Level 7
+# Fury — Level 7
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Characteristic Increase](characteristic-increase.md)
-- [Elemental Form](elemental-form.md)
-- [Greater Ferocity](greater-ferocity.md)
-- [Growing Ferocity Improvement](growing-ferocity-improvement.md)
-- [Skill](skill.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="characteristic-increase/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Characteristic Increase</h3></div><div class="sc-prev__tag">Level <span class="num">7</span></div></div><div class="sc-prev__flavor">Each of your characteristic scores increases by 1, to a maximum of 4.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="elemental-form/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Elemental Form</h3></div><div class="sc-prev__tag">Level <span class="num">7</span></div></div><div class="sc-prev__flavor">You exhibit ever-stronger signs of how the force of the Primordial Chaos flows within you. Whenever you show strong emotion or increase your ferocity, elemental motes attuned to your mood flit around you, and your skin changes in appearance to reflect an element of your choice.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="greater-ferocity/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Greater Ferocity</h3></div><div class="sc-prev__tag">Level <span class="num">7</span></div></div><div class="sc-prev__flavor">When you gain ferocity at the start of each of your turns during combat, you gain 1d3 + 1 ferocity instead of 1d3.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="growing-ferocity-improvement/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Growing Ferocity Improvement</h3></div><div class="sc-prev__tag">Level <span class="num">7</span></div></div><div class="sc-prev__flavor">Your Growing Ferocity feature provides additional benefits when you have 10 or more ferocity.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="skill/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Skill</h3></div><div class="sc-prev__tag">Level <span class="num">7</span></div></div><div class="sc-prev__flavor">You gain one skill of your choice.</div></a>
 </div>

@@ -2,13 +2,11 @@
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Animal Form: Crow](animal-form-crow.md)
-- [Aspect Benefits](aspect-benefits.md)
-- [Growing Ferocity](growing-ferocity.md)
-- [Hybrid Form: Crow](hybrid-form-crow.md)
-- [Kit Bonuses](kit-bonuses.md)
-- [Primordial Storm: Anabatic Wind](primordial-storm-anabatic-wind.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="animal-form-crow/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Animal Form: Crow</h3></div></div><div class="sc-prev__flavor">While you are in your crow form, your size is 1T and you can fly. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can&#39;t use any abilities while in this form except for Aspect of the Wild.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="aspect-benefits/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Aspect Benefits</h3></div></div><div class="sc-prev__flavor">You gain an edge on tests made to hide and sneak. Additionally, whenever you fall, you can use a free triggered action to use your Aspect of the Wild ability.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="growing-ferocity/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Growing Ferocity</h3></div></div><div class="sc-prev__flavor">As your ferocity grows, you gain benefits as noted on the Corven Growing Ferocity table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="hybrid-form-crow/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Hybrid Form: Crow</h3></div></div><div class="sc-prev__flavor">While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can fly.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="kit-bonuses/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Kit Bonuses</h3></div></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="primordial-storm-anabatic-wind/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Primordial Storm: Anabatic Wind</h3></div></div><div class="sc-prev__flavor">Your primordial damage type is fire.</div></a>
 </div>

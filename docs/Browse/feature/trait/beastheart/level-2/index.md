@@ -1,16 +1,14 @@
-# Level 2
+# Beastheart — Level 2
 
 ---
 
-<div class="browse-index" markdown>
-
-- [2nd-Level Wild Nature Ability](2nd-level-wild-nature-ability.md)
-- [2nd-Level Wild Nature Feature](2nd-level-wild-nature-feature.md)
-- [Everyone's Best Friend](everyones-best-friend.md)
-- [Perk](perk.md)
-- [Stormheart](stormheart.md)
-- [Supersniffer](supersniffer.md)
-- [This One's Yours](this-ones-yours.md)
-- [Watchdog](watchdog.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="2nd-level-wild-nature-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">2nd-Level Wild Nature Ability</h3></div><div class="sc-prev__tag">Level <span class="num">2</span></div></div><div class="sc-prev__flavor">Choose one of the following abilities.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 8 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="2nd-level-wild-nature-feature/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">2nd-Level Wild Nature Feature</h3></div><div class="sc-prev__tag">Level <span class="num">2</span></div></div><div class="sc-prev__flavor">Your wild nature grants you a feature, as shown on the 2nd-Level Wild Nature Features table.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="everyones-best-friend/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Everyone&#39;s Best Friend</h3></div><div class="sc-prev__tag">Level <span class="num">2</span></div></div><div class="sc-prev__flavor">Your companion may not be much of a talker, but they&#39;ve got a lifetime of experience surviving the dangers of the wild. They can offer aid in nearly any circumstance: helping exhausted travelers find their way, leading panicked villagers out of a burning building, or even providing a comforting nuzzle at just the right time. Once per round during a montage test, when you or another character makes a test, your companion can increase the tier outcome by one tier (to a maximum of tier 3).</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="perk/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Perk</h3></div><div class="sc-prev__tag">Level <span class="num">2</span></div></div><div class="sc-prev__flavor">You gain one exploration, interpersonal, or intrigue perk of your choice.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="stormheart/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Stormheart</h3></div><div class="sc-prev__tag">Level <span class="num">2</span></div></div><div class="sc-prev__flavor">Whenever you or your companion deals cold, fire, lightning, sonic, or untyped damage, you can change the damage type to cold, fire, lightning, or sonic damage.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="supersniffer/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Supersniffer</h3></div><div class="sc-prev__tag">Level <span class="num">2</span></div></div><div class="sc-prev__flavor">While a creature is adjacent to your companion, that creature can&#39;t be hidden or have concealment from your companion.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="this-ones-yours/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">This One&#39;s Yours</h3></div><div class="sc-prev__tag">Level <span class="num">2</span></div></div><div class="sc-prev__flavor">Once per turn, you or your companion can use the following free triggered action.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants the This One&#39;s Yours main action</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="watchdog/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Beastheart</div><h3 class="sc-prev__name">Watchdog</h3></div><div class="sc-prev__tag">Level <span class="num">2</span></div></div><div class="sc-prev__flavor">You and your companion can&#39;t be surprised.</div></a>
 </div>

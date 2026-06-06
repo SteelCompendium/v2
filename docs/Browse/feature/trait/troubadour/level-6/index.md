@@ -1,11 +1,9 @@
-# Level 6
+# Troubadour — Level 6
 
 ---
 
-<div class="browse-index" markdown>
-
-- [6th-Level Class Act Ability](6th-level-class-act-ability.md)
-- [Perk](perk.md)
-- [Spotlight](spotlight.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="6th-level-class-act-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">6th-Level Class Act Ability</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">Choose one of the following abilities.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 6 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="perk/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Perk</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">You gain one interpersonal, lore, or supernatural perk of your choice.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="none" href="spotlight/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Spotlight</h3></div><div class="sc-prev__tag">Level <span class="num">6</span></div></div><div class="sc-prev__flavor">You have the following performance ability, which is usable with your Routines feature.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants the Spotlight no action</span></div></a>
 </div>

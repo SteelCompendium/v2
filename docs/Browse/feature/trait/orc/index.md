@@ -2,14 +2,12 @@
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Bloodfire Rush](bloodfire-rush.md)
-- [Glowing Recovery](glowing-recovery.md)
-- [Grounded](grounded.md)
-- [Nonstop](nonstop.md)
-- [Orc Traits](orc-traits.md)
-- [Passionate Artisan](passionate-artisan.md)
-- [Signature Trait: Relentless](relentless.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="bloodfire-rush/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Orc</div><h3 class="sc-prev__name">Bloodfire Rush</h3></div></div><div class="sc-prev__flavor">The magic coursing through your veins makes you run faster in the heat of battle. The first time in any combat round that you take damage, you gain a +2 bonus to speed until the end of the round.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="glowing-recovery/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Orc</div><h3 class="sc-prev__name">Glowing Recovery</h3></div></div><div class="sc-prev__flavor">Your bloodfire allows you to regain your strength quicker than others. Whenever you use the Catch Breath maneuver, you can spend as many Recoveries as you like.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="grounded/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Orc</div><h3 class="sc-prev__name">Grounded</h3></div></div><div class="sc-prev__flavor">The magic in your blood makes it difficult for others to move you. You have a +1 bonus to stability.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="nonstop/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Orc</div><h3 class="sc-prev__name">Nonstop</h3></div></div><div class="sc-prev__flavor">Your bloodfire supplies you with a constant rush of adrenaline. You can&#39;t be made slowed.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="orc-traits/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Orc</div><h3 class="sc-prev__name">Orc Traits</h3></div></div><div class="sc-prev__flavor">Orc heroes have access to the following traits.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="passionate-artisan/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Orc</div><h3 class="sc-prev__name">Passionate Artisan</h3></div></div><div class="sc-prev__flavor">When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the crafting skill group, whether you have those skills or not. Whenever you make a project roll for a crafting project that uses these skills, you gain a +2 bonus to the roll.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="relentless/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Orc</div><h3 class="sc-prev__name">Signature Trait: Relentless</h3></div></div><div class="sc-prev__flavor">Whenever a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.</div></a>
 </div>

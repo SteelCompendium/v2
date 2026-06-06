@@ -1,13 +1,11 @@
-# Level 3
+# Fury — Level 3
 
 ---
 
-<div class="browse-index" markdown>
-
-- [3rd-Level Aspect Feature](3rd-level-aspect-feature.md)
-- [7-Ferocity Ability](7-ferocity-ability.md)
-- [Immovable Object](immovable-object.md)
-- [Nature's Knight](natures-knight.md)
-- [See Through Their Tricks](see-through-their-tricks.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="3rd-level-aspect-feature/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">3rd-Level Aspect Feature</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">Your primordial aspect grants you a feature, as shown on the 3rd-Level Aspect Features table.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="maneuver" href="7-ferocity-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">7-Ferocity Ability</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">Choose one heroic ability from the following options, each of which costs 7 ferocity to use.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 4 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="immovable-object/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Immovable Object</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on whether you can be grabbed.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="natures-knight/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">Nature&#39;s Knight</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="see-through-their-tricks/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Fury</div><h3 class="sc-prev__name">See Through Their Tricks</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">You have a double edge on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double edge on tests made to gamble!</div></a>
 </div>

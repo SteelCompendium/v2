@@ -2,14 +2,12 @@
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Beyondsight](beyondsight.md)
-- [Foresight](foresight.md)
-- [Four-Armed Athletics](four-armed-athletics.md)
-- [Four-Armed Martial Arts](four-armed-martial-arts.md)
-- [Psionic Gift](psionic-gift.md)
-- [Signature Trait: Psychic Scar](psychic-scar.md)
-- [Time Raider Traits](time-raider-traits.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="beyondsight/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Time Raider</div><h3 class="sc-prev__name">Beyondsight</h3></div></div><div class="sc-prev__flavor">As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can&#39;t see the area within 1 square of you and you don&#39;t have line of effect to any creature or object in that area. You can restore your usual vision as a maneuver.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="foresight/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Time Raider</div><h3 class="sc-prev__name">Foresight</h3></div></div><div class="sc-prev__flavor">Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with concealment who isn&#39;t hidden from you within 20, and you negate the usual bane on strikes against such creatures. Additionally, whenever you are targeted by a strike, you can use a triggered action to impose a bane on the power roll.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="four-armed-athletics/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Time Raider</div><h3 class="sc-prev__name">Four-Armed Athletics</h3></div></div><div class="sc-prev__flavor">Your unique physiology enhances your movement. You gain an edge on tests that use the Climb, Gymnastics, or Swim skills when you can use all your arms in the attempt.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="four-armed-martial-arts/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Time Raider</div><h3 class="sc-prev__name">Four-Armed Martial Arts</h3></div></div><div class="sc-prev__flavor">Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures grabbed at a time.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="psionic-gift/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Time Raider</div><h3 class="sc-prev__name">Psionic Gift</h3></div></div><div class="sc-prev__flavor">Choose one signature ability from the following options. Signature abilities can be used at will.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 3 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="psychic-scar/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Time Raider</div><h3 class="sc-prev__name">Signature Trait: Psychic Scar</h3></div></div><div class="sc-prev__flavor">Your mind is a formidable layer of defense. You have psychic immunity equal to your level.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="time-raider-traits/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Time Raider</div><h3 class="sc-prev__name">Time Raider Traits</h3></div></div><div class="sc-prev__flavor">Time raider heroes have access to the following traits.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 3 abilities</span></div></a>
 </div>

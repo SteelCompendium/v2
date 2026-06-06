@@ -1,13 +1,11 @@
-# Level 3
+# Troubadour — Level 3
 
 ---
 
-<div class="browse-index" markdown>
-
-- [3rd-Level Class Act Feature](3rd-level-class-act-feature.md)
-- [7-Drama Ability](7-drama-ability.md)
-- [Foil](foil.md)
-- [Missed Cue](missed-cue.md)
-- [Second Album](second-album.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="none" href="3rd-level-class-act-feature/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">3rd-Level Class Act Feature</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">You have the following performance abilities, which are usable with your Routines feature.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 2 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="maneuver" href="7-drama-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">7-Drama Ability</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">Choose one heroic ability from the following options, each of which costs 7 drama to use.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 4 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="foil/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Foil</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new foil at the start of the next combat round.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="missed-cue/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Missed Cue</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">If you aren&#39;t surprised at the start of an encounter, you can choose one enemy within your line of effect who is not a leader or solo creature. The Director temporarily removes the chosen creature from the encounter. The chosen creature enters the encounter at the start of the second combat round. You must earn 3 Victories before you can use this feature again.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="none" href="second-album/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Second Album</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">You have the following performance abilities, which are usable with your Routines feature.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 2 abilities</span></div></a>
 </div>

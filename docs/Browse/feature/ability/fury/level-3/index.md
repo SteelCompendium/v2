@@ -1,12 +1,10 @@
-# Level 3
+# Fury — Level 3
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Demon Unleashed](demon-unleashed.md)
-- [Face the Storm!](face-the-storm.md)
-- [Steelbreaker](steelbreaker.md)
-- [You Are Already Dead](you-are-already-dead.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--ability sc-fil" data-action="maneuver" href="demon-unleashed/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">f</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Maneuver</div><h3 class="sc-prev__name">Demon Unleashed</h3></div><div class="sc-prev__tag"><span class="num">7</span> Ferocity</div></div><div class="sc-prev__flavor">Foes tremble at the sight of you.</div><div class="sc-prev__kw"><span class="sc-prev__chip">Magic</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v">Self</span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">Self</span></span></div></a>
+<a class="sc-prev sc-prev--ability sc-fil" data-action="maneuver" href="face-the-storm/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">f</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Maneuver</div><h3 class="sc-prev__name">Face the Storm!</h3></div><div class="sc-prev__tag"><span class="num">7</span> Ferocity</div></div><div class="sc-prev__flavor">Shocked in the face of your naked brutality, your enemy&#39;s instincts take over.</div><div class="sc-prev__kw"><span class="sc-prev__chip">Magic</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v">Self</span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">Self</span></span></div></a>
+<a class="sc-prev sc-prev--ability sc-fil" data-action="maneuver" href="steelbreaker/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">f</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Maneuver</div><h3 class="sc-prev__name">Steelbreaker</h3></div><div class="sc-prev__tag"><span class="num">7</span> Ferocity</div></div><div class="sc-prev__flavor">See how useless their weapons are!</div><div class="sc-prev__kw"><span class="sc-prev__chip">Magic</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v">Self</span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">Self</span></span></div></a>
+<a class="sc-prev sc-prev--ability sc-fil" data-action="main" href="you-are-already-dead/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">l</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Main Action</div><h3 class="sc-prev__name">You Are Already Dead</h3></div><div class="sc-prev__tag"><span class="num">7</span> Ferocity</div></div><div class="sc-prev__flavor">Slash. Walk away.</div><div class="sc-prev__kw"><span class="sc-prev__chip">Melee</span><span class="sc-prev__chip">Strike</span><span class="sc-prev__chip">Weapon</span></div><div class="sc-prev__foot"><span class="sc-prev__meta"><span class="l">distance</span><span class="v">Melee <b>1</b></span></span><span class="sc-prev__meta"><span class="l">targets</span><span class="v">One creature</span></span></div></a>
 </div>

@@ -2,41 +2,15 @@
 
 ---
 
-<details class="browse-expand" markdown>
-<summary><a href="consumable/">Consumable</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Breath of Dawn](consumable/breath-of-dawn.md)
-- [Bull Shot](consumable/bull-shot.md)
-- [Chocolate of Immovability](consumable/chocolate-of-immovability.md)
-- [Concealment Potion](consumable/concealment-potion.md)
-- [Float Powder](consumable/float-powder.md)
-- [Purified Jelly](consumable/purified-jelly.md)
-- [Scroll of Resurrection](consumable/scroll-of-resurrection.md)
-- [Telemagnet](consumable/telemagnet.md)
-- [Vial of Ethereal Attack](consumable/vial-of-ethereal-attack.md)
-
+<div class="sc-folders sc-folders--lg">
+<a class="sc-folder" href="consumable/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5,4H19A3,3 0 0,1 22,7V11H15V10H9V11H2V7A3,3 0 0,1 5,4M11,11H13V13H11V11M2,12H9V13L11,15H13L15,13V12H22V20H2V12Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Consumable</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">9</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="trinket/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M5,4H19A3,3 0 0,1 22,7V11H15V10H9V11H2V7A3,3 0 0,1 5,4M11,11H13V13H11V11M2,12H9V13L11,15H13L15,13V12H22V20H2V12Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Trinket</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">9</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
 </div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="trinket/">Trinket</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Bastion Belt](trinket/bastion-belt.md)
-- [Evilest Eye](trinket/evilest-eye.md)
-- [Insightful Crown](trinket/insightful-crown.md)
-- [Key of Inquiry](trinket/key-of-inquiry.md)
-- [Mediator's Charm](trinket/mediators-charm.md)
-- [Necklace of the Bayou](trinket/necklace-of-the-bayou.md)
-- [Scannerstone](trinket/scannerstone.md)
-- [Stop-'n-Go Coin](trinket/stop-n-go-coin.md)
-- [Werewolf Tooth Pendant](trinket/werewolf-tooth-pendant.md)
-
-</div>
-
-</details>
-

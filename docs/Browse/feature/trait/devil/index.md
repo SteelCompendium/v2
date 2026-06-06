@@ -2,16 +2,14 @@
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Barbed Tail](barbed-tail.md)
-- [Beast Legs](beast-legs.md)
-- [Devil Traits](devil-traits.md)
-- [Glowing Eyes](glowing-eyes.md)
-- [Hellsight](hellsight.md)
-- [Impressive Horns](impressive-horns.md)
-- [Prehensile Tail](prehensile-tail.md)
-- [Signature Trait: Silver Tongue](silver-tongue.md)
-- [Wings](wings.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="barbed-tail/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Devil</div><h3 class="sc-prev__name">Barbed Tail</h3></div></div><div class="sc-prev__flavor">Your pointy tail allows you to punctuate all your actions. Once per round when you make a melee strike, you can deal extra damage with the strike equal to your highest characteristic score.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="beast-legs/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Devil</div><h3 class="sc-prev__name">Beast Legs</h3></div></div><div class="sc-prev__flavor">Your powerful legs make you faster. You have speed 6.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="devil-traits/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Devil</div><h3 class="sc-prev__name">Devil Traits</h3></div></div><div class="sc-prev__flavor">Devil heroes have access to the following traits.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="glowing-eyes/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Devil</div><h3 class="sc-prev__name">Glowing Eyes</h3></div></div><div class="sc-prev__flavor">Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to deal that creature psychic damage equal to 1d10 + your level.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="hellsight/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Devil</div><h3 class="sc-prev__name">Hellsight</h3></div></div><div class="sc-prev__flavor">Your eyes let you see through darkness, fog, and other obscuring effects. You don&#39;t take a bane on strikes made against creatures with concealment.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="impressive-horns/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Devil</div><h3 class="sc-prev__name">Impressive Horns</h3></div></div><div class="sc-prev__flavor">Your cherished horns are larger than the average devil&#39;s, and a hardened representation of your force of will. Whenever you make a saving throw, you succeed on a roll of 5 or higher.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="prehensile-tail/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Devil</div><h3 class="sc-prev__name">Prehensile Tail</h3></div></div><div class="sc-prev__flavor">Your prehensile tail allows you to challenge foes on all sides. You can&#39;t be flanked.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="silver-tongue/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Devil</div><h3 class="sc-prev__name">Signature Trait: Silver Tongue</h3></div></div><div class="sc-prev__flavor">Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: Tests), and you gain an edge on tests when attempting to discover an NPC&#39;s motivations and pitfalls during a negotiation (see Chapter 11: Negotiation).</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="wings/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Devil</div><h3 class="sc-prev__name">Wings</h3></div></div><div class="sc-prev__flavor">You possess wings powerful enough to take you airborne. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to fly at 3rd level or lower, you have damage weakness 5.</div></a>
 </div>

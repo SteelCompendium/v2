@@ -1,13 +1,11 @@
-# Level 5
+# Troubadour — Level 5
 
 ---
 
-<div class="browse-index" markdown>
-
-- [5th-Level Class Act Feature](5th-level-class-act-feature.md)
-- [9-Drama Ability](9-drama-ability.md)
-- [Auteur Features](auteur-features.md)
-- [Duelist Features](duelist-features.md)
-- [Virtuoso Features](virtuoso-features.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="none" href="5th-level-class-act-feature/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">5th-Level Class Act Feature</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your Dramatic Monologue ability. Choose one of the following conditions on the target: bleeding, frightened, prone, slowed, or taunted. You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 2 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="main" href="9-drama-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">9-Drama Ability</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">Choose one heroic ability from the following options, each of which costs 9 drama to use.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 4 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="none" href="auteur-features/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Auteur Features</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your Dramatic Monologue ability. Choose one of the following conditions on the target: bleeding, frightened, prone, slowed, or taunted. You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants the Take Two! no action</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="none" href="duelist-features/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Duelist Features</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">You have the following performance ability, which is usable with your Routines feature.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants the We Can&#39;t Be Upstaged! no action</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="virtuoso-features/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Virtuoso Features</h3></div><div class="sc-prev__tag">Level <span class="num">5</span></div></div><div class="sc-prev__flavor">Choose one of the following features.</div></a>
 </div>

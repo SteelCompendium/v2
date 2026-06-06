@@ -1,11 +1,9 @@
-# Level 9
+# Conduit — Level 9
 
 ---
 
-<div class="browse-index" markdown>
-
-- [9th-Level Domain Ability](9th-level-domain-ability.md)
-- [Faith's Sword](faiths-sword.md)
-- [Ordained](ordained.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="maneuver" href="9th-level-domain-ability/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Conduit</div><h3 class="sc-prev__name">9th-Level Domain Ability</h3></div><div class="sc-prev__tag">Level <span class="num">9</span></div></div><div class="sc-prev__flavor">Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level Conduit Domain Abilities table.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>Grants 12 abilities</span></div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="faiths-sword/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Conduit</div><h3 class="sc-prev__name">Faith&#39;s Sword</h3></div><div class="sc-prev__tag">Level <span class="num">9</span></div></div><div class="sc-prev__flavor">Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your Burgeoning Saint feature until you finish another respite. Additionally, you can spend piety as a free maneuver to give the hero 1 of their Heroic Resource for every 2 piety spent.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="ordained/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Conduit</div><h3 class="sc-prev__name">Ordained</h3></div><div class="sc-prev__tag">Level <span class="num">9</span></div></div><div class="sc-prev__flavor">Your god elevates the power flowing through you. Your characteristic scores are treated as 1 higher for the purpose of resisting potencies. Additionally, while you have 5 or more Victories, you speak with the voice of your deity. You have a double edge on Presence tests made to influence other creatures.</div></a>
 </div>

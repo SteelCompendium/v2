@@ -2,181 +2,55 @@
 
 ---
 
-<details class="browse-expand" markdown>
-<summary><a href="level-1/">Level 1</a></summary>
-
-<div class="browse-index" markdown>
-
-- [1st-Level Tradition Features](level-1/1st-level-tradition-features.md)
-- [Accelerate](level-1/accelerate.md)
-- [Again](level-1/again.md)
-- [Battle Augmentation](level-1/battle-augmentation.md)
-- [Clarity and Strain](level-1/clarity-and-strain.md)
-- [Density Augmentation](level-1/density-augmentation.md)
-- [Distance Augmentation](level-1/distance-augmentation.md)
-- [Entropy Ward](level-1/entropy-ward.md)
-- [Feedback Loop](level-1/feedback-loop.md)
-- [Force Augmentation](level-1/force-augmentation.md)
-- [Mind Spike](level-1/mind-spike.md)
-- [Minor Telekinesis](level-1/minor-telekinesis.md)
-- [Psionic Augmentation](level-1/psionic-augmentation.md)
-- [Remote Assistance](level-1/remote-assistance.md)
-- [Repel](level-1/repel.md)
-- [Repulsive Ward](level-1/repulsive-ward.md)
-- [Speed Augmentation](level-1/speed-augmentation.md)
-- [Steel Ward](level-1/steel-ward.md)
-- [Talent Abilities](level-1/talent-abilities.md)
-- [Talent Tradition](level-1/talent-tradition.md)
-- [Talent Ward](level-1/talent-ward.md)
-- [Telepathic Speech](level-1/telepathic-speech.md)
-- [Vanishing Ward](level-1/vanishing-ward.md)
-
+<div class="sc-folders">
+<a class="sc-folder" href="level-1/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 1</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">23</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-2/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 2</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">6</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-3/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 3</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">2</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-4/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 4</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">6</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-5/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 5</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">8</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-6/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 6</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">10</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-7/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 7</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">5</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-8/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 8</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">9</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-9/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 9</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">2</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
+<a class="sc-folder" href="level-10/">
+  <span class="sc-crest sc-folder__crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M17.8,20C17.4,21.2 16.3,22 15,22H5C3.3,22 2,20.7 2,19V18H5L14.2,18C14.6,19.2 15.7,20 17,20H17.8M19,2C20.7,2 22,3.3 22,5V6H20V5C20,4.4 19.6,4 19,4C18.4,4 18,4.4 18,5V18H17C16.4,18 16,17.6 16,17V16H5V5C5,3.3 6.3,2 8,2H19M8,6V8H15V6H8M8,10V12H14V10H8Z"/></svg></span></span>
+  <div class="sc-folder__main"><h3 class="sc-folder__name">Level 10</h3></div>
+  <div class="sc-folder__meta"><span class="sc-folder__count">7</span><span class="sc-folder__chev"><svg viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></svg></span></div>
+</a>
 </div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-2/">Level 2</a></summary>
-
-<div class="browse-index" markdown>
-
-- [2nd-Level Tradition Ability](level-2/2nd-level-tradition-ability.md)
-- [2nd-Level Tradition Feature](level-2/2nd-level-tradition-feature.md)
-- [Ease the Hours](level-2/ease-the-hours.md)
-- [Ease the Mind](level-2/ease-the-mind.md)
-- [Ease Their Fall](level-2/ease-their-fall.md)
-- [Perk](level-2/perk.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-3/">Level 3</a></summary>
-
-<div class="browse-index" markdown>
-
-- [7-Clarity Ability](level-3/7-clarity-ability.md)
-- [Scan](level-3/scan.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-4/">Level 4</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Characteristic Increase](level-4/characteristic-increase.md)
-- [Mind Projection](level-4/mind-projection.md)
-- [Mind Recovery](level-4/mind-recovery.md)
-- [Perk](level-4/perk.md)
-- [Skill](level-4/skill.md)
-- [Suspensor Field](level-4/suspensor-field.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-5/">Level 5</a></summary>
-
-<div class="browse-index" markdown>
-
-- [5th-Level Tradition Features](level-5/5th-level-tradition-features.md)
-- [9-Clarity Ability](level-5/9-clarity-ability.md)
-- [Compulsion](level-5/compulsion.md)
-- [Distortion Temporal](level-5/distortion-temporal.md)
-- [Kinetic Amplifier](level-5/kinetic-amplifier.md)
-- [Remote Amplification](level-5/remote-amplification.md)
-- [Speed of Thought](level-5/speed-of-thought.md)
-- [Triangulate](level-5/triangulate.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-6/">Level 6</a></summary>
-
-<div class="browse-index" markdown>
-
-- [6th-Level Tradition Ability](level-6/6th-level-tradition-ability.md)
-- [Dynamic Power](level-6/dynamic-power.md)
-- [Expanded Power](level-6/expanded-power.md)
-- [Extended Power](level-6/extended-power.md)
-- [Heightened Power](level-6/heightened-power.md)
-- [Magnified Power](level-6/magnified-power.md)
-- [Perk](level-6/perk.md)
-- [Psi Boost](level-6/psi-boost.md)
-- [Shared Power](level-6/shared-power.md)
-- [Sharpened Power](level-6/sharpened-power.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-7/">Level 7</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Ancestral Memory](level-7/ancestral-memory.md)
-- [Cascading Strain](level-7/cascading-strain.md)
-- [Characteristic Increase](level-7/characteristic-increase.md)
-- [Lucid Mind](level-7/lucid-mind.md)
-- [Skill](level-7/skill.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-8/">Level 8</a></summary>
-
-<div class="browse-index" markdown>
-
-- [8th-Level Tradition Features](level-8/8th-level-tradition-features.md)
-- [11-Clarity Ability](level-8/11-clarity-ability.md)
-- [Doubling the Hours](level-8/doubling-the-hours.md)
-- [Levitation Field](level-8/levitation-field.md)
-- [Low Gravity](level-8/low-gravity.md)
-- [Mindlink](level-8/mindlink.md)
-- [Perk](level-8/perk.md)
-- [Stasis Shield](level-8/stasis-shield.md)
-- [Universal Connection](level-8/universal-connection.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-9/">Level 9</a></summary>
-
-<div class="browse-index" markdown>
-
-- [9th-Level Tradition Ability](level-9/9th-level-tradition-ability.md)
-- [Fortress of Perfect Thought](level-9/fortress-of-perfect-thought.md)
-
-</div>
-
-</details>
-
-<details class="browse-expand" markdown>
-<summary><a href="level-10/">Level 10</a></summary>
-
-<div class="browse-index" markdown>
-
-- [Characteristic Increase](level-10/characteristic-increase.md)
-- [Clear Mind](level-10/clear-mind.md)
-- [Omnisensory](level-10/omnisensory.md)
-- [Perk](level-10/perk.md)
-- [Psion](level-10/psion.md)
-- [Skill](level-10/skill.md)
-- [Vision](level-10/vision.md)
-
-</div>
-
-</details>
-

@@ -1,16 +1,14 @@
-# Level 4
+# Troubadour — Level 4
 
 ---
 
-<div class="browse-index" markdown>
-
-- [Characteristic Increase](characteristic-increase.md)
-- [Foreshadowing](foreshadowing.md)
-- [Hear Ye, Hear Ye!](hear-ye-hear-ye.md)
-- [Latest Goss](latest-goss.md)
-- [Melodrama](melodrama.md)
-- [Perk](perk.md)
-- [Skill](skill.md)
-- [Zeitgeist](zeitgeist.md)
-
+<div class="sc-prevs">
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="characteristic-increase/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Characteristic Increase</h3></div><div class="sc-prev__tag">Level <span class="num">4</span></div></div><div class="sc-prev__flavor">Your Agility and Presence scores each increase to 3.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="foreshadowing/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Foreshadowing</h3></div><div class="sc-prev__tag">Level <span class="num">4</span></div></div><div class="sc-prev__flavor">You can ask the Director for two clues regarding an upcoming encounter or negotiation. One of the clues can be false.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="hear-ye-hear-ye/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Hear Ye, Hear Ye!</h3></div><div class="sc-prev__tag">Level <span class="num">4</span></div></div><div class="sc-prev__flavor">By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a Presence test:</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="latest-goss/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Latest Goss</h3></div><div class="sc-prev__tag">Level <span class="num">4</span></div></div><div class="sc-prev__flavor">You can ask the Director for three rumors regarding the area you&#39;re in or an area you plan on entering before your next respite. One of the rumors can be false.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="melodrama/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Melodrama</h3></div><div class="sc-prev__tag">Level <span class="num">4</span></div></div><div class="sc-prev__flavor">You have more ways of getting the most drama out of a situation. Choose two of the following events to add to the events that grant you drama during battle:</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="perk/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Perk</h3></div><div class="sc-prev__tag">Level <span class="num">4</span></div></div><div class="sc-prev__flavor">You gain one perk of your choice.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="skill/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Skill</h3></div><div class="sc-prev__tag">Level <span class="num">4</span></div></div><div class="sc-prev__flavor">You gain one skill of your choice. See Skills in Chapter 9: Tests.</div></a>
+<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="zeitgeist/"><div class="sc-prev__head"><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Troubadour</div><h3 class="sc-prev__name">Zeitgeist</h3></div><div class="sc-prev__tag">Level <span class="num">4</span></div></div><div class="sc-prev__flavor">By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a Presence test:</div></a>
 </div>
