@@ -106,6 +106,7 @@ extra_css:
   - stylesheets/mobile.css
   - stylesheets/print.css
   - stylesheets/steel-redesign.css
+  - stylesheets/steel-settings.css
   - stylesheets/steel-ability-cards.css
   - stylesheets/steel-traits.css
   - stylesheets/steel-indexes.css
@@ -118,7 +119,8 @@ extra_javascript:
   # produce the markup are still configured in markdown_extensions above).
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
-  - javascripts/preferences.js
+  - javascripts/settings-core.js
+  - javascripts/settings-panel.js
   - javascripts/ability-cards.js
   - javascripts/steel-ability-cards.js
   - javascripts/steel-traits.js
