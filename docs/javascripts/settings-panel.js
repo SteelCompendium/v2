@@ -20,6 +20,7 @@
   };
   var WIDTH_VAR = "--md-max_width";
   var SCALE_VAR = "--sc-content-scale";
+  var CARD_SCALE_VAR = "--sc-card-scale";
 
   var FONT_OPTIONS = {
     large: [
@@ -71,6 +72,12 @@
     if (n === C.SCALE_DEFAULT) r.removeProperty(SCALE_VAR);
     else r.setProperty(SCALE_VAR, String(n));
   }
+  function applyCardScale(scale) {
+    var r = document.documentElement.style;
+    var n = C.clampCardScale(scale);
+    if (n === C.CARD_DEFAULT) r.removeProperty(CARD_SCALE_VAR);
+    else r.setProperty(CARD_SCALE_VAR, String(n));
+  }
   function applyCompact(on) {
     document.documentElement.setAttribute("data-compact", on ? "true" : "false");
   }
@@ -86,6 +93,7 @@
     applyFonts(prefs);
     applyWidth(prefs.width);
     applyContentScale(prefs.contentScale);
+    applyCardScale(prefs.cardScale);
     applyCompact(!!prefs.compact);
     applySiteTheme(prefs.siteTheme);
     applyCardStyle(prefs.cardStyle);
@@ -156,6 +164,14 @@
               '<span class="sc-set__value" id="set-scale-val">100%</span>' +
             '</div>' +
             '<span class="sc-set__hint">Scales body text, headings, and tables.</span>' +
+          '</div>' +
+          '<div class="sc-set__row">' +
+            '<label class="sc-set__label" for="set-card-scale">Card size</label>' +
+            '<div class="sc-set__sliderwrap">' +
+              '<input class="sc-set__range" id="set-card-scale" type="range">' +
+              '<span class="sc-set__value" id="set-card-scale-val">100%</span>' +
+            '</div>' +
+            '<span class="sc-set__hint">Scales ability &amp; trait cards and everything inside them.</span>' +
           '</div>' +
           '<div class="sc-set__row">' +
             '<label class="sc-set__toggle">' +
@@ -292,6 +308,28 @@
       persist();
     });
 
+    // Card size slider
+    var cardScale = drawer.querySelector("#set-card-scale");
+    var cardScaleVal = drawer.querySelector("#set-card-scale-val");
+    cardScale.min = String(C.CARD_MIN);
+    cardScale.max = String(C.CARD_MAX);
+    cardScale.step = String(C.CARD_STEP);
+    var curCard = C.clampCardScale(prefs.cardScale);
+    cardScale.value = String(curCard);
+    cardScaleVal.textContent = Math.round(curCard * 100) + "%";
+    cardScale.addEventListener("input", function () {
+      var n = C.clampCardScale(cardScale.value);
+      cardScaleVal.textContent = Math.round(n * 100) + "%";
+      applyCardScale(n);
+    });
+    cardScale.addEventListener("change", function () {
+      var n = C.clampCardScale(cardScale.value);
+      if (n === C.CARD_DEFAULT) delete prefs.cardScale;
+      else prefs.cardScale = n;
+      applyCardScale(n);
+      persist();
+    });
+
     // Compact
     var compact = drawer.querySelector("#set-compact");
     compact.checked = !!prefs.compact;
@@ -355,6 +393,8 @@
       themeSel.value = "steel";
       scale.value = String(C.SCALE_DEFAULT);
       scaleVal.textContent = "100%";
+      cardScale.value = String(C.CARD_DEFAULT);
+      cardScaleVal.textContent = "100%";
       compact.checked = false;
       card.value = "classic";
       syncWidthUI(C.widthToControls(undefined));

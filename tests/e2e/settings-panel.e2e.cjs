@@ -107,6 +107,50 @@ function check(name, cond, detail) {
 
   await page.keyboard.press("Escape");
   check("Esc closes drawer", await page.evaluate(() => document.documentElement.getAttribute("data-sc-settings") === null));
+
+  // ---- Card size (zoom) on a standalone ability page ----
+  await page.goto(BASE + "Browse/feature/ability/dragon-knight/dragon-breath/", { waitUntil: "networkidle" });
+  const before = await page.evaluate(() => {
+    const c = document.querySelector(".md-typeset .sc-ability");
+    const p = c.querySelector("p");
+    // zoom applies at the render layer, so getComputedStyle().fontSize stays
+    // unchanged — measure the rendered rect height instead.
+    return { h: c.getBoundingClientRect().height, p: p ? p.getBoundingClientRect().height : 0 };
+  });
+  await page.click("#sc-settings-toggle");
+  const cardRes = await page.evaluate(() => {
+    const s = document.getElementById("set-card-scale");
+    s.value = "0.7"; s.dispatchEvent(new Event("input", { bubbles: true })); s.dispatchEvent(new Event("change", { bubbles: true }));
+    return { cssVar: getComputedStyle(document.documentElement).getPropertyValue("--sc-card-scale").trim(),
+             stored: JSON.parse(localStorage.getItem("mkdocs:fontPrefs")).cardScale,
+             label: document.getElementById("set-card-scale-val").textContent };
+  });
+  check("card: css var = 0.7", cardRes.cssVar === "0.7", cardRes.cssVar);
+  check("card: stored = 0.7", cardRes.stored === 0.7, String(cardRes.stored));
+  check("card: label = 70%", cardRes.label === "70%", cardRes.label);
+  const after = await page.evaluate(() => {
+    const c = document.querySelector(".md-typeset .sc-ability");
+    const p = c.querySelector("p");
+    return { h: c.getBoundingClientRect().height, p: p ? p.getBoundingClientRect().height : 0 };
+  });
+  // zoom scales content + padding + height (full-column width is preserved by design)
+  check("card: height shrank ~0.7x", after.h < before.h * 0.85, Math.round(before.h) + "px -> " + Math.round(after.h) + "px");
+  check("card: inner text rendered smaller", after.p > 0 && after.p < before.p * 0.85, Math.round(before.p) + "px -> " + Math.round(after.p) + "px (rendered)");
+  await page.evaluate(() => { const p = JSON.parse(localStorage.getItem("mkdocs:fontPrefs") || "{}"); delete p.cardScale; localStorage.setItem("mkdocs:fontPrefs", JSON.stringify(p)); });
+
+  // ---- Nested cards must not compound zoom (trait page) ----
+  await page.goto(BASE + "Browse/feature/trait/dragon-knight/dragon-knight-traits/", { waitUntil: "networkidle" });
+  await page.evaluate(() => document.documentElement.style.setProperty("--sc-card-scale", "0.7"));
+  const nest = await page.evaluate(() => {
+    const top = document.querySelector(".md-typeset .sc-trait");
+    const inner = document.querySelector(".md-typeset .sc-trait .sc-ability") || document.querySelector(".md-typeset .sc-trait .sc-trait");
+    return { topZoom: getComputedStyle(top).zoom, innerZoom: inner ? getComputedStyle(inner).zoom : "n/a" };
+  });
+  check("card: top-level trait zooms (0.7)", nest.topZoom === "0.7", "topZoom=" + nest.topZoom);
+  check("card: nested card does NOT compound (zoom 1)", nest.innerZoom === "1" || nest.innerZoom === "normal", "innerZoom=" + nest.innerZoom);
+  await page.evaluate(() => document.documentElement.style.removeProperty("--sc-card-scale"));
+
+  await page.goto(BASE, { waitUntil: "networkidle" });
   await page.click("#sc-settings-toggle");
   await page.evaluate(() => document.getElementById("sc-settings-scrim").click());
   check("scrim click closes drawer", await page.evaluate(() => document.documentElement.getAttribute("data-sc-settings") === null));

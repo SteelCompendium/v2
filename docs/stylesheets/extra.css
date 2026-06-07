@@ -14,10 +14,27 @@ th:empty {
    multiplier for their own base sizes. */
 :root {
     --sc-content-scale: 1;
+    --sc-card-scale: 1;
 }
 
 .md-typeset {
     font-size: calc(0.8rem * var(--sc-content-scale));
+}
+
+/* Card size multiplier, driven live by the settings panel (settings-panel.js
+   sets --sc-card-scale on <html>). The generated ability/trait cards size
+   everything in rem/px, so they don't follow --sc-content-scale; `zoom` scales
+   the whole card — text, padding, badges, power-roll panel — proportionally and
+   reflows correctly. Applied to top-level cards only; nested cards (abilities or
+   sub-traits inside a trait) are reset to zoom:1 so they inherit the parent
+   card's zoom instead of compounding it. */
+.md-typeset .sc-ability,
+.md-typeset .sc-trait {
+    zoom: var(--sc-card-scale);
+}
+.md-typeset .sc-trait .sc-ability,
+.md-typeset .sc-trait .sc-trait {
+    zoom: 1;
 }
 
 .md-typeset h1 + hr {

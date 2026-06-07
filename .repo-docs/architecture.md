@@ -129,8 +129,13 @@ header (`docs/javascripts/settings-panel.js`), which opens a steel-styled drawer
 (`docs/stylesheets/steel-settings.css`) — a right-side panel on desktop, a bottom
 sheet on mobile. All settings write to `localStorage["mkdocs:fontPrefs"]` and apply
 live via `<html>` attributes / CSS custom properties (fonts, page width, compact,
-site theme, card style, plus a **text-size** slider that drives `--sc-content-scale`,
-multiplied into `.md-typeset` font-size in `extra.css`/`mobile.css`/compact).
+site theme, card style, a **text-size** slider that drives `--sc-content-scale`
+multiplied into `.md-typeset` font-size in `extra.css`/`mobile.css`/compact, and a
+**card-size** slider that drives `--sc-card-scale` applied as `zoom` on top-level
+`.sc-ability`/`.sc-trait` cards in `extra.css`. The generated cards size everything in
+rem/px so they don't follow `--sc-content-scale`; `zoom` scales the whole card
+proportionally, and nested cards are reset to `zoom:1` so they inherit rather than
+compound the parent's zoom).
 
 Pure parsing/normalization logic lives in the DOM-free `docs/javascripts/settings-core.js`
 and is unit-tested (`devbox run -- node --test tests/`). The anti-FOUC early-apply

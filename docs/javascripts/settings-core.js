@@ -15,15 +15,26 @@
   var STORAGE_KEY = "mkdocs:fontPrefs";
 
   var SCALE_MIN = 0.8, SCALE_MAX = 1.4, SCALE_STEP = 0.05, SCALE_DEFAULT = 1;
+  var CARD_MIN = 0.7, CARD_MAX = 1.2, CARD_STEP = 0.05, CARD_DEFAULT = 1;
   var WIDTH_MIN_EM = 44, WIDTH_MAX_EM = 100, WIDTH_STEP_EM = 2, WIDTH_DEFAULT_EM = 80;
 
-  function clampScale(value) {
+  // Clamp `value` into [min, max] and snap to the nearest `step`, returning
+  // `dflt` when not a finite number. Shared by the scale sliders.
+  function snap(value, min, max, step, dflt) {
     var n = parseFloat(value);
-    if (!isFinite(n)) return SCALE_DEFAULT;
-    if (n < SCALE_MIN) n = SCALE_MIN;
-    if (n > SCALE_MAX) n = SCALE_MAX;
-    var steps = Math.round((n - SCALE_MIN) / SCALE_STEP);
-    return Math.round((SCALE_MIN + steps * SCALE_STEP) * 100) / 100;
+    if (!isFinite(n)) return dflt;
+    if (n < min) n = min;
+    if (n > max) n = max;
+    var steps = Math.round((n - min) / step);
+    return Math.round((min + steps * step) * 100) / 100;
+  }
+
+  function clampScale(value) {
+    return snap(value, SCALE_MIN, SCALE_MAX, SCALE_STEP, SCALE_DEFAULT);
+  }
+
+  function clampCardScale(value) {
+    return snap(value, CARD_MIN, CARD_MAX, CARD_STEP, CARD_DEFAULT);
   }
 
   function normalizeWidth(raw) {
@@ -77,8 +88,10 @@
   return {
     STORAGE_KEY: STORAGE_KEY,
     SCALE_MIN: SCALE_MIN, SCALE_MAX: SCALE_MAX, SCALE_STEP: SCALE_STEP, SCALE_DEFAULT: SCALE_DEFAULT,
+    CARD_MIN: CARD_MIN, CARD_MAX: CARD_MAX, CARD_STEP: CARD_STEP, CARD_DEFAULT: CARD_DEFAULT,
     WIDTH_MIN_EM: WIDTH_MIN_EM, WIDTH_MAX_EM: WIDTH_MAX_EM, WIDTH_STEP_EM: WIDTH_STEP_EM, WIDTH_DEFAULT_EM: WIDTH_DEFAULT_EM,
     clampScale: clampScale,
+    clampCardScale: clampCardScale,
     normalizeWidth: normalizeWidth,
     clampEm: clampEm,
     widthToControls: widthToControls,

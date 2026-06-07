@@ -77,6 +77,7 @@
             if (s.code)  r.setProperty("--md-code-font",  s.code);
             if (s.width) r.setProperty("--md-max_width",   s.width);
             if (s.contentScale && s.contentScale != 1) r.setProperty("--sc-content-scale", s.contentScale);
+            if (s.cardScale && s.cardScale != 1) r.setProperty("--sc-card-scale", s.cardScale);
             if (s.compact) document.documentElement.setAttribute("data-compact", "true");
             if (s.siteTheme) document.documentElement.setAttribute("data-sc-theme", s.siteTheme);
             if (s.cardStyle) document.documentElement.setAttribute("data-card-style", s.cardStyle);
