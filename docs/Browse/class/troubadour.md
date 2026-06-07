@@ -1361,7 +1361,7 @@ Your Agility and Presence scores each increase to 5.
 
 ### Dramaturgy {data-scc="mcdm.heroes.v1/feature.trait.troubadour.level-10/dramaturgy"}
 
-You gain 1 additional drama or other Heroic Resource whenever you use your [Appeal to the Muses](../feature/trait/troubadour/level-2/appeal-to-the-muses.md) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
+You gain 1 additional [drama](../feature/trait/troubadour/level-1/drama.md) or other Heroic Resource whenever you use your [Appeal to the Muses](../feature/trait/troubadour/level-2/appeal-to-the-muses.md) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
 
 ### Greatest of All Time {data-scc="mcdm.heroes.v1/feature.trait.troubadour.level-10/greatest-of-all-time"}
 

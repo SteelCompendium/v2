@@ -39,7 +39,7 @@ Each class also has a number of subclasses presented in this book. Your subclass
 
 ### Abilities
 
-Abilities are special actions, maneuvers, and more that allow you to affect creatures, objects, and the environment. They represent the main activities your character can undertake when the game is in combat or some other time-sensitive scenario. All characters have access to a few basic abilities, including [free strikes](../../Browse/feature/trait/common/main-actions/free-strike.md) and maneuvers such as [Grab](../../Browse/feature/trait/common/maneuvers/grab.md) and Knockback (see Maneuvers in Chapter 10: [Combat](combat.md)). But your class, ancestry (see Chapter 3: [Ancestries](ancestries.md)), kit (Chapter 6: [Kits](kits.md)), titles and treasures (Chapter 13: [Rewards](rewards.md)), and other heroic options give you access to more powerful abilities that make your hero stand out.
+Abilities are special actions, maneuvers, and more that allow you to affect creatures, objects, and the environment. They represent the main activities your character can undertake when the game is in combat or some other time-sensitive scenario. All characters have access to a few basic abilities, including [free strikes](../../Browse/feature/trait/common/main-actions/free-strike.md) and maneuvers such as [Grab](../../Browse/feature/trait/common/maneuvers/grab.md) and [Knockback](../../Browse/feature/trait/common/maneuvers/knockback.md) (see Maneuvers in Chapter 10: [Combat](combat.md)). But your class, ancestry (see Chapter 3: [Ancestries](ancestries.md)), kit (Chapter 6: [Kits](kits.md)), titles and treasures (Chapter 13: [Rewards](rewards.md)), and other heroic options give you access to more powerful abilities that make your hero stand out.
 
 Abilities are presented in a special format that first describes the ability, then summarizes its mechanical details, and finally breaks out the ability's power roll (if it has one) and effects.
 
@@ -59,15 +59,15 @@ Each class has a Heroic Resource that your hero earns during combat, with some o
 
 The nine Heroic Resources in the game are:
 
-- The [censor's](../../Browse/class/censor.md) wrath
-- The [conduit's](../../Browse/class/conduit.md) piety
-- The [elementalist's](../../Browse/class/elementalist.md) essence
-- The [fury's](../../Browse/class/fury.md) ferocity
-- The [null's](../../Browse/class/null.md) discipline
-- The [shadow's](../../Browse/class/shadow.md) insight
-- The [tactician's](../../Browse/class/tactician.md) focus
-- The [talent's](../../Browse/class/talent.md) clarity
-- The [troubadour's](../../Browse/class/troubadour.md) drama
+- The [censor's](../../Browse/class/censor.md) [wrath](../../Browse/feature/trait/censor/level-1/wrath.md)
+- The [conduit's](../../Browse/class/conduit.md) [piety](../../Browse/feature/trait/conduit/level-1/piety.md)
+- The [elementalist's](../../Browse/class/elementalist.md) [essence](../../Browse/feature/trait/elementalist/level-1/essence.md)
+- The [fury's](../../Browse/class/fury.md) [ferocity](../../Browse/feature/trait/fury/level-1/ferocity.md)
+- The [null's](../../Browse/class/null.md) [discipline](../../Browse/feature/trait/null/level-1/discipline.md)
+- The [shadow's](../../Browse/class/shadow.md) [insight](../../Browse/feature/trait/shadow/level-1/insight.md)
+- The [tactician's](../../Browse/class/tactician.md) [focus](../../Browse/feature/trait/tactician/level-1/focus.md)
+- The [talent's](../../Browse/class/talent.md) [clarity](../../Browse/feature/trait/talent/level-1/clarity-and-strain.md)
+- The [troubadour's](../../Browse/class/troubadour.md) [drama](../../Browse/feature/trait/troubadour/level-1/drama.md)
 
 ##### Heroic Abilities
 
@@ -6712,7 +6712,7 @@ You gain a +1 bonus to speed and to the distance you can [shift](../../Browse/mo
 
 #### Psionic Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/psionic-martial-arts"}
 
-Whenever you use the Knockback or [Grab](../../Browse/feature/trait/common/maneuvers/grab.md) maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../../Browse/feature/trait/common/maneuvers/knockback.md) maneuver, you can choose to slide the target instead of pushing them.
+Whenever you use the [Knockback](../../Browse/feature/trait/common/maneuvers/knockback.md) or [Grab](../../Browse/feature/trait/common/maneuvers/grab.md) maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../../Browse/feature/trait/common/maneuvers/knockback.md) maneuver, you can choose to slide the target instead of pushing them.
 
 #### Null Abilities {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/null-abilities"}
 
@@ -12844,7 +12844,7 @@ Your Agility and Presence scores each increase to 5.
 
 #### Dramaturgy {data-scc="mcdm.heroes.v1/feature.trait.troubadour.level-10/dramaturgy"}
 
-You gain 1 additional drama or other Heroic Resource whenever you use your [Appeal to the Muses](../../Browse/feature/trait/troubadour/level-2/appeal-to-the-muses.md) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
+You gain 1 additional [drama](../../Browse/feature/trait/troubadour/level-1/drama.md) or other Heroic Resource whenever you use your [Appeal to the Muses](../../Browse/feature/trait/troubadour/level-2/appeal-to-the-muses.md) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
 
 #### Greatest of All Time {data-scc="mcdm.heroes.v1/feature.trait.troubadour.level-10/greatest-of-all-time"}
 

@@ -2518,7 +2518,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Healing Gift:* You can use the 1st-level [Conduit](../../Browse/class/conduit.md) feature [Healing Grace](../../Browse/feature/ability/conduit/level-1/healing-grace.md) as if you had spent 1 piety (see Chapter 5: [Classes](classes.md)). Once you use this benefit, you can't use it again until you earn 1 or more Victories.
+- *Healing Gift:* You can use the 1st-level [Conduit](../../Browse/class/conduit.md) feature [Healing Grace](../../Browse/feature/ability/conduit/level-1/healing-grace.md) as if you had spent 1 [piety](../../Browse/feature/trait/conduit/level-1/piety.md) (see Chapter 5: [Classes](classes.md)). Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Last-Ditch Prayer:* As a free maneuver, you recite a prayer for help, gaining a pool of 2d10 of the Heroic Resource granted by your class. This pool disappears at the end of your turn if you haven't used it. Once you use this benefit, you can't use it again until you perform another service for a god or saint, or until you gain a level.
 - *Touched by the Divine:* Choose a god or saint from the Deities and  Domains table in Chapter 14: [Gods and Religion](gods-and-religion.md). From that god or saint's domains, choose a [Conduit](../../Browse/class/conduit.md) 1st-level domain feature (see Chapter 5: [Classes](classes.md)).
 
@@ -2646,7 +2646,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 - *From Hell's Heart:* While you are winded, your melee strikes gain a +3 damage bonus.
 - *Furious Attack:* Choose one signature ability from the [fury](../../Browse/class/fury.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
-- *Furious Charge:* When you use the Charge action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
+- *Furious Charge:* When you use the [Charge](../../Browse/feature/trait/common/main-actions/charge.md) action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
 
 ### 3rd-Echelon Titles
 

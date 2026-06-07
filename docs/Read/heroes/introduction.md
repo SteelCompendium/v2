@@ -167,7 +167,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Ceiling:** Any solid surface above a creature.
 
-**Clarity:** The [talent's](../../Browse/class/talent.md) Heroic Resource. Unlike other Heroic Resources, clarity can go below 0, leaving a [talent](../../Browse/class/talent.md) strained.
+**[Clarity](../../Browse/feature/trait/talent/level-1/clarity-and-strain.md):** The [talent's](../../Browse/class/talent.md) Heroic Resource. Unlike other Heroic Resources, clarity can go below 0, leaving a [talent](../../Browse/class/talent.md) strained.
 
 **Class:** A hero's current role, which largely determines how they interact with the game's rules.
 
@@ -233,7 +233,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Director:** The player who prepares, presents, and adjudicates the game for all the other players, who each create and run a hero.
 
-**Discipline:** The [null's](../../Browse/class/null.md) Heroic Resource.
+**[Discipline](../../Browse/feature/trait/null/level-1/discipline.md):** The [null's](../../Browse/class/null.md) Heroic Resource.
 
 **[Disengage](../../Browse/feature/trait/common/move-actions/disengage.md) Move Action:** A move action that allows a creature to [shift](../../Browse/movement/shifting.md) 1 square.
 
@@ -247,7 +247,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Dragon Knight](../../Browse/ancestry/dragon-knight.md):** An ancestry with a draconic heritage.
 
-**Drama:** The [troubadour's](../../Browse/class/troubadour.md) Heroic Resource.
+**[Drama](../../Browse/feature/trait/troubadour/level-1/drama.md):** The [troubadour's](../../Browse/class/troubadour.md) Heroic Resource.
 
 **[Dwarf](../../Browse/ancestry/dwarf.md):** An ancestry with stone skin and short stature.
 
@@ -267,19 +267,19 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Escape Grab](../../Browse/feature/trait/common/maneuvers/escape-grab.md) Maneuver:** A maneuver that allows a [grabbed](../../Browse/condition/grabbed.md) creature to make an ability roll to escape.
 
-**Essence:** The [elementalist's](../../Browse/class/elementalist.md) Heroic Resource.
+**[Essence](../../Browse/feature/trait/elementalist/level-1/essence.md):** The [elementalist's](../../Browse/class/elementalist.md) Heroic Resource.
 
 **Experience (XP):** A hero's Victories convert to Experience when they finish a respite. Experience permanently increases a hero's capabilities by allowing them to increase in level.
 
 **Falling:** When a creature falls 2 or more squares, they take 2 damage for each square they fall (to a maximum of 50 damage) and land [prone](../../Browse/condition/prone.md). A falling creature can reduce the effective height of their fall by a number of squares equal to their Agility score (minimum 0).
 
-**Ferocity:** The [fury's](../../Browse/class/fury.md) Heroic Resource.
+**[Ferocity](../../Browse/feature/trait/fury/level-1/ferocity.md):** The [fury's](../../Browse/class/fury.md) Heroic Resource.
 
 **Flanking:** When two or more allied creatures are adjacent to and on opposite sides of an enemy, those creatures are flanking that enemy. A creature flanking an enemy gains an edge on melee strikes against that enemy.
 
 **[Fly](../../Browse/movement/fly.md):** A movement mode available to creatures with "[fly](../../Browse/movement/fly.md)" in their speed entry, or who gain the capability to temporarily [fly](../../Browse/movement/fly.md). Such creatures can move through the air horizontally or diagonally at full speed and remain in midair. If a flying creature is made [prone](../../Browse/condition/prone.md) or has their speed reduced to 0, they fall.
 
-**Focus:** The [tactician's](../../Browse/class/tactician.md) Heroic Resource.
+**[Focus](../../Browse/feature/trait/tactician/level-1/focus.md):** The [tactician's](../../Browse/class/tactician.md) Heroic Resource.
 
 **[Forced Movement](../../Browse/movement/forced-movement.md):** When an ability or effect compels a creature to move, usually against their will. There are three types of [forced movement](../../Browse/movement/forced-movement.md): a pull, a push, and a slide. [Forced movement](../../Browse/movement/forced-movement.md) is always along the ground unless noted as vertical. [Forced movement](../../Browse/movement/forced-movement.md) can be reduced by stability.
 
@@ -333,7 +333,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Implement:** A piece of jewelry, a staff, an orb, a wand, or some other object used by a creature to channel supernatural power.
 
-**Insight:** The [shadow's](../../Browse/class/shadow.md) Heroic Resource.
+**[Insight](../../Browse/feature/trait/shadow/level-1/insight.md):** The [shadow's](../../Browse/class/shadow.md) Heroic Resource.
 
 **Interest:** A negotiation statistic that determines how interested an NPC is in helping out the heroes.
 
@@ -413,7 +413,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Perk:** A feature available to all heroes that helps with exploration, investigation, negotiation, and more.
 
-**Piety:** The [conduit's](../../Browse/class/conduit.md) Heroic Resource.
+**[Piety](../../Browse/feature/trait/conduit/level-1/piety.md):** The [conduit's](../../Browse/class/conduit.md) Heroic Resource.
 
 **Pitfall:** A negotiation trait an NPC has that determines what type of arguments will not work on them.
 
@@ -589,4 +589,4 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Wode Elf](../../Browse/ancestry/wode-elf.md):** A fey ancestry in tune with magical forests.
 
-**Wrath:** The [censor's](../../Browse/class/censor.md) Heroic Resource.
+**[Wrath](../../Browse/feature/trait/censor/level-1/wrath.md):** The [censor's](../../Browse/class/censor.md) Heroic Resource.

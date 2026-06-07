@@ -421,7 +421,7 @@ A creature who is dying (see Dying and Death in Stamina below) can't use the [Ca
 
 #### Escape Grab {data-scc="mcdm.heroes.v1/feature.trait.common.maneuvers/escape-grab"}
 
-A creature who is [grabbed](../../Browse/condition/grabbed.md) by another creature, an object, or an effect (see Grab below) can attempt to escape by using the following ability.
+A creature who is [grabbed](../../Browse/condition/grabbed.md) by another creature, an object, or an effect (see [Grab](../../Browse/feature/trait/common/maneuvers/grab.md) below) can attempt to escape by using the following ability.
 
 ##### Escape Grab {data-scc="mcdm.heroes.v1/feature.ability.common.maneuvers/escape-grab"}
 
@@ -508,7 +508,7 @@ Unless otherwise noted in its description, a creature can activate a consumable 
 
 When you take a main action, you most often do so to use a unique ability granted by your class, kit, or a treasure (see Abilities in Chapter 5: [Classes](classes.md)). These abilities represent the most unique, flavorful, and impactful things you can do with your main action.
 
-You can also use your main action to help another creature regain Stamina, charge into battle, defend yourself, or make a [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md).
+You can also use your main action to help another creature regain Stamina, [charge](../../Browse/feature/trait/common/main-actions/charge.md) into battle, [defend](../../Browse/feature/trait/common/main-actions/defend.md) yourself, or make a [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md).
 
 You can convert your main action into a maneuver or a move action, allowing you to [take two](../../Browse/feature/ability/troubadour/level-5/take-two.md) maneuvers or move actions on your turn.
 

@@ -20,6 +20,6 @@ type: trait
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain 1 additional drama or other Heroic Resource whenever you use your <a href="../../level-2/appeal-to-the-muses/">Appeal to the Muses</a> feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.</p>
+<p>You gain 1 additional <a href="../../level-1/drama/">drama</a> or other Heroic Resource whenever you use your <a href="../../level-2/appeal-to-the-muses/">Appeal to the Muses</a> feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.</p>
 </div>
 </section>
