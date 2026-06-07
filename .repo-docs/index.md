@@ -48,9 +48,9 @@ v2/
     stylesheets/         # SAFE TO EDIT: CSS customization
     Media/               # Site assets (favicon, etc.)
     index.md             # Hand-authored landing page
-    preferences.md       # Hand-authored user preferences page
+    preferences.md       # Redirect note -> settings now in the header gear icon (live drawer)
   overrides/             # SAFE TO EDIT: Jinja2 template overrides for mkdocs-material
-    main.html            # SCC canonical links + early URL rewrite + font preferences
+    main.html            # SCC canonical links + early URL rewrite + early-apply of saved display settings
     partials/
       content.html       # Content area override
       toc.html           # Table of contents override
@@ -60,7 +60,7 @@ v2/
     docs/
       Browse/            # Static Browse overrides (e.g., Browse/index.md grid cards)
       Bestiary/          # Static Bestiary overrides (e.g., landing page)
-      preferences.md     # User preferences page
+      preferences.md     # Redirect note (settings live in the header gear icon)
   .repo-docs/            # This documentation
 ```
 

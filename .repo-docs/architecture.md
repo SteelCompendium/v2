@@ -105,7 +105,8 @@ Synced with mkdocs-material 9.7.6. If upgrading, re-check `site_meta` block shap
 | `ability-cards.js` | Ability card rendering enhancements |
 | `browse-enhancements.js` | Browse section UX improvements |
 | `keyboard-nav.js` | Keyboard navigation support |
-| `preferences.js` | User font/layout preferences |
+| `settings-core.js` | Pure, DOM-free settings helpers (storage + width/scale normalization); unit-tested by `tests/settings-core.test.js`. Loaded before `settings-panel.js` |
+| `settings-panel.js` | Live settings drawer: injects the header gear button + steel drawer, applies changes instantly (see "Live settings panel" below) |
 | `reading-progress.js` | Reading progress indicator |
 | `tablesort.js` | Sortable tables integration |
 
@@ -119,6 +120,25 @@ Synced with mkdocs-material 9.7.6. If upgrading, re-check `site_meta` block shap
 | `tables.css` | Table styling |
 | `mobile.css` | Mobile responsive tweaks |
 | `print.css` | Print stylesheet |
+| `steel-settings.css` | High-fantasy settings drawer: gear button, scrim, right-drawer → mobile bottom sheet, steel sliders/toggles (uses `--fx-*` tokens, so loads after `steel-redesign.css`) |
+
+### Live settings panel
+
+User display settings are delivered by a gear button injected into the Material
+header (`docs/javascripts/settings-panel.js`), which opens a steel-styled drawer
+(`docs/stylesheets/steel-settings.css`) — a right-side panel on desktop, a bottom
+sheet on mobile. All settings write to `localStorage["mkdocs:fontPrefs"]` and apply
+live via `<html>` attributes / CSS custom properties (fonts, page width, compact,
+site theme, card style, plus a **text-size** slider that drives `--sc-content-scale`,
+multiplied into `.md-typeset` font-size in `extra.css`/`mobile.css`/compact).
+
+Pure parsing/normalization logic lives in the DOM-free `docs/javascripts/settings-core.js`
+and is unit-tested (`devbox run -- node --test tests/`). The anti-FOUC early-apply
+script in `overrides/main.html` reads the same storage key to apply everything
+(including `--sc-content-scale`) before paint. The standalone `/preferences/` page is
+retired to a redirect note (still reachable for old bookmarks) and dropped from
+`docs/.nav.yml`. Card-style changes still trigger a full reload (see workspace
+`FOLLOWUPS.md`).
 
 ## MkDocs Plugins
 
