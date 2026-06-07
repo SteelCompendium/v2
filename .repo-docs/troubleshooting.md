@@ -50,8 +50,34 @@ updated: 2026-05-31
 
 **Fix:** Place overrides in `static_content/docs/` at the same relative path. Static content is copied last and takes precedence.
 
+### Browser E2E (Playwright MCP) does not work here — don't try
+
+**For agents:** Do **not** attempt to verify the site in a real browser via the
+Playwright MCP tools (`browser_navigate`, `browser_click`, `browser_evaluate`, …).
+It does not work in this environment and is a known dead end — stop and use the
+non-browser checks below instead.
+
+**Symptom:** `browser_*` calls fail with `"chrome" executable not found. Make sure
+it is installed at a standard location.` The Playwright MCP server is pinned to the
+`chrome` channel, and no Google Chrome is installed. The only browsers present are a
+cached `~/.cache/ms-playwright/chromium-*` (plus a headless shell), which the MCP
+server does not use, and whose revision will not necessarily match an ad-hoc
+`npx playwright` either. Hand-rolling a Node Playwright script against the cache is
+also not a supported path here.
+
+**What to do instead** — verify front-end JS/CSS changes without a browser:
+- **Build the site:** `devbox run -- mkdocs build` (and check `site/` output, e.g.
+  `grep -l "your-asset.js" site/index.html`). Note: a full build is ~145s.
+- **Unit-test pure logic:** factor parsing/normalization into a DOM-free module and
+  cover it with `node:test` — e.g. `devbox run -- node --test tests/` exercises
+  `docs/javascripts/settings-core.js`. This is the pattern to follow for new JS.
+- **Syntax-check scripts:** `devbox run -- node --check docs/javascripts/<file>.js`.
+- **Manual visual check** (human, not agent): `devbox run -- mkdocs serve` and open
+  the URL in a local browser.
+
 ## Do NOT
 
+- Attempt browser-based E2E via the Playwright MCP (see above — no Chrome installed)
 - Edit files under `docs/Browse/`, `docs/Read/`, or `docs/scc/` directly
 - Remove or rename SCC codes in source frontmatter (they are frozen permanent identifiers)
 - Upgrade mkdocs-material without re-checking `overrides/main.html` block compatibility
