@@ -25,11 +25,11 @@ type: trait
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
 <div class="sc-trait__titles">
-<h3 class="sc-trait__name">2nd-Level Wild Nature Features®</h3>
+<h3 class="sc-trait__name">2nd-Level Wild Nature Features</h3>
 </div>
 </header>
 <div class="sc-trait__body">
-<table><thead><tr><th>Wild Nature</th><th>Feature</th></tr></thead><tbody><tr><td>Guardian</td><td><a href="../watchdog/">Watchdog</a></td></tr><tr><td>Prowler</td><td><a href="../supersniffer/">Supersniffer</a></td></tr><tr><td>Punisher</td><td><a href="../this-ones-yours/">This One’s Yours</a></td></tr><tr><td>Spark</td><td>Stormheart</td></tr></tbody></table>
+<table><thead><tr><th>Wild Nature</th><th>Feature</th></tr></thead><tbody><tr><td>Guardian</td><td><a href="../watchdog/">Watchdog</a></td></tr><tr><td>Prowler</td><td><a href="../supersniffer/">Supersniffer</a></td></tr><tr><td>Punisher</td><td><a href="../this-ones-yours/">This One’s Yours</a></td></tr><tr><td>Spark</td><td><a href="../stormheart/">Stormheart</a></td></tr></tbody></table>
 </div>
 </section>
 </div>
