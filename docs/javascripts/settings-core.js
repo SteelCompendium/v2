@@ -16,7 +16,7 @@
 
   var SCALE_MIN = 0.8, SCALE_MAX = 1.4, SCALE_STEP = 0.05, SCALE_DEFAULT = 1;
   var CARD_MIN = 0.7, CARD_MAX = 1.2, CARD_STEP = 0.05, CARD_DEFAULT = 1;
-  var WIDTH_MIN_EM = 44, WIDTH_MAX_EM = 100, WIDTH_STEP_EM = 2, WIDTH_DEFAULT_EM = 80;
+  var WIDTH_MIN_EM = 44, WIDTH_MAX_EM = 500, WIDTH_STEP_EM = 2, WIDTH_DEFAULT_EM = 80;
 
   // Clamp `value` into [min, max] and snap to the nearest `step`, returning
   // `dflt` when not a finite number. Shared by the scale sliders.

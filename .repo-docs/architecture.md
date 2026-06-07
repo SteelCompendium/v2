@@ -137,6 +137,7 @@ rem/px so they don't follow `--sc-content-scale`; `zoom` scales the whole card
 proportionally, and nested cards are reset to `zoom:1` so they inherit rather than
 compound the parent's zoom).
 
+The page-width control is a live slider (44–500em, step 2) plus a Full-width toggle.
 Pure parsing/normalization logic lives in the DOM-free `docs/javascripts/settings-core.js`
 and is unit-tested (`devbox run -- node --test tests/`). The anti-FOUC early-apply
 script in `overrides/main.html` reads the same storage key to apply everything

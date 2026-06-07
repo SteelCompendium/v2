@@ -1409,3 +1409,15 @@ git commit -m "docs(v2): document live settings panel; log card-style reload fol
 **Placeholder scan:** No TBD/TODO/"add error handling" placeholders; every code step shows complete content. Storage parsing guards bad JSON; `clampScale`/`clampEm`/`normalizeWidth` fail safe to defaults. ✓
 
 **Type/name consistency:** `SettingsCore` API names (`clampScale`, `normalizeWidth`, `clampEm`, `widthToControls`, `controlsToWidth`, `loadPrefs`, `savePrefs`, and the `SCALE_*`/`WIDTH_*` constants) are defined in Task 1 and used identically in Task 4. CSS hooks are consistent across files: `--sc-content-scale` (Tasks 2, 4, 5), `data-sc-settings="open"` (Tasks 3, 4), element ids `sc-settings-toggle` / `sc-settings-drawer` / `sc-settings-scrim` and control ids `set-*` (Tasks 3-comment, 4, 6, 7). Storage key `mkdocs:fontPrefs` matches the existing schema and the early-apply script (Tasks 4, 5). ✓
+
+---
+
+## Post-merge changes
+
+Changes made after this plan merged to `main`, recorded here so the plan stays a faithful history. The code blocks above show the **as-originally-built** state; the values below are the current ones.
+
+1. **Card-size slider added (2026-06-07).** A second scale slider, **Card size**, was added to the Reading group. The generated `.sc-ability`/`.sc-trait` cards size everything in `rem`/`px`, so they don't follow `--sc-content-scale`; the card slider drives a new `--sc-card-scale` applied as CSS **`zoom`** on top-level cards (in `extra.css`), scaling text, padding, badges, power-roll panel, and height proportionally. Nested cards (an ability or sub-trait inside a trait) are reset to `zoom:1` so they inherit the parent's zoom instead of compounding it. Backed by a new unit-tested `clampCardScale` helper (`CARD_MIN=0.7, CARD_MAX=1.2, CARD_STEP=0.05`), a `cardScale` storage key, and early-apply in `overrides/main.html`. Gotcha: `zoom` applies at the render layer, so `getComputedStyle().fontSize` reports the *unzoomed* value — assert on rendered geometry (`getBoundingClientRect`) instead.
+
+2. **Page-width max raised 100em → 500em (2026-06-07).** `WIDTH_MAX_EM` changed from `100` to `500` in `settings-core.js` (slider now spans 44–500em, step 2). Unit tests and the E2E updated accordingly.
+
+3. **Real-browser E2E exists.** Despite the original plan's "Playwright doesn't work here" finding, the Playwright **MCP** is the only broken piece — `tests/e2e/settings-panel.e2e.cjs` drives the locally-installed **Brave** via `playwright-core` + `executablePath` and covers the whole drawer (30 assertions). See `.repo-docs/troubleshooting.md`.

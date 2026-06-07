@@ -97,6 +97,13 @@ function check(name, cond, detail) {
   check("width: css var = 60em", widthRes.cssVar === "60em", widthRes.cssVar);
   check("width: .md-grid max-width applied", /px$/.test(widthRes.gridMax), widthRes.gridMax);
   check("width: stored = 60em", widthRes.stored === "60em", String(widthRes.stored));
+  const wideRes = await page.evaluate(() => {
+    const w = document.getElementById("set-width");
+    w.value = w.max; w.dispatchEvent(new Event("change", { bubbles: true }));
+    return { max: w.max, cssVar: getComputedStyle(document.documentElement).getPropertyValue("--md-max_width").trim() };
+  });
+  check("width: slider max is 500em", wideRes.max === "500", wideRes.max);
+  check("width: 500em applies", wideRes.cssVar === "500em", wideRes.cssVar);
   const fullRes = await page.evaluate(() => {
     const f = document.getElementById("set-fullwidth"); f.checked = true; f.dispatchEvent(new Event("change", { bubbles: true }));
     return { gridMax: getComputedStyle(document.querySelector(".md-grid")).maxWidth,
