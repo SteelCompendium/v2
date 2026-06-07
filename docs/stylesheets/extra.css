@@ -7,6 +7,19 @@ th:empty {
     max-width: var(--md-max_width);
 }
 
+/* Reading-content size multiplier, driven live by the settings panel
+   (settings-panel.js sets --sc-content-scale on <html>). The base rule below
+   restates Material's .8rem default so scale=1 is a no-op; mobile.css (loaded
+   AFTER this file) and the compact rule (higher specificity) re-apply the same
+   multiplier for their own base sizes. */
+:root {
+    --sc-content-scale: 1;
+}
+
+.md-typeset {
+    font-size: calc(0.8rem * var(--sc-content-scale));
+}
+
 .md-typeset h1 + hr {
     margin-bottom: 2em;
 }
@@ -341,7 +354,7 @@ th:empty {
 
 /* Activated by data-compact="true" on <html> via preferences.js */
 [data-compact="true"] .md-typeset {
-    font-size: 0.85rem;
+    font-size: calc(0.85rem * var(--sc-content-scale));
     line-height: 1.5;
 }
 

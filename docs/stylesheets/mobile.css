@@ -77,9 +77,9 @@
         padding: 0.5em 0.75em;
     }
 
-    /* Ensure body text stays readable */
+    /* Ensure body text stays readable (scaled live by the settings panel) */
     .md-typeset {
-        font-size: 0.95rem;
+        font-size: calc(0.95rem * var(--sc-content-scale));
     }
 
     /* Ability info tables: stack on very small screens */
