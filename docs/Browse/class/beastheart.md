@@ -1160,6 +1160,15 @@ Your companion may not be much of a talker, but they've got a lifetime of experi
 
 Your wild nature grants you a feature, as shown on the 2nd-Level Wild Nature Features table.
 
+##### 2nd-Level Wild Nature Features®
+
+| Wild Nature | Feature |
+| ---- | ---- |
+| Guardian | [Watchdog](../feature/trait/beastheart/level-2/watchdog.md) |
+| Prowler |  [Supersniffer](../feature/trait/beastheart/level-2/supersniffer.md) |
+| Punisher | [This One’s Yours](../feature/trait/beastheart/level-2/this-ones-yours.md) |
+| Spark | Stormheart |
+
 #### Stormheart {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-2/stormheart"}
 
 Whenever you or your companion deals cold, fire, lightning, sonic, or untyped damage, you can change the damage type to cold, fire, lightning, or sonic damage.
