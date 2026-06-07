@@ -4,7 +4,7 @@ class: fury
 cost: 11 Ferocity
 distance: 5 cube within 10
 effect: This ability deals your primordial damage type and ignores damage immunity.
-flavor: You summon your [primordial storm](../../../trait/fury/primordial-storm.md).
+flavor: You summon your [primordial storm](../../../trait/fury/stormwight-kits/primordial-storm.md).
 keywords:
     - Area
     - Magic
@@ -33,7 +33,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Ferocity</div></div>
 </div>
-<p class="sc-ability__flavor">You summon your <a href="../../../../trait/fury/primordial-storm/">primordial storm</a>.</p>
+<p class="sc-ability__flavor">You summon your <a href="../../../../trait/fury/stormwight-kits/primordial-storm/">primordial storm</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 10</div></div>

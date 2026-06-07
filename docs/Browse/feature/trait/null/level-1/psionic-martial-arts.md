@@ -20,6 +20,6 @@ type: trait
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you use the Knockback or Grab maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the Knockback maneuver, you can choose to slide the target instead of pushing them.</p>
+<p>Whenever you use the Knockback or <a href="../../../common/maneuvers/grab/">Grab</a> maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the <a href="../../../common/maneuvers/knockback/">Knockback</a> maneuver, you can choose to slide the target instead of pushing them.</p>
 </div>
 </section>

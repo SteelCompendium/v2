@@ -200,7 +200,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You start crying, and you can&#39;t use triggered actions or make free strikes until the end of the target&#39;s next turn.</p></div>
+<div class="sc-ability__section-body"><p>You start crying, and you can&#39;t use triggered actions or make <a href="../../../common/main-actions/free-strike/">free strikes</a> until the end of the target&#39;s next turn.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -221,7 +221,7 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target makes a free strike against one enemy of your choice.</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target makes a <a href="../../../common/main-actions/free-strike/">free strike</a> against one enemy of your choice.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target shifts up to their speed and uses their signature ability against any enemies of your choice.</span></div>
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target moves up to their speed and uses their signature ability against any enemies of your choice.</span></div>
 </div>

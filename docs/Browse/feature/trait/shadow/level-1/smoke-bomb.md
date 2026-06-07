@@ -20,6 +20,6 @@ type: trait
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the Hide maneuver even if you are observed and don&#39;t initially have cover or concealment. When you do so, you can <a href="../../../../../movement/shifting/">shift</a> a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.</p>
+<p>You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver even if you are observed and don&#39;t initially have cover or concealment. When you do so, you can <a href="../../../../../movement/shifting/">shift</a> a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.</p>
 </div>
 </section>

@@ -62,7 +62,7 @@ type: trait
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can jump as part of your charge.</p>
+<p>Whenever you use the <a href="../../../common/main-actions/charge/">Charge</a> main action, you can use a strike signature ability or a strike heroic ability instead of a <a href="../../../common/main-actions/free-strike/">free strike</a>. Additionally, you can jump as part of your charge.</p>
 </div>
 </section>
 </div>

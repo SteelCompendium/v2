@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are [force moved](../../../movement/forced-movement.md), and any creature [grabbed](../../../condition/grabbed.md) by you takes a bane on the test for the Escape Grab maneuver.
+effect: While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are [force moved](../../../movement/forced-movement.md), and any creature [grabbed](../../../condition/grabbed.md) by you takes a bane on the test for the [Escape Grab](../../../feature/trait/common/maneuvers/escape-grab.md) maneuver.
 keywords:
     - Hands
     - Magic
@@ -26,4 +26,4 @@ type: treasure
 
 **Project Goal:** 150
 
-**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are [force moved](../../../movement/forced-movement.md), and any creature [grabbed](../../../condition/grabbed.md) by you takes a bane on the test for the Escape Grab maneuver.
+**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are [force moved](../../../movement/forced-movement.md), and any creature [grabbed](../../../condition/grabbed.md) by you takes a bane on the test for the [Escape Grab](../../../feature/trait/common/maneuvers/escape-grab.md) maneuver.

@@ -41,7 +41,7 @@ type: trait
 </header>
 <div class="sc-trait__body">
 <p>You have trained your squad to be silent ambushers.</p>
-<p><b>Mark Benefit:</b> When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Reason score and use the Hide maneuver as a free maneuver once during the <a href="../../../../../movement/shifting/">shift</a>. The creature can <a href="../../../../../movement/shifting/">shift</a> before or after the strike is resolved.</p>
+<p><b>Mark Benefit:</b> When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Reason score and use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver as a free maneuver once during the <a href="../../../../../movement/shifting/">shift</a>. The creature can <a href="../../../../../movement/shifting/">shift</a> before or after the strike is resolved.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

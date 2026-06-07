@@ -103,7 +103,7 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 |-----------------|----------------------------|
 | Black Ash       | [Black Ash Teleport](../feature/ability/shadow/level-1/black-ash-teleport.md)         |
 | Caustic Alchemy | [Coat the Blade](../feature/ability/shadow/level-1/coat-the-blade.md), [Smoke Bomb](../feature/trait/shadow/level-1/smoke-bomb.md) |
-| Harlequin Mask  | I'm No Threat              |
+| Harlequin Mask  | [I'm No Threat](../feature/ability/shadow/level-1/im-no-threat.md)              |
 
 #### Black Ash Teleport {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/black-ash-teleport"}
 
@@ -118,7 +118,7 @@ You have the following ability.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You [teleport](../movement/teleport.md) up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+**Effect:** You [teleport](../movement/teleport.md) up to 5 squares. If you have concealment or cover at your destination, you can use the [Hide](../feature/trait/common/maneuvers/hide.md) maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
 
 **Spend 1+ Insight:** You [teleport](../movement/teleport.md) 1 additional square for each insight spent.
 
@@ -152,7 +152,7 @@ You have the following ability.
 |-------------|-------------:|
 | **📏 Self** |    **🎯 Self** |
 
-**Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can [shift](../movement/shifting.md).
+**Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action, you gain a +1 bonus to the distance you can [shift](../movement/shifting.md).
 
 The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
 
@@ -160,7 +160,7 @@ The illusion ends when you harm another creature, when you physically interact w
 
 #### Smoke Bomb {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/smoke-bomb"}
 
-You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the Hide maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can [shift](../movement/shifting.md) a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the [Hide](../feature/trait/common/maneuvers/hide.md) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can [shift](../movement/shifting.md) a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
 
 ### College Triggered Action {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-1/college-triggered-action"}
 
@@ -198,7 +198,7 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 
 **Trigger:** Another creature damages you.
 
-**Effect:** You take half the triggering damage, then can [shift](../movement/shifting.md) up to 2 squares after the triggering effect resolves. If you end this [shift](../movement/shifting.md) with concealment or cover, you can use the Hide maneuver even if you are observed.
+**Effect:** You take half the triggering damage, then can [shift](../movement/shifting.md) up to 2 squares after the triggering effect resolves. If you end this [shift](../movement/shifting.md) with concealment or cover, you can use the [Hide](../feature/trait/common/maneuvers/hide.md) maneuver even if you are observed.
 
 **Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
 
@@ -476,7 +476,7 @@ The ash you leave behind burns your foes. The first time on a turn that you use 
 
 Your illusions make your enemies believe you are their friend in critical moments. Whenever an enemy uses an ability or trait that targets multiple allies and you are within distance of the effect, you can choose to be a target of the effect as well.
 
-Additionally, when you use your I'm No Threat ability, you can take the Disengage move action as part of that ability.
+Additionally, when you use your [I'm No Threat](../feature/ability/shadow/level-1/im-no-threat.md) ability, you can take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action as part of that ability.
 
 #### Trained Assassin {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-2/trained-assassin"}
 
@@ -516,7 +516,7 @@ Choose one of the following abilities.
 
 **Trigger:** You use your [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md) ability.
 
-**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md) ability. Before you [teleport](../movement/teleport.md), you can make a free strike against a creature who damaged you to trigger [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md). After you [teleport](../movement/teleport.md), you can spend a Recovery.
+**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md) ability. Before you [teleport](../movement/teleport.md), you can make a [free strike](../feature/trait/common/main-actions/free-strike.md) against a creature who damaged you to trigger [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md). After you [teleport](../movement/teleport.md), you can spend a Recovery.
 
 #### 2nd-Level Caustic Alchemy Ability
 
@@ -588,7 +588,7 @@ Choose one of the following abilities.
 
 **Trigger:** Another creature targets you with a strike.
 
-**Effect:** You use your [Clever Trick](../feature/ability/shadow/level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
+**Effect:** You use your [Clever Trick](../feature/ability/shadow/level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../feature/trait/common/main-actions/free-strike.md) against them. You can then spend a Recovery.
 
 ## 3rd-Level Features
 
@@ -622,7 +622,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../movement/forced-movement.md) adjacent to you or damages you, you can take the Disengage move action as a free triggered action.
+**Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../movement/forced-movement.md) adjacent to you or damages you, you can take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action as a free triggered action.
 
 #### Misdirecting Strike {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/misdirecting-strike"}
 
@@ -732,9 +732,9 @@ Your [shadow college](../feature/trait/shadow/level-1/shadow-college.md) grants 
 
 #### Harlequin Gambit {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-5/harlequin-gambit"}
 
-Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your I'm No Threat ability and then move up to your speed.
+Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your [I'm No Threat](../feature/ability/shadow/level-1/im-no-threat.md) ability and then move up to your speed.
 
-If the creature is the same size as you, you can disguise yourself as them using I'm No Threat without spending insight. If you do, while I'm No Threat is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
+If the creature is the same size as you, you can disguise yourself as them using [I'm No Threat](../feature/ability/shadow/level-1/im-no-threat.md) without spending insight. If you do, while [I'm No Threat](../feature/ability/shadow/level-1/im-no-threat.md) is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
 
 #### Trail of Cinders {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-5/trail-of-cinders"}
 
@@ -761,7 +761,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 |-----------------|---------------:|
 | **📏 3 burst**  | **🎯 Special** |
 
-**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../movement/shifting.md) to a new location within the area and make a free strike against them.
+**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../movement/shifting.md) to a new location within the area and make a [free strike](../feature/trait/common/main-actions/free-strike.md) against them.
 
 #### Into the Shadows {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows"}
 
@@ -868,7 +868,7 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 4 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can [teleport](../movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.
+**Effect:** Each target can [teleport](../movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the [Hide](../feature/trait/common/maneuvers/hide.md) maneuver even if they are observed.
 
 #### 6th-Level Caustic Alchemy Abilities
 
@@ -883,7 +883,7 @@ Choose one of the following abilities.
 |------------------|-----------------------:|
 | **📏 Ranged 10** | **🎯 Three creatures** |
 
-**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.
+**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../feature/trait/common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its potency at the end of the encounter.
 
 A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.
 
@@ -896,7 +896,7 @@ A creature who drinks the potion can spend up to 2 Recoveries, and has acid immu
 |------------------|-----------------------:|
 | **📏 Ranged 10** | **🎯 Three creatures** |
 
-**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.
+**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../feature/trait/common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its potency at the end of the encounter.
 
 A creature who drinks the potion receives benefits based on your power roll.
 
@@ -932,11 +932,11 @@ Choose one of the following abilities.
 
 **Power Roll + Agility:**
 
-- **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a free strike.
+- **≤11:** 2 damage; if the target has R < WEAK, before the damage is resolved, they make a [free strike](../feature/trait/common/main-actions/free-strike.md).
 - **12-16:** 5 damage; if the target has R < AVERAGE, before the damage is resolved, they use a main action ability of your choice.
 - **17+:** 7 damage; if the target has R < STRONG, before the damage is resolved, they can [shift](../movement/shifting.md) up to their speed and use a main action ability of your choice.
 
-**Effect:** You choose the new targets for the original target's free strike or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
+**Effect:** You choose the new targets for the original target's [free strike](../feature/trait/common/main-actions/free-strike.md) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
 
 ## 7th-Level Features
 
@@ -1077,7 +1077,7 @@ As a 9th-level [shadow](shadow.md), you gain the following features.
 
 ### Gloom Squad {data-scc="mcdm.heroes.v1/feature.trait.shadow.level-9/gloom-squad"}
 
-At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have insight and can't use the [Careful Observation](../feature/ability/shadow/level-3/careful-observation.md) ability, the [Umbral Form](../feature/trait/shadow/level-6/umbral-form.md) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a free strike. While making a free strike, a clone must choose targets that you or another clone aren't also striking.
+At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have insight and can't use the [Careful Observation](../feature/ability/shadow/level-3/careful-observation.md) ability, the [Umbral Form](../feature/trait/shadow/level-6/umbral-form.md) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../feature/trait/common/main-actions/free-strike.md). While making a [free strike](../feature/trait/common/main-actions/free-strike.md), a clone must choose targets that you or another clone aren't also striking.
 
 Outside of combat, you can have one clone active for every 2 Victories you have. If a clone is destroyed, you must wait 1 hour before creating another one.
 
@@ -1191,7 +1191,7 @@ Choose one of the following abilities.
 - **12-16:** 21 + A damage
 - **17+:** 28 + A damage
 
-**Effect:** If you are disguised as a creature the target knew using your I'm No Threat ability, this ability deals extra damage equal to three times your Agility score.
+**Effect:** If you are disguised as a creature the target knew using your [I'm No Threat](../feature/ability/shadow/level-1/im-no-threat.md) ability, this ability deals extra damage equal to three times your Agility score.
 
 ## 10th-Level Features
 

@@ -48,7 +48,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A <a href="../../../../ability/troubadour/level-2/guest-star/">guest star</a> appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This <a href="../../../../ability/troubadour/level-2/guest-star/">guest star</a> is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged free strikes. At the end of the encounter, or when the <a href="../../../../ability/troubadour/level-2/guest-star/">guest star</a> is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can&#39;t be uplifted this way more than once during an encounter.</p></div>
+<div class="sc-ability__section-body"><p>A <a href="../../../../ability/troubadour/level-2/guest-star/">guest star</a> appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This <a href="../../../../ability/troubadour/level-2/guest-star/">guest star</a> is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged <a href="../../../common/main-actions/free-strike/">free strikes</a>. At the end of the encounter, or when the <a href="../../../../ability/troubadour/level-2/guest-star/">guest star</a> is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can&#39;t be uplifted this way more than once during an encounter.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -100,7 +100,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/shifting/">shift</a> up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee free strike that deals extra damage equal to twice their highest characteristic score.</p></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/shifting/">shift</a> up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee <a href="../../../common/main-actions/free-strike/">free strike</a> that deals extra damage equal to twice their highest characteristic score.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -128,7 +128,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target can make a melee free strike against you. If they do, you can make a melee free strike against the target.</p></div>
+<div class="sc-ability__section-body"><p>The target can make a melee <a href="../../../common/main-actions/free-strike/">free strike</a> against you. If they do, you can make a melee <a href="../../../common/main-actions/free-strike/">free strike</a> against the target.</p></div>
 </div>
 </article>
 </div>

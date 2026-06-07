@@ -200,7 +200,7 @@ type: trait
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">You summon your <a href="../../primordial-storm/">primordial storm</a>.</p>
+<p class="sc-ability__flavor">You summon your <a href="../../stormwight-kits/primordial-storm/">primordial storm</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 10</div></div>

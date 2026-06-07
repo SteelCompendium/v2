@@ -78,7 +78,7 @@ Within the heat of battle, your determination and anger grow, fueling a Heroic R
 
 > **Where's My Maneuver?**
 >
-> Since most other classes get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](fury.md)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](fury.md) has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
+> Since most other classes get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the [fury](fury.md)?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the [fury](fury.md) has them using the [Grab](../feature/trait/common/maneuvers/grab.md) or [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
 #### Ferocity in Combat
 
@@ -104,22 +104,22 @@ Some [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) benefit
 
 | Ferocity        | Benefit                                                                                                                                                                                                                        |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Knockback maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Might score.                                                                                                                 |
+| 2               | Whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Might score.                                                                                                                 |
 | 4               | The first time you push a creature on a turn, you gain 1 surge.                                                                                                                                                                |
-| 6               | You gain an edge on Might tests and the Knockback maneuver.                                                                                                                                                                    |
+| 6               | You gain an edge on Might tests and the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
 | 8 (4th level)   | The first time you push a creature on a turn, you gain 2 surges.                                                                                                                                                               |
-| 10 (7th level)  | You have a double edge on Might tests and the Knockback maneuver.                                                                                                                                                              |
+| 10 (7th level)  | You have a double edge on Might tests and the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Might score. |
 
 ##### Reaver Growing Ferocity Table
 
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Knockback maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Agility score.                                                                                                                 |
+| 2               | Whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Agility score.                                                                                                                 |
 | 4               | The first time you slide a creature on a turn, you gain 1 surge.                                                                                                                                                                 |
-| 6               | You gain an edge on Agility tests and the Knockback maneuver.                                                                                                                                                                    |
+| 6               | You gain an edge on Agility tests and the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
 | 8 (4th level)   | The first time you slide a creature on a turn, you gain 2 surges.                                                                                                                                                                |
-| 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
+| 10 (7th level)  | You have a double edge on Agility tests and the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Agility score. |
 
 ### 1st-Level Aspect Features {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/1st-level-aspect-features"}
@@ -136,7 +136,7 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 #### Beast Shape {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/beast-shape"}
 
-You can use and gain the benefits of a stormwight kit (see [Stormwight Kits](../feature/trait/fury/stormwight-kits.md)). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) feature.
+You can use and gain the benefits of a stormwight kit (see [Stormwight Kits](../feature/trait/fury/stormwight-kits/kit-features.md)). Your stormwight kit grants you a number of benefits, including benefits tied to your [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) feature.
 
 #### Kit {data-scc="mcdm.heroes.v1/feature.trait.fury.level-1/kit"}
 
@@ -463,7 +463,7 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 #### Unstoppable Force {data-scc="mcdm.heroes.v1/feature.trait.fury.level-2/unstoppable-force"}
 
-Whenever you use the Charge main action, you can use a strike signature ability or a strike heroic ability instead of a free strike. Additionally, you can jump as part of your charge.
+Whenever you use the [Charge](../feature/trait/common/main-actions/charge.md) main action, you can use a strike signature ability or a strike heroic ability instead of a [free strike](../feature/trait/common/main-actions/free-strike.md). Additionally, you can jump as part of your charge.
 
 ### 2nd-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.trait.fury.level-2/2nd-level-aspect-ability"}
 
@@ -482,7 +482,7 @@ Choose one of the following abilities.
 |-------------------|------------------------:|
 | **📏 Melee 1**    | **🎯 One willing ally** |
 
-**Effect:** You vertically push the target up to 4 squares. This [forced movement](../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a free strike that deals extra damage equal to your Might score.
+**Effect:** You vertically push the target up to 4 squares. This [forced movement](../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../feature/trait/common/main-actions/free-strike.md) that deals extra damage equal to your Might score.
 
 ##### Wrecking Ball {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball"}
 
@@ -575,7 +575,7 @@ Choose one of the following abilities.
 - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](../condition/dazed.md) (save ends)
 - **17+:** 7 damage; push 3; M < STRONG, [dazed](../condition/dazed.md) (save ends)
 
-**Effect:** This ability deals your primordial damage type (see [Stormwight Kits](../feature/trait/fury/stormwight-kits.md)).
+**Effect:** This ability deals your primordial damage type (see [Stormwight Kits](../feature/trait/fury/stormwight-kits/kit-features.md)).
 
 ## 3rd-Level Features
 
@@ -603,7 +603,7 @@ Additionally, you have a bonus to stability equal to your Might score.
 
 You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.
 
-When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in [animal form](../complication/animal-form.md) (see [Stormwight Kits](../feature/trait/fury/stormwight-kits.md)).
+When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in [animal form](../complication/animal-form.md) (see [Stormwight Kits](../feature/trait/fury/stormwight-kits/kit-features.md)).
 
 #### See Through Their Tricks {data-scc="mcdm.heroes.v1/feature.trait.fury.level-3/see-through-their-tricks"}
 
@@ -655,7 +655,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Effect:** If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee free strike against them.
+**Effect:** If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee [free strike](../feature/trait/common/main-actions/free-strike.md) against them.
 
 ## 4th-Level Features
 
@@ -921,7 +921,7 @@ Choose one of the following abilities.
 
 **Effect:** Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can [fly](../movement/fly.md) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](../movement/fly.md) until the start of their next turn or until the effect ends.
 
-**Special:** When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a [primordial storm](../feature/trait/fury/primordial-storm.md) that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.
+**Special:** When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a [primordial storm](../feature/trait/fury/stormwight-kits/primordial-storm.md) that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.
 
 ## 7th-Level Features
 
@@ -935,7 +935,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 You exhibit ever-stronger signs of how the force of the Primordial Chaos flows within you. Whenever you show strong emotion or increase your ferocity, elemental motes attuned to your mood flit around you, and your skin changes in appearance to reflect an element of your choice.
 
-Additionally, if you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Might score. If you are a stormwight, you have immunity to the damage type of your [Primordial Storm](../feature/trait/fury/primordial-storm.md) feature equal to twice your Might score.
+Additionally, if you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Might score. If you are a stormwight, you have immunity to the damage type of your [Primordial Storm](../feature/trait/fury/stormwight-kits/primordial-storm.md) feature equal to twice your Might score.
 
 ### Greater Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury.level-7/greater-ferocity"}
 
@@ -971,15 +971,15 @@ Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) gra
 
 #### Menagerie {data-scc="mcdm.heroes.v1/feature.trait.fury.level-8/menagerie"}
 
-You can use all [stormwight kits](../feature/trait/fury/stormwight-kits.md). During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all [stormwight kits](../feature/trait/fury/stormwight-kits/kit-features.md). During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
 #### A Step Ahead {data-scc="mcdm.heroes.v1/feature.trait.fury.level-8/a-step-ahead"}
 
-You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can [shift](../movement/shifting.md) gains a bonus equal to your Agility score.
+You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](../feature/trait/common/move-actions/disengage.md) move action, the distance you can [shift](../movement/shifting.md) gains a bonus equal to your Agility score.
 
 #### Strongest There Is {data-scc="mcdm.heroes.v1/feature.trait.fury.level-8/strongest-there-is"}
 
-Your strength is unmatched. Whenever you make a Might test, you can roll three dice and choose which two to use. Additionally, whenever you use the Knockback maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Might score.
+Your strength is unmatched. Whenever you make a Might test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Might score.
 
 ### 11-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.trait.fury.level-8/11-ferocity-ability"}
 
@@ -1151,7 +1151,7 @@ Choose one of the following abilities.
 ##### Deluge {data-scc="mcdm.heroes.v1/feature.ability.fury.level-9/deluge"}
 
 
-*You summon your [primordial storm](../feature/trait/fury/primordial-storm.md).*
+*You summon your [primordial storm](../feature/trait/fury/stormwight-kits/primordial-storm.md).*
 
 | **Area, Magic, Ranged** |               **Main action** |
 |-------------------------|------------------------------:|
@@ -1171,7 +1171,7 @@ As a 10th-level [fury](fury.md), you gain the following features.
 
 ### Chaos Incarnate {data-scc="mcdm.heroes.v1/feature.trait.fury.level-10/chaos-incarnate"}
 
-Your mastery of elemental forces protects and emboldens you. If you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to twice your Might score. If you are a stormwight, your damage immunity from your [Primordial Storm](../feature/trait/fury/primordial-storm.md) feature (see [Stormwight Kits](../feature/trait/fury/stormwight-kits.md)) increases to three times your Might score.
+Your mastery of elemental forces protects and emboldens you. If you are a berserker or reaver, you have immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to twice your Might score. If you are a stormwight, your damage immunity from your [Primordial Storm](../feature/trait/fury/stormwight-kits/primordial-storm.md) feature (see [Stormwight Kits](../feature/trait/fury/stormwight-kits/kit-features.md)) increases to three times your Might score.
 
 When any elemental or any other creature whose abilities deal acid, cold, corruption, fire, lightning, poison, or sonic damage first becomes aware of you in combat, if they have P < STRONG, they are [frightened](../condition/frightened.md) of you (save ends).
 
@@ -1207,23 +1207,23 @@ You can also spend 3 [primordial power](../feature/trait/fury/level-10/primordia
 
 You gain one skill of your choice.
 
-## Stormwight Kits {data-scc="mcdm.heroes.v1/feature.trait.fury/stormwight-kits"}
+## Stormwight Kits
 
-The stormwight [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional [stormwight kits](../feature/trait/fury/stormwight-kits.md) through play, changing them out during a respite as with any other kit (see Chapter 6: [Kits](../../Read/heroes/kits.md)).
+The stormwight [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional [stormwight kits](../feature/trait/fury/stormwight-kits/kit-features.md) through play, changing them out during a respite as with any other kit (see Chapter 6: [Kits](../../Read/heroes/kits.md)).
 
-### Kit Features {data-scc="mcdm.heroes.v1/feature.trait.fury/kit-features"}
+### Kit Features {data-scc="mcdm.heroes.v1/feature.trait.fury.stormwight-kits/kit-features"}
 
-All [stormwight kits](../feature/trait/fury/stormwight-kits.md) have the following features in common.
+All stormwight kits have the following features in common.
 
-#### Aspect Benefits and Animal Form {data-scc="mcdm.heroes.v1/feature.trait.fury/aspect-benefits-and-animal-form"}
+#### Aspect Benefits and Animal Form {data-scc="mcdm.heroes.v1/feature.trait.fury.stormwight-kits/aspect-benefits-and-animal-form"}
 
 Your [primordial aspect](../feature/trait/fury/level-1/primordial-aspect.md) benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.
 
-#### Aspect of the Wild {data-scc="mcdm.heroes.v1/feature.trait.fury/aspect-of-the-wild"}
+#### Aspect of the Wild {data-scc="mcdm.heroes.v1/feature.trait.fury.stormwight-kits/aspect-of-the-wild"}
 
 You have the following ability.
 
-##### Aspect of the Wild {data-scc="mcdm.heroes.v1/feature.ability.fury/aspect-of-the-wild"}
+##### Aspect of the Wild {data-scc="mcdm.heroes.v1/feature.ability.fury.stormwight-kits/aspect-of-the-wild"}
 
 
 *You assume the form of the animal who channels your ferocity.*
@@ -1236,15 +1236,15 @@ You have the following ability.
 
 **Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another [animal form](../complication/animal-form.md), into your hybrid form, or back into your true form.
 
-#### Primordial Storm {data-scc="mcdm.heroes.v1/feature.trait.fury/primordial-storm"}
+#### Primordial Storm {data-scc="mcdm.heroes.v1/feature.trait.fury.stormwight-kits/primordial-storm"}
 
-Each stormwight kit is associated with a [primordial storm](../feature/trait/fury/primordial-storm.md), which channels a specific damage type used by some of your abilities.
+Each stormwight kit is associated with a [primordial storm](../feature/trait/fury/stormwight-kits/primordial-storm.md), which channels a specific damage type used by some of your abilities.
 
-#### Equipment {data-scc="mcdm.heroes.v1/feature.trait.fury/equipment"}
+#### Equipment {data-scc="mcdm.heroes.v1/feature.trait.fury.stormwight-kits/equipment"}
 
 You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your ferocity grows.
 
-#### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.trait.fury/kit-bonuses"}
+#### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.trait.fury.stormwight-kits/kit-bonuses"}
 
 These bonuses apply in your true form, your [animal form](../complication/animal-form.md), and your hybrid form. See Chapter 6: [Kits](../../Read/heroes/kits.md) for information on [kit bonuses](../feature/trait/fury/boren/kit-bonuses.md).
 
@@ -1252,7 +1252,7 @@ These bonuses apply in your true form, your [animal form](../complication/animal
 
 You gain a new signature ability from your kit.
 
-#### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury/growing-ferocity"}
+#### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.trait.fury.stormwight-kits/growing-ferocity"}
 
 Each stormwight kit grants a set of benefits for your [Growing Ferocity](../feature/trait/fury/boren/growing-ferocity.md) feature.
 
@@ -1308,9 +1308,9 @@ As your ferocity grows, you gain benefits as noted on the [Boren](../kit/boren.m
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | You can have up to two creatures [grabbed](../condition/grabbed.md) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](../condition/grabbed.md), you gain 1 surge.                                                                       |
 | 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                           |
-| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                                                     |
+| 6               | You gain an edge on the [Grab](../feature/trait/common/maneuvers/grab.md) and [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers.                                                                                                                                                                     |
 | 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                             |
-| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                                               |
+| 10 (7th level)  | You have a double edge on the [Grab](../feature/trait/common/maneuvers/grab.md) and [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers.                                                                                                                                                               |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](../condition/grabbed.md), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
 
 ### Corven {data-scc="mcdm.heroes.v1/kit/corven"}
@@ -1319,11 +1319,11 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/trai
 
 #### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.trait.fury.corven/aspect-benefits"}
 
-You gain an edge on tests made to hide and sneak. Additionally, whenever you fall, you can use a free triggered action to use your [Aspect of the Wild](../feature/ability/fury/aspect-of-the-wild.md) ability.
+You gain an edge on tests made to hide and sneak. Additionally, whenever you fall, you can use a free triggered action to use your [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md) ability.
 
 #### Animal Form: Crow {data-scc="mcdm.heroes.v1/feature.trait.fury.corven/animal-form-crow"}
 
-While you are in your crow form, your size is 1T and you can [fly](../movement/fly.md). You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/aspect-of-the-wild.md).
+While you are in your crow form, your size is 1T and you can [fly](../movement/fly.md). You can use the [Hide](../feature/trait/common/maneuvers/hide.md) maneuver as a free maneuver, and you can use your allies as cover when you hide. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md).
 
 #### Hybrid Form: Crow {data-scc="mcdm.heroes.v1/feature.trait.fury.corven/hybrid-form-crow"}
 
@@ -1366,11 +1366,11 @@ As your ferocity grows, you gain benefits as noted on the [Corven](../kit/corven
 
 | Ferocity        | Benefit                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Disengage move action, the distance you can [shift](../movement/shifting.md) gains a bonus equal to your Agility score.                                 |
+| 2               | Whenever you use the [Disengage](../feature/trait/common/move-actions/disengage.md) move action, the distance you can [shift](../movement/shifting.md) gains a bonus equal to your Agility score.                                 |
 | 4               | The first time you [shift](../movement/shifting.md) on a turn, you gain 1 surge.                                                                                             |
-| 6               | You gain an edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver.                                                          |
+| 6               | You gain an edge on Agility tests, the [Escape Grab](../feature/trait/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver.                                                          |
 | 8 (4th level)   | The first time you [shift](../movement/shifting.md) on a turn, you gain 2 surges instead of 1.                                                                               |
-| 10 (7th level)  | You have a double edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver.                                                    |
+| 10 (7th level)  | You have a double edge on Agility tests, the [Escape Grab](../feature/trait/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver.                                                    |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you. |
 
 ### Raden {data-scc="mcdm.heroes.v1/kit/raden"}
@@ -1383,7 +1383,7 @@ You gain an edge on tests made to hide and sneak. Additionally, you ignore [diff
 
 #### Animal Form: Rat {data-scc="mcdm.heroes.v1/feature.trait.fury.raden/animal-form-rat"}
 
-While you are in your rat form, your size is 1T and you can automatically climb at full speed while moving. You can use the Hide maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to climb other creatures. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/aspect-of-the-wild.md).
+While you are in your rat form, your size is 1T and you can automatically climb at full speed while moving. You can use the [Hide](../feature/trait/common/maneuvers/hide.md) maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to climb other creatures. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md).
 
 #### Hybrid Form: Rat {data-scc="mcdm.heroes.v1/feature.trait.fury.raden/hybrid-form-rat"}
 
@@ -1426,11 +1426,11 @@ As your ferocity grows, you gain benefits as noted on the [Raden](../kit/raden.m
 
 | Ferocity        | Benefit                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Disengage move action, the distance you can [shift](../movement/shifting.md) gains a bonus equal to your Agility score.                                 |
+| 2               | Whenever you use the [Disengage](../feature/trait/common/move-actions/disengage.md) move action, the distance you can [shift](../movement/shifting.md) gains a bonus equal to your Agility score.                                 |
 | 4               | The first time you [shift](../movement/shifting.md) on a turn, you gain 1 surge.                                                                                             |
-| 6               | You gain an edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver.                                                          |
+| 6               | You gain an edge on Agility tests, the [Escape Grab](../feature/trait/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver.                                                          |
 | 8 (4th level)   | The first time you [shift](../movement/shifting.md) on a turn, you gain 2 surges instead of 1.                                                                               |
-| 10 (7th level)  | You have a double edge on Agility tests, the Escape Grab maneuver, and the Knockback maneuver                                                     |
+| 10 (7th level)  | You have a double edge on Agility tests, the [Escape Grab](../feature/trait/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver                                                     |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you. |
 
 ### Vuken {data-scc="mcdm.heroes.v1/kit/vuken"}
@@ -1439,7 +1439,7 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/trai
 
 #### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/aspect-benefits"}
 
-Whenever you use the Knockback maneuver, you can then use the Aid Attack maneuver as a free triggered action.
+Whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, you can then use the [Aid Attack](../feature/trait/common/maneuvers/aid-attack.md) maneuver as a free triggered action.
 
 #### Animal Form: Wolf {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/animal-form-wolf"}
 
@@ -1484,9 +1484,9 @@ As your ferocity grows, you gain benefits as noted on the [Vuken](../kit/vuken.m
 
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Knockback maneuver, you can target one additional creature.                                                                                                                                                 |
+| 2               | Whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, you can target one additional creature.                                                                                                                                                 |
 | 4               | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 1 surge.                                                                                                                                   |
-| 6               | You gain an edge on Agility tests and the Knockback maneuver.                                                                                                                                                                    |
+| 6               | You gain an edge on Agility tests and the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
 | 8 (4th level)   | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 2 surges.                                                                                                                                  |
-| 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
+| 10 (7th level)  | You have a double edge on Agility tests and the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Agility score. |

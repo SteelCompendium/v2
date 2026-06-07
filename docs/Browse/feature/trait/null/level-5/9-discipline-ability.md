@@ -79,7 +79,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/grabbed/">grabbed</a> this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/grabbed/">grabbed</a> this way, the target takes a bane on the <a href="../../../common/maneuvers/escape-grab/">Escape Grab</a> maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="move">

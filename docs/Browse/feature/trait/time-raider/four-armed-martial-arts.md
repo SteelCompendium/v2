@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures <a href="../../../../condition/grabbed/">grabbed</a> at a time.</p>
+<p>Your multiple arms let you take on multiple tasks at the same time. Whenever you use the <a href="../../common/maneuvers/grab/">Grab</a> or <a href="../../common/maneuvers/knockback/">Knockback</a> maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures <a href="../../../../condition/grabbed/">grabbed</a> at a time.</p>
 </div>
 </section>

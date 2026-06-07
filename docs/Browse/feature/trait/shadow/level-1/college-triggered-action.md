@@ -77,7 +77,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take half the triggering damage, then can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares after the triggering effect resolves. If you end this <a href="../../../../../movement/shifting/">shift</a> with concealment or cover, you can use the Hide maneuver even if you are observed.</p></div>
+<div class="sc-ability__section-body"><p>You take half the triggering damage, then can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares after the triggering effect resolves. If you end this <a href="../../../../../movement/shifting/">shift</a> with concealment or cover, you can use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver even if you are observed.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Insight</span><span class="txt">The potency of any effects associated with the damage are reduced by 1 for you.</span></div>
 </article>

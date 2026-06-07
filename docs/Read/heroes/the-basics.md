@@ -292,7 +292,7 @@ When you spend a Recovery, you regain Stamina equal to your **recovery value**, 
 
 ##### Spending Recoveries
 
-During combat encounters and similarly dangerous situations when time is tracked in rounds (see Combat), you can use the Catch Breath maneuver to regain Stamina. (See Catch Breath in Maneuvers for more information.) Some heroes have abilities that allow them or their allies to spend more Recoveries without using the Catch Breath maneuver.
+During combat encounters and similarly dangerous situations when time is tracked in rounds (see Combat), you can use the [Catch Breath](../../Browse/feature/trait/common/maneuvers/catch-breath.md) maneuver to regain Stamina. (See [Catch Breath](../../Browse/feature/trait/common/maneuvers/catch-breath.md) in Maneuvers for more information.) Some heroes have abilities that allow them or their allies to spend more Recoveries without using the [Catch Breath](../../Browse/feature/trait/common/maneuvers/catch-breath.md) maneuver.
 
 Outside of combat and other dangerous situations, you can spend Recoveries freely.
 

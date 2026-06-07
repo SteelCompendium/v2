@@ -20,7 +20,7 @@ type: trait
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability, which can be used as a ranged free strike.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability, which can be used as a ranged <a href="../../../common/main-actions/free-strike/">free strike</a>.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">

@@ -370,7 +370,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a free strike against the source of the damage.</p></div>
+<div class="sc-ability__section-body"><p>Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a <a href="../../../common/main-actions/free-strike/">free strike</a> against the source of the damage.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

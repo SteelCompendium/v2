@@ -20,7 +20,7 @@ type: trait
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don&#39;t have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including free strikes. You can use light armor treasures and light weapon treasures.</p>
+<p>Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don&#39;t have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including <a href="../../../common/main-actions/free-strike/">free strikes</a>. You can use light armor treasures and light weapon treasures.</p>
 <p>If you have a kit, you can&#39;t take this blessing.</p>
 </div>
 </section>

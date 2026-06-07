@@ -140,7 +140,7 @@ Some [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md) b
 
 #### Chronokinetic Mastery {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/chronokinetic-mastery"}
 
-Whenever you use the [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can use the Disengage move action as a free triggered action.
+Whenever you use the [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can use the [Disengage](../feature/trait/common/move-actions/disengage.md) move action as a free triggered action.
 
 Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../feature/trait/null/level-1/chronokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -148,16 +148,16 @@ Additionally, as your discipline grows, your psionic mastery of your body intens
 
 | Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Knockback maneuver, you can use the Disengage move action as a free triggered action either before or after the maneuver.                                              |
+| 2               | Whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, you can use the [Disengage](../feature/trait/common/move-actions/disengage.md) move action as a free triggered action either before or after the maneuver.                                              |
 | 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                 |
-| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                       |
+| 6               | You gain an edge on the [Grab](../feature/trait/common/maneuvers/grab.md) and [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
 | 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                |
-| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                 |
+| 10 (7th level)  | You have a double edge on the [Grab](../feature/trait/common/maneuvers/grab.md) and [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
 | 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
 
 #### Cryokinetic Mastery {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/cryokinetic-mastery"}
 
-Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can then use the Grab maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can then use the [Grab](../feature/trait/common/maneuvers/grab.md) maneuver as a free triggered action.
 
 Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../feature/trait/null/level-1/cryokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -165,16 +165,16 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 
 | Discipline      | Benefit                                                                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Knockback maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
+| 2               | Whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
 | 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability, you gain 1 surge.                                                   |
-| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                             |
+| 6               | You gain an edge on the [Grab](../feature/trait/common/maneuvers/grab.md) and [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers.                                                                                                                                             |
 | 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability, you gain 2 surges.                                                  |
-| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                       |
+| 10 (7th level)  | You have a double edge on the [Grab](../feature/trait/common/maneuvers/grab.md) and [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
 | 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.       |
 
 #### Metakinetic Mastery {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/metakinetic-mastery"}
 
-Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can then use the Knockback maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can then use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver as a free triggered action.
 
 Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../feature/trait/null/level-1/metakinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -182,16 +182,16 @@ Additionally, as your discipline grows, your psionic potential is amplified, gra
 
 | Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Knockback maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.                                                                          |
+| 2               | Whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.                                                                          |
 | 4               | The first time in a combat round that you take damage or are [force moved](../movement/forced-movement.md), you gain 1 surge, even if you resist the effect.                                                                  |
-| 6               | You gain an edge on the Grab and Knockback maneuvers.                                                                                                                                       |
+| 6               | You gain an edge on the [Grab](../feature/trait/common/maneuvers/grab.md) and [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
 | 8 (4th level)   | The first time in a combat round that you take damage or are [force moved](../movement/forced-movement.md), you gain 2 surges, even if you resist the effect.                                                                 |
-| 10 (7th level)  | You have a double edge on the Grab and Knockback maneuvers.                                                                                                                                 |
+| 10 (7th level)  | You have a double edge on the [Grab](../feature/trait/common/maneuvers/grab.md) and [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
 | 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
 
 ### Null Speed {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/null-speed"}
 
-The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can [shift](../movement/shifting.md) when you take the Disengage move action equal to your Agility score.
+The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action equal to your Agility score.
 
 ### Psionic Augmentation {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/psionic-augmentation"}
 
@@ -207,11 +207,11 @@ Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
 #### Speed Augmentation {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/speed-augmentation"}
 
-You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the Disengage move action.
+You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action.
 
 ### Psionic Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/psionic-martial-arts"}
 
-Whenever you use the Knockback or Grab maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the Knockback maneuver, you can choose to slide the target instead of pushing them.
+Whenever you use the Knockback or [Grab](../feature/trait/common/maneuvers/grab.md) maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, you can choose to slide the target instead of pushing them.
 
 ### Null Abilities {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/null-abilities"}
 
@@ -372,7 +372,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 - **12-16:** 10 + A damage
 - **17+:** 13 + A damage
 
-**Effect:** You can [shift](../movement/shifting.md) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+**Effect:** You can [shift](../movement/shifting.md) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../feature/trait/common/main-actions/free-strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
 ##### Psychic Pulse {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/psychic-pulse"}
 
@@ -487,7 +487,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 - **12-16:** 9 damage
 - **17+:** 13 damage
 
-**Effect:** You can take the Disengage move action as a free maneuver before or after you use this ability.
+**Effect:** You can take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action as a free maneuver before or after you use this ability.
 
 ## 2nd-Level Features
 
@@ -777,7 +777,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../condition/grabbed.md)
 - **17+:** 18 + A damage; A < STRONG, [grabbed](../condition/grabbed.md)
 
-**Effect:** While [grabbed](../condition/grabbed.md) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+**Effect:** While [grabbed](../condition/grabbed.md) this way, the target takes a bane on the [Escape Grab](../feature/trait/common/maneuvers/escape-grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
 #### Phase Leap {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/phase-leap"}
 
@@ -995,7 +995,7 @@ You and each creature or object of your choice in the area of your [Null Field](
 
 #### Shared Momentum {data-scc="mcdm.heroes.v1/feature.trait.null.level-8/shared-momentum"}
 
-When you take the Disengage move action, one ally in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
+When you take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action, one ally in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability can also take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action as a free triggered action, using your distance for that move action.
 
 #### Synaptic Triage {data-scc="mcdm.heroes.v1/feature.trait.null.level-8/synaptic-triage"}
 

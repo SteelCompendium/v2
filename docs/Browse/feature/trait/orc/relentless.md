@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.</p>
+<p>Whenever a creature deals damage to you that leaves you dying, you can make a <a href="../../common/main-actions/free-strike/">free strike</a> against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.</p>
 </div>
 </section>

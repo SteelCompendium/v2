@@ -76,7 +76,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ignore any effects associated with the damage that triggered your <a href="../../../../ability/shadow/level-1/in-all-this-confusion/">In All This Confusion</a> ability. Before you <a href="../../../../../movement/teleport/">teleport</a>, you can make a free strike against a creature who damaged you to trigger <a href="../../../../ability/shadow/level-1/in-all-this-confusion/">In All This Confusion</a>. After you <a href="../../../../../movement/teleport/">teleport</a>, you can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>You ignore any effects associated with the damage that triggered your <a href="../../../../ability/shadow/level-1/in-all-this-confusion/">In All This Confusion</a> ability. Before you <a href="../../../../../movement/teleport/">teleport</a>, you can make a <a href="../../../common/main-actions/free-strike/">free strike</a> against a creature who damaged you to trigger <a href="../../../../ability/shadow/level-1/in-all-this-confusion/">In All This Confusion</a>. After you <a href="../../../../../movement/teleport/">teleport</a>, you can spend a Recovery.</p></div>
 </div>
 </article>
 </div>
@@ -208,7 +208,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You use your <a href="../../../../ability/shadow/level-1/clever-trick/">Clever Trick</a> ability with no insight cost against the triggering creature and strike. You can <a href="../../../../../movement/teleport/">teleport</a> to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>You use your <a href="../../../../ability/shadow/level-1/clever-trick/">Clever Trick</a> ability with no insight cost against the triggering creature and strike. You can <a href="../../../../../movement/teleport/">teleport</a> to an unoccupied space within 3 squares of that creature and can make a <a href="../../../common/main-actions/free-strike/">free strike</a> against them. You can then spend a Recovery.</p></div>
 </div>
 </article>
 </div>

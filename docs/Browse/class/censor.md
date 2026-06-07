@@ -80,7 +80,7 @@ Your [censor order](../feature/trait/censor/level-1/censor-order.md) is your sub
 
 Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](../../Read/heroes/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
-After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you'll gain from this class. (*Quick Build:* Cavall as deity and War as domain.)
+After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you'll gain from this class. (*Quick Build:* [Cavall](../god/cavall.md) as deity and War as domain.)
 
 ### Wrath {data-scc="mcdm.heroes.v1/feature.trait.censor.level-1/wrath"}
 
@@ -121,7 +121,7 @@ When a creature judged by you is reduced to 0 Stamina, you can use a free trigge
 
 Additionally, you can spend 1 wrath to take one of the following free triggered actions:
 
-- When an adjacent creature judged by you starts to [shift](../movement/shifting.md), you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from [shifting](../movement/shifting.md).
+- When an adjacent creature judged by you starts to [shift](../movement/shifting.md), you make a melee [free strike](../feature/trait/common/main-actions/free-strike.md) against them and their speed becomes 0 until the end of the current turn, preventing them from [shifting](../movement/shifting.md).
 - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
 - If you damage a creature judged by you with a melee ability, the creature is [taunted](../condition/taunted.md) by you until the end of their next turn.
@@ -525,7 +525,7 @@ Your devotion to your deity allows you to take command of the battlefield, letti
 
 #### Saint's Vigilance {data-scc="mcdm.heroes.v1/feature.trait.censor.level-2/saints-vigilance"}
 
-You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the Hide maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability against them as a free triggered action.
+You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can't use the [Hide](../feature/trait/common/maneuvers/hide.md) maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability against them as a free triggered action.
 
 #### A Sense for Truth {data-scc="mcdm.heroes.v1/feature.trait.censor.level-2/a-sense-for-truth"}
 
@@ -1219,7 +1219,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 - **12-16:** 9 + P damage; I < AVERAGE, [slowed](../condition/slowed.md) (save ends)
 - **17+:** 12 + P damage; I < STRONG, [slowed](../condition/slowed.md) (save ends)
 
-**Effect:** While the target is [slowed](../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is [slowed](../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
+**Effect:** While the target is [slowed](../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../feature/trait/common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../feature/trait/common/main-actions/free-strike.md) against a different creature must make the [free strike](../feature/trait/common/main-actions/free-strike.md) against the target instead.
 
 ## 9th-Level Features
 
@@ -1355,7 +1355,7 @@ You gain one skill of your choice.
 
 ### Templar {data-scc="mcdm.heroes.v1/feature.trait.censor.level-10/templar"}
 
-You are the ultimate representation of your god's justice in the timescape. Whenever you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability, you can use a free triggered action to use a [conduit](conduit.md) domain effect (see Domain Piety and Effects in the [Conduit](conduit.md) section) associated with your chosen domain, or a domain you access with [virtue](../feature/trait/censor/level-10/virtue.md) (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your [conduit](conduit.md) level, use your [censor](censor.md) level instead.
+You are the ultimate representation of your god's justice in the timescape. Whenever you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability, you can use a free triggered action to use a [conduit](conduit.md) domain effect (see [Domain Piety and Effects](../feature/trait/conduit/level-1/domain-piety-and-effects.md) in the [Conduit](conduit.md) section) associated with your chosen domain, or a domain you access with [virtue](../feature/trait/censor/level-10/virtue.md) (see below). If the effect calls for the use of your Intuition score, you use your Presence score instead. If the effect uses your [conduit](conduit.md) level, use your [censor](censor.md) level instead.
 
 Additionally, whenever you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity three questions, which the Director must answer honestly if your deity knows the answers (though they might answer cryptically or incompletely). When you finish your respite, you and your allies can appear at any location in the timescape where someone worships your deity.
 

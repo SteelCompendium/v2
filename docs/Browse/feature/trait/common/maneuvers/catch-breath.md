@@ -17,7 +17,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>A creature who uses the Catch Breath maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for Stamina. See Recoveries in Chapter 1: <a href="../../../../../../Read/heroes/the-basics/">The Basics</a>.)</p>
-<p>A creature who is dying (see Dying and Death in Stamina below) can&#39;t use the Catch Breath maneuver, but other creatures can help them spend Recoveries in other ways.</p>
+<p>A creature who uses the <a href="../catch-breath/">Catch Breath</a> maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for Stamina. See Recoveries in Chapter 1: <a href="../../../../../../Read/heroes/the-basics/">The Basics</a>.)</p>
+<p>A creature who is dying (see Dying and Death in Stamina below) can&#39;t use the <a href="../catch-breath/">Catch Breath</a> maneuver, but other creatures can help them spend Recoveries in other ways.</p>
 </div>
 </section>

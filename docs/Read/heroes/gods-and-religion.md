@@ -21,9 +21,9 @@ Each god has many saints, some obscure. They sometimes manifest in the world. Th
 
 No one knows.
 
-As a result of this complex tapestry of belief and personalities, a farmer in Aendrim might call upon Adûn for strength while tilling the earth. But if a cool breeze suddenly came along, easing the bite of the sun on their back, they would almost certainly not thank Adûn or any of his saints. They would probably thank Saint Elspeth the Blithe, sometimes called the Summer Breeze. If they had a neighbor or relative with a shrine to Saint Elspeth in their home, they might give that person a small gift or offering and ask them to place it on their shrine. More likely, they would silently promise to do this, and then forget or get distracted.
+As a result of this complex tapestry of belief and personalities, a farmer in Aendrim might call upon [Adûn](../god/adun.md) for strength while tilling the earth. But if a cool breeze suddenly came along, easing the bite of the sun on their back, they would almost certainly not thank [Adûn](../god/adun.md) or any of his saints. They would probably thank Saint Elspeth the Blithe, sometimes called the Summer Breeze. If they had a neighbor or relative with a shrine to Saint Elspeth in their home, they might give that person a small gift or offering and ask them to place it on their shrine. More likely, they would silently promise to do this, and then forget or get distracted.
 
-If questioned about this-"Why did you call upon one god, but thank the saint of a completely different god?"-they would first be surprised by the question. It would not have occurred to them to examine this behavior. If pressed they would say, "Oh, I'm sure they worked it out between them." They would not imagine, "Adûn told Viras, who told her saint, Elspeth, to send a cooling breeze," but they would assume
+If questioned about this-"Why did you call upon one god, but thank the saint of a completely different god?"-they would first be surprised by the question. It would not have occurred to them to examine this behavior. If pressed they would say, "Oh, I'm sure they worked it out between them." They would not imagine, "[Adûn](../god/adun.md) told Viras, who told her saint, Elspeth, to send a cooling breeze," but they would assume
 
 something like that happened and not worry overmuch about the details. They called out, they received aid—that's what's important.
 
@@ -33,7 +33,7 @@ If no aid is forthcoming folks assume this is because the gods and saints are al
 
 Most religions in Orden organize themselves into hierarchies and build temples or cathedrals, but some religions are little more than traditions handed down from shaman to shaman, or wise-woman to wise-daughter. Some religions are secret!
 
-Because the gods are forbidden from acting directly upon the world, churches and temples in Orden are consecrated to saints, or heroes. There are no temples to Ord or churches of Cavall. Instead, there is the Church of Zarok the Law-Giver and the Church of Saint Llewellyn the Valiant. Everyone knows which god these heroes and saints serve, it's common knowledge. A [human](../../Browse/ancestry/human.md) in Vasloria might call out to Cavall for aid in times of need but they know that, should Cavall choose to help, it will be by sending one of his saints.
+Because the gods are forbidden from acting directly upon the world, churches and temples in Orden are consecrated to saints, or heroes. There are no temples to Ord or churches of [Cavall](../god/cavall.md). Instead, there is the Church of Zarok the Law-Giver and the Church of Saint Llewellyn the Valiant. Everyone knows which god these heroes and saints serve, it's common knowledge. A [human](../../Browse/ancestry/human.md) in Vasloria might call out to [Cavall](../god/cavall.md) for aid in times of need but they know that, should [Cavall](../god/cavall.md) choose to help, it will be by sending one of his saints.
 
 The most popular saints and heroes can have several churches meaning distinct organizations—devoted to them, each with their own rituals. In Corwell, there is the Church of Saint Llewellyn the Valiant, but there is also the smaller Church of Saint Llewellyn the Charitable with only a few temples.
 
@@ -115,15 +115,15 @@ The Deities and Domains table and the Saints and Domains table summarize each of
 
 | Deity                   | Domains                                       |
 |-------------------------|-----------------------------------------------|
-| Adûn                    | Creation, Life, Love, Protection              |
-| Cavall                  | Life, Love, Protection, War                   |
+| [Adûn](../god/adun.md)                    | Creation, Life, Love, Protection              |
+| [Cavall](../god/cavall.md)                  | Life, Love, Protection, War                   |
 | Cyrvis                  | Death, Fate, Knowledge, Trickery              |
 | Kul                     | Knowledge, Life, Sun, Trickery, War           |
-| Nebular the Star Mother | Creation, Life, Love, Sun                     |
+| [Nebular](../god/nebular.md) the Star Mother | Creation, Life, Love, Sun                     |
 | Nikros                  | Death, Fate, Storm, War                       |
 | Ord                     | Creation, Knowledge, Protection, Sun, War     |
 | OV the Wave Pilot       | Fate, Knowledge, Storm, Sun                   |
-| Salorna                 | Life, Nature, Storm, Sun                      |
+| [Salorna](../god/salorna.md)                 | Life, Nature, Storm, Sun                      |
 | Val                     | Creation, Knowledge, Life, Nature, Protection |
 
 ###### Saints and Domains Table
@@ -152,7 +152,7 @@ The Deities and Domains table and the Saints and Domains table summarize each of
 | A Sea of Suns                       | Creation, Life                |
 | Stakros the Engineer                | Creation, Knowledge           |
 | The Taste of Morning                | Creation, Knowledge           |
-| Thellasko the Great Designer        | Knowledge, War                |
+| [Thellasko](../god/thellasko.md) the Great Designer        | Knowledge, War                |
 | Thyll Hylacae                       | Life, Nature                  |
 | Uryal the Subtle                    | Knowledge, Trickery           |
 | Valak-koth the Seeker               | Knowledge, Sun                |
@@ -523,11 +523,11 @@ Kuryalka features in many folktales in Hell, including "Of the Childe Whomst Kep
 
 Like all the Innumerable Younger Gods, the gods of Vasloria embody the attitudes of the people who live in that region. This includes the [humans](../../Browse/ancestry/human.md), [polder](../../Browse/ancestry/polder.md), and draconians of Vasloria.
 
-Vasloria is a polytheistic, preindustrial, pre-Enlightenment, feudal culture. Its people have many superstitions and prejudices, some of which are reflected in the teachings of their gods. Adûn, for instance, teaches that hard physical labor is a moral good and people who work hard every day are honest. Most people in Vasloria, especially Aendrim where Adûn's faith is most popular, believe this to one extent or another.
+Vasloria is a polytheistic, preindustrial, pre-Enlightenment, feudal culture. Its people have many superstitions and prejudices, some of which are reflected in the teachings of their gods. [Adûn](../god/adun.md), for instance, teaches that hard physical labor is a moral good and people who work hard every day are honest. Most people in Vasloria, especially Aendrim where [Adûn](../god/adun.md)'s faith is most popular, believe this to one extent or another.
 
 Some of them take it more seriously than others though. People in the most distant villages tend to believe it more literally, while people in the cities are perfectly aware than one may work and work and be a villain. And this is true of most of the beliefs presented in this chapter. Some people take it very seriously; some not so much.
 
-Like all peoples of Orden, the people of Vasloria are well aware there are other gods. They do not particularly think their gods are *better*, just, "These are the local ones who matter to us." A priest of Cavall who journeyed far from Corwell and found themselves in the distant desert land Khemhara could still act as a [conduit](../../Browse/class/conduit.md) of Saint Llewellyn the Valiant, but they would look around the Heliopolis and see the animal-headed gods of the Khemharans and the astonishing feats of masonry and astronomy the Khemharans achieved and think: "Well. Obviously the gods of Vasloria aren't that big a deal here, but these gods certainly are!" The peoples of each region of Orden prefer their own gods because they understand them best, not because they think they are "more powerful."
+Like all peoples of Orden, the people of Vasloria are well aware there are other gods. They do not particularly think their gods are *better*, just, "These are the local ones who matter to us." A priest of [Cavall](../god/cavall.md) who journeyed far from Corwell and found themselves in the distant desert land Khemhara could still act as a [conduit](../../Browse/class/conduit.md) of Saint Llewellyn the Valiant, but they would look around the Heliopolis and see the animal-headed gods of the Khemharans and the astonishing feats of masonry and astronomy the Khemharans achieved and think: "Well. Obviously the gods of Vasloria aren't that big a deal here, but these gods certainly are!" The peoples of each region of Orden prefer their own gods because they understand them best, not because they think they are "more powerful."
 
 #### Adûn {data-scc="mcdm.heroes.v1/god/adun"}
 
@@ -539,9 +539,9 @@ Vaslorians in remote villages still use the ancient test of strength to determin
 
 A priest following Adûn expresses their faith through labor. They build things. Many priests are also masons or carpenters. Joining the church for them did not mean abandoning their former trade. It intensified it.
 
-A knight following Adûn spends their time aiding others through hard work, inspiring people to honest speech and hard labor, as opposed to Adûn's brother Cavall who seeks to right wrongs.
+A knight following Adûn spends their time aiding others through hard work, inspiring people to honest speech and hard labor, as opposed to Adûn's brother [Cavall](../god/cavall.md) who seeks to right wrongs.
 
-Adûn and Cavall are brothers and the line between them is not a sharply defined one. Truth and justice are close companions.
+Adûn and [Cavall](../god/cavall.md) are brothers and the line between them is not a sharply defined one. Truth and justice are close companions.
 
 ##### Gaed the Confessor
 
@@ -595,7 +595,7 @@ A watchhouse chaplain is almost certainly a priest of Cavall. A rector serving a
 
 [Censors](../../Browse/class/censor.md) of Cavall, on the other hand, have no such motto. The nobility often sponsor knights of Cavall to roam the countryside and dispense justice in remote wilderness areas where the noble's influence cannot reach.
 
-Brother to Adûn and patron of the country of Corwell, Cavall also believes that people, no matter how vile, can be bettered. "Let the law judge," said Saint Llewellyn, "Let us forgive."
+Brother to [Adûn](../god/adun.md) and patron of the country of Corwell, Cavall also believes that people, no matter how vile, can be bettered. "Let the law judge," said Saint Llewellyn, "Let us forgive."
 
 ##### Llewellyn the Valiant
 
@@ -771,7 +771,7 @@ Most heroes are hero-heroes, but some heroes are anti-heroes, and some are anti-
 
 Nikros is strength. He is dominance. His is the right of the strong to rule over the weak. He is the Tyrant.
 
-Nikros believes that strength is the only virtue, and those who are born strong were born to rule. Because of this, followers of Nikros are often mistaken for followers of Adûn—a mask they are happy to wear. Both teach that strength is good. But for Adûn strength is a tool for helping others. For Nikros, strength is power to enact your will heedless of the consequences. Might is right.
+Nikros believes that strength is the only virtue, and those who are born strong were born to rule. Because of this, followers of Nikros are often mistaken for followers of [Adûn](../god/adun.md)—a mask they are happy to wear. Both teach that strength is good. But for [Adûn](../god/adun.md) strength is a tool for helping others. For Nikros, strength is power to enact your will heedless of the consequences. Might is right.
 
 Many is the baron or duke who attained power through sheer strength and ruthlessness, seeing their people as mere resources to be spent. Many of these rulers only come to Nikros after achieving power, their ears poisoned by a priest of the Tyrant.
 
@@ -831,7 +831,7 @@ Eseld teaches that spite is a virtue. Only fools follow rules, and sorcery is a 
 
 ### Space Gods of the Timescape
 
-The nature and origin of the gods of the timescape is not well understood. Unlike the gods of Orden, the Space Gods are corporeal beings, usually of immense—even planetary—size. Some are humanoid, others, like Nebular the Star Mother and XXAXX, decidedly not so.
+The nature and origin of the gods of the timescape is not well understood. Unlike the gods of Orden, the Space Gods are corporeal beings, usually of immense—even planetary—size. Some are humanoid, others, like [Nebular](../god/nebular.md) the Star Mother and XXAXX, decidedly not so.
 
 They have godlike power—greater it seems than the Innumerable Younger Gods. But there is no evidence that they can create whole realities like the Elder Gods. They are not, as far as sages can make out, the authors of the worlds or people of the timescape. They may represent the last survivors of previous realities, High Science experiments run amok, or ascended beings from ancient civilizations who outlasted the fall of their people.
 

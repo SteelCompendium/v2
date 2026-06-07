@@ -3,7 +3,7 @@ action_type: Main action
 class: "null"
 cost: 3 Discipline
 distance: Melee 1
-effect: You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+effect: You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../../../trait/common/main-actions/free-strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 flavor: You foresee the best moment to strike, then exploit it.
 keywords:
     - Melee
@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a free strike or use a signature ability, you can use this ability instead, paying its discipline cost as usual.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> or use a signature ability, you can use this ability instead, paying its discipline cost as usual.</p></div>
 </div>
 </article>

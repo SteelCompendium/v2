@@ -56,7 +56,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a free strike against them after the ability is resolved.</p></div>
+<div class="sc-ability__section-body"><p>Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a <a href="../../../common/main-actions/free-strike/">free strike</a> against them after the ability is resolved.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">

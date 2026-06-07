@@ -48,11 +48,11 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target is marked by you, and must immediately make a free strike against a creature of your choice within 5 squares of them.</p></div>
+<div class="sc-ability__section-body"><p>Each target is marked by you, and must immediately make a <a href="../../../common/main-actions/free-strike/">free strike</a> against a creature of your choice within 5 squares of them.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a free strike against a creature of your choice within 5 squares of them.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a <a href="../../../common/main-actions/free-strike/">free strike</a> against a creature of your choice within 5 squares of them.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

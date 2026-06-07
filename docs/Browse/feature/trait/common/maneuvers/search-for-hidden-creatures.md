@@ -17,6 +17,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>The Search for Hidden Creatures maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: <a href="../../../../../../Read/heroes/tests/">Tests</a>).</p>
+<p>The <a href="../search-for-hidden-creatures/">Search for Hidden Creatures</a> maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: <a href="../../../../../../Read/heroes/tests/">Tests</a>).</p>
 </div>
 </section>

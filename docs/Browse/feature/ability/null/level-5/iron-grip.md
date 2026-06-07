@@ -3,7 +3,7 @@ action_type: Main action
 class: "null"
 cost: 9 Discipline
 distance: Melee 1
-effect: While [grabbed](../../../../condition/grabbed.md) this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+effect: While [grabbed](../../../../condition/grabbed.md) this way, the target takes a bane on the [Escape Grab](../../../trait/common/maneuvers/escape-grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 flavor: You grab the target with supernatural force.
 keywords:
     - Melee
@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/grabbed/">grabbed</a> this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/grabbed/">grabbed</a> this way, the target takes a bane on the <a href="../../../../trait/common/maneuvers/escape-grab/">Escape Grab</a> maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.</p></div>
 </div>
 </article>

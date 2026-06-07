@@ -1,11 +1,11 @@
 ---
 class: fury
-name: Equipment
-scc: mcdm.heroes.v1/feature.trait.fury/equipment
+name: Primordial Storm
+scc: mcdm.heroes.v1/feature.trait.fury.stormwight-kits/primordial-storm
 type: trait
 ---
 
-# Equipment
+# Primordial Storm
 
 ---
 
@@ -14,10 +14,10 @@ type: trait
 <span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
 <div class="sc-trait__titles">
 <div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Fury Trait</div>
-<h3 class="sc-trait__name">Equipment</h3>
+<h3 class="sc-trait__name">Primordial Storm</h3>
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your ferocity grows.</p>
+<p>Each stormwight kit is associated with a <a href="../primordial-storm/">primordial storm</a>, which channels a specific damage type used by some of your abilities.</p>
 </div>
 </section>

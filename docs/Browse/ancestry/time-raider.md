@@ -127,7 +127,7 @@ Your unique physiology enhances your movement. You gain an edge on tests that us
 
 #### Four-Armed Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts"}
 
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](../condition/grabbed.md) at a time.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../feature/trait/common/maneuvers/grab.md) or [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](../condition/grabbed.md) at a time.
 
 #### Psionic Gift {data-scc="mcdm.heroes.v1/feature.trait.time-raider/psionic-gift"}
 

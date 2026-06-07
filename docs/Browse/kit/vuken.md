@@ -12,7 +12,7 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/trai
 
 ## Aspect Benefits {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/aspect-benefits"}
 
-Whenever you use the Knockback maneuver, you can then use the Aid Attack maneuver as a free triggered action.
+Whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, you can then use the [Aid Attack](../feature/trait/common/maneuvers/aid-attack.md) maneuver as a free triggered action.
 
 ## Animal Form: Wolf {data-scc="mcdm.heroes.v1/feature.trait.fury.vuken/animal-form-wolf"}
 
@@ -57,9 +57,9 @@ As your ferocity grows, you gain benefits as noted on the [Vuken](vuken.md) [Gro
 
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the Knockback maneuver, you can target one additional creature.                                                                                                                                                 |
+| 2               | Whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, you can target one additional creature.                                                                                                                                                 |
 | 4               | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 1 surge.                                                                                                                                   |
-| 6               | You gain an edge on Agility tests and the Knockback maneuver.                                                                                                                                                                    |
+| 6               | You gain an edge on Agility tests and the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
 | 8 (4th level)   | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 2 surges.                                                                                                                                  |
-| 10 (7th level)  | You have a double edge on Agility tests and the Knockback maneuver.                                                                                                                                                              |
+| 10 (7th level)  | You have a double edge on Agility tests and the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Agility score. |

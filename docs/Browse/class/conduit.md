@@ -67,7 +67,7 @@ As a [conduit](conduit.md), you gain the following features.
 
 Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](../../Read/heroes/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
-After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your subclass, and your choice of domains determines many of the features you'll gain as you gain new levels. (*Quick Build:* Adûn for deity, and Life and Protection as domains.)
+After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your subclass, and your choice of domains determines many of the features you'll gain as you gain new levels. (*Quick Build:* [Adûn](../god/adun.md) for deity, and Life and Protection as domains.)
 
 ### Piety {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/piety"}
 
@@ -124,7 +124,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ##### Love Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the Aid Attack maneuver or an ability that targets an ally.
+- **Piety:** You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the [Aid Attack](../feature/trait/common/maneuvers/aid-attack.md) maneuver or an ability that targets an ally.
 - **Prayer Effect:** Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.
 
 ##### Nature Domain Piety and Effect
@@ -149,7 +149,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ##### Trickery Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or [Hide](../skill/hide.md) maneuver.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../feature/trait/common/maneuvers/aid-attack.md) or [Hide](../skill/hide.md) maneuver.
 - **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](conduit.md) level.
 
 ##### War Domain Piety and Effect
@@ -293,7 +293,7 @@ You have the following ability, which you can use once on your turn.
 
 ### Ray of Wrath {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/ray-of-wrath"}
 
-You have the following ability, which can be used as a ranged free strike.
+You have the following ability, which can be used as a ranged [free strike](../feature/trait/common/main-actions/free-strike.md).
 
 #### Ray of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/ray-of-wrath"}
 
@@ -360,13 +360,13 @@ Your god blesses you with the ability to stretch your divine magic farther. You 
 
 #### Prayer of Soldier's Skill {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-soldiers-skill"}
 
-Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including free strikes. You can use light armor treasures and light weapon treasures.
+Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../feature/trait/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this blessing.
 
 #### Prayer of Speed {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-speed"}
 
-Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the Disengage move action.
+Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action.
 
 #### Prayer of Steel {data-scc="mcdm.heroes.v1/feature.trait.conduit.level-1/prayer-of-steel"}
 
@@ -744,7 +744,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **Power Roll + Intuition:**
 
-- **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a free strike against a target you choose
+- **≤11:** 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](../feature/trait/common/main-actions/free-strike.md) against a target you choose
 - **12-16:** 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
 - **17+:** 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their speed to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 
@@ -1566,7 +1566,7 @@ On subsequent turns, you can use a main action to command the dragon to breathe 
 - **12-16:** 9 fire damage
 - **17+:** 12 fire damage
 
-Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a free strike.
+Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a [free strike](../feature/trait/common/main-actions/free-strike.md).
 
 **Power Roll + Intuition:**
 

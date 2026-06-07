@@ -76,7 +76,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares. For each target in addition to you who <a href="../../../../../movement/teleport/">teleports</a> away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.</p></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares. For each target in addition to you who <a href="../../../../../movement/teleport/">teleports</a> away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver even if they are observed.</p></div>
 </div>
 </article>
 </div>
@@ -108,7 +108,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.</p><p>A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.</p></div>
+<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../../common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its potency at the end of the encounter.</p><p>A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -136,7 +136,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your power roll.</p></div>
+<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../../common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its potency at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your power roll.</p></div>
 </div>
 </article>
 </div>
@@ -189,14 +189,14 @@ type: trait
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; if the target has R &lt; WEAK, before the damage is resolved, they make a free strike.</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; if the target has R &lt; WEAK, before the damage is resolved, they make a <a href="../../../common/main-actions/free-strike/">free strike</a>.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; if the target has R &lt; AVERAGE, before the damage is resolved, they use a main action ability of your choice.</span></div>
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; if the target has R &lt; STRONG, before the damage is resolved, they can <a href="../../../../../movement/shifting/">shift</a> up to their speed and use a main action ability of your choice.</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You choose the new targets for the original target&#39;s free strike or ability. Additionally, if you are hidden or disguised, using this ability doesn&#39;t cause you to be revealed.</p></div>
+<div class="sc-ability__section-body"><p>You choose the new targets for the original target&#39;s <a href="../../../common/main-actions/free-strike/">free strike</a> or ability. Additionally, if you are hidden or disguised, using this ability doesn&#39;t cause you to be revealed.</p></div>
 </div>
 </article>
 </div>

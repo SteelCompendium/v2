@@ -172,7 +172,7 @@ Your [tactical doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md
 
 **Trigger:** The target moves.
 
-**Effect:** At any time during the target's movement, one ally can make a free strike against them.
+**Effect:** At any time during the target's movement, one ally can make a [free strike](../feature/trait/common/main-actions/free-strike.md) against them.
 
 **Spend 1 Focus:** If the target has R < AVERAGE, they are [slowed](../condition/slowed.md) (EoT).
 
@@ -197,7 +197,7 @@ You have drilled with a broad array of arms and armor, and have developed techni
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a respite. (This usually means taking the higher of two bonuses.)
 
-For example, if you take the [Shining Armor](../kit/shining-armor.md) and Sniper kits, you gain the following benefits overall:
+For example, if you take the [Shining Armor](../kit/shining-armor.md) and [Sniper](../kit/sniper.md) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
 - Stability Bonus: +1
@@ -374,7 +374,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 Three allies** |
 
-**Effect:** Each target can make a free strike.
+**Effect:** Each target can make a [free strike](../feature/trait/common/main-actions/free-strike.md).
 
 #### This Is What We Planned For {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/this-is-what-we-planned-for"}
 
@@ -419,7 +419,7 @@ You have trained your squad to work together, stay silent, and wait for the oppo
 
 After constant drills, you can more accurately anticipate an enemy's plan and thwart their attempts to move across the battlefield. Whenever you make an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.
 
-**Mark Benefit:** When a creature marked by you attempts to move or [shift](../movement/shifting.md) within distance of your melee free strike, you can use a free triggered action and spend 2 focus to make a melee free strike against that creature.
+**Mark Benefit:** When a creature marked by you attempts to move or [shift](../movement/shifting.md) within distance of your melee [free strike](../feature/trait/common/main-actions/free-strike.md), you can use a free triggered action and spend 2 focus to make a melee [free strike](../feature/trait/common/main-actions/free-strike.md) against that creature.
 
 ### 2nd-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-2/2nd-level-doctrine-ability"}
 
@@ -438,9 +438,9 @@ Choose one of the following abilities.
 |------------------|---------------------:|
 | **📏 Ranged 10** | **🎯 Two creatures** |
 
-**Effect:** Each target is marked by you, and must immediately make a free strike against a creature of your choice within 5 squares of them.
+**Effect:** Each target is marked by you, and must immediately make a [free strike](../feature/trait/common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
 
-**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a free strike against a creature of your choice within 5 squares of them.
+**Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a [free strike](../feature/trait/common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
 
 ##### Try Me Instead {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-2/try-me-instead"}
 
@@ -548,7 +548,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../movement/shifting.md) up to 2 squares. Additionally, any ally using the Charge main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee free strike.
+**Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../feature/trait/common/main-actions/charge.md) main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](../feature/trait/common/main-actions/free-strike.md).
 
 #### Hit 'Em Hard! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-3/hit-em-hard"}
 
@@ -597,7 +597,7 @@ The first time each combat round that you or any ally damages a target marked by
 
 ### Improved Field Arsenal {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-4/improved-field-arsenal"}
 
-Your expertise with weapons has grown. Whenever you use a signature ability from one of your equipped kits or make a free strike using a weapon from one of your equipped kits, you gain an edge.
+Your expertise with weapons has grown. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../feature/trait/common/main-actions/free-strike.md) using a weapon from one of your equipped kits, you gain an edge.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-4/perk"}
 
@@ -645,7 +645,7 @@ As a free maneuver, you can spend 1d6 Stamina to ignore a consequence from a tes
 
 #### Tactical Offensive {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-5/tactical-offensive"}
 
-When you use the Charge main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee free strike.
+When you use the [Charge](../feature/trait/common/main-actions/charge.md) main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee [free strike](../feature/trait/common/main-actions/free-strike.md).
 
 ### 9-Focus Ability {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-5/9-focus-ability"}
 
@@ -707,7 +707,7 @@ As a 6th-level [tactician](tactician.md), you gain the following features.
 
 ### Master of Arms {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-6/master-of-arms"}
 
-Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a free strike using a weapon from one of your equipped kits, you can negate a bane on the power roll or reduce a double bane to a bane.
+Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../feature/trait/common/main-actions/free-strike.md) using a weapon from one of your equipped kits, you can negate a bane on the power roll or reduce a double bane to a bane.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-6/perk"}
 
@@ -749,7 +749,7 @@ Choose one of the following abilities.
 - **12-16:** 9 + M damage; slide 3
 - **17+:** 13 + M damage; slide 5
 
-**Effect:** If a target is [force moved](../movement/forced-movement.md) into another creature, they must make a free strike against that creature.
+**Effect:** If a target is [force moved](../movement/forced-movement.md) into another creature, they must make a [free strike](../feature/trait/common/main-actions/free-strike.md) against that creature.
 
 #### 6th-Level Mastermind Abilities
 
@@ -813,9 +813,9 @@ Choose one of the following abilities.
 
 **Power Roll + Might:**
 
-- **≤11:** 6 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability instead of a free strike for the charge
-- **12-16:** 9 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a free strike for the charge
-- **17+:** 13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a free strike for the charge
+- **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../feature/trait/common/main-actions/charge.md) main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](../feature/trait/common/main-actions/free-strike.md) for the charge
+- **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../feature/trait/common/main-actions/charge.md) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../feature/trait/common/main-actions/free-strike.md) for the charge
+- **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../feature/trait/common/main-actions/charge.md) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../feature/trait/common/main-actions/free-strike.md) for the charge
 
 **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../condition/dazed.md) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
 
@@ -887,7 +887,7 @@ Your [tactical doctrine](../feature/trait/tactician/level-1/tactical-doctrine.md
 
 You have trained your squad to be silent ambushers.
 
-**Mark Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike [shift](../movement/shifting.md) up to a number of squares equal to your Reason score and use the Hide maneuver as a free maneuver once during the [shift](../movement/shifting.md). The creature can [shift](../movement/shifting.md) before or after the strike is resolved.
+**Mark Benefit:** When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike [shift](../movement/shifting.md) up to a number of squares equal to your Reason score and use the [Hide](../feature/trait/common/maneuvers/hide.md) maneuver as a free maneuver once during the [shift](../movement/shifting.md). The creature can [shift](../movement/shifting.md) before or after the strike is resolved.
 
 #### Pincer Movement {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-8/pincer-movement"}
 
@@ -963,7 +963,7 @@ As a 9th-level [tactician](tactician.md), you gain the following features.
 
 ### Grandmaster of Arms {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-9/grandmaster-of-arms"}
 
-Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a free strike using a weapon from one of your equipped kits, you automatically obtain a tier 3 outcome on the power roll. You can still roll to determine if you score a critical hit.
+Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a [free strike](../feature/trait/common/main-actions/free-strike.md) using a weapon from one of your equipped kits, you automatically obtain a tier 3 outcome on the power roll. You can still roll to determine if you score a critical hit.
 
 ### 9th-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.trait.tactician.level-9/9th-level-doctrine-ability"}
 
@@ -1014,7 +1014,7 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 3 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike.
+**Effect:** Each target can make a ranged [free strike](../feature/trait/common/main-actions/free-strike.md) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../feature/trait/common/main-actions/free-strike.md). A target ignores banes and double banes when making this strike.
 
 ##### Counterstrategy {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/counterstrategy"}
 
@@ -1048,7 +1048,7 @@ Choose one of the following abilities.
 - **12-16:** 16 + M damage
 - **17+:** 21 + M damage
 
-**Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as [difficult terrain](../movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
+**Effect:** If you use this ability as part of the [Charge](../feature/trait/common/main-actions/charge.md) main action, enemies' spaces don't count as [difficult terrain](../movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
 
 ##### That One Is Mine! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/that-one-is-mine"}
 
@@ -1067,7 +1067,7 @@ Choose one of the following abilities.
 - **12-16:** 13 + M damage
 - **17+:** 17 + M damage
 
-**Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a free strike against any target marked by you.
+**Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a [free strike](../feature/trait/common/main-actions/free-strike.md) against any target marked by you.
 
 ## 10th-Level Features
 

@@ -103,7 +103,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 - *Duck!:* When an enemy strikes you while a second creature is flanking you, you can use a triggered action to redirect the strike against the second creature. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Furniture Fighter:* When you use a weapon ability with an improvised weapon or a weapon that isn't part of your kit, the ability benefits from your kit's melee weapon damage bonus.
-- *Headbutt:* While you are [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md), your free strikes don't take a bane when those conditions would impose one.
+- *Headbutt:* While you are [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md), your [free strikes](../../Browse/feature/trait/common/main-actions/free-strike.md) don't take a bane when those conditions would impose one.
 - *If I Wanted You Dead, You'd Be Dead:* Whenever you defeat foes without killing any of them (including the foes you defeat to meet the prerequisite for this title), you gain an edge on tests during negotiations with those foes.
 
 ### City Rat {data-scc="mcdm.heroes.v1/title/city-rat"}
@@ -192,7 +192,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 **Effect:** Choose one of the following benefits:
 
 - *Arcane Dampening:* When resisting potencies from magic abilities, your characteristic scores are considered to be 1 higher than usual.
-- *Oh No, You Don't!:* Whenever an adjacent creature uses an ability with the Magic keyword, you can make a free strike against them as a triggered action.
+- *Oh No, You Don't!:* Whenever an adjacent creature uses an ability with the Magic keyword, you can make a [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) against them as a triggered action.
 - *Stink of Magic:* As a maneuver, you open your senses to the residue of magic. Until the end of your next turn, you are aware of whether each creature within 5 squares is a construct, an undead, or a creature from another world, and whether they have used a magic ability in the previous hour. Additionally, you can't be surprised by constructs, undead, or creatures from another world.
 
 ### Marshal {data-scc="mcdm.heroes.v1/title/marshal"}
@@ -262,7 +262,7 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 > **Effect:** Each target who has P < AVERAGE is [taunted](../../Browse/condition/taunted.md) by you until the end of their next turn, and you know the location of each creature [taunted](../../Browse/condition/taunted.md) in this way.
 
 - *Deadly and Big:* Your strikes gain a +3 damage bonus against creatures whose size is smaller than yours.
-- *Everybody Move!:* When you use the Knockback maneuver, you can target one additional creature of your size or two additional smaller creatures.
+- *Everybody Move!:* When you use the [Knockback](../../Browse/feature/trait/common/maneuvers/knockback.md) maneuver, you can target one additional creature of your size or two additional smaller creatures.
 
 ### Saved for a Worse Fate {data-scc="mcdm.heroes.v1/title/saved-for-a-worse-fate"}
 
@@ -315,7 +315,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 - *Honor Among Thieves:* When negotiating with criminals, your Renown score is considered to be 2 higher than usual.
 - *Minion Mower:* When you make a melee strike that targets a minion and at least one more minion is within distance of the strike, the strike gains a +3 damage bonus.
-- *No, You're Under Arrest!:* You gain an edge on the Escape Grab maneuver. Additionally, when you succeed on a test to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an adjacent creature of the same size without them immediately noticing.
+- *No, You're Under Arrest!:* You gain an edge on the [Escape Grab](../../Browse/feature/trait/common/maneuvers/escape-grab.md) maneuver. Additionally, when you succeed on a test to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an adjacent creature of the same size without them immediately noticing.
 
 ### Zombie Slayer {data-scc="mcdm.heroes.v1/title/zombie-slayer"}
 
@@ -403,7 +403,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 > |----------------|--------------------------------------:|
 > | **📏 3 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can use the Charge main action.
+> **Effect:** Each target can use the [Charge](../../Browse/feature/trait/common/main-actions/charge.md) main action.
 
 - *Renowned Warrior:* You earn 1 Renown.
 - *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../../Browse/class/tactician.md) class. You gain that feature even if you don't have the [Tactical Doctrine](../../Browse/feature/trait/tactician/level-1/tactical-doctrine.md) feature.
@@ -606,7 +606,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 **Effect:** You return to life 1 minute after being killed with Stamina equal to your winded value. You gain corruption immunity equal to your level and one of the benefits below, based on the type of creature who killed you. If you die again, you rise as an undead creature under the Director's control.
 
-- *Ghoul or Vampire:* When you make a melee free strike against an adjacent creature, you can bite that creature. If you do so and obtain a tier 3 outcome, you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
+- *Ghoul or Vampire:* When you make a melee [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) against an adjacent creature, you can bite that creature. If you do so and obtain a tier 3 outcome, you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
 - *Incorporeal Undead:* You can move through other creatures and objects. The first time in a combat round that you pass through a creature, that creature takes corruption damage equal to half your level. You don't take damage from being [force moved](../../Browse/movement/forced-movement.md) into objects.
 - *Other Corporeal Undead:* When you are reduced to 0 Stamina by damage that isn't fire or holy damage and your body isn't destroyed, you can regain half your Stamina and [fall prone](../../Browse/condition/prone.md). Once you use this benefit, you can't use it again until you earn 10 or more Victories.
 

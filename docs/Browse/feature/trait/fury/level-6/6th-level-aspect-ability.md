@@ -216,7 +216,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a <a href="../../primordial-storm/">primordial storm</a> that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.</p></div>
+<div class="sc-ability__section-body"><p>When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a <a href="../../stormwight-kits/primordial-storm/">primordial storm</a> that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.</p></div>
 </div>
 </article>
 </div>

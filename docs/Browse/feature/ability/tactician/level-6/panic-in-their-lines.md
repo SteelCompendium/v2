@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 9 Focus
 distance: Melee 1 or ranged 5
-effect: If a target is [force moved](../../../../movement/forced-movement.md) into another creature, they must make a free strike against that creature.
+effect: If a target is [force moved](../../../../movement/forced-movement.md) into another creature, they must make a [free strike](../../../trait/common/main-actions/free-strike.md) against that creature.
 flavor: You confuse your foes, causing them to turn on each other.
 keywords:
     - Melee
@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If a target is <a href="../../../../../movement/forced-movement/">force moved</a> into another creature, they must make a free strike against that creature.</p></div>
+<div class="sc-ability__section-body"><p>If a target is <a href="../../../../../movement/forced-movement/">force moved</a> into another creature, they must make a <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against that creature.</p></div>
 </div>
 </article>

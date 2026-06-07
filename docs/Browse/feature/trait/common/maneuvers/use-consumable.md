@@ -17,6 +17,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Unless otherwise noted in its description, a creature can activate a consumable treasure such as a potion with the Use Consumable maneuver. A creature can use this maneuver to administer a consumable treasure that benefits the user either to themself or to a willing adjacent creature. See Consumables in Chapter 13: <a href="../../../../../../Read/heroes/rewards/">Rewards</a>.</p>
+<p>Unless otherwise noted in its description, a creature can activate a consumable treasure such as a potion with the <a href="../use-consumable/">Use Consumable</a> maneuver. A creature can use this maneuver to administer a consumable treasure that benefits the user either to themself or to a willing adjacent creature. See Consumables in Chapter 13: <a href="../../../../../../Read/heroes/rewards/">Rewards</a>.</p>
 </div>
 </section>

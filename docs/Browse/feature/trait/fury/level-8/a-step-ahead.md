@@ -20,6 +20,6 @@ type: trait
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the Disengage move action, the distance you can <a href="../../../../../movement/shifting/">shift</a> gains a bonus equal to your Agility score.</p>
+<p>You move with legendary grace. Whenever you make an Agility test, you can roll three dice and choose which two to use. Additionally, whenever you use the <a href="../../../common/move-actions/disengage/">Disengage</a> move action, the distance you can <a href="../../../../../movement/shifting/">shift</a> gains a bonus equal to your Agility score.</p>
 </div>
 </section>

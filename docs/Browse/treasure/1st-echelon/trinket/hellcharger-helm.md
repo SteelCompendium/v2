@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: Whenever you use the Charge main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the Knockback maneuver as a free maneuver, regardless of the target creature's size.
+effect: Whenever you use the [Charge](../../../feature/trait/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../../../feature/trait/common/maneuvers/knockback.md) maneuver as a free maneuver, regardless of the target creature's size.
 keywords:
     - Head
     - Magic
@@ -26,4 +26,4 @@ type: treasure
 
 **Project Goal:** 150
 
-**Effect:** Whenever you use the Charge main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the Knockback maneuver as a free maneuver, regardless of the target creature's size.
+**Effect:** Whenever you use the [Charge](../../../feature/trait/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../../../feature/trait/common/maneuvers/knockback.md) maneuver as a free maneuver, regardless of the target creature's size.

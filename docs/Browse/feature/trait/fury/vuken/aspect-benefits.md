@@ -19,6 +19,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you use the Knockback maneuver, you can then use the Aid Attack maneuver as a free triggered action.</p>
+<p>Whenever you use the <a href="../../../common/maneuvers/knockback/">Knockback</a> maneuver, you can then use the <a href="../../../common/maneuvers/aid-attack/">Aid Attack</a> maneuver as a free triggered action.</p>
 </div>
 </section>

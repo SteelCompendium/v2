@@ -97,7 +97,7 @@ When a foe strikes, you reverse the magic of your glamor to instill fear into th
 
 #### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.high-elf/graceful-retreat"}
 
-You gain a +1 bonus to the distance you can shift when you take the Disengage move action.
+You gain a +1 bonus to the distance you can shift when you take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action.
 
 #### High Senses {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-senses"}
 

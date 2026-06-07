@@ -37,7 +37,7 @@ type: trait
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might or Agility</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">No effect.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can escape the grab, but if you do, a creature who has you <a href="../../../../../condition/grabbed/">grabbed</a> can make a melee free strike against you before you are no longer <a href="../../../../../condition/grabbed/">grabbed</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can escape the grab, but if you do, a creature who has you <a href="../../../../../condition/grabbed/">grabbed</a> can make a melee <a href="../../main-actions/free-strike/">free strike</a> against you before you are no longer <a href="../../../../../condition/grabbed/">grabbed</a>.</span></div>
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You are no longer <a href="../../../../../condition/grabbed/">grabbed</a>.</span></div>
 </div>
 </div>

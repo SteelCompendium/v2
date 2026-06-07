@@ -21,7 +21,7 @@ type: trait
 </header>
 <div class="sc-trait__body">
 <p>Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called ferocity.</p>
-<p>&gt; <b>Where&#39;s My Maneuver?</b> &gt; &gt; Since most other classes get a bespoke maneuver, you might find yourself asking, &#34;Where&#39;s the special maneuver for the <a href="../../../../../class/fury/">fury</a>?&#34; The answer is that the class doesn&#39;t need its own maneuver, because most of the time, the fantasy of the <a href="../../../../../class/fury/">fury</a> has them using the Grab or Knockback maneuvers in combat. They&#39;re really good at those maneuvers too, so it doesn&#39;t make sense to give you another option that you&#39;ll rarely or never use.</p>
+<p>&gt; <b>Where&#39;s My Maneuver?</b> &gt; &gt; Since most other classes get a bespoke maneuver, you might find yourself asking, &#34;Where&#39;s the special maneuver for the <a href="../../../../../class/fury/">fury</a>?&#34; The answer is that the class doesn&#39;t need its own maneuver, because most of the time, the fantasy of the <a href="../../../../../class/fury/">fury</a> has them using the <a href="../../../common/maneuvers/grab/">Grab</a> or <a href="../../../common/maneuvers/knockback/">Knockback</a> maneuvers in combat. They&#39;re really good at those maneuvers too, so it doesn&#39;t make sense to give you another option that you&#39;ll rarely or never use.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">

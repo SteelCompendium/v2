@@ -3,7 +3,7 @@ action_type: Main action
 class: fury
 cost: 7 Ferocity
 distance: Melee 1
-effect: If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee free strike against them.
+effect: If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee [free strike](../../../trait/common/main-actions/free-strike.md) against them.
 flavor: Slash. Walk away.
 keywords:
     - Melee
@@ -37,6 +37,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee free strike against them.</p></div>
+<div class="sc-ability__section-body"><p>If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against them.</p></div>
 </div>
 </article>

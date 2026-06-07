@@ -2,7 +2,7 @@
 action_type: Triggered
 class: troubadour
 distance: Melee 1
-effect: The target makes a free strike against the creature who made the triggering strike.
+effect: The target makes a [free strike](../../../trait/common/main-actions/free-strike.md) against the creature who made the triggering strike.
 flavor: '"I''d have brought treats had I known I''d be fighting a dog."'
 keywords:
     - Melee
@@ -40,6 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target makes a free strike against the creature who made the triggering strike.</p></div>
+<div class="sc-ability__section-body"><p>The target makes a <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against the creature who made the triggering strike.</p></div>
 </div>
 </article>

@@ -1,7 +1,7 @@
 ---
 class: fury
 name: Kit Features
-scc: mcdm.heroes.v1/feature.trait.fury/kit-features
+scc: mcdm.heroes.v1/feature.trait.fury.stormwight-kits/kit-features
 type: trait
 ---
 
@@ -18,7 +18,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>All <a href="../stormwight-kits/">stormwight kits</a> have the following features in common.</p>
+<p>All stormwight kits have the following features in common.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -27,7 +27,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../level-1/primordial-aspect/">primordial aspect</a> benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.</p>
+<p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> benefits are always available to you, and you gain additional benefits while in the animal or hybrid form granted by your stormwight kit.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -56,9 +56,9 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in <a href="../../../../complication/animal-form/">animal form</a> or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in <a href="../../../../complication/animal-form/">animal form</a>, you treat your Renown as 2 higher than usual.</p></div>
+<div class="sc-ability__section-body"><p>You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in <a href="../../../../../complication/animal-form/">animal form</a> or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in <a href="../../../../../complication/animal-form/">animal form</a>, you treat your Renown as 2 higher than usual.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">As a free maneuver, you can shapeshift a second time, either into another <a href="../../../../complication/animal-form/">animal form</a>, into your hybrid form, or back into your true form.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">As a free maneuver, you can shapeshift a second time, either into another <a href="../../../../../complication/animal-form/">animal form</a>, into your hybrid form, or back into your true form.</span></div>
 </article>
 </div>
 </div>
@@ -90,7 +90,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>These bonuses apply in your true form, your <a href="../../../../complication/animal-form/">animal form</a>, and your hybrid form. See Chapter 6: <a href="../../../../../Read/heroes/kits/">Kits</a> for information on <a href="../boren/kit-bonuses/">kit bonuses</a>.</p>
+<p>These bonuses apply in your true form, your <a href="../../../../../complication/animal-form/">animal form</a>, and your hybrid form. See Chapter 6: <a href="../../../../../../Read/heroes/kits/">Kits</a> for information on <a href="../../boren/kit-bonuses/">kit bonuses</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -110,7 +110,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Each stormwight kit grants a set of benefits for your <a href="../boren/growing-ferocity/">Growing Ferocity</a> feature.</p>
+<p>Each stormwight kit grants a set of benefits for your <a href="../../boren/growing-ferocity/">Growing Ferocity</a> feature.</p>
 </div>
 </section>
 </div>

@@ -54,6 +54,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a free strike against any target marked by you.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against any target marked by you.</p></div>
 </div>
 </article>

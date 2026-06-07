@@ -177,7 +177,7 @@ Whenever you fail a test using any skill from the intrigue skill group, you can 
 
 #### Master of Disguise {data-scc="mcdm.heroes.v1/perk/master-of-disguise"}
 
-You can don or remove a disguise as part of any test you make using the Hide skill, or while using the Hide maneuver.
+You can don or remove a disguise as part of any test you make using the Hide skill, or while using the [Hide](../../Browse/feature/trait/common/maneuvers/hide.md) maneuver.
 
 #### Slipped Lead {data-scc="mcdm.heroes.v1/perk/slipped-lead"}
 
@@ -272,7 +272,7 @@ If your [familiar](../../Browse/perk/familiar.md) is destroyed, you can restore 
 
 |      [Familiar](../../Browse/perk/familiar.md)       |         -         |           Level -            |           -           |         EV -         |
 |:-------------------:|:-----------------:|:----------------------------:|:---------------------:|:--------------------:|
-|   **1T**<br>Size    |  **5**<br>Speed   | **2x your level**<br>Stamina |  **0**<br>Stability   | **-**<br>Free Strike |
+|   **1T**<br>Size    |  **5**<br>Speed   | **2x your level**<br>Stamina |  **0**<br>Stability   | **-**<br>[Free Strike](../../Browse/feature/trait/common/main-actions/free-strike.md) |
 | **-**<br>Immunities | **-**<br>Movement |                              | **-**<br>With Captain | **-**<br>Weaknesses  |
 |   **-3**<br>Might   | **+2**<br>Agility |       **0**<br>Reason        |  **0**<br>Intuition   |  **+1**<br>Presence  |
 

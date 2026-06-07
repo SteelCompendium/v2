@@ -3,7 +3,7 @@ action_type: Maneuver
 class: troubadour
 cost: 11 Drama
 distance: Melee 1 or ranged 10
-effect: Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a free strike against them after the ability is resolved.
+effect: Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../trait/common/main-actions/free-strike.md) against them after the ability is resolved.
 flavor: Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.
 keywords:
     - Magic
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a free strike against them after the ability is resolved.</p></div>
+<div class="sc-ability__section-body"><p>Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against them after the ability is resolved.</p></div>
 </div>
 </article>

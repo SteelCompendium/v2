@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 11 Focus
 distance: 3 burst
-effect: Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike.
+effect: Each target can make a ranged [free strike](../../../trait/common/main-actions/free-strike.md) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../../trait/common/main-actions/free-strike.md). A target ignores banes and double banes when making this strike.
 flavor: What makes a good soldier? The ability to fire four shots a minute in any weather.
 keywords:
     - Area
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike.</p></div>
+<div class="sc-ability__section-body"><p>Each target can make a ranged <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> that gains an edge against any enemy marked by you within distance of their ranged <a href="../../../../trait/common/main-actions/free-strike/">free strike</a>. A target ignores banes and double banes when making this strike.</p></div>
 </div>
 </article>

@@ -131,7 +131,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While the target is <a href="../../../../../condition/slowed/">slowed</a> this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is <a href="../../../../../condition/slowed/">slowed</a> this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.</p></div>
+<div class="sc-ability__section-body"><p>While the target is <a href="../../../../../condition/slowed/">slowed</a> this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a <a href="../../../common/main-actions/free-strike/">free strike</a> against the target. Additionally, while the target is <a href="../../../../../condition/slowed/">slowed</a> this way, each of their allies within 5 squares of them who can make a triggered <a href="../../../common/main-actions/free-strike/">free strike</a> against a different creature must make the <a href="../../../common/main-actions/free-strike/">free strike</a> against the target instead.</p></div>
 </div>
 </article>
 </div>

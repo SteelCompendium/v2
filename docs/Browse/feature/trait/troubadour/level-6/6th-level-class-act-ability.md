@@ -128,7 +128,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and the target each make a melee free strike that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your free strike targets and which enemies the target creature&#39;s free strike targets. You then slide the target 5 squares, ignoring stability.</p></div>
+<div class="sc-ability__section-body"><p>You and the target each make a melee <a href="../../../common/main-actions/free-strike/">free strike</a> that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your <a href="../../../common/main-actions/free-strike/">free strike</a> targets and which enemies the target creature&#39;s <a href="../../../common/main-actions/free-strike/">free strike</a> targets. You then slide the target 5 squares, ignoring stability.</p></div>
 </div>
 </article>
 </div>

@@ -314,7 +314,7 @@ Your [troubadour class act](../feature/trait/troubadour/level-1/troubadour-class
 
 **Trigger:** The target takes damage from a melee strike.
 
-**Effect:** The target makes a free strike against the creature who made the triggering strike.
+**Effect:** The target makes a [free strike](../feature/trait/common/main-actions/free-strike.md) against the creature who made the triggering strike.
 
 ##### Turnabout Is Fair Play {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/turnabout-is-fair-play"}
 
@@ -500,9 +500,9 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 
 **Power Roll + Presence:**
 
-- **≤11:** The target can [shift](../movement/shifting.md) 1 square and make a free strike.
-- **12-16:** The target can [shift](../movement/shifting.md) up to 2 squares and make a free strike that gains an edge.
-- **17+:** The target can [shift](../movement/shifting.md) up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.
+- **≤11:** The target can [shift](../movement/shifting.md) 1 square and make a [free strike](../feature/trait/common/main-actions/free-strike.md).
+- **12-16:** The target can [shift](../movement/shifting.md) up to 2 squares and make a [free strike](../feature/trait/common/main-actions/free-strike.md) that gains an edge.
+- **17+:** The target can [shift](../movement/shifting.md) up to 3 squares and make a [free strike](../feature/trait/common/main-actions/free-strike.md) that gains an edge, then can spend a Recovery.
 
 ##### Fake Your Death {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/fake-your-death"}
 
@@ -598,7 +598,7 @@ Choose one of the following abilities.
 |-------------------|----------------:|
 | **📏 Ranged 10**  |  **🎯 Special** |
 
-**Effect:** A [guest star](../feature/ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This [guest star](../feature/ability/troubadour/level-2/guest-star.md) is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged free strikes. At the end of the encounter, or when the [guest star](../feature/ability/troubadour/level-2/guest-star.md) is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
+**Effect:** A [guest star](../feature/ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This [guest star](../feature/ability/troubadour/level-2/guest-star.md) is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../feature/trait/common/main-actions/free-strike.md). At the end of the encounter, or when the [guest star](../feature/ability/troubadour/level-2/guest-star.md) is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
 
 ##### Twist at the End {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/twist-at-the-end"}
 
@@ -624,7 +624,7 @@ Choose one of the following abilities.
 |---------------------------|---------------------------------:|
 | **📏 Melee 1**            | **🎯 Self and one willing ally** |
 
-**Effect:** Each target can [shift](../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee free strike that deals extra damage equal to twice their highest characteristic score.
+**Effect:** Each target can [shift](../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../feature/trait/common/main-actions/free-strike.md) that deals extra damage equal to twice their highest characteristic score.
 
 ##### En Garde! {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/en-garde"}
 
@@ -641,7 +641,7 @@ Choose one of the following abilities.
 - **12-16:** 11 + **A** damage
 - **17+:** 16 + **A** damage
 
-**Effect:** The target can make a melee free strike against you. If they do, you can make a melee free strike against the target.
+**Effect:** The target can make a melee [free strike](../feature/trait/common/main-actions/free-strike.md) against you. If they do, you can make a melee [free strike](../feature/trait/common/main-actions/free-strike.md) against the target.
 
 #### 2nd-Level Virtuoso Ability
 
@@ -878,7 +878,7 @@ Choose one of the following features.
 
 ##### Verbal Duel
 
-Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a free strike, which deals psychic damage instead of its usual damage.
+Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a [free strike](../feature/trait/common/main-actions/free-strike.md), which deals psychic damage instead of its usual damage.
 
 ##### We Can't Be Upstaged!
 
@@ -1050,7 +1050,7 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Effect:** You and the target each make a melee free strike that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your free strike targets and which enemies the target creature's free strike targets. You then slide the target 5 squares, ignoring stability.
+**Effect:** You and the target each make a melee [free strike](../feature/trait/common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../feature/trait/common/main-actions/free-strike.md) targets and which enemies the target creature's [free strike](../feature/trait/common/main-actions/free-strike.md) targets. You then slide the target 5 squares, ignoring stability.
 
 #### 6th-Level Virtuoso Abilities
 
@@ -1175,7 +1175,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../movement/teleport.md)ed ally can then make a melee free strike.
+**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../movement/teleport.md)ed ally can then make a melee [free strike](../feature/trait/common/main-actions/free-strike.md).
 
 #### Power Ballad {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/power-ballad"}
 
@@ -1254,7 +1254,7 @@ Choose one of the following abilities.
 - **12-16:** The target has a double bane on ability rolls (save ends).
 - **17+:** The target has a double bane on power rolls (save ends).
 
-**Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a free strike against them after the ability is resolved.
+**Effect:** Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../feature/trait/common/main-actions/free-strike.md) against them after the ability is resolved.
 
 ##### Rising Tension {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/rising-tension"}
 

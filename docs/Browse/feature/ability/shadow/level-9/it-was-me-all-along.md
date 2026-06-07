@@ -3,7 +3,7 @@ action_type: Main action
 class: shadow
 cost: 11 Insight
 distance: Melee 1
-effect: If you are disguised as a creature the target knew using your I'm No Threat ability, this ability deals extra damage equal to three times your Agility score.
+effect: If you are disguised as a creature the target knew using your [I'm No Threat](../level-1/im-no-threat.md) ability, this ability deals extra damage equal to three times your Agility score.
 flavor: After everything you've been through together, you twist the blade and make the pain extra personal.
 keywords:
     - Melee
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you are disguised as a creature the target knew using your I&#39;m No Threat ability, this ability deals extra damage equal to three times your Agility score.</p></div>
+<div class="sc-ability__section-body"><p>If you are disguised as a creature the target knew using your <a href="../../level-1/im-no-threat/">I&#39;m No Threat</a> ability, this ability deals extra damage equal to three times your Agility score.</p></div>
 </div>
 </article>

@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your bloodfire allows you to regain your strength quicker than others. Whenever you use the Catch Breath maneuver, you can spend as many Recoveries as you like.</p>
+<p>Your bloodfire allows you to regain your strength quicker than others. Whenever you use the <a href="../../common/maneuvers/catch-breath/">Catch Breath</a> maneuver, you can spend as many Recoveries as you like.</p>
 </div>
 </section>

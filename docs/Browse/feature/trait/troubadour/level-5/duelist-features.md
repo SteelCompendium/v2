@@ -29,7 +29,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a free strike, which deals psychic damage instead of its usual damage.</p>
+<p>Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a <a href="../../../common/main-actions/free-strike/">free strike</a>, which deals psychic damage instead of its usual damage.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

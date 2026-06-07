@@ -20,6 +20,6 @@ type: trait
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your strength is unmatched. Whenever you make a Might test, you can roll three dice and choose which two to use. Additionally, whenever you use the Knockback maneuver, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Might score.</p>
+<p>Your strength is unmatched. Whenever you make a Might test, you can roll three dice and choose which two to use. Additionally, whenever you use the <a href="../../../common/maneuvers/knockback/">Knockback</a> maneuver, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Might score.</p>
 </div>
 </section>

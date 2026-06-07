@@ -3,7 +3,7 @@ action_type: Main action
 class: troubadour
 cost: 5 Drama
 distance: Melee 1
-effect: The target can make a melee free strike against you. If they do, you can make a melee free strike against the target.
+effect: The target can make a melee [free strike](../../../trait/common/main-actions/free-strike.md) against you. If they do, you can make a melee [free strike](../../../trait/common/main-actions/free-strike.md) against the target.
 flavor: Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!
 keywords:
     - Melee
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target can make a melee free strike against you. If they do, you can make a melee free strike against the target.</p></div>
+<div class="sc-ability__section-body"><p>The target can make a melee <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against you. If they do, you can make a melee <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against the target.</p></div>
 </div>
 </article>

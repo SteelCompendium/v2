@@ -103,7 +103,7 @@ When you use an ability outside of combat that lets you spend unlimited clarity 
 
 ### Mind Spike {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/mind-spike"}
 
-You have the following ability, which can be used as a ranged free strike.
+You have the following ability, which can be used as a ranged [free strike](../feature/trait/common/main-actions/free-strike.md).
 
 #### Mind Spike {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/mind-spike"}
 
@@ -128,7 +128,7 @@ Through meditation, you create pathways in your mind that enhance your statistic
 
 #### Battle Augmentation {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/battle-augmentation"}
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including free strikes. You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../feature/trait/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this augmentation.
 
@@ -146,7 +146,7 @@ Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
 #### Speed Augmentation {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/speed-augmentation"}
 
-You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the Disengage move action.
+You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action.
 
 ### Talent Ward {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/talent-ward"}
 
@@ -494,7 +494,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 |---------------------------------|------------------------:|
 | **📏 Melee 2**                  | **🎯 Self or one ally** |
 
-**Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a free strike against the source of the damage.
+**Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../feature/trait/common/main-actions/free-strike.md) against the source of the damage.
 
 ##### Smolder {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/smolder"}
 
@@ -704,7 +704,7 @@ Choose one of the following abilities.
 - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../condition/weakened.md) (save ends)
 - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 
-**Strained:** You start crying, and you can't use triggered actions or make free strikes until the end of the target's next turn.
+**Strained:** You start crying, and you can't use triggered actions or make [free strikes](../feature/trait/common/main-actions/free-strike.md) until the end of the target's next turn.
 
 ##### Synaptic Override {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/synaptic-override"}
 
@@ -717,7 +717,7 @@ Choose one of the following abilities.
 
 **Power Roll + Reason:**
 
-- **≤11:** The target makes a free strike against one enemy of your choice.
+- **≤11:** The target makes a [free strike](../feature/trait/common/main-actions/free-strike.md) against one enemy of your choice.
 - **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 - **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.
 

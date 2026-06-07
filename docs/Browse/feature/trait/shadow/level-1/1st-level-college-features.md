@@ -29,7 +29,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<table><thead><tr><th>College</th><th>Feature</th></tr></thead><tbody><tr><td>Black Ash</td><td><a href="../../../../ability/shadow/level-1/black-ash-teleport/">Black Ash Teleport</a></td></tr><tr><td>Caustic Alchemy</td><td><a href="../../../../ability/shadow/level-1/coat-the-blade/">Coat the Blade</a>, <a href="../smoke-bomb/">Smoke Bomb</a></td></tr><tr><td>Harlequin Mask</td><td>I&#39;m No Threat</td></tr></tbody></table>
+<table><thead><tr><th>College</th><th>Feature</th></tr></thead><tbody><tr><td>Black Ash</td><td><a href="../../../../ability/shadow/level-1/black-ash-teleport/">Black Ash Teleport</a></td></tr><tr><td>Caustic Alchemy</td><td><a href="../../../../ability/shadow/level-1/coat-the-blade/">Coat the Blade</a>, <a href="../smoke-bomb/">Smoke Bomb</a></td></tr><tr><td>Harlequin Mask</td><td><a href="../../../../ability/shadow/level-1/im-no-threat/">I&#39;m No Threat</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -59,7 +59,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares. If you have concealment or cover at your destination, you can use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1+ Insight</span><span class="txt">You <a href="../../../../../movement/teleport/">teleport</a> 1 additional square for each insight spent.</span></div>
 </article>
@@ -127,7 +127,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can <a href="../../../../../movement/shifting/">shift</a>.</p><p>The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action, you gain a +1 bonus to the distance you can <a href="../../../../../movement/shifting/">shift</a>.</p><p>The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Insight</span><span class="txt">Choose a creature whose size is no more than 1 greater than yours and who is within 10 squares. This ability&#39;s illusion makes you appear as that creature. This illusion covers your entire body, including clothing and armor, and alters your voice to sound like that of the creature. You gain an edge on tests made to convince the creature&#39;s allies that you are the creature.</span></div>
 </article>
@@ -142,7 +142,7 @@ type: trait
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the Hide maneuver even if you are observed and don&#39;t initially have cover or concealment. When you do so, you can <a href="../../../../../movement/shifting/">shift</a> a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.</p>
+<p>You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver even if you are observed and don&#39;t initially have cover or concealment. When you do so, you can <a href="../../../../../movement/shifting/">shift</a> a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.</p>
 </div>
 </section>
 </div>

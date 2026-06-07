@@ -40,7 +40,7 @@ type: trait
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can use and gain the benefits of a stormwight kit (see <a href="../../stormwight-kits/">Stormwight Kits</a>). Your stormwight kit grants you a number of benefits, including benefits tied to your <a href="../../boren/growing-ferocity/">Growing Ferocity</a> feature.</p>
+<p>You can use and gain the benefits of a stormwight kit (see <a href="../../stormwight-kits/kit-features/">Stormwight Kits</a>). Your stormwight kit grants you a number of benefits, including benefits tied to your <a href="../../boren/growing-ferocity/">Growing Ferocity</a> feature.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

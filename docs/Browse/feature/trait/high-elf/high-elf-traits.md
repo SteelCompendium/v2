@@ -56,7 +56,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You gain a +1 bonus to the distance you can shift when you take the Disengage move action.</p>
+<p>You gain a +1 bonus to the distance you can shift when you take the <a href="../../common/move-actions/disengage/">Disengage</a> move action.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

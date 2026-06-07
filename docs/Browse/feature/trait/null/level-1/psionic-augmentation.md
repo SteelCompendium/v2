@@ -52,7 +52,7 @@ type: trait
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain a +1 bonus to speed and to the distance you can <a href="../../../../../movement/shifting/">shift</a> when you take the Disengage move action.</p>
+<p>You gain a +1 bonus to speed and to the distance you can <a href="../../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
 </div>
 </section>
 </div>

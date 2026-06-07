@@ -39,7 +39,7 @@ If a kit provides no armor, you can wear whatever clothing you like! Robes, a fa
 
 ##### Light Armor
 
-If a [kit features](../../Browse/feature/trait/fury/kit-features.md) light armor, you might wear padded cloth, leather armor, or a chain shirt.
+If a kit features light armor, you might wear padded cloth, leather armor, or a chain shirt.
 
 ##### Medium Armor
 
@@ -99,7 +99,7 @@ If you find a piece of equipment you really want to use that isn't part of your 
 
 ### Kit Bonuses and Traits
 
-A kit can grant a bonus to your Stamina, speed, and stability, as well as the damage and distance of your weapon abilities, including your free strikes. (Abilities in Chapter 5: [Classes](classes.md) has information on abilities, ability keywords, and more.)
+A kit can grant a bonus to your Stamina, speed, and stability, as well as the damage and distance of your weapon abilities, including your [free strikes](../../Browse/feature/trait/common/main-actions/free-strike.md). (Abilities in Chapter 5: [Classes](classes.md) has information on abilities, ability keywords, and more.)
 
 #### Stamina Bonus
 
@@ -131,7 +131,7 @@ A distance bonus doesn't increase the size of any ability's area of effect.
 
 #### Disengage Bonus
 
-A kit that has a disengage bonus increases the number of squares you can [shift](../../Browse/movement/shifting.md) when you take the Disengage move action (see Chapter 10: [Combat](combat.md)).
+A kit that has a disengage bonus increases the number of squares you can [shift](../../Browse/movement/shifting.md) when you take the [Disengage](../../Browse/feature/trait/common/move-actions/disengage.md) move action (see Chapter 10: [Combat](combat.md)).
 
 ### Kit Signature Ability
 
@@ -145,9 +145,9 @@ This section details each kit, whose bonuses and benefits are summarized in the 
 
 > **Improvised Weapons**
 >
-> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee free strike, the sword counts as an improvised weapon.
+> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md), the sword counts as an improvised weapon.
 >
-> Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged free strikes with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
+> Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged [free strikes](../../Browse/feature/trait/common/main-actions/free-strike.md) with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
 
 #### Arcane Archer {data-scc="mcdm.heroes.v1/kit/arcane-archer"}
 
@@ -929,7 +929,7 @@ The rules of the game expect that heroes always have access to their equipment. 
 | [Pugilist](../../Browse/kit/pugilist.md)         | None           | Unarmed strikes    | +6                  | +2    | +1        | +1/+1/+1     | -             | -              | -               | -         |
 | [Raider](../../Browse/kit/raider.md)           | Light, shield  | Light              | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
 | [Ranger](../../Browse/kit/ranger.md)           | Medium         | Bow, medium        | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
-| Rapid-Fire       | Light          | Bow                | +3                  | +1    | -         | -            | +2/+2/+2      | -              | +7              | +1        |
+| [Rapid-Fire](../../Browse/kit/rapid-fire.md)       | Light          | Bow                | +3                  | +1    | -         | -            | +2/+2/+2      | -              | +7              | +1        |
 | [Retiarius](../../Browse/kit/retiarius.md)        | Light          | Ensnaring, polearm | +3                  | +1    | -         | +2/+2/+2     | -             | +1             | -               | +1        |
 | [Shining Armor](../../Browse/kit/shining-armor.md)    | Heavy, shield  | Medium             | +12                 | -     | +1        | +2/+2/+2     | -             | -              | -               | -         |
 | [Sniper](../../Browse/kit/sniper.md)           | None           | Bow                | -                   | +1    | -         | -            | +0/+0/+4      | -              | +10             | +1        |

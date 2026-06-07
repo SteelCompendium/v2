@@ -20,6 +20,6 @@ type: trait
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>When you use the Charge main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee free strike.</p>
+<p>When you use the <a href="../../../common/main-actions/charge/">Charge</a> main action to attack a creature marked by you, you can use a signature or heroic ability with the Melee and Strike keywords instead of a melee <a href="../../../common/main-actions/free-strike/">free strike</a>.</p>
 </div>
 </section>
