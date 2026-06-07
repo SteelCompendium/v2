@@ -59,6 +59,7 @@ sections:
       - title/
       - treasure/
       - skill/
+      - rule/
     exclude:
       - feature/trait/ancestry-traits
     sort: natural
