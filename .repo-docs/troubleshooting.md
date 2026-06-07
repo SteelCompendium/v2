@@ -50,34 +50,58 @@ updated: 2026-05-31
 
 **Fix:** Place overrides in `static_content/docs/` at the same relative path. Static content is copied last and takes precedence.
 
-### Browser E2E (Playwright MCP) does not work here — don't try
+### Browser E2E: the Playwright **MCP** is broken, but Playwright **via Brave** works
 
-**For agents:** Do **not** attempt to verify the site in a real browser via the
-Playwright MCP tools (`browser_navigate`, `browser_click`, `browser_evaluate`, …).
-It does not work in this environment and is a known dead end — stop and use the
-non-browser checks below instead.
+**The MCP `browser_*` tools do not work here.** `browser_navigate` / `browser_click` /
+`browser_evaluate` fail with `"chrome" executable not found. Make sure it is installed
+at a standard location.` — the Playwright MCP server is pinned to the `chrome` channel
+and no Google Chrome is installed. Don't keep retrying the MCP tools.
 
-**Symptom:** `browser_*` calls fail with `"chrome" executable not found. Make sure
-it is installed at a standard location.` The Playwright MCP server is pinned to the
-`chrome` channel, and no Google Chrome is installed. The only browsers present are a
-cached `~/.cache/ms-playwright/chromium-*` (plus a headless shell), which the MCP
-server does not use, and whose revision will not necessarily match an ad-hoc
-`npx playwright` either. Hand-rolling a Node Playwright script against the cache is
-also not a supported path here.
+**Working alternative — drive Brave directly with `playwright-core`.** Brave is
+Chromium-based and lives at `/opt/brave.com/brave/brave` (also `/usr/bin/brave-browser`).
+A `playwright-core` is available in the npx cache (e.g. resolve the newest
+`~/.npm/_npx/*/node_modules/playwright-core`). Launch it with an explicit
+`executablePath` — no `channel`, no browser download:
 
-**What to do instead** — verify front-end JS/CSS changes without a browser:
-- **Build the site:** `devbox run -- mkdocs build` (and check `site/` output, e.g.
-  `grep -l "your-asset.js" site/index.html`). Note: a full build is ~145s.
-- **Unit-test pure logic:** factor parsing/normalization into a DOM-free module and
-  cover it with `node:test` — e.g. `devbox run -- node --test tests/` exercises
-  `docs/javascripts/settings-core.js`. This is the pattern to follow for new JS.
+```js
+// e2e.cjs  —  run with: devbox run -- node e2e.cjs
+const { chromium } = require('playwright-core'); // or an absolute path into ~/.npm/_npx/<hash>/node_modules
+(async () => {
+  const browser = await chromium.launch({
+    executablePath: '/opt/brave.com/brave/brave',
+    headless: true,
+    args: ['--no-sandbox'],
+  });
+  const page = await browser.newPage();
+  await page.goto('http://127.0.0.1:8124/');         // serve site/ first (see below)
+  // ... page.click / page.evaluate / page.screenshot ...
+  await browser.close();
+})();
+```
+
+Serve the built site for it to hit (assets are referenced relatively, so a plain
+static server rooted at `site/` works — no need to re-run the slow `mkdocs serve`):
+
+```bash
+devbox run -- mkdocs build                                   # ~145s; produces site/
+devbox run -- python3 -m http.server 8124 --directory site &  # then point Brave at http://127.0.0.1:8124/
+```
+
+Gotchas: `playwright-core` is **CommonJS** — use `require`, not `import {}`. Wait out
+CSS transitions (this site's settings drawer animates ~0.28s) before asserting on
+`getBoundingClientRect()`, or you'll measure mid-animation. This recipe was used to
+verify the live settings drawer end-to-end (22 assertions: open/close, live text-scale,
+width slider, reload persistence, mobile bottom sheet).
+
+**Cheaper checks that need no browser at all** (prefer these for pure logic):
+- **Build + grep `site/`:** `devbox run -- mkdocs build` then `grep -l asset.js site/index.html`.
+- **Unit-test DOM-free modules with `node:test`:** `devbox run -- node --test tests/`
+  (pattern: `docs/javascripts/settings-core.js` + `tests/settings-core.test.js`).
 - **Syntax-check scripts:** `devbox run -- node --check docs/javascripts/<file>.js`.
-- **Manual visual check** (human, not agent): `devbox run -- mkdocs serve` and open
-  the URL in a local browser.
 
 ## Do NOT
 
-- Attempt browser-based E2E via the Playwright MCP (see above — no Chrome installed)
+- Use the Playwright **MCP** tools (broken — no `chrome`); drive **Brave** via `executablePath` instead (see above)
 - Edit files under `docs/Browse/`, `docs/Read/`, or `docs/scc/` directly
 - Remove or rename SCC codes in source frontmatter (they are frozen permanent identifiers)
 - Upgrade mkdocs-material without re-checking `overrides/main.html` block compatibility
