@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You start crying, and you can&#39;t use triggered actions or make <a href="../../../../trait/common/main-actions/free-strike/">free strikes</a> until the end of the target&#39;s next turn.</p></div>
+<div class="sc-ability__section-body"><p>You start crying, and you can&#39;t use triggered actions or make <a href="../../../../common/main-actions/free-strike/">free strikes</a> until the end of the target&#39;s next turn.</p></div>
 </div>
 </article>

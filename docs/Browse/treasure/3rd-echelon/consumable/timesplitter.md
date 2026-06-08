@@ -1,6 +1,6 @@
 ---
 echelon: "3"
-effect: 'As a maneuver, you make a ranged [free strike](../../../feature/trait/common/main-actions/free-strike.md) using the Timesplitter, which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:'
+effect: 'As a maneuver, you make a ranged [free strike](../../../feature/common/main-actions/free-strike.md) using the Timesplitter, which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:'
 keywords:
     - Psionic
 name: Timesplitter
@@ -25,7 +25,7 @@ type: treasure
 
 **Project Goal:** 180
 
-**Effect:** As a maneuver, you make a ranged [free strike](../../../feature/trait/common/main-actions/free-strike.md) using the Timesplitter, which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged [free strike](../../../feature/common/main-actions/free-strike.md) using the Timesplitter, which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
 
 - **≤11:** The target and each creature within 3 squares of them a [slowed](../../../condition/slowed.md) (save ends).
 - **12-16:** The target and each creature within 5 squares of them is [slowed](../../../condition/slowed.md) (save ends).

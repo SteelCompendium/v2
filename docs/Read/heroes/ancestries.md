@@ -937,7 +937,7 @@ When a foe strikes, you reverse the magic of your glamor to instill fear into th
 
 ##### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.high-elf/graceful-retreat"}
 
-You gain a +1 bonus to the distance you can shift when you take the [Disengage](../../Browse/feature/trait/common/move-actions/disengage.md) move action.
+You gain a +1 bonus to the distance you can shift when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
 
 ##### High Senses {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-senses"}
 
@@ -1427,7 +1427,7 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 
 #### Signature Trait: Relentless {data-scc="mcdm.heroes.v1/feature.trait.orc/relentless"}
 
-Whenever a creature deals damage to you that leaves you dying, you can make a [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
+Whenever a creature deals damage to you that leaves you dying, you can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
 
 #### Purchased Orc Traits
 
@@ -1439,7 +1439,7 @@ The magic coursing through your veins makes you run faster in the heat of battle
 
 ##### Glowing Recovery {data-scc="mcdm.heroes.v1/feature.trait.orc/glowing-recovery"}
 
-Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../../Browse/feature/trait/common/maneuvers/catch-breath.md) maneuver, you can spend as many Recoveries as you like.
+Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver, you can spend as many Recoveries as you like.
 
 ##### Grounded {data-scc="mcdm.heroes.v1/feature.trait.orc/grounded"}
 
@@ -1607,7 +1607,7 @@ Courage is all you know. You can't be made [frightened](../../Browse/condition/f
 
 ##### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.polder/graceful-retreat"}
 
-Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](../../Browse/feature/trait/common/move-actions/disengage.md) move action.
+Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
 
 ##### Nimblestep {data-scc="mcdm.heroes.v1/feature.trait.polder/nimblestep"}
 
@@ -1863,7 +1863,7 @@ Your unique physiology enhances your movement. You gain an edge on tests that us
 
 ##### Four-Armed Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts"}
 
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../../Browse/feature/trait/common/maneuvers/grab.md) or [Knockback](../../Browse/feature/trait/common/maneuvers/knockback.md) maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](../../Browse/condition/grabbed.md) at a time.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../../Browse/feature/common/maneuvers/grab.md) or [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](../../Browse/condition/grabbed.md) at a time.
 
 ##### Psionic Gift {data-scc="mcdm.heroes.v1/feature.trait.time-raider/psionic-gift"}
 

@@ -3,7 +3,7 @@ action_type: Free triggered
 class: shadow
 cost: 5 Insight
 distance: Self
-effect: You use your [Clever Trick](../level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../trait/common/main-actions/free-strike.md) against them. You can then spend a Recovery.
+effect: You use your [Clever Trick](../level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../../../../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../../../common/main-actions/free-strike.md) against them. You can then spend a Recovery.
 flavor: When your enemy strikes, you reveal you were in a different place all along.
 keywords:
     - Magic
@@ -41,6 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You use your <a href="../../level-1/clever-trick/">Clever Trick</a> ability with no insight cost against the triggering creature and strike. You can <a href="../../../../../movement/teleport/">teleport</a> to an unoccupied space within 3 squares of that creature and can make a <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against them. You can then spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>You use your <a href="../../level-1/clever-trick/">Clever Trick</a> ability with no insight cost against the triggering creature and strike. You can <a href="../../../../../movement/teleport/">teleport</a> to an unoccupied space within 3 squares of that creature and can make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against them. You can then spend a Recovery.</p></div>
 </div>
 </article>

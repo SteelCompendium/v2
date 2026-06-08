@@ -15,9 +15,9 @@ name: To Me Squad!
 power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/to-me-squad
 target: One creature
-tier1: 6 + M damage; one ally within 10 squares can use the [Charge](../../../trait/common/main-actions/charge.md) main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](../../../trait/common/main-actions/free-strike.md) for the charge
-tier2: 9 + M damage; one ally within 10 squares can use the [Charge](../../../trait/common/main-actions/charge.md) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../../../trait/common/main-actions/free-strike.md) for the charge
-tier3: 13 + M damage; two allies within 10 squares can use the [Charge](../../../trait/common/main-actions/charge.md) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../../../trait/common/main-actions/free-strike.md) for the charge
+tier1: 6 + M damage; one ally within 10 squares can use the [Charge](../../../common/main-actions/charge.md) main action as a free triggered action, and can use a melee strike signature ability instead of a [free strike](../../../common/main-actions/free-strike.md) for the charge
+tier2: 9 + M damage; one ally within 10 squares can use the [Charge](../../../common/main-actions/charge.md) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../../../common/main-actions/free-strike.md) for the charge
+tier3: 13 + M damage; two allies within 10 squares can use the [Charge](../../../common/main-actions/charge.md) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../../../common/main-actions/free-strike.md) for the charge
 type: ability
 ---
 
@@ -43,9 +43,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M damage; one ally within 10 squares can use the <a href="../../../../trait/common/main-actions/charge/">Charge</a> main action as a free triggered action, and can use a melee strike signature ability instead of a <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> for the charge</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + M damage; one ally within 10 squares can use the <a href="../../../../trait/common/main-actions/charge/">Charge</a> main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> for the charge</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + M damage; two allies within 10 squares can use the <a href="../../../../trait/common/main-actions/charge/">Charge</a> main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> for the charge</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M damage; one ally within 10 squares can use the <a href="../../../../common/main-actions/charge/">Charge</a> main action as a free triggered action, and can use a melee strike signature ability instead of a <a href="../../../../common/main-actions/free-strike/">free strike</a> for the charge</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + M damage; one ally within 10 squares can use the <a href="../../../../common/main-actions/charge/">Charge</a> main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a <a href="../../../../common/main-actions/free-strike/">free strike</a> for the charge</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + M damage; two allies within 10 squares can use the <a href="../../../../common/main-actions/charge/">Charge</a> main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a <a href="../../../../common/main-actions/free-strike/">free strike</a> for the charge</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

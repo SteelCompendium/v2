@@ -14,7 +14,7 @@ After any damage you take is reduced by damage immunity or other effects, your S
 
 ## Recoveries and Recovery Value {data-scc="mcdm.heroes.v1/rule.health/recoveries"}
 
-Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina maximum, rounded down. When you use the [Catch Breath](../../feature/trait/common/maneuvers/catch-breath.md) maneuver in combat (see Maneuvers above), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
+Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina maximum, rounded down. When you use the [Catch Breath](../../feature/common/maneuvers/catch-breath.md) maneuver in combat (see Maneuvers above), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
 
 ## Winded {data-scc="mcdm.heroes.v1/rule.health/winded"}
 
@@ -24,7 +24,7 @@ You can tell when other creatures are winded and vice versa.
 
 ## Dying and Death {data-scc="mcdm.heroes.v1/rule.health/dying"}
 
-When your Stamina is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../../feature/trait/common/maneuvers/catch-breath.md) maneuver in combat. Additionally, you are [bleeding](../../condition/bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
+When your Stamina is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../../feature/common/maneuvers/catch-breath.md) maneuver in combat. Additionally, you are [bleeding](../../condition/bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
 
 While your Stamina is lower than 0, if it reaches the negative of your winded value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
 

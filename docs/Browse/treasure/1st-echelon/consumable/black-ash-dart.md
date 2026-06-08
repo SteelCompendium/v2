@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: 'As a maneuver, you make a ranged [free strike](../../../feature/trait/common/main-actions/free-strike.md) using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:'
+effect: 'As a maneuver, you make a ranged [free strike](../../../feature/common/main-actions/free-strike.md) using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:'
 keywords:
     - Magic
 name: Black Ash Dart
@@ -25,7 +25,7 @@ type: treasure
 
 **Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a shadow)
 
-**Effect:** As a maneuver, you make a ranged [free strike](../../../feature/trait/common/main-actions/free-strike.md) using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged [free strike](../../../feature/common/main-actions/free-strike.md) using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
 
 - **≤11:** You can [teleport](../../../movement/teleport.md) the target up to 2 squares.
 - **12-16:** You can [teleport](../../../movement/teleport.md) the target up to 4 squares.

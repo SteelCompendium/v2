@@ -161,7 +161,7 @@ Courage is all you know. You can't be made [frightened](../condition/frightened.
 
 #### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.polder/graceful-retreat"}
 
-Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action.
+Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
 #### Nimblestep {data-scc="mcdm.heroes.v1/feature.trait.polder/nimblestep"}
 

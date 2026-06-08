@@ -3,7 +3,7 @@ action_type: Maneuver
 class: beastheart
 companion: drake
 distance: 1 or 2 cube within 1
-effect: The target takes damage of the drake's attuned damage type (see [Elementally Attuned](../../../../trait/companion/drake/level-1/elementally-attuned.md)) equal to the drake's Might score.
+effect: The target takes damage of the drake's attuned damage type (see [Elementally Attuned](../../../../companion/drake/level-1/elementally-attuned.md)) equal to the drake's Might score.
 flavor: The drake exhales a blast of flesh-melting energy.
 keywords:
     - Area
@@ -39,7 +39,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes damage of the drake&#39;s attuned damage type (see <a href="../../../../../trait/companion/drake/level-1/elementally-attuned/">Elementally Attuned</a>) equal to the drake&#39;s Might score.</p></div>
+<div class="sc-ability__section-body"><p>The target takes damage of the drake&#39;s attuned damage type (see <a href="../../../../../companion/drake/level-1/elementally-attuned/">Elementally Attuned</a>) equal to the drake&#39;s Might score.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 or 2 Ferocity</span><span class="txt">This ability affects a 3 cube (if you spend 1 ferocity) or a 4 cube (if you spend 2 ferocity) within 1.</span></div>
 </article>

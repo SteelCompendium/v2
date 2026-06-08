@@ -3,7 +3,7 @@ action_type: Maneuver
 class: tactician
 cost: 5 Focus
 distance: Ranged 10
-effect: Each target is marked by you, and must immediately make a [free strike](../../../trait/common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
+effect: Each target is marked by you, and must immediately make a [free strike](../../../common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
 flavor: Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.
 keywords:
     - Ranged
@@ -35,10 +35,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target is marked by you, and must immediately make a <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against a creature of your choice within 5 squares of them.</p></div>
+<div class="sc-ability__section-body"><p>Each target is marked by you, and must immediately make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against a creature of your choice within 5 squares of them.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against a creature of your choice within 5 squares of them.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against a creature of your choice within 5 squares of them.</p></div>
 </div>
 </article>

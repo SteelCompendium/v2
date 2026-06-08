@@ -2,7 +2,7 @@
 action_type: Main action
 distance: Melee 1 or ranged 10
 effect: The target takes a bane on their next power roll made before the end of their next turn.
-flavor: You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../../trait/tactician/level-7/shock-and-awe.md)")
+flavor: You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../../tactician/level-7/shock-and-awe.md)")
 keywords:
     - Melee
     - Ranged
@@ -29,7 +29,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
-<p class="sc-ability__flavor">You execute a brutal strike that leaves your foe reeling. (Previously known as &#34;<a href="../../../trait/tactician/level-7/shock-and-awe/">Shock and Awe</a>&#34;)</p>
+<p class="sc-ability__flavor">You execute a brutal strike that leaves your foe reeling. (Previously known as &#34;<a href="../../../tactician/level-7/shock-and-awe/">Shock and Awe</a>&#34;)</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 10</div></div>

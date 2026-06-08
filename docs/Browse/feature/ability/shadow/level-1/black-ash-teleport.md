@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: shadow
 distance: Self
-effect: You [teleport](../../../../movement/teleport.md) up to 5 squares. If you have concealment or cover at your destination, you can use the [Hide](../../../trait/common/maneuvers/hide.md) maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+effect: You [teleport](../../../../movement/teleport.md) up to 5 squares. If you have concealment or cover at your destination, you can use the [Hide](../../../common/maneuvers/hide.md) maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
 flavor: In a swirl of black ash, you step from one place to another.
 keywords:
     - Magic
@@ -35,7 +35,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares. If you have concealment or cover at your destination, you can use the <a href="../../../../trait/common/maneuvers/hide/">Hide</a> maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares. If you have concealment or cover at your destination, you can use the <a href="../../../../common/maneuvers/hide/">Hide</a> maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1+ Insight</span><span class="txt">You <a href="../../../../../movement/teleport/">teleport</a> 1 additional square for each insight spent.</span></div>
 </article>

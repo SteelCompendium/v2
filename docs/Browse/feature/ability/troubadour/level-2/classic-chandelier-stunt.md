@@ -3,7 +3,7 @@ action_type: Main action
 class: troubadour
 cost: 5 Drama
 distance: Melee 1
-effect: Each target can [shift](../../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../../trait/common/main-actions/free-strike.md) that deals extra damage equal to twice their highest characteristic score.
+effect: Each target can [shift](../../../../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../../common/main-actions/free-strike.md) that deals extra damage equal to twice their highest characteristic score.
 flavor: Audiences love this bit.
 keywords:
     - Melee
@@ -37,6 +37,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/shifting/">shift</a> up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> that deals extra damage equal to twice their highest characteristic score.</p></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../../../../movement/shifting/">shift</a> up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee <a href="../../../../common/main-actions/free-strike/">free strike</a> that deals extra damage equal to twice their highest characteristic score.</p></div>
 </div>
 </article>

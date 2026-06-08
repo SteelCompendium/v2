@@ -10,7 +10,7 @@ power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.common.maneuvers/grab
 target: One creature
 tier1: No effect.
-tier2: You can grab the target, but if you do, the target can make a melee [free strike](../../../trait/common/main-actions/free-strike.md) against you before they are [grabbed](../../../../condition/grabbed.md).
+tier2: You can grab the target, but if you do, the target can make a melee [free strike](../../../common/main-actions/free-strike.md) against you before they are [grabbed](../../../../condition/grabbed.md).
 tier3: The target is [grabbed](../../../../condition/grabbed.md) by you.
 type: ability
 ---
@@ -37,7 +37,7 @@ type: ability
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">No effect.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can grab the target, but if you do, the target can make a melee <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against you before they are <a href="../../../../../condition/grabbed/">grabbed</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can grab the target, but if you do, the target can make a melee <a href="../../../../common/main-actions/free-strike/">free strike</a> against you before they are <a href="../../../../../condition/grabbed/">grabbed</a>.</span></div>
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target is <a href="../../../../../condition/grabbed/">grabbed</a> by you.</span></div>
 </div>
 </div>

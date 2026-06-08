@@ -3,7 +3,7 @@ action_type: Maneuver
 class: "null"
 cost: 7 Discipline
 distance: Self
-effect: Until the end of the encounter, the size of your [Null Field](../../../trait/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../../../../condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
+effect: Until the end of the encounter, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../../../../condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
 flavor: Your enemies' wounds open, your allies' wounds close.
 keywords:
     - Psionic
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your <a href="../../../../trait/null/level-1/null-field/">Null Field</a> ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I &lt; AVERAGE and enters the area for the first time in a combat round or starts their turn there is <a href="../../../../../condition/bleeding/">bleeding</a> (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your <a href="../../../../null/level-1/null-field/">Null Field</a> ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I &lt; AVERAGE and enters the area for the first time in a combat round or starts their turn there is <a href="../../../../../condition/bleeding/">bleeding</a> (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.</p></div>
 </div>
 </article>

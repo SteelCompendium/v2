@@ -14,7 +14,7 @@ name: Synaptic Override
 power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/synaptic-override
 target: One enemy
-tier1: The target makes a [free strike](../../../trait/common/main-actions/free-strike.md) against one enemy of your choice.
+tier1: The target makes a [free strike](../../../common/main-actions/free-strike.md) against one enemy of your choice.
 tier2: The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 tier3: The target moves up to their speed and uses their signature ability against any enemies of your choice.
 type: ability
@@ -42,7 +42,7 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target makes a <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against one enemy of your choice.</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target makes a <a href="../../../../common/main-actions/free-strike/">free strike</a> against one enemy of your choice.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target shifts up to their speed and uses their signature ability against any enemies of your choice.</span></div>
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target moves up to their speed and uses their signature ability against any enemies of your choice.</span></div>
 </div>

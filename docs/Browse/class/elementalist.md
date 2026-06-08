@@ -15,7 +15,7 @@ weak_potency: Reason − 2
 
 Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
-**As an [elementalist](elementalist.md), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) determines which of these [talents](talent.md) you excel at.**
+**As an [elementalist](elementalist.md), you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your [elemental specialization](../feature/elementalist/level-1/elemental-specialization.md) determines which of these [talents](talent.md) you excel at.**
 
 > "Understanding the mystery, requires ignorance of the mystery."
 >
@@ -48,22 +48,22 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 | Level  | Features                                                                                                                                                                                            | Abilities                           |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-| 1st    | [Elemental Specialization](../feature/trait/elementalist/level-1/elemental-specialization.md), [Essence](../feature/trait/elementalist/level-1/essence.md), [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md), [Persistent Magic](../feature/trait/elementalist/level-1/persistent-magic.md), [Practical Magic](../feature/ability/elementalist/level-1/practical-magic.md), [Specialization Feature](../feature/trait/elementalist/level-1/1st-level-specialization-feature.md), [Specialization Triggered Action](../feature/trait/elementalist/level-1/specialization-triggered-action.md), [Enchantment](../feature/trait/elementalist/level-1/enchantment.md), [Elementalist Ward](../feature/trait/elementalist/level-1/elementalist-ward.md), [Elementalist Abilities](../feature/trait/elementalist/level-1/elementalist-abilities.md) | Two signature, 3, 5                 |
-| 2nd    | [Perk](../feature/trait/elementalist/level-2/perk.md), [Specialization Feature](../feature/trait/elementalist/level-2/2nd-level-specialization-feature.md), [New 5-Essence Ability](../feature/trait/elementalist/level-2/new-5-essence-ability.md)                                                                                                                                                 | Two signature, 3, 5, 5              |
-| 3rd    | [Specialization Feature](../feature/trait/elementalist/level-3/3rd-level-specialization-feature.md), [7-Essence Ability](../feature/trait/elementalist/level-3/7-essence-ability.md)                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
-| 4th    | [Characteristic Increase](../feature/trait/elementalist/level-4/characteristic-increase.md), [Font of Essence](../feature/trait/elementalist/level-4/font-of-essence.md), [Mantle of Essence](../feature/trait/elementalist/level-4/mantle-of-essence.md), [Perk](../feature/trait/elementalist/level-4/perk.md), [Skill Increase](../feature/trait/elementalist/level-4/skill.md)                                                                                                                   | Two signature, 3, 5, 5, 7           |
-| 5th    | [Specialization Feature](../feature/trait/elementalist/level-5/5th-level-specialization-feature.md), [9-Essence Ability](../feature/trait/elementalist/level-5/9-essence-ability.md)                                                                                                                                                           | Two signature, 3, 5, 5, 7, 9        |
-| 6th    | [Perk](../feature/trait/elementalist/level-6/perk.md), [Wyrding](../feature/trait/elementalist/level-6/wyrding.md), [New 9-Essence Ability](../feature/trait/elementalist/level-6/new-9-essence-ability.md)                                                                                                                                                                | Two signature, 3, 5, 5, 7, 9, 9     |
-| 7th    | [Characteristic Increase](../feature/trait/elementalist/level-7/characteristic-increase.md), [Mantle of Quintessence](../feature/trait/elementalist/level-7/mantle-of-quintessence.md), [Surging Essence](../feature/trait/elementalist/level-7/surging-essence.md), [Skill Increase](../feature/trait/elementalist/level-7/skill.md)                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9     |
-| 8th    | [Perk](../feature/trait/elementalist/level-8/perk.md), [Specialization Feature](../feature/trait/elementalist/level-8/8th-level-specialization-feature.md), [11-Essence Ability](../feature/trait/elementalist/level-8/11-essence-ability.md)                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 9th    | [Grand Wyrding](../feature/trait/elementalist/level-9/grand-wyrding.md), [New 11-Essence Ability](../feature/trait/elementalist/level-9/new-11-essence-ability.md)                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9, 11 |
-| 10th   | [Characteristic Increase](../feature/trait/elementalist/level-10/characteristic-increase.md), [Breath](../feature/trait/elementalist/level-10/breath.md), [Essential Being](../feature/trait/elementalist/level-10/essential-being.md), [One](../feature/trait/elementalist/level-10/one.md), [Perk](../feature/trait/elementalist/level-10/perk.md), [Skill Increase](../feature/trait/elementalist/level-10/skill.md)                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 1st    | [Elemental Specialization](../feature/elementalist/level-1/elemental-specialization.md), [Essence](../feature/elementalist/level-1/essence.md), [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md), [Persistent Magic](../feature/elementalist/level-1/persistent-magic.md), [Practical Magic](../feature/ability/elementalist/level-1/practical-magic.md), [Specialization Feature](../feature/elementalist/level-1/1st-level-specialization-feature.md), [Specialization Triggered Action](../feature/elementalist/level-1/specialization-triggered-action.md), [Enchantment](../feature/elementalist/level-1/enchantment.md), [Elementalist Ward](../feature/elementalist/level-1/elementalist-ward.md), [Elementalist Abilities](../feature/elementalist/level-1/elementalist-abilities.md) | Two signature, 3, 5                 |
+| 2nd    | [Perk](../feature/elementalist/level-2/perk.md), [Specialization Feature](../feature/elementalist/level-2/2nd-level-specialization-feature.md), [New 5-Essence Ability](../feature/elementalist/level-2/new-5-essence-ability.md)                                                                                                                                                 | Two signature, 3, 5, 5              |
+| 3rd    | [Specialization Feature](../feature/elementalist/level-3/3rd-level-specialization-feature.md), [7-Essence Ability](../feature/elementalist/level-3/7-essence-ability.md)                                                                                                                                                           | Two signature, 3, 5, 5, 7           |
+| 4th    | [Characteristic Increase](../feature/elementalist/level-4/characteristic-increase.md), [Font of Essence](../feature/elementalist/level-4/font-of-essence.md), [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md), [Perk](../feature/elementalist/level-4/perk.md), [Skill Increase](../feature/elementalist/level-4/skill.md)                                                                                                                   | Two signature, 3, 5, 5, 7           |
+| 5th    | [Specialization Feature](../feature/elementalist/level-5/5th-level-specialization-feature.md), [9-Essence Ability](../feature/elementalist/level-5/9-essence-ability.md)                                                                                                                                                           | Two signature, 3, 5, 5, 7, 9        |
+| 6th    | [Perk](../feature/elementalist/level-6/perk.md), [Wyrding](../feature/elementalist/level-6/wyrding.md), [New 9-Essence Ability](../feature/elementalist/level-6/new-9-essence-ability.md)                                                                                                                                                                | Two signature, 3, 5, 5, 7, 9, 9     |
+| 7th    | [Characteristic Increase](../feature/elementalist/level-7/characteristic-increase.md), [Mantle of Quintessence](../feature/elementalist/level-7/mantle-of-quintessence.md), [Surging Essence](../feature/elementalist/level-7/surging-essence.md), [Skill Increase](../feature/elementalist/level-7/skill.md)                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9     |
+| 8th    | [Perk](../feature/elementalist/level-8/perk.md), [Specialization Feature](../feature/elementalist/level-8/8th-level-specialization-feature.md), [11-Essence Ability](../feature/elementalist/level-8/11-essence-ability.md)                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 9th    | [Grand Wyrding](../feature/elementalist/level-9/grand-wyrding.md), [New 11-Essence Ability](../feature/elementalist/level-9/new-11-essence-ability.md)                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+| 10th   | [Characteristic Increase](../feature/elementalist/level-10/characteristic-increase.md), [Breath](../feature/elementalist/level-10/breath.md), [Essential Being](../feature/elementalist/level-10/essential-being.md), [One](../feature/elementalist/level-10/one.md), [Perk](../feature/elementalist/level-10/perk.md), [Skill Increase](../feature/elementalist/level-10/skill.md)                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 
 ## 1st-Level Features
 
 As a 1st-level [elementalist](elementalist.md), you gain the following features.
 
-### Elemental Specialization {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/elemental-specialization"}
+### Elemental Specialization {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elemental-specialization"}
 
 Through your studies, you know and can manipulate the seven primal elements of the timescape:
 
@@ -75,25 +75,25 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Void** is the element of the mystery. Void abilities warp space and reality, allowing you to [teleport](../movement/teleport.md), create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance your allies' power, and alter your enemies' power for the worse.
 
-You choose an [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) from the following options: earth, fire, green, or void. Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
+You choose an [elemental specialization](../feature/elementalist/level-1/elemental-specialization.md) from the following options: earth, fire, green, or void. Your [elemental specialization](../feature/elementalist/level-1/elemental-specialization.md) is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
 
-#### Earth: Acolyte of Earth {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/earth-acolyte-of-earth"}
+#### Earth: Acolyte of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/earth-acolyte-of-earth"}
 
 You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your stability increases by 1 until the start of your next turn. This benefit is cumulative.
 
-#### Fire: Acolyte of Fire {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/fire-acolyte-of-fire"}
+#### Fire: Acolyte of Fire {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/fire-acolyte-of-fire"}
 
 You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability (see below) also gains this bonus when you use it to deal fire damage.
 
-#### Green: Acolyte of the Green {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/green-acolyte-of-the-green"}
+#### Green: Acolyte of the Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/green-acolyte-of-the-green"}
 
 You harness the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to one or more creatures using an ability that has the Green and Magic keywords and that costs essence to use (see below), you or one creature within 10 squares of you gains temporary Stamina equal to your Reason score.
 
-#### Void: Acolyte of the Mystery {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/void-acolyte-of-the-mystery"}
+#### Void: Acolyte of the Mystery {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/void-acolyte-of-the-mystery"}
 
 You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The distance of all your abilities that have the Magic, Ranged, and Void keywords increases by 2 squares.
 
-### Essence {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/essence"}
+### Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/essence"}
 
 You channel the substance of creation in the form of a Heroic Resource called essence, gathering and burning it to cast and maintain spells.
 
@@ -109,13 +109,13 @@ You lose any remaining essence at the end of the encounter.
 
 Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
-When you use a persistent ability outside of combat (see [Persistent Magic](../feature/trait/elementalist/level-1/persistent-magic.md) below), you can maintain it for a number of rounds equal to your Victories.
+When you use a persistent ability outside of combat (see [Persistent Magic](../feature/elementalist/level-1/persistent-magic.md) below), you can maintain it for a number of rounds equal to your Victories.
 
 When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to your Victories.
 
-### Hurl Element {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/hurl-element"}
+### Hurl Element {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/hurl-element"}
 
-You have the following ability, which can be used as a ranged [free strike](../feature/trait/common/main-actions/free-strike.md).
+You have the following ability, which can be used as a ranged [free strike](../feature/common/main-actions/free-strike.md).
 
 #### Hurl Element {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/hurl-element"}
 
@@ -134,7 +134,7 @@ You have the following ability, which can be used as a ranged [free strike](../f
 
 **Effect:** When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
 
-### Persistent Magic {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/persistent-magic"}
+### Persistent Magic {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/persistent-magic"}
 
 Some of your heroic abilities have a persistent effect entry. For example, the [Instantaneous Excavation](../feature/ability/elementalist/level-1/instantaneous-excavation.md) ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
 
@@ -144,7 +144,7 @@ If you maintain the same ability on several targets and the effect includes a po
 
 If you take damage equal to or greater than 5 times your Reason score in one turn, you stop maintaining any persistent abilities. For instance, if you have a Reason score of 2 and are maintaining [Instantaneous Excavation](../feature/ability/elementalist/level-1/instantaneous-excavation.md), taking 10 or more damage in one turn causes you to stop maintaining the ability.
 
-### Practical Magic {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/practical-magic"}
+### Practical Magic {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/practical-magic"}
 
 You have the following ability.
 
@@ -159,13 +159,13 @@ You have the following ability.
 
 **Effect:** Choose one of the following effects:
 
-- You use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver (see Chapter 10: [Combat](../../Read/heroes/combat.md)), but its distance becomes the range of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability, and you use Reason instead of Might for the power roll.
+- You use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver (see Chapter 10: [Combat](../../Read/heroes/combat.md)), but its distance becomes the range of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability, and you use Reason instead of Might for the power roll.
 - You choose a creature within the distance of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
 - You [teleport](../movement/teleport.md) up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to [teleport](../movement/teleport.md) 1 additional square for each essence spent.
 
-### 1st-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/1st-level-specialization-feature"}
+### 1st-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/1st-level-specialization-feature"}
 
-Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) grants you a feature, as shown on the 1st-Level [Elemental Specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) Features table.
+Your [elemental specialization](../feature/elementalist/level-1/elemental-specialization.md) grants you a feature, as shown on the 1st-Level [Elemental Specialization](../feature/elementalist/level-1/elemental-specialization.md) Features table.
 
 ##### 1st-Level Elemental Specialization Features Table
 
@@ -173,10 +173,10 @@ Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-
 |----------------|----------------------------|
 | Earth          | [Motivate Earth](../feature/ability/elementalist/level-1/motivate-earth.md)             |
 | Fire           | [Return to Formlessness](../feature/ability/elementalist/level-1/return-to-formlessness.md)     |
-| Green          | [It Is the Soul Which Hears](../feature/trait/elementalist/level-1/it-is-the-soul-which-hears.md) |
-| Void           | [A Beyonding of Vision](../feature/trait/elementalist/level-1/a-beyonding-of-vision.md)      |
+| Green          | [It Is the Soul Which Hears](../feature/elementalist/level-1/it-is-the-soul-which-hears.md) |
+| Void           | [A Beyonding of Vision](../feature/elementalist/level-1/a-beyonding-of-vision.md)      |
 
-#### A Beyonding of Vision {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/a-beyonding-of-vision"}
+#### A Beyonding of Vision {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/a-beyonding-of-vision"}
 
 You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.
 
@@ -191,15 +191,15 @@ You also gain the following ability.
 |-------------------------|----------------:|
 | **📏 Ranged 10**        |  **🎯 Special** |
 
-**Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](../feature/trait/elementalist/level-1/a-beyonding-of-vision.md) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../feature/ability/elementalist/level-1/shared-void-sense.md) ability.
+**Effect:** For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](../feature/elementalist/level-1/a-beyonding-of-vision.md) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../feature/ability/elementalist/level-1/shared-void-sense.md) ability.
 
-#### It Is the Soul Which Hears {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/it-is-the-soul-which-hears"}
+#### It Is the Soul Which Hears {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/it-is-the-soul-which-hears"}
 
 You can speak with and understand animals, beasts, and plant creatures, even if they don't share a language with you. Your ability to communicate with these creatures doesn't make them inherently more intelligent, but you can use Reason instead of Presence while making tests to influence them.
 
 Additionally, you can touch a living plant that is not a plant creature to communicate with it telepathically. You can use words to communicate with the plant, but it communicates with you only by transmitting feelings and sensations that can't be overly specific.
 
-#### Motivate Earth {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/motivate-earth"}
+#### Motivate Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/motivate-earth"}
 
 You have the following ability.
 
@@ -216,7 +216,7 @@ You have the following ability.
 
 Alternatively, you touch a structure made of mundane dirt, stone, or metal that occupies 2 or more squares. You can open a 1-square opening in the structure where you touched it. You can instead touch an existing doorway or other opening that is 1 square or smaller in a mundane dirt, stone, or metal surface. The opening is sealed by the same material that makes up the surface.
 
-#### Return to Formlessness {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/return-to-formlessness"}
+#### Return to Formlessness {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/return-to-formlessness"}
 
 You have the following ability.
 
@@ -231,9 +231,9 @@ You have the following ability.
 
 **Effect:** You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.
 
-### Specialization Triggered Action {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/specialization-triggered-action"}
+### Specialization Triggered Action {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/specialization-triggered-action"}
 
-Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) grants you a triggered action, as shown on the Specialization Triggered Actions table.
+Your [elemental specialization](../feature/elementalist/level-1/elemental-specialization.md) grants you a triggered action, as shown on the Specialization Triggered Actions table.
 
 ##### Elemental Specialization Triggered Actions Table
 
@@ -304,55 +304,55 @@ Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-
 
 **Spend 1 Essence:** You [teleport](../movement/teleport.md) the target up to a number of squares equal to twice your Reason score instead.
 
-### Enchantment {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/enchantment"}
+### Enchantment {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment"}
 
-You weave an elemental [enchantment](../feature/trait/elementalist/level-1/enchantment.md) into your body that enhances your statistics. Choose one of the following enchantments. You can change your [enchantment](../feature/trait/elementalist/level-1/enchantment.md) and ward (see [Elementalist Ward](../feature/trait/elementalist/level-1/elementalist-ward.md) below) by performing a complex ritual as a respite activity. (*Quick Build:*  [Enchantment of Destruction](../feature/trait/elementalist/level-1/enchantment-of-destruction.md).)
+You weave an elemental [enchantment](../feature/elementalist/level-1/enchantment.md) into your body that enhances your statistics. Choose one of the following enchantments. You can change your [enchantment](../feature/elementalist/level-1/enchantment.md) and ward (see [Elementalist Ward](../feature/elementalist/level-1/elementalist-ward.md) below) by performing a complex ritual as a respite activity. (*Quick Build:*  [Enchantment of Destruction](../feature/elementalist/level-1/enchantment-of-destruction.md).)
 
-#### Enchantment of Battle {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/enchantment-of-battle"}
+#### Enchantment of Battle {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-battle"}
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../feature/trait/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
 
-If you have a kit, you can't take this [enchantment](../feature/trait/elementalist/level-1/enchantment.md).
+If you have a kit, you can't take this [enchantment](../feature/elementalist/level-1/enchantment.md).
 
-#### Enchantment of Celerity {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/enchantment-of-celerity"}
+#### Enchantment of Celerity {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-celerity"}
 
-You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action.
+You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
-#### Enchantment of Destruction {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/enchantment-of-destruction"}
+#### Enchantment of Destruction {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-destruction"}
 
 You gain a +1 bonus to rolled damage with magic abilities.
 
-#### Enchantment of Distance {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/enchantment-of-distance"}
+#### Enchantment of Distance {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-distance"}
 
 You have a +2 bonus to the distance of your ranged magic abilities.
 
-#### Enchantment of Permanence {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/enchantment-of-permanence"}
+#### Enchantment of Permanence {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-permanence"}
 
 You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
 
-### Elementalist Ward {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/elementalist-ward"}
+### Elementalist Ward {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-ward"}
 
-You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and [enchantment](../feature/trait/elementalist/level-1/enchantment.md) (see above) by performing a complex ritual as a respite activity. (*Quick Build:*  [Ward of Surprising Reactivity](../feature/trait/elementalist/level-1/ward-of-surprising-reactivity.md).)
+You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and [enchantment](../feature/elementalist/level-1/enchantment.md) (see above) by performing a complex ritual as a respite activity. (*Quick Build:*  [Ward of Surprising Reactivity](../feature/elementalist/level-1/ward-of-surprising-reactivity.md).)
 
-#### Ward of Delightful Consequences {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/ward-of-delightful-consequences"}
+#### Ward of Delightful Consequences {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-delightful-consequences"}
 
 A protective field of void magic absorbs violence aimed at you, then lets you hurl it back at your enemies. The first time each round that you take damage, you gain 1 surge.
 
-#### Ward of Excellent Protection {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/ward-of-excellent-protection"}
+#### Ward of Excellent Protection {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-excellent-protection"}
 
 You weave a shield of all the elements around yourself, channeling their full protective power. You have immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your Reason score.
 
-#### Ward of Nature's Affection {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/ward-of-natures-affection"}
+#### Ward of Nature's Affection {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-natures-affection"}
 
 The green energy writhing within your body allows you to produce powerful vines when you're in danger. Whenever a creature within a number of squares equal to your Reason score deals damage to you, you can use a free triggered action to slide that creature up to a number of squares equal to your Reason score.
 
-#### Ward of Surprising Reactivity {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/ward-of-surprising-reactivity"}
+#### Ward of Surprising Reactivity {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-surprising-reactivity"}
 
 You use the magic of fire to create a ward of explosive energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push that creature up to a number of squares equal to twice your Reason score.
 
-### Elementalist Abilities {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-1/elementalist-abilities"}
+### Elementalist Abilities {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-abilities"}
 
-Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
+Your understanding of elemental magic grants you unique abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any [elemental specialization](../feature/elementalist/level-1/elemental-specialization.md) to broaden your potential, or you can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
 
 #### Signature Abilities
 
@@ -636,36 +636,36 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 As a 2nd-level [elementalist](elementalist.md), you gain the following features.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-2/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/perk"}
 
 You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
-### 2nd-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-2/2nd-level-specialization-feature"}
+### 2nd-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/2nd-level-specialization-feature"}
 
-Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) grants you a feature, as shown on the 2nd-Level [Elemental Specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) Features table.
+Your [elemental specialization](../feature/elementalist/level-1/elemental-specialization.md) grants you a feature, as shown on the 2nd-Level [Elemental Specialization](../feature/elementalist/level-1/elemental-specialization.md) Features table.
 
 ##### 2nd-Level Elemental Specialization Features Table
 
 | Specialization | Feature                   |
 |----------------|---------------------------|
-| Earth          | [Disciple of Earth](../feature/trait/elementalist/level-2/disciple-of-earth.md)         |
-| Fire           | [Disciple of Fire](../feature/trait/elementalist/level-2/disciple-of-fire.md)          |
-| Green          | [Disciple of the Green](../feature/trait/elementalist/level-2/disciple-of-the-green.md)     |
+| Earth          | [Disciple of Earth](../feature/elementalist/level-2/disciple-of-earth.md)         |
+| Fire           | [Disciple of Fire](../feature/elementalist/level-2/disciple-of-fire.md)          |
+| Green          | [Disciple of the Green](../feature/elementalist/level-2/disciple-of-the-green.md)     |
 | Void           | [There Is No Space Between](../feature/ability/elementalist/level-2/there-is-no-space-between.md) |
 
-#### Disciple of Earth {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-2/disciple-of-earth"}
+#### Disciple of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/disciple-of-earth"}
 
 Your body is strengthened by your mind's connection to the element of permanence. You have a +6 bonus to Stamina, and you gain an additional +3 bonus to Stamina whenever you gain a level past 2nd.
 
-#### Disciple of Fire {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-2/disciple-of-fire"}
+#### Disciple of Fire {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/disciple-of-fire"}
 
 Your connection to fire allows you to protect yourself from it, even as you rip away the protections of others. You have fire immunity equal to 5 plus your level. Additionally, fire damage you deal ignores a target's fire immunity.
 
 At the start of a combat encounter, you gain a number of surges equal to your Victories. Whenever you spend a surge to deal extra damage, you can make that damage fire damage.
 
-#### Disciple of the Green {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-2/disciple-of-the-green"}
+#### Disciple of the Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/disciple-of-the-green"}
 
-You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](../complication/animal-form.md), you can speak, and you use your Reason score to make melee [free strikes](../feature/trait/common/main-actions/free-strike.md). Your statistics stay the same except as noted on the table.
+You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](../complication/animal-form.md), you can speak, and you use your Reason score to make melee [free strikes](../feature/common/main-actions/free-strike.md). Your statistics stay the same except as noted on the table.
 
 Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you temporary Stamina. You lose this temporary Stamina when you revert back to your true form.
 
@@ -681,24 +681,24 @@ You can revert back to your true form as a maneuver. You can't enter an [animal 
 | Fish                | 2nd   | 0                 | 5 (swim only) | 1T   | +0              | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                       |
 | Rodent              | 2nd   | 0                 | 5 (climb)     | 1T   | +0              | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                   |
 | Bird                | 3rd   | 0                 | 5 ([fly](../movement/fly.md))       | 1T   | +0              | +0/+0/+0           | -                                                                                                                                                                                                                                                                               |
-| Great cat           | 3rd   | 5                 | 6 (climb)     | 2    | +0              | +1/+1/+1           | As a maneuver, you can jump up to 3 squares in any direction. If you land on<br>an enemy of your size or smaller, that enemy is [knocked prone](../condition/prone.md), and you can<br>make a melee [free strike](../feature/trait/common/main-actions/free-strike.md) against them (no action required).                                                       |
-| Giant frog          | 4th   | 5                 | 5 (swim)      | 2    | +0              | +0/+0/+0           | Your melee [free strike](../feature/trait/common/main-actions/free-strike.md) has a distance of melee 3. When you take the Advance<br>move action, you can high jump or long jump up to half your speed. This<br>jump can allow you to move more squares than your speed.                                                              |
-| Horse               | 4th   | 5                 | 8             | 2    | +1              | +0/+0/+0           | You can use the [Charge](../feature/trait/common/main-actions/charge.md) main action as a maneuver. You can't use two Charge<br>main actions on the same turn.                                                                                                                                                                    |
+| Great cat           | 3rd   | 5                 | 6 (climb)     | 2    | +0              | +1/+1/+1           | As a maneuver, you can jump up to 3 squares in any direction. If you land on<br>an enemy of your size or smaller, that enemy is [knocked prone](../condition/prone.md), and you can<br>make a melee [free strike](../feature/common/main-actions/free-strike.md) against them (no action required).                                                       |
+| Giant frog          | 4th   | 5                 | 5 (swim)      | 2    | +0              | +0/+0/+0           | Your melee [free strike](../feature/common/main-actions/free-strike.md) has a distance of melee 3. When you take the Advance<br>move action, you can high jump or long jump up to half your speed. This<br>jump can allow you to move more squares than your speed.                                                              |
+| Horse               | 4th   | 5                 | 8             | 2    | +1              | +0/+0/+0           | You can use the [Charge](../feature/common/main-actions/charge.md) main action as a maneuver. You can't use two Charge<br>main actions on the same turn.                                                                                                                                                                    |
 | Mohler              | 4th   | 0                 | 7 ([burrow](../movement/burrow.md))    | 1S   | +1              | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                           |
 | Bear                | 5th   | 10                | 5 (climb)     | 2    | +1              | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                           |
-| Giant bird          | 5th   | 0                 | 7 ([fly](../movement/fly.md))       | 2    | +0              | +1/+1/+1           | After making a melee [free strike](../feature/trait/common/main-actions/free-strike.md), you can [shift](../movement/shifting.md) up to 3 squares as a free<br>triggered action.                                                                                                                                                                                  |
-| Giant<br>salamander | 6th   | 5                 | 5             | 1L   | +3              | +2/+2/+2           | Your melee [free strike](../feature/trait/common/main-actions/free-strike.md) deals fire damage. Additionally, you have fire immunity<br>3.                                                                                                                                                                                            |
-| Giant spider        | 6th   | 0                 | 5 (climb)     | 2    | +0              | +0/+1/+2           | You have a double edge on melee [free strikes](../feature/trait/common/main-actions/free-strike.md) against creatures you are hidden<br>from.                                                                                                                                                                                          |
-| Giant snake         | 7th   | 5                 | 5             | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee [free strike](../feature/trait/common/main-actions/free-strike.md), you<br>can automatically grab the target. While [grabbed](../condition/grabbed.md) this way, the target takes 2<br>damage at the start of each of their turns.                                                                      |
-| Kangaroo            | 7th   | 0                 | 7             | 1L   | +1              | +0/+0/+4           | When you score a critical hit with a melee [free strike](../feature/trait/common/main-actions/free-strike.md), the target is [dazed](../condition/dazed.md) (save<br>ends). When you take the [Advance](../feature/trait/common/move-actions/advance.md) move action, you can high jump or long<br>jump up to half your speed. This jump can allow you to move more squares<br>than your speed.                    |
+| Giant bird          | 5th   | 0                 | 7 ([fly](../movement/fly.md))       | 2    | +0              | +1/+1/+1           | After making a melee [free strike](../feature/common/main-actions/free-strike.md), you can [shift](../movement/shifting.md) up to 3 squares as a free<br>triggered action.                                                                                                                                                                                  |
+| Giant<br>salamander | 6th   | 5                 | 5             | 1L   | +3              | +2/+2/+2           | Your melee [free strike](../feature/common/main-actions/free-strike.md) deals fire damage. Additionally, you have fire immunity<br>3.                                                                                                                                                                                            |
+| Giant spider        | 6th   | 0                 | 5 (climb)     | 2    | +0              | +0/+1/+2           | You have a double edge on melee [free strikes](../feature/common/main-actions/free-strike.md) against creatures you are hidden<br>from.                                                                                                                                                                                          |
+| Giant snake         | 7th   | 5                 | 5             | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee [free strike](../feature/common/main-actions/free-strike.md), you<br>can automatically grab the target. While [grabbed](../condition/grabbed.md) this way, the target takes 2<br>damage at the start of each of their turns.                                                                      |
+| Kangaroo            | 7th   | 0                 | 7             | 1L   | +1              | +0/+0/+4           | When you score a critical hit with a melee [free strike](../feature/common/main-actions/free-strike.md), the target is [dazed](../condition/dazed.md) (save<br>ends). When you take the [Advance](../feature/common/move-actions/advance.md) move action, you can high jump or long<br>jump up to half your speed. This jump can allow you to move more squares<br>than your speed.                    |
 | Spiny armadillo     | 7th   | 10                | 5             | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br>creature takes 3 damage.                                                                                                                                                                            |
 | Ostrich             | 8th   | 0                 | 10            | 2    | +0              | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                             |
 | Shark               | 8th   | 0                 | 8 (swim only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an edge on strikes against targets who are [bleeding](../condition/bleeding.md) or winded.                                                                                                                              |
-| Giant octopus       | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your melee [free strike](../feature/trait/common/main-actions/free-strike.md). Whenever you obtain a tier 2 or tier 3 outcome on<br>a melee [free strike](../feature/trait/common/main-actions/free-strike.md), you can automatically grab the target. You can have up to<br>eight creatures [grabbed](../condition/grabbed.md). |
-| Rhinoceros          | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a melee [free strike](../feature/trait/common/main-actions/free-strike.md) as part of the Charge action, that<br>strike gains an edge.                                                                                                                                                                               |
-| King terror lizard  | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your melee [free strike](../feature/trait/common/main-actions/free-strike.md) is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                          |
+| Giant octopus       | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your melee [free strike](../feature/common/main-actions/free-strike.md). Whenever you obtain a tier 2 or tier 3 outcome on<br>a melee [free strike](../feature/common/main-actions/free-strike.md), you can automatically grab the target. You can have up to<br>eight creatures [grabbed](../condition/grabbed.md). |
+| Rhinoceros          | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a melee [free strike](../feature/common/main-actions/free-strike.md) as part of the Charge action, that<br>strike gains an edge.                                                                                                                                                                               |
+| King terror lizard  | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your melee [free strike](../feature/common/main-actions/free-strike.md) is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                          |
 
-#### There Is No Space Between {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-2/there-is-no-space-between"}
+#### There Is No Space Between {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/there-is-no-space-between"}
 
 You have the following ability.
 
@@ -715,7 +715,7 @@ You have the following ability.
 
 At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who [force move](../movement/forced-movement.md)s an enemy into a portal chooses that enemy's destination portal.
 
-### New 5-Essence Ability {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-2/new-5-essence-ability"}
+### New 5-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/new-5-essence-ability"}
 
 Choose one heroic ability from the following options, each of which costs 5 essence to use. Alternatively, you can choose one of the 5-essence abilities you didn't select at 1st level (see 1st-Level Features).
 
@@ -789,28 +789,28 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 As a 3rd-level [elementalist](elementalist.md), you gain the following features.
 
-### 3rd-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-3/3rd-level-specialization-feature"}
+### 3rd-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-3/3rd-level-specialization-feature"}
 
-Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) Features table.
+Your [elemental specialization](../feature/elementalist/level-1/elemental-specialization.md) grants you a feature, as shown on the 3rd-Level [Elemental Specialization](../feature/elementalist/level-1/elemental-specialization.md) Features table.
 
 ##### 3rd-Level Elemental Specialization Features Table
 
 | Specialization | Feature                          |
 |----------------|----------------------------------|
 | Earth          | [Earth Accepts Me](../feature/ability/elementalist/level-3/earth-accepts-me.md)                 |
-| Fire           | [A Conversation With Fire](../feature/trait/elementalist/level-3/a-conversation-with-fire.md)         |
+| Fire           | [A Conversation With Fire](../feature/elementalist/level-3/a-conversation-with-fire.md)         |
 | Green          | [Remember Growth and Sun and Rain](../feature/ability/elementalist/level-3/remember-growth-and-sun-and-rain.md) |
-| Void           | [Distance Is Only Memory](../feature/trait/elementalist/level-3/distance-is-only-memory.md)          |
+| Void           | [Distance Is Only Memory](../feature/elementalist/level-3/distance-is-only-memory.md)          |
 
-#### A Conversation With Fire {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-3/a-conversation-with-fire"}
+#### A Conversation With Fire {data-scc="mcdm.heroes.v1/feature.elementalist.level-3/a-conversation-with-fire"}
 
 When you spend 1 uninterrupted minute in front of a fire, you can speak the name of another creature. If that creature is willing to speak to you, their image appears in the fire, and they can see you before them in a shimmering ball of light. The two of you can speak to each other through these images as if you were together in person. As a maneuver, you or the creature can end the conversation.
 
-#### Distance Is Only Memory {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-3/distance-is-only-memory"}
+#### Distance Is Only Memory {data-scc="mcdm.heroes.v1/feature.elementalist.level-3/distance-is-only-memory"}
 
 Each time you finish a respite, you can open a two-way portal that leads to any place you have previously been. You and your allies can pass through the portal, which remains open for 1 hour or until you dismiss it as a main action.
 
-#### Earth Accepts Me {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-3/earth-accepts-me"}
+#### Earth Accepts Me {data-scc="mcdm.heroes.v1/feature.elementalist.level-3/earth-accepts-me"}
 
 You have the following ability.
 
@@ -825,7 +825,7 @@ You have the following ability.
 
 **Effect:** You step into a mundane dirt, metal, or stone object (including a wall) that is as large as you or larger. You can remain inside the object for as long as you like. While inside the object, you can observe events and speak to creatures outside it, but you don't have line of effect to anything outside the object and vice versa. You can travel through the object freely until you exit it. If the object you meld with is destroyed, you take 10 damage and exit the object.
 
-#### Remember Growth and Sun and Rain {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-3/remember-growth-and-sun-and-rain"}
+#### Remember Growth and Sun and Rain {data-scc="mcdm.heroes.v1/feature.elementalist.level-3/remember-growth-and-sun-and-rain"}
 
 You have the following ability.
 
@@ -840,7 +840,7 @@ You have the following ability.
 
 **Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object's location as if you were there.
 
-### 7-Essence Ability {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-3/7-essence-ability"}
+### 7-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-3/7-essence-ability"}
 
 Choose one heroic ability from the following options, each of which costs 7 essence to use.
 
@@ -916,48 +916,48 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 
 As a 4th-level [elementalist](elementalist.md), you gain the following features.
 
-### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-4/characteristic-increase"}
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/characteristic-increase"}
 
 Your Reason score increases to 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 3.
 
-### Font of Essence {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-4/font-of-essence"}
+### Font of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/font-of-essence"}
 
 The first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 2 essence instead of 1.
 
-### Mantle of Essence {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-4/mantle-of-essence"}
+### Mantle of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/mantle-of-essence"}
 
-While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../feature/trait/elementalist/level-4/mantle-of-essence.md) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
+While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
 
 ##### Mantle of Essence Specialization Effects Table
 
 | Specialization | Feature         |
 |----------------|-----------------|
-| Earth          | [Quaking Earth](../feature/trait/elementalist/level-4/quaking-earth.md)   |
-| Fire           | [Burning Grounds](../feature/trait/elementalist/level-4/burning-grounds.md) |
-| Green          | [Flowering Bed](../feature/trait/elementalist/level-4/flowering-bed.md)   |
-| Void           | [Veiling Bed](../feature/trait/elementalist/level-4/veiling-bed.md)     |
+| Earth          | [Quaking Earth](../feature/elementalist/level-4/quaking-earth.md)   |
+| Fire           | [Burning Grounds](../feature/elementalist/level-4/burning-grounds.md) |
+| Green          | [Flowering Bed](../feature/elementalist/level-4/flowering-bed.md)   |
+| Void           | [Veiling Bed](../feature/elementalist/level-4/veiling-bed.md)     |
 
-#### Burning Grounds {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-4/burning-grounds"}
+#### Burning Grounds {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/burning-grounds"}
 
 At the end of each of your turns, each enemy in the area takes fire damage equal to your Reason score.
 
-#### Flowering Bed {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-4/flowering-bed"}
+#### Flowering Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/flowering-bed"}
 
 At the end of each of your turns, each ally in the area gains temporary Stamina equal to your Reason score.
 
-#### Quaking Earth {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-4/quaking-earth"}
+#### Quaking Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/quaking-earth"}
 
 At the end of each of your turns, you can push each enemy in the area up to a number of squares equal to your Reason score.
 
-#### Veiling Bed {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-4/veiling-bed"}
+#### Veiling Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/veiling-bed"}
 
 The area provides concealment for you and your allies.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-4/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/perk"}
 
 You gain one perk of your choice.
 
-### Skill {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-4/skill"}
+### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/skill"}
 
 You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
@@ -965,44 +965,44 @@ You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/h
 
 As a 5th-level [elementalist](elementalist.md), you gain the following features.
 
-### 5th-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-5/5th-level-specialization-feature"}
+### 5th-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/5th-level-specialization-feature"}
 
-Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) Features table.
+Your [elemental specialization](../feature/elementalist/level-1/elemental-specialization.md) grants you a feature, as shown on the 5th-Level [Elemental Specialization](../feature/elementalist/level-1/elemental-specialization.md) Features table.
 
 ##### 5th-Level Elemental Specialization Features Table
 
 | Specialization | Feature                      |
 |----------------|------------------------------|
-| Earth          | [The Mountain Does Not Move](../feature/trait/elementalist/level-5/the-mountain-does-not-move.md)   |
-| Fire           | [Smoldering Step](../feature/trait/elementalist/level-5/smoldering-step.md)              |
-| Green          | [Hide of Tenfold Shields](../feature/trait/elementalist/level-5/hide-of-tenfold-shields.md)      |
-| Void           | [Pierce the Veil of Substance](../feature/trait/elementalist/level-5/pierce-the-veil-of-substance.md) |
+| Earth          | [The Mountain Does Not Move](../feature/elementalist/level-5/the-mountain-does-not-move.md)   |
+| Fire           | [Smoldering Step](../feature/elementalist/level-5/smoldering-step.md)              |
+| Green          | [Hide of Tenfold Shields](../feature/elementalist/level-5/hide-of-tenfold-shields.md)      |
+| Void           | [Pierce the Veil of Substance](../feature/elementalist/level-5/pierce-the-veil-of-substance.md) |
 
-#### Hide of Tenfold Shields {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-5/hide-of-tenfold-shields"}
+#### Hide of Tenfold Shields {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/hide-of-tenfold-shields"}
 
 Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](../complication/animal-form.md) in combat, which is added to any temporary Stamina provided by the [animal form](../complication/animal-form.md).
 
 Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.
 
-#### The Mountain Does Not Move {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-5/the-mountain-does-not-move"}
+#### The Mountain Does Not Move {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/the-mountain-does-not-move"}
 
 You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.
 
 Additionally, whenever an ally within distance of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability is [force moved](../movement/forced-movement.md), you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally's stability by an amount equal to the stability you lost. This change lasts until the end of the round.
 
-#### Pierce the Veil of Substance {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-5/pierce-the-veil-of-substance"}
+#### Pierce the Veil of Substance {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/pierce-the-veil-of-substance"}
 
 Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.
 
 Additionally, whenever you use a void ability, you or one ally within distance of the ability can [teleport](../movement/teleport.md) a number of squares equal to your Reason score.
 
-#### Smoldering Step {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-5/smoldering-step"}
+#### Smoldering Step {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/smoldering-step"}
 
 You can use 1 square of movement to walk into an area of fire your size or larger and [teleport](../movement/teleport.md) to any other area of fire your size or larger within 10 squares of the first area.
 
 Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your Reason score.
 
-### 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-5/9-essence-ability"}
+### 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/9-essence-ability"}
 
 Choose one heroic ability from the following options, each of which costs 9 essence to use.
 
@@ -1080,11 +1080,11 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 As a 6th-level [elementalist](elementalist.md), you gain the following features.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-6/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/perk"}
 
 You gain one crafting, lore, or supernatural perk of your choice.
 
-### Wyrding {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-6/wyrding"}
+### Wyrding {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/wyrding"}
 
 You can spend 10 uninterrupted minutes to create a freeform magic spell for a variety of situations. Choose one of the following magical effects:
 
@@ -1095,7 +1095,7 @@ You can spend 10 uninterrupted minutes to create a freeform magic spell for a va
 - You can preserve a corpse or up to 5 pounds of food for a week, or can cause a corpse or that amount of food to instantly rot.
 - You create a seal on a surface that can't be seen or felt by anyone but you. When a creature comes adjacent to the surface, you can see and hear through the seal for as long as the creature remains adjacent to it. When you create the seal, you can decide to limit the number of creatures who activate it by choosing a creature keyword (such as Undead) or a specific name (such as Ajax the Invincible) or organization (such as the Black Iron Pact). If you do, the seal alerts you only when creatures with the keyword, name, or organizational affiliation you provide pass by it. If you create a second seal, the first one disappears. You can dispel a seal at any time (no action required).
 
-### New 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-6/new-9-essence-ability"}
+### New 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/new-9-essence-ability"}
 
 Choose one heroic ability from the following options, each of which costs 9 essence to use. Alternatively, you can choose one of the 9-assence abilities you didn't select at 5th level (see 5th-Level Features).
 
@@ -1165,21 +1165,21 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 As a 7th-level [elementalist](elementalist.md), you gain the following features.
 
-### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-7/characteristic-increase"}
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/characteristic-increase"}
 
 Each of your characteristic scores increases by 1, to a maximum of 4.
 
-### Mantle of Quintessence {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-7/mantle-of-quintessence"}
+### Mantle of Quintessence {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/mantle-of-quintessence"}
 
-Your [Mantle of Essence](../feature/trait/elementalist/level-4/mantle-of-essence.md) feature no longer requires essence.
+Your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) feature no longer requires essence.
 
-Additionally, your [Mantle of Essence](../feature/trait/elementalist/level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the [Handle Animals](../skill/handle-animals.md) skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the [Handle Animals](../skill/handle-animals.md) skill have a double edge.
+Additionally, your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the [Handle Animals](../skill/handle-animals.md) skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the [Handle Animals](../skill/handle-animals.md) skill have a double edge.
 
-### Surging Essence {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-7/surging-essence"}
+### Surging Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/surging-essence"}
 
 When you gain essence at the start of each of your turns during combat, you gain 3 essence instead of 2.
 
-### Skill {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-7/skill"}
+### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/skill"}
 
 You gain one skill of your choice.
 
@@ -1187,44 +1187,44 @@ You gain one skill of your choice.
 
 As an 8th-level [elementalist](elementalist.md), you gain the following features.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-8/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/perk"}
 
 You gain one perk of your choice.
 
-### 8th-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-8/8th-level-specialization-feature"}
+### 8th-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/8th-level-specialization-feature"}
 
-Your [elemental specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../feature/trait/elementalist/level-1/elemental-specialization.md) Features table.
+Your [elemental specialization](../feature/elementalist/level-1/elemental-specialization.md) grants you a feature, as shown on the 8th-Level [Elemental Specialization](../feature/elementalist/level-1/elemental-specialization.md) Features table.
 
 ##### 8th-Level Elemental Specialization Features Table
 
 | Specialization | Feature                |
 |----------------|------------------------|
 | Earth          | [Summon Source of Earth](../feature/ability/elementalist/level-8/summon-source-of-earth.md) |
-| Fire           | [The Flame Primordial](../feature/trait/elementalist/level-8/the-flame-primordial.md)   |
-| Green          | [Chimeric Manifestation](../feature/trait/elementalist/level-8/chimeric-manifestation.md) |
-| Void           | [Black Hole Star](../feature/trait/elementalist/level-8/black-hole-star.md)        |
+| Fire           | [The Flame Primordial](../feature/elementalist/level-8/the-flame-primordial.md)   |
+| Green          | [Chimeric Manifestation](../feature/elementalist/level-8/chimeric-manifestation.md) |
+| Void           | [Black Hole Star](../feature/elementalist/level-8/black-hole-star.md)        |
 
-#### Black Hole Star {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-8/black-hole-star"}
+#### Black Hole Star {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/black-hole-star"}
 
 You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their stability reduces this [forced movement](../movement/forced-movement.md), they are pulled a minimum of 2 squares. This [forced movement](../movement/forced-movement.md) ignores stability for your allies.
 
-Additionally, your [Mantle of Essence](../feature/trait/elementalist/level-4/mantle-of-essence.md) improves. While in the area of the aura, enemies and objects have their stability reduced by an amount equal to your level.
+Additionally, your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) improves. While in the area of the aura, enemies and objects have their stability reduced by an amount equal to your level.
 
-#### Chimeric Manifestation {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-8/chimeric-manifestation"}
+#### Chimeric Manifestation {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/chimeric-manifestation"}
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../complication/animal-form.md) as a free maneuver the first time you use your [Disciple of the Green](../feature/trait/elementalist/level-2/disciple-of-the-green.md) feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../complication/animal-form.md) as a free maneuver the first time you use your [Disciple of the Green](../feature/elementalist/level-2/disciple-of-the-green.md) feature on your turn.
 
-Additionally, whenever you use your [Disciple of the Green](../feature/trait/elementalist/level-2/disciple-of-the-green.md) feature, you can select an additional [animal form](../complication/animal-form.md) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
+Additionally, whenever you use your [Disciple of the Green](../feature/elementalist/level-2/disciple-of-the-green.md) feature, you can select an additional [animal form](../complication/animal-form.md) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest speed between the two animal forms and have all types of movement from both forms.
 
 You can only combine animal forms whose levels add up to 12 or less. For example, you can combine a shark (8th level) with a horse (4th level), but you can't combine a shark with a bear (5th level).
 
-#### The Flame Primordial {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-8/the-flame-primordial"}
+#### The Flame Primordial {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/the-flame-primordial"}
 
 You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your [Return to Formlessness](../feature/ability/elementalist/level-1/return-to-formlessness.md) ability instead.
 
 Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your Reason score until the start of their next turn. This increases to twice your Reason score if the enemy is made of or is wearing mostly metal.
 
-#### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-8/summon-source-of-earth"}
+#### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/summon-source-of-earth"}
 
 You have the following ability.
 
@@ -1251,7 +1251,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 >
 >|      Elemental      |           -            |      Level 8      |         BRUTE         |         EV -         |
 >|:-------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:|
->|    **2**<br>Size    |     **6**<br>Speed     | **45**<br>Stamina |  **5**<br>Stability   | **5**<br>[Free Strike](../feature/trait/common/main-actions/free-strike.md) |
+>|    **2**<br>Size    |     **6**<br>Speed     | **45**<br>Stamina |  **5**<br>Stability   | **5**<br>[Free Strike](../feature/common/main-actions/free-strike.md) |
 >| **-**<br>Immunities | **[Burrow](../movement/burrow.md)**<br>Movement |                   | **-**<br>With Captain | **-**<br>Weaknesses  |
 >|   **+3**<br>Might   |   **+1**<br>Agility    | **-5**<br>Reason  |  **-5**<br>Intuition  |  **-3**<br>Presence  |
 >
@@ -1279,7 +1279,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 >> - **12-16:** 9 damage; push 4
 >> - **17+:** 12 damage; push 5
 
-### 11-Essence Ability {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-8/11-essence-ability"}
+### 11-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/11-essence-ability"}
 
 Choose one heroic ability from the following options, each of which costs 11 essence to use.
 
@@ -1292,7 +1292,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 |--------------------------|----------------:|
 | **📏 Ranged 10**         |  **🎯 Special** |
 
-**Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be [force moved](../movement/forced-movement.md). You and any ally can touch the tree to use the [Catch Breath](../feature/trait/common/maneuvers/catch-breath.md) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you [are prone](../condition/prone.md). Each ally within distance also gains this benefit.
+**Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be [force moved](../movement/forced-movement.md). You and any ally can touch the tree to use the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you [are prone](../condition/prone.md). Each ally within distance also gains this benefit.
 
 Each enemy who ends their turn within 3 squares of the tree is [restrained](../condition/restrained.md) until the end of their next turn. A creature [restrained](../condition/restrained.md) this way can use a main action to end the effect early.
 
@@ -1345,13 +1345,13 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../c
 
 As a 9th-level [elementalist](elementalist.md), you gain the following features.
 
-### Grand Wyrding {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-9/grand-wyrding"}
+### Grand Wyrding {data-scc="mcdm.heroes.v1/feature.elementalist.level-9/grand-wyrding"}
 
-You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../feature/trait/elementalist/level-6/wyrding.md) feature as a main action.
+You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../feature/elementalist/level-6/wyrding.md) feature as a main action.
 
 Additionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.
 
-### New 11-Essence Ability {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-9/new-11-essence-ability"}
+### New 11-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-9/new-11-essence-ability"}
 
 Choose one heroic ability from the following options, each of which costs 11 essence to use. Alternatively, you can choose one of the 11-essence abilities you didn't select at 8th level (see 8th-Level Features).
 
@@ -1381,7 +1381,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 |--------------------------|------------------------:|
 | **📏 Ranged 10**         | **🎯 Self or one ally** |
 
-**Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the [Defend](../feature/trait/common/main-actions/defend.md) main action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or until the effect ends. If this temporary Stamina disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
+**Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the [Defend](../feature/common/main-actions/defend.md) main action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or until the effect ends. If this temporary Stamina disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
 
 **Persistent 2:** The effect lasts until the start of your next turn.
 
@@ -1417,21 +1417,21 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 
 As a 10th-level [elementalist](elementalist.md), you gain the following features.
 
-### Breath {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-10/breath"}
+### Breath {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/breath"}
 
 You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain essence (no action required). When you do, 1 breath becomes 3 essence.
 
 Breath remains until you convert it to essence.
 
-### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-10/characteristic-increase"}
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/characteristic-increase"}
 
 Your Reason score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.
 
-### Essential Being {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-10/essential-being"}
+### Essential Being {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/essential-being"}
 
 When you gain essence at the start of each of your turns during combat, you gain 4 essence instead of 3.
 
-### One {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-10/one"}
+### One {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/one"}
 
 You become the embodiment of the element of your chosen specialization. Whenever you use magic, elemental motes flit around you and your skin changes to reflect your element, taking on an earthen or stony appearance for earth, appearing like flickering flame for fire, gaining a leaf pattern for green, and becoming a starry expanse for void. Additionally, you gain one of the following benefits, as shown on the One Specialization Features table.
 
@@ -1439,24 +1439,24 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 | Specialization | Feature         |
 |----------------|-----------------|
-| Earth          | [Master of Earth](../feature/trait/elementalist/level-10/master-of-earth.md) |
-| Fire           | [Master of Fire](../feature/trait/elementalist/level-10/master-of-fire.md)  |
-| Green          | [Master of Green](../feature/trait/elementalist/level-10/master-of-green.md) |
-| Void           | [Master of Void](../feature/trait/elementalist/level-10/master-of-void.md)  |
+| Earth          | [Master of Earth](../feature/elementalist/level-10/master-of-earth.md) |
+| Fire           | [Master of Fire](../feature/elementalist/level-10/master-of-fire.md)  |
+| Green          | [Master of Green](../feature/elementalist/level-10/master-of-green.md) |
+| Void           | [Master of Void](../feature/elementalist/level-10/master-of-void.md)  |
 
-#### Master of Earth {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-10/master-of-earth"}
+#### Master of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-earth"}
 
 You have damage immunity 5.
 
 Additionally, as a respite activity, you can shape the mundane earth around you in a 1-mile radius. You can open sinkholes, form mountains, level mundane structures or whole settlements, create canyons, raise islands or sink them in the sea, and perform similar feats. You can't use this respite activity if another creature within 1 mile is already using it. Once you use this respite activity, you can't use it again for 10 days.
 
-#### Master of Fire {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-10/master-of-fire"}
+#### Master of Fire {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-fire"}
 
 The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
 Additionally, your [Return to Formlessness](../feature/ability/elementalist/level-1/return-to-formlessness.md) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](../../Read/heroes/rewards.md)), you gain breath equal to its echelon.
 
-#### Master of Green {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-10/master-of-green"}
+#### Master of Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-green"}
 
 The number of Recoveries you have increases by 2, and each time you finish a respite, you can grant each ally who finished the respite with you 2 additional Recoveries. Your allies' additional Recoveries disappear when they finish their next respite.
 
@@ -1464,16 +1464,16 @@ Additionally, as a respite activity, you can perform a ritual that causes a frui
 
 As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their Stamina, they can end all conditions or effects on themself, and they can stand up if [prone](../condition/prone.md). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
 
-#### Master of Void {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-10/master-of-void"}
+#### Master of Void {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-void"}
 
 Whenever you willingly move, you can [teleport](../movement/teleport.md).
 
 Additionally, your mind is connected to the mystery and helps you find the answers you seek. You no longer require project sources for research projects. Whenever you use a respite activity to make a project roll for a research project, you automatically complete the project.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-10/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/perk"}
 
 You gain one crafting, lore, or supernatural perk of your choice.
 
-### Skill {data-scc="mcdm.heroes.v1/feature.trait.elementalist.level-10/skill"}
+### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/skill"}
 
 You gain one skill of your choice.

@@ -34,7 +34,7 @@ For a [fury](../../class/fury.md) with a Might of 2, the ability's damage breakd
 
 The damage for these abilities increases at each echelon of play, since your characteristics improve each time you reach a new echelon.
 
-Some abilities, including your [free strikes](../../feature/trait/common/main-actions/free-strike.md), allow you to pick which characteristic score you add to their damage. Such abilities use a format similar to "7 + M or A damage," indicating that you can add your Might or your Agility to determine the damage.
+Some abilities, including your [free strikes](../../feature/common/main-actions/free-strike.md), allow you to pick which characteristic score you add to their damage. Such abilities use a format similar to "7 + M or A damage," indicating that you can add your Might or your Agility to determine the damage.
 
 (Chapter 10: [Combat](../../../Read/heroes/combat.md) has more information on damage.)
 

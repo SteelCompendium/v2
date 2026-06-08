@@ -12,7 +12,7 @@ name: Synaptic Anchor
 scc: mcdm.heroes.v1/feature.ability.null.level-8/synaptic-anchor
 subtype: triggered
 target: Self or one creature
-trigger: The target takes damage from another creature's ability while in the area of your [Null Field](../../../trait/null/level-1/null-field.md) ability.
+trigger: The target takes damage from another creature's ability while in the area of your [Null Field](../../../null/level-1/null-field.md) ability.
 type: ability
 ---
 
@@ -37,7 +37,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target takes damage from another creature&#39;s ability while in the area of your <a href="../../../../trait/null/level-1/null-field/">Null Field</a> ability.</p></div>
+<div class="sc-ability__section-body"><p>The target takes damage from another creature&#39;s ability while in the area of your <a href="../../../../null/level-1/null-field/">Null Field</a> ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

@@ -27,7 +27,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever a creature deals damage to you that leaves you dying, you can make a <a href="../../common/main-actions/free-strike/">free strike</a> against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.</p>
+<p>Whenever a creature deals damage to you that leaves you dying, you can make a <a href="../../../common/main-actions/free-strike/">free strike</a> against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -56,7 +56,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your bloodfire allows you to regain your strength quicker than others. Whenever you use the <a href="../../common/maneuvers/catch-breath/">Catch Breath</a> maneuver, you can spend as many Recoveries as you like.</p>
+<p>Your bloodfire allows you to regain your strength quicker than others. Whenever you use the <a href="../../../common/maneuvers/catch-breath/">Catch Breath</a> maneuver, you can spend as many Recoveries as you like.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

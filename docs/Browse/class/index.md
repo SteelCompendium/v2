@@ -30,7 +30,7 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Conduit</div></div></div>
-  <div class="sc-card__intro"><p>The power of the gods flows through you! As a vessel for <a href="../feature/trait/conduit/level-10/divine-power/">divine power</a>, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.</p>
+  <div class="sc-card__intro"><p>The power of the gods flows through you! As a vessel for <a href="../feature/conduit/level-10/divine-power/">divine power</a>, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.</p>
 <p><strong>As a <a href="conduit/">conduit</a>, you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.</strong></p>
 <blockquote>
 <p>&quot;The gods judge our actions, and our inaction.&quot;</p>
@@ -43,7 +43,7 @@
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Elementalist</div></div></div>
   <div class="sc-card__intro"><p>Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.</p>
-<p><strong>As an <a href="elementalist/">elementalist</a>, you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your <a href="../feature/trait/elementalist/level-1/elemental-specialization/">elemental specialization</a> determines which of these <a href="talent/">talents</a> you excel at.</strong></p>
+<p><strong>As an <a href="elementalist/">elementalist</a>, you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your <a href="../feature/elementalist/level-1/elemental-specialization/">elemental specialization</a> determines which of these <a href="talent/">talents</a> you excel at.</strong></p>
 <blockquote>
 <p>&quot;Understanding the mystery, requires ignorance of the mystery.&quot;</p>
 <p><strong>Embers</strong></p>
@@ -54,7 +54,7 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Fury</div></div></div>
-  <div class="sc-card__intro"><p>You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the <a href="../kit/panther/">panther</a>, the wolf, you channel <a href="../feature/trait/fury/level-5/unfettered/">unfettered</a> anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.</p>
+  <div class="sc-card__intro"><p>You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the <a href="../kit/panther/">panther</a>, the wolf, you channel <a href="../feature/fury/level-5/unfettered/">unfettered</a> anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.</p>
 <p><strong>As a <a href="fury/">fury</a>, you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness—and neither do you.</strong></p>
 <blockquote>
 <p>&quot;DEATH!&quot;</p>

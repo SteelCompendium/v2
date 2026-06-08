@@ -1,6 +1,6 @@
 ---
 echelon: "3"
-effect: You must be a [null](../../../class/null.md) to wear this ring. While you do so, the area of your [Null Field](../../../feature/trait/null/level-1/null-field.md) ability increases by 1.
+effect: You must be a [null](../../../class/null.md) to wear this ring. While you do so, the area of your [Null Field](../../../feature/null/level-1/null-field.md) ability increases by 1.
 keywords:
     - Psionic
     - Ring
@@ -26,7 +26,7 @@ type: treasure
 
 **Project Goal:** 450
 
-**Effect:** You must be a [null](../../../class/null.md) to wear this ring. While you do so, the area of your [Null Field](../../../feature/trait/null/level-1/null-field.md) ability increases by 1.
+**Effect:** You must be a [null](../../../class/null.md) to wear this ring. While you do so, the area of your [Null Field](../../../feature/null/level-1/null-field.md) ability increases by 1.
 
 Additionally, you have the following ability.
 

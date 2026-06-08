@@ -47,24 +47,24 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 | Level | Features                                                                                                                                     | Abilities                     | Tradition Abilities |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------|
-| 1st   | [Talent Tradition](../feature/trait/talent/level-1/talent-tradition.md), [Clarity and Strain](../feature/trait/talent/level-1/clarity-and-strain.md), [Mind Spike](../feature/ability/talent/level-1/mind-spike.md), [Psionic Augmentation](../feature/trait/null/level-1/psionic-augmentation.md), [Talent Ward](../feature/trait/talent/level-1/talent-ward.md), [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md), [Tradition Features](../feature/trait/talent/level-1/1st-level-tradition-features.md), [Talent Abilities](../feature/trait/talent/level-1/talent-abilities.md) | Two signature, 3, 5           | -                   |
-| 2nd   | [Perk](../feature/trait/talent/level-2/perk.md), [Tradition Feature](../feature/trait/talent/level-2/2nd-level-tradition-feature.md), [Tradition Ability](../feature/trait/talent/level-2/2nd-level-tradition-ability.md)                                                                                                   | Two signature, 3, 5           | 5                   |
-| 3rd   | [Scan](../feature/trait/talent/level-3/scan.md), [7-Clarity Ability](../feature/trait/talent/level-3/7-clarity-ability.md)                                                                                                                      | Two signature, 3, 5, 7        | 5                   |
-| 4th   | [Characteristic Increase](../feature/trait/talent/level-4/characteristic-increase.md), [Mind Projection](../feature/trait/talent/level-4/mind-projection.md), [Mind Recovery](../feature/trait/talent/level-4/mind-recovery.md), [Perk](../feature/trait/talent/level-4/perk.md), [Skill](../feature/trait/talent/level-4/skill.md), [Suspensor Field](../feature/trait/talent/level-4/suspensor-field.md)                                                         | Two signature, 3, 5, 7        | 5                   |
-| 5th   | [Tradition Feature](../feature/trait/talent/level-5/5th-level-tradition-features.md), [9-Clarity Ability](../feature/trait/talent/level-5/9-clarity-ability.md)                                                                                                         | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | [Perk](../feature/trait/talent/level-6/perk.md), [Psi Boost](../feature/trait/null/level-7/psi-boost.md), [Tradition Ability](../feature/trait/talent/level-6/6th-level-tradition-ability.md)                                                                                                           | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | [Ancestral Memory](../feature/trait/talent/level-7/ancestral-memory.md), [Cascading Strain](../feature/trait/talent/level-7/cascading-strain.md), [Characteristic Increase](../feature/trait/talent/level-7/characteristic-increase.md), [Lucid Mind](../feature/trait/talent/level-7/lucid-mind.md), [Skill](../feature/trait/talent/level-7/skill.md)                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | [Perk](../feature/trait/talent/level-8/perk.md), [Tradition Feature](../feature/trait/talent/level-8/8th-level-tradition-features.md), [11-Clarity Ability](../feature/trait/talent/level-8/11-clarity-ability.md)                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | [Fortress of Perfect Thought](../feature/trait/talent/level-9/fortress-of-perfect-thought.md), [Tradition Ability](../feature/trait/talent/level-9/9th-level-tradition-ability.md)                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | [Characteristic Increase](../feature/trait/talent/level-10/characteristic-increase.md), [Clear Mind](../feature/trait/talent/level-10/clear-mind.md), [Omnisensory](../feature/trait/talent/level-10/omnisensory.md), [Perk](../feature/trait/talent/level-10/perk.md), [Psion](../feature/trait/talent/level-10/psion.md), [Skill](../feature/trait/talent/level-10/skill.md), [Vision](../feature/trait/talent/level-10/vision.md)                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 1st   | [Talent Tradition](../feature/talent/level-1/talent-tradition.md), [Clarity and Strain](../feature/talent/level-1/clarity-and-strain.md), [Mind Spike](../feature/ability/talent/level-1/mind-spike.md), [Psionic Augmentation](../feature/null/level-1/psionic-augmentation.md), [Talent Ward](../feature/talent/level-1/talent-ward.md), [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md), [Tradition Features](../feature/talent/level-1/1st-level-tradition-features.md), [Talent Abilities](../feature/talent/level-1/talent-abilities.md) | Two signature, 3, 5           | -                   |
+| 2nd   | [Perk](../feature/talent/level-2/perk.md), [Tradition Feature](../feature/talent/level-2/2nd-level-tradition-feature.md), [Tradition Ability](../feature/talent/level-2/2nd-level-tradition-ability.md)                                                                                                   | Two signature, 3, 5           | 5                   |
+| 3rd   | [Scan](../feature/talent/level-3/scan.md), [7-Clarity Ability](../feature/talent/level-3/7-clarity-ability.md)                                                                                                                      | Two signature, 3, 5, 7        | 5                   |
+| 4th   | [Characteristic Increase](../feature/talent/level-4/characteristic-increase.md), [Mind Projection](../feature/talent/level-4/mind-projection.md), [Mind Recovery](../feature/talent/level-4/mind-recovery.md), [Perk](../feature/talent/level-4/perk.md), [Skill](../feature/talent/level-4/skill.md), [Suspensor Field](../feature/talent/level-4/suspensor-field.md)                                                         | Two signature, 3, 5, 7        | 5                   |
+| 5th   | [Tradition Feature](../feature/talent/level-5/5th-level-tradition-features.md), [9-Clarity Ability](../feature/talent/level-5/9-clarity-ability.md)                                                                                                         | Two signature, 3, 5, 7, 9     | 5                   |
+| 6th   | [Perk](../feature/talent/level-6/perk.md), [Psi Boost](../feature/null/level-7/psi-boost.md), [Tradition Ability](../feature/talent/level-6/6th-level-tradition-ability.md)                                                                                                           | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | [Ancestral Memory](../feature/talent/level-7/ancestral-memory.md), [Cascading Strain](../feature/talent/level-7/cascading-strain.md), [Characteristic Increase](../feature/talent/level-7/characteristic-increase.md), [Lucid Mind](../feature/talent/level-7/lucid-mind.md), [Skill](../feature/talent/level-7/skill.md)                                                               | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | [Perk](../feature/talent/level-8/perk.md), [Tradition Feature](../feature/talent/level-8/8th-level-tradition-features.md), [11-Clarity Ability](../feature/talent/level-8/11-clarity-ability.md)                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 9th   | [Fortress of Perfect Thought](../feature/talent/level-9/fortress-of-perfect-thought.md), [Tradition Ability](../feature/talent/level-9/9th-level-tradition-ability.md)                                                                                               | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | [Characteristic Increase](../feature/talent/level-10/characteristic-increase.md), [Clear Mind](../feature/talent/level-10/clear-mind.md), [Omnisensory](../feature/talent/level-10/omnisensory.md), [Perk](../feature/talent/level-10/perk.md), [Psion](../feature/talent/level-10/psion.md), [Skill](../feature/talent/level-10/skill.md), [Vision](../feature/talent/level-10/vision.md)                                                                 | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ## 1st-Level Features
 
 As a 1st-level [talent](talent.md), you gain the following features.
 
-### Talent Tradition {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/talent-tradition"}
+### Talent Tradition {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-tradition"}
 
-Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent tradition](../feature/trait/talent/level-1/talent-tradition.md)s:
+Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent tradition](../feature/talent/level-1/talent-tradition.md)s:
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.
 - **Chronopathy** abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.
@@ -75,9 +75,9 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) from the following options: chronopathy, telekinesis, or telepathy. Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent tradition](../feature/trait/talent/level-1/talent-tradition.md)s will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent tradition](../feature/talent/level-1/talent-tradition.md) from the following options: chronopathy, telekinesis, or telepathy. Your [talent tradition](../feature/talent/level-1/talent-tradition.md) is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent tradition](../feature/talent/level-1/talent-tradition.md)s will be featured in future products.) (*Quick Build:* Telekinesis.)
 
-### Clarity and Strain {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/clarity-and-strain"}
+### Clarity and Strain {data-scc="mcdm.heroes.v1/feature.talent.level-1/clarity-and-strain"}
 
 The focus and precision of your thoughts grant you a Heroic Resource called clarity that empowers your psionic abilities.
 
@@ -101,9 +101,9 @@ Additionally, whenever you use any ability or effect that costs clarity within 1
 
 When you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as [Minor Telekinesis](../feature/ability/talent/level-1/minor-telekinesis.md), you can use it as if you had spent an amount of clarity equal to your Victories.
 
-### Mind Spike {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/mind-spike"}
+### Mind Spike {data-scc="mcdm.heroes.v1/feature.talent.level-1/mind-spike"}
 
-You have the following ability, which can be used as a ranged [free strike](../feature/trait/common/main-actions/free-strike.md).
+You have the following ability, which can be used as a ranged [free strike](../feature/common/main-actions/free-strike.md).
 
 #### Mind Spike {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/mind-spike"}
 
@@ -122,59 +122,59 @@ You have the following ability, which can be used as a ranged [free strike](../f
 
 **Strained:** The target takes an extra 2 psychic damage. You also take 2 psychic damage that can't be reduced in any way.
 
-### Psionic Augmentation {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/psionic-augmentation"}
+### Psionic Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/psionic-augmentation"}
 
-Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent Ward](../feature/trait/talent/level-1/talent-ward.md) below) by undergoing a psionic meditation as a respite activity. (*Quick Build:*  [Force Augmentation](../feature/trait/null/level-1/force-augmentation.md).)
+Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see [Talent Ward](../feature/talent/level-1/talent-ward.md) below) by undergoing a psionic meditation as a respite activity. (*Quick Build:*  [Force Augmentation](../feature/null/level-1/force-augmentation.md).)
 
-#### Battle Augmentation {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/battle-augmentation"}
+#### Battle Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/battle-augmentation"}
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../feature/trait/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this augmentation.
 
-#### Density Augmentation {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/density-augmentation"}
+#### Density Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/density-augmentation"}
 
 You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
 
-#### Distance Augmentation {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/distance-augmentation"}
+#### Distance Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/distance-augmentation"}
 
 Your ranged psionic abilities gain a +2 bonus to distance.
 
-#### Force Augmentation {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/force-augmentation"}
+#### Force Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/force-augmentation"}
 
 Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
-#### Speed Augmentation {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/speed-augmentation"}
+#### Speed Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/speed-augmentation"}
 
-You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action.
+You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
-### Talent Ward {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/talent-ward"}
+### Talent Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-ward"}
 
-Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](../feature/trait/null/level-1/psionic-augmentation.md) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](../feature/trait/talent/level-1/repulsive-ward.md).)
+Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](../feature/null/level-1/psionic-augmentation.md) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](../feature/talent/level-1/repulsive-ward.md).)
 
-#### Entropy Ward {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/entropy-ward"}
+#### Entropy Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/entropy-ward"}
 
 Your ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions until the end of their next turn.
 
-#### Repulsive Ward {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/repulsive-ward"}
+#### Repulsive Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/repulsive-ward"}
 
 You surround yourself with an invisible ward of telekinetic energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push them up to a number of squares equal to your Reason score.
 
-#### Steel Ward {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/steel-ward"}
+#### Steel Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/steel-ward"}
 
 Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain damage immunity equal to your Reason score until the end of your next turn.
 
-#### Vanishing Ward {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/vanishing-ward"}
+#### Vanishing Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/vanishing-ward"}
 
 Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next turn.
 
-### Telepathic Speech {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/telepathic-speech"}
+### Telepathic Speech {data-scc="mcdm.heroes.v1/feature.talent.level-1/telepathic-speech"}
 
 You know the Mindspeech language (see Languages in Orden in Chapter 4: [Background](../../Read/heroes/background.md)). Additionally, you can telepathically communicate with any creatures within distance of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.
 
-### 1st-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/1st-level-tradition-features"}
+### 1st-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.talent.level-1/1st-level-tradition-features"}
 
-Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) grants you two features, as shown on the 1st-Level Tradition Features table.
+Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants you two features, as shown on the 1st-Level Tradition Features table.
 
 ##### 1st-Level Tradition Features Table
 
@@ -184,7 +184,7 @@ Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) gra
 | Telekinesis | [Minor Telekinesis](../feature/ability/talent/level-1/minor-telekinesis.md), [Repel](../feature/ability/talent/level-1/repel.md)         |
 | Telepathy   | [Feedback Loop](../feature/ability/talent/level-1/feedback-loop.md), [Remote Assistance](../feature/ability/talent/level-1/remote-assistance.md) |
 
-#### Accelerate {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/accelerate"}
+#### Accelerate {data-scc="mcdm.heroes.v1/feature.talent.level-1/accelerate"}
 
 You have the following ability.
 
@@ -201,7 +201,7 @@ You have the following ability.
 
 **Spend 2 Clarity:** The target can use a maneuver.
 
-#### Again {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/again"}
+#### Again {data-scc="mcdm.heroes.v1/feature.talent.level-1/again"}
 
 You have the following ability.
 
@@ -218,7 +218,7 @@ You have the following ability.
 
 **Effect:** You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.
 
-#### Feedback Loop {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/feedback-loop"}
+#### Feedback Loop {data-scc="mcdm.heroes.v1/feature.talent.level-1/feedback-loop"}
 
 You have the following ability.
 
@@ -235,7 +235,7 @@ You have the following ability.
 
 **Effect:** The target takes psychic damage equal to half the triggering damage.
 
-#### Minor Telekinesis {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/minor-telekinesis"}
+#### Minor Telekinesis {data-scc="mcdm.heroes.v1/feature.talent.level-1/minor-telekinesis"}
 
 You have the following ability.
 
@@ -254,7 +254,7 @@ You have the following ability.
 
 **Spend 3 Clarity:** You can vertical slide the target.
 
-#### Remote Assistance {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/remote-assistance"}
+#### Remote Assistance {data-scc="mcdm.heroes.v1/feature.talent.level-1/remote-assistance"}
 
 You have the following ability.
 
@@ -272,7 +272,7 @@ You have the following ability.
 
 **Spend 1 Clarity:** You target one additional creature or object.
 
-### Repel {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/repel"}
+### Repel {data-scc="mcdm.heroes.v1/feature.talent.level-1/repel"}
 
 You have the following ability.
 
@@ -289,9 +289,9 @@ You have the following ability.
 
 **Effect:** The target takes half the triggering damage, or the distance of the triggering [forced movement](../movement/forced-movement.md) is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../movement/forced-movement.md) is reduced to 0 squares, the target can push the source of the [forced movement](../movement/forced-movement.md) a number of squares equal to your Reason score.
 
-### Talent Abilities {data-scc="mcdm.heroes.v1/feature.trait.talent.level-1/talent-abilities"}
+### Talent Abilities {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-abilities"}
 
-You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent tradition](../feature/trait/talent/level-1/talent-tradition.md)s or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
+You manifest a variety of psionic powers that let you impact the environment, bolster your allies, and empower yourself. You can choose abilities across different [talent tradition](../feature/talent/level-1/talent-tradition.md)s or focus on abilities tied to your chosen tradition to dedicate yourself to its power.
 
 #### Signature Abilities
 
@@ -494,7 +494,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 |---------------------------------|------------------------:|
 | **📏 Melee 2**                  | **🎯 Self or one ally** |
 
-**Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../feature/trait/common/main-actions/free-strike.md) against the source of the damage.
+**Effect:** Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../feature/common/main-actions/free-strike.md) against the source of the damage.
 
 ##### Smolder {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/smolder"}
 
@@ -573,37 +573,37 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 
 As a 2nd-level [talent](talent.md), you gain the following features.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.talent.level-2/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-2/perk"}
 
 You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
-### 2nd-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.trait.talent.level-2/2nd-level-tradition-feature"}
+### 2nd-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.talent.level-2/2nd-level-tradition-feature"}
 
-Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ##### 2nd-Level Tradition Features Table
 
 | Tradition                    | Features        |
 |------------------------------|-----------------|
-| Chronopathy                  | [Ease the Hours](../feature/trait/talent/level-2/ease-the-hours.md)  |
-| Telekinesis                  | [Ease Their Fall](../feature/trait/talent/level-2/ease-their-fall.md) |
-| Telepathy                    | [Ease the Mind](../feature/trait/talent/level-2/ease-the-mind.md)   |
+| Chronopathy                  | [Ease the Hours](../feature/talent/level-2/ease-the-hours.md)  |
+| Telekinesis                  | [Ease Their Fall](../feature/talent/level-2/ease-their-fall.md) |
+| Telepathy                    | [Ease the Mind](../feature/talent/level-2/ease-the-mind.md)   |
 
-#### Ease the Hours {data-scc="mcdm.heroes.v1/feature.trait.talent.level-2/ease-the-hours"}
+#### Ease the Hours {data-scc="mcdm.heroes.v1/feature.talent.level-2/ease-the-hours"}
 
 You can increase the number of rounds in a montage test by 1 if the test would end before the heroes hit the success limit.
 
-#### Ease the Mind {data-scc="mcdm.heroes.v1/feature.trait.talent.level-2/ease-the-mind"}
+#### Ease the Mind {data-scc="mcdm.heroes.v1/feature.talent.level-2/ease-the-mind"}
 
 You gain an edge on tests made to stop combat and start a negotiation. Additionally, if you are present during a negotiation, any NPC who has a hostile or suspicious starting attitude has their patience increased by 1 (to a maximum of 5).
 
-#### Ease Their Fall {data-scc="mcdm.heroes.v1/feature.trait.talent.level-2/ease-their-fall"}
+#### Ease Their Fall {data-scc="mcdm.heroes.v1/feature.talent.level-2/ease-their-fall"}
 
 Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free triggered action to reduce the falling damage by an amount equal to 2 + your Reason score.
 
-### 2nd-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.trait.talent.level-2/2nd-level-tradition-ability"}
+### 2nd-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-2/2nd-level-tradition-ability"}
 
-Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) grants your choice of one of two heroic abilities.
+Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants your choice of one of two heroic abilities.
 
 #### 2nd-Level Chronopathy Ability
 
@@ -704,7 +704,7 @@ Choose one of the following abilities.
 - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../condition/weakened.md) (save ends)
 - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 
-**Strained:** You start crying, and you can't use triggered actions or make [free strikes](../feature/trait/common/main-actions/free-strike.md) until the end of the target's next turn.
+**Strained:** You start crying, and you can't use triggered actions or make [free strikes](../feature/common/main-actions/free-strike.md) until the end of the target's next turn.
 
 ##### Synaptic Override {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/synaptic-override"}
 
@@ -717,7 +717,7 @@ Choose one of the following abilities.
 
 **Power Roll + Reason:**
 
-- **≤11:** The target makes a [free strike](../feature/trait/common/main-actions/free-strike.md) against one enemy of your choice.
+- **≤11:** The target makes a [free strike](../feature/common/main-actions/free-strike.md) against one enemy of your choice.
 - **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 - **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.
 
@@ -729,11 +729,11 @@ Choose one of the following abilities.
 
 As a 3rd-level [talent](talent.md), you gain the following features.
 
-### Scan {data-scc="mcdm.heroes.v1/feature.trait.talent.level-3/scan"}
+### Scan {data-scc="mcdm.heroes.v1/feature.talent.level-3/scan"}
 
 You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../Read/heroes/tests.md)). Additionally, once you establish line of effect to a thinking creature within distance of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability, you always have line of effect to that creature until they move beyond that distance.
 
-### 7-Clarity Ability {data-scc="mcdm.heroes.v1/feature.trait.talent.level-3/7-clarity-ability"}
+### 7-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-3/7-clarity-ability"}
 
 Choose one heroic ability from the following options, each of which costs 7 clarity to use.
 
@@ -813,31 +813,31 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 
 As a 4th-level [talent](talent.md), you gain the following features.
 
-### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.talent.level-4/characteristic-increase"}
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.talent.level-4/characteristic-increase"}
 
 Your Reason and Presence scores each increase to 3.
 
-### Mind Projection {data-scc="mcdm.heroes.v1/feature.trait.talent.level-4/mind-projection"}
+### Mind Projection {data-scc="mcdm.heroes.v1/feature.talent.level-4/mind-projection"}
 
 As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious [and prone](../condition/prone.md), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
 
 Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a free maneuver.
 
-### Mind Recovery {data-scc="mcdm.heroes.v1/feature.trait.talent.level-4/mind-recovery"}
+### Mind Recovery {data-scc="mcdm.heroes.v1/feature.talent.level-4/mind-recovery"}
 
 Whenever you spend a Recovery to regain Stamina while strained, you can forgo the Stamina and gain 3 clarity instead.
 
 Additionally, the first time each combat round that a creature is [force moved](../movement/forced-movement.md), you gain 2 clarity instead of 1.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.talent.level-4/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-4/perk"}
 
 You gain one perk of your choice.
 
-### Skill {data-scc="mcdm.heroes.v1/feature.trait.talent.level-4/skill"}
+### Skill {data-scc="mcdm.heroes.v1/feature.talent.level-4/skill"}
 
 You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
-### Suspensor Field {data-scc="mcdm.heroes.v1/feature.trait.talent.level-4/suspensor-field"}
+### Suspensor Field {data-scc="mcdm.heroes.v1/feature.talent.level-4/suspensor-field"}
 
 You can [fly](../movement/fly.md). While [flying](../movement/fly.md), your stability is reduced to 0 and can't be increased. If you can already [fly](../movement/fly.md), you have a +2 bonus to speed while [flying](../movement/fly.md) instead.
 
@@ -847,43 +847,43 @@ If you are strained while [flying](../movement/fly.md) and are force moved, the 
 
 As a 5th-level [talent](talent.md), you gain the following features.
 
-### 5th-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.trait.talent.level-5/5th-level-tradition-features"}
+### 5th-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.talent.level-5/5th-level-tradition-features"}
 
-Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) grants you two features, as shown on the 5th-Level Tradition Features table.
+Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants you two features, as shown on the 5th-Level Tradition Features table.
 
 ##### 5th-Level Tradition Features Table
 
 | Tradition   | Features                              |
 |-------------|---------------------------------------|
-| Chronopathy | [Distortion Temporal](../feature/trait/talent/level-5/distortion-temporal.md), [Speed of Thought](../feature/trait/talent/level-5/speed-of-thought.md) |
-| Telekinesis | [Kinetic Amplifier](../feature/trait/talent/level-5/kinetic-amplifier.md), [Triangulate](../feature/trait/talent/level-5/triangulate.md)        |
-| Telepathy   | [Compulsion](../feature/trait/talent/level-5/compulsion.md), [Remote Amplification](../feature/trait/talent/level-5/remote-amplification.md)      |
+| Chronopathy | [Distortion Temporal](../feature/talent/level-5/distortion-temporal.md), [Speed of Thought](../feature/talent/level-5/speed-of-thought.md) |
+| Telekinesis | [Kinetic Amplifier](../feature/talent/level-5/kinetic-amplifier.md), [Triangulate](../feature/talent/level-5/triangulate.md)        |
+| Telepathy   | [Compulsion](../feature/talent/level-5/compulsion.md), [Remote Amplification](../feature/talent/level-5/remote-amplification.md)      |
 
-#### Compulsion {data-scc="mcdm.heroes.v1/feature.trait.talent.level-5/compulsion"}
+#### Compulsion {data-scc="mcdm.heroes.v1/feature.talent.level-5/compulsion"}
 
-Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md) feature. The NPC must answer the question truthfully to the best of their ability.
+Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature. The NPC must answer the question truthfully to the best of their ability.
 
-#### Distortion Temporal {data-scc="mcdm.heroes.v1/feature.trait.talent.level-5/distortion-temporal"}
+#### Distortion Temporal {data-scc="mcdm.heroes.v1/feature.talent.level-5/distortion-temporal"}
 
 While you are not dying, time behaves irregularly around you in a 3 aura. That area is [difficult terrain](../movement/difficult-terrain.md) for enemies. Additionally, when an ally enters the area for the first time in a combat round or starts their turn there, they gain a +2 bonus to speed until the end of the turn.
 
-#### Kinetic Amplifier {data-scc="mcdm.heroes.v1/feature.trait.talent.level-5/kinetic-amplifier"}
+#### Kinetic Amplifier {data-scc="mcdm.heroes.v1/feature.talent.level-5/kinetic-amplifier"}
 
 Whenever you force move a creature, you can spend up to 2 surges. For each surge spent, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
 
-#### Remote Amplification {data-scc="mcdm.heroes.v1/feature.trait.talent.level-5/remote-amplification"}
+#### Remote Amplification {data-scc="mcdm.heroes.v1/feature.talent.level-5/remote-amplification"}
 
-The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md) feature increases to 1 mile.
+The distance of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature increases to 1 mile.
 
-#### Speed of Thought {data-scc="mcdm.heroes.v1/feature.trait.talent.level-5/speed-of-thought"}
+#### Speed of Thought {data-scc="mcdm.heroes.v1/feature.talent.level-5/speed-of-thought"}
 
 Once per combat round while you are not dying, you can spend 2 clarity when you use a triggered action to turn it into a free triggered action.
 
-#### Triangulate {data-scc="mcdm.heroes.v1/feature.trait.talent.level-5/triangulate"}
+#### Triangulate {data-scc="mcdm.heroes.v1/feature.talent.level-5/triangulate"}
 
 Whenever an ally uses a ranged ability while you are within the ability's distance, you can spend 1 clarity as a free triggered action to allow them to use the ability as if they were in your space.
 
-### 9-Clarity Ability {data-scc="mcdm.heroes.v1/feature.trait.talent.level-5/9-clarity-ability"}
+### 9-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-5/9-clarity-ability"}
 
 Choose one heroic ability from the following options, each of which costs 9 clarity to use.
 
@@ -961,45 +961,45 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 
 As a 6th-level [talent](talent.md), you gain the following features.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.talent.level-6/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-6/perk"}
 
 You gain one interpersonal, lore, or supernatural perk of your choice.
 
-### Psi Boost {data-scc="mcdm.heroes.v1/feature.trait.talent.level-6/psi-boost"}
+### Psi Boost {data-scc="mcdm.heroes.v1/feature.talent.level-6/psi-boost"}
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../feature/trait/null/level-7/psi-boost.md) to it and enhance its effects. A [psi boost](../feature/trait/null/level-7/psi-boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../feature/null/level-7/psi-boost.md) to it and enhance its effects. A [psi boost](../feature/null/level-7/psi-boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
 
-#### Dynamic Power {data-scc="mcdm.heroes.v1/feature.trait.talent.level-6/dynamic-power"}
+#### Dynamic Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/dynamic-power"}
 
 If the ability force moves a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
 
-#### Expanded Power {data-scc="mcdm.heroes.v1/feature.trait.talent.level-6/expanded-power"}
+#### Expanded Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/expanded-power"}
 
 If the ability targets an area, you increase the size of the area by 1. If the area is a line, you increase the size of one dimension, not both.
 
-#### Extended Power {data-scc="mcdm.heroes.v1/feature.trait.talent.level-6/extended-power"}
+#### Extended Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/extended-power"}
 
 If the ability is ranged, the distance gains a bonus equal to your Reason score. If the ability is melee, the distance gains a +2 bonus.
 
-#### Heightened Power {data-scc="mcdm.heroes.v1/feature.trait.talent.level-6/heightened-power"}
+#### Heightened Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/heightened-power"}
 
 If the ability deals rolled damage, it deals extra damage equal to your Reason score.
 
-#### Magnified Power {data-scc="mcdm.heroes.v1/feature.trait.talent.level-6/magnified-power"}
+#### Magnified Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/magnified-power"}
 
 If the ability has a potency, you increase that potency by an amount equal to your Reason score.
 
-#### Shared Power {data-scc="mcdm.heroes.v1/feature.trait.talent.level-6/shared-power"}
+#### Shared Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/shared-power"}
 
 If the ability targets individual creatures or objects, you target one additional creature or object within distance.
 
-#### Sharpened Power {data-scc="mcdm.heroes.v1/feature.trait.talent.level-6/sharpened-power"}
+#### Sharpened Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/sharpened-power"}
 
 If the ability has any power roll, that roll gains an edge.
 
-### 6th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.trait.talent.level-6/6th-level-tradition-ability"}
+### 6th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-6/6th-level-tradition-ability"}
 
-Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) grants your choice of one of two heroic abilities.
+Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants your choice of one of two heroic abilities.
 
 #### 6th-Level Chronopathy Abilities
 
@@ -1129,23 +1129,23 @@ Choose one of the following abilities.
 
 As a 7th-level [talent](talent.md), you gain the following features.
 
-### Ancestral Memory {data-scc="mcdm.heroes.v1/feature.trait.talent.level-7/ancestral-memory"}
+### Ancestral Memory {data-scc="mcdm.heroes.v1/feature.talent.level-7/ancestral-memory"}
 
 Each time you finish a respite, you can choose a number of skills you have up to your Reason score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last until the end of your next respite.
 
-### Cascading Strain {data-scc="mcdm.heroes.v1/feature.trait.talent.level-7/cascading-strain"}
+### Cascading Strain {data-scc="mcdm.heroes.v1/feature.talent.level-7/cascading-strain"}
 
 Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability to take the same damage.
 
-### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.talent.level-7/characteristic-increase"}
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.talent.level-7/characteristic-increase"}
 
 Each of your characteristic scores increases by 1, to a maximum of 4.
 
-### Lucid Mind {data-scc="mcdm.heroes.v1/feature.trait.talent.level-7/lucid-mind"}
+### Lucid Mind {data-scc="mcdm.heroes.v1/feature.talent.level-7/lucid-mind"}
 
 At the start of each of your turns during combat, you gain 1d3 + 1 clarity instead of 1d3.
 
-### Skill {data-scc="mcdm.heroes.v1/feature.trait.talent.level-7/skill"}
+### Skill {data-scc="mcdm.heroes.v1/feature.talent.level-7/skill"}
 
 You gain one skill of your choice.
 
@@ -1153,27 +1153,27 @@ You gain one skill of your choice.
 
 As an 8th-level [talent](talent.md), you gain the following features.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.talent.level-8/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-8/perk"}
 
 You gain one perk of your choice.
 
-### 8th-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.trait.talent.level-8/8th-level-tradition-features"}
+### 8th-Level Tradition Features {data-scc="mcdm.heroes.v1/feature.talent.level-8/8th-level-tradition-features"}
 
-Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) grants you two features, as shown on the 8th-Level Tradition Features table.
+Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants you two features, as shown on the 8th-Level Tradition Features table.
 
 ##### 8th-Level Tradition Features Table
 
 | Tradition   | Features                          |
 |-------------|-----------------------------------|
-| Chronopathy | [Doubling the Hours](../feature/trait/talent/level-8/doubling-the-hours.md), [Stasis Shield](../feature/ability/talent/level-8/stasis-shield.md) |
-| Telekinesis | [Levitation Field](../feature/ability/talent/level-8/levitation-field.md), [Low Gravity](../feature/trait/talent/level-8/low-gravity.md)     |
-| Telepathy   | [Mindlink](../feature/trait/talent/level-8/mindlink.md), [Universal Connection](../feature/trait/talent/level-8/universal-connection.md)    |
+| Chronopathy | [Doubling the Hours](../feature/talent/level-8/doubling-the-hours.md), [Stasis Shield](../feature/ability/talent/level-8/stasis-shield.md) |
+| Telekinesis | [Levitation Field](../feature/ability/talent/level-8/levitation-field.md), [Low Gravity](../feature/talent/level-8/low-gravity.md)     |
+| Telepathy   | [Mindlink](../feature/talent/level-8/mindlink.md), [Universal Connection](../feature/talent/level-8/universal-connection.md)    |
 
-#### Doubling the Hours {data-scc="mcdm.heroes.v1/feature.trait.talent.level-8/doubling-the-hours"}
+#### Doubling the Hours {data-scc="mcdm.heroes.v1/feature.talent.level-8/doubling-the-hours"}
 
 While you have 5 or more Victories, you can undertake an additional respite activity during a respite.
 
-#### Levitation Field {data-scc="mcdm.heroes.v1/feature.trait.talent.level-8/levitation-field"}
+#### Levitation Field {data-scc="mcdm.heroes.v1/feature.talent.level-8/levitation-field"}
 
 You have the following ability.
 
@@ -1190,15 +1190,15 @@ You have the following ability.
 
 **Spend 5 Clarity:** The effects last for 1 hour instead.
 
-#### Low Gravity {data-scc="mcdm.heroes.v1/feature.trait.talent.level-8/low-gravity"}
+#### Low Gravity {data-scc="mcdm.heroes.v1/feature.talent.level-8/low-gravity"}
 
 Your mind can carry your body through tough times. You ignore [difficult terrain](../movement/difficult-terrain.md) and don't need to spend additional movement [while prone](../condition/prone.md).
 
-#### Mindlink {data-scc="mcdm.heroes.v1/feature.trait.talent.level-8/mindlink"}
+#### Mindlink {data-scc="mcdm.heroes.v1/feature.talent.level-8/mindlink"}
 
-During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
+During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
 
-### Stasis Shield {data-scc="mcdm.heroes.v1/feature.trait.talent.level-8/stasis-shield"}
+### Stasis Shield {data-scc="mcdm.heroes.v1/feature.talent.level-8/stasis-shield"}
 
 You have the following ability.
 
@@ -1217,11 +1217,11 @@ You have the following ability.
 
 **Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target.
 
-### Universal Connection {data-scc="mcdm.heroes.v1/feature.trait.talent.level-8/universal-connection"}
+### Universal Connection {data-scc="mcdm.heroes.v1/feature.talent.level-8/universal-connection"}
 
-The range of your [Telepathic Speech](../feature/trait/talent/level-1/telepathic-speech.md) feature increases to anywhere on the same world.
+The range of your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature increases to anywhere on the same world.
 
-### 11-Clarity Ability {data-scc="mcdm.heroes.v1/feature.trait.talent.level-8/11-clarity-ability"}
+### 11-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-8/11-clarity-ability"}
 
 Choose one heroic ability from the following options, each of which costs 11 clarity to use.
 
@@ -1297,7 +1297,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 
 As a 9th-level [talent](talent.md), you gain the following features.
 
-### Fortress of Perfect Thought {data-scc="mcdm.heroes.v1/feature.trait.talent.level-9/fortress-of-perfect-thought"}
+### Fortress of Perfect Thought {data-scc="mcdm.heroes.v1/feature.talent.level-9/fortress-of-perfect-thought"}
 
 Your mind is an impenetrable palace that shields you from danger. You gain the following effects:
 
@@ -1307,9 +1307,9 @@ Your mind is an impenetrable palace that shields you from danger. You gain the f
 - Your Reason and Intuition are treated as 2 higher for the purpose of resisting the potency of abilities.
 - You can't be made [taunted](../condition/taunted.md) or [frightened](../condition/frightened.md).
 
-### 9th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.trait.talent.level-9/9th-level-tradition-ability"}
+### 9th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.talent.level-9/9th-level-tradition-ability"}
 
-Your [talent tradition](../feature/trait/talent/level-1/talent-tradition.md) grants your choice of one of two heroic abilities.
+Your [talent tradition](../feature/talent/level-1/talent-tradition.md) grants your choice of one of two heroic abilities.
 
 #### 9th-Level Chronopathy Abilities
 
@@ -1433,33 +1433,33 @@ Choose one of the following abilities.
 
 As a 10th-level [talent](talent.md), you gain the following features.
 
-### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.talent.level-10/characteristic-increase"}
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.talent.level-10/characteristic-increase"}
 
 Your Reason and Presence scores each increase to 5.
 
-### Clear Mind {data-scc="mcdm.heroes.v1/feature.trait.talent.level-10/clear-mind"}
+### Clear Mind {data-scc="mcdm.heroes.v1/feature.talent.level-10/clear-mind"}
 
 The first time each combat round that a creature is [force moved](../movement/forced-movement.md), you gain 3 clarity instead of 2.
 
-### Omnisensory {data-scc="mcdm.heroes.v1/feature.trait.talent.level-10/omnisensory"}
+### Omnisensory {data-scc="mcdm.heroes.v1/feature.talent.level-10/omnisensory"}
 
 You have a +10 bonus to the distance of your ranged abilities. Additionally, you don't need line of effect to a target of a ranged ability if the target is a creature capable of thought who you have previously had line of effect to.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.talent.level-10/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-10/perk"}
 
 You gain one interpersonal, lore, or supernatural perk of your choice.
 
-### Psion {data-scc="mcdm.heroes.v1/feature.trait.talent.level-10/psion"}
+### Psion {data-scc="mcdm.heroes.v1/feature.talent.level-10/psion"}
 
 At the start of each of your turns during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.
 
 Additionally, you can choose to not take damage from having negative clarity. You can also choose to take on any ability's strained effect even if you're not strained.
 
-### Skill {data-scc="mcdm.heroes.v1/feature.trait.talent.level-10/skill"}
+### Skill {data-scc="mcdm.heroes.v1/feature.talent.level-10/skill"}
 
 You gain one skill of your choice.
 
-### Vision {data-scc="mcdm.heroes.v1/feature.trait.talent.level-10/vision"}
+### Vision {data-scc="mcdm.heroes.v1/feature.talent.level-10/vision"}
 
 You have an epic resource called vision. Each time you finish a respite, you gain vision equal to the XP you gain. You can spend vision on your abilities as if it were clarity.
 

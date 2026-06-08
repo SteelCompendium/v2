@@ -3,7 +3,7 @@ action_type: Maneuver
 class: beastheart
 companion: basilisk
 distance: Melee 1 or ranged 5
-effect: The target takes corruption damage equal to 3 + the basilisk's Might score and is stoned (save ends) (see [Stoned](../../../../trait/companion/basilisk/level-1/stoned.md)).
+effect: The target takes corruption damage equal to 3 + the basilisk's Might score and is stoned (save ends) (see [Stoned](../../../../companion/basilisk/level-1/stoned.md)).
 flavor: Transfixed by the basilisk's magical gaze or struck by their poisoned claws, the foe's body begins to calcify.
 keywords:
     - Companion
@@ -41,7 +41,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes corruption damage equal to 3 + the basilisk&#39;s Might score and is stoned (save ends) (see <a href="../../../../../trait/companion/basilisk/level-1/stoned/">Stoned</a>).</p></div>
+<div class="sc-ability__section-body"><p>The target takes corruption damage equal to 3 + the basilisk&#39;s Might score and is stoned (save ends) (see <a href="../../../../../companion/basilisk/level-1/stoned/">Stoned</a>).</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">While stoned this way, the target is also <a href="../../../../../../condition/slowed/">slowed</a>.</span></div>
 </article>

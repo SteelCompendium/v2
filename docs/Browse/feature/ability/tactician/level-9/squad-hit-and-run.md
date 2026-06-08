@@ -4,7 +4,7 @@ class: tactician
 cost: 11 Focus
 distance: Ranged 10
 effect: Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can [shift](../../../../movement/shifting.md) up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.
-flavor: I had to pry this secret from the [shadow college](../../../trait/shadow/level-1/shadow-college.md)s.
+flavor: I had to pry this secret from the [shadow college](../../../shadow/level-1/shadow-college.md)s.
 keywords:
     - Ranged
 level: "9"
@@ -27,7 +27,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Focus</div></div>
 </div>
-<p class="sc-ability__flavor">I had to pry this secret from the <a href="../../../../trait/shadow/level-1/shadow-college/">shadow college</a>s.</p>
+<p class="sc-ability__flavor">I had to pry this secret from the <a href="../../../../shadow/level-1/shadow-college/">shadow college</a>s.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>

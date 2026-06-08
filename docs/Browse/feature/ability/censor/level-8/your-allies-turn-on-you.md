@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 11 Wrath
 distance: Ranged 10
-effect: While the target is [slowed](../../../../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../../../trait/common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../../../../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../trait/common/main-actions/free-strike.md) against a different creature must make the [free strike](../../../trait/common/main-actions/free-strike.md) against the target instead.
+effect: While the target is [slowed](../../../../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a [free strike](../../../common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../../../../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../../common/main-actions/free-strike.md) against a different creature must make the [free strike](../../../common/main-actions/free-strike.md) against the target instead.
 flavor: You turn your enemies' ire to the target.
 keywords:
     - Ranged
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While the target is <a href="../../../../../condition/slowed/">slowed</a> this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against the target. Additionally, while the target is <a href="../../../../../condition/slowed/">slowed</a> this way, each of their allies within 5 squares of them who can make a triggered <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against a different creature must make the <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against the target instead.</p></div>
+<div class="sc-ability__section-body"><p>While the target is <a href="../../../../../condition/slowed/">slowed</a> this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against the target. Additionally, while the target is <a href="../../../../../condition/slowed/">slowed</a> this way, each of their allies within 5 squares of them who can make a triggered <a href="../../../../common/main-actions/free-strike/">free strike</a> against a different creature must make the <a href="../../../../common/main-actions/free-strike/">free strike</a> against the target instead.</p></div>
 </div>
 </article>

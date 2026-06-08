@@ -84,7 +84,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee [free strike](../../feature/trait/common/main-actions/free-strike.md) as a free maneuver once during the fall before you hit the ground.
+**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee [free strike](../../feature/common/main-actions/free-strike.md) as a free maneuver once during the fall before you hit the ground.
 
 ### Displacing Replacement Bracer {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/displacing-replacement-bracer"}
 
@@ -116,7 +116,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../../feature/trait/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../../condition/grabbed.md), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a strike, the target escapes your grab, or you call upon the vine to release the target (no action required).
+**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../../feature/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../../condition/grabbed.md), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a strike, the target escapes your grab, or you call upon the vine to release the target (no action required).
 
 ### Flameshade Gloves {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/flameshade-gloves"}
 
@@ -150,7 +150,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are [force moved](../../movement/forced-movement.md), and any creature [grabbed](../../condition/grabbed.md) by you takes a bane on the test for the [Escape Grab](../../feature/trait/common/maneuvers/escape-grab.md) maneuver.
+**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are [force moved](../../movement/forced-movement.md), and any creature [grabbed](../../condition/grabbed.md) by you takes a bane on the test for the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver.
 
 ### Hellcharger Helm {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/hellcharger-helm"}
 
@@ -166,7 +166,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** Whenever you use the [Charge](../../feature/trait/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../../feature/trait/common/maneuvers/knockback.md) maneuver as a free maneuver, regardless of the target creature's size.
+**Effect:** Whenever you use the [Charge](../../feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../../feature/common/maneuvers/knockback.md) maneuver as a free maneuver, regardless of the target creature's size.
 
 ### Mask of the Many {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/mask-of-the-many"}
 
@@ -435,7 +435,7 @@ Additionally, you have the following ability.
 
 **Project Goal:** 450
 
-**Effect:** You must be a [null](../../class/null.md) to wear this ring. While you do so, the area of your [Null Field](../../feature/trait/null/level-1/null-field.md) ability increases by 1.
+**Effect:** You must be a [null](../../class/null.md) to wear this ring. While you do so, the area of your [Null Field](../../feature/null/level-1/null-field.md) ability increases by 1.
 
 Additionally, you have the following ability.
 

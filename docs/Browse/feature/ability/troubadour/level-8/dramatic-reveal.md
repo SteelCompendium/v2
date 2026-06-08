@@ -3,7 +3,7 @@ action_type: Maneuver
 class: troubadour
 cost: 11 Drama
 distance: Self
-effect: Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../../../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../../../movement/teleport.md)ed ally can then make a melee [free strike](../../../trait/common/main-actions/free-strike.md).
+effect: Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../../../../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../../../movement/teleport.md)ed ally can then make a melee [free strike](../../../common/main-actions/free-strike.md).
 flavor: A little stage trickery, and where once stood a foe, now stands a friend!
 keywords:
     - Magic
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to <a href="../../../../../movement/teleport/">teleport</a> an ally within distance of that ability into the creature&#39;s space in a plume of rose petals. You or the <a href="../../../../../movement/teleport/">teleport</a>ed ally can then make a melee <a href="../../../../trait/common/main-actions/free-strike/">free strike</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to <a href="../../../../../movement/teleport/">teleport</a> an ally within distance of that ability into the creature&#39;s space in a plume of rose petals. You or the <a href="../../../../../movement/teleport/">teleport</a>ed ally can then make a melee <a href="../../../../common/main-actions/free-strike/">free strike</a>.</p></div>
 </div>
 </article>

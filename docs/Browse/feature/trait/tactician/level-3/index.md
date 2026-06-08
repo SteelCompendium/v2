@@ -1,8 +1,0 @@
-# Tactician — Level 3
-
----
-
-<div class="sc-prevs">
-<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="7-focus-ability/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">*</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Tactician Trait</div><h3 class="sc-prev__name">7-Focus Ability</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">Choose one heroic ability from the following options, each of which costs 7 focus to use.</div><div class="sc-prev__foot"><span class="sc-prev__grant"><span class="dot"></span>4 options</span></div></a>
-<a class="sc-prev sc-prev--trait sc-fil" data-action="trait" href="out-of-position/"><div class="sc-prev__head"><span class="sc-crest sc-prev__crest"><span class="sc-prev__glyph">*</span></span><div class="sc-prev__titles"><div class="sc-prev__eyebrow"><span class="sc-prev__dia"></span>Tactician Trait</div><h3 class="sc-prev__name">Out of Position</h3></div><div class="sc-prev__tag">Level <span class="num">3</span></div></div><div class="sc-prev__flavor">Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your Mark ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 squares, ignoring stability. The target can&#39;t be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.</div></a>
-</div>

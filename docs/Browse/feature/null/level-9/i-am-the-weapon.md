@@ -1,0 +1,25 @@
+---
+class: "null"
+level: "9"
+name: I Am the Weapon
+scc: mcdm.heroes.v1/feature.null.level-9/i-am-the-weapon
+type: feature
+---
+
+# I Am the Weapon
+
+---
+
+<section class="sc-trait sc-trait--crest sc-trait--lead" data-action="trait">
+<header class="sc-trait__head">
+<span class="sc-crest sc-trait__crest"><span class="sc-trait__glyph">*</span></span>
+<div class="sc-trait__titles">
+<div class="sc-trait__eyebrow"><span class="sc-trait__dia"></span>Null Trait</div>
+<h3 class="sc-trait__name">I Am the Weapon</h3>
+</div>
+<div class="sc-trait__tag">Level <span class="num">9</span></div>
+</header>
+<div class="sc-trait__body">
+<p>Your Stamina increases by 21 and you can&#39;t be made <a href="../../../../condition/bleeding/">bleeding</a> even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.</p>
+</div>
+</section>

@@ -17,7 +17,7 @@ A beastheart never fights alone! You travel with a ferocious beast by your side�
 
 As a beastheart, you face the world's dangers alongside your wild companion. With your combined might, you rush into the thick of combat to challenge enemy champions or prowl around the outskirts to pick off vulnerable foes.
 
-### Basics {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/basics"}
+### Basics {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/basics"}
 
 **Starting Characteristics:** You start with a Might of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristic scores:
 
@@ -43,16 +43,16 @@ As a beastheart, you face the world's dangers alongside your wild companion. Wit
 
 | Level | Features                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Abilities                 | Wild Nature Abilities |
 |-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------------|
-| 1st   | [Wild Nature](../../Browse/feature/trait/beastheart/level-1/wild-nature.md), [Companion](../../Browse/feature/trait/beastheart/level-1/companion.md), [Heart of the Beast](../../Browse/feature/trait/beastheart/level-1/heart-of-the-beast.md), [Feral Strike](../../Browse/feature/ability/beastheart/level-1/feral-strike.md), [Ferocity](../../Browse/feature/trait/beastheart/level-1/ferocity.md), [Rampage](../../Browse/feature/trait/beastheart/level-1/rampage.md), [Wild Nature Maneuver](../../Browse/feature/trait/beastheart/level-1/wild-nature-maneuver.md), [Wild Nature Triggered Action](../../Browse/feature/trait/beastheart/level-1/wild-nature-triggered-action.md), [Kit](../../Browse/feature/trait/beastheart/level-1/kit.md), [Beastheart Abilities](../../Browse/feature/trait/beastheart/level-1/beastheart-abilities.md) | Signature, 3, 5           | —                     |
-| 2nd   | [Perk](../../Browse/feature/trait/beastheart/level-2/perk.md), [Everyone’s Best Friend](../../Browse/feature/trait/beastheart/level-2/everyones-best-friend.md), [Wild Nature Feature](../../Browse/feature/trait/beastheart/level-2/2nd-level-wild-nature-feature.md), [Wild Nature Ability](../../Browse/feature/trait/beastheart/level-2/2nd-level-wild-nature-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Signature, 3, 5           | 5                     |
-| 3rd   | [Companion Advancement Feature](../../Browse/feature/trait/beastheart/level-3/companion-advancement-feature.md), [7-Ferocity Ability](../../Browse/feature/trait/beastheart/level-3/7-ferocity-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Signature, 3, 5, 7        | 5                     |
-| 4th   | [Characteristic Increase](../../Browse/feature/trait/beastheart/level-4/characteristic-increase.md), [Perk](../../Browse/feature/trait/beastheart/level-4/perk.md), [Rampage Improvement](../../Browse/feature/trait/beastheart/level-4/rampage-improvement.md), [Skill](../../Browse/feature/trait/beastheart/level-4/skill.md), [Unleash the Beast](../../Browse/feature/trait/beastheart/level-4/unleash-the-beast.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7        | 5                     |
-| 5th   | [Wild Nature Feature](../../Browse/feature/trait/beastheart/level-5/5th-level-wild-nature-feature.md), [9-Ferocity Ability](../../Browse/feature/trait/beastheart/level-5/9-ferocity-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Signature, 3, 5, 7, 9     | 5                     |
-| 6th   | [Perk](../../Browse/feature/trait/beastheart/level-6/perk.md), [Become the Beast](../../Browse/feature/trait/beastheart/level-6/become-the-beast.md), [Wild Nature Ability](../../Browse/feature/trait/beastheart/level-6/6th-level-wild-nature-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9     | 5, 9                  |
-| 7th   | [Characteristic Increase](../../Browse/feature/trait/beastheart/level-7/characteristic-increase.md), [Feral Heart](../../Browse/feature/trait/beastheart/level-7/feral-heart.md), [Rampage Improvement](../../Browse/feature/trait/beastheart/level-7/rampage-improvement.md), [Skill](../../Browse/feature/trait/beastheart/level-7/skill.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Signature, 3, 5, 7, 9     | 5, 9                  |
-| 8th   | [Wild Nature Feature](../../Browse/feature/trait/beastheart/level-8/8th-level-wild-nature-feature.md), [Perk](../../Browse/feature/trait/beastheart/level-8/perk.md), [11-Ferocity Ability](../../Browse/feature/trait/beastheart/level-8/11-ferocity-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9                  |
-| 9th   | [Avatar of the Green](../../Browse/feature/trait/beastheart/level-9/avatar-of-the-green.md), [Wild Nature Ability](../../Browse/feature/trait/beastheart/level-9/9th-level-wild-nature-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9, 11 | 5, 9, 11              |
-| 10th  | [Characteristic Increase](../../Browse/feature/trait/beastheart/level-10/characteristic-increase.md), [Companion Advancement Feature](../../Browse/feature/trait/beastheart/level-10/companion-advancement-feature.md), [Final Evolution](../../Browse/feature/trait/beastheart/level-10/final-evolution.md), [Perk](../../Browse/feature/trait/beastheart/level-10/perk.md), [Ferox](../../Browse/feature/trait/beastheart/level-10/ferox.md), [Rampage Improvement](../../Browse/feature/trait/beastheart/level-10/rampage-improvement.md), [Skill](../../Browse/feature/trait/beastheart/level-10/skill.md)                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9, 11 | 5, 9, 11              |
+| 1st   | [Wild Nature](../../Browse/feature/beastheart/level-1/wild-nature.md), [Companion](../../Browse/feature/beastheart/level-1/companion.md), [Heart of the Beast](../../Browse/feature/beastheart/level-1/heart-of-the-beast.md), [Feral Strike](../../Browse/feature/ability/beastheart/level-1/feral-strike.md), [Ferocity](../../Browse/feature/beastheart/level-1/ferocity.md), [Rampage](../../Browse/feature/beastheart/level-1/rampage.md), [Wild Nature Maneuver](../../Browse/feature/beastheart/level-1/wild-nature-maneuver.md), [Wild Nature Triggered Action](../../Browse/feature/beastheart/level-1/wild-nature-triggered-action.md), [Kit](../../Browse/feature/beastheart/level-1/kit.md), [Beastheart Abilities](../../Browse/feature/beastheart/level-1/beastheart-abilities.md) | Signature, 3, 5           | —                     |
+| 2nd   | [Perk](../../Browse/feature/beastheart/level-2/perk.md), [Everyone’s Best Friend](../../Browse/feature/beastheart/level-2/everyones-best-friend.md), [Wild Nature Feature](../../Browse/feature/beastheart/level-2/2nd-level-wild-nature-feature.md), [Wild Nature Ability](../../Browse/feature/beastheart/level-2/2nd-level-wild-nature-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Signature, 3, 5           | 5                     |
+| 3rd   | [Companion Advancement Feature](../../Browse/feature/beastheart/level-3/companion-advancement-feature.md), [7-Ferocity Ability](../../Browse/feature/beastheart/level-3/7-ferocity-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Signature, 3, 5, 7        | 5                     |
+| 4th   | [Characteristic Increase](../../Browse/feature/beastheart/level-4/characteristic-increase.md), [Perk](../../Browse/feature/beastheart/level-4/perk.md), [Rampage Improvement](../../Browse/feature/beastheart/level-4/rampage-improvement.md), [Skill](../../Browse/feature/beastheart/level-4/skill.md), [Unleash the Beast](../../Browse/feature/beastheart/level-4/unleash-the-beast.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Signature, 3, 5, 7        | 5                     |
+| 5th   | [Wild Nature Feature](../../Browse/feature/beastheart/level-5/5th-level-wild-nature-feature.md), [9-Ferocity Ability](../../Browse/feature/beastheart/level-5/9-ferocity-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Signature, 3, 5, 7, 9     | 5                     |
+| 6th   | [Perk](../../Browse/feature/beastheart/level-6/perk.md), [Become the Beast](../../Browse/feature/beastheart/level-6/become-the-beast.md), [Wild Nature Ability](../../Browse/feature/beastheart/level-6/6th-level-wild-nature-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9     | 5, 9                  |
+| 7th   | [Characteristic Increase](../../Browse/feature/beastheart/level-7/characteristic-increase.md), [Feral Heart](../../Browse/feature/beastheart/level-7/feral-heart.md), [Rampage Improvement](../../Browse/feature/beastheart/level-7/rampage-improvement.md), [Skill](../../Browse/feature/beastheart/level-7/skill.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Signature, 3, 5, 7, 9     | 5, 9                  |
+| 8th   | [Wild Nature Feature](../../Browse/feature/beastheart/level-8/8th-level-wild-nature-feature.md), [Perk](../../Browse/feature/beastheart/level-8/perk.md), [11-Ferocity Ability](../../Browse/feature/beastheart/level-8/11-ferocity-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Signature, 3, 5, 7, 9, 11 | 5, 9                  |
+| 9th   | [Avatar of the Green](../../Browse/feature/beastheart/level-9/avatar-of-the-green.md), [Wild Nature Ability](../../Browse/feature/beastheart/level-9/9th-level-wild-nature-ability.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Signature, 3, 5, 7, 9, 11 | 5, 9, 11              |
+| 10th  | [Characteristic Increase](../../Browse/feature/beastheart/level-10/characteristic-increase.md), [Companion Advancement Feature](../../Browse/feature/beastheart/level-10/companion-advancement-feature.md), [Final Evolution](../../Browse/feature/beastheart/level-10/final-evolution.md), [Perk](../../Browse/feature/beastheart/level-10/perk.md), [Ferox](../../Browse/feature/beastheart/level-10/ferox.md), [Rampage Improvement](../../Browse/feature/beastheart/level-10/rampage-improvement.md), [Skill](../../Browse/feature/beastheart/level-10/skill.md)                                                                                                                                                                                                                                                              | Signature, 3, 5, 7, 9, 11 | 5, 9, 11              |
 
 ### Draw Steel Master Classes
 
@@ -64,7 +64,7 @@ If you're new to *Draw Steel*, we recommend checking out *[The Delian Tomb](http
 
 As a 1st-level beastheart, you gain the following features.
 
-### Wild Nature {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/wild-nature"}
+### Wild Nature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/wild-nature"}
 
 Your bond with your companion has awakened ancient, predatory instincts in you that fuel your battle prowess. But you aren't bound by your primal passions. As you decide which of your instincts to ignore and which to hone to deadly sharpness, you choose a wild nature from the following options, each of which grants you a skill. (*Quick Build:* Punisher.)
 
@@ -78,7 +78,7 @@ Your bond with your companion has awakened ancient, predatory instincts in you t
 
 Your wild nature is your subclass, and your choice of wild nature determines many of the features you'll gain as you gain new levels.
 
-### Companion {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/companion"}
+### Companion {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/companion"}
 
 You gain the companionship of a wild animal who travels with you. Your companion isn't your pet. Rather, they've forged a mystical bond with you—one that allows you to share your companion's senses and primal instincts.
 
@@ -108,29 +108,29 @@ With the Director's permission, you can also change the damage types of your com
 |---------------------------------------------|-----------------:|
 | **📏 Melee 1 or ranged 5**                  | **🎯 One enemy** |
 
-**Effect:** The target takes corruption damage equal to 3 + the basilisk's Might score and is stoned (save ends) (see [Stoned](../../Browse/feature/trait/companion/basilisk/level-1/stoned.md)).
+**Effect:** The target takes corruption damage equal to 3 + the basilisk's Might score and is stoned (save ends) (see [Stoned](../../Browse/feature/companion/basilisk/level-1/stoned.md)).
 
 **Spend 1 Ferocity:** While stoned this way, the target is also [slowed](../../Browse/condition/slowed.md).
 
-##### Stoned {data-scc="mcdm.beastheart.v1/feature.trait.companion.basilisk.level-1/stoned"}
+##### Stoned {data-scc="mcdm.beastheart.v1/feature.companion.basilisk.level-1/stoned"}
 
 A stoned creature is magically turning to stone. Each time a creature fails the saving throw to end this effect, they take corruption damage equal to the basilisk's Might score. A stoned creature or a creature adjacent to them can use a maneuver to cut the encroaching stone from the stoned target's body, ending the effect and dealing damage to the target equal to twice the basilisk's Might score that can't be reduced in any way. A creature reduced to 0 Stamina while they are stoned, or by an ability that causes a creature to become stoned, is turned to stone until they are restored to life by magical means.
 
 ##### Level 3 Basilisk Advancement Feature
 
-###### Foes Forever Frozen {data-scc="mcdm.beastheart.v1/feature.trait.companion.basilisk.level-3/foes-forever-frozen"}
+###### Foes Forever Frozen {data-scc="mcdm.beastheart.v1/feature.companion.basilisk.level-3/foes-forever-frozen"}
 
 Whenever the basilisk makes a strike against a creature while rampaging, the target is stoned (save ends).
 
 ##### Level 6 Basilisk Advancement Feature
 
-###### Rock Smasher {data-scc="mcdm.beastheart.v1/feature.trait.companion.basilisk.level-6/rock-smasher"}
+###### Rock Smasher {data-scc="mcdm.beastheart.v1/feature.companion.basilisk.level-6/rock-smasher"}
 
 Whenever you deal rolled damage to a stoned creature while the basilisk is rampaging, you deal extra damage equal to twice your Might score.
 
 ##### Level 10 Basilisk Advancement Feature
 
-###### Heart of Stone {data-scc="mcdm.beastheart.v1/feature.trait.companion.basilisk.level-10/heart-of-stone"}
+###### Heart of Stone {data-scc="mcdm.beastheart.v1/feature.companion.basilisk.level-10/heart-of-stone"}
 
 While the basilisk is rampaging, you and the basilisk have damage immunity 10 as you become nearly impervious living statues.
 
@@ -154,25 +154,25 @@ While the basilisk is rampaging, you and the basilisk have damage immunity 10 as
 
 **Spend 1 Ferocity:** The target is [force moved](../../Browse/movement/forced-movement.md) up to a number of additional squares equal to the bear's Might score.
 
-##### Strong Like Bear {data-scc="mcdm.beastheart.v1/feature.trait.companion.bear.level-1/strong-like-bear"}
+##### Strong Like Bear {data-scc="mcdm.beastheart.v1/feature.companion.bear.level-1/strong-like-bear"}
 
 You gain a +1 bonus to your stability.
 
 ##### Level 3 Bear Advancement Feature
 
-###### Foe Thresher {data-scc="mcdm.beastheart.v1/feature.trait.companion.bear.level-3/foe-thresher"}
+###### Foe Thresher {data-scc="mcdm.beastheart.v1/feature.companion.bear.level-3/foe-thresher"}
 
 Whenever the bear targets a creature with a strike that doesn't impose [forced movement](../../Browse/movement/forced-movement.md) while rampaging, the bear can push the target up to a number of squares equal to the bear's Might score.
 
 ##### Level 6 Bear Advancement Feature
 
-###### Ursine Form {data-scc="mcdm.beastheart.v1/feature.trait.companion.bear.level-6/ursine-form"}
+###### Ursine Form {data-scc="mcdm.beastheart.v1/feature.companion.bear.level-6/ursine-form"}
 
 While the bear is rampaging, you have damage immunity 5 and your size increases to the bear's size (to a maximum of 2). If you don't have enough unoccupied space to grow, you grow as soon as there is sufficient space.
 
 ##### Level 10 Bear Advancement Feature
 
-###### Twin Colossi {data-scc="mcdm.beastheart.v1/feature.trait.companion.bear.level-10/twin-colossi"}
+###### Twin Colossi {data-scc="mcdm.beastheart.v1/feature.companion.bear.level-10/twin-colossi"}
 
 While the bear is rampaging, you gain a +1 bonus to distance with melee weapon abilities, your size increases to match the bear's size (to a maximum of 3), and your strikes deal an extra 5 damage.
 
@@ -196,25 +196,25 @@ While the bear is rampaging, you gain a +1 bonus to distance with melee weapon a
 
 **Spend 1 Ferocity:** The target is [bleeding](../../Browse/condition/bleeding.md) until the end of their next turn.
 
-##### Spiteful Endurance {data-scc="mcdm.beastheart.v1/feature.trait.companion.boar.level-1/spiteful-endurance"}
+##### Spiteful Endurance {data-scc="mcdm.beastheart.v1/feature.companion.boar.level-1/spiteful-endurance"}
 
 While the boar is winded, they have damage immunity equal to their Might score and ignore the effects of [bleeding](../../Browse/condition/bleeding.md).
 
 ##### Level 3 Boar Advancement Feature
 
-###### Greased Pig {data-scc="mcdm.beastheart.v1/feature.trait.companion.boar.level-3/greased-pig"}
+###### Greased Pig {data-scc="mcdm.beastheart.v1/feature.companion.boar.level-3/greased-pig"}
 
 While the boar is rampaging, they have a +2 bonus to speed and a double edge on the Escape Grab maneuver.
 
 ##### Level 6 Boar Advancement Feature
 
-###### Wild Rush {data-scc="mcdm.beastheart.v1/feature.trait.companion.boar.level-6/wild-rush"}
+###### Wild Rush {data-scc="mcdm.beastheart.v1/feature.companion.boar.level-6/wild-rush"}
 
 While the boar is rampaging, you can use their Gore maneuver, and you and the boar can [shift](../../Browse/movement/shifting.md) instead of move when using the Charge action or the Gore maneuver.
 
 ##### Level 10 Boar Advancement Feature
 
-###### Immortal Rage {data-scc="mcdm.beastheart.v1/feature.trait.companion.boar.level-10/immortal-rage"}
+###### Immortal Rage {data-scc="mcdm.beastheart.v1/feature.companion.boar.level-10/immortal-rage"}
 
 Whenever you or the boar use an ability that deals damage while the boar is rampaging, you gain 10 temporary Stamina.
 
@@ -238,25 +238,25 @@ Whenever you or the boar use an ability that deals damage while the boar is ramp
 
 **Spend 1 Ferocity:** An enemy who would be [weakened](../../Browse/condition/weakened.md) by this ability is [taunted](../../Browse/condition/taunted.md) instead.
 
-##### Moving Target {data-scc="mcdm.beastheart.v1/feature.trait.companion.condor.level-1/moving-target"}
+##### Moving Target {data-scc="mcdm.beastheart.v1/feature.companion.condor.level-1/moving-target"}
 
 While the condor is [flying](../../Browse/movement/fly.md) and has a speed greater than 0, ranged strikes against them take a bane.
 
 ##### Level 3 Condor Advancement Feature
 
-###### Dive Bomb {data-scc="mcdm.beastheart.v1/feature.trait.companion.condor.level-3/dive-bomb"}
+###### Dive Bomb {data-scc="mcdm.beastheart.v1/feature.companion.condor.level-3/dive-bomb"}
 
 Whenever the condor makes a strike while rampaging, they deal extra damage equal to the number of squares they've moved on their turn (to a maximum of 5).
 
 ##### Level 6 Condor Advancement Feature
 
-###### Borne Aloft {data-scc="mcdm.beastheart.v1/feature.trait.companion.condor.level-6/borne-aloft"}
+###### Borne Aloft {data-scc="mcdm.beastheart.v1/feature.companion.condor.level-6/borne-aloft"}
 
 While the condor is rampaging, you gain wings and can [fly](../../Browse/movement/fly.md). While flying, you gain a +2 bonus to speed. If you are midair when the condor's rampage ends, you take no damage from the fall.
 
 ##### Level 10 Condor Advancement Feature
 
-###### Flight of the Condor {data-scc="mcdm.beastheart.v1/feature.trait.companion.condor.level-10/flight-of-the-condor"}
+###### Flight of the Condor {data-scc="mcdm.beastheart.v1/feature.companion.condor.level-10/flight-of-the-condor"}
 
 While the condor is rampaging, you and the condor gain a +5 bonus to speed.
 
@@ -280,25 +280,25 @@ While the condor is rampaging, you and the condor gain a +5 bonus to speed.
 
 **Spend 1 Ferocity:** A target who has M < STRONG is [bleeding](../../Browse/condition/bleeding.md) (save ends).
 
-##### Blood Frenzy {data-scc="mcdm.beastheart.v1/feature.trait.companion.deinonychus.level-1/blood-frenzy"}
+##### Blood Frenzy {data-scc="mcdm.beastheart.v1/feature.companion.deinonychus.level-1/blood-frenzy"}
 
 Whenever the deinonychus deals damage to a [bleeding](../../Browse/condition/bleeding.md) creature, they gain 1 surge.
 
 ##### Level 3 Deinonychus Advancement Feature
 
-###### Tear You to Ribbons {data-scc="mcdm.beastheart.v1/feature.trait.companion.deinonychus.level-3/tear-you-to-ribbons"}
+###### Tear You to Ribbons {data-scc="mcdm.beastheart.v1/feature.companion.deinonychus.level-3/tear-you-to-ribbons"}
 
 Whenever the deinonychus makes a strike against a creature while rampaging, the target is [bleeding](../../Browse/condition/bleeding.md) until the end of their next turn.
 
 ##### Level 6 Deinonychus Advancement Feature
 
-###### Slake My Thirst in Blood {data-scc="mcdm.beastheart.v1/feature.trait.companion.deinonychus.level-6/slake-my-thirst-in-blood"}
+###### Slake My Thirst in Blood {data-scc="mcdm.beastheart.v1/feature.companion.deinonychus.level-6/slake-my-thirst-in-blood"}
 
 Whenever you use an ability that deals rolled damage to a [bleeding](../../Browse/condition/bleeding.md) creature while the deinonychus is rampaging, you gain 2 surges.
 
 ##### Level 10 Deinonychus Advancement Feature
 
-###### Reaping Scythe {data-scc="mcdm.beastheart.v1/feature.trait.companion.deinonychus.level-10/reaping-scythe"}
+###### Reaping Scythe {data-scc="mcdm.beastheart.v1/feature.companion.deinonychus.level-10/reaping-scythe"}
 
 The deinonychus's claws slash at creatures underfoot. When the deinonychus moves adjacent to an enemy or enters an enemy's space for the first time on a turn while rampaging, the deinonychus deals damage to that enemy equal to the deinonychus's Might score.
 
@@ -307,7 +307,7 @@ The deinonychus's claws slash at creatures underfoot. When the deinonychus moves
 |                                                                  Companion, Dragon                                                                  |          -          |                             Level 1                             |          -          |            -             |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:---------------------------------------------------------------:|:-------------------:|:------------------------:|
 |                                                                   **1M**<br>Size                                                                    |   **5**<br>Speed    |                     **= yours**<br>Stamina                      | **1**<br>Stability  | **1 + M**<br>Free Strike |
-| **Attuned damage type 3 (see [Elementally Attuned](../../Browse/feature/trait/companion/drake/level-1/elementally-attuned.md))**<br>Immunity | **Fly**<br>Movement | **[Intimidate](../../Browse/skill/intimidate.md)**<br>Skills |                     |                          |
+| **Attuned damage type 3 (see [Elementally Attuned](../../Browse/feature/companion/drake/level-1/elementally-attuned.md))**<br>Immunity | **Fly**<br>Movement | **[Intimidate](../../Browse/skill/intimidate.md)**<br>Skills |                     |                          |
 |                                                                   **+2**<br>Might                                                                   |  **+1**<br>Agility  |                        **−1**<br>Reason                         | **+2**<br>Intuition |    **+2**<br>Presence    |
 
 ##### Drake Breath {data-scc="mcdm.beastheart.v1/feature.ability.companion.drake.level-1/drake-breath"}
@@ -318,33 +318,33 @@ The deinonychus's claws slash at creatures underfoot. When the deinonychus moves
 |-----------------------------|---------------------------------:|
 | **📏 1 or 2 cube within 1** | **🎯 Each creature in the area** |
 
-**Effect:** The target takes damage of the drake's attuned damage type (see [Elementally Attuned](../../Browse/feature/trait/companion/drake/level-1/elementally-attuned.md)) equal to the drake's Might score.
+**Effect:** The target takes damage of the drake's attuned damage type (see [Elementally Attuned](../../Browse/feature/companion/drake/level-1/elementally-attuned.md)) equal to the drake's Might score.
 
 **Spend 1 or 2 Ferocity:** This ability affects a 3 cube (if you spend 1 ferocity) or a 4 cube (if you spend 2 ferocity) within 1.
 
-##### Elementally Attuned {data-scc="mcdm.beastheart.v1/feature.trait.companion.drake.level-1/elementally-attuned"}
+##### Elementally Attuned {data-scc="mcdm.beastheart.v1/feature.companion.drake.level-1/elementally-attuned"}
 
 When you gain this companion, you choose their attuned damage type from acid, cold, corruption, fire, lightning, poison, or sonic. The drake's attuned damage type affects their other features.
 
-##### Shared Scales {data-scc="mcdm.beastheart.v1/feature.trait.companion.drake.level-1/shared-scales"}
+##### Shared Scales {data-scc="mcdm.beastheart.v1/feature.companion.drake.level-1/shared-scales"}
 
 You have immunity 3 to the drake's attuned damage type.
 
 ##### Level 3 Drake Advancement Feature
 
-###### Endless Breath {data-scc="mcdm.beastheart.v1/feature.trait.companion.drake.level-3/endless-breath"}
+###### Endless Breath {data-scc="mcdm.beastheart.v1/feature.companion.drake.level-3/endless-breath"}
 
 The drake's Drake Breath maneuver deals an extra 2 damage.
 
 ##### Level 6 Drake Advancement Feature
 
-###### A Burning Inside Me {data-scc="mcdm.beastheart.v1/feature.trait.companion.drake.level-6/a-burning-inside-me"}
+###### A Burning Inside Me {data-scc="mcdm.beastheart.v1/feature.companion.drake.level-6/a-burning-inside-me"}
 
 While the drake is rampaging, you gain draconic wings and can [fly](../../Browse/movement/fly.md). If you are midair when the drake's rampage ends, you take no damage from the fall. Additionally, you can use the drake's Drake Breath maneuver until their rampage ends.
 
 ##### Level 10 Drake Advancement Feature
 
-###### Elemental Avatar {data-scc="mcdm.beastheart.v1/feature.trait.companion.drake.level-10/elemental-avatar"}
+###### Elemental Avatar {data-scc="mcdm.beastheart.v1/feature.companion.drake.level-10/elemental-avatar"}
 
 While the drake is rampaging, you and the drake have immunity all to the drake's attuned damage type, and whenever you or the drake make a strike against a creature you can cause the target to be dragonsealed (save ends). A dragonsealed creature has weakness 10 to the drake's attuned damage type.
 
@@ -368,25 +368,25 @@ While the drake is rampaging, you and the drake have immunity all to the drake's
 
 **Spend 1 Ferocity:** The distance increases to melee 5.
 
-##### Electric Surge {data-scc="mcdm.beastheart.v1/feature.trait.companion.elemental-spark.level-1/electric-surge"}
+##### Electric Surge {data-scc="mcdm.beastheart.v1/feature.companion.elemental-spark.level-1/electric-surge"}
 
 The first time on a turn that you or the spark deal lightning damage, you gain 1 surge.
 
 ##### Level 3 Elemental Spark Advancement Feature
 
-###### Electroshock {data-scc="mcdm.beastheart.v1/feature.trait.companion.elemental-spark.level-3/electroshock"}
+###### Electroshock {data-scc="mcdm.beastheart.v1/feature.companion.elemental-spark.level-3/electroshock"}
 
 Whenever the spark makes a strike against a creature while rampaging, they can cause a target who has M < AVERAGE to be [dazed](../../Browse/condition/dazed.md) until the end of the target's next turn.
 
 ##### Level 6 Elemental Spark Advancement Feature
 
-###### Conductive {data-scc="mcdm.beastheart.v1/feature.trait.companion.elemental-spark.level-6/conductive"}
+###### Conductive {data-scc="mcdm.beastheart.v1/feature.companion.elemental-spark.level-6/conductive"}
 
 While the spark is rampaging, lightning sings through your blood, and whenever you make a strike against a creature, you deal extra lightning damage equal to your Might score.
 
 ##### Level 10 Elemental Spark Advancement Feature
 
-###### Lightning Speed {data-scc="mcdm.beastheart.v1/feature.trait.companion.elemental-spark.level-10/lightning-speed"}
+###### Lightning Speed {data-scc="mcdm.beastheart.v1/feature.companion.elemental-spark.level-10/lightning-speed"}
 
 While the spark is rampaging, you and the spark can [shift](../../Browse/movement/shifting.md) up to your speed as a free maneuver once on each of your turns.
 
@@ -410,25 +410,25 @@ While the spark is rampaging, you and the spark can [shift](../../Browse/movemen
 
 **Spend 1 Ferocity:** A target [grabbed](../../Browse/condition/grabbed.md) this way takes acid damage equal to the ball's Might score at the end of each of the ball's turns.
 
-##### Gelatinous {data-scc="mcdm.beastheart.v1/feature.trait.companion.gummy-ball.level-1/gelatinous"}
+##### Gelatinous {data-scc="mcdm.beastheart.v1/feature.companion.gummy-ball.level-1/gelatinous"}
 
 The ball can occupy another creature's space. While occupying a creature's space, the ball has line of effect to that creature. If the creature completely fits within the ball's space, the creature has line of effect only to the ball and creatures outside the ball don't have line of effect to the creature. The ball's space is [difficult terrain](../../Browse/movement/difficult-terrain.md).
 
 ##### Level 3 Gummy Ball Advancement Feature
 
-###### Suck It Up {data-scc="mcdm.beastheart.v1/feature.trait.companion.gummy-ball.level-3/suck-it-up"}
+###### Suck It Up {data-scc="mcdm.beastheart.v1/feature.companion.gummy-ball.level-3/suck-it-up"}
 
 Whenever the ball makes a strike while rampaging, one target is pulled up to 3 squares into the ball's space. If the target ends this movement and completely fits within the ball's space, the target is [grabbed](../../Browse/condition/grabbed.md) by the ball.
 
 ##### Level 6 Gummy Ball Advancement Feature
 
-###### Taffy Pull {data-scc="mcdm.beastheart.v1/feature.trait.companion.gummy-ball.level-6/taffy-pull"}
+###### Taffy Pull {data-scc="mcdm.beastheart.v1/feature.companion.gummy-ball.level-6/taffy-pull"}
 
 While the ball is rampaging, your arms and legs become viscous and stretchy, and you gain a +2 bonus to speed and melee distance.
 
 ##### Level 10 Gummy Ball Advancement Feature
 
-###### Runaway Expansion {data-scc="mcdm.beastheart.v1/feature.trait.companion.gummy-ball.level-10/runaway-expansion"}
+###### Runaway Expansion {data-scc="mcdm.beastheart.v1/feature.companion.gummy-ball.level-10/runaway-expansion"}
 
 While the ball is rampaging, you and the ball have acid immunity 10, and whenever a creature is reduced to 0 Stamina while inside the ball, the ball's size increases by 1 (to a maximum of 5). The ball's size can't increase this way more than once a turn, and the ball shrinks back to their original size when their rampage ends.
 
@@ -452,25 +452,25 @@ While the ball is rampaging, you and the ball have acid immunity 10, and wheneve
 
 **Spend 1 Ferocity:** This ability gains a bonus to either its damage or distance equal to the hellhound's Intuition score.
 
-##### Hellish Pact {data-scc="mcdm.beastheart.v1/feature.trait.companion.hellhound.level-1/hellish-pact"}
+##### Hellish Pact {data-scc="mcdm.beastheart.v1/feature.companion.hellhound.level-1/hellish-pact"}
 
 You have fire immunity equal to the hellhound's fire immunity.
 
 ##### Level 3 Hellhound Advancement Feature
 
-###### Infernal Apparition {data-scc="mcdm.beastheart.v1/feature.trait.companion.hellhound.level-3/infernal-apparition"}
+###### Infernal Apparition {data-scc="mcdm.beastheart.v1/feature.companion.hellhound.level-3/infernal-apparition"}
 
 Whenever the hellhound makes a strike against a creature while rampaging, they can cause a target who has P < AVERAGE to be [frightened](../../Browse/condition/frightened.md) until the end of the target's next turn.
 
 ##### Level 6 Hellhound Advancement Feature
 
-###### Slavering Jaws {data-scc="mcdm.beastheart.v1/feature.trait.companion.hellhound.level-6/slavering-jaws"}
+###### Slavering Jaws {data-scc="mcdm.beastheart.v1/feature.companion.hellhound.level-6/slavering-jaws"}
 
 While the hellhound is rampaging, your mouth foams with acidic ichor, and whenever you make a strike against a creature, you deal extra acid damage equal to your Might score.
 
 ##### Level 10 Hellhound Advancement Feature
 
-###### Wreathed in Flames {data-scc="mcdm.beastheart.v1/feature.trait.companion.hellhound.level-10/wreathed-in-flames"}
+###### Wreathed in Flames {data-scc="mcdm.beastheart.v1/feature.companion.hellhound.level-10/wreathed-in-flames"}
 
 While the hellhound is rampaging, you and the hellhound are surrounded by an aura of flames, and each enemy who starts their turn adjacent to you or the hellhound takes fire damage equal to the hellhound's Might score.
 
@@ -494,25 +494,25 @@ While the hellhound is rampaging, you and the hellhound are surrounded by an aur
 
 **Spend 1 Ferocity:** A dazzled creature also takes a bane on strikes.
 
-##### Avoidance {data-scc="mcdm.beastheart.v1/feature.trait.companion.lightbender.level-1/avoidance"}
+##### Avoidance {data-scc="mcdm.beastheart.v1/feature.companion.lightbender.level-1/avoidance"}
 
 Any effect on the lightbender that would be ended by a saving throw instead ends automatically at the end of their next turn.
 
 ##### Level 3 Lightbender Advancement Feature
 
-###### Hit and Run {data-scc="mcdm.beastheart.v1/feature.trait.companion.lightbender.level-3/hit-and-run"}
+###### Hit and Run {data-scc="mcdm.beastheart.v1/feature.companion.lightbender.level-3/hit-and-run"}
 
 Whenever the lightbender makes a strike against a creature while rampaging, the lightbender can [teleport](../../Browse/movement/teleport.md) up to 5 squares and use the [Hide](../../Browse/skill/hide.md) maneuver.
 
 ##### Level 6 Lightbender Advancement Feature
 
-###### Lightbearer {data-scc="mcdm.beastheart.v1/feature.trait.companion.lightbender.level-6/lightbearer"}
+###### Lightbearer {data-scc="mcdm.beastheart.v1/feature.companion.lightbender.level-6/lightbearer"}
 
 While the lightbender is rampaging, you can use a free maneuver to glow with blinding light that lasts until the rampage ends or you use this ability again. While glowing, your skin sheds light for 10 squares and strikes against you take a bane.
 
 ##### Level 10 Lightbender Advancement Feature
 
-###### Everywhere and Nowhere {data-scc="mcdm.beastheart.v1/feature.trait.companion.lightbender.level-10/everywhere-and-nowhere"}
+###### Everywhere and Nowhere {data-scc="mcdm.beastheart.v1/feature.companion.lightbender.level-10/everywhere-and-nowhere"}
 
 While the lightbender is rampaging, your grip on spatial reality is [weakened](../../Browse/condition/weakened.md), and once on each of your turns, you or the lightbender can teleport up to 3 spaces as a free maneuver. Additionally, strikes made against you and the lightbender have a double bane until the lightbender's rampage ends.
 
@@ -536,25 +536,25 @@ While the lightbender is rampaging, your grip on spatial reality is [weakened](.
 
 **Spend 1 Ferocity:** The panther can jump up to a number of squares equal to their speed before using this ability. If they jump at least 1 square in this way, a target who has M < STRONG is knocked [prone](../../Browse/condition/prone.md).
 
-##### Mighty Spring {data-scc="mcdm.beastheart.v1/feature.trait.companion.panther.level-1/mighty-spring"}
+##### Mighty Spring {data-scc="mcdm.beastheart.v1/feature.companion.panther.level-1/mighty-spring"}
 
 Whenever the panther takes the Advance move action or the Charge action, they can [jump](../../Browse/movement/jump.md) up to a number of squares equal to their speed in any direction, including vertically, as part of this movement.
 
 ##### Level 3 Panther Advancement Feature
 
-###### Cat and Mouse {data-scc="mcdm.beastheart.v1/feature.trait.companion.panther.level-3/cat-and-mouse"}
+###### Cat and Mouse {data-scc="mcdm.beastheart.v1/feature.companion.panther.level-3/cat-and-mouse"}
 
 Whenever the panther makes a strike against a creature while rampaging, the panther can knock the target [prone](../../Browse/condition/prone.md).
 
 ##### Level 6 Panther Advancement Feature
 
-###### Single Bound {data-scc="mcdm.beastheart.v1/feature.trait.companion.panther.level-6/single-bound"}
+###### Single Bound {data-scc="mcdm.beastheart.v1/feature.companion.panther.level-6/single-bound"}
 
 While the panther is rampaging, you can [jump](../../Browse/movement/jump.md) up to a number of squares equal to your speed as a free maneuver once on each of your turns.
 
 ##### Level 10 Panther Advancement Feature
 
-###### Panther Spirit {data-scc="mcdm.beastheart.v1/feature.trait.companion.panther.level-10/panther-spirit"}
+###### Panther Spirit {data-scc="mcdm.beastheart.v1/feature.companion.panther.level-10/panther-spirit"}
 
 While the panther is rampaging, you and the panther are invisible and can move through objects and terrain, which are [difficult terrain](../../Browse/movement/difficult-terrain.md) for you both. A creature who ends their turn inside a solid object from moving this way is [teleported](../../Browse/movement/teleport.md) to the last unoccupied space they previously occupied.
 
@@ -578,25 +578,25 @@ While the panther is rampaging, you and the panther are invisible and can move t
 
 **Spend 1 Ferocity:** If the target has M < STRONG, they are [restrained](../../Browse/condition/restrained.md) (save ends).
 
-##### Come Into My Parlor {data-scc="mcdm.beastheart.v1/feature.trait.companion.spider.level-1/come-into-my-parlor"}
+##### Come Into My Parlor {data-scc="mcdm.beastheart.v1/feature.companion.spider.level-1/come-into-my-parlor"}
 
 Whenever the spider makes a strike against a [restrained](../../Browse/condition/restrained.md) creature, the spider deals extra poison damage equal to twice their Intuition score.
 
 ##### Level 3 Spider Advancement Feature
 
-###### Dripping Fangs {data-scc="mcdm.beastheart.v1/feature.trait.companion.spider.level-3/dripping-fangs"}
+###### Dripping Fangs {data-scc="mcdm.beastheart.v1/feature.companion.spider.level-3/dripping-fangs"}
 
 Whenever the spider makes a strike against a creature while rampaging, the spider can deal extra poison damage equal to their Might score.
 
 ##### Level 6 Spider Advancement Feature
 
-###### Web Slinger {data-scc="mcdm.beastheart.v1/feature.trait.companion.spider.level-6/web-slinger"}
+###### Web Slinger {data-scc="mcdm.beastheart.v1/feature.companion.spider.level-6/web-slinger"}
 
 Once on each of your turns while the spider is rampaging, you can shoot a web to a ceiling, wall, or sturdy object above you within 5 squares as a free maneuver. You can then [fly](../../Browse/movement/fly.md) in a straight line to any space within 5 squares of that object.
 
 ##### Level 10 Spider Advancement Feature
 
-###### Life Drinker {data-scc="mcdm.beastheart.v1/feature.trait.companion.spider.level-10/life-drinker"}
+###### Life Drinker {data-scc="mcdm.beastheart.v1/feature.companion.spider.level-10/life-drinker"}
 
 Whenever you or the spider deals damage with a maneuver while the spider is rampaging, the attacker regains Stamina equal to the damage dealt.
 
@@ -620,25 +620,25 @@ Whenever you or the spider deals damage with a maneuver while the spider is ramp
 
 **Spend 1 Ferocity:** If the target has M < STRONG, they are [dazed](../../Browse/condition/dazed.md) until the end of their next turn.
 
-##### Skulker {data-scc="mcdm.beastheart.v1/feature.trait.companion.sporeling.level-1/skulker"}
+##### Skulker {data-scc="mcdm.beastheart.v1/feature.companion.sporeling.level-1/skulker"}
 
 The sporeling can end their movement in an ally's space. While occupying an ally's space, the sporeling has cover.
 
 ##### Level 3 Sporeling Advancement Feature
 
-###### Slowing Spores {data-scc="mcdm.beastheart.v1/feature.trait.companion.sporeling.level-3/slowing-spores"}
+###### Slowing Spores {data-scc="mcdm.beastheart.v1/feature.companion.sporeling.level-3/slowing-spores"}
 
 Whenever the sporeling makes a strike against a creature while rampaging, the sporeling can cause the target to be [slowed](../../Browse/condition/slowed.md) until the end of the target's next turn.
 
 ##### Level 6 Sporeling Advancement Feature
 
-###### Plant Walk {data-scc="mcdm.beastheart.v1/feature.trait.companion.sporeling.level-6/plant-walk"}
+###### Plant Walk {data-scc="mcdm.beastheart.v1/feature.companion.sporeling.level-6/plant-walk"}
 
 Once on each of your turns while the sporeling is rampaging, you can [teleport](../../Browse/movement/teleport.md) to a space within 15 squares as a free maneuver, provided the space or an adjacent space contains the sporeling or plants or fungus of size 1S or larger. You then gain an edge on the next strike you make before the end of your turn.
 
 ##### Level 10 Sporeling Advancement Feature
 
-###### Trailing Mycelia {data-scc="mcdm.beastheart.v1/feature.trait.companion.sporeling.level-10/trailing-mycelia"}
+###### Trailing Mycelia {data-scc="mcdm.beastheart.v1/feature.companion.sporeling.level-10/trailing-mycelia"}
 
 While the sporeling is rampaging, you and the sporeling sprout rootlike, gripping mycelia along your limbs, and whenever you or the sporeling makes a strike against a creature who has M < STRONG, the creature is [grabbed](../../Browse/condition/grabbed.md) by the attacker. Additionally, you and the sporeling can't be force moved or knocked [prone](../../Browse/condition/prone.md) until the sporeling's rampage ends.
 
@@ -662,29 +662,29 @@ While the sporeling is rampaging, you and the sporeling sprout rootlike, grippin
 
 **Spend 1 Ferocity:** If the target has M < STRONG, they are [grabbed](../../Browse/condition/grabbed.md) by the wolf.
 
-##### Retriever {data-scc="mcdm.beastheart.v1/feature.trait.companion.wolf.level-1/retriever"}
+##### Retriever {data-scc="mcdm.beastheart.v1/feature.companion.wolf.level-1/retriever"}
 
 The wolf can move at full speed while they have a creature [grabbed](../../Browse/condition/grabbed.md), no matter the [grabbed](../../Browse/condition/grabbed.md) creature's size.
 
 ##### Level 3 Wolf Advancement Feature
 
-###### My, What Big Teeth You Have {data-scc="mcdm.beastheart.v1/feature.trait.companion.wolf.level-3/my-what-big-teeth-you-have"}
+###### My, What Big Teeth You Have {data-scc="mcdm.beastheart.v1/feature.companion.wolf.level-3/my-what-big-teeth-you-have"}
 
 Whenever the wolf makes a strike against a creature while rampaging, they can grab the target.
 
 ##### Level 6 Wolf Advancement Feature
 
-###### Call of the Wild {data-scc="mcdm.beastheart.v1/feature.trait.companion.wolf.level-6/call-of-the-wild"}
+###### Call of the Wild {data-scc="mcdm.beastheart.v1/feature.companion.wolf.level-6/call-of-the-wild"}
 
 While the wolf is rampaging, you and the wolf gain a +2 bonus to speed, and creatures within 5 squares can't be hidden or have concealment from you or the wolf.
 
 ##### Level 10 Wolf Advancement Feature
 
-###### Dire Wolf {data-scc="mcdm.beastheart.v1/feature.trait.companion.wolf.level-10/dire-wolf"}
+###### Dire Wolf {data-scc="mcdm.beastheart.v1/feature.companion.wolf.level-10/dire-wolf"}
 
 While the wolf is rampaging, you and the wolf are surrounded by an aura of dread, and enemies who start their turn adjacent to you or the wolf who have P < STRONG are [frightened](../../Browse/condition/frightened.md) until the end of their next turn.
 
-### Companion Rules {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/companion-rules"}
+### Companion Rules {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/companion-rules"}
 
 - **Companion Stamina and Recoveries.** Your companion's Stamina maximum equals your Stamina maximum. Your companion has no Recoveries. When an effect would allow your companion to spend a Recovery, your companion spends one of your Recoveries.
 - **Companion Death.** A companion can become dying at 0 Stamina and die at negative half their Stamina, just like a hero.
@@ -702,13 +702,13 @@ While the wolf is rampaging, you and the wolf are surrounded by an aura of dread
 - **Changing Your Companion.** As a respite activity, you can release your current companion, then gain a new companion of a different species or summon a companion you previously released.
 - **One Hero.** You and your companion count as one hero for determining the difficulty of combats, montage tests, and other challenges.
 
-### Adding and Subtracting Actions {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/adding-and-subtracting-actions"}
+### Adding and Subtracting Actions {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/adding-and-subtracting-actions"}
 
 Although you and your companion share your action economy, you are treated as separate creatures for effects that grant or remove main actions, maneuvers, and move actions. For instance, the talent's Applied Chronometrics ability grants an extra maneuver. If both you and your companion are targeted by the ability, you both gain extra maneuvers.
 
 Similarly, the [dazed](../../Browse/condition/dazed.md) condition limits what a creature can do on their turn. Being [dazed](../../Browse/condition/dazed.md) works the same on you and your companion as it does on other creatures; whoever is [dazed](../../Browse/condition/dazed.md) can only do one thing on their turn (a move action, maneuver, or main action). You being [dazed](../../Browse/condition/dazed.md) has no effect on your companion, and vice versa.
 
-### Heart of the Beast {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/heart-of-the-beast"}
+### Heart of the Beast {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/heart-of-the-beast"}
 
 You and your companion share a primordial bond so intense your hearts literally beat as one. If your partner is lost, you can split your heart in two and summon them back to your side.
 
@@ -755,7 +755,7 @@ This ability gains the following benefit based on your wild nature.
 - **Punisher:** Your companion slides each target up to a number of squares equal to their Might score.
 - **Spark:** This strike deals cold, fire, lightning, or sonic damage. You gain 1 surge.
 
-### Ferocity {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/ferocity"}
+### Ferocity {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/ferocity"}
 
 You and your companion tap into a predator's bloodlust that grants you a Heroic Resource called ferocity.
 
@@ -773,7 +773,7 @@ Though you can't gain ferocity outside of combat, you can use your heroic abilit
 
 When you or your companion uses an ability outside of combat that has a variable or unlimited ferocity cost, the ability can be used as if you had spent an amount of ferocity equal to your Victories.
 
-### Rampage {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/rampage"}
+### Rampage {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/rampage"}
 
 While your ferocity sharpens your killer instinct, it can also drive your companion into a rampage, causing them to strike friends and foes alike in a blood-soaked battle frenzy. As their rampage builds, they become something more than a mortal companion, embodying a primordial spirit of destruction.
 
@@ -790,7 +790,7 @@ Your companion doesn't spend rampage to activate abilities. Instead, when your c
 | 20 (7th level)  | As a free maneuver, your companion can increase their size up to size 2, or increase their size by 1 if their original size is already 2 or larger. This size increase lasts until your companion’s rampage ends or they use a free maneuver to end it. While your companion’s size is increased, they gain a +2 bonus to speed and stability, the potencies of their abilities increase by 1, and the size of their [Feral Strike](../../Browse/feature/ability/beastheart/level-1/feral-strike.md) ability’s burst increases by 1. |
 | 24 (10th level) | When your companion increases their size, they can increase it up to size 3, or increase their size by 1 if their original size is already 3 or larger. Whenever they make a power roll while their size is increased this way, they can roll 3d10 and discard the lowest roll.                                                                                                                                                                                                                                                             |
 
-### Wild Nature Maneuver {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/wild-nature-maneuver"}
+### Wild Nature Maneuver {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/wild-nature-maneuver"}
 
 Your wild nature grants you a maneuver, as shown on the Wild Nature Maneuvers table. Each maneuver can be used only by the beastheart.
 
@@ -851,7 +851,7 @@ You can move up to 3 squares before and after you use this ability. During this 
 
 **Spend 1 Ferocity:** The distance increases to ranged 15.
 
-### Wild Nature Triggered Action {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/wild-nature-triggered-action"}
+### Wild Nature Triggered Action {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/wild-nature-triggered-action"}
 
 Your wild nature grants you a triggered action, as shown on the Wild Nature Triggered Actions table. Each triggered action can be used by either you or your companion.
 
@@ -918,7 +918,7 @@ Your wild nature grants you a triggered action, as shown on the Wild Nature Trig
 
 **Spend 1 Ferocity:** The [forced movement](../../Browse/movement/forced-movement.md) distance is doubled.
 
-##### Kit {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/kit"}
+##### Kit {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/kit"}
 
 You can use and gain the benefits of a kit. See the <u>Kits</u> chapter of Draw Steel: Heroes for more information.
 
@@ -927,7 +927,7 @@ You and your companion both gain the benefits of the kit, with the following exc
 - Only you can use the kit's signature ability, not your companion.
 - Your companion is always armed to the teeth. When choosing or changing a kit, your companion can choose between the melee damage bonus provided by the kit (if any) or a melee damage bonus of +0/+0/+4.
 
-##### Beasthearts and Magic Treasure {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/beasthearts-and-magic-treasure"}
+##### Beasthearts and Magic Treasure {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/beasthearts-and-magic-treasure"}
 
 ###### Consumables
 
@@ -943,7 +943,7 @@ You companion doesn't need to wear their trinket around their neck: a [condor](.
 
 Although your companion can't wield a sword, they can benefit from a magic blade! When you wield and gain the benefits of a leveled weapon, armor, implement, or other item, your companion gains those same benefits as if they were wielding the treasure.
 
-### Beastheart Abilities {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-1/beastheart-abilities"}
+### Beastheart Abilities {data-scc="mcdm.beastheart.v1/feature.beastheart.level-1/beastheart-abilities"}
 
 Guided by the ebb and flow of battle, you trade off attacking with your companion and work together to unleash deadly combinations.
 
@@ -1153,15 +1153,15 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 As a 2nd-level beastheart, you gain the following features.
 
-##### Perk {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-2/perk"}
+##### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/perk"}
 
 You gain one exploration, interpersonal, or intrigue perk of your choice.
 
-##### Everyone's Best Friend {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-2/everyones-best-friend"}
+##### Everyone's Best Friend {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/everyones-best-friend"}
 
 Your companion may not be much of a talker, but they've got a lifetime of experience surviving the dangers of the wild. They can offer aid in nearly any circumstance: helping exhausted travelers find their way, leading panicked villagers out of a burning building, or even providing a comforting nuzzle at just the right time. Once per round during a montage test, when you or another character makes a test, your companion can increase the tier outcome by one tier (to a maximum of tier 3).
 
-##### 2nd-Level Wild Nature Feature {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-2/2nd-level-wild-nature-feature"}
+##### 2nd-Level Wild Nature Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/2nd-level-wild-nature-feature"}
 
 Your wild nature grants you a feature, as shown on the 2nd-Level Wild Nature Features table.
 
@@ -1169,20 +1169,20 @@ Your wild nature grants you a feature, as shown on the 2nd-Level Wild Nature Fea
 
 | Wild Nature | Feature |
 | ---- | ---- |
-| Guardian | [Watchdog](../../Browse/feature/trait/beastheart/level-2/watchdog.md) |
-| Prowler |  [Supersniffer](../../Browse/feature/trait/beastheart/level-2/supersniffer.md) |
-| Punisher | [This One’s Yours](../../Browse/feature/trait/beastheart/level-2/this-ones-yours.md) |
-| Spark | [Stormheart](../../Browse/feature/trait/beastheart/level-2/stormheart.md) |
+| Guardian | [Watchdog](../../Browse/feature/beastheart/level-2/watchdog.md) |
+| Prowler |  [Supersniffer](../../Browse/feature/beastheart/level-2/supersniffer.md) |
+| Punisher | [This One’s Yours](../../Browse/feature/beastheart/level-2/this-ones-yours.md) |
+| Spark | [Stormheart](../../Browse/feature/beastheart/level-2/stormheart.md) |
 
-##### Stormheart {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-2/stormheart"}
+##### Stormheart {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/stormheart"}
 
 Whenever you or your companion deals cold, fire, lightning, sonic, or untyped damage, you can change the damage type to cold, fire, lightning, or sonic damage.
 
-##### Supersniffer {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-2/supersniffer"}
+##### Supersniffer {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/supersniffer"}
 
 While a creature is adjacent to your companion, that creature can't be hidden or have concealment from your companion.
 
-##### This One's Yours {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-2/this-ones-yours"}
+##### This One's Yours {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/this-ones-yours"}
 
 Once per turn, you or your companion can use the following free triggered action.
 
@@ -1196,11 +1196,11 @@ When someone is pushed into you, you reach out to steady an ally or send a foe c
 
 **Spend 1 Ferocity:** You and your companions can each use this free triggered action on the same turn.
 
-##### Watchdog {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-2/watchdog"}
+##### Watchdog {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/watchdog"}
 
 You and your companion can't be surprised.
 
-### 2nd-Level Wild Nature Ability {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-2/2nd-level-wild-nature-ability"}
+### 2nd-Level Wild Nature Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-2/2nd-level-wild-nature-ability"}
 
 Your wild nature grants your choice of one of two heroic abilities.
 
@@ -1354,11 +1354,11 @@ Choose one of the following abilities.
 
 As a 3rd-level beastheart, you gain the following features.
 
-##### Companion Advancement Feature {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-3/companion-advancement-feature"}
+##### Companion Advancement Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-3/companion-advancement-feature"}
 
 Your companion gains the level 3 advancement feature granted by their stat block.
 
-#### 7-Ferocity Ability {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-3/7-ferocity-ability"}
+#### 7-Ferocity Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-3/7-ferocity-ability"}
 
 Choose one heroic ability from the following options, each of which costs 7 ferocity to use.
 
@@ -1432,23 +1432,23 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 
 As a 4th-level beastheart, you gain the following features.
 
-##### Characteristic Increase {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-4/characteristic-increase"}
+##### Characteristic Increase {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/characteristic-increase"}
 
 Your and your companion's Might and Intuition scores increase to 3.
 
-##### Perk {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-4/perk"}
+##### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/perk"}
 
 You gain one perk of your choice.
 
-##### Rampage Improvement {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-4/rampage-improvement"}
+##### Rampage Improvement {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/rampage-improvement"}
 
-Your [Rampage](../../Browse/feature/trait/beastheart/level-1/rampage.md) feature provides additional effects when your companion has 16 or more rampage.
+Your [Rampage](../../Browse/feature/beastheart/level-1/rampage.md) feature provides additional effects when your companion has 16 or more rampage.
 
-##### Skill {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-4/skill"}
+##### Skill {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/skill"}
 
 You gain one skill of your choice.
 
-##### Unleash the Beast {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-4/unleash-the-beast"}
+##### Unleash the Beast {data-scc="mcdm.beastheart.v1/feature.beastheart.level-4/unleash-the-beast"}
 
 The first time each combat round that a creature adjacent to your companion takes damage, you gain 3 ferocity instead of 2 ferocity.
 
@@ -1456,35 +1456,35 @@ The first time each combat round that a creature adjacent to your companion take
 
 As a 5th-level beastheart, you gain the following features.
 
-##### 5th-Level Wild Nature Feature {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-5/5th-level-wild-nature-feature"}
+##### 5th-Level Wild Nature Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/5th-level-wild-nature-feature"}
 
 Your wild nature grants you a feature, as shown on the 5th-Level Wild Nature Features table.
 
 | ♦ 5th-Level Wild Nature Features ♦ |                                                                                                      |
 |------------------------------------|------------------------------------------------------------------------------------------------------|
 | Wild Nature                        | Feature                                                                                              |
-| Guardian                           | [There For Each Other](../../Browse/feature/trait/beastheart/level-5/there-for-each-other.md) |
-| Prowler                            | [Melt Away](../../Browse/feature/trait/beastheart/level-5/melt-away.md)                       |
-| Punisher                           | [I Can Take It](../../Browse/feature/trait/beastheart/level-5/i-can-take-it.md)               |
-| Spark                              | [Wildfire Pyre](../../Browse/feature/trait/beastheart/level-5/wildfire-pyre.md)               |
+| Guardian                           | [There For Each Other](../../Browse/feature/beastheart/level-5/there-for-each-other.md) |
+| Prowler                            | [Melt Away](../../Browse/feature/beastheart/level-5/melt-away.md)                       |
+| Punisher                           | [I Can Take It](../../Browse/feature/beastheart/level-5/i-can-take-it.md)               |
+| Spark                              | [Wildfire Pyre](../../Browse/feature/beastheart/level-5/wildfire-pyre.md)               |
 
-##### I Can Take It {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-5/i-can-take-it"}
+##### I Can Take It {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/i-can-take-it"}
 
 When you or your companion uses your [Thunderclap](../../Browse/feature/ability/beastheart/level-1/thunderclap.md) ability and halves the triggering damage, whoever uses the ability can take the remaining damage instead of the original target. The damage is transferred before immunity and weakness are applied.
 
-##### Melt Away {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-5/melt-away"}
+##### Melt Away {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/melt-away"}
 
 You or your companion can use your [Shadow in the Mist](../../Browse/feature/ability/beastheart/level-1/shadow-in-the-mist.md) ability even when targeted by the triggering ability.
 
-##### There For Each Other {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-5/there-for-each-other"}
+##### There For Each Other {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/there-for-each-other"}
 
 When you or your companion uses your [The Pack Defends](../../Browse/feature/ability/beastheart/level-1/the-pack-defends.md) ability to spend a Recovery, you and the target both regain Stamina.
 
-##### Wildfire Pyre {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-5/wildfire-pyre"}
+##### Wildfire Pyre {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/wildfire-pyre"}
 
 When you or your companion deals damage with your [Pyre](../../Browse/feature/ability/beastheart/level-1/pyre.md) ability, each enemy adjacent to either of you takes the damage.
 
-#### 9-Ferocity Ability {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-5/9-ferocity-ability"}
+#### 9-Ferocity Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-5/9-ferocity-ability"}
 
 Choose one heroic ability from the following options, each of which costs 9 ferocity to use.
 
@@ -1556,15 +1556,15 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 As a 6th-level beastheart, you gain the following features.
 
-##### Perk {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-6/perk"}
+##### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-6/perk"}
 
 You gain one exploration, interpersonal, or intrigue perk of your choice.
 
-##### Become the Beast {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-6/become-the-beast"}
+##### Become the Beast {data-scc="mcdm.beastheart.v1/feature.beastheart.level-6/become-the-beast"}
 
 Your companion's rampage burns in your brain, and you become part beast yourself. You gain the level 6 advancement feature granted by your companion's stat block.
 
-### 6th-Level Wild Nature Ability {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-6/6th-level-wild-nature-ability"}
+### 6th-Level Wild Nature Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-6/6th-level-wild-nature-ability"}
 
 Your wild nature grants your choice of one of two heroic abilities.
 
@@ -1708,19 +1708,19 @@ Your companion's transformation lasts until the start of your next turn. At the 
 
 As a 7th-level beastheart, you gain the following features.
 
-##### Characteristic Increase {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-7/characteristic-increase"}
+##### Characteristic Increase {data-scc="mcdm.beastheart.v1/feature.beastheart.level-7/characteristic-increase"}
 
 Each of your and your companion's characteristic scores increases by 1, to a maximum of 4.
 
-##### Feral Heart {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-7/feral-heart"}
+##### Feral Heart {data-scc="mcdm.beastheart.v1/feature.beastheart.level-7/feral-heart"}
 
 At the start of each of your turns in combat, you gain 1d3 + 1 ferocity instead of 1d3.
 
-##### Rampage Improvement {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-7/rampage-improvement"}
+##### Rampage Improvement {data-scc="mcdm.beastheart.v1/feature.beastheart.level-7/rampage-improvement"}
 
-Your [Rampage](../../Browse/feature/trait/beastheart/level-1/rampage.md) feature provides additional effects when your companion has 20 or more rampage.
+Your [Rampage](../../Browse/feature/beastheart/level-1/rampage.md) feature provides additional effects when your companion has 20 or more rampage.
 
-##### Skill {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-7/skill"}
+##### Skill {data-scc="mcdm.beastheart.v1/feature.beastheart.level-7/skill"}
 
 You gain one skill of your choice.
 
@@ -1728,39 +1728,39 @@ You gain one skill of your choice.
 
 As an 8th-level beastheart, you gain the following features.
 
-##### 8th-Level Wild Nature Feature {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-8/8th-level-wild-nature-feature"}
+##### 8th-Level Wild Nature Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/8th-level-wild-nature-feature"}
 
 Your wild nature grants you a feature, as shown on the 8th-Level Wild Nature Features table.
 
 | ♦ 8th-Level Wild Nature Features ♦ |                                                                                                            |
 |------------------------------------|------------------------------------------------------------------------------------------------------------|
 | Wild Nature                        | Feature                                                                                                    |
-| Guardian                           | [Reflexes Perfected](../../Browse/feature/trait/beastheart/level-8/reflexes-perfected.md)           |
-| Prowler                            | [Born to Run](../../Browse/feature/trait/beastheart/level-8/born-to-run.md)                         |
-| Punisher                           | [Built for Violence](../../Browse/feature/trait/beastheart/level-8/built-for-violence.md)           |
-| Spark                              | [Nature Will Not Harm Us](../../Browse/feature/trait/beastheart/level-8/nature-will-not-harm-us.md) |
+| Guardian                           | [Reflexes Perfected](../../Browse/feature/beastheart/level-8/reflexes-perfected.md)           |
+| Prowler                            | [Born to Run](../../Browse/feature/beastheart/level-8/born-to-run.md)                         |
+| Punisher                           | [Built for Violence](../../Browse/feature/beastheart/level-8/built-for-violence.md)           |
+| Spark                              | [Nature Will Not Harm Us](../../Browse/feature/beastheart/level-8/nature-will-not-harm-us.md) |
 
-##### Born to Run {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-8/born-to-run"}
+##### Born to Run {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/born-to-run"}
 
 You and your companion gain a +2 bonus to speed.
 
-##### Built for Violence {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-8/built-for-violence"}
+##### Built for Violence {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/built-for-violence"}
 
 You and your companion gain a +2 damage bonus to maneuvers that deal damage. When you or your companion pushes a creature, you can vertical push that creature.
 
-##### Nature Will Not Harm Us {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-8/nature-will-not-harm-us"}
+##### Nature Will Not Harm Us {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/nature-will-not-harm-us"}
 
 You and your companion have damage immunity 10 to cold, fire, lightning, and sonic damage.
 
-##### Reflexes Perfected {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-8/reflexes-perfected"}
+##### Reflexes Perfected {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/reflexes-perfected"}
 
 Your and your companion's free strikes deal extra damage equal to your Intuition score. Whenever an adjacent enemy moves to a space that isn't adjacent, you or your companion can make an opportunity attack, even if the enemy [shifted](../../Browse/movement/shifting.md), [teleported](../../Browse/movement/teleport.md), was [force moved](../../Browse/movement/forced-movement.md), or another feature that doesn't provoke opportunity attacks.
 
-##### Perk {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-8/perk"}
+##### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/perk"}
 
 You gain one perk of your choice.
 
-#### 11-Ferocity Ability {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-8/11-ferocity-ability"}
+#### 11-Ferocity Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-8/11-ferocity-ability"}
 
 Choose one heroic ability from the following options, each of which costs 11 ferocity to use.
 
@@ -1826,11 +1826,11 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 
 As a 9th-level beastheart, you gain the following features.
 
-##### Avatar of the Green {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-9/avatar-of-the-green"}
+##### Avatar of the Green {data-scc="mcdm.beastheart.v1/feature.beastheart.level-9/avatar-of-the-green"}
 
 Your companion has transcended beasthood. Although they're still your faithful friend, they're also a vessel for nature's wisdom and memories. Your companion's Reason score increases to 1, or increases by 1 if it is already 1 or higher, and they learn every language you know. Your companion can communicate telepathically with any creature within 10 squares, using language as well as images and feelings. Additionally, you learn the [Nature](../../Browse/skill/nature.md) skill and one other skill from the lore skill group.
 
-### 9th-Level Wild Nature Ability {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-9/9th-level-wild-nature-ability"}
+### 9th-Level Wild Nature Ability {data-scc="mcdm.beastheart.v1/feature.beastheart.level-9/9th-level-wild-nature-ability"}
 
 Your wild nature grants your choice of one of two heroic abilities.
 
@@ -1992,23 +1992,23 @@ Your companion targets each enemy inside the pack's area during its movement onc
 
 As a 10th-level beastheart, you gain the following features.
 
-##### Characteristic Increase {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-10/characteristic-increase"}
+##### Characteristic Increase {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/characteristic-increase"}
 
 Your and your companion's Might and Intuition scores increase to 5.
 
-##### Companion Advancement Feature {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-10/companion-advancement-feature"}
+##### Companion Advancement Feature {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/companion-advancement-feature"}
 
 Your companion gains the level 10 advancement feature granted by their stat block.
 
-##### Final Evolution {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-10/final-evolution"}
+##### Final Evolution {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/final-evolution"}
 
 When you gain ferocity at the start of each of your turns during combat, you gain 2d3 + 1 ferocity instead of 1d3 + 1.
 
-##### Perk {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-10/perk"}
+##### Perk {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/perk"}
 
 You gain one exploration, interpersonal, or intrigue perk of your choice.
 
-##### Ferox {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-10/ferox"}
+##### Ferox {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/ferox"}
 
 You have an epic resource called ferox. Each time you finish a respite, you gain ferox equal to the XP you gain. You can spend ferox on your abilities as if it were ferocity.
 
@@ -2016,10 +2016,10 @@ Additionally, you can spend 1 ferox as a free maneuver to allow you and your com
 
 Ferox remains until you spend it.
 
-##### Rampage Improvement {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-10/rampage-improvement"}
+##### Rampage Improvement {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/rampage-improvement"}
 
-Your [Rampage](../../Browse/feature/trait/beastheart/level-1/rampage.md) feature provides additional effects when your companion has 24 or more rampage.
+Your [Rampage](../../Browse/feature/beastheart/level-1/rampage.md) feature provides additional effects when your companion has 24 or more rampage.
 
-##### Skill {data-scc="mcdm.beastheart.v1/feature.trait.beastheart.level-10/skill"}
+##### Skill {data-scc="mcdm.beastheart.v1/feature.beastheart.level-10/skill"}
 
 You gain one skill of your choice.

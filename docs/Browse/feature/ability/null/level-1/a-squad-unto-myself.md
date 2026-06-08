@@ -3,7 +3,7 @@ action_type: Main action
 class: "null"
 cost: 5 Discipline
 distance: 2 burst
-effect: You can take the [Disengage](../../../trait/common/move-actions/disengage.md) move action as a free maneuver before or after you use this ability.
+effect: You can take the [Disengage](../../../common/move-actions/disengage.md) move action as a free maneuver before or after you use this ability.
 flavor: You move so quickly, it seems as though an army assaulted your foes.
 keywords:
     - Area
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can take the <a href="../../../../trait/common/move-actions/disengage/">Disengage</a> move action as a free maneuver before or after you use this ability.</p></div>
+<div class="sc-ability__section-body"><p>You can take the <a href="../../../../common/move-actions/disengage/">Disengage</a> move action as a free maneuver before or after you use this ability.</p></div>
 </div>
 </article>

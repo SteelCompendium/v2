@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the <a href="../../common/move-actions/disengage/">Disengage</a> move action.</p>
+<p>Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
 </div>
 </section>

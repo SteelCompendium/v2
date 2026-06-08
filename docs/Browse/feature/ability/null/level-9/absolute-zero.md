@@ -3,7 +3,7 @@ action_type: Maneuver
 class: "null"
 cost: 11 Discipline
 distance: Self
-effect: Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](../../../trait/null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
+effect: Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](../../../null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
 flavor: You become the coldest thing in the timescape.
 keywords:
     - Psionic
@@ -47,6 +47,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your <a href="../../../../trait/null/level-2/entropic-adaptability/">Entropic Adaptability</a> trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your <a href="../../../../null/level-2/entropic-adaptability/">Entropic Adaptability</a> trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.</p></div>
 </div>
 </article>

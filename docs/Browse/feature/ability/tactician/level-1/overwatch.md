@@ -2,7 +2,7 @@
 action_type: Triggered
 class: tactician
 distance: Ranged 10
-effect: At any time during the target's movement, one ally can make a [free strike](../../../trait/common/main-actions/free-strike.md) against them.
+effect: At any time during the target's movement, one ally can make a [free strike](../../../common/main-actions/free-strike.md) against them.
 flavor: Under your direction, an ally waits for just the right moment to strike.
 keywords:
     - Ranged
@@ -41,7 +41,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At any time during the target&#39;s movement, one ally can make a <a href="../../../../trait/common/main-actions/free-strike/">free strike</a> against them.</p></div>
+<div class="sc-ability__section-body"><p>At any time during the target&#39;s movement, one ally can make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against them.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the target has R &lt; AVERAGE, they are <a href="../../../../../condition/slowed/">slowed</a> (EoT).</span></div>
 </article>

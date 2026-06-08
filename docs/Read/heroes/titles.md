@@ -103,7 +103,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 - *Duck!:* When an enemy strikes you while a second creature is flanking you, you can use a triggered action to redirect the strike against the second creature. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Furniture Fighter:* When you use a weapon ability with an improvised weapon or a weapon that isn't part of your kit, the ability benefits from your kit's melee weapon damage bonus.
-- *Headbutt:* While you are [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md), your [free strikes](../../Browse/feature/trait/common/main-actions/free-strike.md) don't take a bane when those conditions would impose one.
+- *Headbutt:* While you are [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md), your [free strikes](../../Browse/feature/common/main-actions/free-strike.md) don't take a bane when those conditions would impose one.
 - *If I Wanted You Dead, You'd Be Dead:* Whenever you defeat foes without killing any of them (including the foes you defeat to meet the prerequisite for this title), you gain an edge on tests during negotiations with those foes.
 
 ### City Rat {data-scc="mcdm.heroes.v1/title/city-rat"}
@@ -128,7 +128,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 ### Dwarven Legionnaire {data-scc="mcdm.heroes.v1/title/dwarven-legionnaire"}
 
-*I have learned much. It might be your courage that inspires others. Watch your opponent's shield as well as their sword. And above all, [stand fast](../../Browse/feature/trait/censor/level-5/stand-fast.md), and do not yield.*
+*I have learned much. It might be your courage that inspires others. Watch your opponent's shield as well as their sword. And above all, [stand fast](../../Browse/feature/censor/level-5/stand-fast.md), and do not yield.*
 
 **Prerequisite:** You fight alongside three or more [dwarves](../../Browse/ancestry/dwarf.md).
 
@@ -192,7 +192,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 **Effect:** Choose one of the following benefits:
 
 - *Arcane Dampening:* When resisting potencies from magic abilities, your characteristic scores are considered to be 1 higher than usual.
-- *Oh No, You Don't!:* Whenever an adjacent creature uses an ability with the Magic keyword, you can make a [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) against them as a triggered action.
+- *Oh No, You Don't!:* Whenever an adjacent creature uses an ability with the Magic keyword, you can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them as a triggered action.
 - *Stink of Magic:* As a maneuver, you open your senses to the residue of magic. Until the end of your next turn, you are aware of whether each creature within 5 squares is a construct, an undead, or a creature from another world, and whether they have used a magic ability in the previous hour. Additionally, you can't be surprised by constructs, undead, or creatures from another world.
 
 ### Marshal {data-scc="mcdm.heroes.v1/title/marshal"}
@@ -262,7 +262,7 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 > **Effect:** Each target who has P < AVERAGE is [taunted](../../Browse/condition/taunted.md) by you until the end of their next turn, and you know the location of each creature [taunted](../../Browse/condition/taunted.md) in this way.
 
 - *Deadly and Big:* Your strikes gain a +3 damage bonus against creatures whose size is smaller than yours.
-- *Everybody Move!:* When you use the [Knockback](../../Browse/feature/trait/common/maneuvers/knockback.md) maneuver, you can target one additional creature of your size or two additional smaller creatures.
+- *Everybody Move!:* When you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature of your size or two additional smaller creatures.
 
 ### Saved for a Worse Fate {data-scc="mcdm.heroes.v1/title/saved-for-a-worse-fate"}
 
@@ -315,7 +315,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 - *Honor Among Thieves:* When negotiating with criminals, your Renown score is considered to be 2 higher than usual.
 - *Minion Mower:* When you make a melee strike that targets a minion and at least one more minion is within distance of the strike, the strike gains a +3 damage bonus.
-- *No, You're Under Arrest!:* You gain an edge on the [Escape Grab](../../Browse/feature/trait/common/maneuvers/escape-grab.md) maneuver. Additionally, when you succeed on a test to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an adjacent creature of the same size without them immediately noticing.
+- *No, You're Under Arrest!:* You gain an edge on the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver. Additionally, when you succeed on a test to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an adjacent creature of the same size without them immediately noticing.
 
 ### Zombie Slayer {data-scc="mcdm.heroes.v1/title/zombie-slayer"}
 
@@ -403,10 +403,10 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 > |----------------|--------------------------------------:|
 > | **📏 3 burst** | **🎯 Self and each ally in the area** |
 >
-> **Effect:** Each target can use the [Charge](../../Browse/feature/trait/common/main-actions/charge.md) main action.
+> **Effect:** Each target can use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action.
 
 - *Renowned Warrior:* You earn 1 Renown.
-- *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../../Browse/class/tactician.md) class. You gain that feature even if you don't have the [Tactical Doctrine](../../Browse/feature/trait/tactician/level-1/tactical-doctrine.md) feature.
+- *Student of War:* Choose a 1st-level doctrine feature from the [tactician](../../Browse/class/tactician.md) class. You gain that feature even if you don't have the [Tactical Doctrine](../../Browse/feature/tactician/level-1/tactical-doctrine.md) feature.
 
 ### Blood Magic {data-scc="mcdm.heroes.v1/title/blood-magic"}
 
@@ -492,7 +492,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Healing Gift:* You can use the 1st-level [Conduit](../../Browse/class/conduit.md) feature [Healing Grace](../../Browse/feature/ability/conduit/level-1/healing-grace.md) as if you had spent 1 [piety](../../Browse/feature/trait/conduit/level-1/piety.md) (see Chapter 5: [Classes](classes.md)). Once you use this benefit, you can't use it again until you earn 1 or more Victories.
+- *Healing Gift:* You can use the 1st-level [Conduit](../../Browse/class/conduit.md) feature [Healing Grace](../../Browse/feature/ability/conduit/level-1/healing-grace.md) as if you had spent 1 [piety](../../Browse/feature/conduit/level-1/piety.md) (see Chapter 5: [Classes](classes.md)). Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Last-Ditch Prayer:* As a free maneuver, you recite a prayer for help, gaining a pool of 2d10 of the Heroic Resource granted by your class. This pool disappears at the end of your turn if you haven't used it. Once you use this benefit, you can't use it again until you perform another service for a god or saint, or until you gain a level.
 - *Touched by the Divine:* Choose a god or saint from the Deities and  Domains table in Chapter 14: [Gods and Religion](gods-and-religion.md). From that god or saint's domains, choose a [Conduit](../../Browse/class/conduit.md) 1st-level domain feature (see Chapter 5: [Classes](classes.md)).
 
@@ -574,7 +574,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Boffin:* You gain a small magic spy device called a boffin. Once per encounter, you can activate a boffin property as a maneuver (see below).
-- *Caustic Alchemy:* You have your choice of the 1st-level [shadow college](../../Browse/feature/trait/shadow/level-1/shadow-college.md) features Coat the Blade or [Smoke Bomb](../../Browse/feature/trait/shadow/level-1/smoke-bomb.md) (see Chapter 5: [Classes](classes.md)). When you use that feature, you can't spend insight unless you have the Insight class feature.
+- *Caustic Alchemy:* You have your choice of the 1st-level [shadow college](../../Browse/feature/shadow/level-1/shadow-college.md) features Coat the Blade or [Smoke Bomb](../../Browse/feature/shadow/level-1/smoke-bomb.md) (see Chapter 5: [Classes](classes.md)). When you use that feature, you can't spend insight unless you have the Insight class feature.
 - *Spy Ring:* You gain a piece of magic jewelry, such as a ring. As a main action while wearing the jewelry, you can take on the illusory appearance of an individual within 10 squares who you have line of effect to. This disguise lets you automatically succeed on tests made using the Disguise skill based solely on visual identification.
 
 #### Boffin Properties
@@ -606,7 +606,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 **Effect:** You return to life 1 minute after being killed with Stamina equal to your winded value. You gain corruption immunity equal to your level and one of the benefits below, based on the type of creature who killed you. If you die again, you rise as an undead creature under the Director's control.
 
-- *Ghoul or Vampire:* When you make a melee [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) against an adjacent creature, you can bite that creature. If you do so and obtain a tier 3 outcome, you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
+- *Ghoul or Vampire:* When you make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against an adjacent creature, you can bite that creature. If you do so and obtain a tier 3 outcome, you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
 - *Incorporeal Undead:* You can move through other creatures and objects. The first time in a combat round that you pass through a creature, that creature takes corruption damage equal to half your level. You don't take damage from being [force moved](../../Browse/movement/forced-movement.md) into objects.
 - *Other Corporeal Undead:* When you are reduced to 0 Stamina by damage that isn't fire or holy damage and your body isn't destroyed, you can regain half your Stamina and [fall prone](../../Browse/condition/prone.md). Once you use this benefit, you can't use it again until you earn 10 or more Victories.
 
@@ -620,7 +620,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 - *From Hell's Heart:* While you are winded, your melee strikes gain a +3 damage bonus.
 - *Furious Attack:* Choose one signature ability from the [fury](../../Browse/class/fury.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
-- *Furious Charge:* When you use the [Charge](../../Browse/feature/trait/common/main-actions/charge.md) action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
+- *Furious Charge:* When you use the [Charge](../../Browse/feature/common/main-actions/charge.md) action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
 
 ## 3rd-Echelon Titles
 

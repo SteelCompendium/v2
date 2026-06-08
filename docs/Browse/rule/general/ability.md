@@ -16,7 +16,7 @@ Abilities with the Area keyword create an area of effect. Many area abilities de
 
 ## Charge
 
-Abilities with the Charge keyword can be used with the [Charge](../../feature/trait/common/main-actions/charge.md) main action instead of a melee [free strike](../../feature/trait/common/main-actions/free-strike.md). (The [Charge](../../feature/trait/common/main-actions/charge.md) main action is described in Main Actions in Chapter 10: [Combat](../../../Read/heroes/combat.md).)
+Abilities with the Charge keyword can be used with the [Charge](../../feature/common/main-actions/charge.md) main action instead of a melee [free strike](../../feature/common/main-actions/free-strike.md). (The [Charge](../../feature/common/main-actions/charge.md) main action is described in Main Actions in Chapter 10: [Combat](../../../Read/heroes/combat.md).)
 
 ## Magic
 

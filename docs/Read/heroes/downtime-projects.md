@@ -447,7 +447,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Goal:** 150
 
-**Celerity:** Immediately after using a magic or psionic ability that requires a main action, you can [shift](../../Browse/movement/shifting.md) up to 3 squares, or you can use the [Escape Grab](../../Browse/feature/trait/common/maneuvers/escape-grab.md) maneuver as a free maneuver (see Maneuvers in Chapter 10: [Combat](combat.md)).
+**Celerity:** Immediately after using a magic or psionic ability that requires a main action, you can [shift](../../Browse/movement/shifting.md) up to 3 squares, or you can use the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver as a free maneuver (see Maneuvers in Chapter 10: [Combat](combat.md)).
 
 **Celestine:** As a main action, you conjure up to three stars, which [hover](../../Browse/movement/hover.md) in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have line of effect to the enemy, you can also slide them 1 square. Otherwise, the enemy slides 1 square in a random direction.
 
@@ -489,7 +489,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Goal:** 150
 
-**Anathema:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature is also [weakened](../../Browse/condition/weakened.md) (save ends). If the creature is within 10 squares when this [weakened](../../Browse/condition/weakened.md) effect ends, you can use a free triggered action to make a [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) against them.
+**Anathema:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature is also [weakened](../../Browse/condition/weakened.md) (save ends). If the creature is within 10 squares when this [weakened](../../Browse/condition/weakened.md) effect ends, you can use a free triggered action to make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them.
 
 **Displacing III:** When you use the implement's Displacing I enhancement, you can [teleport](../../Browse/movement/teleport.md) the creature up to 5 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
 

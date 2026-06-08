@@ -18,7 +18,7 @@ You can attempt to climb a creature whose size is greater than yours. If the cre
 
 **Power Roll + Might or Agility:**
 
-- **≤11:** You fail to climb the creature, and they can make a [free strike](../feature/trait/common/main-actions/free-strike.md) against you.
+- **≤11:** You fail to climb the creature, and they can make a [free strike](../feature/common/main-actions/free-strike.md) against you.
 - **12-16:** You fail to climb the creature.
 - **17+:** You climb the creature.
 

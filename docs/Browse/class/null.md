@@ -47,32 +47,32 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 | Level | Features                                                                                                                                            | Abilities                     | Tradition Abilities |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------|
-| 1st   | [Null Tradition](../feature/trait/null/level-1/null-tradition.md), [Discipline](../feature/trait/null/level-1/discipline.md), [Null Field](../feature/trait/null/level-1/null-field.md), [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md), [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md), [Null Speed](../feature/trait/null/level-1/null-speed.md), [Psionic Augmentation](../feature/trait/null/level-1/psionic-augmentation.md), [Psionic Martial Arts](../feature/trait/null/level-1/psionic-martial-arts.md), [Null Abilities](../feature/trait/null/level-1/null-abilities.md) | Two signature, 3, 5           | -                   |
-| 2nd   | [Perk](../feature/trait/null/level-2/perk.md), [Tradition Feature](../feature/trait/null/level-2/2nd-level-tradition-feature.md), [Tradition Ability](../feature/trait/null/level-2/2nd-level-tradition-ability.md) | Two signature, 3, 5           | 5                   |
-| 3rd   | [Psionic Leap](../feature/trait/null/level-3/psionic-leap.md), [Reorder](../feature/trait/null/level-3/reorder.md), [7-Discipline Ability](../feature/trait/null/level-3/7-discipline-ability.md)                                                                                                         | Two signature, 3, 5, 7        | 5                   |
-| 4th   | [Characteristic Increase](../feature/trait/null/level-4/characteristic-increase.md), [Discipline Mastery Improvement](../feature/trait/null/level-4/discipline-mastery-improvement.md), [Enhanced Null Field](../feature/trait/null/level-4/enhanced-null-field.md), [Perk](../feature/trait/null/level-4/perk.md), [Regenerative Field](../feature/trait/null/level-4/regenerative-field.md), [Skill](../feature/trait/null/level-4/skill.md)                                       | Two signature, 3, 5, 7        | 5                   |
-| 5th   | [Tradition Feature](../feature/trait/null/level-5/5th-level-tradition-feature.md), [9-Discipline Ability](../feature/trait/null/level-5/9-discipline-ability.md)                                                                                                             | Two signature, 3, 5, 7, 9     | 5                   |
-| 6th   | [Elemental Absorption](../feature/trait/null/level-6/elemental-absorption.md), [Elemental Buffer](../feature/trait/null/level-6/elemental-buffer.md), [Perk](../feature/trait/null/level-6/perk.md), [Tradition Ability](../feature/trait/null/level-6/6th-level-tradition-ability.md)                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 7th   | [Characteristic Increase](../feature/trait/null/level-7/characteristic-increase.md), [Discipline Mastery Improvement](../feature/trait/null/level-7/discipline-mastery-improvement.md), [Psi Boost](../feature/trait/null/level-7/psi-boost.md), [Improved Body](../feature/trait/null/level-7/improved-body.md), [Skill](../feature/trait/null/level-7/skill.md)                                                            | Two signature, 3, 5, 7, 9     | 5, 9                |
-| 8th   | [Perk](../feature/trait/null/level-8/perk.md), [Tradition Feature](../feature/trait/null/level-8/8th-level-tradition-feature.md), [11-Discipline Ability](../feature/trait/null/level-8/11-discipline-ability.md)                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
-| 9th   | [I Am the Weapon](../feature/trait/null/level-9/i-am-the-weapon.md), [Tradition Ability](../feature/trait/null/level-9/9th-level-tradition-ability.md)                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
-| 10th  | [Characteristic Increase](../feature/trait/null/level-10/characteristic-increase.md), [Discipline Mastery Improvement](../feature/trait/null/level-10/discipline-mastery-improvement.md), [Manifold Body](../feature/trait/null/level-10/manifold-body.md), [Manifold Resonance](../feature/trait/null/level-10/manifold-resonance.md), [Order](../feature/trait/null/level-10/order.md), [Perk](../feature/trait/null/level-10/perk.md), [Skill](../feature/trait/null/level-10/skill.md)                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 1st   | [Null Tradition](../feature/null/level-1/null-tradition.md), [Discipline](../feature/null/level-1/discipline.md), [Null Field](../feature/null/level-1/null-field.md), [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md), [Discipline Mastery](../feature/null/level-1/discipline-mastery.md), [Null Speed](../feature/null/level-1/null-speed.md), [Psionic Augmentation](../feature/null/level-1/psionic-augmentation.md), [Psionic Martial Arts](../feature/null/level-1/psionic-martial-arts.md), [Null Abilities](../feature/null/level-1/null-abilities.md) | Two signature, 3, 5           | -                   |
+| 2nd   | [Perk](../feature/null/level-2/perk.md), [Tradition Feature](../feature/null/level-2/2nd-level-tradition-feature.md), [Tradition Ability](../feature/null/level-2/2nd-level-tradition-ability.md) | Two signature, 3, 5           | 5                   |
+| 3rd   | [Psionic Leap](../feature/null/level-3/psionic-leap.md), [Reorder](../feature/null/level-3/reorder.md), [7-Discipline Ability](../feature/null/level-3/7-discipline-ability.md)                                                                                                         | Two signature, 3, 5, 7        | 5                   |
+| 4th   | [Characteristic Increase](../feature/null/level-4/characteristic-increase.md), [Discipline Mastery Improvement](../feature/null/level-4/discipline-mastery-improvement.md), [Enhanced Null Field](../feature/null/level-4/enhanced-null-field.md), [Perk](../feature/null/level-4/perk.md), [Regenerative Field](../feature/null/level-4/regenerative-field.md), [Skill](../feature/null/level-4/skill.md)                                       | Two signature, 3, 5, 7        | 5                   |
+| 5th   | [Tradition Feature](../feature/null/level-5/5th-level-tradition-feature.md), [9-Discipline Ability](../feature/null/level-5/9-discipline-ability.md)                                                                                                             | Two signature, 3, 5, 7, 9     | 5                   |
+| 6th   | [Elemental Absorption](../feature/null/level-6/elemental-absorption.md), [Elemental Buffer](../feature/null/level-6/elemental-buffer.md), [Perk](../feature/null/level-6/perk.md), [Tradition Ability](../feature/null/level-6/6th-level-tradition-ability.md)                                                                                     | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 7th   | [Characteristic Increase](../feature/null/level-7/characteristic-increase.md), [Discipline Mastery Improvement](../feature/null/level-7/discipline-mastery-improvement.md), [Psi Boost](../feature/null/level-7/psi-boost.md), [Improved Body](../feature/null/level-7/improved-body.md), [Skill](../feature/null/level-7/skill.md)                                                            | Two signature, 3, 5, 7, 9     | 5, 9                |
+| 8th   | [Perk](../feature/null/level-8/perk.md), [Tradition Feature](../feature/null/level-8/8th-level-tradition-feature.md), [11-Discipline Ability](../feature/null/level-8/11-discipline-ability.md)                                                                                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9                |
+| 9th   | [I Am the Weapon](../feature/null/level-9/i-am-the-weapon.md), [Tradition Ability](../feature/null/level-9/9th-level-tradition-ability.md)                                                                                                                  | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
+| 10th  | [Characteristic Increase](../feature/null/level-10/characteristic-increase.md), [Discipline Mastery Improvement](../feature/null/level-10/discipline-mastery-improvement.md), [Manifold Body](../feature/null/level-10/manifold-body.md), [Manifold Resonance](../feature/null/level-10/manifold-resonance.md), [Order](../feature/null/level-10/order.md), [Perk](../feature/null/level-10/perk.md), [Skill](../feature/null/level-10/skill.md)                                      | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11            |
 
 ## 1st-Level Features
 
 As a 1st-level [null](null.md), you gain the following features.
 
-### Null Tradition {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/null-tradition"}
+### Null Tradition {data-scc="mcdm.heroes.v1/feature.null.level-1/null-tradition"}
 
-Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null tradition](../feature/trait/null/level-1/null-tradition.md) from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the [Monsters](../skill/monsters.md) skill.)
+Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a [null tradition](../feature/null/level-1/null-tradition.md) from the following options, each of which grants you a skill. (*Quick Build:* Chronokinetic and the [Monsters](../skill/monsters.md) skill.)
 
 - **Chronokinetic:** Your training unmoors you from temporal reality, allowing you to use the flow of time as another dimension that all things move through. You gain one skill from the lore group.
 - **Cryokinetic:** You can tap into absolute cold, the most essential energy of myriad manifolds, and manifest its effects in your body. You gain one skill from the crafting group.
 - **Metakinetic:** You learn to see through the illusions of the universe to more fully understand your body and its psionic potential. You gain one skill from the exploration group.
 
-Your [null tradition](../feature/trait/null/level-1/null-tradition.md) is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
+Your [null tradition](../feature/null/level-1/null-tradition.md) is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels.
 
-### Discipline {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/discipline"}
+### Discipline {data-scc="mcdm.heroes.v1/feature.null.level-1/discipline"}
 
 As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called discipline.
 
@@ -80,7 +80,7 @@ As your mastery of your body and tradition grows, it imbues you with a Heroic Re
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain discipline equal to your Victories. At the start of each of your turns during combat, you gain 2 discipline.
 
-Additionally, the first time each combat round that an enemy in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *Draw Steel: Monsters*), you gain 1 discipline.
+Additionally, the first time each combat round that an enemy in the area of your [Null Field](../feature/null/level-1/null-field.md) ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *Draw Steel: Monsters*), you gain 1 discipline.
 
 You lose any remaining discipline at the end of the encounter.
 
@@ -90,7 +90,7 @@ Though you can't gain discipline outside of combat, you can use your heroic abil
 
 When you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline equal to your Victories. (Such abilities aren't part of the core rules for the [null](null.md), but they might appear in future products.)
 
-### Null Field {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/null-field"}
+### Null Field {data-scc="mcdm.heroes.v1/feature.null.level-1/null-field"}
 
 You project a psionic field of order around your body, dampening the effects of supernatural abilities harmful to you and your allies.
 
@@ -105,7 +105,7 @@ You project a psionic field of order around your body, dampening the effects of 
 
 **Effect:** Each target reduces their potencies by 1.
 
-Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null Field](../feature/trait/null/level-1/null-field.md) one of the following additional effects until the start of your next turn:
+Once as a free maneuver on each of your turns, you can spend 1 discipline and give your [Null Field](../feature/null/level-1/null-field.md) one of the following additional effects until the start of your next turn:
 
 - Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.
 - Inertial Anchor: Any target who starts their turn in the area can't [shift](../movement/shifting.md).
@@ -113,7 +113,7 @@ Once as a free maneuver on each of your turns, you can spend 1 discipline and gi
 
 This ability remains active even after an encounter ends. It ends only if you are dying or if you willingly end it (no action required).
 
-### Inertial Shield {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/inertial-shield"}
+### Inertial Shield {data-scc="mcdm.heroes.v1/feature.null.level-1/inertial-shield"}
 
 Your instincts for danger let you predict attacks before they happen.
 
@@ -132,88 +132,88 @@ Your instincts for danger let you predict attacks before they happen.
 
 **Spend 1 Discipline:** The potency of one effect associated with the damage is reduced by 1 for you.
 
-### Discipline Mastery {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/discipline-mastery"}
+### Discipline Mastery {data-scc="mcdm.heroes.v1/feature.null.level-1/discipline-mastery"}
 
-As you advance in your chosen [null tradition](../feature/trait/null/level-1/null-tradition.md), you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
+As you advance in your chosen [null tradition](../feature/null/level-1/null-tradition.md), you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
 
-Some [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
+Some [Discipline Mastery](../feature/null/level-1/discipline-mastery.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
-#### Chronokinetic Mastery {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/chronokinetic-mastery"}
+#### Chronokinetic Mastery {data-scc="mcdm.heroes.v1/feature.null.level-1/chronokinetic-mastery"}
 
-Whenever you use the [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can use the [Disengage](../feature/trait/common/move-actions/disengage.md) move action as a free triggered action.
+Whenever you use the [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can use the [Disengage](../feature/common/move-actions/disengage.md) move action as a free triggered action.
 
-Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../feature/trait/null/level-1/chronokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, your psionic mastery of your body intensifies, granting benefits from the [Chronokinetic Mastery](../feature/null/level-1/chronokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Chronokinetic Mastery Table
 
 | Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, you can use the [Disengage](../feature/trait/common/move-actions/disengage.md) move action as a free triggered action either before or after the maneuver.                                              |
+| 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can use the [Disengage](../feature/common/move-actions/disengage.md) move action as a free triggered action either before or after the maneuver.                                              |
 | 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                 |
-| 6               | You gain an edge on the [Grab](../feature/trait/common/maneuvers/grab.md) and [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
+| 6               | You gain an edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
 | 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                |
-| 10 (7th level)  | You have a double edge on the [Grab](../feature/trait/common/maneuvers/grab.md) and [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
+| 10 (7th level)  | You have a double edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
 | 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
 
-#### Cryokinetic Mastery {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/cryokinetic-mastery"}
+#### Cryokinetic Mastery {data-scc="mcdm.heroes.v1/feature.null.level-1/cryokinetic-mastery"}
 
-Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can then use the [Grab](../feature/trait/common/maneuvers/grab.md) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can then use the [Grab](../feature/common/maneuvers/grab.md) maneuver as a free triggered action.
 
-Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../feature/trait/null/level-1/cryokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, you strengthen the psionic power suffusing you, granting benefits from the [Cryokinetic Mastery](../feature/null/level-1/cryokinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Cryokinetic Mastery Table
 
 | Discipline      | Benefit                                                                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
-| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability, you gain 1 surge.                                                   |
-| 6               | You gain an edge on the [Grab](../feature/trait/common/maneuvers/grab.md) and [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers.                                                                                                                                             |
-| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability, you gain 2 surges.                                                  |
-| 10 (7th level)  | You have a double edge on the [Grab](../feature/trait/common/maneuvers/grab.md) and [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
+| 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
+| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../feature/null/level-1/null-field.md) ability, you gain 1 surge.                                                   |
+| 6               | You gain an edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                             |
+| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../feature/null/level-1/null-field.md) ability, you gain 2 surges.                                                  |
+| 10 (7th level)  | You have a double edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
 | 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.       |
 
-#### Metakinetic Mastery {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/metakinetic-mastery"}
+#### Metakinetic Mastery {data-scc="mcdm.heroes.v1/feature.null.level-1/metakinetic-mastery"}
 
-Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can then use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver as a free triggered action.
+Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) ability, you can then use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver as a free triggered action.
 
-Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../feature/trait/null/level-1/metakinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+Additionally, as your discipline grows, your psionic potential is amplified, granting benefits from the [Metakinetic Mastery](../feature/null/level-1/metakinetic-mastery.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Metakinetic Mastery Table
 
 | Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.                                                                          |
+| 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.                                                                          |
 | 4               | The first time in a combat round that you take damage or are [force moved](../movement/forced-movement.md), you gain 1 surge, even if you resist the effect.                                                                  |
-| 6               | You gain an edge on the [Grab](../feature/trait/common/maneuvers/grab.md) and [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
+| 6               | You gain an edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
 | 8 (4th level)   | The first time in a combat round that you take damage or are [force moved](../movement/forced-movement.md), you gain 2 surges, even if you resist the effect.                                                                 |
-| 10 (7th level)  | You have a double edge on the [Grab](../feature/trait/common/maneuvers/grab.md) and [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
+| 10 (7th level)  | You have a double edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
 | 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
 
-### Null Speed {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/null-speed"}
+### Null Speed {data-scc="mcdm.heroes.v1/feature.null.level-1/null-speed"}
 
-The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action equal to your Agility score.
+The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action equal to your Agility score.
 
-### Psionic Augmentation {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/psionic-augmentation"}
+### Psionic Augmentation {data-scc="mcdm.heroes.v1/feature.null.level-1/psionic-augmentation"}
 
-Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../feature/trait/null/level-1/speed-augmentation.md).)
+Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your augmentation by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Speed Augmentation](../feature/null/level-1/speed-augmentation.md).)
 
-#### Density Augmentation {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/density-augmentation"}
+#### Density Augmentation {data-scc="mcdm.heroes.v1/feature.null.level-1/density-augmentation"}
 
 You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
 
-#### Force Augmentation {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/force-augmentation"}
+#### Force Augmentation {data-scc="mcdm.heroes.v1/feature.null.level-1/force-augmentation"}
 
 Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
-#### Speed Augmentation {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/speed-augmentation"}
+#### Speed Augmentation {data-scc="mcdm.heroes.v1/feature.null.level-1/speed-augmentation"}
 
-You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action.
+You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
-### Psionic Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/psionic-martial-arts"}
+### Psionic Martial Arts {data-scc="mcdm.heroes.v1/feature.null.level-1/psionic-martial-arts"}
 
-Whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) or [Grab](../feature/trait/common/maneuvers/grab.md) maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../feature/trait/common/maneuvers/knockback.md) maneuver, you can choose to slide the target instead of pushing them.
+Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) or [Grab](../feature/common/maneuvers/grab.md) maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can choose to slide the target instead of pushing them.
 
-### Null Abilities {data-scc="mcdm.heroes.v1/feature.trait.null.level-1/null-abilities"}
+### Null Abilities {data-scc="mcdm.heroes.v1/feature.null.level-1/null-abilities"}
 
 You rely on a unique blend of martial techniques and psionic prowess to take down your foes and defend your allies.
 
@@ -372,7 +372,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 - **12-16:** 10 + A damage
 - **17+:** 13 + A damage
 
-**Effect:** You can [shift](../movement/shifting.md) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../feature/trait/common/main-actions/free-strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+**Effect:** You can [shift](../movement/shifting.md) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../feature/common/main-actions/free-strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
 ##### Psychic Pulse {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/psychic-pulse"}
 
@@ -383,7 +383,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 |-------------------|------------------------------:|
 | **📏 2 burst**    | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null Field](../feature/trait/null/level-1/null-field.md) ability increases by 1. At the end of your current turn, each enemy in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability takes psychic damage equal to your Intuition score.
+**Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. At the end of your current turn, each enemy in the area of your [Null Field](../feature/null/level-1/null-field.md) ability takes psychic damage equal to your Intuition score.
 
 ##### Relentless Nemesis {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/relentless-nemesis"}
 
@@ -487,45 +487,45 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 - **12-16:** 9 damage
 - **17+:** 13 damage
 
-**Effect:** You can take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action as a free maneuver before or after you use this ability.
+**Effect:** You can take the [Disengage](../feature/common/move-actions/disengage.md) move action as a free maneuver before or after you use this ability.
 
 ## 2nd-Level Features
 
 As a 2nd-level [null](null.md), you gain the following features.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.null.level-2/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.null.level-2/perk"}
 
 You gain one exploration, interpersonal, or intrigue perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
-### 2nd-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.trait.null.level-2/2nd-level-tradition-feature"}
+### 2nd-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.null.level-2/2nd-level-tradition-feature"}
 
-Your [null tradition](../feature/trait/null/level-1/null-tradition.md) grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [null tradition](../feature/null/level-1/null-tradition.md) grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ##### 2nd-Level Tradition Features Table
 
 | Tradition     | Feature               |
 |---------------|-----------------------|
-| Chronokinetic | [Rapid Processing](../feature/trait/null/level-2/rapid-processing.md)      |
-| Cryokinetic   | [Entropic Adaptability](../feature/trait/null/level-2/entropic-adaptability.md) |
-| Metakinetic   | [Inertial Sink](../feature/trait/null/level-2/inertial-sink.md)         |
+| Chronokinetic | [Rapid Processing](../feature/null/level-2/rapid-processing.md)      |
+| Cryokinetic   | [Entropic Adaptability](../feature/null/level-2/entropic-adaptability.md) |
+| Metakinetic   | [Inertial Sink](../feature/null/level-2/inertial-sink.md)         |
 
-#### Entropic Adaptability {data-scc="mcdm.heroes.v1/feature.trait.null.level-2/entropic-adaptability"}
+#### Entropic Adaptability {data-scc="mcdm.heroes.v1/feature.null.level-2/entropic-adaptability"}
 
 You have cold immunity equal to twice your Intuition score. Additionally, you ignore [difficult terrain](../movement/difficult-terrain.md) related to cold and ice, and you can automatically climb at full speed while moving.
 
-#### Inertial Sink {data-scc="mcdm.heroes.v1/feature.trait.null.level-2/inertial-sink"}
+#### Inertial Sink {data-scc="mcdm.heroes.v1/feature.null.level-2/inertial-sink"}
 
 You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by [forced movement](../movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../condition/grabbed.md).
 
 Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being [force moved](../movement/forced-movement.md), you reduce that damage by an amount equal to your level.
 
-#### Rapid Processing {data-scc="mcdm.heroes.v1/feature.trait.null.level-2/rapid-processing"}
+#### Rapid Processing {data-scc="mcdm.heroes.v1/feature.null.level-2/rapid-processing"}
 
 As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any respite, you can take an additional respite activity.
 
-### 2nd-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.trait.null.level-2/2nd-level-tradition-ability"}
+### 2nd-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.null.level-2/2nd-level-tradition-ability"}
 
-Your [null tradition](../feature/trait/null/level-1/null-tradition.md) grants your choice of one of two abilities.
+Your [null tradition](../feature/null/level-1/null-tradition.md) grants your choice of one of two abilities.
 
 #### 2nd-Level Chronokinetic Ability
 
@@ -585,7 +585,7 @@ Choose one of the following heroic abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the start of your next turn, the size of your [Null Field](../feature/trait/null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
+**Effect:** Until the start of your next turn, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
 
 #### 2nd-Level Metakinetic Ability
 
@@ -627,28 +627,28 @@ Choose one of the following abilities.
 
 As a 3rd-level [null](null.md), you gain the following features.
 
-### Psionic Leap {data-scc="mcdm.heroes.v1/feature.trait.null.level-3/psionic-leap"}
+### Psionic Leap {data-scc="mcdm.heroes.v1/feature.null.level-3/psionic-leap"}
 
 You can long jump and high jump a distance equal to twice your Agility score without needing to make a test.
 
-### Reorder {data-scc="mcdm.heroes.v1/feature.trait.null.level-3/reorder"}
+### Reorder {data-scc="mcdm.heroes.v1/feature.null.level-3/reorder"}
 
-At the start of each of your turns, you can use a free triggered action to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Alternatively, you can grant this benefit to one creature in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability.
+At the start of each of your turns, you can use a free triggered action to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Alternatively, you can grant this benefit to one creature in the area of your [Null Field](../feature/null/level-1/null-field.md) ability.
 
-### 7-Discipline Ability {data-scc="mcdm.heroes.v1/feature.trait.null.level-3/7-discipline-ability"}
+### 7-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-3/7-discipline-ability"}
 
 Choose one heroic ability from the following options, each of which costs 7 discipline to use.
 
 #### Absorption Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/absorption-field"}
 
 
-*Your [null field](../feature/trait/null/level-1/null-field.md) absorbs kinetic energy.*
+*Your [null field](../feature/null/level-1/null-field.md) absorbs kinetic energy.*
 
 | **Psionic** | **Maneuver** |
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/trait/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
 
 #### Molecular Rearrangement Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/molecular-rearrangement-field"}
 
@@ -659,7 +659,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/trait/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
+**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
 
 #### Stabilizing Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/stabilizing-field"}
 
@@ -670,44 +670,44 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/trait/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, you ignore [difficult terrain](../movement/difficult-terrain.md) and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
+**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, you ignore [difficult terrain](../movement/difficult-terrain.md) and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.
 
 #### Synapse Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/synapse-field"}
 
 
-*Attacks made by allies in your [null field](../feature/trait/null/level-1/null-field.md) disrupt your enemies' thoughts, causing psychic pain.*
+*Attacks made by allies in your [null field](../feature/null/level-1/null-field.md) disrupt your enemies' thoughts, causing psychic pain.*
 
 | **Psionic** | **Maneuver** |
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/trait/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
+**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
 
 ## 4th-Level Features
 
 As a 4th-level [null](null.md), you gain the following features.
 
-### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.null.level-4/characteristic-increase"}
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.null.level-4/characteristic-increase"}
 
 Your Agility and Intuition scores each increase to 3.
 
-### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.trait.null.level-4/discipline-mastery-improvement"}
+### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.null.level-4/discipline-mastery-improvement"}
 
-Your [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md) feature provides additional benefits when you have 8 or more discipline.
+Your [Discipline Mastery](../feature/null/level-1/discipline-mastery.md) feature provides additional benefits when you have 8 or more discipline.
 
-### Enhanced Null Field {data-scc="mcdm.heroes.v1/feature.trait.null.level-4/enhanced-null-field"}
+### Enhanced Null Field {data-scc="mcdm.heroes.v1/feature.null.level-4/enhanced-null-field"}
 
-While using your [Null Field](../feature/trait/null/level-1/null-field.md) ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your aura partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your aura overlaps with their location, but return when the aura no longer overlaps with them.
+While using your [Null Field](../feature/null/level-1/null-field.md) ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your aura partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your aura overlaps with their location, but return when the aura no longer overlaps with them.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.null.level-4/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.null.level-4/perk"}
 
 You gain one perk of your choice.
 
-### Regenerative Field {data-scc="mcdm.heroes.v1/feature.trait.null.level-4/regenerative-field"}
+### Regenerative Field {data-scc="mcdm.heroes.v1/feature.null.level-4/regenerative-field"}
 
-The first time each combat round that an enemy in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability uses a main action, you gain 2 discipline instead of 1.
+The first time each combat round that an enemy in the area of your [Null Field](../feature/null/level-1/null-field.md) ability uses a main action, you gain 2 discipline instead of 1.
 
-### Skill {data-scc="mcdm.heroes.v1/feature.trait.null.level-4/skill"}
+### Skill {data-scc="mcdm.heroes.v1/feature.null.level-4/skill"}
 
 You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/heroes/tests.md).
 
@@ -715,31 +715,31 @@ You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/h
 
 As a 5th-level [null](null.md), you gain the following features.
 
-### 5th-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.trait.null.level-5/5th-level-tradition-feature"}
+### 5th-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.null.level-5/5th-level-tradition-feature"}
 
-Your [null tradition](../feature/trait/null/level-1/null-tradition.md) grants you a feature, as shown on the 5th-Level Tradition Features table.
+Your [null tradition](../feature/null/level-1/null-tradition.md) grants you a feature, as shown on the 5th-Level Tradition Features table.
 
 ##### 5th-Level Tradition Features Table
 
 | Tradition     | Feature            |
 |---------------|--------------------|
-| Chronokinetic | [Instant Action](../feature/trait/null/level-5/instant-action.md)     |
-| Cryokinetic   | [Chilling Readiness](../feature/trait/null/level-5/chilling-readiness.md) |
-| Metakinetic   | [Inertial Fulcrum](../feature/trait/null/level-5/inertial-fulcrum.md)   |
+| Chronokinetic | [Instant Action](../feature/null/level-5/instant-action.md)     |
+| Cryokinetic   | [Chilling Readiness](../feature/null/level-5/chilling-readiness.md) |
+| Metakinetic   | [Inertial Fulcrum](../feature/null/level-5/inertial-fulcrum.md)   |
 
-### Chilling Readiness {data-scc="mcdm.heroes.v1/feature.trait.null.level-5/chilling-readiness"}
+### Chilling Readiness {data-scc="mcdm.heroes.v1/feature.null.level-5/chilling-readiness"}
 
 You steel yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of surges equal to your Victories.
 
-### Inertial Fulcrum {data-scc="mcdm.heroes.v1/feature.trait.null.level-5/inertial-fulcrum"}
+### Inertial Fulcrum {data-scc="mcdm.heroes.v1/feature.null.level-5/inertial-fulcrum"}
 
-Whenever you use an ability to reduce damage dealt to you or to reduce the distance of [forced movement](../movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability equal to your Intuition score.
+Whenever you use an ability to reduce damage dealt to you or to reduce the distance of [forced movement](../movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your [Null Field](../feature/null/level-1/null-field.md) ability equal to your Intuition score.
 
-### Instant Action {data-scc="mcdm.heroes.v1/feature.trait.null.level-5/instant-action"}
+### Instant Action {data-scc="mcdm.heroes.v1/feature.null.level-5/instant-action"}
 
 If you're not surprised at the start of your first turn in combat, you gain an edge on ability rolls and gain 2 surges. If you are surprised, you can spend 3 discipline to no longer be surprised and gain the benefits of this feature.
 
-### 9-Discipline Ability {data-scc="mcdm.heroes.v1/feature.trait.null.level-5/9-discipline-ability"}
+### 9-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-5/9-discipline-ability"}
 
 Choose one heroic ability from the following options, each of which costs 9 discipline to use.
 
@@ -777,7 +777,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../condition/grabbed.md)
 - **17+:** 18 + A damage; A < STRONG, [grabbed](../condition/grabbed.md)
 
-**Effect:** While [grabbed](../condition/grabbed.md) this way, the target takes a bane on the [Escape Grab](../feature/trait/common/maneuvers/escape-grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+**Effect:** While [grabbed](../condition/grabbed.md) this way, the target takes a bane on the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
 
 #### Phase Leap {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/phase-leap"}
 
@@ -788,7 +788,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 |-------------|------------:|
 | **📏 Self** | **🎯 Self** |
 
-**Effect:** You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null Field](../feature/trait/null/level-1/null-field.md) ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
+**Effect:** You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null Field](../feature/null/level-1/null-field.md) ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
 
 #### Synaptic Reset {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/synaptic-reset"}
 
@@ -805,21 +805,21 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 
 As a 6th-level [null](null.md), you gain the following features.
 
-### Elemental Absorption {data-scc="mcdm.heroes.v1/feature.trait.null.level-6/elemental-absorption"}
+### Elemental Absorption {data-scc="mcdm.heroes.v1/feature.null.level-6/elemental-absorption"}
 
 Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
 
-### Elemental Buffer {data-scc="mcdm.heroes.v1/feature.trait.null.level-6/elemental-buffer"}
+### Elemental Buffer {data-scc="mcdm.heroes.v1/feature.null.level-6/elemental-buffer"}
 
 Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with damage immunity, you gain 2 surges that can be used only to increase the damage of your next strike.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.null.level-6/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.null.level-6/perk"}
 
 You gain one exploration, interpersonal, or intrigue perk of your choice.
 
-### 6th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.trait.null.level-6/6th-level-tradition-ability"}
+### 6th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.null.level-6/6th-level-tradition-ability"}
 
-Your [null tradition](../feature/trait/null/level-1/null-tradition.md) grants your choice of one of two heroic abilities.
+Your [null tradition](../feature/null/level-1/null-tradition.md) grants your choice of one of two heroic abilities.
 
 #### 6th-Level Chronokinetic Abilities
 
@@ -921,51 +921,51 @@ Choose one of the following abilities.
 
 As a 7th-level [null](null.md), you gain the following features.
 
-### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/characteristic-increase"}
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.null.level-7/characteristic-increase"}
 
 Each of your characteristic scores increases by 1, to a maximum of 4.
 
-### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/discipline-mastery-improvement"}
+### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.null.level-7/discipline-mastery-improvement"}
 
-Your [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md) feature provides additional benefits when you have 10 or more discipline.
+Your [Discipline Mastery](../feature/null/level-1/discipline-mastery.md) feature provides additional benefits when you have 10 or more discipline.
 
-### Psi Boost {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/psi-boost"}
+### Psi Boost {data-scc="mcdm.heroes.v1/feature.null.level-7/psi-boost"}
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../feature/trait/null/level-7/psi-boost.md) to it and enhance its effects. A [psi boost](../feature/trait/null/level-7/psi-boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../feature/null/level-7/psi-boost.md) to it and enhance its effects. A [psi boost](../feature/null/level-7/psi-boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
 
-#### Dynamic Power {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/dynamic-power"}
+#### Dynamic Power {data-scc="mcdm.heroes.v1/feature.null.level-7/dynamic-power"}
 
 If the ability force moves a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.
 
-#### Expanded Power {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/expanded-power"}
+#### Expanded Power {data-scc="mcdm.heroes.v1/feature.null.level-7/expanded-power"}
 
 If the ability targets an area, you increase the size of the area by 1. If the area is a line, you increase the size of one dimension, not both.
 
-#### Extended Power {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/extended-power"}
+#### Extended Power {data-scc="mcdm.heroes.v1/feature.null.level-7/extended-power"}
 
 If the ability is ranged, the distance gains a bonus equal to your Intuition score. If the ability is melee, the distance gains a +2 bonus.
 
-#### Heightened Power {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/heightened-power"}
+#### Heightened Power {data-scc="mcdm.heroes.v1/feature.null.level-7/heightened-power"}
 
 If the ability deals rolled damage, it deals extra damage equal to your Intuition score.
 
-#### Magnified Power {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/magnified-power"}
+#### Magnified Power {data-scc="mcdm.heroes.v1/feature.null.level-7/magnified-power"}
 
 If the ability has a potency, you increase that potency by an amount equal to your Intuition score.
 
-#### Shared Power {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/shared-power"}
+#### Shared Power {data-scc="mcdm.heroes.v1/feature.null.level-7/shared-power"}
 
 If the ability targets individual creatures or objects, you target one additional creature or object within distance.
 
-#### Sharpened Power {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/sharpened-power"}
+#### Sharpened Power {data-scc="mcdm.heroes.v1/feature.null.level-7/sharpened-power"}
 
 If the ability has any power roll, that roll gains an edge.
 
-### Improved Body {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/improved-body"}
+### Improved Body {data-scc="mcdm.heroes.v1/feature.null.level-7/improved-body"}
 
 When you gain discipline at the start of each of your turns during combat, you gain 3 discipline instead of 2.
 
-### Skill {data-scc="mcdm.heroes.v1/feature.trait.null.level-7/skill"}
+### Skill {data-scc="mcdm.heroes.v1/feature.null.level-7/skill"}
 
 You gain one skill of your choice.
 
@@ -973,42 +973,42 @@ You gain one skill of your choice.
 
 As an 8th-level [null](null.md), you gain the following features.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.null.level-8/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.null.level-8/perk"}
 
 You gain one perk of your choice.
 
-### 8th-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.trait.null.level-8/8th-level-tradition-feature"}
+### 8th-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.null.level-8/8th-level-tradition-feature"}
 
-Your [null tradition](../feature/trait/null/level-1/null-tradition.md) grants you a feature, as shown on the 8th-Level Tradition Features table.
+Your [null tradition](../feature/null/level-1/null-tradition.md) grants you a feature, as shown on the 8th-Level Tradition Features table.
 
 ##### 8th-Level Tradition Features Table
 
 | Tradition     | Feature           |
 |---------------|-------------------|
-| Chronokinetic | [Shared Momentum](../feature/trait/null/level-8/shared-momentum.md)   |
-| Cryokinetic   | [Synaptic Triage](../feature/trait/null/level-8/synaptic-triage.md)   |
-| Metakinetic   | [Inertial Dampener](../feature/trait/null/level-8/inertial-dampener.md) |
+| Chronokinetic | [Shared Momentum](../feature/null/level-8/shared-momentum.md)   |
+| Cryokinetic   | [Synaptic Triage](../feature/null/level-8/synaptic-triage.md)   |
+| Metakinetic   | [Inertial Dampener](../feature/null/level-8/inertial-dampener.md) |
 
-#### Inertial Dampener {data-scc="mcdm.heroes.v1/feature.trait.null.level-8/inertial-dampener"}
+#### Inertial Dampener {data-scc="mcdm.heroes.v1/feature.null.level-8/inertial-dampener"}
 
-You and each creature or object of your choice in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability gain a bonus to stability equal to your Intuition score. A creature who attempts to [force move](../movement/forced-movement.md) a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your [Null Field](../feature/null/level-1/null-field.md) ability gain a bonus to stability equal to your Intuition score. A creature who attempts to [force move](../movement/forced-movement.md) a target with this bonus takes psychic damage equal to your Intuition score.
 
-#### Shared Momentum {data-scc="mcdm.heroes.v1/feature.trait.null.level-8/shared-momentum"}
+#### Shared Momentum {data-scc="mcdm.heroes.v1/feature.null.level-8/shared-momentum"}
 
-When you take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action, one ally in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability can also take the [Disengage](../feature/trait/common/move-actions/disengage.md) move action as a free triggered action, using your distance for that move action.
+When you take the [Disengage](../feature/common/move-actions/disengage.md) move action, one ally in the area of your [Null Field](../feature/null/level-1/null-field.md) ability can also take the [Disengage](../feature/common/move-actions/disengage.md) move action as a free triggered action, using your distance for that move action.
 
-#### Synaptic Triage {data-scc="mcdm.heroes.v1/feature.trait.null.level-8/synaptic-triage"}
+#### Synaptic Triage {data-scc="mcdm.heroes.v1/feature.null.level-8/synaptic-triage"}
 
-As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability also gains this benefit.
+As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null Field](../feature/null/level-1/null-field.md) ability also gains this benefit.
 
-### 11-Discipline Ability {data-scc="mcdm.heroes.v1/feature.trait.null.level-8/11-discipline-ability"}
+### 11-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-8/11-discipline-ability"}
 
 Choose one heroic ability from the following options, each of which costs 11 discipline to use.
 
 #### Arcane Purge {data-scc="mcdm.heroes.v1/feature.ability.null.level-8/arcane-purge"}
 
 
-*You focus your [null field](../feature/trait/null/level-1/null-field.md) into a pressure point strike that prevents your foe from channeling sorcery.*
+*You focus your [null field](../feature/null/level-1/null-field.md) into a pressure point strike that prevents your foe from channeling sorcery.*
 
 | **Melee, Psionic, Strike, Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
@@ -1063,7 +1063,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 |------------------------|-----------------------------:|
 | **📏 Self; see below** |  **🎯 Self or one creature** |
 
-**Trigger:** The target takes damage from another creature's ability while in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability.
+**Trigger:** The target takes damage from another creature's ability while in the area of your [Null Field](../feature/null/level-1/null-field.md) ability.
 
 **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../condition/dazed.md) (save ends). While the triggering creature is [dazed](../condition/dazed.md) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
 
@@ -1071,13 +1071,13 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 
 As a 9th-level [null](null.md), you gain the following features.
 
-### I Am the Weapon {data-scc="mcdm.heroes.v1/feature.trait.null.level-9/i-am-the-weapon"}
+### I Am the Weapon {data-scc="mcdm.heroes.v1/feature.null.level-9/i-am-the-weapon"}
 
 Your Stamina increases by 21 and you can't be made [bleeding](../condition/bleeding.md) even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
 
-### 9th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.trait.null.level-9/9th-level-tradition-ability"}
+### 9th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.null.level-9/9th-level-tradition-ability"}
 
-Your [null tradition](../feature/trait/null/level-1/null-tradition.md) grants your choice of one of two heroic abilities.
+Your [null tradition](../feature/null/level-1/null-tradition.md) grants your choice of one of two heroic abilities.
 
 #### 9th-Level Chronokinetic Abilities
 
@@ -1134,7 +1134,7 @@ Choose one of the following abilities.
 - **12-16:** You gain 30 temporary Stamina.
 - **17+:** You gain 40 temporary Stamina.
 
-**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](../feature/trait/null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
+**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](../feature/null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
 
 ##### Heat Drain {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/heat-drain"}
 
@@ -1191,36 +1191,36 @@ Choose one of the following abilities.
 
 As a 10th-level [null](null.md), you gain the following features.
 
-### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.trait.null.level-10/characteristic-increase"}
+### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.null.level-10/characteristic-increase"}
 
 Your Agility and Intuition scores each increase to 5.
 
-### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.trait.null.level-10/discipline-mastery-improvement"}
+### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.null.level-10/discipline-mastery-improvement"}
 
-Your [Discipline Mastery](../feature/trait/null/level-1/discipline-mastery.md) feature provides additional benefits when you have 12 or more discipline.
+Your [Discipline Mastery](../feature/null/level-1/discipline-mastery.md) feature provides additional benefits when you have 12 or more discipline.
 
-### Manifold Body {data-scc="mcdm.heroes.v1/feature.trait.null.level-10/manifold-body"}
+### Manifold Body {data-scc="mcdm.heroes.v1/feature.null.level-10/manifold-body"}
 
 When you gain discipline at the start of each of your turns during combat, you gain 4 discipline instead of 3.
 
-### Manifold Resonance {data-scc="mcdm.heroes.v1/feature.trait.null.level-10/manifold-resonance"}
+### Manifold Resonance {data-scc="mcdm.heroes.v1/feature.null.level-10/manifold-resonance"}
 
-Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can [shift](../movement/shifting.md) yourself and any creatures in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
+Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can [shift](../movement/shifting.md) yourself and any creatures in the area of your [Null Field](../feature/null/level-1/null-field.md) ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
 
-Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../feature/trait/null/level-7/psi-boost.md) feature to that ability. Additionally, you and allies in the area of your [Null Field](../feature/trait/null/level-1/null-field.md) ability ignore banes and double banes on your power rolls.
+Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../feature/null/level-7/psi-boost.md) feature to that ability. Additionally, you and allies in the area of your [Null Field](../feature/null/level-1/null-field.md) ability ignore banes and double banes on your power rolls.
 
-### Order {data-scc="mcdm.heroes.v1/feature.trait.null.level-10/order"}
+### Order {data-scc="mcdm.heroes.v1/feature.null.level-10/order"}
 
 You have an epic resource called order. Each time you finish a respite, you gain order equal to the XP you gain. You can spend order on your abilities as if it were discipline.
 
-At the start of a combat encounter, you can spend 1 order to increase the size of your [Null Field](../feature/trait/null/level-1/null-field.md) by 1 until the end of the encounter.
+At the start of a combat encounter, you can spend 1 order to increase the size of your [Null Field](../feature/null/level-1/null-field.md) by 1 until the end of the encounter.
 
 Order remains until you spend it.
 
-### Perk {data-scc="mcdm.heroes.v1/feature.trait.null.level-10/perk"}
+### Perk {data-scc="mcdm.heroes.v1/feature.null.level-10/perk"}
 
 You gain one exploration, interpersonal, or intrigue perk of your choice.
 
-### Skill {data-scc="mcdm.heroes.v1/feature.trait.null.level-10/skill"}
+### Skill {data-scc="mcdm.heroes.v1/feature.null.level-10/skill"}
 
 You gain one skill of your choice.

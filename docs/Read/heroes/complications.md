@@ -215,7 +215,7 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../../Browse/feature/trait/common/maneuvers/escape-grab.md), Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../../Browse/movement/burrow.md) or [fly](../../Browse/movement/fly.md), or to automatically climb or swim at full speed while moving. If your [animal form](../../Browse/complication/animal-form.md) doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md), Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../../Browse/movement/burrow.md) or [fly](../../Browse/movement/fly.md), or to automatically climb or swim at full speed while moving. If your [animal form](../../Browse/complication/animal-form.md) doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
@@ -257,7 +257,7 @@ Your parents made a deal, and as part of that deal, you're supposed to marry som
 
 You came into contact with a mote of pure chaos energy, or were subjected to a supernatural effect or object that fused chaos into your very being. Now you can sprout and retract your limbs in a way that horrifies unprepared onlookers.
 
-**Benefit:** You gain an edge on the [Escape Grab](../../Browse/feature/trait/common/maneuvers/escape-grab.md), [Grab](../../Browse/feature/trait/common/maneuvers/grab.md), and [Knockback](../../Browse/feature/trait/common/maneuvers/knockback.md) maneuvers. Additionally, you can hold an additional item even when your hands are full.
+**Benefit:** You gain an edge on the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md), [Grab](../../Browse/feature/common/maneuvers/grab.md), and [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuvers. Additionally, you can hold an additional item even when your hands are full.
 
 **Drawback:** While dying, you grow and retract uncoordinated limbs at random, imposing a bane on your power rolls.
 
@@ -498,9 +498,9 @@ You were once a renowned hero, but you've been living the last few years in blis
 
 As a child, you survived a gnoll attack. But that attack left you with a jagged scar and the occasional fit of bloodlust.
 
-**Benefit:** Whenever an ally within 5 squares is reduced to 0 Stamina, you can use a triggered action to move up to your speed and make a [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md).
+**Benefit:** Whenever an ally within 5 squares is reduced to 0 Stamina, you can use a triggered action to move up to your speed and make a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
-**Drawback:** While you are [dazed](../../Browse/condition/dazed.md), if you start your turn adjacent to one or more creatures, you must use your main action to make a melee [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) against an adjacent creature.
+**Drawback:** While you are [dazed](../../Browse/condition/dazed.md), if you start your turn adjacent to one or more creatures, you must use your main action to make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against an adjacent creature.
 
 **Special:** You can't take this complication if you can't be made [dazed](../../Browse/condition/dazed.md).
 
@@ -524,7 +524,7 @@ You used to be a con artist, but those days are pretty much behind you. Being a 
 
 Once when you were a child, your settlement was in danger and you called out to the earth for aid. That call was answered by a summoning of protective dirt-and-stone walls, and ever since then, you've felt the earth's presence as a friend and protector.
 
-**Benefit:** You have the 1st-level [Elementalist Specialization](../../Browse/feature/trait/elementalist/level-1/elemental-specialization.md) feature [Motivate Earth](../../Browse/feature/ability/elementalist/level-1/motivate-earth.md) (see Chapter 5: [Classes](classes.md)). If you also gain this feature in any other way, the [Motivate Earth](../../Browse/feature/ability/elementalist/level-1/motivate-earth.md) ability becomes a ranged ability for you with a distance of ranged 5.
+**Benefit:** You have the 1st-level [Elementalist Specialization](../../Browse/feature/elementalist/level-1/elemental-specialization.md) feature [Motivate Earth](../../Browse/feature/ability/elementalist/level-1/motivate-earth.md) (see Chapter 5: [Classes](classes.md)). If you also gain this feature in any other way, the [Motivate Earth](../../Browse/feature/ability/elementalist/level-1/motivate-earth.md) ability becomes a ranged ability for you with a distance of ranged 5.
 
 **Drawback:** You attract lightning. Whenever any creature within 2 squares of you takes lightning damage, you take 5 lightning damage that can't be reduced in any way.
 
@@ -848,7 +848,7 @@ Whatever your accomplishments, you'll forever measure yourself against a former 
 
 You are the only survivor of a cataclysmic psionic event—an experiment gone wrong, a voiceless talker attack, or some naturally occurring phenomenon of a far-off part of the timescape. It left you with a psionic [talent](../../Browse/class/talent.md), but also made you vulnerable to telepathic attacks.
 
-**Benefit:** You have the following ability, which you can use as a ranged [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md).
+**Benefit:** You have the following ability, which you can use as a ranged [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 ##### Telekinetic Grasp
 
@@ -965,9 +965,9 @@ Maybe you were bitten as a child, or maybe it's a family curse. Either way, you 
 
 **Benefit:** Whenever you make a non-minion creature winded or kill a non-minion creature, you gain 1 surge.
 
-**Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) against the nearest creature if you can. You can [shift](../../Browse/movement/shifting.md) up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
+**Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the nearest creature if you can. You can [shift](../../Browse/movement/shifting.md) up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
 
-**Special:** You can't take this complication if you are a [fury](../../Browse/class/fury.md) with the stormwight [primordial aspect](../../Browse/feature/trait/fury/level-1/primordial-aspect.md).
+**Special:** You can't take this complication if you are a [fury](../../Browse/class/fury.md) with the stormwight [primordial aspect](../../Browse/feature/fury/level-1/primordial-aspect.md).
 
 #### Stolen Face {data-scc="mcdm.heroes.v1/complication/stolen-face"}
 
@@ -1018,7 +1018,7 @@ You live for danger. Whether in battle or [mundane](../../Browse/complication/mu
 
 A vampire has bitten you. You're not undead—or not yet, anyway—but your connection with your vampire progenitor fills you with urges you fight to control.
 
-**Benefit:** Whenever you make a melee [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) against an adjacent creature, you can do so by biting that creature. If you obtain a tier 3 outcome on the [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md), you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
+**Benefit:** Whenever you make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against an adjacent creature, you can do so by biting that creature. If you obtain a tier 3 outcome on the [free strike](../../Browse/feature/common/main-actions/free-strike.md), you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
 
 **Drawback:** While you have temporary Stamina from this complication, you grow visible fangs, you take a bane on Presence tests made to interact with humanoids, and your vampire progenitor can sense your location.
 

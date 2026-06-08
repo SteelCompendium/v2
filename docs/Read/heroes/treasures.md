@@ -119,7 +119,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a shadow)
 
-**Effect:** As a maneuver, you make a ranged [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged [free strike](../../Browse/feature/common/main-actions/free-strike.md) using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
 
 - **≤11:** You can [teleport](../../Browse/movement/teleport.md) the target up to 2 squares.
 - **12-16:** You can [teleport](../../Browse/movement/teleport.md) the target up to 4 squares.
@@ -385,7 +385,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the [Charge](../../Browse/feature/trait/common/main-actions/charge.md) main action, the target of your strike is gored upon your horns and [grabbed](../../Browse/condition/grabbed.md). While [grabbed](../../Browse/condition/grabbed.md) this way, the creature is [bleeding](../../Browse/condition/bleeding.md). You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
+**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action, the target of your strike is gored upon your horns and [grabbed](../../Browse/condition/grabbed.md). While [grabbed](../../Browse/condition/grabbed.md) this way, the creature is [bleeding](../../Browse/condition/bleeding.md). You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
 
 #### Chocolate of Immovability {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.consumable/chocolate-of-immovability"}
 
@@ -417,7 +417,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double edge on tests made to hide and sneak, and you can use the [Hide](../../Browse/feature/trait/common/maneuvers/hide.md) maneuver even while you are observed.
+**Effect:** When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double edge on tests made to hide and sneak, and you can use the [Hide](../../Browse/feature/common/maneuvers/hide.md) maneuver even while you are observed.
 
 #### Float Powder {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.consumable/float-powder"}
 
@@ -607,7 +607,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** As a maneuver, you make a ranged [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) using the Timesplitter, which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged [free strike](../../Browse/feature/common/main-actions/free-strike.md) using the Timesplitter, which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
 
 - **≤11:** The target and each creature within 3 squares of them a [slowed](../../Browse/condition/slowed.md) (save ends).
 - **12-16:** The target and each creature within 5 squares of them is [slowed](../../Browse/condition/slowed.md) (save ends).
@@ -795,7 +795,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) as a free maneuver once during the fall before you hit the ground.
+**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) as a free maneuver once during the fall before you hit the ground.
 
 #### Displacing Replacement Bracer {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/displacing-replacement-bracer"}
 
@@ -827,7 +827,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../../Browse/feature/trait/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../../Browse/condition/grabbed.md), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a strike, the target escapes your grab, or you call upon the vine to release the target (no action required).
+**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../../Browse/condition/grabbed.md), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a strike, the target escapes your grab, or you call upon the vine to release the target (no action required).
 
 #### Flameshade Gloves {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/flameshade-gloves"}
 
@@ -861,7 +861,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are [force moved](../../Browse/movement/forced-movement.md), and any creature [grabbed](../../Browse/condition/grabbed.md) by you takes a bane on the test for the [Escape Grab](../../Browse/feature/trait/common/maneuvers/escape-grab.md) maneuver.
+**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are [force moved](../../Browse/movement/forced-movement.md), and any creature [grabbed](../../Browse/condition/grabbed.md) by you takes a bane on the test for the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver.
 
 #### Hellcharger Helm {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/hellcharger-helm"}
 
@@ -877,7 +877,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** Whenever you use the [Charge](../../Browse/feature/trait/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../../Browse/feature/trait/common/maneuvers/knockback.md) maneuver as a free maneuver, regardless of the target creature's size.
+**Effect:** Whenever you use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver as a free maneuver, regardless of the target creature's size.
 
 #### Mask of the Many {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/mask-of-the-many"}
 
@@ -1146,7 +1146,7 @@ Additionally, you have the following ability.
 
 **Project Goal:** 450
 
-**Effect:** You must be a [null](../../Browse/class/null.md) to wear this ring. While you do so, the area of your [Null Field](../../Browse/feature/trait/null/level-1/null-field.md) ability increases by 1.
+**Effect:** You must be a [null](../../Browse/class/null.md) to wear this ring. While you do so, the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability increases by 1.
 
 Additionally, you have the following ability.
 
@@ -1369,7 +1369,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **5th Level:** The armor's bonus to Stamina increases to +12, and when you return to your true form, you are [dazed](../../Browse/condition/dazed.md) only until the end of your next turn. Additionally, while you are paper thin, you can use a maneuver to wrap yourself around an adjacent target who is the same size or smaller than you, automatically grabbing them.
 
-**9th Level:** The armor's bonus to Stamina increases to +21, and you are no longer [dazed](../../Browse/condition/dazed.md) when you return to your true form. Additionally, while you have a target [grabbed](../../Browse/condition/grabbed.md) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a bane when using the [Escape Grab](../../Browse/feature/trait/common/maneuvers/escape-grab.md) maneuver against you and when making strikes against you.
+**9th Level:** The armor's bonus to Stamina increases to +21, and you are no longer [dazed](../../Browse/condition/dazed.md) when you return to your true form. Additionally, while you have a target [grabbed](../../Browse/condition/grabbed.md) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a bane when using the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver against you and when making strikes against you.
 
 #### Shrouded Memory {data-scc="mcdm.heroes.v1/treasure.leveled.armor/shrouded-memory"}
 
@@ -1445,9 +1445,9 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the [Grab](../../Browse/feature/trait/common/maneuvers/grab.md) maneuver against that enemy. You can have any number of enemies [grabbed](../../Browse/condition/grabbed.md) in this way.
+**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver against that enemy. You can have any number of enemies [grabbed](../../Browse/condition/grabbed.md) in this way.
 
-**5th Level:** The shield's bonus to Stamina increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../../Browse/feature/trait/common/maneuvers/escape-grab.md) maneuver while [grabbed](../../Browse/condition/grabbed.md) this way takes a bane on the test.
+**5th Level:** The shield's bonus to Stamina increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver while [grabbed](../../Browse/condition/grabbed.md) this way takes a bane on the test.
 
 **9th Level:** The shield's bonus to Stamina increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](../../Browse/condition/grabbed.md) up to 5 squares.
 
@@ -1735,7 +1735,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can [shift](../../Browse/movement/shifting.md) to any square adjacent to the target after the push.
 
-**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the [Charge](../../Browse/feature/trait/common/main-actions/charge.md) main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to [shift](../../Browse/movement/shifting.md), you can [fly](../../Browse/movement/fly.md) as part of the charge movement or the [shift](../../Browse/movement/shifting.md). If you don't end your [flying](../../Browse/movement/fly.md) movement on the ground, you fall.
+**5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to [shift](../../Browse/movement/shifting.md), you can [fly](../../Browse/movement/fly.md) as part of the charge movement or the [shift](../../Browse/movement/shifting.md). If you don't end your [flying](../../Browse/movement/fly.md) movement on the ground, you fall.
 
 **9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to push or slide a target, that [forced movement](../../Browse/movement/forced-movement.md) can be vertical.
 
@@ -1753,11 +1753,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically grab the target. A target [grabbed](../../Browse/condition/grabbed.md) in this way takes a bane when using the [Escape Grab](../../Browse/feature/trait/common/maneuvers/escape-grab.md) maneuver.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically grab the target. A target [grabbed](../../Browse/condition/grabbed.md) in this way takes a bane when using the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver.
 
-**5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](../../Browse/condition/grabbed.md) by a strike using the net takes 8 fire damage each time they attempt to escape using the [Escape Grab](../../Browse/feature/trait/common/maneuvers/escape-grab.md) maneuver.
+**5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](../../Browse/condition/grabbed.md) by a strike using the net takes 8 fire damage each time they attempt to escape using the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver.
 
-**9th Level:** The weapon's extra fire damage increases to 3, and the damage taken by a [grabbed](../../Browse/condition/grabbed.md) creature attempting to escape increases to 15. Additionally, you can use a maneuver to make a [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) with another weapon against a target [grabbed](../../Browse/condition/grabbed.md) using the net.
+**9th Level:** The weapon's extra fire damage increases to 3, and the damage taken by a [grabbed](../../Browse/condition/grabbed.md) creature attempting to escape increases to 15. Additionally, you can use a maneuver to make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) with another weapon against a target [grabbed](../../Browse/condition/grabbed.md) using the net.
 
 #### Onerous Bow {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/onerous-bow"}
 
@@ -1851,11 +1851,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, if you reduce a creature to 0 Stamina using this weapon, you can immediately use a maneuver to make a melee [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md).
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, if you reduce a creature to 0 Stamina using this weapon, you can immediately use a maneuver to make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
-**5th Level:** The weapon's extra psychic damage increases to 2. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to make a melee [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) and can move up to 2 squares before or after the strike.
+**5th Level:** The weapon's extra psychic damage increases to 2. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) and can move up to 2 squares before or after the strike.
 
-**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to move up to your speed and make either a signature ability strike or a melee [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md).
+**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to move up to your speed and make either a signature ability strike or a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 ### Other Leveled Treasures
 
@@ -1895,11 +1895,11 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Goal:** 450
 
-**1st Level:** While you wear these hand wraps, any weapon ability that deals rolled damage using your unarmed strikes gains a +1 damage bonus. Additionally, once per turn, you can take 5 damage that can't be reduced in any way to use the [Grab](../../Browse/feature/trait/common/maneuvers/grab.md) maneuver (no action required).
+**1st Level:** While you wear these hand wraps, any weapon ability that deals rolled damage using your unarmed strikes gains a +1 damage bonus. Additionally, once per turn, you can take 5 damage that can't be reduced in any way to use the [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver (no action required).
 
-**5th Level:** The damage bonus granted by the hand wraps increases to +2. Additionally, once per turn, you can take 10 damage that can't be reduced in any way to make a melee [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) (no action required). On your turn, you can use the wraps' melee [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) option or [Grab](../../Browse/feature/trait/common/maneuvers/grab.md) maneuver option, but only one.
+**5th Level:** The damage bonus granted by the hand wraps increases to +2. Additionally, once per turn, you can take 10 damage that can't be reduced in any way to make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) (no action required). On your turn, you can use the wraps' melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) option or [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver option, but only one.
 
-**9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a signature ability (no action required). On your turn, you can use the wraps' signature ability option, melee [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) option, or [Grab](../../Browse/feature/trait/common/maneuvers/grab.md) maneuver option, but only one.
+**9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a signature ability (no action required). On your turn, you can use the wraps' signature ability option, melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) option, or [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver option, but only one.
 
 #### Lightning Treads {data-scc="mcdm.heroes.v1/treasure.leveled.other/lightning-treads"}
 
