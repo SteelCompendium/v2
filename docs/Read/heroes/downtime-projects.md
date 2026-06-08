@@ -23,11 +23,11 @@ You track project progress on your character sheet. As you work on a downtime pr
 
 All downtime projects have prerequisites you must meet before you can undertake them.
 
-#### Item Prerequisite
+#### Item Prerequisite {data-scc="mcdm.heroes.v1/rule.downtime/item-prerequisite"}
 
 Many downtime projects have one or more special items you must possess or obtain before you can start the project. For instance, you can't build an airship without first finding a Wind Crystal of Quintessence, a rare and key component in that vehicle's construction. Other projects have a prerequisite that involves undertaking certain activities during the project process.
 
-#### Project Source
+#### Project Source {data-scc="mcdm.heroes.v1/rule.downtime/project-source"}
 
 To start a downtime project, you must have access to specific lore detailing how the project is to be undertaken. This can take the form of written information (a book, scroll, schematic, and so forth), an expert tutor with wisdom to share, a master artisan with skills to teach, a supernatural manifestation of the project's scope and secrets, or any other form of the Director's determination. This project-focused lore is referred to as a project source. Not only do you need project sources to start a downtime project, but you must have access to those sources whenever you make a project roll for that particular project (see Project Roll below).
 
@@ -41,7 +41,7 @@ Whenever the Director determines that a creature with needed knowledge can be us
 
 If you need a project source for a particular project, ask your Director if the source is common enough that it might be found in a substantial library, among a group of sages or guild artisans, and so forth. If the Director says yes, then the next time you take a respite in a place with a library or access to creatures with the knowledge you seek, you can locate the project source you need as a respite activity.
 
-### Project Roll
+### Project Roll {data-scc="mcdm.heroes.v1/rule.downtime/project-roll"}
 
 As a respite activity (see Respite in Chapter 1: [The Basics](the-basics.md)), you make a project roll for one of your own projects. Alternatively, you can make a project roll to contribute to another hero's project. A project roll is a test with a special outcome that isn't divided into tiers. The characteristic used in the test is determined by the project.
 
@@ -63,7 +63,7 @@ You can apply skills from either the crafting or lore skill groups to project ro
 
 If you know the language of a project source, you can make a project roll without any issues. If you don't know the language of the source but you know a related language, the project roll takes a bane. If you don't know the source's language or a related language, the project roll has a double bane.
 
-#### Guides
+#### Guides {data-scc="mcdm.heroes.v1/rule.downtime/guide"}
 
 Heroes sometimes find guides—special books, schematics, knowledgeable NPCs, supernatural recordings, and so forth—providing important and easy-to-understand information relating to a downtime project. Each guide has a knowledge value and a connection to a specific project that greatly decreases the time required to complete the project. When a hero studies a guide as a respite activity, they gain the guide's knowledge value as project points toward its project. The guide can't be used with that specific instance of the project again, though it can be used for a different project of the same type.
 
@@ -71,7 +71,7 @@ Guides are awarded at the Director's discretion, usually as a tool that can be u
 
 A guide must provide its information in a language you understand for you to gain its full benefit. If a guide uses a language related to one you know, you gain only half the guide's knowledge value (rounded down) as project points toward your project.
 
-#### For the Director: Project Events
+#### For the Director: Project Events {data-scc="mcdm.heroes.v1/rule.downtime/project-event"}
 
 Project events are story events that present boons and challenges to heroes as they complete research and crafting projects. These events are entirely optional. If your group prefers a game where the heroes simply work toward their goals by making project rolls, that's fine. But using these events can help a Director inject more drama into the processes of research and crafting.
 
@@ -110,7 +110,7 @@ A project event occurs when a hero makes a project roll. You can roll for or cho
 
 If an event grants an automatic breakthrough on a downtime project, the project gains 20 project points and the hero can make another project roll for the same project as part of the same respite activity.
 
-### Crafting Projects
+### Crafting Projects {data-scc="mcdm.heroes.v1/rule.downtime/crafting-project"}
 
 Crafting projects enable heroes to create vehicles, supernatural treasures, and more. When you start a crafting project, other creatures can also work on the project, using their respite activity to contribute a project roll in order to get the work done faster.
 
@@ -219,7 +219,7 @@ Enhancements are broken out by item type (armor, implement, or weapon) and level
 
 Imbuing treasure with supernatural power as a downtime project typically means you undertake that project to make use of the treasure yourself. As such, all the features of imbuing refer to "you" as the user of the item. However, imbued items can be created for other creatures, or created by other creatures and found as treasure.
 
-##### Imbue Armor
+##### Imbue Armor {data-scc="mcdm.heroes.v1/rule.treasure/enhancement"}
 
 Armor imbued with an enhancement grants you special benefits while it is worn. Additionally, when your armor receives its 1st-level enhancement, it also grants a +6 bonus to Stamina. A 5th-level enhancement increases the Stamina bonus to +12, and a 9th-level enhancement increases it to +21.
 
@@ -389,7 +389,7 @@ On your turn, you can [teleport](../../Browse/movement/teleport.md) to the impri
 | Temporal Flux          | An experimental temporal capacitor invented by the kuran'zoi                                         | Voll                    |
 | Unbending              | A spearhead or other weapon broken off in the body of a stone giant, and ossified for a year or more | High Kuric              |
 
-##### Imbue Implement
+##### Imbue Implement {data-scc="mcdm.heroes.v1/rule.treasure/implement"}
 
 Implements are jewelry, spectacles, orbs, staffs, tomes, wands, weapons, and other objects used by those who channel magic and psionic power to focus that power. You decide what object to imbue when you create an implement treasure, but it must be an object you can carry or wear. You must have a mundane version of the item you plan to imbue when you start this project.
 
@@ -687,7 +687,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 | Vengeance III  | The true name of a [devil](../../Browse/ancestry/devil.md) who hunts other [devils](../../Browse/ancestry/devil.md)                                                                                       | Kalliak                 |
 | Windcutting    | A feather from a bird, once thought extinct, who dwells at the eye of an ever-whirling tornado                                        | Yllyric                 |
 
-### Research Projects
+### Research Projects {data-scc="mcdm.heroes.v1/rule.downtime/research-project"}
 
 Heroes can undertake many different types of research downtime projects, which can involve seeking out new lore, improving existing knowledge with study, uncovering rumors or secrets, and more.
 

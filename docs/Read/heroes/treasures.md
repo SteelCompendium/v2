@@ -75,7 +75,7 @@ The Magic and Psionic keywords for treasures refer to how those treasures are cr
 
 If two treasures give a creature a bonus to their Stamina or a bonus to the rolled damage of their abilities, only the higher bonus applies unless the treasure's description notes otherwise. Stamina bonuses and damage bonuses from consumables ignore this rule, and can be stacked with other Stamina bonuses and damage bonuses granted by treasures.
 
-## Consumables
+## Consumables {data-scc="mcdm.heroes.v1/rule.treasure/consumable"}
 
 Consumables are treasures that can be used a limited number of times before they expire, losing whatever makes them supernatural. You can drink a potion once, and when you do so, that's it. It's consumed. Other consumables might have a specific number of charges that can be spent. Once those charges are gone, the treasure is useless.
 
@@ -717,7 +717,7 @@ Infinite Library detailing incomplete instructions for building a sun
 
 **Effect:** When opened as a maneuver, this vial bursts into a storm of multicolored lights. You and each ally within 5 squares of you regain 1d6 Recoveries. However, any mortal using this treasure draws the interest of a powerful fey noble.
 
-## Trinkets
+## Trinkets {data-scc="mcdm.heroes.v1/rule.treasure/trinket"}
 
 Trinkets are treasures that can be used at will without a reduction in their potency. They generally provide a small benefit, such as allowing you to see farther or become a bit better at picking locks.
 
@@ -1225,7 +1225,7 @@ A trapped spirit remains in the lantern for 10 minutes. They remember being trap
 
 **Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a melee weapon free strike that deals an extra 3 psychic damage.
 
-## Leveled Treasures
+## Leveled Treasures {data-scc="mcdm.heroes.v1/rule.treasure/leveled-treasure"}
 
 Like trinkets, leveled treasures can be used at will without a reduction in potency. However, leveled treasures tap into their wielder's will in a way that trinkets don't, becoming more powerful and increasing their capabilities as you gain new levels.
 

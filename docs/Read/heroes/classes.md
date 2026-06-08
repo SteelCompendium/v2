@@ -33,7 +33,7 @@ Your class provides you with many of your features, most of your abilities—you
 
 **[Troubadour](../../Browse/class/troubadour.md):** A [troubadour](../../Browse/class/troubadour.md) inspires their allies with storytelling and swordplay that is as much an art as it is an act of war. Their quips, songs, poems, and epic tales produce actual magic that harms foes and bolsters allies. They can even use their magic to tweak the campaign's story in real time to better suit their needs.
 
-### Subclasses
+### Subclasses {data-scc="mcdm.heroes.v1/rule.general/subclass"}
 
 Each class also has a number of subclasses presented in this book. Your subclass determines many of your hero's abilities and features, and further defines how you interact with the world from 1st level on. You choose a subclass when you create your character.
 
@@ -69,17 +69,17 @@ The nine Heroic Resources in the game are:
 - The [talent's](../../Browse/class/talent.md) [clarity](../../Browse/feature/trait/talent/level-1/clarity-and-strain.md)
 - The [troubadour's](../../Browse/class/troubadour.md) [drama](../../Browse/feature/trait/troubadour/level-1/drama.md)
 
-##### Heroic Abilities
+##### Heroic Abilities {data-scc="mcdm.heroes.v1/rule.general/heroic-ability"}
 
 If an ability has a Heroic Resource cost to activate—as in, you can't use the ability at all without spending some of your Heroic Resource—then it is a heroic ability. If an effect allows you to use a heroic ability when it isn't your turn, you must still pay its Heroic Resource cost to use it unless the effect says otherwise.
 
 Some abilities don't cost your Heroic Resource to use but allow you to spend your Heroic Resource to enhance or add effects to the ability, such as the [conduit's](../../Browse/class/conduit.md) [Healing Grace](../../Browse/feature/ability/conduit/level-1/healing-grace.md). These abilities are not heroic abilities unless the baseline ability can't be used without spending your Heroic Resource.
 
-##### Signature Abilities
+##### Signature Abilities {data-scc="mcdm.heroes.v1/rule.combat/signature-ability"}
 
 Some abilities granted by your class, kit, and other parts of the game are signature abilities. The rules specifically state when an ability is a signature ability. Signature abilities don't require your Heroic Resource to use, but sometimes let you spend your Heroic Resource to enhance or add to their effects.
 
-#### Ability Keywords
+#### Ability Keywords {data-scc="mcdm.heroes.v1/rule.general/ability"}
 
 Each ability has one or more keywords that explain how the ability functions. Keywords appear in the first line of the ability beneath the flavor text, on the left side, and can include any of the following entries. (An ability that has no keywords is noted as "-".)
 
@@ -95,7 +95,7 @@ Abilities with the Charge keyword can be used with the [Charge](../../Browse/fea
 
 Abilities with the Magic keyword are used by characters who can cast spells, have innate magical features, or wield magic treasures. Such abilities do magical things such as create rays of fire, open swirling portals, or summon creatures.
 
-##### Melee
+##### Melee {data-scc="mcdm.heroes.v1/rule.combat/melee"}
 
 Abilities with the Melee keyword can be used only over very short distances, typically within a character's reach, because they require a character to make contact with a creature or object with their body, a weapon, or an implement. (An implement is a special object used by characters channeling magic or psionic power, described in Imbue Treasure in Chapter 12: [Downtime Projects](downtime-projects.md).)
 
@@ -103,11 +103,11 @@ Abilities with the Melee keyword can be used only over very short distances, typ
 
 Abilities with the Psionic keyword are used by characters who can manifest psionic powers, have innate psionic features, or wield psionic items. These abilities might create blasts of psychic energy, move objects with telekinesis, or slow down time with chronopathy.
 
-##### Ranged
+##### Ranged {data-scc="mcdm.heroes.v1/rule.combat/ranged"}
 
 Abilities with the Ranged keyword can be used to affect creatures who are too far away to make contact with.
 
-##### Strike
+##### Strike {data-scc="mcdm.heroes.v1/rule.combat/strike"}
 
 Abilities with the Strike keyword (often referred to simply as "strikes") deal damage to or impose a harmful effect on specific creatures or objects.
 
@@ -129,7 +129,7 @@ Each ability notes the type of activity required to use it, on the right side of
 
 If an ability requires a triggered action or a free triggered action to use, a "Trigger" entry is part of the ability. For example, the trigger for the [tactician's](../../Browse/class/tactician.md) Parry ability is: "A creature deals damage to the target." A [tactician](../../Browse/class/tactician.md) can use their Parry ability only when that specific triggering event occurs.
 
-#### Distance
+#### Distance {data-scc="mcdm.heroes.v1/rule.combat/distance"}
 
 An ability's "Distance" entry, represented by this symbol 📏, indicates how close you need to be to a creature or object to affect that target with the ability.
 
@@ -153,7 +153,7 @@ An ability never has both the Melee and Ranged keywords at the same time. For ex
 
 If an ability has a distance of "Self," that ability originates from you, and often affects only you. The ability's description specifies how it works.
 
-#### Area Abilities
+#### Area Abilities {data-scc="mcdm.heroes.v1/rule.combat/area-of-effect"}
 
 Area abilities cover a number of squares on the battlefield at once, creating an effect within that area that lets you target multiple creatures or objects. When an ability creates an area of effect, it sometimes notes a distance for the effect in the form "within X." The number X tells you how many squares away from you the area can be. If an area ability doesn't have this distance, it originates from you and you are at the center of the area.
 
@@ -163,23 +163,23 @@ You can place an area of effect to include one or more squares where you don't h
 
 An area ability might use any of the following areas of effect.
 
-##### Aura
+##### Aura {data-scc="mcdm.heroes.v1/rule.combat/aura"}
 
 When an ability creates an aura, that area is expressed as "X aura." The number X is the radius of the aura, which always originates from you and moves with you for the duration of the ability that created it. A creature or object must be within X squares of you to be targeted by an aura ability.
 
-##### Burst
+##### Burst {data-scc="mcdm.heroes.v1/rule.combat/burst"}
 
 When an ability creates a burst area, that area is expressed as "X burst." The number X is the radius of the burst, which always originates from you and lasts only for as long as it takes to affect its targets. A creature or object must be within X squares of you to be targeted by a burst ability.
 
-##### Cube
+##### Cube {data-scc="mcdm.heroes.v1/rule.combat/cube"}
 
 When an ability affects a cubic area, that area is expressed as "X cube." The number X is the length of each of the area's sides. A creature or object must be within the area to be targeted by a cube ability.
 
-##### Line
+##### Line {data-scc="mcdm.heroes.v1/rule.combat/line"}
 
 When an ability affects a linear area, that area is expressed as "A x B line." The number A denotes the line's length in squares, while the number B equals the line's width and height in squares. When you create a line area of effect, the squares in that area must be in a straight line. A creature or object must be within the area to be targeted by a line ability.
 
-##### Wall
+##### Wall {data-scc="mcdm.heroes.v1/rule.combat/wall"}
 
 When an ability creates a wall, that area is expressed as "X wall." The number X is how many squares are used to make the wall. When you place a wall, you can build it one square at a time, but each square must share at least one side (not just a corner) with another square of the wall. A creature or object must be within the area to be targeted by a wall ability.
 
@@ -191,7 +191,7 @@ You can stack squares on top of each other to make the wall higher. Unless other
 >
 > Likewise, abilities and effects that require a creature to move in a straight line, such as the [Charge](../../Browse/feature/trait/common/main-actions/charge.md) main action or [forced movement](../../Browse/movement/forced-movement.md) that is a push or a pull, don't have to take the form of a straight series of squares on the grid. Simply move the creature one square at a time in a single direction without ever bending back in a direction opposite to where they've already moved.
 
-#### Target
+#### Target {data-scc="mcdm.heroes.v1/rule.combat/target"}
 
 The "Target" entry of an ability, represented by this symbol 🎯, notes the number of creatures, objects, or both who can be targeted by that ability. You can always affect fewer targets than the number indicated by this entry.
 
@@ -205,11 +205,11 @@ If an ability targets one or more objects, it can affect any object within the a
 
 When an ability can target creatures and objects, the ability can damage objects. However, unless otherwise noted (as with the [talent's](../../Browse/class/talent.md) [Minor Telekinesis](../../Browse/feature/ability/talent/level-1/minor-telekinesis.md) ability) or if the Director allows it, objects are immune to an ability's other effects. If an ability forces an object to make a test, the object automatically gets a tier 1 result on the test.
 
-##### Enemy
+##### Enemy {data-scc="mcdm.heroes.v1/rule.combat/enemy"}
 
 If an ability targets one or more enemies, it can affect only creatures who are hostile to the creature using the ability. Typically, you decide who counts as an enemy for the purpose of using your hero's abilities, though the Director has the final say.
 
-##### Ally
+##### Ally {data-scc="mcdm.heroes.v1/rule.combat/ally"}
 
 If an ability targets one or more allies, it can affect only willing creatures who are friendly to the creature using the ability. Typically, you and any other player whose character you target with an ability decide who counts as an ally, though the Director has the final say.
 
@@ -227,7 +227,7 @@ If an area ability doesn't provide a number of targets but instead says it appli
 >
 > There might be times when a foe disguises or obscures themself so that they're temporarily seen as an ally—or at least not seen as an enemy. Until the effect ends, such a creature can't be targeted by abilities that would usually target them by targeting enemies. Fear not, though. All classes have access to at least one ability that targets creatures, whether friend or foe.
 
-#### Ability Roll
+#### Ability Roll {data-scc="mcdm.heroes.v1/rule.dice/ability-roll"}
 
 If an ability requires a power roll, it has a "Power Roll" entry that tells you which characteristic to add to the 2d10 roll you make when you use the ability. (Chapter 1: [The Basics](the-basics.md) talks about power rolls.)
 
@@ -277,11 +277,11 @@ Unless otherwise indicated, any effects that are determined by a power roll's ti
 
 Certain ability effects allow you to move and affect other creatures or objects during that move, such as the [shadow's](../../Browse/class/shadow.md) [One Hundred Throats](../../Browse/feature/ability/shadow/level-1/one-hundred-throats.md) ability. For such abilities, the move begins in the space you first leave when you start the move and ends in the last space you move into.
 
-#### Rolled Damage
+#### Rolled Damage {data-scc="mcdm.heroes.v1/rule.damage/rolled-damage"}
 
 Certain effects talk about rolled damage, which refers to the variable damage determined by making an ability roll. If an ability or effect deals damage without requiring a power roll, that is not rolled damage, and effects that add to or are triggered by rolled damage don't apply.
 
-#### Potencies
+#### Potencies {data-scc="mcdm.heroes.v1/rule.character/potency"}
 
 Many abilities and other effects impose conditions and unique statuses on targets. But creatures sometimes get a chance to resist such effects. After all, a monster with a high Might should be harder to knock [prone](../../Browse/condition/prone.md) most of the time than a creature lacking in that characteristic.
 
@@ -341,7 +341,7 @@ For example, the [tactician's](../../Browse/class/tactician.md) Overwatch abilit
 
 This rule also applies to Director-controlled creatures who spend Malice on abilities and features that affect a target using a potency and have no other automatic effects.
 
-#### Critical Hit
+#### Critical Hit {data-scc="mcdm.heroes.v1/rule.combat/critical-hit"}
 
 Whenever you make an ability roll as a main action and the roll is a natural 19 or natural 20-a total of 19 or 20 before adding your characteristic score or other modifiers—you score a critical hit. A critical hit allows you to immediately take an additional main action after resolving the power roll, whether or not it's your turn and even if you are [dazed](../../Browse/condition/dazed.md) (see Conditions below).
 
@@ -353,7 +353,7 @@ When an ability has multiple targets (whether a strike with more than one target
 
 For example, if you target three creatures with a strike ability and the power roll totals 11, each of the targets should be affected by the tier 1 outcome of the ability. However, if you gain an edge on strikes against one of the targets to add 2 to the power roll, your total against that target is 13, and they are affected by the tier 2 outcome of the ability.
 
-#### Surges
+#### Surges {data-scc="mcdm.heroes.v1/rule.resource/surge"}
 
 A [troubadour's](../../Browse/class/troubadour.md) battle song, a [fury's](../../Browse/class/fury.md) building ferocity, and a [shadow's](../../Browse/class/shadow.md) patient insight can all make a hero more effective in a fight. These advantages are represented by surges, with many abilities granting heroes surges during a battle.
 
@@ -388,11 +388,11 @@ Different effects that impose the same condition (see Conditions below) don't st
 
 When a creature suffers a lasting effect, whatever ability, feature, hazard, or other mechanic imposed the effect specifies how long the effect lasts. Unless otherwise noted, all effects and conditions that are imposed on heroes during a combat encounter end when the encounter is over if the hero wants them to, except for being winded, unconscious, or dying. After combat, effects and conditions imposed on other creatures end when it's convenient for the heroes, allowing characters to easily bind or slip away from unconscious foes. However, the Director is free to decide that an unconscious dragon doesn't stay that way long enough to be tied up.
 
-##### End of Next Turn (EoT)
+##### End of Next Turn (EoT) {data-scc="mcdm.heroes.v1/rule.combat/end-of-turn"}
 
 Many effects last until the end of the target's next turn, abbreviated as "(EoT)" in the tier outcomes for an ability's power roll. A creature suffers from such an effect until the end of their next turn, or the end of their current turn if the effect was imposed on their current turn.
 
-##### Saving Throw (Save Ends)
+##### Saving Throw (Save Ends) {data-scc="mcdm.heroes.v1/rule.general/saving-throw"}
 
 If an effect has "(save ends)" at the end of its description, a creature suffering the effect makes a saving throw at the end of each of their turns to remove the effect. A saving throw represents the sheer luck involved in shaking off an effect. Because a target typically had a chance to avoid a "save ends" effect using a characteristic score to resist a potency, it's now down to fate.
 
@@ -406,11 +406,11 @@ Some effects last until the end of the encounter. If such an effect is used outs
 
 A creature who imposes an effect on another creature using an ability can end that effect as a free maneuver unless the ability says otherwise.
 
-##### Adjacent
+##### Adjacent {data-scc="mcdm.heroes.v1/rule.combat/adjacent"}
 
 Many abilities and other options refer to creatures, objects, or spaces that are adjacent to a specified creature. Something is adjacent to a creature if it is within 1 square of that creature.
 
-#### Line of Effect
+#### Line of Effect {data-scc="mcdm.heroes.v1/rule.combat/line-of-effect"}
 
 To target a creature or object with an ability or effect, including making a strike against them, you must have line of effect to that target. If any solid object, such as a wall or pillar, completely blocks the target from you, then you don't have line of effect.
 
@@ -424,13 +424,13 @@ If you use an ability that creates an environmental effect, such as a portal, yo
 
 Whenever a creature moves or is subjected to [forced movement](../../Browse/movement/forced-movement.md)—a push, pull, or slide (see Chapter 10: [Combat](combat.md))—that movement is typically in a straight line. Abilities that allow you to move or to force move another creature often talk about moving straight toward or away from a creature or an object. But even when movement must be in a straight line, it doesn't have to be a horizontal or vertical line on an encounter map. (See the Straight Lines sidebar earlier in this chapter.)
 
-#### Ground and Ceiling
+#### Ground and Ceiling {data-scc="mcdm.heroes.v1/rule.general/ground"}
 
 Some abilities and other effects refer to a hero or their targets being "on the ground." Unless otherwise indicated, "ground" means any surface a creature could typically stand, sit, or lie upon, whether a castle's stone floor, the dirt of a road, the deck of a ship, or a metal platform suspended high in the air.
 
 Likewise, if an effect refers to a "ceiling," that means any solid surface above a creature, whether a wooden tavern ceiling, the rocky roof of a cave, or an invisible wall of force.
 
-#### Conditions
+#### Conditions {data-scc="mcdm.heroes.v1/rule.combat/condition"}
 
 Some abilities and other effects apply specific negative effects called conditions to a creature. The following conditions show up regularly in the game and can be tracked on your character sheet when they affect your hero.
 

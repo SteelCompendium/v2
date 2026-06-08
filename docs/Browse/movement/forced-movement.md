@@ -75,7 +75,7 @@ If any [forced movement](forced-movement.md) remains after the object is destroy
 
 If you can't [fly](fly.md) and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when the [forced movement](forced-movement.md) ends, you fall.
 
-## Stability
+## Stability {data-scc="mcdm.heroes.v1/rule.character/stability"}
 
 Each creature has a stability that allows them to resist [forced movement](forced-movement.md). When a creature is force moved, they can reduce that movement up to a number of squares equal to their stability. Heroes start with stability 0 and can increase their stability through ancestry, class, and kit options.
 

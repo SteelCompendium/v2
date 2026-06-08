@@ -255,7 +255,7 @@ How tall is a [polder](../../Browse/ancestry/polder.md)? How long does a [dwarf]
 | [Polder](../../Browse/ancestry/polder.md)        | 3'3''-3'6''               | 20-50               | 50-90                       |
 | [Time Raider](../../Browse/ancestry/time-raider.md)   | 5'0''-6'0''               | 120-250             | 50-90                       |
 
-### Starting Size and Speed
+### Starting Size and Speed {data-scc="mcdm.heroes.v1/rule.character/speed"}
 
 Unless otherwise noted, a character of any of these ancestries is size 1M and has speed 5 and stability 0.
 

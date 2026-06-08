@@ -79,7 +79,7 @@ The Magic and Psionic keywords for treasures refer to how those treasures are cr
 
 If two treasures give a creature a bonus to their Stamina or a bonus to the rolled damage of their abilities, only the higher bonus applies unless the treasure's description notes otherwise. Stamina bonuses and damage bonuses from consumables ignore this rule, and can be stacked with other Stamina bonuses and damage bonuses granted by treasures.
 
-### Consumables
+### Consumables {data-scc="mcdm.heroes.v1/rule.treasure/consumable"}
 
 Consumables are treasures that can be used a limited number of times before they expire, losing whatever makes them supernatural. You can drink a potion once, and when you do so, that's it. It's consumed. Other consumables might have a specific number of charges that can be spent. Once those charges are gone, the treasure is useless.
 
@@ -721,7 +721,7 @@ Infinite Library detailing incomplete instructions for building a sun
 
 **Effect:** When opened as a maneuver, this vial bursts into a storm of multicolored lights. You and each ally within 5 squares of you regain 1d6 Recoveries. However, any mortal using this treasure draws the interest of a powerful fey noble.
 
-### Trinkets
+### Trinkets {data-scc="mcdm.heroes.v1/rule.treasure/trinket"}
 
 Trinkets are treasures that can be used at will without a reduction in their potency. They generally provide a small benefit, such as allowing you to see farther or become a bit better at picking locks.
 
@@ -1229,7 +1229,7 @@ A trapped spirit remains in the lantern for 10 minutes. They remember being trap
 
 **Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a melee weapon free strike that deals an extra 3 psychic damage.
 
-### Leveled Treasures
+### Leveled Treasures {data-scc="mcdm.heroes.v1/rule.treasure/leveled-treasure"}
 
 Like trinkets, leveled treasures can be used at will without a reduction in potency. However, leveled treasures tap into their wielder's will in a way that trinkets don't, becoming more powerful and increasing their capabilities as you gain new levels.
 
@@ -2966,7 +2966,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 - *Laughs at Locks:* Whenever you make a test to open a lock or break a restraint, you don't need any tools and you automatically obtain a tier 3 outcome.
 - *Slippery:* You can't be [grabbed](../../Browse/condition/grabbed.md) against your will.
 
-## Renown
+## Renown {data-scc="mcdm.heroes.v1/rule.resource/renown"}
 
 As you accomplish heroic deeds, your fame allows you to influence NPCs and attract followers. Your infamy among your enemies also grows. Every hero has a Renown score that represents how they can use their reputation to influence others. The higher the score, the greater your impact with those who know of your legend.
 
@@ -2982,7 +2982,7 @@ In most campaigns, the Director sets the characters up to earn 1 Renown per leve
 
 Renown changes the way NPCs respond to heroes during negotiations (see Chapter 11: [Negotiation](negotiation.md)), whether that renown takes the form of fame or infamy.
 
-### Attract Followers
+### Attract Followers {data-scc="mcdm.heroes.v1/rule.general/follower"}
 
 Your Renown score allows you to attract and employ followers who perform different duties or favors for you. The Renown and Followers table shows how many followers a hero can have at one time based on Renown. You can always let go of a follower in your employ to hire a new one.
 
@@ -3011,7 +3011,7 @@ Artisans are crafting experts who can contribute to your research and crafting p
 
 When you recruit an artisan, choose four skills from the crafting skill group that they know (see Skills in Chapter 9: [Tests](tests.md)). An artisan has a Might or Agility score of 1 (your choice), a Reason score of 1, and a 0 in all other characteristics. They know Caelian and two other languages of your choice.
 
-##### Retainer
+##### Retainer {data-scc="mcdm.heroes.v1/rule.general/retainer"}
 
 Retainers are heroic NPCs who adventure alongside the player characters. They are controlled by players in combat and are both simpler to run and less powerful than player characters. A hero can have only one retainer in their service at a time unless the Director deems otherwise. Because retainers and their stat blocks are combat focused, the Director can also decide that a large party can have only one retainer in total—or can't have any retainers at all—to keep combat from getting long and tedious.
 

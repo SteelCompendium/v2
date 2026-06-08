@@ -25,7 +25,7 @@ When a hero attempts to solve a task that typically requires a test with clever,
 
 That said, such clever ideas often work for free the first time, but the Director could decide they require tests if they are used again.
 
-### How to Make a Test
+### How to Make a Test {data-scc="mcdm.heroes.v1/rule.test/test"}
 
 Each test has the following steps:
 
@@ -114,7 +114,7 @@ A hard test has a greater risk of failure, and most heroes are likely to suffer 
 - **12-16:** You fail the task.
 - **17+:** You succeed on the task.
 
-##### Natural 19 or 20: Success With a Reward
+##### Natural 19 or 20: Success With a Reward {data-scc="mcdm.heroes.v1/rule.dice/natural-19-20"}
 
 Whenever you get a natural 19 or 20 on the power roll for a test—a total of 19 or 20 before adding your characteristic score or other modifiers you score a critical success. This critical success automatically lets you succeed on the task with a reward, even if the test has a medium or hard difficulty.
 
@@ -222,7 +222,7 @@ An NPC might also make a Presence test if they lie to the heroes, as long as the
 
 As an optional rule, the Director is also free to ask the heroes to make a reactive test to a deceptive NPC instead (see Reactive Tests below) whenever they choose.
 
-#### Opposed Power Rolls
+#### Opposed Power Rolls {data-scc="mcdm.heroes.v1/rule.dice/opposed-power-roll"}
 
 When two creatures are engaged in a particularly dramatic struggle that requires them both to make tests, the Director can have all the creatures involved make a test. The creature with the highest power roll wins. You can't earn a reward as part of these opposed power rolls, and they don't follow the typical difficulty structure or have three different tiers of possible outcomes.
 
@@ -232,7 +232,7 @@ In the event of a tie in an opposed test, the state of the scene doesn't change.
 
 Since opposed power rolls don't use tiers, when you make an opposed power roll, a double edge provides a +4 bonus to the roll, a double bane provides a -4 penalty to the roll, an automatic tier increase counts as a +4 bonus to the roll, and an automatic tier decrease counts as a -4 penalty to the roll.
 
-### Reactive Tests
+### Reactive Tests {data-scc="mcdm.heroes.v1/rule.test/reactive-test"}
 
 At certain times when a hero isn't engaged in overcoming a task, the Director might ask the player of the hero to make a test without context, explaining the test only after the power roll is made. This often happens when a hero has a chance of knowing or noticing something of significance that the player doesn't know to look for or ask about.
 
@@ -772,7 +772,7 @@ If a creature is hidden from your allies but not from you, you can use a maneuve
 
 While you are hidden from another creature and not in combat, you can attempt to sneak—avoiding the senses of other creatures as you move around them in the open—to remain hidden. While sneaking, your speed is halved. To sneak, you make an Agility test using the Sneak skill with a difficulty set by the Director. If you succeed, you remain hidden during your movement. This test can use another characteristic at the Director's discretion, such as using Presence to blend in with a crowd on a packed city street.
 
-### Group Tests
+### Group Tests {data-scc="mcdm.heroes.v1/rule.test/group-test"}
 
 Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same test, the Director can call for a group test. For example, if several heroes are all attempting to climb the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a Might group test. If a group of heroes attempt to sneak by a sleeping ogre, they might make an Agility group test.
 
@@ -794,7 +794,7 @@ If the heroes failed the group test and more than half of them incurred a conseq
 
 If fewer than half the heroes incur a consequence or earn a reward on their individual tests, then the group test simply succeeds or fails.
 
-### Montage Tests
+### Montage Tests {data-scc="mcdm.heroes.v1/rule.test/montage-test"}
 
 When a group of heroes works together over time to accomplish a common goal that requires more than a single characteristic, the Director can call for a montage test. Such tests typically take place over a prolonged period and focus on collective or shared activities. Navigating a vast desert, convincing farmers to rise up against a tyrannical leader, and performing a ritual to open a magically sealed gate can all be accomplished with montage tests.
 

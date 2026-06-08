@@ -21,7 +21,7 @@ When combat begins, the Director should position miniatures or tokens on a gridd
 >
 > It's helpful to know how big a square is for abilities and features that heroes and NPCs can use outside of combat. By default, a square is 5 feet on all sides. But the Director can change this measurement to 2 yards, 2 meters, 1 meter, or any other measurement you prefer, as long as that scale stays consistent throughout your game.
 
-#### Size and Space
+#### Size and Space {data-scc="mcdm.heroes.v1/rule.character/size"}
 
 A creature's size indicates how many squares they occupy during combat, which defines the creature's space. If a creature's size is 1, they occupy a space of 1 square. If a creature is larger than 1 square, their size equals the number of squares they take up in length, width, and height. For example, a horse has a size of 2, which means that during combat, they occupy a space that is 2 squares long, 2 squares wide, and 2 squares high. You could also think of that space as a cube that is 2 squares on all sides.
 
@@ -44,7 +44,7 @@ The Creature Sizes table shows example sizes for creatures up to size 5, but lar
 | 4     | Hill giant       |
 | 5     | Omen dragon      |
 
-#### Sides
+#### Sides {data-scc="mcdm.heroes.v1/rule.combat/side"}
 
 Every combat encounter is a conflict between two sides. The heroes and any of their allies are one side, controlled by the players. Any creatures who oppose the heroes are the other side, controlled by the Director. All creatures who oppose the heroes are on the same side, even if those creatures also oppose each other. For example, if the heroes are battling a group of bandits when a kingfissure worm suddenly bursts into the fray to devour player characters and brigands alike, the worm is still on the side of the bandits for the purpose of the game's combat rules.
 
@@ -52,7 +52,7 @@ Every combat encounter is a conflict between two sides. The heroes and any of th
 >
 > If an NPC ally fights alongside the heroes, the Director should give the players the ally's stat block and let them control the NPC during combat. The Director has enough to worry about. As well, any missteps, mistakes, or triumphs the ally makes will be thanks to the decisions of the players and not the Director, which can make the outcome of the battle more satisfying for the players.
 
-### Combat Round
+### Combat Round {data-scc="mcdm.heroes.v1/rule.combat/combat-round"}
 
 Combat takes place over a series of combat rounds. During a combat round, each creature in the battle takes a turn. Once every creature has taken a turn, a new round begins.
 
@@ -60,7 +60,7 @@ Combat takes place over a series of combat rounds. During a combat round, each c
 
 Combat starts as soon as one creature intends to harm another, or when some environmental effect is in a position to deal damage to or impose other negative effects on one or more creatures. This means that even before the action happens, a hero can't use a heroic ability without spending their Heroic Resource on it, because combat has already begun!
 
-#### Determine Surprise
+#### Determine Surprise {data-scc="mcdm.heroes.v1/rule.combat/surprised"}
 
 When battle starts, the Director determines which creatures, if any, are caught off guard. Any creature who isn't ready for combat at the start of an encounter is surprised until the end of the first combat round. A surprised creature can't take triggered actions or free triggered actions, and ability rolls made against them gain an edge.
 
@@ -102,13 +102,13 @@ Director-controlled creatures act in groups, with information for building group
 
 Once all creatures on both sides of a battle have acted, the combat round ends and a new combat round begins. The side whose members acted first during the initial combat round goes first in all subsequent rounds.
 
-### Taking a Turn
+### Taking a Turn {data-scc="mcdm.heroes.v1/rule.combat/turn"}
 
 Each creature in combat—whether hero, adversary, or something in between—gets to take a **main action**, a **maneuver**, and a **move action** on their turn (explained later in this chapter). Each combatant can perform their maneuver and main action in any order, and can break up the movement granted by their move action before, after, or between their maneuver and main action however they like. You can also turn your main action into a move action or a maneuver, so that your turn can alternatively consist of two move actions and a maneuver, or two maneuvers and a move action.
 
 The Movement section below breaks down how your move action works, while the Maneuvers and Main Actions sections break down the baseline maneuvers and main actions your character can undertake. For any activities not specifically covered in those rules, such as cutting down a chandelier to drop on enemies, the Director decides whether such an activity is a maneuver or a main action.
 
-#### Triggered Actions and Free Triggered Actions
+#### Triggered Actions and Free Triggered Actions {data-scc="mcdm.heroes.v1/rule.combat/triggered-action"}
 
 Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](../../Browse/class/fury.md) hero can use the [Lines of Force](../../Browse/feature/ability/fury/level-1/lines-of-force.md) triggered action to [force move](../../Browse/movement/forced-movement.md) a target, but only after an enemy has first tried to [force move](../../Browse/movement/forced-movement.md) the [fury](../../Browse/class/fury.md) or another nearby creature.
 
@@ -118,7 +118,7 @@ If multiple triggered actions occur in response to the same trigger, any heroes 
 
 Any effect that prevents you from using triggered actions also prevents you from using free triggered actions.
 
-#### Free Maneuvers
+#### Free Maneuvers {data-scc="mcdm.heroes.v1/rule.combat/free-maneuver"}
 
 Boring stuff like opening an unlocked door, picking up an arrow from the ground, giving an object to an adjacent ally, or drawing a weapon doesn't require a maneuver or a main action. Rather, you can undertake such straightforward activities as free maneuvers on your turn. A free maneuver follows the same rules as a regular maneuver, but you can typically take as many free maneuvers as you like.
 
@@ -276,7 +276,7 @@ When a creature [teleports](../../Browse/movement/teleport.md), they move from o
 - If you [teleport](../../Browse/movement/teleport.md) while affected by the [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md) conditions, those conditions end for you.
 - When a creature [teleports](../../Browse/movement/teleport.md), they must leave the space where they start and enter a new space. A creature can't [teleport](../../Browse/movement/teleport.md) to and from the same space.
 
-#### Falling
+#### Falling {data-scc="mcdm.heroes.v1/rule.health/falling"}
 
 When a creature falls 2 or more squares and lands on the ground, they take 2 damage for each square they fall (to a maximum of 50 damage) and l[and prone](../../Browse/condition/prone.md). A creature who falls can reduce the effective height of the fall by a number of squares equal to their Agility score (to a minimum of 0). Falling into liquid that is 1 square or more deep reduces the effective height of a fall by 4 squares (to a minimum of 0).
 
@@ -373,7 +373,7 @@ If any [forced movement](../../Browse/movement/forced-movement.md) remains after
 
 If you can't [fly](../../Browse/movement/fly.md) and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when the [forced movement](../../Browse/movement/forced-movement.md) ends, you fall.
 
-##### Stability
+##### Stability {data-scc="mcdm.heroes.v1/rule.character/stability"}
 
 Each creature has a stability that allows them to resist [forced movement](../../Browse/movement/forced-movement.md). When a creature is force moved, they can reduce that movement up to a number of squares equal to their stability. Heroes start with stability 0 and can increase their stability through ancestry, class, and kit options.
 
@@ -540,7 +540,7 @@ Many rules and abilities allow heroes to make [free strikes](../../Browse/featur
 
 Some abilities, such as the [tactician's](../../Browse/class/tactician.md) [Strike Now](../../Browse/feature/ability/tactician/level-1/strike-now.md) or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) instead of a granted signature ability or heroic ability.
 
-#### Opportunity Attacks
+#### Opportunity Attacks {data-scc="mcdm.heroes.v1/rule.combat/opportunity-attack"}
 
 Whenever a creature has an enemy adjacent to them and the enemy willingly moves to a space that isn't adjacent to the creature without [shifting](../../Browse/movement/shifting.md), the creature can take advantage of that movement to quickly make a melee [free strike](../../Browse/feature/trait/common/main-actions/free-strike.md) against the enemy as a free triggered action. This is called an opportunity attack.
 
@@ -576,7 +576,7 @@ A melee weapon free strike is a melee strike made with an unarmed strike or an i
 - **12-16:** 4 + M or A damage
 - **17+:** 6 + M or A damage
 
-### Flanking
+### Flanking {data-scc="mcdm.heroes.v1/rule.combat/flanking"}
 
 When you and one or more allies are adjacent to the same enemy and on opposite sides of the enemy, you are flanking that enemy. While flanking an enemy, you gain an edge on melee strikes against them.
 
@@ -584,11 +584,11 @@ If you're unsure whether your hero and an ally are flanking a foe, imagine a lin
 
 You must have line of effect to the enemy and be able to take triggered actions to gain or grant the flanking benefit.
 
-### Cover
+### Cover {data-scc="mcdm.heroes.v1/rule.combat/cover"}
 
 When you have line of effect to a creature or object but that target has at least half their form blocked by a solid object such as a tree, wall, or overturned table, the target has cover. You take a bane on damage-dealing abilities used against creatures or objects that have cover from you.
 
-### Concealment
+### Concealment {data-scc="mcdm.heroes.v1/rule.combat/concealment"}
 
 Darkness, fog, invisibility magic, and any other effect that fully obscures a creature or object but doesn't protect their physical form grants that creature or object concealment. Even if you have line of effect to such a target, a creature or object has concealment from you if you can't see or otherwise observe them. You can target a creature or object with concealment using a strike, provided they aren't hidden (see Hide  and Sneak in Chapter 9: [Tests](tests.md)). However, strikes against such targets take a bane.
 
@@ -596,17 +596,17 @@ Darkness, fog, invisibility magic, and any other effect that fully obscures a cr
 
 Invisible creatures always have concealment from other creatures. If an invisible creature isn't hidden, they can still be targeted by abilities. The test made to find a hidden creature who is invisible takes a bane.
 
-### Damage
+### Damage {data-scc="mcdm.heroes.v1/rule.damage/damage"}
 
 Strikes, area attacks, environmental effects, and other hazards can all deal damage to the heroes and their foes. Whenever a creature takes damage, they reduce their Stamina (see below) by an amount equal to the damage taken.
 
-#### Damage Types
+#### Damage Types {data-scc="mcdm.heroes.v1/rule.damage/damage-type"}
 
 Typical damage, such as that caused by weapons, falling, traps, and monstrous claws, has no type associated with it. That's because for most creatures, there's no difference in the amount of harm caused by being run through with a pike, dropped from a height onto a stone floor, slashed by a pendulum scythe, or skewered on a minotaur's horns.
 
 However, when it comes to elemental and supernatural damage sources, some creatures might have an immunity or weakness to that damage. As such, abilities and effects note when they deal any of the following damage types: acid, cold, corruption, fire, holy, lightning, poison, psychic, or sonic.
 
-##### Damage Immunity
+##### Damage Immunity {data-scc="mcdm.heroes.v1/rule.damage/damage-immunity"}
 
 Damage immunity means that a creature can ignore some or all of the damage they would usually take from certain attacks or effects.
 
@@ -616,7 +616,7 @@ Damage immunity should be the last thing applied when calculating damage. For in
 
 If multiple damage immunities apply to a source of damage, only the immunity with the highest value applies. For instance, a creature with damage immunity 5 and fire immunity 10 who takes 12 fire damage reduces the damage by 10 points.
 
-##### Damage Weakness
+##### Damage Weakness {data-scc="mcdm.heroes.v1/rule.damage/damage-weakness"}
 
 Damage weakness works like damage immunity, except that creatures take extra damage whenever they take damage of the indicated type. For instance, if a creature has fire weakness 5 and is dealt 10 fire damage, they take 15 fire damage instead.
 
@@ -626,23 +626,23 @@ If a creature has both damage immunity and damage weakness for a source of damag
 
 If multiple damage weaknesses apply to a source of damage, only the weakness with the highest value applies.
 
-### Stamina
+### Stamina {data-scc="mcdm.heroes.v1/rule.health/stamina"}
 
 Your hero's survivability is represented by your Stamina. Think of Stamina as a combination of a creature's physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It's not that every instance of damage deals a [bleeding](../../Browse/condition/bleeding.md) wound to you, but that each one chips away at your ability to fight effectively. One attack might make you sweat as you leap back to avoid an arrow, while another might graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, this draining of energy leaves you open for bigger blows that can truly harm your body—or possibly kill you.
 
 After any damage you take is reduced by damage immunity or other effects, your Stamina is reduced by an amount equal to the remaining damage. Some effects can also reduce your Stamina maximum, limiting the amount of Stamina you can regain.
 
-#### Recoveries and Recovery Value
+#### Recoveries and Recovery Value {data-scc="mcdm.heroes.v1/rule.health/recoveries"}
 
 Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina maximum, rounded down. When you use the [Catch Breath](../../Browse/feature/trait/common/maneuvers/catch-breath.md) maneuver in combat (see Maneuvers above), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
 
-#### Winded
+#### Winded {data-scc="mcdm.heroes.v1/rule.health/winded"}
 
 Your winded value equals half your Stamina maximum. When your Stamina is equal to or less than your winded value, you are winded. Although being winded has no effects on its own, certain ancestry, class, item, title, and monster abilities affect winded creatures.
 
 You can tell when other creatures are winded and vice versa.
 
-#### Dying and Death
+#### Dying and Death {data-scc="mcdm.heroes.v1/rule.health/dying"}
 
 When your Stamina is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../../Browse/feature/trait/common/maneuvers/catch-breath.md) maneuver in combat. Additionally, you are [bleeding](../../Browse/condition/bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
 
@@ -668,7 +668,7 @@ Heroes remain unconscious for 1 hour if no one does anything to wake them. After
 
 While you are unconscious, you can't take main actions, maneuvers, triggered actions, free triggered actions, or free maneuvers; your speed is 0; you are unaware of your surroundings; and you [are prone](../../Browse/condition/prone.md). Ability rolls against you have a double edge. If you wake up from being unconscious, you can stand up from prone as a free maneuver.
 
-#### Temporary Stamina
+#### Temporary Stamina {data-scc="mcdm.heroes.v1/rule.health/temporary-stamina"}
 
 Some abilities, treasures, and other effects grant a creature temporary Stamina. Temporary Stamina shouldn't be included in a creature's Stamina total when figuring out a creature's recovery value or winded value. If you have temporary Stamina while winded, dying, or dead, the temporary Stamina doesn't change those states.
 
@@ -678,7 +678,7 @@ There is no maximum to how much temporary Stamina you can have. Regaining Stamin
 
 Unless otherwise indicated, temporary Stamina disappears at the end of an encounter.
 
-#### Object Stamina
+#### Object Stamina {data-scc="mcdm.heroes.v1/rule.general/unattended-object"}
 
 Mundane objects in the game have Stamina based on the material they're made of. When an object's Stamina is reduced to 0, the object is destroyed. Objects have poison immunity all and psychic immunity all, though the Director can remove one or both of these immunities in the case of living objects, such as plants. A size 1 object or 1 square of a larger object made of common materials has Stamina as follows:
 
@@ -689,17 +689,17 @@ Mundane objects in the game have Stamina based on the material they're made of. 
 
 The Director can decide that a well-made or poorly made object has more or less Stamina. Destroying a supernatural object often (but not always) requires a specific quest, such as throwing a magic ring back into the volcano where it was forged.
 
-### Underwater Combat
+### Underwater Combat {data-scc="mcdm.heroes.v1/rule.combat/underwater-combat"}
 
 If a creature is fully submerged in water, they have fire immunity 5 and lightning weakness 5. If they can't automatically swim at full speed while moving, their power rolls take a bane.
 
-### Suffocating
+### Suffocating {data-scc="mcdm.heroes.v1/rule.health/suffocating"}
 
 During combat or under similarly stressful circumstances, you can hold your breath for a number of combat rounds equal to your Might score (minimum 1 round). At the end of each combat round after that, you take 1d6 damage while holding your breath.
 
 Out of combat, you can hold your breath for a number of minutes equal to your Might score. Being unable to breathe after that time counts as a stressful condition, causing you to run out of air as above.
 
-### Mounted Combat
+### Mounted Combat {data-scc="mcdm.heroes.v1/rule.combat/mounted-combat"}
 
 A willing creature with the Mount role (see Creature Roles in *Draw Steel: Monsters*) can serve as your mount as long as their size is greater than yours. You can climb onto your mount freely (see Climbing Other Creatures above). You determine which space you occupy. While mounted, you can take the [Ride](../../Browse/feature/trait/common/move-actions/ride.md) move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
 
@@ -719,7 +719,7 @@ To avoid a battle dragging, the Director can set objectives when they build the 
 
 When the Director ends combat this way, the players typically choose how the battle ends by narrating a dramatic finish. Or in rarer cases when the heroes achieve a major objective that sets off a story-defining event, the Director narrates the end of the battle with a positive outcome for the players, called an event ending (see below).
 
-#### Objective Endings
+#### Objective Endings {data-scc="mcdm.heroes.v1/rule.combat/objective"}
 
 While planning a combat encounter, the Director can set one or more objectives the heroes can achieve to end the encounter without dropping every last foe. Some broad categories of objectives are described in this section, but the Director should feel free to create their own. As well, Directors can always end combat anytime it becomes clear that the heroes are going to win an encounter with minimal effort, even if they haven't achieved all the objectives.
 

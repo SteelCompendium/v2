@@ -47,13 +47,13 @@ Negotiation is about persuading someone to help you willingly because you've con
 
 During negotiation, the Director assigns NPCs four temporary statistics and features—interest, patience, motivations, and pitfalls. The heroes can strike a favorable deal if they maximize an NPC's interest by making arguments that invoke the NPC's motivations and avoid their pitfalls—but they have to do all that before the NPC's patience wears out.
 
-#### Interest
+#### Interest {data-scc="mcdm.heroes.v1/rule.negotiation/interest"}
 
 An NPC's interest represents how eager they are to make a deal with the heroes. Interest is graded on a scale of 0 (no interest) to 5 (the most possible interest). When a negotiation begins, an NPC's interest is between 1 and 4. If the NPC's interest goes to 5, they make a final offer and the negotiation ends (see Keep Going or Stop, below). If the NPC's interest drops to 0, they end a negotiation without offering the heroes any deal.
 
 Interest increases and decreases during the negotiation based on the arguments the heroes make.
 
-#### Patience
+#### Patience {data-scc="mcdm.heroes.v1/rule.negotiation/patience"}
 
 An NPC's patience represents how much time and effort they're willing to devote to a negotiation. Patience is graded on a scale of 0 to 5, with each NPC starting a negotiation with their patience higher than 0. If an NPC's patience reaches 0, the NPC makes a final offer and negotiation ends (see Keep Going or Stop).
 
@@ -63,13 +63,13 @@ Patience can decrease each time the heroes make an argument during a negotiation
 
 If one or more heroes negotiating with an NPC can communicate in the NPC's native language (not including Caelian), then the NPC's patience increases by 1 at the start of the negotiation (to a maximum of 5). If three or more heroes negotiating with an NPC can communicate in the NPC's native language, the NPC's patience increases by 2 (to a maximum of 5). Chapter 4: [Background](background.md) has information on some of the languages in the game.
 
-#### Motivations
+#### Motivations {data-scc="mcdm.heroes.v1/rule.negotiation/motivation"}
 
 Each NPC has at least two motivations the heroes can appeal to with their arguments. Arguments that appeal to an NPC's motivation require an easier power roll to increase the NPC's interest. Arguments that don't appeal to a motivation require a more difficult power roll. See Making Arguments below for more information.
 
 Each motivation can be successfully appealed to only once during a negotiation. To successfully appeal to a motivation, the heroes must use the motivation in an argument without mentioning one of the NPC's pitfalls or being caught in a lie.
 
-#### Pitfalls
+#### Pitfalls {data-scc="mcdm.heroes.v1/rule.negotiation/pitfall"}
 
 Pitfalls are motivations that spark ire, discomfort, shame, fear, or some other negative response in an NPC. Using a pitfall in an argument causes an NPC's interest and patience to wane. Each NPC has at least one pitfall, and many have at least two.
 

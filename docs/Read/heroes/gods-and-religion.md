@@ -29,7 +29,7 @@ something like that happened and not worry overmuch about the details. They call
 
 If no aid is forthcoming folks assume this is because the gods and saints are all very busy and cannot be arsed to answer every prayer. People are never surprised when the gods and saints are silent. They are usually silent.
 
-### Churches and Temples
+### Churches and Temples {data-scc="mcdm.heroes.v1/rule.world/saint"}
 
 Most religions in Orden organize themselves into hierarchies and build temples or cathedrals, but some religions are little more than traditions handed down from shaman to shaman, or wise-woman to wise-daughter. Some religions are secret!
 

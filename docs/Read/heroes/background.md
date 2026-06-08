@@ -326,11 +326,11 @@ Some careers allow you to learn extra languages, chosen from those available in 
 
 Some careers increase your starting Renown score (from a base score of 0). See Renown in Chapter 13: [Rewards](rewards.md) for more information.
 
-#### Wealth
+#### Wealth {data-scc="mcdm.heroes.v1/rule.resource/wealth"}
 
 Some careers increase your starting Wealth score (from a base score of 1). See Wealth in Chapter 13: [Rewards](rewards.md) for more information.
 
-#### Project Points
+#### Project Points {data-scc="mcdm.heroes.v1/rule.downtime/project-points"}
 
 Some careers provide project points you can put toward crafting and research projects (see Chapter 12: [Downtime Projects](downtime-projects.md)). These project points can be divided among multiple projects, but they can't be used more than once. You must meet the other prerequisites for a project to start it, as usual.
 
