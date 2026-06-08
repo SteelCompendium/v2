@@ -111,6 +111,19 @@
 .md-typeset .grid.cards > ul > li > p { color: var(--md-default-fg-color--light); font-size: .82rem; }
 .md-typeset .grid.cards > ul > li > p:last-child { margin-top: auto; color: var(--fx-metal); }
 
+/* Whole-card click target. The trailing "→ …" link paragraph is stretched to
+   cover the entire plate and its now-redundant arrow label is hidden (kept in
+   the DOM as the link's accessible name). Scoped to a single-link paragraph via
+   :has(> a:only-child), so cards that end in a *list* of links — e.g. the Data
+   Formats cards on the home page — are deliberately left as-is. */
+.md-typeset .grid.cards > ul > li > p:last-child:has(> a:only-child) {
+  position: absolute; inset: 0; margin: 0;
+  font-size: 0;                 /* hides the em-sized arrow icon + label text */
+}
+.md-typeset .grid.cards > ul > li > p:last-child:has(> a:only-child) > a {
+  display: block; width: 100%; height: 100%;
+}
+
 /* ============================================================
    CATEGORY INDEX — rich "stat-at-a-glance" cards
    Emitted by steel-etl as: <div class="sc-cards"> of <a class="sc-card">
