@@ -2,7 +2,7 @@
 action_type: Main action
 class: troubadour
 cost: 9 Drama
-distance: 5 burst
+distance: 5 [burst](../../../../rule/combat/burst.md)
 flavor: You give away the ending of this battle, and it's not great for them.
 keywords:
     - Area
@@ -30,15 +30,10 @@ type: ability
 <p class="sc-ability__flavor">You give away the ending of this battle, and it&#39;s not great for them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 psychic damage; P &lt; WEAK, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 psychic damage; P &lt; AVERAGE, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 psychic damage; P &lt; STRONG, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 2 psychic damage; P &lt; WEAK, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>12-16:</b> 5 psychic damage; P &lt; AVERAGE, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>17+:</b> 7 psychic damage; P &lt; STRONG, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</li></ul></div>
 </div>
 </article>

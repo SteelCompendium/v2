@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 5 Piety
 distance: Ranged 10
-effect: Until the end of the encounter or until the target is [dying](../../../../rule/health/dying.md), at the start of each of the target's turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
+effect: Until the end of the encounter or until the target is [dying](../../../../rule/health/dying.md), at the start of each of the target's turns, they gain a bonus to [speed](../../../../rule/character/speed.md) and a bonus to [rolled damage](../../../../rule/damage/rolled-damage.md) equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
 flavor: An ally gains strength from their friends.
 keywords:
     - Magic
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until the target is <a href="../../../../../rule/health/dying/">dying</a>, at the start of each of the target&#39;s turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until the target is <a href="../../../../../rule/health/dying/">dying</a>, at the start of each of the target&#39;s turns, they gain a bonus to <a href="../../../../../rule/character/speed/">speed</a> and a bonus to <a href="../../../../../rule/damage/rolled-damage/">rolled damage</a> equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.</p></div>
 </div>
 </article>

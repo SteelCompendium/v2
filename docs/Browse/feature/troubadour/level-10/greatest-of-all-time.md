@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you obtain a success on a test, each NPC within your line of effect has their Impression score decreased by 4 during a negotiation (to a minimum of 1), and each ally within 3 squares of you gains an <a href="../../../../rule/dice/edge/">edge</a> on their next test. These effects last until you start your next respite.</p>
+<p>Whenever you obtain a success on a <a href="../../../../rule/test/test/">test</a>, each <a href="../../../../rule/general/npc/">NPC</a> within your <a href="../../../../rule/combat/line-of-effect/">line of effect</a> has their Impression score decreased by 4 during a negotiation (to a minimum of 1), and each ally within 3 squares of you gains an <a href="../../../../rule/dice/edge/">edge</a> on their next <a href="../../../../rule/test/test/">test</a>. These effects last until you start your next <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>

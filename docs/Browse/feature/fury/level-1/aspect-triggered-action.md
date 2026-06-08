@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../primordial-aspect/">primordial aspect</a> grants you a triggered action, as shown on the Aspect Triggered Actions table.</p>
+<p>Your <a href="../primordial-aspect/">primordial aspect</a> grants you a <a href="../../../../rule/combat/triggered-action/">triggered action</a>, as shown on the Aspect <a href="../../../../rule/combat/triggered-action/">Triggered Actions</a> table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<table><thead><tr><th>Aspect</th><th>Triggered Action</th></tr></thead><tbody><tr><td>Berserker</td><td><a href="../../../ability/fury/level-1/lines-of-force/">Lines of Force</a></td></tr><tr><td>Reaver</td><td><a href="../../../ability/fury/level-1/unearthly-reflexes/">Unearthly Reflexes</a></td></tr><tr><td>Stormwight</td><td><a href="../../../ability/fury/level-1/furious-change/">Furious Change</a></td></tr></tbody></table>
+<table><thead><tr><th>Aspect</th><th><a href="../../../../rule/combat/triggered-action/">Triggered Action</a></th></tr></thead><tbody><tr><td>Berserker</td><td><a href="../../../ability/fury/level-1/lines-of-force/">Lines of Force</a></td></tr><tr><td>Reaver</td><td><a href="../../../ability/fury/level-1/unearthly-reflexes/">Unearthly Reflexes</a></td></tr><tr><td>Stormwight</td><td><a href="../../../ability/fury/level-1/furious-change/">Furious Change</a></td></tr></tbody></table>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="triggered">
@@ -105,7 +105,7 @@ type: feature
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>You take half the damage from the triggering effect and can <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../rule/character/agility/">Agility</a> score.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the damage has any potency effects associated with it, the potency is reduced by 1 for you.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the damage has any <a href="../../../../rule/character/potency/">potency</a> effects associated with it, the <a href="../../../../rule/character/potency/">potency</a> is reduced by 1 for you.</span></div>
 </article>
 </div>
 </div>

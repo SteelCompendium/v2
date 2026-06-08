@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two heroic abilities.</p>
+<p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two <a href="../../../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -48,7 +48,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You vertically push the target up to 4 squares. This <a href="../../../../movement/forced-movement/">forced movement</a> ignores the target&#39;s stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a <a href="../../../common/main-actions/free-strike/">free strike</a> that deals extra damage equal to your <a href="../../../../rule/character/might/">Might</a> score.</p></div>
+<div class="sc-ability__section-body"><p>You vertically push the target up to 4 squares. This <a href="../../../../movement/forced-movement/">forced movement</a> ignores the target&#39;s <a href="../../../../rule/character/stability/">stability</a>, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a <a href="../../../common/main-actions/free-strike/">free strike</a> that deals extra damage equal to your <a href="../../../../rule/character/might/">Might</a> score.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -66,17 +66,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Push 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Push 2</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Push 3</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for you. You automatically destroy each square of structure you move through and leave behind a square of <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p><p>Additionally, you make one power roll that targets each enemy you move adjacent to during this movement.</p></div>
+<div class="sc-ability__section-body"><p>You move up to your <a href="../../../../rule/character/speed/">speed</a> in a straight line. During this movement, you can move through mundane structures, including walls, which are <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for you. You automatically destroy each square of structure you move through and leave behind a square of <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p><p>Additionally, you make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each enemy you move adjacent to during this movement.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> Push 1</li><li><b>12-16:</b> Push 2</li><li><b>17+:</b> Push 3</li></ul></div>
 </div>
 </article>
 </div>
@@ -106,13 +98,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M damage; P &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> and <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M damage; P &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> and <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M damage; P &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> and <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 3 + M damage; P &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> and <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>12-16:</b> 5 + M damage; P &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> and <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>17+:</b> 8 + M damage; P &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> and <a href="../../../../condition/frightened/">frightened</a> (save ends)</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -130,17 +117,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; A &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 damage; A &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 damage; A &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your speed and make one power roll that targets up to three enemies you move adjacent to during this <a href="../../../../movement/shifting/">shift</a>.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a> and make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets up to three enemies you move adjacent to during this <a href="../../../../movement/shifting/">shift</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 2 damage; A &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>12-16:</b> 4 damage; A &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>17+:</b> 6 damage; A &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li></ul></div>
 </div>
 </article>
 </div>
@@ -170,17 +149,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage; I &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; I &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 damage; I &lt; STRONG, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 4 damage; I &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>12-16:</b> 6 damage; I &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>17+:</b> 10 damage; I &lt; STRONG, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target can&#39;t be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.</p></div>
+<div class="sc-ability__section-body"><p>The target can&#39;t be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to move.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -195,16 +169,11 @@ type: feature
 <p class="sc-ability__flavor">The sound of the storm within you staggers your opponents.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; push 1; M &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; push 2; M &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; push 3; M &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 2 damage; push 1; M &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>12-16:</b> 5 damage; push 2; M &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>17+:</b> 7 damage; push 3; M &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

@@ -61,15 +61,15 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">You project an illusory aura that makes you and allies harder to notice.</p>
+<p class="sc-ability__flavor">You project an illusory <a href="../../../../rule/combat/aura/">aura</a> that makes you and allies harder to notice.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each creature in the area has a double <a href="../../../../rule/dice/edge/">edge</a> on tests made to <a href="../../../../skill/hide/">hide</a> or <a href="../../../../skill/sneak/">sneak</a>. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
+<div class="sc-ability__section-body"><p>Each creature in the area has a double <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to <a href="../../../../skill/hide/">hide</a> or <a href="../../../../skill/sneak/">sneak</a>. The <a href="../../../../rule/combat/aura/">aura</a> lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
@@ -100,7 +100,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>The weapon improved by your <a href="../../../censor/level-1/sanctified-weapon/">Sanctified Weapon</a> feature grants a +3 bonus to rolled damage instead of +1.</p>
+<p>The weapon improved by your <a href="../../../censor/level-1/sanctified-weapon/">Sanctified Weapon</a> feature grants a +3 bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> instead of +1.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -110,7 +110,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>As a main action, you forge a bond of love and friendship with a willing creature you touch. While this bond is active, you can telepathically speak with the creature over any <a href="../../../../rule/combat/distance/">distance</a>, including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any test they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).</p>
+<p>As a main action, you forge a bond of love and friendship with a willing creature you touch. While this bond is active, you can telepathically speak with the creature over any <a href="../../../../rule/combat/distance/">distance</a>, including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any <a href="../../../../rule/test/test/">test</a> they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -120,7 +120,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can&#39;t hide. While this feature is active, you gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to notice hidden objects and entrances and to detect supernatural illusions.</p>
+<p>As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can&#39;t hide. While this feature is active, you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to notice hidden objects and entrances and to detect supernatural illusions.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -130,7 +130,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Each time you finish a respite, you can share the vague dreams of the future granted to you by the gods with allies who finished the respite with you. These premonitions help you and your allies stay alive, granting each of you <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to 10 + your level that lasts until you finish a respite.</p>
+<p>Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can share the vague dreams of the future granted to you by the gods with allies who finished the <a href="../../../../rule/resource/respite/">respite</a> with you. These premonitions help you and your allies stay alive, granting each of you <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to 10 + your level that lasts until you finish a <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -140,7 +140,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You can commune with a network of spirits. As a respite activity, you speak the name of a creature who died and isn&#39;t undead. If the creature&#39;s spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn&#39;t free or willing to appear, you can speak another name or choose another respite activity.</p>
+<p>You can commune with a network of spirits. As a <a href="../../../../rule/resource/respite/">respite</a> activity, you speak the name of a creature who died and isn&#39;t undead. If the creature&#39;s spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn&#39;t free or willing to appear, you can speak another name or choose another <a href="../../../../rule/resource/respite/">respite</a> activity.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -150,7 +150,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of a respite, you can inspire yourself or another creature taking the same respite with divine knowledge. If the target makes a project roll during this respite, they can add 1d10 plus your <a href="../../../../rule/character/intuition/">Intuition</a> score to the roll.</p>
+<p>At the start of a <a href="../../../../rule/resource/respite/">respite</a>, you can inspire yourself or another creature taking the same <a href="../../../../rule/resource/respite/">respite</a> with divine knowledge. If the target makes a <a href="../../../../rule/downtime/project-roll/">project roll</a> during this <a href="../../../../rule/resource/respite/">respite</a>, they can add 1d10 plus your <a href="../../../../rule/character/intuition/">Intuition</a> score to the roll.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -160,7 +160,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>While you have 5 or more Victories, you can <a href="../../../../movement/fly/">fly</a>. If you can already <a href="../../../../movement/fly/">fly</a>, you have a +2 bonus to speed while <a href="../../../../movement/fly/">flying</a> instead.</p>
+<p>While you have 5 or more <a href="../../../../rule/resource/victories/">Victories</a>, you can <a href="../../../../movement/fly/">fly</a>. If you can already <a href="../../../../movement/fly/">fly</a>, you have a +2 bonus to <a href="../../../../rule/character/speed/">speed</a> while <a href="../../../../movement/fly/">flying</a> instead.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

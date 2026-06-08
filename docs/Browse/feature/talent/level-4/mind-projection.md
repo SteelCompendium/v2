@@ -21,6 +21,6 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious <a href="../../../../condition/prone/">and prone</a>, and your mind is a separate entity with <a href="../../../../rule/character/size/">size</a> 1T. Your mind automatically has <a href="../../../../rule/combat/concealment/">concealment</a>, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.</p>
-<p>Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your <a href="../../../../rule/health/stamina/">Stamina</a>. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a free maneuver.</p>
+<p>Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your <a href="../../../../rule/health/stamina/">Stamina</a>. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a>.</p>
 </div>
 </section>

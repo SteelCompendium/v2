@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your senses are especially keen and perceptive. You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to notice threats.</p>
+<p>Your senses are especially keen and perceptive. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to notice threats.</p>
 </div>
 </section>

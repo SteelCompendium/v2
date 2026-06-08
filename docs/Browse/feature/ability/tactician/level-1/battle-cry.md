@@ -32,12 +32,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three allies</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Each target gains 1 <a href="../../../../../rule/resource/surge/">surge</a>.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Each target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Each target gains 3 <a href="../../../../../rule/resource/surge/">surges</a>.</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> Each target gains 1 <a href="../../../../../rule/resource/surge/">surge</a>.</li><li><b>12-16:</b> Each target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>.</li><li><b>17+:</b> Each target gains 3 <a href="../../../../../rule/resource/surge/">surges</a>.</li></ul></div>
 </div>
 </article>

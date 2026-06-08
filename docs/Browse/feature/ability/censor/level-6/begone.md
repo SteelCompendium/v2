@@ -2,7 +2,7 @@
 action_type: Main action
 class: censor
 cost: 9 Wrath
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 flavor: You terrify your enemies into retreating, creating chaos in their ranks.
 keywords:
     - Area
@@ -30,15 +30,10 @@ type: ability
 <p class="sc-ability__flavor">You terrify your enemies into retreating, creating chaos in their ranks.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 psychic damage; slide 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 psychic damage; slide 5</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 psychic damage; slide 7</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 4 psychic damage; slide 3</li><li><b>12-16:</b> 6 psychic damage; slide 5</li><li><b>17+:</b> 8 psychic damage; slide 7</li></ul></div>
 </div>
 </article>

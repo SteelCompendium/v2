@@ -1,6 +1,6 @@
 ---
 echelon: "2"
-effect: While worn, this belt grants you a +3 bonus to [Stamina](../../../rule/health/stamina.md) and a +1 bonus to Stability. This [Stamina](../../../rule/health/stamina.md) bonus adds to the [Stamina](../../../rule/health/stamina.md) bonus granted by other treasures.
+effect: While worn, this belt grants you a +3 bonus to [Stamina](../../../rule/health/stamina.md) and a +1 bonus to [Stability](../../../rule/character/stability.md). This [Stamina](../../../rule/health/stamina.md) bonus adds to the [Stamina](../../../rule/health/stamina.md) bonus granted by other treasures.
 keywords:
     - Magic
     - Waist
@@ -18,12 +18,12 @@ type: treasure
 
 **Keywords:** Magic, Waist
 
-**Item Prerequisite:** A giant's tooth
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A giant's tooth
 
-**Project Source:** Texts or lore in High Kuric
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in High Kuric
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md) or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 300
 
-**Effect:** While worn, this belt grants you a +3 bonus to [Stamina](../../../rule/health/stamina.md) and a +1 bonus to Stability. This [Stamina](../../../rule/health/stamina.md) bonus adds to the [Stamina](../../../rule/health/stamina.md) bonus granted by other treasures.
+**Effect:** While worn, this belt grants you a +3 bonus to [Stamina](../../../rule/health/stamina.md) and a +1 bonus to [Stability](../../../rule/character/stability.md). This [Stamina](../../../rule/health/stamina.md) bonus adds to the [Stamina](../../../rule/health/stamina.md) bonus granted by other treasures.

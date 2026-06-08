@@ -3,7 +3,7 @@ action_type: Maneuver
 class: tactician
 cost: 3 Focus
 distance: Ranged 10
-effect: Each target can move up to their speed.
+effect: Each target can move up to their [speed](../../../../rule/character/speed.md).
 flavor: On your command, you and your allies force back the enemy line.
 keywords:
     - Ranged
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can move up to their speed.</p></div>
+<div class="sc-ability__section-body"><p>Each target can move up to their <a href="../../../../../rule/character/speed/">speed</a>.</p></div>
 </div>
 </article>

@@ -39,11 +39,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target makes an ability roll.</p></div>
+<div class="sc-ability__section-body"><p>The target makes an <a href="../../../../rule/dice/ability-roll/">ability roll</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.</p></div>
+<div class="sc-ability__section-body"><p>You can use this ability after seeing the result of the triggering roll. The target must reroll the <a href="../../../../rule/dice/power-roll/">power roll</a> and use the new roll.</p></div>
 </div>
 </article>
 </div>

@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and <a href="../enchantment/">enchantment</a> (see above) by performing a complex ritual as a respite activity. (<em>Quick Build:</em> <a href="../ward-of-surprising-reactivity/">Ward of Surprising Reactivity</a>.)</p>
+<p>You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward and <a href="../enchantment/">enchantment</a> (see above) by performing a complex ritual as a <a href="../../../../rule/resource/respite/">respite</a> activity. (<em>Quick Build:</em> <a href="../ward-of-surprising-reactivity/">Ward of Surprising Reactivity</a>.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -52,7 +52,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The green energy writhing within your body allows you to produce powerful vines when you&#39;re in danger. Whenever a creature within a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score deals damage to you, you can use a free triggered action to slide that creature up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
+<p>The green energy writhing within your body allows you to produce powerful vines when you&#39;re in danger. Whenever a creature within a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score deals damage to you, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to slide that creature up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -63,7 +63,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You use the magic of fire to create a ward of explosive energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push that creature up to a number of squares equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
+<p>You use the magic of fire to create a ward of explosive energy. Whenever an adjacent creature deals damage to you, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to push that creature up to a number of squares equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 </div>

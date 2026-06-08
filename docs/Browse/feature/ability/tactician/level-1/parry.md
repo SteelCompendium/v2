@@ -2,7 +2,7 @@
 action_type: Triggered
 class: tactician
 distance: Melee 2
-effect: You can [shift](../../../../movement/shifting.md) 1 square. If the target is you, or if you end this [shift](../../../../movement/shifting.md) adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.
+effect: You can [shift](../../../../movement/shifting.md) 1 square. If the target is you, or if you end this [shift](../../../../movement/shifting.md) adjacent to the target, the target takes half the damage. If the damage has any [potency](../../../../rule/character/potency.md) effect associated with it, the [potency](../../../../rule/character/potency.md) is decreased by 1.
 flavor: Your quick reflexes cost an enemy the precision they seek.
 keywords:
     - Melee
@@ -42,7 +42,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> 1 square. If the target is you, or if you end this <a href="../../../../../movement/shifting/">shift</a> adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> 1 square. If the target is you, or if you end this <a href="../../../../../movement/shifting/">shift</a> adjacent to the target, the target takes half the damage. If the damage has any <a href="../../../../../rule/character/potency/">potency</a> effect associated with it, the <a href="../../../../../rule/character/potency/">potency</a> is decreased by 1.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">This ability&#39;s <a href="../../../../../rule/combat/distance/">distance</a> becomes Melee 1 + your <a href="../../../../../rule/character/reason/">Reason</a> score, and you can <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../../rule/character/reason/">Reason</a> score instead of 1 square.</span></div>
 </article>

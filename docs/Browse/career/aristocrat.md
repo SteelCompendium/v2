@@ -2,12 +2,10 @@
 language: One language
 name: Aristocrat
 perk: One lore perk (*Quick Build:* I've Read About This Place.)
-renown: "+1"
 scc: mcdm.heroes.v1/career/aristocrat
 skills:
     - One skill from the interpersonal skill group and one skill from the lore group (*Quick Build:* [Brag](../skill/brag.md), [Society](../skill/society.md).)
 type: career
-wealth: "+1"
 ---
 
 # Aristocrat
@@ -27,9 +25,9 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Renown:** +1
+**[Renown](../rule/resource/renown.md):** +1
 
-**Wealth:** +1
+**[Wealth](../rule/resource/wealth.md):** +1
 
 **Perk:** One lore perk (*Quick Build:* I've Read About This Place.)
 

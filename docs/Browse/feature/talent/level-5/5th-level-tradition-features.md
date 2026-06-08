@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature. The NPC must answer the question truthfully to the best of their ability.</p>
+<p>Whenever you obtain a success on a <a href="../../../../rule/test/test/">test</a> using a skill from the interpersonal skill group while interacting with an <a href="../../../../rule/general/npc/">NPC</a>, you can ask them a question using your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature. The <a href="../../../../rule/general/npc/">NPC</a> must answer the question truthfully to the best of their ability.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>While you are not <a href="../../../../rule/health/dying/">dying</a>, time behaves irregularly around you in a 3 aura. That area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies. Additionally, when an ally enters the area for the first time in a combat round or starts their turn there, they gain a +2 bonus to speed until the end of the turn.</p>
+<p>While you are not <a href="../../../../rule/health/dying/">dying</a>, time behaves irregularly around you in a 3 <a href="../../../../rule/combat/aura/">aura</a>. That area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies. Additionally, when an ally enters the area for the first time in a combat round or starts their turn there, they gain a +2 bonus to <a href="../../../../rule/character/speed/">speed</a> until the end of the turn.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -84,7 +84,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Once per combat round while you are not <a href="../../../../rule/health/dying/">dying</a>, you can spend 2 clarity when you use a triggered action to turn it into a free triggered action.</p>
+<p>Once per combat round while you are not <a href="../../../../rule/health/dying/">dying</a>, you can spend 2 clarity when you use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to turn it into a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -95,7 +95,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever an ally uses a ranged ability while you are within the ability&#39;s <a href="../../../../rule/combat/distance/">distance</a>, you can spend 1 clarity as a free triggered action to allow them to use the ability as if they were in your space.</p>
+<p>Whenever an ally uses a ranged ability while you are within the ability&#39;s <a href="../../../../rule/combat/distance/">distance</a>, you can spend 1 clarity as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to allow them to use the ability as if they were in your space.</p>
 </div>
 </section>
 </div>

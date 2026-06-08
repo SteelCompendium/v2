@@ -15,9 +15,9 @@ Hell is dominated by the Seven Cities of Hell, each ruled by a different archdev
 
 Those [devils](devil.md) who join "the trade," as their civil service is called, spend their days in bureaucratic service hoping or scheming for promotion. [Devils](devil.md) looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the mundane world who perform the right rituals can summon a [devil](devil.md), who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant's soul, with the summoned [devil](devil.md) acting as the broker.
 
-On rare occasions, though, the summoning goes wrong and the supplicant dies before the deal can be struck, stranding the summoned [devil](devil.md) on Orden permanently. Some stranded [devils](devil.md) seek to return to Hell, but most prefer life in Orden, where the phrase "stabbed in the back by a colleague" is usually a metaphor.
+On rare occasions, though, the summoning goes wrong and the supplicant dies before the deal can be struck, stranding the summoned [devil](devil.md) on [Orden](../rule/world/orden.md) permanently. Some stranded [devils](devil.md) seek to return to Hell, but most prefer life in [Orden](../rule/world/orden.md), where the phrase "stabbed in the back by a colleague" is usually a metaphor.
 
-The majority of [devils](devil.md) in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of [devils](devil.md) who were stranded in the mundane world decades, centuries, even millennia ago.
+The majority of [devils](devil.md) in [Orden](../rule/world/orden.md) are not from, nor have ever been to, the Seven Cities. They are descendants of [devils](devil.md) who were stranded in the mundane world decades, centuries, even millennia ago.
 
 ## On Devils
 
@@ -119,7 +119,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 
 ### Signature Trait: Silver Tongue {data-scc="mcdm.heroes.v1/feature.trait.devil/silver-tongue"}
 
-Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)), and you gain an [edge](../rule/dice/edge.md) on tests when attempting to discover an NPC's motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](../../Read/heroes/negotiation.md)).
+Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)), and you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) when attempting to discover an [NPC](../rule/general/npc.md)'s motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](../../Read/heroes/negotiation.md)).
 
 ### Purchased Devil Traits
 
@@ -131,11 +131,11 @@ Your pointy tail allows you to punctuate all your actions. Once per round when y
 
 #### Beast Legs {data-scc="mcdm.heroes.v1/feature.trait.devil/beast-legs"}
 
-Your powerful legs make you faster. You have speed 6.
+Your powerful legs make you faster. You have [speed](../rule/character/speed.md) 6.
 
 #### Glowing Eyes {data-scc="mcdm.heroes.v1/feature.trait.devil/glowing-eyes"}
 
-Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to deal that creature psychic damage equal to 1d10 + your level.
+Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a [triggered action](../rule/combat/triggered-action.md) to deal that creature psychic damage equal to 1d10 + your level.
 
 #### Hellsight {data-scc="mcdm.heroes.v1/feature.trait.devil/hellsight"}
 
@@ -143,7 +143,7 @@ Your eyes let you see through darkness, fog, and other obscuring effects. You do
 
 #### Impressive Horns {data-scc="mcdm.heroes.v1/feature.trait.devil/impressive-horns"}
 
-Your cherished horns are larger than the average [devil's](devil.md), and a hardened representation of your force of will. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
+Your cherished horns are larger than the average [devil's](devil.md), and a hardened representation of your force of will. Whenever you make a [saving throw](../rule/general/saving-throw.md), you succeed on a roll of 5 or higher.
 
 #### Prehensile Tail {data-scc="mcdm.heroes.v1/feature.trait.devil/prehensile-tail"}
 

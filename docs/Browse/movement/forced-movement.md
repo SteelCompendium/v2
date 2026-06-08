@@ -16,7 +16,7 @@ Some actions and maneuvers allow a creature to push, pull, or slide a target cre
 
 When you [force move](forced-movement.md) a target, you can always move that target fewer squares than the number indicated. For example, when the [conduit](../class/conduit.md) obtains a tier 3 "push 3" outcome with their Call the Thunder Down ability, they can push targets any [distance](../rule/combat/distance.md) up to 3 squares, including choosing to not move certain targets at all.
 
-[Forced movement](forced-movement.md) ignores [difficult terrain](difficult-terrain.md) and never provokes opportunity attacks. When you force move a target into [damaging terrain](damaging-terrain.md) or into terrain that produces an effect, they are affected as if they had moved into it willingly.
+[Forced movement](forced-movement.md) ignores [difficult terrain](difficult-terrain.md) and never provokes [opportunity attacks](../rule/combat/opportunity-attack.md). When you force move a target into [damaging terrain](damaging-terrain.md) or into terrain that produces an effect, they are affected as if they had moved into it willingly.
 
 > **Multitarget Abilities and [Forced Movement](forced-movement.md)**
 >

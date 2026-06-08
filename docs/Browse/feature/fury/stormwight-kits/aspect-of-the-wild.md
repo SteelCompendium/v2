@@ -37,9 +37,9 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in <a href="../../../../complication/animal-form/">animal form</a> or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in <a href="../../../../complication/animal-form/">animal form</a>, you treat your Renown as 2 higher than usual.</p></div>
+<div class="sc-ability__section-body"><p>You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in <a href="../../../../complication/animal-form/">animal form</a> or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in <a href="../../../../complication/animal-form/">animal form</a>, you treat your <a href="../../../../rule/resource/renown/">Renown</a> as 2 higher than usual.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">As a free maneuver, you can shapeshift a second time, either into another <a href="../../../../complication/animal-form/">animal form</a>, into your hybrid form, or back into your true form.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">As a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a>, you can shapeshift a second time, either into another <a href="../../../../complication/animal-form/">animal form</a>, into your hybrid form, or back into your true form.</span></div>
 </article>
 </div>
 </div>

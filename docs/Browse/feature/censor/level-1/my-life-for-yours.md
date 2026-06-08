@@ -45,7 +45,7 @@ type: feature
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>You spend a <a href="../../../../rule/health/recoveries/">Recovery</a> and the target regains <a href="../../../../rule/health/stamina/">Stamina</a> equal to your <a href="../../../../rule/health/recoveries/">recovery value</a>.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Wrath</span><span class="txt">You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a <a href="../../../../condition/prone/">prone</a> target can stand up.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Wrath</span><span class="txt">You can end one effect on the target that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn, or a <a href="../../../../condition/prone/">prone</a> target can stand up.</span></div>
 </article>
 </div>
 </div>

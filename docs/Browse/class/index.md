@@ -87,7 +87,7 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Tactician</div></div></div>
-  <div class="sc-card__intro"><p>Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the followers of evil to best you if they can.</p>
+  <div class="sc-card__intro"><p>Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the <a href="../rule/general/follower/">followers</a> of evil to best you if they can.</p>
 <p><strong>As a <a href="tactician/">tactician</a>, you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.</strong></p>
 <blockquote>
 <p>&quot;Your line is broken, Varrox! Your wizard is dead. Hahah! You should have negotiated!&quot;</p>

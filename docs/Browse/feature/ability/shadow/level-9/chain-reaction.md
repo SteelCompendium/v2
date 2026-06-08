@@ -33,16 +33,8 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 damage</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).</p></div>
+<div class="sc-ability__section-body"><p>Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 7 damage</li><li><b>12-16:</b> 10 damage</li><li><b>17+:</b> 15 damage</li></ul></div>
 </div>
 </article>

@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can use your <a href="../../level-1/scene-partner/">Scene Partner</a> feature to form a bond with one willing hero instead of an NPC you interact with using a test. If you bond with another hero, you lose your existing bond with a hero.</p>
-<p>Additionally, you and creatures you are bonded with gain a +1 bonus to saving throws. Whenever you or a bonded creature succeeds on a saving throw, you and each creature you are bonded with gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your level.</p>
+<p>You can use your <a href="../../level-1/scene-partner/">Scene Partner</a> feature to form a bond with one willing hero instead of an <a href="../../../../rule/general/npc/">NPC</a> you interact with using a <a href="../../../../rule/test/test/">test</a>. If you bond with another hero, you lose your existing bond with a hero.</p>
+<p>Additionally, you and creatures you are bonded with gain a +1 bonus to <a href="../../../../rule/general/saving-throw/">saving throws</a>. Whenever you or a bonded creature succeeds on a <a href="../../../../rule/general/saving-throw/">saving throw</a>, you and each creature you are bonded with gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your level.</p>
 </div>
 </section>

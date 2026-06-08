@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one signature ability from the following options. Signature abilities can be used at will. (<em>Quick Build:</em> <a href="../../../ability/censor/level-1/your-allies-cannot-save-you/">Your Allies Cannot Save You</a>!)</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/combat/signature-ability/">signature ability</a> from the following options. <a href="../../../../rule/combat/signature-ability/">Signature abilities</a> can be used at will. (<em>Quick Build:</em> <a href="../../../ability/censor/level-1/your-allies-cannot-save-you/">Your Allies Cannot Save You</a>!)</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -43,16 +43,11 @@ type: feature
 <p class="sc-ability__flavor">You channel power through your weapon to repel foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 cube within 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../rule/combat/cube/">cube</a> within 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 holy damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 holy damage; push 2</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 holy damage; push 3</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 2 holy damage; push 1</li><li><b>12-16:</b> 4 holy damage; push 2</li><li><b>17+:</b> 6 holy damage; push 3</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -70,13 +65,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P psychic damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + P psychic damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + P psychic damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 5 + P psychic damage</li><li><b>12-16:</b> 7 + P psychic damage</li><li><b>17+:</b> 10 + P psychic damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -98,13 +88,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M holy damage; P &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M holy damage; P &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + M holy damage; P &lt; STRONG, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 2 + M holy damage; P &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>12-16:</b> 5 + M holy damage; P &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>17+:</b> 7 + M holy damage; P &lt; STRONG, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -122,13 +107,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M holy damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M holy damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M holy damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 3 + M holy damage</li><li><b>12-16:</b> 5 + M holy damage</li><li><b>17+:</b> 8 + M holy damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -145,7 +125,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You call upon a number of heroic abilities, all of them bound to your wrath.</p>
+<p>You call upon a number of <a href="../../../../rule/general/heroic-ability/">heroic abilities</a>, all of them bound to your wrath.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -154,7 +134,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 3 wrath to use. (<em>Quick Build:</em> <a href="../../../ability/censor/level-1/the-gods-punish-and-defend/">The Gods Punish and Defend</a>.)</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 3 wrath to use. (<em>Quick Build:</em> <a href="../../../ability/censor/level-1/the-gods-punish-and-defend/">The Gods Punish and Defend</a>.)</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
@@ -172,17 +152,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M holy damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M holy damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + M holy damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 3 + M holy damage</li><li><b>12-16:</b> 6 + M holy damage</li><li><b>17+:</b> 9 + M holy damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, enemies take a <a href="../../../../rule/dice/bane/">bane</a> on ability rolls made against you or any ally adjacent to you.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, enemies take a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/ability-roll/">ability rolls</a> made against you or any ally adjacent to you.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -200,17 +175,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M damage; push 3</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + M damage; push 5</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 3 + M damage; push 1</li><li><b>12-16:</b> 6 + M damage; push 3</li><li><b>17+:</b> 9 + M damage; push 5</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> up to your speed in a straight line toward the target after pushing them.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a> in a straight line toward the target after pushing them.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -228,13 +198,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M holy damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M holy damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M holy damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 5 + M holy damage</li><li><b>12-16:</b> 8 + M holy damage</li><li><b>17+:</b> 11 + M holy damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -256,13 +221,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P holy damage; I &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + P holy damage; I &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + P holy damage; I &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 5 + P holy damage; I &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>12-16:</b> 8 + P holy damage; I &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>17+:</b> 11 + P holy damage; I &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li></ul></div>
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
@@ -272,7 +232,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 5 wrath to use. (<em>Quick Build:</em> <a href="../../../ability/censor/level-1/purifying-fire/">Purifying Fire</a>.)</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 5 wrath to use. (<em>Quick Build:</em> <a href="../../../ability/censor/level-1/purifying-fire/">Purifying Fire</a>.)</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
@@ -290,13 +250,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M holy damage; <a href="../../../../condition/grabbed/">grabbed</a></span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + M holy damage; <a href="../../../../condition/grabbed/">grabbed</a></span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + M holy damage; <a href="../../../../condition/grabbed/">grabbed</a></span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 6 + M holy damage; <a href="../../../../condition/grabbed/">grabbed</a></li><li><b>12-16:</b> 9 + M holy damage; <a href="../../../../condition/grabbed/">grabbed</a></li><li><b>17+:</b> 13 + M holy damage; <a href="../../../../condition/grabbed/">grabbed</a></li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -318,13 +273,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M holy damage; if the target has P &lt; WEAK, each enemy within 2 squares of them is <a href="../../../../condition/frightened/">frightened</a> of you (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M holy damage; if the target has P &lt; AVERAGE, each enemy within 2 squares of them is <a href="../../../../condition/frightened/">frightened</a> of you (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M holy damage; if the target has P &lt; STRONG, each enemy within 2 squares of them is <a href="../../../../condition/frightened/">frightened</a> of you (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 3 + M holy damage; if the target has P &lt; WEAK, each enemy within 2 squares of them is <a href="../../../../condition/frightened/">frightened</a> of you (save ends)</li><li><b>12-16:</b> 5 + M holy damage; if the target has P &lt; AVERAGE, each enemy within 2 squares of them is <a href="../../../../condition/frightened/">frightened</a> of you (save ends)</li><li><b>17+:</b> 8 + M holy damage; if the target has P &lt; STRONG, each enemy within 2 squares of them is <a href="../../../../condition/frightened/">frightened</a> of you (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -346,13 +296,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M holy damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + M holy damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 + M holy damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 2 + M holy damage</li><li><b>12-16:</b> 3 + M holy damage</li><li><b>17+:</b> 5 + M holy damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -374,13 +319,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M holy damage; M &lt; WEAK, the target has fire weakness 3 (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + M holy damage; M &lt; AVERAGE, the target has fire weakness 5 (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + M holy damage; M &lt; STRONG, the target has fire weakness 7 (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 5 + M holy damage; M &lt; WEAK, the target has fire weakness 3 (save ends)</li><li><b>12-16:</b> 9 + M holy damage; M &lt; AVERAGE, the target has fire weakness 5 (save ends)</li><li><b>17+:</b> 12 + M holy damage; M &lt; STRONG, the target has fire weakness 7 (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

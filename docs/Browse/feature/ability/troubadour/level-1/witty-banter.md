@@ -2,7 +2,7 @@
 action_type: Main action
 class: troubadour
 distance: Melee 1 or ranged 5
-effect: One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
+effect: One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn.
 flavor: A lyrical (and physical) jab insults an enemy and inspires an ally.
 keywords:
     - Magic
@@ -37,17 +37,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + P psychic damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + P psychic damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + P psychic damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 4 + P psychic damage</li><li><b>12-16:</b> 5 + P psychic damage</li><li><b>17+:</b> 7 + P psychic damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>One ally within 10 squares of you can end one effect on them that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">The chosen ally can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</span></div>
 </article>

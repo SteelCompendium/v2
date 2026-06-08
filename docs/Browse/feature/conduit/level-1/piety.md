@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain piety equal to your Victories. At the start of each of your turns during combat, you gain 1d3 piety.</p>
+<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain piety equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your turns during combat, you gain 1d3 piety.</p>
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:</p>
 <ul><li>If the roll is a 1, you gain 1 additional piety but anger the gods! You take psychic damage equal to 1d6 + your level, which can&#39;t be reduced in any way.</li><li>If the roll is a 2, you gain 1 additional piety.</li><li>If the roll is a 3, you gain 2 additional piety and can activate a domain effect of your choice (see below).</li></ul>
 <p>You lose any remaining piety at the end of the encounter.</p>
@@ -42,8 +42,8 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Though you can&#39;t gain piety outside of combat, you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.</p>
-<p>When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as <a href="../../../ability/conduit/level-1/healing-grace/">Healing Grace</a>, you can use it as if you had spent an amount of piety equal to your Victories.</p>
+<p>Though you can&#39;t gain piety outside of combat, you can use your <a href="../../../../rule/general/heroic-ability/">heroic abilities</a> and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more <a href="../../../../rule/resource/victories/">Victories</a> or finish a <a href="../../../../rule/resource/respite/">respite</a>.</p>
+<p>When you use an ability outside of combat that lets you spend unlimited piety on its effect, such as <a href="../../../ability/conduit/level-1/healing-grace/">Healing Grace</a>, you can use it as if you had spent an amount of piety equal to your <a href="../../../../rule/resource/victories/">Victories</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -84,7 +84,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.</li><li><b>Prayer Effect:</b> You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a <a href="../../../../rule/dice/power-roll/">power roll</a>, or an enemy within 10 squares obtains a tier 1 outcome on a <a href="../../../../rule/dice/power-roll/">power roll</a>.</li><li><b>Prayer Effect:</b> You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next <a href="../../../../rule/dice/power-roll/">power roll</a> made before the end of the encounter.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -104,7 +104,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares regains <a href="../../../../rule/health/stamina/">Stamina</a>.</li><li><b>Prayer Effect:</b> Choose yourself or one ally within 10 squares. That character can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they <a href="../../../../condition/prone/">are prone</a>. Alternatively, you or one ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to two times your <a href="../../../../rule/character/intuition/">Intuition</a> score.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares regains <a href="../../../../rule/health/stamina/">Stamina</a>.</li><li><b>Prayer Effect:</b> Choose yourself or one ally within 10 squares. That character can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, can end one effect on them that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn, or can stand up if they <a href="../../../../condition/prone/">are prone</a>. Alternatively, you or one ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to two times your <a href="../../../../rule/character/intuition/">Intuition</a> score.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -134,7 +134,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>, or uses a <a href="../triggered-action/">triggered action</a> to reduce incoming damage or to impose a <a href="../../../../rule/dice/bane/">bane</a> or double <a href="../../../../rule/dice/bane/">bane</a> on an enemy&#39;s power roll.</li><li><b>Prayer Effect:</b> One ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to four times your <a href="../../../../rule/character/intuition/">Intuition</a> score.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>, or uses a <a href="../triggered-action/">triggered action</a> to reduce incoming damage or to impose a <a href="../../../../rule/dice/bane/">bane</a> or double <a href="../../../../rule/dice/bane/">bane</a> on an enemy&#39;s <a href="../../../../rule/dice/power-roll/">power roll</a>.</li><li><b>Prayer Effect:</b> One ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to four times your <a href="../../../../rule/character/intuition/">Intuition</a> score.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -144,7 +144,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that an enemy within 10 squares is <a href="../../../../movement/forced-movement/">force moved</a>.</li><li><b>Prayer Effect:</b> Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your <a href="../../../../rule/character/intuition/">Intuition</a> score.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that an enemy within 10 squares is <a href="../../../../movement/forced-movement/">force moved</a>.</li><li><b>Prayer Effect:</b> Each enemy in a 3 <a href="../../../../rule/combat/cube/">cube</a> within 10 squares takes lightning damage equal to twice your <a href="../../../../rule/character/intuition/">Intuition</a> score.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

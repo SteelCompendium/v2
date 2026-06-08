@@ -16,11 +16,11 @@ type: treasure
 
 **Keywords:** Light Armor, Magic
 
-**Item Prerequisite:** Ten pages from each of a hundred different books
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** Ten pages from each of a hundred different books
 
-**Project Source:** Texts or lore in Anjali
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Anjali
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450
 

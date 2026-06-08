@@ -13,8 +13,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A giant's tooth</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in High Kuric</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="evilest-eye/" aria-label="Evilest Eye"></a>
@@ -26,8 +24,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> An eyeball from a pirate captain who drowned at sea</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="insightful-crown/" aria-label="Insightful Crown"></a>
@@ -39,8 +35,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> One measure of pure crystal, a jarred memory of true joy</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Variac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="key-of-inquiry/" aria-label="Key of Inquiry"></a>
@@ -52,8 +46,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> The finger bone of a creature with telepathy, three black opals</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Ullorvic</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="mediators-charm/" aria-label="Mediator&#39;s Charm"></a>
@@ -65,8 +57,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> The gold nib of a fountain pen used to sign a major treaty or compact, a ruby once worn by a <a href="../../../ancestry/devil/">devil</a></div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Hyrallic</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="necklace-of-the-bayou/" aria-label="Necklace of the Bayou"></a>
@@ -78,8 +68,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A gallon of swamp water, the limbs of four different newts</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Yllyric</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="scannerstone/" aria-label="Scannerstone"></a>
@@ -91,8 +79,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A piece of polished obsidian, seven flawless pea-sized diamonds</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Variac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="stop-n-go-coin/" aria-label="Stop-&#39;n-Go Coin"></a>
@@ -104,8 +90,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">300</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A coin minted during an earthquake</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="werewolf-tooth-pendant/" aria-label="Werewolf Tooth Pendant"></a>

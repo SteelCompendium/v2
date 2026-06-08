@@ -16,15 +16,15 @@ type: treasure
 
 **Keywords:** Psionic, Wand
 
-**Item Prerequisite:** A handful of shattered quartz
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A handful of shattered quartz
 
-**Project Source:** Texts or lore in Caelian
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Caelian
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** While you wield this implement, your magic or psionic abilities that deal rolled damage deal an extra 2 psychic damage. Additionally, you have [damage weakness](../../../rule/damage/damage-weakness.md) 3, and you gain an [edge](../../../rule/dice/edge.md) on magic or psionic abilities if you aren't at full [Stamina](../../../rule/health/stamina.md), or a double [edge](../../../rule/dice/edge.md) if you are [winded](../../../rule/health/winded.md).
+**1st Level:** While you wield this implement, your magic or psionic abilities that deal [rolled damage](../../../rule/damage/rolled-damage.md) deal an extra 2 psychic damage. Additionally, you have [damage weakness](../../../rule/damage/damage-weakness.md) 3, and you gain an [edge](../../../rule/dice/edge.md) on magic or psionic abilities if you aren't at full [Stamina](../../../rule/health/stamina.md), or a double [edge](../../../rule/dice/edge.md) if you are [winded](../../../rule/health/winded.md).
 
 **5th Level:** The implement's extra psychic damage increases to 3. Additionally, once per round when you take more than 20 damage from a single source, the implement's extra damage is doubled until the end of your next turn.
 

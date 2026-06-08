@@ -8,4 +8,4 @@ type: rule
 
 ---
 
-Some careers increase your starting Wealth score (from a base score of 1). See Wealth in Chapter 13: [Rewards](../../../Read/heroes/rewards.md) for more information.
+Some careers increase your starting [Wealth](wealth.md) score (from a base score of 1). See [Wealth](wealth.md) in Chapter 13: [Rewards](../../../Read/heroes/rewards.md) for more information.

@@ -36,13 +36,8 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 damage; M &lt; WEAK, <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 damage; M &lt; AVERAGE, <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 damage; M &lt; STRONG, <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 8 damage; M &lt; WEAK, <a href="../../../../../condition/grabbed/">grabbed</a></li><li><b>12-16:</b> 13 damage; M &lt; AVERAGE, <a href="../../../../../condition/grabbed/">grabbed</a></li><li><b>17+:</b> 17 damage; M &lt; STRONG, <a href="../../../../../condition/grabbed/">grabbed</a></li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

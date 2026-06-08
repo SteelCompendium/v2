@@ -14,4 +14,4 @@ When you hold an object in your hand for 1 uninterrupted minute, you can sense w
 - Why does this emotion linger on the object?
 - How long has it been since the object was held by the person whose emotion lingers on it?
 
-After asking one question, you can choose to delve deeper by asking one additional question from the list, but you are then overcome with emotions that do not belong to you. You take a [bane](../rule/dice/bane.md) on [Intuition](../rule/character/intuition.md) and [Presence](../rule/character/presence.md) tests until you finish a respite, and you can't use this perk again while you suffer this [bane](../rule/dice/bane.md).
+After asking one question, you can choose to delve deeper by asking one additional question from the list, but you are then overcome with emotions that do not belong to you. You take a [bane](../rule/dice/bane.md) on [Intuition](../rule/character/intuition.md) and [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) until you finish a [respite](../rule/resource/respite.md), and you can't use this perk again while you suffer this [bane](../rule/dice/bane.md).

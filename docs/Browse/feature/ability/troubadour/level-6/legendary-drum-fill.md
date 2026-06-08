@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: troubadour
 cost: 9 Drama
-distance: 4 burst
+distance: 4 [burst](../../../../rule/combat/burst.md)
 effect: Each target gains 1 [surge](../../../../rule/resource/surge.md), then gains 1 [surge](../../../../rule/resource/surge.md) at the start of each combat round until the end of the encounter.
 flavor: You start a drumroll that roars like thunder with every impact the heroes make.
 keywords:
@@ -31,7 +31,7 @@ type: ability
 <p class="sc-ability__flavor">You start a drumroll that roars like thunder with every impact the heroes make.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one signature ability from the following options. Signature abilities can be used at will. (<em>Quick Build:</em> <a href="../../../ability/shadow/level-1/teamwork-has-its-place/">Teamwork Has Its Place</a>.)</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/combat/signature-ability/">signature ability</a> from the following options. <a href="../../../../rule/combat/signature-ability/">Signature abilities</a> can be used at will. (<em>Quick Build:</em> <a href="../../../ability/shadow/level-1/teamwork-has-its-place/">Teamwork Has Its Place</a>.)</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -46,13 +46,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + A damage; I &lt; STRONG<a href="../../../../condition/prone/">, prone</a></span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 3 + A damage</li><li><b>12-16:</b> 5 + A damage</li><li><b>17+:</b> 8 + A damage; I &lt; STRONG<a href="../../../../condition/prone/">, prone</a></li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -74,17 +69,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + A damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 3 + A damage</li><li><b>12-16:</b> 6 + A damage</li><li><b>17+:</b> 9 + A damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target has none of your allies adjacent to them, you gain 1 <a href="../../../../rule/resource/surge/">surge</a> before making the power roll.</p></div>
+<div class="sc-ability__section-body"><p>If the target has none of your allies adjacent to them, you gain 1 <a href="../../../../rule/resource/surge/">surge</a> before making the <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -102,17 +92,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + A damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 3 + A damage</li><li><b>12-16:</b> 6 + A damage</li><li><b>17+:</b> 9 + A damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If any ally is adjacent to the target, you gain 1 <a href="../../../../rule/resource/surge/">surge</a> before making the power roll.</p></div>
+<div class="sc-ability__section-body"><p>If any ally is adjacent to the target, you gain 1 <a href="../../../../rule/resource/surge/">surge</a> before making the <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -130,13 +115,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + A damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 3 + A damage</li><li><b>12-16:</b> 5 + A damage</li><li><b>17+:</b> 8 + A damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -153,7 +133,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>A range of heroic abilities define your combat prowess, all of which make use of your insight.</p>
+<p>A range of <a href="../../../../rule/general/heroic-ability/">heroic abilities</a> define your combat prowess, all of which make use of your insight.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -162,7 +142,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 3 insight to use. (<em>Quick Build:</em> <a href="../../../ability/shadow/level-1/get-in-get-out/">Get In Get Out</a>.)</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 3 insight to use. (<em>Quick Build:</em> <a href="../../../ability/shadow/level-1/get-in-get-out/">Get In Get Out</a>.)</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
@@ -180,13 +160,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A damage; slide 2</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + A damage; slide 3</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + A damage; slide 5</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 4 + A damage; slide 2</li><li><b>12-16:</b> 6 + A damage; slide 3</li><li><b>17+:</b> 10 + A damage; slide 5</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -208,13 +183,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A damage; A &lt; WEAK, <a href="../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + A damage; A &lt; AVERAGE, <a href="../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + A damage; A &lt; STRONG, <a href="../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 4 + A damage; A &lt; WEAK, <a href="../../../../condition/bleeding/">bleeding</a> (save ends)</li><li><b>12-16:</b> 6 + A damage; A &lt; AVERAGE, <a href="../../../../condition/bleeding/">bleeding</a> (save ends)</li><li><b>17+:</b> 10 + A damage; A &lt; STRONG, <a href="../../../../condition/bleeding/">bleeding</a> (save ends)</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -232,17 +202,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + A damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 5 + A damage</li><li><b>12-16:</b> 8 + A damage</li><li><b>17+:</b> 11 + A damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> up to your speed, dividing that movement before or after your <a href="../../../../rule/combat/strike/">strike</a> as desired.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a>, dividing that movement before or after your <a href="../../../../rule/combat/strike/">strike</a> as desired.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -260,13 +225,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two creatures or objects</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 4 damage</li><li><b>12-16:</b> 6 damage</li><li><b>17+:</b> 10 damage</li></ul></div>
 </div>
 </article>
 </div>
@@ -279,7 +239,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 5 insight to use. (Quick Build: <a href="../../../ability/shadow/level-1/coup-de-grace/">Coup de Grace</a>.)</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 5 insight to use. (Quick Build: <a href="../../../ability/shadow/level-1/coup-de-grace/">Coup de Grace</a>.)</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -296,13 +256,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2d6 + 7 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">2d6 + 11 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">2d6 + 16 + A damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 2d6 + 7 + A damage</li><li><b>12-16:</b> 2d6 + 11 + A damage</li><li><b>17+:</b> 2d6 + 16 + A damage</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -320,17 +275,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a> and make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets up to three enemies who came adjacent to you during the move.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 3 damage</li><li><b>12-16:</b> 6 damage</li><li><b>17+:</b> 9 damage</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -348,13 +295,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + A damage; R &lt; WEAK, the target has <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + A damage; R &lt; AVERAGE, the target has <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + A damage; R &lt; STRONG, the target has <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 6 + A damage; R &lt; WEAK, the target has <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</li><li><b>12-16:</b> 9 + A damage; R &lt; AVERAGE, the target has <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</li><li><b>17+:</b> 13 + A damage; R &lt; STRONG, the target has <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -374,7 +316,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You use a <a href="../../../../rule/combat/strike/">strike</a> signature ability twice.</p></div>
+<div class="sc-ability__section-body"><p>You use a <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> twice.</p></div>
 </div>
 </article>
 </div>

@@ -10,19 +10,19 @@ type: rule
 
 A forested, medieval, feudal land, Vasloria is peppered with few cities, mostly just towns and villages. While there will someday be nations here with proper borders, as of now in the Age of Chaos those nations are merely geographic areas with names people use to distinguish lands that share similar terrain and subcultures.
 
-Aendrim, the land of hills and farms. Corwell with its knights and castles. The marshlands of Tull where witches and wise women battle hags and swamp monsters. The thick forests of Farrow with its bands of archers, and the horselands of Graid home to the best cavalry in Orden.
+Aendrim, the land of hills and farms. Corwell with its knights and castles. The marshlands of Tull where witches and wise women battle hags and swamp monsters. The thick forests of Farrow with its bands of archers, and the horselands of Graid home to the best cavalry in [Orden](orden.md).
 
 Mountainous northeastern Vasloria is home to the small earldoms of Sednia, Olvaria, and Sărda, and the earldom of Rhöl containing the land of Glauer once ruled by a deathless count.
 
-Scattered across it all, Vasloria boasts the densest collection of elf-haunted wodes in Orden. All regions have wodes, but Vasloria's northern border is the Great Wode where the world still works as it did before [humans](../../ancestry/human.md) arrived.
+Scattered across it all, Vasloria boasts the densest collection of elf-haunted wodes in [Orden](orden.md). All regions have wodes, but Vasloria's northern border is the Great Wode where the world still works as it did before [humans](../../ancestry/human.md) arrived.
 
 Within the wodes, time misbehaves. Cause and effect are only distant cousins, as all lands were before Ord placed the [dwarves](../../ancestry/dwarf.md) in the world,
 
-imposing the Law of Time on Orden. Children's tales of villagers wandering into a wode and emerging unchanged 100 years later are based on real events. When pressed on how this "works," the elves look baffled. "How does what work?"
+imposing the Law of Time on [Orden](orden.md). Children's tales of villagers wandering into a wode and emerging unchanged 100 years later are based on real events. When pressed on how this "works," the elves look baffled. "How does what work?"
 
 ## Omund's Land
 
-Western Vasloria, including most of Aendrim and Corwell and parts of Graid, was until recently ruled by Good King Omund. His draconian knights, the Dragon Phalanx, protected the weak from the strong, dispensing justice. Omund's rule lasted 35 years and in his life this area was known as Omund's Land.
+Western [Vasloria](vasloria.md), including most of Aendrim and Corwell and parts of Graid, was until recently ruled by Good King Omund. His draconian knights, the Dragon Phalanx, protected the weak from the strong, dispensing justice. Omund's rule lasted 35 years and in his life this area was known as Omund's Land.
 
 Under Omund's rule, order thrived. Roads were safe. People could even walk into the woods unafraid of meeting anything more threatening than a nymph or conversational manticore.
 

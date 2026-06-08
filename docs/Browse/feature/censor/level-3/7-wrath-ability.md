@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 7 wrath to use.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 7 wrath to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
 <div class="sc-ability__head">
@@ -34,7 +34,7 @@ type: feature
 <p class="sc-ability__flavor">The evil within your foes detonates with holy fire that burns only the guilty.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__section">
@@ -54,7 +54,7 @@ type: feature
 <p class="sc-ability__flavor">Within the area of your divine presence, your enemies will regret using their fell abilities.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__section">
@@ -74,7 +74,7 @@ type: feature
 <p class="sc-ability__flavor">You shed a righteous energy that punishes enemies who would harm you or your allies.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__section">
@@ -91,10 +91,10 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">The holy aura you project makes it painful for evil-doers to leave your reach.</p>
+<p class="sc-ability__flavor">The holy <a href="../../../../rule/combat/aura/">aura</a> you project makes it painful for evil-doers to leave your reach.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__section">

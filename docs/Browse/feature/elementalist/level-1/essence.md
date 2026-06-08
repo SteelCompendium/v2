@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain essence equal to your Victories. At the start of each of your turns during combat, you gain 2 essence.</p>
+<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain essence equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your turns during combat, you gain 2 essence.</p>
 <p>Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn&#39;t untyped or holy damage, you gain 1 essence.</p>
 <p>You lose any remaining essence at the end of the encounter.</p>
 </div>
@@ -41,9 +41,9 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Though you can&#39;t gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.</p>
-<p>When you use a persistent ability outside of combat (see <a href="../persistent-magic/">Persistent Magic</a> below), you can maintain it for a number of rounds equal to your Victories.</p>
-<p>When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to your Victories.</p>
+<p>Though you can&#39;t gain essence outside of combat, you can use your <a href="../../../../rule/general/heroic-ability/">heroic abilities</a> and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more <a href="../../../../rule/resource/victories/">Victories</a> or finish a <a href="../../../../rule/resource/respite/">respite</a>.</p>
+<p>When you use a persistent ability outside of combat (see <a href="../persistent-magic/">Persistent Magic</a> below), you can maintain it for a number of rounds equal to your <a href="../../../../rule/resource/victories/">Victories</a>.</p>
+<p>When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to your <a href="../../../../rule/resource/victories/">Victories</a>.</p>
 </div>
 </section>
 </div>

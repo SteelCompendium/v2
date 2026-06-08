@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of a respite, you can inspire yourself or another creature taking the same respite with divine knowledge. If the target makes a project roll during this respite, they can add 1d10 plus your <a href="../../../../rule/character/presence/">Presence</a> score to the roll.</p>
+<p>At the start of a <a href="../../../../rule/resource/respite/">respite</a>, you can inspire yourself or another creature taking the same <a href="../../../../rule/resource/respite/">respite</a> with divine knowledge. If the target makes a <a href="../../../../rule/downtime/project-roll/">project roll</a> during this <a href="../../../../rule/resource/respite/">respite</a>, they can add 1d10 plus your <a href="../../../../rule/character/presence/">Presence</a> score to the roll.</p>
 </div>
 </section>

@@ -4,7 +4,6 @@ equipment_text: You wear medium armor and wield a light weapon and a medium weap
 melee_damage_bonus: +2/+2/+2
 name: Dual Wielder
 scc: mcdm.heroes.v1/kit/dual-wielder
-speed_bonus: "+2"
 type: kit
 ---
 
@@ -20,9 +19,9 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 ## Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +6 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +6 per [echelon](../rule/general/echelon.md)
 
-**Speed Bonus:** +2
+**[Speed](../rule/character/speed.md) Bonus:** +2
 
 **Melee Damage Bonus:** +2/+2/+2
 
@@ -38,10 +37,10 @@ You wear medium armor and wield a light weapon and a medium weapon.
 |---------------------------|--------------------------------:|
 | **📏 Melee 1**            | **🎯 Two creatures or objects** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 damage
 - **12-16:** 6 damage
 - **17+:** 8 damage
 
-**Effect:** If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same power roll for both targets.
+**Effect:** If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same [power roll](../rule/dice/power-roll.md) for both targets.

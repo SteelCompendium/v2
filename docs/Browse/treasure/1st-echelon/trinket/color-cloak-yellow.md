@@ -18,14 +18,14 @@ type: treasure
 
 **Keywords:** Magic, Neck
 
-**Item Prerequisite:** A pint of yellow ichor, soul chalk
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A pint of yellow ichor, soul chalk
 
-**Project Source:** Licensing agreements in Anjali
+**[Project Source](../../../rule/downtime/project-source.md):** Licensing agreements in Anjali
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 150
 
 **Effect:** While worn, a yellow Color Cloak grants you lightning immunity equal to your level.
 
-Additionally, when you are targeted by any effect that deals lightning damage, you can use a triggered action to cause the next damage-dealing ability you use to deal extra lightning damage equal to your level. Once you deal this extra damage, your lightning immunity becomes lightning weakness with the same value until the end of the next round. You can't use this triggered action again until this weakness ends.
+Additionally, when you are targeted by any effect that deals lightning damage, you can use a [triggered action](../../../rule/combat/triggered-action.md) to cause the next damage-dealing ability you use to deal extra lightning damage equal to your level. Once you deal this extra damage, your lightning immunity becomes lightning weakness with the same value until the end of the next round. You can't use this [triggered action](../../../rule/combat/triggered-action.md) again until this weakness ends.

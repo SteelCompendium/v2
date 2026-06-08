@@ -16,7 +16,7 @@ type: title
 
 **Effect:** Choose one of the following benefits:
 
-- *Arcane Improvisation:* When you use a damage-dealing magic signature ability, you can change its [damage type](../rule/damage/damage-type.md) to acid, cold, corruption, fire, lightning, poison, or sonic damage.
-- *I Have Just the Book:* If you start a Discover Lore project in your hero's [stronghold](stronghold.md) or other a permanent base of operations you immediately gain 60 project points toward the completion of that project. If the project costs 60 or fewer points, you complete it in 10 uninterrupted minutes without needing to use a respite activity.
+- *Arcane Improvisation:* When you use a damage-dealing magic [signature ability](../rule/combat/signature-ability.md), you can change its [damage type](../rule/damage/damage-type.md) to acid, cold, corruption, fire, lightning, poison, or sonic damage.
+- *I Have Just the Book:* If you start a Discover Lore project in your hero's [stronghold](stronghold.md) or other a permanent base of operations you immediately gain 60 [project points](../rule/downtime/project-points.md) toward the completion of that project. If the project costs 60 or fewer points, you complete it in 10 uninterrupted minutes without needing to use a [respite](../rule/resource/respite.md) activity.
 - *Picked Up a Few Things:* You know a skill from the lore skill group.
 - *Polyglot:* You know two languages. Additionally, the project goal for the Learn New Language project is halved for you.

@@ -12,9 +12,9 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 ## Types of Power Rolls
 
-The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](../../class/fury.md) uses their [Brutal Slam](../../feature/ability/fury/level-1/brutal-slam.md) ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See Abilities for more information.
+The game uses two types of power rolls. An **[ability roll](ability-roll.md)** is used when you use certain abilities to determine their impact. For instance, if a [fury](../../class/fury.md) uses their [Brutal Slam](../../feature/ability/fury/level-1/brutal-slam.md) ability to strike an enemy, their [ability roll](ability-roll.md) determines how much [damage](../damage/damage.md) the enemy takes and how far back the enemy is pushed. See Abilities for more information.
 
-A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](../../class/tactician.md) might not have an ability that lets them climb up the face of a cliff, so climbing is an activity they can attempt with a test. An [elementalist](../../class/elementalist.md) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](../../../Read/heroes/tests.md) for more information.
+A **[test](../test/test.md)** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](../../class/tactician.md) might not have an ability that lets them climb up the face of a cliff, so climbing is an activity they can attempt with a [test](../test/test.md). An [elementalist](../../class/elementalist.md) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a [test](../test/test.md) if they want to try. See [Tests](../../../Read/heroes/tests.md) for more information.
 
 > **Sapient Creatures**
 >
@@ -22,29 +22,29 @@ A **test** is a power roll you make outside of using your abilities to affect or
 
 ## Making a Power Roll
 
-When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your [characteristics](../character/characteristic.md). The [characteristic](../character/characteristic.md) you add depends on the kind of roll you're making, as outlined in Abilities and Tests.
+When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your [characteristics](../character/characteristic.md). The [characteristic](../character/characteristic.md) you add depends on the kind of roll you're making, as outlined in Abilities and [Tests](../test/test.md).
 
 ### Power Roll Outcomes {data-scc="mcdm.heroes.v1/rule.dice/tier-outcome"}
 
 The total of a power roll determines your outcome tier—three levels that determine how successful your power roll is.
 
-- **Tier 1:** If your power roll total is **11 or lower**, it is a tier 1 outcome. This is the worst outcome a power roll can have. If you're using an ability, a tier 1 outcome means you still do something, but the impact of what you do is minimal. With this outcome, a [strike](../combat/strike.md) ability might deal a little bit of damage and not do much else. For a test, a tier 1 outcome might mean you fail at what you set out to do, and you might also incur a negative consequence.
-- **Tier 2:** If your power roll total is **12 to 16**, it is a tier 2 outcome. This is the average outcome of many power rolls, especially for heroes who are 1st level. When using an ability, a tier 2 outcome means that what you do has a moderate impact. With this outcome, a [strike](../combat/strike.md) ability deals a decent amount of damage and has an effect that briefly helps allies or hinders enemies. For a test, a tier 2 outcome means you might succeed at what you set out to do—though depending on the difficulty, success might have a cost.
-- **Tier 3:** If your power roll total is **17 or higher**, it is a tier 3 outcome. This is the best outcome a power roll can have. When using an ability, a tier 3 outcome means you deliver the maximum impact possible. With this outcome, a [strike](../combat/strike.md) ability deals a lot of damage and has a powerful or lasting effect on enemies or allies. For a test, a tier 3 outcome means you succeed at what you set out to do. If the test has an easy difficulty, you also get a little something extra in addition to your success.
+- **Tier 1:** If your power roll total is **11 or lower**, it is a tier 1 outcome. This is the worst outcome a power roll can have. If you're using an ability, a tier 1 outcome means you still do something, but the impact of what you do is minimal. With this outcome, a [strike](../combat/strike.md) ability might deal a little bit of damage and not do much else. For a [test](../test/test.md), a tier 1 outcome might mean you fail at what you set out to do, and you might also incur a negative consequence.
+- **Tier 2:** If your power roll total is **12 to 16**, it is a tier 2 outcome. This is the average outcome of many power rolls, especially for heroes who are 1st level. When using an ability, a tier 2 outcome means that what you do has a moderate impact. With this outcome, a [strike](../combat/strike.md) ability deals a decent amount of damage and has an effect that briefly helps allies or hinders enemies. For a [test](../test/test.md), a tier 2 outcome means you might succeed at what you set out to do—though depending on the difficulty, success might have a cost.
+- **Tier 3:** If your power roll total is **17 or higher**, it is a tier 3 outcome. This is the best outcome a power roll can have. When using an ability, a tier 3 outcome means you deliver the maximum impact possible. With this outcome, a [strike](../combat/strike.md) ability deals a lot of damage and has a powerful or lasting effect on enemies or allies. For a [test](../test/test.md), a tier 3 outcome means you succeed at what you set out to do. If the [test](../test/test.md) has an easy difficulty, you also get a little something extra in addition to your success.
 
-The specific outcome of any power roll is determined by the effect or ability that requires the roll (see Abilities) or the rules for tests (see [Tests](../../../Read/heroes/tests.md)).
+The specific outcome of any power roll is determined by the effect or ability that requires the roll (see Abilities) or the rules for [tests](../test/test.md) (see [Tests](../../../Read/heroes/tests.md)).
 
 ### Downgrade a Power Roll
 
 Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the [restrained](../../condition/restrained.md) condition on a creature, but the tier 2 outcome for that ability lets you impose the [slowed](../../condition/slowed.md) condition, you can use the tier 2 outcome if you would rather have the creature [slowed](../../condition/slowed.md) than [restrained](../../condition/restrained.md).
 
-If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see Critical Hit in [Classes](../../../Read/heroes/classes.md)).
+If you downgrade a [critical hit](../combat/critical-hit.md), you still get the extra action benefit of the [critical hit](../combat/critical-hit.md) (see [Critical Hit](../combat/critical-hit.md) in [Classes](../../../Read/heroes/classes.md)).
 
 ### Natural Roll {data-scc="mcdm.heroes.v1/rule.dice/natural-roll"}
 
-The total of your power roll before your [characteristic](../character/characteristic.md) or any other modifiers are added is called the natural roll. The rules often refer to this as "rolling a natural X," where X is the total of the roll. For example, if you get a 20 on a power roll before adding your [characteristic](../character/characteristic.md), this is called rolling a natural 20.
+The total of your power roll before your [characteristic](../character/characteristic.md) or any other modifiers are added is called the natural roll. The rules often refer to this as "rolling a natural X," where X is the total of the roll. For example, if you get a 20 on a power roll before adding your [characteristic](../character/characteristic.md), this is called rolling a [natural 20](natural-19-20.md).
 
-When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a critical hit (see Critical Hit in [Classes](../../../Read/heroes/classes.md)).
+When you roll a [natural 19 or 20](natural-19-20.md) on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a [critical hit](../combat/critical-hit.md) (see [Critical Hit](../combat/critical-hit.md) in [Classes](../../../Read/heroes/classes.md)).
 
 ## Edges and Banes
 
@@ -88,6 +88,6 @@ Though it might sound as if the math with bonuses and penalties can get confusin
 
 ## Automatic Tier Outcomes
 
-Effects in the game sometimes allow a creature to obtain an automatic tier 1, 2, or 3 outcome on a power roll. Such effects supersede any [edges](edge.md), [banes](bane.md), bonuses, or penalties that might affect the roll. If you obtain an automatic tier outcome and the power roll would have an additional effect if you get a specific roll, such as scoring a critical hit in combat, you can still make the roll to determine if you obtain the additional effect in addition to the automatic outcome.
+Effects in the game sometimes allow a creature to obtain an automatic tier 1, 2, or 3 outcome on a power roll. Such effects supersede any [edges](edge.md), [banes](bane.md), bonuses, or penalties that might affect the roll. If you obtain an automatic [tier outcome](tier-outcome.md) and the power roll would have an additional effect if you get a specific roll, such as scoring a [critical hit](../combat/critical-hit.md) in combat, you can still make the roll to determine if you obtain the additional effect in addition to the automatic outcome.
 
 If you are under multiple effects that each grant you a different automatic outcome, those effects cancel each other out and all automatic outcomes are ignored. If multiple effects grant you the same automatic outcome, you obtain that outcome.

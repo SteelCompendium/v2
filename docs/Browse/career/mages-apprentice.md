@@ -2,7 +2,6 @@
 language: One language
 name: Mage's Apprentice
 perk: One supernatural perk (*Quick Build:* [Arcane Trick](../perk/arcane-trick.md).)
-renown: "+1"
 scc: mcdm.heroes.v1/career/mages-apprentice
 skills:
     - The [Magic](../skill/magic.md) skill (from the lore skill group), plus two other skills from the lore group (*Quick Build:* [Magic](../skill/magic.md), [Monsters](../skill/monsters.md), [Timescape](../skill/timescape.md).)
@@ -26,7 +25,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Renown:** +1
+**[Renown](../rule/resource/renown.md):** +1
 
 **Perk:** One supernatural perk (*Quick Build:* [Arcane Trick](../perk/arcane-trick.md).)
 

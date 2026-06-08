@@ -27,6 +27,6 @@ type: title
 >
 > | **Area, Magic** |                         **Maneuver** |
 > |-----------------|-------------------------------------:|
-> | **📏 3 burst**  | **🎯 Each undead enemy in the area** |
+> | **📏 3 [burst](../rule/combat/burst.md)**  | **🎯 Each undead enemy in the area** |
 >
 > **Effect:** Each target takes holy damage equal to your [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md) score (your choice). Additionally, each target who has P < STRONG is [frightened](../condition/frightened.md) (save ends).

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each time you finish a respite, you can open a two-way portal that leads to any place you have previously been. You and your allies can pass through the portal, which remains open for 1 hour or until you dismiss it as a main action.</p>
+<p>Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can open a two-way portal that leads to any place you have previously been. You and your allies can pass through the portal, which remains open for 1 hour or until you dismiss it as a main action.</p>
 </div>
 </section>

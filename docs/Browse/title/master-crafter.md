@@ -17,6 +17,6 @@ type: title
 **Effect:** Choose one of the following benefits:
 
 - *Masterpiece:* The armor, implement, or weapon can be imbued a fourth time, with any enhancement the item qualifies for.
-- *Research Dividends:* You gain the item prerequisite for an armor, implement, or weapon enhancement of your choice. Additionally, you learn the project source language for that enhancement.
-- *Skilled Hands:* You have a skill from the crafting skill group that would have been used during the creation of the prerequisite item. If you already have that skill, you instead gain an [edge](../rule/dice/edge.md) on tests made using the skill. Additionally, you gain a second skill of your choice from the crafting skill group.
-- *Strong Hands Make Light Work:* Whenever you make a project roll, you can use [Might](../rule/character/might.md) as the project roll [characteristic](../rule/character/characteristic.md).
+- *Research Dividends:* You gain the [item prerequisite](../rule/downtime/item-prerequisite.md) for an armor, implement, or weapon enhancement of your choice. Additionally, you learn the [project source](../rule/downtime/project-source.md) language for that enhancement.
+- *Skilled Hands:* You have a skill from the crafting skill group that would have been used during the creation of the prerequisite item. If you already have that skill, you instead gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the skill. Additionally, you gain a second skill of your choice from the crafting skill group.
+- *Strong Hands Make Light Work:* Whenever you make a [project roll](../rule/downtime/project-roll.md), you can use [Might](../rule/character/might.md) as the [project roll](../rule/downtime/project-roll.md) [characteristic](../rule/character/characteristic.md).

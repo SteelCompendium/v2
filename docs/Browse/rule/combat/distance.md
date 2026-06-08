@@ -18,7 +18,7 @@ Melee abilities have a [distance](distance.md) of "Melee X" and require you to m
 
 Ranged abilities have a [distance](distance.md) of "Ranged X" and can be used to target creatures or objects too far away for you to make contact with. The number X is the maximum [distance](distance.md) in squares at which a creature or object can be targeted by the ability. For instance, a [distance](distance.md) of "Ranged 5" can be used to target creatures or objects within 5 squares of you.
 
-If you make a ranged [strike](strike.md) while any enemy is adjacent to you (within 1 square), you have a [bane](../dice/bane.md) on the [strike](strike.md)'s power roll. (See [Edges](../dice/edge.md) and [Banes](../dice/bane.md) in Chapter 1: [The Basics](../../../Read/heroes/the-basics.md).)
+If you make a ranged [strike](strike.md) while any enemy is adjacent to you (within 1 square), you have a [bane](../dice/bane.md) on the [strike](strike.md)'s [power roll](../dice/power-roll.md). (See [Edges](../dice/edge.md) and [Banes](../dice/bane.md) in Chapter 1: [The Basics](../../../Read/heroes/the-basics.md).)
 
 ## Melee or Ranged
 

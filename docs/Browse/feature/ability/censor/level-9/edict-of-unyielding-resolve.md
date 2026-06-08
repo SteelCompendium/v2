@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: censor
 cost: 11 Wrath
-distance: 2 aura
+distance: 2 [aura](../../../../rule/combat/aura.md)
 effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target who starts their turn in the area gains 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 flavor: You and your allies are clad in shimmering armor.
 keywords:
@@ -31,7 +31,7 @@ type: ability
 <p class="sc-ability__flavor">You and your allies are clad in shimmering armor.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

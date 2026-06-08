@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can ask the Director for three rumors regarding the area you&#39;re in or an area you plan on entering before your next respite. One of the rumors can be false.</p>
+<p>You can ask the Director for three rumors regarding the area you&#39;re in or an area you plan on entering before your next <a href="../../../../rule/resource/respite/">respite</a>. One of the rumors can be false.</p>
 </div>
 </section>

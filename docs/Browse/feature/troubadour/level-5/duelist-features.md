@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed <a href="../../../../rule/character/presence/">Presence</a> test with the target. Whoever gets the higher result can make a <a href="../../../common/main-actions/free-strike/">free strike</a>, which deals psychic damage instead of its usual damage.</p>
+<p>Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to exchange words with them. Make an opposed <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">test</a> with the target. Whoever gets the higher result can make a <a href="../../../common/main-actions/free-strike/">free strike</a>, which deals psychic damage instead of its usual damage.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -54,7 +54,7 @@ type: feature
 <p class="sc-ability__flavor">Swordplay so graceful it looks like you all practiced this.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

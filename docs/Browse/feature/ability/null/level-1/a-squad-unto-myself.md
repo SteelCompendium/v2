@@ -2,8 +2,8 @@
 action_type: Main action
 class: "null"
 cost: 5 Discipline
-distance: 2 burst
-effect: You can take the [Disengage](../../../common/move-actions/disengage.md) move action as a free maneuver before or after you use this ability.
+distance: 2 [burst](../../../../rule/combat/burst.md)
+effect: You can take the [Disengage](../../../common/move-actions/disengage.md) move action as a [free maneuver](../../../../rule/combat/free-maneuver.md) before or after you use this ability.
 flavor: You move so quickly, it seems as though an army assaulted your foes.
 keywords:
     - Area
@@ -32,19 +32,14 @@ type: ability
 <p class="sc-ability__flavor">You move so quickly, it seems as though an army assaulted your foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 6 damage</li><li><b>12-16:</b> 9 damage</li><li><b>17+:</b> 13 damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can take the <a href="../../../../common/move-actions/disengage/">Disengage</a> move action as a free maneuver before or after you use this ability.</p></div>
+<div class="sc-ability__section-body"><p>You can take the <a href="../../../../common/move-actions/disengage/">Disengage</a> move action as a <a href="../../../../../rule/combat/free-maneuver/">free maneuver</a> before or after you use this ability.</p></div>
 </div>
 </article>

@@ -36,17 +36,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create three <a href="../../../../../rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your turns, you can use a free maneuver to fire an orb at a creature or object within 5 squares as a ranged <a href="../../../../../rule/combat/strike/">strike</a>, losing the orb after the <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
+<div class="sc-ability__section-body"><p>You create three <a href="../../../../../rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your turns, you can use a <a href="../../../../../rule/combat/free-maneuver/">free maneuver</a> to fire an orb at a creature or object within 5 squares as a ranged <a href="../../../../../rule/combat/strike/">strike</a>, losing the orb after the <a href="../../../../../rule/combat/strike/">strike</a>.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 damage</li><li><b>12-16:</b> 3 damage</li><li><b>17+:</b> 5 damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

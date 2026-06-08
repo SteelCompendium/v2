@@ -3,7 +3,7 @@ action_type: Maneuver
 class: fury
 cost: 9 Ferocity
 distance: Self
-effect: You jump up to your maximum jump [distance](../../../../rule/combat/distance.md) and make one power roll that targets each creature adjacent to the space where you land.
+effect: You jump up to your maximum jump [distance](../../../../rule/combat/distance.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets each creature adjacent to the space where you land.
 flavor: You leap and crash down, causing a shockwave that devastates foes.
 keywords:
     - Magic
@@ -33,16 +33,8 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 damage; push 2</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; push 3</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You jump up to your maximum jump <a href="../../../../../rule/combat/distance/">distance</a> and make one power roll that targets each creature adjacent to the space where you land.</p></div>
+<div class="sc-ability__section-body"><p>You jump up to your maximum jump <a href="../../../../../rule/combat/distance/">distance</a> and make one <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets each creature adjacent to the space where you land.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 4 damage; push 1</li><li><b>12-16:</b> 7 damage; push 2</li><li><b>17+:</b> 11 damage; push 3</li></ul></div>
 </div>
 </article>

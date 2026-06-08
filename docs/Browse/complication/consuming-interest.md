@@ -1,6 +1,6 @@
 ---
-benefit: 'You have one skill of your choice from the lore skill group, and you can use the Study Lore project (see below) up to three times for that skill. Each time you use the project, you must use a different project source, and the project goal increases. (See Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md).)'
-drawback: You can't imagine ever being wrong on the topic of your obsession. Whenever you make a test to recall lore using your chosen skill, the Director makes the test in secret. Instead of informing you whether you're right or wrong, they provide you with correct information if you succeeded and false information if you failed.
+benefit: 'You have one skill of your choice from the lore skill group, and you can use the Study Lore project (see below) up to three times for that skill. Each time you use the project, you must use a different [project source](../rule/downtime/project-source.md), and the project goal increases. (See Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md).)'
+drawback: You can't imagine ever being wrong on the topic of your obsession. Whenever you make a [test](../rule/test/test.md) to recall lore using your chosen skill, the Director makes the [test](../rule/test/test.md) in secret. Instead of informing you whether you're right or wrong, they provide you with correct information if you succeeded and false information if you failed.
 name: Consuming Interest
 scc: mcdm.heroes.v1/complication/consuming-interest
 type: complication
@@ -12,18 +12,18 @@ type: complication
 
 Ever since you were a kid, you've been obsessed with a certain topic. During your travels, you spend your free time gleaning all the information you can on that obsession. You might not be the world's leading expert quite yet, but people should certainly trust your opinion on the topic.
 
-**Benefit:** You have one skill of your choice from the lore skill group, and you can use the Study Lore project (see below) up to three times for that skill. Each time you use the project, you must use a different project source, and the project goal increases. (See Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md).)
+**Benefit:** You have one skill of your choice from the lore skill group, and you can use the Study Lore project (see below) up to three times for that skill. Each time you use the project, you must use a different [project source](../rule/downtime/project-source.md), and the project goal increases. (See Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md).)
 
-**Drawback:** You can't imagine ever being wrong on the topic of your obsession. Whenever you make a test to recall lore using your chosen skill, the Director makes the test in secret. Instead of informing you whether you're right or wrong, they provide you with correct information if you succeeded and false information if you failed.
+**Drawback:** You can't imagine ever being wrong on the topic of your obsession. Whenever you make a [test](../rule/test/test.md) to recall lore using your chosen skill, the Director makes the [test](../rule/test/test.md) in secret. Instead of informing you whether you're right or wrong, they provide you with correct information if you succeeded and false information if you failed.
 
 ## Study Lore
 
-**Item Prerequisite:** None
+**[Item Prerequisite](../rule/downtime/item-prerequisite.md):** None
 
-**Project Source:** A significant source of information on the topic of your obsession, such as a major library or a world-renowned sage 
+**[Project Source](../rule/downtime/project-source.md):** A significant source of information on the topic of your obsession, such as a major library or a world-[renown](../rule/resource/renown.md)ed sage 
 
-**Project Roll [Characteristic](../rule/character/characteristic.md):** [Reason](../rule/character/reason.md)
+**[Project Roll](../rule/downtime/project-roll.md) [Characteristic](../rule/character/characteristic.md):** [Reason](../rule/character/reason.md)
 
 **Project Goal:** 120, 150, 180
 
-Each time you complete this project, your knowledge of your chosen field expands, and the bonus to tests provided by your chosen skill increases by 1.
+Each time you complete this project, your knowledge of your chosen field expands, and the bonus to [tests](../rule/test/test.md) provided by your chosen skill increases by 1.

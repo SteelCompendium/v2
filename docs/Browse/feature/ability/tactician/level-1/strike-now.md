@@ -2,7 +2,7 @@
 action_type: Main action
 class: tactician
 distance: Ranged 10
-effect: The target can use a signature ability as a free triggered action.
+effect: The target can use a [signature ability](../../../../rule/combat/signature-ability.md) as a free [triggered action](../../../../rule/combat/triggered-action.md).
 flavor: Your foe left an opening. You point this out to an ally!
 keywords:
     - Ranged
@@ -35,7 +35,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target can use a signature ability as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>The target can use a <a href="../../../../../rule/combat/signature-ability/">signature ability</a> as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a>.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 5 Focus</span><span class="txt">You target two allies instead of one.</span></div>
 </article>

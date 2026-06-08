@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of each of your turns, you can use a free triggered action to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Alternatively, you can grant this benefit to one creature in the area of your <a href="../../level-1/null-field/">Null Field</a> ability.</p>
+<p>At the start of each of your turns, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to end one effect on you that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your turn. Alternatively, you can grant this benefit to one creature in the area of your <a href="../../level-1/null-field/">Null Field</a> ability.</p>
 </div>
 </section>

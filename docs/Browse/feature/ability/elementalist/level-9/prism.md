@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 11 Essence
 distance: Self
-effect: You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can [shift](../../../../movement/shifting.md) up to 2 squares between your use of each ability.
+effect: You use up to three [heroic abilities](../../../../rule/general/heroic-ability.md) whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can [shift](../../../../movement/shifting.md) up to 2 squares between your use of each ability.
 flavor: You split your essence, allowing you to cast multiple effects at once.
 keywords:
     - Magic
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares between your use of each ability.</p></div>
+<div class="sc-ability__section-body"><p>You use up to three <a href="../../../../../rule/general/heroic-ability/">heroic abilities</a> whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares between your use of each ability.</p></div>
 </div>
 </article>

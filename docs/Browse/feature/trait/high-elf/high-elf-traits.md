@@ -27,7 +27,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>A magic glamor makes others perceive you as interesting and engaging, granting you an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/presence/">Presence</a> tests using the <a href="../../../../skill/flirt/">Flirt</a> or <a href="../../../../skill/persuade/">Persuade</a> skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.</p>
+<p>A magic glamor makes others perceive you as interesting and engaging, granting you an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">tests</a> using the <a href="../../../../skill/flirt/">Flirt</a> or <a href="../../../../skill/persuade/">Persuade</a> skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -46,7 +46,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a triggered action to make that creature <a href="../../../../condition/frightened/">frightened</a> of you until the end of their next turn.</p>
+<p>When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to make that creature <a href="../../../../condition/frightened/">frightened</a> of you until the end of their next turn.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -66,7 +66,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your senses are especially keen and perceptive. You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to notice threats.</p>
+<p>Your senses are especially keen and perceptive. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to notice threats.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -76,7 +76,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your elf body and mind can&#39;t be contained for long. Whenever you make a saving throw, you succeed on a roll of 5 or higher.</p>
+<p>Your elf body and mind can&#39;t be contained for long. Whenever you make a <a href="../../../../rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -86,7 +86,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to recall lore.</p>
+<p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to recall lore.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

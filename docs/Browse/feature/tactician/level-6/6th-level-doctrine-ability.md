@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../../level-1/tactical-doctrine/">tactical doctrine</a> grants your choice of one of two heroic abilities.</p>
+<p>Your <a href="../../level-1/tactical-doctrine/">tactical doctrine</a> grants your choice of one of two <a href="../../../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -48,11 +48,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target uses an ability to deal rolled damage to a creature while hidden.</p></div>
+<div class="sc-ability__section-body"><p>The target uses an ability to deal <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> to a creature while hidden.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability&#39;s power roll automatically obtains a tier 3 outcome.</p></div>
+<div class="sc-ability__section-body"><p>If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability&#39;s <a href="../../../../rule/dice/power-roll/">power roll</a> automatically obtains a tier 3 outcome.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -70,13 +70,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two creatures</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M damage; slide 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + M damage; slide 3</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + M damage; slide 5</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 6 + M damage; slide 1</li><li><b>12-16:</b> 9 + M damage; slide 3</li><li><b>17+:</b> 13 + M damage; slide 5</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -131,12 +126,12 @@ type: feature
 <p class="sc-ability__flavor">You and your allies coordinate to form a new battle line.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You mark two enemies within 10 squares of you. Each target can <a href="../../../../movement/shifting/">shift</a> up to their speed. You and each target gain 2 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
+<div class="sc-ability__section-body"><p>You mark two enemies within 10 squares of you. Each target can <a href="../../../../movement/shifting/">shift</a> up to their <a href="../../../../rule/character/speed/">speed</a>. You and each target gain 2 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
 </div>
@@ -160,19 +155,11 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">You <a href="../../../ability/tactician/level-1/parry/">parry</a> with almost supernatural speed.</p>
+<p class="sc-ability__flavor">You <a href="../../../ability/tactician/level-1/parry/">parry</a> with almost supernatural <a href="../../../../rule/character/speed/">speed</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
-</div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">A &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">A &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">A &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
@@ -180,7 +167,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes half the damage. You then make a power roll against the triggering creature.</p></div>
+<div class="sc-ability__section-body"><p>The target takes half the damage. You then make a <a href="../../../../rule/dice/power-roll/">power roll</a> against the triggering creature.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> A &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>12-16:</b> A &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>17+:</b> A &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -198,13 +185,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M damage; one ally within 10 squares can use the <a href="../../../common/main-actions/charge/">Charge</a> main action as a free triggered action, and can use a melee <a href="../../../../rule/combat/strike/">strike</a> signature ability instead of a <a href="../../../common/main-actions/free-strike/">free strike</a> for the charge</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + M damage; one ally within 10 squares can use the <a href="../../../common/main-actions/charge/">Charge</a> main action as a free triggered action, and can use a melee <a href="../../../../rule/combat/strike/">strike</a> signature ability that gains an <a href="../../../../rule/dice/edge/">edge</a> instead of a <a href="../../../common/main-actions/free-strike/">free strike</a> for the charge</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + M damage; two allies within 10 squares can use the <a href="../../../common/main-actions/charge/">Charge</a> main action as a free triggered action, and can each use a melee <a href="../../../../rule/combat/strike/">strike</a> signature ability that gains an <a href="../../../../rule/dice/edge/">edge</a> instead of a <a href="../../../common/main-actions/free-strike/">free strike</a> for the charge</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 6 + M damage; one ally within 10 squares can use the <a href="../../../common/main-actions/charge/">Charge</a> main action as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>, and can use a melee <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> instead of a <a href="../../../common/main-actions/free-strike/">free strike</a> for the charge</li><li><b>12-16:</b> 9 + M damage; one ally within 10 squares can use the <a href="../../../common/main-actions/charge/">Charge</a> main action as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>, and can use a melee <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> that gains an <a href="../../../../rule/dice/edge/">edge</a> instead of a <a href="../../../common/main-actions/free-strike/">free strike</a> for the charge</li><li><b>17+:</b> 13 + M damage; two allies within 10 squares can use the <a href="../../../common/main-actions/charge/">Charge</a> main action as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>, and can each use a melee <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> that gains an <a href="../../../../rule/dice/edge/">edge</a> instead of a <a href="../../../common/main-actions/free-strike/">free strike</a> for the charge</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

@@ -2,7 +2,7 @@
 action_type: Main action
 class: elementalist
 cost: 9 Essence
-distance: 4 burst
+distance: 4 [burst](../../../../rule/combat/burst.md)
 effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has [cover](../../../../rule/combat/cover.md).
 flavor: You create a terrarium that spans from canopy above to underbrush below.
 keywords:
@@ -34,7 +34,7 @@ type: ability
 <p class="sc-ability__flavor">You create a terrarium that spans from canopy above to underbrush below.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Void</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">

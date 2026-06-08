@@ -34,6 +34,6 @@ Any effect that prevents you from using maneuvers also prevents you from using f
 
 ## No-Action Activities
 
-Free maneuvers cover most of the simple activities you might want to undertake on your turn. When it isn't your turn, you can typically undertake even simpler activities requiring no action with the Director's approval. For instance, shouting out a warning to an ally or dropping an item so another creature can pick it up require no action.
+[Free maneuvers](free-maneuver.md) cover most of the simple activities you might want to undertake on your turn. When it isn't your turn, you can typically undertake even simpler activities requiring no action with the Director's approval. For instance, shouting out a warning to an ally or dropping an item so another creature can pick it up require no action.
 
-The Director can limit what kinds of no-action activities you can attempt when it isn't your turn. For instance, shouting out a warning about an unseen foe to an ally on the ally's or the foe's turn requires no action. But the Director might stop you from giving that ally complex tactical advice when it isn't your turn, saying that doing so instead requires a free maneuver on your turn.
+The Director can limit what kinds of no-action activities you can attempt when it isn't your turn. For instance, shouting out a warning about an unseen foe to an ally on the ally's or the foe's turn requires no action. But the Director might stop you from giving that ally complex tactical advice when it isn't your turn, saying that doing so instead requires a [free maneuver](free-maneuver.md) on your turn.

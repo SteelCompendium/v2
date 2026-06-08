@@ -17,5 +17,5 @@ type: title
 **Effect:** Choose one of the following benefits:
 
 - *Beast [Bane](../rule/dice/bane.md):* Creatures with the Animal keyword take a [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) made against you.
-- *Monster Soother:* You gain an [edge](../rule/dice/edge.md) on tests made to calm or tame nonsapient creatures.
-- *Monster Trophy:* You decorate your equipment with a trophy from a creature you defeated. While the trophy is visible, you gain an [edge](../rule/dice/edge.md) on tests made to intimidate sapient creatures.
+- *Monster Soother:* You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to calm or tame nonsapient creatures.
+- *Monster Trophy:* You decorate your equipment with a trophy from a creature you defeated. While the trophy is visible, you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to intimidate sapient creatures.

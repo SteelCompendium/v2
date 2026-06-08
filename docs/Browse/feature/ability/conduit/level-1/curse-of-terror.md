@@ -34,12 +34,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../../rule/character/intuition.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + I holy damage; I &lt; WEAK, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + I holy damage; I &lt; AVERAGE, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + I holy damage; I &lt; STRONG, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 6 + I holy damage; I &lt; WEAK, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>12-16:</b> 9 + I holy damage; I &lt; AVERAGE, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>17+:</b> 13 + I holy damage; I &lt; STRONG, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</li></ul></div>
 </div>
 </article>

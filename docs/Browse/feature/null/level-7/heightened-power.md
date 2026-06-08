@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability deals rolled damage, it deals extra damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
+<p>If the ability deals <a href="../../../../rule/damage/rolled-damage/">rolled damage</a>, it deals extra damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
 </div>
 </section>

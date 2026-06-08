@@ -29,7 +29,7 @@ At some point, a player will have their hero attempt a task that has a risk of f
 
 **Grace (playing Val, a [conduit](../../Browse/class/conduit.md)):** *Before anyone steps on them, I want to examine the symbols and figure out what they mean.*
 
-**Director:** *Okay, well for that, I need you to make an easy [Reason](../../Browse/rule/character/reason.md) test.*
+**Director:** *Okay, well for that, I need you to make an easy [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md).*
 
 **Grace:** *I got a 12! What do I know?*
 
@@ -81,7 +81,7 @@ Presence (P) represents force of personality. A creature's capacity to lie to a 
 
 #### Characteristic Scores
 
-Each [characteristic](../../Browse/rule/character/characteristic.md) has a score that runs from −5 to +5. The higher a score, the more impact a creature has with that [characteristic](../../Browse/rule/character/characteristic.md). A baby bunny rabbit would have a [Might](../../Browse/rule/character/might.md) score of −5, while an ancient dragon would have a [Might](../../Browse/rule/character/might.md) score of 5. The average [human](../../Browse/ancestry/human.md) has a score of 0 in all their [characteristics](../../Browse/rule/character/characteristic.md). [Characteristic](../../Browse/rule/character/characteristic.md) scores are added to power rolls—the dice rolls you make whenever your character attempts a task with an uncertain outcome (see Power Rolls below).
+Each [characteristic](../../Browse/rule/character/characteristic.md) has a score that runs from −5 to +5. The higher a score, the more impact a creature has with that [characteristic](../../Browse/rule/character/characteristic.md). A baby bunny rabbit would have a [Might](../../Browse/rule/character/might.md) score of −5, while an ancient dragon would have a [Might](../../Browse/rule/character/might.md) score of 5. The average [human](../../Browse/ancestry/human.md) has a score of 0 in all their [characteristics](../../Browse/rule/character/characteristic.md). [Characteristic](../../Browse/rule/character/characteristic.md) scores are added to [power rolls](../../Browse/rule/dice/power-roll.md)—the dice rolls you make whenever your character attempts a task with an uncertain outcome (see [Power Rolls](../../Browse/rule/dice/power-roll.md) below).
 
 ### Dice
 
@@ -107,9 +107,9 @@ Whenever a hero or other creature in the game attempts a task with an uncertain 
 
 #### Types of Power Rolls
 
-The game uses two types of power rolls. An **ability roll** is used when you use certain abilities to determine their impact. For instance, if a [fury](../../Browse/class/fury.md) uses their [Brutal Slam](../../Browse/feature/ability/fury/level-1/brutal-slam.md) ability to strike an enemy, their ability roll determines how much damage the enemy takes and how far back the enemy is pushed. See Abilities for more information.
+The game uses two types of power rolls. An **[ability roll](../../Browse/rule/dice/ability-roll.md)** is used when you use certain abilities to determine their impact. For instance, if a [fury](../../Browse/class/fury.md) uses their [Brutal Slam](../../Browse/feature/ability/fury/level-1/brutal-slam.md) ability to strike an enemy, their [ability roll](../../Browse/rule/dice/ability-roll.md) determines how much [damage](../../Browse/rule/damage/damage.md) the enemy takes and how far back the enemy is pushed. See Abilities for more information.
 
-A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](../../Browse/class/tactician.md) might not have an ability that lets them climb up the face of a cliff, so climbing is an activity they can attempt with a test. An [elementalist](../../Browse/class/elementalist.md) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](tests.md) for more information.
+A **[test](../../Browse/rule/test/test.md)** is a power roll you make outside of using your abilities to affect or interact with the world around you. A [tactician](../../Browse/class/tactician.md) might not have an ability that lets them climb up the face of a cliff, so climbing is an activity they can attempt with a [test](../../Browse/rule/test/test.md). An [elementalist](../../Browse/class/elementalist.md) doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a [test](../../Browse/rule/test/test.md) if they want to try. See [Tests](tests.md) for more information.
 
 > **Sapient Creatures**
 >
@@ -117,29 +117,29 @@ A **test** is a power roll you make outside of using your abilities to affect or
 
 #### Making a Power Roll
 
-When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your [characteristics](../../Browse/rule/character/characteristic.md). The [characteristic](../../Browse/rule/character/characteristic.md) you add depends on the kind of roll you're making, as outlined in Abilities and Tests.
+When you make a power roll, you roll two ten-sided dice (usually noted as 2d10 in the rules) and add one of your [characteristics](../../Browse/rule/character/characteristic.md). The [characteristic](../../Browse/rule/character/characteristic.md) you add depends on the kind of roll you're making, as outlined in Abilities and [Tests](../../Browse/rule/test/test.md).
 
 ##### Power Roll Outcomes {data-scc="mcdm.heroes.v1/rule.dice/tier-outcome"}
 
 The total of a power roll determines your outcome tier—three levels that determine how successful your power roll is.
 
-- **Tier 1:** If your power roll total is **11 or lower**, it is a tier 1 outcome. This is the worst outcome a power roll can have. If you're using an ability, a tier 1 outcome means you still do something, but the impact of what you do is minimal. With this outcome, a [strike](../../Browse/rule/combat/strike.md) ability might deal a little bit of damage and not do much else. For a test, a tier 1 outcome might mean you fail at what you set out to do, and you might also incur a negative consequence.
-- **Tier 2:** If your power roll total is **12 to 16**, it is a tier 2 outcome. This is the average outcome of many power rolls, especially for heroes who are 1st level. When using an ability, a tier 2 outcome means that what you do has a moderate impact. With this outcome, a [strike](../../Browse/rule/combat/strike.md) ability deals a decent amount of damage and has an effect that briefly helps allies or hinders enemies. For a test, a tier 2 outcome means you might succeed at what you set out to do—though depending on the difficulty, success might have a cost.
-- **Tier 3:** If your power roll total is **17 or higher**, it is a tier 3 outcome. This is the best outcome a power roll can have. When using an ability, a tier 3 outcome means you deliver the maximum impact possible. With this outcome, a [strike](../../Browse/rule/combat/strike.md) ability deals a lot of damage and has a powerful or lasting effect on enemies or allies. For a test, a tier 3 outcome means you succeed at what you set out to do. If the test has an easy difficulty, you also get a little something extra in addition to your success.
+- **Tier 1:** If your power roll total is **11 or lower**, it is a tier 1 outcome. This is the worst outcome a power roll can have. If you're using an ability, a tier 1 outcome means you still do something, but the impact of what you do is minimal. With this outcome, a [strike](../../Browse/rule/combat/strike.md) ability might deal a little bit of damage and not do much else. For a [test](../../Browse/rule/test/test.md), a tier 1 outcome might mean you fail at what you set out to do, and you might also incur a negative consequence.
+- **Tier 2:** If your power roll total is **12 to 16**, it is a tier 2 outcome. This is the average outcome of many power rolls, especially for heroes who are 1st level. When using an ability, a tier 2 outcome means that what you do has a moderate impact. With this outcome, a [strike](../../Browse/rule/combat/strike.md) ability deals a decent amount of damage and has an effect that briefly helps allies or hinders enemies. For a [test](../../Browse/rule/test/test.md), a tier 2 outcome means you might succeed at what you set out to do—though depending on the difficulty, success might have a cost.
+- **Tier 3:** If your power roll total is **17 or higher**, it is a tier 3 outcome. This is the best outcome a power roll can have. When using an ability, a tier 3 outcome means you deliver the maximum impact possible. With this outcome, a [strike](../../Browse/rule/combat/strike.md) ability deals a lot of damage and has a powerful or lasting effect on enemies or allies. For a [test](../../Browse/rule/test/test.md), a tier 3 outcome means you succeed at what you set out to do. If the [test](../../Browse/rule/test/test.md) has an easy difficulty, you also get a little something extra in addition to your success.
 
-The specific outcome of any power roll is determined by the effect or ability that requires the roll (see Abilities) or the rules for tests (see [Tests](tests.md)).
+The specific outcome of any power roll is determined by the effect or ability that requires the roll (see Abilities) or the rules for [tests](../../Browse/rule/test/test.md) (see [Tests](tests.md)).
 
 ##### Downgrade a Power Roll
 
 Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the [restrained](../../Browse/condition/restrained.md) condition on a creature, but the tier 2 outcome for that ability lets you impose the [slowed](../../Browse/condition/slowed.md) condition, you can use the tier 2 outcome if you would rather have the creature [slowed](../../Browse/condition/slowed.md) than [restrained](../../Browse/condition/restrained.md).
 
-If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see Critical Hit in [Classes](classes.md)).
+If you downgrade a [critical hit](../../Browse/rule/combat/critical-hit.md), you still get the extra action benefit of the [critical hit](../../Browse/rule/combat/critical-hit.md) (see [Critical Hit](../../Browse/rule/combat/critical-hit.md) in [Classes](classes.md)).
 
 ##### Natural Roll {data-scc="mcdm.heroes.v1/rule.dice/natural-roll"}
 
-The total of your power roll before your [characteristic](../../Browse/rule/character/characteristic.md) or any other modifiers are added is called the natural roll. The rules often refer to this as "rolling a natural X," where X is the total of the roll. For example, if you get a 20 on a power roll before adding your [characteristic](../../Browse/rule/character/characteristic.md), this is called rolling a natural 20.
+The total of your power roll before your [characteristic](../../Browse/rule/character/characteristic.md) or any other modifiers are added is called the natural roll. The rules often refer to this as "rolling a natural X," where X is the total of the roll. For example, if you get a 20 on a power roll before adding your [characteristic](../../Browse/rule/character/characteristic.md), this is called rolling a [natural 20](../../Browse/rule/dice/natural-19-20.md).
 
-When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a critical hit (see Critical Hit in [Classes](classes.md)).
+When you roll a [natural 19 or 20](../../Browse/rule/dice/natural-19-20.md) on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a [critical hit](../../Browse/rule/combat/critical-hit.md) (see [Critical Hit](../../Browse/rule/combat/critical-hit.md) in [Classes](classes.md)).
 
 #### Edges and Banes
 
@@ -183,7 +183,7 @@ Though it might sound as if the math with bonuses and penalties can get confusin
 
 #### Automatic Tier Outcomes
 
-Effects in the game sometimes allow a creature to obtain an automatic tier 1, 2, or 3 outcome on a power roll. Such effects supersede any [edges](../../Browse/rule/dice/edge.md), [banes](../../Browse/rule/dice/bane.md), bonuses, or penalties that might affect the roll. If you obtain an automatic tier outcome and the power roll would have an additional effect if you get a specific roll, such as scoring a critical hit in combat, you can still make the roll to determine if you obtain the additional effect in addition to the automatic outcome.
+Effects in the game sometimes allow a creature to obtain an automatic tier 1, 2, or 3 outcome on a power roll. Such effects supersede any [edges](../../Browse/rule/dice/edge.md), [banes](../../Browse/rule/dice/bane.md), bonuses, or penalties that might affect the roll. If you obtain an automatic [tier outcome](../../Browse/rule/dice/tier-outcome.md) and the power roll would have an additional effect if you get a specific roll, such as scoring a [critical hit](../../Browse/rule/combat/critical-hit.md) in combat, you can still make the roll to determine if you obtain the additional effect in addition to the automatic outcome.
 
 If you are under multiple effects that each grant you a different automatic outcome, those effects cancel each other out and all automatic outcomes are ignored. If multiple effects grant you the same automatic outcome, you obtain that outcome.
 
@@ -199,18 +199,18 @@ At the start of a new game session, the heroes have a number of [hero tokens](..
 
 Heroes can earn more tokens through play by taking big risks to save others. A hero who leaps off a cliff to reach the bottom and aid a friend, who crosses a burning bridge to save a stray cat, or who wagers their most prized treasure as part of a negotiation to get shelter for a group of refugees might earn a [hero token](../../Browse/rule/resource/hero-token.md) for the group. The Director has the final say regarding which heroic acts earn [hero tokens](../../Browse/rule/resource/hero-token.md).
 
-Players can also be awarded [hero tokens](../../Browse/rule/resource/hero-token.md) as part of a test's outcome when they succeed on the test with a reward (see [Tests](tests.md)).
+Players can also be awarded [hero tokens](../../Browse/rule/resource/hero-token.md) as part of a [test](../../Browse/rule/test/test.md)'s outcome when they succeed on the [test](../../Browse/rule/test/test.md) with a reward (see [Tests](tests.md)).
 
 #### Spending Hero Tokens
 
 Whenever [hero tokens](../../Browse/rule/resource/hero-token.md) are available, you can spend them in the following ways:
 
-- You can spend a [hero token](../../Browse/rule/resource/hero-token.md) to gain 2 [surges](../../Browse/rule/resource/surge.md), allowing you to increase the damage or potency of an ability. (See [Surges](../../Browse/rule/resource/surge.md) in [Classes](classes.md).)
-- You can spend a [hero token](../../Browse/rule/resource/hero-token.md) when you fail a saving throw, letting you succeed on the save instead.
-- You can spend a [hero token](../../Browse/rule/resource/hero-token.md) to reroll a test. You must use the new roll.
-- You can spend 2 [hero tokens](../../Browse/rule/resource/hero-token.md) on your turn or when you take damage (no action required) to regain [Stamina](../../Browse/rule/health/stamina.md) equal to your [recovery value](../../Browse/rule/health/recoveries.md) before taking the damage.
+- You can spend a [hero token](../../Browse/rule/resource/hero-token.md) to gain 2 [surges](../../Browse/rule/resource/surge.md), allowing you to increase the [damage](../../Browse/rule/damage/damage.md) or [potency](../../Browse/rule/character/potency.md) of an ability. (See [Surges](../../Browse/rule/resource/surge.md) in [Classes](classes.md).)
+- You can spend a [hero token](../../Browse/rule/resource/hero-token.md) when you fail a [saving throw](../../Browse/rule/general/saving-throw.md), letting you succeed on the save instead.
+- You can spend a [hero token](../../Browse/rule/resource/hero-token.md) to reroll a [test](../../Browse/rule/test/test.md). You must use the new roll.
+- You can spend 2 [hero tokens](../../Browse/rule/resource/hero-token.md) on your turn or when you take [damage](../../Browse/rule/damage/damage.md) (no action required) to regain [Stamina](../../Browse/rule/health/stamina.md) equal to your [recovery value](../../Browse/rule/health/recoveries.md) before taking the [damage](../../Browse/rule/damage/damage.md).
 
-You can use only one [hero token](../../Browse/rule/resource/hero-token.md) benefit per turn or per test. Unless the Director decides otherwise, unused [hero tokens](../../Browse/rule/resource/hero-token.md) disappear at the end of a session.
+You can use only one [hero token](../../Browse/rule/resource/hero-token.md) benefit per turn or per [test](../../Browse/rule/test/test.md). Unless the Director decides otherwise, unused [hero tokens](../../Browse/rule/resource/hero-token.md) disappear at the end of a session.
 
 > **Optional Rule: [Hero Tokens](../../Browse/rule/resource/hero-token.md) Don't Reset**
 >
@@ -224,7 +224,7 @@ If you're not sure what to do when two rules come into conflict with each other,
 
 ### Always Round Down
 
-Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a [tactician](../../Browse/class/tactician.md) takes 7 damage and uses the Parry ability in response—a triggered action that halves the damage—then the damage is reduced to 3.
+Sometimes the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if a [tactician](../../Browse/class/tactician.md) takes 7 damage and uses the Parry ability in response—a [triggered action](../../Browse/rule/combat/triggered-action.md) that halves the damage—then the damage is reduced to 3.
 
 ### Creatures and Objects {data-scc="mcdm.heroes.v1/rule.general/creature"}
 
@@ -246,7 +246,7 @@ Two types of characters inhabit the world of the game—the player characters (a
 
 > **Bags of Rats Ain't Heroic**
 >
-> Some players might think that quickly starting a fight with some bar patrons or carrying around a bag of rats is a good way to gather up those sweet, sweet Victories and [Heroic Resources](../../Browse/rule/resource/heroic-resource.md). Those strategies don't work! The rules of the game exist to help you tell a cool heroic fantasy story, not so you can try to be clever and exploit them by harming innocent rats to "win." In order to generate Victories and [Heroic Resources](../../Browse/rule/resource/heroic-resource.md), you must face and overcome challenges worthy of a hero!
+> Some players might think that quickly starting a fight with some bar patrons or carrying around a bag of rats is a good way to gather up those sweet, sweet [Victories](../../Browse/rule/resource/victories.md) and [Heroic Resources](../../Browse/rule/resource/heroic-resource.md). Those strategies don't work! The rules of the game exist to help you tell a cool heroic fantasy story, not so you can try to be clever and exploit them by harming innocent rats to "win." In order to generate [Victories](../../Browse/rule/resource/victories.md) and [Heroic Resources](../../Browse/rule/resource/heroic-resource.md), you must face and overcome challenges worthy of a hero!
 
 ### Building a Heroic Narrative
 
@@ -254,7 +254,7 @@ The game takes place in a series of scenes with the heroes as the main character
 
 This game is built so that each adventure you play and each battle you fight gets more exciting as it goes on. In fantastic tales, the heroes and their foes both grow in power over the course of an adventure. But it isn't time alone that grows a hero's capabilities. Rather, it's the adrenaline that comes from battle, the danger of the hero's profession, and the pressure to save the world—or at least some small part of it that pushes a character to do the impossible. Each small act of heroism gives a hero the confidence and bravery to perform legendary feats against all odds.
 
-The things a hero can achieve at the end of the story are far more daring and impactful than what they do at the start, and the final showdown against a villain's forces is more deadly and desperate than the first. The rules of the game help build a heroic narrative in this same fashion, making use of the four most important mechanics for building heroic narratives: Victories, Experience, [Heroic Resources](../../Browse/rule/resource/heroic-resource.md), and [Recoveries](../../Browse/rule/health/recoveries.md).
+The things a hero can achieve at the end of the story are far more daring and impactful than what they do at the start, and the final showdown against a villain's forces is more deadly and desperate than the first. The rules of the game help build a heroic narrative in this same fashion, making use of the four most important mechanics for building heroic narratives: [Victories](../../Browse/rule/resource/victories.md), [Experience](../../Browse/rule/resource/experience.md), [Heroic Resources](../../Browse/rule/resource/heroic-resource.md), and [Recoveries](../../Browse/rule/health/recoveries.md).
 
 #### Victories {data-scc="mcdm.heroes.v1/rule.resource/victories"}
 
@@ -262,19 +262,19 @@ Victories measure your hero's increasing power over the course of an adventure, 
 
 ##### Victories For Combat
 
-Each time your hero survives a combat encounter in which the party's objectives are achieved, you earn 1 Victory. The Director can decide that a trivially easy encounter doesn't earn the heroes a Victory, and can award additional Victories for particularly challenging encounters.
+Each time your hero survives a combat encounter in which the party's [objectives](../../Browse/rule/combat/objective.md) are achieved, you earn 1 Victory. The Director can decide that a trivially easy encounter doesn't earn the heroes a Victory, and can award additional Victories for particularly challenging encounters.
 
 ##### Victories For Noncombat Challenges
 
-When your hero successfully overcomes a big challenge that doesn't involve combat, the Director can award you 1 Victory. Such challenges can include things such as a particularly complicated and deadly trap, a negotiation, a montage test, a complicated puzzle, or the execution of a clever idea that avoids a battle. Especially difficult challenges might earn you more than 1 Victory.
+When your hero successfully overcomes a big challenge that doesn't involve combat, the Director can award you 1 Victory. Such challenges can include things such as a particularly complicated and deadly trap, a negotiation, a [montage test](../../Browse/rule/test/montage-test.md), a complicated puzzle, or the execution of a clever idea that avoids a battle. Especially difficult challenges might earn you more than 1 Victory.
 
 ##### Victories Reset
 
-Whenever you finish a respite (see Respite below), your Victories are converted into Experience.
+Whenever you finish a [respite](../../Browse/rule/resource/respite.md) (see [Respite](../../Browse/rule/resource/respite.md) below), your Victories are converted into [Experience](../../Browse/rule/resource/experience.md).
 
 #### Experience {data-scc="mcdm.heroes.v1/rule.resource/experience"}
 
-Victories temporarily increase a hero's power during an adventure, but Experience (abbreviated "XP") permanently improves their capabilities. Each time you finish a respite (see below), you gain XP equal to your Victories, then your Victories reset to 0. In other words, your Victories are converted to XP when you finish a respite.
+[Victories](../../Browse/rule/resource/victories.md) temporarily increase a hero's power during an adventure, but Experience (abbreviated "XP") permanently improves their capabilities. Each time you finish a [respite](../../Browse/rule/resource/respite.md) (see below), you gain XP equal to your [Victories](../../Browse/rule/resource/victories.md), then your [Victories](../../Browse/rule/resource/victories.md) reset to 0. In other words, your [Victories](../../Browse/rule/resource/victories.md) are converted to XP when you finish a [respite](../../Browse/rule/resource/respite.md).
 
 For more information on how XP increases your hero's power, see Heroic Advancement in [Making a Hero](making-a-hero.md).
 
@@ -286,7 +286,7 @@ Your hero's class description has more information about how to use your Heroic 
 
 #### Recoveries
 
-[Recoveries](../../Browse/rule/health/recoveries.md) represent the number of times your hero can take a breather and keep fighting. Spending [Recoveries](../../Browse/rule/health/recoveries.md) lets you regain [Stamina](../../Browse/rule/health/stamina.md)—the measure of any creature's physical vitality and capacity to shrug off or avoid damage (see [Stamina](../../Browse/rule/health/stamina.md) in [Combat](combat.md)). Running out of [Recoveries](../../Browse/rule/health/recoveries.md) means your hero has reached their uttermost limit.
+[Recoveries](../../Browse/rule/health/recoveries.md) represent the number of times your hero can take a breather and keep fighting. Spending [Recoveries](../../Browse/rule/health/recoveries.md) lets you regain [Stamina](../../Browse/rule/health/stamina.md)—the measure of any creature's physical vitality and capacity to shrug off or avoid [damage](../../Browse/rule/damage/damage.md) (see [Stamina](../../Browse/rule/health/stamina.md) in [Combat](combat.md)). Running out of [Recoveries](../../Browse/rule/health/recoveries.md) means your hero has reached their uttermost limit.
 
 When you spend a [Recovery](../../Browse/rule/health/recoveries.md), you regain [Stamina](../../Browse/rule/health/stamina.md) equal to your **[recovery value](../../Browse/rule/health/recoveries.md)**, which is one-third your [Stamina](../../Browse/rule/health/stamina.md) maximum. You can spend your [Recoveries](../../Browse/rule/health/recoveries.md) with a special maneuver (see below), or you might do so with a little supernatural help from a [conduit](../../Browse/class/conduit.md), a boost of adrenaline from an allied [tactician](../../Browse/class/tactician.md), or inspiration from your party's [troubadour](../../Browse/class/troubadour.md).
 
@@ -298,13 +298,13 @@ Outside of combat and other dangerous situations, you can spend [Recoveries](../
 
 ##### Regaining Recoveries
 
-You regain all lost [Recoveries](../../Browse/rule/health/recoveries.md) when you finish a respite (see below).
+You regain all lost [Recoveries](../../Browse/rule/health/recoveries.md) when you finish a [respite](../../Browse/rule/resource/respite.md) (see below).
 
 #### Respite {data-scc="mcdm.heroes.v1/rule.resource/respite"}
 
-A respite is a focused period of rest and recuperation that allows heroes to regain [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md). During a respite, you must spend 24 hours uninterrupted and doing nothing but sleeping, eating, dressing your wounds, and recuperating. You can also undertake one respite activity, such as making a project roll (see [Downtime Projects](downtime-projects.md)) or changing your kit (see [Kits](kits.md)).
+A respite is a focused period of rest and recuperation that allows heroes to regain [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md). During a respite, you must spend 24 hours uninterrupted and doing nothing but sleeping, eating, dressing your wounds, and recuperating. You can also undertake one respite activity, such as making a [project roll](../../Browse/rule/downtime/project-roll.md) (see [Downtime Projects](downtime-projects.md)) or changing your kit (see [Kits](kits.md)).
 
-After 24 hours, your respite ends. When you finish a respite, you regain all your [Recoveries](../../Browse/rule/health/recoveries.md) and [Stamina](../../Browse/rule/health/stamina.md), and your Victories convert to Experience. You can take as many respites as you like in a row to keep accomplishing respite activities. Just keep in mind that while you're resting, your enemies are still scheming and carrying out their dastardly plans.
+After 24 hours, your respite ends. When you finish a respite, you regain all your [Recoveries](../../Browse/rule/health/recoveries.md) and [Stamina](../../Browse/rule/health/stamina.md), and your [Victories](../../Browse/rule/resource/victories.md) convert to [Experience](../../Browse/rule/resource/experience.md). You can take as many respites as you like in a row to keep accomplishing respite activities. Just keep in mind that while you're resting, your enemies are still scheming and carrying out their dastardly plans.
 
 It is best to take a respite in a safe place where you aren't in a hostile environment or at risk of being attacked. If your respite is interrupted by enemies attacking, an earth tremor, swarms of biting insects, and similar serious distractions, the respite ends early and you don't gain the benefits for finishing it.
 
@@ -318,21 +318,21 @@ Since this game encompasses power levels from hometown heroes to demigods, the c
 
 #### 1st Echelon (1st to 3rd Level)
 
-The 1st echelon of play details the stories of characters of 1st to 3rd level. At this echelon, the characters are local heroes. They save lost caravans, besieged villages, and overlooked neighborhoods within cities. Characters battle bands of mortal humanoids—[dwarves](../../Browse/ancestry/dwarf.md), elves, goblins, [humans](../../Browse/ancestry/human.md), kobolds, [orcs](../../Browse/ancestry/orc.md), and more. They can also face off against the occasional larger monstrous threat, such as a bredbeddle, ogre, or chimera. Such creatures can threaten a small community but rarely have plans for world domination or the destruction of the timescape. However, any of these adversaries might work for or be manipulated by stronger threats as a foreshadowing of what awaits the heroes at higher echelons.
+The 1st [echelon](../../Browse/rule/general/echelon.md) of play details the stories of characters of 1st to 3rd level. At this [echelon](../../Browse/rule/general/echelon.md), the characters are local heroes. They save lost caravans, besieged villages, and overlooked neighborhoods within cities. Characters battle bands of mortal humanoids—[dwarves](../../Browse/ancestry/dwarf.md), elves, goblins, [humans](../../Browse/ancestry/human.md), kobolds, [orcs](../../Browse/ancestry/orc.md), and more. They can also face off against the occasional larger monstrous threat, such as a bredbeddle, ogre, or chimera. Such creatures can threaten a small community but rarely have plans for world domination or the destruction of the timescape. However, any of these adversaries might work for or be manipulated by stronger threats as a foreshadowing of what awaits the heroes at higher [echelons](../../Browse/rule/general/echelon.md).
 
 #### 2nd Echelon (4th to 6th Level)
 
-The 2nd echelon of play covers 4th to 6th level. At this echelon, the heroes are now known throughout the wider region they serve. In Vasloria, this means the characters might save and be celebrated by an entire country. In Capital, their reputation and work could encompass several different neighborhoods of the enormous city. Heroes of the timescape might be known for saving a planet!
+The 2nd [echelon](../../Browse/rule/general/echelon.md) of play covers 4th to 6th level. At this [echelon](../../Browse/rule/general/echelon.md), the heroes are now known throughout the wider region they serve. In [Vasloria](../../Browse/rule/world/vasloria.md), this means the characters might save and be celebrated by an entire country. In Capital, their reputation and work could encompass several different neighborhoods of the enormous city. Heroes of the timescape might be known for saving a planet!
 
-Heroes in this echelon battle humanoids of great supernatural power, such as draconians, [devils](../../Browse/ancestry/devil.md), and hobgoblins. They face bosses possessed of cunning and ambition as great as their terrible influence, such as medusas and overminds. Heroes at this level also face the humanoid threats of earlier levels, but those foes are villainous counterparts of equal power rather than bands of ruffians or marauding armies.
+Heroes in this [echelon](../../Browse/rule/general/echelon.md) battle humanoids of great supernatural power, such as draconians, [devils](../../Browse/ancestry/devil.md), and hobgoblins. They face bosses possessed of cunning and ambition as great as their terrible influence, such as medusas and overminds. Heroes at this level also face the humanoid threats of earlier levels, but those foes are villainous counterparts of equal power rather than bands of ruffians or marauding armies.
 
 #### 3rd Echelon (7th to 9th Level)
 
-The 3rd echelon of play covers 7th to 9th level. At this echelon, the heroes are saving and are known throughout the setting where they serve. Most folks in Vasloria, Capital, or across the larger timescape know of the heroes and are grateful for their efforts saving the continent, the entire city, or multiple worlds, respectively. Foes at this echelon include beings of great power such as giants, vampires, and valok.
+The 3rd [echelon](../../Browse/rule/general/echelon.md) of play covers 7th to 9th level. At this [echelon](../../Browse/rule/general/echelon.md), the heroes are saving and are known throughout the setting where they serve. Most folks in [Vasloria](../../Browse/rule/world/vasloria.md), Capital, or across the larger timescape know of the heroes and are grateful for their efforts saving the continent, the entire city, or multiple worlds, respectively. Foes at this [echelon](../../Browse/rule/general/echelon.md) include beings of great power such as giants, vampires, and valok.
 
 #### 4th Echelon (10th Level)
 
-The 4th echelon of play explores the stories of characters of 10th level (and might even go beyond in future products). At this echelon, heroes are saving the entire timescape from threats such as liches, powerful dragons, and overlords like Ajax the Invincible.
+The 4th [echelon](../../Browse/rule/general/echelon.md) of play explores the stories of characters of 10th level (and might even go beyond in future products). At this [echelon](../../Browse/rule/general/echelon.md), heroes are saving the entire timescape from threats such as liches, powerful dragons, and overlords like Ajax the Invincible.
 
 ### Orden and the Timescape {data-scc="mcdm.heroes.v1/rule.world/orden"}
 
@@ -340,25 +340,25 @@ A new game demands new worlds! Welcome to the timescape—a collection of worlds
 
 Our tour begins on the world of Orden, the prime manifold, where [humans](../../Browse/ancestry/human.md), elves, [dwarves](../../Browse/ancestry/dwarf.md), and [orcs](../../Browse/ancestry/orc.md) share a world with dragons, goblins, kobolds, and dozens of other speaking peoples. But [human](../../Browse/ancestry/human.md) civilization and politics dominate here.
 
-Orden contains eight major regions, the largest of which is Vasloria.
+Orden contains eight major regions, the largest of which is [Vasloria](../../Browse/rule/world/vasloria.md).
 
 #### Vasloria {data-scc="mcdm.heroes.v1/rule.world/vasloria"}
 
 A forested, medieval, feudal land, Vasloria is peppered with few cities, mostly just towns and villages. While there will someday be nations here with proper borders, as of now in the Age of Chaos those nations are merely geographic areas with names people use to distinguish lands that share similar terrain and subcultures.
 
-Aendrim, the land of hills and farms. Corwell with its knights and castles. The marshlands of Tull where witches and wise women battle hags and swamp monsters. The thick forests of Farrow with its bands of archers, and the horselands of Graid home to the best cavalry in Orden.
+Aendrim, the land of hills and farms. Corwell with its knights and castles. The marshlands of Tull where witches and wise women battle hags and swamp monsters. The thick forests of Farrow with its bands of archers, and the horselands of Graid home to the best cavalry in [Orden](../../Browse/rule/world/orden.md).
 
 Mountainous northeastern Vasloria is home to the small earldoms of Sednia, Olvaria, and Sărda, and the earldom of Rhöl containing the land of Glauer once ruled by a deathless count.
 
-Scattered across it all, Vasloria boasts the densest collection of elf-haunted wodes in Orden. All regions have wodes, but Vasloria's northern border is the Great Wode where the world still works as it did before [humans](../../Browse/ancestry/human.md) arrived.
+Scattered across it all, Vasloria boasts the densest collection of elf-haunted wodes in [Orden](../../Browse/rule/world/orden.md). All regions have wodes, but Vasloria's northern border is the Great Wode where the world still works as it did before [humans](../../Browse/ancestry/human.md) arrived.
 
 Within the wodes, time misbehaves. Cause and effect are only distant cousins, as all lands were before Ord placed the [dwarves](../../Browse/ancestry/dwarf.md) in the world,
 
-imposing the Law of Time on Orden. Children's tales of villagers wandering into a wode and emerging unchanged 100 years later are based on real events. When pressed on how this "works," the elves look baffled. "How does what work?"
+imposing the Law of Time on [Orden](../../Browse/rule/world/orden.md). Children's tales of villagers wandering into a wode and emerging unchanged 100 years later are based on real events. When pressed on how this "works," the elves look baffled. "How does what work?"
 
 ##### Omund's Land
 
-Western Vasloria, including most of Aendrim and Corwell and parts of Graid, was until recently ruled by Good King Omund. His draconian knights, the Dragon Phalanx, protected the weak from the strong, dispensing justice. Omund's rule lasted 35 years and in his life this area was known as Omund's Land.
+Western [Vasloria](../../Browse/rule/world/vasloria.md), including most of Aendrim and Corwell and parts of Graid, was until recently ruled by Good King Omund. His draconian knights, the Dragon Phalanx, protected the weak from the strong, dispensing justice. Omund's rule lasted 35 years and in his life this area was known as Omund's Land.
 
 Under Omund's rule, order thrived. Roads were safe. People could even walk into the woods unafraid of meeting anything more threatening than a nymph or conversational manticore.
 
@@ -384,7 +384,7 @@ Isolated and outnumbered, the [human](../../Browse/ancestry/human.md) baronies d
 
 #### Capital {data-scc="mcdm.heroes.v1/rule.world/capital"}
 
-The Greatest City in This or Any Age! City of the Great Game! Located west across the Bale Sea from Vasloria, on the eastern coast of Rioja, Capital is not only the largest city in Orden—it's the largest city there has ever been. Larger than the fabled steel [dwarf](../../Browse/ancestry/dwarf.md) capital of Kalas Valiar, larger even than Alloy, the City at the Center of the Timescape. Capital is the exception to many rules.
+The Greatest City in This or Any Age! City of the Great Game! Located west across the Bale Sea from [Vasloria](../../Browse/rule/world/vasloria.md), on the eastern coast of Rioja, Capital is not only the largest city in [Orden](../../Browse/rule/world/orden.md)—it's the largest city there has ever been. Larger than the fabled steel [dwarf](../../Browse/ancestry/dwarf.md) capital of Kalas Valiar, larger even than Alloy, the City at the Center of the Timescape. Capital is the exception to many rules.
 
 It is a city of playwrights and opera, of spies and sorcery. Famed throughout the world as a city of high magic where flying tapestries act as taxis, the reality of living in Capital is somewhat more mundane. Only the very wealthy can afford such luxuries.
 
@@ -392,11 +392,11 @@ The great houses, ancient noble families, reluctantly share power with the upsta
 
 The guilds, by contrast, are more egalitarian, more democratic, and largely obsessed with accruing wealth, city be damned. Three of them recently used their obscene wealth to buy great house status and now play the great game with the best of them.
 
-The "great game" is espionage, and **House Alvaro** are the best players in the world. Led by Duke Prospero, House Alvaro sponsor the Imperial University, the greatest center of learning in the world. Nobles from across Orden, including Vanigar, send their children to learn diplomacy and statecraft at the university. While the greatest spies in the world are all graduates of the Actian School, one of the colleges in the university, which has historically doubled as the prince's intelligence agency.
+The "great game" is espionage, and **House Alvaro** are the best players in the world. Led by Duke Prospero, House Alvaro sponsor the Imperial University, the greatest center of learning in the world. Nobles from across [Orden](../../Browse/rule/world/orden.md), including Vanigar, send their children to learn diplomacy and statecraft at the university. While the greatest spies in the world are all graduates of the Actian School, one of the colleges in the university, which has historically doubled as the prince's intelligence agency.
 
-**House Vorona** run the city's navy, the largest military organization of any kind in Orden. Their engineers perfected the secret of blackpowder and guard it jealously. The Imperial Navy's cannons protect trade across Orden, placing Capital at the center of international affairs. Vorona's Far Mariners, aka the marines, are the closest thing Capital has to a city-wide law enforcement organization. Each great house is expected to police its own district.
+**House Vorona** run the city's navy, the largest military organization of any kind in [Orden](../../Browse/rule/world/orden.md). Their engineers perfected the secret of blackpowder and guard it jealously. The Imperial Navy's cannons protect trade across [Orden](../../Browse/rule/world/orden.md), placing Capital at the center of international affairs. Vorona's Far Mariners, aka the marines, are the closest thing Capital has to a city-wide law enforcement organization. Each great house is expected to police its own district.
 
-Duke Marco Vorona sponsors the Imperial War College, also known as the Academy. A prestigious institution rivaling any college of the Imperial University, the Academy boasts graduates among all the noble families in Orden. This widespread allegiance creates a vast informal network in the city referred to cynically as the Old Class Ring that gives Vorona access to intelligence other factions can only dream of.
+Duke Marco Vorona sponsors the Imperial War College, also known as the Academy. A prestigious institution rivaling any college of the Imperial University, the Academy boasts graduates among all the noble families in [Orden](../../Browse/rule/world/orden.md). This widespread allegiance creates a vast informal network in the city referred to cynically as the Old Class Ring that gives Vorona access to intelligence other factions can only dream of.
 
 **House Navarr**, oldest of the great houses, enforces the church's law, which they call justice. Led by His Grace Orsino, Duke Navarr, archbishop of the most powerful church in the city—the Church of Saint Ysabella the Pitiless—House Navarr consolidates a vast network of different churches and orders of knights across the region under one elaborate system of patronage.
 
@@ -406,7 +406,7 @@ After the Lilac Night, when the prince was no longer able to rely on House Valet
 
 coordinated with two other guilds to buy Great House status for themselves.
 
-Lady Shirome runs the city's assayers guild, **the Fulcrum**. The guild controls the Trade Integrity Board, which sets lending rates and leads trade negotiations between Capital and other governments in Orden. It was the Fulcrum that convinced the prince to switch the city to paper money. As a result, Capital is the first and only city in Orden to have a robust monetary policy.
+Lady Shirome runs the city's assayers guild, **the Fulcrum**. The guild controls the Trade Integrity Board, which sets lending rates and leads trade negotiations between Capital and other governments in [Orden](../../Browse/rule/world/orden.md). It was the Fulcrum that convinced the prince to switch the city to paper money. As a result, Capital is the first and only city in [Orden](../../Browse/rule/world/orden.md) to have a robust monetary policy.
 
 The Broadsheets, formally known as **the Font**, publish the thrice-daily news sheets everyone in the city reads. Guildmaster Inān al-Adwiyya uses a vast network of young people called the Paperfeathers to deliver and sell the broadsheets throughout the city. Lady al-Adwiyya knows almost everything happening anywhere in the city.
 
@@ -418,7 +418,7 @@ Now the great game takes on a new meaning as the four great houses and three new
 
 #### The Myriad Worlds of the Timescape
 
-Orden is only one world in the timescape! Each star in the night sky is another, though this fact is not known to most people living on Orden. Old fashioned people still use the archaic term "plane" to describe these worlds, while sages use geometric formulae, describing these worlds they call "manifolds," but they all mean the same thing.
+[Orden](../../Browse/rule/world/orden.md) is only one world in the timescape! Each star in the night sky is another, though this fact is not known to most people living on [Orden](../../Browse/rule/world/orden.md). Old fashioned people still use the archaic term "plane" to describe these worlds, while sages use geometric formulae, describing these worlds they call "manifolds," but they all mean the same thing.
 
 Higher worlds are more energetic, affording access to alien technologies. Great starfreighters ply the space-lanes, and knights wield psionically powered hard-light blades dueling against star pirates with hard-light blasters.
 
@@ -430,11 +430,11 @@ Meanwhile, on Proteus, the Sea of Eternal Change, the formless proteans rebelled
 
 On Quintessence, the lowest of the upper worlds, proteans and [memonek](../../Browse/ancestry/memonek.md) alike rub shoulders with [devils](../../Browse/ancestry/devil.md), fire [dwarves](../../Browse/ancestry/dwarf.md), even [humans](../../Browse/ancestry/human.md) in Quintessence's capital city of Alloy, the City at the Center of the Timescape. The Free City of Alloy, also known as the City of Brass, is the gateway to the timescape. People travelling to or from the upper and lower worlds meet here to trade goods and information, free from the inflexible law of UNISOL.
 
-Traveling downward from Quintessence one arrives on Orden, the Plane of Gods and Sorcery, highest of the lower worlds where magic rules. The gods, forbidden from interfering directly in a world with such a low energy state, rely on saints to enact their will. Technology from the upper worlds does not function down here, unless powered by a strong psionic mind or the miracle mineral iridoss, also known as prismacore.
+Traveling downward from Quintessence one arrives on [Orden](../../Browse/rule/world/orden.md), the Plane of Gods and Sorcery, highest of the lower worlds where magic rules. The gods, forbidden from interfering directly in a world with such a low energy state, rely on saints to enact their will. Technology from the upper worlds does not function down here, unless powered by a strong psionic mind or the miracle mineral iridoss, also known as prismacore.
 
-Almost coterminal with Orden is its sister-manifold, the World Below, the Dark Under All, a plane of exiles ruled by A Lie Cloaked In Star's Silver, the Queen of Night, first of the Three Sisters Below. The World Below is a land of vast caves, and sunless seas. There are no stars here, no sky, only endless caverns and warrens, some vast enough to hold entire cities, like Or-Mazaar City of the Black Star from which the Queen of Night rules.
+Almost coterminal with [Orden](../../Browse/rule/world/orden.md) is its sister-manifold, the World Below, the Dark Under All, a plane of exiles ruled by A Lie Cloaked In Star's Silver, the Queen of Night, first of the Three Sisters Below. The World Below is a land of vast caves, and sunless seas. There are no stars here, no sky, only endless caverns and warrens, some vast enough to hold entire cities, like Or-Mazaar City of the Black Star from which the Queen of Night rules.
 
-The power of the World Below wanes, while the power of Equinox waxes. A smaller, parasitic manifold home to the twilight celestials and their servants the shadow elves, Equinox is ruled by Every Strike of Lightning a Lover Betrayed, the Queen of [Shadows](../../Browse/class/shadow.md), third of the Three Sisters Below who plots to bridge the sea between worlds and colonize Orden making a new home for her people before their old world dies. A fierce, fairy-tale, weird magic, jungle world of permanent twilight also known as Dusk.
+The power of the World Below wanes, while the power of Equinox waxes. A smaller, parasitic manifold home to the twilight celestials and their servants the shadow elves, Equinox is ruled by Every Strike of Lightning a Lover Betrayed, the Queen of [Shadows](../../Browse/class/shadow.md), third of the Three Sisters Below who plots to bridge the sea between worlds and colonize [Orden](../../Browse/rule/world/orden.md) making a new home for her people before their old world dies. A fierce, fairy-tale, weird magic, jungle world of permanent twilight also known as Dusk.
 
 The last plane of law, the Seven Cities of Hell is among the lowest of the lower planes. A land of [devils](../../Browse/ancestry/devil.md) proud of their civilization, each of the seven cities is ruled by an archduke who schemes to ascend to the Throne of Hell. A world of bureaucratic law, the [devil](../../Browse/ancestry/devil.md) denizens of Hell have little interest in the other planes. Life is so much more *interesting* down here.
 
@@ -442,29 +442,29 @@ The seven archdevils conspired together once; agreeing to create the Order of De
 
 The demons of the Abyssal Waste, the lowest plane, claw and scramble over each other, competing for souls in this heat-blasted desert under a baleful, giant orange sun. Mindless collections of organs, claws, and teeth, demons collect souls until they reach sentience and gain identity and the blessing of memory. These demons will do anything to escape upwards, out of the wasteland, lest they lose their collected souls, lose their identity, and fall into that mindless state called lethe.
 
-At the center of the Abyssal Waste lies the Necropolitan Ruin, the Last City, a city of the dead, ruled by Khorsekef, once the Infinite Pharaoh of Khemhara, now the Ultralich. Khorsekef intends to return to Orden and sit once again on his throne in the Heliopolis.
+At the center of the Abyssal Waste lies the Necropolitan Ruin, the Last City, a city of the dead, ruled by Khorsekef, once the Infinite Pharaoh of Khemhara, now the Ultralich. Khorsekef intends to return to [Orden](../../Browse/rule/world/orden.md) and sit once again on his throne in the Heliopolis.
 
 #### Setting Design
 
-Orden and the timescape were both designed over the last 25 years to be an explicitly commercial setting. A product where you could find all the things everyone expects to find in a classic fantasy setting, with new takes on classic tropes and a little more "Why are things like this?" work done to ground everything and make things feel plausible. None of this makes Orden "better" than other settings, it just gives it character.
+[Orden](../../Browse/rule/world/orden.md) and the timescape were both designed over the last 25 years to be an explicitly commercial setting. A product where you could find all the things everyone expects to find in a classic fantasy setting, with new takes on classic tropes and a little more "Why are things like this?" work done to ground everything and make things feel plausible. None of this makes [Orden](../../Browse/rule/world/orden.md) "better" than other settings, it just gives it character.
 
-Orden is not explicitly a high fantasy world, even though there are some pretty high fantasy things going on in it, because the average person has *very little* access to magic. The typical village might have a priest who knows some real prayers that close wounds or cure minor ailments, or an alchemist or hedge wizard who can brew some potions or conjure minor spells, but that's the extent of it. The result is, though Orden is a pre-industrial world with technology and societies akin to 13th-century Europe, the quality of life of the people who live there is a lot closer to ours. They live about as long as we do, die from disease about as often as we do, and generally have diets similar to ours, though with vastly more basic and constricted options on their menus.
+[Orden](../../Browse/rule/world/orden.md) is not explicitly a high fantasy world, even though there are some pretty high fantasy things going on in it, because the average person has *very little* access to magic. The typical village might have a priest who knows some real prayers that close wounds or cure minor ailments, or an alchemist or hedge wizard who can brew some potions or conjure minor spells, but that's the extent of it. The result is, though [Orden](../../Browse/rule/world/orden.md) is a pre-industrial world with technology and societies akin to 13th-century Europe, the quality of life of the people who live there is a lot closer to ours. They live about as long as we do, die from disease about as often as we do, and generally have diets similar to ours, though with vastly more basic and constricted options on their menus.
 
 In Capital, for instance, people use flying tapestries to get around the city quickly, but these are a luxury available only to the rich. The vast majority of Capital's citizens live a life basically the same as your average Londoner in Shakespeare's time. Less plague and fire, though.
 
-It's not clear to us, looking in, but it doesn't seem as though Orden operates according to the real-world laws of physics, chemistry, and biology. People in the middle ages here on Earth didn't know about quarks or DNA, but they still knew everything was made of "stuff" and everyone expected a child to more or less resemble their parents. Essentially, Orden works the way people living in any culture's medieval era believed the real world actually worked. Because of the presence of magic, prayer, and psionics in the world, it's unlikely anything like science or an industrial age will *ever* come to Orden.
+It's not clear to us, looking in, but it doesn't seem as though [Orden](../../Browse/rule/world/orden.md) operates according to the real-world laws of physics, chemistry, and biology. People in the middle ages here on Earth didn't know about quarks or DNA, but they still knew everything was made of "stuff" and everyone expected a child to more or less resemble their parents. Essentially, [Orden](../../Browse/rule/world/orden.md) works the way people living in any culture's medieval era believed the real world actually worked. Because of the presence of magic, prayer, and psionics in the world, it's unlikely anything like science or an industrial age will *ever* come to [Orden](../../Browse/rule/world/orden.md).
 
-Ultimately, while there are 10th-level characters out there, these are exceedingly rare. Most people in Orden do not have class levels. Only a few are 1st level anything! No one has ever tried to take a census of all the [censors](../../Browse/class/censor.md), [conduits](../../Browse/class/conduit.md), [furies](../../Browse/class/fury.md), and so forth, but if they did, they'd probably end up with a chart that looks a lot like Zipf's Law.
+Ultimately, while there are 10th-level characters out there, these are exceedingly rare. Most people in [Orden](../../Browse/rule/world/orden.md) do not have class levels. Only a few are 1st level anything! No one has ever tried to take a census of all the [censors](../../Browse/class/censor.md), [conduits](../../Browse/class/conduit.md), [furies](../../Browse/class/fury.md), and so forth, but if they did, they'd probably end up with a chart that looks a lot like Zipf's Law.
 
-Finally, most information about Orden and the timescape is presented from the point of view of someone living in Orden. They can tell you what they think they know, but even learned historians do not agree, and new information constantly comes to light challenging the accepted academic wisdom. Just like... you get it.
+Finally, most information about [Orden](../../Browse/rule/world/orden.md) and the timescape is presented from the point of view of someone living in [Orden](../../Browse/rule/world/orden.md). They can tell you what they think they know, but even learned historians do not agree, and new information constantly comes to light challenging the accepted academic wisdom. Just like... you get it.
 
-This lack of objective certainty not only makes it more fun for us to work on Orden, it makes it easier for you to make Orden yours. This comes at the price of certainty. (Are the Dragon Phalanx *really* "incorruptible?" Well, a lot of people still say that! In spite of concrete evidence to the contrary!) But we think it helps relieve some of the anxiety Directors have when they want to run a game in Orden but are afraid they don't know "enough" or "everything." Not to worry. No one knows everything!
+This lack of [objective](../../Browse/rule/combat/objective.md) certainty not only makes it more fun for us to work on [Orden](../../Browse/rule/world/orden.md), it makes it easier for you to make [Orden](../../Browse/rule/world/orden.md) yours. This comes at the price of certainty. (Are the Dragon Phalanx *really* "incorruptible?" Well, a lot of people still say that! In spite of concrete evidence to the contrary!) But we think it helps relieve some of the anxiety Directors have when they want to run a game in [Orden](../../Browse/rule/world/orden.md) but are afraid they don't know "enough" or "everything." Not to worry. No one knows everything!
 
-P.S. We use the phrase "Orden and the timescape" because Orden is, as it were, the star of the show. But Orden is very clearly only one world *in* the timescape. It's like those astronomy maps hanging on the wall in your grade school science class that said, "Earth and the solar system." Like that map, any map of the timescape will be an artist's interpretation, not drawn to scale, and never wholly accurate depending on what information you're looking for.
+P.S. We use the phrase "[Orden](../../Browse/rule/world/orden.md) and the timescape" because [Orden](../../Browse/rule/world/orden.md) is, as it were, the star of the show. But [Orden](../../Browse/rule/world/orden.md) is very clearly only one world *in* the timescape. It's like those astronomy maps hanging on the wall in your grade school science class that said, "Earth and the solar system." Like that map, any map of the timescape will be an artist's interpretation, not drawn to scale, and never wholly accurate depending on what information you're looking for.
 
 > **The Timescape in Your Game**
 >
-> We use the timescape and its medieval fantasyland Orden as the default setting presented in these books. Doing so makes it easier for us as designers to marry our design with real examples from a real (imaginary) fantasy world. We also think it's easier for you to take the names for places, languages, and gods, and replace them with your own. We might reference some hero or villain, saint or god, whose name makes you think, "Well, I don't have that in my setting." If we do a good job, though, you might be inspired to say, "But that makes me think..." And being inspired is part of the fun!
+> We use the timescape and its medieval fantasyland [Orden](../../Browse/rule/world/orden.md) as the default setting presented in these books. Doing so makes it easier for us as designers to marry our design with real examples from a real (imaginary) fantasy world. We also think it's easier for you to take the names for places, languages, and gods, and replace them with your own. We might reference some hero or villain, saint or god, whose name makes you think, "Well, I don't have that in my setting." If we do a good job, though, you might be inspired to say, "But that makes me think..." And being inspired is part of the fun!
 
 If you're the Director, you can use as many or as few of the details of the timescape as you like. You might wish to create your own world within the timescape, or use a setting you've created that exists outside of the official MCDM manifolds. You can use details from settings published by other companies. There are no rules when it comes to worldbuilding. Feel free to take what you like from this book and change the rest. For example, you might not care for our [dwarves](../../Browse/ancestry/dwarf.md) having literal stone skin. That's fine. You can make them fleshy, stout, bearded folk, or mohawked, barrel-chested punk rockers, or anything else you wish. As long as you're running a heroic fantasy campaign about fighting monsters, then the game's rules are still likely to serve your narrative even if that narrative deviates from ours.
 

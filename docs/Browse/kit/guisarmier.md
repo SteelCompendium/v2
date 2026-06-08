@@ -3,7 +3,6 @@ equipment_text: You wear medium armor and wield a polearm.
 melee_damage_bonus: +2/+2/+2
 name: Guisarmier
 scc: mcdm.heroes.v1/kit/guisarmier
-stability_bonus: "+1"
 type: kit
 ---
 
@@ -19,9 +18,9 @@ You wear medium armor and wield a polearm.
 
 ## Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +6 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +6 per [echelon](../rule/general/echelon.md)
 
-**Stability Bonus:** +1
+**[Stability](../rule/character/stability.md) Bonus:** +1
 
 **Melee Damage Bonus:** +2/+2/+2
 
@@ -37,7 +36,7 @@ You wear medium armor and wield a polearm.
 |---------------------------|--------------------------------:|
 | **📏 Melee 2**            | **🎯 Two creatures or objects** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 damage
 - **12-16:** 7 damage

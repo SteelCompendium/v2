@@ -18,11 +18,11 @@ type: treasure
 
 **Keywords:** Potion, Psionic
 
-**Item Prerequisite:** A ruby purloined from a vampire
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A ruby purloined from a vampire
 
-**Project Source:** Texts or lore in Proto-Ctholl
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Proto-Ctholl
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Agility](../../../rule/character/agility.md) or [Reason](../../../rule/character/reason.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Agility](../../../rule/character/agility.md) or [Reason](../../../rule/character/reason.md)
 
 **Project Goal:** 45
 

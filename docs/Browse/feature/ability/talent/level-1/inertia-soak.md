@@ -3,7 +3,7 @@ action_type: Maneuver
 class: talent
 cost: 5 Clarity
 distance: Ranged 10
-effect: The target ignores [difficult terrain](../../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../../movement/forced-movement.md) until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's stability. A creature can only be force moved this way once a turn.
+effect: The target ignores [difficult terrain](../../../../movement/difficult-terrain.md) and takes no damage from [forced movement](../../../../movement/forced-movement.md) until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's [stability](../../../../rule/character/stability.md). A creature can only be force moved this way once a turn.
 flavor: Your psionic energy surrounds the target and pushes everything else away from them.
 keywords:
     - Psionic
@@ -37,7 +37,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target ignores <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> and takes no damage from <a href="../../../../../movement/forced-movement/">forced movement</a> until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your <a href="../../../../../rule/character/reason/">Reason</a> score. When pushing an ally, the target can ignore that ally&#39;s stability. A creature can only be force moved this way once a turn.</p></div>
+<div class="sc-ability__section-body"><p>The target ignores <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> and takes no damage from <a href="../../../../../movement/forced-movement/">forced movement</a> until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your <a href="../../../../../rule/character/reason/">Reason</a> score. When pushing an ally, the target can ignore that ally&#39;s <a href="../../../../../rule/character/stability/">stability</a>. A creature can only be force moved this way once a turn.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

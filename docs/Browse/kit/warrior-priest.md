@@ -3,8 +3,6 @@ equipment_text: You wear heavy armor and wield a light weapon.
 melee_damage_bonus: +1/+1/+1
 name: Warrior Priest
 scc: mcdm.heroes.v1/kit/warrior-priest
-speed_bonus: "+1"
-stability_bonus: "+1"
 type: kit
 ---
 
@@ -20,11 +18,11 @@ You wear heavy armor and wield a light weapon.
 
 ## Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +9 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +9 per [echelon](../rule/general/echelon.md)
 
-**Speed Bonus:** +1
+**[Speed](../rule/character/speed.md) Bonus:** +1
 
-**Stability Bonus:** +1
+**[Stability](../rule/character/stability.md) Bonus:** +1
 
 **Melee Damage Bonus:** +1/+1/+1
 
@@ -38,10 +36,10 @@ You wear heavy armor and wield a light weapon.
 |----------------------------------|------------------------------:|
 | **📏 Melee 1**                   | **🎯 One creature or object** |
 
-**Power Roll + [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md), [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 3 + M, R, I, or P holy damage
 - **12-16:** 5 + M, R, I, or P holy damage
 - **17+:** 8 + M, R, I, or P holy damage
 
-**Effect:** Until the end of the target's next turn, they have [damage weakness](../rule/damage/damage-weakness.md) equal to the [characteristic](../rule/character/characteristic.md) score used for this ability's power roll.
+**Effect:** Until the end of the target's next turn, they have [damage weakness](../rule/damage/damage-weakness.md) equal to the [characteristic](../rule/character/characteristic.md) score used for this ability's [power roll](../rule/dice/power-roll.md).

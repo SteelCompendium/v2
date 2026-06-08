@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 5 Essence
 distance: Ranged 10
-effect: The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn't. You then make a power roll against the target of this ability.
+effect: The target uses their [signature ability](../../../../rule/combat/signature-ability.md) against a creature of your choice. This [signature ability](../../../../rule/combat/signature-ability.md) can target the creature even if it usually wouldn't. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target of this ability.
 flavor: Fungal spores sprout inside your enemy's brain, allowing you to control their actions.
 keywords:
     - Green
@@ -37,16 +37,8 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + R poison damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + R poison damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R poison damage</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn&#39;t. You then make a power roll against the target of this ability.</p></div>
+<div class="sc-ability__section-body"><p>The target uses their <a href="../../../../../rule/combat/signature-ability/">signature ability</a> against a creature of your choice. This <a href="../../../../../rule/combat/signature-ability/">signature ability</a> can target the creature even if it usually wouldn&#39;t. You then make a <a href="../../../../../rule/dice/power-roll/">power roll</a> against the target of this ability.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 5 + R poison damage</li><li><b>12-16:</b> 9 + R poison damage</li><li><b>17+:</b> 12 + R poison damage</li></ul></div>
 </div>
 </article>

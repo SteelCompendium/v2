@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: "null"
 cost: 9 Discipline
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 effect: Each target can end any conditions or effects on themself, and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each condition or effect removed.
 flavor: You expand your nullifying power to mitigate harmful effects.
 keywords:
@@ -31,7 +31,7 @@ type: ability
 <p class="sc-ability__flavor">You expand your nullifying power to mitigate harmful effects.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

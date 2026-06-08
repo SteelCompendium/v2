@@ -4,7 +4,7 @@ class: "null"
 cost: 11 Discipline
 distance: Self
 effect: You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.
-flavor: You show shadows what true speed is.
+flavor: You show shadows what true [speed](../../../../rule/character/speed.md) is.
 keywords:
     - Psionic
 level: "9"
@@ -29,7 +29,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Discipline</div></div>
 </div>
-<p class="sc-ability__flavor">You show shadows what true speed is.</p>
+<p class="sc-ability__flavor">You show shadows what true <a href="../../../../../rule/character/speed/">speed</a> is.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>

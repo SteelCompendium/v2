@@ -3,7 +3,7 @@ action_type: Maneuver
 class: talent
 cost: 9 Clarity
 distance: Ranged 10
-effect: You target a number of creatures with this ability determined by the outcome of your power roll. You and your allies are invisible to each target until the start of your next turn.
+effect: You target a number of creatures with this ability determined by the outcome of your [power roll](../../../../rule/dice/power-roll.md). You and your allies are invisible to each target until the start of your next turn.
 flavor: You manipulate your enemies' minds and make them wonder if you were ever really there in the first place.
 keywords:
     - Psionic
@@ -36,17 +36,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Two creatures</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Three creatures</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Five creatures</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You target a number of creatures with this ability determined by the outcome of your power roll. You and your allies are invisible to each target until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>You target a number of creatures with this ability determined by the outcome of your <a href="../../../../../rule/dice/power-roll/">power roll</a>. You and your allies are invisible to each target until the start of your next turn.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> Two creatures</li><li><b>12-16:</b> Three creatures</li><li><b>17+:</b> Five creatures</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

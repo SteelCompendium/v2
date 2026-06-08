@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 9 wrath to use.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 9 wrath to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a <a href="../../../../condition/prone/">prone target</a> can stand up. The target then gains 2 <a href="../../../../rule/resource/surge/">surges</a>, can <a href="../../../../movement/shifting/">shift</a> up to their speed while ignoring <a href="../../../../movement/difficult-terrain/">difficult terrain</a>, and can use a <a href="../../../../rule/combat/strike/">strike</a> signature ability as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>The target ends any condition or effect on them that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn, or a <a href="../../../../condition/prone/">prone target</a> can stand up. The target then gains 2 <a href="../../../../rule/resource/surge/">surges</a>, can <a href="../../../../movement/shifting/">shift</a> up to their <a href="../../../../rule/character/speed/">speed</a> while ignoring <a href="../../../../movement/difficult-terrain/">difficult terrain</a>, and can use a <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -54,20 +54,15 @@ type: feature
 <p class="sc-ability__flavor">You channel your god&#39;s will to overcome hardship and inflict pain.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Each target gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Each target gains 3 <a href="../../../../rule/resource/surge/">surges</a>.</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> Each target gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</li><li><b>12-16:</b> Each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>.</li><li><b>17+:</b> Each target gains 3 <a href="../../../../rule/resource/surge/">surges</a>.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a <a href="../../../../condition/prone/">prone target</a> can stand up.</p></div>
+<div class="sc-ability__section-body"><p>A target can end one effect on them that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn, or a <a href="../../../../condition/prone/">prone target</a> can stand up.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -85,13 +80,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + M damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + M damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 10 + M damage</li><li><b>12-16:</b> 14 + M damage</li><li><b>17+:</b> 20 + M damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -113,13 +103,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage; you and each ally adjacent to you gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + M damage; you and each ally adjacent to you gain 15 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + M damage; you and each ally adjacent to you gain 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 10 + M damage; you and each ally adjacent to you gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></li><li><b>12-16:</b> 14 + M damage; you and each ally adjacent to you gain 15 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></li><li><b>17+:</b> 20 + M damage; you and each ally adjacent to you gain 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></li></ul></div>
 </div>
 </article>
 </div>

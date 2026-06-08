@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../elemental-specialization/">elemental specialization</a> grants you a triggered action, as shown on the Specialization Triggered Actions table.</p>
+<p>Your <a href="../elemental-specialization/">elemental specialization</a> grants you a <a href="../../../../rule/combat/triggered-action/">triggered action</a>, as shown on the Specialization <a href="../../../../rule/combat/triggered-action/">Triggered Actions</a> table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<table><thead><tr><th>Specialization</th><th>Triggered Action</th></tr></thead><tbody><tr><td>Earth</td><td><a href="../../../ability/elementalist/level-1/skin-like-castle-walls/">Skin Like Castle Walls</a></td></tr><tr><td>Fire</td><td><a href="../../../ability/elementalist/level-1/explosive-assistance/">Explosive Assistance</a></td></tr><tr><td>Green</td><td><a href="../../../ability/elementalist/level-1/breath-of-dawn-remembered/">Breath of Dawn Remembered</a></td></tr><tr><td>Void</td><td><a href="../../../ability/elementalist/level-1/subtle-relocation/">Subtle Relocation</a></td></tr></tbody></table>
+<table><thead><tr><th>Specialization</th><th><a href="../../../../rule/combat/triggered-action/">Triggered Action</a></th></tr></thead><tbody><tr><td>Earth</td><td><a href="../../../ability/elementalist/level-1/skin-like-castle-walls/">Skin Like Castle Walls</a></td></tr><tr><td>Fire</td><td><a href="../../../ability/elementalist/level-1/explosive-assistance/">Explosive Assistance</a></td></tr><tr><td>Green</td><td><a href="../../../ability/elementalist/level-1/breath-of-dawn-remembered/">Breath of Dawn Remembered</a></td></tr><tr><td>Void</td><td><a href="../../../ability/elementalist/level-1/subtle-relocation/">Subtle Relocation</a></td></tr></tbody></table>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="triggered">
@@ -105,7 +105,7 @@ type: feature
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>The target takes half the damage.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">If the damage has any <a href="../../../../rule/character/potency/">potency</a> effects associated with it, the <a href="../../../../rule/character/potency/">potency</a> is reduced by 1 for the target.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
 <div class="sc-ability__head">

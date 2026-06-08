@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: 'As a maneuver, you make a ranged [free strike](../../../feature/common/main-actions/free-strike.md) using a black ash dart. The [strike](../../../rule/combat/strike.md) deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:'
+effect: 'As a maneuver, you make a ranged [free strike](../../../feature/common/main-actions/free-strike.md) using a black ash dart. The [strike](../../../rule/combat/strike.md) deals an extra 1 damage and adds the following effects to the [tier outcomes](../../../rule/dice/tier-outcome.md) of the [power roll](../../../rule/dice/power-roll.md):'
 keywords:
     - Magic
 name: Black Ash Dart
@@ -17,15 +17,15 @@ type: treasure
 
 **Keywords:** Magic
 
-**Item Prerequisite:** Three vials of black ash from the College of Black Ash
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** Three vials of black ash from the College of Black Ash
 
-**Project Source:** Texts or lore in Szetch
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Szetch
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Agility](../../../rule/character/agility.md) or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Agility](../../../rule/character/agility.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a shadow)
 
-**Effect:** As a maneuver, you make a ranged [free strike](../../../feature/common/main-actions/free-strike.md) using a black ash dart. The [strike](../../../rule/combat/strike.md) deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged [free strike](../../../feature/common/main-actions/free-strike.md) using a black ash dart. The [strike](../../../rule/combat/strike.md) deals an extra 1 damage and adds the following effects to the [tier outcomes](../../../rule/dice/tier-outcome.md) of the [power roll](../../../rule/dice/power-roll.md):
 
 - **≤11:** You can [teleport](../../../movement/teleport.md) the target up to 2 squares.
 - **12-16:** You can [teleport](../../../movement/teleport.md) the target up to 4 squares.

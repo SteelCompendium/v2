@@ -16,16 +16,16 @@ type: treasure
 
 **Keywords:** Light Weapon, Magic
 
-**Item Prerequisite:** A personal blessing from the greatest duelist in the land, six fake and extremely shiny gemstones
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A personal blessing from the greatest duelist in the land, six fake and extremely shiny gemstones
 
-**Project Source:** Texts or lore in Caelian
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Caelian
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Agility](../../../rule/character/agility.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Agility](../../../rule/character/agility.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon gains a +1 damage bonus. Additionally, whenever you deal rolled damage with this weapon, you can immediately [shift](../../../movement/shifting.md) 1 square. As well, while you wield or carry the weapon and are present in a negotiation, if an NPC in the negotiation has the greed, legacy, power, or revelry motivation, their starting interest increases by 1 (to a maximum of 5).
+**1st Level:** Any weapon ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) using this weapon gains a +1 damage bonus. Additionally, whenever you deal [rolled damage](../../../rule/damage/rolled-damage.md) with this weapon, you can immediately [shift](../../../movement/shifting.md) 1 square. As well, while you wield or carry the weapon and are present in a negotiation, if an [NPC](../../../rule/general/npc.md) in the negotiation has the greed, legacy, power, or revelry motivation, their starting interest increases by 1 (to a maximum of 5).
 
-**5th Level:** The weapon's damage bonus increases to +2. Additionally, when you make an opportunity attack against an enemy of your [size](../../../rule/character/size.md) or smaller, you can use [fancy footwork](../../../feature/ability/swashbuckler/fancy-footwork.md) to knock them [prone](../../../condition/prone.md). You also earn 1 Renown.
+**5th Level:** The weapon's damage bonus increases to +2. Additionally, when you make an [opportunity attack](../../../rule/combat/opportunity-attack.md) against an enemy of your [size](../../../rule/character/size.md) or smaller, you can use [fancy footwork](../../../feature/ability/swashbuckler/fancy-footwork.md) to knock them [prone](../../../condition/prone.md). You also earn 1 [Renown](../../../rule/resource/renown.md).
 
-**9th Level:** The weapon's damage bonus increases to +3. Additionally, you have a double [edge](../../../rule/dice/edge.md) on any test you make using a skill you have from the interpersonal skill group.
+**9th Level:** The weapon's damage bonus increases to +3. Additionally, you have a double [edge](../../../rule/dice/edge.md) on any [test](../../../rule/test/test.md) you make using a skill you have from the interpersonal skill group.

@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your sense for stealth shows those around you how to evade notice. While you are hidden, enemies take a <a href="../../../../rule/dice/bane/">bane</a> on tests made to search for you or other hidden creatures within 10 squares of you.</p>
+<p>Your sense for stealth shows those around you how to evade notice. While you are hidden, enemies take a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/test/test/">tests</a> made to search for you or other hidden creatures within 10 squares of you.</p>
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Additionally, you have the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="triggered">

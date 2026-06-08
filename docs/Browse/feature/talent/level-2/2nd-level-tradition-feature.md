@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can increase the number of rounds in a montage test by 1 if the test would end before the heroes hit the success limit.</p>
+<p>You can increase the number of rounds in a <a href="../../../../rule/test/montage-test/">montage test</a> by 1 if the <a href="../../../../rule/test/test/">test</a> would end before the heroes hit the success limit.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to stop combat and start a negotiation. Additionally, if you are present during a negotiation, any NPC who has a hostile or suspicious starting attitude has their patience increased by 1 (to a maximum of 5).</p>
+<p>You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to stop combat and start a negotiation. Additionally, if you are present during a negotiation, any <a href="../../../../rule/general/npc/">NPC</a> who has a hostile or suspicious starting attitude has their patience increased by 1 (to a maximum of 5).</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -62,7 +62,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free triggered action to reduce the falling damage by an amount equal to 2 + your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
+<p>Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to reduce the falling damage by an amount equal to 2 + your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 </div>

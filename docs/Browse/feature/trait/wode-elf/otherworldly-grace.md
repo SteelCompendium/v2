@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your elf body and mind can&#39;t be contained for long. Whenever you make a saving throw, you succeed on a roll of 5 or higher.</p>
+<p>Your elf body and mind can&#39;t be contained for long. Whenever you make a <a href="../../../../rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
 </div>
 </section>

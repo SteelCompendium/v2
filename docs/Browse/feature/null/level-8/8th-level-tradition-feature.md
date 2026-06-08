@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You and each creature or object of your choice in the area of your <a href="../../level-1/null-field/">Null Field</a> ability gain a bonus to stability equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score. A creature who attempts to <a href="../../../../movement/forced-movement/">force move</a> a target with this bonus takes psychic damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
+<p>You and each creature or object of your choice in the area of your <a href="../../level-1/null-field/">Null Field</a> ability gain a bonus to <a href="../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score. A creature who attempts to <a href="../../../../movement/forced-movement/">force move</a> a target with this bonus takes psychic damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>When you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action, one ally in the area of your <a href="../../level-1/null-field/">Null Field</a> ability can also take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action as a free triggered action, using your <a href="../../../../rule/combat/distance/">distance</a> for that move action.</p>
+<p>When you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action, one ally in the area of your <a href="../../level-1/null-field/">Null Field</a> ability can also take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>, using your <a href="../../../../rule/combat/distance/">distance</a> for that move action.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -62,7 +62,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a free maneuver, you can spend 1d6 <a href="../../../../rule/health/stamina/">Stamina</a> to remove one effect on you. Each creature of your choice in the area of your <a href="../../level-1/null-field/">Null Field</a> ability also gains this benefit.</p>
+<p>As a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a>, you can spend 1d6 <a href="../../../../rule/health/stamina/">Stamina</a> to remove one effect on you. Each creature of your choice in the area of your <a href="../../level-1/null-field/">Null Field</a> ability also gains this benefit.</p>
 </div>
 </section>
 </div>

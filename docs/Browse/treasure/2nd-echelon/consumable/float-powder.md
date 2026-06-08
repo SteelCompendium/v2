@@ -1,6 +1,6 @@
 ---
 echelon: "2"
-effect: Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your stability is reduced to 0, and you can [fly](../../../movement/fly.md) and [hover](../../../movement/hover.md). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.
+effect: Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your [stability](../../../rule/character/stability.md) is reduced to 0, and you can [fly](../../../movement/fly.md) and [hover](../../../movement/hover.md). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.
 keywords:
     - Magic
 name: Float Powder
@@ -17,12 +17,12 @@ type: treasure
 
 **Keywords:** Magic
 
-**Item Prerequisite:** Several strands of hag hair
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** Several strands of hag hair
 
-**Project Source:** Texts or lore in Khelt
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Khelt
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Intuition](../../../rule/character/intuition.md) or [Presence](../../../rule/character/presence.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Intuition](../../../rule/character/intuition.md) or [Presence](../../../rule/character/presence.md)
 
 **Project Goal:** 90 (yields 1d3 vials)
 
-**Effect:** Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your stability is reduced to 0, and you can [fly](../../../movement/fly.md) and [hover](../../../movement/hover.md). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.
+**Effect:** Dousing yourself in this powder as a maneuver causes you to weightlessly float off the ground. For 1 hour, your [stability](../../../rule/character/stability.md) is reduced to 0, and you can [fly](../../../movement/fly.md) and [hover](../../../movement/hover.md). Additionally, the hag that the powder is sourced from knows exactly where and when you use it.

@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 7 Essence
 distance: Ranged 10
-effect: Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a [bane](../../../../rule/dice/bane.md) on power rolls. At the end of their first turn, they have a double [bane](../../../../rule/dice/bane.md) on power rolls. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
+effect: Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md). At the end of their first turn, they have a double [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md). At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
 flavor: With a flick of the wrist, you phase creatures out of existence.
 keywords:
     - Magic
@@ -36,20 +36,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">One creature</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Two creatures</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Three creatures</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>The number of creatures you target with this ability is determined by your power roll.</p></div>
+<div class="sc-ability__section-body"><p>The number of creatures you target with this ability is determined by your <a href="../../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> One creature</li><li><b>12-16:</b> Two creatures</li><li><b>17+:</b> Three creatures</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a <a href="../../../../../rule/dice/bane/">bane</a> on power rolls. At the end of their first turn, they have a double <a href="../../../../../rule/dice/bane/">bane</a> on power rolls. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.</p></div>
+<div class="sc-ability__section-body"><p>Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a <a href="../../../../../rule/dice/bane/">bane</a> on <a href="../../../../../rule/dice/power-roll/">power rolls</a>. At the end of their first turn, they have a double <a href="../../../../../rule/dice/bane/">bane</a> on <a href="../../../../../rule/dice/power-roll/">power rolls</a>. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.</p></div>
 </div>
 </article>

@@ -12,17 +12,17 @@ Combat takes place over a series of combat rounds. During a combat round, each c
 
 ## When Does Combat Start?
 
-Combat starts as soon as one creature intends to harm another, or when some environmental effect is in a position to deal damage to or impose other negative effects on one or more creatures. This means that even before the action happens, a hero can't use a heroic ability without spending their [Heroic Resource](../resource/heroic-resource.md) on it, because combat has already begun!
+Combat starts as soon as one creature intends to harm another, or when some environmental effect is in a position to deal damage to or impose other negative effects on one or more creatures. This means that even before the action happens, a hero can't use a [heroic ability](../general/heroic-ability.md) without spending their [Heroic Resource](../resource/heroic-resource.md) on it, because combat has already begun!
 
 ## Determine Surprise {data-scc="mcdm.heroes.v1/rule.combat/surprised"}
 
-When battle starts, the Director determines which creatures, if any, are caught off guard. Any creature who isn't ready for combat at the start of an encounter is surprised until the end of the first combat round. A surprised creature can't take triggered actions or free triggered actions, and ability rolls made against them gain an [edge](../dice/edge.md).
+When battle starts, the Director determines which creatures, if any, are caught off guard. Any creature who isn't ready for combat at the start of an encounter is surprised until the end of the first combat round. A surprised creature can't take [triggered actions](triggered-action.md) or free [triggered actions](triggered-action.md), and [ability rolls](../dice/ability-roll.md) made against them gain an [edge](../dice/edge.md).
 
 For example, if the heroes sneak up unnoticed on a camp of marauders and attack, each marauder is surprised. Likewise, if the heroes fail to notice that all the cloaked figures in a tavern are actually brain-devouring zombies, then the heroes are surprised. If one of the heroes notices the disguised undead before the zombies attack but has no opportunity to warn their allies, that hero isn't surprised but the rest of the characters are.
 
 ## Determine Who Goes First
 
-Sometimes figuring out who gets to take the first turn in combat is automatic. If all the creatures on one side are surprised, then a creature on the other side gets to act first. But if both sides have creatures who aren't surprised, the Director or a player they choose rolls a d10. On a 6 or higher, the players determine who goes first—the heroes' side or the other side. Otherwise, the Director decides which side goes first.
+Sometimes figuring out who gets to take the first turn in combat is automatic. If all the creatures on one side are [surprised](surprised.md), then a creature on the other side gets to act first. But if both sides have creatures who aren't [surprised](surprised.md), the Director or a player they choose rolls a d10. On a 6 or higher, the players determine who goes first—the heroes' side or the other side. Otherwise, the Director decides which side goes first.
 
 ## Creatures Take Turns
 
@@ -44,7 +44,7 @@ If the players do end up arguing in circles about what to do next, the Director 
 
 > **Alternative Turn Order**
 >
-> If planning everyone's turn order isn't fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an [Agility](../character/agility.md) test, then record the totals. When it's time for someone on the heroes' side to act, the hero with the highest total goes first. On the next hero turn, the hero with the second-highest total takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied [Agility](../character/agility.md) tests to determine who among the tied creatures acts before the others.
+> If planning everyone's turn order isn't fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an [Agility](../character/agility.md) [test](../test/test.md), then record the totals. When it's time for someone on the heroes' side to act, the hero with the highest total goes first. On the next hero turn, the hero with the second-highest total takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied [Agility](../character/agility.md) [tests](../test/test.md) to determine who among the tied creatures acts before the others.
 >
 > At the Director's discretion, a hero can swap their turn in the order with another willing hero at the start of a new combat round. This allows certain abilities that interact with the core turn order system, such as the [shadow's](../../class/shadow.md) [Hesitation Is Weakness](../../feature/ability/shadow/level-1/hesitation-is-weakness.md) ability, to better work with this alternative system.
 

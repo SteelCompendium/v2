@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: "null"
 cost: 3 Discipline
-distance: 2 burst
+distance: 2 [burst](../../../../rule/combat/burst.md)
 effect: Each target takes psychic damage equal to twice your [Intuition](../../../../rule/character/intuition.md) score. Until the start of your next turn, the size of your [Null Field](../../../null/level-1/null-field.md) ability increases by 1. At the end of your current turn, each enemy in the area of your [Null Field](../../../null/level-1/null-field.md) ability takes psychic damage equal to your [Intuition](../../../../rule/character/intuition.md) score.
 flavor: A burst of psionic energy interferes with your enemy's synapses.
 keywords:
@@ -31,7 +31,7 @@ type: ability
 <p class="sc-ability__flavor">A burst of psionic energy interferes with your enemy&#39;s synapses.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__section">

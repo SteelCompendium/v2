@@ -16,16 +16,16 @@ type: treasure
 
 **Keywords:** Hands, Psionic
 
-**Item Prerequisite:** One cotton bolt soaked in the blood of six adventurers
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** One cotton bolt soaked in the blood of six adventurers
 
-**Project Source:** Texts or lore in Caelian
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Caelian
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Agility](../../../rule/character/agility.md), or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Agility](../../../rule/character/agility.md), or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** While you wear these hand wraps, any weapon ability that deals rolled damage using your unarmed [strikes](../../../rule/combat/strike.md) gains a +1 damage bonus. Additionally, once per turn, you can take 5 damage that can't be reduced in any way to use the [Grab](../../../feature/common/maneuvers/grab.md) maneuver (no action required).
+**1st Level:** While you wear these hand wraps, any weapon ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) using your unarmed [strikes](../../../rule/combat/strike.md) gains a +1 damage bonus. Additionally, once per turn, you can take 5 damage that can't be reduced in any way to use the [Grab](../../../feature/common/maneuvers/grab.md) maneuver (no action required).
 
 **5th Level:** The damage bonus granted by the hand wraps increases to +2. Additionally, once per turn, you can take 10 damage that can't be reduced in any way to make a melee [free strike](../../../feature/common/main-actions/free-strike.md) (no action required). On your turn, you can use the wraps' melee [free strike](../../../feature/common/main-actions/free-strike.md) option or [Grab](../../../feature/common/maneuvers/grab.md) maneuver option, but only one.
 
-**9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a signature ability (no action required). On your turn, you can use the wraps' signature ability option, melee [free strike](../../../feature/common/main-actions/free-strike.md) option, or [Grab](../../../feature/common/maneuvers/grab.md) maneuver option, but only one.
+**9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a [signature ability](../../../rule/combat/signature-ability.md) (no action required). On your turn, you can use the wraps' [signature ability](../../../rule/combat/signature-ability.md) option, melee [free strike](../../../feature/common/main-actions/free-strike.md) option, or [Grab](../../../feature/common/maneuvers/grab.md) maneuver option, but only one.

@@ -16,11 +16,11 @@ type: treasure
 
 **Keywords:** Magic, Shield
 
-**Item Prerequisite:** A ballad of heroism, two ingots of sunmetal
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A ballad of heroism, two ingots of sunmetal
 
-**Project Source:** Songs in High Rhyvian
+**[Project Source](../../../rule/downtime/project-source.md):** Songs in High Rhyvian
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)
 
 **Project Goal:** 450
 

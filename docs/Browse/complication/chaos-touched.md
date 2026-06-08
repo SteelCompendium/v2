@@ -1,6 +1,6 @@
 ---
 benefit: You gain an [edge](../rule/dice/edge.md) on the [Escape Grab](../feature/common/maneuvers/escape-grab.md), [Grab](../feature/common/maneuvers/grab.md), and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers. Additionally, you can hold an additional item even when your hands are full.
-drawback: While [dying](../rule/health/dying.md), you grow and retract uncoordinated limbs at random, imposing a [bane](../rule/dice/bane.md) on your power rolls.
+drawback: While [dying](../rule/health/dying.md), you grow and retract uncoordinated limbs at random, imposing a [bane](../rule/dice/bane.md) on your [power rolls](../rule/dice/power-roll.md).
 name: Chaos Touched
 scc: mcdm.heroes.v1/complication/chaos-touched
 type: complication
@@ -14,4 +14,4 @@ You came into contact with a mote of pure chaos energy, or were subjected to a s
 
 **Benefit:** You gain an [edge](../rule/dice/edge.md) on the [Escape Grab](../feature/common/maneuvers/escape-grab.md), [Grab](../feature/common/maneuvers/grab.md), and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers. Additionally, you can hold an additional item even when your hands are full.
 
-**Drawback:** While [dying](../rule/health/dying.md), you grow and retract uncoordinated limbs at random, imposing a [bane](../rule/dice/bane.md) on your power rolls.
+**Drawback:** While [dying](../rule/health/dying.md), you grow and retract uncoordinated limbs at random, imposing a [bane](../rule/dice/bane.md) on your [power rolls](../rule/dice/power-roll.md).

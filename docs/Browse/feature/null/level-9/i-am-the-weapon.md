@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">9</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../../../../rule/health/stamina/">Stamina</a> increases by 21 and you can&#39;t be made <a href="../../../../condition/bleeding/">bleeding</a> even while <a href="../../../../rule/health/dying/">dying</a>. You no longer age or have need of food. Additionally, you can use <a href="../../../../rule/character/intuition/">Intuition</a> instead of another <a href="../../../../rule/character/characteristic/">characteristic</a> when resisting potencies.</p>
+<p>Your <a href="../../../../rule/health/stamina/">Stamina</a> increases by 21 and you can&#39;t be made <a href="../../../../condition/bleeding/">bleeding</a> even while <a href="../../../../rule/health/dying/">dying</a>. You no longer age or have need of food. Additionally, you can use <a href="../../../../rule/character/intuition/">Intuition</a> instead of another <a href="../../../../rule/character/characteristic/">characteristic</a> when resisting <a href="../../../../rule/character/potency/">potencies</a>.</p>
 </div>
 </section>

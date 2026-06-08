@@ -13,8 +13,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">180</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A grub steeped in voiceless talker bile</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Variac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="bottled-paradox/" aria-label="Bottled Paradox"></a>
@@ -26,8 +24,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">180</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A month's lifespan from the creator or another willing creature, ground sapphire</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="gallios-visiting-card/" aria-label="G&#39;Allios Visiting Card"></a>
@@ -39,8 +35,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">180</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> One vial of archdevil's blood, an expired contract</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Anjali</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="personal-effigy/" aria-label="Personal Effigy"></a>
@@ -52,8 +46,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">120</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A brief period of contact with the creature the effigy is tied to</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Khemharic</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="stygian-liquor/" aria-label="Stygian Liquor"></a>
@@ -65,8 +57,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">180</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> An ounce of scrapings from a coven's used cauldron</div>
-  <div class="sc-card__line"><b>Source</b> Texts in Anjali</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="timesplitter/" aria-label="Timesplitter"></a>
@@ -78,8 +68,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">180</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A time crystal</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Voll</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="ward-token/" aria-label="Ward Token"></a>
@@ -91,8 +79,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">180</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A small quartz</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Zaliac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="wellness-tonic/" aria-label="Wellness Tonic"></a>
@@ -104,7 +90,5 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">180</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> An ounce of troll's blood, raw honey</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Variac</div>
 </div>
 </div>

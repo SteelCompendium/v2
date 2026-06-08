@@ -3,7 +3,7 @@ action_type: Main action
 class: "null"
 cost: 3 Discipline
 distance: Melee 1
-effect: You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this [strike](../../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a [free strike](../../../common/main-actions/free-strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+effect: You can [shift](../../../../movement/shifting.md) up to half your [speed](../../../../rule/character/speed.md) before or after you make this [strike](../../../../rule/combat/strike.md). Additionally, whenever an effect lets you make a [free strike](../../../common/main-actions/free-strike.md) or use a [signature ability](../../../../rule/combat/signature-ability.md), you can use this ability instead, paying its discipline cost as usual.
 flavor: You foresee the best moment to strike, then exploit it.
 keywords:
     - Melee
@@ -36,16 +36,11 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + A damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 7 + A damage</li><li><b>12-16:</b> 10 + A damage</li><li><b>17+:</b> 13 + A damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to half your speed before or after you make this <a href="../../../../../rule/combat/strike/">strike</a>. Additionally, whenever an effect lets you make a <a href="../../../../common/main-actions/free-strike/">free strike</a> or use a signature ability, you can use this ability instead, paying its discipline cost as usual.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to half your <a href="../../../../../rule/character/speed/">speed</a> before or after you make this <a href="../../../../../rule/combat/strike/">strike</a>. Additionally, whenever an effect lets you make a <a href="../../../../common/main-actions/free-strike/">free strike</a> or use a <a href="../../../../../rule/combat/signature-ability/">signature ability</a>, you can use this ability instead, paying its discipline cost as usual.</p></div>
 </div>
 </article>

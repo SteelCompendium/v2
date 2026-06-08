@@ -13,8 +13,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">90</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> The breath of a mystic sage captured at sunrise</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Hyrallic</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="bull-shot/" aria-label="Bull Shot"></a>
@@ -26,8 +24,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">90</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> One vial of pure bovine essence</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="chocolate-of-immovability/" aria-label="Chocolate of Immovability"></a>
@@ -39,8 +35,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">90</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A chocolate made by a gnome confectioner</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="concealment-potion/" aria-label="Concealment Potion"></a>
@@ -52,8 +46,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">90</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> An ounce of sap from a tree damaged by psionic fire</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Yllyric</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="float-powder/" aria-label="Float Powder"></a>
@@ -65,8 +57,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v has-tip" title="90 (yields 1d3 vials)">90*</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Several strands of hag hair</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Khelt</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="purified-jelly/" aria-label="Purified Jelly"></a>
@@ -78,8 +68,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v has-tip" title="90 (yields 1d3 doses)">90*</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A cup of algae from glacial water</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Yllyric</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="scroll-of-resurrection/" aria-label="Scroll of Resurrection"></a>
@@ -91,8 +79,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">90</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A sheet of paper infused with the dust of a painite</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in the First Language</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="telemagnet/" aria-label="Telemagnet"></a>
@@ -104,8 +90,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">90</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A shard of prismacore, an ounce of ferrous metal</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Zaliac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="vial-of-ethereal-attack/" aria-label="Vial of Ethereal Attack"></a>
@@ -117,7 +101,5 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">90</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A signed agreement with a ghost, a large obsidian disk</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Anjali</div>
 </div>
 </div>

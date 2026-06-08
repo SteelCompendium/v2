@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your instinctive resilience protects you from injuries beyond the routine. Whenever you take damage that isn&#39;t untyped, you can use a triggered action to take half the damage.</p>
+<p>Your instinctive resilience protects you from injuries beyond the routine. Whenever you take damage that isn&#39;t untyped, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to take half the damage.</p>
 </div>
 </section>

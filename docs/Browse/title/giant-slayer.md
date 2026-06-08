@@ -26,7 +26,7 @@ type: title
 > |---------------------------|--------------------:|
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
+> **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 >
 > - **≤11:** 7 damage; M < WEAK[, prone](../condition/prone.md) and can't stand (save ends)
 > - **12-16:** 11 damage; M < AVERAGE[, prone](../condition/prone.md) and can't stand (save ends)
@@ -34,4 +34,4 @@ type: title
 >
 > **Special:** If the target is [size](../rule/character/size.md) 2 or larger, you gain an [edge](../rule/dice/edge.md) on this ability.
 
-- *Up the Beanstalk:* You have the [Climb](../skill/climb.md) skill. If you already have this skill, you instead gain an [edge](../rule/dice/edge.md) on tests made using the [Climb](../skill/climb.md) skill. While you're climbing a creature, the creature has a double [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against you and you have a double [edge](../rule/dice/edge.md) on tests made to stay on the creature.
+- *Up the Beanstalk:* You have the [Climb](../skill/climb.md) skill. If you already have this skill, you instead gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the [Climb](../skill/climb.md) skill. While you're climbing a creature, the creature has a double [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against you and you have a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to stay on the creature.

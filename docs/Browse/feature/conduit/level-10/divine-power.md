@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have an epic resource called <a href="../divine-power/">divine power</a>. Each time you finish a respite, you gain <a href="../divine-power/">divine power</a> equal to the XP you gain. You can spend <a href="../divine-power/">divine power</a> on your abilities as if it were piety.</p>
+<p>You have an epic resource called <a href="../divine-power/">divine power</a>. Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you gain <a href="../divine-power/">divine power</a> equal to the <a href="../../../../rule/resource/experience/">XP</a> you gain. You can spend <a href="../divine-power/">divine power</a> on your abilities as if it were piety.</p>
 <p>Additionally, you can spend <a href="../divine-power/">divine power</a> as if it were piety to use any <a href="../../../../class/conduit/">conduit</a> abilities you don&#39;t have, as the gods answer your prayers with temporary and unique gifts. If you use a <a href="../../../../class/conduit/">conduit</a> ability you don&#39;t have that usually costs no piety, you must spend 1 <a href="../divine-power/">divine power</a> to use it.</p>
 <p><a href="../divine-power/">Divine power</a> remains until you spend it.</p>
 </div>

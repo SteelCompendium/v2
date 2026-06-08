@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: conduit
 distance: Melee 1
-effect: You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of [dying](../../../../rule/health/dying.md) can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
+effect: You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make [tests](../../../../rule/test/test.md) to influence them and convince them to speak with you. The trauma of [dying](../../../../rule/health/dying.md) can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 flavor: You commune with the lingering soul of the recently dead.
 keywords:
     - Magic
@@ -34,6 +34,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of <a href="../../../../../rule/health/dying/">dying</a> can make a creature&#39;s memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can&#39;t use this ability on the same creature twice.</p></div>
+<div class="sc-ability__section-body"><p>You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make <a href="../../../../../rule/test/test/">tests</a> to influence them and convince them to speak with you. The trauma of <a href="../../../../../rule/health/dying/">dying</a> can make a creature&#39;s memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can&#39;t use this ability on the same creature twice.</p></div>
 </div>
 </article>

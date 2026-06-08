@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the project source for any research or crafting project (see Chapter 12: <a href="../../../../../Read/heroes/downtime-projects/">Downtime Projects</a>).</p>
+<p>You can interpret diagrams and charts even if you don&#39;t understand the language associated with them. You are considered fluent in all languages for the purpose of understanding the <a href="../../../../rule/downtime/project-source/">project source</a> for any research or <a href="../../../../rule/downtime/crafting-project/">crafting project</a> (see Chapter 12: <a href="../../../../../Read/heroes/downtime-projects/">Downtime Projects</a>).</p>
 </div>
 </section>

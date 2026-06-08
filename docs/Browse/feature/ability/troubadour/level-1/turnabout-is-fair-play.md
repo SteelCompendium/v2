@@ -12,7 +12,7 @@ scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/turnabout-is-fair-play
 spend: '3 Drama: An [edge](../../../../rule/dice/edge.md) on the triggering roll becomes a double [bane](../../../../rule/dice/bane.md), or a double [edge](../../../../rule/dice/edge.md) is negated. A [bane](../../../../rule/dice/bane.md) becomes a double [edge](../../../../rule/dice/edge.md), or a double [bane](../../../../rule/dice/bane.md) is negated.'
 subtype: triggered
 target: One creature
-trigger: The target makes an ability roll that has an [edge](../../../../rule/dice/edge.md), a double [edge](../../../../rule/dice/edge.md), a [bane](../../../../rule/dice/bane.md), or a double [bane](../../../../rule/dice/bane.md).
+trigger: The target makes an [ability roll](../../../../rule/dice/ability-roll.md) that has an [edge](../../../../rule/dice/edge.md), a double [edge](../../../../rule/dice/edge.md), a [bane](../../../../rule/dice/bane.md), or a double [bane](../../../../rule/dice/bane.md).
 type: ability
 ---
 
@@ -37,7 +37,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target makes an ability roll that has an <a href="../../../../../rule/dice/edge/">edge</a>, a double <a href="../../../../../rule/dice/edge/">edge</a>, a <a href="../../../../../rule/dice/bane/">bane</a>, or a double <a href="../../../../../rule/dice/bane/">bane</a>.</p></div>
+<div class="sc-ability__section-body"><p>The target makes an <a href="../../../../../rule/dice/ability-roll/">ability roll</a> that has an <a href="../../../../../rule/dice/edge/">edge</a>, a double <a href="../../../../../rule/dice/edge/">edge</a>, a <a href="../../../../../rule/dice/bane/">bane</a>, or a double <a href="../../../../../rule/dice/bane/">bane</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

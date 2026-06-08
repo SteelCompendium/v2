@@ -60,7 +60,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>For each Victory you have, you can target one creature. Each target gains the benefit of your <a href="../a-beyonding-of-vision/">A Beyonding of Vision</a> feature until the end of your next turn, but doesn&#39;t gain the use of the <a href="../../../ability/elementalist/level-1/shared-void-sense/">Shared Void Sense</a> ability.</p></div>
+<div class="sc-ability__section-body"><p>For each <a href="../../../../rule/resource/victories/">Victory</a> you have, you can target one creature. Each target gains the benefit of your <a href="../a-beyonding-of-vision/">A Beyonding of Vision</a> feature until the end of your next turn, but doesn&#39;t gain the use of the <a href="../../../ability/elementalist/level-1/shared-void-sense/">Shared Void Sense</a> ability.</p></div>
 </div>
 </article>
 </div>
@@ -74,7 +74,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can speak with and understand animals, beasts, and plant creatures, even if they don&#39;t share a language with you. Your ability to communicate with these creatures doesn&#39;t make them inherently more intelligent, but you can use <a href="../../../../rule/character/reason/">Reason</a> instead of <a href="../../../../rule/character/presence/">Presence</a> while making tests to influence them.</p>
+<p>You can speak with and understand animals, beasts, and plant creatures, even if they don&#39;t share a language with you. Your ability to communicate with these creatures doesn&#39;t make them inherently more intelligent, but you can use <a href="../../../../rule/character/reason/">Reason</a> instead of <a href="../../../../rule/character/presence/">Presence</a> while making <a href="../../../../rule/test/test/">tests</a> to influence them.</p>
 <p>Additionally, you can touch a living plant that is not a plant creature to communicate with it telepathically. You can use words to communicate with the plant, but it communicates with you only by transmitting feelings and sensations that can&#39;t be overly specific.</p>
 </div>
 </section>

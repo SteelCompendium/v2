@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have learned to leverage your marked foes&#39; psychology and goad them into acting before they&#39;re tactically ready. Whenever a creature marked by you uses a <a href="../../../../rule/combat/strike/">strike</a> that targets you or any ally within your line of effect, you can use a free triggered action to change one target of the <a href="../../../../rule/combat/strike/">strike</a> to you or another ally within your line of effect. The new target must be within <a href="../../../../rule/combat/distance/">distance</a> of the ability and within line of effect of the creature using it.</p>
+<p>You have learned to leverage your marked foes&#39; psychology and goad them into acting before they&#39;re tactically ready. Whenever a creature marked by you uses a <a href="../../../../rule/combat/strike/">strike</a> that targets you or any ally within your <a href="../../../../rule/combat/line-of-effect/">line of effect</a>, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to change one target of the <a href="../../../../rule/combat/strike/">strike</a> to you or another ally within your <a href="../../../../rule/combat/line-of-effect/">line of effect</a>. The new target must be within <a href="../../../../rule/combat/distance/">distance</a> of the ability and within <a href="../../../../rule/combat/line-of-effect/">line of effect</a> of the creature using it.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -62,8 +62,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>After constant drills, you can more accurately anticipate an enemy&#39;s plan and thwart their attempts to move across the battlefield. Whenever you make an opportunity attack, the target&#39;s speed is reduced to 0 until the end of the current turn.</p>
-<p><b>Mark Benefit:</b> When a creature marked by you attempts to move or <a href="../../../../movement/shifting/">shift</a> within <a href="../../../../rule/combat/distance/">distance</a> of your melee <a href="../../../common/main-actions/free-strike/">free strike</a>, you can use a free triggered action and spend 2 focus to make a melee <a href="../../../common/main-actions/free-strike/">free strike</a> against that creature.</p>
+<p>After constant drills, you can more accurately anticipate an enemy&#39;s plan and thwart their attempts to move across the battlefield. Whenever you make an <a href="../../../../rule/combat/opportunity-attack/">opportunity attack</a>, the target&#39;s <a href="../../../../rule/character/speed/">speed</a> is reduced to 0 until the end of the current turn.</p>
+<p><b>Mark Benefit:</b> When a creature marked by you attempts to move or <a href="../../../../movement/shifting/">shift</a> within <a href="../../../../rule/combat/distance/">distance</a> of your melee <a href="../../../common/main-actions/free-strike/">free strike</a>, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> and spend 2 focus to make a melee <a href="../../../common/main-actions/free-strike/">free strike</a> against that creature.</p>
 </div>
 </section>
 </div>

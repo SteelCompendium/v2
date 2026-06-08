@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: conduit
 cost: 9 Piety
-distance: 4 burst
+distance: 4 [burst](../../../../rule/combat/burst.md)
 effect: Each target is invisible until the start of your next turn.
 flavor: '"Now you see us..."'
 keywords:
@@ -31,7 +31,7 @@ type: ability
 <p class="sc-ability__flavor">Now you see us...</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

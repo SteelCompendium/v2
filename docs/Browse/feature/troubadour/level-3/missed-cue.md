@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If you aren&#39;t surprised at the start of an encounter, you can choose one enemy within your line of effect who is not a leader or solo creature. The Director temporarily removes the chosen creature from the encounter. The chosen creature enters the encounter at the start of the second combat round. You must earn 3 Victories before you can use this feature again.</p>
+<p>If you aren&#39;t <a href="../../../../rule/combat/surprised/">surprised</a> at the start of an encounter, you can choose one enemy within your <a href="../../../../rule/combat/line-of-effect/">line of effect</a> who is not a leader or solo creature. The Director temporarily removes the chosen creature from the encounter. The chosen creature enters the encounter at the start of the second combat round. You must earn 3 <a href="../../../../rule/resource/victories/">Victories</a> before you can use this feature again.</p>
 </div>
 </section>

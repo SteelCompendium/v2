@@ -14,7 +14,7 @@ Each of the objective endings in this section is explored in detail including lo
 
 ## Diminish Numbers
 
-The simplest combat encounter objective is almost always "defeat them before they defeat us." Though the heroes don't have to kill every last enemy in this type of encounter, winning the day requires that they push their opponents to the point where they are broken, flee, or surrender.
+The simplest combat encounter [objective](objective.md) is almost always "defeat them before they defeat us." Though the heroes don't have to kill every last enemy in this type of encounter, winning the day requires that they push their opponents to the point where they are broken, flee, or surrender.
 
 ## Defeat a Specific Foe
 
@@ -24,7 +24,7 @@ An encounter built around defeating a specific foe includes one or more of the h
 
 Classic heroic fantasy is full of important objects that the heroes must protect from the forces of evil: magic rings, royal birth certificates, dragon eggs, and the like. Heroes often find themselves at violent odds with their enemies as they race to collect a valuable or important item from a guarded temple or castle, or when they need to steal the item from a group of enemies already in possession of it.
 
-Objectives in this category work well when paired with other objectives, such as defeating a specific foe. For instance, the heroes must steal a ledger containing a record of criminal activity from an overmind and her lackeys. However, even if they obtain the ledger, the battle won't be over until they also defeat the overmind, who won't let the book go without a fight!
+[Objectives](objective.md) in this category work well when paired with other [objectives](objective.md), such as defeating a specific foe. For instance, the heroes must steal a ledger containing a record of criminal activity from an overmind and her lackeys. However, even if they obtain the ledger, the battle won't be over until they also defeat the overmind, who won't let the book go without a fight!
 
 ## Destroy the Thing!
 
@@ -42,16 +42,16 @@ Not every escort encounter is on behalf of a wise or mighty ally. Sometimes the 
 
 ## Hold Them Off
 
-Sometimes the heroes just need to buy time. They might need to battle a conquering tyrant's army to allow innocent villagers time to escape. They might need to hold off wave after wave of zombies while a group of priests completes a ritual to lay the undead to rest for good. To achieve this objective, the heroes need to stay alive and protect a particular position for a number of rounds determined by you.
+Sometimes the heroes just need to buy time. They might need to battle a conquering tyrant's army to allow innocent villagers time to escape. They might need to hold off wave after wave of zombies while a group of priests completes a ritual to lay the undead to rest for good. To achieve this [objective](objective.md), the heroes need to stay alive and protect a particular position for a number of rounds determined by you.
 
 ## Assault the Defenses
 
-The enemy holds a strategically important position and the heroes want it. The encounter ends when the heroes secure the objective defensive location for themselves, even if there are more enemies outside it. Sometimes an encounter with this objective is part of a combined objective, as when heroes must first assault the defenses, then hold that defensive position against counterattack.
+The enemy holds a strategically important position and the heroes want it. The encounter ends when the heroes secure the [objective](objective.md) defensive location for themselves, even if there are more enemies outside it. Sometimes an encounter with this [objective](objective.md) is part of a combined [objective](objective.md), as when heroes must first assault the defenses, then hold that defensive position against counterattack.
 
 ## Stop the Action
 
-Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! Objectives in this category have a timer associated with them. If the heroes don't achieve the objective in a certain number of rounds, the conditions of the battle could well change. For instance, if the cultists summon the archdevil, defeating the [devil](../../ancestry/devil.md) suddenly becomes the heroes' new objective!
+Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! [Objectives](objective.md) in this category have a timer associated with them. If the heroes don't achieve the [objective](objective.md) in a certain number of rounds, the conditions of the battle could well change. For instance, if the cultists summon the archdevil, defeating the [devil](../../ancestry/devil.md) suddenly becomes the heroes' new [objective](objective.md)!
 
 ## Complete the Action
 
-This encounter objective sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [time raider](../../ancestry/time-raider.md) boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few [time raiders](../../ancestry/time-raider.md) actually aboard.
+This encounter [objective](objective.md) sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [time raider](../../ancestry/time-raider.md) boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few [time raiders](../../ancestry/time-raider.md) actually aboard.

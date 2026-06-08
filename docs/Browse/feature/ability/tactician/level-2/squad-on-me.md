@@ -2,8 +2,8 @@
 action_type: Maneuver
 class: tactician
 cost: 5 Focus
-distance: 1 burst
-effect: Until the start of your next turn, each target has a bonus to stability equal to your [Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../../rule/resource/surge.md).
+distance: 1 [burst](../../../../rule/combat/burst.md)
+effect: Until the start of your next turn, each target has a bonus to [stability](../../../../rule/character/stability.md) equal to your [Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../../rule/resource/surge.md).
 flavor: Together we are invincible!
 keywords:
     - Area
@@ -30,11 +30,11 @@ type: ability
 <p class="sc-ability__flavor">Together we are invincible!</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, each target has a bonus to stability equal to your <a href="../../../../../rule/character/might/">Might</a> score. Additionally, each target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, each target has a bonus to <a href="../../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../../rule/character/might/">Might</a> score. Additionally, each target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>

@@ -66,7 +66,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an adjacent creature makes a power roll, you can use a free triggered action to remove an <a href="../../../../rule/dice/edge/">edge</a> or a <a href="../../../../rule/dice/bane/">bane</a> on the roll, to turn a double <a href="../../../../rule/dice/edge/">edge</a> into an <a href="../../../../rule/dice/edge/">edge</a>, or to turn a double <a href="../../../../rule/dice/bane/">bane</a> into a <a href="../../../../rule/dice/bane/">bane</a>.</p>
+<p>Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an adjacent creature makes a <a href="../../../../rule/dice/power-roll/">power roll</a>, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to remove an <a href="../../../../rule/dice/edge/">edge</a> or a <a href="../../../../rule/dice/bane/">bane</a> on the roll, to turn a double <a href="../../../../rule/dice/edge/">edge</a> into an <a href="../../../../rule/dice/edge/">edge</a>, or to turn a double <a href="../../../../rule/dice/bane/">bane</a> into a <a href="../../../../rule/dice/bane/">bane</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -76,7 +76,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You can push your body to move at incredible speeds. Your speed is 7.</p>
+<p>You can push your body to move at incredible <a href="../../../../rule/character/speed/">speeds</a>. Your <a href="../../../../rule/character/speed/">speed</a> is 7.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -96,7 +96,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to parse schematics, maps, and other systematic documents that aren&#39;t inherently chaotic. In addition, you treat any language you don&#39;t know as if you know a related language.</p>
+<p>You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to parse schematics, maps, and other systematic documents that aren&#39;t inherently chaotic. In addition, you treat any language you don&#39;t know as if you know a related language.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -106,7 +106,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your ordered mind can&#39;t be caught off guard. You can&#39;t be made surprised.</p>
+<p>Your ordered mind can&#39;t be caught off guard. You can&#39;t be made <a href="../../../../rule/combat/surprised/">surprised</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

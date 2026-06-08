@@ -2,7 +2,7 @@
 action_type: Main action
 class: tactician
 cost: 11 Focus
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 effect: Each target can make a ranged [free strike](../../../common/main-actions/free-strike.md) that gains an [edge](../../../../rule/dice/edge.md) against any enemy marked by you within [distance](../../../../rule/combat/distance.md) of their ranged [free strike](../../../common/main-actions/free-strike.md). A target ignores [banes](../../../../rule/dice/bane.md) and double [banes](../../../../rule/dice/bane.md) when making this [strike](../../../../rule/combat/strike.md).
 flavor: What makes a good soldier? The ability to fire four shots a minute in any weather.
 keywords:
@@ -30,7 +30,7 @@ type: ability
 <p class="sc-ability__flavor">What makes a good soldier? The ability to fire four shots a minute in any weather.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

@@ -3,7 +3,7 @@ action_type: Main action
 class: shadow
 cost: 11 Insight
 distance: Self
-effect: You can use a [strike](../../../../rule/combat/strike.md) signature ability four times, use a [strike](../../../../rule/combat/strike.md) signature ability that gains an [edge](../../../../rule/dice/edge.md) three times, or use a [strike](../../../../rule/combat/strike.md) signature ability that has a double [edge](../../../../rule/dice/edge.md) twice. You can [shift](../../../../movement/shifting.md) up to 2 squares between each use.
+effect: You can use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) four times, use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md) three times, or use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that has a double [edge](../../../../rule/dice/edge.md) twice. You can [shift](../../../../movement/shifting.md) up to 2 squares between each use.
 flavor: You make multiple [strikes](../../../../rule/combat/strike.md) against a foe before they even notice they're dead.
 keywords:
     - Magic
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can use a <a href="../../../../../rule/combat/strike/">strike</a> signature ability four times, use a <a href="../../../../../rule/combat/strike/">strike</a> signature ability that gains an <a href="../../../../../rule/dice/edge/">edge</a> three times, or use a <a href="../../../../../rule/combat/strike/">strike</a> signature ability that has a double <a href="../../../../../rule/dice/edge/">edge</a> twice. You can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares between each use.</p></div>
+<div class="sc-ability__section-body"><p>You can use a <a href="../../../../../rule/combat/strike/">strike</a> <a href="../../../../../rule/combat/signature-ability/">signature ability</a> four times, use a <a href="../../../../../rule/combat/strike/">strike</a> <a href="../../../../../rule/combat/signature-ability/">signature ability</a> that gains an <a href="../../../../../rule/dice/edge/">edge</a> three times, or use a <a href="../../../../../rule/combat/strike/">strike</a> <a href="../../../../../rule/combat/signature-ability/">signature ability</a> that has a double <a href="../../../../../rule/dice/edge/">edge</a> twice. You can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares between each use.</p></div>
 </div>
 </article>

@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: elementalist
 distance: Ranged 10
-effect: For each Victory you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](../../../elementalist/level-1/a-beyonding-of-vision.md) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](shared-void-sense.md) ability.
+effect: For each [Victory](../../../../rule/resource/victories.md) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](../../../elementalist/level-1/a-beyonding-of-vision.md) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](shared-void-sense.md) ability.
 flavor: You grant allies a taste of your unearthly vision.
 keywords:
     - Magic
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>For each Victory you have, you can target one creature. Each target gains the benefit of your <a href="../../../../elementalist/level-1/a-beyonding-of-vision/">A Beyonding of Vision</a> feature until the end of your next turn, but doesn&#39;t gain the use of the <a href="../shared-void-sense/">Shared Void Sense</a> ability.</p></div>
+<div class="sc-ability__section-body"><p>For each <a href="../../../../../rule/resource/victories/">Victory</a> you have, you can target one creature. Each target gains the benefit of your <a href="../../../../elementalist/level-1/a-beyonding-of-vision/">A Beyonding of Vision</a> feature until the end of your next turn, but doesn&#39;t gain the use of the <a href="../shared-void-sense/">Shared Void Sense</a> ability.</p></div>
 </div>
 </article>

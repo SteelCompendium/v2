@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see <a href="../talent-ward/">Talent Ward</a> below) by undergoing a psionic meditation as a respite activity. (<em>Quick Build:</em> <a href="../../../null/level-1/force-augmentation/">Force Augmentation</a>.)</p>
+<p>Through meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation and ward (see <a href="../talent-ward/">Talent Ward</a> below) by undergoing a psionic meditation as a <a href="../../../../rule/resource/respite/">respite</a> activity. (<em>Quick Build:</em> <a href="../../../null/level-1/force-augmentation/">Force Augmentation</a>.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -42,7 +42,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain a +6 bonus to <a href="../../../../rule/health/stamina/">Stamina</a>, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.</p>
+<p>You gain a +6 bonus to <a href="../../../../rule/health/stamina/">Stamina</a>, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to <a href="../../../../rule/character/stability/">stability</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -64,7 +64,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.</p>
+<p>Your damage-dealing psionic abilities gain a +1 bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -75,7 +75,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain a +1 bonus to speed and to the <a href="../../../../rule/combat/distance/">distance</a> you can <a href="../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
+<p>You gain a +1 bonus to <a href="../../../../rule/character/speed/">speed</a> and to the <a href="../../../../rule/combat/distance/">distance</a> you can <a href="../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
 </div>
 </section>
 </div>

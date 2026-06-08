@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 11 Piety
 distance: Ranged 10
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each of the target's power rolls has its outcome improved by one tier.
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each of the target's [power rolls](../../../../rule/dice/power-roll.md) has its outcome improved by one tier.
 flavor: The gods know you must prevail, and they bless your fate.
 keywords:
     - Magic
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each of the target&#39;s power rolls has its outcome improved by one tier.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each of the target&#39;s <a href="../../../../../rule/dice/power-roll/">power rolls</a> has its outcome improved by one tier.</p></div>
 </div>
 </article>

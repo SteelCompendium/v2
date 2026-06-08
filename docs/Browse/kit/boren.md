@@ -12,7 +12,7 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 
 ## Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.boren/aspect-benefits"}
 
-Whenever you use [forced movement](../movement/forced-movement.md) to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature [grabbed](../condition/grabbed.md) by you.
+Whenever you use [forced movement](../movement/forced-movement.md) to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free [triggered action](../rule/combat/triggered-action.md) to make that creature [grabbed](../condition/grabbed.md) by you.
 
 ## Animal Form: Bear {data-scc="mcdm.heroes.v1/feature.fury.boren/animal-form-bear"}
 
@@ -28,8 +28,8 @@ Your primordial [damage type](../rule/damage/damage-type.md) is cold.
 
 ## Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.boren/kit-bonuses"}
 
-- **[Stamina](../rule/health/stamina.md) Bonus:** +9 per echelon
-- **Stability Bonus:** +2
+- **[Stamina](../rule/health/stamina.md) Bonus:** +9 per [echelon](../rule/general/echelon.md)
+- **[Stability](../rule/character/stability.md) Bonus:** +2
 - **Melee Damage Bonus:** +0/+0/+4
 
 ## Signature Ability
@@ -42,7 +42,7 @@ Your primordial [damage type](../rule/damage/damage-type.md) is cold.
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 2 + M damage; M < WEAK, [grabbed](../condition/grabbed.md)
 - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../condition/grabbed.md)
@@ -61,4 +61,4 @@ As your ferocity grows, you gain benefits as noted on the [Boren](boren.md) [Gro
 | 6               | You gain an [edge](../rule/dice/edge.md) on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                                                     |
 | 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 [surges](../rule/resource/surge.md) instead of 1.                                                                                                                                             |
 | 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                                               |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, whenever you have a creature [grabbed](../condition/grabbed.md), any ability roll made against that creature gains a bonus to its potency equal to your [Might](../rule/character/might.md) score. |
+| 12 (10th level) | Whenever you use a [heroic ability](../rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, whenever you have a creature [grabbed](../condition/grabbed.md), any [ability roll](../rule/dice/ability-roll.md) made against that creature gains a bonus to its [potency](../rule/character/potency.md) equal to your [Might](../rule/character/might.md) score. |

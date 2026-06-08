@@ -12,7 +12,7 @@
   <div class="sc-card__flavor">The Arcane Archer kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to de…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
   </div>
@@ -33,8 +33,8 @@
   <div class="sc-card__flavor">Who says lightly armored heroes can&#39;t also be hard to move? You just need to employ some psionics! The Battlemind kit harnesses the power of your mind to make y…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+2</div><div class="l">Speed</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
@@ -75,7 +75,7 @@
   <div class="sc-card__flavor">Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the Cloak and Dagger kit makes you more mobile while incr…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+2</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
   </div>
@@ -117,7 +117,7 @@
   <div class="sc-card__flavor">The Dual Wielder kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in ha…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+2</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
   </div>
@@ -139,7 +139,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
@@ -159,7 +159,7 @@
   <div class="sc-card__flavor">If you want to be fast in a fight, then Martial Artist is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+3</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
   </div>
@@ -181,7 +181,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
-    <div class="sc-card__stat"><div class="v">+2</div><div class="l">Stability</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
@@ -201,8 +201,8 @@
   <div class="sc-card__flavor">If you want a good balance of protection, speed, and damage, the Panther kit is for you. This kit increases your Stamina not by wearing armor, but through the f…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
@@ -222,8 +222,8 @@
   <div class="sc-card__flavor">Meant for brawlers and boxers, the Pugilist kit gives you access to a melee fighting style that grants a boost to Stamina and damage while allowing you to float…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+2</div><div class="l">Speed</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
@@ -264,7 +264,7 @@
   <div class="sc-card__flavor">The Raider kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Vik…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
   </div>
@@ -285,7 +285,7 @@
   <div class="sc-card__flavor">The Ranger kit outfits you with medium armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a goo…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
   </div>
@@ -306,7 +306,7 @@
   <div class="sc-card__flavor">The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting techn…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
   </div>
@@ -327,7 +327,7 @@
   <div class="sc-card__flavor">The retiarius is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fightin…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
   </div>
@@ -349,7 +349,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
@@ -369,7 +369,7 @@
   <div class="sc-card__flavor">The Sniper kit gives you the tools and techniques to take down enemies from afar. This kit can help you become the archer who lurks behind trees or down tunnels…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
   </div>
@@ -390,8 +390,8 @@
   <div class="sc-card__flavor">The Spellsword kit combines melee strikes and a little bit of magic, letting you create a warrior who doesn&#39;t have to choose between the incantation and the bla…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
@@ -411,7 +411,7 @@
   <div class="sc-card__flavor">Armed with a simple reach weapon, often a quarterstaff, a character using the Stick and Robe kit is highly mobile thanks to their light armor. This allows your…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+2</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
   </div>
@@ -432,7 +432,7 @@
   <div class="sc-card__flavor">If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the Swashbuckler kit. This is a great kit for heroes who want to…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+3</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
   </div>
@@ -454,7 +454,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
@@ -495,8 +495,8 @@
   <div class="sc-card__flavor">The Warrior Priest kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power o…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Speed</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Stability</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
@@ -516,7 +516,7 @@
   <div class="sc-card__flavor">The Whirlwind kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain o…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
-    <div class="sc-card__stat"><div class="v">+3</div><div class="l">Speed</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
     <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
   </div>

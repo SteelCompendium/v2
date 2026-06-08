@@ -1,7 +1,7 @@
 ---
 action_type: No action
 class: troubadour
-distance: 5 aura
+distance: 5 [aura](../../../../rule/combat/aura.md)
 effect: While this performance is active, each target who starts their turn in the area gains 1 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md). This [Heroic Resource](../../../../rule/resource/heroic-resource.md) disappears at the end of the target's turn if they don't spend it.
 flavor: The audience is watching, so you'd better give them a show.
 keywords:
@@ -31,7 +31,7 @@ type: ability
 <p class="sc-ability__flavor">The audience is watching, so you&#39;d better give them a show.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

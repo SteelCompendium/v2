@@ -2,7 +2,6 @@
 language: One language
 name: Farmer
 perk: One exploration perk (*Quick Build:* [Monster Whisperer](../perk/monster-whisperer.md).)
-project_points: "120"
 scc: mcdm.heroes.v1/career/farmer
 skills:
     - The [Handle Animals](../skill/handle-animals.md) skill (from the interpersonal skill group), plus two skills from the exploration group (*Quick Build:* [Drive](../skill/drive.md), [Handle Animals](../skill/handle-animals.md), [Lift](../skill/lift.md).)
@@ -26,7 +25,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 120
+**[Project Points](../rule/downtime/project-points.md):** 120
 
 **Perk:** One exploration perk (*Quick Build:* [Monster Whisperer](../perk/monster-whisperer.md).)
 
@@ -37,4 +36,4 @@ You gain the following career benefits:
 | 3  | **Cursed:** While tilling your fields, you found something in the dirt. Perhaps it was a chipped and dented weapon, a piece of ancient jewelry, or something altogether unique. Excited by your find, you showed it to a loved one, but when they touched it, something happened. You now know it was a curse conveyed by the item, though you don't know why it affected them and not you. You left your old life in search of answers. |
 | 4  | **Hard Times:** Your farm had always been prosperous, until the last few years. Changes in the weather caused smaller yields until you could no longer pay your tithe to the local noble. Her soldiers took what items of value they found, including a precious family heirloom. You left the struggling farm behind to find a better life. |
 | 5  | **Razed:** Your animals were killed, your crops and home set ablaze. The culprits might have been wandering bandits, raiders from a nearby kingdom, or hired thugs sent by a rival farm. Whoever they were, they left you with nothing. You couldn't face the thought of starting again from scratch, so you took up a life of heroism to protect others from such villainy. |
-| 6  | **Stolen:** Your family bred horses—beautiful creatures that few could rival on the track and in the jousting lists. When a local noble arrived with an offer to buy your prized stallion, your father refused. The noble struck him down where he stood and stole the horse. Without that stallion, the renowned bloodline would end. You intend to get them back—and get revenge. |
+| 6  | **Stolen:** Your family bred horses—beautiful creatures that few could rival on the track and in the jousting lists. When a local noble arrived with an offer to buy your prized stallion, your father refused. The noble struck him down where he stood and stole the horse. Without that stallion, the [renown](../rule/resource/renown.md)ed bloodline would end. You intend to get them back—and get revenge. |

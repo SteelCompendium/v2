@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and <a href="../../../null/level-1/psionic-augmentation/">psionic augmentation</a> (see above) by undergoing a psionic meditation as a respite activity. (<em>Quick Build:</em> <a href="../repulsive-ward/">Repulsive Ward</a>.)</p>
+<p>Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and <a href="../../../null/level-1/psionic-augmentation/">psionic augmentation</a> (see above) by undergoing a psionic meditation as a <a href="../../../../rule/resource/respite/">respite</a> activity. (<em>Quick Build:</em> <a href="../repulsive-ward/">Repulsive Ward</a>.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -30,7 +30,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your <a href="../../../../rule/character/reason/">Reason</a> score and they can&#39;t use triggered actions until the end of their next turn.</p>
+<p>Your ward slows time for your enemies. Whenever a creature deals damage to you, their <a href="../../../../rule/character/speed/">speed</a> is reduced by an amount equal to your <a href="../../../../rule/character/reason/">Reason</a> score and they can&#39;t use <a href="../../../../rule/combat/triggered-action/">triggered actions</a> until the end of their next turn.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -41,7 +41,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You surround yourself with an invisible ward of telekinetic energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push them up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
+<p>You surround yourself with an invisible ward of telekinetic energy. Whenever an adjacent creature deals damage to you, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to push them up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

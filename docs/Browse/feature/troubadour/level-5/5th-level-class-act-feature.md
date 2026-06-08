@@ -39,7 +39,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability. Choose one of the following conditions on the target: <a href="../../../../condition/bleeding/">bleeding</a>, <a href="../../../../condition/frightened/">frightened</a><a href="../../../../condition/prone/">, prone</a>, <a href="../../../../condition/slowed/">slowed</a>, or <a href="../../../../condition/taunted/">taunted</a>. You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Once on each of your turns, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to change one condition affecting a creature within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability. Choose one of the following conditions on the target: <a href="../../../../condition/bleeding/">bleeding</a>, <a href="../../../../condition/frightened/">frightened</a><a href="../../../../condition/prone/">, prone</a>, <a href="../../../../condition/slowed/">slowed</a>, or <a href="../../../../condition/taunted/">taunted</a>. You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -64,12 +64,12 @@ type: feature
 <p class="sc-ability__flavor">One more, and this time make it interesting.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area can reroll the first power roll that turn that obtains a tier 2 outcome. They must use the new roll.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area can reroll the first <a href="../../../../rule/dice/power-roll/">power roll</a> that turn that obtains a tier 2 outcome. They must use the new roll.</p></div>
 </div>
 </article>
 </div>
@@ -92,7 +92,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed <a href="../../../../rule/character/presence/">Presence</a> test with the target. Whoever gets the higher result can make a <a href="../../../common/main-actions/free-strike/">free strike</a>, which deals psychic damage instead of its usual damage.</p>
+<p>Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to exchange words with them. Make an opposed <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">test</a> with the target. Whoever gets the higher result can make a <a href="../../../common/main-actions/free-strike/">free strike</a>, which deals psychic damage instead of its usual damage.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -117,7 +117,7 @@ type: feature
 <p class="sc-ability__flavor">Swordplay so graceful it looks like you all practiced this.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
@@ -145,7 +145,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Once on each of your turns, you can use a free maneuver to exchange words with a target of your current performance, other than yourself. The target can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to gain <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to their <a href="../../../../rule/health/recoveries/">recovery value</a>.</p>
+<p>Once on each of your turns, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to exchange words with a target of your current performance, other than yourself. The target can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to gain <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to their <a href="../../../../rule/health/recoveries/">recovery value</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

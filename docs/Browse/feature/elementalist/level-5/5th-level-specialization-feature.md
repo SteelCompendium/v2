@@ -52,8 +52,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.</p>
-<p>Additionally, whenever an ally within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability is <a href="../../../../movement/forced-movement/">force moved</a>, you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally&#39;s stability by an amount equal to the stability you lost. This change lasts until the end of the round.</p>
+<p>You stand firm and magnetize your allies to stay grounded. Your <a href="../../../../rule/character/stability/">stability</a> increases by your level.</p>
+<p>Additionally, whenever an ally within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability is <a href="../../../../movement/forced-movement/">force moved</a>, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to decrease your <a href="../../../../rule/character/stability/">stability</a> down to a minimum of 0, then increase the ally&#39;s <a href="../../../../rule/character/stability/">stability</a> by an amount equal to the <a href="../../../../rule/character/stability/">stability</a> you lost. This change lasts until the end of the round.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -64,7 +64,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.</p>
+<p>Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or <a href="../../../../rule/combat/line-of-effect/">line of effect</a>. You can only sense or have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> past one such barrier at a time.</p>
 <p>Additionally, whenever you use a void ability, you or one ally within <a href="../../../../rule/combat/distance/">distance</a> of the ability can <a href="../../../../movement/teleport/">teleport</a> a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>

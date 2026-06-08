@@ -2,8 +2,8 @@
 action_type: Main action
 class: talent
 cost: 11 Clarity
-distance: 3 burst
-effect: On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.
+distance: 3 [burst](../../../../rule/combat/burst.md)
+effect: On a [critical hit](../../../../rule/combat/critical-hit.md), the size of the area increases by 3, and this ability deals an extra 10 damage.
 flavor: Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.
 keywords:
     - Area
@@ -32,23 +32,18 @@ type: ability
 <p class="sc-ability__flavor">Unbridled psionic energy erupts from your body and flashes outward, hurling your foes back.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Telekinesis</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy and object in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; push 7</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; push 10</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; push 15</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 6 damage; push 7</li><li><b>12-16:</b> 9 damage; push 10</li><li><b>17+:</b> 13 damage; push 15</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>On a critical hit, the size of the area increases by 3, and this ability deals an extra 10 damage.</p></div>
+<div class="sc-ability__section-body"><p>On a <a href="../../../../../rule/combat/critical-hit/">critical hit</a>, the size of the area increases by 3, and this ability deals an extra 10 damage.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/weakened/">weakened</a> (save ends). If you scored a critical hit with this ability, you die.</p></div>
+<div class="sc-ability__section-body"><p>You are <a href="../../../../../condition/weakened/">weakened</a> (save ends). If you scored a <a href="../../../../../rule/combat/critical-hit/">critical hit</a> with this ability, you die.</p></div>
 </div>
 </article>

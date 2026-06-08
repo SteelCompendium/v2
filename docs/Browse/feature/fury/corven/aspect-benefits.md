@@ -19,6 +19,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to hide and sneak. Additionally, whenever you fall, you can use a free triggered action to use your <a href="../../../ability/fury/stormwight-kits/aspect-of-the-wild/">Aspect of the Wild</a> ability.</p>
+<p>You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to hide and sneak. Additionally, whenever you fall, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to use your <a href="../../../ability/fury/stormwight-kits/aspect-of-the-wild/">Aspect of the Wild</a> ability.</p>
 </div>
 </section>

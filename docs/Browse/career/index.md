@@ -27,8 +27,8 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">One</div><div class="l">Languages</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Project Pts</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Renown</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Wealth</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
   <div class="sc-card__line"><b>Skills</b> One skill from the interpersonal skill group and one skill from the lore group (<em>Quick Build:</em> <a href="../skill/brag/">Brag</a>, <a href="../skill/society/">Society</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One lore perk (<em>Quick Build:</em> I've Read About This Place.)</div>
@@ -41,7 +41,7 @@
   <div class="sc-card__flavor">You made and sold useful wares.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">One</div><div class="l">Languages</div></div>
-    <div class="sc-card__stat"><div class="v">240</div><div class="l">Project Pts</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Project Pts</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
@@ -71,7 +71,7 @@
   <div class="sc-card__flavor">You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">One</div><div class="l">Languages</div></div>
-    <div class="sc-card__stat"><div class="v">120</div><div class="l">Project Pts</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Project Pts</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
@@ -86,7 +86,7 @@
   <div class="sc-card__flavor">You worked in a church, temple, or other religious institution as part of the clergy.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Languages</div></div>
-    <div class="sc-card__stat"><div class="v">240</div><div class="l">Project Pts</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Project Pts</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
@@ -116,7 +116,7 @@
   <div class="sc-card__flavor">You grew crops or cared for livestock.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">One</div><div class="l">Languages</div></div>
-    <div class="sc-card__stat"><div class="v">120</div><div class="l">Project Pts</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Project Pts</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
@@ -132,7 +132,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">One</div><div class="l">Languages</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Project Pts</div></div>
-    <div class="sc-card__stat"><div class="v">+2</div><div class="l">Renown</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
   <div class="sc-card__line"><b>Skills</b> Two skills from the exploration skill group (<em>Quick Build:</em>  <a href="../skill/gymnastics/">Gymnastics</a>, <a href="../skill/jump/">Jump</a>.)</div>
@@ -146,7 +146,7 @@
   <div class="sc-card__flavor">You worked as a farmer, builder, clothes washer, forester, miner, or some other profession engaged in hard manual labor.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">One</div><div class="l">Languages</div></div>
-    <div class="sc-card__stat"><div class="v">120</div><div class="l">Project Pts</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Project Pts</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
@@ -162,7 +162,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">One</div><div class="l">Languages</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Project Pts</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Renown</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
   <div class="sc-card__line"><b>Skills</b> The <a href="../skill/magic/">Magic</a> skill (from the lore skill group), plus two other skills from the lore group (<em>Quick Build:</em> <a href="../skill/magic/">Magic</a>, <a href="../skill/monsters/">Monsters</a>, <a href="../skill/timescape/">Timescape</a>.)</div>
@@ -177,7 +177,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Languages</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Project Pts</div></div>
-    <div class="sc-card__stat"><div class="v">+2</div><div class="l">Renown</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
   <div class="sc-card__line"><b>Skills</b> The <a href="../skill/music/">Music</a> or <a href="../skill/perform/">Perform</a> skill (from the interpersonal skill group), plus two more skills from the interpersonal group (<em>Quick Build:</em> <a href="../skill/flirt/">Flirt</a>, <a href="../skill/music/">Music</a>, <a href="../skill/perform/">Perform</a>.)</div>
@@ -192,8 +192,8 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">One</div><div class="l">Languages</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Project Pts</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Renown</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Wealth</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
   <div class="sc-card__line"><b>Skills</b> Two skills from the interpersonal skill group (<em>Quick Build:</em> <a href="../skill/lead/">Lead</a>, <a href="../skill/lie/">Lie</a>.)</div>
   <div class="sc-card__line"><b>Perk</b> One interpersonal perk (<em>Quick Build:</em> <a href="../perk/engrossing-monologue/">Engrossing Monologue</a>.)</div>
@@ -206,7 +206,7 @@
   <div class="sc-card__flavor">From an early age, you dedicated yourself to learning, whether you shared the knowledge of the world with others or sought out secret lore only for yourself.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">One</div><div class="l">Languages</div></div>
-    <div class="sc-card__stat"><div class="v">240</div><div class="l">Project Pts</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Project Pts</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
@@ -237,7 +237,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">Two</div><div class="l">Languages</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Project Pts</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Renown</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
   <div class="sc-card__line"><b>Skills</b> One skill from the exploration skill group and one skill from the intrigue group (<em>Quick Build:</em> <a href="../skill/alertness/">Alertness</a>, <a href="../skill/endurance/">Endurance</a>.)</div>
@@ -251,7 +251,7 @@
   <div class="sc-card__flavor">You protected a wild region from those who sought to harm it, such as poachers and cultists bent on the destruction of the natural world. Knowing your land well, you could also serve as a guide or the…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">One</div><div class="l">Languages</div></div>
-    <div class="sc-card__stat"><div class="v">120</div><div class="l">Project Pts</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Project Pts</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Renown</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>

@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can better sift through the constant fragmentary visions from your deity and act to make them manifest. Each time you earn 1 or more Victories, you can make a number of 2d10 rolls equal to the number of Victories you earned. Record each roll in order. Then whenever you or a creature within 10 squares makes a power roll, you can use a free triggered action to replace the total on the dice with your first recorded roll.</p>
-<p>You discard each roll as it is used, and each time you earn Victories, you add new rolls to the bottom of the list. Any unused rolls are discarded when you finish a respite.</p>
+<p>You can better sift through the constant fragmentary visions from your deity and act to make them manifest. Each time you earn 1 or more <a href="../../../../rule/resource/victories/">Victories</a>, you can make a number of 2d10 rolls equal to the number of <a href="../../../../rule/resource/victories/">Victories</a> you earned. Record each roll in order. Then whenever you or a creature within 10 squares makes a <a href="../../../../rule/dice/power-roll/">power roll</a>, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to replace the total on the dice with your first recorded roll.</p>
+<p>You discard each roll as it is used, and each time you earn <a href="../../../../rule/resource/victories/">Victories</a>, you add new rolls to the bottom of the list. Any unused rolls are discarded when you finish a <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>

@@ -26,8 +26,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">600</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> The powdered jawbone of a powerful spellcaster, wood from a tree marking multiple graves</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Hyrallic</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="psi-blade/" aria-label="Psi Blade"></a>
@@ -39,7 +37,5 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">600</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Steel alloy, one fine-cut topaz</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Mindspeech</div>
 </div>
 </div>

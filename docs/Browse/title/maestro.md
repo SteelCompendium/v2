@@ -16,19 +16,19 @@ type: title
 
 **Effect:** Choose one of the following benefits:
 
-- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one class act triggered action from the [troubadour](../class/troubadour.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the [Heroic Resource](../rule/resource/heroic-resource.md) of your class in place of drama.
+- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one class act [triggered action](../rule/combat/triggered-action.md) from the [troubadour](../class/troubadour.md) class. You gain that ability regardless of whether your class and [subclass](../rule/general/subclass.md) allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the [Heroic Resource](../rule/resource/heroic-resource.md) of your class in place of drama.
 - *Devil's Opera:* You have the following ability, which can be paid for using the [Heroic Resource](../rule/resource/heroic-resource.md) of your class.
 
 ## The Devil's Chord (9 Heroic Resource)
 
 >
-> *Helloooo Orden!*
+> *Helloooo [Orden](../rule/world/orden.md)!*
 >
 > | **Area, Magic** |                  **Main action** |
 > |-----------------|---------------------------------:|
-> | **📏 5 burst**  | **🎯 Each creature in the area** |
+> | **📏 5 [burst](../rule/combat/burst.md)**  | **🎯 Each creature in the area** |
 >
-> **Power Roll + [Presence](../rule/character/presence.md):**
+> **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 >
 > - **≤11:** You take 4 sonic damage unless you have the Performance skill.
 > - **12-16:** 6 sonic damage; M < AVERAGE, [weakened](../condition/weakened.md) (save ends)

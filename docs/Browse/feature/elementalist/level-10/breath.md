@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have an epic resource called breath. Each time you finish a respite, you gain breath equal to the XP you gain. You can spend any number of breath to gain essence (no action required). When you do, 1 breath becomes 3 essence.</p>
+<p>You have an epic resource called breath. Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you gain breath equal to the <a href="../../../../rule/resource/experience/">XP</a> you gain. You can spend any number of breath to gain essence (no action required). When you do, 1 breath becomes 3 essence.</p>
 <p>Breath remains until you convert it to essence.</p>
 </div>
 </section>

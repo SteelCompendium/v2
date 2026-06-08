@@ -26,8 +26,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> The severed hand of a giant</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Yllyric</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="mask-of-oversight/" aria-label="Mask of Oversight"></a>
@@ -39,8 +37,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> An overmind egg, the skin of any shapeshifter</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in the First Language</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="mirage-band/" aria-label="Mirage Band"></a>
@@ -52,8 +48,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A spool of mindspider silk, an ingot of white gold</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Higaran</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="nullfield-resonator-ring/" aria-label="Nullfield Resonator Ring"></a>
@@ -65,8 +59,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A wafer of gallium arsenide</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Mindspeech</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="shifting-ring/" aria-label="Shifting Ring"></a>
@@ -78,7 +70,5 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> One-third of a pound of diamond dust, one nugget of pure silver</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Khelt</div>
 </div>
 </div>

@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you or an adjacent creature takes damage from a <a href="../../../../rule/combat/strike/">strike</a>, you can use a triggered action to guard against the blow. You reduce any damage from the <a href="../../../../rule/combat/strike/">strike</a> by an amount equal to your level.</p>
+<p>Whenever you or an adjacent creature takes damage from a <a href="../../../../rule/combat/strike/">strike</a>, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to guard against the blow. You reduce any damage from the <a href="../../../../rule/combat/strike/">strike</a> by an amount equal to your level.</p>
 </div>
 </section>

@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../../level-1/troubadour-class-act/">troubadour class act</a> grants your choice of one of two heroic abilities.</p>
+<p>Your <a href="../../level-1/troubadour-class-act/">troubadour class act</a> grants your choice of one of two <a href="../../../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -43,16 +43,11 @@ type: feature
 <p class="sc-ability__flavor">You give away the ending of this battle, and it&#39;s not great for them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 psychic damage; P &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 psychic damage; P &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 psychic damage; P &lt; STRONG, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 2 psychic damage; P &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>12-16:</b> 5 psychic damage; P &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>17+:</b> 7 psychic damage; P &lt; STRONG, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -67,12 +62,12 @@ type: feature
 <p class="sc-ability__flavor">It&#39;s important for everyone to know each other&#39;s lines, just in case...</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, each target gains the speed bonus, weapon <a href="../../../../rule/combat/distance/">distance</a> bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit&#39;s bonuses.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, each target gains the <a href="../../../../rule/character/speed/">speed</a> bonus, weapon <a href="../../../../rule/combat/distance/">distance</a> bonus, disengage bonus, and <a href="../../../../rule/character/stability/">stability</a> bonus of your currently equipped kit in addition to their own kit&#39;s bonuses.</p></div>
 </div>
 </article>
 </div>
@@ -102,13 +97,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + A damage; M &lt; WEAK, <a href="../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 + A damage; M &lt; AVERAGE, <a href="../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 + A damage; <a href="../../../../condition/bleeding/">bleeding</a> (EoT), or if M &lt; STRONG, <a href="../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 12 + A damage; M &lt; WEAK, <a href="../../../../condition/bleeding/">bleeding</a> (save ends)</li><li><b>12-16:</b> 18 + A damage; M &lt; AVERAGE, <a href="../../../../condition/bleeding/">bleeding</a> (save ends)</li><li><b>17+:</b> 24 + A damage; <a href="../../../../condition/bleeding/">bleeding</a> (<a href="../../../../rule/combat/end-of-turn/">EoT</a>), or if M &lt; STRONG, <a href="../../../../condition/bleeding/">bleeding</a> (save ends)</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -128,7 +118,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and the target each make a melee <a href="../../../common/main-actions/free-strike/">free strike</a> that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your <a href="../../../common/main-actions/free-strike/">free strike</a> targets and which enemies the target creature&#39;s <a href="../../../common/main-actions/free-strike/">free strike</a> targets. You then slide the target 5 squares, ignoring stability.</p></div>
+<div class="sc-ability__section-body"><p>You and the target each make a melee <a href="../../../common/main-actions/free-strike/">free strike</a> that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your <a href="../../../common/main-actions/free-strike/">free strike</a> targets and which enemies the target creature&#39;s <a href="../../../common/main-actions/free-strike/">free strike</a> targets. You then slide the target 5 squares, ignoring <a href="../../../../rule/character/stability/">stability</a>.</p></div>
 </div>
 </article>
 </div>
@@ -155,20 +145,12 @@ type: feature
 <p class="sc-ability__flavor">Your music pounds the crowd to the beat until their hearts can&#39;t stand it anymore.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Three 3 cubes within 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Three 3 <a href="../../../../rule/combat/cube/">cubes</a> within 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
-</div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 sonic damage; P &lt; WEAK<a href="../../../../condition/prone/">, prone</a></span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 sonic damage; P &lt; AVERAGE<a href="../../../../condition/prone/">, prone</a></span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 sonic damage; P &lt; STRONG<a href="../../../../condition/prone/">, prone</a></span></div>
-</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A <a href="../../../../condition/prone/">prone target</a> ignores this ability.</p></div>
+<div class="sc-ability__section-body"><p>A <a href="../../../../condition/prone/">prone target</a> ignores this ability.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 7 sonic damage; P &lt; WEAK<a href="../../../../condition/prone/">, prone</a></li><li><b>12-16:</b> 10 sonic damage; P &lt; AVERAGE<a href="../../../../condition/prone/">, prone</a></li><li><b>17+:</b> 13 sonic damage; P &lt; STRONG<a href="../../../../condition/prone/">, prone</a></li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -183,7 +165,7 @@ type: feature
 <p class="sc-ability__flavor">You start a drumroll that roars like thunder with every impact the heroes make.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

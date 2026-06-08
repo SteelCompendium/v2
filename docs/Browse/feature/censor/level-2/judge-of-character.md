@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an <a href="../../../../rule/character/intuition/">Intuition</a> test, you can make a <a href="../../../../rule/character/presence/">Presence</a> test instead.</p>
+<p>Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an <a href="../../../../rule/character/intuition/">Intuition</a> <a href="../../../../rule/test/test/">test</a>, you can make a <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">test</a> instead.</p>
 </div>
 </section>

@@ -45,7 +45,7 @@ type: feature
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>You take half the damage.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Discipline</span><span class="txt">The potency of one effect associated with the damage is reduced by 1 for you.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Discipline</span><span class="txt">The <a href="../../../../rule/character/potency/">potency</a> of one effect associated with the damage is reduced by 1 for you.</span></div>
 </article>
 </div>
 </div>

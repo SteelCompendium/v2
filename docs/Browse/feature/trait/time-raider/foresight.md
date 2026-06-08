@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with <a href="../../../../rule/combat/concealment/">concealment</a> who isn&#39;t hidden from you within 20, and you negate the usual <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/combat/strike/">strikes</a> against such creatures. Additionally, whenever you are targeted by a <a href="../../../../rule/combat/strike/">strike</a>, you can use a triggered action to impose a <a href="../../../../rule/dice/bane/">bane</a> on the power roll.</p>
+<p>Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with <a href="../../../../rule/combat/concealment/">concealment</a> who isn&#39;t hidden from you within 20, and you negate the usual <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/combat/strike/">strikes</a> against such creatures. Additionally, whenever you are targeted by a <a href="../../../../rule/combat/strike/">strike</a>, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to impose a <a href="../../../../rule/dice/bane/">bane</a> on the <a href="../../../../rule/dice/power-roll/">power roll</a>.</p>
 </div>
 </section>

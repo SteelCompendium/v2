@@ -3,7 +3,7 @@ action_type: Maneuver
 class: "null"
 cost: 9 Discipline
 distance: Self
-effect: This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your [force move](../../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
+effect: This movement ignores [stability](../../../../rule/character/stability.md). If you slide into another creature, you resolve damage to both of you as if your [force move](../../../../movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
 flavor: You channel your discipline into momentum that defies gravity.
 keywords:
     - Psionic
@@ -33,16 +33,11 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../../rule/character/intuition.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Vertical slide 5</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Vertical slide 7</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Vertical slide 9</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> Vertical slide 5</li><li><b>12-16:</b> Vertical slide 7</li><li><b>17+:</b> Vertical slide 9</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your <a href="../../../../../movement/forced-movement/">force move</a>ment had ended, but you keep moving through that creature&#39;s space.</p></div>
+<div class="sc-ability__section-body"><p>This movement ignores <a href="../../../../../rule/character/stability/">stability</a>. If you slide into another creature, you resolve damage to both of you as if your <a href="../../../../../movement/forced-movement/">force move</a>ment had ended, but you keep moving through that creature&#39;s space.</p></div>
 </div>
 </article>

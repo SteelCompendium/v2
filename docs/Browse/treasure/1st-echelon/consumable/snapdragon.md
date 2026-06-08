@@ -17,11 +17,11 @@ type: treasure
 
 **Keywords:** Magic
 
-**Item Prerequisite:** Fifty snapdragon seeds
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** Fifty snapdragon seeds
 
-**Project Source:** Texts or lore in Yllyric
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Yllyric
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 45 (yields 1d6 + 1 snapdragons)
 

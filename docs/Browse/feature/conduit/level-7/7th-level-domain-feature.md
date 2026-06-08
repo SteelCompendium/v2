@@ -70,7 +70,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target is <a href="../../../../movement/teleport/">teleport</a>ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don&#39;t need line of effect to the bonded creature but you must be on the same world.</p></div>
+<div class="sc-ability__section-body"><p>Each target is <a href="../../../../movement/teleport/">teleport</a>ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don&#39;t need <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to the bonded creature but you must be on the same world.</p></div>
 </div>
 </article>
 </div>
@@ -84,7 +84,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each time you finish a respite, you can choose a treasure with a project goal equal to 50 times your level or less. You gain a divine version of this treasure that lasts until you finish another respite or it is consumed.</p>
+<p>Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can choose a treasure with a project goal equal to 50 times your level or less. You gain a divine version of this treasure that lasts until you finish another <a href="../../../../rule/resource/respite/">respite</a> or it is consumed.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -106,7 +106,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: <a href="../../../../../Read/heroes/downtime-projects/">Downtime Projects</a>). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don&#39;t already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.</p>
+<p>You can gain access to information you need through prayer, so that you no longer require research materials for crafting and <a href="../../../../rule/downtime/research-project/">research projects</a> (see Chapter 12: <a href="../../../../../Read/heroes/downtime-projects/">Downtime Projects</a>). Additionally, you add your level to <a href="../../../../rule/downtime/project-roll/">project rolls</a> you make for crafting and <a href="../../../../rule/downtime/research-project/">research projects</a>. You also have any skills in the lore skill group you don&#39;t already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -117,7 +117,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Sun infuses your body. Whenever you use an ability to deal rolled damage to another creature, that ability deals an extra 5 fire damage, or an extra 15 fire damage if the creature is undead. Additionally, you have fire immunity equal to your level, which is added to any other fire immunity you have.</p>
+<p>Sun infuses your body. Whenever you use an ability to deal <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> to another creature, that ability deals an extra 5 fire damage, or an extra 15 fire damage if the creature is undead. Additionally, you have fire immunity equal to your level, which is added to any other fire immunity you have.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -128,9 +128,9 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>When you finish a respite, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:</p>
-<ul><li>Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> each time.</li><li>Each creature gains 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li>Each creature gains a +1 bonus to speed.</li><li>Each creature gains a +1 bonus to saving throws.</li><li>Each creature gains an <a href="../../../../rule/dice/edge/">edge</a> on tests made to influence other creatures.</li></ul>
-<p>Each benefit lasts until the creature who gains it finishes another respite.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>When you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:</p>
+<ul><li>Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> each time.</li><li>Each creature gains 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li>Each creature gains a +1 bonus to <a href="../../../../rule/character/speed/">speed</a>.</li><li>Each creature gains a +1 bonus to <a href="../../../../rule/general/saving-throw/">saving throws</a>.</li><li>Each creature gains an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to influence other creatures.</li></ul>
+<p>Each benefit lasts until the creature who gains it finishes another <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -171,7 +171,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create two illusory duplicates of the target, which appear anywhere within <a href="../../../../rule/combat/distance/">distance</a>. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free <a href="../../level-1/triggered-action/">triggered action</a> to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.</p></div>
+<div class="sc-ability__section-body"><p>You create two illusory duplicates of the target, which appear anywhere within <a href="../../../../rule/combat/distance/">distance</a>. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their <a href="../../../../rule/character/speed/">speed</a>. If the target is targeted by an ability, they can use a free <a href="../../level-1/triggered-action/">triggered action</a> to switch places with a duplicate within their <a href="../../../../rule/combat/line-of-effect/">line of effect</a>, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.</p></div>
 </div>
 </article>
 </div>
@@ -208,7 +208,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a respite, you and any other heroes who rested with you regain 1 Victory after your Victories are converted to XP. This Victory isn&#39;t converted into XP at the end of a subsequent respite.</p>
+<p>The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a <a href="../../../../rule/resource/respite/">respite</a>, you and any other heroes who rested with you regain 1 <a href="../../../../rule/resource/victories/">Victory</a> after your <a href="../../../../rule/resource/victories/">Victories</a> are converted to <a href="../../../../rule/resource/experience/">XP</a>. This <a href="../../../../rule/resource/victories/">Victory</a> isn&#39;t converted into <a href="../../../../rule/resource/experience/">XP</a> at the end of a subsequent <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
 </div>

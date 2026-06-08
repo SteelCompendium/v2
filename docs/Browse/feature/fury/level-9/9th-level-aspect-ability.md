@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">9</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two heroic abilities.</p>
+<p>Your <a href="../../level-1/primordial-aspect/">primordial aspect</a> grants your choice of one of two <a href="../../../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -43,16 +43,11 @@ type: feature
 <p class="sc-ability__flavor">You use your weapon to create a destructive shockwave.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage; push 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage; push 5</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 damage; push 7</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 7 damage; push 3</li><li><b>12-16:</b> 10 damage; push 5</li><li><b>17+:</b> 15 damage; push 7</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -71,16 +66,11 @@ type: feature
 <p class="sc-ability__flavor">You channel the power of the Primordial Chaos to pull foes to you.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; vertical pull 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; vertical pull 5</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 damage; vertical pull 7</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 3 damage; vertical pull 3</li><li><b>12-16:</b> 5 damage; vertical pull 5</li><li><b>17+:</b> 8 damage; vertical pull 7</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -114,13 +104,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">11 + M damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">16 + M damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + M damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 11 + M damage</li><li><b>12-16:</b> 16 + M damage</li><li><b>17+:</b> 21 + M damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -142,17 +127,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + M damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 + M damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 + M damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 12 + M damage</li><li><b>12-16:</b> 18 + M damage</li><li><b>17+:</b> 24 + M damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can&#39;t take triggered actions or free triggered actions, ability rolls made against them gain an <a href="../../../../rule/dice/edge/">edge</a>, and their <a href="../../../../rule/character/characteristic/">characteristic</a> scores are considered 1 lower for the purpose of resisting potencies.</p></div>
+<div class="sc-ability__section-body"><p>Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can&#39;t take <a href="../../../../rule/combat/triggered-action/">triggered actions</a> or free <a href="../../../../rule/combat/triggered-action/">triggered actions</a>, <a href="../../../../rule/dice/ability-roll/">ability rolls</a> made against them gain an <a href="../../../../rule/dice/edge/">edge</a>, and their <a href="../../../../rule/character/characteristic/">characteristic</a> scores are considered 1 lower for the purpose of resisting <a href="../../../../rule/character/potency/">potencies</a>.</p></div>
 </div>
 </article>
 </div>
@@ -179,16 +159,11 @@ type: feature
 <p class="sc-ability__flavor">You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 psychic damage; any target who is a minion is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a></span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 psychic damage; any target who is a minion is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, as does one <a href="../../../../rule/health/winded/">winded</a> target who is not a leader or solo creature</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 psychic damage; each target who is not a leader or solo creature is <a href="../../../../rule/health/winded/">winded</a>; any target who is a minion is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, as does one <a href="../../../../rule/health/winded/">winded</a> target who is not a leader or solo creature</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 4 psychic damage; any target who is a minion is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a></li><li><b>12-16:</b> 6 psychic damage; any target who is a minion is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, as does one <a href="../../../../rule/health/winded/">winded</a> target who is not a leader or solo creature</li><li><b>17+:</b> 10 psychic damage; each target who is not a leader or solo creature is <a href="../../../../rule/health/winded/">winded</a>; any target who is a minion is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, as does one <a href="../../../../rule/health/winded/">winded</a> target who is not a leader or solo creature</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -203,16 +178,11 @@ type: feature
 <p class="sc-ability__flavor">You summon your <a href="../../stormwight-kits/primordial-storm/">primordial storm</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 7 damage</li><li><b>12-16:</b> 10 damage</li><li><b>17+:</b> 15 damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

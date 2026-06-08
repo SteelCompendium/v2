@@ -19,6 +19,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to hide and sneak. Additionally, you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p>
+<p>You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to hide and sneak. Additionally, you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p>
 </div>
 </section>

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any respite, you can take an additional respite activity.</p>
+<p>As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any <a href="../../../../rule/resource/respite/">respite</a>, you can take an additional <a href="../../../../rule/resource/respite/">respite</a> activity.</p>
 </div>
 </section>

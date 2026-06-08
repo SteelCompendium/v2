@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 7 discipline to use.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 7 discipline to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
 <div class="sc-ability__head">
@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your <a href="../../level-1/null-field/">Null Field</a> ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a <a href="../../../../rule/dice/bane/">bane</a> on ability rolls.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your <a href="../../level-1/null-field/">Null Field</a> ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/ability-roll/">ability rolls</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -79,7 +79,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your <a href="../../level-1/null-field/">Null Field</a> ability increases by 1. While the area of that ability is enlarged this way, you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a> and reduce the potency of enemy effects targeting you by 1 for you. You can also use a free triggered action at the start of each of your turns to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains these benefits.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your <a href="../../level-1/null-field/">Null Field</a> ability increases by 1. While the area of that ability is enlarged this way, you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a> and reduce the <a href="../../../../rule/character/potency/">potency</a> of enemy effects targeting you by 1 for you. You can also use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> at the start of each of your turns to end one effect on you that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your turn. Each ally in the area also gains these benefits.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -99,7 +99,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your <a href="../../level-1/null-field/">Null Field</a> ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, the size of your <a href="../../level-1/null-field/">Null Field</a> ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes <a href="../../../../rule/damage/rolled-damage/">rolled damage</a>, they take extra psychic damage equal to twice your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p></div>
 </div>
 </article>
 </div>

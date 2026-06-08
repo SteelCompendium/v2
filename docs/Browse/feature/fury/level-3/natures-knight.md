@@ -21,6 +21,6 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.</p>
-<p>When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in <a href="../../../../complication/animal-form/">animal form</a> (see <a href="../../stormwight-kits/kit-features/">Stormwight Kits</a>).</p>
+<p>When you are in a negotiation with an animal or elemental, you treat your <a href="../../../../rule/resource/renown/">Renown</a> as 1 higher than usual. This stacks with the increase to your effective <a href="../../../../rule/resource/renown/">Renown</a> in a negotiation with an animal of your type while in <a href="../../../../complication/animal-form/">animal form</a> (see <a href="../../stormwight-kits/kit-features/">Stormwight Kits</a>).</p>
 </div>
 </section>

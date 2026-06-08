@@ -16,8 +16,8 @@ type: title
 
 **Effect:** Choose one of the following benefits:
 
-- *I Know How to Talk to These People:* You gain an [edge](../rule/dice/edge.md) on [Presence](../rule/character/presence.md) tests made to interact with royals, nobles, and their feudal followers, provided they are aware of your [noble](noble.md) rank.
-- *Noble Splendor:* You earn 1 Renown and 1 Wealth.
-- *Retinue:* The number of followers you can recruit increases by two.
+- *I Know How to Talk to These People:* You gain an [edge](../rule/dice/edge.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) made to interact with royals, nobles, and their feudal [followers](../rule/general/follower.md), provided they are aware of your [noble](noble.md) rank.
+- *Noble Splendor:* You earn 1 [Renown](../rule/resource/renown.md) and 1 [Wealth](../rule/resource/wealth.md).
+- *Retinue:* The number of [followers](../rule/general/follower.md) you can recruit increases by two.
 
 **Special:** If you take this title, you might occasionally be called upon to perform duties for the person who granted your [noble](noble.md) rank.

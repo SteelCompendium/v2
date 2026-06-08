@@ -11,7 +11,7 @@ type: ancestry
 
 The native denizens of Axiom, the Plane of Uttermost Law, [memonek](memonek.md) dwell in a land with lakes and trees and birds and flowers. But on this alien world, the lakes are seas of mercury, the birds glitter with wings of glass stretched gossamer thin, and the flowers' petals are iridescent metal as flexible and fragile as any earthly rose.
 
-The minds of [memonek](memonek.md) are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them—an uncontrollable sensation called emotion.
+The minds of [memonek](memonek.md) are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like [Orden](../rule/world/orden.md) where law and chaos mix, a sickness comes over them—an uncontrollable sensation called emotion.
 
 ## On Memonek
 
@@ -91,7 +91,7 @@ Count Revile hefted the starcore. "I have responsibilities to keep. I will retur
 
 John offered his hand. Revile shook it and then held it.
 
-"If there are many like you in this world of gods and sorcery," the noble [memonek](memonek.md) star captain said, "then your victory over evil is assured."
+"If there are many like you in this world of gods and sorcery," the noble [memonek](memonek.md) star captain said, "then your [victory](../rule/resource/victories.md) over evil is assured."
 
 "I don't know about many," John said, extricating his hand. He looked at the [dwarf](dwarf.md), elf, and [hakaan](hakaan.md).
 
@@ -119,11 +119,11 @@ Your lawful nature and quick reflexes mean you give no quarter to creatures tryi
 
 #### Keeper of Order {data-scc="mcdm.heroes.v1/feature.trait.memonek/keeper-of-order"}
 
-Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an adjacent creature makes a power roll, you can use a free triggered action to remove an [edge](../rule/dice/edge.md) or a [bane](../rule/dice/bane.md) on the roll, to turn a double [edge](../rule/dice/edge.md) into an [edge](../rule/dice/edge.md), or to turn a double [bane](../rule/dice/bane.md) into a [bane](../rule/dice/bane.md).
+Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an adjacent creature makes a [power roll](../rule/dice/power-roll.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to remove an [edge](../rule/dice/edge.md) or a [bane](../rule/dice/bane.md) on the roll, to turn a double [edge](../rule/dice/edge.md) into an [edge](../rule/dice/edge.md), or to turn a double [bane](../rule/dice/bane.md) into a [bane](../rule/dice/bane.md).
 
 #### Lightning Nimbleness {data-scc="mcdm.heroes.v1/feature.trait.memonek/lightning-nimbleness"}
 
-You can push your body to move at incredible speeds. Your speed is 7.
+You can push your body to move at incredible [speeds](../rule/character/speed.md). Your [speed](../rule/character/speed.md) is 7.
 
 #### Nonstop {data-scc="mcdm.heroes.v1/feature.trait.memonek/nonstop"}
 
@@ -131,11 +131,11 @@ Your connection to Axiom allows you to regulate your movement. You can't be made
 
 #### Systematic Mind {data-scc="mcdm.heroes.v1/feature.trait.memonek/systematic-mind"}
 
-You gain an [edge](../rule/dice/edge.md) on tests made to parse schematics, maps, and other systematic documents that aren't inherently chaotic. In addition, you treat any language you don't know as if you know a related language.
+You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to parse schematics, maps, and other systematic documents that aren't inherently chaotic. In addition, you treat any language you don't know as if you know a related language.
 
 #### Unphased {data-scc="mcdm.heroes.v1/feature.trait.memonek/unphased"}
 
-Your ordered mind can't be caught off guard. You can't be made surprised.
+Your ordered mind can't be caught off guard. You can't be made [surprised](../rule/combat/surprised.md).
 
 #### Useful Emotion {data-scc="mcdm.heroes.v1/feature.trait.memonek/useful-emotion"}
 

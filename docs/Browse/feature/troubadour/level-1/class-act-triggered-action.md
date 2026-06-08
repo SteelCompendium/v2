@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../troubadour-class-act/">troubadour class act</a> grants you a triggered action, as shown on the Class Act Triggered Actions table.</p>
+<p>Your <a href="../troubadour-class-act/">troubadour class act</a> grants you a <a href="../../../../rule/combat/triggered-action/">triggered action</a>, as shown on the Class Act <a href="../../../../rule/combat/triggered-action/">Triggered Actions</a> table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<table><thead><tr><th>Class Act</th><th>Triggered Action</th></tr></thead><tbody><tr><td>Auteur</td><td><a href="../../../ability/troubadour/level-1/turnabout-is-fair-play/">Turnabout Is Fair Play</a></td></tr><tr><td>Duelist</td><td><a href="../../../ability/troubadour/level-1/riposte/">Riposte</a></td></tr><tr><td>Virtuoso</td><td><a href="../../../ability/troubadour/level-1/harmonize/">Harmonize</a></td></tr></tbody></table>
+<table><thead><tr><th>Class Act</th><th><a href="../../../../rule/combat/triggered-action/">Triggered Action</a></th></tr></thead><tbody><tr><td>Auteur</td><td><a href="../../../ability/troubadour/level-1/turnabout-is-fair-play/">Turnabout Is Fair Play</a></td></tr><tr><td>Duelist</td><td><a href="../../../ability/troubadour/level-1/riposte/">Riposte</a></td></tr><tr><td>Virtuoso</td><td><a href="../../../ability/troubadour/level-1/harmonize/">Harmonize</a></td></tr></tbody></table>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="triggered">
@@ -98,7 +98,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target makes an ability roll that has an <a href="../../../../rule/dice/edge/">edge</a>, a double <a href="../../../../rule/dice/edge/">edge</a>, a <a href="../../../../rule/dice/bane/">bane</a>, or a double <a href="../../../../rule/dice/bane/">bane</a>.</p></div>
+<div class="sc-ability__section-body"><p>The target makes an <a href="../../../../rule/dice/ability-roll/">ability roll</a> that has an <a href="../../../../rule/dice/edge/">edge</a>, a double <a href="../../../../rule/dice/edge/">edge</a>, a <a href="../../../../rule/dice/bane/">bane</a>, or a double <a href="../../../../rule/dice/bane/">bane</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

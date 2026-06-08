@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 11 wrath to use.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 11 wrath to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -37,13 +37,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + M damage; I &lt; WEAK, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + M damage; I &lt; AVERAGE, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + M damage; I &lt; STRONG, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 9 + M damage; I &lt; WEAK, <a href="../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>12-16:</b> 13 + M damage; I &lt; AVERAGE, <a href="../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>17+:</b> 18 + M damage; I &lt; STRONG, <a href="../../../../condition/weakened/">weakened</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -65,13 +60,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + M damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + M damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 10 + M damage</li><li><b>12-16:</b> 15 + M damage</li><li><b>17+:</b> 21 + M damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -93,13 +83,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + M damage; I &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + M damage; I &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + M damage; I &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 9 + M damage; I &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>12-16:</b> 13 + M damage; I &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>17+:</b> 18 + M damage; I &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -121,17 +106,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P damage; I &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + P damage; I &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + P damage; I &lt; STRONG, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 5 + P damage; I &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>12-16:</b> 9 + P damage; I &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>17+:</b> 12 + P damage; I &lt; STRONG, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While the target is <a href="../../../../condition/slowed/">slowed</a> this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a <a href="../../../common/main-actions/free-strike/">free strike</a> against the target. Additionally, while the target is <a href="../../../../condition/slowed/">slowed</a> this way, each of their allies within 5 squares of them who can make a triggered <a href="../../../common/main-actions/free-strike/">free strike</a> against a different creature must make the <a href="../../../common/main-actions/free-strike/">free strike</a> against the target instead.</p></div>
+<div class="sc-ability__section-body"><p>While the target is <a href="../../../../condition/slowed/">slowed</a> this way, each of their allies who starts their turn within 5 squares of them must use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to make a <a href="../../../common/main-actions/free-strike/">free strike</a> against the target. Additionally, while the target is <a href="../../../../condition/slowed/">slowed</a> this way, each of their allies within 5 squares of them who can make a triggered <a href="../../../common/main-actions/free-strike/">free strike</a> against a different creature must make the <a href="../../../common/main-actions/free-strike/">free strike</a> against the target instead.</p></div>
 </div>
 </article>
 </div>

@@ -2,8 +2,8 @@
 action_type: Maneuver
 class: conduit
 cost: 9 Piety
-distance: 4 aura
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each enemy in the area takes a [bane](../../../../rule/dice/bane.md) on power rolls, and you and each ally in the area gain 1 [surge](../../../../rule/resource/surge.md) at the end of each of your turns.
+distance: 4 [aura](../../../../rule/combat/aura.md)
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each enemy in the area takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md), and you and each ally in the area gain 1 [surge](../../../../rule/resource/surge.md) at the end of each of your turns.
 flavor: Your body emits a heat that bakes your enemies and inspires your allies.
 keywords:
     - Area
@@ -31,11 +31,11 @@ type: ability
 <p class="sc-ability__flavor">Your body emits a heat that bakes your enemies and inspires your allies.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each creature in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each enemy in the area takes a <a href="../../../../../rule/dice/bane/">bane</a> on power rolls, and you and each ally in the area gain 1 <a href="../../../../../rule/resource/surge/">surge</a> at the end of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each enemy in the area takes a <a href="../../../../../rule/dice/bane/">bane</a> on <a href="../../../../../rule/dice/power-roll/">power rolls</a>, and you and each ally in the area gain 1 <a href="../../../../../rule/resource/surge/">surge</a> at the end of each of your turns.</p></div>
 </div>
 </article>

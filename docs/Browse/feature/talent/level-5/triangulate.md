@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever an ally uses a ranged ability while you are within the ability&#39;s <a href="../../../../rule/combat/distance/">distance</a>, you can spend 1 clarity as a free triggered action to allow them to use the ability as if they were in your space.</p>
+<p>Whenever an ally uses a ranged ability while you are within the ability&#39;s <a href="../../../../rule/combat/distance/">distance</a>, you can spend 1 clarity as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to allow them to use the ability as if they were in your space.</p>
 </div>
 </section>

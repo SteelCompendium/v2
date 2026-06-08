@@ -11,7 +11,7 @@ type: ancestry
 
 The original servitor species of the synliroi—evil psions with near godlike power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "[time raiders](time-raider.md)" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
 
-Extraordinarily rare in Orden, [time raiders](time-raider.md) thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
+Extraordinarily rare in [Orden](../rule/world/orden.md), [time raiders](time-raider.md) thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
 In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision and which are hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [Time raiders](time-raider.md) also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
 
@@ -29,7 +29,7 @@ Up close, she could see the fine stitching along Lycaon's cheeks and forehead, t
 
 The taxiarch smiled to himself, nodded with respect at the woman's epithets. He placed his foot on a low piece of rubble, once part of the wall of the stone church, and leaned his arm on his knee. He was not dressed as the other war dogs. No black leather for him. He wore a gold breastplate with the embossed head of a ram molded into it, a white cape over his back. Gold greaves and red leather boots and gloves. The other war dogs only had patches of hair but his was long and blond.
 
-He struck a casual, jaunty pose. "Where is your worldship?" he said in a more reasonable voice. "Or came you here in a single-seater *starskimmer*?" At this, the alien's crystal eyes went wide, betraying surprise. "You see?" the taxiarch said, impressed with himself. "I am not a primitive like these peasants, who hounded you because you are alien." He nodded at the folk of the small town watching from the stables some distance away. "I am Ajax's elite. Better than his chosen. I was *made* for victory." Indeed, Taxiarch Lycaon looked almost fully [human](human.md). Handsome and fit like a statue from Phaedros, which his model had almost certainly been inspired by. Unless you looked closely, there was no sign he was a product of the body banks. "If you agree to *lead me*  to your vessel, I will let you go free."
+He struck a casual, jaunty pose. "Where is your worldship?" he said in a more reasonable voice. "Or came you here in a single-seater *starskimmer*?" At this, the alien's crystal eyes went wide, betraying surprise. "You see?" the taxiarch said, impressed with himself. "I am not a primitive like these peasants, who hounded you because you are alien." He nodded at the folk of the small town watching from the stables some distance away. "I am Ajax's elite. Better than his chosen. I was *made* for [victory](../rule/resource/victories.md)." Indeed, Taxiarch Lycaon looked almost fully [human](human.md). Handsome and fit like a statue from Phaedros, which his model had almost certainly been inspired by. Unless you looked closely, there was no sign he was a product of the body banks. "If you agree to *lead me*  to your vessel, I will let you go free."
 
 The alien sighed. "'Blaap blaap blaap,'" she said. "You should hear yourself. Like barking *thrazz*, you sound to me. Who holds your leash I wonder? For surely a microbrain such as you could not command any more than these rabble." She nodded her head at the other twenty or so war dogs.
 
@@ -93,7 +93,7 @@ The [time raider's](time-raider.md) right upper hand shot out, as though she'd b
 
 John felt his skin tighten as Dazar warded him, and from the sun's shadow cast by Taxiarch Lycaon the [polder](polder.md) Jackson Bootblack emerged, a rapier in each hand, and no one saw him move from where he'd been a moment before.
 
-The [hakaan](hakaan.md) burst into action and sped past him like a blur.
+The [hakaan](hakaan.md) [burst](../rule/combat/burst.md) into action and sped past him like a blur.
 
 At the same instant, a call—a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in his heart—the clarion call of the last Storm Knight!
 
@@ -115,23 +115,23 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Bey
 
 #### Beyondsight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/beyondsight"}
 
-As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can't see the area within 1 square of you and you don't have line of effect to any creature or object in that area. You can restore your usual vision as a maneuver.
+As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that are 1 square thick or less. While your vision is adjusted this way, you can't see the area within 1 square of you and you don't have [line of effect](../rule/combat/line-of-effect.md) to any creature or object in that area. You can restore your usual vision as a maneuver.
 
 #### Foresight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/foresight"}
 
-Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with [concealment](../rule/combat/concealment.md) who isn't hidden from you within 20, and you negate the usual [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against such creatures. Additionally, whenever you are targeted by a [strike](../rule/combat/strike.md), you can use a triggered action to impose a [bane](../rule/dice/bane.md) on the power roll.
+Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with [concealment](../rule/combat/concealment.md) who isn't hidden from you within 20, and you negate the usual [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against such creatures. Additionally, whenever you are targeted by a [strike](../rule/combat/strike.md), you can use a [triggered action](../rule/combat/triggered-action.md) to impose a [bane](../rule/dice/bane.md) on the [power roll](../rule/dice/power-roll.md).
 
 #### Four-Armed Athletics {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-athletics"}
 
-Your unique physiology enhances your movement. You gain an [edge](../rule/dice/edge.md) on tests that use the [Climb](../skill/climb.md), [Gymnastics](../skill/gymnastics.md), or [Swim](../skill/swim.md) skills when you can use all your arms in the attempt.
+Your unique physiology enhances your movement. You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Climb](../skill/climb.md), [Gymnastics](../skill/gymnastics.md), or [Swim](../skill/swim.md) skills when you can use all your arms in the attempt.
 
 #### Four-Armed Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts"}
 
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../feature/common/maneuvers/grab.md) or [Knockback](../feature/common/maneuvers/knockback.md) maneuver against an adjacent creature, you can target one additional adjacent creature, using the same power roll for both targets. Additionally, you can have up to two creatures [grabbed](../condition/grabbed.md) at a time.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [Grab](../feature/common/maneuvers/grab.md) or [Knockback](../feature/common/maneuvers/knockback.md) maneuver against an adjacent creature, you can target one additional adjacent creature, using the same [power roll](../rule/dice/power-roll.md) for both targets. Additionally, you can have up to two creatures [grabbed](../condition/grabbed.md) at a time.
 
 #### Psionic Gift {data-scc="mcdm.heroes.v1/feature.trait.time-raider/psionic-gift"}
 
-Choose one signature ability from the following options. Signature abilities can be used at will.
+Choose one [signature ability](../rule/combat/signature-ability.md) from the following options. [Signature abilities](../rule/combat/signature-ability.md) can be used at will.
 
 ##### Concussive Slam {data-scc="mcdm.heroes.v1/feature.ability.time-raider/concussive-slam"}
 
@@ -141,7 +141,7 @@ Choose one signature ability from the following options. Signature abilities can
 |------------------------------|-------------------------------|
 | **📏 Ranged 10**             | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 2 + R, I, or P damage;
 - **12-16:** 5 + R, I, or P damage; push 1
@@ -155,7 +155,7 @@ Choose one signature ability from the following options. Signature abilities can
 |------------------------------|-------------------------------|
 | **📏 Ranged 10**             | **🎯 One creature or object** |
 
-**Power Roll + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 2 + R, I, or P psychic damage; slide 1
 - **12-16:** 5 + R, I, or P psychic damage; slide 2
@@ -163,13 +163,13 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Minor Acceleration {data-scc="mcdm.heroes.v1/feature.ability.time-raider/minor-acceleration"}
 
-*You fill yourself or an ally with a burst of speed.*
+*You fill yourself or an ally with a burst of [speed](../rule/character/speed.md).*
 
 | **Psionic, Melee** | Maneuver               |
 |-------------------|------------------------|
 | **📏 Melee 1**    | **🎯 Self or one ally** |
 
-**Effect:** The target gains a bonus to speed equal to your [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md) score (your choice) until the start of your next turn.
+**Effect:** The target gains a bonus to [speed](../rule/character/speed.md) equal to your [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md) score (your choice) until the start of your next turn.
 
 #### Unstoppable Mind
 

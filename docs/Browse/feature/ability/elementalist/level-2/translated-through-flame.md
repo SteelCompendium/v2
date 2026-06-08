@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 5 Essence
 distance: Ranged 10
-effect: The target is [teleport](../../../../movement/teleport.md)ed to another space within [distance](../../../../rule/combat/distance.md). Make a power roll that affects each enemy adjacent to the target's new space.
+effect: The target is [teleport](../../../../movement/teleport.md)ed to another space within [distance](../../../../rule/combat/distance.md). Make a [power roll](../../../../rule/dice/power-roll.md) that affects each enemy adjacent to the target's new space.
 flavor: Your ally disappears, then reappears in a burst of fire.
 keywords:
     - Fire
@@ -36,16 +36,8 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 fire damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 fire damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 fire damage</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is <a href="../../../../../movement/teleport/">teleport</a>ed to another space within <a href="../../../../../rule/combat/distance/">distance</a>. Make a power roll that affects each enemy adjacent to the target&#39;s new space.</p></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../../../movement/teleport/">teleport</a>ed to another space within <a href="../../../../../rule/combat/distance/">distance</a>. Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> that affects each enemy adjacent to the target&#39;s new space.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 3 fire damage</li><li><b>12-16:</b> 5 fire damage</li><li><b>17+:</b> 8 fire damage</li></ul></div>
 </div>
 </article>

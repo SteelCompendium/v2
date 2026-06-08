@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a free maneuver, you can spend 1d6 <a href="../../../../rule/health/stamina/">Stamina</a> to ignore a consequence from a test, or to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Any ally adjacent to you can also spend <a href="../../../../rule/health/stamina/">Stamina</a> as a free maneuver to gain this benefit.</p>
+<p>As a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a>, you can spend 1d6 <a href="../../../../rule/health/stamina/">Stamina</a> to ignore a consequence from a <a href="../../../../rule/test/test/">test</a>, or to end one effect on you that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your turn. Any ally adjacent to you can also spend <a href="../../../../rule/health/stamina/">Stamina</a> as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to gain this benefit.</p>
 </div>
 </section>

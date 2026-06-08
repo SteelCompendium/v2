@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you obtain a success on a test using a skill from the interpersonal skill group while interacting with an NPC, you can ask them a question using your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature. The NPC must answer the question truthfully to the best of their ability.</p>
+<p>Whenever you obtain a success on a <a href="../../../../rule/test/test/">test</a> using a skill from the interpersonal skill group while interacting with an <a href="../../../../rule/general/npc/">NPC</a>, you can ask them a question using your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature. The <a href="../../../../rule/general/npc/">NPC</a> must answer the question truthfully to the best of their ability.</p>
 </div>
 </section>

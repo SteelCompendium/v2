@@ -13,8 +13,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Five rabid honey badger pelts, the quills of a hedgehog</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Yllyric</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="cavalry-armor/" aria-label="Cavalry Armor"></a>
@@ -39,8 +37,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A set of wings from a <a href="../../../movement/fly/">flying</a> carp, a set of chain mail rusted by seawater</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Zaliac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="grand-scarab/" aria-label="Grand Scarab"></a>
@@ -52,8 +48,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A giant scarab beetle carapace</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Phaedran</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="kings-roar/" aria-label="King&#39;s Roar"></a>
@@ -65,8 +59,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A ballad of heroism, two ingots of sunmetal</div>
-  <div class="sc-card__line"><b>Source</b> Songs in High Rhyvian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="kuranzoi-prismscale/" aria-label="Kuran&#39;zoi Prismscale"></a>
@@ -78,8 +70,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> The eyes of a <a href="../../../ancestry/time-raider/">time raider</a> who died valiantly in battle</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Voll</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="pack-harness/" aria-label="Pack Harness"></a>
@@ -105,8 +95,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Ten pages from each of a hundred different books</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Anjali</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="rampant-shield/" aria-label="Rampant Shield"></a>
@@ -131,8 +119,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> The will of a deceased person with no heirs</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Khelt</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="spiny-turtle/" aria-label="Spiny Turtle"></a>
@@ -144,8 +130,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Ten steel gears from an ancient construct</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Variac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="star-hunter/" aria-label="Star-Hunter"></a>
@@ -157,8 +141,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A large vessel of astral ice, a pint of supercooled mercury</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Voll</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="telekinetic-bulwark/" aria-label="Telekinetic Bulwark"></a>
@@ -170,8 +152,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Three ingots of steel, six crystals that resonate with psionic power</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Variac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="thorn-dragonscale/" aria-label="Thorn Dragonscale"></a>

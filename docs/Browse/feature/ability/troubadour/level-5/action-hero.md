@@ -2,9 +2,9 @@
 action_type: Main action
 class: troubadour
 cost: 9 Drama
-distance: 3 burst
-effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](../../../../rule/health/stamina.md).
-flavor: You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.
+distance: 3 [burst](../../../../rule/combat/burst.md)
+effect: Unless you score a [critical hit](../../../../rule/combat/critical-hit.md), this ability can't reduce a non-minion target below 1 [Stamina](../../../../rule/health/stamina.md).
+flavor: You wield your weapon at blistering [speed](../../../../rule/character/speed.md), leaving everyone around you fighting for their lives.
 keywords:
     - Area
     - Melee
@@ -29,22 +29,17 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Drama</div></div>
 </div>
-<p class="sc-ability__flavor">You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.</p>
+<p class="sc-ability__flavor">You wield your weapon at blistering <a href="../../../../../rule/character/speed/">speed</a>, leaving everyone around you fighting for their lives.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 10 damage</li><li><b>12-16:</b> 14 damage</li><li><b>17+:</b> 20 damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Unless you score a critical hit, this ability can&#39;t reduce a non-minion target below 1 <a href="../../../../../rule/health/stamina/">Stamina</a>.</p></div>
+<div class="sc-ability__section-body"><p>Unless you score a <a href="../../../../../rule/combat/critical-hit/">critical hit</a>, this ability can&#39;t reduce a non-minion target below 1 <a href="../../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>

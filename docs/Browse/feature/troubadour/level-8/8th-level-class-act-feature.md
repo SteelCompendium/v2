@@ -54,12 +54,12 @@ type: feature
 <p class="sc-ability__flavor">Music pours out of your heart, filling the area with the utmost delicacy and without damper.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can&#39;t spend <a href="../../../../rule/health/recoveries/">Recoveries</a> or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can&#39;t spend <a href="../../../../rule/health/recoveries/">Recoveries</a> or use <a href="../../../../rule/combat/triggered-action/">triggered actions</a>. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="none">
@@ -74,12 +74,12 @@ type: feature
 <p class="sc-ability__flavor">𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy—aaaiigh?♪</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area ignores <a href="../../../../movement/difficult-terrain/">difficult terrain</a>, and any ability they use that imposes <a href="../../../../movement/forced-movement/">forced movement</a> gains a +2 bonus to the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area ignores <a href="../../../../movement/difficult-terrain/">difficult terrain</a>, and any ability they use that imposes <a href="../../../../movement/forced-movement/">forced movement</a> gains a +2 bonus to the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> until the end of their turn. Additionally, once per combat round, each target can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p></div>
 </div>
 </article>
 </div>
@@ -93,7 +93,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever a creature within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability makes a power roll, you can spend 1 drama as a free triggered action to use <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a>, targeting only one creature.</p>
+<p>Whenever a creature within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability makes a <a href="../../../../rule/dice/power-roll/">power roll</a>, you can spend 1 drama as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to use <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a>, targeting only one creature.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -104,8 +104,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an <a href="../../../../rule/dice/edge/">edge</a> and 1 <a href="../../../../rule/resource/surge/">surge</a> that you can use only on this ability.</p>
-<p>Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your <a href="../../level-4/zeitgeist/">Zeitgeist</a> feature to tell tales of your exploits after the encounter ends.</p>
+<p>Choose one of your <a href="../../../../rule/combat/signature-ability/">signature abilities</a> and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an <a href="../../../../rule/dice/edge/">edge</a> and 1 <a href="../../../../rule/resource/surge/">surge</a> that you can use only on this ability.</p>
+<p>Additionally, when your named <a href="../../../../rule/combat/signature-ability/">signature ability</a> is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your <a href="../../level-4/zeitgeist/">Zeitgeist</a> feature to tell tales of your exploits after the encounter ends.</p>
 </div>
 </section>
 </div>

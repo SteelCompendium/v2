@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>While you have 5 or more Victories, you can undertake an additional respite activity during a respite.</p>
+<p>While you have 5 or more <a href="../../../../rule/resource/victories/">Victories</a>, you can undertake an additional <a href="../../../../rule/resource/respite/">respite</a> activity during a <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>

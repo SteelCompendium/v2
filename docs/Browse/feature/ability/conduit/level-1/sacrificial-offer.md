@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 distance: Ranged 10
-effect: Choose yourself or one ally within [distance](../../../../rule/combat/distance.md). That character can impose a [bane](../../../../rule/dice/bane.md) on one power roll made against them before the end of their next turn.
+effect: Choose yourself or one ally within [distance](../../../../rule/combat/distance.md). That character can impose a [bane](../../../../rule/dice/bane.md) on one [power roll](../../../../rule/dice/power-roll.md) made against them before the end of their next turn.
 flavor: Divine magic tears at your foe and defends a nearby friend.
 keywords:
     - Magic
@@ -35,16 +35,11 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../../rule/character/intuition.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + I corruption damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + I corruption damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + I corruption damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 2 + I corruption damage</li><li><b>12-16:</b> 4 + I corruption damage</li><li><b>17+:</b> 6 + I corruption damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose yourself or one ally within <a href="../../../../../rule/combat/distance/">distance</a>. That character can impose a <a href="../../../../../rule/dice/bane/">bane</a> on one power roll made against them before the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>Choose yourself or one ally within <a href="../../../../../rule/combat/distance/">distance</a>. That character can impose a <a href="../../../../../rule/dice/bane/">bane</a> on one <a href="../../../../../rule/dice/power-roll/">power roll</a> made against them before the end of their next turn.</p></div>
 </div>
 </article>

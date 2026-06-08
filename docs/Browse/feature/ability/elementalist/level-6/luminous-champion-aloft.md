@@ -3,7 +3,7 @@ action_type: Maneuver
 class: elementalist
 cost: 9 Essence
 distance: Ranged 10
-effect: The target has a +3 bonus to speed, they can [fly](../../../../movement/fly.md), and their abilities ignore [concealment](../../../../rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../../../../rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../../../../rule/resource/heroic-resource.md). This effect lasts until the start of your next turn.
+effect: The target has a +3 bonus to [speed](../../../../rule/character/speed.md), they can [fly](../../../../movement/fly.md), and their abilities ignore [concealment](../../../../rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../../../../rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../../../../rule/resource/heroic-resource.md). This effect lasts until the start of your next turn.
 flavor: They shine vibrantly, a beautiful diamond in the night sky.
 keywords:
     - Fire
@@ -39,7 +39,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has a +3 bonus to speed, they can <a href="../../../../../movement/fly/">fly</a>, and their abilities ignore <a href="../../../../../rule/combat/concealment/">concealment</a>. Additionally, whenever the target gains their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>, they gain 1 additional <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>. This effect lasts until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>The target has a +3 bonus to <a href="../../../../../rule/character/speed/">speed</a>, they can <a href="../../../../../movement/fly/">fly</a>, and their abilities ignore <a href="../../../../../rule/combat/concealment/">concealment</a>. Additionally, whenever the target gains their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>, they gain 1 additional <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>. This effect lasts until the start of your next turn.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>

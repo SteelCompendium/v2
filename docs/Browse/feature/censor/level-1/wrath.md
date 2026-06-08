@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain wrath equal to your Victories. At the start of each of your turns during combat, you gain 2 wrath.</p>
+<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain wrath equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your turns during combat, you gain 2 wrath.</p>
 <p>Additionally, the first time each combat round that a creature judged by you (see <a href="../../../ability/censor/level-1/judgment/">Judgment</a> below) deals damage to you, you gain 1 wrath. The first time each combat round that you deal damage to a creature judged by you, you gain 1 wrath.</p>
 <p>You lose any remaining wrath at the end of the encounter.</p>
 </div>
@@ -41,8 +41,8 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Though you can&#39;t gain wrath outside of combat, you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.</p>
-<p>When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your Victories. (Such abilities aren&#39;t part of the core rules for the <a href="../../../../class/censor/">censor</a>, but they might appear in future products.)</p>
+<p>Though you can&#39;t gain wrath outside of combat, you can use your <a href="../../../../rule/general/heroic-ability/">heroic abilities</a> and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more <a href="../../../../rule/resource/victories/">Victories</a> or finish a <a href="../../../../rule/resource/respite/">respite</a>.</p>
+<p>When you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath equal to your <a href="../../../../rule/resource/victories/">Victories</a>. (Such abilities aren&#39;t part of the core rules for the <a href="../../../../class/censor/">censor</a>, but they might appear in future products.)</p>
 </div>
 </section>
 </div>

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your stability increases by 1 until the start of your next turn. This benefit is cumulative.</p>
+<p>You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your <a href="../../../../rule/character/stability/">stability</a> increases by 1 until the start of your next turn. This benefit is cumulative.</p>
 </div>
 </section>

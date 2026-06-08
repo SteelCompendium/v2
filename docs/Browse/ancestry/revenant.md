@@ -77,13 +77,13 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 
 ### Signature Trait: Former Life {data-scc="mcdm.heroes.v1/feature.trait.revenant/former-life"}
 
-Choose the ancestry you were before you died. Your [size](../rule/character/size.md) is that ancestry's [size](../rule/character/size.md) and your speed is 5. Unless you select one of the Previous Life traits (see below), you don't receive any other ancestral traits from your original ancestry.
+Choose the ancestry you were before you died. Your [size](../rule/character/size.md) is that ancestry's [size](../rule/character/size.md) and your [speed](../rule/character/speed.md) is 5. Unless you select one of the Previous Life traits (see below), you don't receive any other ancestral traits from your original ancestry.
 
 ### Signature Trait: Tough But Withered {data-scc="mcdm.heroes.v1/feature.trait.revenant/tough-but-withered"}
 
 Your undead body grants you immunity to cold, corruption, lightning, and poison damage equal to your level, but you have fire weakness 5. You can't suffocate, and you don't need to eat or drink to stay alive.
 
-Additionally, when your [Stamina](../rule/health/stamina.md) reaches the negative of your [winded](../rule/health/winded.md) value, you become inert instead of [dying](../rule/health/dying.md). You fall [prone](../condition/prone.md) and can't stand. You continue to observe your surroundings, but you can't speak, take main actions, maneuvers, move actions, or triggered actions. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain [Stamina](../rule/health/stamina.md) equal to your [recovery value](../rule/health/recoveries.md).
+Additionally, when your [Stamina](../rule/health/stamina.md) reaches the negative of your [winded](../rule/health/winded.md) value, you become inert instead of [dying](../rule/health/dying.md). You fall [prone](../condition/prone.md) and can't stand. You continue to observe your surroundings, but you can't speak, take main actions, maneuvers, move actions, or [triggered actions](../rule/combat/triggered-action.md). While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain [Stamina](../rule/health/stamina.md) equal to your [recovery value](../rule/health/recoveries.md).
 
 #### Purchased Revenant Traits
 
@@ -103,7 +103,7 @@ You select a purchased trait that costs 2 ancestry points from your previous anc
 
 #### Undead Influence {data-scc="mcdm.heroes.v1/feature.trait.revenant/undead-influence"}
 
-Your supernatural gifts allow you to influence other undead. You gain an [edge](../rule/dice/edge.md) on [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), and [Presence](../rule/character/presence.md) tests made to interact with undead creatures.
+Your supernatural gifts allow you to influence other undead. You gain an [edge](../rule/dice/edge.md) on [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), and [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) made to interact with undead creatures.
 
 #### Vengeance Mark {data-scc="mcdm.heroes.v1/feature.trait.revenant/vengeance-mark"}
 
@@ -111,7 +111,7 @@ As a maneuver, you place a magic sigil on a creature within 10 squares. When you
 
 You always know the direction to the exact location of a creature who bears one of your sigils and is on the same world. You can have a number of active sigils equal to your level, and can remove a sigil from a creature at will (no action required). If you already have the maximum number of sigils activated and you place a new one, your oldest sigil disappears with no other effect.
 
-Additionally, you have the following signature ability. Signature abilities can be used at will.
+Additionally, you have the following [signature ability](../rule/combat/signature-ability.md). [Signature abilities](../rule/combat/signature-ability.md) can be used at will.
 
 ##### Detonate Sigil {data-scc="mcdm.heroes.v1/feature.ability.revenant/detonate-sigil"}
 
@@ -121,7 +121,7 @@ Additionally, you have the following signature ability. Signature abilities can 
 |---------------------------|---------------------------------------:|
 | **📏 Ranged 10**          | **🎯 One creature bearing your sigil** |
 
-**Power Roll + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 3 + R, I, or P damage; slide 1
 - **12-16:** 5 + R, I, or P damage; slide 2

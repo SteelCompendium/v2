@@ -41,7 +41,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You add your level to your effective <a href="../../../../rule/character/size/">size</a> for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by <a href="../../../../movement/forced-movement/">forced movement</a>, and so forth. This has no effect on whether you can be <a href="../../../../condition/grabbed/">grabbed</a>.</p>
-<p>Additionally, you have a bonus to stability equal to your <a href="../../../../rule/character/might/">Might</a> score.</p>
+<p>Additionally, you have a bonus to <a href="../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../rule/character/might/">Might</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -53,7 +53,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.</p>
-<p>When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in <a href="../../../../complication/animal-form/">animal form</a> (see <a href="../../stormwight-kits/kit-features/">Stormwight Kits</a>).</p>
+<p>When you are in a negotiation with an animal or elemental, you treat your <a href="../../../../rule/resource/renown/">Renown</a> as 1 higher than usual. This stacks with the increase to your effective <a href="../../../../rule/resource/renown/">Renown</a> in a negotiation with an animal of your type while in <a href="../../../../complication/animal-form/">animal form</a> (see <a href="../../stormwight-kits/kit-features/">Stormwight Kits</a>).</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -64,7 +64,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have a double <a href="../../../../rule/dice/edge/">edge</a> on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double <a href="../../../../rule/dice/edge/">edge</a> on tests made to gamble!</p>
+<p>You have a double <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to gamble!</p>
 </div>
 </section>
 </div>

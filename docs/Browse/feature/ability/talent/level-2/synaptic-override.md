@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 5 Clarity
 distance: Ranged 10
-effect: You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../../../rule/health/dying.md), or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
+effect: You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../../../rule/health/dying.md), or result in them suffering a condition or other negative effect. However, you can move them to provoke [opportunity attacks](../../../../rule/combat/opportunity-attack.md).
 flavor: You control an enemy's nervous system. How pleasant for them.
 keywords:
     - Psionic
@@ -35,17 +35,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target makes a <a href="../../../../common/main-actions/free-strike/">free strike</a> against one enemy of your choice.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target shifts up to their speed and uses their signature ability against any enemies of your choice.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target moves up to their speed and uses their signature ability against any enemies of your choice.</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> The target makes a <a href="../../../../common/main-actions/free-strike/">free strike</a> against one enemy of your choice.</li><li><b>12-16:</b> The target shifts up to their <a href="../../../../../rule/character/speed/">speed</a> and uses their <a href="../../../../../rule/combat/signature-ability/">signature ability</a> against any enemies of your choice.</li><li><b>17+:</b> The target moves up to their <a href="../../../../../rule/character/speed/">speed</a> and uses their <a href="../../../../../rule/combat/signature-ability/">signature ability</a> against any enemies of your choice.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You control the target&#39;s movement. The target can&#39;t be moved in a way that would harm them (such as over a cliff), leave them <a href="../../../../../rule/health/dying/">dying</a>, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.</p></div>
+<div class="sc-ability__section-body"><p>You control the target&#39;s movement. The target can&#39;t be moved in a way that would harm them (such as over a cliff), leave them <a href="../../../../../rule/health/dying/">dying</a>, or result in them suffering a condition or other negative effect. However, you can move them to provoke <a href="../../../../../rule/combat/opportunity-attack/">opportunity attacks</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

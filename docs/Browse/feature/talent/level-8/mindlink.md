@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>During a respite, you can choose a number of creatures up to your <a href="../../../../rule/character/reason/">Reason</a> score who you have communicated with using your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more <a href="../../../../rule/health/recoveries/">Recoveries</a>, each other linked creature can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p>
+<p>During a <a href="../../../../rule/resource/respite/">respite</a>, you can choose a number of creatures up to your <a href="../../../../rule/character/reason/">Reason</a> score who you have communicated with using your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more <a href="../../../../rule/health/recoveries/">Recoveries</a>, each other linked creature can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p>
 </div>
 </section>

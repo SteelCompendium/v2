@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 11 focus to use.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 11 focus to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 2 <a href="../../../../rule/resource/surge/">surges</a> and can use a signature or heroic ability as a free triggered action. The ability has a double <a href="../../../../rule/dice/edge/">edge</a> on the power roll, ignores <a href="../../../../rule/damage/damage-immunity/">damage immunity</a>, and increases the potency of any potency effects by 1.</p></div>
+<div class="sc-ability__section-body"><p>The target gains 2 <a href="../../../../rule/resource/surge/">surges</a> and can use a signature or <a href="../../../../rule/general/heroic-ability/">heroic ability</a> as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>. The ability has a double <a href="../../../../rule/dice/edge/">edge</a> on the <a href="../../../../rule/dice/power-roll/">power roll</a>, ignores <a href="../../../../rule/damage/damage-immunity/">damage immunity</a>, and increases the <a href="../../../../rule/character/potency/">potency</a> of any <a href="../../../../rule/character/potency/">potency</a> effects by 1.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
@@ -83,7 +83,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 1 <a href="../../../../rule/resource/surge/">surge</a> and can use a signature ability as a free triggered action. That ability gains an <a href="../../../../rule/dice/edge/">edge</a> on the power roll and increases the potency of any potency effects by 1.</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 1 <a href="../../../../rule/resource/surge/">surge</a> and can use a <a href="../../../../rule/combat/signature-ability/">signature ability</a> as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>. That ability gains an <a href="../../../../rule/dice/edge/">edge</a> on the <a href="../../../../rule/dice/power-roll/">power roll</a> and increases the <a href="../../../../rule/character/potency/">potency</a> of any <a href="../../../../rule/character/potency/">potency</a> effects by 1.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -101,17 +101,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + M damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + M damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 6 + M damage</li><li><b>12-16:</b> 10 + M damage</li><li><b>17+:</b> 14 + M damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>One ally within 10 squares of you can use a heroic ability against the target as a free triggered action without spending any of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, as long as they have enough <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> to pay for the ability. If the target is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> before the chosen ally has used their ability, the ally can pick a different target.</p></div>
+<div class="sc-ability__section-body"><p>One ally within 10 squares of you can use a <a href="../../../../rule/general/heroic-ability/">heroic ability</a> against the target as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> without spending any of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, as long as they have enough <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> to pay for the ability. If the target is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> before the chosen ally has used their ability, the ally can pick a different target.</p></div>
 </div>
 </article>
 </div>

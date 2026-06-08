@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your <a href="../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability (see below) also gains this bonus when you use it to deal fire damage.</p>
+<p>You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a>. Your <a href="../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability (see below) also gains this bonus when you use it to deal fire damage.</p>
 </div>
 </section>

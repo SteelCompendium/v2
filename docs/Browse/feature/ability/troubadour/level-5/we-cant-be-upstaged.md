@@ -1,7 +1,7 @@
 ---
 action_type: No action
 class: troubadour
-distance: 5 aura
+distance: 5 [aura](../../../../rule/combat/aura.md)
 effect: While this performance is active, a target who starts their turn in the area gains a bonus to the [distance](../../../../rule/combat/distance.md) they can [shift](../../../../movement/shifting.md) equal to your [Presence](../../../../rule/character/presence.md) score until the end of their turn.
 flavor: Swordplay so graceful it looks like you all practiced this.
 keywords:
@@ -31,7 +31,7 @@ type: ability
 <p class="sc-ability__flavor">Swordplay so graceful it looks like you all practiced this.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

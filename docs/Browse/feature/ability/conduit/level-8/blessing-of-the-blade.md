@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: conduit
 cost: 11 Piety
-distance: 5 aura
+distance: 5 [aura](../../../../rule/combat/aura.md)
 effect: At the end of each of your turns until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 3 [surges](../../../../rule/resource/surge.md).
 flavor: '"The power of the gods is within you, friends. Allow me to unleash it."'
 keywords:
@@ -31,7 +31,7 @@ type: ability
 <p class="sc-ability__flavor">The power of the gods is within you, friends. Allow me to unleash it.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

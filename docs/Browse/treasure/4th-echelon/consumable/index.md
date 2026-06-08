@@ -13,8 +13,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">360</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> The captured breath of a god, an ounce of condensed dreams</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in the First Language</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="elixir-of-saint-elspeth/" aria-label="Elixir of Saint Elspeth"></a>
@@ -26,8 +24,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">360</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> An ounce of the blood of Saint Elspeth</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="page-from-the-infinite-library-solaris/" aria-label="Page From the Infinite Library: Solaris"></a>
@@ -39,8 +35,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">360</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> One vial of sacred ink, blessed parchment</div>
-  <div class="sc-card__line"><b>Source</b> Reference materials in the First Language from the</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="restorative-of-the-bright-court/" aria-label="Restorative of the Bright Court"></a>
@@ -52,7 +46,5 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">360</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A year's lifespan from the creator or another willing creature, the laughter of a young hero</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Khelt</div>
 </div>
 </div>

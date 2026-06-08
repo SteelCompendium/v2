@@ -3,7 +3,7 @@ action_type: Main action
 class: troubadour
 cost: 11 Drama
 distance: Melee 1 or ranged 10
-effect: '[Forced movement](../../../../movement/forced-movement.md) from this ability ignores stability.'
+effect: '[Forced movement](../../../../movement/forced-movement.md) from this ability ignores [stability](../../../../rule/character/stability.md).'
 flavor: The power of music rips through the reality around the target and blows them away.
 keywords:
     - Magic
@@ -36,16 +36,11 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + P sonic damage; push 5</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">16 + P sonic damage; push 10</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">22 + P sonic damage; push 15</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 12 + P sonic damage; push 5</li><li><b>12-16:</b> 16 + P sonic damage; push 10</li><li><b>17+:</b> 22 + P sonic damage; push 15</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p><a href="../../../../../movement/forced-movement/">Forced movement</a> from this ability ignores stability.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../../movement/forced-movement/">Forced movement</a> from this ability ignores <a href="../../../../../rule/character/stability/">stability</a>.</p></div>
 </div>
 </article>

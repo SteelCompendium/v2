@@ -2,7 +2,7 @@
 action_type: Main action
 class: elementalist
 cost: 11 Essence
-distance: 5 burst
+distance: 5 [burst](../../../../rule/combat/burst.md)
 effect: You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../../../../condition/prone.md) and [size](../../../../rule/character/size.md) 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../../../../movement/shifting.md) to the nearest unoccupied space of their choice outside it.
 flavor: You stomp your foot and quake the whole world over.
 keywords:
@@ -32,16 +32,11 @@ type: ability
 <p class="sc-ability__flavor">You stomp your foot and quake the whole world over.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">M &lt; WEAK<a href="../../../../../condition/prone/">, prone</a></span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">M &lt; AVERAGE<a href="../../../../../condition/prone/">, prone</a></span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">M &lt; STRONG<a href="../../../../../condition/prone/">, prone</a></span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> M &lt; WEAK<a href="../../../../../condition/prone/">, prone</a></li><li><b>12-16:</b> M &lt; AVERAGE<a href="../../../../../condition/prone/">, prone</a></li><li><b>17+:</b> M &lt; STRONG<a href="../../../../../condition/prone/">, prone</a></li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

@@ -27,7 +27,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your hardened scales grant you <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> equal to your level to one of the following <a href="../../../../rule/damage/damage-type/">damage types</a>: acid, cold, corruption, fire, lightning, or poison. You can change your <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> type when you finish a respite.</p>
+<p>Your hardened scales grant you <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> equal to your level to one of the following <a href="../../../../rule/damage/damage-type/">damage types</a>: acid, cold, corruption, fire, lightning, or poison. You can change your <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> type when you finish a <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -46,7 +46,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you or an adjacent creature takes damage from a <a href="../../../../rule/combat/strike/">strike</a>, you can use a triggered action to guard against the blow. You reduce any damage from the <a href="../../../../rule/combat/strike/">strike</a> by an amount equal to your level.</p>
+<p>Whenever you or an adjacent creature takes damage from a <a href="../../../../rule/combat/strike/">strike</a>, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to guard against the blow. You reduce any damage from the <a href="../../../../rule/combat/strike/">strike</a> by an amount equal to your level.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -56,7 +56,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following signature ability.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../../../rule/combat/signature-ability/">signature ability</a>.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -70,16 +70,11 @@ type: trait
 <p class="sc-ability__flavor">You let loose a mighty roar to shake your foes&#39; spirits.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; push 2</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a> or <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 2 damage</li><li><b>12-16:</b> 5 damage; push 1</li><li><b>17+:</b> 7 damage; push 2</li></ul></div>
 </div>
 </article>
 </div>
@@ -92,7 +87,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following signature ability.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following <a href="../../../../rule/combat/signature-ability/">signature ability</a>.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -106,16 +101,11 @@ type: trait
 <p class="sc-ability__flavor">A furious exhalation of energy washes over your foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/cube/">cube</a> within 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a> or <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 2 damage</li><li><b>12-16:</b> 4 damage</li><li><b>17+:</b> 6 damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -142,7 +132,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>As a maneuver, you can recite the following oath. Until the start of your next turn, whenever you make a saving throw, you succeed on a 4 or higher.</p>
+<p>As a maneuver, you can recite the following oath. Until the start of your next turn, whenever you make a <a href="../../../../rule/general/saving-throw/">saving throw</a>, you succeed on a 4 or higher.</p>
 <p class="sc-trait__flavor">Even should the sun stop in the sky Even should the night last a thousand years I will stand forever I shall not yield Those who suffer and yearn for justice I am your sword and shield I will yield no ground I will speak no lies I will stand against all tyrants Until the last villain dies</p>
 </div>
 </section>

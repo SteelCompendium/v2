@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your powerful legs make you faster. You have speed 6.</p>
+<p>Your powerful legs make you faster. You have <a href="../../../../rule/character/speed/">speed</a> 6.</p>
 </div>
 </section>

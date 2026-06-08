@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../tactical-doctrine/">tactical doctrine</a> grants you a triggered action, as shown on the Doctrine Triggered Actions table.</p>
+<p>Your <a href="../tactical-doctrine/">tactical doctrine</a> grants you a <a href="../../../../rule/combat/triggered-action/">triggered action</a>, as shown on the Doctrine <a href="../../../../rule/combat/triggered-action/">Triggered Actions</a> table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<table><thead><tr><th>Doctrine</th><th>Triggered Action</th></tr></thead><tbody><tr><td>Insurgent</td><td><a href="../../../ability/tactician/level-1/advanced-tactics/">Advanced Tactics</a></td></tr><tr><td>Mastermind</td><td><a href="../../../ability/tactician/level-1/overwatch/">Overwatch</a></td></tr><tr><td>Vanguard</td><td><a href="../../../ability/tactician/level-1/parry/">Parry</a></td></tr></tbody></table>
+<table><thead><tr><th>Doctrine</th><th><a href="../../../../rule/combat/triggered-action/">Triggered Action</a></th></tr></thead><tbody><tr><td>Insurgent</td><td><a href="../../../ability/tactician/level-1/advanced-tactics/">Advanced Tactics</a></td></tr><tr><td>Mastermind</td><td><a href="../../../ability/tactician/level-1/overwatch/">Overwatch</a></td></tr><tr><td>Vanguard</td><td><a href="../../../ability/tactician/level-1/parry/">Parry</a></td></tr></tbody></table>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="triggered">
@@ -55,7 +55,7 @@ type: feature
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>The target gains 2 <a href="../../../../rule/resource/surge/">surges</a>, which they can use on the triggering damage.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the damage has any potency effect associated with it, the potency is increased by 1.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the damage has any <a href="../../../../rule/character/potency/">potency</a> effect associated with it, the <a href="../../../../rule/character/potency/">potency</a> is increased by 1.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
 <div class="sc-ability__head">
@@ -80,7 +80,7 @@ type: feature
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>At any time during the target&#39;s movement, one ally can make a <a href="../../../common/main-actions/free-strike/">free strike</a> against them.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the target has R &lt; AVERAGE, they are <a href="../../../../condition/slowed/">slowed</a> (EoT).</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the target has R &lt; AVERAGE, they are <a href="../../../../condition/slowed/">slowed</a> (<a href="../../../../rule/combat/end-of-turn/">EoT</a>).</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
 <div class="sc-ability__head">
@@ -103,7 +103,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> 1 square. If the target is you, or if you end this <a href="../../../../movement/shifting/">shift</a> adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> 1 square. If the target is you, or if you end this <a href="../../../../movement/shifting/">shift</a> adjacent to the target, the target takes half the damage. If the damage has any <a href="../../../../rule/character/potency/">potency</a> effect associated with it, the <a href="../../../../rule/character/potency/">potency</a> is decreased by 1.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">This ability&#39;s <a href="../../../../rule/combat/distance/">distance</a> becomes Melee 1 + your <a href="../../../../rule/character/reason/">Reason</a> score, and you can <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score instead of 1 square.</span></div>
 </article>

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can increase the number of rounds in a montage test by 1 if the test would end before the heroes hit the success limit.</p>
+<p>You can increase the number of rounds in a <a href="../../../../rule/test/montage-test/">montage test</a> by 1 if the <a href="../../../../rule/test/test/">test</a> would end before the heroes hit the success limit.</p>
 </div>
 </section>

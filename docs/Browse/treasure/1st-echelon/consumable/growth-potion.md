@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: As a maneuver, you can drink this potion or pour it over an object of [size](../../../rule/character/size.md) 2 or smaller, causing the target's [size](../../../rule/character/size.md) to increase by 1(to a minimum size of 2). If you are the target, your [Stamina](../../../rule/health/stamina.md) maximum and Stability are doubled, you gain an [edge](../../../rule/dice/edge.md) on [Might](../../../rule/character/might.md) tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest [characteristic](../../../rule/character/characteristic.md) score. You shrink back to your original [size](../../../rule/character/size.md) after 3 rounds, halving your current [Stamina](../../../rule/health/stamina.md) maximum and Stability, and losing the potion's other benefits. Objects maintain their new [size](../../../rule/character/size.md) permanently.
+effect: As a maneuver, you can drink this potion or pour it over an object of [size](../../../rule/character/size.md) 2 or smaller, causing the target's [size](../../../rule/character/size.md) to increase by 1(to a minimum size of 2). If you are the target, your [Stamina](../../../rule/health/stamina.md) maximum and [Stability](../../../rule/character/stability.md) are doubled, you gain an [edge](../../../rule/dice/edge.md) on [Might](../../../rule/character/might.md) [tests](../../../rule/test/test.md), and your weapon abilities that deal [rolled damage](../../../rule/damage/rolled-damage.md) gain a damage bonus equal to your highest [characteristic](../../../rule/character/characteristic.md) score. You shrink back to your original [size](../../../rule/character/size.md) after 3 rounds, halving your current [Stamina](../../../rule/health/stamina.md) maximum and [Stability](../../../rule/character/stability.md), and losing the potion's other benefits. Objects maintain their new [size](../../../rule/character/size.md) permanently.
 keywords:
     - Magic
     - Potion
@@ -18,12 +18,12 @@ type: treasure
 
 **Keywords:** Magic, Potion
 
-**Item Prerequisite:** A half-pound of seagrass
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A half-pound of seagrass
 
-**Project Source:** Texts or lore in Caelian
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Caelian
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you can drink this potion or pour it over an object of [size](../../../rule/character/size.md) 2 or smaller, causing the target's [size](../../../rule/character/size.md) to increase by 1(to a minimum size of 2). If you are the target, your [Stamina](../../../rule/health/stamina.md) maximum and Stability are doubled, you gain an [edge](../../../rule/dice/edge.md) on [Might](../../../rule/character/might.md) tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest [characteristic](../../../rule/character/characteristic.md) score. You shrink back to your original [size](../../../rule/character/size.md) after 3 rounds, halving your current [Stamina](../../../rule/health/stamina.md) maximum and Stability, and losing the potion's other benefits. Objects maintain their new [size](../../../rule/character/size.md) permanently.
+**Effect:** As a maneuver, you can drink this potion or pour it over an object of [size](../../../rule/character/size.md) 2 or smaller, causing the target's [size](../../../rule/character/size.md) to increase by 1(to a minimum size of 2). If you are the target, your [Stamina](../../../rule/health/stamina.md) maximum and [Stability](../../../rule/character/stability.md) are doubled, you gain an [edge](../../../rule/dice/edge.md) on [Might](../../../rule/character/might.md) [tests](../../../rule/test/test.md), and your weapon abilities that deal [rolled damage](../../../rule/damage/rolled-damage.md) gain a damage bonus equal to your highest [characteristic](../../../rule/character/characteristic.md) score. You shrink back to your original [size](../../../rule/character/size.md) after 3 rounds, halving your current [Stamina](../../../rule/health/stamina.md) maximum and [Stability](../../../rule/character/stability.md), and losing the potion's other benefits. Objects maintain their new [size](../../../rule/character/size.md) permanently.

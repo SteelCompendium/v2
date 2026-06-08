@@ -18,11 +18,11 @@ type: treasure
 
 **Keywords:** Potion, Psionic
 
-**Item Prerequisite:** A cup of algae from glacial water
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A cup of algae from glacial water
 
-**Project Source:** Texts or lore in Yllyric
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Yllyric
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 90 (yields 1d3 doses)
 

@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../../level-1/censor-order/">censor order</a> grants your choice of one of two heroic abilities.</p>
+<p>Your <a href="../../level-1/censor-order/">censor order</a> grants your choice of one of two <a href="../../../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -43,16 +43,11 @@ type: feature
 <p class="sc-ability__flavor">You terrify your enemies into retreating, creating chaos in their ranks.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 psychic damage; slide 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 psychic damage; slide 5</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 psychic damage; slide 7</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 4 psychic damage; slide 3</li><li><b>12-16:</b> 6 psychic damage; slide 5</li><li><b>17+:</b> 8 psychic damage; slide 7</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
@@ -72,7 +67,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target gains a condition or effect that is ended by a saving throw or that ends at the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>The target gains a condition or effect that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -106,13 +101,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three enemies</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 3; I &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 5; I &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 7; I &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> Slide 3; I &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>12-16:</b> Slide 5; I &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>17+:</b> Slide 7; I &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -127,12 +117,12 @@ type: feature
 <p class="sc-ability__flavor">You anticipate your foes&#39; moves and deny them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your <a href="../../../../rule/character/presence/">Presence</a> score.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, whenever any target takes a <a href="../../../../rule/combat/triggered-action/">triggered action</a> or a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>, that action is negated and the target takes holy damage equal to your <a href="../../../../rule/character/presence/">Presence</a> score.</p></div>
 </div>
 </article>
 </div>
@@ -162,13 +152,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + M damage; as a free triggered action, one ally within 10 squares of the target can use a <a href="../../../../rule/combat/strike/">strike</a> signature ability against the target</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + M damage; as a free triggered action, one ally within 10 squares of the target can use a <a href="../../../../rule/combat/strike/">strike</a> signature ability that gains an <a href="../../../../rule/dice/edge/">edge</a> against the target</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + M damage; as a free triggered action, two allies within 10 squares of the target can each use a <a href="../../../../rule/combat/strike/">strike</a> signature ability that gains an <a href="../../../../rule/dice/edge/">edge</a> against the target</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 8 + M damage; as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>, one ally within 10 squares of the target can use a <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> against the target</li><li><b>12-16:</b> 12 + M damage; as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>, one ally within 10 squares of the target can use a <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> that gains an <a href="../../../../rule/dice/edge/">edge</a> against the target</li><li><b>17+:</b> 16 + M damage; as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>, two allies within 10 squares of the target can each use a <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> that gains an <a href="../../../../rule/dice/edge/">edge</a> against the target</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

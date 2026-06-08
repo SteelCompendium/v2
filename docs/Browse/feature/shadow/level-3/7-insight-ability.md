@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 7 insight to use.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 7 insight to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
 <div class="sc-ability__head">
@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever an enemy moves or is <a href="../../../../movement/forced-movement/">force moved</a> adjacent to you or damages you, you can take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever an enemy moves or is <a href="../../../../movement/forced-movement/">force moved</a> adjacent to you or damages you, you can take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -57,13 +57,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + A damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 9 + A damage</li><li><b>12-16:</b> 13 + A damage</li><li><b>17+:</b> 18 + A damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -85,13 +80,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + A damage; A &lt; WEAK, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + A damage; A &lt; AVERAGE, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + A damage; A &lt; STRONG, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 8 + A damage; A &lt; WEAK, <a href="../../../../condition/restrained/">restrained</a> (save ends)</li><li><b>12-16:</b> 12 + A damage; A &lt; AVERAGE, <a href="../../../../condition/restrained/">restrained</a> (save ends)</li><li><b>17+:</b> 16 + A damage; A &lt; STRONG, <a href="../../../../condition/restrained/">restrained</a> (save ends)</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -109,13 +99,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + A damage; M &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 + A damage; M &lt; AVERAGE, <a href="../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + A damage; M &lt; STRONG, <a href="../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 7 + A damage; M &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>12-16:</b> 11 + A damage; M &lt; AVERAGE, <a href="../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</li><li><b>17+:</b> 16 + A damage; M &lt; STRONG, <a href="../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</li></ul></div>
 </div>
 </article>
 </div>

@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to recall lore.</p>
+<p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to recall lore.</p>
 </div>
 </section>

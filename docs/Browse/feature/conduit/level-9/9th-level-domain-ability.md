@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">9</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Choose one of your domains. You gain a heroic ability from that domain, as shown on the 9th-Level <a href="../../../../class/conduit/">Conduit</a> Domain Abilities table.</p>
+<p>Choose one of your domains. You gain a <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from that domain, as shown on the 9th-Level <a href="../../../../class/conduit/">Conduit</a> Domain Abilities table.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -69,7 +69,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each of the target&#39;s power rolls has its outcome improved by one tier.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each of the target&#39;s <a href="../../../../rule/dice/power-roll/">power rolls</a> has its outcome improved by one tier.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -107,20 +107,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../rule/character/intuition.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + I damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + I damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + I damage</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You conjure a <a href="../../../../rule/character/size/">size</a> 4 dragon that appears in an unoccupied space within <a href="../../../../rule/combat/distance/">distance</a>. The dragon has speed 6 and can <a href="../../../../movement/fly/">fly</a>, stability 4, 100 <a href="../../../../rule/health/stamina/">Stamina</a>, immunity all to fire damage, and uses your <a href="../../../../rule/character/characteristic/">characteristics</a>. The dragon disappears at the end of the encounter, if their <a href="../../../../rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../../../rule/health/dying/">dying</a>.</p><p>On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.</p></div>
-</div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p>Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon <a href="../../../../rule/combat/strike/">strike</a> with their claw against an adjacent creature or object. The dragon can also make this <a href="../../../../rule/combat/strike/">strike</a> as a <a href="../../../common/main-actions/free-strike/">free strike</a>.</p></div>
+<div class="sc-ability__section-body"><p>You conjure a <a href="../../../../rule/character/size/">size</a> 4 dragon that appears in an unoccupied space within <a href="../../../../rule/combat/distance/">distance</a>. The dragon has <a href="../../../../rule/character/speed/">speed</a> 6 and can <a href="../../../../movement/fly/">fly</a>, <a href="../../../../rule/character/stability/">stability</a> 4, 100 <a href="../../../../rule/health/stamina/">Stamina</a>, immunity all to fire damage, and uses your <a href="../../../../rule/character/characteristic/">characteristics</a>. The dragon disappears at the end of the encounter, if their <a href="../../../../rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../../../rule/health/dying/">dying</a>.</p><p>On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 <a href="../../../../rule/combat/cube/">cube</a> within 1 square of them. Make the following <a href="../../../../rule/dice/power-roll/">power roll</a> targeting each enemy in the area.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 5 fire damage</li><li><b>12-16:</b> 9 fire damage</li><li><b>17+:</b> 12 fire damage</li></ul><p>Additionally, you can use a maneuver to move the dragon up to their <a href="../../../../rule/character/speed/">speed</a>, or to make a melee weapon <a href="../../../../rule/combat/strike/">strike</a> with their claw against an adjacent creature or object. The dragon can also make this <a href="../../../../rule/combat/strike/">strike</a> as a <a href="../../../common/main-actions/free-strike/">free strike</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 3 + I damage</li><li><b>12-16:</b> 5 + I damage</li><li><b>17+:</b> 8 + I damage</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -135,20 +124,15 @@ type: feature
 <p class="sc-ability__flavor">You summon a divine storm that remains under your control.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/cube/">cube</a> within 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../rule/character/intuition.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 lightning damage, 2 sonic damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 lightning damage, 3 sonic damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 lightning damage, 5 sonic damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 2 lightning damage, 2 sonic damage</li><li><b>12-16:</b> 3 lightning damage, 3 sonic damage</li><li><b>17+:</b> 5 lightning damage, 5 sonic damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A raging storm fills the area until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.</p></div>
+<div class="sc-ability__section-body"><p>A raging storm fills the area until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -163,7 +147,7 @@ type: feature
 <p class="sc-ability__flavor">You summon darkness that thwarts only your foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
@@ -188,7 +172,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability. Each target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they <a href="../../../../condition/prone/">are prone</a>.</p></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability. Each target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>, can end any effects on them that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of their turn, and can stand up if they <a href="../../../../condition/prone/">are prone</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -223,16 +207,11 @@ type: feature
 <p class="sc-ability__flavor">You call down a sphere of fire that burns your foes to ash.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../rule/character/intuition.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 fire damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 fire damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">19 fire damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 9 fire damage</li><li><b>12-16:</b> 14 fire damage</li><li><b>17+:</b> 19 fire damage</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -244,19 +223,14 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">Vines burst forth from the ground and bind your foe, slowly closing around them.</p>
+<p class="sc-ability__flavor">Vines <a href="../../../../rule/combat/burst/">burst</a> forth from the ground and bind your foe, slowly closing around them.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../rule/character/intuition.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + I damage; A &lt; WEAK, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + I damage; A &lt; AVERAGE, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + I damage; A &lt; STRONG, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 10 + I damage; A &lt; WEAK, <a href="../../../../condition/restrained/">restrained</a> (save ends)</li><li><b>12-16:</b> 15 + I damage; A &lt; AVERAGE, <a href="../../../../condition/restrained/">restrained</a> (save ends)</li><li><b>17+:</b> 21 + I damage; A &lt; STRONG, <a href="../../../../condition/restrained/">restrained</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -272,7 +246,7 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">Your death will fuel our victory.</p>
+<p class="sc-ability__flavor">Your death will fuel our <a href="../../../../rule/resource/victories/">victory</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
@@ -302,13 +276,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../rule/character/intuition.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + I corruption damage; A &lt; WEAK, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + I corruption damage; A &lt; AVERAGE, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">21 + I corruption damage; A &lt; STRONG, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 10 + I corruption damage; A &lt; WEAK, <a href="../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>12-16:</b> 15 + I corruption damage; A &lt; AVERAGE, <a href="../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>17+:</b> 21 + I corruption damage; A &lt; STRONG, <a href="../../../../condition/weakened/">weakened</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

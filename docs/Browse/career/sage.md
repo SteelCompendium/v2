@@ -2,7 +2,6 @@
 language: One language
 name: Sage
 perk: One lore perk (*Quick Build:* [Expert Sage](../perk/expert-sage.md).)
-project_points: "240"
 scc: mcdm.heroes.v1/career/sage
 skills:
     - Two skills from the lore skill group (*Quick Build:* [History](../skill/history.md), [Magic](../skill/magic.md).)
@@ -26,7 +25,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 240
+**[Project Points](../rule/downtime/project-points.md):** 240
 
 **Perk:** One lore perk (*Quick Build:* [Expert Sage](../perk/expert-sage.md).)
 

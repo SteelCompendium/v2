@@ -27,7 +27,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>), and you gain an <a href="../../../../rule/dice/edge/">edge</a> on tests when attempting to discover an NPC&#39;s motivations and pitfalls during a negotiation (see Chapter 11: <a href="../../../../../Read/heroes/negotiation/">Negotiation</a>).</p>
+<p>Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>), and you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> when attempting to discover an <a href="../../../../rule/general/npc/">NPC</a>&#39;s motivations and pitfalls during a negotiation (see Chapter 11: <a href="../../../../../Read/heroes/negotiation/">Negotiation</a>).</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -56,7 +56,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your powerful legs make you faster. You have speed 6.</p>
+<p>Your powerful legs make you faster. You have <a href="../../../../rule/character/speed/">speed</a> 6.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -66,7 +66,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to deal that creature psychic damage equal to 1d10 + your level.</p>
+<p>Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to deal that creature psychic damage equal to 1d10 + your level.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -86,7 +86,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your cherished horns are larger than the average <a href="../../../../ancestry/devil/">devil&#39;s</a>, and a hardened representation of your force of will. Whenever you make a saving throw, you succeed on a roll of 5 or higher.</p>
+<p>Your cherished horns are larger than the average <a href="../../../../ancestry/devil/">devil&#39;s</a>, and a hardened representation of your force of will. Whenever you make a <a href="../../../../rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

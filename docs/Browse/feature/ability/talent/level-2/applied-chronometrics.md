@@ -3,7 +3,7 @@ action_type: Maneuver
 class: talent
 cost: 5 Clarity
 distance: Ranged 10
-effect: Until the start of your next turn, each target gains a +5 bonus to speed, they can't be made [dazed](../../../../condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../../condition/dazed.md), that condition ends for them.
+effect: Until the start of your next turn, each target gains a +5 bonus to [speed](../../../../rule/character/speed.md), they can't be made [dazed](../../../../condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../../../../condition/dazed.md), that condition ends for them.
 flavor: Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.
 keywords:
     - Chronopathy
@@ -35,20 +35,15 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You target two creatures, one of which can be you.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You target three creatures, one of which can be you.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You target four creatures, one of which can be you.</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> You target two creatures, one of which can be you.</li><li><b>12-16:</b> You target three creatures, one of which can be you.</li><li><b>17+:</b> You target four creatures, one of which can be you.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, each target gains a +5 bonus to speed, they can&#39;t be made <a href="../../../../../condition/dazed/">dazed</a>, and they can use an additional maneuver on their turn. If a target is already <a href="../../../../../condition/dazed/">dazed</a>, that condition ends for them.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, each target gains a +5 bonus to <a href="../../../../../rule/character/speed/">speed</a>, they can&#39;t be made <a href="../../../../../condition/dazed/">dazed</a>, and they can use an additional maneuver on their turn. If a target is already <a href="../../../../../condition/dazed/">dazed</a>, that condition ends for them.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>Your speed is halved until the end of the encounter.</p></div>
+<div class="sc-ability__section-body"><p>Your <a href="../../../../../rule/character/speed/">speed</a> is halved until the end of the encounter.</p></div>
 </div>
 </article>

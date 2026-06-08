@@ -21,7 +21,7 @@ You wear a loyalty collar from one of Ajax's war dogs (see *Draw Steel: Monsters
 >
 > | **Area, Magic** |                  **Maneuver** |
 > |-----------------|------------------------------:|
-> | **📏 1 burst**  | **🎯 Each enemy in the area** |
+> | **📏 1 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 >
 > **Effect:** Your loyalty collar detonates, dealing fire damage equal to 5 plus your level to each target. Once you use this ability, you can't use it again until you spend 1 uninterrupted minute out of combat resetting the collar.
 

@@ -25,7 +25,7 @@ type: title
 >
 > | **Area, Magic** |                                **Maneuver** |
 > |-----------------|--------------------------------------------:|
-> | **📏 5 burst**  | **🎯 Each enemy in the area hidden to you** |
+> | **📏 5 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area hidden to you** |
 >
 > **Effect:** Each target who has P < AVERAGE is [taunted](../condition/taunted.md) by you until the end of their next turn, and you know the location of each creature [taunted](../condition/taunted.md) in this way.
 

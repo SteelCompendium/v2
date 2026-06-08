@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: elementalist
 cost: 5 Essence
-distance: 3 cube within 10
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effect: 'Until the start of your next turn, the area gains the following effects:'
 flavor: Revitalizing plants and jagged stones grow, helping allies and hindering foes.
 keywords:
@@ -34,15 +34,15 @@ type: ability
 <p class="sc-ability__flavor">Revitalizing plants and jagged stones grow, helping allies and hindering foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the area gains the following effects:</p><ul><li>Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>.</li><li>The area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</li><li>Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your <a href="../../../../../rule/character/reason/">Reason</a> score.</li></ul></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the area gains the following effects:</p><ul><li>Once as a <a href="../../../../../rule/combat/free-maneuver/">free maneuver</a> at the start of your turn, you allow yourself and each ally in the area to spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>.</li><li>The area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</li><li>Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your <a href="../../../../../rule/character/reason/">Reason</a> score.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.</p></div>
+<div class="sc-ability__section-body"><p>The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your <a href="../../../../../rule/combat/line-of-effect/">line of effect</a>.</p></div>
 </div>
 </article>

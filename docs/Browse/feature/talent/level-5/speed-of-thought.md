@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Once per combat round while you are not <a href="../../../../rule/health/dying/">dying</a>, you can spend 2 clarity when you use a triggered action to turn it into a free triggered action.</p>
+<p>Once per combat round while you are not <a href="../../../../rule/health/dying/">dying</a>, you can spend 2 clarity when you use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to turn it into a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p>
 </div>
 </section>

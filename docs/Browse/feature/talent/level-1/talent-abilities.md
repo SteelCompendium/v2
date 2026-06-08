@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose two signature abilities from the following options. Signature abilities can be used at will. (<em>Quick Build:</em> <a href="../../../ability/talent/level-1/incinerate/">Incinerate</a>, <a href="../../../ability/talent/level-1/kinetic-grip/">Kinetic Grip</a>.)</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose two <a href="../../../../rule/combat/signature-ability/">signature abilities</a> from the following options. <a href="../../../../rule/combat/signature-ability/">Signature abilities</a> can be used at will. (<em>Quick Build:</em> <a href="../../../ability/talent/level-1/incinerate/">Incinerate</a>, <a href="../../../ability/talent/level-1/kinetic-grip/">Kinetic Grip</a>.)</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -46,13 +46,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + P corruption damage; P &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + P corruption damage; P &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 + P corruption damage; P &lt; STRONG, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 2 + P corruption damage; P &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>12-16:</b> 3 + P corruption damage; P &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>17+:</b> 5 + P corruption damage; P &lt; STRONG, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -60,7 +55,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the power roll.</p></div>
+<div class="sc-ability__section-body"><p>You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -78,13 +73,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R cold damage; M &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (EoT)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + R cold damage; M &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (EoT)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + R cold damage; M &lt; STRONG, <a href="../../../../condition/slowed/">slowed</a> (EoT)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 + R cold damage; M &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (<a href="../../../../rule/combat/end-of-turn/">EoT</a>)</li><li><b>12-16:</b> 4 + R cold damage; M &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (<a href="../../../../rule/combat/end-of-turn/">EoT</a>)</li><li><b>17+:</b> 6 + R cold damage; M &lt; STRONG, <a href="../../../../condition/slowed/">slowed</a> (<a href="../../../../rule/combat/end-of-turn/">EoT</a>)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -103,16 +93,11 @@ type: feature
 <p class="sc-ability__flavor">The air erupts into a column of smokeless flame.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Pyrokinesis</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 fire damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 fire damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 fire damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 fire damage</li><li><b>12-16:</b> 4 fire damage</li><li><b>17+:</b> 6 fire damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -120,7 +105,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The size of the cube increases by 2, but the fire disappears at the end of your turn.</p></div>
+<div class="sc-ability__section-body"><p>The size of the <a href="../../../../rule/combat/cube/">cube</a> increases by 2, but the fire disappears at the end of your turn.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -138,13 +123,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 2 + R</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 4 + R</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 6 + R; <a href="../../../../condition/prone/">prone</a></span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> Slide 2 + R</li><li><b>12-16:</b> Slide 4 + R</li><li><b>17+:</b> Slide 6 + R; <a href="../../../../condition/prone/">prone</a></li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -163,20 +143,15 @@ type: feature
 <p class="sc-ability__flavor">The force of your mind hurls enemies backward.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 psychic damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 psychic damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 psychic damage; push 2</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 psychic damage</li><li><b>12-16:</b> 5 psychic damage; push 1</li><li><b>17+:</b> 7 psychic damage; push 2</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The size of the burst increases by 2, and you are <a href="../../../../condition/bleeding/">bleeding</a> until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>The size of the <a href="../../../../rule/combat/burst/">burst</a> increases by 2, and you are <a href="../../../../condition/bleeding/">bleeding</a> until the start of your next turn.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -194,13 +169,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + R damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + R damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 3 + R damage</li><li><b>12-16:</b> 5 + R damage</li><li><b>17+:</b> 8 + R damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -226,13 +196,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R damage; M &lt; WEAK<a href="../../../../condition/prone/">, prone</a></span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + R damage; M &lt; AVERAGE<a href="../../../../condition/prone/">, prone</a></span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + R damage; M &lt; STRONG<a href="../../../../condition/prone/">, prone</a></span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 + R damage; M &lt; WEAK<a href="../../../../condition/prone/">, prone</a></li><li><b>12-16:</b> 4 + R damage; M &lt; AVERAGE<a href="../../../../condition/prone/">, prone</a></li><li><b>17+:</b> 6 + R damage; M &lt; STRONG<a href="../../../../condition/prone/">, prone</a></li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -258,13 +223,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 2</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + P damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + P damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + P damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 3 + P damage</li><li><b>12-16:</b> 6 + P damage</li><li><b>17+:</b> 9 + P damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -285,7 +245,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You know a range of heroic abilities, all of which cost clarity to fuel them.</p>
+<p>You know a range of <a href="../../../../rule/general/heroic-ability/">heroic abilities</a>, all of which cost clarity to fuel them.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -294,7 +254,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 3 clarity to use. (<em>Quick Build:</em> <a href="../../../ability/talent/level-1/choke/">Choke</a>.)</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 3 clarity to use. (<em>Quick Build:</em> <a href="../../../ability/talent/level-1/choke/">Choke</a>.)</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
@@ -312,17 +272,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + P psychic damage; I &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + P psychic damage; I &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + P psychic damage; I &lt; STRONG, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you target an ally, they gain <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to three times your <a href="../../../../rule/character/presence/">Presence</a> score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.</p></div>
+<div class="sc-ability__section-body"><p>If you target an ally, they gain <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to three times your <a href="../../../../rule/character/presence/">Presence</a> score, and they can end one effect on them that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn. If you target an enemy, you make a <a href="../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 3 + P psychic damage; I &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>12-16:</b> 6 + P psychic damage; I &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>17+:</b> 9 + P psychic damage; I &lt; STRONG, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -340,17 +292,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + R damage; M &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R damage; M &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + R damage; M &lt; STRONG, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 3 + R damage; M &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>12-16:</b> 5 + R damage; M &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>17+:</b> 8 + R damage; M &lt; STRONG, <a href="../../../../condition/restrained/">restrained</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can vertical pull the target up to 2 squares. If the target is made <a href="../../../../condition/restrained/">restrained</a> by this ability, this <a href="../../../../movement/forced-movement/">forced movement</a> ignores their stability.</p></div>
+<div class="sc-ability__section-body"><p>You can vertical pull the target up to 2 squares. If the target is made <a href="../../../../condition/restrained/">restrained</a> by this ability, this <a href="../../../../movement/forced-movement/">forced movement</a> ignores their <a href="../../../../rule/character/stability/">stability</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -370,7 +317,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Ability rolls made against the target take a <a href="../../../../rule/dice/bane/">bane</a> until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a <a href="../../../common/main-actions/free-strike/">free strike</a> against the source of the damage.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../rule/dice/ability-roll/">Ability rolls</a> made against the target take a <a href="../../../../rule/dice/bane/">bane</a> until the start of your next turn. Whenever the target takes damage while under this effect, they can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to make a <a href="../../../common/main-actions/free-strike/">free strike</a> against the source of the damage.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -388,17 +335,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + R damage; R &lt; WEAK, the target has weakness 5 (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + R damage; R &lt; AVERAGE, the target has weakness 5 (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + R damage; R &lt; STRONG, the target has weakness equal to 5 + your <a href="../../../../rule/character/reason/">Reason</a> score (save ends)</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose the <a href="../../../../rule/damage/damage-type/">damage type</a> and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.</p></div>
+<div class="sc-ability__section-body"><p>Choose the <a href="../../../../rule/damage/damage-type/">damage type</a> and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 3 + R damage; R &lt; WEAK, the target has weakness 5 (save ends)</li><li><b>12-16:</b> 6 + R damage; R &lt; AVERAGE, the target has weakness 5 (save ends)</li><li><b>17+:</b> 9 + R damage; R &lt; STRONG, the target has weakness equal to 5 + your <a href="../../../../rule/character/reason/">Reason</a> score (save ends)</li></ul></div>
 </div>
 </article>
 <section class="sc-trait" data-action="trait">
@@ -408,7 +347,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 5 clarity to use. (<em>Quick Build:</em> <a href="../../../ability/talent/level-1/inertia-soak/">Inertia Soak</a>.)</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 5 clarity to use. (<em>Quick Build:</em> <a href="../../../ability/talent/level-1/inertia-soak/">Inertia Soak</a>.)</p>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -452,7 +391,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target ignores <a href="../../../../movement/difficult-terrain/">difficult terrain</a> and takes no damage from <a href="../../../../movement/forced-movement/">forced movement</a> until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score. When pushing an ally, the target can ignore that ally&#39;s stability. A creature can only be force moved this way once a turn.</p></div>
+<div class="sc-ability__section-body"><p>The target ignores <a href="../../../../movement/difficult-terrain/">difficult terrain</a> and takes no damage from <a href="../../../../movement/forced-movement/">forced movement</a> until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score. When pushing an ally, the target can ignore that ally&#39;s <a href="../../../../rule/character/stability/">stability</a>. A creature can only be force moved this way once a turn.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -476,7 +415,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target&#39;s stability increases by an amount equal to your <a href="../../../../rule/character/reason/">Reason</a> score, and they gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> and 2 <a href="../../../../rule/resource/surge/">surges</a>. This stability increase lasts until the target no longer has <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> from this ability.</p></div>
+<div class="sc-ability__section-body"><p>The target&#39;s <a href="../../../../rule/character/stability/">stability</a> increases by an amount equal to your <a href="../../../../rule/character/reason/">Reason</a> score, and they gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> and 2 <a href="../../../../rule/resource/surge/">surges</a>. This <a href="../../../../rule/character/stability/">stability</a> increase lasts until the target no longer has <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> from this ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -500,11 +439,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the target gains a +3 bonus to speed, and they have a double <a href="../../../../rule/dice/edge/">edge</a> on the next power roll they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the target gains a +3 bonus to <a href="../../../../rule/character/speed/">speed</a>, and they have a double <a href="../../../../rule/dice/edge/">edge</a> on the next <a href="../../../../rule/dice/power-roll/">power roll</a> they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You take 1d6 damage, and you can&#39;t use triggered actions (save ends).</p></div>
+<div class="sc-ability__section-body"><p>You take 1d6 damage, and you can&#39;t use <a href="../../../../rule/combat/triggered-action/">triggered actions</a> (save ends).</p></div>
 </div>
 </article>
 </div>

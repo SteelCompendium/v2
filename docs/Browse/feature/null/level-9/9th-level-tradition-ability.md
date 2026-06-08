@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">9</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../../level-1/null-tradition/">null tradition</a> grants your choice of one of two heroic abilities.</p>
+<p>Your <a href="../../level-1/null-tradition/">null tradition</a> grants your choice of one of two <a href="../../../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -46,17 +46,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../rule/character/intuition.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">I &lt; WEAK, the target loses their turn</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">I &lt; AVERAGE, the target loses their turn</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">I &lt; STRONG, the target loses their turn</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The triggering creature starts their turn.</p></div>
+<div class="sc-ability__section-body"><p>The triggering creature starts their turn.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> I &lt; WEAK, the target loses their turn</li><li><b>12-16:</b> I &lt; AVERAGE, the target loses their turn</li><li><b>17+:</b> I &lt; STRONG, the target loses their turn</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -72,7 +64,7 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">You show shadows what true speed is.</p>
+<p class="sc-ability__flavor">You show shadows what true <a href="../../../../rule/character/speed/">speed</a> is.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
@@ -114,17 +106,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../rule/character/intuition.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You gain 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You gain 30 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You gain 40 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> You gain 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li><b>12-16:</b> You gain 30 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li><b>17+:</b> You gain 40 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> granted by your <a href="../../level-2/entropic-adaptability/">Entropic Adaptability</a> trait, you ignore the negative effects of <a href="../../../../rule/health/dying/">dying</a>, and you have a +2 bonus to potencies.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> granted by your <a href="../../level-2/entropic-adaptability/">Entropic Adaptability</a> trait, you ignore the negative effects of <a href="../../../../rule/health/dying/">dying</a>, and you have a +2 bonus to <a href="../../../../rule/character/potency/">potencies</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -142,17 +129,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../rule/character/intuition.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + I cold damage; M &lt; WEAK, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 + I cold damage; M &lt; AVERAGE, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 + I cold damage; M &lt; STRONG, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 8 + I cold damage; M &lt; WEAK, <a href="../../../../condition/restrained/">restrained</a> (save ends)</li><li><b>12-16:</b> 11 + I cold damage; M &lt; AVERAGE, <a href="../../../../condition/restrained/">restrained</a> (save ends)</li><li><b>17+:</b> 15 + I cold damage; M &lt; STRONG, <a href="../../../../condition/restrained/">restrained</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While <a href="../../../../condition/restrained/">restrained</a> this way, the target takes cold damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score at the start of each of your turns. Additionally, whenever the target damages another creature while <a href="../../../../condition/restrained/">restrained</a> this way, any potency associated with the damage is reduced by 2.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../condition/restrained/">restrained</a> this way, the target takes cold damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score at the start of each of your turns. Additionally, whenever the target damages another creature while <a href="../../../../condition/restrained/">restrained</a> this way, any <a href="../../../../rule/character/potency/">potency</a> associated with the damage is reduced by 2.</p></div>
 </div>
 </article>
 </div>
@@ -206,13 +188,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + A psychic damage; I &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a></span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + A psychic damage; I &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a></span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + A psychic damage; I &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a></span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 7 + A psychic damage; I &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a></li><li><b>12-16:</b> 10 + A psychic damage; I &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a></li><li><b>17+:</b> 13 + A psychic damage; I &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a></li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">9</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each time you finish a respite, you can choose a willing hero ally who finished the respite with you. That ally gains the benefits of your <a href="../../level-6/burgeoning-saint/">Burgeoning Saint</a> feature until you finish another respite. Additionally, you can spend piety as a free maneuver to give the hero 1 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> for every 2 piety spent.</p>
+<p>Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can choose a willing hero ally who finished the <a href="../../../../rule/resource/respite/">respite</a> with you. That ally gains the benefits of your <a href="../../level-6/burgeoning-saint/">Burgeoning Saint</a> feature until you finish another <a href="../../../../rule/resource/respite/">respite</a>. Additionally, you can spend piety as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to give the hero 1 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> for every 2 piety spent.</p>
 </div>
 </section>

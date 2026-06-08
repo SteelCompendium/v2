@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../../level-1/tactical-doctrine/">tactical doctrine</a> grants your choice of one of two heroic abilities.</p>
+<p>Your <a href="../../level-1/tactical-doctrine/">tactical doctrine</a> grants your choice of one of two <a href="../../../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -70,17 +70,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R damage; R &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + R damage; R &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 + R damage; R &lt; STRONG, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, and you can make the following weapon <a href="../../../../rule/combat/strike/">strike</a> with a <a href="../../../../rule/combat/distance/">distance</a> of melee 1 against a creature.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a> directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, and you can make the following weapon <a href="../../../../rule/combat/strike/">strike</a> with a <a href="../../../../rule/combat/distance/">distance</a> of melee 1 against a creature.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 + R damage; R &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>12-16:</b> 3 + R damage; R &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>17+:</b> 4 + R damage; R &lt; STRONG, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li></ul></div>
 </div>
 </article>
 </div>
@@ -110,13 +102,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + R damage; <a href="../../../../condition/taunted/">taunted</a> (EoT)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + R damage; <a href="../../../../condition/taunted/">taunted</a> (EoT)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R damage; <a href="../../../../condition/taunted/">taunted</a> (EoT)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 5 + R damage; <a href="../../../../condition/taunted/">taunted</a> (<a href="../../../../rule/combat/end-of-turn/">EoT</a>)</li><li><b>12-16:</b> 9 + R damage; <a href="../../../../condition/taunted/">taunted</a> (<a href="../../../../rule/combat/end-of-turn/">EoT</a>)</li><li><b>17+:</b> 12 + R damage; <a href="../../../../condition/taunted/">taunted</a> (<a href="../../../../rule/combat/end-of-turn/">EoT</a>)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -174,21 +161,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">R &lt; WEAK, the target is <a href="../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">R &lt; AVERAGE, the target is <a href="../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">R &lt; STRONG, the target is <a href="../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
 <div class="sc-ability__section-body"><p>The target deals damage to an ally.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can&#39;t reach an adjacent square. The triggering ally can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> and gains 5 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> for each enemy you came adjacent to during the move. You then make a power roll against the target.</p></div>
+<div class="sc-ability__section-body"><p>You move up to your <a href="../../../../rule/character/speed/">speed</a> toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can&#39;t reach an adjacent square. The triggering ally can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> and gains 5 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> for each enemy you came adjacent to during the move. You then make a <a href="../../../../rule/dice/power-roll/">power roll</a> against the target.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> R &lt; WEAK, the target is <a href="../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li><li><b>12-16:</b> R &lt; AVERAGE, the target is <a href="../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li><li><b>17+:</b> R &lt; STRONG, the target is <a href="../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -203,12 +182,12 @@ type: feature
 <p class="sc-ability__flavor">Together we are invincible!</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, each target has a bonus to stability equal to your <a href="../../../../rule/character/might/">Might</a> score. Additionally, each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, each target has a bonus to <a href="../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../rule/character/might/">Might</a> score. Additionally, each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
 </div>

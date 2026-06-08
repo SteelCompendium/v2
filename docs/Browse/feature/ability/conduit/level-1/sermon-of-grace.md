@@ -2,8 +2,8 @@
 action_type: Main action
 class: conduit
 cost: 5 Piety
-distance: 4 burst
-effect: Each target can spend a [Recovery](../../../../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../../../condition/prone.md).
+distance: 4 [burst](../../../../rule/combat/burst.md)
+effect: Each target can spend a [Recovery](../../../../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn, or to stand up if [prone](../../../../condition/prone.md).
 flavor: You inspire your allies with tales of your saint's great deeds.
 keywords:
     - Area
@@ -31,11 +31,11 @@ type: ability
 <p class="sc-ability__flavor">You inspire your allies with tales of your saint&#39;s great deeds.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>. Additionally, each target can use a free <a href="../../../../conduit/level-1/triggered-action/">triggered action</a> to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if <a href="../../../../../condition/prone/">prone</a>.</p></div>
+<div class="sc-ability__section-body"><p>Each target can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>. Additionally, each target can use a free <a href="../../../../conduit/level-1/triggered-action/">triggered action</a> to end one effect on them that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn, or to stand up if <a href="../../../../../condition/prone/">prone</a>.</p></div>
 </div>
 </article>

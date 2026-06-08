@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see <a href="../conduit-ward/">Conduit Ward</a> below) by praying to your god as a respite activity. (<em>Quick Build:</em> <a href="../prayer-of-distance/">Prayer of Distance</a>.)</p>
+<p>Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see <a href="../conduit-ward/">Conduit Ward</a> below) by praying to your god as a <a href="../../../../rule/resource/respite/">respite</a> activity. (<em>Quick Build:</em> <a href="../prayer-of-distance/">Prayer of Distance</a>.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -30,7 +30,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god infuses wrath within your being. You gain a +1 bonus to rolled damage with magic abilities.</p>
+<p>Your god infuses wrath within your being. You gain a +1 bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> with magic abilities.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -64,7 +64,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the <a href="../../../../rule/combat/distance/">distance</a> you can <a href="../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
+<p>Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to <a href="../../../../rule/character/speed/">speed</a> and to the <a href="../../../../rule/combat/distance/">distance</a> you can <a href="../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -75,7 +75,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to <a href="../../../../rule/health/stamina/">Stamina</a>, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.</p>
+<p>Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to <a href="../../../../rule/health/stamina/">Stamina</a>, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to <a href="../../../../rule/character/stability/">stability</a>.</p>
 </div>
 </section>
 </div>

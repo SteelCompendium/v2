@@ -16,10 +16,10 @@ type: title
 
 **Effect:** Choose one of the following benefits:
 
-- *Easy Marks:* You gain an [edge](../rule/dice/edge.md) on tests made using skills from the interpersonal and intrigue skill groups when influencing members of a community that you have saved.
-- *Local Fame:* You earn 1 Renown.
-- *A New Dawn:* Each time you finish a respite while in a community you have saved, the party gains a [hero token](../rule/resource/hero-token.md). This [hero token](../rule/resource/hero-token.md) disappears at the end of your next respite if it hasn't been used.
+- *Easy Marks:* You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using skills from the interpersonal and intrigue skill groups when influencing members of a community that you have saved.
+- *Local Fame:* You earn 1 [Renown](../rule/resource/renown.md).
+- *A New Dawn:* Each time you finish a [respite](../rule/resource/respite.md) while in a community you have saved, the party gains a [hero token](../rule/resource/hero-token.md). This [hero token](../rule/resource/hero-token.md) disappears at the end of your next [respite](../rule/resource/respite.md) if it hasn't been used.
 
-> **Renown and Wealth**
+> **[Renown](../rule/resource/renown.md) and [Wealth](../rule/resource/wealth.md)**
 >
-> Many titles bestow Renown, followers, and wealth upon heroes. Those topics are covered later in this chapter.
+> Many titles bestow [Renown](../rule/resource/renown.md), [followers](../rule/general/follower.md), and wealth upon heroes. Those topics are covered later in this chapter.

@@ -2,7 +2,7 @@
 action_type: Main action
 class: troubadour
 cost: 5 Drama
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 effect: Each target can [teleport](../../../../movement/teleport.md) up to 5 squares. Any [teleport](../../../../movement/teleport.md)ed target who was [slowed](../../../../condition/slowed.md) is no longer [slowed](../../../../condition/slowed.md).
 flavor: You try a different take on events, justifying the new locations everyone ended up in.
 keywords:
@@ -31,7 +31,7 @@ type: ability
 <p class="sc-ability__flavor">You try a different take on events, justifying the new locations everyone ended up in.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

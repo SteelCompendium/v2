@@ -3,7 +3,7 @@ action_type: Main action
 class: fury
 cost: 3 Ferocity
 distance: Melee 1
-effect: When you slide the target, you can move into any square they leave. If you take damage from an opportunity attack by moving this way, the target takes the same damage.
+effect: When you slide the target, you can move into any square they leave. If you take damage from an [opportunity attack](../../../../rule/combat/opportunity-attack.md) by moving this way, the target takes the same damage.
 flavor: Your enemies will clear your path—whether they want to or not.
 keywords:
     - Melee
@@ -35,16 +35,11 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M damage; slide 2</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M damage; slide 3</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M damage; slide 5</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 3 + M damage; slide 2</li><li><b>12-16:</b> 5 + M damage; slide 3</li><li><b>17+:</b> 8 + M damage; slide 5</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>When you slide the target, you can move into any square they leave. If you take damage from an opportunity attack by moving this way, the target takes the same damage.</p></div>
+<div class="sc-ability__section-body"><p>When you slide the target, you can move into any square they leave. If you take damage from an <a href="../../../../../rule/combat/opportunity-attack/">opportunity attack</a> by moving this way, the target takes the same damage.</p></div>
 </div>
 </article>

@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">9</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../../level-1/censor-order/">censor order</a> grants your choice of one of two heroic abilities.</p>
+<p>Your <a href="../../level-1/censor-order/">censor order</a> grants your choice of one of two <a href="../../../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -46,17 +46,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M damage; P &lt; WEAK, the target is banished (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M damage; P &lt; AVERAGE, the target is banished (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M damage; P &lt; STRONG, the target is banished (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 5 + M damage; P &lt; WEAK, the target is banished (save ends)</li><li><b>12-16:</b> 8 + M damage; P &lt; AVERAGE, the target is banished (save ends)</li><li><b>17+:</b> 11 + M damage; P &lt; STRONG, the target is banished (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This ability gains an <a href="../../../../rule/dice/edge/">edge</a> against demons, <a href="../../../../ancestry/devil/">devils</a>, undead, and creatures not native to your current world. If you know the target&#39;s true name, this ability has a double <a href="../../../../rule/dice/edge/">edge</a>. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> while banished, they are lost to the timescape.</p></div>
+<div class="sc-ability__section-body"><p>This ability gains an <a href="../../../../rule/dice/edge/">edge</a> against demons, <a href="../../../../ancestry/devil/">devils</a>, undead, and creatures not native to your current world. If you know the target&#39;s true name, this ability has a double <a href="../../../../rule/dice/edge/">edge</a>. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make <a href="../../../../rule/general/saving-throw/">saving throws</a>, and takes 10 holy damage each time they do so. If the target is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> while banished, they are lost to the timescape.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -74,13 +69,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + P psychic damage; P &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + P psychic damage; P &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + P psychic damage; P &lt; STRONG, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 7 + P psychic damage; P &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>12-16:</b> 10 + P psychic damage; P &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>17+:</b> 13 + P psychic damage; P &lt; STRONG, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -116,11 +106,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target makes a power roll.</p></div>
+<div class="sc-ability__section-body"><p>The target makes a <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within <a href="../../../../rule/combat/distance/">distance</a>, who obtains the opposite outcome on their next power roll.</p></div>
+<div class="sc-ability__section-body"><p>The target obtains a tier 1 or tier 3 outcome on their <a href="../../../../rule/dice/power-roll/">power roll</a> (your choice). You can then choose another target within <a href="../../../../rule/combat/distance/">distance</a>, who obtains the opposite outcome on their next <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
@@ -144,7 +134,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double <a href="../../../../rule/dice/edge/">edge</a> on power rolls.</p></div>
+<div class="sc-ability__section-body"><p>The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a>.</p></div>
 </div>
 </article>
 </div>
@@ -174,13 +164,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">13 + M holy damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">19 + M holy damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">26 + M holy damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 13 + M holy damage</li><li><b>12-16:</b> 19 + M holy damage</li><li><b>17+:</b> 26 + M holy damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -199,7 +184,7 @@ type: feature
 <p class="sc-ability__flavor">You and your allies are clad in shimmering armor.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following triggered actions. (<em>Quick Build:</em> <a href="../../../ability/conduit/level-1/word-of-guidance/">Word of Guidance</a>.)</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one of the following <a href="../../../../rule/combat/triggered-action/">triggered actions</a>. (<em>Quick Build:</em> <a href="../../../ability/conduit/level-1/word-of-guidance/">Word of Guidance</a>.)</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="triggered">
 <div class="sc-ability__head">
@@ -39,13 +39,13 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target makes an ability roll for a damage-dealing ability.</p></div>
+<div class="sc-ability__section-body"><p>The target makes an <a href="../../../../rule/dice/ability-roll/">ability roll</a> for a damage-dealing ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The power roll gains an <a href="../../../../rule/dice/edge/">edge</a>.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../rule/dice/power-roll/">power roll</a> gains an <a href="../../../../rule/dice/edge/">edge</a>.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The power roll has a double <a href="../../../../rule/dice/edge/">edge</a>.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The <a href="../../../../rule/dice/power-roll/">power roll</a> has a double <a href="../../../../rule/dice/edge/">edge</a>.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
 <div class="sc-ability__head">
@@ -64,13 +64,13 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target would take damage from an ability that uses a power roll.</p></div>
+<div class="sc-ability__section-body"><p>The target would take damage from an ability that uses a <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The power roll takes a <a href="../../../../rule/dice/bane/">bane</a> against the target.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../rule/dice/power-roll/">power roll</a> takes a <a href="../../../../rule/dice/bane/">bane</a> against the target.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The power roll has a double <a href="../../../../rule/dice/bane/">bane</a> against the target.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The <a href="../../../../rule/dice/power-roll/">power roll</a> has a double <a href="../../../../rule/dice/bane/">bane</a> against the target.</span></div>
 </article>
 </div>
 </div>

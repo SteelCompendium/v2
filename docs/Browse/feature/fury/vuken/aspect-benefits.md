@@ -19,6 +19,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you use the <a href="../../../common/maneuvers/knockback/">Knockback</a> maneuver, you can then use the <a href="../../../common/maneuvers/aid-attack/">Aid Attack</a> maneuver as a free triggered action.</p>
+<p>Whenever you use the <a href="../../../common/maneuvers/knockback/">Knockback</a> maneuver, you can then use the <a href="../../../common/maneuvers/aid-attack/">Aid Attack</a> maneuver as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p>
 </div>
 </section>

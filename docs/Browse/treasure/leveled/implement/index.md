@@ -13,8 +13,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A diamond ring</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="brittlebreaker/" aria-label="Brittlebreaker"></a>
@@ -26,8 +24,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A handful of shattered quartz</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="chaldorb/" aria-label="Chaldorb"></a>
@@ -39,8 +35,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> An ounce of primordial ice, an ounce of mammoth-ivory shards</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Zaliac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="ether-fueled-vessel/" aria-label="Ether-Fueled Vessel"></a>
@@ -52,8 +46,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Incense distilled from the essence of ether</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="foesense-lenses/" aria-label="Foesense Lenses"></a>
@@ -65,8 +57,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Two clear lenses carved from volcanic glass</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="words-become-wonders-at-next-breath/" aria-label="Words Become Wonders at Next Breath"></a>
@@ -78,7 +68,5 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Written permission from a <a href="../../../ancestry/high-elf/">high elf</a> magistrate</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Hyrallic</div>
 </div>
 </div>

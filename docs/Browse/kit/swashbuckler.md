@@ -4,7 +4,6 @@ equipment_text: You wear light armor and wield a medium weapon.
 melee_damage_bonus: +2/+2/+2
 name: Swashbuckler
 scc: mcdm.heroes.v1/kit/swashbuckler
-speed_bonus: "+3"
 type: kit
 ---
 
@@ -20,9 +19,9 @@ You wear light armor and wield a medium weapon.
 
 ## Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +3 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +3 per [echelon](../rule/general/echelon.md)
 
-**Speed Bonus:** +3
+**[Speed](../rule/character/speed.md) Bonus:** +3
 
 **Melee Damage Bonus:** +2/+2/+2
 
@@ -38,7 +37,7 @@ You wear light armor and wield a medium weapon.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 5 + M or A damage
 - **12-16:** 7 + M or A damage; push 1

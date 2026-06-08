@@ -9,7 +9,7 @@ keywords:
 level: "1"
 name: Overwatch
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/overwatch
-spend: '1 Focus: If the target has R < AVERAGE, they are [slowed](../../../../condition/slowed.md) (EoT).'
+spend: '1 Focus: If the target has R < AVERAGE, they are [slowed](../../../../condition/slowed.md) ([EoT](../../../../rule/combat/end-of-turn.md)).'
 subtype: triggered
 target: One creature
 trigger: The target moves.
@@ -43,5 +43,5 @@ type: ability
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>At any time during the target&#39;s movement, one ally can make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against them.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the target has R &lt; AVERAGE, they are <a href="../../../../../condition/slowed/">slowed</a> (EoT).</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the target has R &lt; AVERAGE, they are <a href="../../../../../condition/slowed/">slowed</a> (<a href="../../../../../rule/combat/end-of-turn/">EoT</a>).</span></div>
 </article>

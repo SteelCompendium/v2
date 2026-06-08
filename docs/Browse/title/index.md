@@ -89,7 +89,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">City Rat</div></div></div>
   <div class="sc-card__flavor">Stay out all night, visit the dives. Get in a fight, run from the cops. That&#39;s the real city.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have spent at least five respites in a metropolis.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have spent at least five [respites](../rule/resource/respite.md) in a metropolis.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="corsair/" aria-label="Corsair"></a>
@@ -272,7 +272,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Marshal</div></div></div>
   <div class="sc-card__flavor">I said you had twenty-four hours to leave town. That was... what, about twenty-four hours ago?</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You join an organization that hunts criminals, such as the Far Mariners (see Orden and the Timescape in Chapter 1: [The Basics](../../Read/heroes/the-basics.md)), or you are deputized to act for the local authorities.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You join an organization that hunts criminals, such as the Far Mariners (see [Orden](../rule/world/orden.md) and the Timescape in Chapter 1: [The Basics](../../Read/heroes/the-basics.md)), or you are deputized to act for the local authorities.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="master-crafter/" aria-label="Master Crafter"></a>
@@ -439,7 +439,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Tireless</div></div></div>
   <div class="sc-card__flavor">To reach Giant&#39;s Foot by dawn, we&#39;ll have to run every step of the way. Let&#39;s get moving.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Unstoppable](unstoppable.md) title, and you make or assist on a test as part of a montage test that obtains a full success.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Unstoppable](unstoppable.md) title, and you make or assist on a [test](../rule/test/test.md) as part of a [montage test](../rule/test/montage-test.md) that obtains a full success.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="troupe-leading-player/" aria-label="Troupe Leading Player"></a>

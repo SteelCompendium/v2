@@ -13,8 +13,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A pint of blue ichor, soul chalk</div>
-  <div class="sc-card__line"><b>Source</b> Licensing agreements in Anjali</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="color-cloak-red/" aria-label="Color Cloak (Red)"></a>
@@ -26,8 +24,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A pint of red ichor, soul chalk</div>
-  <div class="sc-card__line"><b>Source</b> Licensing agreements in Anjali</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="color-cloak-yellow/" aria-label="Color Cloak (Yellow)"></a>
@@ -39,8 +35,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A pint of yellow ichor, soul chalk</div>
-  <div class="sc-card__line"><b>Source</b> Licensing agreements in Anjali</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="deadweight/" aria-label="Deadweight"></a>
@@ -52,8 +46,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> One humanoid femur, one bar of lead laced with starmetal</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="displacing-replacement-bracer/" aria-label="Displacing Replacement Bracer"></a>
@@ -65,8 +57,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Petrified wood from a tree that has not been observed since falling</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Zaliac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="divine-vine/" aria-label="Divine Vine"></a>
@@ -78,8 +68,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Three withered mundane vines, a tree's blessing</div>
-  <div class="sc-card__line"><b>Source</b> Songs in Yllyric</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="flameshade-gloves/" aria-label="Flameshade Gloves"></a>
@@ -91,8 +79,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A humanoid's shadow disconnected from its source</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Khelt</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="gecko-gloves/" aria-label="Gecko Gloves"></a>
@@ -104,8 +90,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Ten gecko tails</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="hellcharger-helm/" aria-label="Hellcharger Helm"></a>
@@ -117,8 +101,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> One broken contract, one ingot of steel</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Anjali and Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="mask-of-the-many/" aria-label="Mask of the Many"></a>
@@ -130,8 +112,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> One used death shroud</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="precious-collar/" aria-label="Precious Collar"></a>
@@ -155,8 +135,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> One uncut opal</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="ruby-ring-of-recall/" aria-label="Ruby Ring of Recall"></a>
@@ -196,7 +174,5 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> One battered gold chain of at least fifty links</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 </div>

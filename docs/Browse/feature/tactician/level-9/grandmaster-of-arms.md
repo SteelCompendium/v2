@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">9</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a <a href="../../../common/main-actions/free-strike/">free strike</a> using a weapon from one of your equipped kits, you automatically obtain a tier 3 outcome on the power roll. You can still roll to determine if you score a critical hit.</p>
+<p>Your expertise with weapons has grown to true mastery. Whenever you use a <a href="../../../../rule/combat/signature-ability/">signature ability</a> from one of your equipped kits or make a <a href="../../../common/main-actions/free-strike/">free strike</a> using a weapon from one of your equipped kits, you automatically obtain a tier 3 outcome on the <a href="../../../../rule/dice/power-roll/">power roll</a>. You can still roll to determine if you score a <a href="../../../../rule/combat/critical-hit/">critical hit</a>.</p>
 </div>
 </section>

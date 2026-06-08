@@ -1,12 +1,9 @@
 ---
-average_potency: '[Might](../rule/character/might.md) − 1'
 name: Fury
 scc: mcdm.heroes.v1/class/fury
 skills:
     - 'You gain the [Nature](../skill/nature.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Alertness, Jump, Nature.)'
-strong_potency: '[Might](../rule/character/might.md)'
 type: class
-weak_potency: '[Might](../rule/character/might.md) − 2'
 ---
 
 # Fury
@@ -29,11 +26,11 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 - 1, 1, −1
 - 1, 0, 0
 
-**Weak Potency:** [Might](../rule/character/might.md) − 2
+**Weak [Potency](../rule/character/potency.md):** [Might](../rule/character/might.md) − 2
 
-**Average Potency:** [Might](../rule/character/might.md) − 1
+**Average [Potency](../rule/character/potency.md):** [Might](../rule/character/might.md) − 1
 
-**Strong Potency:** [Might](../rule/character/might.md)
+**Strong [Potency](../rule/character/potency.md):** [Might](../rule/character/might.md)
 
 **Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 21
 
@@ -70,7 +67,7 @@ You are a product of customs older than warfare, older than civilization, older 
 - **Reaver:** You channel your ferocity into instinct and cunning, challenging the order of civilization. You have the [Hide](../skill/hide.md) skill.
 - **Stormwight:** You channel your ferocity into primordial storms and can take on the form of an animal or an animal hybrid form. You have the [Track](../skill/track.md) skill.
 
-Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) is your subclass, and your choice of aspect determines many of the features you'll gain as you gain new levels.
+Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) is your [subclass](../rule/general/subclass.md), and your choice of aspect determines many of the features you'll gain as you gain new levels.
 
 ### Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-1/ferocity"}
 
@@ -82,7 +79,7 @@ Within the heat of battle, your determination and anger grow, fueling a [Heroic 
 
 #### Ferocity in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain ferocity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 ferocity.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain ferocity equal to your [Victories](../rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 ferocity.
 
 Additionally, the first time each combat round that you take damage, you gain 1 ferocity. The first time you become [winded](../rule/health/winded.md) or are [dying](../rule/health/dying.md) in an encounter, you gain 1d3 ferocity.
 
@@ -90,9 +87,9 @@ You lose any remaining ferocity at the end of the encounter.
 
 #### Ferocity Outside of Combat
 
-Though you can't gain ferocity outside of combat, you can use your heroic abilities and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain ferocity outside of combat, you can use your [heroic abilities](../rule/general/heroic-ability.md) and effects that cost ferocity without spending it. Whenever you use an ability or effect outside of combat that costs ferocity, you can't use that same ability or effect outside of combat again until you earn 1 or more [Victories](../rule/resource/victories.md) or finish a [respite](../rule/resource/respite.md).
 
-When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as [To the Uttermost End](../feature/ability/fury/level-1/to-the-uttermost-end.md), you can use it as if you had spent an amount of ferocity equal to your Victories.
+When you use an ability outside of combat that lets you spend unlimited ferocity on its effect, such as [To the Uttermost End](../feature/ability/fury/level-1/to-the-uttermost-end.md), you can use it as if you had spent an amount of ferocity equal to your [Victories](../rule/resource/victories.md).
 
 ### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-1/growing-ferocity"}
 
@@ -106,10 +103,10 @@ Some [Growing Ferocity](../feature/fury/boren/growing-ferocity.md) benefits can 
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Might](../rule/character/might.md) score.                                                                                                                 |
 | 4               | The first time you push a creature on a turn, you gain 1 [surge](../rule/resource/surge.md).                                                                                                                                                                |
-| 6               | You gain an [edge](../rule/dice/edge.md) on [Might](../rule/character/might.md) tests and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
+| 6               | You gain an [edge](../rule/dice/edge.md) on [Might](../rule/character/might.md) [tests](../rule/test/test.md) and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
 | 8 (4th level)   | The first time you push a creature on a turn, you gain 2 [surges](../rule/resource/surge.md).                                                                                                                                                               |
-| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on [Might](../rule/character/might.md) tests and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Might](../rule/character/might.md) score. |
+| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on [Might](../rule/character/might.md) [tests](../rule/test/test.md) and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
+| 12 (10th level) | Whenever you use a [heroic ability](../rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, whenever you make a [power roll](../rule/dice/power-roll.md) that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Might](../rule/character/might.md) score. |
 
 ##### Reaver Growing Ferocity Table
 
@@ -117,10 +114,10 @@ Some [Growing Ferocity](../feature/fury/boren/growing-ferocity.md) benefits can 
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Agility](../rule/character/agility.md) score.                                                                                                                 |
 | 4               | The first time you slide a creature on a turn, you gain 1 [surge](../rule/resource/surge.md).                                                                                                                                                                 |
-| 6               | You gain an [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) tests and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
+| 6               | You gain an [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) [tests](../rule/test/test.md) and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
 | 8 (4th level)   | The first time you slide a creature on a turn, you gain 2 [surges](../rule/resource/surge.md).                                                                                                                                                                |
-| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) tests and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Agility](../rule/character/agility.md) score. |
+| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) [tests](../rule/test/test.md) and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
+| 12 (10th level) | Whenever you use a [heroic ability](../rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, whenever you make a [power roll](../rule/dice/power-roll.md) that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Agility](../rule/character/agility.md) score. |
 
 ### 1st-Level Aspect Features {data-scc="mcdm.heroes.v1/feature.fury.level-1/1st-level-aspect-features"}
 
@@ -144,7 +141,7 @@ You can use and gain the benefits of a kit. See Chapter 6: [Kits](../../Read/her
 
 #### Primordial Cunning {data-scc="mcdm.heroes.v1/feature.fury.level-1/primordial-cunning"}
 
-You are never surprised. Additionally, whenever you would push a target with [forced movement](../movement/forced-movement.md), you can slide them instead.
+You are never [surprised](../rule/combat/surprised.md). Additionally, whenever you would push a target with [forced movement](../movement/forced-movement.md), you can slide them instead.
 
 As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../feature/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -156,15 +153,15 @@ As your ferocity grows, you gain benefits as noted on the Berserker [Growing Fer
 
 #### Relentless Hunter {data-scc="mcdm.heroes.v1/feature.fury.level-1/relentless-hunter"}
 
-You gain an [edge](../rule/dice/edge.md) on tests made using the [Track](../skill/track.md) skill.
+You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the [Track](../skill/track.md) skill.
 
 ### Aspect Triggered Action {data-scc="mcdm.heroes.v1/feature.fury.level-1/aspect-triggered-action"}
 
-Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) grants you a triggered action, as shown on the Aspect Triggered Actions table.
+Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) grants you a [triggered action](../rule/combat/triggered-action.md), as shown on the Aspect [Triggered Actions](../rule/combat/triggered-action.md) table.
 
 ##### Aspect Triggered Actions Table
 
-| Aspect                   | Triggered Action   |
+| Aspect                   | [Triggered Action](../rule/combat/triggered-action.md)   |
 |--------------------------|--------------------|
 | Berserker                | [Lines of Force](../feature/ability/fury/level-1/lines-of-force.md)     |
 | Reaver                   | [Unearthly Reflexes](../feature/ability/fury/level-1/unearthly-reflexes.md) |
@@ -213,11 +210,11 @@ Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) grants yo
 
 **Effect:** You take half the damage from the triggering effect and can [shift](../movement/shifting.md) up to a number of squares equal to your [Agility](../rule/character/agility.md) score.
 
-**Spend 1 Ferocity:** If the damage has any potency effects associated with it, the potency is reduced by 1 for you.
+**Spend 1 Ferocity:** If the damage has any [potency](../rule/character/potency.md) effects associated with it, the [potency](../rule/character/potency.md) is reduced by 1 for you.
 
 ### Mighty Leaps {data-scc="mcdm.heroes.v1/feature.fury.level-1/mighty-leaps"}
 
-You can't obtain lower than a tier 2 outcome on any [Might](../rule/character/might.md) test made to jump (see Movement Types in Chapter 10: [Combat](../../Read/heroes/combat.md)).
+You can't obtain lower than a tier 2 outcome on any [Might](../rule/character/might.md) [test](../rule/test/test.md) made to jump (see Movement Types in Chapter 10: [Combat](../../Read/heroes/combat.md)).
 
 ### Fury Abilities {data-scc="mcdm.heroes.v1/feature.fury.level-1/fury-abilities"}
 
@@ -225,7 +222,7 @@ You specialize in dealing massive damage on the battlefield, and have mastered u
 
 #### Signature Ability
 
-Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* [To the Death](../feature/ability/fury/level-1/to-the-death.md)!)
+Choose one [signature ability](../rule/combat/signature-ability.md) from the following options. [Signature abilities](../rule/combat/signature-ability.md) can be used at will. (*Quick Build:* [To the Death](../feature/ability/fury/level-1/to-the-death.md)!)
 
 ##### Brutal Slam {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/brutal-slam"}
 
@@ -236,7 +233,7 @@ Choose one signature ability from the following options. Signature abilities can
 |---------------------------|-------------------------------:|
 | **📏 Melee 1**            |  **🎯 One creature or object** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; push 1
 - **12-16:** 6 + M damage; push 2
@@ -251,7 +248,7 @@ Choose one signature ability from the following options. Signature abilities can
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 2 + M damage
 - **12-16:** 5 + M damage
@@ -268,7 +265,7 @@ Choose one signature ability from the following options. Signature abilities can
 |---------------------------|--------------------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature of your [size](../rule/character/size.md) or smaller** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 2 + M damage; M < WEAK, [grabbed](../condition/grabbed.md)
 - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../condition/grabbed.md)
@@ -283,21 +280,21 @@ Choose one signature ability from the following options. Signature abilities can
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 3 + M damage
 - **12-16:** 6 + M damage
 - **17+:** 9 + M damage
 
-**Effect:** You gain 2 [surges](../rule/resource/surge.md), and the target can make an opportunity attack against you as a free triggered action.
+**Effect:** You gain 2 [surges](../rule/resource/surge.md), and the target can make an [opportunity attack](../rule/combat/opportunity-attack.md) against you as a free [triggered action](../rule/combat/triggered-action.md).
 
 #### Heroic Abilities
 
-You fight with an array of heroic abilities, all of which cost ferocity to fuel them.
+You fight with an array of [heroic abilities](../rule/general/heroic-ability.md), all of which cost ferocity to fuel them.
 
 ##### 3-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
+Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
 
 ##### Back! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/back"}
 
@@ -306,9 +303,9 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 | **Area, Melee, Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
-| **📏 1 burst**          | **🎯 Each enemy in the area** |
+| **📏 1 [burst](../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 5 damage
 - **12-16:** 8 damage; push 1
@@ -323,13 +320,13 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; slide 2
 - **12-16:** 5 + M damage; slide 3
 - **17+:** 8 + M damage; slide 5
 
-**Effect:** When you slide the target, you can move into any square they leave. If you take damage from an opportunity attack by moving this way, the target takes the same damage.
+**Effect:** When you slide the target, you can move into any square they leave. If you take damage from an [opportunity attack](../rule/combat/opportunity-attack.md) by moving this way, the target takes the same damage.
 
 ##### Tide of Death {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/tide-of-death"}
 
@@ -340,15 +337,15 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You move up to your speed in a straight line, and enemy squares are not [difficult terrain](../movement/difficult-terrain.md) for this movement. You can end this movement in a creature's space and move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
+**Effect:** You move up to your [speed](../rule/character/speed.md) in a straight line, and enemy squares are not [difficult terrain](../movement/difficult-terrain.md) for this movement. You can end this movement in a creature's space and move them to an adjacent unoccupied space. You make one [power roll](../rule/dice/power-roll.md) that targets each enemy whose space you move through.
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 3 damage
 - **17+:** 5 damage
 
-**Effect:** The last target you damage takes extra damage equal to your [Might](../rule/character/might.md) score for each opportunity attack you trigger during your move.
+**Effect:** The last target you damage takes extra damage equal to your [Might](../rule/character/might.md) score for each [opportunity attack](../rule/combat/opportunity-attack.md) you trigger during your move.
 
 ##### Your Entrails Are Your Extrails! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/your-entrails-are-your-extrails"}
 
@@ -359,7 +356,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; M < WEAK, [bleeding](../condition/bleeding.md) (save ends)
 - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../condition/bleeding.md) (save ends)
@@ -369,7 +366,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 ##### 5-Ferocity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](../feature/ability/fury/level-1/blood-for-blood.md)!)
+Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 5 ferocity to use. (*Quick Build:* [Blood for Blood](../feature/ability/fury/level-1/blood-for-blood.md)!)
 
 ##### Blood for Blood! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/blood-for-blood"}
 
@@ -380,7 +377,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 |-----------------------------|------------------------------:|
 | **📏 Melee 1**              | **🎯 One creature or object** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 4 + M damage; M < WEAK, [bleeding](../condition/bleeding.md) and [weakened](../condition/weakened.md) (save ends)
 - **12-16:** 6 + M damage; M < AVERAGE, [bleeding](../condition/bleeding.md) and [weakened](../condition/weakened.md) (save ends)
@@ -393,11 +390,11 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 *Anger is your energy.*
 
-| **-**       | **Free maneuver** |
+| **-**       | **[Free maneuver](../rule/combat/free-maneuver.md)** |
 |-------------|------------------:|
 | **📏 Self** |       **🎯 Self** |
 
-**Effect:** You gain 1 [surge](../rule/resource/surge.md), and the next ability roll you make this turn automatically obtains a tier 3 outcome.
+**Effect:** You gain 1 [surge](../rule/resource/surge.md), and the next [ability roll](../rule/dice/ability-roll.md) you make this turn automatically obtains a tier 3 outcome.
 
 ##### Thunder Roar {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/thunder-roar"}
 
@@ -408,7 +405,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 6 damage; push 2
 - **12-16:** 9 damage; push 4
@@ -425,7 +422,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 7 + M damage
 - **12-16:** 11 + M damage
@@ -455,7 +452,7 @@ Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) grants yo
 
 #### Inescapable Wrath {data-scc="mcdm.heroes.v1/feature.fury.level-2/inescapable-wrath"}
 
-You have a bonus to speed equal to your [Agility](../rule/character/agility.md) score, and you ignore [difficult terrain](../movement/difficult-terrain.md).
+You have a bonus to [speed](../rule/character/speed.md) equal to your [Agility](../rule/character/agility.md) score, and you ignore [difficult terrain](../movement/difficult-terrain.md).
 
 #### Tooth and Claw {data-scc="mcdm.heroes.v1/feature.fury.level-2/tooth-and-claw"}
 
@@ -463,11 +460,11 @@ At the end of each of your turns, each enemy adjacent to you takes damage equal 
 
 #### Unstoppable Force {data-scc="mcdm.heroes.v1/feature.fury.level-2/unstoppable-force"}
 
-Whenever you use the [Charge](../feature/common/main-actions/charge.md) main action, you can use a [strike](../rule/combat/strike.md) signature ability or a [strike](../rule/combat/strike.md) heroic ability instead of a [free strike](../feature/common/main-actions/free-strike.md). Additionally, you can jump as part of your charge.
+Whenever you use the [Charge](../feature/common/main-actions/charge.md) main action, you can use a [strike](../rule/combat/strike.md) [signature ability](../rule/combat/signature-ability.md) or a [strike](../rule/combat/strike.md) [heroic ability](../rule/general/heroic-ability.md) instead of a [free strike](../feature/common/main-actions/free-strike.md). Additionally, you can jump as part of your charge.
 
 ### 2nd-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-2/2nd-level-aspect-ability"}
 
-Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) grants your choice of one of two [heroic abilities](../rule/general/heroic-ability.md).
 
 #### 2nd-Level Berserker Ability
 
@@ -482,7 +479,7 @@ Choose one of the following abilities.
 |-------------------|------------------------:|
 | **📏 Melee 1**    | **🎯 One willing ally** |
 
-**Effect:** You vertically push the target up to 4 squares. This [forced movement](../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../feature/common/main-actions/free-strike.md) that deals extra damage equal to your [Might](../rule/character/might.md) score.
+**Effect:** You vertically push the target up to 4 squares. This [forced movement](../movement/forced-movement.md) ignores the target's [stability](../rule/character/stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../feature/common/main-actions/free-strike.md) that deals extra damage equal to your [Might](../rule/character/might.md) score.
 
 ##### Wrecking Ball {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball"}
 
@@ -493,11 +490,11 @@ Choose one of the following abilities.
 |------------------------|-------------:|
 | **📏 Self; see below** |  **🎯 Self** |
 
-**Effect:** You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](../movement/difficult-terrain.md) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](../movement/difficult-terrain.md).
+**Effect:** You move up to your [speed](../rule/character/speed.md) in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](../movement/difficult-terrain.md) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](../movement/difficult-terrain.md).
 
-Additionally, you make one power roll that targets each enemy you move adjacent to during this movement.
+Additionally, you make one [power roll](../rule/dice/power-roll.md) that targets each enemy you move adjacent to during this movement.
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** Push 1
 - **12-16:** Push 2
@@ -516,7 +513,7 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 3 + M damage; P < WEAK, [dazed](../condition/dazed.md) and [frightened](../condition/frightened.md) (save ends)
 - **12-16:** 5 + M damage; P < AVERAGE, [dazed](../condition/dazed.md) and [frightened](../condition/frightened.md) (save ends)
@@ -531,9 +528,9 @@ Choose one of the following abilities.
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You [shift](../movement/shifting.md) up to your speed and make one power roll that targets up to three enemies you move adjacent to during this [shift](../movement/shifting.md).
+**Effect:** You [shift](../movement/shifting.md) up to your [speed](../rule/character/speed.md) and make one [power roll](../rule/dice/power-roll.md) that targets up to three enemies you move adjacent to during this [shift](../movement/shifting.md).
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 2 damage; A < WEAK, [dazed](../condition/dazed.md) (save ends)
 - **12-16:** 4 damage; A < AVERAGE, [dazed](../condition/dazed.md) (save ends)
@@ -552,13 +549,13 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 4 damage; I < WEAK, [slowed](../condition/slowed.md) (save ends)
 - **12-16:** 6 damage; I < AVERAGE, [slowed](../condition/slowed.md) (save ends)
 - **17+:** 10 damage; I < STRONG, [slowed](../condition/slowed.md) (save ends)
 
-**Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free triggered action to move.
+**Effect:** The target can't be hidden from you for 24 hours. Until the end of the encounter, whenever the target willingly moves, you can use a free [triggered action](../rule/combat/triggered-action.md) to move.
 
 ##### Visceral Roar {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/visceral-roar"}
 
@@ -567,9 +564,9 @@ Choose one of the following abilities.
 
 | **Area, Magic** |               **Main action** |
 |-----------------|------------------------------:|
-| **📏 2 burst**  | **🎯 Each enemy in the area** |
+| **📏 2 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 2 damage; push 1; M < WEAK, [dazed](../condition/dazed.md) (save ends)
 - **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](../condition/dazed.md) (save ends)
@@ -597,21 +594,21 @@ Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) grants yo
 
 You add your level to your effective [size](../rule/character/size.md) for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by [forced movement](../movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../condition/grabbed.md).
 
-Additionally, you have a bonus to stability equal to your [Might](../rule/character/might.md) score.
+Additionally, you have a bonus to [stability](../rule/character/stability.md) equal to your [Might](../rule/character/might.md) score.
 
 #### Nature's Knight {data-scc="mcdm.heroes.v1/feature.fury.level-3/natures-knight"}
 
 You can speak with animals and elementals. Additionally, you automatically sense the presence of animals and elementals within 10 squares of you, even if they are hidden.
 
-When you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown in a negotiation with an animal of your type while in [animal form](../complication/animal-form.md) (see [Stormwight Kits](../feature/fury/stormwight-kits/kit-features.md)).
+When you are in a negotiation with an animal or elemental, you treat your [Renown](../rule/resource/renown.md) as 1 higher than usual. This stacks with the increase to your effective [Renown](../rule/resource/renown.md) in a negotiation with an animal of your type while in [animal form](../complication/animal-form.md) (see [Stormwight Kits](../feature/fury/stormwight-kits/kit-features.md)).
 
 #### See Through Their Tricks {data-scc="mcdm.heroes.v1/feature.fury.level-3/see-through-their-tricks"}
 
-You have a double [edge](../rule/dice/edge.md) on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double [edge](../rule/dice/edge.md) on tests made to gamble!
+You have a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to gamble!
 
 ### 7-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.fury.level-3/7-ferocity-ability"}
 
-Choose one heroic ability from the following options, each of which costs 7 ferocity to use.
+Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 7 ferocity to use.
 
 #### Demon Unleashed {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/demon-unleashed"}
 
@@ -633,7 +630,7 @@ Choose one heroic ability from the following options, each of which costs 7 fero
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each creature you make a melee [strike](../rule/combat/strike.md) against who has P < AVERAGE is [taunted](../condition/taunted.md) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](../condition/taunted.md) by you, the ability deals extra damage equal to twice your [Might](../rule/character/might.md) score and increases its potency by 1.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each creature you make a melee [strike](../rule/combat/strike.md) against who has P < AVERAGE is [taunted](../condition/taunted.md) until the end of their next turn. Additionally, when you use an ability that deals [rolled damage](../rule/damage/rolled-damage.md) against any enemy [taunted](../condition/taunted.md) by you, the ability deals extra damage equal to twice your [Might](../rule/character/might.md) score and increases its [potency](../rule/character/potency.md) by 1.
 
 #### Steelbreaker {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/steelbreaker"}
 
@@ -715,11 +712,11 @@ You and each ally within 5 squares of you ignore negative effects from inclement
 
 #### Unfettered {data-scc="mcdm.heroes.v1/feature.fury.level-5/unfettered"}
 
-At the start of your turn, you can end any [restrained](../condition/restrained.md) condition on you. Additionally, you have a double [edge](../rule/dice/edge.md) on tests made to escape being confined or imprisoned.
+At the start of your turn, you can end any [restrained](../condition/restrained.md) condition on you. Additionally, you have a double [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to escape being confined or imprisoned.
 
 ### 9-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.fury.level-5/9-ferocity-ability"}
 
-Choose one heroic ability from the following options, each of which costs 9 ferocity to use.
+Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 9 ferocity to use.
 
 #### Debilitating Strike {data-scc="mcdm.heroes.v1/feature.ability.fury.level-5/debilitating-strike"}
 
@@ -730,7 +727,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 10 + M damage; M < WEAK, [slowed](../condition/slowed.md) (save ends)
 - **12-16:** 14 + M damage; M < AVERAGE, [slowed](../condition/slowed.md) (save ends)
@@ -749,7 +746,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 **Trigger:** A creature causes you to be [winded](../rule/health/winded.md) or [dying](../rule/health/dying.md), or damages you while you are [winded](../rule/health/winded.md) or [dying](../rule/health/dying.md).
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 6 + M damage
 - **12-16:** 9 + M damage
@@ -766,7 +763,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 |---------------------------|--------------------------------:|
 | **📏 Melee 1**            | **🎯 Two creatures or objects** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 9 damage; push 3
 - **12-16:** 14 damage; push 5
@@ -783,13 +780,13 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 |----------------------------------|--------------------:|
 | **📏 Melee 1**                   | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 9 + M damage; M < WEAK, [slowed](../condition/slowed.md) (save ends)
 - **12-16:** 13 + M damage; M < AVERAGE, [slowed](../condition/slowed.md) (save ends)
 - **17+:** 18 + M damage; M < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-**Effect:** While the target is [slowed](../condition/slowed.md) this way, any other effect that would make the target [slowed](../condition/slowed.md) instead makes them [restrained](../condition/restrained.md) by this ability. Additionally, a creature who fails the saving throw while [restrained](../condition/restrained.md) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
+**Effect:** While the target is [slowed](../condition/slowed.md) this way, any other effect that would make the target [slowed](../condition/slowed.md) instead makes them [restrained](../condition/restrained.md) by this ability. Additionally, a creature who fails the [saving throw](../rule/general/saving-throw.md) while [restrained](../condition/restrained.md) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
 
 ## 6th-Level Features
 
@@ -799,7 +796,7 @@ As a 6th-level [fury](fury.md), you gain the following features.
 
 As your connection to the power of the Primordial Chaos grows ever stronger, you automatically sense any elemental creatures or magic sources of elemental power, such as a lava pool or a lake overlapping with Quintessence, within 1 mile of you.
 
-Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your effective Renown provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../condition/frightened.md) of you (save ends).
+Additionally, you can speak with elemental creatures, and when you are in a negotiation with an elemental, you treat your [Renown](../rule/resource/renown.md) as 1 higher than usual. This stacks with the increase to your effective [Renown](../rule/resource/renown.md) provided by the Nature's Knight aspect feature (see 3rd-Level Features). When any elemental first becomes aware of you in combat, if they have P < AVERAGE, they are [frightened](../condition/frightened.md) of you (save ends).
 
 ### Primordial Portal {data-scc="mcdm.heroes.v1/feature.fury.level-6/primordial-portal"}
 
@@ -813,7 +810,7 @@ You gain one crafting, exploration, or intrigue perk of your choice.
 
 ### 6th-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-6/6th-level-aspect-ability"}
 
-Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) grants your choice of one of two [heroic abilities](../rule/general/heroic-ability.md).
 
 #### 6th-Level Berserker Abilities
 
@@ -828,9 +825,9 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You jump up to your maximum jump [distance](../rule/combat/distance.md) and make one power roll that targets each creature adjacent to the space where you land.
+**Effect:** You jump up to your maximum jump [distance](../rule/combat/distance.md) and make one [power roll](../rule/dice/power-roll.md) that targets each creature adjacent to the space where you land.
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 4 damage; push 1
 - **12-16:** 7 damage; push 2
@@ -845,7 +842,7 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 7 + M damage; push 3
 - **12-16:** 11 + M damage; push 5
@@ -868,7 +865,7 @@ Choose one of the following abilities.
 
 **Trigger:** You reduce a creature to 0 [Stamina](../rule/health/stamina.md) with a [strike](../rule/combat/strike.md).
 
-**Effect:** You target a creature adjacent to you with the same strike, using the same power roll as the triggering strike.
+**Effect:** You target a creature adjacent to you with the same strike, using the same [power roll](../rule/dice/power-roll.md) as the triggering strike.
 
 ##### Seek and Destroy {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/seek-and-destroy"}
 
@@ -879,9 +876,9 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Effect:** You [shift](../movement/shifting.md) up to your speed.
+**Effect:** You [shift](../movement/shifting.md) up to your [speed](../rule/character/speed.md).
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 4 + M damage; P < WEAK, [frightened](../condition/frightened.md) (save ends)
 - **12-16:** 6 + M damage; P < AVERAGE, [frightened](../condition/frightened.md) (save ends)
@@ -902,7 +899,7 @@ Choose one of the following abilities.
 |----------------------------------|--------------------:|
 | **📏 Melee 1**                   | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 8 damage; M < WEAK, [grabbed](../condition/grabbed.md)
 - **12-16:** 13 damage; M < AVERAGE, [grabbed](../condition/grabbed.md)
@@ -917,9 +914,9 @@ Choose one of the following abilities.
 
 | **Area, Magic** |                     **Maneuver** |
 |-----------------|---------------------------------:|
-| **📏 3 aura**   | **🎯 Each creature in the area** |
+| **📏 3 [aura](../rule/combat/aura.md)**   | **🎯 Each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each enemy target takes damage of your primordial [damage type](../rule/damage/damage-type.md) equal to twice your [Might](../rule/character/might.md) score at the end of each of your turns. Additionally, you can [fly](../movement/fly.md) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](../movement/fly.md) until the start of their next turn or until the effect ends.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each enemy target takes damage of your primordial [damage type](../rule/damage/damage-type.md) equal to twice your [Might](../rule/character/might.md) score at the end of each of your turns. Additionally, you can [fly](../movement/fly.md) while the [aura](../rule/combat/aura.md) is active. Each ally target who starts or ends their turn in the area can also [fly](../movement/fly.md) until the start of their next turn or until the effect ends.
 
 **Special:** When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a [primordial storm](../feature/fury/stormwight-kits/primordial-storm.md) that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.
 
@@ -971,19 +968,19 @@ Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) grants yo
 
 #### Menagerie {data-scc="mcdm.heroes.v1/feature.fury.level-8/menagerie"}
 
-You can use all [stormwight kits](../feature/fury/stormwight-kits/kit-features.md). During a respite, you can choose to swap your stormwight kit and still take another respite activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a test to track another creature, you can roll three dice and choose which two to use.
+You can use all [stormwight kits](../feature/fury/stormwight-kits/kit-features.md). During a [respite](../rule/resource/respite.md), you can choose to swap your stormwight kit and still take another [respite](../rule/resource/respite.md) activity. Your Nature's Knight feature now lets you automatically sense the presence of animals within 1 mile of you. Additionally, whenever you make a [test](../rule/test/test.md) to track another creature, you can roll three dice and choose which two to use.
 
 #### A Step Ahead {data-scc="mcdm.heroes.v1/feature.fury.level-8/a-step-ahead"}
 
-You move with legendary grace. Whenever you make an [Agility](../rule/character/agility.md) test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](../feature/common/move-actions/disengage.md) move action, the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) gains a bonus equal to your [Agility](../rule/character/agility.md) score.
+You move with legendary grace. Whenever you make an [Agility](../rule/character/agility.md) [test](../rule/test/test.md), you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](../feature/common/move-actions/disengage.md) move action, the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) gains a bonus equal to your [Agility](../rule/character/agility.md) score.
 
 #### Strongest There Is {data-scc="mcdm.heroes.v1/feature.fury.level-8/strongest-there-is"}
 
-Your strength is unmatched. Whenever you make a [Might](../rule/character/might.md) test, you can roll three dice and choose which two to use. Additionally, whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Might](../rule/character/might.md) score.
+Your strength is unmatched. Whenever you make a [Might](../rule/character/might.md) [test](../rule/test/test.md), you can roll three dice and choose which two to use. Additionally, whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Might](../rule/character/might.md) score.
 
 ### 11-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.fury.level-8/11-ferocity-ability"}
 
-Choose one heroic ability from the following options, each of which costs 11 ferocity to use.
+Choose one [heroic ability](../rule/general/heroic-ability.md) from the following options, each of which costs 11 ferocity to use.
 
 #### Elemental Ferocity {data-scc="mcdm.heroes.v1/feature.ability.fury.level-8/elemental-ferocity"}
 
@@ -1005,7 +1002,7 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 |----------------------------------|--------------------:|
 | **📏 Melee 1**                   | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 6 + M damage
 - **12-16:** 10 + M damage
@@ -1033,9 +1030,9 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 |----------------------------------|----------------:|
 | **📏 Self; see below**           |     **🎯 Self** |
 
-**Effect:** You [shift](../movement/shifting.md) up to your speed. Each enemy you move adjacent to during this movement takes damage equal to twice your [Might](../rule/character/might.md) score. Then make one power roll that targets each enemy you move adjacent to during this [shift](../movement/shifting.md). You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).
+**Effect:** You [shift](../movement/shifting.md) up to your [speed](../rule/character/speed.md). Each enemy you move adjacent to during this movement takes damage equal to twice your [Might](../rule/character/might.md) score. Then make one [power roll](../rule/dice/power-roll.md) that targets each enemy you move adjacent to during this [shift](../movement/shifting.md). You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** Any target whose [Stamina](../rule/health/stamina.md) is equal to or less than 8 dies.
 - **12-16:** Any target whose [Stamina](../rule/health/stamina.md) is equal to or less than 11 dies.
@@ -1047,11 +1044,11 @@ As a 9th-level [fury](fury.md), you gain the following features.
 
 ### Harbinger of the Primordial Chaos {data-scc="mcdm.heroes.v1/feature.fury.level-9/harbinger-of-the-primordial-chaos"}
 
-You can create a temporary source of elemental power as a respite activity. This source of elemental power lasts 24 hours after creation, and can be used to create a portal to Quintessence with your [Primordial Portal](../feature/fury/level-6/primordial-portal.md) feature. If you do so, the source of elemental power lasts as long as the portal is maintained in your network.
+You can create a temporary source of elemental power as a [respite](../rule/resource/respite.md) activity. This source of elemental power lasts 24 hours after creation, and can be used to create a portal to Quintessence with your [Primordial Portal](../feature/fury/level-6/primordial-portal.md) feature. If you do so, the source of elemental power lasts as long as the portal is maintained in your network.
 
 ### 9th-Level Aspect Ability {data-scc="mcdm.heroes.v1/feature.fury.level-9/9th-level-aspect-ability"}
 
-Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) grants your choice of one of two heroic abilities.
+Your [primordial aspect](../feature/fury/level-1/primordial-aspect.md) grants your choice of one of two [heroic abilities](../rule/general/heroic-ability.md).
 
 #### 9th-Level Berserker Abilities
 
@@ -1064,9 +1061,9 @@ Choose one of the following abilities.
 
 | **Area, Magic, Melee, Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
-| **📏 3 burst**                 | **🎯 Each enemy in the area** |
+| **📏 3 [burst](../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 7 damage; push 3
 - **12-16:** 10 damage; push 5
@@ -1081,9 +1078,9 @@ Choose one of the following abilities.
 
 | **Area, Magic, Melee, Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
-| **📏 3 burst**                 | **🎯 Each enemy in the area** |
+| **📏 3 [burst](../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 3 damage; vertical pull 3
 - **12-16:** 5 damage; vertical pull 5
@@ -1104,7 +1101,7 @@ Choose one of the following abilities.
 |----------------------------------|--------------------:|
 | **📏 Melee 1**                   | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 11 + M damage
 - **12-16:** 16 + M damage
@@ -1121,13 +1118,13 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 12 + M damage
 - **12-16:** 18 + M damage
 - **17+:** 24 + M damage
 
-**Effect:** Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take triggered actions or free triggered actions, ability rolls made against them gain an [edge](../rule/dice/edge.md), and their [characteristic](../rule/character/characteristic.md) scores are considered 1 lower for the purpose of resisting potencies.
+**Effect:** Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take [triggered actions](../rule/combat/triggered-action.md) or free [triggered actions](../rule/combat/triggered-action.md), [ability rolls](../rule/dice/ability-roll.md) made against them gain an [edge](../rule/dice/edge.md), and their [characteristic](../rule/character/characteristic.md) scores are considered 1 lower for the purpose of resisting [potencies](../rule/character/potency.md).
 
 #### 9th-Level Stormwight Abilities
 
@@ -1140,9 +1137,9 @@ Choose one of the following abilities.
 
 | **Area, Magic** |               **Main action** |
 |-----------------|------------------------------:|
-| **📏 3 burst**  | **🎯 Each enemy in the area** |
+| **📏 3 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](../rule/health/stamina.md)
 - **12-16:** 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](../rule/health/stamina.md), as does one [winded](../rule/health/winded.md) target who is not a leader or solo creature
@@ -1155,9 +1152,9 @@ Choose one of the following abilities.
 
 | **Area, Magic, Ranged** |               **Main action** |
 |-------------------------|------------------------------:|
-| **📏 5 cube within 10** | **🎯 Each enemy in the area** |
+| **📏 5 [cube](../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 7 damage
 - **12-16:** 10 damage
@@ -1195,9 +1192,9 @@ The first time you take damage each combat round, you gain 3 ferocity instead of
 
 ### Primordial Power {data-scc="mcdm.heroes.v1/feature.fury.level-10/primordial-power"}
 
-You have an epic resource called [primordial power](../feature/fury/level-10/primordial-power.md). Each time you finish a respite, you gain [primordial power](../feature/fury/level-10/primordial-power.md) equal to the XP you gain. You can spend [primordial power](../feature/fury/level-10/primordial-power.md) on your abilities as if it were ferocity.
+You have an epic resource called [primordial power](../feature/fury/level-10/primordial-power.md). Each time you finish a [respite](../rule/resource/respite.md), you gain [primordial power](../feature/fury/level-10/primordial-power.md) equal to the [XP](../rule/resource/experience.md) you gain. You can spend [primordial power](../feature/fury/level-10/primordial-power.md) on your abilities as if it were ferocity.
 
-Additionally, you can spend any amount of [primordial power](../feature/fury/level-10/primordial-power.md) as a free maneuver, ending one effect on you for each [primordial power](../feature/fury/level-10/primordial-power.md) spent.
+Additionally, you can spend any amount of [primordial power](../feature/fury/level-10/primordial-power.md) as a [free maneuver](../rule/combat/free-maneuver.md), ending one effect on you for each [primordial power](../feature/fury/level-10/primordial-power.md) spent.
 
 You can also spend 3 [primordial power](../feature/fury/level-10/primordial-power.md) to create a portal to Quintessence without needing a source of elemental power.
 
@@ -1209,7 +1206,7 @@ You gain one skill of your choice.
 
 ## Stormwight Kits
 
-The stormwight [primordial aspect](../feature/fury/level-1/primordial-aspect.md) lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional [stormwight kits](../feature/fury/stormwight-kits/kit-features.md) through play, changing them out during a respite as with any other kit (see Chapter 6: [Kits](../../Read/heroes/kits.md)).
+The stormwight [primordial aspect](../feature/fury/level-1/primordial-aspect.md) lets you channel your ferocity into the form of an animal and grants you knowledge of one stormwight kit of your choice. You can master additional [stormwight kits](../feature/fury/stormwight-kits/kit-features.md) through play, changing them out during a [respite](../rule/resource/respite.md) as with any other kit (see Chapter 6: [Kits](../../Read/heroes/kits.md)).
 
 ### Kit Features {data-scc="mcdm.heroes.v1/feature.fury.stormwight-kits/kit-features"}
 
@@ -1232,9 +1229,9 @@ You have the following ability.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in [animal form](../complication/animal-form.md) or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in [animal form](../complication/animal-form.md), you treat your Renown as 2 higher than usual.
+**Effect:** You can shapeshift into the animal defined by your stormwight kit, into a hybrid form, or back into your true form. While in [animal form](../complication/animal-form.md) or hybrid form, you can speak as you usually do, and you can also speak to animals who share your form. If you are in a negotiation with an animal while in [animal form](../complication/animal-form.md), you treat your [Renown](../rule/resource/renown.md) as 2 higher than usual.
 
-**Spend 1 Ferocity:** As a free maneuver, you can shapeshift a second time, either into another [animal form](../complication/animal-form.md), into your hybrid form, or back into your true form.
+**Spend 1 Ferocity:** As a [free maneuver](../rule/combat/free-maneuver.md), you can shapeshift a second time, either into another [animal form](../complication/animal-form.md), into your hybrid form, or back into your true form.
 
 #### Primordial Storm {data-scc="mcdm.heroes.v1/feature.fury.stormwight-kits/primordial-storm"}
 
@@ -1250,7 +1247,7 @@ These bonuses apply in your true form, your [animal form](../complication/animal
 
 #### Signature Ability
 
-You gain a new signature ability from your kit.
+You gain a new [signature ability](../rule/combat/signature-ability.md) from your kit.
 
 #### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.stormwight-kits/growing-ferocity"}
 
@@ -1262,7 +1259,7 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 
 #### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.boren/aspect-benefits"}
 
-Whenever you use [forced movement](../movement/forced-movement.md) to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free triggered action to make that creature [grabbed](../condition/grabbed.md) by you.
+Whenever you use [forced movement](../movement/forced-movement.md) to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free [triggered action](../rule/combat/triggered-action.md) to make that creature [grabbed](../condition/grabbed.md) by you.
 
 #### Animal Form: Bear {data-scc="mcdm.heroes.v1/feature.fury.boren/animal-form-bear"}
 
@@ -1278,8 +1275,8 @@ Your primordial [damage type](../rule/damage/damage-type.md) is cold.
 
 #### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.boren/kit-bonuses"}
 
-- **[Stamina](../rule/health/stamina.md) Bonus:** +9 per echelon
-- **Stability Bonus:** +2
+- **[Stamina](../rule/health/stamina.md) Bonus:** +9 per [echelon](../rule/general/echelon.md)
+- **[Stability](../rule/character/stability.md) Bonus:** +2
 - **Melee Damage Bonus:** +0/+0/+4
 
 #### Signature Ability
@@ -1292,7 +1289,7 @@ Your primordial [damage type](../rule/damage/damage-type.md) is cold.
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 2 + M damage; M < WEAK, [grabbed](../condition/grabbed.md)
 - **12-16:** 5 + M damage; M < AVERAGE, [grabbed](../condition/grabbed.md)
@@ -1311,7 +1308,7 @@ As your ferocity grows, you gain benefits as noted on the [Boren](../kit/boren.m
 | 6               | You gain an [edge](../rule/dice/edge.md) on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                                                     |
 | 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 [surges](../rule/resource/surge.md) instead of 1.                                                                                                                                             |
 | 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                                               |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, whenever you have a creature [grabbed](../condition/grabbed.md), any ability roll made against that creature gains a bonus to its potency equal to your [Might](../rule/character/might.md) score. |
+| 12 (10th level) | Whenever you use a [heroic ability](../rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, whenever you have a creature [grabbed](../condition/grabbed.md), any [ability roll](../rule/dice/ability-roll.md) made against that creature gains a bonus to its [potency](../rule/character/potency.md) equal to your [Might](../rule/character/might.md) score. |
 
 ### Corven {data-scc="mcdm.heroes.v1/kit/corven"}
 
@@ -1319,11 +1316,11 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 
 #### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.corven/aspect-benefits"}
 
-You gain an [edge](../rule/dice/edge.md) on tests made to hide and sneak. Additionally, whenever you fall, you can use a free triggered action to use your [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md) ability.
+You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to hide and sneak. Additionally, whenever you fall, you can use a free [triggered action](../rule/combat/triggered-action.md) to use your [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md) ability.
 
 #### Animal Form: Crow {data-scc="mcdm.heroes.v1/feature.fury.corven/animal-form-crow"}
 
-While you are in your crow form, your [size](../rule/character/size.md) is 1T and you can [fly](../movement/fly.md). You can use the [Hide](../feature/common/maneuvers/hide.md) maneuver as a free maneuver, and you can use your allies as [cover](../rule/combat/cover.md) when you hide. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md).
+While you are in your crow form, your [size](../rule/character/size.md) is 1T and you can [fly](../movement/fly.md). You can use the [Hide](../feature/common/maneuvers/hide.md) maneuver as a [free maneuver](../rule/combat/free-maneuver.md), and you can use your allies as [cover](../rule/combat/cover.md) when you hide. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md).
 
 #### Hybrid Form: Crow {data-scc="mcdm.heroes.v1/feature.fury.corven/hybrid-form-crow"}
 
@@ -1335,8 +1332,8 @@ Your primordial [damage type](../rule/damage/damage-type.md) is fire.
 
 #### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.corven/kit-bonuses"}
 
-- **[Stamina](../rule/health/stamina.md) Bonus:** +3 per echelon
-- **Speed Bonus:** +3
+- **[Stamina](../rule/health/stamina.md) Bonus:** +3 per [echelon](../rule/general/echelon.md)
+- **[Speed](../rule/character/speed.md) Bonus:** +3
 - **Melee Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
@@ -1348,15 +1345,15 @@ Your primordial [damage type](../rule/damage/damage-type.md) is fire.
 
 | **Area, Melee, Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
-| **📏 1 burst**          | **🎯 Each enemy in the area** |
+| **📏 1 [burst](../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 
-**Power Roll + [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 3 damage
 - **12-16:** 6 damage
 - **17+:** 8 damage
 
-**Effect:** You can [shift](../movement/shifting.md) up to 2 squares before or after making the power roll.
+**Effect:** You can [shift](../movement/shifting.md) up to 2 squares before or after making the [power roll](../rule/dice/power-roll.md).
 
 #### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.corven/growing-ferocity"}
 
@@ -1368,10 +1365,10 @@ As your ferocity grows, you gain benefits as noted on the [Corven](../kit/corven
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Disengage](../feature/common/move-actions/disengage.md) move action, the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) gains a bonus equal to your [Agility](../rule/character/agility.md) score.                                 |
 | 4               | The first time you [shift](../movement/shifting.md) on a turn, you gain 1 [surge](../rule/resource/surge.md).                                                                                             |
-| 6               | You gain an [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) tests, the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                          |
+| 6               | You gain an [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) [tests](../rule/test/test.md), the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                          |
 | 8 (4th level)   | The first time you [shift](../movement/shifting.md) on a turn, you gain 2 [surges](../rule/resource/surge.md) instead of 1.                                                                               |
-| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) tests, the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                    |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, the potency of any effects targeting you is reduced by 2 for you. |
+| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) [tests](../rule/test/test.md), the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                    |
+| 12 (10th level) | Whenever you use a [heroic ability](../rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, the [potency](../rule/character/potency.md) of any effects targeting you is reduced by 2 for you. |
 
 ### Raden {data-scc="mcdm.heroes.v1/kit/raden"}
 
@@ -1379,15 +1376,15 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 
 #### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.raden/aspect-benefits"}
 
-You gain an [edge](../rule/dice/edge.md) on tests made to hide and sneak. Additionally, you ignore [difficult terrain](../movement/difficult-terrain.md).
+You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to hide and sneak. Additionally, you ignore [difficult terrain](../movement/difficult-terrain.md).
 
 #### Animal Form: Rat {data-scc="mcdm.heroes.v1/feature.fury.raden/animal-form-rat"}
 
-While you are in your rat form, your [size](../rule/character/size.md) is 1T and you can automatically climb at full speed while moving. You can use the [Hide](../feature/common/maneuvers/hide.md) maneuver as a free maneuver, you can use your allies as [cover](../rule/combat/cover.md) when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an [edge](../rule/dice/edge.md) on tests made to climb other creatures. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md).
+While you are in your rat form, your [size](../rule/character/size.md) is 1T and you can automatically climb at full [speed](../rule/character/speed.md) while moving. You can use the [Hide](../feature/common/maneuvers/hide.md) maneuver as a [free maneuver](../rule/combat/free-maneuver.md), you can use your allies as [cover](../rule/combat/cover.md) when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to climb other creatures. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md).
 
 #### Hybrid Form: Rat {data-scc="mcdm.heroes.v1/feature.fury.raden/hybrid-form-rat"}
 
-While you are in your hybrid form, your [size](../rule/character/size.md) is your choice of 1S or 1M. At 4th level, you can automatically climb at full speed while moving.
+While you are in your hybrid form, your [size](../rule/character/size.md) is your choice of 1S or 1M. At 4th level, you can automatically climb at full [speed](../rule/character/speed.md) while moving.
 
 #### Primordial Storm: Rat Flood {data-scc="mcdm.heroes.v1/feature.fury.raden/primordial-storm-rat-flood"}
 
@@ -1395,8 +1392,8 @@ Your primordial [damage type](../rule/damage/damage-type.md) is corruption.
 
 #### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.raden/kit-bonuses"}
 
-- **[Stamina](../rule/health/stamina.md) Bonus:** +3 per echelon
-- **Speed Bonus:** +3
+- **[Stamina](../rule/health/stamina.md) Bonus:** +3 per [echelon](../rule/general/echelon.md)
+- **[Speed](../rule/character/speed.md) Bonus:** +3
 - **Melee Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
@@ -1410,7 +1407,7 @@ Your primordial [damage type](../rule/damage/damage-type.md) is corruption.
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage
 - **12-16:** 7 + A damage; push 1
@@ -1428,10 +1425,10 @@ As your ferocity grows, you gain benefits as noted on the [Raden](../kit/raden.m
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Disengage](../feature/common/move-actions/disengage.md) move action, the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) gains a bonus equal to your [Agility](../rule/character/agility.md) score.                                 |
 | 4               | The first time you [shift](../movement/shifting.md) on a turn, you gain 1 [surge](../rule/resource/surge.md).                                                                                             |
-| 6               | You gain an [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) tests, the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                          |
+| 6               | You gain an [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) [tests](../rule/test/test.md), the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                          |
 | 8 (4th level)   | The first time you [shift](../movement/shifting.md) on a turn, you gain 2 [surges](../rule/resource/surge.md) instead of 1.                                                                               |
-| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) tests, the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver                                                     |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, the potency of any effects targeting you is reduced by 2 for you. |
+| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) [tests](../rule/test/test.md), the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver                                                     |
+| 12 (10th level) | Whenever you use a [heroic ability](../rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, the [potency](../rule/character/potency.md) of any effects targeting you is reduced by 2 for you. |
 
 ### Vuken {data-scc="mcdm.heroes.v1/kit/vuken"}
 
@@ -1439,15 +1436,15 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 
 #### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.vuken/aspect-benefits"}
 
-Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can then use the [Aid Attack](../feature/common/maneuvers/aid-attack.md) maneuver as a free triggered action.
+Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can then use the [Aid Attack](../feature/common/maneuvers/aid-attack.md) maneuver as a free [triggered action](../rule/combat/triggered-action.md).
 
 #### Animal Form: Wolf {data-scc="mcdm.heroes.v1/feature.fury.vuken/animal-form-wolf"}
 
-While you are in your wolf form, your [size](../rule/character/size.md) is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../movement/difficult-terrain.md).
+While you are in your wolf form, your [size](../rule/character/size.md) is 1L, you have a +2 bonus to [speed](../rule/character/speed.md), and you ignore [difficult terrain](../movement/difficult-terrain.md).
 
 #### Hybrid Form: Wolf {data-scc="mcdm.heroes.v1/feature.fury.vuken/hybrid-form-wolf"}
 
-While you are in your hybrid form, your [size](../rule/character/size.md) is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../movement/difficult-terrain.md). At 4th level, the first time you take hybrid form in an encounter, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md).
+While you are in your hybrid form, your [size](../rule/character/size.md) is 1L, you have a +2 bonus to [speed](../rule/character/speed.md), and you ignore [difficult terrain](../movement/difficult-terrain.md). At 4th level, the first time you take hybrid form in an encounter, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md).
 
 #### Primordial Storm: Lightning Storm {data-scc="mcdm.heroes.v1/feature.fury.vuken/primordial-storm-lightning-storm"}
 
@@ -1455,8 +1452,8 @@ Your primordial [damage type](../rule/damage/damage-type.md) is lightning.
 
 #### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.vuken/kit-bonuses"}
 
-- **[Stamina](../rule/health/stamina.md) Bonus:** +9 per echelon
-- **Speed Bonus:** +2
+- **[Stamina](../rule/health/stamina.md) Bonus:** +9 per [echelon](../rule/general/echelon.md)
+- **[Speed](../rule/character/speed.md) Bonus:** +2
 - **Melee Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
@@ -1470,7 +1467,7 @@ Your primordial [damage type](../rule/damage/damage-type.md) is lightning.
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + [Might](../rule/character/might.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
 - **≤11:** 4 + M damage; A < WEAK[, prone](../condition/prone.md)
 - **12-16:** 7 + M damage; A < AVERAGE[, prone](../condition/prone.md)
@@ -1486,7 +1483,7 @@ As your ferocity grows, you gain benefits as noted on the [Vuken](../kit/vuken.m
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature.                                                                                                                                                 |
 | 4               | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 1 [surge](../rule/resource/surge.md).                                                                                                                                   |
-| 6               | You gain an [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) tests and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
+| 6               | You gain an [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) [tests](../rule/test/test.md) and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
 | 8 (4th level)   | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 2 [surges](../rule/resource/surge.md).                                                                                                                                  |
-| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) tests and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Agility](../rule/character/agility.md) score. |
+| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) [tests](../rule/test/test.md) and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
+| 12 (10th level) | Whenever you use a [heroic ability](../rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, whenever you make a [power roll](../rule/dice/power-roll.md) that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Agility](../rule/character/agility.md) score. |

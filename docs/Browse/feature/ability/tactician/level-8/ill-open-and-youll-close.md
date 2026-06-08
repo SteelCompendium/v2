@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 11 Focus
 distance: Melee 1 or ranged 5
-effect: One ally within 10 squares of you can use a heroic ability against the target as a free triggered action without spending any of their [Heroic Resource](../../../../rule/resource/heroic-resource.md), as long as they have enough [Heroic Resource](../../../../rule/resource/heroic-resource.md) to pay for the ability. If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) before the chosen ally has used their ability, the ally can pick a different target.
+effect: One ally within 10 squares of you can use a [heroic ability](../../../../rule/general/heroic-ability.md) against the target as a free [triggered action](../../../../rule/combat/triggered-action.md) without spending any of their [Heroic Resource](../../../../rule/resource/heroic-resource.md), as long as they have enough [Heroic Resource](../../../../rule/resource/heroic-resource.md) to pay for the ability. If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) before the chosen ally has used their ability, the ally can pick a different target.
 flavor: You create an opening for an ally.
 keywords:
     - Melee
@@ -36,16 +36,11 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + M damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + M damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 6 + M damage</li><li><b>12-16:</b> 10 + M damage</li><li><b>17+:</b> 14 + M damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>One ally within 10 squares of you can use a heroic ability against the target as a free triggered action without spending any of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>, as long as they have enough <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a> to pay for the ability. If the target is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> before the chosen ally has used their ability, the ally can pick a different target.</p></div>
+<div class="sc-ability__section-body"><p>One ally within 10 squares of you can use a <a href="../../../../../rule/general/heroic-ability/">heroic ability</a> against the target as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a> without spending any of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>, as long as they have enough <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a> to pay for the ability. If the target is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> before the chosen ally has used their ability, the ally can pick a different target.</p></div>
 </div>
 </article>

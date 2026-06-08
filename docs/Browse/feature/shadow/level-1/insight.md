@@ -29,9 +29,9 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain insight equal to your Victories. At the start of each of your turns during combat, you gain 1d3 insight.</p>
+<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain insight equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your turns during combat, you gain 1d3 insight.</p>
 <p>Additionally, the first time each combat round that you deal damage incorporating 1 or more <a href="../../../../rule/resource/surge/">surges</a>, you gain 1 insight.</p>
-<p>Whenever you use a heroic ability that makes use of a power roll, that ability costs 1 fewer insight if you have an <a href="../../../../rule/dice/edge/">edge</a> or double <a href="../../../../rule/dice/edge/">edge</a> on it. If the ability has multiple targets, the cost is reduced even if the ability gains an <a href="../../../../rule/dice/edge/">edge</a> or has a double <a href="../../../../rule/dice/edge/">edge</a> against only one target.</p>
+<p>Whenever you use a <a href="../../../../rule/general/heroic-ability/">heroic ability</a> that makes use of a <a href="../../../../rule/dice/power-roll/">power roll</a>, that ability costs 1 fewer insight if you have an <a href="../../../../rule/dice/edge/">edge</a> or double <a href="../../../../rule/dice/edge/">edge</a> on it. If the ability has multiple targets, the cost is reduced even if the ability gains an <a href="../../../../rule/dice/edge/">edge</a> or has a double <a href="../../../../rule/dice/edge/">edge</a> against only one target.</p>
 <p>You lose any remaining insight at the end of the encounter.</p>
 </div>
 </section>
@@ -42,8 +42,8 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Although you can&#39;t gain insight outside of combat, you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.</p>
-<p>When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as <a href="../../../ability/shadow/level-1/black-ash-teleport/">Black Ash Teleport</a>, you can use it as if you had spent an amount of insight equal to your Victories.</p>
+<p>Although you can&#39;t gain insight outside of combat, you can use your <a href="../../../../rule/general/heroic-ability/">heroic abilities</a> and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can&#39;t use that same ability or effect outside of combat again until you earn 1 or more <a href="../../../../rule/resource/victories/">Victories</a> or finish a <a href="../../../../rule/resource/respite/">respite</a>.</p>
+<p>When you use an ability outside of combat that lets you spend unlimited insight on its effect, such as <a href="../../../ability/shadow/level-1/black-ash-teleport/">Black Ash Teleport</a>, you can use it as if you had spent an amount of insight equal to your <a href="../../../../rule/resource/victories/">Victories</a>.</p>
 </div>
 </section>
 </div>

@@ -39,9 +39,9 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain a +2 bonus to speed until the end of your turn. Additionally, the next power roll you make this turn can&#39;t have an outcome lower than tier 2.</p></div>
+<div class="sc-ability__section-body"><p>You gain a +2 bonus to <a href="../../../../rule/character/speed/">speed</a> until the end of your turn. Additionally, the next <a href="../../../../rule/dice/power-roll/">power roll</a> you make this turn can&#39;t have an outcome lower than tier 2.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">You gain a +4 bonus to speed instead.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">You gain a +4 bonus to <a href="../../../../rule/character/speed/">speed</a> instead.</span></div>
 </article>
 </div>
 </div>

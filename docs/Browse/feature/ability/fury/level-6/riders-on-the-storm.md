@@ -2,8 +2,8 @@
 action_type: Maneuver
 class: fury
 cost: 9 Ferocity
-distance: 3 aura
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each enemy target takes damage of your primordial [damage type](../../../../rule/damage/damage-type.md) equal to twice your [Might](../../../../rule/character/might.md) score at the end of each of your turns. Additionally, you can [fly](../../../../movement/fly.md) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](../../../../movement/fly.md) until the start of their next turn or until the effect ends.
+distance: 3 [aura](../../../../rule/combat/aura.md)
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each enemy target takes damage of your primordial [damage type](../../../../rule/damage/damage-type.md) equal to twice your [Might](../../../../rule/character/might.md) score at the end of each of your turns. Additionally, you can [fly](../../../../movement/fly.md) while the [aura](../../../../rule/combat/aura.md) is active. Each ally target who starts or ends their turn in the area can also [fly](../../../../movement/fly.md) until the start of their next turn or until the effect ends.
 flavor: You focus your connection to the Primordial Chaos into a seething storm.
 keywords:
     - Area
@@ -31,12 +31,12 @@ type: ability
 <p class="sc-ability__flavor">You focus your connection to the Primordial Chaos into a seething storm.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each enemy target takes damage of your primordial <a href="../../../../../rule/damage/damage-type/">damage type</a> equal to twice your <a href="../../../../../rule/character/might/">Might</a> score at the end of each of your turns. Additionally, you can <a href="../../../../../movement/fly/">fly</a> while the aura is active. Each ally target who starts or ends their turn in the area can also <a href="../../../../../movement/fly/">fly</a> until the start of their next turn or until the effect ends.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each enemy target takes damage of your primordial <a href="../../../../../rule/damage/damage-type/">damage type</a> equal to twice your <a href="../../../../../rule/character/might/">Might</a> score at the end of each of your turns. Additionally, you can <a href="../../../../../movement/fly/">fly</a> while the <a href="../../../../../rule/combat/aura/">aura</a> is active. Each ally target who starts or ends their turn in the area can also <a href="../../../../../movement/fly/">fly</a> until the start of their next turn or until the effect ends.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>

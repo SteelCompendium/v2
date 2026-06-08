@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>). Additionally, once you establish line of effect to a thinking creature within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/talent/level-1/mind-spike/">Mind Spike</a> ability, you always have line of effect to that creature until they move beyond that <a href="../../../../rule/combat/distance/">distance</a>.</p>
+<p>You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> (see Hide and Sneak in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>). Additionally, once you establish <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to a thinking creature within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/talent/level-1/mind-spike/">Mind Spike</a> ability, you always have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to that creature until they move beyond that <a href="../../../../rule/combat/distance/">distance</a>.</p>
 </div>
 </section>

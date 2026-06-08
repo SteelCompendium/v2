@@ -2,7 +2,7 @@
 action_type: Main action
 class: talent
 cost: 9 Clarity
-distance: 4 cube within 10
+distance: 4 [cube](../../../../rule/combat/cube.md) within 10
 effect: Targets closest to the center of the area are pulled first.
 flavor: You bend gravity into a fine point and pull your foes toward it.
 keywords:
@@ -33,16 +33,11 @@ type: ability
 <p class="sc-ability__flavor">You bend gravity into a fine point and pull your foes toward it.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Telekinesis</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 cube within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; vertical pull 5 toward the center of the area</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; vertical pull 7 toward the center of the area</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; vertical pull 10 toward the center of the area</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 6 damage; vertical pull 5 toward the center of the area</li><li><b>12-16:</b> 9 damage; vertical pull 7 toward the center of the area</li><li><b>17+:</b> 13 damage; vertical pull 10 toward the center of the area</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 9 essence to use. Alternatively, you can choose one of the 9-assence abilities you didn&#39;t select at 5th level (see 5th-Level Features).</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 9 essence to use. Alternatively, you can choose one of the 9-assence abilities you didn&#39;t select at 5th level (see 5th-Level Features).</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
 <div class="sc-ability__head">
@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has a +3 bonus to speed, they can <a href="../../../../movement/fly/">fly</a>, and their abilities ignore <a href="../../../../rule/combat/concealment/">concealment</a>. Additionally, whenever the target gains their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, they gain 1 additional <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>. This effect lasts until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>The target has a +3 bonus to <a href="../../../../rule/character/speed/">speed</a>, they can <a href="../../../../movement/fly/">fly</a>, and their abilities ignore <a href="../../../../rule/combat/concealment/">concealment</a>. Additionally, whenever the target gains their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, they gain 1 additional <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>. This effect lasts until the start of your next turn.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
@@ -63,7 +63,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the target has the following benefits:</p><ul><li>Their <a href="../../../../rule/character/size/">size</a> and stability increase by 2, with any <a href="../../../../rule/character/size/">size</a> 1 target becoming <a href="../../../../rule/character/size/">size</a> 3. Each creature who is within the target&#39;s new space slides to the nearest unoccupied space, ignoring stability. If the target doesn&#39;t have space to grow, they grow as much as they can and become <a href="../../../../condition/restrained/">restrained</a> until the effect ends.</li><li>They have fire immunity 10.</li><li>Their <a href="../../../../rule/combat/strike/">strikes</a> deal extra fire damage equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score.</li><li>When the target force moves a creature or object, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +2 bonus.</li><li>They can use their highest <a href="../../../../rule/character/characteristic/">characteristic</a> instead of <a href="../../../../rule/character/might/">Might</a> for <a href="../../../../rule/character/might/">Might</a> power rolls.</li></ul></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the target has the following benefits:</p><ul><li>Their <a href="../../../../rule/character/size/">size</a> and <a href="../../../../rule/character/stability/">stability</a> increase by 2, with any <a href="../../../../rule/character/size/">size</a> 1 target becoming <a href="../../../../rule/character/size/">size</a> 3. Each creature who is within the target&#39;s new space slides to the nearest unoccupied space, ignoring <a href="../../../../rule/character/stability/">stability</a>. If the target doesn&#39;t have space to grow, they grow as much as they can and become <a href="../../../../condition/restrained/">restrained</a> until the effect ends.</li><li>They have fire immunity 10.</li><li>Their <a href="../../../../rule/combat/strike/">strikes</a> deal extra fire damage equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score.</li><li>When the target force moves a creature or object, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +2 bonus.</li><li>They can use their highest <a href="../../../../rule/character/characteristic/">characteristic</a> instead of <a href="../../../../rule/character/might/">Might</a> for <a href="../../../../rule/character/might/">Might</a> <a href="../../../../rule/dice/power-roll/">power rolls</a>.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
@@ -85,13 +85,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You <a href="../../../../movement/teleport/">teleport</a> the target up to 4 squares.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You <a href="../../../../movement/teleport/">teleport</a> the target up to 6 squares.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You <a href="../../../../movement/teleport/">teleport</a> the target up to 8 squares.</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> You <a href="../../../../movement/teleport/">teleport</a> the target up to 4 squares.</li><li><b>12-16:</b> You <a href="../../../../movement/teleport/">teleport</a> the target up to 6 squares.</li><li><b>17+:</b> You <a href="../../../../movement/teleport/">teleport</a> the target up to 8 squares.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -110,7 +105,7 @@ type: feature
 <p class="sc-ability__flavor">You create a terrarium that spans from canopy above to underbrush below.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Void</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">

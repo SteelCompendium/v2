@@ -4,7 +4,6 @@ equipment_text: You wear no armor and wield a bow.
 name: Sniper
 ranged_damage_bonus: +0/+0/+4
 scc: mcdm.heroes.v1/kit/sniper
-speed_bonus: "+1"
 type: kit
 ---
 
@@ -20,7 +19,7 @@ You wear no armor and wield a bow.
 
 ## Kit Bonuses
 
-**Speed Bonus:** +1
+**[Speed](../rule/character/speed.md) Bonus:** +1
 
 **Ranged Damage Bonus:** +0/+0/+4
 
@@ -38,7 +37,7 @@ You wear no armor and wield a bow.
 |----------------------------|--------------------:|
 | **📏 Ranged 15**           | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage
 - **12-16:** 6 + M or A damage

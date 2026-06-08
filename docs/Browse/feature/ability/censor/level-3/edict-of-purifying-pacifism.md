@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: censor
 cost: 7 Wrath
-distance: 2 aura
+distance: 2 [aura](../../../../rule/combat/aura.md)
 effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target makes a [strike](../../../../rule/combat/strike.md), they take holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. A target judged by you takes an extra 2d6 holy damage.
 flavor: You shed a righteous energy that punishes enemies who would harm you or your allies.
 keywords:
@@ -31,7 +31,7 @@ type: ability
 <p class="sc-ability__flavor">You shed a righteous energy that punishes enemies who would harm you or your allies.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__section">

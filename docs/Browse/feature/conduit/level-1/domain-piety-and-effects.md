@@ -50,7 +50,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a power roll, or an enemy within 10 squares obtains a tier 1 outcome on a power roll.</li><li><b>Prayer Effect:</b> You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next power roll made before the end of the encounter.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that an ally within 10 squares obtains a tier 3 outcome on a <a href="../../../../rule/dice/power-roll/">power roll</a>, or an enemy within 10 squares obtains a tier 1 outcome on a <a href="../../../../rule/dice/power-roll/">power roll</a>.</li><li><b>Prayer Effect:</b> You call on the forces of fate to create a reliable future. Choose a creature within 10 squares. That creature automatically obtains a tier 1 or tier 3 outcome (your choice) on their next <a href="../../../../rule/dice/power-roll/">power roll</a> made before the end of the encounter.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -70,7 +70,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares regains <a href="../../../../rule/health/stamina/">Stamina</a>.</li><li><b>Prayer Effect:</b> Choose yourself or one ally within 10 squares. That character can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they <a href="../../../../condition/prone/">are prone</a>. Alternatively, you or one ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to two times your <a href="../../../../rule/character/intuition/">Intuition</a> score.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares regains <a href="../../../../rule/health/stamina/">Stamina</a>.</li><li><b>Prayer Effect:</b> Choose yourself or one ally within 10 squares. That character can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, can end one effect on them that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn, or can stand up if they <a href="../../../../condition/prone/">are prone</a>. Alternatively, you or one ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to two times your <a href="../../../../rule/character/intuition/">Intuition</a> score.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -100,7 +100,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>, or uses a <a href="../triggered-action/">triggered action</a> to reduce incoming damage or to impose a <a href="../../../../rule/dice/bane/">bane</a> or double <a href="../../../../rule/dice/bane/">bane</a> on an enemy&#39;s power roll.</li><li><b>Prayer Effect:</b> One ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to four times your <a href="../../../../rule/character/intuition/">Intuition</a> score.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>, or uses a <a href="../triggered-action/">triggered action</a> to reduce incoming damage or to impose a <a href="../../../../rule/dice/bane/">bane</a> or double <a href="../../../../rule/dice/bane/">bane</a> on an enemy&#39;s <a href="../../../../rule/dice/power-roll/">power roll</a>.</li><li><b>Prayer Effect:</b> One ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to four times your <a href="../../../../rule/character/intuition/">Intuition</a> score.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -110,7 +110,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that an enemy within 10 squares is <a href="../../../../movement/forced-movement/">force moved</a>.</li><li><b>Prayer Effect:</b> Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your <a href="../../../../rule/character/intuition/">Intuition</a> score.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that an enemy within 10 squares is <a href="../../../../movement/forced-movement/">force moved</a>.</li><li><b>Prayer Effect:</b> Each enemy in a 3 <a href="../../../../rule/combat/cube/">cube</a> within 10 squares takes lightning damage equal to twice your <a href="../../../../rule/character/intuition/">Intuition</a> score.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

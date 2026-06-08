@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each kit from your <a href="../field-arsenal/">Field Arsenal</a> feature grants you a signature ability. Signature abilities can be used at will.</p>
+<p>Each kit from your <a href="../field-arsenal/">Field Arsenal</a> feature grants you a <a href="../../../../rule/combat/signature-ability/">signature ability</a>. <a href="../../../../rule/combat/signature-ability/">Signature abilities</a> can be used at will.</p>
 </div>
 </section>

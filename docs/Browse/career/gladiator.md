@@ -2,7 +2,6 @@
 language: One language
 name: Gladiator
 perk: One exploration perk (*Quick Build:* [Friend Catapult](../perk/friend-catapult.md).)
-renown: "+2"
 scc: mcdm.heroes.v1/career/gladiator
 skills:
     - Two skills from the exploration skill group (*Quick Build:*  [Gymnastics](../skill/gymnastics.md), [Jump](../skill/jump.md).)
@@ -26,7 +25,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Renown:** +2
+**[Renown](../rule/resource/renown.md):** +2
 
 **Perk:** One exploration perk (*Quick Build:* [Friend Catapult](../perk/friend-catapult.md).)
 

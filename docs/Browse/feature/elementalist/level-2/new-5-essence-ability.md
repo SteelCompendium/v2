@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 5 essence to use. Alternatively, you can choose one of the 5-essence abilities you didn&#39;t select at 1st level (see 1st-Level Features).</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 5 essence to use. Alternatively, you can choose one of the 5-essence abilities you didn&#39;t select at 1st level (see 1st-Level Features).</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
 <div class="sc-ability__head">
@@ -34,16 +34,16 @@ type: feature
 <p class="sc-ability__flavor">Revitalizing plants and jagged stones grow, helping allies and hindering foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the area gains the following effects:</p><ul><li>Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>.</li><li>The area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</li><li>Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</li></ul></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the area gains the following effects:</p><ul><li>Once as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> at the start of your turn, you allow yourself and each ally in the area to spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>.</li><li>The area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</li><li>Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.</p></div>
+<div class="sc-ability__section-body"><p>The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your <a href="../../../../rule/combat/line-of-effect/">line of effect</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -61,17 +61,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + R poison damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + R poison damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R poison damage</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn&#39;t. You then make a power roll against the target of this ability.</p></div>
+<div class="sc-ability__section-body"><p>The target uses their <a href="../../../../rule/combat/signature-ability/">signature ability</a> against a creature of your choice. This <a href="../../../../rule/combat/signature-ability/">signature ability</a> can target the creature even if it usually wouldn&#39;t. You then make a <a href="../../../../rule/dice/power-roll/">power roll</a> against the target of this ability.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 5 + R poison damage</li><li><b>12-16:</b> 9 + R poison damage</li><li><b>17+:</b> 12 + R poison damage</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -89,17 +81,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 fire damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 fire damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 fire damage</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is <a href="../../../../movement/teleport/">teleport</a>ed to another space within <a href="../../../../rule/combat/distance/">distance</a>. Make a power roll that affects each enemy adjacent to the target&#39;s new space.</p></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../../movement/teleport/">teleport</a>ed to another space within <a href="../../../../rule/combat/distance/">distance</a>. Make a <a href="../../../../rule/dice/power-roll/">power roll</a> that affects each enemy adjacent to the target&#39;s new space.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 3 fire damage</li><li><b>12-16:</b> 5 fire damage</li><li><b>17+:</b> 8 fire damage</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -117,13 +101,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + R fire damage; A &lt; WEAK, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + R fire damage; A &lt; AVERAGE, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R fire damage; A &lt; STRONG, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 5 + R fire damage; A &lt; WEAK, <a href="../../../../condition/restrained/">restrained</a> (save ends)</li><li><b>12-16:</b> 9 + R fire damage; A &lt; AVERAGE, <a href="../../../../condition/restrained/">restrained</a> (save ends)</li><li><b>17+:</b> 12 + R fire damage; A &lt; STRONG, <a href="../../../../condition/restrained/">restrained</a> (save ends)</li></ul></div>
 </div>
 </article>
 </div>

@@ -27,7 +27,7 @@ The gate, or door, or whatever it was started to close. With Dazar on the other 
 
 "Embers!" John called out, but the [high elf](high-elf.md) was surrounded. At that moment, a detonation. An explosion of sound that knocked the demons back. And a giant stood before the lumbering egress.
 
-Dust settled on the ground behind the giant, and John realized the thunderclap was the sound of the giant running to them. Air that couldn't get out of the way fast enough, tortured by the pressure of his speed.
+Dust settled on the ground behind the giant, and John realized the thunderclap was the sound of the giant running to them. Air that couldn't get out of the way fast enough, tortured by the pressure of his [speed](../rule/character/speed.md).
 
 The rectangular, toothed egress demon was twelve feet tall at least, the giant almost matching its immense [size](../rule/character/size.md).
 
@@ -119,11 +119,11 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Doo
 
 #### All Is a Feather {data-scc="mcdm.heroes.v1/feature.trait.hakaan/all-is-a-feather"}
 
-You are exceptionally strong. You gain an [edge](../rule/dice/edge.md) on tests made to lift and haul heavy objects.
+You are exceptionally strong. You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to lift and haul heavy objects.
 
 #### Doomsight {data-scc="mcdm.heroes.v1/feature.trait.hakaan/doomsight"}
 
-Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on tests and ability rolls, and you don't die no matter how low your [Stamina](../rule/health/stamina.md) falls. You then die immediately at the end of the encounter, and can't be returned to life by any means.
+Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on [tests](../rule/test/test.md) and [ability rolls](../rule/dice/ability-roll.md), and you don't die no matter how low your [Stamina](../rule/health/stamina.md) falls. You then die immediately at the end of the encounter, and can't be returned to life by any means.
 
 If you don't predetermine your death encounter, you can choose to become doomed while you are [dying](../rule/health/dying.md) with the Director's approval (no action required). Doing so should be reserved for encounters in which you are [dying](../rule/health/dying.md) as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you—not because you're playing a one-shot and have nothing to lose, Hacaarl.
 
@@ -139,4 +139,4 @@ Your hearty constitution prevents you from losing strength. You can't be made [w
 
 #### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.hakaan/stand-tough"}
 
-Your body is made to withstand the blows of your enemies. Your [Might](../rule/character/might.md) score is treated as 1 higher for the purpose of resisting potencies, and you gain an [edge](../rule/dice/edge.md) on [Might](../rule/character/might.md) tests when called for to resist environmental effects or a creature's traits or abilities.
+Your body is made to withstand the blows of your enemies. Your [Might](../rule/character/might.md) score is treated as 1 higher for the purpose of resisting [potencies](../rule/character/potency.md), and you gain an [edge](../rule/dice/edge.md) on [Might](../rule/character/might.md) [tests](../rule/test/test.md) when called for to resist environmental effects or a creature's traits or abilities.

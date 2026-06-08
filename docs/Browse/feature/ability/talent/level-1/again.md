@@ -2,7 +2,7 @@
 action_type: Triggered
 class: talent
 distance: Ranged 10
-effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.
+effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](../../../../rule/dice/power-roll.md) and use the new roll.
 flavor: You step back a split second to see if things play out a little differently.
 keywords:
     - Psionic
@@ -12,7 +12,7 @@ name: Again
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/again
 subtype: triggered
 target: Self or one creature
-trigger: The target makes an ability roll.
+trigger: The target makes an [ability roll](../../../../rule/dice/ability-roll.md).
 type: ability
 ---
 
@@ -37,10 +37,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target makes an ability roll.</p></div>
+<div class="sc-ability__section-body"><p>The target makes an <a href="../../../../../rule/dice/ability-roll/">ability roll</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.</p></div>
+<div class="sc-ability__section-body"><p>You can use this ability after seeing the result of the triggering roll. The target must reroll the <a href="../../../../../rule/dice/power-roll/">power roll</a> and use the new roll.</p></div>
 </div>
 </article>

@@ -8,13 +8,13 @@ type: rule
 
 ---
 
-Trinkets are treasures that can be used at will without a reduction in their potency. They generally provide a small benefit, such as allowing you to see farther or become a bit better at picking locks.
+Trinkets are treasures that can be used at will without a reduction in their [potency](../character/potency.md). They generally provide a small benefit, such as allowing you to see farther or become a bit better at picking locks.
 
-Like consumables, trinket treasures are organized by echelon. You can carry any number of trinkets.
+Like [consumables](consumable.md), trinket treasures are organized by [echelon](../general/echelon.md). You can carry any number of trinkets.
 
 ## 1st-Echelon Trinkets
 
-This section presents 1st-echelon trinket treasures in alphabetical order.
+This section presents 1st-[echelon](../general/echelon.md) [trinket](trinket.md) treasures in alphabetical order.
 
 ### Color Cloak (Blue) {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/color-cloak-blue"}
 
@@ -22,17 +22,17 @@ This section presents 1st-echelon trinket treasures in alphabetical order.
 
 **Keywords:** Magic, Neck
 
-**Item Prerequisite:** A pint of blue ichor, soul chalk
+**[Item Prerequisite](../downtime/item-prerequisite.md):** A pint of blue ichor, soul chalk
 
-**Project Source:** Licensing agreements in Anjali
+**[Project Source](../downtime/project-source.md):** Licensing agreements in Anjali
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
 **Effect:** While worn, a blue Color Cloak grants you cold immunity equal to your level.
 
-Additionally, when you are targeted by any effect that deals cold damage, you can use a triggered action to [shift](../../movement/shifting.md) a number of squares equal to your level. If you do so, the cold immunity granted by the cloak becomes cold weakness with the same value until the end of the next round. You can't use this triggered action again until this weakness ends.
+Additionally, when you are targeted by any effect that deals cold damage, you can use a [triggered action](../combat/triggered-action.md) to [shift](../../movement/shifting.md) a number of squares equal to your level. If you do so, the cold immunity granted by the cloak becomes cold weakness with the same value until the end of the next round. You can't use this [triggered action](../combat/triggered-action.md) again until this weakness ends.
 
 ### Color Cloak (Red) {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/color-cloak-red"}
 
@@ -40,17 +40,17 @@ Additionally, when you are targeted by any effect that deals cold damage, you ca
 
 **Keywords:** Magic, Neck
 
-**Item Prerequisite:** A pint of red ichor, soul chalk
+**[Item Prerequisite](../downtime/item-prerequisite.md):** A pint of red ichor, soul chalk
 
-**Project Source:** Licensing agreements in Anjali
+**[Project Source](../downtime/project-source.md):** Licensing agreements in Anjali
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
 **Effect:** While worn, a red Color Cloak grants you fire immunity equal to your level.
 
-Additionally, when you are targeted by any effect that deals fire damage, you can use a triggered action to reduce the damage to 0. If you do so, the fire immunity granted by this cloak becomes fire weakness with the same value until the end of the next round. You can't use this triggered action again until this weakness ends.
+Additionally, when you are targeted by any effect that deals fire damage, you can use a [triggered action](../combat/triggered-action.md) to reduce the damage to 0. If you do so, the fire immunity granted by this cloak becomes fire weakness with the same value until the end of the next round. You can't use this [triggered action](../combat/triggered-action.md) again until this weakness ends.
 
 ### Color Cloak (Yellow) {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/color-cloak-yellow"}
 
@@ -58,17 +58,17 @@ Additionally, when you are targeted by any effect that deals fire damage, you ca
 
 **Keywords:** Magic, Neck
 
-**Item Prerequisite:** A pint of yellow ichor, soul chalk
+**[Item Prerequisite](../downtime/item-prerequisite.md):** A pint of yellow ichor, soul chalk
 
-**Project Source:** Licensing agreements in Anjali
+**[Project Source](../downtime/project-source.md):** Licensing agreements in Anjali
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
 **Effect:** While worn, a yellow Color Cloak grants you lightning immunity equal to your level.
 
-Additionally, when you are targeted by any effect that deals lightning damage, you can use a triggered action to cause the next damage-dealing ability you use to deal extra lightning damage equal to your level. Once you deal this extra damage, your lightning immunity becomes lightning weakness with the same value until the end of the next round. You can't use this triggered action again until this weakness ends.
+Additionally, when you are targeted by any effect that deals lightning damage, you can use a [triggered action](../combat/triggered-action.md) to cause the next damage-dealing ability you use to deal extra lightning damage equal to your level. Once you deal this extra damage, your lightning immunity becomes lightning weakness with the same value until the end of the next round. You can't use this [triggered action](../combat/triggered-action.md) again until this weakness ends.
 
 ### Deadweight {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/deadweight"}
 
@@ -76,15 +76,15 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Keywords:** Magic
 
-**Item Prerequisite:** One humanoid femur, one bar of lead laced with starmetal
+**[Item Prerequisite](../downtime/item-prerequisite.md):** One humanoid femur, one bar of lead laced with starmetal
 
-**Project Source:** Texts or lore in Caelian
+**[Project Source](../downtime/project-source.md):** Texts or lore in Caelian
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
-**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee [free strike](../../feature/common/main-actions/free-strike.md) as a free maneuver once during the fall before you hit the ground.
+**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee [free strike](../../feature/common/main-actions/free-strike.md) as a [free maneuver](../combat/free-maneuver.md) once during the fall before you hit the ground.
 
 ### Displacing Replacement Bracer {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/displacing-replacement-bracer"}
 
@@ -92,11 +92,11 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Keywords:** Arms, Psionic
 
-**Item Prerequisite:** Petrified wood from a tree that has not been observed since falling
+**[Item Prerequisite](../downtime/item-prerequisite.md):** Petrified wood from a tree that has not been observed since falling
 
-**Project Source:** Texts or lore in Zaliac
+**[Project Source](../downtime/project-source.md):** Texts or lore in Zaliac
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md)
 
 **Project Goal:** 150
 
@@ -108,11 +108,11 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Keywords:** Magic
 
-**Item Prerequisite:** Three withered mundane vines, a tree's blessing
+**[Item Prerequisite](../downtime/item-prerequisite.md):** Three withered mundane vines, a tree's blessing
 
-**Project Source:** Songs in Yllyric
+**[Project Source](../downtime/project-source.md):** Songs in Yllyric
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Presence](../character/presence.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 150
 
@@ -124,17 +124,17 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Keywords:** Hands, Psionic
 
-**Item Prerequisite:** A humanoid's shadow disconnected from its source
+**[Item Prerequisite](../downtime/item-prerequisite.md):** A humanoid's shadow disconnected from its source
 
-**Project Source:** Texts or lore in Khelt
+**[Project Source](../downtime/project-source.md):** Texts or lore in Khelt
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md)
 
 **Project Goal:** 150
 
 **Effect:** When you use a move action while wearing these gloves, you can place one hand upon a mundane object as part of that move action. If the object is 1 square thick or less and has open space on the other side (for example, a door or wall), you pull your body through it as though the object wasn't there.
 
-If the object is too thick or has no open space on the other side, your hand becomes stuck inside the object. Removing your hand takes a successful hard [Might](../character/might.md) test made as a main action.
+If the object is too thick or has no open space on the other side, your hand becomes stuck inside the object. Removing your hand takes a successful hard [Might](../character/might.md) [test](../test/test.md) made as a main action.
 
 ### Gecko Gloves {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/gecko-gloves"}
 
@@ -142,15 +142,15 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Keywords:** Hands, Magic
 
-**Item Prerequisite:** Ten gecko tails
+**[Item Prerequisite](../downtime/item-prerequisite.md):** Ten gecko tails
 
-**Project Source:** Texts or lore in Caelian
+**[Project Source](../downtime/project-source.md):** Texts or lore in Caelian
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
-**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are [force moved](../../movement/forced-movement.md), and any creature [grabbed](../../condition/grabbed.md) by you takes a [bane](../dice/bane.md) on the test for the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver.
+**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are [force moved](../../movement/forced-movement.md), and any creature [grabbed](../../condition/grabbed.md) by you takes a [bane](../dice/bane.md) on the [test](../test/test.md) for the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver.
 
 ### Hellcharger Helm {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/hellcharger-helm"}
 
@@ -158,15 +158,15 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Keywords:** Head, Magic
 
-**Item Prerequisite:** One broken contract, one ingot of steel
+**[Item Prerequisite](../downtime/item-prerequisite.md):** One broken contract, one ingot of steel
 
-**Project Source:** Texts or lore in Anjali and Caelian
+**[Project Source](../downtime/project-source.md):** Texts or lore in Anjali and Caelian
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md) or [Reason](../character/reason.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Might](../character/might.md) or [Reason](../character/reason.md)
 
 **Project Goal:** 150
 
-**Effect:** Whenever you use the [Charge](../../feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../../feature/common/maneuvers/knockback.md) maneuver as a free maneuver, regardless of the target creature's [size](../character/size.md).
+**Effect:** Whenever you use the [Charge](../../feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 bonus to [speed](../character/speed.md) until the end of your current turn. After charging, you can use the [Knockback](../../feature/common/maneuvers/knockback.md) maneuver as a [free maneuver](../combat/free-maneuver.md), regardless of the target creature's [size](../character/size.md).
 
 ### Mask of the Many {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/mask-of-the-many"}
 
@@ -174,11 +174,11 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Keywords:** Head, Magic
 
-**Item Prerequisite:** One used death shroud
+**[Item Prerequisite](../downtime/item-prerequisite.md):** One used death shroud
 
-**Project Source:** Texts or lore in Caelian
+**[Project Source](../downtime/project-source.md):** Texts or lore in Caelian
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
@@ -190,11 +190,11 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Keywords:** Magic
 
-**Item Prerequisite:** One uncut opal
+**[Item Prerequisite](../downtime/item-prerequisite.md):** One uncut opal
 
-**Project Source:** Texts or lore in Caelian
+**[Project Source](../downtime/project-source.md):** Texts or lore in Caelian
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
@@ -206,11 +206,11 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Keywords:** Feet, Magic
 
-**Item Prerequisite:** One battered gold chain of at least fifty links
+**[Item Prerequisite](../downtime/item-prerequisite.md):** One battered gold chain of at least fifty links
 
-**Project Source:** Texts or lore in Caelian
+**[Project Source](../downtime/project-source.md):** Texts or lore in Caelian
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
@@ -218,7 +218,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 ## 2nd-Echelon Trinkets
 
-This section presents 2nd-echelon trinket treasures in alphabetical order.
+This section presents 2nd-[echelon](../general/echelon.md) [trinket](trinket.md) treasures in alphabetical order.
 
 ### Bastion Belt {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.trinket/bastion-belt"}
 
@@ -226,15 +226,15 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Keywords:** Magic, Waist
 
-**Item Prerequisite:** A giant's tooth
+**[Item Prerequisite](../downtime/item-prerequisite.md):** A giant's tooth
 
-**Project Source:** Texts or lore in High Kuric
+**[Project Source](../downtime/project-source.md):** Texts or lore in High Kuric
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Might](../character/might.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 300
 
-**Effect:** While worn, this belt grants you a +3 bonus to [Stamina](../health/stamina.md) and a +1 bonus to Stability. This [Stamina](../health/stamina.md) bonus adds to the [Stamina](../health/stamina.md) bonus granted by other treasures.
+**Effect:** While worn, this belt grants you a +3 bonus to [Stamina](../health/stamina.md) and a +1 bonus to [Stability](../character/stability.md). This [Stamina](../health/stamina.md) bonus adds to the [Stamina](../health/stamina.md) bonus granted by other treasures.
 
 ### Evilest Eye {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.trinket/evilest-eye"}
 
@@ -242,11 +242,11 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Keywords:** Neck, Psionic
 
-**Item Prerequisite:** An eyeball from a pirate captain who drowned at sea
+**[Item Prerequisite](../downtime/item-prerequisite.md):** An eyeball from a pirate captain who drowned at sea
 
-**Project Source:** Texts or lore in Caelian
+**[Project Source](../downtime/project-source.md):** Texts or lore in Caelian
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 300
 
@@ -258,15 +258,15 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Keywords:** Head, Psionic
 
-**Item Prerequisite:** One measure of pure crystal, a jarred memory of true joy
+**[Item Prerequisite](../downtime/item-prerequisite.md):** One measure of pure crystal, a jarred memory of true joy
 
-**Project Source:** Texts or lore in Variac
+**[Project Source](../downtime/project-source.md):** Texts or lore in Variac
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 300
 
-**Effect:** While wearing the crown, you gain an [edge](../dice/edge.md) on [Intuition](../character/intuition.md) tests made to read the emotions and discern the honesty of other creatures. If you succeed on an [Intuition](../character/intuition.md) test to read the emotions of another creature within 5 squares, you can ask the Director one question about something the creature knows, which the Director must answer honestly. At the Director's discretion, you might not be able to tap into the creature's deepest secrets this way.
+**Effect:** While wearing the crown, you gain an [edge](../dice/edge.md) on [Intuition](../character/intuition.md) [tests](../test/test.md) made to read the emotions and discern the honesty of other creatures. If you succeed on an [Intuition](../character/intuition.md) [test](../test/test.md) to read the emotions of another creature within 5 squares, you can ask the Director one question about something the creature knows, which the Director must answer honestly. At the Director's discretion, you might not be able to tap into the creature's deepest secrets this way.
 
 ### Key of Inquiry {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.trinket/key-of-inquiry"}
 
@@ -274,11 +274,11 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Keywords:** Psionic
 
-**Item Prerequisite:** The finger bone of a creature with telepathy, three black opals
+**[Item Prerequisite](../downtime/item-prerequisite.md):** The finger bone of a creature with telepathy, three black opals
 
-**Project Source:** Texts or lore in Ullorvic
+**[Project Source](../downtime/project-source.md):** Texts or lore in Ullorvic
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 300
 
@@ -290,15 +290,15 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Keywords:** Head, Psionic
 
-**Item Prerequisite:** The gold nib of a fountain pen used to sign a major treaty or compact, a ruby once worn by a [devil](../../ancestry/devil.md)
+**[Item Prerequisite](../downtime/item-prerequisite.md):** The gold nib of a fountain pen used to sign a major treaty or compact, a ruby once worn by a [devil](../../ancestry/devil.md)
 
-**Project Source:** Texts or lore in Hyrallic
+**[Project Source](../downtime/project-source.md):** Texts or lore in Hyrallic
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Presence](../character/presence.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 300
 
-**Effect:** While you wear the Mediator's Charm, the patience of any NPC you negotiate with increases by 1 (to a maximum of 5). Additionally, at the start of a negotiation, you learn one of an NPC's motivations or pitfalls of the Director's choice.
+**Effect:** While you wear the Mediator's Charm, the patience of any [NPC](../general/npc.md) you negotiate with increases by 1 (to a maximum of 5). Additionally, at the start of a negotiation, you learn one of an [NPC](../general/npc.md)'s motivations or pitfalls of the Director's choice.
 
 ### Necklace of the Bayou {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.trinket/necklace-of-the-bayou"}
 
@@ -306,15 +306,15 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Keywords:** Magic, Neck
 
-**Item Prerequisite:** A gallon of swamp water, the limbs of four different newts
+**[Item Prerequisite](../downtime/item-prerequisite.md):** A gallon of swamp water, the limbs of four different newts
 
-**Project Source:** Texts or lore in Yllyric
+**[Project Source](../downtime/project-source.md):** Texts or lore in Yllyric
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 300
 
-**Effect:** While you wear this necklace, you can breathe underwater, you can automatically swim at full speed while moving, and you ignore [difficult terrain](../../movement/difficult-terrain.md) created by water or in marsh and similar terrain.
+**Effect:** While you wear this necklace, you can breathe underwater, you can automatically swim at full [speed](../character/speed.md) while moving, and you ignore [difficult terrain](../../movement/difficult-terrain.md) created by water or in marsh and similar terrain.
 
 ### Scannerstone {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.trinket/scannerstone"}
 
@@ -322,11 +322,11 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Keywords:** Psionic
 
-**Item Prerequisite:** A piece of polished obsidian, seven flawless pea-sized diamonds
+**[Item Prerequisite](../downtime/item-prerequisite.md):** A piece of polished obsidian, seven flawless pea-sized diamonds
 
-**Project Source:** Texts or lore in Variac
+**[Project Source](../downtime/project-source.md):** Texts or lore in Variac
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 300
 
@@ -338,25 +338,25 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Keywords:** Magic
 
-**Item Prerequisite:** A coin minted during an earthquake
+**[Item Prerequisite](../downtime/item-prerequisite.md):** A coin minted during an earthquake
 
-**Project Source:** Texts or lore in Caelian
+**[Project Source](../downtime/project-source.md):** Texts or lore in Caelian
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 300
 
 **Effect:** As a maneuver, you toss the coin in the air and let it fall to the ground in front of you. Roll a d3 to determine the coin's effect, depending on which face shows when it lands:
 
 - **1-Red:** The area within 2 squares of you is [difficult terrain](../../movement/difficult-terrain.md) for enemies until the end of your next turn.
-- **2-Green:** You and each ally who starts their turn within 2 squares of you gains a +1 bonus to speed until the end of your next turn.
+- **2-Green:** You and each ally who starts their turn within 2 squares of you gains a +1 bonus to [speed](../character/speed.md) until the end of your next turn.
 - **3-Spinning Coin:** Both the red and green effects occur while the coin continuously spins.
 
 The coin must be picked up before it can be used again. If any creature picks up the coin, its effects immediately end.
 
 ## 3rd-Echelon Trinkets
 
-This section presents 3rd-echelon trinket treasures in alphabetical order.
+This section presents 3rd-[echelon](../general/echelon.md) [trinket](trinket.md) treasures in alphabetical order.
 
 ### Bracers of Strife {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.trinket/bracers-of-strife"}
 
@@ -364,15 +364,15 @@ This section presents 3rd-echelon trinket treasures in alphabetical order.
 
 **Keywords:** Arms, Magic
 
-**Item Prerequisite:** The severed hand of a giant
+**[Item Prerequisite](../downtime/item-prerequisite.md):** The severed hand of a giant
 
-**Project Source:** Texts or lore in Yllyric
+**[Project Source](../downtime/project-source.md):** Texts or lore in Yllyric
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**Effect:** While you wear them in combat, these bracers magically double the size of your hands and any melee weapons you wield, automatically compensating for the extra weight. You gain a +2 damage bonus for any weapon ability that deals rolled damage, and a +1 bonus to the [distance](../combat/distance.md) you push any target with any weapon ability. This damage bonus adds to the damage bonus granted by other treasures.
+**Effect:** While you wear them in combat, these bracers magically double the size of your hands and any melee weapons you wield, automatically compensating for the extra weight. You gain a +2 damage bonus for any weapon ability that deals [rolled damage](../damage/rolled-damage.md), and a +1 bonus to the [distance](../combat/distance.md) you push any target with any weapon ability. This damage bonus adds to the damage bonus granted by other treasures.
 
 ### Mask of Oversight {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.trinket/mask-of-oversight"}
 
@@ -380,17 +380,17 @@ This section presents 3rd-echelon trinket treasures in alphabetical order.
 
 **Keywords:** Head, Magic
 
-**Item Prerequisite:** An overmind egg, the skin of any shapeshifter
+**[Item Prerequisite](../downtime/item-prerequisite.md):** An overmind egg, the skin of any shapeshifter
 
-**Project Source:** Texts or lore in the First Language
+**[Project Source](../downtime/project-source.md):** Texts or lore in the First Language
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**Effect:** While wearing this grotesque mask, you can use a maneuver to cause your eyes to erupt from their sockets and multiply until six eyes orbit your head. This grants you a 360-degree arc of vision and prevents you from being surprised. Additionally, you have a double [edge](../dice/edge.md) on tests made to discover hidden creatures, items, or mechanisms, but you have a double [bane](../dice/bane.md) on [Presence](../character/presence.md) tests that don't use the [Intimidate](../../skill/intimidate.md) skill. As a maneuver, you can return your eyes to your head and make the additional eyes disappear.
+**Effect:** While wearing this grotesque mask, you can use a maneuver to cause your eyes to erupt from their sockets and multiply until six eyes orbit your head. This grants you a 360-degree arc of vision and prevents you from being [surprised](../combat/surprised.md). Additionally, you have a double [edge](../dice/edge.md) on [tests](../test/test.md) made to discover hidden creatures, items, or mechanisms, but you have a double [bane](../dice/bane.md) on [Presence](../character/presence.md) [tests](../test/test.md) that don't use the [Intimidate](../../skill/intimidate.md) skill. As a maneuver, you can return your eyes to your head and make the additional eyes disappear.
 
-While the eyes circle your head, you can use a maneuver to launch up to three of the eyes at one creature within 10 squares. Each eye you launch deals 5 damage to the target before it is destroyed. You can't reduce the number of eyes to fewer than two in this way. If you reduce the number of eyes to two, those eyes return to your head, and you can't use the mask again until you earn 1 or more Victories.
+While the eyes circle your head, you can use a maneuver to launch up to three of the eyes at one creature within 10 squares. Each eye you launch deals 5 damage to the target before it is destroyed. You can't reduce the number of eyes to fewer than two in this way. If you reduce the number of eyes to two, those eyes return to your head, and you can't use the mask again until you earn 1 or more [Victories](../resource/victories.md).
 
 ### Mirage Band {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.trinket/mirage-band"}
 
@@ -398,11 +398,11 @@ While the eyes circle your head, you can use a maneuver to launch up to three of
 
 **Keywords:** Head, Psionic
 
-**Item Prerequisite:** A spool of mindspider silk, an ingot of white gold
+**[Item Prerequisite](../downtime/item-prerequisite.md):** A spool of mindspider silk, an ingot of white gold
 
-**Project Source:** Texts or lore in Higaran
+**[Project Source](../downtime/project-source.md):** Texts or lore in Higaran
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -427,11 +427,11 @@ Additionally, you have the following ability.
 
 **Keywords:** Psionic, Ring
 
-**Item Prerequisite:** A wafer of gallium arsenide
+**[Item Prerequisite](../downtime/item-prerequisite.md):** A wafer of gallium arsenide
 
-**Project Source:** Texts or lore in Mindspeech
+**[Project Source](../downtime/project-source.md):** Texts or lore in Mindspeech
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -448,7 +448,7 @@ Additionally, you have the following ability.
 > |----------------------------------------|------------------------------:|
 > | **📏 Melee 1**                         | **🎯 One creature or object** |
 >
-> **Power Roll + [Might](../character/might.md) or [Agility](../character/agility.md):**
+> **[Power Roll](../dice/power-roll.md) + [Might](../character/might.md) or [Agility](../character/agility.md):**
 >
 > - **≤11:** 3 psychic damage
 > - **12-16:** 5 psychic damage; I < AVERAGE, [slowed](../../condition/slowed.md) (save ends)
@@ -462,11 +462,11 @@ Additionally, you have the following ability.
 
 **Keywords:** Psionic, Ring
 
-**Item Prerequisite:** One-third of a pound of diamond dust, one nugget of pure silver
+**[Item Prerequisite](../downtime/item-prerequisite.md):** One-third of a pound of diamond dust, one nugget of pure silver
 
-**Project Source:** Texts or lore in Khelt
+**[Project Source](../downtime/project-source.md):** Texts or lore in Khelt
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -474,7 +474,7 @@ Additionally, you have the following ability.
 
 ## 4th-Echelon Trinkets
 
-This section presents 4th-echelon trinket treasures in alphabetical order.
+This section presents 4th-[echelon](../general/echelon.md) [trinket](trinket.md) treasures in alphabetical order.
 
 ### Gravekeeper's Lantern {data-scc="mcdm.heroes.v1/treasure.4th-echelon.trinket/gravekeepers-lantern"}
 
@@ -482,15 +482,15 @@ This section presents 4th-echelon trinket treasures in alphabetical order.
 
 **Keywords:** Magic
 
-**Item Prerequisite:** The powdered jawbone of a powerful spellcaster, wood from a tree marking multiple graves
+**[Item Prerequisite](../downtime/item-prerequisite.md):** The powdered jawbone of a powerful spellcaster, wood from a tree marking multiple graves
 
-**Project Source:** Texts or lore in Hyrallic
+**[Project Source](../downtime/project-source.md):** Texts or lore in Hyrallic
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 600
 
-**Effect:** The Gravekeeper's Lantern can temporarily trap a nonhostile spirit of the dead—either an incorporeal undead or the wandering spirit of a creature who died within the last 30 days—allowing you to interrogate them. Trapping a spirit requires you to be within 10 squares of them and succeed on a hard [Intuition](../character/intuition.md) test as a main action. Once a spirit is trapped, you make a [Presence](../character/presence.md) test to coax them into answering your questions:
+**Effect:** The Gravekeeper's Lantern can temporarily trap a nonhostile spirit of the dead—either an incorporeal undead or the wandering spirit of a creature who died within the last 30 days—allowing you to interrogate them. Trapping a spirit requires you to be within 10 squares of them and succeed on a hard [Intuition](../character/intuition.md) [test](../test/test.md) as a main action. Once a spirit is trapped, you make a [Presence](../character/presence.md) [test](../test/test.md) to coax them into answering your questions:
 
 - **≤11:** You can ask two questions of the spirit, one of which they must answer fully and honestly.
 - **12-16:** You can ask three questions, two of which the spirit must answer fully and honestly.
@@ -504,11 +504,11 @@ A trapped spirit remains in the lantern for 10 minutes. They remember being trap
 
 **Keywords:** Arms, Psionic
 
-**Item Prerequisite:** Steel alloy, one fine-cut topaz
+**[Item Prerequisite](../downtime/item-prerequisite.md):** Steel alloy, one fine-cut topaz
 
-**Project Source:** Texts or lore in Mindspeech
+**[Project Source](../downtime/project-source.md):** Texts or lore in Mindspeech
 
-**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md) or [Presence](../character/presence.md)
+**[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 600
 

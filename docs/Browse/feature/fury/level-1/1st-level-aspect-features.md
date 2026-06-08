@@ -62,7 +62,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You are never surprised. Additionally, whenever you would push a target with <a href="../../../../movement/forced-movement/">forced movement</a>, you can slide them instead.</p>
+<p>You are never <a href="../../../../rule/combat/surprised/">surprised</a>. Additionally, whenever you would push a target with <a href="../../../../movement/forced-movement/">forced movement</a>, you can slide them instead.</p>
 <p>As your ferocity grows, you gain benefits as noted on the Reaver <a href="../../boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p>
 </div>
 </section>
@@ -86,7 +86,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made using the <a href="../../../../skill/track/">Track</a> skill.</p>
+<p>You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made using the <a href="../../../../skill/track/">Track</a> skill.</p>
 </div>
 </section>
 </div>

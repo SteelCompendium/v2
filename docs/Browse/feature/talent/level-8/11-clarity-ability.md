@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 11 clarity to use.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 11 clarity to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -37,21 +37,16 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + P damage; P &lt; WEAK, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + P damage; P &lt; AVERAGE, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + P damage; P &lt; STRONG, <a href="../../../../condition/weakened/">weakened</a> and <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 10 + P damage; P &lt; WEAK, <a href="../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>12-16:</b> 14 + P damage; P &lt; AVERAGE, <a href="../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>17+:</b> 20 + P damage; P &lt; STRONG, <a href="../../../../condition/weakened/">weakened</a> and <a href="../../../../condition/slowed/">slowed</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This ability gains an <a href="../../../../rule/dice/edge/">edge</a> against a target with a soul (see *Draw Steel: Monsters*). After you make the power roll, you or one ally within <a href="../../../../rule/combat/distance/">distance</a> have a double <a href="../../../../rule/dice/edge/">edge</a> on the next power roll you make before the end of the encounter.</p></div>
+<div class="sc-ability__section-body"><p>This ability gains an <a href="../../../../rule/dice/edge/">edge</a> against a target with a soul (see *Draw Steel: Monsters*). After you make the <a href="../../../../rule/dice/power-roll/">power roll</a>, you or one ally within <a href="../../../../rule/combat/distance/">distance</a> have a double <a href="../../../../rule/dice/edge/">edge</a> on the next <a href="../../../../rule/dice/power-roll/">power roll</a> you make before the end of the encounter.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You feel dispirited until you finish a respite. If you obtain a tier 3 outcome on the power roll, you and the target each have <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends).</p></div>
+<div class="sc-ability__section-body"><p>You feel dispirited until you finish a <a href="../../../../rule/resource/respite/">respite</a>. If you obtain a tier 3 outcome on the <a href="../../../../rule/dice/power-roll/">power roll</a>, you and the target each have <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends).</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -69,13 +64,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 2</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + R damage; R &lt; WEAK, the target takes a <a href="../../../../rule/dice/bane/">bane</a> on their next power roll</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 + R damage; R &lt; AVERAGE, the target takes a <a href="../../../../rule/dice/bane/">bane</a> on power rolls (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">23 + R damage; R &lt; STRONG, the target has a double <a href="../../../../rule/dice/bane/">bane</a> on power rolls (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 12 + R damage; R &lt; WEAK, the target takes a <a href="../../../../rule/dice/bane/">bane</a> on their next <a href="../../../../rule/dice/power-roll/">power roll</a></li><li><b>12-16:</b> 17 + R damage; R &lt; AVERAGE, the target takes a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a> (save ends)</li><li><b>17+:</b> 23 + R damage; R &lt; STRONG, the target has a double <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -103,7 +93,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose two of the following effects:</p><ul><li>The target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>.</li><li>The target gains 1 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.</li><li>The target gains 2 <a href="../../../../rule/resource/surge/">surges</a>, and gains a +3 bonus to speed until the end of the encounter.</li></ul></div>
+<div class="sc-ability__section-body"><p>Choose two of the following effects:</p><ul><li>The target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>.</li><li>The target gains 1 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, and can end any effects on them that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of their turn.</li><li>The target gains 2 <a href="../../../../rule/resource/surge/">surges</a>, and gains a +3 bonus to <a href="../../../../rule/character/speed/">speed</a> until the end of the encounter.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

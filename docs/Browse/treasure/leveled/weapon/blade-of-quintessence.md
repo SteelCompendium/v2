@@ -16,15 +16,15 @@ type: treasure
 
 **Keywords:** Magic, Medium Weapon
 
-**Item Prerequisite:** A ruby hardened in the fires of the City of Brass, a sapphire that has been struck by lightning
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A ruby hardened in the fires of the City of Brass, a sapphire that has been struck by lightning
 
-**Project Source:** Texts or lore in Zaliac
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Zaliac
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450 
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon gains a +1 damage bonus. Additionally, you can change the [damage type](../../../rule/damage/damage-type.md) of such abilities to cold, fire, lightning, or sonic.
+**1st Level:** Any weapon ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) using this weapon gains a +1 damage bonus. Additionally, you can change the [damage type](../../../rule/damage/damage-type.md) of such abilities to cold, fire, lightning, or sonic.
 
 **5th Level:** The weapon's damage bonus increases to +2. Additionally, the weapon can be used with ranged weapon abilities, and returns to you when a ranged ability is resolved. Ranged abilities used with the weapon increase their [distance](../../../rule/combat/distance.md) by 3, and must deal cold, fire, lightning, or sonic damage (chosen when you use the ability).
 

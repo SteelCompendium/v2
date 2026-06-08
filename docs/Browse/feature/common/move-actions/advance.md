@@ -17,6 +17,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>When a creature takes the <a href="../advance/">Advance</a> move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.</p>
+<p>When a creature takes the <a href="../advance/">Advance</a> move action, they move a number of squares up to their <a href="../../../../rule/character/speed/">speed</a>. They can break up this movement with their maneuver and main action however they wish.</p>
 </div>
 </section>

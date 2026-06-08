@@ -3,7 +3,7 @@ action_type: Maneuver
 class: elementalist
 cost: 5 Essence
 distance: Ranged 10
-effect: Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](../../../../movement/difficult-terrain.md), and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+effect: Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](../../../../movement/difficult-terrain.md), and their movement can't provoke [opportunity attacks](../../../../rule/combat/opportunity-attack.md). If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
 flavor: The material substance of a creature shreds away at your command.
 keywords:
     - Magic
@@ -37,7 +37,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the target can move through solid matter, they ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>, and their movement can&#39;t provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the target can move through solid matter, they ignore <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>, and their movement can&#39;t provoke <a href="../../../../../rule/combat/opportunity-attack/">opportunity attacks</a>. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>

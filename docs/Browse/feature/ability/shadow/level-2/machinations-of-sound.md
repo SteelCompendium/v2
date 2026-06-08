@@ -2,8 +2,8 @@
 action_type: Maneuver
 class: shadow
 cost: 5 Insight
-distance: 3 cube within 10
-effect: This [forced movement](../../../../movement/forced-movement.md) ignores stability. Instead, the [forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../../rule/character/intuition.md) score.
+distance: 3 [cube](../../../../rule/combat/cube.md) within 10
+effect: This [forced movement](../../../../movement/forced-movement.md) ignores [stability](../../../../rule/character/stability.md). Instead, the [forced movement](../../../../movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../../../rule/character/intuition.md) score.
 flavor: Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.
 keywords:
     - Area
@@ -32,19 +32,14 @@ type: ability
 <p class="sc-ability__flavor">Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 cube within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 4</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 5</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 7</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> Slide 4</li><li><b>12-16:</b> Slide 5</li><li><b>17+:</b> Slide 7</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This <a href="../../../../../movement/forced-movement/">forced movement</a> ignores stability. Instead, the <a href="../../../../../movement/forced-movement/">forced movement</a> is reduced by a number equal to the target&#39;s <a href="../../../../../rule/character/intuition/">Intuition</a> score.</p></div>
+<div class="sc-ability__section-body"><p>This <a href="../../../../../movement/forced-movement/">forced movement</a> ignores <a href="../../../../../rule/character/stability/">stability</a>. Instead, the <a href="../../../../../movement/forced-movement/">forced movement</a> is reduced by a number equal to the target&#39;s <a href="../../../../../rule/character/intuition/">Intuition</a> score.</p></div>
 </div>
 </article>

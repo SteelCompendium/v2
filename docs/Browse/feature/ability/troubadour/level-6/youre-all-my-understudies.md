@@ -2,8 +2,8 @@
 action_type: Maneuver
 class: troubadour
 cost: 9 Drama
-distance: 5 burst
-effect: Until the end of the encounter, each target gains the speed bonus, weapon [distance](../../../../rule/combat/distance.md) bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.
+distance: 5 [burst](../../../../rule/combat/burst.md)
+effect: Until the end of the encounter, each target gains the [speed](../../../../rule/character/speed.md) bonus, weapon [distance](../../../../rule/combat/distance.md) bonus, disengage bonus, and [stability](../../../../rule/character/stability.md) bonus of your currently equipped kit in addition to their own kit's bonuses.
 flavor: It's important for everyone to know each other's lines, just in case...
 keywords:
     - Area
@@ -31,11 +31,11 @@ type: ability
 <p class="sc-ability__flavor">It&#39;s important for everyone to know each other&#39;s lines, just in case...</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, each target gains the speed bonus, weapon <a href="../../../../../rule/combat/distance/">distance</a> bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit&#39;s bonuses.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, each target gains the <a href="../../../../../rule/character/speed/">speed</a> bonus, weapon <a href="../../../../../rule/combat/distance/">distance</a> bonus, disengage bonus, and <a href="../../../../../rule/character/stability/">stability</a> bonus of your currently equipped kit in addition to their own kit&#39;s bonuses.</p></div>
 </div>
 </article>

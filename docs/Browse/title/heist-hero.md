@@ -17,8 +17,8 @@ type: title
 **Effect:** Choose one of the following benefits:
 
 - *Mother Hen:* You can spend 10 uninterrupted minutes to psionically enhance up to five willing creatures within 10 squares of you who understand a language you know. For the next hour, you and each target can communicate telepathically with each other no matter the [distance](../rule/combat/distance.md) between you.
-- *Sneakers:* You gain the Sneak skill. If you already have this skill, you instead gain an [edge](../rule/dice/edge.md) on tests made using the Sneak skill. During group tests, you can both use the Sneak skill and assist another hero using the Sneak skill.
-- *Timely Distraction:* You have the following triggered action.
+- *Sneakers:* You gain the Sneak skill. If you already have this skill, you instead gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the Sneak skill. During [group tests](../rule/test/group-test.md), you can both use the Sneak skill and assist another hero using the Sneak skill.
+- *Timely Distraction:* You have the following [triggered action](../rule/combat/triggered-action.md).
 
 ## Timely Distraction
 
@@ -29,6 +29,6 @@ type: title
 > |------------------|--------------------:|
 > | **📏 Ranged 10** | **🎯 One creature** |
 >
-> **Trigger:** An ally makes a test to lie to, pick the pocket of, hide from, or sneak by the target and doesn't like the outcome.
+> **Trigger:** An ally makes a [test](../rule/test/test.md) to lie to, pick the pocket of, hide from, or sneak by the target and doesn't like the outcome.
 >
-> **Effect:** You momentarily attract the target's notice to let your ally reroll their test. Once you use this ability, you can't use it again against the same target for 1 hour.
+> **Effect:** You momentarily attract the target's notice to let your ally reroll their [test](../rule/test/test.md). Once you use this ability, you can't use it again against the same target for 1 hour.

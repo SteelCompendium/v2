@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 11 Wrath
 distance: Melee 1
-effect: This ability gains an [edge](../../../../rule/dice/edge.md) against demons, [devils](../../../../ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double [edge](../../../../rule/dice/edge.md). While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) while banished, they are lost to the timescape.
+effect: This ability gains an [edge](../../../../rule/dice/edge.md) against demons, [devils](../../../../ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double [edge](../../../../rule/dice/edge.md). While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make [saving throws](../../../../rule/general/saving-throw.md), and takes 10 holy damage each time they do so. If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) while banished, they are lost to the timescape.
 flavor: You sever the target's tenuous connection to the world.
 keywords:
     - Melee
@@ -35,16 +35,11 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M damage; P &lt; WEAK, the target is banished (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + M damage; P &lt; AVERAGE, the target is banished (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + M damage; P &lt; STRONG, the target is banished (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 5 + M damage; P &lt; WEAK, the target is banished (save ends)</li><li><b>12-16:</b> 8 + M damage; P &lt; AVERAGE, the target is banished (save ends)</li><li><b>17+:</b> 11 + M damage; P &lt; STRONG, the target is banished (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This ability gains an <a href="../../../../../rule/dice/edge/">edge</a> against demons, <a href="../../../../../ancestry/devil/">devils</a>, undead, and creatures not native to your current world. If you know the target&#39;s true name, this ability has a double <a href="../../../../../rule/dice/edge/">edge</a>. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> while banished, they are lost to the timescape.</p></div>
+<div class="sc-ability__section-body"><p>This ability gains an <a href="../../../../../rule/dice/edge/">edge</a> against demons, <a href="../../../../../ancestry/devil/">devils</a>, undead, and creatures not native to your current world. If you know the target&#39;s true name, this ability has a double <a href="../../../../../rule/dice/edge/">edge</a>. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make <a href="../../../../../rule/general/saving-throw/">saving throws</a>, and takes 10 holy damage each time they do so. If the target is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> while banished, they are lost to the timescape.</p></div>
 </div>
 </article>

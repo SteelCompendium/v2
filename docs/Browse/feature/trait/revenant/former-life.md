@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Choose the ancestry you were before you died. Your <a href="../../../../rule/character/size/">size</a> is that ancestry&#39;s <a href="../../../../rule/character/size/">size</a> and your speed is 5. Unless you select one of the Previous Life traits (see below), you don&#39;t receive any other ancestral traits from your original ancestry.</p>
+<p>Choose the ancestry you were before you died. Your <a href="../../../../rule/character/size/">size</a> is that ancestry&#39;s <a href="../../../../rule/character/size/">size</a> and your <a href="../../../../rule/character/speed/">speed</a> is 5. Unless you select one of the Previous Life traits (see below), you don&#39;t receive any other ancestral traits from your original ancestry.</p>
 </div>
 </section>

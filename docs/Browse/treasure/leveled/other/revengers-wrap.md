@@ -16,11 +16,11 @@ type: treasure
 
 **Keywords:** Neck, Magic
 
-**Item Prerequisite:** A cloak worn by a murdered monarch
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A cloak worn by a murdered monarch
 
-**Project Source:** Texts or lore in Caelian
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Caelian
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450
 
@@ -28,4 +28,4 @@ type: treasure
 
 **5th Level:** Each creature who damages you is marked for revenge until the end of your next turn. Whenever you damage a creature marked for revenge, they are also [bleeding](../../../condition/bleeding.md) (save ends).
 
-**9th Level:** When you have three or more creatures marked for revenge and you target one of them with an ability that targets only one creature, you target all the creatures marked for revenge, regardless of their [distance](../../../rule/combat/distance.md) from you and even if you don't have line of effect to them.
+**9th Level:** When you have three or more creatures marked for revenge and you target one of them with an ability that targets only one creature, you target all the creatures marked for revenge, regardless of their [distance](../../../rule/combat/distance.md) from you and even if you don't have [line of effect](../../../rule/combat/line-of-effect.md) to them.

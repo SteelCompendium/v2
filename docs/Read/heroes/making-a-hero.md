@@ -23,7 +23,7 @@ The Director should make an agenda for a campaign's first session often called "
 
 - The Director and players talk about the safety tools they want to employ at the game table (whether physical or virtual), so that everyone has a good time and understands which topics should be avoided in the game's narrative and which should be embraced. For more information, check out the MCDM Tabletop Safety Toolkit at *mcdm.gg/SafetyToolkit*, which includes advice for running a successful first session.
 - The Director discusses the campaign's world and the major story themes they want to introduce into the game. This often takes the form of a campaign pitch the Director presents to the players.
-- The Director should tell the players if any options are limited or rare in their campaign. For example, some Directors don't want psionics to appear in their game worlds, so they might decide that heroes can't be [nulls](../../Browse/class/null.md) or [talents](../../Browse/class/talent.md). Another campaign might be grounded in more typical medieval fantasy and not have any [memonek](../../Browse/ancestry/memonek.md) or [time raiders](../../Browse/ancestry/time-raider.md), or those ancestries might be exceedingly rare. In the latter case, players should know that their [memonek](../../Browse/ancestry/memonek.md) or [time raider](../../Browse/ancestry/time-raider.md) heroes are likely to get a lot of questions from curious NPCs.
+- The Director should tell the players if any options are limited or rare in their campaign. For example, some Directors don't want psionics to appear in their game worlds, so they might decide that heroes can't be [nulls](../../Browse/class/null.md) or [talents](../../Browse/class/talent.md). Another campaign might be grounded in more typical medieval fantasy and not have any [memonek](../../Browse/ancestry/memonek.md) or [time raiders](../../Browse/ancestry/time-raider.md), or those ancestries might be exceedingly rare. In the latter case, players should know that their [memonek](../../Browse/ancestry/memonek.md) or [time raider](../../Browse/ancestry/time-raider.md) heroes are likely to get a lot of questions from curious [NPCs](../../Browse/rule/general/npc.md).
 - The players get a chance to tell the Director what they would like to experience in the campaign. This can include anything from "I'd love to play out some chase scenes!" to "I want to explore themes of loss and grief." These wishes should be starting points for a conversation. If not all players are comfortable with certain themes or content requested by other players, then session zero is a great time to discuss that and come to a consensus about what everyone wants out of the game.
 - Make heroes! Once everyone understands what the campaign is about, it's the perfect time to get into character creation. When a group of players make heroes together, they can tie backstories together and strategize to build a tactically dominant party both in and out of combat.
 - The Director runs an encounter to kick off the campaign. If all the players have the time, it's totally worth it to get some play in during the first session, even if it's just a quick brawl in a tavern with some cultists! Starting off with a little action lets you see what the game is all about—and raises anticipation for the next session.
@@ -78,7 +78,7 @@ Choose or create your hero's culture. Although ancestry gives your hero any numb
 
 #### 4. Career
 
-Choose your hero's career, which describes what you did for a living before you became a hero. A career provides you with skills, an inciting incident that precipitated your adventuring career, and a perk that lets you customize your hero. It might also grant you languages, Renown, wealth, or the potential to undertake crafting and research. See [Careers](careers.md) in Chapter 4: [Background](background.md) for more information.
+Choose your hero's career, which describes what you did for a living before you became a hero. A career provides you with skills, an inciting incident that precipitated your adventuring career, and a perk that lets you customize your hero. It might also grant you languages, [Renown](../../Browse/rule/resource/renown.md), wealth, or the potential to undertake crafting and research. See [Careers](careers.md) in Chapter 4: [Background](background.md) for more information.
 
 > **I Speak Their Language**
 >
@@ -86,11 +86,11 @@ Choose your hero's career, which describes what you did for a living before you 
 
 #### 5. Class
 
-Choose your hero's class. This choice has the biggest impact on how your hero interacts with the rules of the game, particularly the rules for combat. Your class provides your starting [characteristic](../../Browse/rule/character/characteristic.md) scores that determine your character's physical and mental acumen, as well as the [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md) that determine your physical hardiness. A class also provides your character with skills, several abilities—the unique features that define what your hero can do—and other features and benefits. You can be a [censor](../../Browse/class/censor.md), [conduit](../../Browse/class/conduit.md), [elementalist](../../Browse/class/elementalist.md), [fury](../../Browse/class/fury.md), [null](../../Browse/class/null.md), [shadow](../../Browse/class/shadow.md), [tactician](../../Browse/class/tactician.md), [talent](../../Browse/class/talent.md), or [troubadour](../../Browse/class/troubadour.md). See Chapter 5: [Classes](classes.md) for more information on each class, as well as the different types of abilities—signature abilities, heroic abilities, and more—that heroes of a specific class have access to.
+Choose your hero's class. This choice has the biggest impact on how your hero interacts with the rules of the game, particularly the rules for combat. Your class provides your starting [characteristic](../../Browse/rule/character/characteristic.md) scores that determine your character's physical and mental acumen, as well as the [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md) that determine your physical hardiness. A class also provides your character with skills, several abilities—the unique features that define what your hero can do—and other features and benefits. You can be a [censor](../../Browse/class/censor.md), [conduit](../../Browse/class/conduit.md), [elementalist](../../Browse/class/elementalist.md), [fury](../../Browse/class/fury.md), [null](../../Browse/class/null.md), [shadow](../../Browse/class/shadow.md), [tactician](../../Browse/class/tactician.md), [talent](../../Browse/class/talent.md), or [troubadour](../../Browse/class/troubadour.md). See Chapter 5: [Classes](classes.md) for more information on each class, as well as the different types of abilities—[signature abilities](../../Browse/rule/combat/signature-ability.md), [heroic abilities](../../Browse/rule/general/heroic-ability.md), and more—that heroes of a specific class have access to.
 
 #### 6. Kit
 
-Your class might grant your hero a kit that helps define your approach to martial combat. The kit you choose provides you with equipment and a fighting style that grants a signature ability, as well as bonuses to one or more of your game statistics. See Chapter 6: [Kits](kits.md) for more information.
+Your class might grant your hero a kit that helps define your approach to martial combat. The kit you choose provides you with equipment and a fighting style that grants a [signature ability](../../Browse/rule/combat/signature-ability.md), as well as bonuses to one or more of your game statistics. See Chapter 6: [Kits](kits.md) for more information.
 
 #### 7. Add Free Strikes
 
@@ -106,7 +106,7 @@ See [Free Strikes](../../Browse/feature/common/main-actions/free-strike.md) in C
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
+**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 2 + M or A damage
 - **12-16:** 5 + M or A damage
@@ -118,7 +118,7 @@ See [Free Strikes](../../Browse/feature/common/main-actions/free-strike.md) in C
 |-----------------------------|------------------------------:|
 | **📏 Ranged 5**             | **🎯 One creature or object** |
 
-**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
+**[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 2 + M or A damage
 - **12-16:** 4 + M or A damage
@@ -142,7 +142,7 @@ Ask the Director if all the heroes start the campaign knowing each other. If the
 - What's one thing your fellow heroes know about you that other people do not?
 - What's your favorite way to bond with your fellow heroes?
 - You've known one of the other heroes in your party longer than the rest. Who is it, and how did you meet?
-- Another hero creates food, music, clothing, trinkets, or something else that you enjoy. Who is that hero, and what do they make?
+- Another hero creates food, music, clothing, [trinkets](../../Browse/rule/treasure/trinket.md), or something else that you enjoy. Who is that hero, and what do they make?
 - Another hero is teaching you a new skill. Who is it, and what are they teaching you?
 
 Answer these questions with the other players present, and be sure to get a player's approval if your answer makes use of their character.
@@ -159,17 +159,17 @@ At the Director's discretion, you might lose certain gear during an adventure, o
 
 If you pick a skill, ability, class, or any other option that you end up not liking after using it in the game—even your character's ancestry—you can always freely change that option between game sessions. If you want to change some aspect of your character during a session, ask your Director. If they say it's fine to swap that aspect out for something else, go for it. You shouldn't be stuck with any option that makes the game less fun for you.
 
-If you're changing an option for some reason other than fun, you need to follow the usual rules for changing that option. For example, you might want to swap a kit out because you think the next adventure is going to require you to have better [distance](../../Browse/rule/combat/distance.md) with weapon [strikes](../../Browse/rule/combat/strike.md), doing so during a respite as talked about in Chapter 6: [Kits](kits.md). If no rule for swapping out an option exists, such as wanting to change a signature ability granted by your class because you think a different [damage type](../../Browse/rule/damage/damage-type.md) would be more helpful against undead in an upcoming encounter, talk to your Director.
+If you're changing an option for some reason other than fun, you need to follow the usual rules for changing that option. For example, you might want to swap a kit out because you think the next adventure is going to require you to have better [distance](../../Browse/rule/combat/distance.md) with weapon [strikes](../../Browse/rule/combat/strike.md), doing so during a [respite](../../Browse/rule/resource/respite.md) as talked about in Chapter 6: [Kits](kits.md). If no rule for swapping out an option exists, such as wanting to change a [signature ability](../../Browse/rule/combat/signature-ability.md) granted by your class because you think a different [damage type](../../Browse/rule/damage/damage-type.md) would be more helpful against undead in an upcoming encounter, talk to your Director.
 
 #### Optional Rule: Respite Ability Changes
 
-An optional rule the Director can include in your game is to allow heroes to change any number of signature and heroic abilities granted by their class as a respite activity (see Respite in Chapter 1: [The Basics](the-basics.md)). This allows heroes to prepare for upcoming encounters and try new builds, but the Director and the players should all be comfortable with constantly juggling and learning new abilities.
+An optional rule the Director can include in your game is to allow heroes to change any number of signature and [heroic abilities](../../Browse/rule/general/heroic-ability.md) granted by their class as a [respite](../../Browse/rule/resource/respite.md) activity (see [Respite](../../Browse/rule/resource/respite.md) in Chapter 1: [The Basics](the-basics.md)). This allows heroes to prepare for upcoming encounters and try new builds, but the Director and the players should all be comfortable with constantly juggling and learning new abilities.
 
 ### Heroic Advancement
 
 Your character's heroic advancement is marked by level. Each time you gain a new level in your class, your [Stamina](../../Browse/rule/health/stamina.md) increases, and you gain new features or abilities according to your class's advancement, as detailed in Chapter 5: [Classes](classes.md).
 
-In the standard setup for the game, heroes gain Experience each time they finish a respite (see Building a Heroic Narrative in Chapter 1: [The Basics](the-basics.md)). When you gain sufficient Experience, you gain a level during the same respite. The Heroic Advancement table shows exactly how much Experience (XP) you need to advance from one level to the next. The amount of Experience you gain is cumulative.
+In the standard setup for the game, heroes gain [Experience](../../Browse/rule/resource/experience.md) each time they finish a [respite](../../Browse/rule/resource/respite.md) (see Building a Heroic Narrative in Chapter 1: [The Basics](the-basics.md)). When you gain sufficient [Experience](../../Browse/rule/resource/experience.md), you gain a level during the same [respite](../../Browse/rule/resource/respite.md). The Heroic Advancement table shows exactly how much [Experience](../../Browse/rule/resource/experience.md) ([XP](../../Browse/rule/resource/experience.md)) you need to advance from one level to the next. The amount of [Experience](../../Browse/rule/resource/experience.md) you gain is cumulative.
 
 #### Alternative Advancement
 
@@ -177,21 +177,21 @@ Though many games might advance using the standard setup for heroic advancement,
 
 ##### Adjusted XP Advancement
 
-Some Directors prefer that heroes gain new levels faster or slower to suit the pace of their story. The Adjusted XP Advancement table is set up for campaigns where heroes advance at double or half the usual pace. Directors can also create their own customized pace for XP-based advancement.
+Some Directors prefer that heroes gain new levels faster or slower to suit the pace of their story. The Adjusted [XP](../../Browse/rule/resource/experience.md) Advancement table is set up for campaigns where heroes advance at double or half the usual pace. Directors can also create their own customized pace for [XP](../../Browse/rule/resource/experience.md)-based advancement.
 
 ##### Milestone Advancement
 
-Rather than tracking XP, some games have the heroes advance in level when they achieve a particular story milestone. For example, when a party defeats the main villain of an adventure and foils their dastardly plot, each hero gains a level for achieving this objective, no matter how many obstacles they faced along the way.
+Rather than tracking [XP](../../Browse/rule/resource/experience.md), some games have the heroes advance in level when they achieve a particular story milestone. For example, when a party defeats the main villain of an adventure and foils their dastardly plot, each hero gains a level for achieving this [objective](../../Browse/rule/combat/objective.md), no matter how many obstacles they faced along the way.
 
 For many Directors using milestone advancement, the end of each adventure within a campaign serves as a milestone for gaining a new level. The Director can share these milestones with the players to encourage them to work toward particular goals, and to engage with the story and world the Director has prepared. For example, in a campaign where the heroes have to face nine evil mages, it makes sense that each time the heroes defeat a mage, they gain a level. The Director should keep milestone goals flexible, though. Defeating a mage could mean stopping them with violence, using negotiation to make them stand down, or anything else that thwarts their evil plans.
 
 ##### Director Says So
 
-Some games don't track XP or goals at all. The heroes simply gain a level whenever the Director decides it's appropriate for the story.
+Some games don't track [XP](../../Browse/rule/resource/experience.md) or goals at all. The heroes simply gain a level whenever the Director decides it's appropriate for the story.
 
 ###### Heroic Advancement Table
 
-| Level              | XP    | Level | XP      |
+| Level              | [XP](../../Browse/rule/resource/experience.md)    | Level | [XP](../../Browse/rule/resource/experience.md)      |
 |--------------------|-------|-------|---------|
 | 1st                | 0-15  | 6th   | 80-95   |
 | 2nd                | 16-31 | 7th   | 96-111  |
@@ -201,7 +201,7 @@ Some games don't track XP or goals at all. The heroes simply gain a level whenev
 
 ###### Adjusted XP Advancement Table
 
-| Level | XP for Double Speed | XP for Half Speed |
+| Level | [XP](../../Browse/rule/resource/experience.md) for Double [Speed](../../Browse/rule/character/speed.md) | [XP](../../Browse/rule/resource/experience.md) for Half [Speed](../../Browse/rule/character/speed.md) |
 |-------|---------------------|-------------------|
 | 1st   | 0-7                 | 0-31              |
 | 2nd   | 8-15                | 32-63             |

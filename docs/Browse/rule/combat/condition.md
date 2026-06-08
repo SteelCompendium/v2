@@ -12,21 +12,21 @@ Some abilities and other effects apply specific negative effects called conditio
 
 ## Bleeding {data-scc="mcdm.heroes.v1/condition/bleeding"}
 
-While a creature is [bleeding](../../condition/bleeding.md), whenever they use a main action, use a triggered action, or make a test or ability roll using [Might](../character/might.md) or [Agility](../character/agility.md), they lose [Stamina](../health/stamina.md) equal to 1d6 + their level after the main action, triggered action, or power roll is resolved. This [Stamina](../health/stamina.md) loss can't be prevented in any way, and only happens once per action.
+While a creature is [bleeding](../../condition/bleeding.md), whenever they use a main action, use a [triggered action](triggered-action.md), or make a [test](../test/test.md) or [ability roll](../dice/ability-roll.md) using [Might](../character/might.md) or [Agility](../character/agility.md), they lose [Stamina](../health/stamina.md) equal to 1d6 + their level after the main action, [triggered action](triggered-action.md), or [power roll](../dice/power-roll.md) is resolved. This [Stamina](../health/stamina.md) loss can't be prevented in any way, and only happens once per action.
 
-You take damage from this condition when you use a main action off your turn. For example, a signature ability used as a free triggered action with the assistance of the [tactician's](../../class/tactician.md) [Strike Now](../../feature/ability/tactician/level-1/strike-now.md) ability triggers the damage from the [bleeding](../../condition/bleeding.md) condition.
+You take damage from this condition when you use a main action off your turn. For example, a [signature ability](signature-ability.md) used as a free [triggered action](triggered-action.md) with the assistance of the [tactician's](../../class/tactician.md) [Strike Now](../../feature/ability/tactician/level-1/strike-now.md) ability triggers the damage from the [bleeding](../../condition/bleeding.md) condition.
 
 ## Dazed {data-scc="mcdm.heroes.v1/condition/dazed"}
 
-A creature who is [dazed](../../condition/dazed.md) can do only one thing on their turn: use a main action, use a maneuver, or use a move action. A [dazed](../../condition/dazed.md) creature also can't use triggered actions, free triggered actions, or free maneuvers.
+A creature who is [dazed](../../condition/dazed.md) can do only one thing on their turn: use a main action, use a maneuver, or use a move action. A [dazed](../../condition/dazed.md) creature also can't use [triggered actions](triggered-action.md), free [triggered actions](triggered-action.md), or [free maneuvers](free-maneuver.md).
 
 ## Frightened {data-scc="mcdm.heroes.v1/condition/frightened"}
 
-When a creature is [frightened](../../condition/frightened.md), any ability roll they make against the source of their fear takes a [bane](../dice/bane.md). If that source is a creature, their ability rolls made against the [frightened](../../condition/frightened.md) creature gain an [edge](../dice/edge.md). A [frightened](../../condition/frightened.md) creature can't willingly move closer to the source of their fear if they know the location of that source. If a creature gains the [frightened](../../condition/frightened.md) condition from one source while already [frightened](../../condition/frightened.md) by a different source, the new condition replaces the old one.
+When a creature is [frightened](../../condition/frightened.md), any [ability roll](../dice/ability-roll.md) they make against the source of their fear takes a [bane](../dice/bane.md). If that source is a creature, their [ability rolls](../dice/ability-roll.md) made against the [frightened](../../condition/frightened.md) creature gain an [edge](../dice/edge.md). A [frightened](../../condition/frightened.md) creature can't willingly move closer to the source of their fear if they know the location of that source. If a creature gains the [frightened](../../condition/frightened.md) condition from one source while already [frightened](../../condition/frightened.md) by a different source, the new condition replaces the old one.
 
 ## Grabbed {data-scc="mcdm.heroes.v1/condition/grabbed"}
 
-A creature who is [grabbed](../../condition/grabbed.md) has speed 0, can't be [force moved](../../movement/forced-movement.md) except by a creature, object, or effect that has them [grabbed](../../condition/grabbed.md), can't use the [Knockback](../../feature/common/maneuvers/knockback.md) maneuver (see Maneuvers in Chapter 10: [Combat](../../../Read/heroes/combat.md)), and takes a [bane](../dice/bane.md) on abilities that don't target the creature, object, or effect that has them [grabbed](../../condition/grabbed.md). If a creature is [grabbed](../../condition/grabbed.md) by another creature and that creature moves, they bring the [grabbed](../../condition/grabbed.md) creature with them. If a creature's [size](../character/size.md) is equal to or less than the size of a creature they have [grabbed](../../condition/grabbed.md), their speed is halved while they have that creature [grabbed](../../condition/grabbed.md).
+A creature who is [grabbed](../../condition/grabbed.md) has [speed](../character/speed.md) 0, can't be [force moved](../../movement/forced-movement.md) except by a creature, object, or effect that has them [grabbed](../../condition/grabbed.md), can't use the [Knockback](../../feature/common/maneuvers/knockback.md) maneuver (see Maneuvers in Chapter 10: [Combat](../../../Read/heroes/combat.md)), and takes a [bane](../dice/bane.md) on abilities that don't target the creature, object, or effect that has them [grabbed](../../condition/grabbed.md). If a creature is [grabbed](../../condition/grabbed.md) by another creature and that creature moves, they bring the [grabbed](../../condition/grabbed.md) creature with them. If a creature's [size](../character/size.md) is equal to or less than the size of a creature they have [grabbed](../../condition/grabbed.md), their [speed](../character/speed.md) is halved while they have that creature [grabbed](../../condition/grabbed.md).
 
 A creature who has another creature [grabbed](../../condition/grabbed.md) can use a maneuver to move the [grabbed](../../condition/grabbed.md) creature into an unoccupied space adjacent to them.
 
@@ -44,18 +44,18 @@ Unless the ability or effect that imposed the [prone](../../condition/prone.md) 
 
 ## Restrained {data-scc="mcdm.heroes.v1/condition/restrained"}
 
-A creature who is [restrained](../../condition/restrained.md) has speed 0, can't use the [Stand Up](../../feature/common/maneuvers/stand-up.md) maneuver, and can't be [force moved](../../movement/forced-movement.md). A [restrained](../../condition/restrained.md) creature takes a [bane](../dice/bane.md) on ability rolls and on [Might](../character/might.md) and [Agility](../character/agility.md) tests, and abilities used against them gain an [edge](../dice/edge.md).
+A creature who is [restrained](../../condition/restrained.md) has [speed](../character/speed.md) 0, can't use the [Stand Up](../../feature/common/maneuvers/stand-up.md) maneuver, and can't be [force moved](../../movement/forced-movement.md). A [restrained](../../condition/restrained.md) creature takes a [bane](../dice/bane.md) on [ability rolls](../dice/ability-roll.md) and on [Might](../character/might.md) and [Agility](../character/agility.md) [tests](../test/test.md), and abilities used against them gain an [edge](../dice/edge.md).
 
 If a creature [teleports](../../movement/teleport.md) while [restrained](../../condition/restrained.md), that condition ends.
 
 ## Slowed {data-scc="mcdm.heroes.v1/condition/slowed"}
 
-A creature who is [slowed](../../condition/slowed.md) has speed 2 unless their speed is already lower, and they can't [shift](../../movement/shifting.md).
+A creature who is [slowed](../../condition/slowed.md) has [speed](../character/speed.md) 2 unless their [speed](../character/speed.md) is already lower, and they can't [shift](../../movement/shifting.md).
 
 ## Taunted {data-scc="mcdm.heroes.v1/condition/taunted"}
 
-A creature who is [taunted](../../condition/taunted.md) has a double [bane](../dice/bane.md) on ability rolls for any ability that doesn't target the creature who [taunted](../../condition/taunted.md) them, as long as they have line of effect to that creature. If a creature gains the [taunted](../../condition/taunted.md) condition from one source while already [taunted](../../condition/taunted.md) by a different source, the new condition replaces the old one.
+A creature who is [taunted](../../condition/taunted.md) has a double [bane](../dice/bane.md) on [ability rolls](../dice/ability-roll.md) for any ability that doesn't target the creature who [taunted](../../condition/taunted.md) them, as long as they have [line of effect](line-of-effect.md) to that creature. If a creature gains the [taunted](../../condition/taunted.md) condition from one source while already [taunted](../../condition/taunted.md) by a different source, the new condition replaces the old one.
 
 ## Weakened {data-scc="mcdm.heroes.v1/condition/weakened"}
 
-A creature who is [weakened](../../condition/weakened.md) takes a [bane](../dice/bane.md) on power rolls.
+A creature who is [weakened](../../condition/weakened.md) takes a [bane](../dice/bane.md) on [power rolls](../dice/power-roll.md).

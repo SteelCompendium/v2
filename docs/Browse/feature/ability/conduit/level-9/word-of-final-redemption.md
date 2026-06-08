@@ -4,7 +4,7 @@ class: conduit
 cost: 11 Piety
 distance: Ranged 10
 effect: Before the target dies, you can look at their stat block and force them to use one ability that is a main action or a maneuver. If the ability costs a [Heroic Resource](../../../../rule/resource/heroic-resource.md) or Malice, the creature can use it without any cost. For the purpose of using this ability, your allies and enemies are the target's allies and enemies, and you decide who the ability targets.
-flavor: Your death will fuel our victory.
+flavor: Your death will fuel our [victory](../../../../rule/resource/victories.md).
 keywords:
     - Magic
     - Ranged
@@ -30,7 +30,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Piety</div></div>
 </div>
-<p class="sc-ability__flavor">Your death will fuel our victory.</p>
+<p class="sc-ability__flavor">Your death will fuel our <a href="../../../../../rule/resource/victories/">victory</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>

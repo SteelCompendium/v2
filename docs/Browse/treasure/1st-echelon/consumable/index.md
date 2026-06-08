@@ -13,8 +13,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v has-tip" title="45 (yields 1d3 darts, or three darts if crafted by a shadow)">45*</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Three vials of black ash from the College of Black Ash</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Szetch</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="blood-essence-vial/" aria-label="Blood Essence Vial"></a>
@@ -26,8 +24,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A ruby purloined from a vampire</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Proto-Ctholl</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="buzz-balm/" aria-label="Buzz Balm"></a>
@@ -39,8 +35,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> An ounce of demon honey</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Kalliak</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="catapult-dust/" aria-label="Catapult Dust"></a>
@@ -52,8 +46,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> An ounce of witherite crystal</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="giants-blood-flame/" aria-label="Giant&#39;s-Blood Flame"></a>
@@ -65,8 +57,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> One vial of fire giant blood</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="growth-potion/" aria-label="Growth Potion"></a>
@@ -78,8 +68,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A half-pound of seagrass</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="healing-potion/" aria-label="Healing Potion"></a>
@@ -91,8 +79,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> An ounce of costmary leaves</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="imps-tongue/" aria-label="Imp&#39;s Tongue"></a>
@@ -104,8 +90,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> One imp's tongue</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="lachomp-tooth/" aria-label="Lachomp Tooth"></a>
@@ -117,8 +101,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v has-tip" title="45 (yields 1d3 teeth)">45*</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A leftover carcass of a lachomp meal</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="mirror-token/" aria-label="Mirror Token"></a>
@@ -130,8 +112,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Three sheets of glass, sunbaked gold dust</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Variac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="pocket-homunculus/" aria-label="Pocket Homunculus"></a>
@@ -143,8 +123,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A strip of starmetal coated in the blood of the item's crafter</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Zaliac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="portable-cloud/" aria-label="Portable Cloud"></a>
@@ -156,8 +134,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v has-tip" title="30 or 45 (see below)">30*</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A cup of rainwater from a sacred fey grove, plus an optional prerequisite (see below)</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="professor-veratismos-quaff-n-huff-snuff/" aria-label="Professor Veratismo&#39;s Quaff &#39;n Huff Snuff"></a>
@@ -169,8 +145,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">45</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> The roots of a just-budded nightshade</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="snapdragon/" aria-label="Snapdragon"></a>
@@ -182,7 +156,5 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v has-tip" title="45 (yields 1d6 + 1 snapdragons)">45*</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Fifty snapdragon seeds</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Yllyric</div>
 </div>
 </div>

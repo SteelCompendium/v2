@@ -13,8 +13,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A lash used to punish a mutineer</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Khelt</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="blade-of-quintessence/" aria-label="Blade of Quintessence"></a>
@@ -26,8 +24,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A ruby hardened in the fires of the City of Brass, a sapphire that has been struck by lightning</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Zaliac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="blade-of-the-luxurious-fop/" aria-label="Blade of the Luxurious Fop"></a>
@@ -39,8 +35,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A personal blessing from the greatest duelist in the land, six fake and extremely shiny gemstones</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="displacer/" aria-label="Displacer"></a>
@@ -52,8 +46,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> An ancient bronze gear covered in indecipherable runes</div>
-  <div class="sc-card__line"><b>Source</b> Texts in Zaliac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="executioners-blade/" aria-label="Executioner&#39;s Blade"></a>
@@ -65,8 +57,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> The skull of a convicted criminal</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="glancing-bow/" aria-label="Glancing Bow"></a>
@@ -104,8 +94,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Eight iron bars cooled in a glacier, the branch of an ancient evergreen</div>
-  <div class="sc-card__line"><b>Source</b> Texts in Zaliac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="knife-of-nine/" aria-label="Knife of Nine"></a>
@@ -117,8 +105,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Eighteen daggers—nine taken from personal enemies and nine gifted by friends</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Variac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="lance-of-the-sundered-star/" aria-label="Lance of the Sundered Star"></a>
@@ -130,8 +116,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Night-blooming flower petals, a starmetal meteorite</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Hyrallic</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="longclaw/" aria-label="Longclaw"></a>
@@ -155,8 +139,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Four iron bars coated in magma slag</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="onerous-bow/" aria-label="Onerous Bow"></a>
@@ -168,8 +150,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A venom sac from a giant spider, one valok gyroscope</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian and Variac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="scorpion-tails/" aria-label="Scorpion Tails"></a>
@@ -195,8 +175,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> One hundred steel arrowheads stained with blood</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Caelian and Kalliak</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="third-eye-seeker/" aria-label="Third Eye Seeker"></a>
@@ -208,8 +186,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Heart strings of a tapir, a pound of tiger's eye gemstones</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Variac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="thunderhead-bident/" aria-label="Thunderhead Bident"></a>
@@ -221,8 +197,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A jar of captured thunder, two ingots of moon metal</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Zaliac</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="wetwork/" aria-label="Wetwork"></a>
@@ -234,7 +208,5 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A folded metal blade infused with blood</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Higaran</div>
 </div>
 </div>

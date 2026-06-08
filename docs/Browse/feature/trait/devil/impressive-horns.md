@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your cherished horns are larger than the average <a href="../../../../ancestry/devil/">devil&#39;s</a>, and a hardened representation of your force of will. Whenever you make a saving throw, you succeed on a roll of 5 or higher.</p>
+<p>Your cherished horns are larger than the average <a href="../../../../ancestry/devil/">devil&#39;s</a>, and a hardened representation of your force of will. Whenever you make a <a href="../../../../rule/general/saving-throw/">saving throw</a>, you succeed on a roll of 5 or higher.</p>
 </div>
 </section>

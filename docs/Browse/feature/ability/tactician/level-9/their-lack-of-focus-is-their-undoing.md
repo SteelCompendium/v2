@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 11 Focus
 distance: Ranged 10
-effect: Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets' abilities, you make a power roll against each original target.
+effect: Each target uses a [signature ability](../../../../rule/combat/signature-ability.md) against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the [power roll](../../../../rule/dice/power-roll.md). After resolving the targets' abilities, you make a [power roll](../../../../rule/dice/power-roll.md) against each original target.
 flavor: You trick your enemies into attacking each other and leave them confused by the aftermath.
 keywords:
     - Magic
@@ -35,16 +35,8 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three enemies</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../../rule/character/might.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">R &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">R &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">R &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets&#39; abilities, you make a power roll against each original target.</p></div>
+<div class="sc-ability__section-body"><p>Each target uses a <a href="../../../../../rule/combat/signature-ability/">signature ability</a> against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the <a href="../../../../../rule/dice/power-roll/">power roll</a>. After resolving the targets&#39; abilities, you make a <a href="../../../../../rule/dice/power-roll/">power roll</a> against each original target.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> R &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>12-16:</b> R &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>17+:</b> R &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</li></ul></div>
 </div>
 </article>

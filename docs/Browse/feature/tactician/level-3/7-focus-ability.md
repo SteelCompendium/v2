@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 7 focus to use.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 7 focus to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
 <div class="sc-ability__head">
@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then <a href="../../../../movement/shifting/">shift</a> up to 2 squares. Additionally, any ally using the <a href="../../../common/main-actions/charge/">Charge</a> main action to target a creature marked by you can use a melee <a href="../../../../rule/combat/strike/">strike</a> signature ability or a melee <a href="../../../../rule/combat/strike/">strike</a> heroic ability instead of a melee <a href="../../../common/main-actions/free-strike/">free strike</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then <a href="../../../../movement/shifting/">shift</a> up to 2 squares. Additionally, any ally using the <a href="../../../common/main-actions/charge/">Charge</a> main action to target a creature marked by you can use a melee <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> or a melee <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/general/heroic-ability/">heroic ability</a> instead of a melee <a href="../../../common/main-actions/free-strike/">free strike</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">

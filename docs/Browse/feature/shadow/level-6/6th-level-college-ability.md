@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../../level-1/shadow-college/">shadow college</a> grants your choice of one of two heroic abilities.</p>
+<p>Your <a href="../../level-1/shadow-college/">shadow college</a> grants your choice of one of two <a href="../../../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -46,13 +46,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + A damage; vertical push 5</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + A damage; vertical push 10</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + A damage; vertical push 15</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 3 + A damage; vertical push 5</li><li><b>12-16:</b> 6 + A damage; vertical push 10</li><li><b>17+:</b> 9 + A damage; vertical push 15</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -71,7 +66,7 @@ type: feature
 <p class="sc-ability__flavor">You <a href="../../../../movement/teleport/">teleport</a> your friends in a burst of ash and fire.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
@@ -108,7 +103,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../../common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its potency at the end of the encounter.</p><p>A creature who drinks the potion can spend up to 2 <a href="../../../../rule/health/recoveries/">Recoveries</a>, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.</p></div>
+<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../../common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its <a href="../../../../rule/character/potency/">potency</a> at the end of the encounter.</p><p>A creature who drinks the potion can spend up to 2 <a href="../../../../rule/health/recoveries/">Recoveries</a>, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -126,17 +121,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature&#39;s speed is increased by 2 until the end of the encounter.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature can <a href="../../../../movement/fly/">fly</a> until the end of the encounter.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature turns invisible until the end of their next turn.</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../../common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its potency at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your power roll.</p></div>
+<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../../common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its <a href="../../../../rule/character/potency/">potency</a> at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your <a href="../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> The creature&#39;s <a href="../../../../rule/character/speed/">speed</a> is increased by 2 until the end of the encounter.</li><li><b>12-16:</b> The creature can <a href="../../../../movement/fly/">fly</a> until the end of the encounter.</li><li><b>17+:</b> The creature turns invisible until the end of their next turn.</li></ul></div>
 </div>
 </article>
 </div>
@@ -163,12 +150,12 @@ type: feature
 <p class="sc-ability__flavor">You distract your foes, allowing your allies to take advantage of that distraction.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, any ability roll made against a target gains an <a href="../../../../rule/dice/edge/">edge</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, any <a href="../../../../rule/dice/ability-roll/">ability roll</a> made against a target gains an <a href="../../../../rule/dice/edge/">edge</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -186,13 +173,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two enemies</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; if the target has R &lt; WEAK, before the damage is resolved, they make a <a href="../../../common/main-actions/free-strike/">free strike</a>.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; if the target has R &lt; AVERAGE, before the damage is resolved, they use a main action ability of your choice.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; if the target has R &lt; STRONG, before the damage is resolved, they can <a href="../../../../movement/shifting/">shift</a> up to their speed and use a main action ability of your choice.</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 2 damage; if the target has R &lt; WEAK, before the damage is resolved, they make a <a href="../../../common/main-actions/free-strike/">free strike</a>.</li><li><b>12-16:</b> 5 damage; if the target has R &lt; AVERAGE, before the damage is resolved, they use a main action ability of your choice.</li><li><b>17+:</b> 7 damage; if the target has R &lt; STRONG, before the damage is resolved, they can <a href="../../../../movement/shifting/">shift</a> up to their <a href="../../../../rule/character/speed/">speed</a> and use a main action ability of your choice.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

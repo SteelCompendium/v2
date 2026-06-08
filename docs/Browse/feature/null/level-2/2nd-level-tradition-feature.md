@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have cold immunity equal to twice your <a href="../../../../rule/character/intuition/">Intuition</a> score. Additionally, you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a> related to cold and ice, and you can automatically climb at full speed while moving.</p>
+<p>You have cold immunity equal to twice your <a href="../../../../rule/character/intuition/">Intuition</a> score. Additionally, you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a> related to cold and ice, and you can automatically climb at full <a href="../../../../rule/character/speed/">speed</a> while moving.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -63,7 +63,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any respite, you can take an additional respite activity.</p>
+<p>As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any <a href="../../../../rule/resource/respite/">respite</a>, you can take an additional <a href="../../../../rule/resource/respite/">respite</a> activity.</p>
 </div>
 </section>
 </div>

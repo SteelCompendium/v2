@@ -9,7 +9,7 @@ type: ancestry
 
 ---
 
-After [humans](human.md), [polders](polder.md) are the most numerous and diverse ancestry in Orden. They are not [humans](human.md), but they live in and among [humans](human.md) and share their gods and culture. Almost every [human](human.md) culture in Orden has a [polder](polder.md) saint or a [human](human.md) saint venerated by [polder](polder.md).
+After [humans](human.md), [polders](polder.md) are the most numerous and diverse ancestry in [Orden](../rule/world/orden.md). They are not [humans](human.md), but they live in and among [humans](human.md) and share their gods and culture. Almost every [human](human.md) culture in [Orden](../rule/world/orden.md) has a [polder](polder.md) saint or a [human](human.md) saint venerated by [polder](polder.md).
 
 Short, averaging 31/2 feet tall, the [polders](polder.md)' origins are obscure. They are a young species who, like [humans](human.md), have no single patron god. Their ability to *shadowmeld* means they enjoy a reputation as excellent spies and thieves. Many [polders](polder.md) consider this a base slander and point out they're also famed as chefs, though [polders](polder.md) can be found in every profession, especially in cities.
 
@@ -69,7 +69,7 @@ He looked at his drink, at the expensive clear glass the innkeep had given him b
 
 John took a deep breath and came back to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
 
-The [polder](polder.md) looked at the [high elf](high-elf.md) and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
+The [polder](polder.md) looked at the [high elf](high-elf.md) and nodded, impressed. [Test](../rule/test/test.md) passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
 
 "Where are we going to find three ogres?" John asked.
 
@@ -139,7 +139,7 @@ You have the following ability.
 |-------------|----------------:|
 | **📏 Self** |     **🎯 Self** |
 
-**Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md) from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and [strikes](../rule/combat/strike.md) made against you and tests made to search for you take a [bane](../rule/dice/bane.md). You can't move or be [force moved](../movement/forced-movement.md), and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
+**Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md) from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and [strikes](../rule/combat/strike.md) made against you and [tests](../rule/test/test.md) made to search for you take a [bane](../rule/dice/bane.md). You can't move or be [force moved](../movement/forced-movement.md), and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
 
 If the surface you are flattened against is destroyed, this ability ends and you take 1d6 damage that can't be reduced in any way.
 
@@ -165,12 +165,12 @@ Your small [size](../rule/character/size.md) makes it easier for you to slip awa
 
 #### Nimblestep {data-scc="mcdm.heroes.v1/feature.trait.polder/nimblestep"}
 
-A light step serves you well when speed is of the essence. You ignore the effects of [difficult terrain](../movement/difficult-terrain.md) and can move at full speed while sneaking.
+A light step serves you well when [speed](../rule/character/speed.md) is of the essence. You ignore the effects of [difficult terrain](../movement/difficult-terrain.md) and can move at full [speed](../rule/character/speed.md) while sneaking.
 
 #### Polder Geist {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-geist"}
 
-Evading others' notice gives you freedom to move. At the start of each of your turns during combat, if no enemy has line of effect to you or if you are hidden from or have [concealment](../rule/combat/concealment.md) from any enemy with line of effect to you, you gain a +3 bonus to speed until the end of your turn.
+Evading others' notice gives you freedom to move. At the start of each of your turns during combat, if no enemy has [line of effect](../rule/combat/line-of-effect.md) to you or if you are hidden from or have [concealment](../rule/combat/concealment.md) from any enemy with [line of effect](../rule/combat/line-of-effect.md) to you, you gain a +3 bonus to [speed](../rule/character/speed.md) until the end of your turn.
 
 #### Reactive Tumble {data-scc="mcdm.heroes.v1/feature.trait.polder/reactive-tumble"}
 
-Staying light on your feet lets you quickly get back into position. Whenever you are [force moved](../movement/forced-movement.md), you can use a free triggered action to [shift](../movement/shifting.md) 1 square after the [forced movement](../movement/forced-movement.md) is resolved.
+Staying light on your feet lets you quickly get back into position. Whenever you are [force moved](../movement/forced-movement.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to [shift](../movement/shifting.md) 1 square after the [forced movement](../movement/forced-movement.md) is resolved.

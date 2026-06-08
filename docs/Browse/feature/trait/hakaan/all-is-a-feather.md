@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You are exceptionally strong. You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to lift and haul heavy objects.</p>
+<p>You are exceptionally strong. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to lift and haul heavy objects.</p>
 </div>
 </section>

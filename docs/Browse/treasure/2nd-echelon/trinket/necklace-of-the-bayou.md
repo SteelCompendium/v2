@@ -1,6 +1,6 @@
 ---
 echelon: "2"
-effect: While you wear this necklace, you can breathe underwater, you can automatically swim at full speed while moving, and you ignore [difficult terrain](../../../movement/difficult-terrain.md) created by water or in marsh and similar terrain.
+effect: While you wear this necklace, you can breathe underwater, you can automatically swim at full [speed](../../../rule/character/speed.md) while moving, and you ignore [difficult terrain](../../../movement/difficult-terrain.md) created by water or in marsh and similar terrain.
 keywords:
     - Magic
     - Neck
@@ -18,12 +18,12 @@ type: treasure
 
 **Keywords:** Magic, Neck
 
-**Item Prerequisite:** A gallon of swamp water, the limbs of four different newts
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A gallon of swamp water, the limbs of four different newts
 
-**Project Source:** Texts or lore in Yllyric
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Yllyric
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 300
 
-**Effect:** While you wear this necklace, you can breathe underwater, you can automatically swim at full speed while moving, and you ignore [difficult terrain](../../../movement/difficult-terrain.md) created by water or in marsh and similar terrain.
+**Effect:** While you wear this necklace, you can breathe underwater, you can automatically swim at full [speed](../../../rule/character/speed.md) while moving, and you ignore [difficult terrain](../../../movement/difficult-terrain.md) created by water or in marsh and similar terrain.

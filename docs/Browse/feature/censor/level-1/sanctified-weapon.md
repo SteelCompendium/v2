@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a respite activity, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to rolled damage with abilities that use the weapon. This benefit lasts until you finish another respite.</p>
+<p>As a <a href="../../../../rule/resource/respite/">respite</a> activity, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> with abilities that use the weapon. This benefit lasts until you finish another <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>

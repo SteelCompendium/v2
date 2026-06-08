@@ -14,4 +14,4 @@ If you're not sure whether you have line of effect to a target, imagine drawing 
 
 At the Director's discretion, flimsy or fragile obstructions such as a glass window or linen curtains don't block line of effect, and might be automatically broken or torn by strikes or other abilities used through them.
 
-If you use an ability that creates an environmental effect, such as a portal, you must have line of effect to the space where you create the environmental effect. If you want to create an area of effect in a specific area, you must have line of effect to at least one of the squares in that area. See Area Abilities above.
+If you use an ability that creates an environmental effect, such as a portal, you must have line of effect to the space where you create the environmental effect. If you want to create an [area of effect](area-of-effect.md) in a specific area, you must have line of effect to at least one of the squares in that area. See Area Abilities above.

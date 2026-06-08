@@ -5,7 +5,6 @@ melee_damage_bonus: +1/+1/+1
 name: Ranger
 ranged_damage_bonus: +1/+1/+1
 scc: mcdm.heroes.v1/kit/ranger
-speed_bonus: "+1"
 type: kit
 ---
 
@@ -21,9 +20,9 @@ You wear medium armor and wield a bow and a medium weapon.
 
 ## Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +6 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +6 per [echelon](../rule/general/echelon.md)
 
-**Speed Bonus:** +1
+**[Speed](../rule/character/speed.md) Bonus:** +1
 
 **Melee Damage Bonus:** +1/+1/+1
 
@@ -43,7 +42,7 @@ You wear medium armor and wield a bow and a medium weapon.
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage; A < WEAK, [slowed](../condition/slowed.md) (save ends)
 - **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](../condition/slowed.md) (save ends)

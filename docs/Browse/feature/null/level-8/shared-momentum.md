@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>When you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action, one ally in the area of your <a href="../../level-1/null-field/">Null Field</a> ability can also take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action as a free triggered action, using your <a href="../../../../rule/combat/distance/">distance</a> for that move action.</p>
+<p>When you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action, one ally in the area of your <a href="../../level-1/null-field/">Null Field</a> ability can also take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>, using your <a href="../../../../rule/combat/distance/">distance</a> for that move action.</p>
 </div>
 </section>

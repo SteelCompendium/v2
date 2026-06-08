@@ -30,17 +30,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 x 1 line within 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Your Highest [Characteristic](../../../rule/character/characteristic.md) Score</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 fire damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 fire damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 fire damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + Your Highest <a href="../../../../rule/character/characteristic/">Characteristic</a> Score:</b></p><ul><li><b>≤11:</b> 5 fire damage</li><li><b>12-16:</b> 8 fire damage</li><li><b>17+:</b> 11 fire damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Invulnerable</span></div>
-<div class="sc-ability__section-body"><p>When an ability roll made against you obtains a tier 1 outcome, you can ignore its damage and effects.</p></div>
+<div class="sc-ability__section-body"><p>When an <a href="../../../../rule/dice/ability-roll/">ability roll</a> made against you obtains a tier 1 outcome, you can ignore its damage and effects.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Leyline Walker</span></div>
@@ -56,7 +51,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Phasing III</span></div>
-<div class="sc-ability__section-body"><p>Your movement doesn&#39;t provoke opportunity attacks, and you can move through the space of any enemy as if they were an ally. You can&#39;t end your turn in an enemy&#39;s space.</p></div>
+<div class="sc-ability__section-body"><p>Your movement doesn&#39;t provoke <a href="../../../../rule/combat/opportunity-attack/">opportunity attacks</a>, and you can move through the space of any enemy as if they were an ally. You can&#39;t end your turn in an enemy&#39;s space.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Psionic Resistance III</span></div>
@@ -64,10 +59,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Temporal Flux</span></div>
-<div class="sc-ability__section-body"><p>Whenever you move out of a square, you can choose to leave an imprint behind that lasts until the end of the encounter, until your imprint takes 20 or more damage, or until you create a new imprint. The square is occupied by your imprint, and you can share that space with it.</p><p>On your turn, you can <a href="../../../../movement/teleport/">teleport</a> to the imprint&#39;s space as a free maneuver. When you are targeted by an ability, you can use a free triggered action to <a href="../../../../movement/teleport/">teleport</a> to your imprint, and the power roll for the ability is an automatic tier 1 result.</p></div>
+<div class="sc-ability__section-body"><p>Whenever you move out of a square, you can choose to leave an imprint behind that lasts until the end of the encounter, until your imprint takes 20 or more damage, or until you create a new imprint. The square is occupied by your imprint, and you can share that space with it.</p><p>On your turn, you can <a href="../../../../movement/teleport/">teleport</a> to the imprint&#39;s space as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a>. When you are targeted by an ability, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to <a href="../../../../movement/teleport/">teleport</a> to your imprint, and the <a href="../../../../rule/dice/power-roll/">power roll</a> for the ability is an automatic tier 1 result.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Unbending</span></div>
-<div class="sc-ability__section-body"><p>You can&#39;t be subjected to <a href="../../../../movement/forced-movement/">forced movement</a> unless you choose to be. Effects that ignore Stability also ignore this enhancement.</p></div>
+<div class="sc-ability__section-body"><p>You can&#39;t be subjected to <a href="../../../../movement/forced-movement/">forced movement</a> unless you choose to be. Effects that ignore <a href="../../../../rule/character/stability/">Stability</a> also ignore this enhancement.</p></div>
 </div>
 </article>

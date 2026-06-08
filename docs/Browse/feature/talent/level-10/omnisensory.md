@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have a +10 bonus to the <a href="../../../../rule/combat/distance/">distance</a> of your ranged abilities. Additionally, you don&#39;t need line of effect to a target of a ranged ability if the target is a creature capable of thought who you have previously had line of effect to.</p>
+<p>You have a +10 bonus to the <a href="../../../../rule/combat/distance/">distance</a> of your ranged abilities. Additionally, you don&#39;t need <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to a target of a ranged ability if the target is a creature capable of thought who you have previously had <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to.</p>
 </div>
 </section>

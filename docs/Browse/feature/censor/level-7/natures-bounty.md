@@ -20,8 +20,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>When you finish a respite, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:</p>
-<ul><li>Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> each time.</li><li>Each creature gains 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li>Each creature gains a +1 bonus to speed.</li><li>Each creature gains a +1 bonus to saving throws.</li><li>Each creature gains an <a href="../../../../rule/dice/edge/">edge</a> on tests made to influence other creatures.</li></ul>
-<p>Each benefit lasts until the creature who gains it finishes another respite.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>When you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:</p>
+<ul><li>Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> each time.</li><li>Each creature gains 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li>Each creature gains a +1 bonus to <a href="../../../../rule/character/speed/">speed</a>.</li><li>Each creature gains a +1 bonus to <a href="../../../../rule/general/saving-throw/">saving throws</a>.</li><li>Each creature gains an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to influence other creatures.</li></ul>
+<p>Each benefit lasts until the creature who gains it finishes another <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>

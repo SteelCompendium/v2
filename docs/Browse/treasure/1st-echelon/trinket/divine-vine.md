@@ -17,11 +17,11 @@ type: treasure
 
 **Keywords:** Magic
 
-**Item Prerequisite:** Three withered mundane vines, a tree's blessing
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** Three withered mundane vines, a tree's blessing
 
-**Project Source:** Songs in Yllyric
+**[Project Source](../../../rule/downtime/project-source.md):** Songs in Yllyric
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Presence](../../../rule/character/presence.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Presence](../../../rule/character/presence.md)
 
 **Project Goal:** 150
 

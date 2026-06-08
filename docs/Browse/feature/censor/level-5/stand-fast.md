@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your divine spark grows in power, allowing you and your allies to focus and endure. At the start of each of your turns, you can spend 1d6 <a href="../../../../rule/health/stamina/">Stamina</a> to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Any ally who starts their turn within 5 squares of you can also spend <a href="../../../../rule/health/stamina/">Stamina</a> to gain this benefit.</p>
+<p>Your divine spark grows in power, allowing you and your allies to focus and endure. At the start of each of your turns, you can spend 1d6 <a href="../../../../rule/health/stamina/">Stamina</a> to end one effect on you that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your turn. Any ally who starts their turn within 5 squares of you can also spend <a href="../../../../rule/health/stamina/">Stamina</a> to gain this benefit.</p>
 </div>
 </section>

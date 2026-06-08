@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your ordered mind can&#39;t be caught off guard. You can&#39;t be made surprised.</p>
+<p>Your ordered mind can&#39;t be caught off guard. You can&#39;t be made <a href="../../../../rule/combat/surprised/">surprised</a>.</p>
 </div>
 </section>

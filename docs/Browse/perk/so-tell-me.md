@@ -8,4 +8,4 @@ type: perk
 
 ---
 
-Whenever you succeed on a [Presence](../rule/character/presence.md) test to influence one or more creatures, you can ask one creature you influenced a follow-up question after the test resolves, which they must answer honestly. At the Director's discretion, the creature doesn't have to answer the question completely—or at all—if the response would put them or a loved one in danger.
+Whenever you succeed on a [Presence](../rule/character/presence.md) [test](../rule/test/test.md) to influence one or more creatures, you can ask one creature you influenced a follow-up question after the [test](../rule/test/test.md) resolves, which they must answer honestly. At the Director's discretion, the creature doesn't have to answer the question completely—or at all—if the response would put them or a loved one in danger.

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability has any power roll, that roll gains an <a href="../../../../rule/dice/edge/">edge</a>.</p>
+<p>If the ability has any <a href="../../../../rule/dice/power-roll/">power roll</a>, that roll gains an <a href="../../../../rule/dice/edge/">edge</a>.</p>
 </div>
 </section>

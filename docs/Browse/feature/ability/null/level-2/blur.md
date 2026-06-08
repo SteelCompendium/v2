@@ -3,7 +3,7 @@ action_type: Maneuver
 class: "null"
 cost: 5 Discipline
 distance: Self
-effect: You can use a signature or heroic ability. You gain an [edge](../../../../rule/dice/edge.md) on that ability's power rolls.
+effect: You can use a signature or [heroic ability](../../../../rule/general/heroic-ability.md). You gain an [edge](../../../../rule/dice/edge.md) on that ability's [power rolls](../../../../rule/dice/power-roll.md).
 flavor: You release stored time, allowing you to act twice.
 keywords:
     - Psionic
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can use a signature or heroic ability. You gain an <a href="../../../../../rule/dice/edge/">edge</a> on that ability&#39;s power rolls.</p></div>
+<div class="sc-ability__section-body"><p>You can use a signature or <a href="../../../../../rule/general/heroic-ability/">heroic ability</a>. You gain an <a href="../../../../../rule/dice/edge/">edge</a> on that ability&#39;s <a href="../../../../../rule/dice/power-roll/">power rolls</a>.</p></div>
 </div>
 </article>

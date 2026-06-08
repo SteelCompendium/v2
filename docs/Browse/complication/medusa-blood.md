@@ -23,7 +23,7 @@ Your mother and father never saw eye to eye. You know this because your father i
 > |---------------------------|--------------------:|
 > | **📏 Ranged 10**          | **🎯 One creature** |
 >
-> **Power Roll + [Might](../rule/character/might.md) or [Presence](../rule/character/presence.md):**
+> **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Presence](../rule/character/presence.md):**
 >
 > - **≤11:** 2 damage; M < WEAK, [slowed](../condition/slowed.md) (save ends)
 > - **12-16:** 4 damage; M < AVERAGE, [slowed](../condition/slowed.md) (save ends)

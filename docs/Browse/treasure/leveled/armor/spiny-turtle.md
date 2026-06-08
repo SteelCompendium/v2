@@ -16,11 +16,11 @@ type: treasure
 
 **Keywords:** Heavy Armor, Magic
 
-**Item Prerequisite:** Ten steel gears from an ancient construct
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** Ten steel gears from an ancient construct
 
-**Project Source:** Texts or lore in Variac
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Variac
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450
 

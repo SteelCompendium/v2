@@ -1,6 +1,6 @@
 ---
 echelon: "4"
-effect: As a maneuver, you spend 1 [Heroic Resource](../../../rule/resource/heroic-resource.md) to destroy this page and create a 4-cube area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a combat round or starts their turn there takes 20 fire damage and is [dazed](../../../condition/dazed.md) until the end of their turn.
+effect: As a maneuver, you spend 1 [Heroic Resource](../../../rule/resource/heroic-resource.md) to destroy this page and create a 4-[cube](../../../rule/combat/cube.md) area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a combat round or starts their turn there takes 20 fire damage and is [dazed](../../../condition/dazed.md) until the end of their turn.
 keywords:
     - Magic
 name: 'Page From the Infinite Library: Solaris'
@@ -17,14 +17,14 @@ type: treasure
 
 **Keywords:** Magic
 
-**Item Prerequisite:** One vial of sacred ink, blessed parchment
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** One vial of sacred ink, blessed parchment
 
-**Project Source:** Reference materials in the First Language from the
+**[Project Source](../../../rule/downtime/project-source.md):** Reference materials in the First Language from the
 
 Infinite Library detailing incomplete instructions for building a sun
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 360
 
-**Effect:** As a maneuver, you spend 1 [Heroic Resource](../../../rule/resource/heroic-resource.md) to destroy this page and create a 4-cube area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a combat round or starts their turn there takes 20 fire damage and is [dazed](../../../condition/dazed.md) until the end of their turn.
+**Effect:** As a maneuver, you spend 1 [Heroic Resource](../../../rule/resource/heroic-resource.md) to destroy this page and create a 4-[cube](../../../rule/combat/cube.md) area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a combat round or starts their turn there takes 20 fire damage and is [dazed](../../../condition/dazed.md) until the end of their turn.

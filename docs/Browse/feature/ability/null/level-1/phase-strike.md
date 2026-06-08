@@ -3,7 +3,7 @@ action_type: Main action
 class: "null"
 cost: 5 Discipline
 distance: Melee 1
-effect: A target who goes out of phase is [slowed](../../../../condition/slowed.md), has their stability reduced by 2, and can't obtain a tier 3 outcome on ability rolls.
+effect: A target who goes out of phase is [slowed](../../../../condition/slowed.md), has their [stability](../../../../rule/character/stability.md) reduced by 2, and can't obtain a tier 3 outcome on [ability rolls](../../../../rule/dice/ability-roll.md).
 flavor: For a moment, your foe slips out of phase with this manifold.
 keywords:
     - Melee
@@ -36,16 +36,11 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + A psychic damage; I &lt; WEAK, the target goes out of phase (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + A psychic damage; I &lt; AVERAGE, the target goes out of phase (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + A psychic damage; I &lt; STRONG, the target goes out of phase (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 3 + A psychic damage; I &lt; WEAK, the target goes out of phase (save ends)</li><li><b>12-16:</b> 4 + A psychic damage; I &lt; AVERAGE, the target goes out of phase (save ends)</li><li><b>17+:</b> 6 + A psychic damage; I &lt; STRONG, the target goes out of phase (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A target who goes out of phase is <a href="../../../../../condition/slowed/">slowed</a>, has their stability reduced by 2, and can&#39;t obtain a tier 3 outcome on ability rolls.</p></div>
+<div class="sc-ability__section-body"><p>A target who goes out of phase is <a href="../../../../../condition/slowed/">slowed</a>, has their <a href="../../../../../rule/character/stability/">stability</a> reduced by 2, and can&#39;t obtain a tier 3 outcome on <a href="../../../../../rule/dice/ability-roll/">ability rolls</a>.</p></div>
 </div>
 </article>

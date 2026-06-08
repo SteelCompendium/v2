@@ -31,15 +31,15 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">You project an illusory aura that makes you and allies harder to notice.</p>
+<p class="sc-ability__flavor">You project an illusory <a href="../../../../rule/combat/aura/">aura</a> that makes you and allies harder to notice.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each creature in the area has a double <a href="../../../../rule/dice/edge/">edge</a> on tests made to <a href="../../../../skill/hide/">hide</a> or <a href="../../../../skill/sneak/">sneak</a>. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
+<div class="sc-ability__section-body"><p>Each creature in the area has a double <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to <a href="../../../../skill/hide/">hide</a> or <a href="../../../../skill/sneak/">sneak</a>. The <a href="../../../../rule/combat/aura/">aura</a> lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
 </div>
 </article>
 </div>

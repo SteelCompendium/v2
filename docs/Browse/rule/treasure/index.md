@@ -12,8 +12,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v has-tip" title="45 (yields 1d3 darts, or three darts if crafted by a shadow)">45*</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Three vials of black ash from the College of Black Ash</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Szetch</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="enhancement/" aria-label="Imbue Armor"></a>
@@ -24,8 +22,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Varies</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in a language determined by the enhancement</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="implement/" aria-label="Imbue Implement"></a>
@@ -36,8 +32,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Varies</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in a language determined by the enhancement</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="leveled-treasure/" aria-label="Leveled Treasures"></a>
@@ -48,8 +42,6 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> Five rabid honey badger pelts, the quills of a hedgehog</div>
-  <div class="sc-card__line"><b>Source</b> Texts or lore in Yllyric</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="trinket/" aria-label="Trinkets"></a>
@@ -60,7 +52,5 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
-  <div class="sc-card__line"><b>Prerequisite</b> A pint of blue ichor, soul chalk</div>
-  <div class="sc-card__line"><b>Source</b> Licensing agreements in Anjali</div>
 </div>
 </div>

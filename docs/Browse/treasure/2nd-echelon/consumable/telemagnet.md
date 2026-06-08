@@ -17,11 +17,11 @@ type: treasure
 
 **Keywords:** Psionic
 
-**Item Prerequisite:** A shard of prismacore, an ounce of ferrous metal
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A shard of prismacore, an ounce of ferrous metal
 
-**Project Source:** Texts or lore in Zaliac
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Zaliac
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 90
 
@@ -31,4 +31,4 @@ type: treasure
 - **[Size](../../../rule/character/size.md) 2:** vertical pull 3
 - **[Size](../../../rule/character/size.md) 3:** vertical pull 1
 
-If you pull a [size](../../../rule/character/size.md) 1T object adjacent to you, you can catch it. This treasure can affect any target within line of effect.
+If you pull a [size](../../../rule/character/size.md) 1T object adjacent to you, you can catch it. This treasure can affect any target within [line of effect](../../../rule/combat/line-of-effect.md).

@@ -2,7 +2,6 @@
 language: One language
 name: Artisan
 perk: One crafting perk (*Quick Build:* [Area of Expertise](../perk/area-of-expertise.md).)
-project_points: "240"
 scc: mcdm.heroes.v1/career/artisan
 skills:
     - Two skills from the crafting skill group (*Quick Build:* [Blacksmithing](../skill/blacksmithing.md), [Carpentry](../skill/carpentry.md).)
@@ -26,7 +25,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 240
+**[Project Points](../rule/downtime/project-points.md):** 240
 
 **Perk:** One crafting perk (*Quick Build:* [Area of Expertise](../perk/area-of-expertise.md).)
 

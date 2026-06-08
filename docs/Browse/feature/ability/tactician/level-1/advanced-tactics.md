@@ -9,7 +9,7 @@ keywords:
 level: "1"
 name: Advanced Tactics
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/advanced-tactics
-spend: '1 Focus: If the damage has any potency effect associated with it, the potency is increased by 1.'
+spend: '1 Focus: If the damage has any [potency](../../../../rule/character/potency.md) effect associated with it, the [potency](../../../../rule/character/potency.md) is increased by 1.'
 subtype: triggered
 target: One ally
 trigger: The target deals damage to another creature.
@@ -43,5 +43,5 @@ type: ability
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>The target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>, which they can use on the triggering damage.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the damage has any potency effect associated with it, the potency is increased by 1.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the damage has any <a href="../../../../../rule/character/potency/">potency</a> effect associated with it, the <a href="../../../../../rule/character/potency/">potency</a> is increased by 1.</span></div>
 </article>

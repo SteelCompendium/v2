@@ -11,7 +11,7 @@ type: ancestry
 
 The ritual of Dracogenesis that grants the power to create a generation of [dragon knights](dragon-knight.md)—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 
-The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
+The largest extant population of draconians is the remnants of the Dragon Phalanx in [Vasloria](../rule/world/vasloria.md). Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
 
 Knighthood was a title carried by every member of that first generation of [dragon knights](dragon-knight.md). Within the Dragon Phalanx were [shadows](../class/shadow.md), [censors](../class/censor.md), [tacticians](../class/tactician.md), and [elementalists](../class/elementalist.md). Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over 30 years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could not imagine any other way of life.
 
@@ -99,7 +99,7 @@ The [dragon knight](dragon-knight.md) looked at the people around him, at the th
 
 ### Signature Trait: Wyrmplate {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/wyrmplate"}
 
-Your hardened scales grant you [damage immunity](../rule/damage/damage-immunity.md) equal to your level to one of the following [damage types](../rule/damage/damage-type.md): acid, cold, corruption, fire, lightning, or poison. You can change your [damage immunity](../rule/damage/damage-immunity.md) type when you finish a respite.
+Your hardened scales grant you [damage immunity](../rule/damage/damage-immunity.md) equal to your level to one of the following [damage types](../rule/damage/damage-type.md): acid, cold, corruption, fire, lightning, or poison. You can change your [damage immunity](../rule/damage/damage-immunity.md) type when you finish a [respite](../rule/resource/respite.md).
 
 ### Purchased Dragon Knight Traits
 
@@ -107,11 +107,11 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* [Dr
 
 #### Draconian Guard {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/draconian-guard"}
 
-Whenever you or an adjacent creature takes damage from a [strike](../rule/combat/strike.md), you can use a triggered action to guard against the blow. You reduce any damage from the [strike](../rule/combat/strike.md) by an amount equal to your level.
+Whenever you or an adjacent creature takes damage from a [strike](../rule/combat/strike.md), you can use a [triggered action](../rule/combat/triggered-action.md) to guard against the blow. You reduce any damage from the [strike](../rule/combat/strike.md) by an amount equal to your level.
 
 #### Draconian Pride {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/draconian-pride"}
 
-You have the following signature ability.
+You have the following [signature ability](../rule/combat/signature-ability.md).
 
 ##### Draconian Pride {data-scc="mcdm.heroes.v1/feature.ability.dragon-knight/draconian-pride"}
 
@@ -119,9 +119,9 @@ You have the following signature ability.
 
 | **Area, Magic** |               **Main action** |
 |-----------------|------------------------------:|
-| **📏 1 burst**  | **🎯 Each enemy in the area** |
+| **📏 1 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Presence](../rule/character/presence.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 5 damage; push 1
@@ -129,7 +129,7 @@ You have the following signature ability.
 
 #### Dragon Breath {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/dragon-breath"}
 
-You have the following signature ability.
+You have the following [signature ability](../rule/combat/signature-ability.md).
 
 ##### Dragon Breath {data-scc="mcdm.heroes.v1/feature.ability.dragon-knight/dragon-breath"}
 
@@ -137,9 +137,9 @@ You have the following signature ability.
 
 | **Area, Magic**        |               **Main action** |
 |------------------------|------------------------------:|
-| **📏 3 cube within 1** | **🎯 Each enemy in the area** |
+| **📏 3 [cube](../rule/combat/cube.md) within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Presence](../rule/character/presence.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 4 damage
@@ -153,7 +153,7 @@ Select one [damage immunity](../rule/damage/damage-immunity.md) granted by your 
 
 #### Remember Your Oath {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/remember-your-oath"}
 
-As a maneuver, you can recite the following oath. Until the start of your next turn, whenever you make a saving throw, you succeed on a 4 or higher.
+As a maneuver, you can recite the following oath. Until the start of your next turn, whenever you make a [saving throw](../rule/general/saving-throw.md), you succeed on a 4 or higher.
 
 *Even should the sun stop in the sky Even should the night last a thousand years I will stand forever I shall not yield Those who suffer and yearn for justice I am your sword and shield I will yield no ground I will speak no lies I will stand against all tyrants Until the last villain dies*
 

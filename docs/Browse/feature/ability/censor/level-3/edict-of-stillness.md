@@ -2,9 +2,9 @@
 action_type: Maneuver
 class: censor
 cost: 7 Wrath
-distance: 2 aura
+distance: 2 [aura](../../../../rule/combat/aura.md)
 effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target moves or is [force moved](../../../../movement/forced-movement.md) out of the area, they take holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
-flavor: The holy aura you project makes it painful for evil-doers to leave your reach.
+flavor: The holy [aura](../../../../rule/combat/aura.md) you project makes it painful for evil-doers to leave your reach.
 keywords:
     - Area
     - Magic
@@ -28,10 +28,10 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">7</span> Wrath</div></div>
 </div>
-<p class="sc-ability__flavor">The holy aura you project makes it painful for evil-doers to leave your reach.</p>
+<p class="sc-ability__flavor">The holy <a href="../../../../../rule/combat/aura/">aura</a> you project makes it painful for evil-doers to leave your reach.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__section">

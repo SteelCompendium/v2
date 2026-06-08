@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>A light step serves you well when speed is of the essence. You ignore the effects of <a href="../../../../movement/difficult-terrain/">difficult terrain</a> and can move at full speed while sneaking.</p>
+<p>A light step serves you well when <a href="../../../../rule/character/speed/">speed</a> is of the essence. You ignore the effects of <a href="../../../../movement/difficult-terrain/">difficult terrain</a> and can move at full <a href="../../../../rule/character/speed/">speed</a> while sneaking.</p>
 </div>
 </section>

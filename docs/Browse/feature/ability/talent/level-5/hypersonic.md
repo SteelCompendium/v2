@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 9 Clarity
 distance: 5 x 2 line within 1
-effect: You [teleport](../../../../movement/teleport.md) to a square on the opposite side of the area before making the power roll.
+effect: You [teleport](../../../../movement/teleport.md) to a square on the opposite side of the area before making the [power roll](../../../../rule/dice/power-roll.md).
 flavor: You move fast enough to turn around and watch your foes feel the aftermath.
 keywords:
     - Area
@@ -36,17 +36,9 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 x 2 line within 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 sonic damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 sonic damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 sonic damage</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/teleport/">teleport</a> to a square on the opposite side of the area before making the power roll.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/teleport/">teleport</a> to a square on the opposite side of the area before making the <a href="../../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 12 sonic damage</li><li><b>12-16:</b> 18 sonic damage</li><li><b>17+:</b> 24 sonic damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

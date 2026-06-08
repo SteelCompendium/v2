@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You exhibit a small spark of your deity&#39;s power, causing creatures to trust or fear you, depending on what you need. You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to intimidate or persuade others.</p>
+<p>You exhibit a small spark of your deity&#39;s power, causing creatures to trust or fear you, depending on what you need. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to intimidate or persuade others.</p>
 </div>
 </section>

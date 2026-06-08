@@ -18,11 +18,11 @@ type: treasure
 
 **Keywords:** Head, Magic
 
-**Item Prerequisite:** One used death shroud
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** One used death shroud
 
-**Project Source:** Texts or lore in Caelian
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Caelian
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 150
 

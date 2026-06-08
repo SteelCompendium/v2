@@ -4,7 +4,6 @@ equipment_text: You wear no armor and wield only your unarmed [strikes](../rule/
 melee_damage_bonus: +2/+2/+2
 name: Martial Artist
 scc: mcdm.heroes.v1/kit/martial-artist
-speed_bonus: "+3"
 type: kit
 ---
 
@@ -20,9 +19,9 @@ You wear no armor and wield only your unarmed [strikes](../rule/combat/strike.md
 
 ## Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +3 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +3 per [echelon](../rule/general/echelon.md)
 
-**Speed Bonus:** +3
+**[Speed](../rule/character/speed.md) Bonus:** +3
 
 **Melee Damage Bonus:** +2/+2/+2
 
@@ -38,7 +37,7 @@ You wear no armor and wield only your unarmed [strikes](../rule/combat/strike.md
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 5 + M or A damage
 - **12-16:** 8 + M or A damage; you can swap places with the target

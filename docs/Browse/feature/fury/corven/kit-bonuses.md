@@ -19,6 +19,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b><a href="../../../../rule/health/stamina/">Stamina</a> Bonus:</b> +3 per echelon</li><li><b>Speed Bonus:</b> +3</li><li><b>Melee Damage Bonus:</b> +2/+2/+2</li><li><b>Disengage Bonus:</b> +1</li></ul>
+<ul><li><b><a href="../../../../rule/health/stamina/">Stamina</a> Bonus:</b> +3 per <a href="../../../../rule/general/echelon/">echelon</a></li><li><b><a href="../../../../rule/character/speed/">Speed</a> Bonus:</b> +3</li><li><b>Melee Damage Bonus:</b> +2/+2/+2</li><li><b>Disengage Bonus:</b> +1</li></ul>
 </div>
 </section>

@@ -37,7 +37,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose two of the following effects:</p><ul><li>The target can spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>.</li><li>The target gains 1 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.</li><li>The target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>, and gains a +3 bonus to speed until the end of the encounter.</li></ul></div>
+<div class="sc-ability__section-body"><p>Choose two of the following effects:</p><ul><li>The target can spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>.</li><li>The target gains 1 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>, and can end any effects on them that are ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of their turn.</li><li>The target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>, and gains a +3 bonus to <a href="../../../../../rule/character/speed/">speed</a> until the end of the encounter.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

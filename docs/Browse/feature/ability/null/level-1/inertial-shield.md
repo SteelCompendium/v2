@@ -9,7 +9,7 @@ keywords:
 level: "1"
 name: Inertial Shield
 scc: mcdm.heroes.v1/feature.ability.null.level-1/inertial-shield
-spend: '1 Discipline: The potency of one effect associated with the damage is reduced by 1 for you.'
+spend: '1 Discipline: The [potency](../../../../rule/character/potency.md) of one effect associated with the damage is reduced by 1 for you.'
 subtype: triggered
 target: Self
 trigger: You take damage.
@@ -43,5 +43,5 @@ type: ability
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>You take half the damage.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Discipline</span><span class="txt">The potency of one effect associated with the damage is reduced by 1 for you.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Discipline</span><span class="txt">The <a href="../../../../../rule/character/potency/">potency</a> of one effect associated with the damage is reduced by 1 for you.</span></div>
 </article>

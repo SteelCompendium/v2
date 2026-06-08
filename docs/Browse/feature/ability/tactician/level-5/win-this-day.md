@@ -2,7 +2,7 @@
 action_type: Main action
 class: tactician
 cost: 9 Focus
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 effect: Each target gains 2 [surges](../../../../rule/resource/surge.md). Additionally, they can spend a [Recovery](../../../../rule/health/recoveries.md), remove any conditions or effects on them, and stand up if they [are prone](../../../../condition/prone.md).
 flavor: You inspire your allies to recover and gather their strength.
 keywords:
@@ -30,7 +30,7 @@ type: ability
 <p class="sc-ability__flavor">You inspire your allies to recover and gather their strength.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

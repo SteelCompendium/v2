@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 9 Clarity
 distance: Ranged 10
-effect: If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](../../../../rule/dice/bane.md) on power rolls while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
+effect: If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md) while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
 flavor: You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.
 keywords:
     - Animapathy
@@ -36,17 +36,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two enemies</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 damage; A &lt; WEAK, the target is stitched to the other target (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 damage; A &lt; AVERAGE, the target is stitched to the other target (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">17 damage; A &lt; STRONG, the target is stitched to the other target (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 8 damage; A &lt; WEAK, the target is stitched to the other target (save ends)</li><li><b>12-16:</b> 13 damage; A &lt; AVERAGE, the target is stitched to the other target (save ends)</li><li><b>17+:</b> 17 damage; A &lt; STRONG, the target is stitched to the other target (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a <a href="../../../../../rule/dice/bane/">bane</a> on power rolls while not adjacent to a creature they&#39;re stitched to. Whenever a stitched target takes damage that wasn&#39;t dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.</p></div>
+<div class="sc-ability__section-body"><p>If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a <a href="../../../../../rule/dice/bane/">bane</a> on <a href="../../../../../rule/dice/power-roll/">power rolls</a> while not adjacent to a creature they&#39;re stitched to. Whenever a stitched target takes damage that wasn&#39;t dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

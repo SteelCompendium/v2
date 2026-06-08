@@ -18,7 +18,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>As a maneuver, you can recite the following oath. Until the start of your next turn, whenever you make a saving throw, you succeed on a 4 or higher.</p>
+<p>As a maneuver, you can recite the following oath. Until the start of your next turn, whenever you make a <a href="../../../../rule/general/saving-throw/">saving throw</a>, you succeed on a 4 or higher.</p>
 <p class="sc-trait__flavor">Even should the sun stop in the sky Even should the night last a thousand years I will stand forever I shall not yield Those who suffer and yearn for justice I am your sword and shield I will yield no ground I will speak no lies I will stand against all tyrants Until the last villain dies</p>
 </div>
 </section>

@@ -2,7 +2,6 @@
 language: One language
 name: Laborer
 perk: One exploration perk (*Quick Build:* Brawny.)
-project_points: "120"
 scc: mcdm.heroes.v1/career/laborer
 skills:
     - The [Endurance](../skill/endurance.md) skill (from the exploration skill group), plus two skills from either the crafting group or the exploration group (*Quick Build:* [Blacksmithing](../skill/blacksmithing.md), [Endurance](../skill/endurance.md), [Lift](../skill/lift.md).)
@@ -26,7 +25,7 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Project Points:** 120
+**[Project Points](../rule/downtime/project-points.md):** 120
 
 **Perk:** One exploration perk (*Quick Build:* Brawny.)
 

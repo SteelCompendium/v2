@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: talent
 cost: 11 Clarity
-distance: 2 burst
+distance: 2 [burst](../../../../rule/combat/burst.md)
 effect: The targets share 6 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md) among themselves, as you determine. A target can't gain more than 3 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md) this way. After using this ability, you can't gain any clarity until the end of the next combat round.
 flavor: You lean on future heroism to assist you in the now.
 keywords:
@@ -32,7 +32,7 @@ type: ability
 <p class="sc-ability__flavor">You lean on future heroism to assist you in the now.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

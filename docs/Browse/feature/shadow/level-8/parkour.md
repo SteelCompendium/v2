@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your movement no longer provokes opportunity attacks. Additionally, you can use your <a href="../../level-5/harlequin-gambit/">Harlequin Gambit</a> feature as a free triggered action when a creature is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> by your <a href="../../../ability/shadow/level-1/clever-trick/">Clever Trick</a> ability.</p>
+<p>Your movement no longer provokes <a href="../../../../rule/combat/opportunity-attack/">opportunity attacks</a>. Additionally, you can use your <a href="../../level-5/harlequin-gambit/">Harlequin Gambit</a> feature as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> when a creature is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> by your <a href="../../../ability/shadow/level-1/clever-trick/">Clever Trick</a> ability.</p>
 </div>
 </section>

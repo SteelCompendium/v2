@@ -19,6 +19,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>While you are in your hybrid form, your <a href="../../../../rule/character/size/">size</a> is your choice of 1S or 1M. At 4th level, you can automatically climb at full speed while moving.</p>
+<p>While you are in your hybrid form, your <a href="../../../../rule/character/size/">size</a> is your choice of 1S or 1M. At 4th level, you can automatically climb at full <a href="../../../../rule/character/speed/">speed</a> while moving.</p>
 </div>
 </section>

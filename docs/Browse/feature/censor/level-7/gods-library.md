@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: <a href="../../../../../Read/heroes/downtime-projects/">Downtime Projects</a>). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don&#39;t already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.</p>
+<p>You can gain access to information you need through prayer, so that you no longer require research materials for crafting and <a href="../../../../rule/downtime/research-project/">research projects</a> (see Chapter 12: <a href="../../../../../Read/heroes/downtime-projects/">Downtime Projects</a>). Additionally, you add your level to <a href="../../../../rule/downtime/project-roll/">project rolls</a> you make for crafting and <a href="../../../../rule/downtime/research-project/">research projects</a>. You also have any skills in the lore skill group you don&#39;t already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.</p>
 </div>
 </section>

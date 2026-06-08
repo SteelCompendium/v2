@@ -195,6 +195,7 @@
 - [Group Tests](test/group-test.md)
 - [Montage Tests](test/montage-test.md)
 - [Reactive Tests](test/reactive-test.md)
+- [Test Difficulty](test/test-difficulty.md)
 - [How to Make a Test](test/test.md)
 
 </div>

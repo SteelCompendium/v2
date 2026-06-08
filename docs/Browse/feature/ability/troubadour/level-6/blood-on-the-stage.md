@@ -34,12 +34,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + A damage; M &lt; WEAK, <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 + A damage; M &lt; AVERAGE, <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">24 + A damage; <a href="../../../../../condition/bleeding/">bleeding</a> (EoT), or if M &lt; STRONG, <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 12 + A damage; M &lt; WEAK, <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</li><li><b>12-16:</b> 18 + A damage; M &lt; AVERAGE, <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</li><li><b>17+:</b> 24 + A damage; <a href="../../../../../condition/bleeding/">bleeding</a> (<a href="../../../../../rule/combat/end-of-turn/">EoT</a>), or if M &lt; STRONG, <a href="../../../../../condition/bleeding/">bleeding</a> (save ends)</li></ul></div>
 </div>
 </article>

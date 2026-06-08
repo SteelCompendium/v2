@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You exude a magic presence that can soothe those willing to socially engage with you. You gain an <a href="../../../../rule/dice/edge/">edge</a> on any test made to assist another creature with a test.</p>
-<p>Additionally, when you are present at the start of a negotiation, one NPC of your choice has their patience increased by 1 (to a maximum of 5), and the first test made to influence them gains an <a href="../../../../rule/dice/edge/">edge</a>.</p>
+<p>You exude a magic presence that can soothe those willing to socially engage with you. You gain an <a href="../../../../rule/dice/edge/">edge</a> on any <a href="../../../../rule/test/test/">test</a> made to assist another creature with a <a href="../../../../rule/test/test/">test</a>.</p>
+<p>Additionally, when you are present at the start of a negotiation, one <a href="../../../../rule/general/npc/">NPC</a> of your choice has their patience increased by 1 (to a maximum of 5), and the first <a href="../../../../rule/test/test/">test</a> made to influence them gains an <a href="../../../../rule/dice/edge/">edge</a>.</p>
 </div>
 </section>

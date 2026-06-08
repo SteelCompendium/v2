@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have a bonus to speed equal to your <a href="../../../../rule/character/agility/">Agility</a> score, and you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p>
+<p>You have a bonus to <a href="../../../../rule/character/speed/">speed</a> equal to your <a href="../../../../rule/character/agility/">Agility</a> score, and you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -62,7 +62,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you use the <a href="../../../common/main-actions/charge/">Charge</a> main action, you can use a <a href="../../../../rule/combat/strike/">strike</a> signature ability or a <a href="../../../../rule/combat/strike/">strike</a> heroic ability instead of a <a href="../../../common/main-actions/free-strike/">free strike</a>. Additionally, you can jump as part of your charge.</p>
+<p>Whenever you use the <a href="../../../common/main-actions/charge/">Charge</a> main action, you can use a <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> or a <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/general/heroic-ability/">heroic ability</a> instead of a <a href="../../../common/main-actions/free-strike/">free strike</a>. Additionally, you can jump as part of your charge.</p>
 </div>
 </section>
 </div>

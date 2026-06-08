@@ -16,11 +16,11 @@ type: treasure
 
 **Keywords:** Magic, Medium Armor
 
-**Item Prerequisite:** A giant scarab beetle carapace
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A giant scarab beetle carapace
 
-**Project Source:** Texts or lore in Phaedran
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Phaedran
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450
 

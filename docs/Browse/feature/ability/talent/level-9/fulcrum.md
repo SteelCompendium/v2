@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 11 Clarity
 distance: Special
-effect: Make a power roll to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](../../../../rule/character/size.md) 1L or smaller.
+effect: Make a [power roll](../../../../rule/dice/power-roll.md) to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](../../../../rule/character/size.md) 1L or smaller.
 flavor: You precisely manipulate the creatures around you.
 keywords:
     - Area
@@ -35,20 +35,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy and object in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 burst</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 burst</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 burst</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Make a power roll to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of <a href="../../../../../rule/character/size/">size</a> 1L or smaller.</p></div>
+<div class="sc-ability__section-body"><p>Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of <a href="../../../../../rule/character/size/">size</a> 1L or smaller.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 <a href="../../../../../rule/combat/burst/">burst</a></li><li><b>12-16:</b> 3 <a href="../../../../../rule/combat/burst/">burst</a></li><li><b>17+:</b> 4 <a href="../../../../../rule/combat/burst/">burst</a></li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You can choose to reduce the size of the burst by 2 (to a minimum of 1 burst) to give the <a href="../../../../../movement/forced-movement/">forced movement</a> <a href="../../../../../rule/combat/distance/">distance</a> a +2 bonus. You take half the total damage all targets take from <a href="../../../../../movement/forced-movement/">forced movement</a>.</p></div>
+<div class="sc-ability__section-body"><p>You can choose to reduce the size of the <a href="../../../../../rule/combat/burst/">burst</a> by 2 (to a minimum of 1 <a href="../../../../../rule/combat/burst/">burst</a>) to give the <a href="../../../../../movement/forced-movement/">forced movement</a> <a href="../../../../../rule/combat/distance/">distance</a> a +2 bonus. You take half the total damage all targets take from <a href="../../../../../movement/forced-movement/">forced movement</a>.</p></div>
 </div>
 </article>

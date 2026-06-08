@@ -1,6 +1,6 @@
 ---
 echelon: "2"
-effect: As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), and [taunted](../../../condition/taunted.md) conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
+effect: As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), and [taunted](../../../condition/taunted.md) conditions on yourself, and you gain a +8 bonus to [Stability](../../../rule/character/stability.md) until the end of the encounter.
 keywords:
     - Psionic
 name: Breath of Dawn
@@ -17,12 +17,12 @@ type: treasure
 
 **Keywords:** Psionic
 
-**Item Prerequisite:** The breath of a mystic sage captured at sunrise
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** The breath of a mystic sage captured at sunrise
 
-**Project Source:** Texts or lore in Hyrallic
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Hyrallic
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Intuition](../../../rule/character/intuition.md) or [Presence](../../../rule/character/presence.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Intuition](../../../rule/character/intuition.md) or [Presence](../../../rule/character/presence.md)
 
 **Project Goal:** 90
 
-**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), and [taunted](../../../condition/taunted.md) conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
+**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), and [taunted](../../../condition/taunted.md) conditions on yourself, and you gain a +8 bonus to [Stability](../../../rule/character/stability.md) until the end of the encounter.

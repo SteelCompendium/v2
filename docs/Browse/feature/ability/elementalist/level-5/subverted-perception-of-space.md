@@ -35,12 +35,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + R corruption damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + R corruption damage; the target has line of effect only to creatures and objects within 4 squares of them until the start of your next turn</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 + R corruption damage; the target has line of effect only to adjacent creatures and objects until the start of your next turn</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 9 + R corruption damage</li><li><b>12-16:</b> 10 + R corruption damage; the target has <a href="../../../../../rule/combat/line-of-effect/">line of effect</a> only to creatures and objects within 4 squares of them until the start of your next turn</li><li><b>17+:</b> 15 + R corruption damage; the target has <a href="../../../../../rule/combat/line-of-effect/">line of effect</a> only to adjacent creatures and objects until the start of your next turn</li></ul></div>
 </div>
 </article>

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can&#39;t obtain lower than a tier 2 outcome on any <a href="../../../../rule/character/might/">Might</a> test made to jump (see Movement Types in Chapter 10: <a href="../../../../../Read/heroes/combat/">Combat</a>).</p>
+<p>You can&#39;t obtain lower than a tier 2 outcome on any <a href="../../../../rule/character/might/">Might</a> <a href="../../../../rule/test/test/">test</a> made to jump (see Movement Types in Chapter 10: <a href="../../../../../Read/heroes/combat/">Combat</a>).</p>
 </div>
 </section>

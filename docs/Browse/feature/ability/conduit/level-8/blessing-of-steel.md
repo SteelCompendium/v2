@@ -2,9 +2,9 @@
 action_type: Maneuver
 class: conduit
 cost: 11 Piety
-distance: 5 aura
-effect: Until the end of the encounter, any ability roll made against a target takes a [bane](../../../../rule/dice/bane.md) and each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5.
-flavor: A protective aura defends your allies from harm.
+distance: 5 [aura](../../../../rule/combat/aura.md)
+effect: Until the end of the encounter, any [ability roll](../../../../rule/dice/ability-roll.md) made against a target takes a [bane](../../../../rule/dice/bane.md) and each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5.
+flavor: A protective [aura](../../../../rule/combat/aura.md) defends your allies from harm.
 keywords:
     - Area
     - Magic
@@ -28,14 +28,14 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Piety</div></div>
 </div>
-<p class="sc-ability__flavor">A protective aura defends your allies from harm.</p>
+<p class="sc-ability__flavor">A protective <a href="../../../../../rule/combat/aura/">aura</a> defends your allies from harm.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, any ability roll made against a target takes a <a href="../../../../../rule/dice/bane/">bane</a> and each target has <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 5.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, any <a href="../../../../../rule/dice/ability-roll/">ability roll</a> made against a target takes a <a href="../../../../../rule/dice/bane/">bane</a> and each target has <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 5.</p></div>
 </div>
 </article>

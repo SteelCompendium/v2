@@ -1,7 +1,7 @@
 ---
 action_type: No action
 class: troubadour
-distance: 2 aura
+distance: 2 [aura](../../../../rule/combat/aura.md)
 effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score and [teleport](../../../../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../../../../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../../../../rule/health/dying.md), or result in them suffering a condition or other negative effect.
 flavor: No, no, no, you lose the audience that way. Try it like this...
 keywords:
@@ -31,7 +31,7 @@ type: ability
 <p class="sc-ability__flavor">No, no, no, you lose the audience that way. Try it like this...</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature in the area</div></div>
 </div>
 <div class="sc-ability__section">

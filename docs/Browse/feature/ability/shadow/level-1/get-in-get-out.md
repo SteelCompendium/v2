@@ -3,7 +3,7 @@ action_type: Main action
 class: shadow
 cost: 3 Insight
 distance: Melee 1
-effect: You can [shift](../../../../movement/shifting.md) up to your speed, dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
+effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), dividing that movement before or after your [strike](../../../../rule/combat/strike.md) as desired.
 flavor: Move unexpectedly, strike fast, and be gone!
 keywords:
     - Melee
@@ -35,16 +35,11 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + A damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 5 + A damage</li><li><b>12-16:</b> 8 + A damage</li><li><b>17+:</b> 11 + A damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to your speed, dividing that movement before or after your <a href="../../../../../rule/combat/strike/">strike</a> as desired.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to your <a href="../../../../../rule/character/speed/">speed</a>, dividing that movement before or after your <a href="../../../../../rule/combat/strike/">strike</a> as desired.</p></div>
 </div>
 </article>

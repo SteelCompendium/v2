@@ -14,7 +14,7 @@ The spirit uses the [familiar](familiar.md) stat block.
 
 The [familiar](familiar.md) can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
 
-If your [familiar](familiar.md) is destroyed, you can restore them as a respite activity, or by spending a [Recovery](../rule/health/recoveries.md) as a main action to bring them back into existence in an unoccupied space adjacent to you.
+If your [familiar](familiar.md) is destroyed, you can restore them as a [respite](../rule/resource/respite.md) activity, or by spending a [Recovery](../rule/health/recoveries.md) as a main action to bring them back into existence in an unoccupied space adjacent to you.
 
 ### Familiar Statblock
 
@@ -22,7 +22,7 @@ If your [familiar](familiar.md) is destroyed, you can restore them as a respite 
 
 |      [Familiar](familiar.md)       |         -         |           Level -            |           -           |         EV -         |
 |:-------------------:|:-----------------:|:----------------------------:|:---------------------:|:--------------------:|
-|   **1T**<br>[Size](../rule/character/size.md)    |  **5**<br>Speed   | **2x your level**<br>[Stamina](../rule/health/stamina.md) |  **0**<br>Stability   | **-**<br>[Free Strike](../feature/common/main-actions/free-strike.md) |
+|   **1T**<br>[Size](../rule/character/size.md)    |  **5**<br>[Speed](../rule/character/speed.md)   | **2x your level**<br>[Stamina](../rule/health/stamina.md) |  **0**<br>[Stability](../rule/character/stability.md)   | **-**<br>[Free Strike](../feature/common/main-actions/free-strike.md) |
 | **-**<br>Immunities | **-**<br>Movement |                              | **-**<br>With Captain | **-**<br>Weaknesses  |
 |   **-3**<br>[Might](../rule/character/might.md)   | **+2**<br>[Agility](../rule/character/agility.md) |       **0**<br>[Reason](../rule/character/reason.md)        |  **0**<br>[Intuition](../rule/character/intuition.md)   |  **+1**<br>[Presence](../rule/character/presence.md)  |
 

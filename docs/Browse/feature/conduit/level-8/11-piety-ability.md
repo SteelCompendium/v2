@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 11 piety to use.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 11 piety to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they <a href="../../../../condition/prone/">are prone</a>. Additionally, at the start of each of their turns until the end of the encounter or until they are <a href="../../../../rule/health/dying/">dying</a>, the target gains 3 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
+<div class="sc-ability__section-body"><p>The target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>, can end any effects on them that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of their turn, and can stand up if they <a href="../../../../condition/prone/">are prone</a>. Additionally, at the start of each of their turns until the end of the encounter or until they are <a href="../../../../rule/health/dying/">dying</a>, the target gains 3 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -51,15 +51,15 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">A protective aura defends your allies from harm.</p>
+<p class="sc-ability__flavor">A protective <a href="../../../../rule/combat/aura/">aura</a> defends your allies from harm.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, any ability roll made against a target takes a <a href="../../../../rule/dice/bane/">bane</a> and each target has <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> 5.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, any <a href="../../../../rule/dice/ability-roll/">ability roll</a> made against a target takes a <a href="../../../../rule/dice/bane/">bane</a> and each target has <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> 5.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -74,7 +74,7 @@ type: feature
 <p class="sc-ability__flavor">&#34;The power of the gods is within you, friends. Allow me to unleash it.&#34;</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
@@ -97,13 +97,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../rule/character/intuition.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + I holy damage; slide 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + I holy damage; slide 4</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + I holy damage; slide 6</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 9 + I holy damage; slide 3</li><li><b>12-16:</b> 13 + I holy damage; slide 4</li><li><b>17+:</b> 18 + I holy damage; slide 6</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

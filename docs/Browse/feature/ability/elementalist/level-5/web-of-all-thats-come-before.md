@@ -2,7 +2,7 @@
 action_type: Main action
 class: elementalist
 cost: 9 Essence
-distance: 4 cube within 10
+distance: 4 [cube](../../../../rule/combat/cube.md) within 10
 effect: The area is [difficult terrain](../../../../movement/difficult-terrain.md) until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../../../../condition/restrained.md) (save ends).
 flavor: Threads you've been weaving through your adventures create a vibrant, pearlescent web.
 keywords:
@@ -33,16 +33,11 @@ type: ability
 <p class="sc-ability__flavor">Threads you&#39;ve been weaving through your adventures create a vibrant, pearlescent web.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 cube within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 corruption damage; A &lt; WEAK, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 corruption damage; A &lt; AVERAGE, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 corruption damage; A &lt; STRONG, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 corruption damage; A &lt; WEAK, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</li><li><b>12-16:</b> 3 corruption damage; A &lt; AVERAGE, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</li><li><b>17+:</b> 5 corruption damage; A &lt; STRONG, <a href="../../../../../condition/restrained/">restrained</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

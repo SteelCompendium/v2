@@ -4,7 +4,6 @@ equipment_text: You wear light armor and wield several ensnaring weapons and a p
 melee_damage_bonus: +2/+2/+2
 name: Retiarius
 scc: mcdm.heroes.v1/kit/retiarius
-speed_bonus: "+1"
 type: kit
 ---
 
@@ -20,9 +19,9 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 ## Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +3 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +3 per [echelon](../rule/general/echelon.md)
 
-**Speed Bonus:** +1
+**[Speed](../rule/character/speed.md) Bonus:** +1
 
 **Melee Damage Bonus:** +2/+2/+2
 
@@ -40,8 +39,8 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 |---------------------------|--------------------:|
 | **📏 Melee 2**            | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
-- **≤11:** 4 + M or A damage; A < WEAK, [slowed](../condition/slowed.md) (EoT)
-- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../condition/slowed.md) (EoT)
-- **17+:** 8 + M or A damage; A < STRONG, [restrained](../condition/restrained.md) (EoT)
+- **≤11:** 4 + M or A damage; A < WEAK, [slowed](../condition/slowed.md) ([EoT](../rule/combat/end-of-turn.md))
+- **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../condition/slowed.md) ([EoT](../rule/combat/end-of-turn.md))
+- **17+:** 8 + M or A damage; A < STRONG, [restrained](../condition/restrained.md) ([EoT](../rule/combat/end-of-turn.md))

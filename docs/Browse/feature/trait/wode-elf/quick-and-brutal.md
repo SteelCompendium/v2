@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you score a critical hit, you can take an additional main action and an additional move action instead of just a main action.</p>
+<p>Whenever you score a <a href="../../../../rule/combat/critical-hit/">critical hit</a>, you can take an additional main action and an additional move action instead of just a main action.</p>
 </div>
 </section>

@@ -27,7 +27,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>As a maneuver, you can open your awareness to detect supernatural creatures and phenomena. Until the end of your next turn, you know the location of any supernatural object, or any undead, construct, or creature from another world within 5 squares, even if you don&#39;t have line of effect to that object or creature. You know if you&#39;re detecting an item or a creature, and you know the nature of any creature you detect.</p>
+<p>As a maneuver, you can open your awareness to detect supernatural creatures and phenomena. Until the end of your next turn, you know the location of any supernatural object, or any undead, construct, or creature from another world within 5 squares, even if you don&#39;t have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to that object or creature. You know if you&#39;re detecting an item or a creature, and you know the nature of any creature you detect.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -66,7 +66,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Giving up is for other people. You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made using the <a href="../../../../skill/endurance/">Endurance</a> skill. Additionally, when you are <a href="../../../../condition/slowed/">slowed</a>, your speed is reduced to 3 instead of 2.</p>
+<p>Giving up is for other people. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made using the <a href="../../../../skill/endurance/">Endurance</a> skill. Additionally, when you are <a href="../../../../condition/slowed/">slowed</a>, your <a href="../../../../rule/character/speed/">speed</a> is reduced to 3 instead of 2.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -76,7 +76,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your instinctive resilience protects you from injuries beyond the routine. Whenever you take damage that isn&#39;t untyped, you can use a triggered action to take half the damage.</p>
+<p>Your instinctive resilience protects you from injuries beyond the routine. Whenever you take damage that isn&#39;t untyped, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to take half the damage.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

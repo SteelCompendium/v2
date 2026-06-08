@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 3 Clarity
 distance: Melee 2
-effect: Ability rolls made against the target take a [bane](../../../../rule/dice/bane.md) until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a [free strike](../../../common/main-actions/free-strike.md) against the source of the damage.
+effect: '[Ability rolls](../../../../rule/dice/ability-roll.md) made against the target take a [bane](../../../../rule/dice/bane.md) until the start of your next turn. Whenever the target takes damage while under this effect, they can use a [triggered action](../../../../rule/combat/triggered-action.md) to make a [free strike](../../../common/main-actions/free-strike.md) against the source of the damage.'
 flavor: You give a target a glimpse into the future so that they're ready for what comes next.
 keywords:
     - Chronopathy
@@ -37,6 +37,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Ability rolls made against the target take a <a href="../../../../../rule/dice/bane/">bane</a> until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against the source of the damage.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../../rule/dice/ability-roll/">Ability rolls</a> made against the target take a <a href="../../../../../rule/dice/bane/">bane</a> until the start of your next turn. Whenever the target takes damage while under this effect, they can use a <a href="../../../../../rule/combat/triggered-action/">triggered action</a> to make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against the source of the damage.</p></div>
 </div>
 </article>

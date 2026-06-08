@@ -2,12 +2,10 @@
 language: One language
 name: Politician
 perk: One interpersonal perk (*Quick Build:* [Engrossing Monologue](../perk/engrossing-monologue.md).)
-renown: "+1"
 scc: mcdm.heroes.v1/career/politician
 skills:
     - Two skills from the interpersonal skill group (*Quick Build:* [Lead](../skill/lead.md), [Lie](../skill/lie.md).)
 type: career
-wealth: "+1"
 ---
 
 # Politician
@@ -27,9 +25,9 @@ You gain the following career benefits:
 
 **Languages:** One language
 
-**Renown:** +1
+**[Renown](../rule/resource/renown.md):** +1
 
-**Wealth:** +1
+**[Wealth](../rule/resource/wealth.md):** +1
 
 **Perk:** One interpersonal perk (*Quick Build:* [Engrossing Monologue](../perk/engrossing-monologue.md).)
 

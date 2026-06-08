@@ -4,7 +4,6 @@ equipment_text: You wear light armor and wield a polearm.
 melee_damage_bonus: +1/+1/+1
 name: Stick and Robe
 scc: mcdm.heroes.v1/kit/stick-and-robe
-speed_bonus: "+2"
 type: kit
 ---
 
@@ -20,9 +19,9 @@ You wear light armor and wield a polearm.
 
 ## Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +3 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +3 per [echelon](../rule/general/echelon.md)
 
-**Speed Bonus:** +2
+**[Speed](../rule/character/speed.md) Bonus:** +2
 
 **Melee Damage Bonus:** +1/+1/+1
 
@@ -40,7 +39,7 @@ You wear light armor and wield a polearm.
 |---------------------------|--------------------:|
 | **📏 Melee 2**            | **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 + M or A damage
 - **12-16:** 7 + M or A damage; slide 1

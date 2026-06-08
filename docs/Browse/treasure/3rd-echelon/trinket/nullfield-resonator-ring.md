@@ -18,11 +18,11 @@ type: treasure
 
 **Keywords:** Psionic, Ring
 
-**Item Prerequisite:** A wafer of gallium arsenide
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A wafer of gallium arsenide
 
-**Project Source:** Texts or lore in Mindspeech
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Mindspeech
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450
 
@@ -39,7 +39,7 @@ Additionally, you have the following ability.
 > |----------------------------------------|------------------------------:|
 > | **📏 Melee 1**                         | **🎯 One creature or object** |
 >
-> **Power Roll + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
+> **[Power Roll](../../../rule/dice/power-roll.md) + [Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md):**
 >
 > - **≤11:** 3 psychic damage
 > - **12-16:** 5 psychic damage; I < AVERAGE, [slowed](../../../condition/slowed.md) (save ends)

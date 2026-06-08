@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>:</p><ul><li>Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use.</li><li>Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls.</li></ul></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>:</p><ul><li>Whenever a target makes a <a href="../../../../../rule/dice/power-roll/">power roll</a>, they can roll three dice and choose which two rolls to use.</li><li>Whenever a target makes a <a href="../../../../../rule/dice/power-roll/">power roll</a>, they must roll three dice and use the lowest two rolls.</li></ul></div>
 </div>
 </article>

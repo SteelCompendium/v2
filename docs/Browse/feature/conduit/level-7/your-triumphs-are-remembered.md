@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a respite, you and any other heroes who rested with you regain 1 Victory after your Victories are converted to XP. This Victory isn&#39;t converted into XP at the end of a subsequent respite.</p>
+<p>The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a <a href="../../../../rule/resource/respite/">respite</a>, you and any other heroes who rested with you regain 1 <a href="../../../../rule/resource/victories/">Victory</a> after your <a href="../../../../rule/resource/victories/">Victories</a> are converted to <a href="../../../../rule/resource/experience/">XP</a>. This <a href="../../../../rule/resource/victories/">Victory</a> isn&#39;t converted into <a href="../../../../rule/resource/experience/">XP</a> at the end of a subsequent <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>

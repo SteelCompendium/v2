@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain a +1 bonus to rolled damage with magic abilities.</p>
+<p>You gain a +1 bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> with magic abilities.</p>
 </div>
 </section>

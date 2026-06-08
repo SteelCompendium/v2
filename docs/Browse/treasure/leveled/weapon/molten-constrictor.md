@@ -16,15 +16,15 @@ type: treasure
 
 **Keywords:** Magic, Net
 
-**Item Prerequisite:** Four iron bars coated in magma slag
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** Four iron bars coated in magma slag
 
-**Project Source:** Texts or lore in Caelian
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Caelian
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a [strike](../../../rule/combat/strike.md) using the net and obtain a tier 3 outcome, you can automatically grab the target. A target [grabbed](../../../condition/grabbed.md) in this way takes a [bane](../../../rule/dice/bane.md) when using the [Escape Grab](../../../feature/common/maneuvers/escape-grab.md) maneuver.
+**1st Level:** Any weapon ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) using this weapon deals an extra 1 fire damage. Additionally, whenever you make a [strike](../../../rule/combat/strike.md) using the net and obtain a tier 3 outcome, you can automatically grab the target. A target [grabbed](../../../condition/grabbed.md) in this way takes a [bane](../../../rule/dice/bane.md) when using the [Escape Grab](../../../feature/common/maneuvers/escape-grab.md) maneuver.
 
 **5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](../../../condition/grabbed.md) by a [strike](../../../rule/combat/strike.md) using the net takes 8 fire damage each time they attempt to escape using the [Escape Grab](../../../feature/common/maneuvers/escape-grab.md) maneuver.
 

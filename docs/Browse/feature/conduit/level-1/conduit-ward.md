@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a respite activity. (<em>Quick Build:</em> <a href="../bastion-ward/">Bastion Ward</a>.)</p>
+<p>Your god grants you a ward that protects you from the faithless. Choose one of the following wards. You can change your ward along with your prayer (see Prayer above) by praying to your god as a <a href="../../../../rule/resource/respite/">respite</a> activity. (<em>Quick Build:</em> <a href="../bastion-ward/">Bastion Ward</a>.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -30,7 +30,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god grants you a holy countenance that protects you at all times. You gain a +1 bonus to saving throws.</p>
+<p>Your god grants you a holy countenance that protects you at all times. You gain a +1 bonus to <a href="../../../../rule/general/saving-throw/">saving throws</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

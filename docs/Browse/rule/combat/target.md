@@ -18,7 +18,7 @@ If an ability targets one or more creatures, it can affect creatures within the 
 
 If an ability targets one or more objects, it can affect any object within the ability's [distance](distance.md) or area. Unless otherwise noted, objects have poison immunity all and psychic immunity all. \(Damage in Chapter 10: [Combat](../../../Read/heroes/combat.md) has information on [damage immunity](../damage/damage-immunity.md).)
 
-When an ability can target creatures and objects, the ability can damage objects. However, unless otherwise noted (as with the [talent's](../../class/talent.md) [Minor Telekinesis](../../feature/ability/talent/level-1/minor-telekinesis.md) ability) or if the Director allows it, objects are immune to an ability's other effects. If an ability forces an object to make a test, the object automatically gets a tier 1 result on the test.
+When an ability can target creatures and objects, the ability can damage objects. However, unless otherwise noted (as with the [talent's](../../class/talent.md) [Minor Telekinesis](../../feature/ability/talent/level-1/minor-telekinesis.md) ability) or if the Director allows it, objects are immune to an ability's other effects. If an ability forces an object to make a [test](../test/test.md), the object automatically gets a tier 1 result on the [test](../test/test.md).
 
 ## Enemy {data-scc="mcdm.heroes.v1/rule.combat/enemy"}
 

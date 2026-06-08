@@ -21,9 +21,9 @@ type: title
 
 Additionally, choose one of the following benefits:
 
-- *Crown Jewels:* You gain one of your nation's treasures—a trinket of the Director's choice.
-- *Royal Fame:* You earn 2 Renown.
-- *Royal Retinue:* The number of followers you can recruit increases by 2
-- *Royal Wealth:* You earn 2 Wealth.
+- *Crown Jewels:* You gain one of your nation's treasures—a [trinket](../rule/treasure/trinket.md) of the Director's choice.
+- *Royal Fame:* You earn 2 [Renown](../rule/resource/renown.md).
+- *Royal Retinue:* The number of [followers](../rule/general/follower.md) you can recruit increases by 2
+- *Royal [Wealth](../rule/resource/wealth.md):* You earn 2 [Wealth](../rule/resource/wealth.md).
 
 **Special:** If you take this title, you might be called upon to perform duties for your nation.

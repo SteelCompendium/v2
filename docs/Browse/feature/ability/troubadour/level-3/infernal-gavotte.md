@@ -2,7 +2,7 @@
 action_type: Main action
 class: troubadour
 cost: 7 Drama
-distance: 3 burst
+distance: 3 [burst](../../../../rule/combat/burst.md)
 effect: Each ally in the area can [shift](../../../../movement/shifting.md) up to 2 squares.
 flavor: A spicy performance lights a fire under your allies' feet.
 keywords:
@@ -33,16 +33,11 @@ type: ability
 <p class="sc-ability__flavor">A spicy performance lights a fire under your allies&#39; feet.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 fire damage; A &lt; WEAK, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 fire damage; A &lt; AVERAGE, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 fire damage; A &lt; STRONG, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 5 fire damage; A &lt; WEAK, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>12-16:</b> 7 fire damage; A &lt; AVERAGE, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>17+:</b> 10 fire damage; A &lt; STRONG, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

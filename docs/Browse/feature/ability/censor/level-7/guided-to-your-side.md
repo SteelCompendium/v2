@@ -2,7 +2,7 @@
 action_type: Main action
 class: censor
 distance: Ranged 10
-effect: Each target is [teleport](../../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../../../censor/level-4/invocation-of-the-heart.md) feature. You don't need line of effect to the bonded creature but you must be on the same world.
+effect: Each target is [teleport](../../../../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../../../censor/level-4/invocation-of-the-heart.md) feature. You don't need [line of effect](../../../../rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world.
 flavor: You concentrate on a friend and [teleport](../../../../movement/teleport.md) to them.
 keywords:
     - Magic
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target is <a href="../../../../../movement/teleport/">teleport</a>ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your <a href="../../../../censor/level-4/invocation-of-the-heart/">Invocation of the Heart</a> feature. You don&#39;t need line of effect to the bonded creature but you must be on the same world.</p></div>
+<div class="sc-ability__section-body"><p>Each target is <a href="../../../../../movement/teleport/">teleport</a>ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your <a href="../../../../censor/level-4/invocation-of-the-heart/">Invocation of the Heart</a> feature. You don&#39;t need <a href="../../../../../rule/combat/line-of-effect/">line of effect</a> to the bonded creature but you must be on the same world.</p></div>
 </div>
 </article>

@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 3 Clarity
 distance: Ranged 10
-effect: If you target an ally, they gain [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to three times your [Presence](../../../../rule/character/presence.md) score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
+effect: If you target an ally, they gain [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to three times your [Presence](../../../../rule/character/presence.md) score, and they can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn. If you target an enemy, you make a [power roll](../../../../rule/dice/power-roll.md).
 flavor: You project psionic energy out to a creature and take on a new visage in their mind.
 keywords:
     - Psionic
@@ -36,16 +36,8 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + P psychic damage; I &lt; WEAK, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + P psychic damage; I &lt; AVERAGE, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + P psychic damage; I &lt; STRONG, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you target an ally, they gain <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to three times your <a href="../../../../../rule/character/presence/">Presence</a> score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.</p></div>
+<div class="sc-ability__section-body"><p>If you target an ally, they gain <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to three times your <a href="../../../../../rule/character/presence/">Presence</a> score, and they can end one effect on them that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn. If you target an enemy, you make a <a href="../../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 3 + P psychic damage; I &lt; WEAK, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>12-16:</b> 6 + P psychic damage; I &lt; AVERAGE, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>17+:</b> 9 + P psychic damage; I &lt; STRONG, <a href="../../../../../condition/frightened/">frightened</a> (save ends)</li></ul></div>
 </div>
 </article>

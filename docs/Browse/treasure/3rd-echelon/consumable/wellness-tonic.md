@@ -1,6 +1,6 @@
 ---
 echelon: "3"
-effect: When you drink this tonic as a maneuver, you feel a surge of physical and spiritual immunity. You can immediately end up to three conditions or effects affecting you. Additionally, until the start of your next turn, you can ignore any effect that would last until the end of your next turn or be ended by a saving throw.
+effect: When you drink this tonic as a maneuver, you feel a surge of physical and spiritual immunity. You can immediately end up to three conditions or effects affecting you. Additionally, until the start of your next turn, you can ignore any effect that would last until the end of your next turn or be ended by a [saving throw](../../../rule/general/saving-throw.md).
 keywords:
     - Potion
     - Psionic
@@ -18,12 +18,12 @@ type: treasure
 
 **Keywords:** Potion, Psionic
 
-**Item Prerequisite:** An ounce of troll's blood, raw honey
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** An ounce of troll's blood, raw honey
 
-**Project Source:** Texts or lore in Variac
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Variac
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md) or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 180
 
-**Effect:** When you drink this tonic as a maneuver, you feel a surge of physical and spiritual immunity. You can immediately end up to three conditions or effects affecting you. Additionally, until the start of your next turn, you can ignore any effect that would last until the end of your next turn or be ended by a saving throw.
+**Effect:** When you drink this tonic as a maneuver, you feel a surge of physical and spiritual immunity. You can immediately end up to three conditions or effects affecting you. Additionally, until the start of your next turn, you can ignore any effect that would last until the end of your next turn or be ended by a [saving throw](../../../rule/general/saving-throw.md).

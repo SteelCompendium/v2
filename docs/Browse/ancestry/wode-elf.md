@@ -85,7 +85,7 @@ Llyander turned and marched off. "Come!" they called. The children ran to catch 
 
 The elf stopped suddenly and spun toward them, serious but kindly. They pointed to each of the children in turn.
 
-"I will instruct you on the proper etiquette, but remember this: Lord Tear will test us. Some tests for you and some for me. The [high elves](high-elf.md) and the [wode elves](wode-elf.md) are but distant cousins. You will hear much that is polite, much that is flattering, but it is all another kind of glamor. It hides deep tensions, recently exacerbated by the treaty with Ajax."
+"I will instruct you on the proper etiquette, but remember this: Lord Tear will [test](../rule/test/test.md) us. Some [tests](../rule/test/test.md) for you and some for me. The [high elves](high-elf.md) and the [wode elves](wode-elf.md) are but distant cousins. You will hear much that is polite, much that is flattering, but it is all another kind of glamor. It hides deep tensions, recently exacerbated by the treaty with Ajax."
 
 The children nodded. The elf, satisfied, marched off and they followed.
 
@@ -97,7 +97,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 
 ### Signature Trait: Wode Elf Glamor {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-glamor"}
 
-You can magically alter your appearance to better blend in with your surroundings. You gain an [edge](../rule/dice/edge.md) on tests made to hide and sneak, and tests made to search for you while you are hidden take a [bane](../rule/dice/bane.md).
+You can magically alter your appearance to better blend in with your surroundings. You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to hide and sneak, and [tests](../rule/test/test.md) made to search for you while you are hidden take a [bane](../rule/dice/bane.md).
 
 ### Purchased Wode Elf Traits
 
@@ -109,23 +109,23 @@ You can [shift](../movement/shifting.md) into and while within [difficult terrai
 
 #### Quick and Brutal {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/quick-and-brutal"}
 
-Whenever you score a critical hit, you can take an additional main action and an additional move action instead of just a main action.
+Whenever you score a [critical hit](../rule/combat/critical-hit.md), you can take an additional main action and an additional move action instead of just a main action.
 
 #### Otherworldly Grace {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/otherworldly-grace"}
 
-Your elf body and mind can't be contained for long. Whenever you make a saving throw, you succeed on a roll of 5 or higher.
+Your elf body and mind can't be contained for long. Whenever you make a [saving throw](../rule/general/saving-throw.md), you succeed on a roll of 5 or higher.
 
 #### Revisit Memory {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/revisit-memory"}
 
-Accessing memories is as easy as living in the present for you. You gain an [edge](../rule/dice/edge.md) on tests made to recall lore.
+Accessing memories is as easy as living in the present for you. You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to recall lore.
 
 #### Swift {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/swift"}
 
-You have speed 6.
+You have [speed](../rule/character/speed.md) 6.
 
 #### The Wode Defends {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/the-wode-defends"}
 
-You have the following signature ability. Signature abilities can be used at will.
+You have the following [signature ability](../rule/combat/signature-ability.md). [Signature abilities](../rule/combat/signature-ability.md) can be used at will.
 
 ##### The Wode Defends {data-scc="mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends"}
 
@@ -135,7 +135,7 @@ You have the following signature ability. Signature abilities can be used at wil
 |---------------------------|------------------------------:|
 | **📏 Ranged 10**          |           **🎯 One creature** |
 
-**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
+**[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 2 + M or A damage; A < WEAK, [slowed](../condition/slowed.md) (save ends)
 - **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](../condition/slowed.md) (save ends)

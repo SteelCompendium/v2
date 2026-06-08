@@ -2,7 +2,7 @@
 action_type: Triggered
 class: conduit
 distance: Ranged 10
-effect: The power roll gains an [edge](../../../../rule/dice/edge.md).
+effect: The [power roll](../../../../rule/dice/power-roll.md) gains an [edge](../../../../rule/dice/edge.md).
 flavor: You invigorate an attacking ally with divine energy.
 keywords:
     - Magic
@@ -10,10 +10,10 @@ keywords:
 level: "1"
 name: Word of Guidance
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/word-of-guidance
-spend: '1 Piety: The power roll has a double [edge](../../../../rule/dice/edge.md).'
+spend: '1 Piety: The [power roll](../../../../rule/dice/power-roll.md) has a double [edge](../../../../rule/dice/edge.md).'
 subtype: triggered
 target: One ally
-trigger: The target makes an ability roll for a damage-dealing ability.
+trigger: The target makes an [ability roll](../../../../rule/dice/ability-roll.md) for a damage-dealing ability.
 type: ability
 ---
 
@@ -38,11 +38,11 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target makes an ability roll for a damage-dealing ability.</p></div>
+<div class="sc-ability__section-body"><p>The target makes an <a href="../../../../../rule/dice/ability-roll/">ability roll</a> for a damage-dealing ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The power roll gains an <a href="../../../../../rule/dice/edge/">edge</a>.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../../rule/dice/power-roll/">power roll</a> gains an <a href="../../../../../rule/dice/edge/">edge</a>.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The power roll has a double <a href="../../../../../rule/dice/edge/">edge</a>.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The <a href="../../../../../rule/dice/power-roll/">power roll</a> has a double <a href="../../../../../rule/dice/edge/">edge</a>.</span></div>
 </article>

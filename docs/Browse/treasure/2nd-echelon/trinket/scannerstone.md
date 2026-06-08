@@ -17,11 +17,11 @@ type: treasure
 
 **Keywords:** Psionic
 
-**Item Prerequisite:** A piece of polished obsidian, seven flawless pea-sized diamonds
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A piece of polished obsidian, seven flawless pea-sized diamonds
 
-**Project Source:** Texts or lore in Variac
+**[Project Source](../../../rule/downtime/project-source.md):** Texts or lore in Variac
 
-**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
+**[Project Roll](../../../rule/downtime/project-roll.md) [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 300
 

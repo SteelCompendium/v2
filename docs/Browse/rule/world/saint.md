@@ -8,9 +8,9 @@ type: rule
 
 ---
 
-Most religions in Orden organize themselves into hierarchies and build temples or cathedrals, but some religions are little more than traditions handed down from shaman to shaman, or wise-woman to wise-daughter. Some religions are secret!
+Most religions in [Orden](orden.md) organize themselves into hierarchies and build temples or cathedrals, but some religions are little more than traditions handed down from shaman to shaman, or wise-woman to wise-daughter. Some religions are secret!
 
-Because the gods are forbidden from acting directly upon the world, churches and temples in Orden are consecrated to saints, or heroes. There are no temples to Ord or churches of [Cavall](../../god/cavall.md). Instead, there is the Church of Zarok the Law-Giver and the Church of Saint Llewellyn the Valiant. Everyone knows which god these heroes and saints serve, it's common knowledge. A [human](../../ancestry/human.md) in Vasloria might call out to [Cavall](../../god/cavall.md) for aid in times of need but they know that, should [Cavall](../../god/cavall.md) choose to help, it will be by sending one of his saints.
+Because the gods are forbidden from acting directly upon the world, churches and temples in [Orden](orden.md) are consecrated to saints, or heroes. There are no temples to Ord or churches of [Cavall](../../god/cavall.md). Instead, there is the Church of Zarok the Law-Giver and the Church of Saint Llewellyn the Valiant. Everyone knows which god these heroes and saints serve, it's common knowledge. A [human](../../ancestry/human.md) in [Vasloria](vasloria.md) might call out to [Cavall](../../god/cavall.md) for aid in times of need but they know that, should [Cavall](../../god/cavall.md) choose to help, it will be by sending one of his saints.
 
 The most popular saints and heroes can have several churches meaning distinct organizations—devoted to them, each with their own rituals. In Corwell, there is the Church of Saint Llewellyn the Valiant, but there is also the smaller Church of Saint Llewellyn the Charitable with only a few temples.
 
@@ -20,7 +20,7 @@ There are churches dedicated to nature or knowledge or the sun, with no clear mo
 
 > **How To Use This Chapter**
 >
-> *Draw Steel* isn't about religion any more than it is about language or treasure, but understanding how religion works in a day-to-day sense can help make the game world feel more real. The people in Orden aren't any more religious than the people of Earth were in the premodern era. It is a factor in their lives, but not the only factor—and for some people, not a very important one.
+> *Draw Steel* isn't about religion any more than it is about language or treasure, but understanding how religion works in a day-to-day sense can help make the game world feel more real. The people in [Orden](orden.md) aren't any more religious than the people of Earth were in the premodern era. It is a factor in their lives, but not the only factor—and for some people, not a very important one.
 >
 > Obviously, [conduit](../../class/conduit.md) and [censor](../../class/censor.md) players can use this chapter to choose a saint, each saint's entry also lists which domains they represent. But each god also has a list of domains, so an enterprising player could just invent a new saint, hero, or herald choosing two domains from a god's list.
 >

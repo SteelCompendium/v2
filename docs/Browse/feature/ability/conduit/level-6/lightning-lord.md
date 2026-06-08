@@ -4,7 +4,7 @@ class: conduit
 cost: 9 Piety
 distance: Three 10 x 1 lines within 1
 effect: The targets are [force moved](../../../../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
-flavor: Lightning bursts forth from your body in several directions.
+flavor: Lightning [bursts](../../../../rule/combat/burst.md) forth from your body in several directions.
 keywords:
     - Area
     - Magic
@@ -28,19 +28,14 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Piety</div></div>
 </div>
-<p class="sc-ability__flavor">Lightning bursts forth from your body in several directions.</p>
+<p class="sc-ability__flavor">Lightning <a href="../../../../../rule/combat/burst/">bursts</a> forth from your body in several directions.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Three 10 x 1 lines within 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../../rule/character/intuition.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 lightning damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 lightning damage; push 2</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 lightning damage; push 3</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 6 lightning damage; push 1</li><li><b>12-16:</b> 9 lightning damage; push 2</li><li><b>17+:</b> 13 lightning damage; push 3</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

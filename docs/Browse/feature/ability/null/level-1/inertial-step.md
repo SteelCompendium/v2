@@ -2,7 +2,7 @@
 action_type: Main action
 class: "null"
 distance: Melee 1
-effect: You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this [strike](../../../../rule/combat/strike.md).
+effect: You can [shift](../../../../movement/shifting.md) up to half your [speed](../../../../rule/character/speed.md) before or after you make this [strike](../../../../rule/combat/strike.md).
 flavor: You flit about the battlefield and take an opportunistic strike.
 keywords:
     - Melee
@@ -36,16 +36,11 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + A damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 5 + A damage</li><li><b>12-16:</b> 7 + A damage</li><li><b>17+:</b> 10 + A damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to half your speed before or after you make this <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to half your <a href="../../../../../rule/character/speed/">speed</a> before or after you make this <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 </article>

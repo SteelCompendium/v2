@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature&#39;s disguise or illusion, you can use your <a href="../../../ability/censor/level-1/judgment/">Judgment</a> ability against them as a free triggered action.</p>
+<p>Your order has taught you methods to discern the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower, and you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to see through the disguises and illusions of more powerful creatures. Whenever you see through a creature&#39;s disguise or illusion, you can use your <a href="../../../ability/censor/level-1/judgment/">Judgment</a> ability against them as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p>
 </div>
 </section>

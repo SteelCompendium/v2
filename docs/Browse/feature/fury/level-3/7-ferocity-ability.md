@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 7 ferocity to use.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 7 ferocity to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
 <div class="sc-ability__head">
@@ -59,7 +59,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each creature you make a melee <a href="../../../../rule/combat/strike/">strike</a> against who has P &lt; AVERAGE is <a href="../../../../condition/taunted/">taunted</a> until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy <a href="../../../../condition/taunted/">taunted</a> by you, the ability deals extra damage equal to twice your <a href="../../../../rule/character/might/">Might</a> score and increases its potency by 1.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each creature you make a melee <a href="../../../../rule/combat/strike/">strike</a> against who has P &lt; AVERAGE is <a href="../../../../condition/taunted/">taunted</a> until the end of their next turn. Additionally, when you use an ability that deals <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> against any enemy <a href="../../../../condition/taunted/">taunted</a> by you, the ability deals extra damage equal to twice your <a href="../../../../rule/character/might/">Might</a> score and increases its <a href="../../../../rule/character/potency/">potency</a> by 1.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">

@@ -3,7 +3,7 @@ action_type: Maneuver
 class: talent
 cost: 5 Clarity
 distance: Ranged 10
-effect: A target can't use triggered actions while their speed is reduced this way.
+effect: A target can't use [triggered actions](../../../../rule/combat/triggered-action.md) while their [speed](../../../../rule/character/speed.md) is reduced this way.
 flavor: Perhaps they wonder why everyone else is moving so quickly?
 keywords:
     - Chronopathy
@@ -35,20 +35,15 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures or objects</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target&#39;s speed is halved (save ends), or if P &lt; WEAK, the target is <a href="../../../../../condition/slowed/">slowed</a> (save ends).</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target is <a href="../../../../../condition/slowed/">slowed</a> (save ends), or if P &lt; AVERAGE, the target&#39;s speed is 0 (save ends).</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target is <a href="../../../../../condition/slowed/">slowed</a> (save ends), or if P &lt; STRONG, the target&#39;s speed is 0 (save ends).</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> The target&#39;s <a href="../../../../../rule/character/speed/">speed</a> is halved (save ends), or if P &lt; WEAK, the target is <a href="../../../../../condition/slowed/">slowed</a> (save ends).</li><li><b>12-16:</b> The target is <a href="../../../../../condition/slowed/">slowed</a> (save ends), or if P &lt; AVERAGE, the target&#39;s <a href="../../../../../rule/character/speed/">speed</a> is 0 (save ends).</li><li><b>17+:</b> The target is <a href="../../../../../condition/slowed/">slowed</a> (save ends), or if P &lt; STRONG, the target&#39;s <a href="../../../../../rule/character/speed/">speed</a> is 0 (save ends).</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A target can&#39;t use triggered actions while their speed is reduced this way.</p></div>
+<div class="sc-ability__section-body"><p>A target can&#39;t use <a href="../../../../../rule/combat/triggered-action/">triggered actions</a> while their <a href="../../../../../rule/character/speed/">speed</a> is reduced this way.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The potency of this ability increases by 1 and you take 1d6 damage. At the start of each combat round while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../../rule/character/potency/">potency</a> of this ability increases by 1 and you take 1d6 damage. At the start of each combat round while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).</p></div>
 </div>
 </article>

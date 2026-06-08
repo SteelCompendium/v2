@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.</p>
+<p>Your damage-dealing psionic abilities gain a +1 bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a>.</p>
 </div>
 </section>

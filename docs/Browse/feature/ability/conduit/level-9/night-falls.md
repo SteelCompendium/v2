@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 cost: 11 Piety
-distance: 5 cube within 10
+distance: 5 [cube](../../../../rule/combat/cube.md) within 10
 effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the area is filled with magic darkness that your enemies can't see through, but you and your allies can.
 flavor: You summon darkness that thwarts only your foes.
 keywords:
@@ -32,7 +32,7 @@ type: ability
 <p class="sc-ability__flavor">You summon darkness that thwarts only your foes.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 cube within 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">

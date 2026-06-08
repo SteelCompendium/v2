@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: shadow
 cost: 9 Insight
-distance: 4 burst
+distance: 4 [burst](../../../../rule/combat/burst.md)
 effect: Each target can [teleport](../../../../movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../../../../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your [Agility](../../../../rule/character/agility.md) score. Additionally, a target who ends this movement in [concealment](../../../../rule/combat/concealment.md) or [cover](../../../../rule/combat/cover.md) can use the [Hide](../../../common/maneuvers/hide.md) maneuver even if they are observed.
 flavor: You [teleport](../../../../movement/teleport.md) your friends in a burst of ash and fire.
 keywords:
@@ -30,7 +30,7 @@ type: ability
 <p class="sc-ability__flavor">You <a href="../../../../../movement/teleport/">teleport</a> your friends in a burst of ash and fire.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 burst</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

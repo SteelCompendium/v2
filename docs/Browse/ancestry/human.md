@@ -55,7 +55,7 @@ Some of your names, I will see written in future textbooks. But some of your nam
 
 ### Signature Trait: Detect the Supernatural {data-scc="mcdm.heroes.v1/feature.trait.human/detect-the-supernatural"}
 
-As a maneuver, you can open your awareness to detect supernatural creatures and phenomena. Until the end of your next turn, you know the location of any supernatural object, or any undead, construct, or creature from another world within 5 squares, even if you don't have line of effect to that object or creature. You know if you're detecting an item or a creature, and you know the nature of any creature you detect.
+As a maneuver, you can open your awareness to detect supernatural creatures and phenomena. Until the end of your next turn, you know the location of any supernatural object, or any undead, construct, or creature from another world within 5 squares, even if you don't have [line of effect](../rule/combat/line-of-effect.md) to that object or creature. You know if you're detecting an item or a creature, and you know the nature of any creature you detect.
 
 ### Purchased Human Traits
 
@@ -71,11 +71,11 @@ A tolerance for pain and distress allows you to push through difficult situation
 
 #### Perseverance {data-scc="mcdm.heroes.v1/feature.trait.human/perseverance"}
 
-Giving up is for other people. You gain an [edge](../rule/dice/edge.md) on tests made using the [Endurance](../skill/endurance.md) skill. Additionally, when you are [slowed](../condition/slowed.md), your speed is reduced to 3 instead of 2.
+Giving up is for other people. You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made using the [Endurance](../skill/endurance.md) skill. Additionally, when you are [slowed](../condition/slowed.md), your [speed](../rule/character/speed.md) is reduced to 3 instead of 2.
 
 #### Resist the Unnatural {data-scc="mcdm.heroes.v1/feature.trait.human/resist-the-unnatural"}
 
-Your instinctive resilience protects you from injuries beyond the routine. Whenever you take damage that isn't untyped, you can use a triggered action to take half the damage.
+Your instinctive resilience protects you from injuries beyond the routine. Whenever you take damage that isn't untyped, you can use a [triggered action](../rule/combat/triggered-action.md) to take half the damage.
 
 #### Staying Power {data-scc="mcdm.heroes.v1/feature.trait.human/staying-power"}
 

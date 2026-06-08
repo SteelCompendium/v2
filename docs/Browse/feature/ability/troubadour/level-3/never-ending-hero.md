@@ -1,8 +1,8 @@
 ---
 action_type: No action
 class: troubadour
-distance: 5 aura
-effect: While this performance is active, each target who starts their turn [dying](../../../../rule/health/dying.md) while in the area gains an [edge](../../../../rule/dice/edge.md) on power rolls and ignores the effects of [bleeding](../../../../condition/bleeding.md) until the end of their turn.
+distance: 5 [aura](../../../../rule/combat/aura.md)
+effect: While this performance is active, each target who starts their turn [dying](../../../../rule/health/dying.md) while in the area gains an [edge](../../../../rule/dice/edge.md) on [power rolls](../../../../rule/dice/power-roll.md) and ignores the effects of [bleeding](../../../../condition/bleeding.md) until the end of their turn.
 flavor: And toniiight we can truly say ♪ They will alllways find a way!♪
 keywords:
     - Area
@@ -31,11 +31,11 @@ type: ability
 <p class="sc-ability__flavor">And toniiight we can truly say ♪ They will alllways find a way!♪</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn <a href="../../../../../rule/health/dying/">dying</a> while in the area gains an <a href="../../../../../rule/dice/edge/">edge</a> on power rolls and ignores the effects of <a href="../../../../../condition/bleeding/">bleeding</a> until the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn <a href="../../../../../rule/health/dying/">dying</a> while in the area gains an <a href="../../../../../rule/dice/edge/">edge</a> on <a href="../../../../../rule/dice/power-roll/">power rolls</a> and ignores the effects of <a href="../../../../../condition/bleeding/">bleeding</a> until the end of their turn.</p></div>
 </div>
 </article>

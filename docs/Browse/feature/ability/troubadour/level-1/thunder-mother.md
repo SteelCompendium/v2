@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: Ranged 10
-effect: At the end of each combat round while this performance is active, you can make a power roll against the target that ignores [cover](../../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
+effect: At the end of each combat round while this performance is active, you can make a [power roll](../../../../rule/dice/power-roll.md) against the target that ignores [cover](../../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
 flavor: All for thunder motherrr! ♪ Run and hide for coverrr!♪
 keywords:
     - Magic
@@ -35,16 +35,8 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Lightning damage equal to your level</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Lightning damage equal to 5 + your level</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Lightning damage equal to 10 + your level</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each combat round while this performance is active, you can make a power roll against the target that ignores <a href="../../../../../rule/combat/cover/">cover</a>. You can&#39;t target the same creature twice with this effect.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each combat round while this performance is active, you can make a <a href="../../../../../rule/dice/power-roll/">power roll</a> against the target that ignores <a href="../../../../../rule/combat/cover/">cover</a>. You can&#39;t target the same creature twice with this effect.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> Lightning damage equal to your level</li><li><b>12-16:</b> Lightning damage equal to 5 + your level</li><li><b>17+:</b> Lightning damage equal to 10 + your level</li></ul></div>
 </div>
 </article>

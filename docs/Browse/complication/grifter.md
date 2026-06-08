@@ -1,6 +1,6 @@
 ---
 benefit: You have one skill of your choice from the intrigue skill group.
-drawback: Whenever you meet an NPC for the first time, the Director can decide that NPC was a victim of one of your previous cons and remembers you. If they do so, the party gains a [hero token](../rule/resource/hero-token.md).
+drawback: Whenever you meet an [NPC](../rule/general/npc.md) for the first time, the Director can decide that [NPC](../rule/general/npc.md) was a victim of one of your previous cons and remembers you. If they do so, the party gains a [hero token](../rule/resource/hero-token.md).
 name: Grifter
 scc: mcdm.heroes.v1/complication/grifter
 type: complication
@@ -14,4 +14,4 @@ You used to be a con artist, but those days are pretty much behind you. Being a 
 
 **Benefit:** You have one skill of your choice from the intrigue skill group.
 
-**Drawback:** Whenever you meet an NPC for the first time, the Director can decide that NPC was a victim of one of your previous cons and remembers you. If they do so, the party gains a [hero token](../rule/resource/hero-token.md).
+**Drawback:** Whenever you meet an [NPC](../rule/general/npc.md) for the first time, the Director can decide that [NPC](../rule/general/npc.md) was a victim of one of your previous cons and remembers you. If they do so, the party gains a [hero token](../rule/resource/hero-token.md).

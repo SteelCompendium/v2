@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: censor
 cost: 5 Wrath
-distance: 3 aura
+distance: 3 [aura](../../../../rule/combat/aura.md)
 effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 1 [surge](../../../../rule/resource/surge.md) at the end of each of your turns.
 flavor: The gods reward your faith.
 keywords:
@@ -31,7 +31,7 @@ type: ability
 <p class="sc-ability__flavor">The gods reward your faith.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__section">

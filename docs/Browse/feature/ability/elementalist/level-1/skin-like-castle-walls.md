@@ -11,7 +11,7 @@ keywords:
 level: "1"
 name: Skin Like Castle Walls
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/skin-like-castle-walls
-spend: '1 Essence: If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.'
+spend: '1 Essence: If the damage has any [potency](../../../../rule/character/potency.md) effects associated with it, the [potency](../../../../rule/character/potency.md) is reduced by 1 for the target.'
 subtype: triggered
 target: Self or one ally
 trigger: The target takes damage.
@@ -45,5 +45,5 @@ type: ability
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>The target takes half the damage.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">If the damage has any <a href="../../../../../rule/character/potency/">potency</a> effects associated with it, the <a href="../../../../../rule/character/potency/">potency</a> is reduced by 1 for the target.</span></div>
 </article>

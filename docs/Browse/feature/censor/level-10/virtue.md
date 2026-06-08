@@ -20,8 +20,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have an epic resource called <a href="../virtue/">virtue</a>. Each time you finish a respite, you gain <a href="../virtue/">virtue</a> equal to the XP you gain. You can spend <a href="../virtue/">virtue</a> on your abilities as if it were wrath.</p>
-<p>Additionally, you can spend 3 <a href="../virtue/">virtue</a> to access one of your deity&#39;s domains that you usually don&#39;t have access to. When you do, you can use that domain&#39;s features until you finish another respite.</p>
+<p>You have an epic resource called <a href="../virtue/">virtue</a>. Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you gain <a href="../virtue/">virtue</a> equal to the <a href="../../../../rule/resource/experience/">XP</a> you gain. You can spend <a href="../virtue/">virtue</a> on your abilities as if it were wrath.</p>
+<p>Additionally, you can spend 3 <a href="../virtue/">virtue</a> to access one of your deity&#39;s domains that you usually don&#39;t have access to. When you do, you can use that domain&#39;s features until you finish another <a href="../../../../rule/resource/respite/">respite</a>.</p>
 <p><a href="../virtue/">Virtue</a> remains until you spend it.</p>
 </div>
 </section>

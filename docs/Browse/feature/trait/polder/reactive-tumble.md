@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Staying light on your feet lets you quickly get back into position. Whenever you are <a href="../../../../movement/forced-movement/">force moved</a>, you can use a free triggered action to <a href="../../../../movement/shifting/">shift</a> 1 square after the <a href="../../../../movement/forced-movement/">forced movement</a> is resolved.</p>
+<p>Staying light on your feet lets you quickly get back into position. Whenever you are <a href="../../../../movement/forced-movement/">force moved</a>, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to <a href="../../../../movement/shifting/">shift</a> 1 square after the <a href="../../../../movement/forced-movement/">forced movement</a> is resolved.</p>
 </div>
 </section>

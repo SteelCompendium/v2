@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one heroic ability from the following options, each of which costs 7 clarity to use.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Choose one <a href="../../../../rule/general/heroic-ability/">heroic ability</a> from the following options, each of which costs 7 clarity to use.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -37,13 +37,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + P corruption damage; P &lt; WEAK, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + P corruption damage; the target is flung through time, and if P &lt; AVERAGE, they are <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + P corruption damage; the target is flung through time, and if P &lt; STRONG, they are <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 3 + P corruption damage; P &lt; WEAK, <a href="../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>12-16:</b> 5 + P corruption damage; the target is flung through time, and if P &lt; AVERAGE, they are <a href="../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>17+:</b> 8 + P corruption damage; the target is flung through time, and if P &lt; STRONG, they are <a href="../../../../condition/weakened/">weakened</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -51,7 +46,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a <a href="../../../../ancestry/human/">human</a>). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.</p></div>
+<div class="sc-ability__section-body"><p>You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a <a href="../../../../ancestry/human/">human</a>). If you obtain a tier 3 outcome on the <a href="../../../../rule/dice/power-roll/">power roll</a>, you gain 2 clarity.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -69,17 +64,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create three <a href="../../../../rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your turns, you can use a free maneuver to fire an orb at a creature or object within 5 squares as a ranged <a href="../../../../rule/combat/strike/">strike</a>, losing the orb after the <a href="../../../../rule/combat/strike/">strike</a>.</p></div>
+<div class="sc-ability__section-body"><p>You create three <a href="../../../../rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your turns, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to fire an orb at a creature or object within 5 squares as a ranged <a href="../../../../rule/combat/strike/">strike</a>, losing the orb after the <a href="../../../../rule/combat/strike/">strike</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 damage</li><li><b>12-16:</b> 3 damage</li><li><b>17+:</b> 5 damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -98,16 +85,16 @@ type: feature
 <p class="sc-ability__flavor">A protective field reverses the momentum of incoming attacks.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 aura</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/aura/">aura</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The aura lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../rule/combat/aura/">aura</a> lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The size of the aura increases by 1. Whenever your aura reflects an ability, you take 2d6 damage and forget a memory, as determined by you and the Director.</p></div>
+<div class="sc-ability__section-body"><p>The size of the <a href="../../../../rule/combat/aura/">aura</a> increases by 1. Whenever your <a href="../../../../rule/combat/aura/">aura</a> reflects an ability, you take 2d6 damage and forget a memory, as determined by you and the Director.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -125,21 +112,16 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + P damage; P &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + P damage; P &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + P damage; P &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 6 + P damage; P &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>12-16:</b> 10 + P damage; P &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>17+:</b> 14 + P damage; P &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/character/presence/">Presence</a> tests until the end of the encounter.</p></div>
+<div class="sc-ability__section-body"><p>The target takes a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">tests</a> until the end of the encounter.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The potency of this ability increases by 1. You take 2d6 damage and gain 3 <a href="../../../../rule/resource/surge/">surges</a> that you can use immediately.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../rule/character/potency/">potency</a> of this ability increases by 1. You take 2d6 damage and gain 3 <a href="../../../../rule/resource/surge/">surges</a> that you can use immediately.</p></div>
 </div>
 </article>
 </div>

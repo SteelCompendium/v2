@@ -23,7 +23,7 @@ You are the only survivor of a cataclysmic psionic event—an experiment gone wr
 > |-------------------------------|------------------------------:|
 > | **📏 Ranged 10**              | **🎯 One creature or object** |
 >
-> **Power Roll + [Might](../rule/character/might.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
+> **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 >
 > - **≤11:** Push or pull 1
 > - **12-16:** Push or pull 2

@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>While you have 3 or more essence and are not <a href="../../../../rule/health/dying/">dying</a>, you exude an aura of magic whose <a href="../../../../rule/combat/distance/">distance</a> is equal to your <a href="../../../../rule/character/reason/">Reason</a> score. The effects within the area of the aura are based on your specialization, as shown on the <a href="../mantle-of-essence/">Mantle of Essence</a> Specialization Effects table. You can activate and deactivate the aura at will (no action required).</p>
+<p>While you have 3 or more essence and are not <a href="../../../../rule/health/dying/">dying</a>, you exude an aura of magic whose <a href="../../../../rule/combat/distance/">distance</a> is equal to your <a href="../../../../rule/character/reason/">Reason</a> score. The effects within the area of the <a href="../../../../rule/combat/aura/">aura</a> are based on your specialization, as shown on the <a href="../mantle-of-essence/">Mantle of Essence</a> Specialization Effects table. You can activate and deactivate the <a href="../../../../rule/combat/aura/">aura</a> at will (no action required).</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">

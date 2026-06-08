@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">9</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../../level-1/shadow-college/">shadow college</a> grants your choice of one of two heroic abilities.</p>
+<p>Your <a href="../../level-1/shadow-college/">shadow college</a> grants your choice of one of two <a href="../../../../rule/general/heroic-ability/">heroic abilities</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -46,17 +46,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">An enemy takes 6 damage; an ally can <a href="../../../../movement/teleport/">teleport</a> up to 3 squares.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">An enemy takes 10 damage; an ally can <a href="../../../../movement/teleport/">teleport</a> up to 5 squares.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">An enemy takes 14 damage; an ally can <a href="../../../../movement/teleport/">teleport</a> up to 7 squares.</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to twice your speed, making one power roll that targets each creature you come adjacent to during the <a href="../../../../movement/shifting/">shift</a>.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to twice your <a href="../../../../rule/character/speed/">speed</a>, making one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each creature you come adjacent to during the <a href="../../../../movement/shifting/">shift</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> An enemy takes 6 damage; an ally can <a href="../../../../movement/teleport/">teleport</a> up to 3 squares.</li><li><b>12-16:</b> An enemy takes 10 damage; an ally can <a href="../../../../movement/teleport/">teleport</a> up to 5 squares.</li><li><b>17+:</b> An enemy takes 14 damage; an ally can <a href="../../../../movement/teleport/">teleport</a> up to 7 squares.</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -74,17 +66,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 3</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">13 + A corruption damage; push 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 + A corruption damage; push 5</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">25 + A corruption damage; push 7</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 13 + A corruption damage; push 3</li><li><b>12-16:</b> 18 + A corruption damage; push 5</li><li><b>17+:</b> 25 + A corruption damage; push 7</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>On a critical hit, the target is <a href="../../../../condition/grabbed/">grabbed</a> by the demon and pulled through the portal before it closes, never to be seen again.</p></div>
+<div class="sc-ability__section-body"><p>On a <a href="../../../../rule/combat/critical-hit/">critical hit</a>, the target is <a href="../../../../condition/grabbed/">grabbed</a> by the demon and pulled through the portal before it closes, never to be seen again.</p></div>
 </div>
 </article>
 </div>
@@ -114,17 +101,9 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 damage</span></div>
-</div>
-</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).</p></div>
+<div class="sc-ability__section-body"><p>Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 7 damage</li><li><b>12-16:</b> 10 damage</li><li><b>17+:</b> 15 damage</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -142,17 +121,12 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A fire damage; vertical push 8</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + A fire damage; vertical push 10</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + A fire damage; vertical push 15</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 4 + A fire damage; vertical push 8</li><li><b>12-16:</b> 7 + A fire damage; vertical push 10</li><li><b>17+:</b> 11 + A fire damage; vertical push 15</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The ground beneath a 3-cube area around the target&#39;s starting position is <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
+<div class="sc-ability__section-body"><p>The ground beneath a 3-<a href="../../../../rule/combat/cube/">cube</a> area around the target&#39;s starting position is <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
 </div>
 </article>
 </div>
@@ -184,7 +158,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, you gain the target&#39;s damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target&#39;s signature ability, using their bonus for the power roll.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, you gain the target&#39;s damage immunities and <a href="../../../../rule/character/speed/">speed</a> (if they are better than yours), and can use any types of movement they can use. You can also use the target&#39;s <a href="../../../../rule/combat/signature-ability/">signature ability</a>, using their bonus for the <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -202,13 +176,8 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
-<div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">15 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">21 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">28 + A damage</span></div>
-</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 15 + A damage</li><li><b>12-16:</b> 21 + A damage</li><li><b>17+:</b> 28 + A damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
