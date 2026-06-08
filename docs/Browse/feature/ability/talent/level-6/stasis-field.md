@@ -12,12 +12,8 @@ keywords:
     - Ranged
 level: "6"
 name: Stasis Field
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/stasis-field
 target: Each creature and object in the area
-tier1: P < WEAK, the target is [slowed](../../../../condition/slowed.md) until the effect ends
-tier2: P < AVERAGE, the target's speed is 0 until the effect ends
-tier3: P < STRONG, the target is [restrained](../../../../condition/restrained.md) until the effect ends
 type: ability
 ---
 
@@ -41,7 +37,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">P &lt; WEAK, the target is <a href="../../../../../condition/slowed/">slowed</a> until the effect ends</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">P &lt; AVERAGE, the target&#39;s speed is 0 until the effect ends</span></div>

@@ -10,12 +10,8 @@ keywords:
     - Ranged
 level: "1"
 name: Faith Is Our Armor
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/faith-is-our-armor
 target: Four allies
-tier1: The target gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
-tier2: The target gains 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
-tier3: The target gains 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 type: ability
 ---
 
@@ -39,7 +35,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Four allies</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../../rule/character/intuition.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target gains 5 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target gains 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>

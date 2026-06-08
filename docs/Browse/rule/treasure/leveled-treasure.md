@@ -18,7 +18,7 @@ Each leveled treasure has benefits that you gain at 1st, 5th, and 9th levels. Yo
 
 Your connection with leveled treasures doesn't just make them useful. It also makes them dangerous. Each leveled treasure is a quasi-sentient, purpose-driven entity. A magic sword wishes to be used in combat. A psionic implement yearns to unleash its powerful magic. As such, a creature can safely carry a maximum of three leveled treasures at a time. If you carry more leveled treasures, those items become jealous of one another and fight for your attention, attempting to subconsciously influence you into using them—and leaving your other items behind.
 
-It's fine to own or possess more than three leveled treasures, as long as the extras are stored away or in the possession of other creatures. But if you carry more than three leveled treasures, you must make a Presence test during each respite:
+It's fine to own or possess more than three leveled treasures, as long as the extras are stored away or in the possession of other creatures. But if you carry more than three leveled treasures, you must make a [Presence](../character/presence.md) test during each respite:
 
 - **≤11:** One of your leveled treasures (chosen by the Director) grabs hold of your psyche. It forces you to sleepwalk or otherwise enter an active fugue state and discard the rest of your leveled treasures in locations you can't remember. If you want those items back, you'd better get looking before someone else finds them.
 - **12-16:** Your items work together to prevent you from moving until you pick three items and leave the rest behind.
@@ -42,11 +42,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Source:** Texts or lore in Yllyric
 
-**Project Roll Characteristic:** Agility or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../health/stamina.md), and you have immunity to acid and poison damage equal to your highest characteristic score.
+**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../health/stamina.md), and you have immunity to acid and poison damage equal to your highest [characteristic](../character/characteristic.md) score.
 
 **5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12. Additionally, whenever an adjacent creature deals damage to you, they take 3 acid or poison damage (your choice).
 
@@ -62,7 +62,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Source:** Texts or lore in Zaliac
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -70,7 +70,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12, and you have cold immunity 5. Additionally, whenever you fall, you can extend your arms (no action required) to unfurl a thick membrane between your arms and your body, slowing your fall and allowing you to glide. While gliding this way, you move downward at 1 square per round, and you can glide up to 6 squares horizontally as a free maneuver once during each of your turns.
 
-**9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21, and you have cold immunity 10. Additionally, whenever your feet are not touching the ground (including floating in water or being in midair), you gain an edge on ability rolls, and any ability takes a bane when targeting you.
+**9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21, and you have cold immunity 10. Additionally, whenever your feet are not touching the ground (including floating in water or being in midair), you gain an [edge](../dice/edge.md) on ability rolls, and any ability takes a [bane](../dice/bane.md) when targeting you.
 
 ### Grand Scarab {data-scc="mcdm.heroes.v1/treasure.leveled.armor/grand-scarab"}
 
@@ -82,7 +82,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Source:** Texts or lore in Phaedran
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -90,7 +90,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12. Additionally, you no longer need to end your turn on the ground to avoid falling.
 
-**9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21. Additionally, if you [fly](../../movement/fly.md) any distance before making a strike, that strike gains an edge.
+**9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21. Additionally, if you [fly](../../movement/fly.md) any [distance](../combat/distance.md) before making a [strike](../combat/strike.md), that [strike](../combat/strike.md) gains an [edge](../dice/edge.md).
 
 ### King's Roar {data-scc="mcdm.heroes.v1/treasure.leveled.armor/kings-roar"}
 
@@ -102,7 +102,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Source:** Songs in High Rhyvian
 
-**Project Roll Characteristic:** Reason, Intuition, or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md), [Intuition](../character/intuition.md), or [Presence](../character/presence.md)
 
 **Project Goal:** 450
 
@@ -122,13 +122,13 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Source:** Texts or lore in Voll
 
-**Project Roll Characteristic:** Intuition or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Intuition](../character/intuition.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 450
 
 **1st Level:** You gain a +6 bonus to [Stamina](../health/stamina.md) while you wear this armor. Additionally, whenever a creature within 5 squares deals damage to you, you can use a triggered action to capture a moment of time in the armor, making that creature [slowed](../../condition/slowed.md) until the end of their next turn.
 
-**5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12. Additionally, when you capture a moment of time in the armor, the triggering creature also takes corruption damage equal to twice your highest characteristic score.
+**5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12. Additionally, when you capture a moment of time in the armor, the triggering creature also takes corruption damage equal to twice your highest [characteristic](../character/characteristic.md) score.
 
 **9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21. Additionally, whenever you capture a moment of time in the armor, you can immediately release it to gain a +3 bonus to speed that lasts until the end of your next turn.
 
@@ -142,15 +142,15 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Source:** Texts or lore in Anjali
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
 **1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../health/stamina.md). Additionally, you can use a main action to fold in on yourself until you and your gear are paper thin. This effect lasts for 1 minute, letting you easily slip through any opening that is 1 inch wide or more. When you return to your three-dimensional form, you are [dazed](../../condition/dazed.md) for 1 minute. If you return to your true form while in a space that is too small for you, you are violently expelled into the nearest open space of your choice and take 3d6 damage.
 
-**5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12, and when you return to your true form, you are [dazed](../../condition/dazed.md) only until the end of your next turn. Additionally, while you are paper thin, you can use a maneuver to wrap yourself around an adjacent target who is the same size or smaller than you, automatically grabbing them.
+**5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12, and when you return to your true form, you are [dazed](../../condition/dazed.md) only until the end of your next turn. Additionally, while you are paper thin, you can use a maneuver to wrap yourself around an adjacent target who is the same [size](../character/size.md) or smaller than you, automatically grabbing them.
 
-**9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21, and you are no longer [dazed](../../condition/dazed.md) when you return to your true form. Additionally, while you have a target [grabbed](../../condition/grabbed.md) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a bane when using the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver against you and when making strikes against you.
+**9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21, and you are no longer [dazed](../../condition/dazed.md) when you return to your true form. Additionally, while you have a target [grabbed](../../condition/grabbed.md) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a [bane](../dice/bane.md) when using the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver against you and when making [strikes](../combat/strike.md) against you.
 
 ### Shrouded Memory {data-scc="mcdm.heroes.v1/treasure.leveled.armor/shrouded-memory"}
 
@@ -162,11 +162,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Source:** Texts or lore in Khelt
 
-**Project Roll Characteristic:** Agility or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 450
 
-**1st Level:** You gain a +6 bonus to [Stamina](../health/stamina.md) while you wear this armor. Additionally, you gain an edge on tests made to lie about or conceal your identity.
+**1st Level:** You gain a +6 bonus to [Stamina](../health/stamina.md) while you wear this armor. Additionally, you gain an [edge](../dice/edge.md) on tests made to lie about or conceal your identity.
 
 **5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12. Additionally, whenever you take damage, you can use a triggered action to [teleport](../../movement/teleport.md) up to 5 squares. If you do, you create an illusion of you [dying](../health/dying.md) in your previous space, which fades at the end of your next turn.
 
@@ -182,7 +182,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Source:** Texts or lore in Variac
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -202,11 +202,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Source:** Texts or lore in Voll
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../health/stamina.md), but any magic ability gains an edge when targeting you. Additionally, you instinctively know the location of any creature with [concealment](../combat/concealment.md) within 2 squares. You can also turn invisible as a maneuver. Your invisibility ends if you take damage or use an ability, or at the end of your next turn.
+**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../health/stamina.md), but any magic ability gains an [edge](../dice/edge.md) when targeting you. Additionally, you instinctively know the location of any creature with [concealment](../combat/concealment.md) within 2 squares. You can also turn invisible as a maneuver. Your invisibility ends if you take damage or use an ability, or at the end of your next turn.
 
 **5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12, you instinctively know the location of any creature with [concealment](../combat/concealment.md) within 5 squares, and your invisibility no longer ends at the end of your next turn. Additionally, you have psychic immunity 5.
 
@@ -222,13 +222,13 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Source:** Texts or lore in Variac
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
 **1st Level:** While you wield or carry this shield, you gain a +2 bonus to [Stamina](../health/stamina.md). This [Stamina](../health/stamina.md) bonus adds to the [Stamina](../health/stamina.md) bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the [Grab](../../feature/common/maneuvers/grab.md) maneuver against that enemy. You can have any number of enemies [grabbed](../../condition/grabbed.md) in this way.
 
-**5th Level:** The shield's bonus to [Stamina](../health/stamina.md) increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver while [grabbed](../../condition/grabbed.md) this way takes a bane on the test.
+**5th Level:** The shield's bonus to [Stamina](../health/stamina.md) increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver while [grabbed](../../condition/grabbed.md) this way takes a [bane](../dice/bane.md) on the test.
 
 **9th Level:** The shield's bonus to [Stamina](../health/stamina.md) increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](../../condition/grabbed.md) up to 5 squares.
 
@@ -246,15 +246,15 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** While you wield this implement, your magic or psionic abilities that deal rolled damage gain a +1 damage bonus. Additionally, whenever you deal rolled damage to a creature using a magic or psionic ability, you gain [temporary Stamina](../health/temporary-stamina.md) equal to your highest characteristic score.
+**1st Level:** While you wield this implement, your magic or psionic abilities that deal rolled damage gain a +1 damage bonus. Additionally, whenever you deal rolled damage to a creature using a magic or psionic ability, you gain [temporary Stamina](../health/temporary-stamina.md) equal to your highest [characteristic](../character/characteristic.md) score.
 
-**5th Level:** The implement's damage bonus increases to +2. Additionally, whenever you deal rolled damage using a magic or psionic ability, you can use a maneuver to create an immobile field of protection that is a 1 cube, around yourself or around an ally within 5 squares. While in the area, you or the chosen ally has damage immunity 5. The field disappears at the start of your next turn.
+**5th Level:** The implement's damage bonus increases to +2. Additionally, whenever you deal rolled damage using a magic or psionic ability, you can use a maneuver to create an immobile field of protection that is a 1 cube, around yourself or around an ally within 5 squares. While in the area, you or the chosen ally has [damage immunity](../damage/damage-immunity.md) 5. The field disappears at the start of your next turn.
 
-**9th Level:** The implement's damage bonus increases to +3. Whenever you deal rolled damage to a creature using a magic or psionic ability, you and each ally within 5 squares of you gains [temporary Stamina](../health/temporary-stamina.md) equal to your highest characteristic score. Additionally, the size of your field of protection increases to a 3 cube, and it can be placed anywhere within 10 squares of you. You and each ally in the area gain its benefits.
+**9th Level:** The implement's damage bonus increases to +3. Whenever you deal rolled damage to a creature using a magic or psionic ability, you and each ally within 5 squares of you gains [temporary Stamina](../health/temporary-stamina.md) equal to your highest [characteristic](../character/characteristic.md) score. Additionally, the size of your field of protection increases to a 3 cube, and it can be placed anywhere within 10 squares of you. You and each ally in the area gain its benefits.
 
 ### Brittlebreaker {data-scc="mcdm.heroes.v1/treasure.leveled.implement/brittlebreaker"}
 
@@ -266,11 +266,11 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** While you wield this implement, your magic or psionic abilities that deal rolled damage deal an extra 2 psychic damage. Additionally, you have damage weakness 3, and you gain an edge on magic or psionic abilities if you aren't at full [Stamina](../health/stamina.md), or a double edge if you are [winded](../health/winded.md).
+**1st Level:** While you wield this implement, your magic or psionic abilities that deal rolled damage deal an extra 2 psychic damage. Additionally, you have [damage weakness](../damage/damage-weakness.md) 3, and you gain an [edge](../dice/edge.md) on magic or psionic abilities if you aren't at full [Stamina](../health/stamina.md), or a double [edge](../dice/edge.md) if you are [winded](../health/winded.md).
 
 **5th Level:** The implement's extra psychic damage increases to 3. Additionally, once per round when you take more than 20 damage from a single source, the implement's extra damage is doubled until the end of your next turn.
 
@@ -286,11 +286,11 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **Project Source:** Texts or lore in Zaliac
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** While you wield this implement, your magic or psionic abilities that deal rolled damage gain a +1 damage bonus. Additionally, if you make a magic strike, the strike must deal cold damage instead of its usual damage.
+**1st Level:** While you wield this implement, your magic or psionic abilities that deal rolled damage gain a +1 damage bonus. Additionally, if you make a magic [strike](../combat/strike.md), the [strike](../combat/strike.md) must deal cold damage instead of its usual damage.
 
 **5th Level:** The implement's damage bonus increases to +2. Additionally, whenever you use a magic or psionic ability, a whirlwind of sleet and ice whips around you, dealing 3 cold damage to each adjacent enemy.
 
@@ -306,13 +306,13 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
 **1st Level:** While you wield this implement, your magic or psionic abilities that deal rolled damage gain a +1 damage bonus. Additionally, whenever you deal rolled damage to a creature using a magic or psionic ability, they become insubstantial to you until the end of their next turn, allowing you to pass through them freely. While insubstantial, a creature can't make opportunity attacks against you.
 
-**5th Level:** The implement's damage bonus increases to +2. Additionally, when you move through a creature who is insubstantial to you, you can use a free triggered action to deal damage to them equal to your highest characteristic score. If you do, the insubstantial effect ends immediately after you pass through the creature and into an adjacent space outside them.
+**5th Level:** The implement's damage bonus increases to +2. Additionally, when you move through a creature who is insubstantial to you, you can use a free triggered action to deal damage to them equal to your highest [characteristic](../character/characteristic.md) score. If you do, the insubstantial effect ends immediately after you pass through the creature and into an adjacent space outside them.
 
 **9th Level:** The implement's damage bonus increases to +3. Additionally, any creature who is insubstantial to you and isn't a leader or solo creature also can't make opportunity attacks against your allies while they remain insubstantial.
 
@@ -326,7 +326,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -346,15 +346,15 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **Project Source:** Texts or lore in Hyrallic
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** You can open or close the tome as a maneuver while speaking or thinking its full name. While the tome is open, it floats in an adjacent space and flips to specific pages at your command, you gain an edge on Reason tests made to recall lore, and you gain a +3 bonus to distance for your ranged magic or psionic abilities.
+**1st Level:** You can open or close the tome as a maneuver while speaking or thinking its full name. While the tome is open, it floats in an adjacent space and flips to specific pages at your command, you gain an [edge](../dice/edge.md) on [Reason](../character/reason.md) tests made to recall lore, and you gain a +3 bonus to [distance](../combat/distance.md) for your ranged magic or psionic abilities.
 
-**5th Level:** While the tome is open, the bonus to distance for your ranged magic or psionic abilities increases to +5. Additionally, when you or a creature you have line of effect to uses a magic or psionic ability, you can use a triggered action to grant a +3 bonus to the power roll.
+**5th Level:** While the tome is open, the bonus to [distance](../combat/distance.md) for your ranged magic or psionic abilities increases to +5. Additionally, when you or a creature you have line of effect to uses a magic or psionic ability, you can use a triggered action to grant a +3 bonus to the power roll.
 
-**9th Level:** While the tome is open, you automatically obtain a tier 3 outcome on Reason tests made to recall lore, and when you use a heroic ability, its [Heroic Resource](../resource/heroic-resource.md) cost is reduced by 1 (to a minimum of 1).
+**9th Level:** While the tome is open, you automatically obtain a tier 3 outcome on [Reason](../character/reason.md) tests made to recall lore, and when you use a heroic ability, its [Heroic Resource](../resource/heroic-resource.md) cost is reduced by 1 (to a minimum of 1).
 
 ## Leveled Weapon Treasures
 
@@ -370,7 +370,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Source:** Texts or lore in Khelt
 
-**Project Roll Characteristic:** Reason, Intuition, or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md), [Intuition](../character/intuition.md), or [Presence](../character/presence.md)
 
 **Project Goal:** 450
 
@@ -390,13 +390,13 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Source:** Texts or lore in Zaliac
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450 
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon gains a +1 damage bonus. Additionally, you can change the damage type of such abilities to cold, fire, lightning, or sonic.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon gains a +1 damage bonus. Additionally, you can change the [damage type](../damage/damage-type.md) of such abilities to cold, fire, lightning, or sonic.
 
-**5th Level:** The weapon's damage bonus increases to +2. Additionally, the weapon can be used with ranged weapon abilities, and returns to you when a ranged ability is resolved. Ranged abilities used with the weapon increase their distance by 3, and must deal cold, fire, lightning, or sonic damage (chosen when you use the ability).
+**5th Level:** The weapon's damage bonus increases to +2. Additionally, the weapon can be used with ranged weapon abilities, and returns to you when a ranged ability is resolved. Ranged abilities used with the weapon increase their [distance](../combat/distance.md) by 3, and must deal cold, fire, lightning, or sonic damage (chosen when you use the ability).
 
 **9th Level:** The weapon's damage bonus increases to +3. Additionally, while you wield or carry the weapon, you have immunity 10 to cold, fire, lightning, and sonic damage.
 
@@ -410,15 +410,15 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Agility, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
 **1st Level:** Any weapon ability that deals rolled damage using this weapon gains a +1 damage bonus. Additionally, whenever you deal rolled damage with this weapon, you can immediately [shift](../../movement/shifting.md) 1 square. As well, while you wield or carry the weapon and are present in a negotiation, if an NPC in the negotiation has the greed, legacy, power, or revelry motivation, their starting interest increases by 1 (to a maximum of 5).
 
-**5th Level:** The weapon's damage bonus increases to +2. Additionally, when you make an opportunity attack against an enemy of your size or smaller, you can use [fancy footwork](../../feature/ability/swashbuckler/fancy-footwork.md) to knock them [prone](../../condition/prone.md). You also earn 1 Renown.
+**5th Level:** The weapon's damage bonus increases to +2. Additionally, when you make an opportunity attack against an enemy of your [size](../character/size.md) or smaller, you can use [fancy footwork](../../feature/ability/swashbuckler/fancy-footwork.md) to knock them [prone](../../condition/prone.md). You also earn 1 Renown.
 
-**9th Level:** The weapon's damage bonus increases to +3. Additionally, you have a double edge on any test you make using a skill you have from the interpersonal skill group.
+**9th Level:** The weapon's damage bonus increases to +3. Additionally, you have a double [edge](../dice/edge.md) on any test you make using a skill you have from the interpersonal skill group.
 
 ### Displacer {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/displacer"}
 
@@ -430,7 +430,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Source:** Texts in Zaliac
 
-**Project Roll Characteristic:** Might or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -450,7 +450,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -458,7 +458,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **5th Level:** The weapon's extra psychic damage increases to 2, or to 4 if the target is [winded](../health/winded.md). Additionally, whenever you cause an enemy to become [winded](../health/winded.md) with an ability using the weapon, you gain 2 [surges](../resource/surge.md) that you can immediately spend.
 
-**9th Level:** The weapon's extra psychic damage increases to 3, or to 6 if the target is [winded](../health/winded.md). Additionally, you gain an edge on any ability using the weapon against a [winded](../health/winded.md) target.
+**9th Level:** The weapon's extra psychic damage increases to 3, or to 6 if the target is [winded](../health/winded.md). Additionally, you gain an [edge](../dice/edge.md) on any ability using the weapon against a [winded](../health/winded.md) target.
 
 ### Icemaker Maul {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/icemaker-maul"}
 
@@ -470,7 +470,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Source:** Texts in Zaliac
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -490,7 +490,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Source:** Texts or lore in Variac
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -498,7 +498,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **5th Level:** Whenever you reduce a creature to 0 [Stamina](../health/stamina.md) with an ability using this weapon, one of its indentations glows brighter. When you use a signature ability using the weapon, you can use a triggered action to expend any number of bright-glowing indentations, with the ability dealing extra psychic damage equal to the number of indentations. The expended indentations then return to a dim glow.
 
-**9th Level:** If you make a weapon strike using this weapon against a target after dropping down on them from a height of 2 squares or more, the attack deals an extra 10 psychic damage. You can distribute all extra psychic damage dealt by the attack between the target and any enemies adjacent to them.
+**9th Level:** If you make a weapon [strike](../combat/strike.md) using this weapon against a target after dropping down on them from a height of 2 squares or more, the attack deals an extra 10 psychic damage. You can distribute all extra psychic damage dealt by the attack between the target and any enemies adjacent to them.
 
 ### Lance of the Sundered Star {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/lance-of-the-sundered-star"}
 
@@ -510,7 +510,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Source:** Texts or lore in Hyrallic
 
-**Project Roll Characteristic:** Agility or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 450
 
@@ -530,13 +530,13 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a strike using the net and obtain a tier 3 outcome, you can automatically grab the target. A target [grabbed](../../condition/grabbed.md) in this way takes a bane when using the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 fire damage. Additionally, whenever you make a [strike](../combat/strike.md) using the net and obtain a tier 3 outcome, you can automatically grab the target. A target [grabbed](../../condition/grabbed.md) in this way takes a [bane](../dice/bane.md) when using the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver.
 
-**5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](../../condition/grabbed.md) by a strike using the net takes 8 fire damage each time they attempt to escape using the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver.
+**5th Level:** The weapon's extra fire damage increases to 2. Additionally, a target [grabbed](../../condition/grabbed.md) by a [strike](../combat/strike.md) using the net takes 8 fire damage each time they attempt to escape using the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver.
 
 **9th Level:** The weapon's extra fire damage increases to 3, and the damage taken by a [grabbed](../../condition/grabbed.md) creature attempting to escape increases to 15. Additionally, you can use a maneuver to make a [free strike](../../feature/common/main-actions/free-strike.md) with another weapon against a target [grabbed](../../condition/grabbed.md) using the net.
 
@@ -550,7 +550,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Source:** Texts or lore in Caelian and Variac
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -558,7 +558,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **5th Level:** The weapon's extra poison damage increases to 2. A signature ability made using the weapon that obtains a tier 3 outcome also makes the target [weakened](../../condition/weakened.md) and [slowed](../../condition/slowed.md) until the end of their next turn.
 
-**9th Level:** The weapon's extra poison damage increases to 3. Additionally, if you use an ability using the weapon that targets one creature and you don't have a bane or double bane on the ability, you can take a bane. Doing so lets you target another creature adjacent to the original target. Alternatively, you can have a double bane to target two creatures adjacent to the original target.
+**9th Level:** The weapon's extra poison damage increases to 3. Additionally, if you use an ability using the weapon that targets one creature and you don't have a [bane](../dice/bane.md) or double [bane](../dice/bane.md) on the ability, you can take a [bane](../dice/bane.md). Doing so lets you target another creature adjacent to the original target. Alternatively, you can have a double [bane](../dice/bane.md) to target two creatures adjacent to the original target.
 
 ### Steeltongue {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/steeltongue"}
 
@@ -570,15 +570,15 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Source:** Texts or lore in Caelian and Kalliak
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** You gain a +1 bonus to melee distance with weapon abilities using this weapon. Additionally, any damage-dealing weapon ability using the weapon against a target who has A < AVERAGE also leaves that target [bleeding](../../condition/bleeding.md) (save ends).
+**1st Level:** You gain a +1 bonus to melee [distance](../combat/distance.md) with weapon abilities using this weapon. Additionally, any damage-dealing weapon ability using the weapon against a target who has A < AVERAGE also leaves that target [bleeding](../../condition/bleeding.md) (save ends).
 
-**5th Level:** The weapon's bonus to melee distance increases to +2. Additionally, any weapon ability that deals rolled damage using the weapon gains a +3 damage bonus against any target who is [bleeding](../../condition/bleeding.md).
+**5th Level:** The weapon's bonus to melee [distance](../combat/distance.md) increases to +2. Additionally, any weapon ability that deals rolled damage using the weapon gains a +3 damage bonus against any target who is [bleeding](../../condition/bleeding.md).
 
-**9th Level:** The weapon's bonus to melee distance increases to +3. Additionally, if you use a signature ability using the weapon that targets one or more [bleeding](../../condition/bleeding.md) creatures, you can use the same ability again immediately as a maneuver.
+**9th Level:** The weapon's bonus to melee [distance](../combat/distance.md) increases to +3. Additionally, if you use a signature ability using the weapon that targets one or more [bleeding](../../condition/bleeding.md) creatures, you can use the same ability again immediately as a maneuver.
 
 ### Third Eye Seeker {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/third-eye-seeker"}
 
@@ -590,13 +590,13 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Source:** Texts or lore in Variac
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, any damage-dealing weapon ability using the weapon that achieves a tier 3 outcome also leaves the target [dazed](../../condition/dazed.md) until the end of their next turn. **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever a creature within distance of your ranged weapon free strike uses a triggered action, you can use a triggered action after their triggered action resolves to make a ranged weapon free strike using this weapon against the creature.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, any damage-dealing weapon ability using the weapon that achieves a tier 3 outcome also leaves the target [dazed](../../condition/dazed.md) until the end of their next turn. **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever a creature within [distance](../combat/distance.md) of your ranged weapon free strike uses a triggered action, you can use a triggered action after their triggered action resolves to make a ranged weapon free strike using this weapon against the creature.
 
-**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, you have a double edge on weapon abilities that use the weapon against creatures who have used a psionic ability since the end of your last turn.
+**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, you have a double [edge](../dice/edge.md) on weapon abilities that use the weapon against creatures who have used a psionic ability since the end of your last turn.
 
 ### Thunderhead Bident {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/thunderhead-bident"}
 
@@ -608,15 +608,15 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Source:** Texts or lore in Zaliac
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 sonic damage. Additionally, when the weapon is used with any ability that pushes a target, you gain a +1 bonus to the [forced movement](../../movement/forced-movement.md) distance. If the weapon is used with a damage-dealing ability that doesn't impose [forced movement](../../movement/forced-movement.md), you can push the target 1 square.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 sonic damage. Additionally, when the weapon is used with any ability that pushes a target, you gain a +1 bonus to the [forced movement](../../movement/forced-movement.md) [distance](../combat/distance.md). If the weapon is used with a damage-dealing ability that doesn't impose [forced movement](../../movement/forced-movement.md), you can push the target 1 square.
 
-**5th Level:** The weapon's extra sonic damage increases to 2, and the additional distance or distance of a push for abilities using the weapon increases to 2 squares. Additionally, the weapon can be used with ranged weapon abilities, and gains power the farther it is hurled. For each 2 squares the weapon travels to the target of a ranged strike, the strike deals an extra 1 sonic damage.
+**5th Level:** The weapon's extra sonic damage increases to 2, and the additional [distance](../combat/distance.md) or [distance](../combat/distance.md) of a push for abilities using the weapon increases to 2 squares. Additionally, the weapon can be used with ranged weapon abilities, and gains power the farther it is hurled. For each 2 squares the weapon travels to the target of a ranged [strike](../combat/strike.md), the [strike](../combat/strike.md) deals an extra 1 sonic damage.
 
-**9th Level:** The weapon's extra sonic damage increases to 3, and it deals an extra 1 sonic damage for each square it travels as part of a ranged strike. Additionally, whenever you make a weapon strike using this weapon, each enemy adjacent to the target takes 6 sonic damage.
+**9th Level:** The weapon's extra sonic damage increases to 3, and it deals an extra 1 sonic damage for each square it travels as part of a ranged [strike](../combat/strike.md). Additionally, whenever you make a weapon [strike](../combat/strike.md) using this weapon, each enemy adjacent to the target takes 6 sonic damage.
 
 ### Wetwork {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/wetwork"}
 
@@ -628,13 +628,13 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Source:** Texts or lore in Higaran
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
 **1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, if you reduce a creature to 0 [Stamina](../health/stamina.md) using this weapon, you can immediately use a maneuver to make a melee [free strike](../../feature/common/main-actions/free-strike.md).
 
-**5th Level:** The weapon's extra psychic damage increases to 2. Additionally, if you reduce a creature to 0 [Stamina](../health/stamina.md) using the weapon, you can use a maneuver to make a melee [free strike](../../feature/common/main-actions/free-strike.md) and can move up to 2 squares before or after the strike.
+**5th Level:** The weapon's extra psychic damage increases to 2. Additionally, if you reduce a creature to 0 [Stamina](../health/stamina.md) using the weapon, you can use a maneuver to make a melee [free strike](../../feature/common/main-actions/free-strike.md) and can move up to 2 squares before or after the [strike](../combat/strike.md).
 
 **9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 [Stamina](../health/stamina.md) using the weapon, you can use a maneuver to move up to your speed and make either a signature ability strike or a melee [free strike](../../feature/common/main-actions/free-strike.md).
 
@@ -652,13 +652,13 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
 **1st Level:** While you wear this ring, you gain a +6 bonus to [Stamina](../health/stamina.md). Additionally, during a respite, you can touch the ring to any number of other Bloodbound Bands worn by willing creatures to form a bond among all of you. Creatures related by blood can't form bonds in this way. Bonded creatures can each use the highest [recovery value](../health/recoveries.md) of any bonded creature in place of their own, and can spend each other's [Recoveries](../health/recoveries.md) as if they were their own. Whenever any other bonded creature takes damage, each bonded creature takes 1 damage that can't be reduced in any way. Your bond ends if you remove the ring, use it to bond with one or more other creatures, or die, but other rings continue to be bonded to each other.
 
-**5th Level:** The ring's bonus to [Stamina](../health/stamina.md) increases to +12. Additionally, you have damage immunity 2.
+**5th Level:** The ring's bonus to [Stamina](../health/stamina.md) increases to +12. Additionally, you have [damage immunity](../damage/damage-immunity.md) 2.
 
 **9th Level:** The ring's bonus to [Stamina](../health/stamina.md) increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain [Stamina](../health/stamina.md) equal to their [winded](../health/winded.md) value. Your ring then [teleports](../../movement/teleport.md) into their possession and ceases to be magic.
 
@@ -672,11 +672,11 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Might, Agility, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Agility](../character/agility.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** While you wear these hand wraps, any weapon ability that deals rolled damage using your unarmed strikes gains a +1 damage bonus. Additionally, once per turn, you can take 5 damage that can't be reduced in any way to use the [Grab](../../feature/common/maneuvers/grab.md) maneuver (no action required).
+**1st Level:** While you wear these hand wraps, any weapon ability that deals rolled damage using your unarmed [strikes](../combat/strike.md) gains a +1 damage bonus. Additionally, once per turn, you can take 5 damage that can't be reduced in any way to use the [Grab](../../feature/common/maneuvers/grab.md) maneuver (no action required).
 
 **5th Level:** The damage bonus granted by the hand wraps increases to +2. Additionally, once per turn, you can take 10 damage that can't be reduced in any way to make a melee [free strike](../../feature/common/main-actions/free-strike.md) (no action required). On your turn, you can use the wraps' melee [free strike](../../feature/common/main-actions/free-strike.md) option or [Grab](../../feature/common/maneuvers/grab.md) maneuver option, but only one.
 
@@ -692,13 +692,13 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Source:** Texts or lore in Yllyric
 
-**Project Roll Characteristic:** Agility, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** While you wear these boots, any weapon ability that deals rolled damage using your unarmed strikes deals an extra 1 lightning damage. Additionally, you gain a +2 bonus to speed.
+**1st Level:** While you wear these boots, any weapon ability that deals rolled damage using your unarmed [strikes](../combat/strike.md) deals an extra 1 lightning damage. Additionally, you gain a +2 bonus to speed.
 
-**5th Level:** The extra lightning damage granted by the treads increases to 2. Additionally, for each square you move on your turn before you use a weapon ability that deals rolled damage using your unarmed strikes, this extra damage increases by 1 (to a maximum of 4).
+**5th Level:** The extra lightning damage granted by the treads increases to 2. Additionally, for each square you move on your turn before you use a weapon ability that deals rolled damage using your unarmed [strikes](../combat/strike.md), this extra damage increases by 1 (to a maximum of 4).
 
 **9th Level:** The extra lightning damage granted by the treads increases to 3, and your movement can increase that extra damage to a maximum of 6. Additionally, you can use a maneuver to perform a [flying](../../movement/fly.md) lightning kick on one adjacent creature. That target is pushed up to 5 squares, and you can move to any square adjacent to the target after the push.
 
@@ -712,15 +712,15 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this cloak, any creature who damages you is marked for revenge until the end of your next turn or until another creature damages you. Any strike you make against a creature marked for revenge deals extra damage equal to your highest characteristic score, and whenever you damage a creature marked for revenge, they are also [bleeding](../../condition/bleeding.md) until the end of their next turn.
+**1st Level:** While you wear this cloak, any creature who damages you is marked for revenge until the end of your next turn or until another creature damages you. Any strike you make against a creature marked for revenge deals extra damage equal to your highest [characteristic](../character/characteristic.md) score, and whenever you damage a creature marked for revenge, they are also [bleeding](../../condition/bleeding.md) until the end of their next turn.
 
 **5th Level:** Each creature who damages you is marked for revenge until the end of your next turn. Whenever you damage a creature marked for revenge, they are also [bleeding](../../condition/bleeding.md) (save ends).
 
-**9th Level:** When you have three or more creatures marked for revenge and you target one of them with an ability that targets only one creature, you target all the creatures marked for revenge, regardless of their distance from you and even if you don't have line of effect to them.
+**9th Level:** When you have three or more creatures marked for revenge and you target one of them with an ability that targets only one creature, you target all the creatures marked for revenge, regardless of their [distance](../combat/distance.md) from you and even if you don't have line of effect to them.
 
 ### Thief of Joy {data-scc="mcdm.heroes.v1/treasure.leveled.other/thief-of-joy"}
 
@@ -732,14 +732,14 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Source:** Texts or lore in Anjali
 
-**Project Roll Characteristic:** Might, Reason, or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Presence](../character/presence.md)
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this torque, you gain a bonus to [Stamina](../health/stamina.md) equal to twice your highest characteristic score. Additionally, you can use a maneuver to choose a creature in your line of effect and learn their level. If their level is higher than yours, the torque grants you envy. If their level is equal to or lower than yours, the torque grants you disdain. You can have both envy and disdain from different creatures, but not more than one instance of either.
+**1st Level:** While you wear this torque, you gain a bonus to [Stamina](../health/stamina.md) equal to twice your highest [characteristic](../character/characteristic.md) score. Additionally, you can use a maneuver to choose a creature in your line of effect and learn their level. If their level is higher than yours, the torque grants you envy. If their level is equal to or lower than yours, the torque grants you disdain. You can have both envy and disdain from different creatures, but not more than one instance of either.
 
 Whenever a creature within 10 squares of you deals damage to another creature, you can use a triggered action to expend your envy or disdain. If you expend envy, you deal damage equal to the triggering damage to a creature adjacent to you. If you expend disdain, you reduce the triggering damage by half. At the end of the encounter, you lose any envy or disdain granted by the torque.
 
-**5th Level:** The torque's bonus to [Stamina](../health/stamina.md) increases to three times your highest characteristic score. Additionally, when you use the torque's maneuver and the target creature is the same level as you, you gain your choice of envy or disdain.
+**5th Level:** The torque's bonus to [Stamina](../health/stamina.md) increases to three times your highest [characteristic](../character/characteristic.md) score. Additionally, when you use the torque's maneuver and the target creature is the same level as you, you gain your choice of envy or disdain.
 
-**9th Level:** The torque's bonus to [Stamina](../health/stamina.md) increases to five times your highest characteristic score. Additionally, you can have multiple instances of envy and disdain, with no limit on either.
+**9th Level:** The torque's bonus to [Stamina](../health/stamina.md) increases to five times your highest [characteristic](../character/characteristic.md) score. Additionally, you can have multiple instances of envy and disdain, with no limit on either.

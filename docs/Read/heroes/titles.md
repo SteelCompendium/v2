@@ -79,7 +79,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 - *Leverage:* You know a priceless secret. The Director chooses the type of person who would value this secret—usually a member of a particular faction, such as a Higaran [noble](../../Browse/title/noble.md), or a type of person, such as a fence of stolen goods. When engaged in a negotiation with this type of person, you can offer this secret. If they accept, their interest increases by 3 (to a maximum of 5). You can share this secret only once.
 - *Rare Books:* You add rare, ancient books to your collection. Whenever you undertake a research project, roll 1d6 for each dead language you know and add the total to the project roll.
-- *Susurrus Codex:* You find a sinister book that whispers advice in a voice no one else can hear. As long as you follow the book's advice, you gain an edge on Reason tests and take a bane on Presence tests. You can stop following the book's advice at any time, but the book won't speak to you for the rest of the day.
+- *Susurrus Codex:* You find a sinister book that whispers advice in a voice no one else can hear. As long as you follow the book's advice, you gain an [edge](../../Browse/rule/dice/edge.md) on [Reason](../../Browse/rule/character/reason.md) tests and take a [bane](../../Browse/rule/dice/bane.md) on [Presence](../../Browse/rule/character/presence.md) tests. You can stop following the book's advice at any time, but the book won't speak to you for the rest of the day.
 
 ### Battleaxe Diplomat {data-scc="mcdm.heroes.v1/title/battleaxe-diplomat"}
 
@@ -90,8 +90,8 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Iron Hand in Velvet Glove:* The first time during a negotiation that you make a test using the [Intimidate](../../Browse/skill/intimidate.md) skill and don't make an argument that appeals to an NPC's motivation, you don't lower the NPC's patience or interest no matter the outcome of the roll.
-- *Truce!:* You have a double edge on tests made to stop combat and start a negotiation.
-- *Warriors' Understanding:* You gain an edge on Presence tests made to interact with creatures you have fought against in combat encounters.
+- *Truce!:* You have a double [edge](../../Browse/rule/dice/edge.md) on tests made to stop combat and start a negotiation.
+- *Warriors' Understanding:* You gain an [edge](../../Browse/rule/dice/edge.md) on [Presence](../../Browse/rule/character/presence.md) tests made to interact with creatures you have fought against in combat encounters.
 
 ### Brawler {data-scc="mcdm.heroes.v1/title/brawler"}
 
@@ -101,10 +101,10 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Duck!:* When an enemy strikes you while a second creature is [flanking](../../Browse/rule/combat/flanking.md) you, you can use a triggered action to redirect the strike against the second creature. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
+- *Duck!:* When an enemy strikes you while a second creature is [flanking](../../Browse/rule/combat/flanking.md) you, you can use a triggered action to redirect the [strike](../../Browse/rule/combat/strike.md) against the second creature. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Furniture Fighter:* When you use a weapon ability with an improvised weapon or a weapon that isn't part of your kit, the ability benefits from your kit's melee weapon damage bonus.
-- *Headbutt:* While you are [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md), your [free strikes](../../Browse/feature/common/main-actions/free-strike.md) don't take a bane when those conditions would impose one.
-- *If I Wanted You Dead, You'd Be Dead:* Whenever you defeat foes without killing any of them (including the foes you defeat to meet the prerequisite for this title), you gain an edge on tests during negotiations with those foes.
+- *Headbutt:* While you are [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md), your [free strikes](../../Browse/feature/common/main-actions/free-strike.md) don't take a [bane](../../Browse/rule/dice/bane.md) when those conditions would impose one.
+- *If I Wanted You Dead, You'd Be Dead:* Whenever you defeat foes without killing any of them (including the foes you defeat to meet the prerequisite for this title), you gain an [edge](../../Browse/rule/dice/edge.md) on tests during negotiations with those foes.
 
 ### City Rat {data-scc="mcdm.heroes.v1/title/city-rat"}
 
@@ -115,7 +115,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Discerning Shopper:* When looking for an item prerequisite for a crafting project, you can remember meeting someone who might have the item—or at least information about it.
-- *One with the Crowd:* While you're using one or more creatures as [cover](../../Browse/rule/combat/cover.md), you gain an edge on tests made to hide and sneak.
+- *One with the Crowd:* While you're using one or more creatures as [cover](../../Browse/rule/combat/cover.md), you gain an [edge](../../Browse/rule/dice/edge.md) on tests made to hide and sneak.
 - *Street Smart:* While in a settlement, you can't be surprised.
 
 ### Doomed {data-scc="mcdm.heroes.v1/title/doomed"}
@@ -144,11 +144,11 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Prerequisite:** You defeat a creature with the Elemental keyword, such as a crux of fire.
 
-**Effect:** Choose a damage type to which the defeated creature had an immunity (such as fire). Then choose one of the following benefits:
+**Effect:** Choose a [damage type](../../Browse/rule/damage/damage-type.md) to which the defeated creature had an immunity (such as fire). Then choose one of the following benefits:
 
-- *Elemental Blaster:* You have the [Elementalist](../../Browse/class/elementalist.md) 1st-level [Hurl Element](../../Browse/feature/ability/elementalist/level-1/hurl-element.md) feature, dealing the chosen damage type.
-- *Elemental Immunity:* You have immunity to the chosen damage type equal to your highest characteristic score.
-- *Elemental Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal damage of the chosen type instead of its usual damage type.
+- *Elemental Blaster:* You have the [Elementalist](../../Browse/class/elementalist.md) 1st-level [Hurl Element](../../Browse/feature/ability/elementalist/level-1/hurl-element.md) feature, dealing the chosen [damage type](../../Browse/rule/damage/damage-type.md).
+- *Elemental Immunity:* You have immunity to the chosen [damage type](../../Browse/rule/damage/damage-type.md) equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score.
+- *Elemental Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal damage of the chosen type instead of its usual [damage type](../../Browse/rule/damage/damage-type.md).
 
 ### Faction Member {data-scc="mcdm.heroes.v1/title/faction-member"}
 
@@ -160,7 +160,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 Additionally, the Director assigns you one of the following benefits, as appropriate to the faction in question. The Director can also create a custom benefit for a type of faction not noted here. You can use this benefit only in a settlement where your faction has a presence, and once you use this benefit, you can't use it again until you complete a task for your faction.
 
-- *Academic Faction:* You find a sage who can make up to three Reason tests to recall lore or make project rolls for research projects on your behalf. The sage has a +5 bonus to these tests. These project rolls take 10 minutes each and don't need to be made during a respite.
+- *Academic Faction:* You find a sage who can make up to three [Reason](../../Browse/rule/character/reason.md) tests to recall lore or make project rolls for research projects on your behalf. The sage has a +5 bonus to these tests. These project rolls take 10 minutes each and don't need to be made during a respite.
 - *Guild Faction:* You find an expert crafter who can make up to three project rolls for crafting projects on your behalf. The crafter has a +5 bonus to these tests. These project rolls take 10 uninterrupted minutes each and don't need to be made during a respite.
 - *Martial Faction:* You recruit up to three minions with levels no greater than your own, of a type appropriate for the faction (such as **[human](../../Browse/ancestry/human.md) guards**). These minions follow your orders for a day.
 - *Spy Faction:* You find an agent who can provide you with three pieces of information about the settlement you're in, such as the location of a hidden person, a secret entrance into a guarded area, or the negotiation motivation or pitfall of an important person.
@@ -175,7 +175,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 **Effect:** Choose one of the following benefits:
 
-- *Easy Marks:* You gain an edge on tests made using skills from the interpersonal and intrigue skill groups when influencing members of a community that you have saved.
+- *Easy Marks:* You gain an [edge](../../Browse/rule/dice/edge.md) on tests made using skills from the interpersonal and intrigue skill groups when influencing members of a community that you have saved.
 - *Local Fame:* You earn 1 Renown.
 - *A New Dawn:* Each time you finish a respite while in a community you have saved, the party gains a [hero token](../../Browse/rule/resource/hero-token.md). This [hero token](../../Browse/rule/resource/hero-token.md) disappears at the end of your next respite if it hasn't been used.
 
@@ -191,7 +191,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 **Effect:** Choose one of the following benefits:
 
-- *Arcane Dampening:* When resisting potencies from magic abilities, your characteristic scores are considered to be 1 higher than usual.
+- *Arcane Dampening:* When resisting potencies from magic abilities, your [characteristic](../../Browse/rule/character/characteristic.md) scores are considered to be 1 higher than usual.
 - *Oh No, You Don't!:* Whenever an adjacent creature uses an ability with the Magic keyword, you can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them as a triggered action.
 - *Stink of Magic:* As a maneuver, you open your senses to the residue of magic. Until the end of your next turn, you are aware of whether each creature within 5 squares is a construct, an undead, or a creature from another world, and whether they have used a magic ability in the previous hour. Additionally, you can't be surprised by constructs, undead, or creatures from another world.
 
@@ -204,21 +204,21 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 **Effect:** Choose one of the following benefits:
 
 - *Guess It's the Hard Way Then:* When combat begins and you aren't surprised, the first time you take damage before taking your turn, you halve that damage.
-- *Heedless Pursuer:* Once on each of your turns, you can use a free maneuver to deal yourself 1d6 damage that can't be reduced in any way. When you do, you ignore [difficult terrain](../../Browse/movement/difficult-terrain.md) and you can increase the distance of any jump you make by 1 square, both until the end of your turn.
+- *Heedless Pursuer:* Once on each of your turns, you can use a free maneuver to deal yourself 1d6 damage that can't be reduced in any way. When you do, you ignore [difficult terrain](../../Browse/movement/difficult-terrain.md) and you can increase the [distance](../../Browse/rule/combat/distance.md) of any jump you make by 1 square, both until the end of your turn.
 - *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the My Life for Yours feature from the [censor](../../Browse/class/censor.md) class. When you use that ability, you can't spend wrath unless you have the Wrath class feature.
-- *Trained Tracker:* You gain an edge on tests made to track criminals.
+- *Trained Tracker:* You gain an [edge](../../Browse/rule/dice/edge.md) on tests made to track criminals.
 
 ### Monster Bane {data-scc="mcdm.heroes.v1/title/monster-bane"}
 
 *You dare mock Blunwin Mousebane? You think my deed trivial? Ah, but you didn't see the size of the mouse!*
 
-**Prerequisite:** You defeat a leader or solo creature with a Reason score of −2 or lower, such as an arixx.
+**Prerequisite:** You defeat a leader or solo creature with a [Reason](../../Browse/rule/character/reason.md) score of −2 or lower, such as an arixx.
 
 **Effect:** Choose one of the following benefits:
 
-- *Beast Bane:* Creatures with the Animal keyword take a bane on strikes made against you.
-- *Monster Soother:* You gain an edge on tests made to calm or tame nonsapient creatures.
-- *Monster Trophy:* You decorate your equipment with a trophy from a creature you defeated. While the trophy is visible, you gain an edge on tests made to intimidate sapient creatures.
+- *Beast [Bane](../../Browse/rule/dice/bane.md):* Creatures with the Animal keyword take a [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) made against you.
+- *Monster Soother:* You gain an [edge](../../Browse/rule/dice/edge.md) on tests made to calm or tame nonsapient creatures.
+- *Monster Trophy:* You decorate your equipment with a trophy from a creature you defeated. While the trophy is visible, you gain an [edge](../../Browse/rule/dice/edge.md) on tests made to intimidate sapient creatures.
 
 ### Owed a Favor {data-scc="mcdm.heroes.v1/title/owed-a-favor"}
 
@@ -228,7 +228,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 **Effect:** The faction will perform one favor for the party, provided it doesn't interfere with the faction's goals.
 
-Additionally, the faction is a good source of information. The Director chooses a skill from the crafting or lore skill groups appropriate to the faction, such as the Criminal Underworld skill for an outlaw gang, the Blacksmithing skill for a blacksmith's guild, or the Society skill for a [noble](../../Browse/title/noble.md) house. While in a settlement where the faction has a presence, you gain this skill if you don't already have it. If you already have the skill, you instead gain an edge on tests made using the skill.
+Additionally, the faction is a good source of information. The Director chooses a skill from the crafting or lore skill groups appropriate to the faction, such as the Criminal Underworld skill for an outlaw gang, the Blacksmithing skill for a blacksmith's guild, or the Society skill for a [noble](../../Browse/title/noble.md) house. While in a settlement where the faction has a presence, you gain this skill if you don't already have it. If you already have the skill, you instead gain an [edge](../../Browse/rule/dice/edge.md) on tests made using the skill.
 
 ### Presumed Dead {data-scc="mcdm.heroes.v1/title/presumed-dead"}
 
@@ -244,7 +244,7 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 
 *I like fighting these little guys. Means I don't have to waste money on a helmet.*
 
-**Prerequisite:** You defeat a leader or solo creature who is size 1S or smaller, such as a goblin [monarch](../../Browse/title/monarch.md).
+**Prerequisite:** You defeat a leader or solo creature who is [size](../../Browse/rule/character/size.md) 1S or smaller, such as a goblin [monarch](../../Browse/title/monarch.md).
 
 **Effect:** Choose one of the following benefits:
 
@@ -261,8 +261,8 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 >
 > **Effect:** Each target who has P < AVERAGE is [taunted](../../Browse/condition/taunted.md) by you until the end of their next turn, and you know the location of each creature [taunted](../../Browse/condition/taunted.md) in this way.
 
-- *Deadly and Big:* Your strikes gain a +3 damage bonus against creatures whose size is smaller than yours.
-- *Everybody Move!:* When you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature of your size or two additional smaller creatures.
+- *Deadly and Big:* Your [strikes](../../Browse/rule/combat/strike.md) gain a +3 damage bonus against creatures whose [size](../../Browse/rule/character/size.md) is smaller than yours.
+- *Everybody Move!:* When you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature of your [size](../../Browse/rule/character/size.md) or two additional smaller creatures.
 
 ### Saved for a Worse Fate {data-scc="mcdm.heroes.v1/title/saved-for-a-worse-fate"}
 
@@ -288,9 +288,9 @@ The Director chooses one of the following benefits, based on the fate your capto
 **Effect:** Choose one of the following benefits:
 
 - *Deep-Sea Diver:* You can automatically swim at full speed while moving.
-- *Ship Speaker:* You magically know the location of any ship controlled by your party even while you aren't aboard. You can telepathically communicate with anyone on board one of your ships who understands a language, and they can respond, no matter your distance from the ship.
-- *Signal Flags:* While aboard a ship, you can communicate with and conduct negotiations with another ship up to 5 miles away, as long as you and creatures on the other ship have line of effect to each other. You gain an edge on Presence tests made while negotiating in this way.
-- *Trained Crewmember:* You gain an edge on tests made to handle air or sea vessels.
+- *Ship Speaker:* You magically know the location of any ship controlled by your party even while you aren't aboard. You can telepathically communicate with anyone on board one of your ships who understands a language, and they can respond, no matter your [distance](../../Browse/rule/combat/distance.md) from the ship.
+- *Signal Flags:* While aboard a ship, you can communicate with and conduct negotiations with another ship up to 5 miles away, as long as you and creatures on the other ship have line of effect to each other. You gain an [edge](../../Browse/rule/dice/edge.md) on [Presence](../../Browse/rule/character/presence.md) tests made while negotiating in this way.
+- *Trained Crewmember:* You gain an [edge](../../Browse/rule/dice/edge.md) on tests made to handle air or sea vessels.
 
 ### Troupe Leading Player {data-scc="mcdm.heroes.v1/title/troupe-leading-player"}
 
@@ -300,10 +300,10 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 **Effect:** Choose one of the following benefits:
 
-- *[Flying](../../Browse/movement/fly.md) Circus:* When you are adjacent to a willing ally on their turn, you can use a triggered action to push them up to 2 squares if their size is the same as yours, or 4 squares if they are smaller. If this push causes the ally to fall, they can use a maneuver before they fall to reduce the height of the fall by 2.
-- *Spotlight:* You magically cause a creature within 10 squares to shed light for 5 squares. This light lasts for 1 minute, until the creature is more than 10 squares away from you, or until you dismiss the effect (no action required). While illuminated, a creature can't sneak or hide, they take a bane on tests made to perform any action secretly, and they gain an edge on tests made using the Lead, Music, or Perform skills.
-- *Supporting Player:* You gain an edge on group tests using Presence and on tests made to assist another creature with a Presence test.
-- *Work the Crowd:* While any of your allies is playing music or performing, you gain an edge on tests made to conceal objects, hide, pick pockets, or sneak.
+- *[Flying](../../Browse/movement/fly.md) Circus:* When you are adjacent to a willing ally on their turn, you can use a triggered action to push them up to 2 squares if their [size](../../Browse/rule/character/size.md) is the same as yours, or 4 squares if they are smaller. If this push causes the ally to fall, they can use a maneuver before they fall to reduce the height of the fall by 2.
+- *Spotlight:* You magically cause a creature within 10 squares to shed light for 5 squares. This light lasts for 1 minute, until the creature is more than 10 squares away from you, or until you dismiss the effect (no action required). While illuminated, a creature can't sneak or hide, they take a [bane](../../Browse/rule/dice/bane.md) on tests made to perform any action secretly, and they gain an [edge](../../Browse/rule/dice/edge.md) on tests made using the Lead, Music, or Perform skills.
+- *Supporting Player:* You gain an [edge](../../Browse/rule/dice/edge.md) on group tests using [Presence](../../Browse/rule/character/presence.md) and on tests made to assist another creature with a [Presence](../../Browse/rule/character/presence.md) test.
+- *Work the Crowd:* While any of your allies is playing music or performing, you gain an [edge](../../Browse/rule/dice/edge.md) on tests made to conceal objects, hide, pick pockets, or sneak.
 
 ### Wanted Dead or Alive {data-scc="mcdm.heroes.v1/title/wanted-dead-or-alive"}
 
@@ -314,8 +314,8 @@ The Director chooses one of the following benefits, based on the fate your capto
 **Effect:** Choose one of the following benefits:
 
 - *Honor Among Thieves:* When negotiating with criminals, your Renown score is considered to be 2 higher than usual.
-- *Minion Mower:* When you make a melee strike that targets a minion and at least one more minion is within distance of the strike, the strike gains a +3 damage bonus.
-- *No, You're Under Arrest!:* You gain an edge on the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver. Additionally, when you succeed on a test to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an adjacent creature of the same size without them immediately noticing.
+- *Minion Mower:* When you make a melee [strike](../../Browse/rule/combat/strike.md) that targets a minion and at least one more minion is within [distance](../../Browse/rule/combat/distance.md) of the [strike](../../Browse/rule/combat/strike.md), the [strike](../../Browse/rule/combat/strike.md) gains a +3 damage bonus.
+- *No, You're Under Arrest!:* You gain an [edge](../../Browse/rule/dice/edge.md) on the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver. Additionally, when you succeed on a test to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an adjacent creature of the same [size](../../Browse/rule/character/size.md) without them immediately noticing.
 
 ### Zombie Slayer {data-scc="mcdm.heroes.v1/title/zombie-slayer"}
 
@@ -325,8 +325,8 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 **Effect:** Choose one of the following benefits:
 
-- *Blessed Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal holy damage instead of its usual damage type.
-- *Divine Health:* You gain corruption immunity equal to your highest characteristic score. Additionally, you can't be turned into an undead creature.
+- *Blessed Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal holy damage instead of its usual [damage type](../../Browse/rule/damage/damage-type.md).
+- *Divine Health:* You gain corruption immunity equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score. Additionally, you can't be turned into an undead creature.
 - *Holy Terror:* You have the following ability, which can be paid for using the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) of your class.
 
 #### Holy Terror (3 Heroic Resource)
@@ -338,7 +338,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 > |-----------------|-------------------------------------:|
 > | **📏 3 burst**  | **🎯 Each undead enemy in the area** |
 >
-> **Effect:** Each target takes holy damage equal to your Reason, Intuition, or Presence score (your choice). Additionally, each target who has P < STRONG is [frightened](../../Browse/condition/frightened.md) (save ends).
+> **Effect:** Each target takes holy damage equal to your [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md) score (your choice). Additionally, each target who has P < STRONG is [frightened](../../Browse/condition/frightened.md) (save ends).
 
 ## 2nd-Echelon Titles
 
@@ -352,19 +352,19 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against [prone creature](../../Browse/condition/prone.md)s. Additionally, being prone doesn't impose a bane on your strikes.
-- *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](../../Browse/condition/grabbed.md), you can use them as a weapon when you make a melee weapon free strike. Both the target and the [grabbed](../../Browse/condition/grabbed.md) enemy take the strike's damage.
+- *Dirty Fighting:* While you are standing, your melee [strikes](../../Browse/rule/combat/strike.md) gain a +3 damage bonus against [prone creature](../../Browse/condition/prone.md)s. Additionally, being prone doesn't impose a [bane](../../Browse/rule/dice/bane.md) on your [strikes](../../Browse/rule/combat/strike.md).
+- *Foes as Weapons:* Whenever you have a creature of your [size](../../Browse/rule/character/size.md) or smaller [grabbed](../../Browse/condition/grabbed.md), you can use them as a weapon when you make a melee weapon free strike. Both the target and the [grabbed](../../Browse/condition/grabbed.md) enemy take the [strike](../../Browse/rule/combat/strike.md)'s damage.
 - *Instant Celebrity:* You earn 1 Renown.
 - *Showstopper:* You have the following ability, which can be paid for using the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) of your class.
 
 #### Showstopper (5 Heroic Resource)
 
 >
-> | **Melee, Strike, Weapon** |     **Main action** |
+> | **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 > |---------------------------|--------------------:|
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Power Roll + Might or Agility:**
+> **Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 >
 > - **≤11:** 6 damage; I < WEAK, [slowed](../../Browse/condition/slowed.md) (save ends)
 > - **12-16:** 10 damage; I < AVERAGE, [frightened](../../Browse/condition/frightened.md) (save ends)
@@ -380,7 +380,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Foresight:* You don't take a bane when using abilities against creatures with [concealment](../../Browse/rule/combat/concealment.md).
+- *Foresight:* You don't take a [bane](../../Browse/rule/dice/bane.md) when using abilities against creatures with [concealment](../../Browse/rule/combat/concealment.md).
 - *Rogue [Talent](../../Browse/class/talent.md):* Choose one triggered action that the [talent](../../Browse/class/talent.md) class has access to at 1st level. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend clarity, you can't do so unless you have the Clarity class feature.
 - *Telepathy:* As a maneuver, you communicate telepathically with a creature within 10 squares who understands a language you know. The creature can respond telepathically as part of the same maneuver.
 
@@ -417,21 +417,21 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Blood Mage:* When you use an area ability with the Magic or Psionic keyword, you can take damage equal to your level to increase the ability's area by 1 until the end of the encounter. If the area is a line, you increase the size of one dimension, not both. This damage can't be reduced in any way. You can use this benefit only once per use of an ability.
-- *Bloody Murder:* When you deal rolled damage to a creature with a strike, you can take damage equal to your level to deal twice that much corruption damage to the creature. The damage you take from this title can't be reduced in any way. You can use this benefit only once per ability. If the creature is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by this corruption damage, the creature explodes in a [shower of blood](../../Browse/feature/ability/fury/level-9/shower-of-blood.md) and you regain the [Stamina](../../Browse/rule/health/stamina.md) you lost. You can't use this benefit on creatures without blood, such as constructs, elementals, or undead.
+- *Bloody Murder:* When you deal rolled damage to a creature with a [strike](../../Browse/rule/combat/strike.md), you can take damage equal to your level to deal twice that much corruption damage to the creature. The damage you take from this title can't be reduced in any way. You can use this benefit only once per ability. If the creature is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by this corruption damage, the creature explodes in a [shower of blood](../../Browse/feature/ability/fury/level-9/shower-of-blood.md) and you regain the [Stamina](../../Browse/rule/health/stamina.md) you lost. You can't use this benefit on creatures without blood, such as constructs, elementals, or undead.
 - *I Reject This Evil Power!:* You gain corruption immunity equal to your level.
 
 ### Corsair {data-scc="mcdm.heroes.v1/title/corsair"}
 
 *Haul down your flag or we'll burn you to the waterline!*
 
-**Prerequisite:** You have the [Ship Captain](../../Browse/title/ship-captain.md) title, and you sink or capture a ship of equal or greater size than your own.
+**Prerequisite:** You have the [Ship Captain](../../Browse/title/ship-captain.md) title, and you sink or capture a ship of equal or greater [size](../../Browse/rule/character/size.md) than your own.
 
 **Effect:** Choose one of the following benefits:
 
 - *Artillerist:* You gain a +5 damage bonus when using a ship's weapons
-- *Black Flag:* You have a recognizable flag that strikes terror on the high seas. While your flag is [flying](../../Browse/movement/fly.md) from your ship, crewmembers of other ships who have line of effect to the flag take a bane on strikes made against your ship or its crew.
+- *Black Flag:* You have a recognizable flag that strikes terror on the high seas. While your flag is [flying](../../Browse/movement/fly.md) from your ship, crewmembers of other ships who have line of effect to the flag take a [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) made against your ship or its crew.
 - *Fearsome Reputation:* You earn 1 Renown.
-- *Scoundrel Tactics:* While aboard a ship, you can use the following skills to make a test to influence another ship up to 5 miles away whose crewmembers have line of effect to you, and you gain an edge when you do so. You can use Disguise to hide your ship's identity or general type, Intimidate to convince another ship's crew to flee or surrender, or Hide or Sneak to let your ship avoid notice.
+- *Scoundrel Tactics:* While aboard a ship, you can use the following skills to make a test to influence another ship up to 5 miles away whose crewmembers have line of effect to you, and you gain an [edge](../../Browse/rule/dice/edge.md) when you do so. You can use Disguise to hide your ship's identity or general type, Intimidate to convince another ship's crew to flee or surrender, or Hide or Sneak to let your ship avoid notice.
 
 ### Faction Officer {data-scc="mcdm.heroes.v1/title/faction-officer"}
 
@@ -442,7 +442,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** You are given a position of great authority in your faction. Additionally, you gain the following benefits:
 
 - *Requisition:* When you gain this title, you gain a 1st- or 2nd-echelon magic trinket of your choice from your faction (see Treasures earlier in this chapter). Whenever you gain a level, you can swap the trinket out for another one.
-- *You're the Boss:* Lower-ranking members of your faction follow your routine orders. In nonroutine matters, you gain an edge on tests made to influence those characters' behavior.
+- *You're the Boss:* Lower-ranking members of your faction follow your routine orders. In nonroutine matters, you gain an [edge](../../Browse/rule/dice/edge.md) on tests made to influence those characters' behavior.
 
 ### Fey Friend {data-scc="mcdm.heroes.v1/title/fey-friend"}
 
@@ -453,8 +453,8 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** You know the Khelt language. Additionally, choose one of the following benefits:
 
 - *Gift of Charm:* You have a skill of your choice from the interpersonal skill group.
-- *Gift of Foresight:* When resisting potencies, your Intuition score is considered to be 1 higher than usual.
-- *Gift of Knowledge:* You gain an edge on tests you make that use any skill from the lore skill group.
+- *Gift of Foresight:* When resisting potencies, your [Intuition](../../Browse/rule/character/intuition.md) score is considered to be 1 higher than usual.
+- *Gift of Knowledge:* You gain an [edge](../../Browse/rule/dice/edge.md) on tests you make that use any skill from the lore skill group.
 
 ### Giant Slayer {data-scc="mcdm.heroes.v1/title/giant-slayer"}
 
@@ -464,25 +464,25 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Smallfolk Dodge:* Any creature of size 2 or larger takes a bane on strikes against you.
+- *Smallfolk Dodge:* Any creature of [size](../../Browse/rule/character/size.md) 2 or larger takes a [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) against you.
 - *The Harder They Fall:* You have the following ability, which can be paid for using the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) of your class.
 
 #### The Harder They Fall (7 Heroic Resource)
 
 >
-> | **Melee, Strike, Weapon** |     **Main action** |
+> | **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 > |---------------------------|--------------------:|
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Power Roll + Might or Agility:**
+> **Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 >
 > - **≤11:** 7 damage; M < WEAK[, prone](../../Browse/condition/prone.md) and can't stand (save ends)
 > - **12-16:** 11 damage; M < AVERAGE[, prone](../../Browse/condition/prone.md) and can't stand (save ends)
 > - **17+:** 16 damage; M < STRONG[, prone](../../Browse/condition/prone.md) and can't stand (save ends)
 >
-> **Special:** If the target is size 2 or larger, you gain an edge on this ability.
+> **Special:** If the target is [size](../../Browse/rule/character/size.md) 2 or larger, you gain an [edge](../../Browse/rule/dice/edge.md) on this ability.
 
-- *Up the Beanstalk:* You have the [Climb](../../Browse/skill/climb.md) skill. If you already have this skill, you instead gain an edge on tests made using the [Climb](../../Browse/skill/climb.md) skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
+- *Up the Beanstalk:* You have the [Climb](../../Browse/skill/climb.md) skill. If you already have this skill, you instead gain an [edge](../../Browse/rule/dice/edge.md) on tests made using the [Climb](../../Browse/skill/climb.md) skill. While you're climbing a creature, the creature has a double [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) against you and you have a double [edge](../../Browse/rule/dice/edge.md) on tests made to stay on the creature.
 
 ### Godsworn {data-scc="mcdm.heroes.v1/title/godsworn"}
 
@@ -504,8 +504,8 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Mother Hen:* You can spend 10 uninterrupted minutes to psionically enhance up to five willing creatures within 10 squares of you who understand a language you know. For the next hour, you and each target can communicate telepathically with each other no matter the distance between you.
-- *Sneakers:* You gain the Sneak skill. If you already have this skill, you instead gain an edge on tests made using the Sneak skill. During group tests, you can both use the Sneak skill and assist another hero using the Sneak skill.
+- *Mother Hen:* You can spend 10 uninterrupted minutes to psionically enhance up to five willing creatures within 10 squares of you who understand a language you know. For the next hour, you and each target can communicate telepathically with each other no matter the [distance](../../Browse/rule/combat/distance.md) between you.
+- *Sneakers:* You gain the Sneak skill. If you already have this skill, you instead gain an [edge](../../Browse/rule/dice/edge.md) on tests made using the Sneak skill. During group tests, you can both use the Sneak skill and assist another hero using the Sneak skill.
 - *Timely Distraction:* You have the following triggered action.
 
 #### Timely Distraction
@@ -538,11 +538,11 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 >
 > *Have at thee!*
 >
-> | **Melee, Strike, Weapon** |     **Main action** |
+> | **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 > |---------------------------|--------------------:|
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Power Roll + Might or Agility:**
+> **Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 >
 > - **≤11:** 7 damage; [taunted](../../Browse/condition/taunted.md) (save ends)
 > - **12-16:** 11 damage; [taunted](../../Browse/condition/taunted.md) (save ends)
@@ -560,7 +560,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Arcane Improvisation:* When you use a damage-dealing magic signature ability, you can change its damage type to acid, cold, corruption, fire, lightning, poison, or sonic damage.
+- *Arcane Improvisation:* When you use a damage-dealing magic signature ability, you can change its [damage type](../../Browse/rule/damage/damage-type.md) to acid, cold, corruption, fire, lightning, poison, or sonic damage.
 - *I Have Just the Book:* If you start a Discover Lore project in your hero's [stronghold](../../Browse/title/stronghold.md) or other a permanent base of operations you immediately gain 60 project points toward the completion of that project. If the project costs 60 or fewer points, you complete it in 10 uninterrupted minutes without needing to use a respite activity.
 - *Picked Up a Few Things:* You know a skill from the lore skill group.
 - *Polyglot:* You know two languages. Additionally, the project goal for the Learn New Language project is halved for you.
@@ -581,14 +581,14 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 Taking the Boffin benefit lets you use the following boffin properties as a maneuver:
 
-- Make a test that uses the Disguise skill. You gain an edge on the test.
+- Make a test that uses the Disguise skill. You gain an [edge](../../Browse/rule/dice/edge.md) on the test.
 - One mundane lock you touch is unlocked.
 - Choose a square within 10 squares, even if you don't have line of effect to it. You can observe the area around that square as if you were in it.
 - You throw the boffin up to 10 squares, where it explodes in a 5 cube. Each creature in the area takes fire damage equal to 2d10 + your level. The boffin is permanently destroyed but can be replaced by your spymaster... though they don't like doing so too often.
 
 ### Sworn Hunter {data-scc="mcdm.heroes.v1/title/sworn-hunter"}
 
-*I will follow you to the ends of the earth—just so I can kick you off the edge.*
+*I will follow you to the ends of the earth—just so I can kick you off the [edge](../../Browse/rule/dice/edge.md).*
 
 **Prerequisite:** You have the [Marshal](../../Browse/title/marshal.md) title, and you take down an entire criminal organization.
 
@@ -618,9 +618,9 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 **Effect:** Choose one of the following benefits:
 
-- *From Hell's Heart:* While you are [winded](../../Browse/rule/health/winded.md), your melee strikes gain a +3 damage bonus.
+- *From Hell's Heart:* While you are [winded](../../Browse/rule/health/winded.md), your melee [strikes](../../Browse/rule/combat/strike.md) gain a +3 damage bonus.
 - *Furious Attack:* Choose one signature ability from the [fury](../../Browse/class/fury.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
-- *Furious Charge:* When you use the [Charge](../../Browse/feature/common/main-actions/charge.md) action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
+- *Furious Charge:* When you use the [Charge](../../Browse/feature/common/main-actions/charge.md) action, your [strike](../../Browse/rule/combat/strike.md) made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
 
 ## 3rd-Echelon Titles
 
@@ -650,13 +650,13 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-*Demonic Lore:* You know the Proto-Ctholl language. Additionally, when you deal damage using a magic ability, you can change the ability's damage type to holy.
+*Demonic Lore:* You know the Proto-Ctholl language. Additionally, when you deal damage using a magic ability, you can change the ability's [damage type](../../Browse/rule/damage/damage-type.md) to holy.
 
-- *Lethe:* While you are [winded](../../Browse/rule/health/winded.md), your strikes gain a +5 damage bonus
+- *Lethe:* While you are [winded](../../Browse/rule/health/winded.md), your [strikes](../../Browse/rule/combat/strike.md) gain a +5 damage bonus
 - *Made of Teeth:* Your body can sprout teeth in unusual places. Whenever a creature makes physical contact with you or starts their turn touching you, you can deal 5 damage to them (no action required).
 - *Soulsight:* Any creature within 2 squares can't be hidden from you.
 
-**Special:** When you make a Presence test and roll a natural 5 or lower, you are cursed to communicate in only Proto-Ctholl for 1 minute, whether you know that language or not.
+**Special:** When you make a [Presence](../../Browse/rule/character/presence.md) test and roll a natural 5 or lower, you are cursed to communicate in only Proto-Ctholl for 1 minute, whether you know that language or not.
 
 ### Diabolist {data-scc="mcdm.heroes.v1/title/diabolist"}
 
@@ -666,10 +666,10 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Devil Lore:* You know the Anjali language, and your understanding of this language helps you create irresistible supernatural effects. The potencies of your magic or psionic abilities that target Reason, Intuition, or Presence increase by 1.
+- *Devil Lore:* You know the Anjali language, and your understanding of this language helps you create irresistible supernatural effects. The potencies of your magic or psionic abilities that target [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md) increase by 1.
 - *Infernal Legacy:* You gain 3 ancestry points to spend on purchased [devil](../../Browse/ancestry/devil.md) [ancestry traits](ancestries.md) (see Chapter 3: [Ancestries](ancestries.md)).
 - *Sly [Devil](../../Browse/ancestry/devil.md):* You gain the Silver Tongue signature trait from the [devil](../../Browse/ancestry/devil.md) ancestry.
-- *Untouched by Corruption:* Whenever you use a damage-dealing ability, that ability can deal holy damage instead of its usual damage type.
+- *Untouched by Corruption:* Whenever you use a damage-dealing ability, that ability can deal holy damage instead of its usual [damage type](../../Browse/rule/damage/damage-type.md).
 
 ### Dragon Blooded {data-scc="mcdm.heroes.v1/title/dragon-blooded"}
 
@@ -698,7 +698,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
   - *Fog:* Visibility is reduced to 6 squares.
   - *High Winds:* The speed of wind-powered vessels is doubled.
   - *Light Winds:* No effects due to weather.
-  - *Storm:* The crew of an unsheltered wind-powered vessel must make a medium group Reason test. On a failure, the vessel needs repairs and moves at half speed until those repairs are made.
+  - *Storm:* The crew of an unsheltered wind-powered vessel must make a medium group [Reason](../../Browse/rule/character/reason.md) test. On a failure, the vessel needs repairs and moves at half speed until those repairs are made.
 
 ### Maestro {data-scc="mcdm.heroes.v1/title/maestro"}
 
@@ -720,7 +720,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 > |-----------------|---------------------------------:|
 > | **📏 5 burst**  | **🎯 Each creature in the area** |
 >
-> **Power Roll + Presence:**
+> **Power Roll + [Presence](../../Browse/rule/character/presence.md):**
 >
 > - **≤11:** You take 4 sonic damage unless you have the Performance skill.
 > - **12-16:** 6 sonic damage; M < AVERAGE, [weakened](../../Browse/condition/weakened.md) (save ends)
@@ -728,7 +728,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 >
 > **Effect:** The soul of any creature killed by this ability is dragged to Hell.
 
-- *Music of the Spheres:* As a main action, you sing or play a note as delicate and sharp as glass—and just as easily shattered. Until the start of your next turn, whenever a creature within 10 squares makes a strike, they take 8 sonic damage. Whenever you make a strike during that same period, you also take 8 sonic damage.
+- *Music of the Spheres:* As a main action, you sing or play a note as delicate and sharp as glass—and just as easily shattered. Until the start of your next turn, whenever a creature within 10 squares makes a [strike](../../Browse/rule/combat/strike.md), they take 8 sonic damage. Whenever you make a [strike](../../Browse/rule/combat/strike.md) during that same period, you also take 8 sonic damage.
 
 ### Master Crafter {data-scc="mcdm.heroes.v1/title/master-crafter"}
 
@@ -740,8 +740,8 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 - *Masterpiece:* The armor, implement, or weapon can be imbued a fourth time, with any enhancement the item qualifies for.
 - *Research Dividends:* You gain the item prerequisite for an armor, implement, or weapon enhancement of your choice. Additionally, you learn the project source language for that enhancement.
-- *Skilled Hands:* You have a skill from the crafting skill group that would have been used during the creation of the prerequisite item. If you already have that skill, you instead gain an edge on tests made using the skill. Additionally, you gain a second skill of your choice from the crafting skill group.
-- *Strong Hands Make Light Work:* Whenever you make a project roll, you can use Might as the project roll characteristic.
+- *Skilled Hands:* You have a skill from the crafting skill group that would have been used during the creation of the prerequisite item. If you already have that skill, you instead gain an [edge](../../Browse/rule/dice/edge.md) on tests made using the skill. Additionally, you gain a second skill of your choice from the crafting skill group.
+- *Strong Hands Make Light Work:* Whenever you make a project roll, you can use [Might](../../Browse/rule/character/might.md) as the project roll [characteristic](../../Browse/rule/character/characteristic.md).
 
 ### Noble {data-scc="mcdm.heroes.v1/title/noble"}
 
@@ -751,7 +751,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *I Know How to Talk to These People:* You gain an edge on Presence tests made to interact with royals, nobles, and their feudal followers, provided they are aware of your [noble](../../Browse/title/noble.md) rank.
+- *I Know How to Talk to These People:* You gain an [edge](../../Browse/rule/dice/edge.md) on [Presence](../../Browse/rule/character/presence.md) tests made to interact with royals, nobles, and their feudal followers, provided they are aware of your [noble](../../Browse/title/noble.md) rank.
 - *Noble Splendor:* You earn 1 Renown and 1 Wealth.
 - *Retinue:* The number of followers you can recruit increases by two.
 
@@ -766,7 +766,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Prismacore Eyes:* Exposure to prismacore has given your eyes a mirrorlike sheen. You have psychic immunity 10, creatures can't use magic or psionic abilities or other effects to determine your location or read your thoughts unless you allow them to, and you gain a +3 bonus to stability against magic or psionic abilities.
-- *Stellar Knowledge:* You gain the Mechanics skill. If you already have this skill, you instead gain an edge on tests made using the skill. Additionally, you gain the item prerequisite and project source for a psionic trinket.
+- *Stellar Knowledge:* You gain the Mechanics skill. If you already have this skill, you instead gain an [edge](../../Browse/rule/dice/edge.md) on tests made using the skill. Additionally, you gain the item prerequisite and project source for a psionic trinket.
 - *[Time Raider](../../Browse/ancestry/time-raider.md) Training:* You gain 2 ancestry points to spend on purchased [time raider](../../Browse/ancestry/time-raider.md) [ancestry traits](ancestries.md) (see Chapter 3: [Ancestries](ancestries.md)).
 
 ### Scarred {data-scc="mcdm.heroes.v1/title/scarred"}
@@ -775,7 +775,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Prerequisite:** An enemy leader or solo creature reduces you to 0 [Stamina](../../Browse/rule/health/stamina.md).
 
-**Effect:** You gain a visible scar in a location of your choice. Additionally, your [Stamina](../../Browse/rule/health/stamina.md) maximum increases by 20, and the creature who [scarred](../../Browse/title/scarred.md) you takes a bane on abilities against you.
+**Effect:** You gain a visible scar in a location of your choice. Additionally, your [Stamina](../../Browse/rule/health/stamina.md) maximum increases by 20, and the creature who [scarred](../../Browse/title/scarred.md) you takes a [bane](../../Browse/rule/dice/bane.md) on abilities against you.
 
 **Special:** You can gain this title multiple times. The second and each subsequent time that you gain it, your Stamima maximum doesn't increase..
 
@@ -787,7 +787,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Death From Above:* When you gain an edge on an ability due to [high ground](../../Browse/movement/high-ground.md), the ability gains a +8 damage bonus.
+- *Death From Above:* When you gain an [edge](../../Browse/rule/dice/edge.md) on an ability due to [high ground](../../Browse/movement/high-ground.md), the ability gains a +8 damage bonus.
 - *Hold the Line:* While you're within 5 squares of an ally, you and each ally within 5 squares of you gains a +3 bonus to stability.
 - *Last Defender:* Whenever an ally within 5 squares is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), you gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to the ally's level (or 1 if they have no level). If you already have [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) granted by this title, you increase your [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) by the amount you would have gained.
 
@@ -809,7 +809,7 @@ Titles suitable for 4th-echelon characters are presented in alphabetical order.
 
 **Prerequisite:** You beat the best in the world at a game or sport.
 
-**Effect:** A characteristic used during the competition increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
+**Effect:** A [characteristic](../../Browse/rule/character/characteristic.md) used during the competition increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Best of the Best:* Choose a skill you used during the competition. You gain a +4 bonus to tests made using that skill instead of a +2 bonus
 - *Glory and Riches:* You earn 2 Renown and 1 Wealth.
@@ -823,14 +823,14 @@ Titles suitable for 4th-echelon characters are presented in alphabetical order.
 
 **Effect:** You gain the following benefits:
 
-- *Immortal Excellence:* A characteristic of your choice increases by 1 (to a maximum of 6).
+- *Immortal Excellence:* A [characteristic](../../Browse/rule/character/characteristic.md) of your choice increases by 1 (to a maximum of 6).
 - *Longevity:* Your natural lifespan doubles and you can appear to be any age.
 - *Worshippers:* You magically hear prayers directed to you.
 
 Additionally, choose one of the following benefits:
 
 - *Acolytes:* The number of followers you can recruit increases by two
-- *Divine Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal corruption or holy damage instead of its usual damage type.
+- *Divine Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal corruption or holy damage instead of its usual [damage type](../../Browse/rule/damage/damage-type.md).
 - *Missionaries:* You earn 2 Renown.
 
 ### Enlightened {data-scc="mcdm.heroes.v1/title/enlightened"}
@@ -839,7 +839,7 @@ Additionally, choose one of the following benefits:
 
 **Prerequisite:** You learn a cosmic truth that alters your understanding of reality.
 
-**Effect:** Your choice of your Reason or Intuition increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
+**Effect:** Your choice of your [Reason](../../Browse/rule/character/reason.md) or [Intuition](../../Browse/rule/character/intuition.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Cosmic Revelation:* When you make a test with a skill from the lore skill group and obtain a tier 1 or tier 2 outcome, you can instead obtain a tier 3 outcome. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Mind Over Matter:* Whenever you spend a [Recovery](../../Browse/rule/health/recoveries.md), you can end one condition on yourself.
@@ -851,10 +851,10 @@ Additionally, choose one of the following benefits:
 
 **Prerequisite:** Your party loses, destroys, or otherwise parts with an artifact.
 
-**Effect:** A characteristic of your choice increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
+**Effect:** A [characteristic](../../Browse/rule/character/characteristic.md) of your choice increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Brief Reunion:* While you're [winded](../../Browse/rule/health/winded.md), you can use a maneuver to summon the artifact to your hand. It disappears at the end of your next turn. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
-- *Perfect Protection:* The Director chooses a damage type that is dealt by or thematically related to the artifact—for instance, holy for the Blade of a Thousand Years, psychic for the Encepter, or corruption for the Mortal Coil. You have immunity all to the chosen damage type.
+- *Perfect Protection:* The Director chooses a [damage type](../../Browse/rule/damage/damage-type.md) that is dealt by or thematically related to the artifact—for instance, holy for the Blade of a Thousand Years, psychic for the Encepter, or corruption for the Mortal Coil. You have immunity all to the chosen [damage type](../../Browse/rule/damage/damage-type.md).
 - *Poor Compensation:* Instead of disappearing or otherwise departing, the artifact turns into a trinket or leveled treasure of the Director's choice that has the same approximate shape as the lost item—for instance, any magic sword for the Blade of a Thousand Years, any implement for the Encepter, or a Thief of Joy or any other torque for the Mortal Coil.
 
 ### Monarch {data-scc="mcdm.heroes.v1/title/monarch"}
@@ -866,7 +866,7 @@ Additionally, choose one of the following benefits:
 **Effect:** You gain the following benefits:
 
 - *Royal Authority:* Inhabitants of your nation must obey your lawful orders or suffer the consequences.
-- *Royal Majesty:* Your choice of your Might or Presence increases by 1 (to a maximum of 6).
+- *Royal Majesty:* Your choice of your [Might](../../Browse/rule/character/might.md) or [Presence](../../Browse/rule/character/presence.md) increases by 1 (to a maximum of 6).
 
 Additionally, choose one of the following benefits:
 
@@ -883,12 +883,12 @@ Additionally, choose one of the following benefits:
 
 **Prerequisite:** You conduct a successful negotiation on which the fate of a nation or a world stands.
 
-**Effect:** Your choice of your Reason or Presence increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
+**Effect:** Your choice of your [Reason](../../Browse/rule/character/reason.md) or [Presence](../../Browse/rule/character/presence.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Calm Heads Prevail:* When you make a test to stop combat and start a negotiation, you always obtain a tier 3 outcome.
 - *Drop Your Sword:* When you succeed on a test using the [Intimidate](../../Browse/skill/intimidate.md) skill, you can cause affected creatures to drop any items they are holding.
 - *Hear Me Out:* While you are present in a negotiation, an NPC's starting patience increases by 3 (to a maximum of 5).
-- *Many Paths to Peace:* When you make a test with a skill from the interpersonal skill group, you can use any characteristic of your choice for the test.
+- *Many Paths to Peace:* When you make a test with a skill from the interpersonal skill group, you can use any [characteristic](../../Browse/rule/character/characteristic.md) of your choice for the test.
 
 ### Reborn {data-scc="mcdm.heroes.v1/title/reborn"}
 
@@ -896,12 +896,12 @@ Additionally, choose one of the following benefits:
 
 **Prerequisite:** You died in glorious battle while on a quest for a higher power.
 
-**Effect:** A god or other powerful being has determined that it is not yet your time to die. Your body fades away, but you reappear alive 24 hours later in a location of your choice. You regain all your [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md), and your choice of your Intuition or Presence increases by 1 (to a maximum of 6).
+**Effect:** A god or other powerful being has determined that it is not yet your time to die. Your body fades away, but you reappear alive 24 hours later in a location of your choice. You regain all your [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md), and your choice of your [Intuition](../../Browse/rule/character/intuition.md) or [Presence](../../Browse/rule/character/presence.md) increases by 1 (to a maximum of 6).
 
 Additionally, choose one of the following benefits:
 
 - *Holy Weapon:* You have a leveled treasure of the Director's choice.
-- *Kill Me Once, Shame On You:* Choose a creature keyword belonging to one of the creatures who defeated you. Any creature with that keyword takes a bane on ability rolls against you.
+- *Kill Me Once, Shame On You:* Choose a creature keyword belonging to one of the creatures who defeated you. Any creature with that keyword takes a [bane](../../Browse/rule/dice/bane.md) on ability rolls against you.
 - *Memories of the Beyond:* You have two skills of your choice.
 
 **Special:** If a [hakaan](../../Browse/ancestry/hakaan.md) gains this title as a result of using their Doomsight trait, they lose that trait.
@@ -912,7 +912,7 @@ Additionally, choose one of the following benefits:
 
 **Prerequisite:** You have the [Master Librarian](../../Browse/title/master-librarian.md) title, and you complete a Learn From a Master project with a project goal of 1,000.
 
-**Effect:** Your choice of your Reason or Intuition increases by 1 (to a maximum of 6).
+**Effect:** Your choice of your [Reason](../../Browse/rule/character/reason.md) or [Intuition](../../Browse/rule/character/intuition.md) increases by 1 (to a maximum of 6).
 
 Additionally, choose a heroic ability belonging to any class. You gain this heroic ability, which can be paid for using the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) of your class. You can't use a heroic ability that requires a class feature you don't have.
 
@@ -922,7 +922,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 
 **Prerequisite:** You have the [Unstoppable](../../Browse/title/unstoppable.md) title, and you make or assist on a test as part of a montage test that obtains a full success.
 
-**Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
+**Effect:** Your choice of your [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Bounce Back Fast:* Whenever you rest for 8 hours or more, you can gain the benefit of a respite. Once you use this benefit, you can't use it again until you have taken a regular respite.
 - *Reserves of Strength:* Your [recovery value](../../Browse/rule/health/recoveries.md) is half your [Stamina](../../Browse/rule/health/stamina.md)
@@ -934,7 +934,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 
 **Prerequisite:** You have the [Heist Hero](../../Browse/title/heist-hero.md) title, and you have stolen a precious object or escaped from captivity while evading guards of 8th level or higher.
 
-**Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
+**Effect:** Your choice of your [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Bye-Bye:* You can use a maneuver to [teleport](../../Browse/movement/teleport.md) yourself and each willing ally within 5 squares of you to new positions within 10 squares of your original starting point. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Laughs at Locks:* Whenever you make a test to open a lock or break a restraint, you don't need any tools and you automatically obtain a tier 3 outcome.

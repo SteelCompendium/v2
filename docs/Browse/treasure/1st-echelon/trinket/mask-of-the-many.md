@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: While you wear this mask, you can use a maneuver to transform into any humanoid of equivalent size that you have previously seen. The humanoid's appearance reflects the last time you saw them, including whatever they were wearing. Your clothing and gear are transformed into the figure's clothing and gear, absorbed into your body, or retain their original forms, as you determine. If the figure possessed any treasures when you last saw them, they are duplicated as mundane copies while you are transformed.
+effect: While you wear this mask, you can use a maneuver to transform into any humanoid of equivalent [size](../../../rule/character/size.md) that you have previously seen. The humanoid's appearance reflects the last time you saw them, including whatever they were wearing. Your clothing and gear are transformed into the figure's clothing and gear, absorbed into your body, or retain their original forms, as you determine. If the figure possessed any treasures when you last saw them, they are duplicated as mundane copies while you are transformed.
 keywords:
     - Head
     - Magic
@@ -22,8 +22,8 @@ type: treasure
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 150
 
-**Effect:** While you wear this mask, you can use a maneuver to transform into any humanoid of equivalent size that you have previously seen. The humanoid's appearance reflects the last time you saw them, including whatever they were wearing. Your clothing and gear are transformed into the figure's clothing and gear, absorbed into your body, or retain their original forms, as you determine. If the figure possessed any treasures when you last saw them, they are duplicated as mundane copies while you are transformed.
+**Effect:** While you wear this mask, you can use a maneuver to transform into any humanoid of equivalent [size](../../../rule/character/size.md) that you have previously seen. The humanoid's appearance reflects the last time you saw them, including whatever they were wearing. Your clothing and gear are transformed into the figure's clothing and gear, absorbed into your body, or retain their original forms, as you determine. If the figure possessed any treasures when you last saw them, they are duplicated as mundane copies while you are transformed.

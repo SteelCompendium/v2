@@ -10,12 +10,8 @@ keywords:
     - Ranged
 level: "5"
 name: Penance
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-5/penance
 target: Each enemy in the area
-tier1: 4 corruption damage; I < WEAK, [prone and](../../../../condition/prone.md) can't stand (save ends)
-tier2: 7 corruption damage; I < AVERAGE, [prone and](../../../../condition/prone.md) can't stand (save ends)
-tier3: 11 corruption damage; I < STRONG, [prone and](../../../../condition/prone.md) can't stand (save ends)
 type: ability
 ---
 
@@ -39,7 +35,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../../rule/character/intuition.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 corruption damage; I &lt; WEAK, <a href="../../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 corruption damage; I &lt; AVERAGE, <a href="../../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>

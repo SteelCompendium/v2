@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Select one damage immunity granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.</p>
+<p>Select one <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.</p>
 </div>
 </section>

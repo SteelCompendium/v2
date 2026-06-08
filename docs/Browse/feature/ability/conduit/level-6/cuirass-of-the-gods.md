@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 9 Piety
 distance: Ranged 10
-effect: You can target yourself instead of one creature with this ability. Each target has damage immunity 5 until the start of your next turn.
+effect: You can target yourself instead of one creature with this ability. Each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5 until the start of your next turn.
 flavor: Your allies are covered in spiritual armor.
 keywords:
     - Area
@@ -37,6 +37,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can target yourself instead of one creature with this ability. Each target has damage immunity 5 until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one creature with this ability. Each target has <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 5 until the start of your next turn.</p></div>
 </div>
 </article>

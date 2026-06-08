@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god blesses you with the ability to stretch your divine magic farther. You have a +2 bonus to the distance of your ranged magic abilities.</p>
+<p>Your god blesses you with the ability to stretch your divine magic farther. You have a +2 bonus to the <a href="../../../../rule/combat/distance/">distance</a> of your ranged magic abilities.</p>
 </div>
 </section>

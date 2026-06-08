@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the end of each of your turns, each enemy adjacent to you takes damage equal to your Might score.</p>
+<p>At the end of each of your turns, each enemy adjacent to you takes damage equal to your <a href="../../../../rule/character/might/">Might</a> score.</p>
 </div>
 </section>

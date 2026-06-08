@@ -47,7 +47,7 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + P psychic damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + P psychic damage</span></div>
@@ -56,11 +56,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are <a href="../../../../condition/prone/">knocked prone</a>.</p></div>
+<div class="sc-ability__section-body"><p>The target has <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are <a href="../../../../condition/prone/">knocked prone</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>This ability gains the Strike keyword as the vision hurts the target&#39;s psyche. You make a power roll, then are <a href="../../../../condition/weakened/">weakened</a> (save ends).</p></div>
+<div class="sc-ability__section-body"><p>This ability gains the <a href="../../../../rule/combat/strike/">Strike</a> keyword as the vision hurts the target&#39;s psyche. You make a power roll, then are <a href="../../../../condition/weakened/">weakened</a> (save ends).</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -79,7 +79,7 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">P &lt; WEAK, the target is <a href="../../../../condition/slowed/">slowed</a> until the effect ends</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">P &lt; AVERAGE, the target&#39;s speed is 0 until the effect ends</span></div>
@@ -123,7 +123,7 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; vertical pull 5 toward the center of the area</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; vertical pull 7 toward the center of the area</span></div>
@@ -136,7 +136,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The size of the area increases by 2. You also target yourself and each ally within distance.</p></div>
+<div class="sc-ability__section-body"><p>The size of the area increases by 2. You also target yourself and each ally within <a href="../../../../rule/combat/distance/">distance</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -155,7 +155,7 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 4 + R; M &lt; WEAK, the <a href="../../../../movement/forced-movement/">forced movement</a> is vertical</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 8 + R; M &lt; AVERAGE, the <a href="../../../../movement/forced-movement/">forced movement</a> is vertical</span></div>
@@ -195,10 +195,10 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 psychic damage; the target takes a bane on ability rolls made to harm you or your allies (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 psychic damage; the target has a double bane on ability rolls made to harm you or your allies (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 psychic damage; the target takes a <a href="../../../../rule/dice/bane/">bane</a> on ability rolls made to harm you or your allies (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 psychic damage; the target has a double <a href="../../../../rule/dice/bane/">bane</a> on ability rolls made to harm you or your allies (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 psychic damage; the target considers you and your allies to be their allies when using abilities and features (save ends)</span></div>
 </div>
 </div>
@@ -217,13 +217,13 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You manipulate your enemies&#39; minds and make them wonder if you were ever really there in the first place.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Two creatures</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Three creatures</span></div>

@@ -22,7 +22,7 @@ type: treasure
 
 **Project Source:** Texts or lore in Kalliak
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 45
 

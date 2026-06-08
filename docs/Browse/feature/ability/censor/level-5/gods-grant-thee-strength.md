@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 9 Wrath
 distance: Ranged 10
-effect: The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../../../../condition/prone.md) can stand up. The target then gains 2 [surges](../../../../rule/resource/surge.md), can [shift](../../../../movement/shifting.md) up to their speed while ignoring [difficult terrain](../../../../movement/difficult-terrain.md), and can use a strike signature ability as a free triggered action.
+effect: The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../../../../condition/prone.md) can stand up. The target then gains 2 [surges](../../../../rule/resource/surge.md), can [shift](../../../../movement/shifting.md) up to their speed while ignoring [difficult terrain](../../../../movement/difficult-terrain.md), and can use a [strike](../../../../rule/combat/strike.md) signature ability as a free triggered action.
 flavor: You channel divine force for movement that cannot be stopped.
 keywords:
     - Ranged
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a <a href="../../../../../condition/prone/">prone target</a> can stand up. The target then gains 2 <a href="../../../../../rule/resource/surge/">surges</a>, can <a href="../../../../../movement/shifting/">shift</a> up to their speed while ignoring <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>, and can use a strike signature ability as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a <a href="../../../../../condition/prone/">prone target</a> can stand up. The target then gains 2 <a href="../../../../../rule/resource/surge/">surges</a>, can <a href="../../../../../movement/shifting/">shift</a> up to their speed while ignoring <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>, and can use a <a href="../../../../../rule/combat/strike/">strike</a> signature ability as a free triggered action.</p></div>
 </div>
 </article>

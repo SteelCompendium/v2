@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>In response to a foe&#39;s aggression, your god protects you. Whenever another creature damages you, that creature can&#39;t target you with a strike until you harm them or one of their allies, or until the end of their next turn.</p>
+<p>In response to a foe&#39;s aggression, your god protects you. Whenever another creature damages you, that creature can&#39;t target you with a <a href="../../../../rule/combat/strike/">strike</a> until you harm them or one of their allies, or until the end of their next turn.</p>
 </div>
 </section>

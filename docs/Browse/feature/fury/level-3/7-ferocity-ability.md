@@ -59,7 +59,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each creature you make a melee strike against who has P &lt; AVERAGE is <a href="../../../../condition/taunted/">taunted</a> until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy <a href="../../../../condition/taunted/">taunted</a> by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each creature you make a melee <a href="../../../../rule/combat/strike/">strike</a> against who has P &lt; AVERAGE is <a href="../../../../condition/taunted/">taunted</a> until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy <a href="../../../../condition/taunted/">taunted</a> by you, the ability deals extra damage equal to twice your <a href="../../../../rule/character/might/">Might</a> score and increases its potency by 1.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -92,7 +92,7 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Slash. Walk away.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>

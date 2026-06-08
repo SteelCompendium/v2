@@ -20,11 +20,11 @@ type: treasure
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** While you wield this implement, your magic or psionic abilities that deal rolled damage deal an extra 2 psychic damage. Additionally, you have damage weakness 3, and you gain an edge on magic or psionic abilities if you aren't at full [Stamina](../../../rule/health/stamina.md), or a double edge if you are [winded](../../../rule/health/winded.md).
+**1st Level:** While you wield this implement, your magic or psionic abilities that deal rolled damage deal an extra 2 psychic damage. Additionally, you have [damage weakness](../../../rule/damage/damage-weakness.md) 3, and you gain an [edge](../../../rule/dice/edge.md) on magic or psionic abilities if you aren't at full [Stamina](../../../rule/health/stamina.md), or a double [edge](../../../rule/dice/edge.md) if you are [winded](../../../rule/health/winded.md).
 
 **5th Level:** The implement's extra psychic damage increases to 3. Additionally, once per round when you take more than 20 damage from a single source, the implement's extra damage is doubled until the end of your next turn.
 

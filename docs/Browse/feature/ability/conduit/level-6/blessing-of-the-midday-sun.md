@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 9 Piety
 distance: 4 aura
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 [surge](../../../../rule/resource/surge.md) at the end of each of your turns.
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each enemy in the area takes a [bane](../../../../rule/dice/bane.md) on power rolls, and you and each ally in the area gain 1 [surge](../../../../rule/resource/surge.md) at the end of each of your turns.
 flavor: Your body emits a heat that bakes your enemies and inspires your allies.
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 <a href="../../../../../rule/resource/surge/">surge</a> at the end of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each enemy in the area takes a <a href="../../../../../rule/dice/bane/">bane</a> on power rolls, and you and each ally in the area gain 1 <a href="../../../../../rule/resource/surge/">surge</a> at the end of each of your turns.</p></div>
 </div>
 </article>

@@ -20,11 +20,11 @@ type: treasure
 
 **Project Source:** Texts or lore in Voll
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../../../rule/health/stamina.md), but any magic ability gains an edge when targeting you. Additionally, you instinctively know the location of any creature with [concealment](../../../rule/combat/concealment.md) within 2 squares. You can also turn invisible as a maneuver. Your invisibility ends if you take damage or use an ability, or at the end of your next turn.
+**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../../../rule/health/stamina.md), but any magic ability gains an [edge](../../../rule/dice/edge.md) when targeting you. Additionally, you instinctively know the location of any creature with [concealment](../../../rule/combat/concealment.md) within 2 squares. You can also turn invisible as a maneuver. Your invisibility ends if you take damage or use an ability, or at the end of your next turn.
 
 **5th Level:** The armor's bonus to [Stamina](../../../rule/health/stamina.md) increases to +12, you instinctively know the location of any creature with [concealment](../../../rule/combat/concealment.md) within 5 squares, and your invisibility no longer ends at the end of your next turn. Additionally, you have psychic immunity 5.
 

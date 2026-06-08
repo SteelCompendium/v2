@@ -12,12 +12,8 @@ keywords:
     - Telekinesis
 level: "6"
 name: Gravitic Well
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/gravitic-well
 target: Each creature and object in the area
-tier1: 6 damage; vertical pull 5 toward the center of the area
-tier2: 9 damage; vertical pull 7 toward the center of the area
-tier3: 13 damage; vertical pull 10 toward the center of the area
 type: ability
 ---
 
@@ -41,7 +37,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; vertical pull 5 toward the center of the area</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; vertical pull 7 toward the center of the area</span></div>
@@ -54,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The size of the area increases by 2. You also target yourself and each ally within distance.</p></div>
+<div class="sc-ability__section-body"><p>The size of the area increases by 2. You also target yourself and each ally within <a href="../../../../../rule/combat/distance/">distance</a>.</p></div>
 </div>
 </article>

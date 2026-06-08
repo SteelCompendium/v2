@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You and any ally within 10 squares of you can move at full speed while sneaking. Additionally, enemies within 10 squares of you take a bane on tests made to search for you or your allies while any of you are hidden.</p>
+<p>You and any ally within 10 squares of you can move at full speed while sneaking. Additionally, enemies within 10 squares of you take a <a href="../../../../rule/dice/bane/">bane</a> on tests made to search for you or your allies while any of you are hidden.</p>
 </div>
 </section>

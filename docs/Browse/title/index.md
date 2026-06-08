@@ -97,7 +97,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Corsair</div></div></div>
   <div class="sc-card__flavor">Haul down your flag or we&#39;ll burn you to the waterline!</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Ship Captain](ship-captain.md) title, and you sink or capture a ship of equal or greater size than your own.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You have the [Ship Captain](ship-captain.md) title, and you sink or capture a ship of equal or greater [size](../rule/character/size.md) than your own.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="demigod/" aria-label="Demigod"></a>
@@ -304,7 +304,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Monster Bane</div></div></div>
   <div class="sc-card__flavor">You dare mock Blunwin Mousebane? You think my deed trivial? Ah, but you didn&#39;t see the size of the mouse!</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You defeat a leader or solo creature with a Reason score of −2 or lower, such as an arixx.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You defeat a leader or solo creature with a [Reason](../rule/character/reason.md) score of −2 or lower, such as an arixx.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="noble/" aria-label="Noble"></a>
@@ -352,7 +352,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Ratcatcher</div></div></div>
   <div class="sc-card__flavor">I like fighting these little guys. Means I don&#39;t have to waste money on a helmet.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You defeat a leader or solo creature who is size 1S or smaller, such as a goblin [monarch](monarch.md).</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You defeat a leader or solo creature who is [size](../rule/character/size.md) 1S or smaller, such as a goblin [monarch](monarch.md).</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="reborn/" aria-label="Reborn"></a>

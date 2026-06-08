@@ -8,16 +8,12 @@ flavor: For a moment, your foe slips out of phase with this manifold.
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
 name: Phase Strike
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-1/phase-strike
 target: One creature
-tier1: 3 + A psychic damage; I < WEAK, the target goes out of phase (save ends)
-tier2: 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
-tier3: 6 + A psychic damage; I < STRONG, the target goes out of phase (save ends)
 type: ability
 ---
 
@@ -35,13 +31,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Discipline</div></div>
 </div>
 <p class="sc-ability__flavor">For a moment, your foe slips out of phase with this manifold.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + A psychic damage; I &lt; WEAK, the target goes out of phase (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + A psychic damage; I &lt; AVERAGE, the target goes out of phase (save ends)</span></div>

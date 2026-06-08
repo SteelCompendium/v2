@@ -9,12 +9,8 @@ keywords:
     - Magic
 level: "9"
 name: Death Rattle
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/death-rattle
 target: Each enemy in the area
-tier1: 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md)
-tier2: 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature
-tier3: 10 psychic damage; each target who is not a leader or solo creature is [winded](../../../../rule/health/winded.md); any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature
 type: ability
 ---
 
@@ -38,7 +34,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../../rule/character/might.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 psychic damage; any target who is a minion is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a></span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 psychic damage; any target who is a minion is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a>, as does one <a href="../../../../../rule/health/winded/">winded</a> target who is not a leader or solo creature</span></div>

@@ -7,16 +7,12 @@ effect: Add your current [Stamina](../../../../rule/health/stamina.md) to your t
 flavor: No, no. You don't die until the sequel.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "9"
 name: Renegotiated Contract
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/renegotiated-contract
 target: One creature
-tier1: You and the target can each end one effect on yourselves that is ended by a saving throw or that ends at the end of your turns.
-tier2: You and the target can end any effects on yourselves that are ended by a saving throw or that end at the end of your turns.
-tier3: You can choose any of the current effects on you and the target that are ended by a saving throw or that end at the end of your turns, apply the chosen effects to the target, and end the rest.
 type: ability
 ---
 
@@ -34,13 +30,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Drama</div></div>
 </div>
 <p class="sc-ability__flavor">No, no. You don&#39;t die until the sequel.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You and the target can each end one effect on yourselves that is ended by a saving throw or that ends at the end of your turns.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You and the target can end any effects on yourselves that are ended by a saving throw or that end at the end of your turns.</span></div>

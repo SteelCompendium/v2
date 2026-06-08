@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: talent
 distance: Ranged 10
-effect: The next ability roll an ally makes against the target before the start of your next turn gains an edge.
+effect: The next ability roll an ally makes against the target before the start of your next turn gains an [edge](../../../../rule/dice/edge.md).
 flavor: An ally gains the benefit of your intellect.
 keywords:
     - Psionic
@@ -36,7 +36,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The next ability roll an ally makes against the target before the start of your next turn gains an edge.</p></div>
+<div class="sc-ability__section-body"><p>The next ability roll an ally makes against the target before the start of your next turn gains an <a href="../../../../../rule/dice/edge/">edge</a>.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Clarity</span><span class="txt">You target one additional creature or object.</span></div>
 </article>

@@ -38,7 +38,7 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../rule/character/agility.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 damage</span></div>
@@ -67,7 +67,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is split into two separate entities, one of which remains in the target&#39;s space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director&#39;s control. Each entity has half the original target&#39;s <a href="../../../../rule/health/stamina/">Stamina</a>, is <a href="../../../../condition/weakened/">weakened</a>, and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current <a href="../../../../rule/health/stamina/">Stamina</a>.</p></div>
+<div class="sc-ability__section-body"><p>The target is split into two separate entities, one of which remains in the target&#39;s space while the other appears in an unoccupied space of your choice within <a href="../../../../rule/combat/distance/">distance</a>. If the target is a creature, this creates a new creature under the Director&#39;s control. Each entity has half the original target&#39;s <a href="../../../../rule/health/stamina/">Stamina</a>, is <a href="../../../../condition/weakened/">weakened</a>, and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current <a href="../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -87,7 +87,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>. Until the end of the encounter, whenever the target takes damage while you&#39;re within distance, you can choose to take the damage instead of the target.</p></div>
+<div class="sc-ability__section-body"><p>The target gains 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>. Until the end of the encounter, whenever the target takes damage while you&#39;re within <a href="../../../../rule/combat/distance/">distance</a>, you can choose to take the damage instead of the target.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -106,11 +106,11 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">One ally within distance can take their turn immediately after yours.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Two allies within distance can take their turns immediately after yours in any order.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Three allies within distance can take their turns immediately after yours in any order. One of those allies can have already taken a turn this combat round.</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">One ally within <a href="../../../../rule/combat/distance/">distance</a> can take their turn immediately after yours.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Two allies within <a href="../../../../rule/combat/distance/">distance</a> can take their turns immediately after yours in any order.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Three allies within <a href="../../../../rule/combat/distance/">distance</a> can take their turns immediately after yours in any order. One of those allies can have already taken a turn this combat round.</span></div>
 </div>
 </div>
 </article>

@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you damage an object with a weapon strike, the strike deals extra damage equal to your Might score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your Might score.</p>
+<p>Whenever you damage an object with a weapon <a href="../../../../rule/combat/strike/">strike</a>, the <a href="../../../../rule/combat/strike/">strike</a> deals extra damage equal to your <a href="../../../../rule/character/might/">Might</a> score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your <a href="../../../../rule/character/might/">Might</a> score.</p>
 <p>As your ferocity grows, you gain benefits as noted on the Berserker <a href="../../boren/growing-ferocity/">Growing Ferocity</a> table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.</p>
 </div>
 </section>

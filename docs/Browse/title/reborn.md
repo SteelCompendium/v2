@@ -1,5 +1,5 @@
 ---
-effect: A god or other powerful being has determined that it is not yet your time to die. Your body fades away, but you reappear alive 24 hours later in a location of your choice. You regain all your [Stamina](../rule/health/stamina.md) and [Recoveries](../rule/health/recoveries.md), and your choice of your Intuition or Presence increases by 1 (to a maximum of 6).
+effect: A god or other powerful being has determined that it is not yet your time to die. Your body fades away, but you reappear alive 24 hours later in a location of your choice. You regain all your [Stamina](../rule/health/stamina.md) and [Recoveries](../rule/health/recoveries.md), and your choice of your [Intuition](../rule/character/intuition.md) or [Presence](../rule/character/presence.md) increases by 1 (to a maximum of 6).
 name: Reborn
 prerequisite: You died in glorious battle while on a quest for a higher power.
 scc: mcdm.heroes.v1/title/reborn
@@ -14,12 +14,12 @@ type: title
 
 **Prerequisite:** You died in glorious battle while on a quest for a higher power.
 
-**Effect:** A god or other powerful being has determined that it is not yet your time to die. Your body fades away, but you reappear alive 24 hours later in a location of your choice. You regain all your [Stamina](../rule/health/stamina.md) and [Recoveries](../rule/health/recoveries.md), and your choice of your Intuition or Presence increases by 1 (to a maximum of 6).
+**Effect:** A god or other powerful being has determined that it is not yet your time to die. Your body fades away, but you reappear alive 24 hours later in a location of your choice. You regain all your [Stamina](../rule/health/stamina.md) and [Recoveries](../rule/health/recoveries.md), and your choice of your [Intuition](../rule/character/intuition.md) or [Presence](../rule/character/presence.md) increases by 1 (to a maximum of 6).
 
 Additionally, choose one of the following benefits:
 
 - *Holy Weapon:* You have a leveled treasure of the Director's choice.
-- *Kill Me Once, Shame On You:* Choose a creature keyword belonging to one of the creatures who defeated you. Any creature with that keyword takes a bane on ability rolls against you.
+- *Kill Me Once, Shame On You:* Choose a creature keyword belonging to one of the creatures who defeated you. Any creature with that keyword takes a [bane](../rule/dice/bane.md) on ability rolls against you.
 - *Memories of the Beyond:* You have two skills of your choice.
 
 **Special:** If a [hakaan](../ancestry/hakaan.md) gains this title as a result of using their Doomsight trait, they lose that trait.

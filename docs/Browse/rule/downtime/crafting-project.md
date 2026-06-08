@@ -18,7 +18,7 @@ Unless a project has an event table of its own, the Director uses the Crafting a
 
 **Project Source:** Texts or lore in Low Rhyvian
 
-**Project Roll Characteristic:** Might, Reason, or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Presence](../character/presence.md)
 
 **Project Goal:** 3,000
 
@@ -26,7 +26,7 @@ When you start this project, you hire a crew of carpenters, mages, and shipwrigh
 
 When the project is completed, you have an airship. You and any creatures you designate can operate the ship by touching the ship's wheel. During combat, a creature touching the wheel can use a maneuver to make the ship move up to 10 squares. The ship can be moved only once per round. Out of combat, the ship has a speed of 130 miles per day.
 
-An airship is an object (giving it damage immunity all to poison and psychic damage) and can take 200 damage before it is destroyed. If the damage the ship takes is not too severe (as the Director determines), as long as you have access to materials that can repair the ship, you can restore it back to its original condition as a respite activity.
+An airship is an object (giving it [damage immunity](../damage/damage-immunity.md) all to poison and psychic damage) and can take 200 damage before it is destroyed. If the damage the ship takes is not too severe (as the Director determines), as long as you have access to materials that can repair the ship, you can restore it back to its original condition as a respite activity.
 
 #### Build or Repair Road Renown Table
 
@@ -42,7 +42,7 @@ An airship is an object (giving it damage immunity all to poison and psychic dam
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Might, Reason, or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Presence](../character/presence.md)
 
 **Project Goal:** Varies
 
@@ -52,7 +52,7 @@ The number of project points required to complete work on the road equals 10 x t
 
 When you complete the project, you earn Renown among people in the area where the road is built, depending on the length of the road.
 
-Time spent traveling between locations on the road is cut in half. Access to resources and knowledge is improved in locations along the road, giving you and your allies an edge on project rolls to discover lore while you are in those areas.
+Time spent traveling between locations on the road is cut in half. Access to resources and knowledge is improved in locations along the road, giving you and your allies an [edge](../dice/edge.md) on project rolls to discover lore while you are in those areas.
 
 #### Build or Repair Roads Events Table
 
@@ -75,7 +75,7 @@ Time spent traveling between locations on the road is cut in half. Access to res
 
 **Project Source:** Texts or lore in Voll
 
-**Project Roll Characteristic:** Reason
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md)
 
 **Project Goal:** 1,500
 
@@ -85,7 +85,7 @@ Each time the [teleport](../../movement/teleport.md)ation platform is used, the 
 
 ## Craft Treasure {data-scc="mcdm.heroes.v1/project/craft-treasure"}
 
-You can craft the items found in Treasures in Chapter 13: [Rewards](../../../Read/heroes/rewards.md). Each treasure notes its item prerequisite, project source, project roll characteristic, and project goal.
+You can craft the items found in Treasures in Chapter 13: [Rewards](../../../Read/heroes/rewards.md). Each treasure notes its item prerequisite, project source, project roll [characteristic](../character/characteristic.md), and project goal.
 
 ## Find a Cure {data-scc="mcdm.heroes.v1/project/find-a-cure"}
 
@@ -93,7 +93,7 @@ You can craft the items found in Treasures in Chapter 13: [Rewards](../../../Rea
 
 **Project Source:** None
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** Varies
 
@@ -129,36 +129,36 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
-**Awe:** When you start this project, choose either Charming or Threatening. If you choose Charming, you gain an edge on Presence tests made to win other creatures over or make a good impression. If you choose Threatening, you gain an edge on Presence tests made to intimidate, coerce, or bully.
+**Awe:** When you start this project, choose either Charming or Threatening. If you choose Charming, you gain an [edge](../dice/edge.md) on [Presence](../character/presence.md) tests made to win other creatures over or make a good impression. If you choose Threatening, you gain an [edge](../dice/edge.md) on [Presence](../character/presence.md) tests made to intimidate, coerce, or bully.
 
-**Damage Immunity I:** When you start this project, select three damage types. You have immunity 5 to those damage types.
+**[Damage Immunity](../damage/damage-immunity.md) I:** When you start this project, select three [damage types](../damage/damage-type.md). You have immunity 5 to those [damage types](../damage/damage-type.md).
 
 **Disguise:** You can use a maneuver to cause this armor to take the form of any type of clothing that you have been in the presence of—a noble's dress, a guard's uniform, a cultist's robes, and so forth. The armor loses none of its protective qualities while transformed into other clothing.
 
 **Iridescent:** When you are the sole target of an ability, you can use a free triggered action to reveal that the ability was targeting an afterimage of you in the same space as you. The power roll for the ability is treated as an 11. You can't use this enhancement again until you earn 1 or more Victories.
 
-**Magic Resistance I:** Your characteristic scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the potencies of magic abilities.
+**Magic Resistance I:** Your [characteristic](../character/characteristic.md) scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the potencies of magic abilities.
 
 **Nettlebloom:** Whenever you are [grabbed](../../condition/grabbed.md) by an adjacent creature, your armor sprouts toxic nettles. While that creature has you [grabbed](../../condition/grabbed.md), they are [weakened](../../condition/weakened.md).
 
 **Phasing I:** Once per turn, you can move through 1 square of solid matter. If you end your turn inside solid matter, you are forced out into the space from which you entered it and you take 5 damage that can't be reduced in any way.
 
-**Psionic Resistance I:** Your characteristic scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the potencies of psionic abilities.
+**Psionic Resistance I:** Your [characteristic](../character/characteristic.md) scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the potencies of psionic abilities.
 
 **Swift:** You gain a +1 bonus to speed.
 
-**Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an adjacent creature deals damage to you before the end of your next turn, they take lightning damage equal to your highest characteristic score and you can push them 1 square.
+**Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an adjacent creature deals damage to you before the end of your next turn, they take lightning damage equal to your highest [characteristic](../character/characteristic.md) score and you can push them 1 square.
 
 #### 1st-Level Armor Enhancements Table
 
 | Enhancement          | Item Prerequisite                                                                                | Project Source Language |
 |----------------------|--------------------------------------------------------------------------------------------------|-------------------------|
 | Awe                  | A lock of hair from a fey, taken in amicable bargain for Charming or in violence for Threatening | Khelt                   |
-| Damage Immunity I    | Elemental sand left behind when an elemental enters Orden from Quintessence                      | Zaliac                  |
+| [Damage Immunity](../damage/damage-immunity.md) I    | Elemental sand left behind when an elemental enters Orden from Quintessence                      | Zaliac                  |
 | Disguise             | The blood of a lycanthrope                                                                       | Khelt                   |
 | Iridescent           | Fur from a lightbender                                                                           | Hyrallic                |
 | Magic Resistance I   | A scale from a dragon                                                                            | The First Language      |
@@ -174,19 +174,19 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
 **Absorption:** Whenever you are targeted by a magic or psionic ability that targets only one creature, you can use a free triggered action to cause this armor to absorb the ability after the ability's effects resolve. While the armor has an ability absorbed, you can't absorb another.
 
-You can use an absorbed ability as if you knew it, making power rolls for the ability using your choice of Reason, Intuition, or Presence. You don't need to spend any [Heroic Resource](../resource/heroic-resource.md) to activate the ability. Once you use the ability, the armor loses it, and you can absorb another.
+You can use an absorbed ability as if you knew it, making power rolls for the ability using your choice of [Reason](../character/reason.md), [Intuition](../character/intuition.md), or [Presence](../character/presence.md). You don't need to spend any [Heroic Resource](../resource/heroic-resource.md) to activate the ability. Once you use the ability, the armor loses it, and you can absorb another.
 
-**Damage Immunity II:** The damage immunity conveyed by the armor increases to 10.
+**[Damage Immunity](../damage/damage-immunity.md) II:** The [damage immunity](../damage/damage-immunity.md) conveyed by the armor increases to 10.
 
 **Dragon Soul:** When another creature causes you to be [winded](../health/winded.md) or [dying](../health/dying.md), you can use a free triggered action to cause the soul of a dragon to emerge from this armor and hurtle toward the creature. Make the following power roll against the creature.
 
-**Power Roll + Your Highest Characteristic Score:**
+**Power Roll + Your Highest [Characteristic](../character/characteristic.md) Score:**
 
 - **≤11:** 8 damage; push 3
 - **12-16:** 12 damage; push 4
@@ -194,13 +194,13 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Levitating:** On your turn, you can treat up to 5 consecutive squares of movement as [flying](../../movement/fly.md) movement. If you are still in midair at the end of your turn, you [fall prone](../../condition/prone.md).
 
-**Magic Resistance II:** Your characteristic scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of magic abilities. This benefit replaces Magic Resistance I.
+**Magic Resistance II:** Your [characteristic](../character/characteristic.md) scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of magic abilities. This benefit replaces Magic Resistance I.
 
 **Phasing II:** When you use the armor's Phasing I enhancement, you can move through 3 squares of solid matter per turn.
 
-**Psionic Resistance II:** Your characteristic scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of psionic abilities. This benefit replaces Psionic Resistance I.
+**Psionic Resistance II:** Your [characteristic](../character/characteristic.md) scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of psionic abilities. This benefit replaces Psionic Resistance I.
 
-**Reactive:** Whenever you take damage, you have damage immunity 2 until the end of your next turn after the triggering damage is resolved.
+**Reactive:** Whenever you take damage, you have [damage immunity](../damage/damage-immunity.md) 2 until the end of your next turn after the triggering damage is resolved.
 
 **Second Wind:** Whenever you become [winded](../health/winded.md), you can use a free triggered action to spend a [Recovery](../health/recoveries.md).
 
@@ -213,7 +213,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 | Enhancement           | Item Prerequisite                                                                 | Project Source Language |
 |-----------------------|-----------------------------------------------------------------------------------|-------------------------|
 | Absorption            | A mirror blessed by a priest of a god of magic                                    | The First Language      |
-| Damage Immunity II    | The essence of an elemental who is still alive                                    | Zaliac                  |
+| [Damage Immunity](../damage/damage-immunity.md) II    | The essence of an elemental who is still alive                                    | Zaliac                  |
 | Dragon Soul           | A scale from a dead dragon                                                        | Vastariax               |
 | Levitating            | A palm-sized crystal grown in the subterranean lair of an overmind                | Zaliac                  |
 | Magic Resistance II   | A scale from a mature dragon                                                      | The First Language      |
@@ -230,11 +230,11 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
-**Devil's Bargain:** You can [fly](../../movement/fly.md). Additionally, if an effect would make you [prone](../../condition/prone.md) while [flying](../../movement/fly.md), you can choose to not make you [prone](../../condition/prone.md) by losing [Stamina](../health/stamina.md) equal to the distance you would have fallen from make you [prone](../../condition/prone.md).
+**Devil's Bargain:** You can [fly](../../movement/fly.md). Additionally, if an effect would make you [prone](../../condition/prone.md) while [flying](../../movement/fly.md), you can choose to not make you [prone](../../condition/prone.md) by losing [Stamina](../health/stamina.md) equal to the [distance](../combat/distance.md) you would have fallen from make you [prone](../../condition/prone.md).
 
 **Dragon Soul II:** While you are [winded](../health/winded.md), your head transforms into a dragon's head and you have the following ability.
 
@@ -246,7 +246,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + Your Highest Characteristic Score:**
+**Power Roll + Your Highest [Characteristic](../character/characteristic.md) Score:**
 
 - **≤11:** 5 fire damage
 - **12-16:** 8 fire damage
@@ -254,7 +254,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Invulnerable:** When an ability roll made against you obtains a tier 1 outcome, you can ignore its damage and effects.
 
-**Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead [teleport](../../movement/teleport.md) that distance.
+**Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead [teleport](../../movement/teleport.md) that [distance](../combat/distance.md).
 
 **Life:** Whenever you would die, you can spend a [Recovery](../health/recoveries.md) to regain [Stamina](../health/stamina.md) instead. If you have no [Recoveries](../health/recoveries.md) to spend, you die.
 
@@ -297,25 +297,25 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Agility, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
-**Berserking:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature must make an opportunity attack against their nearest ally if possible after the ability's effects resolve. This strike deals extra damage equal to the highest of your Reason, Intuition, or Presence scores.
+**Berserking:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature must make an opportunity attack against their nearest ally if possible after the ability's effects resolve. This [strike](../combat/strike.md) deals extra damage equal to the highest of your [Reason](../character/reason.md), [Intuition](../character/intuition.md), or [Presence](../character/presence.md) scores.
 
 **Displacing I:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, you can [teleport](../../movement/teleport.md) that creature up to 2 squares after the ability's effects resolve. If the creature started on a horizontal surface, they must end on a horizontal surface.
 
-**Elemental:** Whenever you use an ability with the Air, Earth, Fire, Green, Rot, Void, or Water keyword, you can attune this implement to that element until the end of the encounter. While the implement is attuned, you gain an edge on power rolls with that elemental keyword. The implement can be attuned to only one element at a time.
+**Elemental:** Whenever you use an ability with the Air, Earth, Fire, Green, Rot, Void, or Water keyword, you can attune this implement to that element until the end of the encounter. While the implement is attuned, you gain an [edge](../dice/edge.md) on power rolls with that elemental keyword. The implement can be attuned to only one element at a time.
 
 **Forceful I:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 2 squares.
 
-**Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically climb at full speed while moving, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
+**Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically climb at full speed while moving, your [size](../character/size.md) is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your [Might](../character/might.md) is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
 
 **Rejuvenating I:** Whenever you use an ability that costs 1 or more of your [Heroic Resource](../resource/heroic-resource.md), roll a d10. On a 9 or higher, you gain 1 [Heroic Resource](../resource/heroic-resource.md).
 
-**Seeking:** Your ranged magic or psionic abilities gain a +2 distance bonus. Additionally, if you think the name of a specific creature, place, or object to the implement, the implement points toward that target, provided you are on the same world.
+**Seeking:** Your ranged magic or psionic abilities gain a +2 [distance](../combat/distance.md) bonus. Additionally, if you think the name of a specific creature, place, or object to the implement, the implement points toward that target, provided you are on the same world.
 
-**Thought Sending:** Your ranged magic and psionic abilities gain a +2 distance bonus. Additionally, you can telepathically communicate with any willing creature who knows a language and whose name you know, provided they are on the same world as you. You must initiate the conversation, but once you do, the creature can respond until you end the conversation.
+**Thought Sending:** Your ranged magic and psionic abilities gain a +2 [distance](../combat/distance.md) bonus. Additionally, you can telepathically communicate with any willing creature who knows a language and whose name you know, provided they are on the same world as you. You must initiate the conversation, but once you do, the creature can respond until you end the conversation.
 
 **Warding I:** You gain a +6 bonus to [Stamina](../health/stamina.md).
 
@@ -339,7 +339,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Agility, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
@@ -347,7 +347,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Celestine:** As a main action, you conjure up to three stars, which [hover](../../movement/hover.md) in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have line of effect to the enemy, you can also slide them 1 square. Otherwise, the enemy slides 1 square in a random direction.
 
-**Displacing II:** When you use the implement's Displacing I enhancement, you can [teleport](../../movement/teleport.md) the creature up to 4 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
+**Displacing II:** When you use the implement's Displacing I enhancement, you can [teleport](../../movement/teleport.md) the creature up to 4 squares. Additionally, the creature takes a [bane](../dice/bane.md) on their next power roll made before the end of their next turn.
 
 **Erupting I:** Whenever you damage a creature using a magic or psionic ability that targets only a single creature and obtain a tier 3 outcome, each enemy within 2 squares of the creature takes 3 fire damage after the ability's effects resolve.
 
@@ -359,7 +359,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Rejuvenating II:** Whenever you use an ability that costs 1 or more of your [Heroic Resource](../resource/heroic-resource.md), roll a d10. On an 8 or higher, you gain 1 [Heroic Resource](../resource/heroic-resource.md) and you can spend a [Recovery](../health/recoveries.md). This replaces the benefit of Rejuvenating I.
 
-**Warding II:** The [Stamina](../health/stamina.md) bonus for the Warding I enhancement becomes +12. Additionally, your characteristic scores are treated as 1 higher for the purpose of resisting potencies.
+**Warding II:** The [Stamina](../health/stamina.md) bonus for the Warding I enhancement becomes +12. Additionally, your [characteristic](../character/characteristic.md) scores are treated as 1 higher for the purpose of resisting potencies.
 
 #### 5th-Level Implement Enhancements Table
 
@@ -381,13 +381,13 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Agility, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
 **Anathema:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature is also [weakened](../../condition/weakened.md) (save ends). If the creature is within 10 squares when this [weakened](../../condition/weakened.md) effect ends, you can use a free triggered action to make a [free strike](../../feature/common/main-actions/free-strike.md) against them.
 
-**Displacing III:** When you use the implement's Displacing I enhancement, you can [teleport](../../movement/teleport.md) the creature up to 5 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
+**Displacing III:** When you use the implement's Displacing I enhancement, you can [teleport](../../movement/teleport.md) the creature up to 5 squares. Additionally, the creature takes a [bane](../dice/bane.md) on their next power roll made before the end of their next turn.
 
 **Erupting II:** The fire damage dealt by the implement's Erupting I enhancement increases to 6.
 
@@ -397,11 +397,11 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Piercing:** Your magic and psionic abilities ignore damage immunities.
 
-**Psionic Siphon:** Once per turn when you damage one or more creatures using a magic or psionic ability and obtain a tier 3 outcome, you gain [Stamina](../health/stamina.md) equal to your highest characteristic score, and one creature you damage takes an extra 5 damage.
+**Psionic Siphon:** Once per turn when you damage one or more creatures using a magic or psionic ability and obtain a tier 3 outcome, you gain [Stamina](../health/stamina.md) equal to your highest [characteristic](../character/characteristic.md) score, and one creature you damage takes an extra 5 damage.
 
 **Rejuvenating III:** Whenever you use an ability that costs 1 or more of your [Heroic Resource](../resource/heroic-resource.md), roll a d10. On a 7 or higher, you gain 1 [Heroic Resource](../resource/heroic-resource.md), and you or a creature of your choice within 3 squares can spend a [Recovery](../health/recoveries.md). This replaces the benefit of Rejuvenating II.
 
-**Warding III:** The [Stamina](../health/stamina.md) bonus for the Warding I enhancement becomes +18. Additionally, you and each ally within 3 squares of you has their characteristic scores treated as 1 higher for the purpose of resisting potencies. This replaces the benefit of Warding II.
+**Warding III:** The [Stamina](../health/stamina.md) bonus for the Warding I enhancement becomes +18. Additionally, you and each ally within 3 squares of you has their [characteristic](../character/characteristic.md) scores treated as 1 higher for the purpose of resisting potencies. This replaces the benefit of Warding II.
 
 #### 9th-Level Implement Enhancements Table
 
@@ -423,7 +423,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 #### Unarmed Strike Treasures
 
-A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../../kit/martial-artist.md) and [Pugilist](../../kit/pugilist.md) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../../class/elementalist.md) and [nulls](../../class/null.md), can also benefit from such treasures.
+A hero who has a kit that uses unarmed [strikes](../combat/strike.md), such as the [Martial Artist](../../kit/martial-artist.md) and [Pugilist](../../kit/pugilist.md) kit, can create leveled weapon treasures that enhance their unarmed [strikes](../combat/strike.md) by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../../class/elementalist.md) and [nulls](../../class/null.md), can also benefit from such treasures.
 
 #### 1st-Level Weapon Enhancement
 
@@ -431,7 +431,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
@@ -441,7 +441,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Disrupting I:** Whenever you damage an undead using this weapon and leave that undead with 15 [Stamina](../health/stamina.md) or less, they drop to 0 [Stamina](../health/stamina.md).
 
-**Hurling:** Whenever you use a melee ability using this weapon, you can throw the weapon by treating the ability's distance as ranged 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the [grabbed](../../condition/grabbed.md) or [restrained](../../condition/restrained.md) conditions.
+**Hurling:** Whenever you use a melee ability using this weapon, you can throw the weapon by treating the ability's [distance](../combat/distance.md) as ranged 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the [grabbed](../../condition/grabbed.md) or [restrained](../../condition/restrained.md) conditions.
 
 **Merciful:** Whenever you reduce a non-undead creature to 0 [Stamina](../health/stamina.md) using this weapon, the creature falls unconscious and wakes up 1d6 hours later. A creature with the Heal skill can wake the unconscious creature early with 1 uninterrupted minute of medical treatment. Whenever the creature wakes, they regain 1 [Stamina](../health/stamina.md).
 
@@ -473,7 +473,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
@@ -484,7 +484,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 >
 > *Their momentum, your impact.*
 >
-> | **Melee, Strike, Weapon** | **Free triggered** |
+> | **Melee, [Strike](../combat/strike.md), Weapon** | **Free triggered** |
 > |---------------------------|-------------------:|
 > | **📏 Melee 1**            |   **🎯 One enemy** |
 >
@@ -501,7 +501,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 > **Metamorphic:** You can change this weapon's shape and form as a maneuver, granting one of the following benefits of your choice:
 >
 > - **Concealed:** The weapon shrinks to the size of a piece of jewelry and can be worn as an earring, necklace, or similar accessory. While in this form, the weapon can't be used for weapon abilities.
-> - **Large:** Abilities using this weapon gain a +1 melee distance bonus or a +3 ranged distance bonus.
+> - **Large:** Abilities using this weapon gain a +1 melee [distance](../combat/distance.md) bonus or a +3 ranged [distance](../combat/distance.md) bonus.
 > - **Vicious:** Whenever you damage a creature using this weapon, you deal an extra 1 damage on a tier 1 outcome, an extra 2 damage on a tier 2 outcome, and an extra 3 damage on a tier 3 outcome.
 >
 > **Silencing:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature also can't use magic abilities until the end of their next turn.
@@ -532,7 +532,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
@@ -555,7 +555,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 > |-----------------|------------------------------:|
 > | **📏 3 burst**  | **🎯 Each enemy in the area** |
 >
-> **Power Roll + Your Highest Characteristic Score:**
+> **Power Roll + Your Highest [Characteristic](../character/characteristic.md) Score:**
 >
 > - **≤11:** 7 fire damage
 > - **12-16:** 11 fire damage
@@ -567,7 +567,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 >
 > **Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
 >
-> **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a bane on the ability to target each enemy in a cube 3 within distance. If your signature ability would usually cause its target to become [grabbed](../../condition/grabbed.md) or [restrained](../../condition/restrained.md), each target in the area is instead [slowed](../../condition/slowed.md) until the end of their next turn.
+> **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a [bane](../dice/bane.md) on the ability to target each enemy in a cube 3 within [distance](../combat/distance.md). If your signature ability would usually cause its target to become [grabbed](../../condition/grabbed.md) or [restrained](../../condition/restrained.md), each target in the area is instead [slowed](../../condition/slowed.md) until the end of their next turn.
 
 #### 9th-Level Weapon Enhancements
 

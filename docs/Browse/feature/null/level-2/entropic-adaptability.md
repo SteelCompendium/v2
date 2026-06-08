@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have cold immunity equal to twice your Intuition score. Additionally, you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a> related to cold and ice, and you can automatically climb at full speed while moving.</p>
+<p>You have cold immunity equal to twice your <a href="../../../../rule/character/intuition/">Intuition</a> score. Additionally, you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a> related to cold and ice, and you can automatically climb at full speed while moving.</p>
 </div>
 </section>

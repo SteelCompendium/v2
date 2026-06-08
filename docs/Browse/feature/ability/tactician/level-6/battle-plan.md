@@ -3,7 +3,7 @@ action_type: Maneuver
 class: tactician
 cost: 9 Focus
 distance: Ranged 10
-effect: Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 [surges](../../../../rule/resource/surge.md).
+effect: Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have [damage immunity](../../../../rule/damage/damage-immunity.md) or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 [surges](../../../../rule/resource/surge.md).
 flavor: With new understanding of your foes, you create the perfect plan to win the battle.
 keywords:
     - Ranged
@@ -35,10 +35,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
+<div class="sc-ability__section-body"><p>Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to make the strike ignore damage immunity and deal extra damage equal to three times your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally makes a <a href="../../../../../rule/combat/strike/">strike</a> against a creature marked by you, you can spend 2 focus to make the <a href="../../../../../rule/combat/strike/">strike</a> ignore <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> and deal extra damage equal to three times your <a href="../../../../../rule/character/reason/">Reason</a> score.</p></div>
 </div>
 </article>

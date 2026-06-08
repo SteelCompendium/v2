@@ -19,11 +19,11 @@ Your mother and father never saw eye to eye. You know this because your father i
 >
 > *Your looks don't kill—they petrify.*
 >
-> | **Magic, Ranged, Strike** |     **Main action** |
+> | **Magic, Ranged, [Strike](../rule/combat/strike.md)** |     **Main action** |
 > |---------------------------|--------------------:|
 > | **📏 Ranged 10**          | **🎯 One creature** |
 >
-> **Power Roll + Might or Presence:**
+> **Power Roll + [Might](../rule/character/might.md) or [Presence](../rule/character/presence.md):**
 >
 > - **≤11:** 2 damage; M < WEAK, [slowed](../condition/slowed.md) (save ends)
 > - **12-16:** 4 damage; M < AVERAGE, [slowed](../condition/slowed.md) (save ends)

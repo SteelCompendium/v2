@@ -43,7 +43,7 @@ If you need a project source for a particular project, ask your Director if the 
 
 ### Project Roll {data-scc="mcdm.heroes.v1/rule.downtime/project-roll"}
 
-As a respite activity (see Respite in Chapter 1: [The Basics](the-basics.md)), you make a project roll for one of your own projects. Alternatively, you can make a project roll to contribute to another hero's project. A project roll is a test with a special outcome that isn't divided into tiers. The characteristic used in the test is determined by the project.
+As a respite activity (see Respite in Chapter 1: [The Basics](the-basics.md)), you make a project roll for one of your own projects. Alternatively, you can make a project roll to contribute to another hero's project. A project roll is a test with a special outcome that isn't divided into tiers. The [characteristic](../../Browse/rule/character/characteristic.md) used in the test is determined by the project.
 
 When you make a project roll, the total—no matter how low—becomes project points that are accrued by the project. Even if you have a penalty on a project roll, the minimum total for the roll is 1. If you obtain a critical success—a natural 19 or 20—on a project roll, this is called a **breakthrough**, and you can make another project roll for the same project as part of the same respite activity.
 
@@ -53,7 +53,7 @@ As you work on a downtime project, the Director can add events that help form th
 
 #### Project Roll Edges and Banes
 
-Since project rolls don't use success tiers, they don't follow the usual rules for double edges and double banes. If you gain an edge on a project roll, you add 2 to the roll, as usual. But if you have a double edge, you add 4 to the roll. Likewise, you subtract 2 from a project roll that takes a bane, and you subtract 4 from a roll that has a double bane.
+Since project rolls don't use success tiers, they don't follow the usual rules for double [edges](../../Browse/rule/dice/edge.md) and double [banes](../../Browse/rule/dice/bane.md). If you gain an [edge](../../Browse/rule/dice/edge.md) on a project roll, you add 2 to the roll, as usual. But if you have a double [edge](../../Browse/rule/dice/edge.md), you add 4 to the roll. Likewise, you subtract 2 from a project roll that takes a [bane](../../Browse/rule/dice/bane.md), and you subtract 4 from a roll that has a double [bane](../../Browse/rule/dice/bane.md).
 
 #### Skills and Project Rolls
 
@@ -61,7 +61,7 @@ You can apply skills from either the crafting or lore skill groups to project ro
 
 #### Language and Project Rolls
 
-If you know the language of a project source, you can make a project roll without any issues. If you don't know the language of the source but you know a related language, the project roll takes a bane. If you don't know the source's language or a related language, the project roll has a double bane.
+If you know the language of a project source, you can make a project roll without any issues. If you don't know the language of the source but you know a related language, the project roll takes a [bane](../../Browse/rule/dice/bane.md). If you don't know the source's language or a related language, the project roll has a double [bane](../../Browse/rule/dice/bane.md).
 
 #### Guides {data-scc="mcdm.heroes.v1/rule.downtime/guide"}
 
@@ -122,7 +122,7 @@ Unless a project has an event table of its own, the Director uses the Crafting a
 
 **Project Source:** Texts or lore in Low Rhyvian
 
-**Project Roll Characteristic:** Might, Reason, or Presence
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Might](../../Browse/rule/character/might.md), [Reason](../../Browse/rule/character/reason.md), or [Presence](../../Browse/rule/character/presence.md)
 
 **Project Goal:** 3,000
 
@@ -130,7 +130,7 @@ When you start this project, you hire a crew of carpenters, mages, and shipwrigh
 
 When the project is completed, you have an airship. You and any creatures you designate can operate the ship by touching the ship's wheel. During combat, a creature touching the wheel can use a maneuver to make the ship move up to 10 squares. The ship can be moved only once per round. Out of combat, the ship has a speed of 130 miles per day.
 
-An airship is an object (giving it damage immunity all to poison and psychic damage) and can take 200 damage before it is destroyed. If the damage the ship takes is not too severe (as the Director determines), as long as you have access to materials that can repair the ship, you can restore it back to its original condition as a respite activity.
+An airship is an object (giving it [damage immunity](../../Browse/rule/damage/damage-immunity.md) all to poison and psychic damage) and can take 200 damage before it is destroyed. If the damage the ship takes is not too severe (as the Director determines), as long as you have access to materials that can repair the ship, you can restore it back to its original condition as a respite activity.
 
 ###### Build or Repair Road Renown Table
 
@@ -146,7 +146,7 @@ An airship is an object (giving it damage immunity all to poison and psychic dam
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Might, Reason, or Presence
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Might](../../Browse/rule/character/might.md), [Reason](../../Browse/rule/character/reason.md), or [Presence](../../Browse/rule/character/presence.md)
 
 **Project Goal:** Varies
 
@@ -156,7 +156,7 @@ The number of project points required to complete work on the road equals 10 x t
 
 When you complete the project, you earn Renown among people in the area where the road is built, depending on the length of the road.
 
-Time spent traveling between locations on the road is cut in half. Access to resources and knowledge is improved in locations along the road, giving you and your allies an edge on project rolls to discover lore while you are in those areas.
+Time spent traveling between locations on the road is cut in half. Access to resources and knowledge is improved in locations along the road, giving you and your allies an [edge](../../Browse/rule/dice/edge.md) on project rolls to discover lore while you are in those areas.
 
 ###### Build or Repair Roads Events Table
 
@@ -179,7 +179,7 @@ Time spent traveling between locations on the road is cut in half. Access to res
 
 **Project Source:** Texts or lore in Voll
 
-**Project Roll Characteristic:** Reason
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Reason](../../Browse/rule/character/reason.md)
 
 **Project Goal:** 1,500
 
@@ -189,7 +189,7 @@ Each time the [teleport](../../Browse/movement/teleport.md)ation platform is use
 
 #### Craft Treasure {data-scc="mcdm.heroes.v1/project/craft-treasure"}
 
-You can craft the items found in Treasures in Chapter 13: [Rewards](rewards.md). Each treasure notes its item prerequisite, project source, project roll characteristic, and project goal.
+You can craft the items found in Treasures in Chapter 13: [Rewards](rewards.md). Each treasure notes its item prerequisite, project source, project roll [characteristic](../../Browse/rule/character/characteristic.md), and project goal.
 
 #### Find a Cure {data-scc="mcdm.heroes.v1/project/find-a-cure"}
 
@@ -197,7 +197,7 @@ You can craft the items found in Treasures in Chapter 13: [Rewards](rewards.md).
 
 **Project Source:** None
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Reason](../../Browse/rule/character/reason.md) or [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** Varies
 
@@ -233,36 +233,36 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Might](../../Browse/rule/character/might.md), [Reason](../../Browse/rule/character/reason.md), or [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** 150
 
-**Awe:** When you start this project, choose either Charming or Threatening. If you choose Charming, you gain an edge on Presence tests made to win other creatures over or make a good impression. If you choose Threatening, you gain an edge on Presence tests made to intimidate, coerce, or bully.
+**Awe:** When you start this project, choose either Charming or Threatening. If you choose Charming, you gain an [edge](../../Browse/rule/dice/edge.md) on [Presence](../../Browse/rule/character/presence.md) tests made to win other creatures over or make a good impression. If you choose Threatening, you gain an [edge](../../Browse/rule/dice/edge.md) on [Presence](../../Browse/rule/character/presence.md) tests made to intimidate, coerce, or bully.
 
-**Damage Immunity I:** When you start this project, select three damage types. You have immunity 5 to those damage types.
+**[Damage Immunity](../../Browse/rule/damage/damage-immunity.md) I:** When you start this project, select three [damage types](../../Browse/rule/damage/damage-type.md). You have immunity 5 to those [damage types](../../Browse/rule/damage/damage-type.md).
 
 **Disguise:** You can use a maneuver to cause this armor to take the form of any type of clothing that you have been in the presence of—a noble's dress, a guard's uniform, a cultist's robes, and so forth. The armor loses none of its protective qualities while transformed into other clothing.
 
 **Iridescent:** When you are the sole target of an ability, you can use a free triggered action to reveal that the ability was targeting an afterimage of you in the same space as you. The power roll for the ability is treated as an 11. You can't use this enhancement again until you earn 1 or more Victories.
 
-**Magic Resistance I:** Your characteristic scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the potencies of magic abilities.
+**Magic Resistance I:** Your [characteristic](../../Browse/rule/character/characteristic.md) scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the potencies of magic abilities.
 
 **Nettlebloom:** Whenever you are [grabbed](../../Browse/condition/grabbed.md) by an adjacent creature, your armor sprouts toxic nettles. While that creature has you [grabbed](../../Browse/condition/grabbed.md), they are [weakened](../../Browse/condition/weakened.md).
 
 **Phasing I:** Once per turn, you can move through 1 square of solid matter. If you end your turn inside solid matter, you are forced out into the space from which you entered it and you take 5 damage that can't be reduced in any way.
 
-**Psionic Resistance I:** Your characteristic scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the potencies of psionic abilities.
+**Psionic Resistance I:** Your [characteristic](../../Browse/rule/character/characteristic.md) scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the potencies of psionic abilities.
 
 **Swift:** You gain a +1 bonus to speed.
 
-**Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an adjacent creature deals damage to you before the end of your next turn, they take lightning damage equal to your highest characteristic score and you can push them 1 square.
+**Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an adjacent creature deals damage to you before the end of your next turn, they take lightning damage equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score and you can push them 1 square.
 
 ###### 1st-Level Armor Enhancements Table
 
 | Enhancement          | Item Prerequisite                                                                                | Project Source Language |
 |----------------------|--------------------------------------------------------------------------------------------------|-------------------------|
 | Awe                  | A lock of hair from a fey, taken in amicable bargain for Charming or in violence for Threatening | Khelt                   |
-| Damage Immunity I    | Elemental sand left behind when an elemental enters Orden from Quintessence                      | Zaliac                  |
+| [Damage Immunity](../../Browse/rule/damage/damage-immunity.md) I    | Elemental sand left behind when an elemental enters Orden from Quintessence                      | Zaliac                  |
 | Disguise             | The blood of a lycanthrope                                                                       | Khelt                   |
 | Iridescent           | Fur from a lightbender                                                                           | Hyrallic                |
 | Magic Resistance I   | A scale from a dragon                                                                            | The First Language      |
@@ -278,19 +278,19 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Might](../../Browse/rule/character/might.md), [Reason](../../Browse/rule/character/reason.md), or [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** 150
 
 **Absorption:** Whenever you are targeted by a magic or psionic ability that targets only one creature, you can use a free triggered action to cause this armor to absorb the ability after the ability's effects resolve. While the armor has an ability absorbed, you can't absorb another.
 
-You can use an absorbed ability as if you knew it, making power rolls for the ability using your choice of Reason, Intuition, or Presence. You don't need to spend any [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) to activate the ability. Once you use the ability, the armor loses it, and you can absorb another.
+You can use an absorbed ability as if you knew it, making power rolls for the ability using your choice of [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md). You don't need to spend any [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) to activate the ability. Once you use the ability, the armor loses it, and you can absorb another.
 
-**Damage Immunity II:** The damage immunity conveyed by the armor increases to 10.
+**[Damage Immunity](../../Browse/rule/damage/damage-immunity.md) II:** The [damage immunity](../../Browse/rule/damage/damage-immunity.md) conveyed by the armor increases to 10.
 
 **Dragon Soul:** When another creature causes you to be [winded](../../Browse/rule/health/winded.md) or [dying](../../Browse/rule/health/dying.md), you can use a free triggered action to cause the soul of a dragon to emerge from this armor and hurtle toward the creature. Make the following power roll against the creature.
 
-**Power Roll + Your Highest Characteristic Score:**
+**Power Roll + Your Highest [Characteristic](../../Browse/rule/character/characteristic.md) Score:**
 
 - **≤11:** 8 damage; push 3
 - **12-16:** 12 damage; push 4
@@ -298,13 +298,13 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Levitating:** On your turn, you can treat up to 5 consecutive squares of movement as [flying](../../Browse/movement/fly.md) movement. If you are still in midair at the end of your turn, you [fall prone](../../Browse/condition/prone.md).
 
-**Magic Resistance II:** Your characteristic scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of magic abilities. This benefit replaces Magic Resistance I.
+**Magic Resistance II:** Your [characteristic](../../Browse/rule/character/characteristic.md) scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of magic abilities. This benefit replaces Magic Resistance I.
 
 **Phasing II:** When you use the armor's Phasing I enhancement, you can move through 3 squares of solid matter per turn.
 
-**Psionic Resistance II:** Your characteristic scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of psionic abilities. This benefit replaces Psionic Resistance I.
+**Psionic Resistance II:** Your [characteristic](../../Browse/rule/character/characteristic.md) scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of psionic abilities. This benefit replaces Psionic Resistance I.
 
-**Reactive:** Whenever you take damage, you have damage immunity 2 until the end of your next turn after the triggering damage is resolved.
+**Reactive:** Whenever you take damage, you have [damage immunity](../../Browse/rule/damage/damage-immunity.md) 2 until the end of your next turn after the triggering damage is resolved.
 
 **Second Wind:** Whenever you become [winded](../../Browse/rule/health/winded.md), you can use a free triggered action to spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
@@ -317,7 +317,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 | Enhancement           | Item Prerequisite                                                                 | Project Source Language |
 |-----------------------|-----------------------------------------------------------------------------------|-------------------------|
 | Absorption            | A mirror blessed by a priest of a god of magic                                    | The First Language      |
-| Damage Immunity II    | The essence of an elemental who is still alive                                    | Zaliac                  |
+| [Damage Immunity](../../Browse/rule/damage/damage-immunity.md) II    | The essence of an elemental who is still alive                                    | Zaliac                  |
 | Dragon Soul           | A scale from a dead dragon                                                        | Vastariax               |
 | Levitating            | A palm-sized crystal grown in the subterranean lair of an overmind                | Zaliac                  |
 | Magic Resistance II   | A scale from a mature dragon                                                      | The First Language      |
@@ -334,11 +334,11 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Might](../../Browse/rule/character/might.md), [Reason](../../Browse/rule/character/reason.md), or [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** 150
 
-**Devil's Bargain:** You can [fly](../../Browse/movement/fly.md). Additionally, if an effect would make you [prone](../../Browse/condition/prone.md) while [flying](../../Browse/movement/fly.md), you can choose to not make you [prone](../../Browse/condition/prone.md) by losing [Stamina](../../Browse/rule/health/stamina.md) equal to the distance you would have fallen from make you [prone](../../Browse/condition/prone.md).
+**Devil's Bargain:** You can [fly](../../Browse/movement/fly.md). Additionally, if an effect would make you [prone](../../Browse/condition/prone.md) while [flying](../../Browse/movement/fly.md), you can choose to not make you [prone](../../Browse/condition/prone.md) by losing [Stamina](../../Browse/rule/health/stamina.md) equal to the [distance](../../Browse/rule/combat/distance.md) you would have fallen from make you [prone](../../Browse/condition/prone.md).
 
 **Dragon Soul II:** While you are [winded](../../Browse/rule/health/winded.md), your head transforms into a dragon's head and you have the following ability.
 
@@ -350,7 +350,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + Your Highest Characteristic Score:**
+**Power Roll + Your Highest [Characteristic](../../Browse/rule/character/characteristic.md) Score:**
 
 - **≤11:** 5 fire damage
 - **12-16:** 8 fire damage
@@ -358,7 +358,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Invulnerable:** When an ability roll made against you obtains a tier 1 outcome, you can ignore its damage and effects.
 
-**Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead [teleport](../../Browse/movement/teleport.md) that distance.
+**Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead [teleport](../../Browse/movement/teleport.md) that [distance](../../Browse/rule/combat/distance.md).
 
 **Life:** Whenever you would die, you can spend a [Recovery](../../Browse/rule/health/recoveries.md) to regain [Stamina](../../Browse/rule/health/stamina.md) instead. If you have no [Recoveries](../../Browse/rule/health/recoveries.md) to spend, you die.
 
@@ -401,25 +401,25 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Agility, Reason, or Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Agility](../../Browse/rule/character/agility.md), [Reason](../../Browse/rule/character/reason.md), or [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** 150
 
-**Berserking:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature must make an opportunity attack against their nearest ally if possible after the ability's effects resolve. This strike deals extra damage equal to the highest of your Reason, Intuition, or Presence scores.
+**Berserking:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature must make an opportunity attack against their nearest ally if possible after the ability's effects resolve. This [strike](../../Browse/rule/combat/strike.md) deals extra damage equal to the highest of your [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md) scores.
 
 **Displacing I:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, you can [teleport](../../Browse/movement/teleport.md) that creature up to 2 squares after the ability's effects resolve. If the creature started on a horizontal surface, they must end on a horizontal surface.
 
-**Elemental:** Whenever you use an ability with the Air, Earth, Fire, Green, Rot, Void, or Water keyword, you can attune this implement to that element until the end of the encounter. While the implement is attuned, you gain an edge on power rolls with that elemental keyword. The implement can be attuned to only one element at a time.
+**Elemental:** Whenever you use an ability with the Air, Earth, Fire, Green, Rot, Void, or Water keyword, you can attune this implement to that element until the end of the encounter. While the implement is attuned, you gain an [edge](../../Browse/rule/dice/edge.md) on power rolls with that elemental keyword. The implement can be attuned to only one element at a time.
 
 **Forceful I:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 2 squares.
 
-**Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically climb at full speed while moving, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
+**Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically climb at full speed while moving, your [size](../../Browse/rule/character/size.md) is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your [Might](../../Browse/rule/character/might.md) is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
 
 **Rejuvenating I:** Whenever you use an ability that costs 1 or more of your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), roll a d10. On a 9 or higher, you gain 1 [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
-**Seeking:** Your ranged magic or psionic abilities gain a +2 distance bonus. Additionally, if you think the name of a specific creature, place, or object to the implement, the implement points toward that target, provided you are on the same world.
+**Seeking:** Your ranged magic or psionic abilities gain a +2 [distance](../../Browse/rule/combat/distance.md) bonus. Additionally, if you think the name of a specific creature, place, or object to the implement, the implement points toward that target, provided you are on the same world.
 
-**Thought Sending:** Your ranged magic and psionic abilities gain a +2 distance bonus. Additionally, you can telepathically communicate with any willing creature who knows a language and whose name you know, provided they are on the same world as you. You must initiate the conversation, but once you do, the creature can respond until you end the conversation.
+**Thought Sending:** Your ranged magic and psionic abilities gain a +2 [distance](../../Browse/rule/combat/distance.md) bonus. Additionally, you can telepathically communicate with any willing creature who knows a language and whose name you know, provided they are on the same world as you. You must initiate the conversation, but once you do, the creature can respond until you end the conversation.
 
 **Warding I:** You gain a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md).
 
@@ -443,7 +443,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Agility, Reason, or Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Agility](../../Browse/rule/character/agility.md), [Reason](../../Browse/rule/character/reason.md), or [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** 150
 
@@ -451,7 +451,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Celestine:** As a main action, you conjure up to three stars, which [hover](../../Browse/movement/hover.md) in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have line of effect to the enemy, you can also slide them 1 square. Otherwise, the enemy slides 1 square in a random direction.
 
-**Displacing II:** When you use the implement's Displacing I enhancement, you can [teleport](../../Browse/movement/teleport.md) the creature up to 4 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
+**Displacing II:** When you use the implement's Displacing I enhancement, you can [teleport](../../Browse/movement/teleport.md) the creature up to 4 squares. Additionally, the creature takes a [bane](../../Browse/rule/dice/bane.md) on their next power roll made before the end of their next turn.
 
 **Erupting I:** Whenever you damage a creature using a magic or psionic ability that targets only a single creature and obtain a tier 3 outcome, each enemy within 2 squares of the creature takes 3 fire damage after the ability's effects resolve.
 
@@ -463,7 +463,7 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Rejuvenating II:** Whenever you use an ability that costs 1 or more of your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), roll a d10. On an 8 or higher, you gain 1 [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) and you can spend a [Recovery](../../Browse/rule/health/recoveries.md). This replaces the benefit of Rejuvenating I.
 
-**Warding II:** The [Stamina](../../Browse/rule/health/stamina.md) bonus for the Warding I enhancement becomes +12. Additionally, your characteristic scores are treated as 1 higher for the purpose of resisting potencies.
+**Warding II:** The [Stamina](../../Browse/rule/health/stamina.md) bonus for the Warding I enhancement becomes +12. Additionally, your [characteristic](../../Browse/rule/character/characteristic.md) scores are treated as 1 higher for the purpose of resisting potencies.
 
 ###### 5th-Level Implement Enhancements Table
 
@@ -485,13 +485,13 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Agility, Reason, or Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Agility](../../Browse/rule/character/agility.md), [Reason](../../Browse/rule/character/reason.md), or [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** 150
 
 **Anathema:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature is also [weakened](../../Browse/condition/weakened.md) (save ends). If the creature is within 10 squares when this [weakened](../../Browse/condition/weakened.md) effect ends, you can use a free triggered action to make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them.
 
-**Displacing III:** When you use the implement's Displacing I enhancement, you can [teleport](../../Browse/movement/teleport.md) the creature up to 5 squares. Additionally, the creature takes a bane on their next power roll made before the end of their next turn.
+**Displacing III:** When you use the implement's Displacing I enhancement, you can [teleport](../../Browse/movement/teleport.md) the creature up to 5 squares. Additionally, the creature takes a [bane](../../Browse/rule/dice/bane.md) on their next power roll made before the end of their next turn.
 
 **Erupting II:** The fire damage dealt by the implement's Erupting I enhancement increases to 6.
 
@@ -501,11 +501,11 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Piercing:** Your magic and psionic abilities ignore damage immunities.
 
-**Psionic Siphon:** Once per turn when you damage one or more creatures using a magic or psionic ability and obtain a tier 3 outcome, you gain [Stamina](../../Browse/rule/health/stamina.md) equal to your highest characteristic score, and one creature you damage takes an extra 5 damage.
+**Psionic Siphon:** Once per turn when you damage one or more creatures using a magic or psionic ability and obtain a tier 3 outcome, you gain [Stamina](../../Browse/rule/health/stamina.md) equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score, and one creature you damage takes an extra 5 damage.
 
 **Rejuvenating III:** Whenever you use an ability that costs 1 or more of your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), roll a d10. On a 7 or higher, you gain 1 [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), and you or a creature of your choice within 3 squares can spend a [Recovery](../../Browse/rule/health/recoveries.md). This replaces the benefit of Rejuvenating II.
 
-**Warding III:** The [Stamina](../../Browse/rule/health/stamina.md) bonus for the Warding I enhancement becomes +18. Additionally, you and each ally within 3 squares of you has their characteristic scores treated as 1 higher for the purpose of resisting potencies. This replaces the benefit of Warding II.
+**Warding III:** The [Stamina](../../Browse/rule/health/stamina.md) bonus for the Warding I enhancement becomes +18. Additionally, you and each ally within 3 squares of you has their [characteristic](../../Browse/rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting potencies. This replaces the benefit of Warding II.
 
 ###### 9th-Level Implement Enhancements Table
 
@@ -527,7 +527,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 ###### Unarmed Strike Treasures
 
-A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../../Browse/kit/martial-artist.md) and [Pugilist](../../Browse/kit/pugilist.md) kit, can create leveled weapon treasures that enhance their unarmed strikes by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../../Browse/class/elementalist.md) and [nulls](../../Browse/class/null.md), can also benefit from such treasures.
+A hero who has a kit that uses unarmed [strikes](../../Browse/rule/combat/strike.md), such as the [Martial Artist](../../Browse/kit/martial-artist.md) and [Pugilist](../../Browse/kit/pugilist.md) kit, can create leveled weapon treasures that enhance their unarmed [strikes](../../Browse/rule/combat/strike.md) by imbuing hand wraps, rings, shoes, or any other item worn on the body with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../../Browse/class/elementalist.md) and [nulls](../../Browse/class/null.md), can also benefit from such treasures.
 
 ###### 1st-Level Weapon Enhancement
 
@@ -535,7 +535,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Might](../../Browse/rule/character/might.md), [Reason](../../Browse/rule/character/reason.md), or [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** 150
 
@@ -545,7 +545,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Disrupting I:** Whenever you damage an undead using this weapon and leave that undead with 15 [Stamina](../../Browse/rule/health/stamina.md) or less, they drop to 0 [Stamina](../../Browse/rule/health/stamina.md).
 
-**Hurling:** Whenever you use a melee ability using this weapon, you can throw the weapon by treating the ability's distance as ranged 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md) conditions.
+**Hurling:** Whenever you use a melee ability using this weapon, you can throw the weapon by treating the ability's [distance](../../Browse/rule/combat/distance.md) as ranged 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md) conditions.
 
 **Merciful:** Whenever you reduce a non-undead creature to 0 [Stamina](../../Browse/rule/health/stamina.md) using this weapon, the creature falls unconscious and wakes up 1d6 hours later. A creature with the Heal skill can wake the unconscious creature early with 1 uninterrupted minute of medical treatment. Whenever the creature wakes, they regain 1 [Stamina](../../Browse/rule/health/stamina.md).
 
@@ -577,7 +577,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Might](../../Browse/rule/character/might.md), [Reason](../../Browse/rule/character/reason.md), or [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** 150
 
@@ -588,7 +588,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 >
 > *Their momentum, your impact.*
 >
-> | **Melee, Strike, Weapon** | **Free triggered** |
+> | **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** | **Free triggered** |
 > |---------------------------|-------------------:|
 > | **📏 Melee 1**            |   **🎯 One enemy** |
 >
@@ -605,7 +605,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 > **Metamorphic:** You can change this weapon's shape and form as a maneuver, granting one of the following benefits of your choice:
 >
 > - **Concealed:** The weapon shrinks to the size of a piece of jewelry and can be worn as an earring, necklace, or similar accessory. While in this form, the weapon can't be used for weapon abilities.
-> - **Large:** Abilities using this weapon gain a +1 melee distance bonus or a +3 ranged distance bonus.
+> - **Large:** Abilities using this weapon gain a +1 melee [distance](../../Browse/rule/combat/distance.md) bonus or a +3 ranged [distance](../../Browse/rule/combat/distance.md) bonus.
 > - **Vicious:** Whenever you damage a creature using this weapon, you deal an extra 1 damage on a tier 1 outcome, an extra 2 damage on a tier 2 outcome, and an extra 3 damage on a tier 3 outcome.
 >
 > **Silencing:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature also can't use magic abilities until the end of their next turn.
@@ -636,7 +636,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Might](../../Browse/rule/character/might.md), [Reason](../../Browse/rule/character/reason.md), or [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** 150
 
@@ -659,7 +659,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 > |-----------------|------------------------------:|
 > | **📏 3 burst**  | **🎯 Each enemy in the area** |
 >
-> **Power Roll + Your Highest Characteristic Score:**
+> **Power Roll + Your Highest [Characteristic](../../Browse/rule/character/characteristic.md) Score:**
 >
 > - **≤11:** 7 fire damage
 > - **12-16:** 11 fire damage
@@ -671,7 +671,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 >
 > **Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last turn, the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
 >
-> **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a bane on the ability to target each enemy in a cube 3 within distance. If your signature ability would usually cause its target to become [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md), each target in the area is instead [slowed](../../Browse/condition/slowed.md) until the end of their next turn.
+> **Windcutting:** Whenever you use a melee signature ability that usually targets one creature, you can take a [bane](../../Browse/rule/dice/bane.md) on the ability to target each enemy in a cube 3 within [distance](../../Browse/rule/combat/distance.md). If your signature ability would usually cause its target to become [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md), each target in the area is instead [slowed](../../Browse/condition/slowed.md) until the end of their next turn.
 
 ###### 9th-Level Weapon Enhancements
 
@@ -699,7 +699,7 @@ Unless a project has an event table of its own or a special event entry, the Dir
 
 **Project Source:** Texts or knowledge related to the subject you wish to research
 
-**Project Roll Characteristic:** Reason
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Reason](../../Browse/rule/character/reason.md)
 
 **Project Goal:** Varies (see the table)
 
@@ -744,7 +744,7 @@ Forbidden knowledge is lore that a powerful individual or organization is attemp
 | 11-12  | Before the roll, a powerful supernatural entity sends an agent or premonition to the hero, offering them knowledge that will let them complete the project immediately. In exchange, the hero must agree to do a favor for the entity, which might not be specified at the time of the bargain.                                                                                                                                                                                                                 |
 | 13-14  | Before the roll, a rumor arises that the project is being worked on in service to an evil entity. People start showing up to the hero's place of respite, demanding that they repent their wicked ways. If the rumors aren't disproved, locals form a mob to stop the project.                                                                                                                                                                                                                                  |
 | 15-16  | Before the roll, the hero's rival comes to visit and shows off a guide for the project. The rival is willing to hand the guide over... provided the hero publicly humiliates themself by proclaiming that the rival is their better.                                                                                                                                                                                                                                                                             |
-| 17-18  | The project source is cursed. Before the roll, the hero must succeed on a hard Intuition test or become obsessed with the project. Until the project is complete, the hero can't use Victories to increase their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md). The curse can be broken by slaying the creature who bestowed it, or by finding a priest to perform a holy ritual over the project source.                                                                                                                                     |
+| 17-18  | The project source is cursed. Before the roll, the hero must succeed on a hard [Intuition](../../Browse/rule/character/intuition.md) test or become obsessed with the project. Until the project is complete, the hero can't use Victories to increase their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md). The curse can be broken by slaying the creature who bestowed it, or by finding a priest to perform a holy ritual over the project source.                                                                                                                                     |
 | 19-20  | Before the roll, the hero finds that a significant amount of the project has been completed by a group of fairies. The fairies might have completed the job out of boredom, or they might want something from the hero in return.                                                                                                                                                                                                                                                                               |
 | 21-22  | After the roll, the hero realizes that the project source contains only half the information they need, and they must find the rest of the information to complete the project.                                                                                                                                                                                                                                                                                                                                 |
 | 23-24  | After the roll, the hero discovers a new bit of knowledge or a technique that allows them to immediately start and finish a second project with a project goal of 50 or lower.                                                                                                                                                                                                                                                                                                                                  |
@@ -783,7 +783,7 @@ Forbidden knowledge is lore that a powerful individual or organization is attemp
 | 89-90  | After the roll, the hero completes their work on the project earlier than expected, and can either relax or go carousing with other heroes who are free. The hero and every character who joins them starts the next encounter with 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).                                                                                                                                                                                                                                                       |
 | 91-92  | Before the roll, the hero is approached by a wagoneer who needs help fixing their wagon. If the hero helps, they find out that the wagoneer is allied with the campaign's villain. If the hero doesn't attack or threaten the wagoneer, then in some future combat, an NPC of the Director's choice turns out to be a friend or relative of the wagoneer. They leave the battle peacefully when they recognize the hero.                                                                                        |
 | 93-94  | After the roll, the project source and any evidence of the project disappear into thin air. Any investigation of the area turns up footprints fleeing the scene and traces of gnoll hair.                                                                                                                                                                                                                                                                                                                       |
-| 95-96  | After the roll, the hero suddenly no longer understands or comprehends the project source after focusing on those materials for too long. If they continue with the project, they take a bane on its project rolls for the next two respites. If they leave the project alone for the next two respites, they'll be able to comprehend the research again, gaining an automatic breakthrough before the next project roll.                                                                                      |
+| 95-96  | After the roll, the hero suddenly no longer understands or comprehends the project source after focusing on those materials for too long. If they continue with the project, they take a [bane](../../Browse/rule/dice/bane.md) on its project rolls for the next two respites. If they leave the project alone for the next two respites, they'll be able to comprehend the research again, gaining an automatic breakthrough before the next project roll.                                                                                      |
 | 97-98  | Before the roll, part of the hero's project source or other materials shrinks and is pulled through a mousehole. A group of radenwights sent magical mice to steal the resources so they can finish their own project. The radenwights are willing to negotiate if the hero doesn't approach them aggressively.                                                                                                                                                                                                 |
 | 99-100 | Before the roll, an elemental springs forth from the project source and pulls the hero into a duel. If the hero can survive 3 rounds of combat with the elemental on their own, the elemental vanishes and leaves behind a completed project. If the hero flees, falls unconscious, or gets help from an ally, the elemental destroys the project source as they disappear.                                                                                                                                     |
 
@@ -793,7 +793,7 @@ Forbidden knowledge is lore that a powerful individual or organization is attemp
 
 **Project Source:** None
 
-**Project Roll Characteristic:** Intuition or Presence
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Intuition](../../Browse/rule/character/intuition.md) or [Presence](../../Browse/rule/character/presence.md)
 
 **Project Goal:** 15
 
@@ -828,11 +828,11 @@ Additionally, while you work to complete this project, you might be called upon 
 
 **Project Source:** None
 
-**Project Roll Characteristic:** Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** 240 if your career granted you two skills, or 360 if your career granted you three skills
 
-You revisit your previous life to freshen up on the experience it provided you. When this project is complete, you gain an edge on tests made using the skills provided by your career.
+You revisit your previous life to freshen up on the experience it provided you. When this project is complete, you gain an [edge](../../Browse/rule/dice/edge.md) on tests made using the skills provided by your career.
 
 #### Learn From a Master {data-scc="mcdm.heroes.v1/project/learn-from-a-master"}
 
@@ -840,7 +840,7 @@ You revisit your previous life to freshen up on the experience it provided you. 
 
 **Project Source:** An NPC of a higher level, or records of such an NPC's teachings in a language you know
 
-**Project Roll Characteristic:** Your highest characteristic
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** Your highest [characteristic](../../Browse/rule/character/characteristic.md)
 
 **Project Goal:** Varies
 
@@ -875,7 +875,7 @@ You gain one signature ability of your choice from the master's class (gaining a
 
 ##### Hone Ability
 
-You sharpen the effectiveness of one of your abilities of your choice. Choose between adding a +1/+1/+1 damage bonus to the ability, or improving the distance of a ranged ability by 2. An ability can be honed only once this way.
+You sharpen the effectiveness of one of your abilities of your choice. Choose between adding a +1/+1/+1 damage bonus to the ability, or improving the [distance](../../Browse/rule/combat/distance.md) of a ranged ability by 2. An ability can be honed only once this way.
 
 ##### Improve Control
 
@@ -887,7 +887,7 @@ You learn to use one of your heroic abilities more efficiently, reducing its bas
 
 **Project Source:** Texts or instruction that teaches the language you want to learn
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Reason](../../Browse/rule/character/reason.md) or [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** 120
 
@@ -899,7 +899,7 @@ When you start this project, choose a language taught by the project source. Whe
 
 **Project Source:** Texts or instruction that teaches the skill you want to learn
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Reason](../../Browse/rule/character/reason.md) or [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** 120
 
@@ -911,7 +911,7 @@ When you start this project, choose a skill taught by the project source. When t
 
 **Project Source:** A recipe in a language you know, or someone who can tutor you in that recipe
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Reason](../../Browse/rule/character/reason.md) or [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** 100
 
@@ -923,7 +923,7 @@ A creature who eats a serving of food from a particular type of recipe gains one
 
 - **Comforting:** When the creature fails a saving throw, they can choose to succeed instead. This benefit then ends.
 - **Hearty:** The creature increases their [Recoveries](../../Browse/rule/health/recoveries.md) by 1 at the end of the respite in which the food is consumed.
-- **Supernatural Power:** The creature temporarily increases one of their characteristic scores by 1 (to a maximum of 6).
+- **Supernatural Power:** The creature temporarily increases one of their [characteristic](../../Browse/rule/character/characteristic.md) scores by 1 (to a maximum of 6).
 
 A creature can benefit from the food of only one recipe at a time, and can't benefit from more than one serving of a recipe at a time.
 
@@ -945,13 +945,13 @@ Not all heroes want to craft or research during their time between adventures. S
 
 **Project Source:** None
 
-**Project Roll Characteristic:** Varies
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** Varies
 
 **Project Goal:** 75
 
 When you start this project, you must be in a settlement or other location where people gather, and you must be in that same place each time you make a project roll for the project. You can undertake several Community Service projects at the same time, but each one must be in a different community.
 
-While undertaking this project, you provide help to people in need, doing odd jobs, tutoring life skills, cleaning streets or public spaces, finding lost valuables, and the like. The Director determines the characteristic that applies to the project roll based on the activities you undertake. When you complete this project, you receive a random consumable treasure of the Director's choice from someone in the community as thanks for your hard work.
+While undertaking this project, you provide help to people in need, doing odd jobs, tutoring life skills, cleaning streets or public spaces, finding lost valuables, and the like. The Director determines the [characteristic](../../Browse/rule/character/characteristic.md) that applies to the project roll based on the activities you undertake. When you complete this project, you receive a random consumable treasure of the Director's choice from someone in the community as thanks for your hard work.
 
 ###### Community Service Events Table
 
@@ -961,10 +961,10 @@ While undertaking this project, you provide help to people in need, doing odd jo
 | 2   | Before the roll, a mysterious force hinders the work in an unfortunate way, with tools going missing, tutoring materials vanishing, cleaning supplies turning up already filthy, and so forth. The hero can't continue the project until the culprit—a maligned [devil](../../Browse/ancestry/devil.md) or spirit connected to the hero's past—is identified and dealt with.                                                                                       |
 | 3   | Before the roll, the community is so excited by the project that they join in to lend a hand. The project gains an automatic breakthrough.                                                                                                                                                                                                                                                                                       |
 | 4   | Before the roll, a sympathetic NPC—perhaps a friend or ally from the community or from the hero's past—offers to assist with the project. The hero gains a +3 bonus to the project roll.                                                                                                                                                                                                                                         |
-| 5   | Before the roll, work on the project unearths a previously lost detail of the community—a lost or hidden section of a settlement, a surprising historical detail, a secret regarding a prominent local, and so forth. The locals take a keen interest in the development, but the revelation threatens to tear the community apart. If the character can't take steps to undo this strife, they take a bane on the project roll. |
+| 5   | Before the roll, work on the project unearths a previously lost detail of the community—a lost or hidden section of a settlement, a surprising historical detail, a secret regarding a prominent local, and so forth. The locals take a keen interest in the development, but the revelation threatens to tear the community apart. If the character can't take steps to undo this strife, they take a [bane](../../Browse/rule/dice/bane.md) on the project roll. |
 | 6   | After the roll, a seemingly benign action taken by the hero curses them with bad luck. Until they break the curse, all project rolls they make are halved.                                                                                                                                                                                                                                                                       |
 | 7   | After the roll, a saint blesses the hero's work. The hero feels supernaturally rejuvenated, increasing their [Recoveries](../../Browse/rule/health/recoveries.md) by 1 until the end of their next respite. If the character is a [conduit](../../Browse/class/conduit.md), they also gain an automatic breakthrough on the project.                                                                                                                                                                        |
-| 8   | Before the roll, the hero becomes aware of a previously unknown radenwight warren within the community, which has the potential to become a point of tension and conflict. The hero must engage with the radenwights and other locals to create understanding between the two communities or take a bane on the project roll.                                                                                                    |
+| 8   | Before the roll, the hero becomes aware of a previously unknown radenwight warren within the community, which has the potential to become a point of tension and conflict. The hero must engage with the radenwights and other locals to create understanding between the two communities or take a [bane](../../Browse/rule/dice/bane.md) on the project roll.                                                                                                    |
 | 9   | Before the roll, a local malcontent has turned their focus on the hero and roused the people against them. The hero must either contend with angry locals preventing them from resting (losing the usual benefit of the respite) or find the malcontent and win them over before proceeding.                                                                                                                                     | 
 | 10  | Before the roll, a thief, assassin, or other criminal offers to assist the hero. They can offer 50 points toward the completion of the project, as long as the hero looks the other way if they ever cross paths again.                                                                                                                                                                                                          |
 
@@ -974,7 +974,7 @@ While undertaking this project, you provide help to people in need, doing odd jo
 
 **Project Source:** None
 
-**Project Roll Characteristic:** Agility, Reason, or Intuition
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Agility](../../Browse/rule/character/agility.md), [Reason](../../Browse/rule/character/reason.md), or [Intuition](../../Browse/rule/character/intuition.md)
 
 **Project Goal:** Varies
 
@@ -991,7 +991,7 @@ Whether for sustenance, relaxation, or bragging rights, you've gone fishing, pro
 |-------------------------|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hearty meal (1 serving) | 50   | A creature who eats a serving of a meal prepared with the fish caught during the project increases their [Recoveries](../../Browse/rule/health/recoveries.md) by 1 until the end of their next respite. A creature can benefit from only one serving of this meal or another like it (such as from the Perfect New Recipe project) at a time.                                                                                                       |
 | Great meal (1 serving)  | 100  | A creature who eats a serving of a meal prepared with the fish caught during the project increases their [Recoveries](../../Browse/rule/health/recoveries.md) by 1 until the end of their next respite, and gains 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) that lasts until the end of their next respite if it isn't lost first. A creature can benefit only from one serving of this meal or another like it (such as from the Perfect New Recipe project) at a time. |
-| Better tackle           | 120  | You gain the following title and benefit. <br/>**Angler:** You gain an edge on Fishing project rolls.                                                                                                                                                                                                                                                                                                     |
+| Better tackle           | 120  | You gain the following title and benefit. <br/>**Angler:** You gain an [edge](../../Browse/rule/dice/edge.md) on Fishing project rolls.                                                                                                                                                                                                                                                                                                     |
 | Fishing event           | 200  | You roll on the Fishing Events table.                                                                                                                                                                                                                                                                                                                                                                     |
 | Legendary fisher        | 300  | You gain the following title and benefit. <br/>**Goldenrod:** Each time you undertake the Fishing project, you can reroll one project roll.                                                                                                                                                                                                                                                               |
 
@@ -1004,10 +1004,10 @@ Whether for sustenance, relaxation, or bragging rights, you've gone fishing, pro
 | 3   | While the hero is fishing, passersby inform them of a rumor of a magic fishing rod that allows the fisher to double the size of the fish they reel in. The Director can decide whether the rumor is true, and if so, where the rod might be found.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | 4   | While fishing, the hero reels in an **angulotl daybringer** (see *Draw Steel:  Monsters*). The angulotl is insulted by the hero catching them, and threatens to summon heavy thunderstorms and drown the region in a flood. However, they can be negotiated with, and might provide the hero with one serving of an amazing meal if they stay on good terms. A creature who eats a serving of this meal increases their [Recoveries](../../Browse/rule/health/recoveries.md) by 1 until the end of their next respite, and gains 25 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) that lasts until the end of their next respite if it isn't lost first. A creature can benefit only from one serving of this meal or another like it (such as from the Perfect New Recipe project) at a time. |
 | 5   | While fishing, the hero reels in half of a mysterious ancient treasure of the Director's choice. If the other half is found, both halves magically meld together to restore the treasure.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 6   | While fishing, the hero is energized by fond memories of their life up to that point. They gain an edge on Presence tests until the end of their next respite.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 7   | The hero reaches a new fishing milestone, gaining the following title and benefit.<br/>**Master of Reels:** Whenever you deal damage to a target who is 2 or more squares away from you and that target isn't also [force moved](../../Browse/movement/forced-movement.md), you can pull the target a number of squares equal to your Agility, Reason, or Intuition score (your choice).                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 6   | While fishing, the hero is energized by fond memories of their life up to that point. They gain an [edge](../../Browse/rule/dice/edge.md) on [Presence](../../Browse/rule/character/presence.md) tests until the end of their next respite.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 7   | The hero reaches a new fishing milestone, gaining the following title and benefit.<br/>**Master of Reels:** Whenever you deal damage to a target who is 2 or more squares away from you and that target isn't also [force moved](../../Browse/movement/forced-movement.md), you can pull the target a number of squares equal to your [Agility](../../Browse/rule/character/agility.md), [Reason](../../Browse/rule/character/reason.md), or [Intuition](../../Browse/rule/character/intuition.md) score (your choice).                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | 8   | While fishing, the hero engages in relaxing meditation that grants an automatic breakthrough on another project they're working on. Alternatively, they gain insight that grants an automatic breakthrough on another hero's project of their choice.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 9   | While fishing, the hero is pulled into the water by an ancient fish and must make a hard Might test. On a success, the hero reels in a humongous fish worth 100 points. On a failure, they end the current respite with 1 fewer [Recoveries](../../Browse/rule/health/recoveries.md) than usual. On a success with a complication, the hero obtains both outcomes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 9   | While fishing, the hero is pulled into the water by an ancient fish and must make a hard [Might](../../Browse/rule/character/might.md) test. On a success, the hero reels in a humongous fish worth 100 points. On a failure, they end the current respite with 1 fewer [Recoveries](../../Browse/rule/health/recoveries.md) than usual. On a success with a complication, the hero obtains both outcomes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | 10  | While fishing, the hero notes what appears to be an underwater cavern. If the cavern is explored, it reveals a treasure of the Director's choice guarded by a [revenant](../../Browse/ancestry/revenant.md) knight fulfilling their duty until their captain returns.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 #### Spend Time With Loved Ones {data-scc="mcdm.heroes.v1/project/spend-time-with-loved-ones"}
@@ -1016,7 +1016,7 @@ Whether for sustenance, relaxation, or bragging rights, you've gone fishing, pro
 
 **Project Source:** None
 
-**Project Roll Characteristic:** Presence
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Presence](../../Browse/rule/character/presence.md)
 
 **Project Goal:** 60
 

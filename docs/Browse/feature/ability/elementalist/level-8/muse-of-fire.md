@@ -12,12 +12,8 @@ keywords:
     - Ranged
 level: "8"
 name: Muse of Fire
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-8/muse-of-fire
 target: Each enemy in the area
-tier1: '7 fire damage; the Director loses 2 Malice (see *Draw Steel: Monsters*)'
-tier2: 10 fire damage; the Director loses 3 Malice
-tier3: 15 fire damage; the Director loses 4 Malice
 type: ability
 ---
 
@@ -41,7 +37,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 fire damage; the Director loses 2 Malice (see *Draw Steel: Monsters*)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 fire damage; the Director loses 3 Malice</span></div>

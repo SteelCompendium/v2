@@ -2,7 +2,7 @@
 action_type: Triggered
 class: fury
 distance: Self
-effect: You gain [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your Might score and can enter your [animal form](../../../../complication/animal-form.md) or hybrid form.
+effect: You gain [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your [Might](../../../../rule/character/might.md) score and can enter your [animal form](../../../../complication/animal-form.md) or hybrid form.
 flavor: In your anger, you revert to a more bestial form.
 keywords:
     - '-'
@@ -41,7 +41,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your Might score and can enter your <a href="../../../../../complication/animal-form/">animal form</a> or hybrid form.</p></div>
+<div class="sc-ability__section-body"><p>You gain <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your <a href="../../../../../rule/character/might/">Might</a> score and can enter your <a href="../../../../../complication/animal-form/">animal form</a> or hybrid form.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If you are not <a href="../../../../../rule/health/dying/">dying</a>, you can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</span></div>
 </article>

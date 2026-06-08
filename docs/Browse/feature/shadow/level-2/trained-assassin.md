@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You know just where to cut your enemies. Whenever you make a strike that has no bane or double bane, and that incorporates 1 or more <a href="../../../../rule/resource/surge/">surges</a>, you gain 1 additional <a href="../../../../rule/resource/surge/">surge</a> that you can use only on that strike.</p>
+<p>You know just where to cut your enemies. Whenever you make a <a href="../../../../rule/combat/strike/">strike</a> that has no <a href="../../../../rule/dice/bane/">bane</a> or double <a href="../../../../rule/dice/bane/">bane</a>, and that incorporates 1 or more <a href="../../../../rule/resource/surge/">surges</a>, you gain 1 additional <a href="../../../../rule/resource/surge/">surge</a> that you can use only on that <a href="../../../../rule/combat/strike/">strike</a>.</p>
 </div>
 </section>

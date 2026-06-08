@@ -1,6 +1,6 @@
 ---
 benefit: When you spend a [hero token](../rule/resource/hero-token.md) to succeed on a saving throw or to reroll a test, roll a d10. On a 6 or higher, you gain the benefit but don't spend the [hero token](../rule/resource/hero-token.md).
-drawback: Whenever you obtain a tier 1 outcome on a test and don't spend a [hero token](../rule/resource/hero-token.md) to reroll, you take a bane on the next test you make.
+drawback: Whenever you obtain a tier 1 outcome on a test and don't spend a [hero token](../rule/resource/hero-token.md) to reroll, you take a [bane](../rule/dice/bane.md) on the next test you make.
 name: Lucky
 scc: mcdm.heroes.v1/complication/lucky
 type: complication
@@ -14,4 +14,4 @@ You've always had a [lucky](lucky.md) streak. When you leave things in the hands
 
 **Benefit:** When you spend a [hero token](../rule/resource/hero-token.md) to succeed on a saving throw or to reroll a test, roll a d10. On a 6 or higher, you gain the benefit but don't spend the [hero token](../rule/resource/hero-token.md).
 
-**Drawback:** Whenever you obtain a tier 1 outcome on a test and don't spend a [hero token](../rule/resource/hero-token.md) to reroll, you take a bane on the next test you make.
+**Drawback:** Whenever you obtain a tier 1 outcome on a test and don't spend a [hero token](../rule/resource/hero-token.md) to reroll, you take a [bane](../rule/dice/bane.md) on the next test you make.

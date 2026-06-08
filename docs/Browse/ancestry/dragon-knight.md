@@ -99,7 +99,7 @@ The [dragon knight](dragon-knight.md) looked at the people around him, at the th
 
 ### Signature Trait: Wyrmplate {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/wyrmplate"}
 
-Your hardened scales grant you damage immunity equal to your level to one of the following damage types: acid, cold, corruption, fire, lightning, or poison. You can change your damage immunity type when you finish a respite.
+Your hardened scales grant you [damage immunity](../rule/damage/damage-immunity.md) equal to your level to one of the following [damage types](../rule/damage/damage-type.md): acid, cold, corruption, fire, lightning, or poison. You can change your [damage immunity](../rule/damage/damage-immunity.md) type when you finish a respite.
 
 ### Purchased Dragon Knight Traits
 
@@ -107,7 +107,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* [Dr
 
 #### Draconian Guard {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/draconian-guard"}
 
-Whenever you or an adjacent creature takes damage from a strike, you can use a triggered action to guard against the blow. You reduce any damage from the strike by an amount equal to your level.
+Whenever you or an adjacent creature takes damage from a [strike](../rule/combat/strike.md), you can use a triggered action to guard against the blow. You reduce any damage from the [strike](../rule/combat/strike.md) by an amount equal to your level.
 
 #### Draconian Pride {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/draconian-pride"}
 
@@ -121,7 +121,7 @@ You have the following signature ability.
 |-----------------|------------------------------:|
 | **📏 1 burst**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Might or Presence:**
+**Power Roll + [Might](../rule/character/might.md) or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 5 damage; push 1
@@ -139,17 +139,17 @@ You have the following signature ability.
 |------------------------|------------------------------:|
 | **📏 3 cube within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + Might or Presence:**
+**Power Roll + [Might](../rule/character/might.md) or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 4 damage
 - **17+:** 6 damage
 
-**Effect:** You choose the ability's damage type from acid, cold, corruption, fire, lightning, or poison.
+**Effect:** You choose the ability's [damage type](../rule/damage/damage-type.md) from acid, cold, corruption, fire, lightning, or poison.
 
 #### Prismatic Scales {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/prismatic-scales"}
 
-Select one damage immunity granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.
+Select one [damage immunity](../rule/damage/damage-immunity.md) granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.
 
 #### Remember Your Oath {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/remember-your-oath"}
 
@@ -159,4 +159,4 @@ As a maneuver, you can recite the following oath. Until the start of your next t
 
 #### Wings {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/wings"}
 
-You possess wings powerful enough to take you airborne. While using your wings to [fly](../movement/fly.md), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](../movement/fly.md) at 3rd level or lower, you have damage weakness 5.
+You possess wings powerful enough to take you airborne. While using your wings to [fly](../movement/fly.md), you can stay aloft for a number of rounds equal to your [Might](../rule/character/might.md) score (minimum 1 round) before you fall. While using your wings to [fly](../movement/fly.md) at 3rd level or lower, you have [damage weakness](../rule/damage/damage-weakness.md) 5.

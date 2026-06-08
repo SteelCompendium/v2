@@ -9,12 +9,8 @@ keywords:
     - Psionic
 level: "2"
 name: Kinetic Shield
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.null.level-2/kinetic-shield
 target: Self
-tier1: You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
-tier2: You gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
-tier3: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 type: ability
 ---
 
@@ -38,7 +34,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../../rule/character/intuition.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You gain 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You gain 15 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>

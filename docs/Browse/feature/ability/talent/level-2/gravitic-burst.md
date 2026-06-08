@@ -10,12 +10,8 @@ keywords:
     - Telekinesis
 level: "2"
 name: Gravitic Burst
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/gravitic-burst
 target: Each enemy in the area
-tier1: 3 damage; vertical push 2
-tier2: 6 damage; vertical push 4
-tier3: 9 damage; vertical push 6
 type: ability
 ---
 
@@ -39,7 +35,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; vertical push 2</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; vertical push 4</span></div>

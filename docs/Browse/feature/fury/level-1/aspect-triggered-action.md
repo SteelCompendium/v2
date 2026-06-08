@@ -53,7 +53,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your Might score and can enter your <a href="../../../../complication/animal-form/">animal form</a> or hybrid form.</p></div>
+<div class="sc-ability__section-body"><p>You gain <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your <a href="../../../../rule/character/might/">Might</a> score and can enter your <a href="../../../../complication/animal-form/">animal form</a> or hybrid form.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If you are not <a href="../../../../rule/health/dying/">dying</a>, you can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</span></div>
 </article>
@@ -78,9 +78,9 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can select a new target of the same size or smaller within distance to be force moved instead. You become the source of the <a href="../../../../movement/forced-movement/">forced movement</a>, determine the new target&#39;s destination, and can push the target instead of using the original <a href="../../../../movement/forced-movement/">forced movement</a> type. Additionally, the <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Might score.</p></div>
+<div class="sc-ability__section-body"><p>You can select a new target of the same <a href="../../../../rule/character/size/">size</a> or smaller within <a href="../../../../rule/combat/distance/">distance</a> to be force moved instead. You become the source of the <a href="../../../../movement/forced-movement/">forced movement</a>, determine the new target&#39;s destination, and can push the target instead of using the original <a href="../../../../movement/forced-movement/">forced movement</a> type. Additionally, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../rule/character/might/">Might</a> score.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to twice your Might score instead.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">The <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to twice your <a href="../../../../rule/character/might/">Might</a> score instead.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
 <div class="sc-ability__head">
@@ -103,7 +103,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take half the damage from the triggering effect and can <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your Agility score.</p></div>
+<div class="sc-ability__section-body"><p>You take half the damage from the triggering effect and can <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../rule/character/agility/">Agility</a> score.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the damage has any potency effects associated with it, the potency is reduced by 1 for you.</span></div>
 </article>

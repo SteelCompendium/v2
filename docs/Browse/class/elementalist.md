@@ -1,12 +1,12 @@
 ---
-average_potency: Reason − 1
+average_potency: '[Reason](../rule/character/reason.md) − 1'
 name: Elementalist
 scc: mcdm.heroes.v1/class/elementalist
 skills:
     - 'You gain the Magic skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)'
-strong_potency: Reason
+strong_potency: '[Reason](../rule/character/reason.md)'
 type: class
-weak_potency: Reason − 2
+weak_potency: '[Reason](../rule/character/reason.md) − 2'
 ---
 
 # Elementalist
@@ -23,18 +23,18 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 ## Basics
 
-**Starting Characteristics:** You start with a Reason of 2, and you can choose one of the following arrays for your other characteristic scores:
+**Starting [Characteristics](../rule/character/characteristic.md):** You start with a [Reason](../rule/character/reason.md) of 2, and you can choose one of the following arrays for your other [characteristic](../rule/character/characteristic.md) scores:
 
 - 2, 2, −1, −1
 - 2, 1, 1, −1
 - 2, 1, 0, 0
 - 1, 1, 1, 0
 
-**Weak Potency:** Reason − 2
+**Weak Potency:** [Reason](../rule/character/reason.md) − 2
 
-**Average Potency:** Reason − 1
+**Average Potency:** [Reason](../rule/character/reason.md) − 1
 
-**Strong Potency:** Reason
+**Strong Potency:** [Reason](../rule/character/reason.md)
 
 **Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 18
 
@@ -87,11 +87,11 @@ You become an expert at wielding destructive flames. Your abilities that have th
 
 #### Green: Acolyte of the Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/green-acolyte-of-the-green"}
 
-You harness the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to one or more creatures using an ability that has the Green and Magic keywords and that costs essence to use (see below), you or one creature within 10 squares of you gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your Reason score.
+You harness the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to one or more creatures using an ability that has the Green and Magic keywords and that costs essence to use (see below), you or one creature within 10 squares of you gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your [Reason](../rule/character/reason.md) score.
 
 #### Void: Acolyte of the Mystery {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/void-acolyte-of-the-mystery"}
 
-You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The distance of all your abilities that have the Magic, Ranged, and Void keywords increases by 2 squares.
+You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The [distance](../rule/combat/distance.md) of all your abilities that have the Magic, Ranged, and Void keywords increases by 2 squares.
 
 ### Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/essence"}
 
@@ -122,17 +122,17 @@ You have the following ability, which can be used as a ranged [free strike](../f
 
 *You cast a ball of elemental energy at a foe.*
 
-| **Magic, Ranged, Strike** |               **Main action** |
+| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Ranged 10**          | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 2 + R damage
 - **12-16:** 4 + R damage
 - **17+:** 6 + R damage
 
-**Effect:** When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
+**Effect:** When you make this [strike](../rule/combat/strike.md), choose the [damage type](../rule/damage/damage-type.md) from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
 
 ### Persistent Magic {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/persistent-magic"}
 
@@ -142,7 +142,7 @@ You can't maintain any abilities that would make you earn a negative amount of e
 
 If you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.
 
-If you take damage equal to or greater than 5 times your Reason score in one turn, you stop maintaining any persistent abilities. For instance, if you have a Reason score of 2 and are maintaining [Instantaneous Excavation](../feature/ability/elementalist/level-1/instantaneous-excavation.md), taking 10 or more damage in one turn causes you to stop maintaining the ability.
+If you take damage equal to or greater than 5 times your [Reason](../rule/character/reason.md) score in one turn, you stop maintaining any persistent abilities. For instance, if you have a [Reason](../rule/character/reason.md) score of 2 and are maintaining [Instantaneous Excavation](../feature/ability/elementalist/level-1/instantaneous-excavation.md), taking 10 or more damage in one turn causes you to stop maintaining the ability.
 
 ### Practical Magic {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/practical-magic"}
 
@@ -159,9 +159,9 @@ You have the following ability.
 
 **Effect:** Choose one of the following effects:
 
-- You use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver (see Chapter 10: [Combat](../../Read/heroes/combat.md)), but its distance becomes the range of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability, and you use Reason instead of Might for the power roll.
-- You choose a creature within the distance of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your Reason score.
-- You [teleport](../movement/teleport.md) up to a number of squares equal to your Reason score. If you choose this option, you can spend essence to [teleport](../movement/teleport.md) 1 additional square for each essence spent.
+- You use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver (see Chapter 10: [Combat](../../Read/heroes/combat.md)), but its [distance](../rule/combat/distance.md) becomes the range of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability, and you use [Reason](../rule/character/reason.md) instead of [Might](../rule/character/might.md) for the power roll.
+- You choose a creature within the [distance](../rule/combat/distance.md) of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and one of the following [damage types](../rule/damage/damage-type.md): acid, cold, corruption, fire, lightning, poison, or sonic. That creature takes damage of the chosen type equal to your [Reason](../rule/character/reason.md) score.
+- You [teleport](../movement/teleport.md) up to a number of squares equal to your [Reason](../rule/character/reason.md) score. If you choose this option, you can spend essence to [teleport](../movement/teleport.md) 1 additional square for each essence spent.
 
 ### 1st-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/1st-level-specialization-feature"}
 
@@ -195,7 +195,7 @@ You also gain the following ability.
 
 #### It Is the Soul Which Hears {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/it-is-the-soul-which-hears"}
 
-You can speak with and understand animals, beasts, and plant creatures, even if they don't share a language with you. Your ability to communicate with these creatures doesn't make them inherently more intelligent, but you can use Reason instead of Presence while making tests to influence them.
+You can speak with and understand animals, beasts, and plant creatures, even if they don't share a language with you. Your ability to communicate with these creatures doesn't make them inherently more intelligent, but you can use [Reason](../rule/character/reason.md) instead of [Presence](../rule/character/presence.md) while making tests to influence them.
 
 Additionally, you can touch a living plant that is not a plant creature to communicate with it telepathically. You can use words to communicate with the plant, but it communicates with you only by transmitting feelings and sensations that can't be overly specific.
 
@@ -270,9 +270,9 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 **Trigger:** The target [force move](../movement/forced-movement.md)s a creature or object. 
 
-**Effect:** The [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
+**Effect:** The [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Reason](../rule/character/reason.md) score.
 
-**Spend 1 Essence:** The [forced movement](../movement/forced-movement.md) distance gains a bonus equal to twice your Reason score instead.
+**Spend 1 Essence:** The [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to twice your [Reason](../rule/character/reason.md) score instead.
 
 ##### Skin Like Castle Walls {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/skin-like-castle-walls"}
 
@@ -300,9 +300,9 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 **Trigger:** The target starts their turn, moves, or is [force moved](../movement/forced-movement.md). 
 
-**Effect:** You [teleport](../movement/teleport.md) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](../movement/teleport.md) them at any point during the move.
+**Effect:** You [teleport](../movement/teleport.md) the target up to a number of squares equal to your [Reason](../rule/character/reason.md) score. If the target moves to trigger this ability, you can [teleport](../movement/teleport.md) them at any point during the move.
 
-**Spend 1 Essence:** You [teleport](../movement/teleport.md) the target up to a number of squares equal to twice your Reason score instead.
+**Spend 1 Essence:** You [teleport](../movement/teleport.md) the target up to a number of squares equal to twice your [Reason](../rule/character/reason.md) score instead.
 
 ### Enchantment {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment"}
 
@@ -316,7 +316,7 @@ If you have a kit, you can't take this [enchantment](../feature/elementalist/lev
 
 #### Enchantment of Celerity {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-celerity"}
 
-You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
+You gain a +1 bonus to speed and to the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
 #### Enchantment of Destruction {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-destruction"}
 
@@ -324,7 +324,7 @@ You gain a +1 bonus to rolled damage with magic abilities.
 
 #### Enchantment of Distance {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-distance"}
 
-You have a +2 bonus to the distance of your ranged magic abilities.
+You have a +2 bonus to the [distance](../rule/combat/distance.md) of your ranged magic abilities.
 
 #### Enchantment of Permanence {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-permanence"}
 
@@ -340,15 +340,15 @@ A protective field of void magic absorbs violence aimed at you, then lets you hu
 
 #### Ward of Excellent Protection {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-excellent-protection"}
 
-You weave a shield of all the elements around yourself, channeling their full protective power. You have immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your Reason score.
+You weave a shield of all the elements around yourself, channeling their full protective power. You have immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your [Reason](../rule/character/reason.md) score.
 
 #### Ward of Nature's Affection {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-natures-affection"}
 
-The green energy writhing within your body allows you to produce powerful vines when you're in danger. Whenever a creature within a number of squares equal to your Reason score deals damage to you, you can use a free triggered action to slide that creature up to a number of squares equal to your Reason score.
+The green energy writhing within your body allows you to produce powerful vines when you're in danger. Whenever a creature within a number of squares equal to your [Reason](../rule/character/reason.md) score deals damage to you, you can use a free triggered action to slide that creature up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
 
 #### Ward of Surprising Reactivity {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-surprising-reactivity"}
 
-You use the magic of fire to create a ward of explosive energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push that creature up to a number of squares equal to twice your Reason score.
+You use the magic of fire to create a ward of explosive energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push that creature up to a number of squares equal to twice your [Reason](../rule/character/reason.md) score.
 
 ### Elementalist Abilities {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-abilities"}
 
@@ -363,28 +363,28 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *Your curse causes your foe's flesh to rot off as spores that aid your allies.*
 
-| **Green, Magic, Ranged, Rot, Strike**  |     **Main action** |
+| **Green, Magic, Ranged, Rot, [Strike](../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 2 + R corruption damage
 - **12-16:** 4 + R corruption damage
 - **17+:** 6 + R corruption damage
 
-**Effect:** Choose yourself or one ally within distance. That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
+**Effect:** Choose yourself or one ally within [distance](../rule/combat/distance.md). That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
 
 ##### Bifurcated Incineration {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/bifurcated-incineration"}
 
 
 *Two jets of flame lance out at your command.*
 
-| **Fire, Magic, Ranged, Strike** |                 **Main action** |
+| **Fire, Magic, Ranged, [Strike](../rule/combat/strike.md)** |                 **Main action** |
 |---------------------------------|--------------------------------:|
 | **📏 Ranged 10**                | **🎯 Two creatures or objects** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 2 fire damage
 - **12-16:** 4 fire damage
@@ -395,28 +395,28 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *You absorb the life energy of another creature and use it to [teleport](../movement/teleport.md).*
 
-| **Magic, Melee, Strike, Void** |     **Main action** |
+| **Magic, Melee, [Strike](../rule/combat/strike.md), Void** |     **Main action** |
 |--------------------------------|--------------------:|
 | **📏 Melee 1**                 | **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 3 + R corruption damage
 - **12-16:** 6 + R corruption damage
 - **17+:** 9 + R corruption damage
 
-**Effect:** You can [teleport](../movement/teleport.md) up to a number of squares equal to your Reason score.
+**Effect:** You can [teleport](../movement/teleport.md) up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
 
 ##### The Green Within, the Green Without {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/the-green-within-the-green-without"}
 
 
 *Whipping vines erupt from a foe's body to grasp at another close by.*
 
-| **Green, Magic, Ranged, Strike** |      **Main action** |
+| **Green, Magic, Ranged, [Strike](../rule/combat/strike.md)** |      **Main action** |
 |----------------------------------|---------------------:|
 | **📏 Ranged 10**                 |  **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 2 + R damage
 - **12-16:** 5 + R damage
@@ -429,11 +429,11 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *You give your enemy a gentle tap-like an asteroid impact.*
 
-| **Earth, Magic, Melee, Strike** |               **Main action** |
+| **Earth, Magic, Melee, [Strike](../rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
 | **📏 Melee 1**                  | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 3 + R damage; push 2
 - **12-16:** 5 + R damage; push 3
@@ -444,11 +444,11 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *You inflict pain and doubt in equal measure.*
 
-| **Magic, Ranged, Strike, Void** |               **Main action** | 
+| **Magic, Ranged, [Strike](../rule/combat/strike.md), Void** |               **Main action** | 
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 2 + R corruption damage; R < WEAK, [slowed](../condition/slowed.md) (save ends)
 - **12-16:** 4 + R corruption damage; R < AVERAGE, [slowed](../condition/slowed.md) (save ends)
@@ -463,7 +463,7 @@ Choose two signature abilities from the following options. Signature abilities c
 |--------------------------------|------------------------------:|
 | **📏 2 cube within 10**        | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 5 damage
@@ -476,11 +476,11 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *A jet of heavy fire erupts where you strike.*
 
-| **Fire, Magic, Ranged, Strike** |               **Main action** | 
+| **Fire, Magic, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** | 
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 2 + R fire damage; push 2
 - **12-16:** 5 + R fire damage; push 3
@@ -503,7 +503,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 |-------------------------------|------------------------------:|
 | **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 2 psychic damage
 - **12-16:** 4 psychic damage
@@ -516,28 +516,28 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 *Fire engulfs your target and continues to churn.*
 
-| **Fire, Magic, Ranged, Strike** |               **Main action** |
+| **Fire, Magic, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 5 + R fire damage
 - **12-16:** 8 + R fire damage
 - **17+:** 11 + R fire damage
 
-**Persistent 1:** If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).
+**Persistent 1:** If the target is within [distance](../rule/combat/distance.md) at the start of your turn, you can make the power roll again without spending essence (no action required).
 
 ##### Invigorating Growth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/invigorating-growth"}
 
 
 *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
 
-| **Green, Magic, Ranged, Strike** |      **Main action** |
+| **Green, Magic, Ranged, [Strike](../rule/combat/strike.md)** |      **Main action** |
 |----------------------------------|---------------------:|
 | **📏 Ranged 10**                 |  **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 4 + R poison damage
 - **12-16:** 7 + R poison damage
@@ -554,13 +554,13 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 |------------------------|------------------------------:|
 | **📏 2 burst**         | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 3 damage
 - **12-16:** 5 damage
 - **17+:** 8 damage; M < STRONG[, prone](../condition/prone.md)
 
-**Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
+**Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your [Reason](../rule/character/reason.md) score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 
 ##### 5-Essence Ability
 
@@ -575,7 +575,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 |-------------------------------|------------------------------:|
 | **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 4 fire damage
 - **12-16:** 6 fire damage
@@ -592,9 +592,9 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 |--------------------------|----------------:|
 | **📏 Ranged 10**         |  **🎯 Special** |
 
-**Effect:** You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't score a critical hit with this ability because it uses a maneuver.)
+**Effect:** You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't score a critical hit with this ability because it uses a maneuver.)
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** The target can [shift](../movement/shifting.md) 1 square from the edge of the hole to the nearest unoccupied space of their choice.
 - **12-16:** The target falls into the hole.
@@ -624,7 +624,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 |--------------------------------|------------------------------:|
 | **📏 3 cube within 10**        | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 4 acid damage
 - **12-16:** 6 acid damage
@@ -665,37 +665,37 @@ At the start of a combat encounter, you gain a number of [surges](../rule/resour
 
 #### Disciple of the Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/disciple-of-the-green"}
 
-You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](../complication/animal-form.md), you can speak, and you use your Reason score to make melee [free strikes](../feature/common/main-actions/free-strike.md). Your statistics stay the same except as noted on the table.
+You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](../complication/animal-form.md), you can speak, and you use your [Reason](../rule/character/reason.md) score to make melee [free strikes](../feature/common/main-actions/free-strike.md). Your statistics stay the same except as noted on the table.
 
 Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you [temporary Stamina](../rule/health/temporary-stamina.md). You lose this [temporary Stamina](../rule/health/temporary-stamina.md) when you revert back to your true form.
 
-You choose a specific animal and appearance while in [animal form](../complication/animal-form.md). For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other size 1T animal who fits the rodent type. When you take on an [animal form](../complication/animal-form.md), your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
+You choose a specific animal and appearance while in [animal form](../complication/animal-form.md). For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other [size](../rule/character/size.md) 1T animal who fits the rodent type. When you take on an [animal form](../complication/animal-form.md), your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
 
 You can revert back to your true form as a maneuver. You can't enter an [animal form](../complication/animal-form.md) unless you are in your true form. When you are [dying](../rule/health/dying.md), you revert to your true form and can't turn back into an animal until you are no longer [dying](../rule/health/dying.md).
 
 ##### Green Animal Forms Table
 
-| Animal Type         | Level | [Temporary Stamina](../rule/health/temporary-stamina.md) | Speed         | Size | Stability Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                         |
+| Animal Type         | Level | [Temporary Stamina](../rule/health/temporary-stamina.md) | Speed         | [Size](../rule/character/size.md) | Stability Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                         |
 |---------------------|-------|-------------------|---------------|------|-----------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Canine              | 2nd   | 5                 | 7             | 1M   | +0              | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                   |
+| Canine              | 2nd   | 5                 | 7             | 1M   | +0              | +1/+1/+1           | You gain an [edge](../rule/dice/edge.md) on tests that involve smell.                                                                                                                                                                                                                                   |
 | Fish                | 2nd   | 0                 | 5 (swim only) | 1T   | +0              | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                       |
-| Rodent              | 2nd   | 0                 | 5 (climb)     | 1T   | +0              | +0/+0/+0           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                   |
+| Rodent              | 2nd   | 0                 | 5 (climb)     | 1T   | +0              | +0/+0/+0           | You gain an [edge](../rule/dice/edge.md) on tests that involve smell.                                                                                                                                                                                                                                   |
 | Bird                | 3rd   | 0                 | 5 ([fly](../movement/fly.md))       | 1T   | +0              | +0/+0/+0           | -                                                                                                                                                                                                                                                                               |
-| Great cat           | 3rd   | 5                 | 6 (climb)     | 2    | +0              | +1/+1/+1           | As a maneuver, you can jump up to 3 squares in any direction. If you land on<br>an enemy of your size or smaller, that enemy is [knocked prone](../condition/prone.md), and you can<br>make a melee [free strike](../feature/common/main-actions/free-strike.md) against them (no action required).                                                       |
-| Giant frog          | 4th   | 5                 | 5 (swim)      | 2    | +0              | +0/+0/+0           | Your melee [free strike](../feature/common/main-actions/free-strike.md) has a distance of melee 3. When you take the Advance<br>move action, you can high jump or long jump up to half your speed. This<br>jump can allow you to move more squares than your speed.                                                              |
+| Great cat           | 3rd   | 5                 | 6 (climb)     | 2    | +0              | +1/+1/+1           | As a maneuver, you can jump up to 3 squares in any direction. If you land on<br>an enemy of your [size](../rule/character/size.md) or smaller, that enemy is [knocked prone](../condition/prone.md), and you can<br>make a melee [free strike](../feature/common/main-actions/free-strike.md) against them (no action required).                                                       |
+| Giant frog          | 4th   | 5                 | 5 (swim)      | 2    | +0              | +0/+0/+0           | Your melee [free strike](../feature/common/main-actions/free-strike.md) has a [distance](../rule/combat/distance.md) of melee 3. When you take the Advance<br>move action, you can high jump or long jump up to half your speed. This<br>jump can allow you to move more squares than your speed.                                                              |
 | Horse               | 4th   | 5                 | 8             | 2    | +1              | +0/+0/+0           | You can use the [Charge](../feature/common/main-actions/charge.md) main action as a maneuver. You can't use two Charge<br>main actions on the same turn.                                                                                                                                                                    |
-| Mohler              | 4th   | 0                 | 7 ([burrow](../movement/burrow.md))    | 1S   | +1              | +0/+0/+0           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                           |
-| Bear                | 5th   | 10                | 5 (climb)     | 2    | +1              | +2/+2/+2           | Your melee distance gains a +1 bonus.                                                                                                                                                                                                                                           |
+| Mohler              | 4th   | 0                 | 7 ([burrow](../movement/burrow.md))    | 1S   | +1              | +0/+0/+0           | Your melee [distance](../rule/combat/distance.md) gains a +1 bonus.                                                                                                                                                                                                                                           |
+| Bear                | 5th   | 10                | 5 (climb)     | 2    | +1              | +2/+2/+2           | Your melee [distance](../rule/combat/distance.md) gains a +1 bonus.                                                                                                                                                                                                                                           |
 | Giant bird          | 5th   | 0                 | 7 ([fly](../movement/fly.md))       | 2    | +0              | +1/+1/+1           | After making a melee [free strike](../feature/common/main-actions/free-strike.md), you can [shift](../movement/shifting.md) up to 3 squares as a free<br>triggered action.                                                                                                                                                                                  |
 | Giant<br>salamander | 6th   | 5                 | 5             | 1L   | +3              | +2/+2/+2           | Your melee [free strike](../feature/common/main-actions/free-strike.md) deals fire damage. Additionally, you have fire immunity<br>3.                                                                                                                                                                                            |
-| Giant spider        | 6th   | 0                 | 5 (climb)     | 2    | +0              | +0/+1/+2           | You have a double edge on melee [free strikes](../feature/common/main-actions/free-strike.md) against creatures you are hidden<br>from.                                                                                                                                                                                          |
+| Giant spider        | 6th   | 0                 | 5 (climb)     | 2    | +0              | +0/+1/+2           | You have a double [edge](../rule/dice/edge.md) on melee [free strikes](../feature/common/main-actions/free-strike.md) against creatures you are hidden<br>from.                                                                                                                                                                                          |
 | Giant snake         | 7th   | 5                 | 5             | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee [free strike](../feature/common/main-actions/free-strike.md), you<br>can automatically grab the target. While [grabbed](../condition/grabbed.md) this way, the target takes 2<br>damage at the start of each of their turns.                                                                      |
 | Kangaroo            | 7th   | 0                 | 7             | 1L   | +1              | +0/+0/+4           | When you score a critical hit with a melee [free strike](../feature/common/main-actions/free-strike.md), the target is [dazed](../condition/dazed.md) (save<br>ends). When you take the [Advance](../feature/common/move-actions/advance.md) move action, you can high jump or long<br>jump up to half your speed. This jump can allow you to move more squares<br>than your speed.                    |
 | Spiny armadillo     | 7th   | 10                | 5             | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br>creature takes 3 damage.                                                                                                                                                                            |
 | Ostrich             | 8th   | 0                 | 10            | 2    | +0              | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                             |
-| Shark               | 8th   | 0                 | 8 (swim only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an edge on strikes against targets who are [bleeding](../condition/bleeding.md) or [winded](../rule/health/winded.md).                                                                                                                              |
+| Shark               | 8th   | 0                 | 8 (swim only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an [edge](../rule/dice/edge.md) on [strikes](../rule/combat/strike.md) against targets who are [bleeding](../condition/bleeding.md) or [winded](../rule/health/winded.md).                                                                                                                              |
 | Giant octopus       | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your melee [free strike](../feature/common/main-actions/free-strike.md). Whenever you obtain a tier 2 or tier 3 outcome on<br>a melee [free strike](../feature/common/main-actions/free-strike.md), you can automatically grab the target. You can have up to<br>eight creatures [grabbed](../condition/grabbed.md). |
-| Rhinoceros          | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a melee [free strike](../feature/common/main-actions/free-strike.md) as part of the Charge action, that<br>strike gains an edge.                                                                                                                                                                               |
+| Rhinoceros          | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a melee [free strike](../feature/common/main-actions/free-strike.md) as part of the Charge action, that<br>strike gains an [edge](../rule/dice/edge.md).                                                                                                                                                                               |
 | King terror lizard  | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your melee [free strike](../feature/common/main-actions/free-strike.md) is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                          |
 
 #### There Is No Space Between {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/there-is-no-space-between"}
@@ -711,7 +711,7 @@ You have the following ability.
 |-------------------------|---------------:|
 | **📏 Ranged 10**        | **🎯 Special** |
 
-**Effect:** You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are [dying](../rule/health/dying.md). Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleport](../movement/teleport.md)ed to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their [forced movement](../movement/forced-movement.md) ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
+**Effect:** You open two [size](../rule/character/size.md) 1 portals in unoccupied spaces within [distance](../rule/combat/distance.md), which last until you move beyond [distance](../rule/combat/distance.md) from any portal, end the effect as a maneuver, or are [dying](../rule/health/dying.md). Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleport](../movement/teleport.md)ed to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their [forced movement](../movement/forced-movement.md) ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
 
 At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who [force move](../movement/forced-movement.md)s an enemy into a portal chooses that enemy's destination portal.
 
@@ -732,7 +732,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 - Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of [Recoveries](../rule/health/recoveries.md).
 - The area is [difficult terrain](../movement/difficult-terrain.md) for enemies.
-- Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.
+- Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your [Reason](../rule/character/reason.md) score.
 
 **Persistent 1:** The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.
 
@@ -741,13 +741,13 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 *Fungal spores sprout inside your enemy's brain, allowing you to control their actions.*
 
-| **Green, Magic, Ranged, Strike, Void** |     **Main action** |
+| **Green, Magic, Ranged, [Strike](../rule/combat/strike.md), Void** |     **Main action** |
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
 **Effect:** The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn't. You then make a power roll against the target of this ability.
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 5 + R poison damage
 - **12-16:** 9 + R poison damage
@@ -762,9 +762,9 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 |-------------------------------|------------------------:|
 | **📏 Ranged 10**              | **🎯 Self or one ally** |
 
-**Effect:** The target is [teleport](../movement/teleport.md)ed to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
+**Effect:** The target is [teleport](../movement/teleport.md)ed to another space within [distance](../rule/combat/distance.md). Make a power roll that affects each enemy adjacent to the target's new space.
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 3 fire damage
 - **12-16:** 5 fire damage
@@ -775,11 +775,11 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 *Wrap them up in fire and melting stone.*
 
-| **Earth, Fire, Magic, Ranged, Strike** |     **Main action** |
+| **Earth, Fire, Magic, Ranged, [Strike](../rule/combat/strike.md)** |     **Main action** |
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 5 + R fire damage; A < WEAK, [restrained](../condition/restrained.md) (save ends)
 - **12-16:** 9 + R fire damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
@@ -849,19 +849,19 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 
 *With a flick of the wrist, you phase creatures out of existence.*
 
-| **Magic, Ranged, Strike, Void** | **Main action** |
+| **Magic, Ranged, [Strike](../rule/combat/strike.md), Void** | **Main action** |
 |---------------------------------|----------------:|
 | **📏 Ranged 10**                |  **🎯 Special** |
 
 **Special:** The number of creatures you target with this ability is determined by your power roll.
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** One creature
 - **12-16:** Two creatures
 - **17+:** Three creatures
 
-**Effect:** Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a bane on power rolls. At the end of their first turn, they have a double bane on power rolls. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
+**Effect:** Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a [bane](../rule/dice/bane.md) on power rolls. At the end of their first turn, they have a double [bane](../rule/dice/bane.md) on power rolls. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
 
 #### Maw of Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/maw-of-earth"}
 
@@ -872,7 +872,7 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 |--------------------------------|-------------------------------:|
 | **📏 3 cube within 10**        |  **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 5 damage
 - **12-16:** 9 damage
@@ -889,13 +889,13 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 |------------------------|------------------------------:|
 | **📏 3 aura**          | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 3 damage
 - **12-16:** 6 damage
 - **17+:** 9 damage
 
-**Effect:** Until the end of your next turn, each ally in the area has each of their characteristic scores treated as 1 higher for the purpose of resisting potencies, and has a +1 bonus to saving throws.
+**Effect:** Until the end of your next turn, each ally in the area has each of their [characteristic](../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting potencies, and has a +1 bonus to saving throws.
 
 **Persistent 1:** You make the power roll again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn.
 
@@ -908,9 +908,9 @@ Choose one heroic ability from the following options, each of which costs 7 esse
 |-------------------------------|---------------:|
 | **📏 10 wall within 10**      | **🎯 Special** |
 
-**Effect:** The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your Reason score for each square of the area they start their turn in or enter.
+**Effect:** The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your [Reason](../rule/character/reason.md) score for each square of the area they start their turn in or enter.
 
-**Persistent 1:** The wall lasts until the start of your next turn, and you can add a number of squares to the wall equal to your Reason score.
+**Persistent 1:** The wall lasts until the start of your next turn, and you can add a number of squares to the wall equal to your [Reason](../rule/character/reason.md) score.
 
 ## 4th-Level Features
 
@@ -918,7 +918,7 @@ As a 4th-level [elementalist](elementalist.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/characteristic-increase"}
 
-Your Reason score increases to 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 3.
+Your [Reason](../rule/character/reason.md) score increases to 3. Additionally, you can increase one of your [characteristic](../rule/character/characteristic.md) scores by 1, to a maximum of 3.
 
 ### Font of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/font-of-essence"}
 
@@ -926,7 +926,7 @@ The first time each combat round that you or a creature within 10 squares takes 
 
 ### Mantle of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/mantle-of-essence"}
 
-While you have 3 or more essence and are not [dying](../rule/health/dying.md), you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
+While you have 3 or more essence and are not [dying](../rule/health/dying.md), you exude an aura of magic whose [distance](../rule/combat/distance.md) is equal to your [Reason](../rule/character/reason.md) score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
 
 ##### Mantle of Essence Specialization Effects Table
 
@@ -939,15 +939,15 @@ While you have 3 or more essence and are not [dying](../rule/health/dying.md), y
 
 #### Burning Grounds {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/burning-grounds"}
 
-At the end of each of your turns, each enemy in the area takes fire damage equal to your Reason score.
+At the end of each of your turns, each enemy in the area takes fire damage equal to your [Reason](../rule/character/reason.md) score.
 
 #### Flowering Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/flowering-bed"}
 
-At the end of each of your turns, each ally in the area gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your Reason score.
+At the end of each of your turns, each ally in the area gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your [Reason](../rule/character/reason.md) score.
 
 #### Quaking Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/quaking-earth"}
 
-At the end of each of your turns, you can push each enemy in the area up to a number of squares equal to your Reason score.
+At the end of each of your turns, you can push each enemy in the area up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
 
 #### Veiling Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/veiling-bed"}
 
@@ -988,19 +988,19 @@ Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you
 
 You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.
 
-Additionally, whenever an ally within distance of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability is [force moved](../movement/forced-movement.md), you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally's stability by an amount equal to the stability you lost. This change lasts until the end of the round.
+Additionally, whenever an ally within [distance](../rule/combat/distance.md) of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability is [force moved](../movement/forced-movement.md), you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally's stability by an amount equal to the stability you lost. This change lasts until the end of the round.
 
 #### Pierce the Veil of Substance {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/pierce-the-veil-of-substance"}
 
 Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.
 
-Additionally, whenever you use a void ability, you or one ally within distance of the ability can [teleport](../movement/teleport.md) a number of squares equal to your Reason score.
+Additionally, whenever you use a void ability, you or one ally within [distance](../rule/combat/distance.md) of the ability can [teleport](../movement/teleport.md) a number of squares equal to your [Reason](../rule/character/reason.md) score.
 
 #### Smoldering Step {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/smoldering-step"}
 
-You can use 1 square of movement to walk into an area of fire your size or larger and [teleport](../movement/teleport.md) to any other area of fire your size or larger within 10 squares of the first area.
+You can use 1 square of movement to walk into an area of fire your [size](../rule/character/size.md) or larger and [teleport](../movement/teleport.md) to any other area of fire your [size](../rule/character/size.md) or larger within 10 squares of the first area.
 
-Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your Reason score.
+Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your [Reason](../rule/character/reason.md) score.
 
 ### 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/9-essence-ability"}
 
@@ -1011,17 +1011,17 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 *Your flames dance from kindling to kindling to kindling.*
 
-| **Fire, Magic, Ranged, Strike** |               **Main action** |
+| **Fire, Magic, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 8 + R fire damage
 - **12-16:** 13 + R fire damage
 - **17+:** 17 + R fire damage
 
-**Effect:** When the target ends their next turn, or if they drop to 0 [Stamina](../rule/health/stamina.md) before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.
+**Effect:** When the target ends their next turn, or if they drop to 0 [Stamina](../rule/health/stamina.md) before then, each enemy adjacent to them takes fire damage equal to twice your [Reason](../rule/character/reason.md) score. Each affected enemy then gains this same effect.
 
 #### Storm of Sands {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/storm-of-sands"}
 
@@ -1032,7 +1032,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 |--------------------------------|------------------------------:|
 | **📏 4 cube within 10**        | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 5 damage
@@ -1047,11 +1047,11 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 *You rip an enemy's world in twain.*
 
-| **Magic, Ranged, Strike, Void** |               **Main action** |
+| **Magic, Ranged, [Strike](../rule/combat/strike.md), Void** |               **Main action** |
 |---------------------------------|------------------------------:|
 | **📏 Ranged 10**                | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 9 + R corruption damage
 - **12-16:** 10 + R corruption damage; the target has line of effect only to creatures and objects within 4 squares of them until the start of your next turn
@@ -1066,7 +1066,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 |--------------------------------|------------------------------:|
 | **📏 4 cube within 10**        | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 2 corruption damage; A < WEAK, [restrained](../condition/restrained.md) (save ends)
 - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
@@ -1088,10 +1088,10 @@ You gain one crafting, lore, or supernatural perk of your choice.
 
 You can spend 10 uninterrupted minutes to create a freeform magic spell for a variety of situations. Choose one of the following magical effects:
 
-- You create a mundane object of a size equal to your Reason score or smaller.
+- You create a mundane object of a [size](../rule/character/size.md) equal to your [Reason](../rule/character/reason.md) score or smaller.
 - You construct a place of shelter suitable for twenty creatures that lasts for 24 hours and can't be detected by enemies.
-- You restore all [Stamina](../rule/health/stamina.md) to a mundane object of a size equal to your Reason score or smaller.
-- Choose a cube with a size up to your Reason score within 5 squares. You can fill that area with [difficult terrain](../movement/difficult-terrain.md) or natural phenomena such as fire, water, or plant life, or can clear the area of those things.
+- You restore all [Stamina](../rule/health/stamina.md) to a mundane object of a [size](../rule/character/size.md) equal to your [Reason](../rule/character/reason.md) score or smaller.
+- Choose a cube with a [size](../rule/character/size.md) up to your [Reason](../rule/character/reason.md) score within 5 squares. You can fill that area with [difficult terrain](../movement/difficult-terrain.md) or natural phenomena such as fire, water, or plant life, or can clear the area of those things.
 - You can preserve a corpse or up to 5 pounds of food for a week, or can cause a corpse or that amount of food to instantly rot.
 - You create a seal on a surface that can't be seen or felt by anyone but you. When a creature comes adjacent to the surface, you can see and hear through the seal for as long as the creature remains adjacent to it. When you create the seal, you can decide to limit the number of creatures who activate it by choosing a creature keyword (such as Undead) or a specific name (such as Ajax the Invincible) or organization (such as the Black Iron Pact). If you do, the seal alerts you only when creatures with the keyword, name, or organizational affiliation you provide pass by it. If you create a second seal, the first one disappears. You can dispel a seal at any time (no action required).
 
@@ -1123,11 +1123,11 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 
 **Effect:** Until the start of your next turn, the target has the following benefits:
 
-- Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become [restrained](../condition/restrained.md) until the effect ends.
+- Their [size](../rule/character/size.md) and stability increase by 2, with any [size](../rule/character/size.md) 1 target becoming [size](../rule/character/size.md) 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become [restrained](../condition/restrained.md) until the effect ends.
 - They have fire immunity 10.
-- Their strikes deal extra fire damage equal to twice your Reason score.
-- When the target force moves a creature or object, the [forced movement](../movement/forced-movement.md) distance gains a +2 bonus.
-- They can use their highest characteristic instead of Might for Might power rolls.
+- Their [strikes](../rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../rule/character/reason.md) score.
+- When the target force moves a creature or object, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +2 bonus.
+- They can use their highest [characteristic](../rule/character/characteristic.md) instead of [Might](../rule/character/might.md) for [Might](../rule/character/might.md) power rolls.
 
 **Persistent 2:** The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 [Recoveries](../rule/health/recoveries.md).
 
@@ -1140,13 +1140,13 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 |--------------------------------------|------------------------------:|
 | **📏 Ranged 10**                     | **🎯 One creature or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** You [teleport](../movement/teleport.md) the target up to 4 squares.
 - **12-16:** You [teleport](../movement/teleport.md) the target up to 6 squares.
 - **17+:** You [teleport](../movement/teleport.md) the target up to 8 squares.
 
-**Effect:** If the target is [teleport](../movement/teleport.md)ed to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is [difficult terrain](../movement/difficult-terrain.md).
+**Effect:** If the target is [teleport](../movement/teleport.md)ed to a space where they would fall, they immediately do so, treating the fall as if their [Agility](../rule/character/agility.md) score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is [difficult terrain](../movement/difficult-terrain.md).
 
 #### The Wode Remembers and Returns {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-6/the-wode-remembers-and-returns"}
 
@@ -1167,13 +1167,13 @@ As a 7th-level [elementalist](elementalist.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/characteristic-increase"}
 
-Each of your characteristic scores increases by 1, to a maximum of 4.
+Each of your [characteristic](../rule/character/characteristic.md) scores increases by 1, to a maximum of 4.
 
 ### Mantle of Quintessence {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/mantle-of-quintessence"}
 
 Your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) feature no longer requires essence.
 
-Additionally, your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an edge on tests that use the [Handle Animals](../skill/handle-animals.md) skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the [Handle Animals](../skill/handle-animals.md) skill have a double edge.
+Additionally, your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's aura have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an [edge](../rule/dice/edge.md) on tests that use the [Handle Animals](../skill/handle-animals.md) skill. If you have 5 or more Victories, the bonus to patience increases to 2 and tests that use the [Handle Animals](../skill/handle-animals.md) skill have a double [edge](../rule/dice/edge.md).
 
 ### Surging Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/surging-essence"}
 
@@ -1206,7 +1206,7 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 #### Black Hole Star {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/black-hole-star"}
 
-You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within distance of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their stability reduces this [forced movement](../movement/forced-movement.md), they are pulled a minimum of 2 squares. This [forced movement](../movement/forced-movement.md) ignores stability for your allies.
+You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within [distance](../rule/combat/distance.md) of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their stability reduces this [forced movement](../movement/forced-movement.md), they are pulled a minimum of 2 squares. This [forced movement](../movement/forced-movement.md) ignores stability for your allies.
 
 Additionally, your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) improves. While in the area of the aura, enemies and objects have their stability reduced by an amount equal to your level.
 
@@ -1222,7 +1222,7 @@ You can only combine animal forms whose levels add up to 12 or less. For example
 
 You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free triggered action to target it with your [Return to Formlessness](../feature/ability/elementalist/level-1/return-to-formlessness.md) ability instead.
 
-Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your Reason score until the start of their next turn. This increases to twice your Reason score if the enemy is made of or is wearing mostly metal.
+Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your [Reason](../rule/character/reason.md) score until the start of their next turn. This increases to twice your [Reason](../rule/character/reason.md) score if the enemy is made of or is wearing mostly metal.
 
 #### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/summon-source-of-earth"}
 
@@ -1237,7 +1237,7 @@ You have the following ability.
 |--------------------------|----------------:|
 | **📏 Ranged 10**         |  **🎯 Special** |
 
-**Effect:** A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
+**Effect:** A **source of earth** emerges from an unoccupied space within [distance](../rule/combat/distance.md). The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
 
 The source starts an encounter at full [Stamina](../rule/health/stamina.md), but maintains their current [Stamina](../rule/health/stamina.md) throughout the encounter, even if they are dismissed and you use this ability again. They can't regain [Stamina](../rule/health/stamina.md) during the encounter. When the source's [Stamina](../rule/health/stamina.md) is reduced to 0, you can't use this ability again until you earn 1 or more Victories.
 
@@ -1251,9 +1251,9 @@ The source starts an encounter at full [Stamina](../rule/health/stamina.md), but
 >
 >|      Elemental      |           -            |      Level 8      |         BRUTE         |         EV -         |
 >|:-------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:|
->|    **2**<br>Size    |     **6**<br>Speed     | **45**<br>[Stamina](../rule/health/stamina.md) |  **5**<br>Stability   | **5**<br>[Free Strike](../feature/common/main-actions/free-strike.md) |
+>|    **2**<br>[Size](../rule/character/size.md)    |     **6**<br>Speed     | **45**<br>[Stamina](../rule/health/stamina.md) |  **5**<br>Stability   | **5**<br>[Free Strike](../feature/common/main-actions/free-strike.md) |
 >| **-**<br>Immunities | **[Burrow](../movement/burrow.md)**<br>Movement |                   | **-**<br>With Captain | **-**<br>Weaknesses  |
->|   **+3**<br>Might   |   **+1**<br>Agility    | **-5**<br>Reason  |  **-5**<br>Intuition  |  **-3**<br>Presence  |
+>|   **+3**<br>[Might](../rule/character/might.md)   |   **+1**<br>[Agility](../rule/character/agility.md)    | **-5**<br>[Reason](../rule/character/reason.md)  |  **-5**<br>[Intuition](../rule/character/intuition.md)  |  **-3**<br>[Presence](../rule/character/presence.md)  |
 >
 >> **Earthwalk**
 >>
@@ -1261,7 +1261,7 @@ The source starts an encounter at full [Stamina](../rule/health/stamina.md), but
 >
 >> **Tunneler**
 >>
->> When the source burrows, they create a size 2 tunnel.
+>> When the source burrows, they create a [size](../rule/character/size.md) 2 tunnel.
 >
 >> **Earth Harness**
 >>
@@ -1269,7 +1269,7 @@ The source starts an encounter at full [Stamina](../rule/health/stamina.md), but
 >
 >> **Boulder Bash**
 >>
->> | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
+>> | **Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon** |                 **Signature** |
 >> |-----------------------------------|------------------------------:|
 >> | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
 >>
@@ -1292,7 +1292,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 |--------------------------|----------------:|
 | **📏 Ranged 10**         |  **🎯 Special** |
 
-**Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 [Stamina](../rule/health/stamina.md) and can't be [force moved](../movement/forced-movement.md). You and any ally can touch the tree to use the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you [are prone](../condition/prone.md). Each ally within distance also gains this benefit.
+**Effect:** A [size](../rule/character/size.md) 5 tree appears in an unoccupied space within [distance](../rule/combat/distance.md). The tree has 100 [Stamina](../rule/health/stamina.md) and can't be [force moved](../movement/forced-movement.md). You and any ally can touch the tree to use the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you [are prone](../condition/prone.md). Each ally within [distance](../rule/combat/distance.md) also gains this benefit.
 
 Each enemy who ends their turn within 3 squares of the tree is [restrained](../condition/restrained.md) until the end of their next turn. A creature [restrained](../condition/restrained.md) this way can use a main action to end the effect early.
 
@@ -1305,7 +1305,7 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../c
 |-------------------------------|------------------------------:|
 | **📏 5 cube within 10**       | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 7 fire damage; the Director loses 2 Malice (see *Draw Steel: Monsters*)
 - **12-16:** 10 fire damage; the Director loses 3 Malice
@@ -1322,7 +1322,7 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../c
 |-------------------------------|----------------:|
 | **📏 Ranged 10**              |  **🎯 Special** |
 
-**Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../condition/prone.md). At the end of the round, if a [winded](../rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+**Effect:** You create a [size](../rule/character/size.md) 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../condition/prone.md). At the end of the round, if a [winded](../rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 
 #### World Torn Asunder {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/world-torn-asunder"}
 
@@ -1333,13 +1333,13 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../c
 |------------------------|------------------------------:|
 | **📏 5 burst**         | **🎯 Each enemy in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** M < WEAK[, prone](../condition/prone.md)
 - **12-16:** M < AVERAGE[, prone](../condition/prone.md)
 - **17+:** M < STRONG[, prone](../condition/prone.md)
 
-**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../condition/prone.md) and size 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../movement/shifting.md) to the nearest unoccupied space of their choice outside it.
+**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../condition/prone.md) and [size](../rule/character/size.md) 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../movement/shifting.md) to the nearest unoccupied space of their choice outside it.
 
 ## 9th-Level Features
 
@@ -1349,7 +1349,7 @@ As a 9th-level [elementalist](elementalist.md), you gain the following features.
 
 You have mastered the magic of shaping a wyrd, and can use your [Wyrding](../feature/elementalist/level-6/wyrding.md) feature as a main action.
 
-Additionally, when you have 5 or more Victories, choose one of the following damage types: acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.
+Additionally, when you have 5 or more Victories, choose one of the following [damage types](../rule/damage/damage-type.md): acid, cold, corruption, fire, lightning, poison, or sonic. You have immunity all to that type.
 
 ### New 11-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-9/new-11-essence-ability"}
 
@@ -1364,7 +1364,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 |--------------------------------|-----------------------------------------:|
 | **📏 5 cube within 10**        | **🎯 Each enemy and object in the area** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 6 damage
 - **12-16:** 9 damage
@@ -1401,11 +1401,11 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 
 *You let fly a fiery missile braided with pure primal energy.*
 
-| **Fire, Magic, Ranged, Strike** |            **Main action** |
+| **Fire, Magic, Ranged, [Strike](../rule/combat/strike.md)** |            **Main action** |
 |---------------------------------|---------------------------:|
 | **📏 Ranged 10**                | **🎯 One enemy or object** |
 
-**Power Roll + Reason:**
+**Power Roll + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 13 + R fire damage; I < WEAK, [dazed](../condition/dazed.md) (save ends)
 - **12-16:** 18 + R fire damage; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
@@ -1425,7 +1425,7 @@ Breath remains until you convert it to essence.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/characteristic-increase"}
 
-Your Reason score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.
+Your [Reason](../rule/character/reason.md) score increases to 5. Additionally, you can increase one of your [characteristic](../rule/character/characteristic.md) scores by 1, to a maximum of 5.
 
 ### Essential Being {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/essential-being"}
 
@@ -1446,7 +1446,7 @@ You become the embodiment of the element of your chosen specialization. Whenever
 
 #### Master of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-earth"}
 
-You have damage immunity 5.
+You have [damage immunity](../rule/damage/damage-immunity.md) 5.
 
 Additionally, as a respite activity, you can shape the mundane earth around you in a 1-mile radius. You can open sinkholes, form mountains, level mundane structures or whole settlements, create canyons, raise islands or sink them in the sea, and perform similar feats. You can't use this respite activity if another creature within 1 mile is already using it. Once you use this respite activity, you can't use it again for 10 days.
 

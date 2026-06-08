@@ -18,6 +18,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Each stormwight kit is associated with a <a href="../primordial-storm/">primordial storm</a>, which channels a specific damage type used by some of your abilities.</p>
+<p>Each stormwight kit is associated with a <a href="../primordial-storm/">primordial storm</a>, which channels a specific <a href="../../../../rule/damage/damage-type/">damage type</a> used by some of your abilities.</p>
 </div>
 </section>

@@ -7,7 +7,7 @@ effect: If the target is not a leader or solo creature, they are reduced to 0 [S
 flavor: Slash. Walk away.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "3"
 name: You Are Already Dead
@@ -30,7 +30,7 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">7</span> Ferocity</div></div>
 </div>
 <p class="sc-ability__flavor">Slash. Walk away.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>

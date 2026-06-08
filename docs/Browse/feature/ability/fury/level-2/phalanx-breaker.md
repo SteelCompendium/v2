@@ -10,12 +10,8 @@ keywords:
     - Weapon
 level: "2"
 name: Phalanx-Breaker
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-2/phalanx-breaker
 target: Self
-tier1: 2 damage; A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: 4 damage; A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: 6 damage; A < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 
@@ -39,7 +35,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../../rule/character/might.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; A &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 damage; A &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>

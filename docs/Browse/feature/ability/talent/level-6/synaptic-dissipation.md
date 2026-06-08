@@ -8,16 +8,12 @@ flavor: You manipulate your enemies' minds and make them wonder if you were ever
 keywords:
     - Psionic
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Telepathy
 level: "6"
 name: Synaptic Dissipation
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/synaptic-dissipation
 target: Special
-tier1: Two creatures
-tier2: Three creatures
-tier3: Five creatures
 type: ability
 ---
 
@@ -35,13 +31,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Clarity</div></div>
 </div>
 <p class="sc-ability__flavor">You manipulate your enemies&#39; minds and make them wonder if you were ever really there in the first place.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Two creatures</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Three creatures</span></div>

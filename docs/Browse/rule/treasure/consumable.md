@@ -28,7 +28,7 @@ Your character can carry any number of consumables at a time.
 >
 > Item creation rules, crafting and research projects: Chapter 12: [Downtime Projects](../../../Read/heroes/downtime-projects.md)
 >
-> Main actions and maneuvers, creature size, damage and [Stamina](../health/stamina.md), [dying](../health/dying.md) and death, movement and [forced movement](../../movement/forced-movement.md), [winded](../health/winded.md): Chapter 10: [Combat](../../../Read/heroes/combat.md)
+> Main actions and maneuvers, creature [size](../character/size.md), damage and [Stamina](../health/stamina.md), [dying](../health/dying.md) and death, movement and [forced movement](../../movement/forced-movement.md), [winded](../health/winded.md): Chapter 10: [Combat](../../../Read/heroes/combat.md)
 >
 > Negotiation rules, motivations, pitfalls, interest, and patience: Chapter 11: [Negotiation](../../../Read/heroes/negotiation.md).
 
@@ -46,11 +46,11 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Szetch
 
-**Project Roll Characteristic:** Agility or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a shadow)
 
-**Effect:** As a maneuver, you make a ranged [free strike](../../feature/common/main-actions/free-strike.md) using a black ash dart. The strike deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged [free strike](../../feature/common/main-actions/free-strike.md) using a black ash dart. The [strike](../combat/strike.md) deals an extra 1 damage and adds the following effects to the tier outcomes of the power roll:
 
 - **≤11:** You can [teleport](../../movement/teleport.md) the target up to 2 squares.
 - **12-16:** You can [teleport](../../movement/teleport.md) the target up to 4 squares.
@@ -66,7 +66,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Proto-Ctholl
 
-**Project Roll Characteristic:** Agility or Reason
+**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md) or [Reason](../character/reason.md)
 
 **Project Goal:** 45
 
@@ -82,7 +82,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Kalliak
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 45
 
@@ -98,7 +98,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 45
 
@@ -114,7 +114,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 45
 
@@ -134,11 +134,11 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target's size to increase by 1(to a minimum size of 2). If you are the target, your [Stamina](../health/stamina.md) maximum and Stability are doubled, you gain an edge on Might tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest characteristic score. You shrink back to your original size after 3 rounds, halving your current [Stamina](../health/stamina.md) maximum and Stability, and losing the potion's other benefits. Objects maintain their new size permanently.
+**Effect:** As a maneuver, you can drink this potion or pour it over an object of [size](../character/size.md) 2 or smaller, causing the target's [size](../character/size.md) to increase by 1(to a minimum size of 2). If you are the target, your [Stamina](../health/stamina.md) maximum and Stability are doubled, you gain an [edge](../dice/edge.md) on [Might](../character/might.md) tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest [characteristic](../character/characteristic.md) score. You shrink back to your original [size](../character/size.md) after 3 rounds, halving your current [Stamina](../health/stamina.md) maximum and Stability, and losing the potion's other benefits. Objects maintain their new [size](../character/size.md) permanently.
 
 ### Healing Potion {data-scc="mcdm.heroes.v1/treasure.1st-echelon.consumable/healing-potion"}
 
@@ -150,7 +150,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 45
 
@@ -166,7 +166,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 45
 
@@ -182,15 +182,15 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 45 (yields 1d3 teeth)
 
-**Effect:** As a maneuver, you attach a lachomp tooth to a weapon, allowing that weapon to supernaturally flicker in and out of reality. Your next strike that uses the weapon can tear through multiple targets in a line (for a ranged strike) or surrounding you (for a melee strike). The strike adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you attach a lachomp tooth to a weapon, allowing that weapon to supernaturally flicker in and out of reality. Your next strike that uses the weapon can tear through multiple targets in a line (for a ranged [strike](../combat/strike.md)) or surrounding you (for a melee [strike](../combat/strike.md)). The [strike](../combat/strike.md) adds the following effects to the tier outcomes of the power roll:
 
-- **≤11:** You can affect one additional target with this strike.
-- **12-16:** You can affect up to three additional targets with this strike.
-- **17+:** You can affect up to seven additional targets with this strike.
+- **≤11:** You can affect one additional target with this [strike](../combat/strike.md).
+- **12-16:** You can affect up to three additional targets with this [strike](../combat/strike.md).
+- **17+:** You can affect up to seven additional targets with this [strike](../combat/strike.md).
 
 ### Mirror Token {data-scc="mcdm.heroes.v1/treasure.1st-echelon.consumable/mirror-token"}
 
@@ -202,11 +202,11 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Source:** Texts or lore in Variac
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 45
 
-**Effect:** While the Mirror Token is on your person and you are targeted by a ranged strike, you can use a triggered action to crush the token and ignore the strike. Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the strike.
+**Effect:** While the Mirror Token is on your person and you are targeted by a ranged [strike](../combat/strike.md), you can use a triggered action to crush the token and ignore the [strike](../combat/strike.md). Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the [strike](../combat/strike.md).
 
 ### Pocket Homunculus {data-scc="mcdm.heroes.v1/treasure.1st-echelon.consumable/pocket-homunculus"}
 
@@ -218,11 +218,11 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Source:** Texts or lore in Zaliac
 
-**Project Roll Characteristic:** Reason
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md)
 
 **Project Goal:** 45
 
-**Effect:** When activated as a maneuver, this item erupts in a bright flash, you can [shift](../../movement/shifting.md) 1 square without your enemies noticing your movement, and a homunculus perfectly resembling you appears in an adjacent space. The homunculus is a creature with [Stamina](../health/stamina.md) 15, a 0 in all their characteristics, and a speed and stability equal to yours. They appear indistinguishable from you but can't use any abilities.
+**Effect:** When activated as a maneuver, this item erupts in a bright flash, you can [shift](../../movement/shifting.md) 1 square without your enemies noticing your movement, and a homunculus perfectly resembling you appears in an adjacent space. The homunculus is a creature with [Stamina](../health/stamina.md) 15, a 0 in all their [characteristics](../character/characteristic.md), and a speed and stability equal to yours. They appear indistinguishable from you but can't use any abilities.
 
 While you have line of effect to your homunculus, you can use a maneuver to issue them a telepathic command. The homunculus performs the command to the best of their ability. If not commanded, the homunculus mimics your movements and speech. When you move, the homunculus moves with you, matching your pace. The homunculus crumbles to dust after 1 hour or if reduced to 0 [Stamina](../health/stamina.md).
 
@@ -236,7 +236,7 @@ While you have line of effect to your homunculus, you can use a maneuver to issu
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 30 or 45 (see below)
 
@@ -260,11 +260,11 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md)
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you sprinkle a dose of this powder onto food or drink, or blow it at an adjacent creature who is [grabbed](../../condition/grabbed.md), [restrained](../../condition/restrained.md), or unconscious. A creature who is exposed to blown powder (even if they hold their breath) or consumes a dose of the powder must communicate in only true statements for 1 hour. Additionally, other creatures gain an edge on Intuition and Presence tests made to convince the target to communicate, or to read the target's emotions. Any such creature has a double edge on the test if the target doesn't realize they've been affected by the snuff.
+**Effect:** As a maneuver, you sprinkle a dose of this powder onto food or drink, or blow it at an adjacent creature who is [grabbed](../../condition/grabbed.md), [restrained](../../condition/restrained.md), or unconscious. A creature who is exposed to blown powder (even if they hold their breath) or consumes a dose of the powder must communicate in only true statements for 1 hour. Additionally, other creatures gain an [edge](../dice/edge.md) on [Intuition](../character/intuition.md) and [Presence](../character/presence.md) tests made to convince the target to communicate, or to read the target's emotions. Any such creature has a double [edge](../dice/edge.md) on the test if the target doesn't realize they've been affected by the snuff.
 
 ### Snapdragon {data-scc="mcdm.heroes.v1/treasure.1st-echelon.consumable/snapdragon"}
 
@@ -276,11 +276,11 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Project Source:** Texts or lore in Yllyric
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 45 (yields 1d6 + 1 snapdragons)
 
-**Effect:** As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 bonus to the distance of any [forced movement](../../movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../../movement/forced-movement.md), you can push each creature targeted by the ability up to 2 squares.
+**Effect:** As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 bonus to the [distance](../combat/distance.md) of any [forced movement](../../movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../../movement/forced-movement.md), you can push each creature targeted by the ability up to 2 squares.
 
 ## 2nd-Echelon Consumables
 
@@ -296,7 +296,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Hyrallic
 
-**Project Roll Characteristic:** Intuition or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Intuition](../character/intuition.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 90
 
@@ -312,11 +312,11 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the [Charge](../../feature/common/main-actions/charge.md) main action, the target of your strike is gored upon your horns and [grabbed](../../condition/grabbed.md). While [grabbed](../../condition/grabbed.md) this way, the creature is [bleeding](../../condition/bleeding.md). You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
+**Effect:** When you drink this potion as a maneuver, you sprout 3-foot sharpened horns from your forehead. Whenever you use the [Charge](../../feature/common/main-actions/charge.md) main action, the target of your [strike](../combat/strike.md) is gored upon your horns and [grabbed](../../condition/grabbed.md). While [grabbed](../../condition/grabbed.md) this way, the creature is [bleeding](../../condition/bleeding.md). You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
 
 ### Chocolate of Immovability {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.consumable/chocolate-of-immovability"}
 
@@ -328,11 +328,11 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 90
 
-**Effect:** When you consume this delicious piece of candy as a maneuver, you gain 15 [temporary Stamina](../health/temporary-stamina.md) and a +10 bonus to stability. Additionally, if you don't use your movement during your turn, any strikes you make on that turn deal an extra 5 damage, and any strikes against you take a bane until the start of your next turn. This effect and the bonus to stability lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the [temporary Stamina](../health/temporary-stamina.md) lasts until the end of your next respite.
+**Effect:** When you consume this delicious piece of candy as a maneuver, you gain 15 [temporary Stamina](../health/temporary-stamina.md) and a +10 bonus to stability. Additionally, if you don't use your movement during your turn, any strikes you make on that turn deal an extra 5 damage, and any [strikes](../combat/strike.md) against you take a [bane](../dice/bane.md) until the start of your next turn. This effect and the bonus to stability lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the [temporary Stamina](../health/temporary-stamina.md) lasts until the end of your next respite.
 
 ### Concealment Potion {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.consumable/concealment-potion"}
 
@@ -344,11 +344,11 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Yllyric
 
-**Project Roll Characteristic:** Agility or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double edge on tests made to hide and sneak, and you can use the [Hide](../../feature/common/maneuvers/hide.md) maneuver even while you are observed.
+**Effect:** When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double [edge](../dice/edge.md) on tests made to hide and sneak, and you can use the [Hide](../../feature/common/maneuvers/hide.md) maneuver even while you are observed.
 
 ### Float Powder {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.consumable/float-powder"}
 
@@ -360,7 +360,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Khelt
 
-**Project Roll Characteristic:** Intuition or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Intuition](../character/intuition.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 90 (yields 1d3 vials)
 
@@ -376,7 +376,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Yllyric
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 90 (yields 1d3 doses)
 
@@ -392,7 +392,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Source:** Texts or lore in the First Language
 
-**Project Roll Characteristic:** Intuition or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Intuition](../character/intuition.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 90
 
@@ -410,17 +410,17 @@ A creature with a willing soul returns to life at the end of the respite with fu
 
 **Project Source:** Texts or lore in Zaliac
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 90
 
-**Effect:** As a maneuver, you snap this wand in half, letting you vertically pull one object or creature of size 3 or less a number of squares based on that target's size:
+**Effect:** As a maneuver, you snap this wand in half, letting you vertically pull one object or creature of [size](../character/size.md) 3 or less a number of squares based on that target's [size](../character/size.md):
 
-- **Size 1L or smaller:** vertical pull 6
-- **Size 2:** vertical pull 3
-- **Size 3:** vertical pull 1
+- **[Size](../character/size.md) 1L or smaller:** vertical pull 6
+- **[Size](../character/size.md) 2:** vertical pull 3
+- **[Size](../character/size.md) 3:** vertical pull 1
 
-If you pull a size 1T object adjacent to you, you can catch it. This treasure can affect any target within line of effect.
+If you pull a [size](../character/size.md) 1T object adjacent to you, you can catch it. This treasure can affect any target within line of effect.
 
 ### Vial of Ethereal Attack {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.consumable/vial-of-ethereal-attack"}
 
@@ -432,7 +432,7 @@ If you pull a size 1T object adjacent to you, you can catch it. This treasure ca
 
 **Project Source:** Texts or lore in Anjali
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 90
 
@@ -452,13 +452,13 @@ This section presents 3rd-echelon consumable treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Variac
 
-**Project Roll Characteristic:** Might or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 180
 
 **Effect:** When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh adjacent to you. The wall can't be created to fill any square occupied by a creature with stability 1 or higher. Each other creature in the wall when it is created is pushed to the nearest unoccupied space.
 
-At the start of each of your turns, each creature adjacent to the wall takes psychic damage equal to three times their Intuition score, and you can add 1 square to the wall for each creature who takes this damage. If no creature takes damage at the start of your turn, the larva dies and the wall disappears.
+At the start of each of your turns, each creature adjacent to the wall takes psychic damage equal to three times their [Intuition](../character/intuition.md) score, and you can add 1 square to the wall for each creature who takes this damage. If no creature takes damage at the start of your turn, the larva dies and the wall disappears.
 
 ### Bottled Paradox {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.consumable/bottled-paradox"}
 
@@ -470,7 +470,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 180
 
@@ -486,7 +486,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Source:** Texts or lore in Anjali
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 180
 
@@ -502,7 +502,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Source:** Texts or lore in Khemharic
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 120
 
@@ -518,11 +518,11 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Source:** Texts in Anjali
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 180
 
-**Effect:** When you drink this potion as a maneuver, you gain a tenacious will to cling to life for 24 hours. If you are [dying](../health/dying.md) during this time, you don't die until you reach the negative of your [Stamina](../health/stamina.md) maximum rather than your [winded](../health/winded.md) value. Additionally, while you are [dying](../health/dying.md), you gain on edge on power rolls and you take half the damage dealt by the [bleeding](../../condition/bleeding.md) condition. Once the potion's magic is triggered, it ends when you are no longer [dying](../health/dying.md).
+**Effect:** When you drink this potion as a maneuver, you gain a tenacious will to cling to life for 24 hours. If you are [dying](../health/dying.md) during this time, you don't die until you reach the negative of your [Stamina](../health/stamina.md) maximum rather than your [winded](../health/winded.md) value. Additionally, while you are [dying](../health/dying.md), you gain on [edge](../dice/edge.md) on power rolls and you take half the damage dealt by the [bleeding](../../condition/bleeding.md) condition. Once the potion's magic is triggered, it ends when you are no longer [dying](../health/dying.md).
 
 ### Timesplitter {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.consumable/timesplitter"}
 
@@ -534,11 +534,11 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Source:** Texts or lore in Voll
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 180
 
-**Effect:** As a maneuver, you make a ranged [free strike](../../feature/common/main-actions/free-strike.md) using the Timesplitter, which shatters upon impact. The strike deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
+**Effect:** As a maneuver, you make a ranged [free strike](../../feature/common/main-actions/free-strike.md) using the Timesplitter, which shatters upon impact. The [strike](../combat/strike.md) deals an extra 1d6 psychic damage and adds the following effects to the tier outcomes of the power roll:
 
 - **≤11:** The target and each creature within 3 squares of them a [slowed](../../condition/slowed.md) (save ends).
 - **12-16:** The target and each creature within 5 squares of them is [slowed](../../condition/slowed.md) (save ends).
@@ -554,11 +554,11 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Source:** Texts or lore in Zaliac
 
-**Project Roll Characteristic:** Might or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 180
 
-**Effect:** As a maneuver, you toss this stone above you and it shatters, showering you in dust. Until the end of the encounter, any enemy ability that targets you has a double bane.
+**Effect:** As a maneuver, you toss this stone above you and it shatters, showering you in dust. Until the end of the encounter, any enemy ability that targets you has a double [bane](../dice/bane.md).
 
 ### Wellness Tonic {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.consumable/wellness-tonic"}
 
@@ -570,7 +570,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Source:** Texts or lore in Variac
 
-**Project Roll Characteristic:** Might or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 180
 
@@ -590,11 +590,11 @@ This section presents 4th-echelon consumable treasures in alphabetical order.
 
 **Project Source:** Texts or lore in the First Language
 
-**Project Roll Characteristic:** Intuition or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Intuition](../character/intuition.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 360
 
-**Effect:** When you inhale the Breath of Creation as a maneuver, you are imbued with cosmic power. You earn 1 Renown, and you create a size 2 portal to a new demiplane in an adjacent square. The demiplane is a 20-cube area whose form and mundane features are chosen by you. The portal appears only to you and creatures you designate, and only you and those creatures can enter the demiplane. When a creature moves into the portal, they emerge from a corresponding portal inside the demiplane, and vice versa. Objects created within the demiplane turn to dust if removed from it.
+**Effect:** When you inhale the Breath of Creation as a maneuver, you are imbued with cosmic power. You earn 1 Renown, and you create a [size](../character/size.md) 2 portal to a new demiplane in an adjacent square. The demiplane is a 20-cube area whose form and mundane features are chosen by you. The portal appears only to you and creatures you designate, and only you and those creatures can enter the demiplane. When a creature moves into the portal, they emerge from a corresponding portal inside the demiplane, and vice versa. Objects created within the demiplane turn to dust if removed from it.
 
 Each time you use another Breath of Creation, you can create a new demiplane or expand a demiplane you have already created or visited. The size of an expanded demiplane increases by 20, and you create a second portal to the demiplane with a corresponding portal inside.
 
@@ -608,7 +608,7 @@ Each time you use another Breath of Creation, you can create a new demiplane or 
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Presence](../character/presence.md)
 
 **Project Goal:** 360
 
@@ -626,7 +626,7 @@ Each time you use another Breath of Creation, you can create a new demiplane or 
 
 Infinite Library detailing incomplete instructions for building a sun
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 360
 
@@ -642,7 +642,7 @@ Infinite Library detailing incomplete instructions for building a sun
 
 **Project Source:** Texts or lore in Khelt
 
-**Project Roll Characteristic:** Reason or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 360
 

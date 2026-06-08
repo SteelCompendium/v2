@@ -17,7 +17,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Many tests are maneuvers if made in combat. Searching a chest with a Reason test, picking a door&#39;s lock with an Agility test, or lifting a portcullis with a Might test would all be maneuvers. Assisting a test is also a maneuver in combat (see Assist a Test in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>).</p>
-<p>Complex or time-consuming tests might require a main action if made in combat—or could take so long that they can&#39;t be made during combat at all. Other tests that take no time at all, such as a Reason test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.</p>
+<p>Many tests are maneuvers if made in combat. Searching a chest with a <a href="../../../../rule/character/reason/">Reason</a> test, picking a door&#39;s lock with an <a href="../../../../rule/character/agility/">Agility</a> test, or lifting a portcullis with a <a href="../../../../rule/character/might/">Might</a> test would all be maneuvers. Assisting a test is also a maneuver in combat (see Assist a Test in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>).</p>
+<p>Complex or time-consuming tests might require a main action if made in combat—or could take so long that they can&#39;t be made during combat at all. Other tests that take no time at all, such as a <a href="../../../../rule/character/reason/">Reason</a> test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.</p>
 </div>
 </section>

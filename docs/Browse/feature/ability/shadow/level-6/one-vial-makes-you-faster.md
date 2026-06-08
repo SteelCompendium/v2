@@ -9,12 +9,8 @@ keywords:
     - Ranged
 level: "6"
 name: One Vial Makes You Faster
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-faster
 target: Three creatures
-tier1: The creature's speed is increased by 2 until the end of the encounter.
-tier2: The creature can [fly](../../../../movement/fly.md) until the end of the encounter.
-tier3: The creature turns invisible until the end of their next turn.
 type: ability
 ---
 
@@ -38,7 +34,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature&#39;s speed is increased by 2 until the end of the encounter.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature can <a href="../../../../../movement/fly/">fly</a> until the end of the encounter.</span></div>

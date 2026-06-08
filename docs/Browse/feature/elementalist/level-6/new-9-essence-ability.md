@@ -63,7 +63,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the target has the following benefits:</p><ul><li>Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target&#39;s new space slides to the nearest unoccupied space, ignoring stability. If the target doesn&#39;t have space to grow, they grow as much as they can and become <a href="../../../../condition/restrained/">restrained</a> until the effect ends.</li><li>They have fire immunity 10.</li><li>Their strikes deal extra fire damage equal to twice your Reason score.</li><li>When the target force moves a creature or object, the <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a +2 bonus.</li><li>They can use their highest characteristic instead of Might for Might power rolls.</li></ul></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the target has the following benefits:</p><ul><li>Their <a href="../../../../rule/character/size/">size</a> and stability increase by 2, with any <a href="../../../../rule/character/size/">size</a> 1 target becoming <a href="../../../../rule/character/size/">size</a> 3. Each creature who is within the target&#39;s new space slides to the nearest unoccupied space, ignoring stability. If the target doesn&#39;t have space to grow, they grow as much as they can and become <a href="../../../../condition/restrained/">restrained</a> until the effect ends.</li><li>They have fire immunity 10.</li><li>Their <a href="../../../../rule/combat/strike/">strikes</a> deal extra fire damage equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score.</li><li>When the target force moves a creature or object, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +2 bonus.</li><li>They can use their highest <a href="../../../../rule/character/characteristic/">characteristic</a> instead of <a href="../../../../rule/character/might/">Might</a> for <a href="../../../../rule/character/might/">Might</a> power rolls.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
@@ -86,7 +86,7 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You <a href="../../../../movement/teleport/">teleport</a> the target up to 4 squares.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You <a href="../../../../movement/teleport/">teleport</a> the target up to 6 squares.</span></div>
@@ -95,7 +95,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is <a href="../../../../movement/teleport/">teleport</a>ed to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
+<div class="sc-ability__section-body"><p>If the target is <a href="../../../../movement/teleport/">teleport</a>ed to a space where they would fall, they immediately do so, treating the fall as if their <a href="../../../../rule/character/agility/">Agility</a> score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

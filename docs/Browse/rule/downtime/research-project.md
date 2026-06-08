@@ -18,7 +18,7 @@ Unless a project has an event table of its own or a special event entry, the Dir
 
 **Project Source:** Texts or knowledge related to the subject you wish to research
 
-**Project Roll Characteristic:** Reason
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md)
 
 **Project Goal:** Varies (see the table)
 
@@ -63,7 +63,7 @@ Forbidden knowledge is lore that a powerful individual or organization is attemp
 | 11-12  | Before the roll, a powerful supernatural entity sends an agent or premonition to the hero, offering them knowledge that will let them complete the project immediately. In exchange, the hero must agree to do a favor for the entity, which might not be specified at the time of the bargain.                                                                                                                                                                                                                 |
 | 13-14  | Before the roll, a rumor arises that the project is being worked on in service to an evil entity. People start showing up to the hero's place of respite, demanding that they repent their wicked ways. If the rumors aren't disproved, locals form a mob to stop the project.                                                                                                                                                                                                                                  |
 | 15-16  | Before the roll, the hero's rival comes to visit and shows off a guide for the project. The rival is willing to hand the guide over... provided the hero publicly humiliates themself by proclaiming that the rival is their better.                                                                                                                                                                                                                                                                             |
-| 17-18  | The project source is cursed. Before the roll, the hero must succeed on a hard Intuition test or become obsessed with the project. Until the project is complete, the hero can't use Victories to increase their [Heroic Resource](../resource/heroic-resource.md). The curse can be broken by slaying the creature who bestowed it, or by finding a priest to perform a holy ritual over the project source.                                                                                                                                     |
+| 17-18  | The project source is cursed. Before the roll, the hero must succeed on a hard [Intuition](../character/intuition.md) test or become obsessed with the project. Until the project is complete, the hero can't use Victories to increase their [Heroic Resource](../resource/heroic-resource.md). The curse can be broken by slaying the creature who bestowed it, or by finding a priest to perform a holy ritual over the project source.                                                                                                                                     |
 | 19-20  | Before the roll, the hero finds that a significant amount of the project has been completed by a group of fairies. The fairies might have completed the job out of boredom, or they might want something from the hero in return.                                                                                                                                                                                                                                                                               |
 | 21-22  | After the roll, the hero realizes that the project source contains only half the information they need, and they must find the rest of the information to complete the project.                                                                                                                                                                                                                                                                                                                                 |
 | 23-24  | After the roll, the hero discovers a new bit of knowledge or a technique that allows them to immediately start and finish a second project with a project goal of 50 or lower.                                                                                                                                                                                                                                                                                                                                  |
@@ -102,7 +102,7 @@ Forbidden knowledge is lore that a powerful individual or organization is attemp
 | 89-90  | After the roll, the hero completes their work on the project earlier than expected, and can either relax or go carousing with other heroes who are free. The hero and every character who joins them starts the next encounter with 10 [temporary Stamina](../health/temporary-stamina.md).                                                                                                                                                                                                                                                       |
 | 91-92  | Before the roll, the hero is approached by a wagoneer who needs help fixing their wagon. If the hero helps, they find out that the wagoneer is allied with the campaign's villain. If the hero doesn't attack or threaten the wagoneer, then in some future combat, an NPC of the Director's choice turns out to be a friend or relative of the wagoneer. They leave the battle peacefully when they recognize the hero.                                                                                        |
 | 93-94  | After the roll, the project source and any evidence of the project disappear into thin air. Any investigation of the area turns up footprints fleeing the scene and traces of gnoll hair.                                                                                                                                                                                                                                                                                                                       |
-| 95-96  | After the roll, the hero suddenly no longer understands or comprehends the project source after focusing on those materials for too long. If they continue with the project, they take a bane on its project rolls for the next two respites. If they leave the project alone for the next two respites, they'll be able to comprehend the research again, gaining an automatic breakthrough before the next project roll.                                                                                      |
+| 95-96  | After the roll, the hero suddenly no longer understands or comprehends the project source after focusing on those materials for too long. If they continue with the project, they take a [bane](../dice/bane.md) on its project rolls for the next two respites. If they leave the project alone for the next two respites, they'll be able to comprehend the research again, gaining an automatic breakthrough before the next project roll.                                                                                      |
 | 97-98  | Before the roll, part of the hero's project source or other materials shrinks and is pulled through a mousehole. A group of radenwights sent magical mice to steal the resources so they can finish their own project. The radenwights are willing to negotiate if the hero doesn't approach them aggressively.                                                                                                                                                                                                 |
 | 99-100 | Before the roll, an elemental springs forth from the project source and pulls the hero into a duel. If the hero can survive 3 rounds of combat with the elemental on their own, the elemental vanishes and leaves behind a completed project. If the hero flees, falls unconscious, or gets help from an ally, the elemental destroys the project source as they disappear.                                                                                                                                     |
 
@@ -112,7 +112,7 @@ Forbidden knowledge is lore that a powerful individual or organization is attemp
 
 **Project Source:** None
 
-**Project Roll Characteristic:** Intuition or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Intuition](../character/intuition.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 15
 
@@ -147,11 +147,11 @@ Additionally, while you work to complete this project, you might be called upon 
 
 **Project Source:** None
 
-**Project Roll Characteristic:** Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Intuition](../character/intuition.md)
 
 **Project Goal:** 240 if your career granted you two skills, or 360 if your career granted you three skills
 
-You revisit your previous life to freshen up on the experience it provided you. When this project is complete, you gain an edge on tests made using the skills provided by your career.
+You revisit your previous life to freshen up on the experience it provided you. When this project is complete, you gain an [edge](../dice/edge.md) on tests made using the skills provided by your career.
 
 ## Learn From a Master {data-scc="mcdm.heroes.v1/project/learn-from-a-master"}
 
@@ -159,7 +159,7 @@ You revisit your previous life to freshen up on the experience it provided you. 
 
 **Project Source:** An NPC of a higher level, or records of such an NPC's teachings in a language you know
 
-**Project Roll Characteristic:** Your highest characteristic
+**Project Roll [Characteristic](../character/characteristic.md):** Your highest [characteristic](../character/characteristic.md)
 
 **Project Goal:** Varies
 
@@ -194,7 +194,7 @@ You gain one signature ability of your choice from the master's class (gaining a
 
 ### Hone Ability
 
-You sharpen the effectiveness of one of your abilities of your choice. Choose between adding a +1/+1/+1 damage bonus to the ability, or improving the distance of a ranged ability by 2. An ability can be honed only once this way.
+You sharpen the effectiveness of one of your abilities of your choice. Choose between adding a +1/+1/+1 damage bonus to the ability, or improving the [distance](../combat/distance.md) of a ranged ability by 2. An ability can be honed only once this way.
 
 ### Improve Control
 
@@ -206,7 +206,7 @@ You learn to use one of your heroic abilities more efficiently, reducing its bas
 
 **Project Source:** Texts or instruction that teaches the language you want to learn
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 120
 
@@ -218,7 +218,7 @@ When you start this project, choose a language taught by the project source. Whe
 
 **Project Source:** Texts or instruction that teaches the skill you want to learn
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 120
 
@@ -230,7 +230,7 @@ When you start this project, choose a skill taught by the project source. When t
 
 **Project Source:** A recipe in a language you know, or someone who can tutor you in that recipe
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 100
 
@@ -242,7 +242,7 @@ A creature who eats a serving of food from a particular type of recipe gains one
 
 - **Comforting:** When the creature fails a saving throw, they can choose to succeed instead. This benefit then ends.
 - **Hearty:** The creature increases their [Recoveries](../health/recoveries.md) by 1 at the end of the respite in which the food is consumed.
-- **Supernatural Power:** The creature temporarily increases one of their characteristic scores by 1 (to a maximum of 6).
+- **Supernatural Power:** The creature temporarily increases one of their [characteristic](../character/characteristic.md) scores by 1 (to a maximum of 6).
 
 A creature can benefit from the food of only one recipe at a time, and can't benefit from more than one serving of a recipe at a time.
 

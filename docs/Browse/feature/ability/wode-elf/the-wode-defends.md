@@ -6,7 +6,7 @@ flavor: Thorny vines erupt from every surface and attempt to bind your foe.
 keywords:
     - Magic
     - Ranged
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
 name: The Wode Defends
 scc: mcdm.heroes.v1/feature.ability.wode-elf/the-wode-defends
 subtype: signature
@@ -28,13 +28,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">Thorny vines erupt from every surface and attempt to bind your foe.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might or Agility</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M or A damage; A &lt; WEAK, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 + M or A damage; A &lt; AVERAGE, <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>

@@ -63,7 +63,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Per
 
 #### Can't Take Hold {data-scc="mcdm.heroes.v1/feature.trait.human/cant-take-hold"}
 
-Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary [difficult terrain](../movement/difficult-terrain.md) created by magic and psionic abilities. Additionally, when you are [force moved](../movement/forced-movement.md) by a magic or psionic ability, you can reduce the [forced movement](../movement/forced-movement.md) distance by 1.
+Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary [difficult terrain](../movement/difficult-terrain.md) created by magic and psionic abilities. Additionally, when you are [force moved](../movement/forced-movement.md) by a magic or psionic ability, you can reduce the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) by 1.
 
 #### Determination {data-scc="mcdm.heroes.v1/feature.trait.human/determination"}
 
@@ -71,7 +71,7 @@ A tolerance for pain and distress allows you to push through difficult situation
 
 #### Perseverance {data-scc="mcdm.heroes.v1/feature.trait.human/perseverance"}
 
-Giving up is for other people. You gain an edge on tests made using the [Endurance](../skill/endurance.md) skill. Additionally, when you are [slowed](../condition/slowed.md), your speed is reduced to 3 instead of 2.
+Giving up is for other people. You gain an [edge](../rule/dice/edge.md) on tests made using the [Endurance](../skill/endurance.md) skill. Additionally, when you are [slowed](../condition/slowed.md), your speed is reduced to 3 instead of 2.
 
 #### Resist the Unnatural {data-scc="mcdm.heroes.v1/feature.trait.human/resist-the-unnatural"}
 

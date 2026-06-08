@@ -22,7 +22,7 @@ type: treasure
 
 **Project Source:** Texts or lore in Yllyric
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 90 (yields 1d3 doses)
 

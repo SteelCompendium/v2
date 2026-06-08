@@ -9,12 +9,8 @@ keywords:
     - Ranged
 level: "9"
 name: Chain Reaction
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/chain-reaction
 target: One creature or object
-tier1: 7 damage
-tier2: 10 damage
-tier3: 15 damage
 type: ability
 ---
 
@@ -38,7 +34,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage</span></div>

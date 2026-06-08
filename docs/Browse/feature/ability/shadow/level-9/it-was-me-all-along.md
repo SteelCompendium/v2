@@ -3,20 +3,16 @@ action_type: Main action
 class: shadow
 cost: 11 Insight
 distance: Melee 1
-effect: If you are disguised as a creature the target knew using your [I'm No Threat](../level-1/im-no-threat.md) ability, this ability deals extra damage equal to three times your Agility score.
+effect: If you are disguised as a creature the target knew using your [I'm No Threat](../level-1/im-no-threat.md) ability, this ability deals extra damage equal to three times your [Agility](../../../../rule/character/agility.md) score.
 flavor: After everything you've been through together, you twist the blade and make the pain extra personal.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "9"
 name: It Was Me All Along
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/it-was-me-all-along
 target: One creature or object
-tier1: 15 + A damage
-tier2: 21 + A damage
-tier3: 28 + A damage
 type: ability
 ---
 
@@ -34,13 +30,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Insight</div></div>
 </div>
 <p class="sc-ability__flavor">After everything you&#39;ve been through together, you twist the blade and make the pain extra personal.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">15 + A damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">21 + A damage</span></div>
@@ -49,6 +45,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you are disguised as a creature the target knew using your <a href="../../level-1/im-no-threat/">I&#39;m No Threat</a> ability, this ability deals extra damage equal to three times your Agility score.</p></div>
+<div class="sc-ability__section-body"><p>If you are disguised as a creature the target knew using your <a href="../../level-1/im-no-threat/">I&#39;m No Threat</a> ability, this ability deals extra damage equal to three times your <a href="../../../../../rule/character/agility/">Agility</a> score.</p></div>
 </div>
 </article>

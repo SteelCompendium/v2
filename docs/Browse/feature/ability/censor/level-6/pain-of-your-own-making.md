@@ -3,7 +3,7 @@ action_type: Free triggered
 class: censor
 cost: 9 Wrath
 distance: Ranged 10
-effect: The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your Presence score.
+effect: The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](../../../../rule/character/presence.md) score.
 flavor: You reverse the effects from an evildoer.
 keywords:
     - Magic
@@ -42,6 +42,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your Presence score.</p></div>
+<div class="sc-ability__section-body"><p>The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your <a href="../../../../../rule/character/presence/">Presence</a> score.</p></div>
 </div>
 </article>

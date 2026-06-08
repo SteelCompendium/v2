@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the end of each of your turns, each ally in the area gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your Reason score.</p>
+<p>At the end of each of your turns, each ally in the area gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>

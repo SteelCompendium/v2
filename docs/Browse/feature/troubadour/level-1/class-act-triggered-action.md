@@ -74,7 +74,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target takes damage from a melee strike.</p></div>
+<div class="sc-ability__section-body"><p>The target takes damage from a melee <a href="../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -98,13 +98,13 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target makes an ability roll that has an edge, a double edge, a bane, or a double bane.</p></div>
+<div class="sc-ability__section-body"><p>The target makes an ability roll that has an <a href="../../../../rule/dice/edge/">edge</a>, a double <a href="../../../../rule/dice/edge/">edge</a>, a <a href="../../../../rule/dice/bane/">bane</a>, or a double <a href="../../../../rule/dice/bane/">bane</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>An edge on the triggering roll becomes a bane, or a double edge becomes an edge. A bane becomes an edge, or a double bane becomes a bane.</p></div>
+<div class="sc-ability__section-body"><p>An <a href="../../../../rule/dice/edge/">edge</a> on the triggering roll becomes a <a href="../../../../rule/dice/bane/">bane</a>, or a double <a href="../../../../rule/dice/edge/">edge</a> becomes an <a href="../../../../rule/dice/edge/">edge</a>. A <a href="../../../../rule/dice/bane/">bane</a> becomes an <a href="../../../../rule/dice/edge/">edge</a>, or a double <a href="../../../../rule/dice/bane/">bane</a> becomes a <a href="../../../../rule/dice/bane/">bane</a>.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 3 Drama</span><span class="txt">An edge on the triggering roll becomes a double bane, or a double edge is negated. A bane becomes a double edge, or a double bane is negated.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 3 Drama</span><span class="txt">An <a href="../../../../rule/dice/edge/">edge</a> on the triggering roll becomes a double <a href="../../../../rule/dice/bane/">bane</a>, or a double <a href="../../../../rule/dice/edge/">edge</a> is negated. A <a href="../../../../rule/dice/bane/">bane</a> becomes a double <a href="../../../../rule/dice/edge/">edge</a>, or a double <a href="../../../../rule/dice/bane/">bane</a> is negated.</span></div>
 </article>
 </div>
 </div>

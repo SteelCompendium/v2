@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have a double edge on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double edge on tests made to gamble!</p>
+<p>You have a double <a href="../../../../rule/dice/edge/">edge</a> on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double <a href="../../../../rule/dice/edge/">edge</a> on tests made to gamble!</p>
 </div>
 </section>

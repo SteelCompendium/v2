@@ -9,12 +9,8 @@ keywords:
     - Magic
 level: "1"
 name: Dramatic Reversal
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/dramatic-reversal
 target: Self and each ally in the area
-tier1: The target can [shift](../../../../movement/shifting.md) 1 square and make a [free strike](../../../common/main-actions/free-strike.md).
-tier2: The target can [shift](../../../../movement/shifting.md) up to 2 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an edge.
-tier3: The target can [shift](../../../../movement/shifting.md) up to 3 squares and make a [free strike](../../../common/main-actions/free-strike.md) that gains an edge, then can spend a [Recovery](../../../../rule/health/recoveries.md).
 type: ability
 ---
 
@@ -38,11 +34,11 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target can <a href="../../../../../movement/shifting/">shift</a> 1 square and make a <a href="../../../../common/main-actions/free-strike/">free strike</a>.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares and make a <a href="../../../../common/main-actions/free-strike/">free strike</a> that gains an edge.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target can <a href="../../../../../movement/shifting/">shift</a> up to 3 squares and make a <a href="../../../../common/main-actions/free-strike/">free strike</a> that gains an edge, then can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares and make a <a href="../../../../common/main-actions/free-strike/">free strike</a> that gains an <a href="../../../../../rule/dice/edge/">edge</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target can <a href="../../../../../movement/shifting/">shift</a> up to 3 squares and make a <a href="../../../../common/main-actions/free-strike/">free strike</a> that gains an <a href="../../../../../rule/dice/edge/">edge</a>, then can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</span></div>
 </div>
 </div>
 </article>

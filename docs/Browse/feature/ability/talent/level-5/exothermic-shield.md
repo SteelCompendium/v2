@@ -3,7 +3,7 @@ action_type: Maneuver
 class: talent
 cost: 9 Clarity
 distance: Ranged 10
-effect: Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
+effect: Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their [strikes](../../../../rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../../../../rule/character/reason.md) score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 flavor: You encase the target in psionic flame and allow them to flicker without fear of burning out.
 keywords:
     - Pyrokinesis
@@ -37,7 +37,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their <a href="../../../../../rule/combat/strike/">strikes</a> deal extra fire damage equal to twice your <a href="../../../../../rule/character/reason/">Reason</a> score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

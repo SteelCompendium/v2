@@ -1,7 +1,7 @@
 ---
 effect: 'Choose one of the following benefits:'
 name: Ratcatcher
-prerequisite: You defeat a leader or solo creature who is size 1S or smaller, such as a goblin [monarch](monarch.md).
+prerequisite: You defeat a leader or solo creature who is [size](../rule/character/size.md) 1S or smaller, such as a goblin [monarch](monarch.md).
 scc: mcdm.heroes.v1/title/ratcatcher
 type: title
 ---
@@ -12,7 +12,7 @@ type: title
 
 *I like fighting these little guys. Means I don't have to waste money on a helmet.*
 
-**Prerequisite:** You defeat a leader or solo creature who is size 1S or smaller, such as a goblin [monarch](monarch.md).
+**Prerequisite:** You defeat a leader or solo creature who is [size](../rule/character/size.md) 1S or smaller, such as a goblin [monarch](monarch.md).
 
 **Effect:** Choose one of the following benefits:
 
@@ -29,5 +29,5 @@ type: title
 >
 > **Effect:** Each target who has P < AVERAGE is [taunted](../condition/taunted.md) by you until the end of their next turn, and you know the location of each creature [taunted](../condition/taunted.md) in this way.
 
-- *Deadly and Big:* Your strikes gain a +3 damage bonus against creatures whose size is smaller than yours.
-- *Everybody Move!:* When you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature of your size or two additional smaller creatures.
+- *Deadly and Big:* Your [strikes](../rule/combat/strike.md) gain a +3 damage bonus against creatures whose [size](../rule/character/size.md) is smaller than yours.
+- *Everybody Move!:* When you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature of your [size](../rule/character/size.md) or two additional smaller creatures.

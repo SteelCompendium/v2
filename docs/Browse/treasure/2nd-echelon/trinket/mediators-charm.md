@@ -22,7 +22,7 @@ type: treasure
 
 **Project Source:** Texts or lore in Hyrallic
 
-**Project Roll Characteristic:** Reason or Presence
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Presence](../../../rule/character/presence.md)
 
 **Project Goal:** 300
 

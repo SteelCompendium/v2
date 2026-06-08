@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You and each creature or object of your choice in the area of your <a href="../../level-1/null-field/">Null Field</a> ability gain a bonus to stability equal to your Intuition score. A creature who attempts to <a href="../../../../movement/forced-movement/">force move</a> a target with this bonus takes psychic damage equal to your Intuition score.</p>
+<p>You and each creature or object of your choice in the area of your <a href="../../level-1/null-field/">Null Field</a> ability gain a bonus to stability equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score. A creature who attempts to <a href="../../../../movement/forced-movement/">force move</a> a target with this bonus takes psychic damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>When you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action, one ally in the area of your <a href="../../level-1/null-field/">Null Field</a> ability can also take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action as a free triggered action, using your distance for that move action.</p>
+<p>When you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action, one ally in the area of your <a href="../../level-1/null-field/">Null Field</a> ability can also take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action as a free triggered action, using your <a href="../../../../rule/combat/distance/">distance</a> for that move action.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

@@ -32,13 +32,13 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You distract a foe while your allies secure their defensive gear.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + M damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + M damage</span></div>
@@ -67,7 +67,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 1 <a href="../../../../rule/resource/surge/">surge</a> and can use a signature ability that has a double edge.</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 1 <a href="../../../../rule/resource/surge/">surge</a> and can use a signature ability that has a double <a href="../../../../rule/dice/edge/">edge</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -107,7 +107,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> cost reduced by 1 + your Reason score (minimum cost 0).</p></div>
+<div class="sc-ability__section-body"><p>The target uses a heroic ability with the <a href="../../../../rule/combat/strike/">Strike</a> keyword as a free triggered action, and deals extra damage with that ability equal to your <a href="../../../../rule/character/reason/">Reason</a> score. The ability has its <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> cost reduced by 1 + your <a href="../../../../rule/character/reason/">Reason</a> score (minimum cost 0).</p></div>
 </div>
 </article>
 </div>

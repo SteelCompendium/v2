@@ -41,13 +41,13 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">I am but a vessel. Your own deeds weigh upon you.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + M holy damage; P &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + M holy damage; P &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
@@ -56,7 +56,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is already <a href="../../../../condition/frightened/">frightened</a> of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.</p></div>
+<div class="sc-ability__section-body"><p>If the target is already <a href="../../../../condition/frightened/">frightened</a> of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your <a href="../../../../rule/character/presence/">Presence</a> score.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -76,7 +76,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can&#39;t become hidden again until the start of your next turn. You can then use your <a href="../../../ability/censor/level-1/judgment/">Judgment</a> ability against one target as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>Each target takes holy damage equal to twice your <a href="../../../../rule/character/presence/">Presence</a> score. Additionally, each hidden target is automatically revealed and can&#39;t become hidden again until the start of your next turn. You can then use your <a href="../../../ability/censor/level-1/judgment/">Judgment</a> ability against one target as a free triggered action.</p></div>
 </div>
 </article>
 </div>
@@ -132,7 +132,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> cost by 3 (to a minimum cost of 0).</p></div>
+<div class="sc-ability__section-body"><p>The target can use a free triggered action to use a <a href="../../../../rule/combat/strike/">strike</a> signature ability or a <a href="../../../../rule/combat/strike/">strike</a> heroic ability, and has a double <a href="../../../../rule/dice/edge/">edge</a> on that ability. If a heroic ability is chosen, reduce its <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> cost by 3 (to a minimum cost of 0).</p></div>
 </div>
 </article>
 </div>
@@ -177,13 +177,13 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">The shock of your condemnation freezes your enemy in their boots.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P damage; P &lt; WEAK, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + P damage; P &lt; AVERAGE, <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>

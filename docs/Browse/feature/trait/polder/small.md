@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your diminutive stature lets you easily get out of—or into—trouble. Your size is 1S.</p>
+<p>Your diminutive stature lets you easily get out of—or into—trouble. Your <a href="../../../../rule/character/size/">size</a> is 1S.</p>
 </div>
 </section>

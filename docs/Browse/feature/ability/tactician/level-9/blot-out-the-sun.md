@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 11 Focus
 distance: 3 burst
-effect: Each target can make a ranged [free strike](../../../common/main-actions/free-strike.md) that gains an edge against any enemy marked by you within distance of their ranged [free strike](../../../common/main-actions/free-strike.md). A target ignores banes and double banes when making this strike.
+effect: Each target can make a ranged [free strike](../../../common/main-actions/free-strike.md) that gains an [edge](../../../../rule/dice/edge.md) against any enemy marked by you within [distance](../../../../rule/combat/distance.md) of their ranged [free strike](../../../common/main-actions/free-strike.md). A target ignores [banes](../../../../rule/dice/bane.md) and double [banes](../../../../rule/dice/bane.md) when making this [strike](../../../../rule/combat/strike.md).
 flavor: What makes a good soldier? The ability to fire four shots a minute in any weather.
 keywords:
     - Area
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can make a ranged <a href="../../../../common/main-actions/free-strike/">free strike</a> that gains an edge against any enemy marked by you within distance of their ranged <a href="../../../../common/main-actions/free-strike/">free strike</a>. A target ignores banes and double banes when making this strike.</p></div>
+<div class="sc-ability__section-body"><p>Each target can make a ranged <a href="../../../../common/main-actions/free-strike/">free strike</a> that gains an <a href="../../../../../rule/dice/edge/">edge</a> against any enemy marked by you within <a href="../../../../../rule/combat/distance/">distance</a> of their ranged <a href="../../../../common/main-actions/free-strike/">free strike</a>. A target ignores <a href="../../../../../rule/dice/bane/">banes</a> and double <a href="../../../../../rule/dice/bane/">banes</a> when making this <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 </article>

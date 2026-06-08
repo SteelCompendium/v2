@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your ranged psionic abilities gain a +2 bonus to distance.</p>
+<p>Your ranged psionic abilities gain a +2 bonus to <a href="../../../../rule/combat/distance/">distance</a>.</p>
 </div>
 </section>

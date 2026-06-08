@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each of your characteristic scores increases by 1, to a maximum of 4.</p>
+<p>Each of your <a href="../../../../rule/character/characteristic/">characteristic</a> scores increases by 1, to a maximum of 4.</p>
 </div>
 </section>

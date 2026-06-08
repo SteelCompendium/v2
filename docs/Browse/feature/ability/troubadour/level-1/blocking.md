@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 2 aura
-effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](../../../../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../../../../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../../../../rule/health/dying.md), or result in them suffering a condition or other negative effect.
+effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score and [teleport](../../../../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../../../../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../../../../rule/health/dying.md), or result in them suffering a condition or other negative effect.
 flavor: No, no, no, you lose the audience that way. Try it like this...
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and <a href="../../../../../movement/teleport/">teleport</a> those targets to unoccupied spaces in the area. A target can&#39;t be <a href="../../../../../movement/teleport/">teleport</a>ed in a way that would harm them (such as over a cliff), leave them <a href="../../../../../rule/health/dying/">dying</a>, or result in them suffering a condition or other negative effect.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your <a href="../../../../../rule/character/presence/">Presence</a> score and <a href="../../../../../movement/teleport/">teleport</a> those targets to unoccupied spaces in the area. A target can&#39;t be <a href="../../../../../movement/teleport/">teleport</a>ed in a way that would harm them (such as over a cliff), leave them <a href="../../../../../rule/health/dying/">dying</a>, or result in them suffering a condition or other negative effect.</p></div>
 </div>
 </article>

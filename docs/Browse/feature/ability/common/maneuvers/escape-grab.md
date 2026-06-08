@@ -1,7 +1,7 @@
 ---
 action_type: Maneuver
 distance: Self
-effect: You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you [grabbed](../../../../condition/grabbed.md).
+effect: You take a [bane](../../../../rule/dice/bane.md) on this maneuver if your [size](../../../../rule/character/size.md) is smaller than the size of the creature, object, or effect that has you [grabbed](../../../../condition/grabbed.md).
 keywords:
     - '-'
 name: Escape Grab
@@ -29,7 +29,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might or Agility</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../../rule/character/might.md) or [Agility](../../../../rule/character/agility.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">No effect.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can escape the grab, but if you do, a creature who has you <a href="../../../../../condition/grabbed/">grabbed</a> can make a melee <a href="../../../../common/main-actions/free-strike/">free strike</a> against you before you are no longer <a href="../../../../../condition/grabbed/">grabbed</a>.</span></div>
@@ -38,6 +38,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you <a href="../../../../../condition/grabbed/">grabbed</a>.</p><p>See Conditions in Chapter 5: <a href="../../../../../../Read/heroes/classes/">Classes</a> for information on the <a href="../../../../../condition/grabbed/">grabbed</a> condition.</p></div>
+<div class="sc-ability__section-body"><p>You take a <a href="../../../../../rule/dice/bane/">bane</a> on this maneuver if your <a href="../../../../../rule/character/size/">size</a> is smaller than the size of the creature, object, or effect that has you <a href="../../../../../condition/grabbed/">grabbed</a>.</p><p>See Conditions in Chapter 5: <a href="../../../../../../Read/heroes/classes/">Classes</a> for information on the <a href="../../../../../condition/grabbed/">grabbed</a> condition.</p></div>
 </div>
 </article>

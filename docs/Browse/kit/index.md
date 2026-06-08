@@ -20,7 +20,7 @@
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
-    <div class="sc-card__stat"><div class="v">+10</div><div class="l">Ranged Dist</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
   <div class="sc-card__sig"><span class="sc-card__dot" data-type="ranged"></span><span class="sc-card__sig-label">Signature</span><span class="sc-card__sig-name">Exploding Arrow</span></div>
 </div>
@@ -83,7 +83,7 @@
     <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
-    <div class="sc-card__stat"><div class="v">+5</div><div class="l">Ranged Dist</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
   <div class="sc-card__sig"><span class="sc-card__dot" data-type="ranged"></span><span class="sc-card__sig-label">Signature</span><span class="sc-card__sig-name">Fade</span></div>
 </div>
@@ -145,7 +145,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Melee Dist</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
   <div class="sc-card__sig"><span class="sc-card__dot" data-type="strike"></span><span class="sc-card__sig-label">Signature</span><span class="sc-card__sig-name">Forward Thrust, Backward Smash</span></div>
@@ -155,7 +155,7 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M16,5V4A2,2 0 0,0 14,2H10A2,2 0 0,0 8,4V5A4,4 0 0,0 4,9V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V9A4,4 0 0,0 16,5M10,4H14V5H10V4M12,9L14,11L12,13L10,11L12,9M18,16H9V18H8V16H6V15H18V16Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Martial Artist</div></div></div>
-  <div class="sc-card__equip">You wear no armor and wield only your unarmed strikes.</div>
+  <div class="sc-card__equip">You wear no armor and wield only your unarmed [strikes](../rule/combat/strike.md).</div>
   <div class="sc-card__flavor">If you want to be fast in a fight, then Martial Artist is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
@@ -218,7 +218,7 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M16,5V4A2,2 0 0,0 14,2H10A2,2 0 0,0 8,4V5A4,4 0 0,0 4,9V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V9A4,4 0 0,0 16,5M10,4H14V5H10V4M12,9L14,11L12,13L10,11L12,9M18,16H9V18H8V16H6V15H18V16Z"/></svg></span></span>
     <div><div class="sc-card__type">Martial Kit</div>
     <div class="sc-card__name">Pugilist</div></div></div>
-  <div class="sc-card__equip">You wear no armor and wield only your unarmed strikes.</div>
+  <div class="sc-card__equip">You wear no armor and wield only your unarmed [strikes](../rule/combat/strike.md).</div>
   <div class="sc-card__flavor">Meant for brawlers and boxers, the Pugilist kit gives you access to a melee fighting style that grants a boost to Stamina and damage while allowing you to float…</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
@@ -272,7 +272,7 @@
     <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
-    <div class="sc-card__stat"><div class="v">+5</div><div class="l">Ranged Dist</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
   <div class="sc-card__sig"><span class="sc-card__dot" data-type="ranged"></span><span class="sc-card__sig-label">Signature</span><span class="sc-card__sig-name">Raider&#39;s Awe</span></div>
 </div>
@@ -293,7 +293,7 @@
     <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
-    <div class="sc-card__stat"><div class="v">+5</div><div class="l">Ranged Dist</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
   <div class="sc-card__sig"><span class="sc-card__dot" data-type="ranged"></span><span class="sc-card__sig-label">Signature</span><span class="sc-card__sig-name">Hamstring Shot</span></div>
 </div>
@@ -314,7 +314,7 @@
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
-    <div class="sc-card__stat"><div class="v">+7</div><div class="l">Ranged Dist</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
   <div class="sc-card__sig"><span class="sc-card__dot" data-type="ranged"></span><span class="sc-card__sig-label">Signature</span><span class="sc-card__sig-name">Two Shot</span></div>
 </div>
@@ -334,7 +334,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Melee Dist</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
   <div class="sc-card__sig"><span class="sc-card__dot" data-type="strike"></span><span class="sc-card__sig-label">Signature</span><span class="sc-card__sig-name">Net and Stab</span></div>
@@ -377,7 +377,7 @@
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+0/+0/+4</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
-    <div class="sc-card__stat"><div class="v">+10</div><div class="l">Ranged Dist</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
   <div class="sc-card__sig"><span class="sc-card__dot" data-type="ranged"></span><span class="sc-card__sig-label">Signature</span><span class="sc-card__sig-name">Patient Shot</span></div>
 </div>
@@ -418,7 +418,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Melee Dist</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
   <div class="sc-card__sig"><span class="sc-card__dot" data-type="strike"></span><span class="sc-card__sig-label">Signature</span><span class="sc-card__sig-name">Where I Want You</span></div>
@@ -523,7 +523,7 @@
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Melee Dist</div></div>
+    <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
   <div class="sc-card__sig"><span class="sc-card__dot" data-type="strike"></span><span class="sc-card__sig-label">Signature</span><span class="sc-card__sig-name">Extension of My Arm</span></div>

@@ -27,7 +27,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your stature reflects your giant forebears. Your size is 1L.</p>
+<p>Your stature reflects your giant forebears. Your <a href="../../../../rule/character/size/">size</a> is 1L.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -46,7 +46,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You are exceptionally strong. You gain an edge on tests made to lift and haul heavy objects.</p>
+<p>You are exceptionally strong. You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to lift and haul heavy objects.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -68,7 +68,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you <a href="../../../../movement/forced-movement/">force move</a> a creature or object, the <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a +1 bonus.</p>
+<p>Whenever you <a href="../../../../movement/forced-movement/">force move</a> a creature or object, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +1 bonus.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -88,7 +88,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your body is made to withstand the blows of your enemies. Your Might score is treated as 1 higher for the purpose of resisting potencies, and you gain an edge on Might tests when called for to resist environmental effects or a creature&#39;s traits or abilities.</p>
+<p>Your body is made to withstand the blows of your enemies. Your <a href="../../../../rule/character/might/">Might</a> score is treated as 1 higher for the purpose of resisting potencies, and you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/might/">Might</a> tests when called for to resist environmental effects or a creature&#39;s traits or abilities.</p>
 </div>
 </section>
 </div>

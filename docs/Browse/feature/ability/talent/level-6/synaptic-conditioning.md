@@ -11,12 +11,8 @@ keywords:
     - Telepathy
 level: "6"
 name: Synaptic Conditioning
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/synaptic-conditioning
 target: One creature
-tier1: 10 psychic damage; the target takes a bane on ability rolls made to harm you or your allies (save ends)
-tier2: 14 psychic damage; the target has a double bane on ability rolls made to harm you or your allies (save ends)
-tier3: 20 psychic damage; the target considers you and your allies to be their allies when using abilities and features (save ends)
 type: ability
 ---
 
@@ -40,10 +36,10 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 psychic damage; the target takes a bane on ability rolls made to harm you or your allies (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 psychic damage; the target has a double bane on ability rolls made to harm you or your allies (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 psychic damage; the target takes a <a href="../../../../../rule/dice/bane/">bane</a> on ability rolls made to harm you or your allies (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 psychic damage; the target has a double <a href="../../../../../rule/dice/bane/">bane</a> on ability rolls made to harm you or your allies (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 psychic damage; the target considers you and your allies to be their allies when using abilities and features (save ends)</span></div>
 </div>
 </div>

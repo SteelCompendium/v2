@@ -9,12 +9,8 @@ keywords:
     - Psionic
 level: "8"
 name: Scalar Assault
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-8/scalar-assault
 target: Each enemy in the area
-tier1: 12 psychic damage; push 3
-tier2: 17 psychic damage; push 5
-tier3: 23 psychic damage; push 7
 type: ability
 ---
 
@@ -38,7 +34,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 psychic damage; push 3</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 psychic damage; push 5</span></div>

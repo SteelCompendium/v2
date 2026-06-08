@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever a creature within distance of your <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability makes a power roll, you can spend 1 drama as a free triggered action to use <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a>, targeting only one creature.</p>
+<p>Whenever a creature within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability makes a power roll, you can spend 1 drama as a free triggered action to use <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a>, targeting only one creature.</p>
 </div>
 </section>

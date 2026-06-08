@@ -1,12 +1,12 @@
 ---
 action_type: Main action
 distance: Melee 1 or ranged 10
-effect: The target takes a bane on their next power roll made before the end of their next turn.
+effect: The target takes a [bane](../../../rule/dice/bane.md) on their next power roll made before the end of their next turn.
 flavor: You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../../tactician/level-7/shock-and-awe.md)")
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: raider
 name: Raider (Raider's Awe)
@@ -30,13 +30,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">You execute a brutal strike that leaves your foe reeling. (Previously known as &#34;<a href="../../../tactician/level-7/shock-and-awe/">Shock and Awe</a>&#34;)</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might or Agility</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md) or [Agility](../../../rule/character/agility.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M or A damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M or A damage</span></div>
@@ -45,6 +45,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes a bane on their next power roll made before the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>The target takes a <a href="../../../../rule/dice/bane/">bane</a> on their next power roll made before the end of their next turn.</p></div>
 </div>
 </article>

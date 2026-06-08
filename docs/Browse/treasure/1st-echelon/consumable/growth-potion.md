@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target's size to increase by 1(to a minimum size of 2). If you are the target, your [Stamina](../../../rule/health/stamina.md) maximum and Stability are doubled, you gain an edge on Might tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest characteristic score. You shrink back to your original size after 3 rounds, halving your current [Stamina](../../../rule/health/stamina.md) maximum and Stability, and losing the potion's other benefits. Objects maintain their new size permanently.
+effect: As a maneuver, you can drink this potion or pour it over an object of [size](../../../rule/character/size.md) 2 or smaller, causing the target's [size](../../../rule/character/size.md) to increase by 1(to a minimum size of 2). If you are the target, your [Stamina](../../../rule/health/stamina.md) maximum and Stability are doubled, you gain an [edge](../../../rule/dice/edge.md) on [Might](../../../rule/character/might.md) tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest [characteristic](../../../rule/character/characteristic.md) score. You shrink back to your original [size](../../../rule/character/size.md) after 3 rounds, halving your current [Stamina](../../../rule/health/stamina.md) maximum and Stability, and losing the potion's other benefits. Objects maintain their new [size](../../../rule/character/size.md) permanently.
 keywords:
     - Magic
     - Potion
@@ -22,8 +22,8 @@ type: treasure
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target's size to increase by 1(to a minimum size of 2). If you are the target, your [Stamina](../../../rule/health/stamina.md) maximum and Stability are doubled, you gain an edge on Might tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest characteristic score. You shrink back to your original size after 3 rounds, halving your current [Stamina](../../../rule/health/stamina.md) maximum and Stability, and losing the potion's other benefits. Objects maintain their new size permanently.
+**Effect:** As a maneuver, you can drink this potion or pour it over an object of [size](../../../rule/character/size.md) 2 or smaller, causing the target's [size](../../../rule/character/size.md) to increase by 1(to a minimum size of 2). If you are the target, your [Stamina](../../../rule/health/stamina.md) maximum and Stability are doubled, you gain an [edge](../../../rule/dice/edge.md) on [Might](../../../rule/character/might.md) tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest [characteristic](../../../rule/character/characteristic.md) score. You shrink back to your original [size](../../../rule/character/size.md) after 3 rounds, halving your current [Stamina](../../../rule/health/stamina.md) maximum and Stability, and losing the potion's other benefits. Objects maintain their new [size](../../../rule/character/size.md) permanently.

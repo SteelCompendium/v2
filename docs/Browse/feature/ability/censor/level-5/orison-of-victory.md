@@ -9,12 +9,8 @@ keywords:
     - Area
 level: "5"
 name: Orison of Victory
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.censor.level-5/orison-of-victory
 target: Self and each ally in the area
-tier1: Each target gains 1 [surge](../../../../rule/resource/surge.md).
-tier2: Each target gains 2 [surges](../../../../rule/resource/surge.md).
-tier3: Each target gains 3 [surges](../../../../rule/resource/surge.md).
 type: ability
 ---
 
@@ -38,7 +34,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Each target gains 1 <a href="../../../../../rule/resource/surge/">surge</a>.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Each target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>.</span></div>

@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 7 Essence
 distance: 3 aura
-effect: Until the end of your next turn, each ally in the area has each of their characteristic scores treated as 1 higher for the purpose of resisting potencies, and has a +1 bonus to saving throws.
+effect: Until the end of your next turn, each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting potencies, and has a +1 bonus to saving throws.
 flavor: Guardian animal spirits surround you to harry your foes and bolster your allies.
 keywords:
     - Area
@@ -11,12 +11,8 @@ keywords:
     - Magic
 level: "3"
 name: Swarm of Spirits
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-3/swarm-of-spirits
 target: Each enemy in the area
-tier1: 3 damage
-tier2: 6 damage
-tier3: 9 damage
 type: ability
 ---
 
@@ -40,7 +36,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage</span></div>
@@ -49,7 +45,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of your next turn, each ally in the area has each of their characteristic scores treated as 1 higher for the purpose of resisting potencies, and has a +1 bonus to saving throws.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of your next turn, each ally in the area has each of their <a href="../../../../../rule/character/characteristic/">characteristic</a> scores treated as 1 higher for the purpose of resisting potencies, and has a +1 bonus to saving throws.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>

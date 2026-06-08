@@ -3,7 +3,7 @@ action_type: Maneuver
 class: censor
 cost: 7 Wrath
 distance: 2 aura
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target moves or is [force moved](../../../../movement/forced-movement.md) out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever a target moves or is [force moved](../../../../movement/forced-movement.md) out of the area, they take holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
 flavor: The holy aura you project makes it painful for evil-doers to leave your reach.
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, whenever a target moves or is <a href="../../../../../movement/forced-movement/">force moved</a> out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, whenever a target moves or is <a href="../../../../../movement/forced-movement/">force moved</a> out of the area, they take holy damage equal to twice your <a href="../../../../../rule/character/presence/">Presence</a> score. A target judged by you who moves willingly takes an extra 2d6 holy damage.</p></div>
 </div>
 </article>

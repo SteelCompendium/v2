@@ -3,7 +3,7 @@ action_type: Maneuver
 class: troubadour
 cost: 11 Drama
 distance: Melee 1 or ranged 10
-effect: Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../common/main-actions/free-strike.md) against them after the ability is resolved.
+effect: Choose one ally within [distance](../../../../rule/combat/distance.md). While the target is affected by this ability, each time they use an ability, that ally can make a [free strike](../../../common/main-actions/free-strike.md) against them after the ability is resolved.
 flavor: Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.
 keywords:
     - Magic
@@ -11,12 +11,8 @@ keywords:
     - Ranged
 level: "9"
 name: Epic
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-9/epic
 target: One creature
-tier1: The target takes a bane on ability rolls (save ends).
-tier2: The target has a double bane on ability rolls (save ends).
-tier3: The target has a double bane on power rolls (save ends).
 type: ability
 ---
 
@@ -40,15 +36,15 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target takes a bane on ability rolls (save ends).</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target has a double bane on ability rolls (save ends).</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target has a double bane on power rolls (save ends).</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target takes a <a href="../../../../../rule/dice/bane/">bane</a> on ability rolls (save ends).</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target has a double <a href="../../../../../rule/dice/bane/">bane</a> on ability rolls (save ends).</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target has a double <a href="../../../../../rule/dice/bane/">bane</a> on power rolls (save ends).</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose one ally within distance. While the target is affected by this ability, each time they use an ability, that ally can make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against them after the ability is resolved.</p></div>
+<div class="sc-ability__section-body"><p>Choose one ally within <a href="../../../../../rule/combat/distance/">distance</a>. While the target is affected by this ability, each time they use an ability, that ally can make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against them after the ability is resolved.</p></div>
 </div>
 </article>

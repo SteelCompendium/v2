@@ -65,7 +65,7 @@ On any day when you don't take a respite, you can spend 1 uninterrupted hour wor
 >
 > The existence of specific perks doesn't mean that a hero can't attempt the task related to a perk without having that perk. Aside from supernatural perks, a Director can always allow a hero to attempt a mundane task mentioned in a perk by making a test. Perks are special because they allow a hero to attempt a specific task without a test, and often give a better result than a successful test—or even a test with a reward would give.
 >
-> For example, can a hero catch a falling ally if they don't have the I've Got You perk? A Director can absolutely allow it, but might decide that the hero needs to succeed on a Might test to accomplish the task, using a main action or maneuver to prepare for it. Being able to catch an ally automatically as a free triggered action is what the perk gets you!
+> For example, can a hero catch a falling ally if they don't have the I've Got You perk? A Director can absolutely allow it, but might decide that the hero needs to succeed on a [Might](../../Browse/rule/character/might.md) test to accomplish the task, using a main action or maneuver to prepare for it. Being able to catch an ally automatically as a free triggered action is what the perk gets you!
 
 ### Exploration Perks
 
@@ -73,7 +73,7 @@ This section presents exploration perks in alphabetical order.
 
 #### Brawny {data-scc="mcdm.heroes.v1/perk/brawny"}
 
-Whenever you fail a Might test, you can lose [Stamina](../../Browse/rule/health/stamina.md) equal to 1d6 + your level to improve the outcome of the test by one tier. You can use this perk only once per test.
+Whenever you fail a [Might](../../Browse/rule/character/might.md) test, you can lose [Stamina](../../Browse/rule/health/stamina.md) equal to 1d6 + your level to improve the outcome of the test by one tier. You can use this perk only once per test.
 
 #### Camouflage Hunter {data-scc="mcdm.heroes.v1/perk/camouflage-hunter"}
 
@@ -81,11 +81,11 @@ Whenever you are in wilderness, once you are hidden from a creature, you don't n
 
 #### Danger Sense {data-scc="mcdm.heroes.v1/perk/danger-sense"}
 
-Whenever you are in a natural environment (but not in a settlement in that environment), you gain an edge on tests made using the Alertness skill, and you can't be surprised. Additionally, you have a connection to nature that warns you if any natural disaster is imminent within the next 72 hours, though you don't know exactly what it will entail (an earthquake, a wildfire, and so forth).
+Whenever you are in a natural environment (but not in a settlement in that environment), you gain an [edge](../../Browse/rule/dice/edge.md) on tests made using the Alertness skill, and you can't be surprised. Additionally, you have a connection to nature that warns you if any natural disaster is imminent within the next 72 hours, though you don't know exactly what it will entail (an earthquake, a wildfire, and so forth).
 
 #### Friend Catapult {data-scc="mcdm.heroes.v1/perk/friend-catapult"}
 
-As a maneuver, you grab a willing adjacent ally or object of your size or smaller, then vertical push that target up to a number of squares equal to twice your Might score. If a creature you push falls as a result of this movement, the effective distance of the fall is reduced by a number of squares equal to twice your Might score. When you use this perk, you can't use it again until you earn 1 or more Victories.
+As a maneuver, you grab a willing adjacent ally or object of your [size](../../Browse/rule/character/size.md) or smaller, then vertical push that target up to a number of squares equal to twice your [Might](../../Browse/rule/character/might.md) score. If a creature you push falls as a result of this movement, the effective [distance](../../Browse/rule/combat/distance.md) of the fall is reduced by a number of squares equal to twice your [Might](../../Browse/rule/character/might.md) score. When you use this perk, you can't use it again until you earn 1 or more Victories.
 
 #### I've Got You! {data-scc="mcdm.heroes.v1/perk/ive-got-you"}
 
@@ -97,7 +97,7 @@ You can use the Handle Animals skill to interact with nonsapient creatures who a
 
 #### Put Your Back Into It! {data-scc="mcdm.heroes.v1/perk/put-your-back-into-it"}
 
-During montage tests, whenever you make a test to assist a test and obtain a tier 1 outcome, the assisted test doesn't take a bane. Additionally, once per montage test, you can turn an ally's tier 1 test outcome into a tier 2 outcome.
+During montage tests, whenever you make a test to assist a test and obtain a tier 1 outcome, the assisted test doesn't take a [bane](../../Browse/rule/dice/bane.md). Additionally, once per montage test, you can turn an ally's tier 1 test outcome into a tier 2 outcome.
 
 #### Team Leader {data-scc="mcdm.heroes.v1/perk/team-leader"}
 
@@ -121,15 +121,15 @@ If you fail a test using the Lie skill, you don't suffer any consequences associ
 
 #### Dazzler {data-scc="mcdm.heroes.v1/perk/dazzler"}
 
-Whenever a creature watches you sing, dance, or perform a role (as an actor, not just in disguise) for 1 uninterrupted minute or more, you gain an edge on any test made to influence that creature for 1 hour after the performance ends.
+Whenever a creature watches you sing, dance, or perform a role (as an actor, not just in disguise) for 1 uninterrupted minute or more, you gain an [edge](../../Browse/rule/dice/edge.md) on any test made to influence that creature for 1 hour after the performance ends.
 
 #### Engrossing Monologue {data-scc="mcdm.heroes.v1/perk/engrossing-monologue"}
 
-Whenever you are not in combat, you can shout to get the attention of hearing creatures within 10 squares of you. Each such creature who is not hostile toward you listens to what you have to say for 1 uninterrupted minute or more, or until they sense danger or any form of imminent harm. While creatures are listening to you, each of your allies gains an edge on tests made to avoid being noticed by those creatures.
+Whenever you are not in combat, you can shout to get the attention of hearing creatures within 10 squares of you. Each such creature who is not hostile toward you listens to what you have to say for 1 uninterrupted minute or more, or until they sense danger or any form of imminent harm. While creatures are listening to you, each of your allies gains an [edge](../../Browse/rule/dice/edge.md) on tests made to avoid being noticed by those creatures.
 
 #### Harmonizer {data-scc="mcdm.heroes.v1/perk/harmonizer"}
 
-You can make a Presence test using the Music skill to influence creatures who don't have emotions or can't understand you. Additionally, once during a negotiation when an ally makes an argument, you can play music to give that ally an edge on their test.
+You can make a [Presence](../../Browse/rule/character/presence.md) test using the Music skill to influence creatures who don't have emotions or can't understand you. Additionally, once during a negotiation when an ally makes an argument, you can play music to give that ally an [edge](../../Browse/rule/dice/edge.md) on their test.
 
 #### Lie Detector {data-scc="mcdm.heroes.v1/perk/lie-detector"}
 
@@ -141,19 +141,19 @@ Whenever you speak one-on-one with a creature, you can ask them one question abo
 
 #### Pardon My Friend {data-scc="mcdm.heroes.v1/perk/pardon-my-friend"}
 
-When an ally within 5 squares fails a Presence test, you can step in and make a Presence test that takes a bane, with your roll replacing the ally's roll. This perk can be used only once per test, even if more than one character has it.
+When an ally within 5 squares fails a [Presence](../../Browse/rule/character/presence.md) test, you can step in and make a [Presence](../../Browse/rule/character/presence.md) test that takes a [bane](../../Browse/rule/dice/bane.md), with your roll replacing the ally's roll. This perk can be used only once per test, even if more than one character has it.
 
 #### Power Player {data-scc="mcdm.heroes.v1/perk/power-player"}
 
-Whenever you make a test that uses the [Brag](../../Browse/skill/brag.md), [Flirt](../../Browse/skill/flirt.md), or [Intimidate](../../Browse/skill/intimidate.md) skills, you can use Might instead of any other characteristic the test calls for.
+Whenever you make a test that uses the [Brag](../../Browse/skill/brag.md), [Flirt](../../Browse/skill/flirt.md), or [Intimidate](../../Browse/skill/intimidate.md) skills, you can use [Might](../../Browse/rule/character/might.md) instead of any other [characteristic](../../Browse/rule/character/characteristic.md) the test calls for.
 
 #### So Tell Me... {data-scc="mcdm.heroes.v1/perk/so-tell-me"}
 
-Whenever you succeed on a Presence test to influence one or more creatures, you can ask one creature you influenced a follow-up question after the test resolves, which they must answer honestly. At the Director's discretion, the creature doesn't have to answer the question completely—or at all—if the response would put them or a loved one in danger.
+Whenever you succeed on a [Presence](../../Browse/rule/character/presence.md) test to influence one or more creatures, you can ask one creature you influenced a follow-up question after the test resolves, which they must answer honestly. At the Director's discretion, the creature doesn't have to answer the question completely—or at all—if the response would put them or a loved one in danger.
 
 #### Spot the Tell {data-scc="mcdm.heroes.v1/perk/spot-the-tell"}
 
-Whenever you make a test to read a person and obtain a tier 3 outcome, you notice several tells that give away their true feelings. Any test you make to read that person in the future gains an edge.
+Whenever you make a test to read a person and obtain a tier 3 outcome, you notice several tells that give away their true feelings. Any test you make to read that person in the future gains an [edge](../../Browse/rule/dice/edge.md).
 
 ### Intrigue Perks
 
@@ -161,7 +161,7 @@ This section presents intrigue perks in alphabetical order.
 
 #### Criminal Contacts {data-scc="mcdm.heroes.v1/perk/criminal-contacts"}
 
-You have access to a network of [criminal contacts](../../Browse/perk/criminal-contacts.md). As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a Presence test. On a tier 2 outcome, you learn one piece of information that would be common among criminals—the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves' guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be uncommon among criminals as long as such information exists—the location of a local treasure cache, the location of a murder weapon used in a noble's assassination, the name of an NPC secretly bankrolling a local assassin's guild, and so forth.
+You have access to a network of [criminal contacts](../../Browse/perk/criminal-contacts.md). As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a [Presence](../../Browse/rule/character/presence.md) test. On a tier 2 outcome, you learn one piece of information that would be common among criminals—the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves' guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be uncommon among criminals as long as such information exists—the location of a local treasure cache, the location of a murder weapon used in a noble's assassination, the name of an NPC secretly bankrolling a local assassin's guild, and so forth.
 
 #### Forgettable Face {data-scc="mcdm.heroes.v1/perk/forgettable-face"}
 
@@ -181,7 +181,7 @@ You can don or remove a disguise as part of any test you make using the Hide ski
 
 #### Slipped Lead {data-scc="mcdm.heroes.v1/perk/slipped-lead"}
 
-You gain an edge on tests made to escape bonds. Given 1 uninterrupted minute, you can escape any mundane bonds without making a test. Additionally, it's not immediately obvious when you've escaped bonds until you do something that makes it clear you have done so (cast them off, use an ability that harms one or more creatures, and so forth).
+You gain an [edge](../../Browse/rule/dice/edge.md) on tests made to escape bonds. Given 1 uninterrupted minute, you can escape any mundane bonds without making a test. Additionally, it's not immediately obvious when you've escaped bonds until you do something that makes it clear you have done so (cast them off, use an ability that harms one or more creatures, and so forth).
 
 ### Lore Perks
 
@@ -219,7 +219,7 @@ Whenever you make a test to recall lore and don't have a skill that applies to t
 
 #### Specialist {data-scc="mcdm.heroes.v1/perk/specialist"}
 
-You are a leading expert on a particular subject. Choose one skill you have from the lore skill group. You always have a double edge on tests made to recall lore using this skill. Additionally, your [specialist](../../Browse/perk/specialist.md) knowledge grants you notoriety in fields related to the chosen skill. You treat your Renown as 1 higher when negotiating with an NPC who knows your reputation, or 2 higher if they have the same skill you chose for this perk.
+You are a leading expert on a particular subject. Choose one skill you have from the lore skill group. You always have a double [edge](../../Browse/rule/dice/edge.md) on tests made to recall lore using this skill. Additionally, your [specialist](../../Browse/perk/specialist.md) knowledge grants you notoriety in fields related to the chosen skill. You treat your Renown as 1 higher when negotiating with an NPC who knows your reputation, or 2 higher if they have the same skill you chose for this perk.
 
 #### Traveling Sage {data-scc="mcdm.heroes.v1/perk/traveling-sage"}
 
@@ -244,13 +244,13 @@ You have the following ability.
 >
 > **Effect:** Choose one of the following effects:
 >
-> - You [teleport](../../Browse/movement/teleport.md) a size 1S or smaller object adjacent to you into an unoccupied space adjacent to you.
+> - You [teleport](../../Browse/movement/teleport.md) a [size](../../Browse/rule/character/size.md) 1S or smaller object adjacent to you into an unoccupied space adjacent to you.
 > - Until the start of your next turn, a part of your body shoots a shower of harmless noisy sparks that light up each square adjacent to you.
 > - You ignite or snuff out (your choice) every mundane light source of 1L or smaller adjacent to you.
 > - You transform up to 1 pound of edible food you touch to make it taste delicious or disgusting.
 > - Until the start of your next turn, you make your body exude a particular odor you've smelled before. This smell can be sensed by each creature within 5 squares of you, but can't impose any condition or other drawback on those creatures.
 > - You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using [Arcane Trick](../../Browse/perk/arcane-trick.md).
-> - You touch a size 1T object to cover it with an illusion that makes it look like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.
+> - You touch a [size](../../Browse/rule/character/size.md) 1T object to cover it with an illusion that makes it look like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.
 
 #### Creature Sense {data-scc="mcdm.heroes.v1/perk/creature-sense"}
 
@@ -272,9 +272,9 @@ If your [familiar](../../Browse/perk/familiar.md) is destroyed, you can restore 
 
 |      [Familiar](../../Browse/perk/familiar.md)       |         -         |           Level -            |           -           |         EV -         |
 |:-------------------:|:-----------------:|:----------------------------:|:---------------------:|:--------------------:|
-|   **1T**<br>Size    |  **5**<br>Speed   | **2x your level**<br>[Stamina](../../Browse/rule/health/stamina.md) |  **0**<br>Stability   | **-**<br>[Free Strike](../../Browse/feature/common/main-actions/free-strike.md) |
+|   **1T**<br>[Size](../../Browse/rule/character/size.md)    |  **5**<br>Speed   | **2x your level**<br>[Stamina](../../Browse/rule/health/stamina.md) |  **0**<br>Stability   | **-**<br>[Free Strike](../../Browse/feature/common/main-actions/free-strike.md) |
 | **-**<br>Immunities | **-**<br>Movement |                              | **-**<br>With Captain | **-**<br>Weaknesses  |
-|   **-3**<br>Might   | **+2**<br>Agility |       **0**<br>Reason        |  **0**<br>Intuition   |  **+1**<br>Presence  |
+|   **-3**<br>[Might](../../Browse/rule/character/might.md)   | **+2**<br>[Agility](../../Browse/rule/character/agility.md) |       **0**<br>[Reason](../../Browse/rule/character/reason.md)        |  **0**<br>[Intuition](../../Browse/rule/character/intuition.md)   |  **+1**<br>[Presence](../../Browse/rule/character/presence.md)  |
 
 > **Telepathic**
 > 
@@ -291,9 +291,9 @@ You have the following ability.
 >
 > | **Psionic, Ranged** |              **Maneuver** |
 > |---------------------|--------------------------:|
-> | **📏 Ranged 10**    | **🎯 One size 1T object** |
+> | **📏 Ranged 10**    | **🎯 One [size](../../Browse/rule/character/size.md) 1T object** |
 >
-> **Effect:** You can grab or manipulate the target object with your mind, moving the object up to a number of squares equal to your Reason, Intuition, or Presence score (your choice). You can use this ability to turn doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and size 1T. You can't use this ability to break a smaller piece off a larger object.
+> **Effect:** You can grab or manipulate the target object with your mind, moving the object up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md) score (your choice). You can use this ability to turn doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and [size](../../Browse/rule/character/size.md) 1T. You can't use this ability to break a smaller piece off a larger object.
 
 #### Psychic Whisper {data-scc="mcdm.heroes.v1/perk/psychic-whisper"}
 
@@ -312,7 +312,7 @@ You have the following ability.
 
 #### Ritualist {data-scc="mcdm.heroes.v1/perk/ritualist"}
 
-You can spend 1 uninterrupted minute to perform a magic ritual of blessing, targeting yourself or one willing creature you touch. The target has a double edge on the next test they make within the next minute. A target can't use this benefit on an activity that takes longer than 1 minute.
+You can spend 1 uninterrupted minute to perform a magic ritual of blessing, targeting yourself or one willing creature you touch. The target has a double [edge](../../Browse/rule/dice/edge.md) on the next test they make within the next minute. A target can't use this benefit on an activity that takes longer than 1 minute.
 
 #### Thingspeaker {data-scc="mcdm.heroes.v1/perk/thingspeaker"}
 
@@ -322,4 +322,4 @@ When you hold an object in your hand for 1 uninterrupted minute, you can sense w
 - Why does this emotion linger on the object?
 - How long has it been since the object was held by the person whose emotion lingers on it?
 
-After asking one question, you can choose to delve deeper by asking one additional question from the list, but you are then overcome with emotions that do not belong to you. You take a bane on Intuition and Presence tests until you finish a respite, and you can't use this perk again while you suffer this bane.
+After asking one question, you can choose to delve deeper by asking one additional question from the list, but you are then overcome with emotions that do not belong to you. You take a [bane](../../Browse/rule/dice/bane.md) on [Intuition](../../Browse/rule/character/intuition.md) and [Presence](../../Browse/rule/character/presence.md) tests until you finish a respite, and you can't use this perk again while you suffer this [bane](../../Browse/rule/dice/bane.md).

@@ -19,6 +19,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>While you are in your hybrid form, your size is 2 and you gain a +1 bonus to distance with melee weapon abilities. At 4th level, the first time you take hybrid form in an encounter, you gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p>
+<p>While you are in your hybrid form, your <a href="../../../../rule/character/size/">size</a> is 2 and you gain a +1 bonus to <a href="../../../../rule/combat/distance/">distance</a> with melee weapon abilities. At 4th level, the first time you take hybrid form in an encounter, you gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p>
 </div>
 </section>

@@ -10,9 +10,8 @@
     <div class="sc-card__name">Adaptive Second Skin of Toxins</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Light Armor</span><span class="sc-tag">Magic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This suit is shaped of tough leather and set with thousands of tiny barbs on the inside, all thankfully pain-free to the touch.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> Five rabid honey badger pelts, the quills of a hedgehog</div>
   <div class="sc-card__line"><b>Source</b> Texts or lore in Yllyric</div>
@@ -37,9 +36,8 @@
     <div class="sc-card__name">Chain of the Sea and Sky</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Heavy Armor</span><span class="sc-tag">Magic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This set of heavy chain mail is created to allow free movement in extreme environments without sacrificing protection.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> A set of wings from a <a href="../../../movement/fly/">flying</a> carp, a set of chain mail rusted by seawater</div>
   <div class="sc-card__line"><b>Source</b> Texts or lore in Zaliac</div>
@@ -51,9 +49,8 @@
     <div class="sc-card__name">Grand Scarab</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Medium Armor</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">The blue-purple carapace and wings of a gigantic scarab beetle have been formed into an ornate breastplate.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> A giant scarab beetle carapace</div>
   <div class="sc-card__line"><b>Source</b> Texts or lore in Phaedran</div>
@@ -65,9 +62,8 @@
     <div class="sc-card__name">King&#39;s Roar</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Shield</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">A sunmetal kite shield bears the face of a lion on its front, its mouth opening wider over the course of battle.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Reason, Intuition, or Presence</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> A ballad of heroism, two ingots of sunmetal</div>
   <div class="sc-card__line"><b>Source</b> Songs in High Rhyvian</div>
@@ -79,9 +75,8 @@
     <div class="sc-card__name">Kuran&#39;zoi Prismscale</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Medium Armor</span><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">Each scale of this iridescent armor shimmers with the faint image of a frozen moment of time.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Intuition or Presence</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> The eyes of a <a href="../../../ancestry/time-raider/">time raider</a> who died valiantly in battle</div>
   <div class="sc-card__line"><b>Source</b> Texts or lore in Voll</div>
@@ -107,9 +102,8 @@
     <div class="sc-card__name">Paper Trappings</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Light Armor</span><span class="sc-tag">Magic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This delicate robe is made from thousands of pages torn from books, intricately folded together without a single thread to bind them.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> Ten pages from each of a hundred different books</div>
   <div class="sc-card__line"><b>Source</b> Texts or lore in Anjali</div>
@@ -134,9 +128,8 @@
     <div class="sc-card__name">Shrouded Memory</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Light Armor</span><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This midnight-dark leather coat is embossed with fractal patterns that appear different each time they are observed.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Agility or Presence</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> The will of a deceased person with no heirs</div>
   <div class="sc-card__line"><b>Source</b> Texts or lore in Khelt</div>
@@ -148,9 +141,8 @@
     <div class="sc-card__name">Spiny Turtle</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Heavy Armor</span><span class="sc-tag">Magic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">This heavy mechanized plate armor of gnomish make is designed to create its own cover on the battlefield.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> Ten steel gears from an ancient construct</div>
   <div class="sc-card__line"><b>Source</b> Texts or lore in Variac</div>
@@ -162,9 +154,8 @@
     <div class="sc-card__name">Star-Hunter</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Heavy Armor</span><span class="sc-tag">Psionic</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">Shimmering light flows like liquid along this suit of crystalline armor.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> A large vessel of astral ice, a pint of supercooled mercury</div>
   <div class="sc-card__line"><b>Source</b> Texts or lore in Voll</div>
@@ -176,9 +167,8 @@
     <div class="sc-card__name">Telekinetic Bulwark</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Psionic</span><span class="sc-tag">Shield</span></div>
   <div class="sc-card__flavor sc-card__flavor--clamp">An unseen force seems to draw this steel shield toward nearby creatures.</div>
-  <div class="sc-card__stats" style="grid-template-columns:repeat(2,1fr)">
+  <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">450</div><div class="l">Project Goal</div></div>
-    <div class="sc-card__stat"><div class="v" style="font-size:.72rem">Might, Reason, or Intuition</div><div class="l">Roll Characteristic</div></div>
   </div>
   <div class="sc-card__line"><b>Prerequisite</b> Three ingots of steel, six crystals that resonate with psionic power</div>
   <div class="sc-card__line"><b>Source</b> Texts or lore in Variac</div>

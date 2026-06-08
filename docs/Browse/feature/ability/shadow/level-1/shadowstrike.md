@@ -3,7 +3,7 @@ action_type: Main action
 class: shadow
 cost: 5 Insight
 distance: Self; see below
-effect: You use a strike signature ability twice.
+effect: You use a [strike](../../../../rule/combat/strike.md) signature ability twice.
 flavor: They have no idea what the college taught you.
 keywords:
     - Magic
@@ -37,6 +37,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You use a strike signature ability twice.</p></div>
+<div class="sc-ability__section-body"><p>You use a <a href="../../../../../rule/combat/strike/">strike</a> signature ability twice.</p></div>
 </div>
 </article>

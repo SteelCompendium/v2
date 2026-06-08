@@ -10,13 +10,9 @@ keywords:
     - Weapon
 level: "6"
 name: Instant Retaliation
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation
 subtype: triggered
 target: One ally
-tier1: A < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: A < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: A < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 trigger: A creature deals damage to the target.
 type: ability
 ---
@@ -41,7 +37,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../../rule/character/might.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">A &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">A &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>

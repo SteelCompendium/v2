@@ -46,7 +46,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary <a href="../../../../movement/difficult-terrain/">difficult terrain</a> created by magic and psionic abilities. Additionally, when you are <a href="../../../../movement/forced-movement/">force moved</a> by a magic or psionic ability, you can reduce the <a href="../../../../movement/forced-movement/">forced movement</a> distance by 1.</p>
+<p>Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary <a href="../../../../movement/difficult-terrain/">difficult terrain</a> created by magic and psionic abilities. Additionally, when you are <a href="../../../../movement/forced-movement/">force moved</a> by a magic or psionic ability, you can reduce the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> by 1.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -66,7 +66,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Giving up is for other people. You gain an edge on tests made using the <a href="../../../../skill/endurance/">Endurance</a> skill. Additionally, when you are <a href="../../../../condition/slowed/">slowed</a>, your speed is reduced to 3 instead of 2.</p>
+<p>Giving up is for other people. You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made using the <a href="../../../../skill/endurance/">Endurance</a> skill. Additionally, when you are <a href="../../../../condition/slowed/">slowed</a>, your speed is reduced to 3 instead of 2.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

@@ -19,6 +19,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can <a href="../../../../movement/fly/">fly</a>.</p>
+<p>While you are in your hybrid form, your <a href="../../../../rule/character/size/">size</a> is your choice of 1S or 1M. At 4th level, you can <a href="../../../../movement/fly/">fly</a>.</p>
 </div>
 </section>

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you take the first turn in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can <a href="../../../../movement/shifting/">shift</a> up to their speed, and ability rolls made against them have a double bane until the end of the combat round. Additionally, any surprised enemy is no longer surprised.</p>
+<p>Whenever you take the first turn in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can <a href="../../../../movement/shifting/">shift</a> up to their speed, and ability rolls made against them have a double <a href="../../../../rule/dice/bane/">bane</a> until the end of the combat round. Additionally, any surprised enemy is no longer surprised.</p>
 </div>
 </section>

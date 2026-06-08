@@ -3,7 +3,7 @@ action_type: Maneuver
 class: troubadour
 cost: 9 Drama
 distance: 5 burst
-effect: Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.
+effect: Until the end of the encounter, each target gains the speed bonus, weapon [distance](../../../../rule/combat/distance.md) bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit's bonuses.
 flavor: It's important for everyone to know each other's lines, just in case...
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, each target gains the speed bonus, weapon distance bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit&#39;s bonuses.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, each target gains the speed bonus, weapon <a href="../../../../../rule/combat/distance/">distance</a> bonus, disengage bonus, and stability bonus of your currently equipped kit in addition to their own kit&#39;s bonuses.</p></div>
 </div>
 </article>

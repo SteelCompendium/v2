@@ -20,7 +20,7 @@ type: treasure
 
 **Project Source:** Texts or lore in Phaedran
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md), [Reason](../../../rule/character/reason.md), or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450
 
@@ -28,4 +28,4 @@ type: treasure
 
 **5th Level:** The armor's bonus to [Stamina](../../../rule/health/stamina.md) increases to +12. Additionally, you no longer need to end your turn on the ground to avoid falling.
 
-**9th Level:** The armor's bonus to [Stamina](../../../rule/health/stamina.md) increases to +21. Additionally, if you [fly](../../../movement/fly.md) any distance before making a strike, that strike gains an edge.
+**9th Level:** The armor's bonus to [Stamina](../../../rule/health/stamina.md) increases to +21. Additionally, if you [fly](../../../movement/fly.md) any [distance](../../../rule/combat/distance.md) before making a [strike](../../../rule/combat/strike.md), that [strike](../../../rule/combat/strike.md) gains an [edge](../../../rule/dice/edge.md).

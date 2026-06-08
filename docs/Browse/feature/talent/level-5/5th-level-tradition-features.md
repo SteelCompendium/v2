@@ -62,7 +62,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you force move a creature, you can spend up to 2 <a href="../../../../rule/resource/surge/">surges</a>. For each <a href="../../../../rule/resource/surge/">surge</a> spent, the <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Reason score.</p>
+<p>Whenever you force move a creature, you can spend up to 2 <a href="../../../../rule/resource/surge/">surges</a>. For each <a href="../../../../rule/resource/surge/">surge</a> spent, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -73,7 +73,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The distance of your ranged psionic abilities increases by 5. Additionally, the range of your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature increases to 1 mile.</p>
+<p>The <a href="../../../../rule/combat/distance/">distance</a> of your ranged psionic abilities increases by 5. Additionally, the range of your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature increases to 1 mile.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -95,7 +95,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever an ally uses a ranged ability while you are within the ability&#39;s distance, you can spend 1 clarity as a free triggered action to allow them to use the ability as if they were in your space.</p>
+<p>Whenever an ally uses a ranged ability while you are within the ability&#39;s <a href="../../../../rule/combat/distance/">distance</a>, you can spend 1 clarity as a free triggered action to allow them to use the ability as if they were in your space.</p>
 </div>
 </section>
 </div>

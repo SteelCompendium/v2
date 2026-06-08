@@ -3,7 +3,7 @@ action_type: Free triggered
 class: censor
 cost: 9 Wrath
 distance: Ranged 10
-effect: The target is unaffected by the strike and you become the target instead, even if you aren't a valid target for it. You take half the damage from the strike, and the target gains 3 [surges](../../../../rule/resource/surge.md).
+effect: The target is unaffected by the [strike](../../../../rule/combat/strike.md) and you become the target instead, even if you aren't a valid target for it. You take half the damage from the [strike](../../../../rule/combat/strike.md), and the target gains 3 [surges](../../../../rule/resource/surge.md).
 flavor: You take your ally's place.
 keywords:
     - Magic
@@ -13,7 +13,7 @@ name: Intercede
 scc: mcdm.heroes.v1/feature.ability.censor.level-6/intercede
 subtype: triggered
 target: One ally
-trigger: A creature makes a strike against the target.
+trigger: A creature makes a [strike](../../../../rule/combat/strike.md) against the target.
 type: ability
 ---
 
@@ -38,10 +38,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>A creature makes a strike against the target.</p></div>
+<div class="sc-ability__section-body"><p>A creature makes a <a href="../../../../../rule/combat/strike/">strike</a> against the target.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is unaffected by the strike and you become the target instead, even if you aren&#39;t a valid target for it. You take half the damage from the strike, and the target gains 3 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
+<div class="sc-ability__section-body"><p>The target is unaffected by the <a href="../../../../../rule/combat/strike/">strike</a> and you become the target instead, even if you aren&#39;t a valid target for it. You take half the damage from the <a href="../../../../../rule/combat/strike/">strike</a>, and the target gains 3 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>

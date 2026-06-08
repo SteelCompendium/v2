@@ -12,7 +12,7 @@ name: So Gullible
 scc: mcdm.heroes.v1/feature.ability.shadow.level-2/so-gullible
 subtype: triggered
 target: Self
-trigger: Another creature targets you with a strike.
+trigger: Another creature targets you with a [strike](../../../../rule/combat/strike.md).
 type: ability
 ---
 
@@ -37,7 +37,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>Another creature targets you with a strike.</p></div>
+<div class="sc-ability__section-body"><p>Another creature targets you with a <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

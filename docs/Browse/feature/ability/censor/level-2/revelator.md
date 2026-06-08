@@ -3,7 +3,7 @@ action_type: Maneuver
 class: censor
 cost: 5 Wrath
 distance: 3 burst
-effect: Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../level-1/judgment.md) ability against one target as a free triggered action.
+effect: Each target takes holy damage equal to twice your [Presence](../../../../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../level-1/judgment.md) ability against one target as a free triggered action.
 flavor: You channel holy energy to harm unbelievers and reveal those hidden from your [judgment](../level-1/judgment.md).
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can&#39;t become hidden again until the start of your next turn. You can then use your <a href="../../level-1/judgment/">Judgment</a> ability against one target as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>Each target takes holy damage equal to twice your <a href="../../../../../rule/character/presence/">Presence</a> score. Additionally, each hidden target is automatically revealed and can&#39;t become hidden again until the start of your next turn. You can then use your <a href="../../level-1/judgment/">Judgment</a> ability against one target as a free triggered action.</p></div>
 </div>
 </article>

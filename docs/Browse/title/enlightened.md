@@ -1,5 +1,5 @@
 ---
-effect: 'Your choice of your Reason or Intuition increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
+effect: 'Your choice of your [Reason](../rule/character/reason.md) or [Intuition](../rule/character/intuition.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
 name: Enlightened
 prerequisite: You learn a cosmic truth that alters your understanding of reality.
 scc: mcdm.heroes.v1/title/enlightened
@@ -14,7 +14,7 @@ type: title
 
 **Prerequisite:** You learn a cosmic truth that alters your understanding of reality.
 
-**Effect:** Your choice of your Reason or Intuition increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
+**Effect:** Your choice of your [Reason](../rule/character/reason.md) or [Intuition](../rule/character/intuition.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Cosmic Revelation:* When you make a test with a skill from the lore skill group and obtain a tier 1 or tier 2 outcome, you can instead obtain a tier 3 outcome. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Mind Over Matter:* Whenever you spend a [Recovery](../rule/health/recoveries.md), you can end one condition on yourself.

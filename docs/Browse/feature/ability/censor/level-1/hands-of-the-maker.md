@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: censor
 distance: Self
-effect: You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Presence score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
+effect: You create a mundane object of [size](../../../../rule/character/size.md) 1S or smaller. You can maintain a number of objects created this way equal to your [Presence](../../../../rule/character/presence.md) score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
 flavor: You craft objects with the power of your mind.
 keywords:
     - Magic
@@ -34,6 +34,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Presence score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).</p></div>
+<div class="sc-ability__section-body"><p>You create a mundane object of <a href="../../../../../rule/character/size/">size</a> 1S or smaller. You can maintain a number of objects created this way equal to your <a href="../../../../../rule/character/presence/">Presence</a> score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).</p></div>
 </div>
 </article>

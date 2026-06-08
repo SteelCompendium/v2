@@ -43,7 +43,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes half the triggering damage, or the distance of the triggering <a href="../../../../movement/forced-movement/">forced movement</a> is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the <a href="../../../../movement/forced-movement/">forced movement</a> is reduced to 0 squares, the target can push the source of the <a href="../../../../movement/forced-movement/">forced movement</a> a number of squares equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>The target takes half the triggering damage, or the <a href="../../../../rule/combat/distance/">distance</a> of the triggering <a href="../../../../movement/forced-movement/">forced movement</a> is reduced by a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score. If the target took damage and was force moved, you choose the effect. If the <a href="../../../../movement/forced-movement/">forced movement</a> is reduced to 0 squares, the target can push the source of the <a href="../../../../movement/forced-movement/">forced movement</a> a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p></div>
 </div>
 </article>
 </div>

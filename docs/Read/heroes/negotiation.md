@@ -21,11 +21,11 @@ Negotiation is a framework for important roleplaying encounters in which the her
 
 In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes—but must also have a reason to not simply jump on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighboring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn't want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king's army, they need to negotiate.
 
-Heroes aren't expected to use the negotiation rules every time one character tries to convince an NPC to see things their way. For instance, if a hero wants information about a cult leader from a captured cultist, a single Presence test using the [Lie](../../Browse/skill/lie.md) skill or a Might test using [Intimidate](../../Browse/skill/intimidate.md) is likely all that's needed. A character who wants to flirt with the local alchemist to obtain a free Healing Potion likely just needs to make a Presence test using the [Flirt](../../Browse/skill/flirt.md) skill.
+Heroes aren't expected to use the negotiation rules every time one character tries to convince an NPC to see things their way. For instance, if a hero wants information about a cult leader from a captured cultist, a single [Presence](../../Browse/rule/character/presence.md) test using the [Lie](../../Browse/skill/lie.md) skill or a [Might](../../Browse/rule/character/might.md) test using [Intimidate](../../Browse/skill/intimidate.md) is likely all that's needed. A character who wants to flirt with the local alchemist to obtain a free Healing Potion likely just needs to make a [Presence](../../Browse/rule/character/presence.md) test using the [Flirt](../../Browse/skill/flirt.md) skill.
 
 By contrast, negotiations typically involve all the heroes interacting with one or more important named NPCs who can provide information, items, or services that dramatically change the course of an adventure. Often, this involves the heroes seeking an item of great power, a retainer or companion, the services of an influential organization or nation, or a plot-twist-worthy piece of information. Convincing a lich to lend the party the legendary *Codex Mortis*, trying to convince a dragon to halt an attack on a wizard's tower, or talking the leaders of an enemy army into standing down means that a negotiation is in order.
 
-To negotiate successfully, the heroes must make persuasive arguments to convince NPCs to do what they want. "Do it or we kill you" is a threat that might well accompany a single Might test using the [Intimidate](../../Browse/skill/intimidate.md) skill, but it's not a negotiating tactic.
+To negotiate successfully, the heroes must make persuasive arguments to convince NPCs to do what they want. "Do it or we kill you" is a threat that might well accompany a single [Might](../../Browse/rule/character/might.md) test using the [Intimidate](../../Browse/skill/intimidate.md) skill, but it's not a negotiating tactic.
 
 #### Limits of Negotiation
 
@@ -229,7 +229,7 @@ The Director can decide that an NPC who has something the players want could sho
 
 #### Stop Combat, Start Negotiation
 
-If a hero wants to halt hostilities to negotiate with the other side, they can use a maneuver to make a hard Presence test (or another applicable test, as the Director determines) in an attempt to stop combat and start a negotiation. The test has a chance of success only if the Director believes the other side is willing and capable of negotiating. A foe who has the upper hand, who hates the heroes beyond measure, or who lacks sapience is unlikely to negotiate.
+If a hero wants to halt hostilities to negotiate with the other side, they can use a maneuver to make a hard [Presence](../../Browse/rule/character/presence.md) test (or another applicable test, as the Director determines) in an attempt to stop combat and start a negotiation. The test has a chance of success only if the Director believes the other side is willing and capable of negotiating. A foe who has the upper hand, who hates the heroes beyond measure, or who lacks sapience is unlikely to negotiate.
 
 #### Starting Stats
 
@@ -252,9 +252,9 @@ If a hero wishes to figure out an NPC's motivations, they can begin by simply as
 
 NPC can willingly hint at or reveal one of their motivations, usually by asking for something. For instance, a monarch NPC with the [greed](../../Browse/negotiation/greed.md) motivation and a penchant for collecting rare animals might suggest that the heroes retrieving a griffon egg would earn the monarch's gratitude. The Director can also decide that during the natural course of the negotiation, the NPC might offer up similar suggestions without the heroes asking, provided the NPC already has an interest of 3 or higher.
 
-If an NPC isn't as forthcoming, or if the heroes want to learn one of the NPC's pitfalls, a hero can make a Reason, Intuition, or Presence test while interacting with the NPC during the negotiation, based on the tactics used to draw out the NPC. The test has the following outcomes:
+If an NPC isn't as forthcoming, or if the heroes want to learn one of the NPC's pitfalls, a hero can make a [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md) test while interacting with the NPC during the negotiation, based on the tactics used to draw out the NPC. The test has the following outcomes:
 
-**Power Roll + Reason, Intuition, or Presence:**
+**Power Roll + [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** The hero learns no information regarding the NPC's motivations or pitfalls, and the NPC realizes the hero is trying to read them and becomes annoyed. As a consequence, the NPC's patience is reduced by 1.
 - **12-16:** The hero learns no information regarding the NPC's motivations or pitfalls.
@@ -278,9 +278,9 @@ This is a good topic for discussion before a group actually gets into a negotiat
 
 #### Appeal to Motivation
 
-If an argument doesn't include a pitfall and appeals to one of the NPC's motivations that hasn't already been appealed to, the hero making the argument can make an medium test to attempt to sway the NPC with the argument. Depending on the argument, this can be a Reason, Intuition, or Presence test using any applicable skill—most commonly a skill from the interpersonal skill group. The test has the following outcomes:
+If an argument doesn't include a pitfall and appeals to one of the NPC's motivations that hasn't already been appealed to, the hero making the argument can make an medium test to attempt to sway the NPC with the argument. Depending on the argument, this can be a [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md) test using any applicable skill—most commonly a skill from the interpersonal skill group. The test has the following outcomes:
 
-**Power Roll + Reason, Intuition, or Presence:**
+**Power Roll + [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** The NPC's patience decreases by 1.
 - **12-16:** The NPC's interest increases by 1, and their patience decreases by 1.
@@ -298,7 +298,7 @@ If the heroes attempt to appeal to a motivation that's already been appealed to,
 
 If an argument doesn't include one of the NPC's motivations or pitfalls, the hero who makes the argument must make a more difficult test to appeal to the NPC. The test has the following outcomes:
 
-**Power Roll + Reason, Intuition, or Presence:**
+**Power Roll + [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** The NPC's patience decreases by 1, and their interest decreases by 1.
 - **12-16:** The NPC's patience decreases by 1.
@@ -314,7 +314,7 @@ If a hero lies to an NPC with an argument that fails to increase the NPC's inter
 
 > **Everyone Can Participate**
 >
-> Since Reason and Intuition with creatively applied skills can be used to make arguments, all heroes can actively participate in the process of negotiation. The hero with the highest Presence who has the [Persuade](../../Browse/skill/persuade.md) skill doesn't automatically have to be the one who makes all the tests.
+> Since [Reason](../../Browse/rule/character/reason.md) and [Intuition](../../Browse/rule/character/intuition.md) with creatively applied skills can be used to make arguments, all heroes can actively participate in the process of negotiation. The hero with the highest [Presence](../../Browse/rule/character/presence.md) who has the [Persuade](../../Browse/skill/persuade.md) skill doesn't automatically have to be the one who makes all the tests.
 
 #### Pitfall Used
 
@@ -351,7 +351,7 @@ If a hero has enough Renown for their score to influence an NPC during negotiati
 
 ##### Influencing Tests
 
-If a hero is famous to an NPC, they gain an edge on tests when making arguments to which the [Flirt](../../Browse/skill/flirt.md), Lead, or [Persuade](../../Browse/skill/persuade.md) skill could be applied. If they are infamous to the NPC, they gain an edge on tests when making arguments to which the [Brag](../../Browse/skill/brag.md), [Interrogate](../../Browse/skill/interrogate.md), or [Intimidate](../../Browse/skill/intimidate.md) skill could be applied. A hero gains this edge even if they don't have the appropriate skill.
+If a hero is famous to an NPC, they gain an [edge](../../Browse/rule/dice/edge.md) on tests when making arguments to which the [Flirt](../../Browse/skill/flirt.md), Lead, or [Persuade](../../Browse/skill/persuade.md) skill could be applied. If they are infamous to the NPC, they gain an [edge](../../Browse/rule/dice/edge.md) on tests when making arguments to which the [Brag](../../Browse/skill/brag.md), [Interrogate](../../Browse/skill/interrogate.md), or [Intimidate](../../Browse/skill/intimidate.md) skill could be applied. A hero gains this [edge](../../Browse/rule/dice/edge.md) even if they don't have the appropriate skill.
 
 ### NPC Response and Offer
 
@@ -477,7 +477,7 @@ Before making an argument, Alyssa is attempting to learn what Zola's motivations
 
 **James:** *Aha! I got this, folks. I stand atop my crate and say, "Well, we can surely offer that, Ms. Honeycut. We have convinced Lord Edmund to*
 
-*grant amnesty to any who swear to serve him." I'd like to roll a Presence test to convince her.*
+*grant amnesty to any who swear to serve him." I'd like to roll a [Presence](../../Browse/rule/character/presence.md) test to convince her.*
 
 **Director:** *Hold it there, champ. Zola's eyes narrow as you speak, and she holds up a hand to cut you off. "I will not swear to serve any ruler, no matter how benevolent. I'll consider being a partner, but even that outlook is grim if you tell me again that I need to bend the knee."*
 
@@ -485,7 +485,7 @@ Korvo inadvertently made an argument using a pitfall by appealing to a higher au
 
 **James:** *Sorry! I thought that'd work. Seems like higher authority is a pitfall for her*.
 
-**Grace:** *Let's try to avoid any others. Val says, "We're sorry, Zola. We don't want to do anything else to offend you." I'd like to make an Intuition test and use my Read Person skill to gauge her reaction and try to discern any other pitfalls.*
+**Grace:** *Let's try to avoid any others. Val says, "We're sorry, Zola. We don't want to do anything else to offend you." I'd like to make an [Intuition](../../Browse/rule/character/intuition.md) test and use my Read Person skill to gauge her reaction and try to discern any other pitfalls.*
 
 **Director:** *Cool. Hard difficulty.*
 
@@ -497,7 +497,7 @@ The heroes now know both of Zola's pitfalls: higher authority and revelry.
 
 **Matt:** *Linn is going to say, "We're recruiting more than just the Clock. We have a good chance of recruiting the elves of the wode and the [orcs](../../Browse/ancestry/orc.md) of Forest Rend, and we're already training the people of Gravesford to put up a fight. If we strike before Saxton can fully build his forces, we all stand a better chance of survival. If you don't stand with us, Saxton will still come for you. He's already coming for you. The Clock stands less of a chance alone."*
 
-**Director:** *I think that's a Reason test, since you're using logic to point out that you have a better chance together than on your own. It's easy too, since you're appealing to one of her motivations.*
+**Director:** *I think that's a [Reason](../../Browse/rule/character/reason.md) test, since you're using logic to point out that you have a better chance together than on your own. It's easy too, since you're appealing to one of her motivations.*
 
 **Matt:** *Great! Can I use Lead here, since I'm demonstrating our ability to bring people together?*
 
@@ -523,7 +523,7 @@ The Director makes it clear in Zola's response that the negotiation can still co
 
 **James:** *Is there anything I know about Zola's reputation? I have the Criminal Underworld skill.*
 
-**Director:** *Make a Reason test.*
+**Director:** *Make a [Reason](../../Browse/rule/character/reason.md) test.*
 
 **James:** *That's an 18! Success!*
 
@@ -541,13 +541,13 @@ Korvo's success has revealed Zola's benevolence motivation.
 
 **Alyssa:** *"Even before his coup, Saxton had a considerable amount of wealth. If he's deposed, those riches need to go somewhere. The Clock will get a cut—a honey of a cut, you might say. Edmund has also promised to share his family's fortune with any who stand with him against Saxton—no oath of fealty necessary. After the young lord reclaims the throne, that is."*
 
-**Director:** *You're appealing to one of her motivations, so make a Presence test.*
+**Director:** *You're appealing to one of her motivations, so make a [Presence](../../Browse/rule/character/presence.md) test.*
 
 **Alyssa:** *Can I use my [Persuade](../../Browse/skill/persuade.md) skill too?*
 
-**Director:** *Absolutely. And you gain an edge because you're famous to her.*
+**Director:** *Absolutely. And you gain an [edge](../../Browse/rule/dice/edge.md) because you're famous to her.*
 
-**Alyssa:** *I needed that edge. I got a 12!*
+**Alyssa:** *I needed that [edge](../../Browse/rule/dice/edge.md). I got a 12!*
 
 Because Jorn appealed to a motivation, Zola's interest increases to 3, and her patience is reduced to 1. The Director gives a "Yes, but..." response while making it clear that the negotiation can still continue.
 

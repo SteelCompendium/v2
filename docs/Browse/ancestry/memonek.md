@@ -103,11 +103,11 @@ John offered his hand. Revile shook it and then held it.
 
 ### Signature Trait: Fall Lightly {data-scc="mcdm.heroes.v1/feature.trait.memonek/fall-lightly"}
 
-Your silicone body is low in density. Whenever you fall, you reduce the distance of the fall by 2 squares.
+Your silicone body is low in density. Whenever you fall, you reduce the [distance](../rule/combat/distance.md) of the fall by 2 squares.
 
 ### Signature Trait: Lightweight {data-scc="mcdm.heroes.v1/feature.trait.memonek/lightweight"}
 
-Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your size as one size smaller than it is.
+Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your [size](../rule/character/size.md) as one [size](../rule/character/size.md) smaller than it is.
 
 ### Purchased Memonek Traits
 
@@ -119,7 +119,7 @@ Your lawful nature and quick reflexes mean you give no quarter to creatures tryi
 
 #### Keeper of Order {data-scc="mcdm.heroes.v1/feature.trait.memonek/keeper-of-order"}
 
-Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an adjacent creature makes a power roll, you can use a free triggered action to remove an edge or a bane on the roll, to turn a double edge into an edge, or to turn a double bane into a bane.
+Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an adjacent creature makes a power roll, you can use a free triggered action to remove an [edge](../rule/dice/edge.md) or a [bane](../rule/dice/bane.md) on the roll, to turn a double [edge](../rule/dice/edge.md) into an [edge](../rule/dice/edge.md), or to turn a double [bane](../rule/dice/bane.md) into a [bane](../rule/dice/bane.md).
 
 #### Lightning Nimbleness {data-scc="mcdm.heroes.v1/feature.trait.memonek/lightning-nimbleness"}
 
@@ -131,7 +131,7 @@ Your connection to Axiom allows you to regulate your movement. You can't be made
 
 #### Systematic Mind {data-scc="mcdm.heroes.v1/feature.trait.memonek/systematic-mind"}
 
-You gain an edge on tests made to parse schematics, maps, and other systematic documents that aren't inherently chaotic. In addition, you treat any language you don't know as if you know a related language.
+You gain an [edge](../rule/dice/edge.md) on tests made to parse schematics, maps, and other systematic documents that aren't inherently chaotic. In addition, you treat any language you don't know as if you know a related language.
 
 #### Unphased {data-scc="mcdm.heroes.v1/feature.trait.memonek/unphased"}
 

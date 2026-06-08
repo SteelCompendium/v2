@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a <a href="../../../../condition/prone/">prone target</a> can stand up. The target then gains 2 <a href="../../../../rule/resource/surge/">surges</a>, can <a href="../../../../movement/shifting/">shift</a> up to their speed while ignoring <a href="../../../../movement/difficult-terrain/">difficult terrain</a>, and can use a strike signature ability as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a <a href="../../../../condition/prone/">prone target</a> can stand up. The target then gains 2 <a href="../../../../rule/resource/surge/">surges</a>, can <a href="../../../../movement/shifting/">shift</a> up to their speed while ignoring <a href="../../../../movement/difficult-terrain/">difficult terrain</a>, and can use a <a href="../../../../rule/combat/strike/">strike</a> signature ability as a free triggered action.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -58,7 +58,7 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Each target gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>.</span></div>
@@ -80,13 +80,13 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You amplify the power of your <a href="../../../ability/censor/level-1/judgment/">judgment</a>.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + M damage</span></div>
@@ -108,13 +108,13 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You strike a foe and create a fleet of divine shields that protect your allies.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage; you and each ally adjacent to you gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + M damage; you and each ally adjacent to you gain 15 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></span></div>

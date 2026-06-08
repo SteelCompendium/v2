@@ -11,7 +11,7 @@ type: ancestry
 
 In spite of their friendly, outgoing nature, the rare presence of a [hakaan](hakaan.md) in [human](human.md) society is considered a harbinger. An omen of dark times.
 
-Descended from a tribe of giants in upper Vanigar, the original Haka'an tribe made a bargain with Holkatya the Vanigar trickster god. They traded some of their gigantic size and strength for the ability to see the future.
+Descended from a tribe of giants in upper Vanigar, the original Haka'an tribe made a bargain with Holkatya the Vanigar trickster god. They traded some of their gigantic [size](../rule/character/size.md) and strength for the ability to see the future.
 
 But Holkatya betrayed them, and the only future a [hakaan](hakaan.md) is allowed to see is the moment and nature of their own death. These visions are never of some mundane tragedy. No [hakaan](hakaan.md) ever received a vision of [dying](../rule/health/dying.md) from choking on a grape. This Doomsight is always momentous. Always dramatic.
 
@@ -29,7 +29,7 @@ The gate, or door, or whatever it was started to close. With Dazar on the other 
 
 Dust settled on the ground behind the giant, and John realized the thunderclap was the sound of the giant running to them. Air that couldn't get out of the way fast enough, tortured by the pressure of his speed.
 
-The rectangular, toothed egress demon was twelve feet tall at least, the giant almost matching its immense size.
+The rectangular, toothed egress demon was twelve feet tall at least, the giant almost matching its immense [size](../rule/character/size.md).
 
 In the instant before the maw of teeth and eyeballs shut, the giant grabbed each side of the mouth, and pulled. Muscles the size of hounds bulged. Tendons like ship cables stood taught, quivering with strain. "Not today!" the giant shouted. "Not TODAY!!"
 
@@ -111,7 +111,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 
 ### Signature Trait: Big! {data-scc="mcdm.heroes.v1/feature.trait.hakaan/big"}
 
-Your stature reflects your giant forebears. Your size is 1L.
+Your stature reflects your giant forebears. Your [size](../rule/character/size.md) is 1L.
 
 ### Purchased Hakaan Traits
 
@@ -119,7 +119,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Doo
 
 #### All Is a Feather {data-scc="mcdm.heroes.v1/feature.trait.hakaan/all-is-a-feather"}
 
-You are exceptionally strong. You gain an edge on tests made to lift and haul heavy objects.
+You are exceptionally strong. You gain an [edge](../rule/dice/edge.md) on tests made to lift and haul heavy objects.
 
 #### Doomsight {data-scc="mcdm.heroes.v1/feature.trait.hakaan/doomsight"}
 
@@ -131,7 +131,7 @@ Additionally, when your [Stamina](../rule/health/stamina.md) reaches the negativ
 
 #### Forceful {data-scc="mcdm.heroes.v1/feature.trait.hakaan/forceful"}
 
-Whenever you [force move](../movement/forced-movement.md) a creature or object, the [forced movement](../movement/forced-movement.md) distance gains a +1 bonus.
+Whenever you [force move](../movement/forced-movement.md) a creature or object, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +1 bonus.
 
 #### Great Fortitude {data-scc="mcdm.heroes.v1/feature.trait.hakaan/great-fortitude"}
 
@@ -139,4 +139,4 @@ Your hearty constitution prevents you from losing strength. You can't be made [w
 
 #### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.hakaan/stand-tough"}
 
-Your body is made to withstand the blows of your enemies. Your Might score is treated as 1 higher for the purpose of resisting potencies, and you gain an edge on Might tests when called for to resist environmental effects or a creature's traits or abilities.
+Your body is made to withstand the blows of your enemies. Your [Might](../rule/character/might.md) score is treated as 1 higher for the purpose of resisting potencies, and you gain an [edge](../rule/dice/edge.md) on [Might](../rule/character/might.md) tests when called for to resist environmental effects or a creature's traits or abilities.

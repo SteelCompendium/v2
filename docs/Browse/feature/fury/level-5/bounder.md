@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your jump distance and height double (see Movement Types in Chapter 10: <a href="../../../../../Read/heroes/combat/">Combat</a>). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you <a href="../../../../condition/prone/">land prone</a> (see Falling in Chapter 10). You <a href="../../../../condition/prone/">are not prone</a> after falling and landing on another creature.</p>
+<p>Your jump <a href="../../../../rule/combat/distance/">distance</a> and height double (see Movement Types in Chapter 10: <a href="../../../../../Read/heroes/combat/">Combat</a>). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump <a href="../../../../rule/combat/distance/">distance</a> for the purpose of determining damage and whether you <a href="../../../../condition/prone/">land prone</a> (see Falling in Chapter 10). You <a href="../../../../condition/prone/">are not prone</a> after falling and landing on another creature.</p>
 </div>
 </section>

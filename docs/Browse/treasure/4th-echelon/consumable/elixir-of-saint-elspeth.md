@@ -22,7 +22,7 @@ type: treasure
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Presence
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Presence](../../../rule/character/presence.md)
 
 **Project Goal:** 360
 

@@ -137,7 +137,7 @@ Khorva shook her head. "[Orcs](orc.md) have no great love for battle. We love tr
 
 ### Signature Trait: Relentless {data-scc="mcdm.heroes.v1/feature.trait.orc/relentless"}
 
-Whenever a creature deals damage to you that leaves you [dying](../rule/health/dying.md), you can make a [free strike](../feature/common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 [Stamina](../rule/health/stamina.md) by your strike, you can spend a [Recovery](../rule/health/recoveries.md).
+Whenever a creature deals damage to you that leaves you [dying](../rule/health/dying.md), you can make a [free strike](../feature/common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 [Stamina](../rule/health/stamina.md) by your [strike](../rule/combat/strike.md), you can spend a [Recovery](../rule/health/recoveries.md).
 
 ### Purchased Orc Traits
 

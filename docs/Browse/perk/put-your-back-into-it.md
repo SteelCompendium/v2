@@ -8,4 +8,4 @@ type: perk
 
 ---
 
-During montage tests, whenever you make a test to assist a test and obtain a tier 1 outcome, the assisted test doesn't take a bane. Additionally, once per montage test, you can turn an ally's tier 1 test outcome into a tier 2 outcome.
+During montage tests, whenever you make a test to assist a test and obtain a tier 1 outcome, the assisted test doesn't take a [bane](../rule/dice/bane.md). Additionally, once per montage test, you can turn an ally's tier 1 test outcome into a tier 2 outcome.

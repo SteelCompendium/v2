@@ -47,7 +47,7 @@ This chapter details twelve ancestries for the game:
 >
 > The rules for using ancestries refer to lots of other parts of the game. You can find information on specific topics as follows:
 >
-> Edges and banes, [Recoveries](../../Browse/rule/health/recoveries.md), respites: Chapter 1: [The Basics](the-basics.md)
+> [Edges](../../Browse/rule/dice/edge.md) and [banes](../../Browse/rule/dice/bane.md), [Recoveries](../../Browse/rule/health/recoveries.md), respites: Chapter 1: [The Basics](the-basics.md)
 >
 > Languages: Chapter 4: [Background](background.md)
 >
@@ -57,7 +57,7 @@ This chapter details twelve ancestries for the game:
 >
 > Crafting projects: Chapter 12: [Downtime Projects](downtime-projects.md)
 >
-> Main actions and maneuvers, creature size, damage and [Stamina](../../Browse/rule/health/stamina.md), [dying](../../Browse/rule/health/dying.md) and death, [flanking](../../Browse/rule/combat/flanking.md), movement and [forced movement](../../Browse/movement/forced-movement.md), [winded](../../Browse/rule/health/winded.md): Chapter 10: [Combat](combat.md)
+> Main actions and maneuvers, creature [size](../../Browse/rule/character/size.md), damage and [Stamina](../../Browse/rule/health/stamina.md), [dying](../../Browse/rule/health/dying.md) and death, [flanking](../../Browse/rule/combat/flanking.md), movement and [forced movement](../../Browse/movement/forced-movement.md), [winded](../../Browse/rule/health/winded.md): Chapter 10: [Combat](combat.md)
 
 ### On the Origin of Species
 
@@ -257,7 +257,7 @@ How tall is a [polder](../../Browse/ancestry/polder.md)? How long does a [dwarf]
 
 ### Starting Size and Speed {data-scc="mcdm.heroes.v1/rule.character/speed"}
 
-Unless otherwise noted, a character of any of these ancestries is size 1M and has speed 5 and stability 0.
+Unless otherwise noted, a character of any of these ancestries is [size](../../Browse/rule/character/size.md) 1M and has speed 5 and stability 0.
 
 Where an ancestry provides you with an ability, see Abilities in Chapter 5: [Classes](classes.md) for details of the ability format.
 
@@ -317,7 +317,7 @@ He poked the tip of his boot at the chalk symbol surrounding him on the floor. N
 
 He walked out of the circle. Nothing happened. No one, it seemed, cared.
 
-A few moments later, the door to a small home, little more than a wooden shack, on the outskirts of a small village opened. A well-dressed [devil](../../Browse/ancestry/devil.md) peeked out and then slowly emerged, stepping onto the dirt road that led through the center of the village. A keep stood atop a hill in the distance.
+A few moments later, the door to a small home, little more than a wooden shack, on the outskirts of a small village opened. A well-dressed [devil](../../Browse/ancestry/devil.md) peeked out and then slowly emerged, stepping onto the dirt road that led through the center of the village. A keep stood atop a hill in the [distance](../../Browse/rule/combat/distance.md).
 
 "Ah," the [devil](../../Browse/ancestry/devil.md) said.
 
@@ -381,7 +381,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 
 #### Signature Trait: Silver Tongue {data-scc="mcdm.heroes.v1/feature.trait.devil/silver-tongue"}
 
-Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](tests.md)), and you gain an edge on tests when attempting to discover an NPC's motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](negotiation.md)).
+Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](tests.md)), and you gain an [edge](../../Browse/rule/dice/edge.md) on tests when attempting to discover an NPC's motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](negotiation.md)).
 
 #### Purchased Devil Traits
 
@@ -389,7 +389,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Bea
 
 ##### Barbed Tail {data-scc="mcdm.heroes.v1/feature.trait.devil/barbed-tail"}
 
-Your pointy tail allows you to punctuate all your actions. Once per round when you make a melee strike, you can deal extra damage with the strike equal to your highest characteristic score.
+Your pointy tail allows you to punctuate all your actions. Once per round when you make a melee [strike](../../Browse/rule/combat/strike.md), you can deal extra damage with the [strike](../../Browse/rule/combat/strike.md) equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score.
 
 ##### Beast Legs {data-scc="mcdm.heroes.v1/feature.trait.devil/beast-legs"}
 
@@ -401,7 +401,7 @@ Your eyes are a solid, vibrant color that flares to show your excitement or rage
 
 ##### Hellsight {data-scc="mcdm.heroes.v1/feature.trait.devil/hellsight"}
 
-Your eyes let you see through darkness, fog, and other obscuring effects. You don't take a bane on strikes made against creatures with [concealment](../../Browse/rule/combat/concealment.md).
+Your eyes let you see through darkness, fog, and other obscuring effects. You don't take a [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) made against creatures with [concealment](../../Browse/rule/combat/concealment.md).
 
 ##### Impressive Horns {data-scc="mcdm.heroes.v1/feature.trait.devil/impressive-horns"}
 
@@ -413,7 +413,7 @@ Your prehensile tail allows you to challenge foes on all sides. You can't be fla
 
 ##### Wings {data-scc="mcdm.heroes.v1/feature.trait.devil/wings"}
 
-You possess wings powerful enough to take you airborne. While using your wings to [fly](../../Browse/movement/fly.md), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](../../Browse/movement/fly.md) at 3rd level or lower, you have damage weakness 5.
+You possess wings powerful enough to take you airborne. While using your wings to [fly](../../Browse/movement/fly.md), you can stay aloft for a number of rounds equal to your [Might](../../Browse/rule/character/might.md) score (minimum 1 round) before you fall. While using your wings to [fly](../../Browse/movement/fly.md) at 3rd level or lower, you have [damage weakness](../../Browse/rule/damage/damage-weakness.md) 5.
 
 ## Dragon Knight {data-scc="mcdm.heroes.v1/ancestry/dragon-knight"}
 
@@ -507,7 +507,7 @@ The [dragon knight](../../Browse/ancestry/dragon-knight.md) looked at the people
 
 #### Signature Trait: Wyrmplate {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/wyrmplate"}
 
-Your hardened scales grant you damage immunity equal to your level to one of the following damage types: acid, cold, corruption, fire, lightning, or poison. You can change your damage immunity type when you finish a respite.
+Your hardened scales grant you [damage immunity](../../Browse/rule/damage/damage-immunity.md) equal to your level to one of the following [damage types](../../Browse/rule/damage/damage-type.md): acid, cold, corruption, fire, lightning, or poison. You can change your [damage immunity](../../Browse/rule/damage/damage-immunity.md) type when you finish a respite.
 
 #### Purchased Dragon Knight Traits
 
@@ -515,7 +515,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* [Dr
 
 ##### Draconian Guard {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/draconian-guard"}
 
-Whenever you or an adjacent creature takes damage from a strike, you can use a triggered action to guard against the blow. You reduce any damage from the strike by an amount equal to your level.
+Whenever you or an adjacent creature takes damage from a [strike](../../Browse/rule/combat/strike.md), you can use a triggered action to guard against the blow. You reduce any damage from the [strike](../../Browse/rule/combat/strike.md) by an amount equal to your level.
 
 ##### Draconian Pride {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/draconian-pride"}
 
@@ -529,7 +529,7 @@ You have the following signature ability.
 |-----------------|------------------------------:|
 | **📏 1 burst**  | **🎯 Each enemy in the area** |
 
-**Power Roll + Might or Presence:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 5 damage; push 1
@@ -547,17 +547,17 @@ You have the following signature ability.
 |------------------------|------------------------------:|
 | **📏 3 cube within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + Might or Presence:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** 2 damage
 - **12-16:** 4 damage
 - **17+:** 6 damage
 
-**Effect:** You choose the ability's damage type from acid, cold, corruption, fire, lightning, or poison.
+**Effect:** You choose the ability's [damage type](../../Browse/rule/damage/damage-type.md) from acid, cold, corruption, fire, lightning, or poison.
 
 ##### Prismatic Scales {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/prismatic-scales"}
 
-Select one damage immunity granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.
+Select one [damage immunity](../../Browse/rule/damage/damage-immunity.md) granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.
 
 ##### Remember Your Oath {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/remember-your-oath"}
 
@@ -567,11 +567,11 @@ As a maneuver, you can recite the following oath. Until the start of your next t
 
 ##### Wings {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/wings"}
 
-You possess wings powerful enough to take you airborne. While using your wings to [fly](../../Browse/movement/fly.md), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](../../Browse/movement/fly.md) at 3rd level or lower, you have damage weakness 5.
+You possess wings powerful enough to take you airborne. While using your wings to [fly](../../Browse/movement/fly.md), you can stay aloft for a number of rounds equal to your [Might](../../Browse/rule/character/might.md) score (minimum 1 round) before you fall. While using your wings to [fly](../../Browse/movement/fly.md) at 3rd level or lower, you have [damage weakness](../../Browse/rule/damage/damage-weakness.md) 5.
 
 ## Dwarf {data-scc="mcdm.heroes.v1/ancestry/dwarf"}
 
-Possessed of a strength that belies their size, [dwarves](../../Browse/ancestry/dwarf.md) have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel [dwarves](../../Browse/ancestry/dwarf.md).
+Possessed of a strength that belies their [size](../../Browse/rule/character/size.md), [dwarves](../../Browse/ancestry/dwarf.md) have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel [dwarves](../../Browse/ancestry/dwarf.md).
 
 [Dwarves](../../Browse/ancestry/dwarf.md) are the children of the elder god Ord, and a common phrase among [dwarves](../../Browse/ancestry/dwarf.md) is "Ord made the world"-their way of saying, "What will be, will be." They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many [dwarves](../../Browse/ancestry/dwarf.md) leave their homes to see the world and seek glory in Ord's name.
 
@@ -707,7 +707,7 @@ Your stone skin affords you potent protection. You have a +6 bonus to [Stamina](
 
 ##### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stand-tough"}
 
-Your body is made to withstand the blows of your enemies. Your Might score is treated as 1 higher for the purpose of resisting potencies, and you gain an edge on Might tests when called for to resist environmental effects or a creature's traits or abilities.
+Your body is made to withstand the blows of your enemies. Your [Might](../../Browse/rule/character/might.md) score is treated as 1 higher for the purpose of resisting potencies, and you gain an [edge](../../Browse/rule/dice/edge.md) on [Might](../../Browse/rule/character/might.md) tests when called for to resist environmental effects or a creature's traits or abilities.
 
 ##### Stone Singer {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stone-singer"}
 
@@ -803,7 +803,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 
 #### Signature Trait: Wode Elf Glamor {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-glamor"}
 
-You can magically alter your appearance to better blend in with your surroundings. You gain an edge on tests made to hide and sneak, and tests made to search for you while you are hidden take a bane.
+You can magically alter your appearance to better blend in with your surroundings. You gain an [edge](../../Browse/rule/dice/edge.md) on tests made to hide and sneak, and tests made to search for you while you are hidden take a [bane](../../Browse/rule/dice/bane.md).
 
 #### Purchased Wode Elf Traits
 
@@ -823,7 +823,7 @@ Your elf body and mind can't be contained for long. Whenever you make a saving t
 
 ##### Revisit Memory {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/revisit-memory"}
 
-Accessing memories is as easy as living in the present for you. You gain an edge on tests made to recall lore.
+Accessing memories is as easy as living in the present for you. You gain an [edge](../../Browse/rule/dice/edge.md) on tests made to recall lore.
 
 ##### Swift {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/swift"}
 
@@ -837,11 +837,11 @@ You have the following signature ability. Signature abilities can be used at wil
 
 *Thorny vines erupt from every surface and attempt to bind your foe.*
 
-| **Magic, Ranged, Strike** |               **Main action** |
+| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Ranged 10**          |           **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 2 + M or A damage; A < WEAK, [slowed](../../Browse/condition/slowed.md) (save ends)
 - **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](../../Browse/condition/slowed.md) (save ends)
@@ -925,7 +925,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 
 #### Signature Trait: High Elf Glamor {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-elf-glamor"}
 
-A magic glamor makes others perceive you as interesting and engaging, granting you an edge on Presence tests using the [Flirt](../../Browse/skill/flirt.md) or [Persuade](../../Browse/skill/persuade.md) skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
+A magic glamor makes others perceive you as interesting and engaging, granting you an [edge](../../Browse/rule/dice/edge.md) on [Presence](../../Browse/rule/character/presence.md) tests using the [Flirt](../../Browse/skill/flirt.md) or [Persuade](../../Browse/skill/persuade.md) skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
 
 #### Purchased High Elf Traits
 
@@ -937,11 +937,11 @@ When a foe strikes, you reverse the magic of your glamor to instill fear into th
 
 ##### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.high-elf/graceful-retreat"}
 
-You gain a +1 bonus to the distance you can shift when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
+You gain a +1 bonus to the [distance](../../Browse/rule/combat/distance.md) you can shift when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
 
 ##### High Senses {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-senses"}
 
-Your senses are especially keen and perceptive. You gain an edge on tests made to notice threats.
+Your senses are especially keen and perceptive. You gain an [edge](../../Browse/rule/dice/edge.md) on tests made to notice threats.
 
 ##### Otherworldly Grace {data-scc="mcdm.heroes.v1/feature.trait.high-elf/otherworldly-grace"}
 
@@ -949,7 +949,7 @@ Your elf body and mind can't be contained for long. Whenever you make a saving t
 
 ##### Revisit Memory {data-scc="mcdm.heroes.v1/feature.trait.high-elf/revisit-memory"}
 
-Accessing memories is as easy as living in the present for you. You gain an edge on tests made to recall lore.
+Accessing memories is as easy as living in the present for you. You gain an [edge](../../Browse/rule/dice/edge.md) on tests made to recall lore.
 
 ##### Unstoppable Mind {data-scc="mcdm.heroes.v1/feature.trait.high-elf/unstoppable-mind"}
 
@@ -959,7 +959,7 @@ Your mind allows you to maintain your focus in any situation. You can't be made 
 
 In spite of their friendly, outgoing nature, the rare presence of a [hakaan](../../Browse/ancestry/hakaan.md) in [human](../../Browse/ancestry/human.md) society is considered a harbinger. An omen of dark times.
 
-Descended from a tribe of giants in upper Vanigar, the original Haka'an tribe made a bargain with Holkatya the Vanigar trickster god. They traded some of their gigantic size and strength for the ability to see the future.
+Descended from a tribe of giants in upper Vanigar, the original Haka'an tribe made a bargain with Holkatya the Vanigar trickster god. They traded some of their gigantic [size](../../Browse/rule/character/size.md) and strength for the ability to see the future.
 
 But Holkatya betrayed them, and the only future a [hakaan](../../Browse/ancestry/hakaan.md) is allowed to see is the moment and nature of their own death. These visions are never of some mundane tragedy. No [hakaan](../../Browse/ancestry/hakaan.md) ever received a vision of [dying](../../Browse/rule/health/dying.md) from choking on a grape. This Doomsight is always momentous. Always dramatic.
 
@@ -977,7 +977,7 @@ The gate, or door, or whatever it was started to close. With Dazar on the other 
 
 Dust settled on the ground behind the giant, and John realized the thunderclap was the sound of the giant running to them. Air that couldn't get out of the way fast enough, tortured by the pressure of his speed.
 
-The rectangular, toothed egress demon was twelve feet tall at least, the giant almost matching its immense size.
+The rectangular, toothed egress demon was twelve feet tall at least, the giant almost matching its immense [size](../../Browse/rule/character/size.md).
 
 In the instant before the maw of teeth and eyeballs shut, the giant grabbed each side of the mouth, and pulled. Muscles the size of hounds bulged. Tendons like ship cables stood taught, quivering with strain. "Not today!" the giant shouted. "Not TODAY!!"
 
@@ -1059,7 +1059,7 @@ Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, ha
 
 #### Signature Trait: Big! {data-scc="mcdm.heroes.v1/feature.trait.hakaan/big"}
 
-Your stature reflects your giant forebears. Your size is 1L.
+Your stature reflects your giant forebears. Your [size](../../Browse/rule/character/size.md) is 1L.
 
 #### Purchased Hakaan Traits
 
@@ -1067,7 +1067,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Doo
 
 ##### All Is a Feather {data-scc="mcdm.heroes.v1/feature.trait.hakaan/all-is-a-feather"}
 
-You are exceptionally strong. You gain an edge on tests made to lift and haul heavy objects.
+You are exceptionally strong. You gain an [edge](../../Browse/rule/dice/edge.md) on tests made to lift and haul heavy objects.
 
 ##### Doomsight {data-scc="mcdm.heroes.v1/feature.trait.hakaan/doomsight"}
 
@@ -1079,7 +1079,7 @@ Additionally, when your [Stamina](../../Browse/rule/health/stamina.md) reaches t
 
 ##### Forceful {data-scc="mcdm.heroes.v1/feature.trait.hakaan/forceful"}
 
-Whenever you [force move](../../Browse/movement/forced-movement.md) a creature or object, the [forced movement](../../Browse/movement/forced-movement.md) distance gains a +1 bonus.
+Whenever you [force move](../../Browse/movement/forced-movement.md) a creature or object, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a +1 bonus.
 
 ##### Great Fortitude {data-scc="mcdm.heroes.v1/feature.trait.hakaan/great-fortitude"}
 
@@ -1087,7 +1087,7 @@ Your hearty constitution prevents you from losing strength. You can't be made [w
 
 ##### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.hakaan/stand-tough"}
 
-Your body is made to withstand the blows of your enemies. Your Might score is treated as 1 higher for the purpose of resisting potencies, and you gain an edge on Might tests when called for to resist environmental effects or a creature's traits or abilities.
+Your body is made to withstand the blows of your enemies. Your [Might](../../Browse/rule/character/might.md) score is treated as 1 higher for the purpose of resisting potencies, and you gain an [edge](../../Browse/rule/dice/edge.md) on [Might](../../Browse/rule/character/might.md) tests when called for to resist environmental effects or a creature's traits or abilities.
 
 ## Human {data-scc="mcdm.heroes.v1/ancestry/human"}
 
@@ -1145,7 +1145,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Per
 
 ##### Can't Take Hold {data-scc="mcdm.heroes.v1/feature.trait.human/cant-take-hold"}
 
-Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary [difficult terrain](../../Browse/movement/difficult-terrain.md) created by magic and psionic abilities. Additionally, when you are [force moved](../../Browse/movement/forced-movement.md) by a magic or psionic ability, you can reduce the [forced movement](../../Browse/movement/forced-movement.md) distance by 1.
+Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary [difficult terrain](../../Browse/movement/difficult-terrain.md) created by magic and psionic abilities. Additionally, when you are [force moved](../../Browse/movement/forced-movement.md) by a magic or psionic ability, you can reduce the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) by 1.
 
 ##### Determination {data-scc="mcdm.heroes.v1/feature.trait.human/determination"}
 
@@ -1153,7 +1153,7 @@ A tolerance for pain and distress allows you to push through difficult situation
 
 ##### Perseverance {data-scc="mcdm.heroes.v1/feature.trait.human/perseverance"}
 
-Giving up is for other people. You gain an edge on tests made using the [Endurance](../../Browse/skill/endurance.md) skill. Additionally, when you are [slowed](../../Browse/condition/slowed.md), your speed is reduced to 3 instead of 2.
+Giving up is for other people. You gain an [edge](../../Browse/rule/dice/edge.md) on tests made using the [Endurance](../../Browse/skill/endurance.md) skill. Additionally, when you are [slowed](../../Browse/condition/slowed.md), your speed is reduced to 3 instead of 2.
 
 ##### Resist the Unnatural {data-scc="mcdm.heroes.v1/feature.trait.human/resist-the-unnatural"}
 
@@ -1259,11 +1259,11 @@ John offered his hand. Revile shook it and then held it.
 
 #### Signature Trait: Fall Lightly {data-scc="mcdm.heroes.v1/feature.trait.memonek/fall-lightly"}
 
-Your silicone body is low in density. Whenever you fall, you reduce the distance of the fall by 2 squares.
+Your silicone body is low in density. Whenever you fall, you reduce the [distance](../../Browse/rule/combat/distance.md) of the fall by 2 squares.
 
 #### Signature Trait: Lightweight {data-scc="mcdm.heroes.v1/feature.trait.memonek/lightweight"}
 
-Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your size as one size smaller than it is.
+Your body is light for a creature of your height. Whenever another creature attempts to force move you, you treat your [size](../../Browse/rule/character/size.md) as one [size](../../Browse/rule/character/size.md) smaller than it is.
 
 #### Purchased Memonek Traits
 
@@ -1275,7 +1275,7 @@ Your lawful nature and quick reflexes mean you give no quarter to creatures tryi
 
 ##### Keeper of Order {data-scc="mcdm.heroes.v1/feature.trait.memonek/keeper-of-order"}
 
-Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an adjacent creature makes a power roll, you can use a free triggered action to remove an edge or a bane on the roll, to turn a double edge into an edge, or to turn a double bane into a bane.
+Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an adjacent creature makes a power roll, you can use a free triggered action to remove an [edge](../../Browse/rule/dice/edge.md) or a [bane](../../Browse/rule/dice/bane.md) on the roll, to turn a double [edge](../../Browse/rule/dice/edge.md) into an [edge](../../Browse/rule/dice/edge.md), or to turn a double [bane](../../Browse/rule/dice/bane.md) into a [bane](../../Browse/rule/dice/bane.md).
 
 ##### Lightning Nimbleness {data-scc="mcdm.heroes.v1/feature.trait.memonek/lightning-nimbleness"}
 
@@ -1287,7 +1287,7 @@ Your connection to Axiom allows you to regulate your movement. You can't be made
 
 ##### Systematic Mind {data-scc="mcdm.heroes.v1/feature.trait.memonek/systematic-mind"}
 
-You gain an edge on tests made to parse schematics, maps, and other systematic documents that aren't inherently chaotic. In addition, you treat any language you don't know as if you know a related language.
+You gain an [edge](../../Browse/rule/dice/edge.md) on tests made to parse schematics, maps, and other systematic documents that aren't inherently chaotic. In addition, you treat any language you don't know as if you know a related language.
 
 ##### Unphased {data-scc="mcdm.heroes.v1/feature.trait.memonek/unphased"}
 
@@ -1427,7 +1427,7 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 
 #### Signature Trait: Relentless {data-scc="mcdm.heroes.v1/feature.trait.orc/relentless"}
 
-Whenever a creature deals damage to you that leaves you [dying](../../Browse/rule/health/dying.md), you can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by your strike, you can spend a [Recovery](../../Browse/rule/health/recoveries.md).
+Whenever a creature deals damage to you that leaves you [dying](../../Browse/rule/health/dying.md), you can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by your [strike](../../Browse/rule/combat/strike.md), you can spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
 #### Purchased Orc Traits
 
@@ -1585,13 +1585,13 @@ You have the following ability.
 |-------------|----------------:|
 | **📏 Self** |     **🎯 Self** |
 
-**Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be [force moved](../../Browse/movement/forced-movement.md), and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
+**Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and [strikes](../../Browse/rule/combat/strike.md) made against you and tests made to search for you take a [bane](../../Browse/rule/dice/bane.md). You can't move or be [force moved](../../Browse/movement/forced-movement.md), and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
 
 If the surface you are flattened against is destroyed, this ability ends and you take 1d6 damage that can't be reduced in any way.
 
 #### Signature Trait: Small! {data-scc="mcdm.heroes.v1/feature.trait.polder/small"}
 
-Your diminutive stature lets you easily get out of—or into—trouble. Your size is 1S.
+Your diminutive stature lets you easily get out of—or into—trouble. Your [size](../../Browse/rule/character/size.md) is 1S.
 
 #### Purchased Polder Traits
 
@@ -1607,7 +1607,7 @@ Courage is all you know. You can't be made [frightened](../../Browse/condition/f
 
 ##### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.polder/graceful-retreat"}
 
-Your small size makes it easier for you to slip away from the fray. You gain a +1 bonus to the distance you can shift when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
+Your small [size](../../Browse/rule/character/size.md) makes it easier for you to slip away from the fray. You gain a +1 bonus to the [distance](../../Browse/rule/combat/distance.md) you can shift when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
 
 ##### Nimblestep {data-scc="mcdm.heroes.v1/feature.trait.polder/nimblestep"}
 
@@ -1691,7 +1691,7 @@ Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city
 
 #### Signature Trait: Former Life {data-scc="mcdm.heroes.v1/feature.trait.revenant/former-life"}
 
-Choose the ancestry you were before you died. Your size is that ancestry's size and your speed is 5. Unless you select one of the Previous Life traits (see below), you don't receive any other ancestral traits from your original ancestry.
+Choose the ancestry you were before you died. Your [size](../../Browse/rule/character/size.md) is that ancestry's [size](../../Browse/rule/character/size.md) and your speed is 5. Unless you select one of the Previous Life traits (see below), you don't receive any other ancestral traits from your original ancestry.
 
 #### Signature Trait: Tough But Withered {data-scc="mcdm.heroes.v1/feature.trait.revenant/tough-but-withered"}
 
@@ -1701,7 +1701,7 @@ Additionally, when your [Stamina](../../Browse/rule/health/stamina.md) reaches t
 
 ##### Purchased Revenant Traits
 
-You have 2 ancestry points to spend on the following traits, or 3 ancestry points if your size is 1S. (*Quick Build:* Bloodless, plus Undead Influence if size 1S.)
+You have 2 ancestry points to spend on the following traits, or 3 ancestry points if your [size](../../Browse/rule/character/size.md) is 1S. (*Quick Build:* Bloodless, plus Undead Influence if [size](../../Browse/rule/character/size.md) 1S.)
 
 ##### Bloodless {data-scc="mcdm.heroes.v1/feature.trait.revenant/bloodless"}
 
@@ -1717,7 +1717,7 @@ You select a purchased trait that costs 2 ancestry points from your previous anc
 
 ##### Undead Influence {data-scc="mcdm.heroes.v1/feature.trait.revenant/undead-influence"}
 
-Your supernatural gifts allow you to influence other undead. You gain an edge on Reason, Intuition, and Presence tests made to interact with undead creatures.
+Your supernatural gifts allow you to influence other undead. You gain an [edge](../../Browse/rule/dice/edge.md) on [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), and [Presence](../../Browse/rule/character/presence.md) tests made to interact with undead creatures.
 
 ##### Vengeance Mark {data-scc="mcdm.heroes.v1/feature.trait.revenant/vengeance-mark"}
 
@@ -1731,11 +1731,11 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 *A magic sigil you placed on a creature explodes with energy.*
 
-| **Magic, Ranged, Strike** |                        **Main action** |
+| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |                        **Main action** |
 |---------------------------|---------------------------------------:|
 | **📏 Ranged 10**          | **🎯 One creature bearing your sigil** |
 
-**Power Roll + Reason, Intuition, or Presence:**
+**Power Roll + [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** 3 + R, I, or P damage; slide 1
 - **12-16:** 5 + R, I, or P damage; slide 2
@@ -1855,11 +1855,11 @@ As a maneuver, you can adjust your vision to allow you to see through mundane ob
 
 ##### Foresight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/foresight"}
 
-Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with [concealment](../../Browse/rule/combat/concealment.md) who isn't hidden from you within 20, and you negate the usual bane on strikes against such creatures. Additionally, whenever you are targeted by a strike, you can use a triggered action to impose a bane on the power roll.
+Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with [concealment](../../Browse/rule/combat/concealment.md) who isn't hidden from you within 20, and you negate the usual [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) against such creatures. Additionally, whenever you are targeted by a [strike](../../Browse/rule/combat/strike.md), you can use a triggered action to impose a [bane](../../Browse/rule/dice/bane.md) on the power roll.
 
 ##### Four-Armed Athletics {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-athletics"}
 
-Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](../../Browse/skill/climb.md), [Gymnastics](../../Browse/skill/gymnastics.md), or [Swim](../../Browse/skill/swim.md) skills when you can use all your arms in the attempt.
+Your unique physiology enhances your movement. You gain an [edge](../../Browse/rule/dice/edge.md) on tests that use the [Climb](../../Browse/skill/climb.md), [Gymnastics](../../Browse/skill/gymnastics.md), or [Swim](../../Browse/skill/swim.md) skills when you can use all your arms in the attempt.
 
 ##### Four-Armed Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts"}
 
@@ -1873,11 +1873,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You slam an invisible force down upon the target.*
 
-| **Psionic, Ranged, Strike**  | Main action                   |
+| **Psionic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  | Main action                   |
 |------------------------------|-------------------------------|
 | **📏 Ranged 10**             | **🎯 One creature or object** |
 
-**Power Roll + Reason, Intuition, or Presence:**
+**Power Roll + [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** 2 + R, I, or P damage;
 - **12-16:** 5 + R, I, or P damage; push 1
@@ -1887,11 +1887,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You shoot forth a purple beam of psychic force that moves your target.*
 
-| **Psionic, Ranged, Strike**  | Main action                   |
+| **Psionic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  | Main action                   |
 |------------------------------|-------------------------------|
 | **📏 Ranged 10**             | **🎯 One creature or object** |
 
-**Power Roll + Reason, Intuition, or Presence:**
+**Power Roll + [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** 2 + R, I, or P psychic damage; slide 1
 - **12-16:** 5 + R, I, or P psychic damage; slide 2
@@ -1905,7 +1905,7 @@ Choose one signature ability from the following options. Signature abilities can
 |-------------------|------------------------|
 | **📏 Melee 1**    | **🎯 Self or one ally** |
 
-**Effect:** The target gains a bonus to speed equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.
+**Effect:** The target gains a bonus to speed equal to your [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md) score (your choice) until the start of your next turn.
 
 ##### Unstoppable Mind
 

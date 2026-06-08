@@ -20,11 +20,11 @@ type: treasure
 
 **Project Source:** Texts or lore in Khelt
 
-**Project Roll Characteristic:** Agility or Presence
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Agility](../../../rule/character/agility.md) or [Presence](../../../rule/character/presence.md)
 
 **Project Goal:** 450
 
-**1st Level:** You gain a +6 bonus to [Stamina](../../../rule/health/stamina.md) while you wear this armor. Additionally, you gain an edge on tests made to lie about or conceal your identity.
+**1st Level:** You gain a +6 bonus to [Stamina](../../../rule/health/stamina.md) while you wear this armor. Additionally, you gain an [edge](../../../rule/dice/edge.md) on tests made to lie about or conceal your identity.
 
 **5th Level:** The armor's bonus to [Stamina](../../../rule/health/stamina.md) increases to +12. Additionally, whenever you take damage, you can use a triggered action to [teleport](../../../movement/teleport.md) up to 5 squares. If you do, you create an illusion of you [dying](../../../rule/health/dying.md) in your previous space, which fades at the end of your next turn.
 

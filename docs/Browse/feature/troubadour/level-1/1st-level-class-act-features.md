@@ -92,7 +92,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and <a href="../../../../movement/teleport/">teleport</a> those targets to unoccupied spaces in the area. A target can&#39;t be <a href="../../../../movement/teleport/">teleport</a>ed in a way that would harm them (such as over a cliff), leave them <a href="../../../../rule/health/dying/">dying</a>, or result in them suffering a condition or other negative effect.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your <a href="../../../../rule/character/presence/">Presence</a> score and <a href="../../../../movement/teleport/">teleport</a> those targets to unoccupied spaces in the area. A target can&#39;t be <a href="../../../../movement/teleport/">teleport</a>ed in a way that would harm them (such as over a cliff), leave them <a href="../../../../rule/health/dying/">dying</a>, or result in them suffering a condition or other negative effect.</p></div>
 </div>
 </article>
 </div>
@@ -125,7 +125,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose one of the following effects:</p><ul><li>You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn.</li><li>You weave a tale of high-stakes heroics. One ally within distance gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</li><li>You insult a foe where they&#39;re most vulnerable. One enemy within distance takes a bane on the next power roll they make before the end of their next turn.</li></ul></div>
+<div class="sc-ability__section-body"><p>Choose one of the following effects:</p><ul><li>You orate a rousing tale of victory. One ally within <a href="../../../../rule/combat/distance/">distance</a> gains an <a href="../../../../rule/dice/edge/">edge</a> on the next power roll they make before the start of your next turn.</li><li>You weave a tale of high-stakes heroics. One ally within <a href="../../../../rule/combat/distance/">distance</a> gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</li><li>You insult a foe where they&#39;re most vulnerable. One enemy within <a href="../../../../rule/combat/distance/">distance</a> takes a <a href="../../../../rule/dice/bane/">bane</a> on the next power roll they make before the end of their next turn.</li></ul></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">You can choose two targets for the chosen effect.</span></div>
 </article>
@@ -158,7 +158,7 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Push 1</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Push 2</span></div>
@@ -223,13 +223,13 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">All for thunder motherrr! ♪ Run and hide for coverrr!♪</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Lightning damage equal to your level</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Lightning damage equal to 5 + your level</span></div>

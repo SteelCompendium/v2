@@ -8,4 +8,4 @@ type: perk
 
 ---
 
-Whenever you make a test to read a person and obtain a tier 3 outcome, you notice several tells that give away their true feelings. Any test you make to read that person in the future gains an edge.
+Whenever you make a test to read a person and obtain a tier 3 outcome, you notice several tells that give away their true feelings. Any test you make to read that person in the future gains an [edge](../rule/dice/edge.md).

@@ -12,12 +12,8 @@ keywords:
     - Telekinesis
 level: "5"
 name: Hypersonic
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-5/hypersonic
 target: Each enemy in the area
-tier1: 12 sonic damage
-tier2: 18 sonic damage
-tier3: 24 sonic damage
 type: ability
 ---
 
@@ -41,7 +37,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 sonic damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 sonic damage</span></div>

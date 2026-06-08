@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability has a potency, you increase that potency by an amount equal to your Intuition score.</p>
+<p>If the ability has a potency, you increase that potency by an amount equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
 </div>
 </section>

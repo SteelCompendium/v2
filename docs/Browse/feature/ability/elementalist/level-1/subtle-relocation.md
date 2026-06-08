@@ -2,7 +2,7 @@
 action_type: Triggered
 class: elementalist
 distance: Ranged 10
-effect: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can [teleport](../../../../movement/teleport.md) them at any point during the move.
+effect: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score. If the target moves to trigger this ability, you can [teleport](../../../../movement/teleport.md) them at any point during the move.
 flavor: You call on the void to swallow and spit out an ally.
 keywords:
     - Magic
@@ -11,7 +11,7 @@ keywords:
 level: "1"
 name: Subtle Relocation
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/subtle-relocation
-spend: '1 Essence: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to twice your Reason score instead.'
+spend: '1 Essence: You [teleport](../../../../movement/teleport.md) the target up to a number of squares equal to twice your [Reason](../../../../rule/character/reason.md) score instead.'
 subtype: triggered
 target: Self or one ally
 trigger: The target starts their turn, moves, or is [force moved](../../../../movement/forced-movement.md).
@@ -43,7 +43,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/teleport/">teleport</a> the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can <a href="../../../../../movement/teleport/">teleport</a> them at any point during the move.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/teleport/">teleport</a> the target up to a number of squares equal to your <a href="../../../../../rule/character/reason/">Reason</a> score. If the target moves to trigger this ability, you can <a href="../../../../../movement/teleport/">teleport</a> them at any point during the move.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">You <a href="../../../../../movement/teleport/">teleport</a> the target up to a number of squares equal to twice your Reason score instead.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">You <a href="../../../../../movement/teleport/">teleport</a> the target up to a number of squares equal to twice your <a href="../../../../../rule/character/reason/">Reason</a> score instead.</span></div>
 </article>

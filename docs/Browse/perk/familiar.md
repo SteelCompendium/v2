@@ -22,9 +22,9 @@ If your [familiar](familiar.md) is destroyed, you can restore them as a respite 
 
 |      [Familiar](familiar.md)       |         -         |           Level -            |           -           |         EV -         |
 |:-------------------:|:-----------------:|:----------------------------:|:---------------------:|:--------------------:|
-|   **1T**<br>Size    |  **5**<br>Speed   | **2x your level**<br>[Stamina](../rule/health/stamina.md) |  **0**<br>Stability   | **-**<br>[Free Strike](../feature/common/main-actions/free-strike.md) |
+|   **1T**<br>[Size](../rule/character/size.md)    |  **5**<br>Speed   | **2x your level**<br>[Stamina](../rule/health/stamina.md) |  **0**<br>Stability   | **-**<br>[Free Strike](../feature/common/main-actions/free-strike.md) |
 | **-**<br>Immunities | **-**<br>Movement |                              | **-**<br>With Captain | **-**<br>Weaknesses  |
-|   **-3**<br>Might   | **+2**<br>Agility |       **0**<br>Reason        |  **0**<br>Intuition   |  **+1**<br>Presence  |
+|   **-3**<br>[Might](../rule/character/might.md)   | **+2**<br>[Agility](../rule/character/agility.md) |       **0**<br>[Reason](../rule/character/reason.md)        |  **0**<br>[Intuition](../rule/character/intuition.md)   |  **+1**<br>[Presence](../rule/character/presence.md)  |
 
 > **Telepathic**
 > 

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your Agility and Presence scores each increase to 3.</p>
+<p>Your <a href="../../../../rule/character/agility/">Agility</a> and <a href="../../../../rule/character/presence/">Presence</a> scores each increase to 3.</p>
 </div>
 </section>

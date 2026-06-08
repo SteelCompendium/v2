@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target shifts up to a number of squares equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>The target shifts up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2 Clarity</span><span class="txt">The target can use a maneuver.</span></div>
 </article>

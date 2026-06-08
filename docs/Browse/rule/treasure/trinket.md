@@ -26,7 +26,7 @@ This section presents 1st-echelon trinket treasures in alphabetical order.
 
 **Project Source:** Licensing agreements in Anjali
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
@@ -44,7 +44,7 @@ Additionally, when you are targeted by any effect that deals cold damage, you ca
 
 **Project Source:** Licensing agreements in Anjali
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
@@ -62,7 +62,7 @@ Additionally, when you are targeted by any effect that deals fire damage, you ca
 
 **Project Source:** Licensing agreements in Anjali
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
@@ -72,7 +72,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 ### Deadweight {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/deadweight"}
 
-*Though this humanoid femur is coated in lead, it feels impossibly heavy for its size.*
+*Though this humanoid femur is coated in lead, it feels impossibly heavy for its [size](../character/size.md).*
 
 **Keywords:** Magic
 
@@ -80,7 +80,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
@@ -96,11 +96,11 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Source:** Texts or lore in Zaliac
 
-**Project Roll Characteristic:** Reason
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md)
 
 **Project Goal:** 150
 
-**Effect:** As a maneuver, you transfer an object of size 1S or 1T held in one hand with another object of the same size that is within 10 squares. The objects change locations instantaneously and without creating any auditory or visual disturbance. If another creature is wearing or holding the object you transfer to your hand and they have I < 4, they fail to notice the transfer.
+**Effect:** As a maneuver, you transfer an object of [size](../character/size.md) 1S or 1T held in one hand with another object of the same [size](../character/size.md) that is within 10 squares. The objects change locations instantaneously and without creating any auditory or visual disturbance. If another creature is wearing or holding the object you transfer to your hand and they have I < 4, they fail to notice the transfer.
 
 ### Divine Vine {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/divine-vine"}
 
@@ -112,11 +112,11 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Source:** Songs in Yllyric
 
-**Project Roll Characteristic:** Reason or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 150
 
-**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../../feature/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../../condition/grabbed.md), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a strike, the target escapes your grab, or you call upon the vine to release the target (no action required).
+**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../../feature/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../../condition/grabbed.md), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a [strike](../combat/strike.md), the target escapes your grab, or you call upon the vine to release the target (no action required).
 
 ### Flameshade Gloves {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/flameshade-gloves"}
 
@@ -128,13 +128,13 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Source:** Texts or lore in Khelt
 
-**Project Roll Characteristic:** Reason
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md)
 
 **Project Goal:** 150
 
 **Effect:** When you use a move action while wearing these gloves, you can place one hand upon a mundane object as part of that move action. If the object is 1 square thick or less and has open space on the other side (for example, a door or wall), you pull your body through it as though the object wasn't there.
 
-If the object is too thick or has no open space on the other side, your hand becomes stuck inside the object. Removing your hand takes a successful hard Might test made as a main action.
+If the object is too thick or has no open space on the other side, your hand becomes stuck inside the object. Removing your hand takes a successful hard [Might](../character/might.md) test made as a main action.
 
 ### Gecko Gloves {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/gecko-gloves"}
 
@@ -146,11 +146,11 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
-**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are [force moved](../../movement/forced-movement.md), and any creature [grabbed](../../condition/grabbed.md) by you takes a bane on the test for the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver.
+**Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing unless you are [force moved](../../movement/forced-movement.md), and any creature [grabbed](../../condition/grabbed.md) by you takes a [bane](../dice/bane.md) on the test for the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver.
 
 ### Hellcharger Helm {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/hellcharger-helm"}
 
@@ -162,11 +162,11 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Source:** Texts or lore in Anjali and Caelian
 
-**Project Roll Characteristic:** Might or Reason
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md) or [Reason](../character/reason.md)
 
 **Project Goal:** 150
 
-**Effect:** Whenever you use the [Charge](../../feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../../feature/common/maneuvers/knockback.md) maneuver as a free maneuver, regardless of the target creature's size.
+**Effect:** Whenever you use the [Charge](../../feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the [Knockback](../../feature/common/maneuvers/knockback.md) maneuver as a free maneuver, regardless of the target creature's [size](../character/size.md).
 
 ### Mask of the Many {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/mask-of-the-many"}
 
@@ -178,11 +178,11 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
-**Effect:** While you wear this mask, you can use a maneuver to transform into any humanoid of equivalent size that you have previously seen. The humanoid's appearance reflects the last time you saw them, including whatever they were wearing. Your clothing and gear are transformed into the figure's clothing and gear, absorbed into your body, or retain their original forms, as you determine. If the figure possessed any treasures when you last saw them, they are duplicated as mundane copies while you are transformed.
+**Effect:** While you wear this mask, you can use a maneuver to transform into any humanoid of equivalent [size](../character/size.md) that you have previously seen. The humanoid's appearance reflects the last time you saw them, including whatever they were wearing. Your clothing and gear are transformed into the figure's clothing and gear, absorbed into your body, or retain their original forms, as you determine. If the figure possessed any treasures when you last saw them, they are duplicated as mundane copies while you are transformed.
 
 ### Quantum Satchel {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/quantum-satchel"}
 
@@ -194,7 +194,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
@@ -210,7 +210,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
@@ -230,7 +230,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Source:** Texts or lore in High Kuric
 
-**Project Roll Characteristic:** Might or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 300
 
@@ -246,7 +246,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 300
 
@@ -262,11 +262,11 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Variac
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 300
 
-**Effect:** While wearing the crown, you gain an edge on Intuition tests made to read the emotions and discern the honesty of other creatures. If you succeed on an Intuition test to read the emotions of another creature within 5 squares, you can ask the Director one question about something the creature knows, which the Director must answer honestly. At the Director's discretion, you might not be able to tap into the creature's deepest secrets this way.
+**Effect:** While wearing the crown, you gain an [edge](../dice/edge.md) on [Intuition](../character/intuition.md) tests made to read the emotions and discern the honesty of other creatures. If you succeed on an [Intuition](../character/intuition.md) test to read the emotions of another creature within 5 squares, you can ask the Director one question about something the creature knows, which the Director must answer honestly. At the Director's discretion, you might not be able to tap into the creature's deepest secrets this way.
 
 ### Key of Inquiry {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.trinket/key-of-inquiry"}
 
@@ -278,7 +278,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Ullorvic
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 300
 
@@ -294,7 +294,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Hyrallic
 
-**Project Roll Characteristic:** Reason or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 300
 
@@ -310,7 +310,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Yllyric
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 300
 
@@ -326,7 +326,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Variac
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 300
 
@@ -342,7 +342,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 300
 
@@ -368,11 +368,11 @@ This section presents 3rd-echelon trinket treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Yllyric
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**Effect:** While you wear them in combat, these bracers magically double the size of your hands and any melee weapons you wield, automatically compensating for the extra weight. You gain a +2 damage bonus for any weapon ability that deals rolled damage, and a +1 bonus to the distance you push any target with any weapon ability. This damage bonus adds to the damage bonus granted by other treasures.
+**Effect:** While you wear them in combat, these bracers magically double the size of your hands and any melee weapons you wield, automatically compensating for the extra weight. You gain a +2 damage bonus for any weapon ability that deals rolled damage, and a +1 bonus to the [distance](../combat/distance.md) you push any target with any weapon ability. This damage bonus adds to the damage bonus granted by other treasures.
 
 ### Mask of Oversight {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.trinket/mask-of-oversight"}
 
@@ -384,11 +384,11 @@ This section presents 3rd-echelon trinket treasures in alphabetical order.
 
 **Project Source:** Texts or lore in the First Language
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
-**Effect:** While wearing this grotesque mask, you can use a maneuver to cause your eyes to erupt from their sockets and multiply until six eyes orbit your head. This grants you a 360-degree arc of vision and prevents you from being surprised. Additionally, you have a double edge on tests made to discover hidden creatures, items, or mechanisms, but you have a double bane on Presence tests that don't use the [Intimidate](../../skill/intimidate.md) skill. As a maneuver, you can return your eyes to your head and make the additional eyes disappear.
+**Effect:** While wearing this grotesque mask, you can use a maneuver to cause your eyes to erupt from their sockets and multiply until six eyes orbit your head. This grants you a 360-degree arc of vision and prevents you from being surprised. Additionally, you have a double [edge](../dice/edge.md) on tests made to discover hidden creatures, items, or mechanisms, but you have a double [bane](../dice/bane.md) on [Presence](../character/presence.md) tests that don't use the [Intimidate](../../skill/intimidate.md) skill. As a maneuver, you can return your eyes to your head and make the additional eyes disappear.
 
 While the eyes circle your head, you can use a maneuver to launch up to three of the eyes at one creature within 10 squares. Each eye you launch deals 5 damage to the target before it is destroyed. You can't reduce the number of eyes to fewer than two in this way. If you reduce the number of eyes to two, those eyes return to your head, and you can't use the mask again until you earn 1 or more Victories.
 
@@ -402,7 +402,7 @@ While the eyes circle your head, you can use a maneuver to launch up to three of
 
 **Project Source:** Texts or lore in Higaran
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -419,7 +419,7 @@ Additionally, you have the following ability.
 > |---------------------|-------------------------:|
 > | **📏 Ranged 10**    | **🎯 Self and any ally** |
 >
-> **Effect:** Each target is covered by an illusion causing them to appear exactly as any creature (humanoid, animal, undead, and so forth) an observer most expects to see. The illusion ends for all targets if any creature under its effect harms or physically interacts with any creature not affected by the illusion, if you use this ability again, or if you choose to end the effect (no action required). The illusion also ends for any affected ally who moves more than the distance of this ability away from you.
+> **Effect:** Each target is covered by an illusion causing them to appear exactly as any creature (humanoid, animal, undead, and so forth) an observer most expects to see. The illusion ends for all targets if any creature under its effect harms or physically interacts with any creature not affected by the illusion, if you use this ability again, or if you choose to end the effect (no action required). The illusion also ends for any affected ally who moves more than the [distance](../combat/distance.md) of this ability away from you.
 
 ### Nullfield Resonator Ring {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.trinket/nullfield-resonator-ring"}
 
@@ -431,7 +431,7 @@ Additionally, you have the following ability.
 
 **Project Source:** Texts or lore in Mindspeech
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -448,13 +448,13 @@ Additionally, you have the following ability.
 > |----------------------------------------|------------------------------:|
 > | **📏 Melee 1**                         | **🎯 One creature or object** |
 >
-> **Power Roll + Might or Agility:**
+> **Power Roll + [Might](../character/might.md) or [Agility](../character/agility.md):**
 >
 > - **≤11:** 3 psychic damage
 > - **12-16:** 5 psychic damage; I < AVERAGE, [slowed](../../condition/slowed.md) (save ends)
 > - **17+:** 8 psychic damage; I < STRONG, [slowed](../../condition/slowed.md) (save ends)
 >
-> **Effect:** While [slowed](../../condition/slowed.md) in this way, the target takes a bane on magic or psionic abilities.
+> **Effect:** While [slowed](../../condition/slowed.md) in this way, the target takes a [bane](../dice/bane.md) on magic or psionic abilities.
 
 ### Shifting Ring {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.trinket/shifting-ring"}
 
@@ -466,7 +466,7 @@ Additionally, you have the following ability.
 
 **Project Source:** Texts or lore in Khelt
 
-**Project Roll Characteristic:** Agility or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 450
 
@@ -486,11 +486,11 @@ This section presents 4th-echelon trinket treasures in alphabetical order.
 
 **Project Source:** Texts or lore in Hyrallic
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Reason](../character/reason.md) or [Intuition](../character/intuition.md)
 
 **Project Goal:** 600
 
-**Effect:** The Gravekeeper's Lantern can temporarily trap a nonhostile spirit of the dead—either an incorporeal undead or the wandering spirit of a creature who died within the last 30 days—allowing you to interrogate them. Trapping a spirit requires you to be within 10 squares of them and succeed on a hard Intuition test as a main action. Once a spirit is trapped, you make a Presence test to coax them into answering your questions:
+**Effect:** The Gravekeeper's Lantern can temporarily trap a nonhostile spirit of the dead—either an incorporeal undead or the wandering spirit of a creature who died within the last 30 days—allowing you to interrogate them. Trapping a spirit requires you to be within 10 squares of them and succeed on a hard [Intuition](../character/intuition.md) test as a main action. Once a spirit is trapped, you make a [Presence](../character/presence.md) test to coax them into answering your questions:
 
 - **≤11:** You can ask two questions of the spirit, one of which they must answer fully and honestly.
 - **12-16:** You can ask three questions, two of which the spirit must answer fully and honestly.
@@ -508,7 +508,7 @@ A trapped spirit remains in the lantern for 10 minutes. They remember being trap
 
 **Project Source:** Texts or lore in Mindspeech
 
-**Project Roll Characteristic:** Agility or Presence
+**Project Roll [Characteristic](../character/characteristic.md):** [Agility](../character/agility.md) or [Presence](../character/presence.md)
 
 **Project Goal:** 600
 

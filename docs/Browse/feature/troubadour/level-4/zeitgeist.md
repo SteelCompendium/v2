@@ -41,8 +41,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a Presence test:</p>
-<ul><li><b>≤11:</b> Your information reaches no one.</li><li><b>12-16:</b> Your information reaches the nearest populated area of town size or larger. You and each ally present when you make the test gain an edge on Presence tests in that area until one of you spends a <a href="../../../../rule/health/recoveries/">Recovery</a>.</li><li><b>17+:</b> Your information reaches the nearest populated area of town size or larger, plus the next closest such population. You and allies present for your test gain an edge on Presence tests made in those areas until you start your next respite.</li></ul>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a <a href="../../../../rule/character/presence/">Presence</a> test:</p>
+<ul><li><b>≤11:</b> Your information reaches no one.</li><li><b>12-16:</b> Your information reaches the nearest populated area of town <a href="../../../../rule/character/size/">size</a> or larger. You and each ally present when you make the test gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/presence/">Presence</a> tests in that area until one of you spends a <a href="../../../../rule/health/recoveries/">Recovery</a>.</li><li><b>17+:</b> Your information reaches the nearest populated area of town <a href="../../../../rule/character/size/">size</a> or larger, plus the next closest such population. You and allies present for your test gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/presence/">Presence</a> tests made in those areas until you start your next respite.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

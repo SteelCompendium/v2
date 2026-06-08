@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 11 Focus
 distance: Ranged 10
-effect: The target gains 2 [surges](../../../../rule/resource/surge.md) and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.
+effect: The target gains 2 [surges](../../../../rule/resource/surge.md) and can use a signature or heroic ability as a free triggered action. The ability has a double [edge](../../../../rule/dice/edge.md) on the power roll, ignores [damage immunity](../../../../rule/damage/damage-immunity.md), and increases the potency of any potency effects by 1.
 flavor: You direct an attack to strike true.
 keywords:
     - Ranged
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 2 <a href="../../../../../rule/resource/surge/">surges</a> and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.</p></div>
+<div class="sc-ability__section-body"><p>The target gains 2 <a href="../../../../../rule/resource/surge/">surges</a> and can use a signature or heroic ability as a free triggered action. The ability has a double <a href="../../../../../rule/dice/edge/">edge</a> on the power roll, ignores <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a>, and increases the potency of any potency effects by 1.</p></div>
 </div>
 </article>

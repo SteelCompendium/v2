@@ -3,7 +3,7 @@ action_type: Maneuver
 class: fury
 cost: 5 Ferocity
 distance: Melee 1
-effect: You vertically push the target up to 4 squares. This [forced movement](../../../../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../../common/main-actions/free-strike.md) that deals extra damage equal to your Might score.
+effect: You vertically push the target up to 4 squares. This [forced movement](../../../../movement/forced-movement.md) ignores the target's stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../../common/main-actions/free-strike.md) that deals extra damage equal to your [Might](../../../../rule/character/might.md) score.
 flavor: You ready?
 keywords:
     - Melee
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You vertically push the target up to 4 squares. This <a href="../../../../../movement/forced-movement/">forced movement</a> ignores the target&#39;s stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a <a href="../../../../common/main-actions/free-strike/">free strike</a> that deals extra damage equal to your Might score.</p></div>
+<div class="sc-ability__section-body"><p>You vertically push the target up to 4 squares. This <a href="../../../../../movement/forced-movement/">forced movement</a> ignores the target&#39;s stability, and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a <a href="../../../../common/main-actions/free-strike/">free strike</a> that deals extra damage equal to your <a href="../../../../../rule/character/might/">Might</a> score.</p></div>
 </div>
 </article>

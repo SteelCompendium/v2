@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a <a href="../../../common/main-actions/free-strike/">free strike</a> using a weapon from one of your equipped kits, you can negate a bane on the power roll or reduce a double bane to a bane.</p>
+<p>Your expertise with weapons has grown to true mastery. Whenever you use a signature ability from one of your equipped kits or make a <a href="../../../common/main-actions/free-strike/">free strike</a> using a weapon from one of your equipped kits, you can negate a <a href="../../../../rule/dice/bane/">bane</a> on the power roll or reduce a double <a href="../../../../rule/dice/bane/">bane</a> to a <a href="../../../../rule/dice/bane/">bane</a>.</p>
 </div>
 </section>

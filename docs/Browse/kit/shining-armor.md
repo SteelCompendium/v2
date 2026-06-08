@@ -31,11 +31,11 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 *The strength of your assault makes it impossible for your foe to ignore you.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 5 + M or A damage
 - **12-16:** 8 + M or A damage

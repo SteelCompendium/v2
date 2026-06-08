@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your eyes let you see through darkness, fog, and other obscuring effects. You don&#39;t take a bane on strikes made against creatures with <a href="../../../../rule/combat/concealment/">concealment</a>.</p>
+<p>Your eyes let you see through darkness, fog, and other obscuring effects. You don&#39;t take a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/combat/strike/">strikes</a> made against creatures with <a href="../../../../rule/combat/concealment/">concealment</a>.</p>
 </div>
 </section>

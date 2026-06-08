@@ -16,22 +16,22 @@ type: title
 
 **Effect:** Choose one of the following benefits:
 
-- *Smallfolk Dodge:* Any creature of size 2 or larger takes a bane on strikes against you.
+- *Smallfolk Dodge:* Any creature of [size](../rule/character/size.md) 2 or larger takes a [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against you.
 - *The Harder They Fall:* You have the following ability, which can be paid for using the [Heroic Resource](../rule/resource/heroic-resource.md) of your class.
 
 ## The Harder They Fall (7 Heroic Resource)
 
 >
-> | **Melee, Strike, Weapon** |     **Main action** |
+> | **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 > |---------------------------|--------------------:|
 > | **📏 Melee 1**            | **🎯 One creature** |
 >
-> **Power Roll + Might or Agility:**
+> **Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 >
 > - **≤11:** 7 damage; M < WEAK[, prone](../condition/prone.md) and can't stand (save ends)
 > - **12-16:** 11 damage; M < AVERAGE[, prone](../condition/prone.md) and can't stand (save ends)
 > - **17+:** 16 damage; M < STRONG[, prone](../condition/prone.md) and can't stand (save ends)
 >
-> **Special:** If the target is size 2 or larger, you gain an edge on this ability.
+> **Special:** If the target is [size](../rule/character/size.md) 2 or larger, you gain an [edge](../rule/dice/edge.md) on this ability.
 
-- *Up the Beanstalk:* You have the [Climb](../skill/climb.md) skill. If you already have this skill, you instead gain an edge on tests made using the [Climb](../skill/climb.md) skill. While you're climbing a creature, the creature has a double bane on strikes against you and you have a double edge on tests made to stay on the creature.
+- *Up the Beanstalk:* You have the [Climb](../skill/climb.md) skill. If you already have this skill, you instead gain an [edge](../rule/dice/edge.md) on tests made using the [Climb](../skill/climb.md) skill. While you're climbing a creature, the creature has a double [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against you and you have a double [edge](../rule/dice/edge.md) on tests made to stay on the creature.

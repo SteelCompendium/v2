@@ -27,7 +27,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever a creature deals damage to you that leaves you <a href="../../../../rule/health/dying/">dying</a>, you can make a <a href="../../../common/main-actions/free-strike/">free strike</a> against any creature. If the creature is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> by your strike, you can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p>
+<p>Whenever a creature deals damage to you that leaves you <a href="../../../../rule/health/dying/">dying</a>, you can make a <a href="../../../common/main-actions/free-strike/">free strike</a> against any creature. If the creature is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> by your <a href="../../../../rule/combat/strike/">strike</a>, you can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

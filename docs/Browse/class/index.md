@@ -114,6 +114,6 @@
   <div class="sc-card__intro"><p>The whole world's a stage, and everyone on it, an actor. No one knows this better than the <a href="troubadour/">troubadour</a>. You find energy in the drama of everyday life and know how to draw spectacle forth from even the most mundane of situations. You accent highs and deepen lows in service to whoever might witness your performance.</p>
 <p><strong>As a <a href="troubadour/">troubadour</a>, you chase drama. The insurmountable dangers of the world might cause many a hero to cower. But you take to that world stage not intending to die, but to find out if you are truly alive.</strong></p>
 <p>&quot;History is a tale. Each of us is just a story we tell ourselves. Change the story, and you change the world.&quot; <strong>Jackson Bootblack</strong></p>
-<p>There is no visible text in the image provided. The image appears to show a decorative or scalloped edge pattern, but contains no recognizable letters, words, or symbols.</p></div>
+<p>There is no visible text in the image provided. The image appears to show a decorative or scalloped <a href="../rule/dice/edge/">edge</a> pattern, but contains no recognizable letters, words, or symbols.</p></div>
 </div>
 </div>

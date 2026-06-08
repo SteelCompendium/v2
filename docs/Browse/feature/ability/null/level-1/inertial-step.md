@@ -2,22 +2,18 @@
 action_type: Main action
 class: "null"
 distance: Melee 1
-effect: You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this strike.
+effect: You can [shift](../../../../movement/shifting.md) up to half your speed before or after you make this [strike](../../../../rule/combat/strike.md).
 flavor: You flit about the battlefield and take an opportunistic strike.
 keywords:
     - Melee
     - Psionic
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
 name: Inertial Step
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.null.level-1/inertial-step
 subtype: signature
 target: One creature or object
-tier1: 5 + A damage
-tier2: 7 + A damage
-tier3: 10 + A damage
 type: ability
 ---
 
@@ -35,13 +31,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">You flit about the battlefield and take an opportunistic strike.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + A damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + A damage</span></div>
@@ -50,6 +46,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to half your speed before or after you make this strike.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to half your speed before or after you make this <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 </article>

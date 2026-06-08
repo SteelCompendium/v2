@@ -41,7 +41,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god blesses you with the ability to stretch your divine magic farther. You have a +2 bonus to the distance of your ranged magic abilities.</p>
+<p>Your god blesses you with the ability to stretch your divine magic farther. You have a +2 bonus to the <a href="../../../../rule/combat/distance/">distance</a> of your ranged magic abilities.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -64,7 +64,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you can <a href="../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
+<p>Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the <a href="../../../../rule/combat/distance/">distance</a> you can <a href="../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

@@ -10,7 +10,7 @@ keywords:
 level: "1"
 name: Parry
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/parry
-spend: '1 Focus: This ability''s distance becomes Melee 1 + your Reason score, and you can [shift](../../../../movement/shifting.md) up to a number of squares equal to your Reason score instead of 1 square.'
+spend: '1 Focus: This ability''s [distance](../../../../rule/combat/distance.md) becomes Melee 1 + your [Reason](../../../../rule/character/reason.md) score, and you can [shift](../../../../movement/shifting.md) up to a number of squares equal to your [Reason](../../../../rule/character/reason.md) score instead of 1 square.'
 subtype: triggered
 target: Self or one ally
 trigger: A creature deals damage to the target.
@@ -44,5 +44,5 @@ type: ability
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> 1 square. If the target is you, or if you end this <a href="../../../../../movement/shifting/">shift</a> adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">This ability&#39;s distance becomes Melee 1 + your Reason score, and you can <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Reason score instead of 1 square.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">This ability&#39;s <a href="../../../../../rule/combat/distance/">distance</a> becomes Melee 1 + your <a href="../../../../../rule/character/reason/">Reason</a> score, and you can <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../../rule/character/reason/">Reason</a> score instead of 1 square.</span></div>
 </article>

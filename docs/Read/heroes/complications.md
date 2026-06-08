@@ -197,7 +197,7 @@ Complications are presented in alphabetical order.
 
 You somehow obtained the notebook of a brilliant but eccentric member of your class. The knowledge held within those notes should help you unlock powerful new abilities—if you can ever figure out what the notes mean.
 
-**Benefit and Drawback:** As a respite activity, you can study the notebook. Make a test using your highest characteristic score:
+**Benefit and Drawback:** As a respite activity, you can study the notebook. Make a test using your highest [characteristic](../../Browse/rule/character/characteristic.md) score:
 
 - **≤11:** You summon a hostile demon of your level or lower who attacks you at the end of the respite. The demon acts first in the combat, regardless of the traits or abilities of you or any other creature involved.
 - **12-16:** You learn nothing and your time is wasted.
@@ -209,13 +209,13 @@ You have no memory of your past before the... incident. Hopefully, you'll regain
 
 **Benefit:** You have a supernatural possession—a 1st-echelon trinket of your choice (see Treasures in Chapter 13: [Rewards](rewards.md)) that might have some connection with your former life.
 
-**Drawback:** You take a bane on any test made to recall lore.
+**Drawback:** You take a [bane](../../Browse/rule/dice/bane.md) on any test made to recall lore.
 
 #### Animal Form {data-scc="mcdm.heroes.v1/complication/animal-form"}
 
 Due to a magical accident, your being has fused with that of a small, harmless animal. You turn into this animal when it's convenient—and sometimes when it's inconvenient as well.
 
-**Benefit:** As a maneuver, you take the form of a specific animal of size 1T. You retain all your other statistics aside from your size, but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md), Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../../Browse/movement/burrow.md) or [fly](../../Browse/movement/fly.md), or to automatically climb or swim at full speed while moving. If your [animal form](../../Browse/complication/animal-form.md) doesn't provide such additional movement, you have a +2 bonus to speed.
+**Benefit:** As a maneuver, you take the form of a specific animal of [size](../../Browse/rule/character/size.md) 1T. You retain all your other statistics aside from your [size](../../Browse/rule/character/size.md), but you can't talk or use actions, and the only maneuvers you can use are [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md), Hide, and Stand Up. Based on the animal you can turn into, you might be able to [burrow](../../Browse/movement/burrow.md) or [fly](../../Browse/movement/fly.md), or to automatically climb or swim at full speed while moving. If your [animal form](../../Browse/complication/animal-form.md) doesn't provide such additional movement, you have a +2 bonus to speed.
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
@@ -227,7 +227,7 @@ You used to be a villain. You're (mostly) reformed now, but in desperate moments
 
 **Benefit:** You have 3 [antihero](../../Browse/complication/antihero.md) tokens. Whenever you use an ability or other effect that costs your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), you can spend 1 [antihero](../../Browse/complication/antihero.md) token in place of 1 [Heroic Resource](../../Browse/rule/resource/heroic-resource.md). Whenever you have fewer than 3 [antihero](../../Browse/complication/antihero.md) tokens and you would earn a [hero token](../../Browse/rule/resource/hero-token.md) for your party through your deeds, you instead regain 1 [antihero](../../Browse/complication/antihero.md) token.
 
-**Drawback:** While you have fewer than 3 [antihero](../../Browse/complication/antihero.md) tokens, you exude a villainous aspect. You and each ally within 5 squares of you take a bane on any test made to interact with other creatures.
+**Drawback:** While you have fewer than 3 [antihero](../../Browse/complication/antihero.md) tokens, you exude a villainous aspect. You and each ally within 5 squares of you take a [bane](../../Browse/rule/dice/bane.md) on any test made to interact with other creatures.
 
 #### Artifact Bonded {data-scc="mcdm.heroes.v1/complication/artifact-bonded"}
 
@@ -257,9 +257,9 @@ Your parents made a deal, and as part of that deal, you're supposed to marry som
 
 You came into contact with a mote of pure chaos energy, or were subjected to a supernatural effect or object that fused chaos into your very being. Now you can sprout and retract your limbs in a way that horrifies unprepared onlookers.
 
-**Benefit:** You gain an edge on the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md), [Grab](../../Browse/feature/common/maneuvers/grab.md), and [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuvers. Additionally, you can hold an additional item even when your hands are full.
+**Benefit:** You gain an [edge](../../Browse/rule/dice/edge.md) on the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md), [Grab](../../Browse/feature/common/maneuvers/grab.md), and [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuvers. Additionally, you can hold an additional item even when your hands are full.
 
-**Drawback:** While [dying](../../Browse/rule/health/dying.md), you grow and retract uncoordinated limbs at random, imposing a bane on your power rolls.
+**Drawback:** While [dying](../../Browse/rule/health/dying.md), you grow and retract uncoordinated limbs at random, imposing a [bane](../../Browse/rule/dice/bane.md) on your power rolls.
 
 #### Chosen One {data-scc="mcdm.heroes.v1/complication/chosen-one"}
 
@@ -283,7 +283,7 @@ Ever since you were a kid, you've been obsessed with a certain topic. During you
 
 **Project Source:** A significant source of information on the topic of your obsession, such as a major library or a world-renowned sage 
 
-**Project Roll Characteristic:** Reason
+**Project Roll [Characteristic](../../Browse/rule/character/characteristic.md):** [Reason](../../Browse/rule/character/reason.md)
 
 **Project Goal:** 120, 150, 180
 
@@ -304,7 +304,7 @@ Your mentor taught you everything and you trusted them completely until they wen
 > |-------------|-------------:|
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Until the end of your turn, whenever you use a damage-dealing heroic ability against a single target, you can weaken that target's life force. The ability deals extra corruption damage equal to your highest characteristic score.
+> **Effect:** Until the end of your turn, whenever you use a damage-dealing heroic ability against a single target, you can weaken that target's life force. The ability deals extra corruption damage equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score.
 
 **Drawback:** You have holy weakness 1. Each time you use Corrupt Spirit, your holy weakness increases by 1, to a maximum equal to your [recovery value](../../Browse/rule/health/recoveries.md). Whenever you take holy damage, this weakness resets to 1.
 
@@ -320,9 +320,9 @@ Some call you a [coward](../../Browse/complication/coward.md), just because you 
 
 You used to flit around the stars in your own ship. But an ugly run-in with a [pirate](../../Browse/complication/pirate.md) (or a [pirate](../../Browse/complication/pirate.md) [hunter](../../Browse/complication/hunter.md)) has left you marooned on this backwater world. You're prepared to carve out a life here—at least until you can hitch a ride somewhere else.
 
-**Benefit:** You have the Timescape skill (from the lore skill group). Additionally, you have a power pack that you can activate or deactivate as a maneuver. When you activate the power pack, choose an energy type from cold, fire, lightning, or sonic. Until you deactivate the power pack, your damage-dealing abilities deal that damage type.
+**Benefit:** You have the Timescape skill (from the lore skill group). Additionally, you have a power pack that you can activate or deactivate as a maneuver. When you activate the power pack, choose an energy type from cold, fire, lightning, or sonic. Until you deactivate the power pack, your damage-dealing abilities deal that [damage type](../../Browse/rule/damage/damage-type.md).
 
-**Drawback:** You take a bane on any test made to know about anything related to the world where you [crash landed](../../Browse/complication/crash-landed.md).
+**Drawback:** You take a [bane](../../Browse/rule/dice/bane.md) on any test made to know about anything related to the world where you [crash landed](../../Browse/complication/crash-landed.md).
 
 #### Cult Victim {data-scc="mcdm.heroes.v1/complication/cult-victim"}
 
@@ -336,7 +336,7 @@ Cultists captured you while raiding your home, then began an unholy ritual to tu
 
 When you were young, you did something reckless and unthinking that endangered a hag or cost them something dear. The hag cursed you to always take your time, forcing you to be cautious and thorough—even to your detriment. The curse has saved you from trouble a few times, but not being able to get away from trouble might be your downfall if you can't shake it.
 
-**Benefit:** Until you've taken your turn in a combat round, any strike made against you takes a bane.
+**Benefit:** Until you've taken your turn in a combat round, any strike made against you takes a [bane](../../Browse/rule/dice/bane.md).
 
 **Drawback:** You have a −1 penalty to speed.
 
@@ -346,7 +346,7 @@ For as long as you can remember, you've never gotten older. You've simply advent
 
 **Benefit:** You don't age. Additionally, whenever you would die, you instead enter a state of suspended animation indistinguishable from death. If your body isn't destroyed by [dying](../../Browse/rule/health/dying.md) or while you remain in this state, you come back to life after 12 hours and regain [Stamina](../../Browse/rule/health/stamina.md) equal to your [recovery value](../../Browse/rule/health/recoveries.md).
 
-**Drawback:** You take a bane on any test made to recall lore.
+**Drawback:** You take a [bane](../../Browse/rule/dice/bane.md) on any test made to recall lore.
 
 #### Curse of Misfortune {data-scc="mcdm.heroes.v1/complication/curse-of-misfortune"}
 
@@ -382,7 +382,7 @@ When you were young, you found or were given a magic weapon. Since then, you've 
 
 **Benefit:** You have a leveled weapon of your choice (see Treasures in Chapter 13: [Rewards](rewards.md)).
 
-**Drawback:** You have damage weakness 2.
+**Drawback:** You have [damage weakness](../../Browse/rule/damage/damage-weakness.md) 2.
 
 #### Disgraced {data-scc="mcdm.heroes.v1/complication/disgraced"}
 
@@ -430,13 +430,13 @@ You used to be an immortal creature, dispensing justice and doing the bidding of
 
 **Benefit:** You have the Religion skill (from the lore skill group). Additionally, whenever you use an ability that deals untyped damage, that ability can deal holy damage instead.
 
-**Drawback:** You will never fully gain a mortal's comfort with untruth. Any test you make to deceive another creature takes a bane.
+**Drawback:** You will never fully gain a mortal's comfort with untruth. Any test you make to deceive another creature takes a [bane](../../Browse/rule/dice/bane.md).
 
 #### Famous Relative {data-scc="mcdm.heroes.v1/complication/famous-relative"}
 
 Sure, you're a promising young hero in your own right—but people always ask you about your [famous relative](../../Browse/complication/famous-relative.md). Will you equal or surpass your relative's accomplishments, or will you always live in their shadow?
 
-**Benefit:** You have a piece of magic jewelry such as a signet ring. As a maneuver, you can use this item to summon your relative to your aid. Your relative starts with a Renown of 10 but otherwise has the same statistics you do. They make power rolls with an edge but don't gain the benefits of any of your treasures. Your relative does their best to help you out of the current perilous situation, disappearing when the situation is resolved or after 1 hour. Once you summon your relative, you can't do so again until you gain a level.
+**Benefit:** You have a piece of magic jewelry such as a signet ring. As a maneuver, you can use this item to summon your relative to your aid. Your relative starts with a Renown of 10 but otherwise has the same statistics you do. They make power rolls with an [edge](../../Browse/rule/dice/edge.md) but don't gain the benefits of any of your treasures. Your relative does their best to help you out of the current perilous situation, disappearing when the situation is resolved or after 1 hour. Once you summon your relative, you can't do so again until you gain a level.
 
 **Drawback:** You earn no Victories from combat encounters or other challenges for which your relative was present. Additionally, each time you summon your relative, the next time you gain Renown, your relative gains that Renown instead.
 
@@ -450,7 +450,7 @@ Your birth was attended by faeries. A friendly fairy blessed you, granting you s
 
 A spirit beyond your comprehension instilled in you a special purpose, choosing you to be the guardian of a place, a cause, or a philosophy. The flame that now burns in your soul can sear your enemies—or you if you fall short of expectations.
 
-**Benefit:** While you fight on behalf of your special purpose, whenever you obtain a tier 3 outcome with a damage-dealing ability, the ability deals extra fire damage equal to your highest characteristic score.
+**Benefit:** While you fight on behalf of your special purpose, whenever you obtain a tier 3 outcome with a damage-dealing ability, the ability deals extra fire damage equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score.
 
 **Drawback:** Whenever the Director determines that you act against your purpose or fail to live up to the high standards associated with it, you take fire damage equal to 5 + your level. This damage can't be reduced in any way.
 
@@ -482,7 +482,7 @@ You are in love with someone powerful, but tragic circumstances mean you cannot 
 
 At the edge of the world, you were lost in a winter storm and [presumed dead](../../Browse/title/presumed-dead.md). But an unknown fate or power kept you alive, bringing you back with frosty skin and pale eyes.
 
-**Benefit:** You have cold immunity 5. Additionally, whenever you make a strike that deals untyped damage, that strike can deal cold damage instead.
+**Benefit:** You have cold immunity 5. Additionally, whenever you make a [strike](../../Browse/rule/combat/strike.md) that deals untyped damage, that [strike](../../Browse/rule/combat/strike.md) can deal cold damage instead.
 
 **Drawback:** You have fire weakness 5.
 
@@ -524,7 +524,7 @@ You used to be a con artist, but those days are pretty much behind you. Being a 
 
 Once when you were a child, your settlement was in danger and you called out to the earth for aid. That call was answered by a summoning of protective dirt-and-stone walls, and ever since then, you've felt the earth's presence as a friend and protector.
 
-**Benefit:** You have the 1st-level [Elementalist Specialization](../../Browse/feature/elementalist/level-1/elemental-specialization.md) feature [Motivate Earth](../../Browse/feature/ability/elementalist/level-1/motivate-earth.md) (see Chapter 5: [Classes](classes.md)). If you also gain this feature in any other way, the [Motivate Earth](../../Browse/feature/ability/elementalist/level-1/motivate-earth.md) ability becomes a ranged ability for you with a distance of ranged 5.
+**Benefit:** You have the 1st-level [Elementalist Specialization](../../Browse/feature/elementalist/level-1/elemental-specialization.md) feature [Motivate Earth](../../Browse/feature/ability/elementalist/level-1/motivate-earth.md) (see Chapter 5: [Classes](classes.md)). If you also gain this feature in any other way, the [Motivate Earth](../../Browse/feature/ability/elementalist/level-1/motivate-earth.md) ability becomes a ranged ability for you with a [distance](../../Browse/rule/combat/distance.md) of ranged 5.
 
 **Drawback:** You attract lightning. Whenever any creature within 2 squares of you takes lightning damage, you take 5 lightning damage that can't be reduced in any way.
 
@@ -534,7 +534,7 @@ The world is in trouble—and it's partly your fault. Maybe you helped a villain
 
 **Benefit:** You're determined to stay alive so you can set things right. When your [Stamina](../../Browse/rule/health/stamina.md) reaches the negative of your [winded](../../Browse/rule/health/winded.md) value, you can use a free triggered action to spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
-**Drawback:** Many people blame you for the evils you caused. They might be unfriendly or hostile to you—and you can understand their point of view. You take a bane on any test made to interact with those who know what you did, and on strikes made against such creatures.
+**Drawback:** Many people blame you for the evils you caused. They might be unfriendly or hostile to you—and you can understand their point of view. You take a [bane](../../Browse/rule/dice/bane.md) on any test made to interact with those who know what you did, and on [strikes](../../Browse/rule/combat/strike.md) made against such creatures.
 
 #### Hawk Rider {data-scc="mcdm.heroes.v1/complication/hawk-rider"}
 
@@ -542,15 +542,15 @@ You travel with a giant hawk who you stole from the Hawklords (see Vasloria in C
 
 **Benefit:** As long as you are not in a building or other structure, you can spend 1 uninterrupted minute to summon your giant hawk (see the [Humans](../../Browse/ancestry/human.md) entry in *Draw Steel: Monsters*), which acts as your mount. You can dismiss the hawk at any time (no action required). The hawk won't go inside buildings, dungeons, or other structures, and it won't accept anyone but you as a rider. If the hawk takes damage or dies, you can restore them to full [Stamina](../../Browse/rule/health/stamina.md) as a respite activity.
 
-**Drawback:** People aware of the origin of your mount are afraid to interact with you, since they worry the Hawklords will come after them by association. You take a bane on any test made to influence anyone who knows of the Hawklords and who has observed you with your giant hawk. Such people might also report you to the Hawklords, who come looking for you at the Director's discretion.
+**Drawback:** People aware of the origin of your mount are afraid to interact with you, since they worry the Hawklords will come after them by association. You take a [bane](../../Browse/rule/dice/bane.md) on any test made to influence anyone who knows of the Hawklords and who has observed you with your giant hawk. Such people might also report you to the Hawklords, who come looking for you at the Director's discretion.
 
 #### Host Body {data-scc="mcdm.heroes.v1/complication/host-body"}
 
 "Do not be alarmed! We are not the humanoid we appear to be. We are an intelligent fungal collective, using this body as a host. No, we are doing nothing unsavory! This body was dead when we found it, and we merely gave it another chance at life. We are friendly. Please put down those torches!"
 
-**Benefit:** You are a sapient fungus who inhabits a humanoid body. Your [host body](../../Browse/complication/host-body.md) follows all the usual rules for a character and is considered to be alive. At any time while your [host body](../../Browse/complication/host-body.md) is alive, or for 24 hours after it dies, you can use a main action to move to a dead humanoid within 10 squares of the body and use it as your new [host body](../../Browse/complication/host-body.md), provided the body belongs to a playable ancestry. When you do so, your original [host body](../../Browse/complication/host-body.md) dies if it was alive. Your new [host body](../../Browse/complication/host-body.md) gains all your statistics except size, [ancestry traits](ancestries.md), and other statistics related to your former [host body's](../../Browse/complication/host-body.md) ancestry, which you instead gain from your new [host body](../../Browse/complication/host-body.md). When you inhabit a new [host body](../../Browse/complication/host-body.md), you start with 1 [Stamina](../../Browse/rule/health/stamina.md) and can immediately spend a [Recovery](../../Browse/rule/health/recoveries.md).
+**Benefit:** You are a sapient fungus who inhabits a humanoid body. Your [host body](../../Browse/complication/host-body.md) follows all the usual rules for a character and is considered to be alive. At any time while your [host body](../../Browse/complication/host-body.md) is alive, or for 24 hours after it dies, you can use a main action to move to a dead humanoid within 10 squares of the body and use it as your new [host body](../../Browse/complication/host-body.md), provided the body belongs to a playable ancestry. When you do so, your original [host body](../../Browse/complication/host-body.md) dies if it was alive. Your new [host body](../../Browse/complication/host-body.md) gains all your statistics except [size](../../Browse/rule/character/size.md), [ancestry traits](ancestries.md), and other statistics related to your former [host body's](../../Browse/complication/host-body.md) ancestry, which you instead gain from your new [host body](../../Browse/complication/host-body.md). When you inhabit a new [host body](../../Browse/complication/host-body.md), you start with 1 [Stamina](../../Browse/rule/health/stamina.md) and can immediately spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
-**Drawback:** You have fire weakness 5. Additionally, you take a bane on any test made to read a humanoid creature's emotions or body language.
+**Drawback:** You have fire weakness 5. Additionally, you take a [bane](../../Browse/rule/dice/bane.md) on any test made to read a humanoid creature's emotions or body language.
 
 #### Hunted {data-scc="mcdm.heroes.v1/complication/hunted"}
 
@@ -570,9 +570,9 @@ You are hunting someone or something—perhaps a wanted criminal, a person who w
 - Alertness, Eavesdrop, Search, or Track (from the intrigue skill group)
 - Criminal Underworld, Rumors, or Society (from the lore skill group)
 
-You have that skill, and you gain an edge on tests made to find or learn clues about your quarry.
+You have that skill, and you gain an [edge](../../Browse/rule/dice/edge.md) on tests made to find or learn clues about your quarry.
 
-**Drawback:** You are so obsessed with finding your quarry that you take a bane on any test made to track other creatures.
+**Drawback:** You are so obsessed with finding your quarry that you take a [bane](../../Browse/rule/dice/bane.md) on any test made to track other creatures.
 
 #### Indebted {data-scc="mcdm.heroes.v1/complication/indebted"}
 
@@ -600,7 +600,7 @@ You made a deal with a [devil](../../Browse/ancestry/devil.md). Not a very good 
 - Your Wealth increases by 2.
 - You gain a +3 bonus to [Stamina](../../Browse/rule/health/stamina.md).
 
-**Drawback:** Your body bears a fiendish mark. Any creature who understands religion and notes the mark can tell that your soul belongs to Hell, imposing a bane on any test you make to interact with those creatures (unless they're into that). Additionally, when you die, your soul goes to Hell and you can't be restored to life.
+**Drawback:** Your body bears a fiendish mark. Any creature who understands religion and notes the mark can tell that your soul belongs to Hell, imposing a [bane](../../Browse/rule/dice/bane.md) on any test you make to interact with those creatures (unless they're into that). Additionally, when you die, your soul goes to Hell and you can't be restored to life.
 
 #### Ivory Tower {data-scc="mcdm.heroes.v1/complication/ivory-tower"}
 
@@ -608,7 +608,7 @@ You studied in an academy or other educational institution. Your training was th
 
 **Benefit:** You have three skills of your choice, and you know one dead language of your choice (see Languages in Orden in Chapter 4: [Background](background.md)).
 
-**Drawback:** The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a bane on any test to which that skill would apply.
+**Drawback:** The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a [bane](../../Browse/rule/dice/bane.md) on any test to which that skill would apply.
 
 #### Lifebonded {data-scc="mcdm.heroes.v1/complication/lifebonded"}
 
@@ -624,7 +624,7 @@ You were caught in a storm and struck by lightning—but something saved you fro
 
 **Benefit:** Whenever you regain [Stamina](../../Browse/rule/health/stamina.md) in combat, you gain 1 [surge](../../Browse/rule/resource/surge.md). Whenever you spend a [surge](../../Browse/rule/resource/surge.md) to deal extra damage, you can make that extra damage into lightning damage.
 
-**Drawback:** Whenever you are wet, you have damage weakness 5.
+**Drawback:** Whenever you are wet, you have [damage weakness](../../Browse/rule/damage/damage-weakness.md) 5.
 
 #### Loner {data-scc="mcdm.heroes.v1/complication/loner"}
 
@@ -638,7 +638,7 @@ You've always been a lone wolf. With no one else to lean on, you've picked up a 
 
 In a long-ago age, a cataclysm overtook your city. You weren't killed, but some arcane accident caused you to be suspended in time until now. Alone, you must navigate the world around you with a head full of outdated memories—and a few ancient secrets.
 
-**Benefit:** Choose a damage type from acid, cold, corruption, fire, holy, lightning, poison, psychic, or sonic. Whenever you use a signature ability, you can have it deal your chosen damage type instead of its usual damage.
+**Benefit:** Choose a [damage type](../../Browse/rule/damage/damage-type.md) from acid, cold, corruption, fire, holy, lightning, poison, psychic, or sonic. Whenever you use a signature ability, you can have it deal your chosen [damage type](../../Browse/rule/damage/damage-type.md) instead of its usual damage.
 
 **Drawback:** You automatically fail any test made to recall information from the period during which you were suspended in time.
 
@@ -667,7 +667,7 @@ You've always had a [lucky](../../Browse/complication/lucky.md) streak. When you
 
 **Benefit:** When you spend a [hero token](../../Browse/rule/resource/hero-token.md) to succeed on a saving throw or to reroll a test, roll a d10. On a 6 or higher, you gain the benefit but don't spend the [hero token](../../Browse/rule/resource/hero-token.md).
 
-**Drawback:** Whenever you obtain a tier 1 outcome on a test and don't spend a [hero token](../../Browse/rule/resource/hero-token.md) to reroll, you take a bane on the next test you make.
+**Drawback:** Whenever you obtain a tier 1 outcome on a test and don't spend a [hero token](../../Browse/rule/resource/hero-token.md) to reroll, you take a [bane](../../Browse/rule/dice/bane.md) on the next test you make.
 
 #### Master Chef {data-scc="mcdm.heroes.v1/complication/master-chef"}
 
@@ -700,13 +700,13 @@ You can perceive ghosts and spirits that others don't sense. These supernatural 
 > |-------------|----------------:|
 > | **📏 Self** |     **🎯 Self** |
 >
-> **Power Roll + Intuition or Presence:**
+> **Power Roll + [Intuition](../../Browse/rule/character/intuition.md) or [Presence](../../Browse/rule/character/presence.md):**
 >
 > - **≤11:** You take corruption damage equal to 5 + your level.
 > - **12-16:** The spirit of anyone you know of who has died speaks to you, provided they are on the same world as you. You learn how they died and can ask them one question, which they can answer truthfully or untruthfully. The spirit knows everything they knew in life, and is aware of events that took place in their immediate surroundings since their death.
 > - **17+:** As tier 2, but you can ask three questions.
 >
-> **Effect:** If any sapient creatures have died nearby within the last 24 hours, you have a double bane on the power roll for this ability if any of those creatures were hostile to you, or a double edge if any of them were friendly to you. When you use this ability, you can't do so again until you earn 1 or more Victories.
+> **Effect:** If any sapient creatures have died nearby within the last 24 hours, you have a double [bane](../../Browse/rule/dice/bane.md) on the power roll for this ability if any of those creatures were hostile to you, or a double [edge](../../Browse/rule/dice/edge.md) if any of them were friendly to you. When you use this ability, you can't do so again until you earn 1 or more Victories.
 
 #### Medusa Blood {data-scc="mcdm.heroes.v1/complication/medusa-blood"}
 
@@ -719,11 +719,11 @@ Your mother and father never saw eye to eye. You know this because your father i
 >
 > *Your looks don't kill—they petrify.*
 >
-> | **Magic, Ranged, Strike** |     **Main action** |
+> | **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
 > |---------------------------|--------------------:|
 > | **📏 Ranged 10**          | **🎯 One creature** |
 >
-> **Power Roll + Might or Presence:**
+> **Power Roll + [Might](../../Browse/rule/character/might.md) or [Presence](../../Browse/rule/character/presence.md):**
 >
 > - **≤11:** 2 damage; M < WEAK, [slowed](../../Browse/condition/slowed.md) (save ends)
 > - **12-16:** 4 damage; M < AVERAGE, [slowed](../../Browse/condition/slowed.md) (save ends)
@@ -737,7 +737,7 @@ Your mother and father never saw eye to eye. You know this because your father i
 
 Your appearance marks you as part of a group that is universally feared. You might be a gentle soul, but you're not often given a chance to prove it. It's no wonder you usually wear a hood.
 
-**Benefit and Drawback:** When you reveal your appearance to creatures who don't know you personally, you gain an edge on any test involving those creatures where the [Brag](../../Browse/skill/brag.md) or [Intimidate](../../Browse/skill/intimidate.md) skill could be applied, but you take a bane on any test where the [Flirt](../../Browse/skill/flirt.md), Lead, or [Persuade](../../Browse/skill/persuade.md) skill could be applied.
+**Benefit and Drawback:** When you reveal your appearance to creatures who don't know you personally, you gain an [edge](../../Browse/rule/dice/edge.md) on any test involving those creatures where the [Brag](../../Browse/skill/brag.md) or [Intimidate](../../Browse/skill/intimidate.md) skill could be applied, but you take a [bane](../../Browse/rule/dice/bane.md) on any test where the [Flirt](../../Browse/skill/flirt.md), Lead, or [Persuade](../../Browse/skill/persuade.md) skill could be applied.
 
 #### Mundane {data-scc="mcdm.heroes.v1/complication/mundane"}
 
@@ -745,7 +745,7 @@ You're hopelessly nonmagical. When you try to use magic abilities, or even when 
 
 **Benefit:** You have immunity to corruption, holy, and psychic damage equal to your level.
 
-**Drawback:** Whenever you carry more than three magic treasures, you take a bane on power rolls.
+**Drawback:** Whenever you carry more than three magic treasures, you take a [bane](../../Browse/rule/dice/bane.md) on power rolls.
 
 #### Outlaw {data-scc="mcdm.heroes.v1/complication/outlaw"}
 
@@ -767,7 +767,7 @@ You have a piratical past (and maybe a piratical present and future as well). Th
 
 When you were young, you almost died in an accident or attack, but a vision of a god or saint showed you the way to save yourself and others you loved. That event drove you into the church and gave you a strong belief in a particular religion or cause—and you can't wait to tell other people all about it.
 
-**Benefit:** As a respite activity, you can attempt to convert members of a community to your cause. Make a Presence test with a difficulty determined by the Director based on the community's receptiveness to your ideas. On a success, you convert one NPC into a follower (see Renown in Chapter 13: [Rewards](rewards.md)), which you gain in addition to any followers acquired through Renown or other means. The Director determines the type of follower. Once you have converted an NPC into a follower this way, you can't use this benefit again until you gain a level.
+**Benefit:** As a respite activity, you can attempt to convert members of a community to your cause. Make a [Presence](../../Browse/rule/character/presence.md) test with a difficulty determined by the Director based on the community's receptiveness to your ideas. On a success, you convert one NPC into a follower (see Renown in Chapter 13: [Rewards](rewards.md)), which you gain in addition to any followers acquired through Renown or other means. The Director determines the type of follower. Once you have converted an NPC into a follower this way, you can't use this benefit again until you gain a level.
 
 **Drawback:** If you fail in your conversion attempt, one of your existing followers of the Director's choice (whether gained through this complication or your Renown or other means) leaves you, their faith in you shaken. If you have no followers, your Renown is reduced by 1. If you need to reduce your Renown and it's already 0, you gain no benefits from the respite during which you make the conversion attempt.
 
@@ -791,9 +791,9 @@ You were captured by the psionic beings known as voiceless talkers (see *Draw St
 
 You were apprenticed to learn a crafting trade. Your mentor said you had a special gift and might well become a master of your craft someday. But before your training was complete, your mentor was killed.
 
-**Benefit:** You have one skill of your choice from the crafting skill group. Additionally, choose one of your skills from the crafting group. You gain an edge on any test that uses that skill.
+**Benefit:** You have one skill of your choice from the crafting skill group. Additionally, choose one of your skills from the crafting group. You gain an [edge](../../Browse/rule/dice/edge.md) on any test that uses that skill.
 
-**Drawback:** Whoever killed your mentor cursed you. You take a bane on any test that doesn't use one of your skills.
+**Drawback:** Whoever killed your mentor cursed you. You take a [bane](../../Browse/rule/dice/bane.md) on any test that doesn't use one of your skills.
 
 #### Psychic Eruption {data-scc="mcdm.heroes.v1/complication/psychic-eruption"}
 
@@ -812,10 +812,10 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 >
 > **Effect:** Using this ability costs all your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 >
-> **Power Roll + Your Highest Characteristic Score:**
+> **Power Roll + Your Highest [Characteristic](../../Browse/rule/character/characteristic.md) Score:**
 >
 > - **≤11:** 1 psychic damage for each [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) you spend, to a maximum equal to your level
-> - **12-16:** 1 psychic damage for each [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) you spend, to a maximum equal to your level + your highest characteristic
+> - **12-16:** 1 psychic damage for each [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) you spend, to a maximum equal to your level + your highest [characteristic](../../Browse/rule/character/characteristic.md)
 > - **17+:** 1 psychic damage for each [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) you spend
 
 **Drawback:** Whenever you become [bleeding](../../Browse/condition/bleeding.md), [frightened](../../Browse/condition/frightened.md), or [weakened](../../Browse/condition/weakened.md), you must use Psychic Blast as a free triggered action.
@@ -824,7 +824,7 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 
 You were orphaned or lost in the wild, and a friendly animal pack (perhaps apes, bears, or wolves) took you in. Returning to so-called civilization was a shock, but you're now determined to learn all you can about your own kind.
 
-**Benefit:** You have the Handle Animals skill (from the interpersonal skill group). Additionally, choose a type of animal related to the animals who helped you, such as wolf. You gain an edge on tests that use the Handle Animals skill when interacting with animals of this type. You can also communicate with animals of this type as if you shared a language, and animals of this type aren't initially hostile to you unless they're supernaturally compelled to be.
+**Benefit:** You have the Handle Animals skill (from the interpersonal skill group). Additionally, choose a type of animal related to the animals who helped you, such as wolf. You gain an [edge](../../Browse/rule/dice/edge.md) on tests that use the Handle Animals skill when interacting with animals of this type. You can also communicate with animals of this type as if you shared a language, and animals of this type aren't initially hostile to you unless they're supernaturally compelled to be.
 
 **Drawback:** You don't have a culture (see Culture in Chapter 4: [Background](background.md)), though you can speak Caelian.
 
@@ -842,7 +842,7 @@ Whatever your accomplishments, you'll forever measure yourself against a former 
 
 **Benefit:** Choose one of your skills. That skill grants a +3 bonus to tests instead of +2.
 
-**Drawback:** Your [rival](../../Browse/complication/rival.md) has similar statistics to yours, but always had one skill they excelled at, as determined by the Director. Intimidated by their prowess, you take a bane on tests using that skill.
+**Drawback:** Your [rival](../../Browse/complication/rival.md) has similar statistics to yours, but always had one skill they excelled at, as determined by the Director. Intimidated by their prowess, you take a [bane](../../Browse/rule/dice/bane.md) on tests using that skill.
 
 #### Rogue Talent {data-scc="mcdm.heroes.v1/complication/rogue-talent"}
 
@@ -855,11 +855,11 @@ You are the only survivor of a cataclysmic psionic event—an experiment gone wr
 >
 > *You reach out with your mind to move a creature or object.*
 >
-> | **Psionic, Ranged, Strike**   |                  **Maneuver** |
+> | **Psionic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**   |                  **Maneuver** |
 > |-------------------------------|------------------------------:|
 > | **📏 Ranged 10**              | **🎯 One creature or object** |
 >
-> **Power Roll + Might, Intuition, or Presence:**
+> **Power Roll + [Might](../../Browse/rule/character/might.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 >
 > - **≤11:** Push or pull 1
 > - **12-16:** Push or pull 2
@@ -879,7 +879,7 @@ To your embarrassment, no sinister omens attended your birth and your closet con
 
 Your homeland has been corrupted by some terrible curse or plague, and you're the only one who escaped it. The members of your family still exist, but in changed forms—perhaps as vampire spawn, zombies, or living statues. People tell you the situation is hopeless, but you're determined to find a cure that can undo your loved ones' suffering.
 
-**Benefit:** Choose a type of monster connected to your homeland's plight, such as a vampire, ghost, or medusa. You have a +1 bonus to saving throws related to that monster's abilities, and you treat your characteristic scores as 1 higher than usual for the purpose of resisting potencies related to those abilities.
+**Benefit:** Choose a type of monster connected to your homeland's plight, such as a vampire, ghost, or medusa. You have a +1 bonus to saving throws related to that monster's abilities, and you treat your [characteristic](../../Browse/rule/character/characteristic.md) scores as 1 higher than usual for the purpose of resisting potencies related to those abilities.
 
 **Drawback:** You have started to succumb to the curse or plague, and will suffer the fate of your family if you don't find a cure soon. Work with the Director to determine the timeline of your transformation, which should be something that could happen during the campaign!
 
@@ -903,7 +903,7 @@ You have an identical twin—either a sibling or someone who looks so much like 
 
 While your peers were learning their trades in fancy schools, you honed your capabilities on the mean streets with nothing but your own instinct as a guide. What you lost in polish and tactical acumen, you now make up for in raw power.
 
-**Benefit and Drawback:** At the start of each of your turns during combat, you can forgo gaining your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) until the start of your next turn. If you do, your strikes gain a damage bonus equal to your highest characteristic score until the start of your next turn.
+**Benefit and Drawback:** At the start of each of your turns during combat, you can forgo gaining your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) until the start of your next turn. If you do, your [strikes](../../Browse/rule/combat/strike.md) gain a damage bonus equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score until the start of your next turn.
 
 #### Sewer Folk {data-scc="mcdm.heroes.v1/complication/sewer-folk"}
 
@@ -949,7 +949,7 @@ You were tasked with delivering a ceremonial shield to your older sibling, a cel
 
 **Benefit:** While you wear your sibling's shield on your back, you can't be flanked.
 
-**Drawback:** Visions of your dead sibling haunt you at night. Whenever you take a respite, make an Intuition test that can't make use of any skill. On a tier 1 or tier 2 outcome, you regain 1 fewer [Recoveries](../../Browse/rule/health/recoveries.md) than usual when you finish the respite.
+**Drawback:** Visions of your dead sibling haunt you at night. Whenever you take a respite, make an [Intuition](../../Browse/rule/character/intuition.md) test that can't make use of any skill. On a tier 1 or tier 2 outcome, you regain 1 fewer [Recoveries](../../Browse/rule/health/recoveries.md) than usual when you finish the respite.
 
 #### Silent Sentinel {data-scc="mcdm.heroes.v1/complication/silent-sentinel"}
 
@@ -973,7 +973,7 @@ Maybe you were bitten as a child, or maybe it's a family curse. Either way, you 
 
 An evil fairy cursed you, leaving you with a blank visage instead of a face. Although you're able to imitate other peoples' features, you'd like to have your own back.
 
-**Benefit:** You can spend 5 uninterrupted minutes to rearrange your face to resemble the face of another creature of your ancestry who you've observed before. You have a double edge on tests made to impersonate that creature or to disguise your identity. You are unable to change your hair or other nonfacial features.
+**Benefit:** You can spend 5 uninterrupted minutes to rearrange your face to resemble the face of another creature of your ancestry who you've observed before. You have a double [edge](../../Browse/rule/dice/edge.md) on tests made to impersonate that creature or to disguise your identity. You are unable to change your hair or other nonfacial features.
 
 **Drawback:** Whenever you take damage, your face becomes blank, with no eyes, nose, mouth, or ears. This doesn't affect your senses or your ability to speak. Your face doesn't return until you use the benefit of this complication to restore it.
 
@@ -1020,7 +1020,7 @@ A vampire has bitten you. You're not undead—or not yet, anyway—but your conn
 
 **Benefit:** Whenever you make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against an adjacent creature, you can do so by biting that creature. If you obtain a tier 3 outcome on the [free strike](../../Browse/feature/common/main-actions/free-strike.md), you gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to the damage dealt. If not lost beforehand, this [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) lasts until the end of your next respite.
 
-**Drawback:** While you have [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) from this complication, you grow visible fangs, you take a bane on Presence tests made to interact with humanoids, and your vampire progenitor can sense your location.
+**Drawback:** While you have [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) from this complication, you grow visible fangs, you take a [bane](../../Browse/rule/dice/bane.md) on [Presence](../../Browse/rule/character/presence.md) tests made to interact with humanoids, and your vampire progenitor can sense your location.
 
 #### Voice in Your Head {data-scc="mcdm.heroes.v1/complication/voice-in-your-head"}
 
@@ -1042,13 +1042,13 @@ You have sworn an oath to an organization. That organization is your rock, and a
 
 You were brought up to a strict standard of behavior. You cannot tell a lie.
 
-**Benefit:** If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you have a double edge on any test made to persuade a creature of some specific fact.
+**Benefit:** If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on any test made to persuade a creature of some specific fact.
 
-**Drawback:** When you lie, your honor is stained and you lose this complication's benefit. Additionally, you take a bane on any test that uses a skill from the interpersonal skill group. You can lose the bane and regain this complication's benefit only by doing penance, such as gaining the forgiveness of the creature you lied to.
+**Drawback:** When you lie, your honor is stained and you lose this complication's benefit. Additionally, you take a [bane](../../Browse/rule/dice/bane.md) on any test that uses a skill from the interpersonal skill group. You can lose the [bane](../../Browse/rule/dice/bane.md) and regain this complication's benefit only by doing penance, such as gaining the forgiveness of the creature you lied to.
 
 #### Waking Dreams {data-scc="mcdm.heroes.v1/complication/waking-dreams"}
 
-You broke a magic amulet, immersing your mind in weird energy that granted you the power of premonition. However, you struggle to control this new gift. Whenever you take a respite, make a Reason test to determine whether you gain this complication's benefit or drawback.
+You broke a magic amulet, immersing your mind in weird energy that granted you the power of premonition. However, you struggle to control this new gift. Whenever you take a respite, make a [Reason](../../Browse/rule/character/reason.md) test to determine whether you gain this complication's benefit or drawback.
 
 **Benefit:** With a tier 2 outcome, you experience a vision of an event currently happening in your world. The vision lasts for only a few seconds, but the information you glean is helpful to you. With a tier 3 outcome, the vision lasts for 1 minute or more.
 
@@ -1100,11 +1100,11 @@ You nearly lost your life at sea, but then you heard the voice. Someone—or som
 >
 > *You summon a wave of water to batter your foe.*
 >
-> | **Magic, Ranged, Strike** |               **Main action** |
+> | **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
 > |---------------------------| -----------------------------:|
 > | **📏 Ranged 10**          | **🎯 One creature or object** |
 >
-> **Power Roll + Your Highest Characteristic Score:**
+> **Power Roll + Your Highest [Characteristic](../../Browse/rule/character/characteristic.md) Score:**
 >
 > - **≤11:** 2 damage; push or pull 1
 > - **12-16:** 5 damage; push or pull 2
@@ -1118,7 +1118,7 @@ You nearly lost your life at sea, but then you heard the voice. Someone—or som
 
 You were dying in the wode, collapsing while starving and wounded. When you woke, you discovered that a group of green [elementalists](../../Browse/class/elementalist.md) had saved your life by infusing the regenerative bark of a tree to your body.
 
-**Benefit:** Your [recovery value](../../Browse/rule/health/recoveries.md) increases by an amount equal to your highest characteristic score.
+**Benefit:** Your [recovery value](../../Browse/rule/health/recoveries.md) increases by an amount equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score.
 
 **Drawback:** You have fire weakness 5.
 
@@ -1126,9 +1126,9 @@ You were dying in the wode, collapsing while starving and wounded. When you woke
 
 You're quick to anger, never letting an insult go without slinging one right back. In combat, you fight as if possessed by a literal spirit of wrath. No matter the tactical circumstances, when someone injures you, you feel compelled to answer blood with blood.
 
-**Benefit:** While you are [taunted](../../Browse/condition/taunted.md) by a creature, you gain an edge on strikes against that creature. Additionally, you can spend 1 [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) to have a double edge instead.
+**Benefit:** While you are [taunted](../../Browse/condition/taunted.md) by a creature, you gain an [edge](../../Browse/rule/dice/edge.md) on [strikes](../../Browse/rule/combat/strike.md) against that creature. Additionally, you can spend 1 [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) to have a double [edge](../../Browse/rule/dice/edge.md) instead.
 
-**Drawback:** In combat, whenever a creature makes a strike against you and you are not [taunted](../../Browse/condition/taunted.md), you are [taunted](../../Browse/condition/taunted.md) by that creature until the end of your next turn. Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a [Recovery](../../Browse/rule/health/recoveries.md) or be compelled to reply with an insult.
+**Drawback:** In combat, whenever a creature makes a [strike](../../Browse/rule/combat/strike.md) against you and you are not [taunted](../../Browse/condition/taunted.md), you are [taunted](../../Browse/condition/taunted.md) by that creature until the end of your next turn. Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a [Recovery](../../Browse/rule/health/recoveries.md) or be compelled to reply with an insult.
 
 #### Wrongly Imprisoned {data-scc="mcdm.heroes.v1/complication/wrongly-imprisoned"}
 

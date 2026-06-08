@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, <a href="../../../../ancestry/devil/">devils</a>, and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an edge on power rolls made against them and can use your <a href="../../../ability/censor/level-1/judgment/">Judgment</a> ability against them as a free triggered action before an encounter begins.</p>
+<p>The most esoteric secrets of your order teach you that to defeat your enemy, you must understand them. You treat your Renown as 2 higher than usual when dealing with demons, <a href="../../../../ancestry/devil/">devils</a>, and other agents of chaos. If you successfully complete a negotiation with one of these creatures, you gain an <a href="../../../../rule/dice/edge/">edge</a> on power rolls made against them and can use your <a href="../../../ability/censor/level-1/judgment/">Judgment</a> ability against them as a free triggered action before an encounter begins.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your constant fragmentary visions become clearer, and can be honed to understand the past of creatures you interact with. While speaking with any creature, you can make a medium Presence test to see visions from their past. On a success, you see a clear view of any subject related to the creature&#39;s past that you wish to understand. On a success with a consequence, you see two visions, one false and one true. On a failure, you lose 2d6 <a href="../../../../rule/health/stamina/">Stamina</a>.</p>
+<p>Your constant fragmentary visions become clearer, and can be honed to understand the past of creatures you interact with. While speaking with any creature, you can make a medium <a href="../../../../rule/character/presence/">Presence</a> test to see visions from their past. On a success, you see a clear view of any subject related to the creature&#39;s past that you wish to understand. On a success with a consequence, you see two visions, one false and one true. On a failure, you lose 2d6 <a href="../../../../rule/health/stamina/">Stamina</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

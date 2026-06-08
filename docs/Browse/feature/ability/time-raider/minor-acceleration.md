@@ -2,7 +2,7 @@
 action_type: Maneuver
 ancestry: time-raider
 distance: Melee 1
-effect: The target gains a bonus to speed equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.
+effect: The target gains a bonus to speed equal to your [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md) score (your choice) until the start of your next turn.
 flavor: You fill yourself or an ally with a burst of speed.
 keywords:
     - Psionic
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains a bonus to speed equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>The target gains a bonus to speed equal to your <a href="../../../../rule/character/reason/">Reason</a>, <a href="../../../../rule/character/intuition/">Intuition</a>, or <a href="../../../../rule/character/presence/">Presence</a> score (your choice) until the start of your next turn.</p></div>
 </div>
 </article>

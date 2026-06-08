@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can target two creatures simultaneously with your <a href="../../../ability/shadow/level-3/careful-observation/">Careful Observation</a> ability, observing both simultaneously. Making a strike against one target doesn&#39;t end your observation of the other target.</p>
+<p>You can target two creatures simultaneously with your <a href="../../../ability/shadow/level-3/careful-observation/">Careful Observation</a> ability, observing both simultaneously. Making a <a href="../../../../rule/combat/strike/">strike</a> against one target doesn&#39;t end your observation of the other target.</p>
 </div>
 </section>

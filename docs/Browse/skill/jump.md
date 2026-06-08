@@ -8,4 +8,4 @@ type: skill
 
 ---
 
-Leap vertical and horizontal distances.
+Leap vertical and horizontal [distances](../rule/combat/distance.md).

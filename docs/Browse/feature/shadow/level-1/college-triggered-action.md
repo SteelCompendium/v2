@@ -49,11 +49,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>An enemy targets you with a strike.</p></div>
+<div class="sc-ability__section-body"><p>An enemy targets you with a <a href="../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.</p></div>
+<div class="sc-ability__section-body"><p>Choose an enemy within <a href="../../../../rule/combat/distance/">distance</a> of the triggering strike, including the enemy who targeted you. The <a href="../../../../rule/combat/strike/">strike</a> targets that enemy instead.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">

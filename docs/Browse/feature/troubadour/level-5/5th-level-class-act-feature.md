@@ -39,7 +39,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within distance of your <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability. Choose one of the following conditions on the target: <a href="../../../../condition/bleeding/">bleeding</a>, <a href="../../../../condition/frightened/">frightened</a><a href="../../../../condition/prone/">, prone</a>, <a href="../../../../condition/slowed/">slowed</a>, or <a href="../../../../condition/taunted/">taunted</a>. You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Once on each of your turns, you can use a free maneuver to change one condition affecting a creature within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability. Choose one of the following conditions on the target: <a href="../../../../condition/bleeding/">bleeding</a>, <a href="../../../../condition/frightened/">frightened</a><a href="../../../../condition/prone/">, prone</a>, <a href="../../../../condition/slowed/">slowed</a>, or <a href="../../../../condition/taunted/">taunted</a>. You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -92,7 +92,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a <a href="../../../common/main-actions/free-strike/">free strike</a>, which deals psychic damage instead of its usual damage.</p>
+<p>Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed <a href="../../../../rule/character/presence/">Presence</a> test with the target. Whoever gets the higher result can make a <a href="../../../common/main-actions/free-strike/">free strike</a>, which deals psychic damage instead of its usual damage.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -122,7 +122,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, a target who starts their turn in the area gains a bonus to the distance they can <a href="../../../../movement/shifting/">shift</a> equal to your Presence score until the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, a target who starts their turn in the area gains a bonus to the <a href="../../../../rule/combat/distance/">distance</a> they can <a href="../../../../movement/shifting/">shift</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score until the end of their turn.</p></div>
 </div>
 </article>
 </div>

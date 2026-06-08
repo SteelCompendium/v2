@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can stop death from taking your allies. When an ally within distance of your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability dies and you are not <a href="../../../../rule/health/dying/">dying</a>, you can use a free triggered action to instead have that ally fall unconscious until they regain <a href="../../../../rule/health/stamina/">Stamina</a>.</p>
+<p>You can stop death from taking your allies. When an ally within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability dies and you are not <a href="../../../../rule/health/dying/">dying</a>, you can use a free triggered action to instead have that ally fall unconscious until they regain <a href="../../../../rule/health/stamina/">Stamina</a>.</p>
 <p>Additionally, your abilities deal an extra 5 damage to <a href="../../../../rule/health/winded/">winded</a> creatures.</p>
 </div>
 </section>

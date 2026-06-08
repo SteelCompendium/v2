@@ -3,7 +3,7 @@ action_type: Maneuver
 class: troubadour
 cost: 11 Drama
 distance: 5 cube within 10
-effect: Each ally within distance can't obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.
+effect: Each ally within [distance](../../../../rule/combat/distance.md) can't obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.
 flavor: You shine a bright light on the players on the stage and compel them to finish the performance.
 keywords:
     - Area
@@ -11,12 +11,8 @@ keywords:
     - Ranged
 level: "8"
 name: The Show Must Go On
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-8/the-show-must-go-on
 target: Each enemy in the area
-tier1: 6 damage; P < WEAK, the target can't willingly leave the area (EoT)
-tier2: 8 damage; P < AVERAGE, the target can't willingly leave the area (save ends)
-tier3: 12 damage; the target can't willingly leave the area (EoT); if P < STRONG, they can't willingly leave the area (save ends)
 type: ability
 ---
 
@@ -40,7 +36,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; P &lt; WEAK, the target can&#39;t willingly leave the area (EoT)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; P &lt; AVERAGE, the target can&#39;t willingly leave the area (save ends)</span></div>
@@ -49,6 +45,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally within distance can&#39;t obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>Each ally within <a href="../../../../../rule/combat/distance/">distance</a> can&#39;t obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.</p></div>
 </div>
 </article>

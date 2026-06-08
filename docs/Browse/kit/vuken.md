@@ -16,15 +16,15 @@ Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneu
 
 ## Animal Form: Wolf {data-scc="mcdm.heroes.v1/feature.fury.vuken/animal-form-wolf"}
 
-While you are in your wolf form, your size is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../movement/difficult-terrain.md).
+While you are in your wolf form, your [size](../rule/character/size.md) is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../movement/difficult-terrain.md).
 
 ## Hybrid Form: Wolf {data-scc="mcdm.heroes.v1/feature.fury.vuken/hybrid-form-wolf"}
 
-While you are in your hybrid form, your size is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../movement/difficult-terrain.md). At 4th level, the first time you take hybrid form in an encounter, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md).
+While you are in your hybrid form, your [size](../rule/character/size.md) is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../movement/difficult-terrain.md). At 4th level, the first time you take hybrid form in an encounter, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md).
 
 ## Primordial Storm: Lightning Storm {data-scc="mcdm.heroes.v1/feature.fury.vuken/primordial-storm-lightning-storm"}
 
-Your primordial damage type is lightning.
+Your primordial [damage type](../rule/damage/damage-type.md) is lightning.
 
 ## Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.vuken/kit-bonuses"}
 
@@ -39,11 +39,11 @@ Your primordial damage type is lightning.
 
 *A wild assault forces your foe onto their back.*
 
-| **Melee, Strike, Weapon** |               **Main action** |
+| **Melee, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../rule/character/might.md):**
 
 - **≤11:** 4 + M damage; A < WEAK[, prone](../condition/prone.md)
 - **12-16:** 7 + M damage; A < AVERAGE[, prone](../condition/prone.md)
@@ -59,7 +59,7 @@ As your ferocity grows, you gain benefits as noted on the [Vuken](vuken.md) [Gro
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature.                                                                                                                                                 |
 | 4               | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 1 [surge](../rule/resource/surge.md).                                                                                                                                   |
-| 6               | You gain an edge on Agility tests and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
+| 6               | You gain an [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) tests and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
 | 8 (4th level)   | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 2 [surges](../rule/resource/surge.md).                                                                                                                                  |
-| 10 (7th level)  | You have a double edge on Agility tests and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Agility score. |
+| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) tests and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Agility](../rule/character/agility.md) score. |

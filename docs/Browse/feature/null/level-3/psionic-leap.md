@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can long jump and high jump a distance equal to twice your Agility score without needing to make a test.</p>
+<p>You can long jump and high jump a <a href="../../../../rule/combat/distance/">distance</a> equal to twice your <a href="../../../../rule/character/agility/">Agility</a> score without needing to make a test.</p>
 </div>
 </section>

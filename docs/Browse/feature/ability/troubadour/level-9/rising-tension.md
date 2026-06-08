@@ -3,7 +3,7 @@ action_type: Maneuver
 class: troubadour
 cost: 11 Drama
 distance: Ranged 10
-effect: The target gains 3 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md), has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](../../../../condition/slowed.md) or [weakened](../../../../condition/weakened.md) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+effect: The target gains 3 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md), has a double [edge](../../../../rule/dice/edge.md) on a power roll of their choice made during their next turn, is no longer [slowed](../../../../condition/slowed.md) or [weakened](../../../../condition/weakened.md) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
 flavor: You narrate the tension of the scene and put all hope into your protagonist to turn things around.
 keywords:
     - Magic
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 3 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>, has a double edge on a power roll of their choice made during their next turn, is no longer <a href="../../../../../condition/slowed/">slowed</a> or <a href="../../../../../condition/weakened/">weakened</a> if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.</p></div>
+<div class="sc-ability__section-body"><p>The target gains 3 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>, has a double <a href="../../../../../rule/dice/edge/">edge</a> on a power roll of their choice made during their next turn, is no longer <a href="../../../../../condition/slowed/">slowed</a> or <a href="../../../../../condition/weakened/">weakened</a> if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.</p></div>
 </div>
 </article>

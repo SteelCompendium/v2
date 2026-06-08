@@ -3,7 +3,7 @@ action_type: Free triggered
 class: "null"
 cost: 11 Discipline
 distance: Self; see below
-effect: The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../condition/dazed.md) (save ends). While the triggering creature is [dazed](../../../../condition/dazed.md) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+effect: The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../../../../condition/dazed.md) (save ends). While the triggering creature is [dazed](../../../../condition/dazed.md) this way, they take psychic damage equal to your [Intuition](../../../../rule/character/intuition.md) score whenever they use a main action.
 flavor: You disrupt an enemy's strike and create a [feedback loop](../../talent/level-1/feedback-loop.md) in their mind, preventing them from focusing on future attacks.
 keywords:
     - Psionic
@@ -41,6 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes half the damage, and if the triggering creature has I &lt; AVERAGE, they are <a href="../../../../../condition/dazed/">dazed</a> (save ends). While the triggering creature is <a href="../../../../../condition/dazed/">dazed</a> this way, they take psychic damage equal to your Intuition score whenever they use a main action.</p></div>
+<div class="sc-ability__section-body"><p>The target takes half the damage, and if the triggering creature has I &lt; AVERAGE, they are <a href="../../../../../condition/dazed/">dazed</a> (save ends). While the triggering creature is <a href="../../../../../condition/dazed/">dazed</a> this way, they take psychic damage equal to your <a href="../../../../../rule/character/intuition/">Intuition</a> score whenever they use a main action.</p></div>
 </div>
 </article>

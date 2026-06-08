@@ -17,7 +17,7 @@ When you want your hero to rifle through a desk and locate a specific document, 
 
 The Director should ask a player to make a test only when the player's hero attempts a task where the consequences of failure are interesting or dramatic, and where failure won't grind the story to a halt. For example, if a hero wants to leap over a waist-high wall while casually walking through a peaceful city neighborhood, the worst case for failure is probably that the hero falls on their butt, takes no damage, and can stand up to either try again or walk around the wall. As such, no test is required. But if the hero were being chased by enemies, failing to leap over the wall means the pursuers can catch them, so the Director might decide to call for a test to determine what happens.
 
-The advancement of a story shouldn't be halted by failing a test. For instance, the heroes might need to know the color of a [dwarf](../../Browse/ancestry/dwarf.md) king's crown to solve a puzzle, with that puzzle opening the only entrance to a tomb they must enter to stop a world-ending ritual. It could be that a successful Reason test allows the heroes to recall that lore, but the test shouldn't be their only option to get the information. If the test fails, perhaps the heroes need to go to a [flying](../../Browse/movement/fly.md) library to do research, or they might be able to delve into a ruin to find the ancient monarch's portrait. A failed test should always result in a story becoming more interesting, not in the action coming to an end.
+The advancement of a story shouldn't be halted by failing a test. For instance, the heroes might need to know the color of a [dwarf](../../Browse/ancestry/dwarf.md) king's crown to solve a puzzle, with that puzzle opening the only entrance to a tomb they must enter to stop a world-ending ritual. It could be that a successful [Reason](../../Browse/rule/character/reason.md) test allows the heroes to recall that lore, but the test shouldn't be their only option to get the information. If the test fails, perhaps the heroes need to go to a [flying](../../Browse/movement/fly.md) library to do research, or they might be able to delve into a ruin to find the ancient monarch's portrait. A failed test should always result in a story becoming more interesting, not in the action coming to an end.
 
 #### It Just Works!
 
@@ -29,7 +29,7 @@ That said, such clever ideas often work for free the first time, but the Directo
 
 Each test has the following steps:
 
-The Director decides that a hero's activities call for a test and asks the hero's player to make a power roll using an appropriate characteristic (see Characteristics and Tests below). The Director then selects a difficulty for the power roll, either secretly or publicly (see Test Difficulty below).
+The Director decides that a hero's activities call for a test and asks the hero's player to make a power roll using an appropriate [characteristic](../../Browse/rule/character/characteristic.md) (see [Characteristics](../../Browse/rule/character/characteristic.md) and Tests below). The Director then selects a difficulty for the power roll, either secretly or publicly (see Test Difficulty below).
 
 The player makes the power roll. If the character has a skill that applies to the test (see Skills later in this chapter), they can ask the Director if the skill applies and justify the use of the skill. If the Director agrees the skill applies, the hero gains a +2 bonus to the roll.
 
@@ -37,35 +37,35 @@ The player reports the total of the roll, and the Director interprets its succes
 
 #### Characteristics and Tests
 
-When you describe a task you want your hero to undertake and the Director determines that a test is necessary, they then determine which characteristic the test uses based on the nature of the task. For instance, if you're scaling a wall, the Director could ask for a Might test to determine how far and how quickly you're able to climb. If you're attempting to plead your innocence in court for a murder you didn't commit, the Director might ask for a Presence test if you're attempting to win over the jury with your personality, or a Reason test if you're laying out a logical argument to support your innocence.
+When you describe a task you want your hero to undertake and the Director determines that a test is necessary, they then determine which [characteristic](../../Browse/rule/character/characteristic.md) the test uses based on the nature of the task. For instance, if you're scaling a wall, the Director could ask for a [Might](../../Browse/rule/character/might.md) test to determine how far and how quickly you're able to climb. If you're attempting to plead your innocence in court for a murder you didn't commit, the Director might ask for a [Presence](../../Browse/rule/character/presence.md) test if you're attempting to win over the jury with your personality, or a [Reason](../../Browse/rule/character/reason.md) test if you're laying out a logical argument to support your innocence.
 
 Though the Director can decide to call for tests in any circumstances, a number of tasks that heroes routinely undertake are commonly set up as tests.
 
 ##### Might Tests
 
-You make a Might test whenever a risky task calls for the use of physical strength. Might tests are most often used for breaking down doors and other structures, hurling heavy objects, pulling your body up a sheer wall, swimming against a mighty current, and other feats of physical power.
+You make a [Might](../../Browse/rule/character/might.md) test whenever a risky task calls for the use of physical strength. [Might](../../Browse/rule/character/might.md) tests are most often used for breaking down doors and other structures, hurling heavy objects, pulling your body up a sheer wall, swimming against a mighty current, and other feats of physical power.
 
 ##### Agility Tests
 
-You make an Agility test whenever a risky task calls for the use of your physical coordination and nimbleness. Agility tests are most often used for tumbling, sneaking quietly, picking locks, and engaging in sleight of hand.
+You make an [Agility](../../Browse/rule/character/agility.md) test whenever a risky task calls for the use of your physical coordination and nimbleness. [Agility](../../Browse/rule/character/agility.md) tests are most often used for tumbling, sneaking quietly, picking locks, and engaging in sleight of hand.
 
 ##### Reason Tests
 
-You make a Reason test whenever you attempt a risky task that requires the use of your mental acumen and education, formal or otherwise. Reason tests are most often used to recall lore, deduce information based on clues, complete a puzzle, forge counterfeit items or documents, break a code, convince others of a logical argument, or make an estimation.
+You make a [Reason](../../Browse/rule/character/reason.md) test whenever you attempt a risky task that requires the use of your mental acumen and education, formal or otherwise. [Reason](../../Browse/rule/character/reason.md) tests are most often used to recall lore, deduce information based on clues, complete a puzzle, forge counterfeit items or documents, break a code, convince others of a logical argument, or make an estimation.
 
 ##### Intuition Tests
 
-You make an Intuition test whenever you attempt a risky task that requires the use of your powers of observation and instinct. Intuition tests are most often used to notice hidden creatures or details, discern another person's motivations or honesty, calm and reassure others, and train animals.
+You make an [Intuition](../../Browse/rule/character/intuition.md) test whenever you attempt a risky task that requires the use of your powers of observation and instinct. [Intuition](../../Browse/rule/character/intuition.md) tests are most often used to notice hidden creatures or details, discern another person's motivations or honesty, calm and reassure others, and train animals.
 
 ##### Presence Tests
 
-You make a Presence test whenever you attempt a risky task that requires the use of your force of personality. Presence tests are most often used to gain trust, project confidence, and influence and lead other creatures.
+You make a [Presence](../../Browse/rule/character/presence.md) test whenever you attempt a risky task that requires the use of your force of personality. [Presence](../../Browse/rule/character/presence.md) tests are most often used to gain trust, project confidence, and influence and lead other creatures.
 
 > **Influencing Player Characters With Tests**
 >
-> The things player characters do can't be influenced by any creature making a test, whether a monster, an NPC, or another player character. Many players feel that their agency is taken away if they're compelled to jump into a pile of gold filled with hidden scorpions because an NPC convinced them to do so with a Presence test. For most players, it's not fun to be in control of a hero and lose some of that control.
+> The things player characters do can't be influenced by any creature making a test, whether a monster, an NPC, or another player character. Many players feel that their agency is taken away if they're compelled to jump into a pile of gold filled with hidden scorpions because an NPC convinced them to do so with a [Presence](../../Browse/rule/character/presence.md) test. For most players, it's not fun to be in control of a hero and lose some of that control.
 >
-> Instead, Directors should do their level best to have an NPC suggest that a character dive headlong into the gold like a billionaire duck, then let the player decide what their character does. Similarly, a Director might decide that one player character can't make an Intuition test to discern another PC's motivations or honesty.
+> Instead, Directors should do their level best to have an NPC suggest that a character dive headlong into the gold like a billionaire duck, then let the player decide what their character does. Similarly, a Director might decide that one player character can't make an [Intuition](../../Browse/rule/character/intuition.md) test to discern another PC's motivations or honesty.
 >
 > That said, if everyone in your gaming group decides to lift one or more of these restrictions after talking about it, go for it! There's no wrong way to play as long as everyone is having fun. The MCDM Safety Toolkit (available for download at *https://mcdm.gg/SafetyToolkit*) discusses how to talk about potentially problematic topics such as limiting character agency at your table.
 
@@ -116,7 +116,7 @@ A hard test has a greater risk of failure, and most heroes are likely to suffer 
 
 ##### Natural 19 or 20: Success With a Reward {data-scc="mcdm.heroes.v1/rule.dice/natural-19-20"}
 
-Whenever you get a natural 19 or 20 on the power roll for a test—a total of 19 or 20 before adding your characteristic score or other modifiers you score a critical success. This critical success automatically lets you succeed on the task with a reward, even if the test has a medium or hard difficulty.
+Whenever you get a natural 19 or 20 on the power roll for a test—a total of 19 or 20 before adding your [characteristic](../../Browse/rule/character/characteristic.md) score or other modifiers you score a critical success. This critical success automatically lets you succeed on the task with a reward, even if the test has a medium or hard difficulty.
 
 #### Test Outcomes
 
@@ -126,7 +126,7 @@ Depending on a test's difficulty and the power roll made to accomplish the task 
 
 If you fail a hard test and incur a consequence, you don't do what you set out to do—in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task.
 
-For instance, if a hero suffers a consequence while trying to climb a wall, they might make it halfway up the wall and then fall, taking damage and landing [prone](../../Browse/condition/prone.md). A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the monarch is deathly allergic.
+For instance, if a hero suffers a consequence while trying to climb a wall, they might make it halfway up the wall and then fall, taking damage and landing [prone](../../Browse/condition/prone.md). A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a [Reason](../../Browse/rule/character/reason.md) test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the monarch is deathly allergic.
 
 Not all consequences need to be immediate or apparent. For example, a hero might fail with a consequence on a test made to cheat at a high-stakes game of cards with a noble. The failure means the cheating is noticed, but the Director decides that the noble doesn't say anything. This consequence isn't made apparent until later in the evening, when the noble has guards surround the hero, intent on taking the cheater down to the dungeon for stacking the deck.
 
@@ -145,9 +145,9 @@ In lieu of other consequences, the Director also has the option to gain 2 additi
 
 If you fail a test without incurring a consequence, you simply don't do what you set out to do. A hero attempting to climb a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
 
-On a failed test, the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the test. This penalty shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an Agility test made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm... yet.
+On a failed test, the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the test. This penalty shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an [Agility](../../Browse/rule/character/agility.md) test made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm... yet.
 
-When a hero rolls a failure without a consequence, the Director can offer to let them succeed with a consequence instead. For instance, when a hero rolls a 10 on a medium Might test to break down a locked door, that's a failure and the door stays closed. But the Director could suggest to the player that instead of not breaking down the door, they can break down the door and lose 1d6 [Stamina](../../Browse/rule/health/stamina.md) from being injured in the effort.
+When a hero rolls a failure without a consequence, the Director can offer to let them succeed with a consequence instead. For instance, when a hero rolls a 10 on a medium [Might](../../Browse/rule/character/might.md) test to break down a locked door, that's a failure and the door stays closed. But the Director could suggest to the player that instead of not breaking down the door, they can break down the door and lose 1d6 [Stamina](../../Browse/rule/health/stamina.md) from being injured in the effort.
 
 ##### Success With a Consequence
 
@@ -155,7 +155,7 @@ If you succeed on a test and incur a consequence, you do what you set out to do,
 
 Just like failure with a consequence, the consequences accompanying success don't need to be immediately apparent. In lieu of other consequences, the Director has the option to gain 2 additional Malice at the start of the next combat encounter.
 
-When a hero rolls a success with a consequence, the Director might give them a chance to fail instead. For instance, when a hero rolls a 10 on an easy Agility test to pick the lock on a chest, that's a success with a consequence. The Director could suggest that the character has opened the lock but broken their lockpicks in the process (knowing the picks can't be replaced until the hero returns to town), but can also give them the option of failing to pick the lock but keeping their lockpicks intact.
+When a hero rolls a success with a consequence, the Director might give them a chance to fail instead. For instance, when a hero rolls a 10 on an easy [Agility](../../Browse/rule/character/agility.md) test to pick the lock on a chest, that's a success with a consequence. The Director could suggest that the character has opened the lock but broken their lockpicks in the process (knowing the picks can't be replaced until the hero returns to town), but can also give them the option of failing to pick the lock but keeping their lockpicks intact.
 
 ##### Success
 
@@ -186,7 +186,7 @@ In lieu of other rewards, the Director can also decide that a hero who succeeds 
 
 #### How Long Does It Take?
 
-The amount of time required for a task involving a test is determined by the Director. A task such as recalling lore with a Reason test might take no time at all. Ducking behind a barrel to hide with an Agility test might require a maneuver or a main action, while tracking a band of voiceless talkers through the World Below could take hours or even days.
+The amount of time required for a task involving a test is determined by the Director. A task such as recalling lore with a [Reason](../../Browse/rule/character/reason.md) test might take no time at all. Ducking behind a barrel to hide with an [Agility](../../Browse/rule/character/agility.md) test might require a maneuver or a main action, while tracking a band of voiceless talkers through the World Below could take hours or even days.
 
 ##### Tests During Combat
 
@@ -194,19 +194,19 @@ Many (but not all) tests that a hero might make during combat are made as maneuv
 
 #### Can I Try Again?
 
-In many cases when you fail a test, you can't attempt the test again unless the circumstances of the test change. For instance, if you attempt an Agility test to pick a lock and fail, you can't attempt to pick the lock again unless you get better lockpicks, oil the lock, have someone demonstrate how to pick a similar lock, and so on.
+In many cases when you fail a test, you can't attempt the test again unless the circumstances of the test change. For instance, if you attempt an [Agility](../../Browse/rule/character/agility.md) test to pick a lock and fail, you can't attempt to pick the lock again unless you get better lockpicks, oil the lock, have someone demonstrate how to pick a similar lock, and so on.
 
 The Director decides when the circumstances have changed enough to allow a new attempt at a test.
 
 ### Heroes Make Tests
 
-If a hero attempts to sneak by an enemy guard unnoticed, should the hero make an Agility test to sneak, or should the guard make an Intuition test to catch the hero in the act? If a cultist lies to a hero about the location of a secret temple, does the cultist roll a Presence test to conceal the truth, or does the hero roll an Intuition test to discern the cultist's honesty?
+If a hero attempts to sneak by an enemy guard unnoticed, should the hero make an [Agility](../../Browse/rule/character/agility.md) test to sneak, or should the guard make an [Intuition](../../Browse/rule/character/intuition.md) test to catch the hero in the act? If a cultist lies to a hero about the location of a secret temple, does the cultist roll a [Presence](../../Browse/rule/character/presence.md) test to conceal the truth, or does the hero roll an [Intuition](../../Browse/rule/character/intuition.md) test to discern the cultist's honesty?
 
 Except in certain scenarios (explored at NPCs Roll for Deceptive Tasks and Opposed Power Rolls below), heroes make tests and NPCs do not. Heroes are the stars of the story, and the consequences and rewards of tests have longer-lasting implications for them. There are exceptions to this rule, of course. If a hero travels with an NPC retainer or companion, that NPC will almost certainly make tests from time to time. But for the most part, NPCs and other creatures never need to make tests when what they do opposes what the heroes do.
 
 To quickly assess the difficulty of a task opposed by one or more creatures and the test made to attempt it, the Director can use the following guidelines (though these are not hard and fast rules):
 
-- **Easy Test:** A test is easy if only one creature opposes the hero, and that opposed creature would have a lower bonus to their test roll for the task than the hero does. If a hero with an Agility score of 2 attempts to sneak by a guard with an Intuition score of 0, the test is easy.
+- **Easy Test:** A test is easy if only one creature opposes the hero, and that opposed creature would have a lower bonus to their test roll for the task than the hero does. If a hero with an [Agility](../../Browse/rule/character/agility.md) score of 2 attempts to sneak by a guard with an [Intuition](../../Browse/rule/character/intuition.md) score of 0, the test is easy.
 - **Moderate Test:** A test is moderate if multiple creatures oppose the hero and those creatures would have lower bonuses to their test rolls than the hero, or if only one creature opposes the hero and has the same test bonus as the hero.
 - **Hard Test:** A test is hard if an opposed creature would have a higher bonus to their test roll than the hero, or if multiple creatures with the same test bonus as the hero oppose the hero.
 
@@ -216,9 +216,9 @@ The failure consequences of opposed tasks are some of the easiest to create on t
 
 At times, the Director might choose for an NPC to make a test when engaged in a deceptive task, rather than having characters attempt to note the deception. By having the NPC roll in these scenarios, the Director doesn't tip their hand to the players that subterfuge is afoot.
 
-For example, when an assassin attempts to ambush the heroes while they sit around a campfire, if any player says their hero is on the lookout for danger, that hero would make an Intuition test to notice the danger. But if no one is keeping watch, the assassin makes an Agility test to sneak up on the heroes unnoticed. If the assassin fails the test, the heroes notice immediately as their assailant loudly steps on a twig. If the assassin succeeds, the heroes don't notice until the assailant is right on top of them.
+For example, when an assassin attempts to ambush the heroes while they sit around a campfire, if any player says their hero is on the lookout for danger, that hero would make an [Intuition](../../Browse/rule/character/intuition.md) test to notice the danger. But if no one is keeping watch, the assassin makes an [Agility](../../Browse/rule/character/agility.md) test to sneak up on the heroes unnoticed. If the assassin fails the test, the heroes notice immediately as their assailant loudly steps on a twig. If the assassin succeeds, the heroes don't notice until the assailant is right on top of them.
 
-An NPC might also make a Presence test if they lie to the heroes, as long as the heroes have no reason to believe the character would be deceptive. The Director knows if the heroes are wary in that way because the players will ask if they can make a test to discern the NPC's honesty.
+An NPC might also make a [Presence](../../Browse/rule/character/presence.md) test if they lie to the heroes, as long as the heroes have no reason to believe the character would be deceptive. The Director knows if the heroes are wary in that way because the players will ask if they can make a test to discern the NPC's honesty.
 
 As an optional rule, the Director is also free to ask the heroes to make a reactive test to a deceptive NPC instead (see Reactive Tests below) whenever they choose.
 
@@ -226,11 +226,11 @@ As an optional rule, the Director is also free to ask the heroes to make a react
 
 When two creatures are engaged in a particularly dramatic struggle that requires them both to make tests, the Director can have all the creatures involved make a test. The creature with the highest power roll wins. You can't earn a reward as part of these opposed power rolls, and they don't follow the typical difficulty structure or have three different tiers of possible outcomes.
 
-For example, if your hero attempts to sneak by a demon lord, you make an Agility test to move stealthily while the demon makes an Intuition test to notice you. If your hero gets the higher power roll, you sneak by without the demon noticing. If the demon gets the higher roll, they catch you in the act of sneaking. If multiple sneaking heroes attempt to get by multiple demons, then each creature makes a test and all the totals are compared to determine which demons notice which heroes.
+For example, if your hero attempts to sneak by a demon lord, you make an [Agility](../../Browse/rule/character/agility.md) test to move stealthily while the demon makes an [Intuition](../../Browse/rule/character/intuition.md) test to notice you. If your hero gets the higher power roll, you sneak by without the demon noticing. If the demon gets the higher roll, they catch you in the act of sneaking. If multiple sneaking heroes attempt to get by multiple demons, then each creature makes a test and all the totals are compared to determine which demons notice which heroes.
 
 In the event of a tie in an opposed test, the state of the scene doesn't change. In the previous example, a tie means that if a demon on guard duty didn't know a sneaking hero was there, the demon remains oblivious. If the demon did know the hero was out there somewhere while trying to avoid being noticed, a tie means the demon still knows the hero is there but hasn't determined their location.
 
-Since opposed power rolls don't use tiers, when you make an opposed power roll, a double edge provides a +4 bonus to the roll, a double bane provides a -4 penalty to the roll, an automatic tier increase counts as a +4 bonus to the roll, and an automatic tier decrease counts as a -4 penalty to the roll.
+Since opposed power rolls don't use tiers, when you make an opposed power roll, a double [edge](../../Browse/rule/dice/edge.md) provides a +4 bonus to the roll, a double [bane](../../Browse/rule/dice/bane.md) provides a -4 penalty to the roll, an automatic tier increase counts as a +4 bonus to the roll, and an automatic tier decrease counts as a -4 penalty to the roll.
 
 ### Reactive Tests {data-scc="mcdm.heroes.v1/rule.test/reactive-test"}
 
@@ -238,16 +238,16 @@ At certain times when a hero isn't engaged in overcoming a task, the Director mi
 
 Reactive tests are typically made in the following circumstances, though the Director can call for them in any appropriate scenario:
 
-**Hidden Environmental Features:** The Director asks for an Intuition test to notice a secret door, a hidden trap, or some other disguised environmental feature.
+**Hidden Environmental Features:** The Director asks for an [Intuition](../../Browse/rule/character/intuition.md) test to notice a secret door, a hidden trap, or some other disguised environmental feature.
 
-- **Hidden Foes:** The Director calls for an Intuition test to notice a hidden foe (or they could use the rules in NPCs Roll for Deceptive Tasks above).
-- **Hidden Motives:** The Director can ask for an Intuition test during a conversation to gauge how well a hero can read an NPC, judging whether they're lying, withholding information, or concealing an emotional response. (The Director could also use the rules in NPCs Roll for Deceptive Tasks.)
-- **Recall Lore:** The Director might ask a hero to make a Reason test when dealing with a new object, a piece of information, or an event to determine what history or details the hero might already know about it.
+- **Hidden Foes:** The Director calls for an [Intuition](../../Browse/rule/character/intuition.md) test to notice a hidden foe (or they could use the rules in NPCs Roll for Deceptive Tasks above).
+- **Hidden Motives:** The Director can ask for an [Intuition](../../Browse/rule/character/intuition.md) test during a conversation to gauge how well a hero can read an NPC, judging whether they're lying, withholding information, or concealing an emotional response. (The Director could also use the rules in NPCs Roll for Deceptive Tasks.)
+- **Recall Lore:** The Director might ask a hero to make a [Reason](../../Browse/rule/character/reason.md) test when dealing with a new object, a piece of information, or an event to determine what history or details the hero might already know about it.
 - **Creature and DTO Tests:** Some creatures and dynamic terrain objects in *Draw Steel: Monsters* have features and abilities that require heroes to make reactive tests. These tests can't be modified by skills.
 
 > **Optional Rule: Secret Reactive Tests**
 >
-> Some Directors prefer to make the power rolls for reactive tests for the heroes rather than asking the players to do so. This allows the Director to make the rolls when appropriate for hidden objects, creatures, motivations, and information without tipping off the players that there is information to be gained. Having the Director roll requires the Director to have everyone's characteristics and skills recorded (whether physically or digitally) for easy reference.
+> Some Directors prefer to make the power rolls for reactive tests for the heroes rather than asking the players to do so. This allows the Director to make the rolls when appropriate for hidden objects, creatures, motivations, and information without tipping off the players that there is information to be gained. Having the Director roll requires the Director to have everyone's [characteristics](../../Browse/rule/character/characteristic.md) and skills recorded (whether physically or digitally) for easy reference.
 
 ### Skills {data-scc="mcdm.heroes.v1/chapter/skills"}
 
@@ -255,39 +255,39 @@ Skills represent the different specializations a hero has outside of attacking, 
 
 #### Applying Skills
 
-If you have a skill that applies to a test you make, you gain a +2 bonus to the test. For instance, if your hero has the [Hide](../../Browse/skill/hide.md) skill, you have a +2 bonus to any test you make that involves hiding yourself. This might include an Agility test to hide behind a barrel, or a Presence test to disappear into a crowd.
+If you have a skill that applies to a test you make, you gain a +2 bonus to the test. For instance, if your hero has the [Hide](../../Browse/skill/hide.md) skill, you have a +2 bonus to any test you make that involves hiding yourself. This might include an [Agility](../../Browse/rule/character/agility.md) test to hide behind a barrel, or a [Presence](../../Browse/rule/character/presence.md) test to disappear into a crowd.
 
-The +2 bonus gained for a skill isn't an edge. A player can make a test that has both the +2 bonus for a skill and the +2 bonus for an edge.
+The +2 bonus gained for a skill isn't an [edge](../../Browse/rule/dice/edge.md). A player can make a test that has both the +2 bonus for a skill and the +2 bonus for an [edge](../../Browse/rule/dice/edge.md).
 
 You can't apply more than one skill to a test.
 
 ##### Justify the Skill
 
-It's not the Director's job to know every task potentially covered by the skills in the game, or to know the specific skills your hero has. Instead, the Director asks you to make a test using a characteristic and you tell the Director if you think you have a skill that applies. If it's not obvious why the skill applies, tell the Director how your hero is approaching the task and justify why that approach uses the skill. The Director then decides if you get the +2 bonus the skill represents. If the Director disagrees with you, that's the final word.
+It's not the Director's job to know every task potentially covered by the skills in the game, or to know the specific skills your hero has. Instead, the Director asks you to make a test using a [characteristic](../../Browse/rule/character/characteristic.md) and you tell the Director if you think you have a skill that applies. If it's not obvious why the skill applies, tell the Director how your hero is approaching the task and justify why that approach uses the skill. The Director then decides if you get the +2 bonus the skill represents. If the Director disagrees with you, that's the final word.
 
-Approaching problems creatively while remaining reasonable can help you get the most out of your skills. For example, if you're making a Presence test to impress a noble at a party, using the [Brag](../../Browse/skill/brag.md) skill is an obvious choice. But what if you don't have that skill? Maybe you could instead try to impress the noble with a brief but exciting lecture about the nature of the elements, making a Presence test using the [Magic](../../Browse/skill/magic.md) skill that you do have!
+Approaching problems creatively while remaining reasonable can help you get the most out of your skills. For example, if you're making a [Presence](../../Browse/rule/character/presence.md) test to impress a noble at a party, using the [Brag](../../Browse/skill/brag.md) skill is an obvious choice. But what if you don't have that skill? Maybe you could instead try to impress the noble with a brief but exciting lecture about the nature of the elements, making a [Presence](../../Browse/rule/character/presence.md) test using the [Magic](../../Browse/skill/magic.md) skill that you do have!
 
-Sometimes you won't have a skill that applies to a test. That's okay! If your characteristic score is decent, you likely have a good chance of success without a skill.
+Sometimes you won't have a skill that applies to a test. That's okay! If your [characteristic](../../Browse/rule/character/characteristic.md) score is decent, you likely have a good chance of success without a skill.
 
 ##### Mixing Characteristics and Skills
 
-Although certain skills are often paired with one characteristic more than others, a skill can apply to a test made using any characteristic that makes sense. The Director has the final say on which characteristic is used to complete a task, and can call for a different characteristic based on the circumstances.
+Although certain skills are often paired with one [characteristic](../../Browse/rule/character/characteristic.md) more than others, a skill can apply to a test made using any [characteristic](../../Browse/rule/character/characteristic.md) that makes sense. The Director has the final say on which [characteristic](../../Browse/rule/character/characteristic.md) is used to complete a task, and can call for a different [characteristic](../../Browse/rule/character/characteristic.md) based on the circumstances.
 
-For example, intimidating someone with a purely verbal threat is a Presence test. But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a Might test instead. The [Intimidate](../../Browse/skill/intimidate.md) skill can apply to both tests. In the same way, scaling the side of a building is covered by a Might test, but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an Agility test instead. The [Climb](../../Browse/skill/climb.md) skill applies to both of these tests.
+For example, intimidating someone with a purely verbal threat is a [Presence](../../Browse/rule/character/presence.md) test. But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a [Might](../../Browse/rule/character/might.md) test instead. The [Intimidate](../../Browse/skill/intimidate.md) skill can apply to both tests. In the same way, scaling the side of a building is covered by a [Might](../../Browse/rule/character/might.md) test, but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an [Agility](../../Browse/rule/character/agility.md) test instead. The [Climb](../../Browse/skill/climb.md) skill applies to both of these tests.
 
 #### Many Specific Skills
 
 *Draw Steel* includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers climbing, jumping, swimming, and lifting heavy objects, your character might use separate [Climb](../../Browse/skill/climb.md), [Jump](../../Browse/skill/jump.md), [Lift](../../Browse/skill/lift.md), and [Swim](../../Browse/skill/swim.md) skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: [Pick Lock](../../Browse/skill/pick-lock.md), [Pick Pocket](../../Browse/skill/pick-pocket.md), and [Sabotage](../../Browse/skill/sabotage.md).
 
-Having a wide range of specific skills means you'll frequently make tests that don't use one of your character's skills, simply applying a characteristic. By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn't require you to have a skill to have a decent chance of success on a test. That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that's pretty darn heroic!
+Having a wide range of specific skills means you'll frequently make tests that don't use one of your character's skills, simply applying a [characteristic](../../Browse/rule/character/characteristic.md). By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn't require you to have a skill to have a decent chance of success on a test. That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that's pretty darn heroic!
 
 Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an [elementalist](../../Browse/class/elementalist.md) who has a gymnastic background in jumping and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
 
-The rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my [Climb](../../Browse/skill/climb.md) skill for a +2 bonus to my Presence test?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many tests as possible. This isn't fun for anyone, and doesn't make a very compelling story.
+The rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my [Climb](../../Browse/skill/climb.md) skill for a +2 bonus to my [Presence](../../Browse/rule/character/presence.md) test?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many tests as possible. This isn't fun for anyone, and doesn't make a very compelling story.
 
-> **Edges on Tests With Specific Skills**
+> **[Edges](../../Browse/rule/dice/edge.md) on Tests With Specific Skills**
 >
-> Certain features and abilities grant a creature an edge on tests made with a specific skill. A creature making a test where the specific skill would apply gains an edge on the test even if they don't have the skill. For example, the [conduit's](../../Browse/class/conduit.md) Blessing of Fortunate Weather can create foggy weather that grants creatures who make tests using the [Hide](../../Browse/skill/hide.md) skill an edge on those tests. Any creature who attempts to hide in the fog gains an edge on the test as long as the [Hide](../../Browse/skill/hide.md) skill would apply to that test, regardless of whether they have that skill or not.
+> Certain features and abilities grant a creature an [edge](../../Browse/rule/dice/edge.md) on tests made with a specific skill. A creature making a test where the specific skill would apply gains an [edge](../../Browse/rule/dice/edge.md) on the test even if they don't have the skill. For example, the [conduit's](../../Browse/class/conduit.md) Blessing of Fortunate Weather can create foggy weather that grants creatures who make tests using the [Hide](../../Browse/skill/hide.md) skill an [edge](../../Browse/rule/dice/edge.md) on those tests. Any creature who attempts to hide in the fog gains an [edge](../../Browse/rule/dice/edge.md) on the test as long as the [Hide](../../Browse/skill/hide.md) skill would apply to that test, regardless of whether they have that skill or not.
 
 > **Are All Skills Equal?**
 >
@@ -377,7 +377,7 @@ Consequences for tests made with exploration skills include harming yourself, yo
 | Endurance  | Remain engaged in strenuous activity over a long period of time |
 | Gymnastics | Move across unsteady or narrow surfaces; tumble                 |
 | Heal       | Use mundane first aid                                           |
-| Jump       | Leap vertical and horizontal distances                          |
+| Jump       | Leap vertical and horizontal [distances](../../Browse/rule/combat/distance.md)                          |
 | Lift       | Pick up, carry, and throw heavy objects                         |
 | Navigate   | Read a map and travel without becoming lost                     |
 | Ride       | Ride and control a nonsapient mount, such as a horse            |
@@ -405,7 +405,7 @@ Use mundane first aid.
 
 ###### Jump {data-scc="mcdm.heroes.v1/skill/jump"}
 
-Leap vertical and horizontal distances.
+Leap vertical and horizontal [distances](../../Browse/rule/combat/distance.md).
 
 ###### Lift {data-scc="mcdm.heroes.v1/skill/lift"}
 
@@ -662,15 +662,15 @@ In this scenario, a trio of adventurers want to scale the 40-foot-high walls sur
 
 **Grace (playing Val, a [conduit](../../Browse/class/conduit.md)):** *Agreed.*
 
-**Director:** *Okay. It'll be a Might test to get up to the top of the wall.*
+**Director:** *Okay. It'll be a [Might](../../Browse/rule/character/might.md) test to get up to the top of the wall.*
 
 The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to climb, designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
 
-**Alyssa (playing Jorn, a [tactician](../../Browse/class/tactician.md)):** *Let me go first. I've got good Might and can throw the others down a rope once I'm up there. And I've got the [Climb](../../Browse/skill/climb.md) skill.*
+**Alyssa (playing Jorn, a [tactician](../../Browse/class/tactician.md)):** *Let me go first. I've got good [Might](../../Browse/rule/character/might.md) and can throw the others down a rope once I'm up there. And I've got the [Climb](../../Browse/skill/climb.md) skill.*
 
 **Director:** *For sure. Okay, roll it up.*
 
-Alyssa rolls 2d10 and gets a 13. She then adds her Might score of 2 and her +2 bonus for having an applicable skill to the roll, for a total of 17.
+Alyssa rolls 2d10 and gets a 13. She then adds her [Might](../../Browse/rule/character/might.md) score of 2 and her +2 bonus for having an applicable skill to the roll, for a total of 17.
 
 **Alyssa:** *A 17! That's tier 3, baby!*
 
@@ -680,13 +680,13 @@ The Director checks the Test Difficulty Outcomes table to confirm that a tier 3 
 
 **Alyssa:** *Great! I toss down a rope. Val, you're next.*
 
-**Grace:** *So it's a Might test. Would you let me use Endurance? It's a lot of physical exertion to climb.*
+**Grace:** *So it's a [Might](../../Browse/rule/character/might.md) test. Would you let me use Endurance? It's a lot of physical exertion to climb.*
 
 **Director:** *It's not a climb that would take you hours, so I don't think Endurance applies here. But hey, the rope does make this an easier test.*
 
 **Grace:** *Fair. Okay, dice. Let's do this.*
 
-Given the rope, the Director decides that this second climb attempt is an easy test. Grace rolls 2d10 and gets an 11. With her Might score of 2, that's a 13.
+Given the rope, the Director decides that this second climb attempt is an easy test. Grace rolls 2d10 and gets an 11. With her [Might](../../Browse/rule/character/might.md) score of 2, that's a 13.
 
 **Grace:** *13! That's a tier 2 outcome for Val.*
 
@@ -694,13 +694,13 @@ The Director checks the Test Difficulty Outcomes table once more, confirming tha
 
 **Director:** *Good news! You make it to the top of the wall alongside Jorn.*
 
-**James:** *Ah, crap. I have a Might of −1 and no skills to use. Unless I can Intimidate the rope into lifting me up?*
+**James:** *Ah, crap. I have a [Might](../../Browse/rule/character/might.md) of −1 and no skills to use. Unless I can Intimidate the rope into lifting me up?*
 
 **Director:** *Wishful thinking.*
 
 **Alyssa:** *What if Korvo grabs onto the rope and I lift him up while he just hangs on for the ride?*
 
-**Director:** *Sure. That'll be a Might test if Korvo's down for it.*
+**Director:** *Sure. That'll be a [Might](../../Browse/rule/character/might.md) test if Korvo's down for it.*
 
 **James:** *Nothing risked, nothing saved. Let's do it. Just be careful. Any loud noises could attract those guards.*
 
@@ -708,7 +708,7 @@ The Director checks the Test Difficulty Outcomes table once more, confirming tha
 
 **Director:** *Yes, it does. Roll it up. That's a medium difficulty test.*
 
-Lifting the diminutive [polder](../../Browse/ancestry/polder.md), Alyssa rolls 2d10-but gets a 2! With her Might score and Lift skill bonus of +2, the total is 6.
+Lifting the diminutive [polder](../../Browse/ancestry/polder.md), Alyssa rolls 2d10-but gets a 2! With her [Might](../../Browse/rule/character/might.md) score and Lift skill bonus of +2, the total is 6.
 
 **Alyssa:** *A 6! Oof. That's tier 1.*
 
@@ -730,13 +730,13 @@ The Director then decides to make the failure potentially more interesting, by a
 
 You can attempt to assist another creature with a test they make, provided you have a skill that applies to the test, the other creature isn't using that same skill on the test, and you can describe how your character helps to the Director's satisfaction. In other words, your attempt to help has to make sense, and you have to bring some useful expertise to the table. Helping another creature sneak by shouting encouragement at them isn't going to make them stealthier.
 
-When you attempt to assist another creature, make a test using the skill you choose, and using a characteristic chosen by the Director based on the activity you use to help. The outcome of that test determines the bonus applied to the test you're assisting:
+When you attempt to assist another creature, make a test using the skill you choose, and using a [characteristic](../../Browse/rule/character/characteristic.md) chosen by the Director based on the activity you use to help. The outcome of that test determines the bonus applied to the test you're assisting:
 
-- **≤11:** You get in the way or make things worse. The creature takes a bane on their test.
-- **12-16:** Your help grants the other creature an edge on their test.
-- **17+:** Your help gives the other creature a double edge on their test.
+- **≤11:** You get in the way or make things worse. The creature takes a [bane](../../Browse/rule/dice/bane.md) on their test.
+- **12-16:** Your help grants the other creature an [edge](../../Browse/rule/dice/edge.md) on their test.
+- **17+:** Your help gives the other creature a double [edge](../../Browse/rule/dice/edge.md) on their test.
 
-For example, when an ally tries to pick a jailer's pocket, you might attempt to assist by using the [Flirt](../../Browse/skill/flirt.md) skill to distract the jailer. The Director accepts this, and asks you to make a Presence test using Flirt. The outcome of that test determines the bonus you provide to the other hero's Agility test to pick the jailer's pocket—or whether you fumble the distraction and potentially draw attention to the attempt.
+For example, when an ally tries to pick a jailer's pocket, you might attempt to assist by using the [Flirt](../../Browse/skill/flirt.md) skill to distract the jailer. The Director accepts this, and asks you to make a [Presence](../../Browse/rule/character/presence.md) test using Flirt. The outcome of that test determines the bonus you provide to the other hero's [Agility](../../Browse/rule/character/agility.md) test to pick the jailer's pocket—or whether you fumble the distraction and potentially draw attention to the attempt.
 
 ### Hide and Sneak
 
@@ -750,15 +750,15 @@ When you use the [Hide](../../Browse/feature/common/maneuvers/hide.md) maneuver 
 
 While you are hidden from another creature, the creature can't target you with abilities that don't have the Area keyword. This benefit ends as soon as you are no longer hidden from that creature.
 
-Additionally, while you are hidden from another creature, you gain an edge on ability rolls made against that creature. This benefit lasts until the end of the turn in which you are no longer hidden. This means you can be hidden from another creature at the start of your turn, move out of [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) toward them and use an ability against them, and still gain an edge on ability rolls made against the creature as long as you use the ability before the end of that turn.
+Additionally, while you are hidden from another creature, you gain an [edge](../../Browse/rule/dice/edge.md) on ability rolls made against that creature. This benefit lasts until the end of the turn in which you are no longer hidden. This means you can be hidden from another creature at the start of your turn, move out of [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) toward them and use an ability against them, and still gain an [edge](../../Browse/rule/dice/edge.md) on ability rolls made against the creature as long as you use the ability before the end of that turn.
 
 Draw Steel
 
-You are no longer hidden from a creature if you don't have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from them. If you use an ability, interact with an enemy, move without sneaking, or otherwise make noise or reveal yourself while hidden, you are no longer hidden once the activity that reveals you resolves. For instance, if you are hidden and then make a strike, you resolve the strike first, then are no longer hidden.
+You are no longer hidden from a creature if you don't have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from them. If you use an ability, interact with an enemy, move without sneaking, or otherwise make noise or reveal yourself while hidden, you are no longer hidden once the activity that reveals you resolves. For instance, if you are hidden and then make a [strike](../../Browse/rule/combat/strike.md), you resolve the [strike](../../Browse/rule/combat/strike.md) first, then are no longer hidden.
 
 ##### Searching for Hidden Creatures
 
-You can search for creatures who are hidden from you as long as those creatures are within 10 squares and you have line of effect to them. To do so, you use a maneuver to make an Intuition test using the Search skill, and any hidden creatures within 10 squares of you each make an opposed Agility test using the [Hide](../../Browse/skill/hide.md) skill (see Opposed Power Rolls earlier in this chapter). At the Director's discretion, different characteristics and skills can be used in this opposed test. For example, your foe might make a Presence test using the [Handle Animals](../../Browse/skill/handle-animals.md) skill to hide among a flock of sheep without disturbing them, or you could make a Reason test using the Eavesdrop skill to pick out the breathing of a creature hidden in the dark.
+You can search for creatures who are hidden from you as long as those creatures are within 10 squares and you have line of effect to them. To do so, you use a maneuver to make an [Intuition](../../Browse/rule/character/intuition.md) test using the Search skill, and any hidden creatures within 10 squares of you each make an opposed [Agility](../../Browse/rule/character/agility.md) test using the [Hide](../../Browse/skill/hide.md) skill (see Opposed Power Rolls earlier in this chapter). At the Director's discretion, different [characteristics](../../Browse/rule/character/characteristic.md) and skills can be used in this opposed test. For example, your foe might make a [Presence](../../Browse/rule/character/presence.md) test using the [Handle Animals](../../Browse/skill/handle-animals.md) skill to hide among a flock of sheep without disturbing them, or you could make a [Reason](../../Browse/rule/character/reason.md) test using the Eavesdrop skill to pick out the breathing of a creature hidden in the dark.
 
 If the total of your test is higher than that of a hidden creature, they are no longer hidden from you. Otherwise, they remain hidden from you. As part of the maneuver used to search for hidden creatures, you can point out any creatures you notice to allies within 10 squares of you, making those creatures no longer hidden from those allies.
 
@@ -770,11 +770,11 @@ If a creature is hidden from your allies but not from you, you can use a maneuve
 
 #### Sneaking
 
-While you are hidden from another creature and not in combat, you can attempt to sneak—avoiding the senses of other creatures as you move around them in the open—to remain hidden. While sneaking, your speed is halved. To sneak, you make an Agility test using the Sneak skill with a difficulty set by the Director. If you succeed, you remain hidden during your movement. This test can use another characteristic at the Director's discretion, such as using Presence to blend in with a crowd on a packed city street.
+While you are hidden from another creature and not in combat, you can attempt to sneak—avoiding the senses of other creatures as you move around them in the open—to remain hidden. While sneaking, your speed is halved. To sneak, you make an [Agility](../../Browse/rule/character/agility.md) test using the Sneak skill with a difficulty set by the Director. If you succeed, you remain hidden during your movement. This test can use another [characteristic](../../Browse/rule/character/characteristic.md) at the Director's discretion, such as using [Presence](../../Browse/rule/character/presence.md) to blend in with a crowd on a packed city street.
 
 ### Group Tests {data-scc="mcdm.heroes.v1/rule.test/group-test"}
 
-Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same test, the Director can call for a group test. For example, if several heroes are all attempting to climb the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a Might group test. If a group of heroes attempt to sneak by a sleeping ogre, they might make an Agility group test.
+Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same test, the Director can call for a group test. For example, if several heroes are all attempting to climb the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a [Might](../../Browse/rule/character/might.md) group test. If a group of heroes attempt to sneak by a sleeping ogre, they might make an [Agility](../../Browse/rule/character/agility.md) group test.
 
 #### Group Test Difficulty
 
@@ -790,13 +790,13 @@ When interpreting the outcome of a group test, the Director first determines if 
 
 If the heroes succeeded and half or more of them obtained a reward from the test, the Director gives the group a collective reward and ignores any consequences incurred in the test. This collective reward should be equivalent to earning two individual rewards. In fact, it could be two consumable items, juicy pieces of information, or [hero tokens](../../Browse/rule/resource/hero-token.md). However, it could also be something more tailored to the task. For instance, if the heroes earn a collective reward while sneaking through the camp of an enemy army, the Director might allow them to sabotage a bunch of war engines or steal a few horses on their way out.
 
-If the heroes failed the group test and more than half of them incurred a consequence as a result, the Director gives the group a collective consequence and ignores any earned rewards. This collective consequence should affect everyone. An easy option is for the stress of failing the test to cause each hero to take a bane on their next power roll, or for the Director to gain 2 Malice per hero at the start of the next combat encounter. But the consequence could also be tailored to the task. For instance, if the heroes fail in their attempt to sneak through the camp of an enemy army, they're spotted and the camp immediately goes on alert as waves of enemies attack them.
+If the heroes failed the group test and more than half of them incurred a consequence as a result, the Director gives the group a collective consequence and ignores any earned rewards. This collective consequence should affect everyone. An easy option is for the stress of failing the test to cause each hero to take a [bane](../../Browse/rule/dice/bane.md) on their next power roll, or for the Director to gain 2 Malice per hero at the start of the next combat encounter. But the consequence could also be tailored to the task. For instance, if the heroes fail in their attempt to sneak through the camp of an enemy army, they're spotted and the camp immediately goes on alert as waves of enemies attack them.
 
 If fewer than half the heroes incur a consequence or earn a reward on their individual tests, then the group test simply succeeds or fails.
 
 ### Montage Tests {data-scc="mcdm.heroes.v1/rule.test/montage-test"}
 
-When a group of heroes works together over time to accomplish a common goal that requires more than a single characteristic, the Director can call for a montage test. Such tests typically take place over a prolonged period and focus on collective or shared activities. Navigating a vast desert, convincing farmers to rise up against a tyrannical leader, and performing a ritual to open a magically sealed gate can all be accomplished with montage tests.
+When a group of heroes works together over time to accomplish a common goal that requires more than a single [characteristic](../../Browse/rule/character/characteristic.md), the Director can call for a montage test. Such tests typically take place over a prolonged period and focus on collective or shared activities. Navigating a vast desert, convincing farmers to rise up against a tyrannical leader, and performing a ritual to open a magically sealed gate can all be accomplished with montage tests.
 
 In a montage test, the players take turns making tests as their characters tackle a task together in a montage test round. Each hero has a chance to make a test (or to assist another hero's test; see Assist a Test above) intended to influence the outcome of the task.
 
@@ -816,11 +816,11 @@ At the start of a montage test, the Director should describe the scenario underl
 
 #### Individual Tests in Montage Tests
 
-The difficulty of each individual test in a montage test is set by the Director and can vary from test to test. For instance, if the heroes are preparing the defenses of a village threatened by a band of approaching raiders, the Director might decide that a character who wants to dig a trench around the village needs to make an easy Might test. Another hero wants to train the untested farmers of the village in the ways of war, and the Director decides this is a hard Reason test.
+The difficulty of each individual test in a montage test is set by the Director and can vary from test to test. For instance, if the heroes are preparing the defenses of a village threatened by a band of approaching raiders, the Director might decide that a character who wants to dig a trench around the village needs to make an easy [Might](../../Browse/rule/character/might.md) test. Another hero wants to train the untested farmers of the village in the ways of war, and the Director decides this is a hard [Reason](../../Browse/rule/character/reason.md) test.
 
-The same rules and guidelines that apply to all individual tests apply in montage tests. If a hero has a clever, out-of-the-box idea that the Director thinks should automatically succeed without rolling dice, it does. If the circumstances of the test should grant an edge or a bane, they do. Individual test outcomes shouldn't halt the story.
+The same rules and guidelines that apply to all individual tests apply in montage tests. If a hero has a clever, out-of-the-box idea that the Director thinks should automatically succeed without rolling dice, it does. If the circumstances of the test should grant an [edge](../../Browse/rule/dice/edge.md) or a [bane](../../Browse/rule/dice/bane.md), they do. Individual test outcomes shouldn't halt the story.
 
-The Director should couch each success or failure as it relates to the overall goal of the montage test. If the heroes are trying to reach an ancient temple, failing a Might test to ford a river in their path doesn't mean they don't cross the river and are stuck on the other side. But it could mean that failing to cross the river in a timely manner gives a rival group of villains the chance to beat the party to the temple.
+The Director should couch each success or failure as it relates to the overall goal of the montage test. If the heroes are trying to reach an ancient temple, failing a [Might](../../Browse/rule/character/might.md) test to ford a river in their path doesn't mean they don't cross the river and are stuck on the other side. But it could mean that failing to cross the river in a timely manner gives a rival group of villains the chance to beat the party to the temple.
 
 The rewards and consequences of individual tests made during a montage test are handled on an individual basis. The Director can use the default of gaining additional Malice in the next combat encounter for consequences and having the party gain [hero tokens](../../Browse/rule/resource/hero-token.md) for rewards to keep the montage moving.
 
@@ -899,13 +899,13 @@ The Director determines that crossing the desert is a montage test of hard diffi
 
 When the test begins, the Director sets the scene. They tell the players that the desert has extreme temperatures, sudden sandstorms, high dunes to cross, deep sand, chasms, and quicksand lakes. The Director decides that the challenges of dunes, deep sand, and quicksand can be tackled multiple times in the test, since the Infinite Desert is filled with these hazards.
 
-Urdoncara, a [fury](../../Browse/class/fury.md), starts things off by asking to make an Intuition test using the Nature skill to predict the best times of day to travel and rest. She wants the party to avoid the worst of the desert's extreme temperatures and any sandstorms or other weather phenomena, so that the journey is quickened. The Director decides this is an easy test. Urdoncara makes the test and gets a total of 12, earning 1 success for the montage test.
+Urdoncara, a [fury](../../Browse/class/fury.md), starts things off by asking to make an [Intuition](../../Browse/rule/character/intuition.md) test using the Nature skill to predict the best times of day to travel and rest. She wants the party to avoid the worst of the desert's extreme temperatures and any sandstorms or other weather phenomena, so that the journey is quickened. The Director decides this is an easy test. Urdoncara makes the test and gets a total of 12, earning 1 success for the montage test.
 
-Jorn, a [tactician](../../Browse/class/tactician.md), wants to make a Reason test using the [Climb](../../Browse/skill/climb.md) skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to climb than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
+Jorn, a [tactician](../../Browse/class/tactician.md), wants to make a [Reason](../../Browse/rule/character/reason.md) test using the [Climb](../../Browse/skill/climb.md) skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to climb than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a [bane](../../Browse/rule/dice/bane.md) on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
 
-Karrel, an [elementalist](../../Browse/class/elementalist.md), thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium Reason test. Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
+Karrel, an [elementalist](../../Browse/class/elementalist.md), thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium [Reason](../../Browse/rule/character/reason.md) test. Karrel gets to use their Tailoring skill and winds up with a total of 13-a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
 
-Val, a [conduit](../../Browse/class/conduit.md), offers to scout ahead for the group with an Intuition test, using the Navigate skill to find the best path forward and avoid hazards such as chasms and quicksand. The Director thinks that acting as lookout in a vast desert is an easy task. Val smashes it with a 21-a success with a reward—and the Director decides to get creative. Val's lookout skills grant the next hero to act in the montage test an edge on their test. At the end of the first montage test round, the heroes have 3 successes and 1 failure.
+Val, a [conduit](../../Browse/class/conduit.md), offers to scout ahead for the group with an [Intuition](../../Browse/rule/character/intuition.md) test, using the Navigate skill to find the best path forward and avoid hazards such as chasms and quicksand. The Director thinks that acting as lookout in a vast desert is an easy task. Val smashes it with a 21-a success with a reward—and the Director decides to get creative. Val's lookout skills grant the next hero to act in the montage test an [edge](../../Browse/rule/dice/edge.md) on their test. At the end of the first montage test round, the heroes have 3 successes and 1 failure.
 
 ##### Interlude
 
@@ -913,14 +913,14 @@ Before the next montage test round, the Director pauses the montage test to run 
 
 ##### Montage Test Round 2
 
-Urdoncara wants to make a Might test using the Lift skill to carry most of the group's equipment as they cross the desert, allowing her allies to move more quickly while she keeps up with her superior fortitude. The Director thinks this arduous task has a hard difficulty. Urdoncara gets a 17 on the test thanks to the edge from Val's earlier success. The montage test has 4 successes and 1 failure.
+Urdoncara wants to make a [Might](../../Browse/rule/character/might.md) test using the Lift skill to carry most of the group's equipment as they cross the desert, allowing her allies to move more quickly while she keeps up with her superior fortitude. The Director thinks this arduous task has a hard difficulty. Urdoncara gets a 17 on the test thanks to the [edge](../../Browse/rule/dice/edge.md) from Val's earlier success. The montage test has 4 successes and 1 failure.
 
-Jorn, eager to prove himself after his last failure, asks to make a Might test using the [Lead](../../Browse/skill/lead.md) skill, representing tying a rope around his waist to drag his weaker friends over the tallest dunes. The Director likes the idea but doesn't think the [Lead](../../Browse/skill/lead.md) skill applies to the task. They tell Jorn that Lift is more appropriate, since the [tactician](../../Browse/class/tactician.md) is using his physical skill to aid his friends and not really doing anything interpersonal. Jorn agrees, and the Director sets the test at medium difficulty. Making the test with a bane because of his previous failure, the [tactician](../../Browse/class/tactician.md) rolls a 15, which is a success with a consequence. The montage test has 5 successes and 1 failure, but the consequence gives the Director another 2 Malice at the start of the next combat encounter.
+Jorn, eager to prove himself after his last failure, asks to make a [Might](../../Browse/rule/character/might.md) test using the [Lead](../../Browse/skill/lead.md) skill, representing tying a rope around his waist to drag his weaker friends over the tallest dunes. The Director likes the idea but doesn't think the [Lead](../../Browse/skill/lead.md) skill applies to the task. They tell Jorn that Lift is more appropriate, since the [tactician](../../Browse/class/tactician.md) is using his physical skill to aid his friends and not really doing anything interpersonal. Jorn agrees, and the Director sets the test at medium difficulty. Making the test with a [bane](../../Browse/rule/dice/bane.md) because of his previous failure, the [tactician](../../Browse/class/tactician.md) rolls a 15, which is a success with a consequence. The montage test has 5 successes and 1 failure, but the consequence gives the Director another 2 Malice at the start of the next combat encounter.
 
-Since the group needs only one more success to achieve total success, Karrel says she'd like to assist Val in whatever task she decides to take on. Val wants to recall lore about the Khem-hor-the inhabitants of the Infinite Desert—to remember their time-honored travel techniques using the History skill. Karrel has the Culture skill, which she can use to assist by providing information about the lives and society of the Khem-hor. She makes a Reason test to assist and gets a 16, granting Val an edge on her upcoming test.
+Since the group needs only one more success to achieve total success, Karrel says she'd like to assist Val in whatever task she decides to take on. Val wants to recall lore about the Khem-hor-the inhabitants of the Infinite Desert—to remember their time-honored travel techniques using the History skill. Karrel has the Culture skill, which she can use to assist by providing information about the lives and society of the Khem-hor. She makes a [Reason](../../Browse/rule/character/reason.md) test to assist and gets a 16, granting Val an [edge](../../Browse/rule/dice/edge.md) on her upcoming test.
 
-Val attempts to recall lore about the Khem-hor, wanting to know if she can remember any of their travel from her studies of the history of the region. The Director has her make a hard Reason test with an edge, thanks to Karrel's input on the current state of Khem-hor culture. Val gets a 17, and the Director decides that the [conduit](../../Browse/class/conduit.md) recalls a shortcut through a canyon tunnel that leads directly to Ahset, avoiding a vast lake of quicksand. The heroes get their sixth success in the montage test, achieving total success, and earn 2 Victories.
+Val attempts to recall lore about the Khem-hor, wanting to know if she can remember any of their travel from her studies of the history of the region. The Director has her make a hard [Reason](../../Browse/rule/character/reason.md) test with an [edge](../../Browse/rule/dice/edge.md), thanks to Karrel's input on the current state of Khem-hor culture. Val gets a 17, and the Director decides that the [conduit](../../Browse/class/conduit.md) recalls a shortcut through a canyon tunnel that leads directly to Ahset, avoiding a vast lake of quicksand. The heroes get their sixth success in the montage test, achieving total success, and earn 2 Victories.
 
 ##### Other Options
 
-The heroes could have attempted other tests during their travels, such as an Agility test using the Sneak skill to lead the group through dangerous shortcuts in the desert without being seen or waylaid by predators, a Reason test using the Nature skill to find enough food and water to keep the group hydrated and fed, or a Presence test using the Music skill to inspire allies to travel faster with song.
+The heroes could have attempted other tests during their travels, such as an [Agility](../../Browse/rule/character/agility.md) test using the Sneak skill to lead the group through dangerous shortcuts in the desert without being seen or waylaid by predators, a [Reason](../../Browse/rule/character/reason.md) test using the Nature skill to find enough food and water to keep the group hydrated and fed, or a [Presence](../../Browse/rule/character/presence.md) test using the Music skill to inspire allies to travel faster with song.

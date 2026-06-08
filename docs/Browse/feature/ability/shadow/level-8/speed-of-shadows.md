@@ -3,8 +3,8 @@ action_type: Main action
 class: shadow
 cost: 11 Insight
 distance: Self
-effect: You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can [shift](../../../../movement/shifting.md) up to 2 squares between each use.
-flavor: You make multiple strikes against a foe before they even notice they're dead.
+effect: You can use a [strike](../../../../rule/combat/strike.md) signature ability four times, use a [strike](../../../../rule/combat/strike.md) signature ability that gains an [edge](../../../../rule/dice/edge.md) three times, or use a [strike](../../../../rule/combat/strike.md) signature ability that has a double [edge](../../../../rule/dice/edge.md) twice. You can [shift](../../../../movement/shifting.md) up to 2 squares between each use.
+flavor: You make multiple [strikes](../../../../rule/combat/strike.md) against a foe before they even notice they're dead.
 keywords:
     - Magic
 level: "8"
@@ -27,7 +27,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Insight</div></div>
 </div>
-<p class="sc-ability__flavor">You make multiple strikes against a foe before they even notice they&#39;re dead.</p>
+<p class="sc-ability__flavor">You make multiple <a href="../../../../../rule/combat/strike/">strikes</a> against a foe before they even notice they&#39;re dead.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares between each use.</p></div>
+<div class="sc-ability__section-body"><p>You can use a <a href="../../../../../rule/combat/strike/">strike</a> signature ability four times, use a <a href="../../../../../rule/combat/strike/">strike</a> signature ability that gains an <a href="../../../../../rule/dice/edge/">edge</a> three times, or use a <a href="../../../../../rule/combat/strike/">strike</a> signature ability that has a double <a href="../../../../../rule/dice/edge/">edge</a> twice. You can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares between each use.</p></div>
 </div>
 </article>

@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to <a href="../../../../movement/teleport/">teleport</a> away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.</p>
+<p>The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to <a href="../../../../movement/teleport/">teleport</a> away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your <a href="../../../../rule/character/agility/">Agility</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your illusions make your enemies believe you are their friend in critical moments. Whenever an enemy uses an ability or trait that targets multiple allies and you are within distance of the effect, you can choose to be a target of the effect as well.</p>
+<p>Your illusions make your enemies believe you are their friend in critical moments. Whenever an enemy uses an ability or trait that targets multiple allies and you are within <a href="../../../../rule/combat/distance/">distance</a> of the effect, you can choose to be a target of the effect as well.</p>
 <p>Additionally, when you use your <a href="../../../ability/shadow/level-1/im-no-threat/">I&#39;m No Threat</a> ability, you can take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action as part of that ability.</p>
 </div>
 </section>
@@ -63,7 +63,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You know just where to cut your enemies. Whenever you make a strike that has no bane or double bane, and that incorporates 1 or more <a href="../../../../rule/resource/surge/">surges</a>, you gain 1 additional <a href="../../../../rule/resource/surge/">surge</a> that you can use only on that strike.</p>
+<p>You know just where to cut your enemies. Whenever you make a <a href="../../../../rule/combat/strike/">strike</a> that has no <a href="../../../../rule/dice/bane/">bane</a> or double <a href="../../../../rule/dice/bane/">bane</a>, and that incorporates 1 or more <a href="../../../../rule/resource/surge/">surges</a>, you gain 1 additional <a href="../../../../rule/resource/surge/">surge</a> that you can use only on that <a href="../../../../rule/combat/strike/">strike</a>.</p>
 </div>
 </section>
 </div>

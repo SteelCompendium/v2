@@ -1,6 +1,6 @@
 ---
 echelon: "2"
-effect: When you consume this delicious piece of candy as a maneuver, you gain 15 [temporary Stamina](../../../rule/health/temporary-stamina.md) and a +10 bonus to stability. Additionally, if you don't use your movement during your turn, any strikes you make on that turn deal an extra 5 damage, and any strikes against you take a bane until the start of your next turn. This effect and the bonus to stability lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the [temporary Stamina](../../../rule/health/temporary-stamina.md) lasts until the end of your next respite.
+effect: When you consume this delicious piece of candy as a maneuver, you gain 15 [temporary Stamina](../../../rule/health/temporary-stamina.md) and a +10 bonus to stability. Additionally, if you don't use your movement during your turn, any strikes you make on that turn deal an extra 5 damage, and any [strikes](../../../rule/combat/strike.md) against you take a [bane](../../../rule/dice/bane.md) until the start of your next turn. This effect and the bonus to stability lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the [temporary Stamina](../../../rule/health/temporary-stamina.md) lasts until the end of your next respite.
 keywords:
     - Magic
 name: Chocolate of Immovability
@@ -21,8 +21,8 @@ type: treasure
 
 **Project Source:** Texts or lore in Caelian
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 90
 
-**Effect:** When you consume this delicious piece of candy as a maneuver, you gain 15 [temporary Stamina](../../../rule/health/temporary-stamina.md) and a +10 bonus to stability. Additionally, if you don't use your movement during your turn, any strikes you make on that turn deal an extra 5 damage, and any strikes against you take a bane until the start of your next turn. This effect and the bonus to stability lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the [temporary Stamina](../../../rule/health/temporary-stamina.md) lasts until the end of your next respite.
+**Effect:** When you consume this delicious piece of candy as a maneuver, you gain 15 [temporary Stamina](../../../rule/health/temporary-stamina.md) and a +10 bonus to stability. Additionally, if you don't use your movement during your turn, any strikes you make on that turn deal an extra 5 damage, and any [strikes](../../../rule/combat/strike.md) against you take a [bane](../../../rule/dice/bane.md) until the start of your next turn. This effect and the bonus to stability lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the [temporary Stamina](../../../rule/health/temporary-stamina.md) lasts until the end of your next respite.

@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 7 Clarity
 distance: Ranged 10
-effect: The target takes a bane on Presence tests until the end of the encounter.
+effect: The target takes a [bane](../../../../rule/dice/bane.md) on [Presence](../../../../rule/character/presence.md) tests until the end of the encounter.
 flavor: You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.
 keywords:
     - Animapathy
@@ -12,12 +12,8 @@ keywords:
     - Strike
 level: "3"
 name: Soul Burn
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-3/soul-burn
 target: One creature
-tier1: 6 + P damage; P < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: 10 + P damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: 14 + P damage; P < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 
@@ -41,7 +37,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + P damage; P &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + P damage; P &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
@@ -50,7 +46,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes a bane on Presence tests until the end of the encounter.</p></div>
+<div class="sc-ability__section-body"><p>The target takes a <a href="../../../../../rule/dice/bane/">bane</a> on <a href="../../../../../rule/character/presence/">Presence</a> tests until the end of the encounter.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

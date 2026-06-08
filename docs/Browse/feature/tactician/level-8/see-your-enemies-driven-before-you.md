@@ -21,6 +21,6 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You have trained your squad to maximize impact and break enemy lines when they attack.</p>
-<p><b>Mark Benefit:</b> When you or any ally makes a melee strike against a creature marked by you, you can spend 2 focus to have the character making the strike push the target up to a number of squares equal to your Reason score. That character can then <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your Reason score, ending this <a href="../../../../movement/shifting/">shift</a> adjacent to the target.</p>
+<p><b>Mark Benefit:</b> When you or any ally makes a melee <a href="../../../../rule/combat/strike/">strike</a> against a creature marked by you, you can spend 2 focus to have the character making the <a href="../../../../rule/combat/strike/">strike</a> push the target up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score. That character can then <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score, ending this <a href="../../../../movement/shifting/">shift</a> adjacent to the target.</p>
 </div>
 </section>

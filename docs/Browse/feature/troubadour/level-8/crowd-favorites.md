@@ -59,7 +59,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area ignores <a href="../../../../movement/difficult-terrain/">difficult terrain</a>, and any ability they use that imposes <a href="../../../../movement/forced-movement/">forced movement</a> gains a +2 bonus to the <a href="../../../../movement/forced-movement/">forced movement</a> distance until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area ignores <a href="../../../../movement/difficult-terrain/">difficult terrain</a>, and any ability they use that imposes <a href="../../../../movement/forced-movement/">forced movement</a> gains a +2 bonus to the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.</p></div>
 </div>
 </article>
 </div>

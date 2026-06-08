@@ -11,12 +11,8 @@ keywords:
     - Ranged
 level: "9"
 name: Acceleration Field
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field
 target: Three allies
-tier1: 4 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
-tier2: 6 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
-tier3: 10 corruption damage; [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 
@@ -40,7 +36,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three allies</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 corruption damage; <a href="../../../../../condition/slowed/">slowed</a> (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 corruption damage; <a href="../../../../../condition/slowed/">slowed</a> (save ends)</span></div>
@@ -53,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>Make a power roll that targets you and each enemy within distance.</p></div>
+<div class="sc-ability__section-body"><p>Make a power roll that targets you and each enemy within <a href="../../../../../rule/combat/distance/">distance</a>.</p></div>
 </div>
 </article>

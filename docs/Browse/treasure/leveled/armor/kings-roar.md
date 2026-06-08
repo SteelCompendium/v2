@@ -20,7 +20,7 @@ type: treasure
 
 **Project Source:** Songs in High Rhyvian
 
-**Project Roll Characteristic:** Reason, Intuition, or Presence
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)
 
 **Project Goal:** 450
 

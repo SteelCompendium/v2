@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your stature reflects your giant forebears. Your size is 1L.</p>
+<p>Your stature reflects your giant forebears. Your <a href="../../../../rule/character/size/">size</a> is 1L.</p>
 </div>
 </section>

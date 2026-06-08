@@ -12,19 +12,19 @@ With this stormwight kit, you channel your [primordial ferocity](../feature/fury
 
 ## Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.corven/aspect-benefits"}
 
-You gain an edge on tests made to hide and sneak. Additionally, whenever you fall, you can use a free triggered action to use your [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md) ability.
+You gain an [edge](../rule/dice/edge.md) on tests made to hide and sneak. Additionally, whenever you fall, you can use a free triggered action to use your [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md) ability.
 
 ## Animal Form: Crow {data-scc="mcdm.heroes.v1/feature.fury.corven/animal-form-crow"}
 
-While you are in your crow form, your size is 1T and you can [fly](../movement/fly.md). You can use the [Hide](../feature/common/maneuvers/hide.md) maneuver as a free maneuver, and you can use your allies as [cover](../rule/combat/cover.md) when you hide. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md).
+While you are in your crow form, your [size](../rule/character/size.md) is 1T and you can [fly](../movement/fly.md). You can use the [Hide](../feature/common/maneuvers/hide.md) maneuver as a free maneuver, and you can use your allies as [cover](../rule/combat/cover.md) when you hide. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md).
 
 ## Hybrid Form: Crow {data-scc="mcdm.heroes.v1/feature.fury.corven/hybrid-form-crow"}
 
-While you are in your hybrid form, your size is your choice of 1S or 1M. At 4th level, you can [fly](../movement/fly.md).
+While you are in your hybrid form, your [size](../rule/character/size.md) is your choice of 1S or 1M. At 4th level, you can [fly](../movement/fly.md).
 
 ## Primordial Storm: Anabatic Wind {data-scc="mcdm.heroes.v1/feature.fury.corven/primordial-storm-anabatic-wind"}
 
-Your primordial damage type is fire.
+Your primordial [damage type](../rule/damage/damage-type.md) is fire.
 
 ## Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.corven/kit-bonuses"}
 
@@ -43,7 +43,7 @@ Your primordial damage type is fire.
 |-------------------------|------------------------------:|
 | **📏 1 burst**          | **🎯 Each enemy in the area** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 3 damage
 - **12-16:** 6 damage
@@ -59,9 +59,9 @@ As your ferocity grows, you gain benefits as noted on the [Corven](corven.md) [G
 
 | Ferocity        | Benefit                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the [Disengage](../feature/common/move-actions/disengage.md) move action, the distance you can [shift](../movement/shifting.md) gains a bonus equal to your Agility score.                                 |
+| 2               | Whenever you use the [Disengage](../feature/common/move-actions/disengage.md) move action, the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) gains a bonus equal to your [Agility](../rule/character/agility.md) score.                                 |
 | 4               | The first time you [shift](../movement/shifting.md) on a turn, you gain 1 [surge](../rule/resource/surge.md).                                                                                             |
-| 6               | You gain an edge on Agility tests, the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                          |
+| 6               | You gain an [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) tests, the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                          |
 | 8 (4th level)   | The first time you [shift](../movement/shifting.md) on a turn, you gain 2 [surges](../rule/resource/surge.md) instead of 1.                                                                               |
-| 10 (7th level)  | You have a double edge on Agility tests, the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                    |
+| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) tests, the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                    |
 | 12 (10th level) | Whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, the potency of any effects targeting you is reduced by 2 for you. |

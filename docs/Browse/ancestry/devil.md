@@ -55,7 +55,7 @@ He poked the tip of his boot at the chalk symbol surrounding him on the floor. N
 
 He walked out of the circle. Nothing happened. No one, it seemed, cared.
 
-A few moments later, the door to a small home, little more than a wooden shack, on the outskirts of a small village opened. A well-dressed [devil](devil.md) peeked out and then slowly emerged, stepping onto the dirt road that led through the center of the village. A keep stood atop a hill in the distance.
+A few moments later, the door to a small home, little more than a wooden shack, on the outskirts of a small village opened. A well-dressed [devil](devil.md) peeked out and then slowly emerged, stepping onto the dirt road that led through the center of the village. A keep stood atop a hill in the [distance](../rule/combat/distance.md).
 
 "Ah," the [devil](devil.md) said.
 
@@ -119,7 +119,7 @@ She blushed in spite of herself and raised her own glass in a toast. "You silver
 
 ### Signature Trait: Silver Tongue {data-scc="mcdm.heroes.v1/feature.trait.devil/silver-tongue"}
 
-Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)), and you gain an edge on tests when attempting to discover an NPC's motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](../../Read/heroes/negotiation.md)).
+Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)), and you gain an [edge](../rule/dice/edge.md) on tests when attempting to discover an NPC's motivations and pitfalls during a negotiation (see Chapter 11: [Negotiation](../../Read/heroes/negotiation.md)).
 
 ### Purchased Devil Traits
 
@@ -127,7 +127,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Bea
 
 #### Barbed Tail {data-scc="mcdm.heroes.v1/feature.trait.devil/barbed-tail"}
 
-Your pointy tail allows you to punctuate all your actions. Once per round when you make a melee strike, you can deal extra damage with the strike equal to your highest characteristic score.
+Your pointy tail allows you to punctuate all your actions. Once per round when you make a melee [strike](../rule/combat/strike.md), you can deal extra damage with the [strike](../rule/combat/strike.md) equal to your highest [characteristic](../rule/character/characteristic.md) score.
 
 #### Beast Legs {data-scc="mcdm.heroes.v1/feature.trait.devil/beast-legs"}
 
@@ -139,7 +139,7 @@ Your eyes are a solid, vibrant color that flares to show your excitement or rage
 
 #### Hellsight {data-scc="mcdm.heroes.v1/feature.trait.devil/hellsight"}
 
-Your eyes let you see through darkness, fog, and other obscuring effects. You don't take a bane on strikes made against creatures with [concealment](../rule/combat/concealment.md).
+Your eyes let you see through darkness, fog, and other obscuring effects. You don't take a [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) made against creatures with [concealment](../rule/combat/concealment.md).
 
 #### Impressive Horns {data-scc="mcdm.heroes.v1/feature.trait.devil/impressive-horns"}
 
@@ -151,4 +151,4 @@ Your prehensile tail allows you to challenge foes on all sides. You can't be fla
 
 #### Wings {data-scc="mcdm.heroes.v1/feature.trait.devil/wings"}
 
-You possess wings powerful enough to take you airborne. While using your wings to [fly](../movement/fly.md), you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to [fly](../movement/fly.md) at 3rd level or lower, you have damage weakness 5.
+You possess wings powerful enough to take you airborne. While using your wings to [fly](../movement/fly.md), you can stay aloft for a number of rounds equal to your [Might](../rule/character/might.md) score (minimum 1 round) before you fall. While using your wings to [fly](../movement/fly.md) at 3rd level or lower, you have [damage weakness](../rule/damage/damage-weakness.md) 5.

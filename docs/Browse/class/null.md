@@ -1,12 +1,12 @@
 ---
-average_potency: Intuition − 1
+average_potency: '[Intuition](../rule/character/intuition.md) − 1'
 name: "Null"
 scc: mcdm.heroes.v1/class/null
 skills:
     - 'You gain the [Psionics](../skill/psionics.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](../skill/read-person.md), Timescape.)'
-strong_potency: Intuition
+strong_potency: '[Intuition](../rule/character/intuition.md)'
 type: class
-weak_potency: Intuition − 2
+weak_potency: '[Intuition](../rule/character/intuition.md) − 2'
 ---
 
 # Null
@@ -23,17 +23,17 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 ## Basics
 
-**Starting Characteristics:** You start with an Agility of 2 and an Intuition of 2, and you can choose one of the following arrays for your other characteristic scores:
+**Starting [Characteristics](../rule/character/characteristic.md):** You start with an [Agility](../rule/character/agility.md) of 2 and an [Intuition](../rule/character/intuition.md) of 2, and you can choose one of the following arrays for your other [characteristic](../rule/character/characteristic.md) scores:
 
 - 2, −1, −1
 - 1, 1, −1
 - 1, 0, 0
 
-**Weak Potency:** Intuition − 2
+**Weak Potency:** [Intuition](../rule/character/intuition.md) − 2
 
-**Average Potency:** Intuition − 1
+**Average Potency:** [Intuition](../rule/character/intuition.md) − 1
 
-**Strong Potency:** Intuition
+**Strong Potency:** [Intuition](../rule/character/intuition.md)
 
 **Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 21
 
@@ -150,10 +150,10 @@ Additionally, as your discipline grows, your psionic mastery of your body intens
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can use the [Disengage](../feature/common/move-actions/disengage.md) move action as a free triggered action either before or after the maneuver.                                              |
 | 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 [surge](../rule/resource/surge.md).                                                                                 |
-| 6               | You gain an edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
+| 6               | You gain an [edge](../rule/dice/edge.md) on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
 | 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 [surges](../rule/resource/surge.md).                                                                                |
-| 10 (7th level)  | You have a double edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
-| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). |
+| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
+| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Intuition](../rule/character/intuition.md) score. Additionally, whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). |
 
 #### Cryokinetic Mastery {data-scc="mcdm.heroes.v1/feature.null.level-1/cryokinetic-mastery"}
 
@@ -167,10 +167,10 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
 | 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../feature/null/level-1/null-field.md) ability, you gain 1 [surge](../rule/resource/surge.md).                                                   |
-| 6               | You gain an edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                             |
+| 6               | You gain an [edge](../rule/dice/edge.md) on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                             |
 | 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../feature/null/level-1/null-field.md) ability, you gain 2 [surges](../rule/resource/surge.md).                                                  |
-| 10 (7th level)  | You have a double edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
-| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md).       |
+| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
+| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Intuition](../rule/character/intuition.md) score. Additionally, whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md).       |
 
 #### Metakinetic Mastery {data-scc="mcdm.heroes.v1/feature.null.level-1/metakinetic-mastery"}
 
@@ -182,16 +182,16 @@ Additionally, as your discipline grows, your psionic potential is amplified, gra
 
 | Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.                                                                          |
+| 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Intuition](../rule/character/intuition.md) score.                                                                          |
 | 4               | The first time in a combat round that you take damage or are [force moved](../movement/forced-movement.md), you gain 1 [surge](../rule/resource/surge.md), even if you resist the effect.                                                                  |
-| 6               | You gain an edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
+| 6               | You gain an [edge](../rule/dice/edge.md) on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
 | 8 (4th level)   | The first time in a combat round that you take damage or are [force moved](../movement/forced-movement.md), you gain 2 [surges](../rule/resource/surge.md), even if you resist the effect.                                                                 |
-| 10 (7th level)  | You have a double edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
-| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). |
+| 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
+| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Intuition](../rule/character/intuition.md) score. Additionally, whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). |
 
 ### Null Speed {data-scc="mcdm.heroes.v1/feature.null.level-1/null-speed"}
 
-The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action equal to your Agility score.
+The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to speed and to the number of squares you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action equal to your [Agility](../rule/character/agility.md) score.
 
 ### Psionic Augmentation {data-scc="mcdm.heroes.v1/feature.null.level-1/psionic-augmentation"}
 
@@ -207,11 +207,11 @@ Your damage-dealing psionic abilities gain a +1 bonus to rolled damage.
 
 #### Speed Augmentation {data-scc="mcdm.heroes.v1/feature.null.level-1/speed-augmentation"}
 
-You gain a +1 bonus to speed and to the distance you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
+You gain a +1 bonus to speed and to the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
 ### Psionic Martial Arts {data-scc="mcdm.heroes.v1/feature.null.level-1/psionic-martial-arts"}
 
-Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) or [Grab](../feature/common/maneuvers/grab.md) maneuver, you use Intuition instead of Might for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can choose to slide the target instead of pushing them.
+Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) or [Grab](../feature/common/maneuvers/grab.md) maneuver, you use [Intuition](../rule/character/intuition.md) instead of [Might](../rule/character/might.md) for the power roll and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can choose to slide the target instead of pushing them.
 
 ### Null Abilities {data-scc="mcdm.heroes.v1/feature.null.level-1/null-abilities"}
 
@@ -230,58 +230,58 @@ Choose two signature abilities from the following options. Signature abilities c
 |---------------------------|------------------------------:|
 | **📏 1 burst**            | **🎯 Each enemy in the area** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 3 damage
 - **12-16:** 4 damage
 - **17+:** 5 damage
 
-**Effect:** You can slide one adjacent enemy up to a number of squares equal to your Intuition score.
+**Effect:** You can slide one adjacent enemy up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score.
 
 ##### Faster Than the Eye {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/faster-than-the-eye"}
 
 
 *You strike so quickly that your hands become a blur.*
 
-| **Melee, Psionic, Strike, Weapon** |                 **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |                 **Main action** |
 |------------------------------------|--------------------------------:|
 | **📏 Melee 1**                     | **🎯 Two creatures or objects** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 damage
 - **12-16:** 5 damage
 - **17+:** 7 damage
 
-**Effect:** You can deal damage equal to your Agility score to one creature or object adjacent to you.
+**Effect:** You can deal damage equal to your [Agility](../rule/character/agility.md) score to one creature or object adjacent to you.
 
 ##### Inertial Step {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/inertial-step"}
 
 
 *You flit about the battlefield and take an opportunistic strike.*
 
-| **Melee, Psionic, Strike, Weapon** |               **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 5 + A damage
 - **12-16:** 7 + A damage
 - **17+:** 10 + A damage
 
-**Effect:** You can [shift](../movement/shifting.md) up to half your speed before or after you make this strike.
+**Effect:** You can [shift](../movement/shifting.md) up to half your speed before or after you make this [strike](../rule/combat/strike.md).
 
 ##### Joint Lock {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/joint-lock"}
 
 
 *You contort your enemy's body into a stance they struggle to escape from.*
 
-| **Melee, Psionic, Strike, Weapon** |               **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; A < WEAK, [grabbed](../condition/grabbed.md)
 - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](../condition/grabbed.md)
@@ -292,11 +292,11 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *Your opponent staggers. They cannot ignore you.*
 
-| **Melee, Psionic, Strike, Weapon** |               **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; [taunted](../condition/taunted.md) (EoT)
 - **12-16:** 5 + A damage; [taunted](../condition/taunted.md) (EoT), slide 1
@@ -307,11 +307,11 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *The force of your blow extends past the limits of your body, pulling your enemy closer.*
 
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
 | **📏 Melee 2**                     | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 5 + A psychic damage; vertical pull 1
 - **12-16:** 8 + A psychic damage; vertical pull 2
@@ -322,11 +322,11 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *You step momentarily out of phase as you pull an enemy through you.*
 
-| **Melee, Psionic, Strike, Weapon** |               **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; push 2
 - **12-16:** 6 + A damage; push 4
@@ -339,11 +339,11 @@ Choose two signature abilities from the following options. Signature abilities c
 
 *You strike at key nerve clusters to leave your foe staggered.*
 
-| **Melee, Psionic, Strike, Weapon** |               **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; A < WEAK, [weakened](../condition/weakened.md) (save ends)
 - **12-16:** 7 + A damage; A < AVERAGE, [weakened](../condition/weakened.md) (save ends)
@@ -362,17 +362,17 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 *You foresee the best moment to strike, then exploit it.*
 
-| **Melee, Psionic, Strike, Weapon** |               **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 7 + A damage
 - **12-16:** 10 + A damage
 - **17+:** 13 + A damage
 
-**Effect:** You can [shift](../movement/shifting.md) up to half your speed before or after you make this strike. Additionally, whenever an effect lets you make a [free strike](../feature/common/main-actions/free-strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
+**Effect:** You can [shift](../movement/shifting.md) up to half your speed before or after you make this [strike](../rule/combat/strike.md). Additionally, whenever an effect lets you make a [free strike](../feature/common/main-actions/free-strike.md) or use a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
 ##### Psychic Pulse {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/psychic-pulse"}
 
@@ -383,18 +383,18 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 |-------------------|------------------------------:|
 | **📏 2 burst**    | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. At the end of your current turn, each enemy in the area of your [Null Field](../feature/null/level-1/null-field.md) ability takes psychic damage equal to your Intuition score.
+**Effect:** Each target takes psychic damage equal to twice your [Intuition](../rule/character/intuition.md) score. Until the start of your next turn, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. At the end of your current turn, each enemy in the area of your [Null Field](../feature/null/level-1/null-field.md) ability takes psychic damage equal to your [Intuition](../rule/character/intuition.md) score.
 
 ##### Relentless Nemesis {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/relentless-nemesis"}
 
 
 *You strike, and for the next few moments, your enemy can't escape you.*
 
-| **Melee, Psionic, Strike, Weapon** |               **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 6 + A damage
 - **12-16:** 8 + A damage
@@ -407,11 +407,11 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 *You focus your psionic technique into a concussive punch.*
 
-| **Melee, Psionic, Strike, Weapon** |               **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; I < WEAK, [dazed](../condition/dazed.md) and [slowed](../condition/slowed.md) (save ends)
 - **12-16:** 5 + A damage; I < AVERAGE, [dazed](../condition/dazed.md) and [slowed](../condition/slowed.md) (save ends)
@@ -426,45 +426,45 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 
 *Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.*
 
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 8 + **A** psychic damage; M < WEAK, [weakened](../condition/weakened.md) (save ends)
 - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](../condition/weakened.md) (save ends)
 - **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](../condition/weakened.md) (save ends)
 
-**Effect:** While [weakened](../condition/weakened.md) this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.
+**Effect:** While [weakened](../condition/weakened.md) this way, the target takes damage equal to your [Intuition](../rule/character/intuition.md) score whenever they use a supernatural ability that costs Malice.
 
 ##### Impart Force {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/impart-force"}
 
 
 *A single touch from you, and your enemy flies backward.*
 
-| **Melee, Psionic, Strike, Weapon** |                  **Maneuver** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |                  **Maneuver** |
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../rule/character/intuition.md):**
 
 - **≤11:** Push 3
 - **12-16:** Push 5
 - **17+:** Push 7
 
-**Effect:** An object you target must be your size or smaller. You gain an edge on this ability. Additionally, for each square you push the target, they take 1 psychic damage.
+**Effect:** An object you target must be your [size](../rule/character/size.md) or smaller. You gain an [edge](../rule/dice/edge.md) on this ability. Additionally, for each square you push the target, they take 1 psychic damage.
 
 ##### Phase Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/phase-strike"}
 
 
 *For a moment, your foe slips out of phase with this manifold.*
 
-| **Melee, Psionic, Strike, Weapon** |                           **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |                           **Main action** |
 |------------------------------------|------------------------------------------:|
 | **📏 Melee 1**                     |                       **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 3 + A psychic damage; I < WEAK, the target goes out of phase (save ends)
 - **12-16:** 4 + A psychic damage; I < AVERAGE, the target goes out of phase (save ends)
@@ -481,7 +481,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 |---------------------------|------------------------------:|
 | **📏 2 burst**            | **🎯 Each enemy in the area** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 6 damage
 - **12-16:** 9 damage
@@ -511,11 +511,11 @@ Your [null tradition](../feature/null/level-1/null-tradition.md) grants you a fe
 
 #### Entropic Adaptability {data-scc="mcdm.heroes.v1/feature.null.level-2/entropic-adaptability"}
 
-You have cold immunity equal to twice your Intuition score. Additionally, you ignore [difficult terrain](../movement/difficult-terrain.md) related to cold and ice, and you can automatically climb at full speed while moving.
+You have cold immunity equal to twice your [Intuition](../rule/character/intuition.md) score. Additionally, you ignore [difficult terrain](../movement/difficult-terrain.md) related to cold and ice, and you can automatically climb at full speed while moving.
 
 #### Inertial Sink {data-scc="mcdm.heroes.v1/feature.null.level-2/inertial-sink"}
 
-You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by [forced movement](../movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../condition/grabbed.md).
+You add your [Intuition](../rule/character/intuition.md) score to your effective [size](../rule/character/size.md) for the purpose of interacting with creatures and objects, such as for determining whether you can lift an object, whether you are affected by [forced movement](../movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../condition/grabbed.md).
 
 Additionally, when you fall, you reduce the effective height of the fall by 5 squares in addition to any other reductions. Whenever you take damage from being [force moved](../movement/forced-movement.md), you reduce that damage by an amount equal to your level.
 
@@ -540,18 +540,18 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You can use a signature or heroic ability. You gain an edge on that ability's power rolls.
+**Effect:** You can use a signature or heroic ability. You gain an [edge](../rule/dice/edge.md) on that ability's power rolls.
 
 ##### Force Redirected {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/force-redirected"}
 
 
-*The force of your strike moves your target in a surprising direction.*
+*The force of your [strike](../rule/combat/strike.md) moves your target in a surprising direction.*
 
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
 | **📏 Melee 3**                     | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 8 + A damage; slide 1
 - **12-16:** 12 + A damage; slide 3
@@ -570,7 +570,7 @@ Choose one of the following heroic abilities.
 |---------------------------|------------------------------:|
 | **📏 3 cube within 1**    | **🎯 Each enemy in the area** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 6 cold damage; A < WEAK, [slowed](../condition/slowed.md) (save ends)
 - **12-16:** 9 cold damage; A < AVERAGE, [slowed](../condition/slowed.md) (save ends)
@@ -585,7 +585,7 @@ Choose one of the following heroic abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the start of your next turn, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../rule/combat/concealment.md) while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
+**Effect:** Until the start of your next turn, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../rule/combat/concealment.md) while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your [Intuition](../rule/character/intuition.md) score.
 
 #### 2nd-Level Metakinetic Ability
 
@@ -596,11 +596,11 @@ Choose one of the following abilities.
 
 *Your fist emanates gravitic force that pulls a distant enemy closer.*
 
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
 | **📏 Melee 3**                     | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 8 + A psychic damage; vertical pull 3
 - **12-16:** 12 + A psychic damage; vertical pull 5
@@ -615,7 +615,7 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../rule/character/intuition.md):**
 
 - **≤11:** You gain 10 [temporary Stamina](../rule/health/temporary-stamina.md).
 - **12-16:** You gain 15 [temporary Stamina](../rule/health/temporary-stamina.md).
@@ -629,7 +629,7 @@ As a 3rd-level [null](null.md), you gain the following features.
 
 ### Psionic Leap {data-scc="mcdm.heroes.v1/feature.null.level-3/psionic-leap"}
 
-You can long jump and high jump a distance equal to twice your Agility score without needing to make a test.
+You can long jump and high jump a [distance](../rule/combat/distance.md) equal to twice your [Agility](../rule/character/agility.md) score without needing to make a test.
 
 ### Reorder {data-scc="mcdm.heroes.v1/feature.null.level-3/reorder"}
 
@@ -648,7 +648,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a bane on ability rolls.
+**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy in the area takes a [bane](../rule/dice/bane.md) on ability rolls.
 
 #### Molecular Rearrangement Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/molecular-rearrangement-field"}
 
@@ -659,7 +659,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your Intuition score.
+**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your [Intuition](../rule/character/intuition.md) score.
 
 #### Stabilizing Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/stabilizing-field"}
 
@@ -681,7 +681,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your Intuition score.
+**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, whenever an enemy in the area takes rolled damage, they take extra psychic damage equal to twice your [Intuition](../rule/character/intuition.md) score.
 
 ## 4th-Level Features
 
@@ -689,7 +689,7 @@ As a 4th-level [null](null.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.null.level-4/characteristic-increase"}
 
-Your Agility and Intuition scores each increase to 3.
+Your [Agility](../rule/character/agility.md) and [Intuition](../rule/character/intuition.md) scores each increase to 3.
 
 ### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.null.level-4/discipline-mastery-improvement"}
 
@@ -733,11 +733,11 @@ You steel yourself for imminent danger by tapping into your body's cold energy. 
 
 ### Inertial Fulcrum {data-scc="mcdm.heroes.v1/feature.null.level-5/inertial-fulcrum"}
 
-Whenever you use an ability to reduce damage dealt to you or to reduce the distance of [forced movement](../movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your [Null Field](../feature/null/level-1/null-field.md) ability equal to your Intuition score.
+Whenever you use an ability to reduce damage dealt to you or to reduce the [distance](../rule/combat/distance.md) of [forced movement](../movement/forced-movement.md) imposed upon you, you can deal damage to one enemy in the area of your [Null Field](../feature/null/level-1/null-field.md) ability equal to your [Intuition](../rule/character/intuition.md) score.
 
 ### Instant Action {data-scc="mcdm.heroes.v1/feature.null.level-5/instant-action"}
 
-If you're not surprised at the start of your first turn in combat, you gain an edge on ability rolls and gain 2 [surges](../rule/resource/surge.md). If you are surprised, you can spend 3 discipline to no longer be surprised and gain the benefits of this feature.
+If you're not surprised at the start of your first turn in combat, you gain an [edge](../rule/dice/edge.md) on ability rolls and gain 2 [surges](../rule/resource/surge.md). If you are surprised, you can spend 3 discipline to no longer be surprised and gain the benefits of this feature.
 
 ### 9-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-5/9-discipline-ability"}
 
@@ -748,36 +748,36 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 
 *You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
 
-| **Melee, Psionic, Strike, Weapon** |  **Free triggered** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |  **Free triggered** |
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
 **Trigger:** The target moves or uses a main action.
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 7 + A damage; I < WEAK, [restrained](../condition/restrained.md) (save ends)
 - **12-16:** 10 + A damage; I < AVERAGE, [restrained](../condition/restrained.md) (save ends)
 - **17+:** 13 + A damage; I < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-**Effect:** This strike resolves before the triggering movement or main action.
+**Effect:** This [strike](../rule/combat/strike.md) resolves before the triggering movement or main action.
 
 #### Iron Grip {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/iron-grip"}
 
 
 *You grab the target with supernatural force.*
 
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 10 + A damage; A < WEAK, [grabbed](../condition/grabbed.md)
 - **12-16:** 14 + A damage; A < AVERAGE, [grabbed](../condition/grabbed.md)
 - **17+:** 18 + A damage; A < STRONG, [grabbed](../condition/grabbed.md)
 
-**Effect:** While [grabbed](../condition/grabbed.md) this way, the target takes a bane on the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.
+**Effect:** While [grabbed](../condition/grabbed.md) this way, the target takes a [bane](../rule/dice/bane.md) on the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your [Agility](../rule/character/agility.md) score.
 
 #### Phase Leap {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/phase-leap"}
 
@@ -788,7 +788,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 |-------------|------------:|
 | **📏 Self** | **🎯 Self** |
 
-**Effect:** You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null Field](../feature/null/level-1/null-field.md) ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
+**Effect:** You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a [bane](../rule/dice/bane.md) on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null Field](../feature/null/level-1/null-field.md) ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
 
 #### Synaptic Reset {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/synaptic-reset"}
 
@@ -807,11 +807,11 @@ As a 6th-level [null](null.md), you gain the following features.
 
 ### Elemental Absorption {data-scc="mcdm.heroes.v1/feature.null.level-6/elemental-absorption"}
 
-Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
+Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial-shield.md) triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your [Intuition](../rule/character/intuition.md) score against the triggering damage.
 
 ### Elemental Buffer {data-scc="mcdm.heroes.v1/feature.null.level-6/elemental-buffer"}
 
-Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with damage immunity, you gain 2 [surges](../rule/resource/surge.md) that can be used only to increase the damage of your next strike.
+Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with [damage immunity](../rule/damage/damage-immunity.md), you gain 2 [surges](../rule/resource/surge.md) that can be used only to increase the damage of your next strike.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.null.level-6/perk"}
 
@@ -834,7 +834,7 @@ Choose one of the following abilities.
 |-------------|----------------:|
 | **📏 Self** |     **🎯 Self** |
 
-**Effect:** You can use up to three signature abilities, each of which gains an edge.
+**Effect:** You can use up to three signature abilities, each of which gains an [edge](../rule/dice/edge.md).
 
 ##### Phase Step {data-scc="mcdm.heroes.v1/feature.ability.null.level-6/phase-step"}
 
@@ -847,7 +847,7 @@ Choose one of the following abilities.
 
 **Effect:** You can [shift](../movement/shifting.md) up to your speed, and squares occupied by enemies or objects are not [difficult terrain](../movement/difficult-terrain.md) for this [shift](../movement/shifting.md). You make one power roll that targets each enemy you moved through during this [shift](../movement/shifting.md).
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 6 damage; M < WEAK, [dazed](../condition/dazed.md)
 - **12-16:** 8 damage; M < AVERAGE, [dazed](../condition/dazed.md)
@@ -866,7 +866,7 @@ Choose one of the following abilities.
 |---------------------|----------------------------------:|
 | **📏 Ranged 10**    | **🎯 Three creatures or objects** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../rule/character/intuition.md):**
 
 - **≤11:** Vertical slide 6
 - **12-16:** Vertical slide 8
@@ -898,7 +898,7 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../rule/character/intuition.md):**
 
 - **≤11:** Vertical slide 5
 - **12-16:** Vertical slide 7
@@ -915,7 +915,7 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You gain 20 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score.
+**Effect:** You gain 20 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your stability gains a bonus equal to your [Intuition](../rule/character/intuition.md) score.
 
 ## 7th-Level Features
 
@@ -923,7 +923,7 @@ As a 7th-level [null](null.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.null.level-7/characteristic-increase"}
 
-Each of your characteristic scores increases by 1, to a maximum of 4.
+Each of your [characteristic](../rule/character/characteristic.md) scores increases by 1, to a maximum of 4.
 
 ### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.null.level-7/discipline-mastery-improvement"}
 
@@ -935,7 +935,7 @@ Whenever you use an ability that is a main action or a maneuver with the Psionic
 
 #### Dynamic Power {data-scc="mcdm.heroes.v1/feature.null.level-7/dynamic-power"}
 
-If the ability force moves a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.
+If the ability force moves a target, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Intuition](../rule/character/intuition.md) score.
 
 #### Expanded Power {data-scc="mcdm.heroes.v1/feature.null.level-7/expanded-power"}
 
@@ -943,23 +943,23 @@ If the ability targets an area, you increase the size of the area by 1. If the a
 
 #### Extended Power {data-scc="mcdm.heroes.v1/feature.null.level-7/extended-power"}
 
-If the ability is ranged, the distance gains a bonus equal to your Intuition score. If the ability is melee, the distance gains a +2 bonus.
+If the ability is ranged, the [distance](../rule/combat/distance.md) gains a bonus equal to your [Intuition](../rule/character/intuition.md) score. If the ability is melee, the [distance](../rule/combat/distance.md) gains a +2 bonus.
 
 #### Heightened Power {data-scc="mcdm.heroes.v1/feature.null.level-7/heightened-power"}
 
-If the ability deals rolled damage, it deals extra damage equal to your Intuition score.
+If the ability deals rolled damage, it deals extra damage equal to your [Intuition](../rule/character/intuition.md) score.
 
 #### Magnified Power {data-scc="mcdm.heroes.v1/feature.null.level-7/magnified-power"}
 
-If the ability has a potency, you increase that potency by an amount equal to your Intuition score.
+If the ability has a potency, you increase that potency by an amount equal to your [Intuition](../rule/character/intuition.md) score.
 
 #### Shared Power {data-scc="mcdm.heroes.v1/feature.null.level-7/shared-power"}
 
-If the ability targets individual creatures or objects, you target one additional creature or object within distance.
+If the ability targets individual creatures or objects, you target one additional creature or object within [distance](../rule/combat/distance.md).
 
 #### Sharpened Power {data-scc="mcdm.heroes.v1/feature.null.level-7/sharpened-power"}
 
-If the ability has any power roll, that roll gains an edge.
+If the ability has any power roll, that roll gains an [edge](../rule/dice/edge.md).
 
 ### Improved Body {data-scc="mcdm.heroes.v1/feature.null.level-7/improved-body"}
 
@@ -991,11 +991,11 @@ Your [null tradition](../feature/null/level-1/null-tradition.md) grants you a fe
 
 #### Inertial Dampener {data-scc="mcdm.heroes.v1/feature.null.level-8/inertial-dampener"}
 
-You and each creature or object of your choice in the area of your [Null Field](../feature/null/level-1/null-field.md) ability gain a bonus to stability equal to your Intuition score. A creature who attempts to [force move](../movement/forced-movement.md) a target with this bonus takes psychic damage equal to your Intuition score.
+You and each creature or object of your choice in the area of your [Null Field](../feature/null/level-1/null-field.md) ability gain a bonus to stability equal to your [Intuition](../rule/character/intuition.md) score. A creature who attempts to [force move](../movement/forced-movement.md) a target with this bonus takes psychic damage equal to your [Intuition](../rule/character/intuition.md) score.
 
 #### Shared Momentum {data-scc="mcdm.heroes.v1/feature.null.level-8/shared-momentum"}
 
-When you take the [Disengage](../feature/common/move-actions/disengage.md) move action, one ally in the area of your [Null Field](../feature/null/level-1/null-field.md) ability can also take the [Disengage](../feature/common/move-actions/disengage.md) move action as a free triggered action, using your distance for that move action.
+When you take the [Disengage](../feature/common/move-actions/disengage.md) move action, one ally in the area of your [Null Field](../feature/null/level-1/null-field.md) ability can also take the [Disengage](../feature/common/move-actions/disengage.md) move action as a free triggered action, using your [distance](../rule/combat/distance.md) for that move action.
 
 #### Synaptic Triage {data-scc="mcdm.heroes.v1/feature.null.level-8/synaptic-triage"}
 
@@ -1010,28 +1010,28 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 
 *You focus your [null field](../feature/null/level-1/null-field.md) into a pressure point strike that prevents your foe from channeling sorcery.*
 
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 13 + A damage; M < WEAK, the target is suppressed (save ends)
 - **12-16:** 19 + A damage; M < AVERAGE, the target is suppressed (save ends)
 - **17+:** 24 + A damage; M < STRONG, the target is suppressed (save ends)
 
-**Effect:** While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.
+**Effect:** While suppressed, a target takes psychic damage equal to twice your [Intuition](../rule/character/intuition.md) score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.
 
 #### Phase Hurl {data-scc="mcdm.heroes.v1/feature.ability.null.level-8/phase-hurl"}
 
 
 *You throw your foe out of phase with this manifold, causing them to harm other enemies as they return.*
 
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](../condition/dazed.md) (save ends)
 - **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
@@ -1048,7 +1048,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 |------------------------|------------------------------:|
 | **📏 3 cube within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 12 psychic damage; push 3
 - **12-16:** 17 psychic damage; push 5
@@ -1065,7 +1065,7 @@ Choose one heroic ability from the following options, each of which costs 11 dis
 
 **Trigger:** The target takes damage from another creature's ability while in the area of your [Null Field](../feature/null/level-1/null-field.md) ability.
 
-**Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../condition/dazed.md) (save ends). While the triggering creature is [dazed](../condition/dazed.md) this way, they take psychic damage equal to your Intuition score whenever they use a main action.
+**Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](../condition/dazed.md) (save ends). While the triggering creature is [dazed](../condition/dazed.md) this way, they take psychic damage equal to your [Intuition](../rule/character/intuition.md) score whenever they use a main action.
 
 ## 9th-Level Features
 
@@ -1073,7 +1073,7 @@ As a 9th-level [null](null.md), you gain the following features.
 
 ### I Am the Weapon {data-scc="mcdm.heroes.v1/feature.null.level-9/i-am-the-weapon"}
 
-Your [Stamina](../rule/health/stamina.md) increases by 21 and you can't be made [bleeding](../condition/bleeding.md) even while [dying](../rule/health/dying.md). You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
+Your [Stamina](../rule/health/stamina.md) increases by 21 and you can't be made [bleeding](../condition/bleeding.md) even while [dying](../rule/health/dying.md). You no longer age or have need of food. Additionally, you can use [Intuition](../rule/character/intuition.md) instead of another [characteristic](../rule/character/characteristic.md) when resisting potencies.
 
 ### 9th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.null.level-9/9th-level-tradition-ability"}
 
@@ -1094,13 +1094,13 @@ Choose one of the following abilities.
 
 **Trigger:** The triggering creature starts their turn.
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../rule/character/intuition.md):**
 
 - **≤11:** I < WEAK, the target loses their turn
 - **12-16:** I < AVERAGE, the target loses their turn
 - **17+:** I < STRONG, the target loses their turn
 
-**Effect:** If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your Intuition score for each main action they take until the end of their next turn.
+**Effect:** If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your [Intuition](../rule/character/intuition.md) score for each main action they take until the end of their next turn.
 
 ##### Time Loop {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/time-loop"}
 
@@ -1128,30 +1128,30 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../rule/character/intuition.md):**
 
 - **≤11:** You gain 20 [temporary Stamina](../rule/health/temporary-stamina.md).
 - **12-16:** You gain 30 [temporary Stamina](../rule/health/temporary-stamina.md).
 - **17+:** You gain 40 [temporary Stamina](../rule/health/temporary-stamina.md).
 
-**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](../feature/null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of [dying](../rule/health/dying.md), and you have a +2 bonus to potencies.
+**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold [damage immunity](../rule/damage/damage-immunity.md) granted by your [Entropic Adaptability](../feature/null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of [dying](../rule/health/dying.md), and you have a +2 bonus to potencies.
 
 ##### Heat Drain {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/heat-drain"}
 
 
 *You drain all the heat from the target.*
 
-| **Melee, Psionic, Strike** |        **Maneuver** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md)** |        **Maneuver** |
 |----------------------------|--------------------:|
 | **📏 Melee 1**             | **🎯 One creature** |
 
-**Power Roll + Intuition:**
+**Power Roll + [Intuition](../rule/character/intuition.md):**
 
 - **≤11:** 8 + I cold damage; M < WEAK, [restrained](../condition/restrained.md) (save ends)
 - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](../condition/restrained.md) (save ends)
 - **17+:** 15 + I cold damage; M < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-**Effect:** While [restrained](../condition/restrained.md) this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](../condition/restrained.md) this way, any potency associated with the damage is reduced by 2.
+**Effect:** While [restrained](../condition/restrained.md) this way, the target takes cold damage equal to your [Intuition](../rule/character/intuition.md) score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](../condition/restrained.md) this way, any potency associated with the damage is reduced by 2.
 
 #### 9th-Level Metakinetic Abilities
 
@@ -1175,17 +1175,17 @@ Choose one of the following abilities.
 
 *Your essential hyperreality disrupts your enemy's connection to existence.*
 
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+| **Melee, Psionic, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + Agility:**
+**Power Roll + [Agility](../rule/character/agility.md):**
 
 - **≤11:** 7 + A psychic damage; I < WEAK, [dazed](../condition/dazed.md)
 - **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](../condition/dazed.md)
 - **17+:** 13 + A psychic damage; I < STRONG, [dazed](../condition/dazed.md)
 
-**Effect:** While [dazed](../condition/dazed.md) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become [winded](../rule/health/winded.md), they are instead reduced to 0 [Stamina](../rule/health/stamina.md). Any creature reduced to 0 [Stamina](../rule/health/stamina.md) by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
+**Effect:** While [dazed](../condition/dazed.md) this way, the target takes psychic damage equal to twice your [Intuition](../rule/character/intuition.md) score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become [winded](../rule/health/winded.md), they are instead reduced to 0 [Stamina](../rule/health/stamina.md). Any creature reduced to 0 [Stamina](../rule/health/stamina.md) by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
 
 ## 10th-Level Features
 
@@ -1193,7 +1193,7 @@ As a 10th-level [null](null.md), you gain the following features.
 
 ### Characteristic Increase {data-scc="mcdm.heroes.v1/feature.null.level-10/characteristic-increase"}
 
-Your Agility and Intuition scores each increase to 5.
+Your [Agility](../rule/character/agility.md) and [Intuition](../rule/character/intuition.md) scores each increase to 5.
 
 ### Discipline Mastery Improvement {data-scc="mcdm.heroes.v1/feature.null.level-10/discipline-mastery-improvement"}
 
@@ -1207,7 +1207,7 @@ When you gain discipline at the start of each of your turns during combat, you g
 
 Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a respite, you can [shift](../movement/shifting.md) yourself and any creatures in the area of your [Null Field](../feature/null/level-1/null-field.md) ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
 
-Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../feature/null/level-7/psi-boost.md) feature to that ability. Additionally, you and allies in the area of your [Null Field](../feature/null/level-1/null-field.md) ability ignore banes and double banes on your power rolls.
+Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../feature/null/level-7/psi-boost.md) feature to that ability. Additionally, you and allies in the area of your [Null Field](../feature/null/level-1/null-field.md) ability ignore [banes](../rule/dice/bane.md) and double [banes](../rule/dice/bane.md) on your power rolls.
 
 ### Order {data-scc="mcdm.heroes.v1/feature.null.level-10/order"}
 

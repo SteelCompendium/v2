@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability targets individual creatures or objects, you target one additional creature or object within distance.</p>
+<p>If the ability targets individual creatures or objects, you target one additional creature or object within <a href="../../../../rule/combat/distance/">distance</a>.</p>
 </div>
 </section>

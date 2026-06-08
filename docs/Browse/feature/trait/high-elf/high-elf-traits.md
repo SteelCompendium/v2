@@ -27,7 +27,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>A magic glamor makes others perceive you as interesting and engaging, granting you an edge on Presence tests using the <a href="../../../../skill/flirt/">Flirt</a> or <a href="../../../../skill/persuade/">Persuade</a> skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.</p>
+<p>A magic glamor makes others perceive you as interesting and engaging, granting you an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/presence/">Presence</a> tests using the <a href="../../../../skill/flirt/">Flirt</a> or <a href="../../../../skill/persuade/">Persuade</a> skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -56,7 +56,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You gain a +1 bonus to the distance you can shift when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
+<p>You gain a +1 bonus to the <a href="../../../../rule/combat/distance/">distance</a> you can shift when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -66,7 +66,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your senses are especially keen and perceptive. You gain an edge on tests made to notice threats.</p>
+<p>Your senses are especially keen and perceptive. You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to notice threats.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -86,7 +86,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Accessing memories is as easy as living in the present for you. You gain an edge on tests made to recall lore.</p>
+<p>Accessing memories is as easy as living in the present for you. You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to recall lore.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

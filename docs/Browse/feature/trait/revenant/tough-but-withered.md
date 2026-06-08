@@ -28,7 +28,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 2 ancestry points to spend on the following traits, or 3 ancestry points if your size is 1S. (<em>Quick Build:</em> Bloodless, plus Undead Influence if size 1S.)</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 2 ancestry points to spend on the following traits, or 3 ancestry points if your <a href="../../../../rule/character/size/">size</a> is 1S. (<em>Quick Build:</em> Bloodless, plus Undead Influence if <a href="../../../../rule/character/size/">size</a> 1S.)</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -68,7 +68,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your supernatural gifts allow you to influence other undead. You gain an edge on Reason, Intuition, and Presence tests made to interact with undead creatures.</p>
+<p>Your supernatural gifts allow you to influence other undead. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/reason/">Reason</a>, <a href="../../../../rule/character/intuition/">Intuition</a>, and <a href="../../../../rule/character/presence/">Presence</a> tests made to interact with undead creatures.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -92,13 +92,13 @@ type: trait
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">A magic sigil you placed on a creature explodes with energy.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature bearing your sigil</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason, Intuition, or Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + R, I, or P damage; slide 1</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R, I, or P damage; slide 2</span></div>

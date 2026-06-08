@@ -22,7 +22,7 @@ Ever since you were a kid, you've been obsessed with a certain topic. During you
 
 **Project Source:** A significant source of information on the topic of your obsession, such as a major library or a world-renowned sage 
 
-**Project Roll Characteristic:** Reason
+**Project Roll [Characteristic](../rule/character/characteristic.md):** [Reason](../rule/character/reason.md)
 
 **Project Goal:** 120, 150, 180
 

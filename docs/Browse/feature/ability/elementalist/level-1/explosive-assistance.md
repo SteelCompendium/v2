@@ -2,7 +2,7 @@
 action_type: Triggered
 class: elementalist
 distance: Ranged 10
-effect: The [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
+effect: The [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) gains a bonus equal to your [Reason](../../../../rule/character/reason.md) score.
 flavor: You add a little magic to an ally's aggression at just the right time.
 keywords:
     - Fire
@@ -11,7 +11,7 @@ keywords:
 level: "1"
 name: Explosive Assistance
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/explosive-assistance
-spend: '1 Essence: The [forced movement](../../../../movement/forced-movement.md) distance gains a bonus equal to twice your Reason score instead.'
+spend: '1 Essence: The [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) gains a bonus equal to twice your [Reason](../../../../rule/character/reason.md) score instead.'
 subtype: triggered
 target: Self or one ally
 trigger: The target [force move](../../../../movement/forced-movement.md)s a creature or object.
@@ -43,7 +43,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../../movement/forced-movement/">forced movement</a> <a href="../../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../../rule/character/reason/">Reason</a> score.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">The <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to twice your Reason score instead.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">The <a href="../../../../../movement/forced-movement/">forced movement</a> <a href="../../../../../rule/combat/distance/">distance</a> gains a bonus equal to twice your <a href="../../../../../rule/character/reason/">Reason</a> score instead.</span></div>
 </article>

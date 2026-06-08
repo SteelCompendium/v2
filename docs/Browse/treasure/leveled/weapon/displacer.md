@@ -20,7 +20,7 @@ type: treasure
 
 **Project Source:** Texts in Zaliac
 
-**Project Roll Characteristic:** Might or Intuition
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Might](../../../rule/character/might.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450
 

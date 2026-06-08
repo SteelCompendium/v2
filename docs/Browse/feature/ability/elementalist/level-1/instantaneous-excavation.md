@@ -3,7 +3,7 @@ action_type: Maneuver
 class: elementalist
 cost: 5 Essence
 distance: Ranged 10
-effect: You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't score a critical hit with this ability because it uses a maneuver.)
+effect: You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../../../../rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't score a critical hit with this ability because it uses a maneuver.)
 flavor: The surface of the world around you opens up to swallow foes.
 keywords:
     - Earth
@@ -11,12 +11,8 @@ keywords:
     - Ranged
 level: "1"
 name: Instantaneous Excavation
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/instantaneous-excavation
 target: Special
-tier1: The target can [shift](../../../../movement/shifting.md) 1 square from the edge of the hole to the nearest unoccupied space of their choice.
-tier2: The target falls into the hole.
-tier3: The target falls into the hole and can't reduce the height of the fall.
 type: ability
 ---
 
@@ -40,7 +36,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target can <a href="../../../../../movement/shifting/">shift</a> 1 square from the edge of the hole to the nearest unoccupied space of their choice.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target falls into the hole.</span></div>
@@ -49,7 +45,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can&#39;t score a critical hit with this ability because it uses a maneuver.)</p></div>
+<div class="sc-ability__section-body"><p>You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within <a href="../../../../../rule/combat/distance/">distance</a>. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can&#39;t score a critical hit with this ability because it uses a maneuver.)</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>

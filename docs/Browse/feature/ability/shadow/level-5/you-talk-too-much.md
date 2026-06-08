@@ -8,16 +8,12 @@ flavor: Silence is a virtue. A knife pinning their mouth shut is the next best t
 keywords:
     - Melee
     - Ranged
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "5"
 name: You Talk Too Much
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-5/you-talk-too-much
 target: One creature
-tier1: 10 + A damage; P < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: 15 + A damage; P < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: 21 + A damage; P < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 
@@ -35,13 +31,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Insight</div></div>
 </div>
 <p class="sc-ability__flavor">Silence is a virtue. A knife pinning their mouth shut is the next best thing.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + A damage; P &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">15 + A damage; P &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>

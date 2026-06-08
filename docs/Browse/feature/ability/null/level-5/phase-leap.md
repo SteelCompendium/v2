@@ -3,7 +3,7 @@ action_type: Move
 class: "null"
 cost: 9 Discipline
 distance: Self
-effect: You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null Field](../../../null/level-1/null-field.md) ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
+effect: You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a [bane](../../../../rule/dice/bane.md) on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null Field](../../../null/level-1/null-field.md) ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage's space.
 flavor: You leap beyond reality, leaving an afterimage of yourself.
 keywords:
     - Psionic
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your <a href="../../../../null/level-1/null-field/">Null Field</a> ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage&#39;s space.</p></div>
+<div class="sc-ability__section-body"><p>You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a <a href="../../../../../rule/dice/bane/">bane</a> on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your <a href="../../../../null/level-1/null-field/">Null Field</a> ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage&#39;s space.</p></div>
 </div>
 </article>

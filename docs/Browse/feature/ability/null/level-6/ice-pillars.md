@@ -10,12 +10,8 @@ keywords:
     - Ranged
 level: "6"
 name: Ice Pillars
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.null.level-6/ice-pillars
 target: Three creatures or objects
-tier1: Vertical slide 6
-tier2: Vertical slide 8
-tier3: Vertical slide 10
 type: ability
 ---
 
@@ -39,7 +35,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures or objects</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../../rule/character/intuition.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Vertical slide 6</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Vertical slide 8</span></div>

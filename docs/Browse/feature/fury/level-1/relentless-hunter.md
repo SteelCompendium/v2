@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain an edge on tests made using the <a href="../../../../skill/track/">Track</a> skill.</p>
+<p>You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made using the <a href="../../../../skill/track/">Track</a> skill.</p>
 </div>
 </section>

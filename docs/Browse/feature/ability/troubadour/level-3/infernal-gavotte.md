@@ -12,12 +12,8 @@ keywords:
     - Weapon
 level: "3"
 name: Infernal Gavotte
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-3/infernal-gavotte
 target: Each enemy in the area
-tier1: 5 fire damage; A < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
-tier2: 7 fire damage; A < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
-tier3: 10 fire damage; A < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
 type: ability
 ---
 
@@ -41,7 +37,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 fire damage; A &lt; WEAK, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 fire damage; A &lt; AVERAGE, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>

@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an Intuition test, you can make a Presence test instead.</p>
+<p>Your focus on your fragmentary visions grants divine insight into the world and its creatures beyond your usual senses. Whenever you would make an <a href="../../../../rule/character/intuition/">Intuition</a> test, you can make a <a href="../../../../rule/character/presence/">Presence</a> test instead.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -62,7 +62,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are adjacent to a creature, your allies gain the benefits of <a href="../../../../rule/combat/flanking/">flanking</a> against that creature. Additionally, your allies gain an edge on tests made to aid other creatures with their tests.</p>
+<p>Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are adjacent to a creature, your allies gain the benefits of <a href="../../../../rule/combat/flanking/">flanking</a> against that creature. Additionally, your allies gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to aid other creatures with their tests.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -73,7 +73,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can&#39;t use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver. Additionally, you gain an edge when searching for hidden creatures. If you find a hidden creature, you can use your <a href="../../../ability/censor/level-1/judgment/">Judgment</a> ability against them as a free triggered action.</p>
+<p>You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you can&#39;t use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver. Additionally, you gain an <a href="../../../../rule/dice/edge/">edge</a> when searching for hidden creatures. If you find a hidden creature, you can use your <a href="../../../ability/censor/level-1/judgment/">Judgment</a> ability against them as a free triggered action.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -84,7 +84,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You are trained in secret techniques from your order that allow you to discern the truth with supernatural precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don&#39;t necessarily know the actual truth behind their lie. Additionally, you gain an edge on tests made to detect lies or hidden motives.</p>
+<p>You are trained in secret techniques from your order that allow you to discern the truth with supernatural precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don&#39;t necessarily know the actual truth behind their lie. Additionally, you gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to detect lies or hidden motives.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -95,7 +95,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You exhibit a small spark of your deity&#39;s power, causing creatures to trust or fear you, depending on what you need. You gain an edge on tests made to intimidate or persuade others.</p>
+<p>You exhibit a small spark of your deity&#39;s power, causing creatures to trust or fear you, depending on what you need. You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to intimidate or persuade others.</p>
 </div>
 </section>
 </div>

@@ -34,7 +34,7 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Push 1</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Push 2</span></div>
@@ -43,7 +43,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.</p></div>
+<div class="sc-ability__section-body"><p>You can usually target only creatures of your <a href="../../../../rule/character/size/">size</a> or smaller. If your <a href="../../../../rule/character/might/">Might</a> score is 2 or higher, you can target any creature with a <a href="../../../../rule/character/size/">size</a> equal to or less than your <a href="../../../../rule/character/might/">Might</a> score.</p></div>
 </div>
 </article>
 </div>

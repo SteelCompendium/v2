@@ -86,7 +86,7 @@ Choose your hero's career, which describes what you did for a living before you 
 
 #### 5. Class
 
-Choose your hero's class. This choice has the biggest impact on how your hero interacts with the rules of the game, particularly the rules for combat. Your class provides your starting characteristic scores that determine your character's physical and mental acumen, as well as the [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md) that determine your physical hardiness. A class also provides your character with skills, several abilities—the unique features that define what your hero can do—and other features and benefits. You can be a [censor](../../Browse/class/censor.md), [conduit](../../Browse/class/conduit.md), [elementalist](../../Browse/class/elementalist.md), [fury](../../Browse/class/fury.md), [null](../../Browse/class/null.md), [shadow](../../Browse/class/shadow.md), [tactician](../../Browse/class/tactician.md), [talent](../../Browse/class/talent.md), or [troubadour](../../Browse/class/troubadour.md). See Chapter 5: [Classes](classes.md) for more information on each class, as well as the different types of abilities—signature abilities, heroic abilities, and more—that heroes of a specific class have access to.
+Choose your hero's class. This choice has the biggest impact on how your hero interacts with the rules of the game, particularly the rules for combat. Your class provides your starting [characteristic](../../Browse/rule/character/characteristic.md) scores that determine your character's physical and mental acumen, as well as the [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md) that determine your physical hardiness. A class also provides your character with skills, several abilities—the unique features that define what your hero can do—and other features and benefits. You can be a [censor](../../Browse/class/censor.md), [conduit](../../Browse/class/conduit.md), [elementalist](../../Browse/class/elementalist.md), [fury](../../Browse/class/fury.md), [null](../../Browse/class/null.md), [shadow](../../Browse/class/shadow.md), [tactician](../../Browse/class/tactician.md), [talent](../../Browse/class/talent.md), or [troubadour](../../Browse/class/troubadour.md). See Chapter 5: [Classes](classes.md) for more information on each class, as well as the different types of abilities—signature abilities, heroic abilities, and more—that heroes of a specific class have access to.
 
 #### 6. Kit
 
@@ -102,11 +102,11 @@ See [Free Strikes](../../Browse/feature/common/main-actions/free-strike.md) in C
 
 ###### Melee Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common/melee-weapon-free-strike"}
 
-| **Charge, Melee, Strike, Weapon**  |               **Main action** |
+| **Charge, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
 |------------------------------------|------------------------------:|
 | **📏 Melee 1**                     | **🎯 One creature or object** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 2 + M or A damage
 - **12-16:** 5 + M or A damage
@@ -114,11 +114,11 @@ See [Free Strikes](../../Browse/feature/common/main-actions/free-strike.md) in C
 
 ###### Ranged Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common/ranged-weapon-free-strike"}
 
-| **Ranged, Strike, Weapon**  |               **Main action** |
+| **Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 Ranged 5**             | **🎯 One creature or object** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 2 + M or A damage
 - **12-16:** 4 + M or A damage
@@ -159,7 +159,7 @@ At the Director's discretion, you might lose certain gear during an adventure, o
 
 If you pick a skill, ability, class, or any other option that you end up not liking after using it in the game—even your character's ancestry—you can always freely change that option between game sessions. If you want to change some aspect of your character during a session, ask your Director. If they say it's fine to swap that aspect out for something else, go for it. You shouldn't be stuck with any option that makes the game less fun for you.
 
-If you're changing an option for some reason other than fun, you need to follow the usual rules for changing that option. For example, you might want to swap a kit out because you think the next adventure is going to require you to have better distance with weapon strikes, doing so during a respite as talked about in Chapter 6: [Kits](kits.md). If no rule for swapping out an option exists, such as wanting to change a signature ability granted by your class because you think a different damage type would be more helpful against undead in an upcoming encounter, talk to your Director.
+If you're changing an option for some reason other than fun, you need to follow the usual rules for changing that option. For example, you might want to swap a kit out because you think the next adventure is going to require you to have better [distance](../../Browse/rule/combat/distance.md) with weapon [strikes](../../Browse/rule/combat/strike.md), doing so during a respite as talked about in Chapter 6: [Kits](kits.md). If no rule for swapping out an option exists, such as wanting to change a signature ability granted by your class because you think a different [damage type](../../Browse/rule/damage/damage-type.md) would be more helpful against undead in an upcoming encounter, talk to your Director.
 
 #### Optional Rule: Respite Ability Changes
 

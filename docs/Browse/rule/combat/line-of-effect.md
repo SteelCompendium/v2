@@ -8,7 +8,7 @@ type: rule
 
 ---
 
-To target a creature or object with an ability or effect, including making a strike against them, you must have line of effect to that target. If any solid object, such as a wall or pillar, completely blocks the target from you, then you don't have line of effect.
+To target a creature or object with an ability or effect, including making a [strike](strike.md) against them, you must have line of effect to that target. If any solid object, such as a wall or pillar, completely blocks the target from you, then you don't have line of effect.
 
 If you're not sure whether you have line of effect to a target, imagine drawing a straight line from any corner of the space you occupy on an encounter map to any corner of a space the target occupies. If one or more corners of your space connect to any corner of the target's space with no obstruction in between, you have line of effect to the target.
 

@@ -1,7 +1,6 @@
 ---
 equipment_text: You wear medium armor and wield a polearm.
 melee_damage_bonus: +2/+2/+2
-melee_distance_bonus: "+1"
 name: Guisarmier
 scc: mcdm.heroes.v1/kit/guisarmier
 stability_bonus: "+1"
@@ -26,7 +25,7 @@ You wear medium armor and wield a polearm.
 
 **Melee Damage Bonus:** +2/+2/+2
 
-**Melee Distance Bonus:** +1
+**Melee [Distance](../rule/combat/distance.md) Bonus:** +1
 
 ## Signature Ability
 
@@ -34,11 +33,11 @@ You wear medium armor and wield a polearm.
 
 *In your hands, the haft is as good as the head.*
 
-| **Melee, Strike, Weapon** |                 **Main action** |
+| **Melee, [Strike](../rule/combat/strike.md), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
 | **📏 Melee 2**            | **🎯 Two creatures or objects** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 damage
 - **12-16:** 7 damage

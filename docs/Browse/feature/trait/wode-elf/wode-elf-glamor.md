@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You can magically alter your appearance to better blend in with your surroundings. You gain an edge on tests made to hide and sneak, and tests made to search for you while you are hidden take a bane.</p>
+<p>You can magically alter your appearance to better blend in with your surroundings. You gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to hide and sneak, and tests made to search for you while you are hidden take a <a href="../../../../rule/dice/bane/">bane</a>.</p>
 </div>
 </section>

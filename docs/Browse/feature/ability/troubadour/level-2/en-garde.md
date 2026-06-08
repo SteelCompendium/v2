@@ -7,16 +7,12 @@ effect: The target can make a melee [free strike](../../../common/main-actions/f
 flavor: Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "2"
 name: En Garde!
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-2/en-garde
 target: One creature
-tier1: 7 + **A** damage
-tier2: 11 + **A** damage
-tier3: 16 + **A** damage
 type: ability
 ---
 
@@ -34,13 +30,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Drama</div></div>
 </div>
 <p class="sc-ability__flavor">Wait, it&#39;s... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 + <b>A</b> damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 + <b>A</b> damage</span></div>

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you force move a creature, you can spend up to 2 <a href="../../../../rule/resource/surge/">surges</a>. For each <a href="../../../../rule/resource/surge/">surge</a> spent, the <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Reason score.</p>
+<p>Whenever you force move a creature, you can spend up to 2 <a href="../../../../rule/resource/surge/">surges</a>. For each <a href="../../../../rule/resource/surge/">surge</a> spent, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>

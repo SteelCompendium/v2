@@ -53,7 +53,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.</p>
-<p>Additionally, whenever an ally within distance of your <a href="../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability is <a href="../../../../movement/forced-movement/">force moved</a>, you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally&#39;s stability by an amount equal to the stability you lost. This change lasts until the end of the round.</p>
+<p>Additionally, whenever an ally within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability is <a href="../../../../movement/forced-movement/">force moved</a>, you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally&#39;s stability by an amount equal to the stability you lost. This change lasts until the end of the round.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -65,7 +65,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.</p>
-<p>Additionally, whenever you use a void ability, you or one ally within distance of the ability can <a href="../../../../movement/teleport/">teleport</a> a number of squares equal to your Reason score.</p>
+<p>Additionally, whenever you use a void ability, you or one ally within <a href="../../../../rule/combat/distance/">distance</a> of the ability can <a href="../../../../movement/teleport/">teleport</a> a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -76,8 +76,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can use 1 square of movement to walk into an area of fire your size or larger and <a href="../../../../movement/teleport/">teleport</a> to any other area of fire your size or larger within 10 squares of the first area.</p>
-<p>Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your Reason score.</p>
+<p>You can use 1 square of movement to walk into an area of fire your <a href="../../../../rule/character/size/">size</a> or larger and <a href="../../../../movement/teleport/">teleport</a> to any other area of fire your <a href="../../../../rule/character/size/">size</a> or larger within 10 squares of the first area.</p>
+<p>Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 </div>

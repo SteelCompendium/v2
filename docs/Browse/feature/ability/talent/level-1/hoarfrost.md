@@ -10,13 +10,9 @@ keywords:
     - Strike
 level: "1"
 name: Hoarfrost
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/hoarfrost
 subtype: signature
 target: One creature
-tier1: 2 + R cold damage; M < WEAK, [slowed](../../../../condition/slowed.md) (EoT)
-tier2: 4 + R cold damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (EoT)
-tier3: 6 + R cold damage; M < STRONG, [slowed](../../../../condition/slowed.md) (EoT)
 type: ability
 ---
 
@@ -40,7 +36,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R cold damage; M &lt; WEAK, <a href="../../../../../condition/slowed/">slowed</a> (EoT)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 + R cold damage; M &lt; AVERAGE, <a href="../../../../../condition/slowed/">slowed</a> (EoT)</span></div>

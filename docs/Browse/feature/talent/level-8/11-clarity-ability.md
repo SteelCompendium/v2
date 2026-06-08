@@ -38,7 +38,7 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + P damage; P &lt; WEAK, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + P damage; P &lt; AVERAGE, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
@@ -47,11 +47,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This ability gains an edge against a target with a soul (see *Draw Steel: Monsters*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.</p></div>
+<div class="sc-ability__section-body"><p>This ability gains an <a href="../../../../rule/dice/edge/">edge</a> against a target with a soul (see *Draw Steel: Monsters*). After you make the power roll, you or one ally within <a href="../../../../rule/combat/distance/">distance</a> have a double <a href="../../../../rule/dice/edge/">edge</a> on the next power roll you make before the end of the encounter.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You feel dispirited until you finish a respite. If you obtain a tier 3 outcome on the power roll, you and the target each have damage weakness 5 (save ends).</p></div>
+<div class="sc-ability__section-body"><p>You feel dispirited until you finish a respite. If you obtain a tier 3 outcome on the power roll, you and the target each have <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends).</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -64,17 +64,17 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You attempt to make them forget all their training.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 2</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + R damage; R &lt; WEAK, the target takes a bane on their next power roll</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 + R damage; R &lt; AVERAGE, the target takes a bane on power rolls (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">23 + R damage; R &lt; STRONG, the target has a double bane on power rolls (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + R damage; R &lt; WEAK, the target takes a <a href="../../../../rule/dice/bane/">bane</a> on their next power roll</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">17 + R damage; R &lt; AVERAGE, the target takes a <a href="../../../../rule/dice/bane/">bane</a> on power rolls (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">23 + R damage; R &lt; STRONG, the target has a double <a href="../../../../rule/dice/bane/">bane</a> on power rolls (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
@@ -127,7 +127,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has damage immunity 5 and can&#39;t be made <a href="../../../../condition/slowed/">slowed</a> or <a href="../../../../condition/weakened/">weakened</a> until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a +5 bonus.</p></div>
+<div class="sc-ability__section-body"><p>The target has <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> 5 and can&#39;t be made <a href="../../../../condition/slowed/">slowed</a> or <a href="../../../../condition/weakened/">weakened</a> until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +5 bonus.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

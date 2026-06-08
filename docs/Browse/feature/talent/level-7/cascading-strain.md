@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within distance of your <a href="../../../ability/talent/level-1/mind-spike/">Mind Spike</a> ability to take the same damage.</p>
+<p>Whenever you take damage from a strained effect or from having negative clarity, you can choose one enemy within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/talent/level-1/mind-spike/">Mind Spike</a> ability to take the same damage.</p>
 </div>
 </section>

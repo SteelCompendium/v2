@@ -85,7 +85,7 @@ Llyander put their hands on their hips and regarded the children. "Not bad for y
 
 ### Signature Trait: High Elf Glamor {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-elf-glamor"}
 
-A magic glamor makes others perceive you as interesting and engaging, granting you an edge on Presence tests using the [Flirt](../skill/flirt.md) or [Persuade](../skill/persuade.md) skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
+A magic glamor makes others perceive you as interesting and engaging, granting you an [edge](../rule/dice/edge.md) on [Presence](../rule/character/presence.md) tests using the [Flirt](../skill/flirt.md) or [Persuade](../skill/persuade.md) skills. This glamor makes you appear and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
 
 ### Purchased High Elf Traits
 
@@ -97,11 +97,11 @@ When a foe strikes, you reverse the magic of your glamor to instill fear into th
 
 #### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.high-elf/graceful-retreat"}
 
-You gain a +1 bonus to the distance you can shift when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
+You gain a +1 bonus to the [distance](../rule/combat/distance.md) you can shift when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
 #### High Senses {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-senses"}
 
-Your senses are especially keen and perceptive. You gain an edge on tests made to notice threats.
+Your senses are especially keen and perceptive. You gain an [edge](../rule/dice/edge.md) on tests made to notice threats.
 
 #### Otherworldly Grace {data-scc="mcdm.heroes.v1/feature.trait.high-elf/otherworldly-grace"}
 
@@ -109,7 +109,7 @@ Your elf body and mind can't be contained for long. Whenever you make a saving t
 
 #### Revisit Memory {data-scc="mcdm.heroes.v1/feature.trait.high-elf/revisit-memory"}
 
-Accessing memories is as easy as living in the present for you. You gain an edge on tests made to recall lore.
+Accessing memories is as easy as living in the present for you. You gain an [edge](../rule/dice/edge.md) on tests made to recall lore.
 
 #### Unstoppable Mind {data-scc="mcdm.heroes.v1/feature.trait.high-elf/unstoppable-mind"}
 

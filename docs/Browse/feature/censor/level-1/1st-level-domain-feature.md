@@ -40,8 +40,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You exude a magic presence that can soothe those willing to socially engage with you. You gain an edge on any test made to assist another creature with a test.</p>
-<p>Additionally, when you are present at the start of a negotiation, one NPC of your choice has their patience increased by 1 (to a maximum of 5), and the first test made to influence them gains an edge.</p>
+<p>You exude a magic presence that can soothe those willing to socially engage with you. You gain an <a href="../../../../rule/dice/edge/">edge</a> on any test made to assist another creature with a test.</p>
+<p>Additionally, when you are present at the start of a negotiation, one NPC of your choice has their patience increased by 1 (to a maximum of 5), and the first test made to influence them gains an <a href="../../../../rule/dice/edge/">edge</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -64,10 +64,10 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Each time you finish a respite, you can decide the weather conditions within 100 squares. Until you finish another respite, the weather conditions you establish follow you through any mundane outdoor locations. Choose one of the following types of weather, each of which grants a benefit to you and your allies:</p>
-<p><b>Clear:</b> You and your allies gain an edge on tests that use the <a href="../../../../skill/search/">Search</a> or <a href="../../../../skill/navigate/">Navigate</a> skills.</p>
-<p><b>Foggy:</b> You and your allies gain an edge on tests that use the <a href="../../../../skill/hide/">Hide</a> skill.</p>
-<p><b>Overcast:</b> You and your allies gain an edge on tests that use the <a href="../../../../skill/endurance/">Endurance</a> skill.</p>
-<p><b>Precipitation:</b> When the ground is muddy or snowy, you and your allies gain an edge on tests that use the <a href="../../../../skill/track/">Track</a> skill.</p>
+<p><b>Clear:</b> You and your allies gain an <a href="../../../../rule/dice/edge/">edge</a> on tests that use the <a href="../../../../skill/search/">Search</a> or <a href="../../../../skill/navigate/">Navigate</a> skills.</p>
+<p><b>Foggy:</b> You and your allies gain an <a href="../../../../rule/dice/edge/">edge</a> on tests that use the <a href="../../../../skill/hide/">Hide</a> skill.</p>
+<p><b>Overcast:</b> You and your allies gain an <a href="../../../../rule/dice/edge/">edge</a> on tests that use the <a href="../../../../skill/endurance/">Endurance</a> skill.</p>
+<p><b>Precipitation:</b> When the ground is muddy or snowy, you and your allies gain an <a href="../../../../rule/dice/edge/">edge</a> on tests that use the <a href="../../../../skill/track/">Track</a> skill.</p>
 <p>If you are in the same area as a creature using this or a similar feature who has chosen a different weather effect, the features negate each other where their areas overlap.</p>
 </div>
 </section>
@@ -164,7 +164,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Presence score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).</p></div>
+<div class="sc-ability__section-body"><p>You create a mundane object of <a href="../../../../rule/character/size/">size</a> 1S or smaller. You can maintain a number of objects created this way equal to your <a href="../../../../rule/character/presence/">Presence</a> score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).</p></div>
 </div>
 </article>
 </div>
@@ -189,7 +189,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use Presence on the test instead of another characteristic.</p>
+<p>The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use <a href="../../../../rule/character/presence/">Presence</a> on the test instead of another <a href="../../../../rule/character/characteristic/">characteristic</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -200,7 +200,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a test, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining fate points when you finish a respite.</p>
+<p>Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a test, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an <a href="../../../../rule/dice/edge/">edge</a> on the test. You lose any remaining fate points when you finish a respite.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -211,7 +211,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can spend 10 uninterrupted minutes to create a <a href="../protective-circle/">protective circle</a> on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the <a href="../protective-circle/">protective circle</a>, a creature can&#39;t be targeted by strikes.</p>
+<p>You can spend 10 uninterrupted minutes to create a <a href="../protective-circle/">protective circle</a> on the ground large enough to hold one <a href="../../../../rule/character/size/">size</a> 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the <a href="../protective-circle/">protective circle</a>, a creature can&#39;t be targeted by strikes.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

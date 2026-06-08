@@ -21,7 +21,7 @@ type: treasure
 
 **Project Source:** Texts or lore in Khelt
 
-**Project Roll Characteristic:** Intuition or Presence
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Intuition](../../../rule/character/intuition.md) or [Presence](../../../rule/character/presence.md)
 
 **Project Goal:** 90 (yields 1d3 vials)
 

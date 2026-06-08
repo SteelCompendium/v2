@@ -59,7 +59,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target shifts up to a number of squares equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>The target shifts up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2 Clarity</span><span class="txt">The target can use a maneuver.</span></div>
 </article>
@@ -163,11 +163,11 @@ type: feature
 <div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
-<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one size 1 creature or object</div></div>
+<div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one <a href="../../../../rule/character/size/">size</a> 1 creature or object</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You slide the target up to a number of squares equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>You slide the target up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2+ Clarity</span><span class="txt">The size of the creature or object you can target increases by 1 for every 2 clarity spent.</span></div>
 <div class="sc-ability__enh"><span class="cost">Spend 3 Clarity</span><span class="txt">You can vertical slide the target.</span></div>
@@ -202,7 +202,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The next ability roll an ally makes against the target before the start of your next turn gains an edge.</p></div>
+<div class="sc-ability__section-body"><p>The next ability roll an ally makes against the target before the start of your next turn gains an <a href="../../../../rule/dice/edge/">edge</a>.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Clarity</span><span class="txt">You target one additional creature or object.</span></div>
 </article>

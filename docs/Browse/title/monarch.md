@@ -17,7 +17,7 @@ type: title
 **Effect:** You gain the following benefits:
 
 - *Royal Authority:* Inhabitants of your nation must obey your lawful orders or suffer the consequences.
-- *Royal Majesty:* Your choice of your Might or Presence increases by 1 (to a maximum of 6).
+- *Royal Majesty:* Your choice of your [Might](../rule/character/might.md) or [Presence](../rule/character/presence.md) increases by 1 (to a maximum of 6).
 
 Additionally, choose one of the following benefits:
 

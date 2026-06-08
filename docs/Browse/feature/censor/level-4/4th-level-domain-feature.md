@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability regains <a href="../../../../rule/health/stamina/">Stamina</a>, they regain additional <a href="../../../../rule/health/stamina/">Stamina</a> equal to your Presence score.</p>
+<p>Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability regains <a href="../../../../rule/health/stamina/">Stamina</a>, they regain additional <a href="../../../../rule/health/stamina/">Stamina</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -70,7 +70,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each creature in the area has a double edge on tests made to <a href="../../../../skill/hide/">hide</a> or <a href="../../../../skill/sneak/">sneak</a>. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
+<div class="sc-ability__section-body"><p>Each creature in the area has a double <a href="../../../../rule/dice/edge/">edge</a> on tests made to <a href="../../../../skill/hide/">hide</a> or <a href="../../../../skill/sneak/">sneak</a>. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.</p></div>
 </div>
 </article>
 </div>
@@ -84,8 +84,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a maneuver, you can touch an object with a size equal to your Presence score or smaller and place a protective spell on it. The object has immunity all to untyped damage. You can maintain this spell on a number of objects equal to your Presence score, and you can end the spell on any object at any time (no action required).</p>
-<p>Additionally, you can place this spell on a building or vehicle (or a similar structure with the Director&#39;s approval) that is of a size larger than your Presence score. You can place the spell on only one such target at a time, and you can maintain the spell on a larger target and a number of objects equal to your Presence score simultaneously.</p>
+<p>As a maneuver, you can touch an object with a <a href="../../../../rule/character/size/">size</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score or smaller and place a protective spell on it. The object has immunity all to untyped damage. You can maintain this spell on a number of objects equal to your <a href="../../../../rule/character/presence/">Presence</a> score, and you can end the spell on any object at any time (no action required).</p>
+<p>Additionally, you can place this spell on a building or vehicle (or a similar structure with the Director&#39;s approval) that is of a <a href="../../../../rule/character/size/">size</a> larger than your <a href="../../../../rule/character/presence/">Presence</a> score. You can place the spell on only one such target at a time, and you can maintain the spell on a larger target and a number of objects equal to your <a href="../../../../rule/character/presence/">Presence</a> score simultaneously.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -96,7 +96,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>When you use your <a href="../../../ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a> ability, you can create a mundane object that is size 2 or smaller.</p>
+<p>When you use your <a href="../../../ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a> ability, you can create a mundane object that is <a href="../../../../rule/character/size/">size</a> 2 or smaller.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -118,7 +118,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a main action, you forge a bond of love and friendship with one willing creature you touch. While this bond is active, you can telepathically speak with the creature over any distance, including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any test they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).</p>
+<p>As a main action, you forge a bond of love and friendship with one willing creature you touch. While this bond is active, you can telepathically speak with the creature over any <a href="../../../../rule/combat/distance/">distance</a>, including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any test they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -129,7 +129,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can&#39;t hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.</p>
+<p>As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can&#39;t hide. While this feature is active, you gain an <a href="../../../../rule/dice/edge/">edge</a> on tests made to notice hidden objects and entrances and to detect supernatural illusions.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -162,7 +162,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of a respite, you can inspire yourself or another creature taking the same respite with divine knowledge. If the target makes a project roll during this respite, they can add 1d10 plus your Presence score to the roll.</p>
+<p>At the start of a respite, you can inspire yourself or another creature taking the same respite with divine knowledge. If the target makes a project roll during this respite, they can add 1d10 plus your <a href="../../../../rule/character/presence/">Presence</a> score to the roll.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -184,7 +184,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Presence score. Whenever you touch any tree in your network, you can use a main action to <a href="../../../../movement/teleport/">teleport</a> yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).</p>
+<p>As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your <a href="../../../../rule/character/presence/">Presence</a> score. Whenever you touch any tree in your network, you can use a main action to <a href="../../../../movement/teleport/">teleport</a> yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your <a href="../../../../rule/combat/distance/">distance</a> from it, including across different worlds (no action required).</p>
 </div>
 </section>
 </div>

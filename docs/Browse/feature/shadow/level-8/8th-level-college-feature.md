@@ -62,7 +62,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have damage immunity against area abilities and effects equal to your Agility score. You also have the following ability, which you can use once per round on your turn.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> against area abilities and effects equal to your <a href="../../../../rule/character/agility/">Agility</a> score. You also have the following ability, which you can use once per round on your turn.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
 <div class="sc-ability__head">
@@ -81,9 +81,9 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target takes acid, fire, or poison damage (your choice) equal to your Agility score.</p><p>For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 <a href="../../../../rule/resource/surge/">surge</a> that must be used with this ability. After using the ability or at the end of the encounter, its area and <a href="../../../../rule/resource/surge/">surges</a> are reset.</p></div>
+<div class="sc-ability__section-body"><p>Each target takes acid, fire, or poison damage (your choice) equal to your <a href="../../../../rule/character/agility/">Agility</a> score.</p><p>For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 <a href="../../../../rule/resource/surge/">surge</a> that must be used with this ability. After using the ability or at the end of the encounter, its area and <a href="../../../../rule/resource/surge/">surges</a> are reset.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 2+ Insight</span><span class="txt">For every 2 insight spent, you increase the cube&#39;s size by 1 and gain 1 <a href="../../../../rule/resource/surge/">surge</a> that can be used only with this ability.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 2+ Insight</span><span class="txt">For every 2 insight spent, you increase the cube&#39;s <a href="../../../../rule/character/size/">size</a> by 1 and gain 1 <a href="../../../../rule/resource/surge/">surge</a> that can be used only with this ability.</span></div>
 </article>
 </div>
 </div>

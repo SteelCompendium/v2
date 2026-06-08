@@ -11,12 +11,8 @@ keywords:
     - Ranged
 level: "2"
 name: Slow
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/slow
 target: Three creatures or objects
-tier1: The target's speed is halved (save ends), or if P < WEAK, the target is [slowed](../../../../condition/slowed.md) (save ends).
-tier2: The target is [slowed](../../../../condition/slowed.md) (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
-tier3: The target is [slowed](../../../../condition/slowed.md) (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 type: ability
 ---
 
@@ -40,7 +36,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures or objects</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target&#39;s speed is halved (save ends), or if P &lt; WEAK, the target is <a href="../../../../../condition/slowed/">slowed</a> (save ends).</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target is <a href="../../../../../condition/slowed/">slowed</a> (save ends), or if P &lt; AVERAGE, the target&#39;s speed is 0 (save ends).</span></div>

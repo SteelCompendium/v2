@@ -80,7 +80,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your body is made to withstand the blows of your enemies. Your Might score is treated as 1 higher for the purpose of resisting potencies, and you gain an edge on Might tests when called for to resist environmental effects or a creature&#39;s traits or abilities.</p>
+<p>Your body is made to withstand the blows of your enemies. Your <a href="../../../../rule/character/might/">Might</a> score is treated as 1 higher for the purpose of resisting potencies, and you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/might/">Might</a> tests when called for to resist environmental effects or a creature&#39;s traits or abilities.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

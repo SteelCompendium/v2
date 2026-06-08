@@ -43,9 +43,9 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The power roll gains an edge.</p></div>
+<div class="sc-ability__section-body"><p>The power roll gains an <a href="../../../../rule/dice/edge/">edge</a>.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The power roll has a double edge.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The power roll has a double <a href="../../../../rule/dice/edge/">edge</a>.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
 <div class="sc-ability__head">
@@ -68,9 +68,9 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The power roll takes a bane against the target.</p></div>
+<div class="sc-ability__section-body"><p>The power roll takes a <a href="../../../../rule/dice/bane/">bane</a> against the target.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The power roll has a double bane against the target.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Piety</span><span class="txt">The power roll has a double <a href="../../../../rule/dice/bane/">bane</a> against the target.</span></div>
 </article>
 </div>
 </div>

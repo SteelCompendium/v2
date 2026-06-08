@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your hardened scales grant you damage immunity equal to your level to one of the following damage types: acid, cold, corruption, fire, lightning, or poison. You can change your damage immunity type when you finish a respite.</p>
+<p>Your hardened scales grant you <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> equal to your level to one of the following <a href="../../../../rule/damage/damage-type/">damage types</a>: acid, cold, corruption, fire, lightning, or poison. You can change your <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> type when you finish a respite.</p>
 </div>
 </section>

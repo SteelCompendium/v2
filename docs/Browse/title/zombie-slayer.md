@@ -16,8 +16,8 @@ type: title
 
 **Effect:** Choose one of the following benefits:
 
-- *Blessed Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal holy damage instead of its usual damage type.
-- *Divine Health:* You gain corruption immunity equal to your highest characteristic score. Additionally, you can't be turned into an undead creature.
+- *Blessed Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal holy damage instead of its usual [damage type](../rule/damage/damage-type.md).
+- *Divine Health:* You gain corruption immunity equal to your highest [characteristic](../rule/character/characteristic.md) score. Additionally, you can't be turned into an undead creature.
 - *Holy Terror:* You have the following ability, which can be paid for using the [Heroic Resource](../rule/resource/heroic-resource.md) of your class.
 
 ## Holy Terror (3 Heroic Resource)
@@ -29,4 +29,4 @@ type: title
 > |-----------------|-------------------------------------:|
 > | **📏 3 burst**  | **🎯 Each undead enemy in the area** |
 >
-> **Effect:** Each target takes holy damage equal to your Reason, Intuition, or Presence score (your choice). Additionally, each target who has P < STRONG is [frightened](../condition/frightened.md) (save ends).
+> **Effect:** Each target takes holy damage equal to your [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md) score (your choice). Additionally, each target who has P < STRONG is [frightened](../condition/frightened.md) (save ends).

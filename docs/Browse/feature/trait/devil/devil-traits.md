@@ -27,7 +27,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>), and you gain an edge on tests when attempting to discover an NPC&#39;s motivations and pitfalls during a negotiation (see Chapter 11: <a href="../../../../../Read/heroes/negotiation/">Negotiation</a>).</p>
+<p>Your innate magic allows you to twist how your words are perceived to get a better read on people and convince them to see things your way. You have one skill of your choice from the interpersonal skill group (see Skills in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>), and you gain an <a href="../../../../rule/dice/edge/">edge</a> on tests when attempting to discover an NPC&#39;s motivations and pitfalls during a negotiation (see Chapter 11: <a href="../../../../../Read/heroes/negotiation/">Negotiation</a>).</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -46,7 +46,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your pointy tail allows you to punctuate all your actions. Once per round when you make a melee strike, you can deal extra damage with the strike equal to your highest characteristic score.</p>
+<p>Your pointy tail allows you to punctuate all your actions. Once per round when you make a melee <a href="../../../../rule/combat/strike/">strike</a>, you can deal extra damage with the <a href="../../../../rule/combat/strike/">strike</a> equal to your highest <a href="../../../../rule/character/characteristic/">characteristic</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -76,7 +76,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your eyes let you see through darkness, fog, and other obscuring effects. You don&#39;t take a bane on strikes made against creatures with <a href="../../../../rule/combat/concealment/">concealment</a>.</p>
+<p>Your eyes let you see through darkness, fog, and other obscuring effects. You don&#39;t take a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/combat/strike/">strikes</a> made against creatures with <a href="../../../../rule/combat/concealment/">concealment</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -106,7 +106,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../../../movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to <a href="../../../../movement/fly/">fly</a> at 3rd level or lower, you have damage weakness 5.</p>
+<p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../../../movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your <a href="../../../../rule/character/might/">Might</a> score (minimum 1 round) before you fall. While using your wings to <a href="../../../../movement/fly/">fly</a> at 3rd level or lower, you have <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5.</p>
 </div>
 </section>
 </div>

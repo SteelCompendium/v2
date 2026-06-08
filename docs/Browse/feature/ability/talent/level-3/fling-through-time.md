@@ -12,12 +12,8 @@ keywords:
     - Strike
 level: "3"
 name: Fling Through Time
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.talent.level-3/fling-through-time
 target: One creature or object
-tier1: 3 + P corruption damage; P < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
-tier2: 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](../../../../condition/weakened.md) (save ends)
-tier3: 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](../../../../condition/weakened.md) (save ends)
 type: ability
 ---
 
@@ -41,7 +37,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + P corruption damage; P &lt; WEAK, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + P corruption damage; the target is flung through time, and if P &lt; AVERAGE, they are <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>

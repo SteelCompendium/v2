@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You and each creature or object of your choice in the area of your <a href="../../level-1/null-field/">Null Field</a> ability gain a bonus to stability equal to your Intuition score. A creature who attempts to <a href="../../../../movement/forced-movement/">force move</a> a target with this bonus takes psychic damage equal to your Intuition score.</p>
+<p>You and each creature or object of your choice in the area of your <a href="../../level-1/null-field/">Null Field</a> ability gain a bonus to stability equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score. A creature who attempts to <a href="../../../../movement/forced-movement/">force move</a> a target with this bonus takes psychic damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
 </div>
 </section>

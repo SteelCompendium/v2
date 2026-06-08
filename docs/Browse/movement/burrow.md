@@ -12,9 +12,9 @@ A creature who has "[burrow](burrow.md)" in their speed entry, or who gains the 
 
 ## Dig Maneuver
 
-It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the Dig maneuver, a creature must have "[burrow](burrow.md)" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
+It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the Dig maneuver, a creature must have "[burrow](burrow.md)" in their speed entry, they must have a speed that is equal to or greater than their [size](../rule/character/size.md), and they must be touching terrain that can be burrowed through.
 
-When a creature uses the Dig maneuver, they can move vertically up to a number of squares equal to their size. If a [burrowing](burrow.md) creature has a creature who is not unconscious [grabbed](../condition/grabbed.md), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
+When a creature uses the Dig maneuver, they can move vertically up to a number of squares equal to their [size](../rule/character/size.md). If a [burrowing](burrow.md) creature has a creature who is not unconscious [grabbed](../condition/grabbed.md), they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
 
 ## Targeting Burrowing Creatures
 
@@ -38,7 +38,7 @@ If a creature who can't [burrow](burrow.md) wants to dig into the ground, they c
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Power Roll + Might:**
+**Power Roll + [Might](../rule/character/might.md):**
 
 - **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../condition/slowed.md) and [weakened](../condition/weakened.md) (EoT).
 - **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are [slowed](../condition/slowed.md) (EoT).

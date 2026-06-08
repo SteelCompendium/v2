@@ -17,6 +17,6 @@ You have the following ability.
 >
 > | **Psionic, Ranged** |              **Maneuver** |
 > |---------------------|--------------------------:|
-> | **📏 Ranged 10**    | **🎯 One size 1T object** |
+> | **📏 Ranged 10**    | **🎯 One [size](../rule/character/size.md) 1T object** |
 >
-> **Effect:** You can grab or manipulate the target object with your mind, moving the object up to a number of squares equal to your Reason, Intuition, or Presence score (your choice). You can use this ability to turn doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and size 1T. You can't use this ability to break a smaller piece off a larger object.
+> **Effect:** You can grab or manipulate the target object with your mind, moving the object up to a number of squares equal to your [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md) score (your choice). You can use this ability to turn doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and [size](../rule/character/size.md) 1T. You can't use this ability to break a smaller piece off a larger object.

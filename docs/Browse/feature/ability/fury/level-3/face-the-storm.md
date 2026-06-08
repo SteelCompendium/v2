@@ -3,7 +3,7 @@ action_type: Maneuver
 class: fury
 cost: 7 Ferocity
 distance: Self
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each creature you make a melee strike against who has P < AVERAGE is [taunted](../../../../condition/taunted.md) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](../../../../condition/taunted.md) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each creature you make a melee [strike](../../../../rule/combat/strike.md) against who has P < AVERAGE is [taunted](../../../../condition/taunted.md) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](../../../../condition/taunted.md) by you, the ability deals extra damage equal to twice your [Might](../../../../rule/character/might.md) score and increases its potency by 1.
 flavor: Shocked in the face of your naked brutality, your enemy's instincts take over.
 keywords:
     - Magic
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each creature you make a melee strike against who has P &lt; AVERAGE is <a href="../../../../../condition/taunted/">taunted</a> until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy <a href="../../../../../condition/taunted/">taunted</a> by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each creature you make a melee <a href="../../../../../rule/combat/strike/">strike</a> against who has P &lt; AVERAGE is <a href="../../../../../condition/taunted/">taunted</a> until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy <a href="../../../../../condition/taunted/">taunted</a> by you, the ability deals extra damage equal to twice your <a href="../../../../../rule/character/might/">Might</a> score and increases its potency by 1.</p></div>
 </div>
 </article>

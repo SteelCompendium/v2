@@ -2,7 +2,7 @@
 action_type: Main action
 class: elementalist
 distance: Ranged 10
-effect: A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
+effect: A **source of earth** emerges from an unoccupied space within [distance](../../../../rule/combat/distance.md). The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
 flavor: The ground rumbles as an elemental bursts forth, ready to serve.
 keywords:
     - Earth
@@ -36,7 +36,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A <b>source of earth</b> emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.</p><p>The source starts an encounter at full <a href="../../../../../rule/health/stamina/">Stamina</a>, but maintains their current <a href="../../../../../rule/health/stamina/">Stamina</a> throughout the encounter, even if they are dismissed and you use this ability again. They can&#39;t regain <a href="../../../../../rule/health/stamina/">Stamina</a> during the encounter. When the source&#39;s <a href="../../../../../rule/health/stamina/">Stamina</a> is reduced to 0, you can&#39;t use this ability again until you earn 1 or more Victories.</p></div>
+<div class="sc-ability__section-body"><p>A <b>source of earth</b> emerges from an unoccupied space within <a href="../../../../../rule/combat/distance/">distance</a>. The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.</p><p>The source starts an encounter at full <a href="../../../../../rule/health/stamina/">Stamina</a>, but maintains their current <a href="../../../../../rule/health/stamina/">Stamina</a> throughout the encounter, even if they are dismissed and you use this ability again. They can&#39;t regain <a href="../../../../../rule/health/stamina/">Stamina</a> during the encounter. When the source&#39;s <a href="../../../../../rule/health/stamina/">Stamina</a> is reduced to 0, you can&#39;t use this ability again until you earn 1 or more Victories.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>

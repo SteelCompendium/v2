@@ -14,7 +14,7 @@ When you attract a new follower, you decide on their name and ancestry, and choo
 
 Artisans are crafting experts who can contribute to your research and crafting projects (see Chapter 12: [Downtime Projects](../../Read/heroes/downtime-projects.md)). An artisan can contribute one project roll per day to a downtime project you choose, whether you spend those days in respite, adventuring, or other activities. They must remain at your [stronghold](stronghold.md) or at the site where the project is undertaken, and must have access to the necessary materials.
 
-When you recruit an artisan, choose four skills from the crafting skill group that they know (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). An artisan has a Might or Agility score of 1 (your choice), a Reason score of 1, and a 0 in all other characteristics. They know Caelian and two other languages of your choice.
+When you recruit an artisan, choose four skills from the crafting skill group that they know (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). An artisan has a [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md) score of 1 (your choice), a [Reason](../rule/character/reason.md) score of 1, and a 0 in all other [characteristics](../rule/character/characteristic.md). They know Caelian and two other languages of your choice.
 
 ## Retainer {data-scc="mcdm.heroes.v1/rule.general/retainer"}
 
@@ -26,4 +26,4 @@ Rules for retainers are found in *Draw Steel: Monsters*.
 
 Sages are research experts who can contribute to your research and crafting projects. A sage can contribute one project roll per day to a downtime project you choose, whether you spend those days in respite, adventuring, or other activities. They must remain at your [stronghold](stronghold.md) or at the site where the project is undertaken, and must have access to the necessary materials.
 
-When you recruit a sage, choose four skills from the lore skill group that they know. A sage has a Reason and Intuition score of 1, and a 0 in all other characteristics. They know Caelian and two other languages of your choice.
+When you recruit a sage, choose four skills from the lore skill group that they know. A sage has a [Reason](../rule/character/reason.md) and [Intuition](../rule/character/intuition.md) score of 1, and a 0 in all other [characteristics](../rule/character/characteristic.md). They know Caelian and two other languages of your choice.

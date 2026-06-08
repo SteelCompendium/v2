@@ -41,7 +41,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You have trained your squad to be silent ambushers.</p>
-<p><b>Mark Benefit:</b> When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to let the character making the strike <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your Reason score and use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver as a free maneuver once during the <a href="../../../../movement/shifting/">shift</a>. The creature can <a href="../../../../movement/shifting/">shift</a> before or after the strike is resolved.</p>
+<p><b>Mark Benefit:</b> When you or any ally makes a <a href="../../../../rule/combat/strike/">strike</a> against a creature marked by you, you can spend 2 focus to let the character making the <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score and use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver as a free maneuver once during the <a href="../../../../movement/shifting/">shift</a>. The creature can <a href="../../../../movement/shifting/">shift</a> before or after the <a href="../../../../rule/combat/strike/">strike</a> is resolved.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -53,7 +53,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You have trained your squad to coordinate their movements to maximize combat impact.</p>
-<p><b>Mark Benefit:</b> When you or any ally makes a strike against a creature marked by you, you can spend 2 focus to have the character making the strike <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your Reason score before the strike is resolved. If you didn&#39;t make the strike, you can make this <a href="../../../../movement/shifting/">shift</a> as well. If you did make the strike, one ally within 10 squares of you can make this <a href="../../../../movement/shifting/">shift</a> as well.</p>
+<p><b>Mark Benefit:</b> When you or any ally makes a <a href="../../../../rule/combat/strike/">strike</a> against a creature marked by you, you can spend 2 focus to have the character making the <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score before the <a href="../../../../rule/combat/strike/">strike</a> is resolved. If you didn&#39;t make the <a href="../../../../rule/combat/strike/">strike</a>, you can make this <a href="../../../../movement/shifting/">shift</a> as well. If you did make the <a href="../../../../rule/combat/strike/">strike</a>, one ally within 10 squares of you can make this <a href="../../../../movement/shifting/">shift</a> as well.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -65,7 +65,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You have trained your squad to maximize impact and break enemy lines when they attack.</p>
-<p><b>Mark Benefit:</b> When you or any ally makes a melee strike against a creature marked by you, you can spend 2 focus to have the character making the strike push the target up to a number of squares equal to your Reason score. That character can then <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your Reason score, ending this <a href="../../../../movement/shifting/">shift</a> adjacent to the target.</p>
+<p><b>Mark Benefit:</b> When you or any ally makes a melee <a href="../../../../rule/combat/strike/">strike</a> against a creature marked by you, you can spend 2 focus to have the character making the <a href="../../../../rule/combat/strike/">strike</a> push the target up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score. That character can then <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score, ending this <a href="../../../../movement/shifting/">shift</a> adjacent to the target.</p>
 </div>
 </section>
 </div>

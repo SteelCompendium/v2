@@ -119,11 +119,11 @@ As a maneuver, you can adjust your vision to allow you to see through mundane ob
 
 #### Foresight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/foresight"}
 
-Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with [concealment](../rule/combat/concealment.md) who isn't hidden from you within 20, and you negate the usual bane on strikes against such creatures. Additionally, whenever you are targeted by a strike, you can use a triggered action to impose a bane on the power roll.
+Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with [concealment](../rule/combat/concealment.md) who isn't hidden from you within 20, and you negate the usual [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against such creatures. Additionally, whenever you are targeted by a [strike](../rule/combat/strike.md), you can use a triggered action to impose a [bane](../rule/dice/bane.md) on the power roll.
 
 #### Four-Armed Athletics {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-athletics"}
 
-Your unique physiology enhances your movement. You gain an edge on tests that use the [Climb](../skill/climb.md), [Gymnastics](../skill/gymnastics.md), or [Swim](../skill/swim.md) skills when you can use all your arms in the attempt.
+Your unique physiology enhances your movement. You gain an [edge](../rule/dice/edge.md) on tests that use the [Climb](../skill/climb.md), [Gymnastics](../skill/gymnastics.md), or [Swim](../skill/swim.md) skills when you can use all your arms in the attempt.
 
 #### Four-Armed Martial Arts {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-martial-arts"}
 
@@ -137,11 +137,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You slam an invisible force down upon the target.*
 
-| **Psionic, Ranged, Strike**  | Main action                   |
+| **Psionic, Ranged, [Strike](../rule/combat/strike.md)**  | Main action                   |
 |------------------------------|-------------------------------|
 | **📏 Ranged 10**             | **🎯 One creature or object** |
 
-**Power Roll + Reason, Intuition, or Presence:**
+**Power Roll + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 2 + R, I, or P damage;
 - **12-16:** 5 + R, I, or P damage; push 1
@@ -151,11 +151,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You shoot forth a purple beam of psychic force that moves your target.*
 
-| **Psionic, Ranged, Strike**  | Main action                   |
+| **Psionic, Ranged, [Strike](../rule/combat/strike.md)**  | Main action                   |
 |------------------------------|-------------------------------|
 | **📏 Ranged 10**             | **🎯 One creature or object** |
 
-**Power Roll + Reason, Intuition, or Presence:**
+**Power Roll + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 2 + R, I, or P psychic damage; slide 1
 - **12-16:** 5 + R, I, or P psychic damage; slide 2
@@ -169,7 +169,7 @@ Choose one signature ability from the following options. Signature abilities can
 |-------------------|------------------------|
 | **📏 Melee 1**    | **🎯 Self or one ally** |
 
-**Effect:** The target gains a bonus to speed equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.
+**Effect:** The target gains a bonus to speed equal to your [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md) score (your choice) until the start of your next turn.
 
 #### Unstoppable Mind
 

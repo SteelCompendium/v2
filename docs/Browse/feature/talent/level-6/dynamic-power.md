@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability force moves a target, the <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Reason score.</p>
+<p>If the ability force moves a target, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>

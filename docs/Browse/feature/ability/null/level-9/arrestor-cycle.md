@@ -3,20 +3,16 @@ action_type: Free triggered
 class: "null"
 cost: 11 Discipline
 distance: Ranged 10
-effect: If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your Intuition score for each main action they take until the end of their next turn.
+effect: If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your [Intuition](../../../../rule/character/intuition.md) score for each main action they take until the end of their next turn.
 flavor: You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.
 keywords:
     - Psionic
     - Ranged
 level: "9"
 name: Arrestor Cycle
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.null.level-9/arrestor-cycle
 subtype: triggered
 target: One creature
-tier1: I < WEAK, the target loses their turn
-tier2: I < AVERAGE, the target loses their turn
-tier3: I < STRONG, the target loses their turn
 trigger: The triggering creature starts their turn.
 type: ability
 ---
@@ -41,7 +37,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../../rule/character/intuition.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">I &lt; WEAK, the target loses their turn</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">I &lt; AVERAGE, the target loses their turn</span></div>
@@ -54,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target loses their turn, the round continues as if they had acted. A target who doesn&#39;t lose their turn takes psychic damage equal to twice your Intuition score for each main action they take until the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>If the target loses their turn, the round continues as if they had acted. A target who doesn&#39;t lose their turn takes psychic damage equal to twice your <a href="../../../../../rule/character/intuition/">Intuition</a> score for each main action they take until the end of their next turn.</p></div>
 </div>
 </article>

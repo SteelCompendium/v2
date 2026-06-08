@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your Agility score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.</p>
+<p>Your <a href="../../../../rule/character/agility/">Agility</a> score increases to 5. Additionally, you can increase one of your <a href="../../../../rule/character/characteristic/">characteristic</a> scores by 1, to a maximum of 5.</p>
 </div>
 </section>

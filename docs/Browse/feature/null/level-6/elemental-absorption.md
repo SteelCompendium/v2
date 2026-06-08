@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you use your <a href="../../../ability/null/level-1/inertial-shield/">Inertial Shield</a> triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.</p>
+<p>Whenever you use your <a href="../../../ability/null/level-1/inertial-shield/">Inertial Shield</a> triggered action, you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score against the triggering damage.</p>
 </div>
 </section>

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have a bonus to speed equal to your Agility score, and you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p>
+<p>You have a bonus to speed equal to your <a href="../../../../rule/character/agility/">Agility</a> score, and you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p>
 </div>
 </section>

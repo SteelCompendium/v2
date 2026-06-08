@@ -3,7 +3,7 @@ action_type: Triggered
 class: shadow
 cost: 1 Insight
 distance: Self
-effect: Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.
+effect: Choose an enemy within [distance](../../../../rule/combat/distance.md) of the triggering strike, including the enemy who targeted you. The [strike](../../../../rule/combat/strike.md) targets that enemy instead.
 flavor: You sow a moment of confusion in combat, to your enemy's peril.
 keywords:
     - Magic
@@ -12,7 +12,7 @@ name: Clever Trick
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/clever-trick
 subtype: triggered
 target: Self
-trigger: An enemy targets you with a strike.
+trigger: An enemy targets you with a [strike](../../../../rule/combat/strike.md).
 type: ability
 ---
 
@@ -37,10 +37,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>An enemy targets you with a strike.</p></div>
+<div class="sc-ability__section-body"><p>An enemy targets you with a <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.</p></div>
+<div class="sc-ability__section-body"><p>Choose an enemy within <a href="../../../../../rule/combat/distance/">distance</a> of the triggering strike, including the enemy who targeted you. The <a href="../../../../../rule/combat/strike/">strike</a> targets that enemy instead.</p></div>
 </div>
 </article>

@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 5 Essence
 distance: Ranged 10
-effect: The target is [teleport](../../../../movement/teleport.md)ed to another space within distance. Make a power roll that affects each enemy adjacent to the target's new space.
+effect: The target is [teleport](../../../../movement/teleport.md)ed to another space within [distance](../../../../rule/combat/distance.md). Make a power roll that affects each enemy adjacent to the target's new space.
 flavor: Your ally disappears, then reappears in a burst of fire.
 keywords:
     - Fire
@@ -12,12 +12,8 @@ keywords:
     - Void
 level: "2"
 name: Translated Through Flame
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-2/translated-through-flame
 target: Self or one ally
-tier1: 3 fire damage
-tier2: 5 fire damage
-tier3: 8 fire damage
 type: ability
 ---
 
@@ -41,7 +37,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 fire damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 fire damage</span></div>
@@ -50,6 +46,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is <a href="../../../../../movement/teleport/">teleport</a>ed to another space within distance. Make a power roll that affects each enemy adjacent to the target&#39;s new space.</p></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../../../movement/teleport/">teleport</a>ed to another space within <a href="../../../../../rule/combat/distance/">distance</a>. Make a power roll that affects each enemy adjacent to the target&#39;s new space.</p></div>
 </div>
 </article>

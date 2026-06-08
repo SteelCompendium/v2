@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>While you have 3 or more essence and are not <a href="../../../../rule/health/dying/">dying</a>, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the <a href="../mantle-of-essence/">Mantle of Essence</a> Specialization Effects table. You can activate and deactivate the aura at will (no action required).</p>
+<p>While you have 3 or more essence and are not <a href="../../../../rule/health/dying/">dying</a>, you exude an aura of magic whose <a href="../../../../rule/combat/distance/">distance</a> is equal to your <a href="../../../../rule/character/reason/">Reason</a> score. The effects within the area of the aura are based on your specialization, as shown on the <a href="../mantle-of-essence/">Mantle of Essence</a> Specialization Effects table. You can activate and deactivate the aura at will (no action required).</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the end of each of your turns, each enemy in the area takes fire damage equal to your Reason score.</p>
+<p>At the end of each of your turns, each enemy in the area takes fire damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the end of each of your turns, each ally in the area gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your Reason score.</p>
+<p>At the end of each of your turns, each ally in the area gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -62,7 +62,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the end of each of your turns, you can push each enemy in the area up to a number of squares equal to your Reason score.</p>
+<p>At the end of each of your turns, you can push each enemy in the area up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

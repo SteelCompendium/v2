@@ -2,17 +2,17 @@
 action_type: Triggered
 class: troubadour
 distance: Ranged 10
-effect: An edge on the triggering roll becomes a bane, or a double edge becomes an edge. A bane becomes an edge, or a double bane becomes a bane.
+effect: An [edge](../../../../rule/dice/edge.md) on the triggering roll becomes a [bane](../../../../rule/dice/bane.md), or a double [edge](../../../../rule/dice/edge.md) becomes an [edge](../../../../rule/dice/edge.md). A [bane](../../../../rule/dice/bane.md) becomes an [edge](../../../../rule/dice/edge.md), or a double [bane](../../../../rule/dice/bane.md) becomes a [bane](../../../../rule/dice/bane.md).
 flavor: All's fair in love and whatever.
 keywords:
     - Ranged
 level: "1"
 name: Turnabout Is Fair Play
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/turnabout-is-fair-play
-spend: '3 Drama: An edge on the triggering roll becomes a double bane, or a double edge is negated. A bane becomes a double edge, or a double bane is negated.'
+spend: '3 Drama: An [edge](../../../../rule/dice/edge.md) on the triggering roll becomes a double [bane](../../../../rule/dice/bane.md), or a double [edge](../../../../rule/dice/edge.md) is negated. A [bane](../../../../rule/dice/bane.md) becomes a double [edge](../../../../rule/dice/edge.md), or a double [bane](../../../../rule/dice/bane.md) is negated.'
 subtype: triggered
 target: One creature
-trigger: The target makes an ability roll that has an edge, a double edge, a bane, or a double bane.
+trigger: The target makes an ability roll that has an [edge](../../../../rule/dice/edge.md), a double [edge](../../../../rule/dice/edge.md), a [bane](../../../../rule/dice/bane.md), or a double [bane](../../../../rule/dice/bane.md).
 type: ability
 ---
 
@@ -37,11 +37,11 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target makes an ability roll that has an edge, a double edge, a bane, or a double bane.</p></div>
+<div class="sc-ability__section-body"><p>The target makes an ability roll that has an <a href="../../../../../rule/dice/edge/">edge</a>, a double <a href="../../../../../rule/dice/edge/">edge</a>, a <a href="../../../../../rule/dice/bane/">bane</a>, or a double <a href="../../../../../rule/dice/bane/">bane</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>An edge on the triggering roll becomes a bane, or a double edge becomes an edge. A bane becomes an edge, or a double bane becomes a bane.</p></div>
+<div class="sc-ability__section-body"><p>An <a href="../../../../../rule/dice/edge/">edge</a> on the triggering roll becomes a <a href="../../../../../rule/dice/bane/">bane</a>, or a double <a href="../../../../../rule/dice/edge/">edge</a> becomes an <a href="../../../../../rule/dice/edge/">edge</a>. A <a href="../../../../../rule/dice/bane/">bane</a> becomes an <a href="../../../../../rule/dice/edge/">edge</a>, or a double <a href="../../../../../rule/dice/bane/">bane</a> becomes a <a href="../../../../../rule/dice/bane/">bane</a>.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 3 Drama</span><span class="txt">An edge on the triggering roll becomes a double bane, or a double edge is negated. A bane becomes a double edge, or a double bane is negated.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 3 Drama</span><span class="txt">An <a href="../../../../../rule/dice/edge/">edge</a> on the triggering roll becomes a double <a href="../../../../../rule/dice/bane/">bane</a>, or a double <a href="../../../../../rule/dice/edge/">edge</a> is negated. A <a href="../../../../../rule/dice/bane/">bane</a> becomes a double <a href="../../../../../rule/dice/edge/">edge</a>, or a double <a href="../../../../../rule/dice/bane/">bane</a> is negated.</span></div>
 </article>

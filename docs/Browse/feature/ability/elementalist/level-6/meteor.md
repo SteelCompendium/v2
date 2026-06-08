@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 9 Essence
 distance: Ranged 10
-effect: If the target is [teleport](../../../../movement/teleport.md)ed to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is [difficult terrain](../../../../movement/difficult-terrain.md).
+effect: If the target is [teleport](../../../../movement/teleport.md)ed to a space where they would fall, they immediately do so, treating the fall as if their [Agility](../../../../rule/character/agility.md) score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is [difficult terrain](../../../../movement/difficult-terrain.md).
 flavor: You [teleport](../../../../movement/teleport.md) the target into the air and let the ground and the elemental force of fire do the rest.
 keywords:
     - Earth
@@ -13,12 +13,8 @@ keywords:
     - Void
 level: "6"
 name: Meteor
-power_roll_characteristic: Reason
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-6/meteor
 target: One creature or object
-tier1: You [teleport](../../../../movement/teleport.md) the target up to 4 squares.
-tier2: You [teleport](../../../../movement/teleport.md) the target up to 6 squares.
-tier3: You [teleport](../../../../movement/teleport.md) the target up to 8 squares.
 type: ability
 ---
 
@@ -42,7 +38,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Reason</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Reason](../../../../rule/character/reason.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You <a href="../../../../../movement/teleport/">teleport</a> the target up to 4 squares.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You <a href="../../../../../movement/teleport/">teleport</a> the target up to 6 squares.</span></div>
@@ -51,6 +47,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is <a href="../../../../../movement/teleport/">teleport</a>ed to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
+<div class="sc-ability__section-body"><p>If the target is <a href="../../../../../movement/teleport/">teleport</a>ed to a space where they would fall, they immediately do so, treating the fall as if their <a href="../../../../../rule/character/agility/">Agility</a> score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p></div>
 </div>
 </article>

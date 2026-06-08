@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability deals rolled damage, it deals extra damage equal to your Reason score.</p>
+<p>If the ability deals rolled damage, it deals extra damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>

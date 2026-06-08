@@ -11,12 +11,8 @@ keywords:
     - Weapon
 level: "1"
 name: Thunder Roar
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/thunder-roar
 target: Each enemy in the area
-tier1: 6 damage; push 2
-tier2: 9 damage; push 4
-tier3: 13 damage; push 6
 type: ability
 ---
 
@@ -40,7 +36,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../../rule/character/might.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; push 2</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; push 4</span></div>

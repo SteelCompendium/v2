@@ -3,19 +3,15 @@ action_type: Main action
 class: conduit
 cost: 5 Piety
 distance: 3 burst
-effect: Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.
+effect: Each ally in the area deals fire damage equal to your [Intuition](../../../../rule/character/intuition.md) score with their next strike made before the end of their next turn.
 flavor: Light shines at your command, burning your foes and blessing your allies.
 keywords:
     - Area
     - Magic
 level: "2"
 name: Morning Light
-power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/morning-light
 target: Each enemy in the area
-tier1: 4 fire damage
-tier2: 6 fire damage
-tier3: 10 fire damage
 type: ability
 ---
 
@@ -39,7 +35,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Intuition](../../../../rule/character/intuition.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 fire damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 fire damage</span></div>
@@ -48,6 +44,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>Each ally in the area deals fire damage equal to your <a href="../../../../../rule/character/intuition/">Intuition</a> score with their next strike made before the end of their next turn.</p></div>
 </div>
 </article>

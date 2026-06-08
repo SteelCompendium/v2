@@ -21,6 +21,6 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>Solidity is merely a suggestion to you. Mundane barriers that are 1 square thick or less do not block your senses or line of effect. You can only sense or have line of effect past one such barrier at a time.</p>
-<p>Additionally, whenever you use a void ability, you or one ally within distance of the ability can <a href="../../../../movement/teleport/">teleport</a> a number of squares equal to your Reason score.</p>
+<p>Additionally, whenever you use a void ability, you or one ally within <a href="../../../../rule/combat/distance/">distance</a> of the ability can <a href="../../../../movement/teleport/">teleport</a> a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>

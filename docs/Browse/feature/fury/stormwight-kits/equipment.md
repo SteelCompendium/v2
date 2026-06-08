@@ -18,6 +18,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your ferocity grows.</p>
+<p>You wear no armor and wield only your unarmed <a href="../../../../rule/combat/strike/">strikes</a>—which become devastating natural weapons as your ferocity grows.</p>
 </div>
 </section>

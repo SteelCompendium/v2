@@ -2,7 +2,6 @@
 disengage_bonus: "+1"
 equipment_text: You wear no armor and wield a whip.
 melee_damage_bonus: +1/+1/+1
-melee_distance_bonus: "+1"
 name: Whirlwind
 scc: mcdm.heroes.v1/kit/whirlwind
 speed_bonus: "+3"
@@ -25,7 +24,7 @@ You wear no armor and wield a whip.
 
 **Melee Damage Bonus:** +1/+1/+1
 
-**Melee Distance Bonus:** +1
+**Melee [Distance](../rule/combat/distance.md) Bonus:** +1
 
 **Disengage Bonus:** +1
 
@@ -35,11 +34,11 @@ You wear no armor and wield a whip.
 
 *When you draw your whip back after an attack, your enemy is drawn ever closer.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 3**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 + M or A damage; vertical pull 1
 - **12-16:** 7 + M or A damage; vertical pull 2

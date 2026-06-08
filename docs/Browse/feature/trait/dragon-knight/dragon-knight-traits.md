@@ -27,7 +27,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your hardened scales grant you damage immunity equal to your level to one of the following damage types: acid, cold, corruption, fire, lightning, or poison. You can change your damage immunity type when you finish a respite.</p>
+<p>Your hardened scales grant you <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> equal to your level to one of the following <a href="../../../../rule/damage/damage-type/">damage types</a>: acid, cold, corruption, fire, lightning, or poison. You can change your <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> type when you finish a respite.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -46,7 +46,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you or an adjacent creature takes damage from a strike, you can use a triggered action to guard against the blow. You reduce any damage from the strike by an amount equal to your level.</p>
+<p>Whenever you or an adjacent creature takes damage from a <a href="../../../../rule/combat/strike/">strike</a>, you can use a triggered action to guard against the blow. You reduce any damage from the <a href="../../../../rule/combat/strike/">strike</a> by an amount equal to your level.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -74,7 +74,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might or Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; push 1</span></div>
@@ -110,7 +110,7 @@ type: trait
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might or Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md) or [Presence](../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 damage</span></div>
@@ -119,7 +119,7 @@ type: trait
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You choose the ability&#39;s damage type from acid, cold, corruption, fire, lightning, or poison.</p></div>
+<div class="sc-ability__section-body"><p>You choose the ability&#39;s <a href="../../../../rule/damage/damage-type/">damage type</a> from acid, cold, corruption, fire, lightning, or poison.</p></div>
 </div>
 </article>
 </div>
@@ -132,7 +132,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Select one damage immunity granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.</p>
+<p>Select one <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> granted by your Wyrmplate trait. You always have this immunity, in addition to the immunity granted by Wyrmplate.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -153,7 +153,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../../../movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to <a href="../../../../movement/fly/">fly</a> at 3rd level or lower, you have damage weakness 5.</p>
+<p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../../../movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your <a href="../../../../rule/character/might/">Might</a> score (minimum 1 round) before you fall. While using your wings to <a href="../../../../movement/fly/">fly</a> at 3rd level or lower, you have <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5.</p>
 </div>
 </section>
 </div>

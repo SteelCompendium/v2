@@ -9,12 +9,8 @@ keywords:
     - Magic
 level: "6"
 name: Begone!
-power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.censor.level-6/begone
 target: Each enemy in the area
-tier1: 4 psychic damage; slide 3
-tier2: 6 psychic damage; slide 5
-tier3: 8 psychic damage; slide 7
 type: ability
 ---
 
@@ -38,7 +34,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Presence</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Presence](../../../../rule/character/presence.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 psychic damage; slide 3</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 psychic damage; slide 5</span></div>

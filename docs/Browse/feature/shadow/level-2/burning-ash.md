@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to <a href="../../../../movement/teleport/">teleport</a> away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score.</p>
+<p>The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to <a href="../../../../movement/teleport/">teleport</a> away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your <a href="../../../../rule/character/agility/">Agility</a> score.</p>
 </div>
 </section>

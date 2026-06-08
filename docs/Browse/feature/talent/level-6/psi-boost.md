@@ -30,7 +30,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability force moves a target, the <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Reason score.</p>
+<p>If the ability force moves a target, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -52,7 +52,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability is ranged, the distance gains a bonus equal to your Reason score. If the ability is melee, the distance gains a +2 bonus.</p>
+<p>If the ability is ranged, the <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../rule/character/reason/">Reason</a> score. If the ability is melee, the <a href="../../../../rule/combat/distance/">distance</a> gains a +2 bonus.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -63,7 +63,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability deals rolled damage, it deals extra damage equal to your Reason score.</p>
+<p>If the ability deals rolled damage, it deals extra damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -74,7 +74,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability has a potency, you increase that potency by an amount equal to your Reason score.</p>
+<p>If the ability has a potency, you increase that potency by an amount equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -85,7 +85,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability targets individual creatures or objects, you target one additional creature or object within distance.</p>
+<p>If the ability targets individual creatures or objects, you target one additional creature or object within <a href="../../../../rule/combat/distance/">distance</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -96,7 +96,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability has any power roll, that roll gains an edge.</p>
+<p>If the ability has any power roll, that roll gains an <a href="../../../../rule/dice/edge/">edge</a>.</p>
 </div>
 </section>
 </div>

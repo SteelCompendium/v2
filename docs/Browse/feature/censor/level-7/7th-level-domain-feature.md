@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The gods send divine favor to you and your allies. While you are not <a href="../../../../rule/health/dying/">dying</a>, enemies take a bane on strikes against you or any ally within 3 squares of you.</p>
+<p>The gods send divine favor to you and your allies. While you are not <a href="../../../../rule/health/dying/">dying</a>, enemies take a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/combat/strike/">strikes</a> against you or any ally within 3 squares of you.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -129,7 +129,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>When you finish a respite, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:</p>
-<ul><li>Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different damage immunity each time.</li><li>Each creature gains 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li>Each creature gains a +1 bonus to speed.</li><li>Each creature gains a +1 bonus to saving throws.</li><li>Each creature gains an edge on tests made to influence other creatures.</li></ul>
+<ul><li>Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> each time.</li><li>Each creature gains 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li>Each creature gains a +1 bonus to speed.</li><li>Each creature gains a +1 bonus to saving throws.</li><li>Each creature gains an <a href="../../../../rule/dice/edge/">edge</a> on tests made to influence other creatures.</li></ul>
 <p>Each benefit lasts until the creature who gains it finishes another respite.</p>
 </div>
 </section>
@@ -141,7 +141,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your Presence score. Additionally, if you use an ability that force moves a creature, the <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Presence score. While you are under the effect of your <a href="../../level-4/windwalk/">Windwalk</a> feature, lightning enhances your locomotion to grant you a bonus to speed equal to your Might score. If <a href="../../level-4/windwalk/">Windwalk</a> already grants you a bonus to speed, this bonus adds to that.</p>
+<p>Lightning and thunder infuse your body. Whenever you use an ability to deal rolled damage to another creature, the ability deals extra lightning damage equal to your <a href="../../../../rule/character/presence/">Presence</a> score. Additionally, if you use an ability that force moves a creature, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../rule/character/presence/">Presence</a> score. While you are under the effect of your <a href="../../level-4/windwalk/">Windwalk</a> feature, lightning enhances your locomotion to grant you a bonus to speed equal to your <a href="../../../../rule/character/might/">Might</a> score. If <a href="../../level-4/windwalk/">Windwalk</a> already grants you a bonus to speed, this bonus adds to that.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -171,7 +171,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free triggered action to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.</p></div>
+<div class="sc-ability__section-body"><p>You create two illusory duplicates of the target, which appear anywhere within <a href="../../../../rule/combat/distance/">distance</a>. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free triggered action to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.</p></div>
 </div>
 </article>
 </div>
@@ -185,7 +185,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can stop death from taking your allies. When an ally within distance of your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability dies and you are not <a href="../../../../rule/health/dying/">dying</a>, you can use a free triggered action to instead have that ally fall unconscious until they regain <a href="../../../../rule/health/stamina/">Stamina</a>.</p>
+<p>You can stop death from taking your allies. When an ally within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability dies and you are not <a href="../../../../rule/health/dying/">dying</a>, you can use a free triggered action to instead have that ally fall unconscious until they regain <a href="../../../../rule/health/stamina/">Stamina</a>.</p>
 <p>Additionally, your abilities deal an extra 5 damage to <a href="../../../../rule/health/winded/">winded</a> creatures.</p>
 </div>
 </section>

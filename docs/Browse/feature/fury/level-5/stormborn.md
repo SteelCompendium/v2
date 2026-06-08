@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level <a href="../../../../class/conduit/">conduit</a> (see 1st-Level Domain Feature in the <a href="../../../../class/conduit/">Conduit</a> section).</p>
+<p>You and each ally within 5 squares of you ignore negative effects from inclement weather, such as <a href="../../../../rule/dice/bane/">banes</a> or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level <a href="../../../../class/conduit/">conduit</a> (see 1st-Level Domain Feature in the <a href="../../../../class/conduit/">Conduit</a> section).</p>
 </div>
 </section>

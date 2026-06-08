@@ -3,7 +3,7 @@ action_type: Triggered
 class: censor
 cost: 11 Wrath
 distance: Ranged 10
-effect: The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.
+effect: The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within [distance](../../../../rule/combat/distance.md), who obtains the opposite outcome on their next power roll.
 flavor: The gods bless and damn in equal measure.
 keywords:
     - Magic
@@ -42,6 +42,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.</p></div>
+<div class="sc-ability__section-body"><p>The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within <a href="../../../../../rule/combat/distance/">distance</a>, who obtains the opposite outcome on their next power roll.</p></div>
 </div>
 </article>

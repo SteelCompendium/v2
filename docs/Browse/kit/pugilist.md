@@ -1,5 +1,5 @@
 ---
-equipment_text: You wear no armor and wield only your unarmed strikes.
+equipment_text: You wear no armor and wield only your unarmed [strikes](../rule/combat/strike.md).
 melee_damage_bonus: +1/+1/+1
 name: Pugilist
 scc: mcdm.heroes.v1/kit/pugilist
@@ -16,7 +16,7 @@ Meant for brawlers and boxers, the [Pugilist](pugilist.md) kit gives you access 
 
 ## Equipment
 
-You wear no armor and wield only your unarmed strikes.
+You wear no armor and wield only your unarmed [strikes](../rule/combat/strike.md).
 
 ## Kit Bonuses
 
@@ -34,11 +34,11 @@ You wear no armor and wield only your unarmed strikes.
 
 *Keeping your enemies stumbling around the battlefield is second nature to you.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage
 - **12-16:** 6 + M or A damage; slide 1

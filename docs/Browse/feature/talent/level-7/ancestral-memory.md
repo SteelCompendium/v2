@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each time you finish a respite, you can choose a number of skills you have up to your Reason score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last until the end of your next respite.</p>
+<p>Each time you finish a respite, you can choose a number of skills you have up to your <a href="../../../../rule/character/reason/">Reason</a> score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last until the end of your next respite.</p>
 </div>
 </section>

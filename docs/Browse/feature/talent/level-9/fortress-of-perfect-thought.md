@@ -21,6 +21,6 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Your mind is an impenetrable palace that shields you from danger. You gain the following effects:</p>
-<ul><li>You can breathe even when there is no breathable air.</li><li>You have psychic immunity 10.</li><li>Creatures can&#39;t read your thoughts unless you allow them to.</li><li>Your Reason and Intuition are treated as 2 higher for the purpose of resisting the potency of abilities.</li><li>You can&#39;t be made <a href="../../../../condition/taunted/">taunted</a> or <a href="../../../../condition/frightened/">frightened</a>.</li></ul>
+<ul><li>You can breathe even when there is no breathable air.</li><li>You have psychic immunity 10.</li><li>Creatures can&#39;t read your thoughts unless you allow them to.</li><li>Your <a href="../../../../rule/character/reason/">Reason</a> and <a href="../../../../rule/character/intuition/">Intuition</a> are treated as 2 higher for the purpose of resisting the potency of abilities.</li><li>You can&#39;t be made <a href="../../../../condition/taunted/">taunted</a> or <a href="../../../../condition/frightened/">frightened</a>.</li></ul>
 </div>
 </section>

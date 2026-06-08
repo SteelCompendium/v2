@@ -10,7 +10,7 @@ type: rule
 
 Your hero's survivability is represented by your Stamina. Think of Stamina as a combination of a creature's physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It's not that every instance of damage deals a [bleeding](../../condition/bleeding.md) wound to you, but that each one chips away at your ability to fight effectively. One attack might make you sweat as you leap back to avoid an arrow, while another might graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, this draining of energy leaves you open for bigger blows that can truly harm your body—or possibly kill you.
 
-After any damage you take is reduced by damage immunity or other effects, your Stamina is reduced by an amount equal to the remaining damage. Some effects can also reduce your Stamina maximum, limiting the amount of Stamina you can regain.
+After any damage you take is reduced by [damage immunity](../damage/damage-immunity.md) or other effects, your Stamina is reduced by an amount equal to the remaining damage. Some effects can also reduce your Stamina maximum, limiting the amount of Stamina you can regain.
 
 ## Recoveries and Recovery Value {data-scc="mcdm.heroes.v1/rule.health/recoveries"}
 
@@ -46,7 +46,7 @@ Heroes remain unconscious for 1 hour if no one does anything to wake them. After
 
 ### Unconscious
 
-While you are unconscious, you can't take main actions, maneuvers, triggered actions, free triggered actions, or free maneuvers; your speed is 0; you are unaware of your surroundings; and you [are prone](../../condition/prone.md). Ability rolls against you have a double edge. If you wake up from being unconscious, you can stand up from prone as a free maneuver.
+While you are unconscious, you can't take main actions, maneuvers, triggered actions, free triggered actions, or free maneuvers; your speed is 0; you are unaware of your surroundings; and you [are prone](../../condition/prone.md). Ability rolls against you have a double [edge](../dice/edge.md). If you wake up from being unconscious, you can stand up from prone as a free maneuver.
 
 ## Temporary Stamina {data-scc="mcdm.heroes.v1/rule.health/temporary-stamina"}
 
@@ -60,7 +60,7 @@ Unless otherwise indicated, temporary [Stamina](stamina.md) disappears at the en
 
 ## Object Stamina {data-scc="mcdm.heroes.v1/rule.general/unattended-object"}
 
-Mundane objects in the game have [Stamina](stamina.md) based on the material they're made of. When an object's [Stamina](stamina.md) is reduced to 0, the object is destroyed. Objects have poison immunity all and psychic immunity all, though the Director can remove one or both of these immunities in the case of living objects, such as plants. A size 1 object or 1 square of a larger object made of common materials has [Stamina](stamina.md) as follows:
+Mundane objects in the game have [Stamina](stamina.md) based on the material they're made of. When an object's [Stamina](stamina.md) is reduced to 0, the object is destroyed. Objects have poison immunity all and psychic immunity all, though the Director can remove one or both of these immunities in the case of living objects, such as plants. A [size](../character/size.md) 1 object or 1 square of a larger object made of common materials has [Stamina](stamina.md) as follows:
 
 - Glass: 1 [Stamina](stamina.md)
 - Wood: 3 [Stamina](stamina.md)

@@ -3,7 +3,7 @@ action_type: Main action
 class: fury
 cost: 11 Ferocity
 distance: 5 cube within 10
-effect: This ability deals your primordial damage type and ignores damage immunity.
+effect: This ability deals your primordial [damage type](../../../../rule/damage/damage-type.md) and ignores [damage immunity](../../../../rule/damage/damage-immunity.md).
 flavor: You summon your [primordial storm](../../../fury/stormwight-kits/primordial-storm.md).
 keywords:
     - Area
@@ -11,12 +11,8 @@ keywords:
     - Ranged
 level: "9"
 name: Deluge
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/deluge
 target: Each enemy in the area
-tier1: 7 damage
-tier2: 10 damage
-tier3: 15 damage
 type: ability
 ---
 
@@ -40,7 +36,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../../rule/character/might.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage</span></div>
@@ -49,6 +45,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This ability deals your primordial damage type and ignores damage immunity.</p></div>
+<div class="sc-ability__section-body"><p>This ability deals your primordial <a href="../../../../../rule/damage/damage-type/">damage type</a> and ignores <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a>.</p></div>
 </div>
 </article>

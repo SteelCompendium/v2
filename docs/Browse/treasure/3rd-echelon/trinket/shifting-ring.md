@@ -22,7 +22,7 @@ type: treasure
 
 **Project Source:** Texts or lore in Khelt
 
-**Project Roll Characteristic:** Agility or Intuition
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Agility](../../../rule/character/agility.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 450
 

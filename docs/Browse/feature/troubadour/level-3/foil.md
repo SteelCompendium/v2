@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, you can choose a new foil at the start of the next combat round.</p>
+<p>At the start of an encounter, choose one creature within your line of effect. You have a double <a href="../../../../rule/dice/edge/">edge</a> on power rolls made against or in competition with that creature. The chosen creature also has a double <a href="../../../../rule/dice/edge/">edge</a> on power rolls made against or in competition with you. If the chosen creature is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, you can choose a new foil at the start of the next combat round.</p>
 </div>
 </section>

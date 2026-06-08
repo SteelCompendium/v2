@@ -20,7 +20,7 @@ type: treasure
 
 **Project Source:** Texts or lore in Hyrallic
 
-**Project Roll Characteristic:** Agility or Presence
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Agility](../../../rule/character/agility.md) or [Presence](../../../rule/character/presence.md)
 
 **Project Goal:** 450
 

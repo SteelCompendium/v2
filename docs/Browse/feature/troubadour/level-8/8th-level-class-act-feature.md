@@ -79,7 +79,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area ignores <a href="../../../../movement/difficult-terrain/">difficult terrain</a>, and any ability they use that imposes <a href="../../../../movement/forced-movement/">forced movement</a> gains a +2 bonus to the <a href="../../../../movement/forced-movement/">forced movement</a> distance until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area ignores <a href="../../../../movement/difficult-terrain/">difficult terrain</a>, and any ability they use that imposes <a href="../../../../movement/forced-movement/">forced movement</a> gains a +2 bonus to the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.</p></div>
 </div>
 </article>
 </div>
@@ -93,7 +93,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever a creature within distance of your <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability makes a power roll, you can spend 1 drama as a free triggered action to use <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a>, targeting only one creature.</p>
+<p>Whenever a creature within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a> ability makes a power roll, you can spend 1 drama as a free triggered action to use <a href="../../../ability/troubadour/level-1/dramatic-monologue/">Dramatic Monologue</a>, targeting only one creature.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -104,7 +104,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 <a href="../../../../rule/resource/surge/">surge</a> that you can use only on this ability.</p>
+<p>Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an <a href="../../../../rule/dice/edge/">edge</a> and 1 <a href="../../../../rule/resource/surge/">surge</a> that you can use only on this ability.</p>
 <p>Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your <a href="../../level-4/zeitgeist/">Zeitgeist</a> feature to tell tales of your exploits after the encounter ends.</p>
 </div>
 </section>

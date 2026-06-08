@@ -8,13 +8,13 @@ type: movement
 
 ---
 
-Some actions and maneuvers allow a creature to push, pull, or slide a target creature or object a specific distance across the battlefield. Collectively, these types of movement are called [forced movement](forced-movement.md).
+Some actions and maneuvers allow a creature to push, pull, or slide a target creature or object a specific [distance](../rule/combat/distance.md) across the battlefield. Collectively, these types of movement are called [forced movement](forced-movement.md).
 
 - **Push X:** The creature moves the target up to X squares away from them in a straight line, without moving them vertically. Each square the creature moves the target must put the target farther away from them.
 - **Pull X:** The creature moves the target up to X squares toward them in a straight line, without moving them vertically. Each square the creature moves the target must bring the target closer to them.
 - **Slide X:** The creature moves the target up to X squares in any direction, except for vertically. Unlike a push or a pull, a slide doesn't need to be a straight line.
 
-When you [force move](forced-movement.md) a target, you can always move that target fewer squares than the number indicated. For example, when the [conduit](../class/conduit.md) obtains a tier 3 "push 3" outcome with their Call the Thunder Down ability, they can push targets any distance up to 3 squares, including choosing to not move certain targets at all.
+When you [force move](forced-movement.md) a target, you can always move that target fewer squares than the number indicated. For example, when the [conduit](../class/conduit.md) obtains a tier 3 "push 3" outcome with their Call the Thunder Down ability, they can push targets any [distance](../rule/combat/distance.md) up to 3 squares, including choosing to not move certain targets at all.
 
 [Forced movement](forced-movement.md) ignores [difficult terrain](difficult-terrain.md) and never provokes opportunity attacks. When you force move a target into [damaging terrain](damaging-terrain.md) or into terrain that produces an effect, they are affected as if they had moved into it willingly.
 
@@ -32,13 +32,13 @@ Though you can't freely push, pull, or slide a target up and down unless that [f
 
 ## Big Versus Little
 
-When a larger creature force moves a smaller target with a melee weapon ability, the distance of the [forced movement](forced-movement.md) is increased by 1. If a smaller creature force moves a larger target with a melee weapon ability, the distance doesn't change.
+When a larger creature force moves a smaller target with a melee weapon ability, the [distance](../rule/combat/distance.md) of the [forced movement](forced-movement.md) is increased by 1. If a smaller creature force moves a larger target with a melee weapon ability, the [distance](../rule/combat/distance.md) doesn't change.
 
 ## Slamming into Creatures
 
 When you force move a creature into another creature, the movement ends and both creatures take 1 damage for each square remaining in the first creature's [forced movement](forced-movement.md). You can also force move an object into a creature. The object's movement ends, and the creature takes 1 damage for each square remaining in the object's [forced movement](forced-movement.md).
 
-It's possible to move a creature or object of a larger size into several creatures of a smaller size at the same time. When this happens, the larger creature in the collision takes damage only once, not once for each smaller creature they slam into.
+It's possible to move a creature or object of a larger [size](../rule/character/size.md) into several creatures of a smaller [size](../rule/character/size.md) at the same time. When this happens, the larger creature in the collision takes damage only once, not once for each smaller creature they slam into.
 
 If a creature is killed by damage from an ability or effect that also [force move](forced-movement.md)s them, a second creature they are slammed into still takes damage unless the Director deems otherwise.
 
@@ -46,9 +46,9 @@ You can [force move](forced-movement.md) another creature into yourself with a p
 
 ## Slamming Into Objects
 
-When a creature force moves a target into a stationary object that is the target's size or larger and the object doesn't break (see below), the movement ends and the target takes 2 damage plus 1 damage for each square remaining in their [forced movement](forced-movement.md).
+When a creature force moves a target into a stationary object that is the target's [size](../rule/character/size.md) or larger and the object doesn't break (see below), the movement ends and the target takes 2 damage plus 1 damage for each square remaining in their [forced movement](forced-movement.md).
 
-If you [force move](forced-movement.md) a creature downward into an object that doesn't break (including the ground), they also take falling damage as if they had fallen the distance [force moved](forced-movement.md) and their Agility score was 0 (see Falling above).
+If you [force move](forced-movement.md) a creature downward into an object that doesn't break (including the ground), they also take falling damage as if they had fallen the [distance](../rule/combat/distance.md) [force moved](forced-movement.md) and their [Agility](../rule/character/agility.md) score was 0 (see Falling above).
 
 > **Tracking Object Forced-Movement Damage**
 >
@@ -73,7 +73,7 @@ If any [forced movement](forced-movement.md) remains after the object is destroy
 
 ## Forced Into a Fall
 
-If you can't [fly](fly.md) and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when the [forced movement](forced-movement.md) ends, you fall.
+If you can't [fly](fly.md) and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total [distance](../rule/combat/distance.md) you were moved first. If you are still in a position to fall when the [forced movement](forced-movement.md) ends, you fall.
 
 ## Stability {data-scc="mcdm.heroes.v1/rule.character/stability"}
 

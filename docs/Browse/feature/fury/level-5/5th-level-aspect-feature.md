@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your jump distance and height double (see Movement Types in Chapter 10: <a href="../../../../../Read/heroes/combat/">Combat</a>). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and whether you <a href="../../../../condition/prone/">land prone</a> (see Falling in Chapter 10). You <a href="../../../../condition/prone/">are not prone</a> after falling and landing on another creature.</p>
+<p>Your jump <a href="../../../../rule/combat/distance/">distance</a> and height double (see Movement Types in Chapter 10: <a href="../../../../../Read/heroes/combat/">Combat</a>). Additionally, when you fall, you reduce the effective height of your fall by a number of squares equal to your jump <a href="../../../../rule/combat/distance/">distance</a> for the purpose of determining damage and whether you <a href="../../../../condition/prone/">land prone</a> (see Falling in Chapter 10). You <a href="../../../../condition/prone/">are not prone</a> after falling and landing on another creature.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You and each ally within 5 squares of you ignore negative effects from inclement weather, such as banes or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level <a href="../../../../class/conduit/">conduit</a> (see 1st-Level Domain Feature in the <a href="../../../../class/conduit/">Conduit</a> section).</p>
+<p>You and each ally within 5 squares of you ignore negative effects from inclement weather, such as <a href="../../../../rule/dice/bane/">banes</a> or environmental damage. Additionally, you can use the Blessing of Fortunate Weather feature as if you were a 1st-level <a href="../../../../class/conduit/">conduit</a> (see 1st-Level Domain Feature in the <a href="../../../../class/conduit/">Conduit</a> section).</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -62,7 +62,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of your turn, you can end any <a href="../../../../condition/restrained/">restrained</a> condition on you. Additionally, you have a double edge on tests made to escape being confined or imprisoned.</p>
+<p>At the start of your turn, you can end any <a href="../../../../condition/restrained/">restrained</a> condition on you. Additionally, you have a double <a href="../../../../rule/dice/edge/">edge</a> on tests made to escape being confined or imprisoned.</p>
 </div>
 </section>
 </div>

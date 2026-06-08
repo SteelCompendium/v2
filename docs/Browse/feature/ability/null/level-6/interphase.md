@@ -3,7 +3,7 @@ action_type: Main action
 class: "null"
 cost: 9 Discipline
 distance: Self
-effect: You can use up to three signature abilities, each of which gains an edge.
+effect: You can use up to three signature abilities, each of which gains an [edge](../../../../rule/dice/edge.md).
 flavor: You slip into a faster timestream to act more quickly.
 keywords:
     - Psionic
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can use up to three signature abilities, each of which gains an edge.</p></div>
+<div class="sc-ability__section-body"><p>You can use up to three signature abilities, each of which gains an <a href="../../../../../rule/dice/edge/">edge</a>.</p></div>
 </div>
 </article>

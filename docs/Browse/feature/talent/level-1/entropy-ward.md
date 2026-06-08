@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can&#39;t use triggered actions until the end of their next turn.</p>
+<p>Your ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your <a href="../../../../rule/character/reason/">Reason</a> score and they can&#39;t use triggered actions until the end of their next turn.</p>
 </div>
 </section>

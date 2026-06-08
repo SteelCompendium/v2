@@ -3,7 +3,7 @@ action_type: Maneuver
 class: "null"
 cost: 9 Discipline
 distance: Self
-effect: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score.
+effect: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your stability gains a bonus equal to your [Intuition](../../../../rule/character/intuition.md) score.
 flavor: You focus until your body becomes as hard as iron.
 keywords:
     - Psionic
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 20 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>. Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>You gain 20 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>. Additionally, until the end of the encounter, your stability gains a bonus equal to your <a href="../../../../../rule/character/intuition/">Intuition</a> score.</p></div>
 </div>
 </article>

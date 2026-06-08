@@ -24,7 +24,7 @@ type: title
 
 Taking the Boffin benefit lets you use the following boffin properties as a maneuver:
 
-- Make a test that uses the Disguise skill. You gain an edge on the test.
+- Make a test that uses the Disguise skill. You gain an [edge](../rule/dice/edge.md) on the test.
 - One mundane lock you touch is unlocked.
 - Choose a square within 10 squares, even if you don't have line of effect to it. You can observe the area around that square as if you were in it.
 - You throw the boffin up to 10 squares, where it explodes in a 5 cube. Each creature in the area takes fire damage equal to 2d10 + your level. The boffin is permanently destroyed but can be replaced by your spymaster... though they don't like doing so too often.

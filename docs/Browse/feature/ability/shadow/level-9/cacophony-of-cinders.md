@@ -11,12 +11,8 @@ keywords:
     - Weapon
 level: "9"
 name: Cacophony of Cinders
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/cacophony-of-cinders
 target: Self
-tier1: An enemy takes 6 damage; an ally can [teleport](../../../../movement/teleport.md) up to 3 squares.
-tier2: An enemy takes 10 damage; an ally can [teleport](../../../../movement/teleport.md) up to 5 squares.
-tier3: An enemy takes 14 damage; an ally can [teleport](../../../../movement/teleport.md) up to 7 squares.
 type: ability
 ---
 
@@ -40,7 +36,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">An enemy takes 6 damage; an ally can <a href="../../../../../movement/teleport/">teleport</a> up to 3 squares.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">An enemy takes 10 damage; an ally can <a href="../../../../../movement/teleport/">teleport</a> up to 5 squares.</span></div>

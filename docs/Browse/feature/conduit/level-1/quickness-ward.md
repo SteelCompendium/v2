@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your Intuition score after the damage is dealt.</p>
+<p>The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score after the damage is dealt.</p>
 </div>
 </section>

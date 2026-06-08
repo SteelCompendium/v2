@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 aura
-effect: 'While this performance is active, each target who starts their turn in the area doesn''t take a bane on strikes against creatures with [concealment](../../../../rule/combat/concealment.md). Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../../../Read/heroes/tests.md)).'
+effect: 'While this performance is active, each target who starts their turn in the area doesn''t take a [bane](../../../../rule/dice/bane.md) on [strikes](../../../../rule/combat/strike.md) against creatures with [concealment](../../../../rule/combat/concealment.md). Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../../../../Read/heroes/tests.md)).'
 flavor: Maybe you and I ♪ We can still bring the light!♪
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area doesn&#39;t take a bane on strikes against creatures with <a href="../../../../../rule/combat/concealment/">concealment</a>. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: <a href="../../../../../../Read/heroes/tests/">Tests</a>).</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area doesn&#39;t take a <a href="../../../../../rule/dice/bane/">bane</a> on <a href="../../../../../rule/combat/strike/">strikes</a> against creatures with <a href="../../../../../rule/combat/concealment/">concealment</a>. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: <a href="../../../../../../Read/heroes/tests/">Tests</a>).</p></div>
 </div>
 </article>

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As your ferocity manifests elemental forces created by the Primordial Chaos, you are aware of how elemental power interacts with those around you. You automatically sense whether any creature within 10 squares has damage immunity or damage weakness to acid, cold, corruption, fire, lightning, poison, or sonic damage, learning whether they have immunity or weakness, the value of that immunity or weakness, and the specific damage type. Additionally, you automatically sense any source of one of those damage types within 10 squares, such as a fire or a source of elemental power.</p>
+<p>As your ferocity manifests elemental forces created by the Primordial Chaos, you are aware of how elemental power interacts with those around you. You automatically sense whether any creature within 10 squares has <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> or <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> to acid, cold, corruption, fire, lightning, poison, or sonic damage, learning whether they have immunity or weakness, the value of that immunity or weakness, and the specific <a href="../../../../rule/damage/damage-type/">damage type</a>. Additionally, you automatically sense any source of one of those <a href="../../../../rule/damage/damage-type/">damage types</a> within 10 squares, such as a fire or a source of elemental power.</p>
 </div>
 </section>

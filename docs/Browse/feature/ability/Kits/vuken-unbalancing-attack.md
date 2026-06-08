@@ -4,17 +4,13 @@ distance: Melee 1
 flavor: A wild assault forces your foe onto their back.
 keywords:
     - Melee
-    - Strike
+    - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: vuken
 name: Vuken (Unbalancing Attack)
-power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.vuken/unbalancing-attack
 subtype: signature
 target: One creature or object
-tier1: 4 + M damage; A < WEAK[, prone](../../../condition/prone.md)
-tier2: 7 + M damage; A < AVERAGE[, prone](../../../condition/prone.md)
-tier3: 9 + M damage; A < STRONG[, prone](../../../condition/prone.md)
 type: ability
 ---
 
@@ -32,13 +28,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">A wild assault forces your foe onto their back.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Strike</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Might](../../../rule/character/might.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M damage; A &lt; WEAK<a href="../../../../condition/prone/">, prone</a></span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + M damage; A &lt; AVERAGE<a href="../../../../condition/prone/">, prone</a></span></div>

@@ -39,6 +39,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally makes a <a href="../../../../../rule/combat/strike/">strike</a> against a creature marked by you, you can spend 2 focus to add one additional target to the <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 </article>

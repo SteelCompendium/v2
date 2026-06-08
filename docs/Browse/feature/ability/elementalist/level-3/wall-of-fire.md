@@ -3,7 +3,7 @@ action_type: Maneuver
 class: elementalist
 cost: 7 Essence
 distance: 10 wall within 10
-effect: The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your Reason score for each square of the area they start their turn in or enter.
+effect: The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your [Reason](../../../../rule/character/reason.md) score for each square of the area they start their turn in or enter.
 flavor: A blazing, beautifully organized inferno erupts at your command.
 keywords:
     - Area
@@ -38,10 +38,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your Reason score for each square of the area they start their turn in or enter.</p></div>
+<div class="sc-ability__section-body"><p>The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your <a href="../../../../../rule/character/reason/">Reason</a> score for each square of the area they start their turn in or enter.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>The wall lasts until the start of your next turn, and you can add a number of squares to the wall equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>The wall lasts until the start of your next turn, and you can add a number of squares to the wall equal to your <a href="../../../../../rule/character/reason/">Reason</a> score.</p></div>
 </div>
 </article>

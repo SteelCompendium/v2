@@ -78,9 +78,9 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Reason score.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">The <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to twice your Reason score instead.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">The <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score instead.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
 <div class="sc-ability__head">
@@ -128,9 +128,9 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../movement/teleport/">teleport</a> the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can <a href="../../../../movement/teleport/">teleport</a> them at any point during the move.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../movement/teleport/">teleport</a> the target up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score. If the target moves to trigger this ability, you can <a href="../../../../movement/teleport/">teleport</a> them at any point during the move.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">You <a href="../../../../movement/teleport/">teleport</a> the target up to a number of squares equal to twice your Reason score instead.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Essence</span><span class="txt">You <a href="../../../../movement/teleport/">teleport</a> the target up to a number of squares equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score instead.</span></div>
 </article>
 </div>
 </div>

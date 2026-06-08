@@ -1,6 +1,6 @@
 ---
 echelon: "2"
-effect: When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double edge on tests made to hide and sneak, and you can use the [Hide](../../../feature/common/maneuvers/hide.md) maneuver even while you are observed.
+effect: When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double [edge](../../../rule/dice/edge.md) on tests made to hide and sneak, and you can use the [Hide](../../../feature/common/maneuvers/hide.md) maneuver even while you are observed.
 keywords:
     - Potion
     - Psionic
@@ -22,8 +22,8 @@ type: treasure
 
 **Project Source:** Texts or lore in Yllyric
 
-**Project Roll Characteristic:** Agility or Intuition
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Agility](../../../rule/character/agility.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 90
 
-**Effect:** When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double edge on tests made to hide and sneak, and you can use the [Hide](../../../feature/common/maneuvers/hide.md) maneuver even while you are observed.
+**Effect:** When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double [edge](../../../rule/dice/edge.md) on tests made to hide and sneak, and you can use the [Hide](../../../feature/common/maneuvers/hide.md) maneuver even while you are observed.

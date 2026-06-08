@@ -3,7 +3,7 @@ action_type: Maneuver
 class: talent
 cost: 5 Clarity
 distance: Ranged 10
-effect: The target's stability increases by an amount equal to your Reason score, and they gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md) and 2 [surges](../../../../rule/resource/surge.md). This stability increase lasts until the target no longer has [temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability.
+effect: The target's stability increases by an amount equal to your [Reason](../../../../rule/character/reason.md) score, and they gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md) and 2 [surges](../../../../rule/resource/surge.md). This stability increase lasts until the target no longer has [temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability.
 flavor: The target's skin turns to hard, dark metal, impenetrable and dense.
 keywords:
     - Metamorphosis
@@ -37,7 +37,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target&#39;s stability increases by an amount equal to your Reason score, and they gain 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> and 2 <a href="../../../../../rule/resource/surge/">surges</a>. This stability increase lasts until the target no longer has <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> from this ability.</p></div>
+<div class="sc-ability__section-body"><p>The target&#39;s stability increases by an amount equal to your <a href="../../../../../rule/character/reason/">Reason</a> score, and they gain 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> and 2 <a href="../../../../../rule/resource/surge/">surges</a>. This stability increase lasts until the target no longer has <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> from this ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

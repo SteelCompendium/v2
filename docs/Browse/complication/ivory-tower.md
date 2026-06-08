@@ -1,6 +1,6 @@
 ---
 benefit: 'You have three skills of your choice, and you know one dead language of your choice (see Languages in Orden in Chapter 4: [Background](../../Read/heroes/background.md)).'
-drawback: The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a bane on any test to which that skill would apply.
+drawback: The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a [bane](../rule/dice/bane.md) on any test to which that skill would apply.
 name: Ivory Tower
 scc: mcdm.heroes.v1/complication/ivory-tower
 type: complication
@@ -14,4 +14,4 @@ You studied in an academy or other educational institution. Your training was th
 
 **Benefit:** You have three skills of your choice, and you know one dead language of your choice (see Languages in Orden in Chapter 4: [Background](../../Read/heroes/background.md)).
 
-**Drawback:** The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a bane on any test to which that skill would apply.
+**Drawback:** The Director chooses one of the skills you have from this complication. You lose that skill and can't ever learn it again. Additionally, you take a [bane](../rule/dice/bane.md) on any test to which that skill would apply.

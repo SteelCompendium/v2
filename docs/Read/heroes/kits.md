@@ -85,7 +85,7 @@ Polearms are two-handed melee weapons with long hafts that increase the wielder'
 
 ##### Unarmed Strikes
 
-Any kit that uses unarmed strikes allows you to use your body as a weapon. Punches, kicks, eye gouges, and the like are your forte.
+Any kit that uses unarmed [strikes](../../Browse/rule/combat/strike.md) allows you to use your body as a weapon. Punches, kicks, eye gouges, and the like are your forte.
 
 ##### Whip
 
@@ -99,7 +99,7 @@ If you find a piece of equipment you really want to use that isn't part of your 
 
 ### Kit Bonuses and Traits
 
-A kit can grant a bonus to your [Stamina](../../Browse/rule/health/stamina.md), speed, and stability, as well as the damage and distance of your weapon abilities, including your [free strikes](../../Browse/feature/common/main-actions/free-strike.md). (Abilities in Chapter 5: [Classes](classes.md) has information on abilities, ability keywords, and more.)
+A kit can grant a bonus to your [Stamina](../../Browse/rule/health/stamina.md), speed, and stability, as well as the damage and [distance](../../Browse/rule/combat/distance.md) of your weapon abilities, including your [free strikes](../../Browse/feature/common/main-actions/free-strike.md). (Abilities in Chapter 5: [Classes](classes.md) has information on abilities, ability keywords, and more.)
 
 #### Stamina Bonus
 
@@ -125,9 +125,9 @@ For example, the [Shining Armor](../../Browse/kit/shining-armor.md) kit has a +2
 
 #### Distance Bonus
 
-A kit's melee distance bonus increases the distance of abilities with the Melee and Weapon keywords. A kit's ranged distance bonus increases the distance of abilities with the Ranged and Weapon keywords.
+A kit's melee [distance](../../Browse/rule/combat/distance.md) bonus increases the [distance](../../Browse/rule/combat/distance.md) of abilities with the Melee and Weapon keywords. A kit's ranged [distance](../../Browse/rule/combat/distance.md) bonus increases the [distance](../../Browse/rule/combat/distance.md) of abilities with the Ranged and Weapon keywords.
 
-A distance bonus doesn't increase the size of any ability's area of effect.
+A [distance](../../Browse/rule/combat/distance.md) bonus doesn't increase the size of any ability's area of effect.
 
 #### Disengage Bonus
 
@@ -135,7 +135,7 @@ A kit that has a disengage bonus increases the number of squares you can [shift]
 
 ### Kit Signature Ability
 
-Each kit grants a signature ability, **whose distance and damage already includes the kit's bonuses**. For instance, the [Guisarmier](../../Browse/kit/guisarmier.md) kit's Forward Thrust, Backward Smash ability has a distance of melee 2 and deals 4, 7, or 9 damage depending on the tier outcome, with that distance and damage including the bonuses from the kit.
+Each kit grants a signature ability, **whose [distance](../../Browse/rule/combat/distance.md) and damage already includes the kit's bonuses**. For instance, the [Guisarmier](../../Browse/kit/guisarmier.md) kit's Forward Thrust, Backward Smash ability has a [distance](../../Browse/rule/combat/distance.md) of melee 2 and deals 4, 7, or 9 damage depending on the tier outcome, with that [distance](../../Browse/rule/combat/distance.md) and damage including the bonuses from the kit.
 
 For details on the ability format, see Abilities in Chapter 5: [Classes](classes.md).
 
@@ -145,13 +145,13 @@ This section details each kit, whose bonuses and benefits are summarized in the 
 
 > **Improvised Weapons**
 >
-> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md), the sword counts as an improvised weapon.
+> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed [strikes](../../Browse/rule/combat/strike.md), then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md), the sword counts as an improvised weapon.
 >
 > Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged [free strikes](../../Browse/feature/common/main-actions/free-strike.md) with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
 
 #### Arcane Archer {data-scc="mcdm.heroes.v1/kit/arcane-archer"}
 
-The [Arcane Archer](../../Browse/kit/arcane-archer.md) kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
+The [Arcane Archer](../../Browse/kit/arcane-archer.md) kit allows you to combine magic and ranged weapon [strikes](../../Browse/rule/combat/strike.md). Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
 
 ##### Equipment
 
@@ -163,7 +163,7 @@ You wear no armor and wield a bow.
 
 **Ranged Damage Bonus:** +2/+2/+2
 
-**Ranged Distance Bonus:** +10
+**Ranged [Distance](../../Browse/rule/combat/distance.md) Bonus:** +10
 
 **Disengage Bonus:** +1
 
@@ -173,17 +173,17 @@ You wear no armor and wield a bow.
 
 *Your ammunition explodes with magical energy.*
 
-| **Magic, Ranged, Strike, Weapon** |               **Main action** |
+| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
 | **📏 Ranged 15**                  | **🎯 One creature or object** |
 
-**Power Roll + Agility, Reason, Intuition, or Presence:**
+**Power Roll + [Agility](../../Browse/rule/character/agility.md), [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** 5 + A, R, I, or P fire damage
 - **12-16:** 7 + A, R, I, or P fire damage
 - **17+:** 10 + A, R, I, or P fire damage
 
-**Effect:** One creature or object of your choice within 2 squares of the target takes fire damage equal to the characteristic score used for this ability's power roll.
+**Effect:** One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../Browse/rule/character/characteristic.md) score used for this ability's power roll.
 
 #### Battlemind {data-scc="mcdm.heroes.v1/kit/battlemind"}
 
@@ -209,17 +209,17 @@ You wear light armor and wield a medium weapon.
 
 *Your weapon unleashes psionic energy that reduces your target's weight.*
 
-| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
 | **📏 Melee 1**                     | **🎯 One creature** |
 
-**Power Roll + Might, Reason, Intuition, or Presence:**
+**Power Roll + [Might](../../Browse/rule/character/might.md), [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** 5 + M, R, I, or P damage
 - **12-16:** 8 + M, R, I, or P damage
 - **17+:** 11 + M, R, I, or P damage
 
-**Effect:** Until the end of the target's next turn, any [forced movement](../../Browse/movement/forced-movement.md) that affects the target has its distance increased by 2.
+**Effect:** Until the end of the target's next turn, any [forced movement](../../Browse/movement/forced-movement.md) that affects the target has its [distance](../../Browse/rule/combat/distance.md) increased by 2.
 
 #### Cloak and Dagger {data-scc="mcdm.heroes.v1/kit/cloak-and-dagger"}
 
@@ -239,7 +239,7 @@ You wear light armor and wield one or two light weapons.
 
 **Ranged Damage Bonus:** +1/+1/+1
 
-**Ranged Distance Bonus:** +5
+**Ranged [Distance](../../Browse/rule/combat/distance.md) Bonus:** +5
 
 **Disengage Bonus:** +1
 
@@ -249,11 +249,11 @@ You wear light armor and wield one or two light weapons.
 
 *A stab, and a few quick, careful steps back.*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 10**       | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage; you can [shift](../../Browse/movement/shifting.md) 1 square
 - **12-16:** 6 + M or A damage; you can [shift](../../Browse/movement/shifting.md) up to 2 squares
@@ -283,11 +283,11 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 *Why strike once when you could do it twice?*
 
-| **Melee, Strike, Weapon** |                 **Main action** |
+| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
 | **📏 Melee 1**            | **🎯 Two creatures or objects** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 4 damage
 - **12-16:** 6 damage
@@ -311,7 +311,7 @@ You wear medium armor and wield a polearm.
 
 **Melee Damage Bonus:** +2/+2/+2
 
-**Melee Distance Bonus:** +1
+**Melee [Distance](../../Browse/rule/combat/distance.md) Bonus:** +1
 
 ##### Signature Ability
 
@@ -319,11 +319,11 @@ You wear medium armor and wield a polearm.
 
 *In your hands, the haft is as good as the head.*
 
-| **Melee, Strike, Weapon** |                 **Main action** |
+| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
 | **📏 Melee 2**            | **🎯 Two creatures or objects** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 4 damage
 - **12-16:** 7 damage
@@ -331,11 +331,11 @@ You wear medium armor and wield a polearm.
 
 #### Martial Artist {data-scc="mcdm.heroes.v1/kit/martial-artist"}
 
-If you want to be fast in a fight, then [Martial Artist](../../Browse/kit/martial-artist.md) is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes against opponents, and allows you to be the ultimate skirmisher.
+If you want to be fast in a fight, then [Martial Artist](../../Browse/kit/martial-artist.md) is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed [strikes](../../Browse/rule/combat/strike.md) against opponents, and allows you to be the ultimate skirmisher.
 
 ##### Equipment
 
-You wear no armor and wield only your unarmed strikes.
+You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat/strike.md).
 
 ##### Kit Bonuses
 
@@ -353,11 +353,11 @@ You wear no armor and wield only your unarmed strikes.
 
 *You feint to move your enemies into perfect position.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 5 + M or A damage
 - **12-16:** 8 + M or A damage; you can swap places with the target
@@ -387,17 +387,17 @@ You wear heavy armor and wield a heavy weapon.
 
 *An enemy who tagged you will pay for that.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage
 - **12-16:** 5 + M or A damage
 - **17+:** 13 + M or A damage
 
-**Effect:** If the target dealt damage to you since the end of your last turn, this strike deals additional damage equal to your Might or Agility score (your choice).
+**Effect:** If the target dealt damage to you since the end of your last turn, this [strike](../../Browse/rule/combat/strike.md) deals additional damage equal to your [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md) score (your choice).
 
 #### Panther {data-scc="mcdm.heroes.v1/kit/panther"}
 
@@ -423,17 +423,17 @@ You wear no armor and wield a heavy weapon.
 
 *The faster you move, the harder you hit.*
 
-| **Melee, Strike, Weapon** |               **Main action** |
+| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage
 - **12-16:** 6 + M or A damage
 - **17+:** 13 + M or A damage
 
-**Effect:** You can move up to 3 squares straight toward the target before this strike, which deals extra damage equal to the number of squares you move this way.
+**Effect:** You can move up to 3 squares straight toward the target before this [strike](../../Browse/rule/combat/strike.md), which deals extra damage equal to the number of squares you move this way.
 
 #### Pugilist {data-scc="mcdm.heroes.v1/kit/pugilist"}
 
@@ -441,7 +441,7 @@ Meant for brawlers and boxers, the [Pugilist](../../Browse/kit/pugilist.md) kit 
 
 ##### Equipment
 
-You wear no armor and wield only your unarmed strikes.
+You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat/strike.md).
 
 ##### Kit Bonuses
 
@@ -459,11 +459,11 @@ You wear no armor and wield only your unarmed strikes.
 
 *Keeping your enemies stumbling around the battlefield is second nature to you.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage
 - **12-16:** 6 + M or A damage; slide 1
@@ -473,7 +473,7 @@ You wear no armor and wield only your unarmed strikes.
 
 #### Raider {data-scc="mcdm.heroes.v1/kit/raider"}
 
-The [Raider](../../Browse/kit/raider.md) kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
+The [Raider](../../Browse/kit/raider.md) kit keeps you protected while granting you full mobility, providing a boost to speed and [distance](../../Browse/rule/combat/distance.md) that lets you run around the battlefield like a Viking warrior.
 
 ##### Equipment
 
@@ -489,7 +489,7 @@ You wear light armor and wield a shield and a light weapon.
 
 **Ranged Damage Bonus:** +1/+1/+1
 
-**Ranged Distance Bonus:** +5
+**Ranged [Distance](../../Browse/rule/combat/distance.md) Bonus:** +5
 
 **Disengage Bonus:** +1
 
@@ -499,17 +499,17 @@ You wear light armor and wield a shield and a light weapon.
 
 *You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../../Browse/feature/tactician/level-7/shock-and-awe.md)")*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
 | **📏 Melee 1 or ranged 10**       | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage
 - **12-16:** 6 + M or A damage
 - **17+:** 8 + M or A damage
 
-**Effect:** The target takes a bane on their next power roll made before the end of their next turn.
+**Effect:** The target takes a [bane](../../Browse/rule/dice/bane.md) on their next power roll made before the end of their next turn.
 
 #### Ranger {data-scc="mcdm.heroes.v1/kit/ranger"}
 
@@ -529,7 +529,7 @@ You wear medium armor and wield a bow and a medium weapon.
 
 **Ranged Damage Bonus:** +1/+1/+1
 
-**Ranged Distance Bonus:** +5
+**Ranged [Distance](../../Browse/rule/combat/distance.md) Bonus:** +5
 
 **Disengage Bonus:** +1
 
@@ -539,11 +539,11 @@ You wear medium armor and wield a bow and a medium weapon.
 
 *A well-placed shot leaves your enemy struggling to move.*
 
-| **Ranged, Strike, Weapon** |     **Main action** |
+| **Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 10**           | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage; A < WEAK, [slowed](../../Browse/condition/slowed.md) (save ends)
 - **12-16:** 5 + M or A damage; A < AVERAGE, [slowed](../../Browse/condition/slowed.md) (save ends)
@@ -565,7 +565,7 @@ You wear light armor and wield a bow.
 
 **Ranged Damage Bonus:** +2/+2/+2
 
-**Ranged Distance Bonus:** +7
+**Ranged [Distance](../../Browse/rule/combat/distance.md) Bonus:** +7
 
 **Disengage Bonus:** +1
 
@@ -575,11 +575,11 @@ You wear light armor and wield a bow.
 
 *When you fire two arrows back-to-back, both hit their mark.*
 
-| **Ranged, Strike, Weapon** |                 **Main action** |
+| **Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Main action** |
 |----------------------------|--------------------------------:|
 | **📏 Ranged 12**           | **🎯 Two creatures or objects** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 4 damage
 - **12-16:** 6 damage
@@ -601,7 +601,7 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 **Melee Damage Bonus:** +2/+2/+2
 
-**Melee Distance Bonus:** +1
+**Melee [Distance](../../Browse/rule/combat/distance.md) Bonus:** +1
 
 **Disengage Bonus:** +1
 
@@ -611,11 +611,11 @@ You wear light armor and wield several ensnaring weapons and a polearm.
 
 *The well-thrown net that follows your main attack leaves your foes right where you want them.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 2**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 4 + M or A damage; A < WEAK, [slowed](../../Browse/condition/slowed.md) (EoT)
 - **12-16:** 6 + M or A damage; A < AVERAGE, [slowed](../../Browse/condition/slowed.md) (EoT)
@@ -643,11 +643,11 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 *The strength of your assault makes it impossible for your foe to ignore you.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 5 + M or A damage
 - **12-16:** 8 + M or A damage
@@ -669,7 +669,7 @@ You wear no armor and wield a bow.
 
 **Ranged Damage Bonus:** +0/+0/+4
 
-**Ranged Distance Bonus:** +10
+**Ranged [Distance](../../Browse/rule/combat/distance.md) Bonus:** +10
 
 **Disengage Bonus:** +1
 
@@ -679,21 +679,21 @@ You wear no armor and wield a bow.
 
 *Breathe... aim... wait... then strike!*
 
-| **Ranged, Strike, Weapon** |     **Main action** |
+| **Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
 | **📏 Ranged 15**           | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage
 - **12-16:** 6 + M or A damage
 - **17+:** 13 + M or A damage
 
-**Effect:** If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
+**Effect:** If you don't take a move action this turn, this [strike](../../Browse/rule/combat/strike.md) deals extra damage equal to your [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md) score (your choice).
 
 #### Spellsword {data-scc="mcdm.heroes.v1/kit/spellsword"}
 
-The [Spellsword](../../Browse/kit/spellsword.md) kit combines melee strikes and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.
+The [Spellsword](../../Browse/kit/spellsword.md) kit combines melee [strikes](../../Browse/rule/combat/strike.md) and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.
 
 ##### Equipment
 
@@ -715,17 +715,17 @@ You wear light armor and wield a shield and a medium weapon.
 
 *Lightning jumps from your weapon as you strike to harm a nearby foe.*
 
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
+| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
 | **📏 Melee 1**                   | **🎯 One creature or object** |
 
-**Power Roll + Might, Reason, Intuition, or Presence:**
+**Power Roll + [Might](../../Browse/rule/character/might.md), [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** 5 + M, R, I, or P lightning damage
 - **12-16:** 8 + M, R, I, or P lightning damage
 - **17+:** 11 + M, R, I, or P lightning damage
 
-**Effect:** A creature or object of your choice within 2 squares of the target takes lightning damage equal to the characteristic score used for this ability's power roll.
+**Effect:** A creature or object of your choice within 2 squares of the target takes lightning damage equal to the [characteristic](../../Browse/rule/character/characteristic.md) score used for this ability's power roll.
 
 #### Stick and Robe {data-scc="mcdm.heroes.v1/kit/stick-and-robe"}
 
@@ -743,7 +743,7 @@ You wear light armor and wield a polearm.
 
 **Melee Damage Bonus:** +1/+1/+1
 
-**Melee Distance Bonus:** +1
+**Melee [Distance](../../Browse/rule/combat/distance.md) Bonus:** +1
 
 **Disengage Bonus:** +1
 
@@ -753,11 +753,11 @@ You wear light armor and wield a polearm.
 
 *When your stick speaks, your enemy moves.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 2**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 4 + M or A damage
 - **12-16:** 7 + M or A damage; slide 1
@@ -765,7 +765,7 @@ You wear light armor and wield a polearm.
 
 #### Swashbuckler {data-scc="mcdm.heroes.v1/kit/swashbuckler"}
 
-If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the [Swashbuckler](../../Browse/kit/swashbuckler.md) kit. This is a great kit for heroes who want to be master duelists.
+If you want to be mobile and deal a lot of damage with melee [strikes](../../Browse/rule/combat/strike.md), then you should reach for the [Swashbuckler](../../Browse/kit/swashbuckler.md) kit. This is a great kit for heroes who want to be master duelists.
 
 ##### Equipment
 
@@ -787,11 +787,11 @@ You wear light armor and wield a medium weapon.
 
 *All combat is a dance—and you'll be the one leading.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 5 + M or A damage
 - **12-16:** 7 + M or A damage; push 1
@@ -823,11 +823,11 @@ You wear medium armor and wield a shield and a medium weapon.
 
 *In your hands, a shield isn't just for protection.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 4 + M or A damage; push 1
 - **12-16:** 7 + M or A damage; push 2
@@ -857,17 +857,17 @@ You wear heavy armor and wield a light weapon.
 
 *The impact of your weapon brands your target for destruction.*
 
-| **Magic, Melee, Strike, Weapon** |               **Main action** |
+| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
 | **📏 Melee 1**                   | **🎯 One creature or object** |
 
-**Power Roll + Might, Reason, Intuition, or Presence:**
+**Power Roll + [Might](../../Browse/rule/character/might.md), [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** 3 + M, R, I, or P holy damage
 - **12-16:** 5 + M, R, I, or P holy damage
 - **17+:** 8 + M, R, I, or P holy damage
 
-**Effect:** Until the end of the target's next turn, they have damage weakness equal to the characteristic score used for this ability's power roll.
+**Effect:** Until the end of the target's next turn, they have [damage weakness](../../Browse/rule/damage/damage-weakness.md) equal to the [characteristic](../../Browse/rule/character/characteristic.md) score used for this ability's power roll.
 
 #### Whirlwind {data-scc="mcdm.heroes.v1/kit/whirlwind"}
 
@@ -883,7 +883,7 @@ You wear no armor and wield a whip.
 
 **Melee Damage Bonus:** +1/+1/+1
 
-**Melee Distance Bonus:** +1
+**Melee [Distance](../../Browse/rule/combat/distance.md) Bonus:** +1
 
 **Disengage Bonus:** +1
 
@@ -893,11 +893,11 @@ You wear no armor and wield a whip.
 
 *When you draw your whip back after an attack, your enemy is drawn ever closer.*
 
-| **Melee, Strike, Weapon** |     **Main action** |
+| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
 | **📏 Melee 3**            | **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 4 + M or A damage; vertical pull 1
 - **12-16:** 7 + M or A damage; vertical pull 2
@@ -909,24 +909,24 @@ The rules of the game expect that heroes always have access to their equipment. 
 
 - If your kit has armor and you aren't wearing it or wielding it (in the case of a shield), you lose your kit's [Stamina](../../Browse/rule/health/stamina.md) bonus and stability bonus. If you lose your shield but keep the rest of your armor, your [Stamina](../../Browse/rule/health/stamina.md) decreases by 3 per echelon. As long as you are carrying your shield, you don't lose its [Stamina](../../Browse/rule/health/stamina.md) bonus, even if you aren't actively wielding it.
 - If your kit has a medium or heavy weapon you aren't wielding, you lose the kit's melee damage bonus.
-- If your kit has a light weapon you aren't wielding, you lose the kit's melee damage bonus, ranged damage bonus, and distance bonus for a weapon you throw. If your kit also has a bow, you don't lose those benefits for the bow.
-- If your kit has a polearm or whip you aren't wielding, you lose the kit's melee damage bonus and melee distance bonus.
+- If your kit has a light weapon you aren't wielding, you lose the kit's melee damage bonus, ranged damage bonus, and [distance](../../Browse/rule/combat/distance.md) bonus for a weapon you throw. If your kit also has a bow, you don't lose those benefits for the bow.
+- If your kit has a polearm or whip you aren't wielding, you lose the kit's melee damage bonus and melee [distance](../../Browse/rule/combat/distance.md) bonus.
 - If your kit has an ensnaring weapon you aren't wielding, you lose the kit's signature ability.
-- If your kit has a bow weapon you aren't wielding, you lose the kit's ranged damage bonus and distance bonus.
+- If your kit has a bow weapon you aren't wielding, you lose the kit's ranged damage bonus and [distance](../../Browse/rule/combat/distance.md) bonus.
 
 ###### Kits Table
 
-| Kit              | Armor          | Weapon             | [Stamina](../../Browse/rule/health/stamina.md) per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | Disengage |
+| Kit              | Armor          | Weapon             | [Stamina](../../Browse/rule/health/stamina.md) per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee [Distance](../../Browse/rule/combat/distance.md) | Ranged [Distance](../../Browse/rule/combat/distance.md) | Disengage |
 |------------------|----------------|--------------------|---------------------|-------|-----------|--------------|---------------|----------------|-----------------|-----------|
 | [Arcane Archer](../../Browse/kit/arcane-archer.md)    | None           | Bow                | -                   | +1    | -         | -            | +2/+2/+2      | -              | +10             | +1        |
 | [Battlemind](../../Browse/kit/battlemind.md)       | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | -             | -              | -               | -         |
 | [Cloak and Dagger](../../Browse/kit/cloak-and-dagger.md) | Light          | Light              | +3                  | +2    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
 | [Dual Wielder](../../Browse/kit/dual-wielder.md)     | Medium         | Light, medium      | +6                  | +2    | -         | +2/+2/+2     | -             | -              | -               | +1        |
 | [Guisarmier](../../Browse/kit/guisarmier.md)       | Medium         | Polearm            | +6                  | -     | +1        | +2/+2/+2     | -             | +1             | -               | -         |
-| [Martial Artist](../../Browse/kit/martial-artist.md)   | None           | Unarmed strikes    | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
+| [Martial Artist](../../Browse/kit/martial-artist.md)   | None           | Unarmed [strikes](../../Browse/rule/combat/strike.md)    | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
 | [Mountain](../../Browse/kit/mountain.md)         | Heavy          | Heavy              | +9                  | -     | +2        | +0/+0/+4     | -             | -              | -               | -         |
 | [Panther](../../Browse/kit/panther.md)          | None           | Heavy              | +6                  | +1    | +1        | +0/+0/+4     | -             | -              | -               | -         |
-| [Pugilist](../../Browse/kit/pugilist.md)         | None           | Unarmed strikes    | +6                  | +2    | +1        | +1/+1/+1     | -             | -              | -               | -         |
+| [Pugilist](../../Browse/kit/pugilist.md)         | None           | Unarmed [strikes](../../Browse/rule/combat/strike.md)    | +6                  | +2    | +1        | +1/+1/+1     | -             | -              | -               | -         |
 | [Raider](../../Browse/kit/raider.md)           | Light, shield  | Light              | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
 | [Ranger](../../Browse/kit/ranger.md)           | Medium         | Bow, medium        | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
 | [Rapid-Fire](../../Browse/kit/rapid-fire.md)       | Light          | Bow                | +3                  | +1    | -         | -            | +2/+2/+2      | -              | +7              | +1        |

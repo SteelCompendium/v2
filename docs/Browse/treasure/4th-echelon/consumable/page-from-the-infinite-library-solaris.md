@@ -23,7 +23,7 @@ type: treasure
 
 Infinite Library detailing incomplete instructions for building a sun
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 360
 

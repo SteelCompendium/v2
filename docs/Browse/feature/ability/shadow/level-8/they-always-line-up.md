@@ -10,12 +10,8 @@ keywords:
     - Weapon
 level: "8"
 name: They Always Line Up
-power_roll_characteristic: Agility
 scc: mcdm.heroes.v1/feature.ability.shadow.level-8/they-always-line-up
 target: Each enemy in the area
-tier1: 12 damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
-tier2: 18 damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
-tier3: 24 damage; M < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 
@@ -39,7 +35,7 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__pr">
-<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Agility</span></div>
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">[Agility](../../../../rule/character/agility.md)</span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 damage; M &lt; WEAK, <a href="../../../../../condition/slowed/">slowed</a> (save ends)</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">18 damage; M &lt; AVERAGE, <a href="../../../../../condition/slowed/">slowed</a> (save ends)</span></div>

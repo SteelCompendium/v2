@@ -11,7 +11,7 @@ name: Riposte
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/riposte
 subtype: triggered
 target: Self or one ally
-trigger: The target takes damage from a melee strike.
+trigger: The target takes damage from a melee [strike](../../../../rule/combat/strike.md).
 type: ability
 ---
 
@@ -36,7 +36,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target takes damage from a melee strike.</p></div>
+<div class="sc-ability__section-body"><p>The target takes damage from a melee <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

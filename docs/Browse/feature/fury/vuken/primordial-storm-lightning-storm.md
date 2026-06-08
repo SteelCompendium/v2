@@ -19,6 +19,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your primordial damage type is lightning.</p>
+<p>Your primordial <a href="../../../../rule/damage/damage-type/">damage type</a> is lightning.</p>
 </div>
 </section>

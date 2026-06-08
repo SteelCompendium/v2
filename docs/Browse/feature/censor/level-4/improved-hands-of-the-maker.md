@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>When you use your <a href="../../../ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a> ability, you can create a mundane object that is size 2 or smaller.</p>
+<p>When you use your <a href="../../../ability/censor/level-1/hands-of-the-maker/">Hands of the Maker</a> ability, you can create a mundane object that is <a href="../../../../rule/character/size/">size</a> 2 or smaller.</p>
 </div>
 </section>

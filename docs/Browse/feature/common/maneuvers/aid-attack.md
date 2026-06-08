@@ -17,6 +17,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>A creature who uses the <a href="../aid-attack/">Aid Attack</a> maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature&#39;s next turn gains an edge.</p>
+<p>A creature who uses the <a href="../aid-attack/">Aid Attack</a> maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature&#39;s next turn gains an <a href="../../../../rule/dice/edge/">edge</a>.</p>
 </div>
 </section>

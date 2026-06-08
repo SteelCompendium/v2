@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use Presence on the test instead of another characteristic.</p>
+<p>The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use <a href="../../../../rule/character/presence/">Presence</a> on the test instead of another <a href="../../../../rule/character/characteristic/">characteristic</a>.</p>
 </div>
 </section>

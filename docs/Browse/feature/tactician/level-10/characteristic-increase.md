@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your Might and Reason scores each increase to 5.</p>
+<p>Your <a href="../../../../rule/character/might/">Might</a> and <a href="../../../../rule/character/reason/">Reason</a> scores each increase to 5.</p>
 </div>
 </section>

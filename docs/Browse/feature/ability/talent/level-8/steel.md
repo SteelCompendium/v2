@@ -3,7 +3,7 @@ action_type: Maneuver
 class: talent
 cost: 11 Clarity
 distance: Ranged 10
-effect: The target has damage immunity 5 and can't be made [slowed](../../../../condition/slowed.md) or [weakened](../../../../condition/weakened.md) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the [forced movement](../../../../movement/forced-movement.md) distance gains a +5 bonus.
+effect: The target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5 and can't be made [slowed](../../../../condition/slowed.md) or [weakened](../../../../condition/weakened.md) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) gains a +5 bonus.
 flavor: The target's skin becomes covered in tough metal.
 keywords:
     - Metamorphosis
@@ -37,7 +37,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has damage immunity 5 and can&#39;t be made <a href="../../../../../condition/slowed/">slowed</a> or <a href="../../../../../condition/weakened/">weakened</a> until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the <a href="../../../../../movement/forced-movement/">forced movement</a> distance gains a +5 bonus.</p></div>
+<div class="sc-ability__section-body"><p>The target has <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 5 and can&#39;t be made <a href="../../../../../condition/slowed/">slowed</a> or <a href="../../../../../condition/weakened/">weakened</a> until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the <a href="../../../../../movement/forced-movement/">forced movement</a> <a href="../../../../../rule/combat/distance/">distance</a> gains a +5 bonus.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

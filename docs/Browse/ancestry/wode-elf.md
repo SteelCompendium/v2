@@ -97,7 +97,7 @@ Jeremy turned to Dade. "I feel like we're in a dream," he whispered. "You are!" 
 
 ### Signature Trait: Wode Elf Glamor {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/wode-elf-glamor"}
 
-You can magically alter your appearance to better blend in with your surroundings. You gain an edge on tests made to hide and sneak, and tests made to search for you while you are hidden take a bane.
+You can magically alter your appearance to better blend in with your surroundings. You gain an [edge](../rule/dice/edge.md) on tests made to hide and sneak, and tests made to search for you while you are hidden take a [bane](../rule/dice/bane.md).
 
 ### Purchased Wode Elf Traits
 
@@ -117,7 +117,7 @@ Your elf body and mind can't be contained for long. Whenever you make a saving t
 
 #### Revisit Memory {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/revisit-memory"}
 
-Accessing memories is as easy as living in the present for you. You gain an edge on tests made to recall lore.
+Accessing memories is as easy as living in the present for you. You gain an [edge](../rule/dice/edge.md) on tests made to recall lore.
 
 #### Swift {data-scc="mcdm.heroes.v1/feature.trait.wode-elf/swift"}
 
@@ -131,11 +131,11 @@ You have the following signature ability. Signature abilities can be used at wil
 
 *Thorny vines erupt from every surface and attempt to bind your foe.*
 
-| **Magic, Ranged, Strike** |               **Main action** |
+| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
 | **📏 Ranged 10**          |           **🎯 One creature** |
 
-**Power Roll + Might or Agility:**
+**Power Roll + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 2 + M or A damage; A < WEAK, [slowed](../condition/slowed.md) (save ends)
 - **12-16:** 3 + M or A damage; A < AVERAGE, [slowed](../condition/slowed.md) (save ends)

@@ -2,7 +2,7 @@
 action_type: Triggered
 class: fury
 distance: Self
-effect: You take half the damage from the triggering effect and can [shift](../../../../movement/shifting.md) up to a number of squares equal to your Agility score.
+effect: You take half the damage from the triggering effect and can [shift](../../../../movement/shifting.md) up to a number of squares equal to your [Agility](../../../../rule/character/agility.md) score.
 flavor: You are as elusive as a hummingbird.
 keywords:
     - '-'
@@ -41,7 +41,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take half the damage from the triggering effect and can <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your Agility score.</p></div>
+<div class="sc-ability__section-body"><p>You take half the damage from the triggering effect and can <a href="../../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../../rule/character/agility/">Agility</a> score.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Ferocity</span><span class="txt">If the damage has any potency effects associated with it, the potency is reduced by 1 for you.</span></div>
 </article>

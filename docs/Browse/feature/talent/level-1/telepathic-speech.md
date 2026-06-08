@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You know the Mindspeech language (see Languages in Orden in Chapter 4: <a href="../../../../../Read/heroes/background/">Background</a>). Additionally, you can telepathically communicate with any creatures within distance of your <a href="../../../ability/talent/level-1/mind-spike/">Mind Spike</a> ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.</p>
+<p>You know the Mindspeech language (see Languages in Orden in Chapter 4: <a href="../../../../../Read/heroes/background/">Background</a>). Additionally, you can telepathically communicate with any creatures within <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../ability/talent/level-1/mind-spike/">Mind Spike</a> ability if they share a language with you and you know of each other. When you communicate with someone this way, they can respond telepathically.</p>
 </div>
 </section>

@@ -20,36 +20,36 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
-**Awe:** When you start this project, choose either Charming or Threatening. If you choose Charming, you gain an edge on Presence tests made to win other creatures over or make a good impression. If you choose Threatening, you gain an edge on Presence tests made to intimidate, coerce, or bully.
+**Awe:** When you start this project, choose either Charming or Threatening. If you choose Charming, you gain an [edge](../dice/edge.md) on [Presence](../character/presence.md) tests made to win other creatures over or make a good impression. If you choose Threatening, you gain an [edge](../dice/edge.md) on [Presence](../character/presence.md) tests made to intimidate, coerce, or bully.
 
-**Damage Immunity I:** When you start this project, select three damage types. You have immunity 5 to those damage types.
+**[Damage Immunity](../damage/damage-immunity.md) I:** When you start this project, select three [damage types](../damage/damage-type.md). You have immunity 5 to those [damage types](../damage/damage-type.md).
 
 **Disguise:** You can use a maneuver to cause this armor to take the form of any type of clothing that you have been in the presence of—a noble's dress, a guard's uniform, a cultist's robes, and so forth. The armor loses none of its protective qualities while transformed into other clothing.
 
 **Iridescent:** When you are the sole target of an ability, you can use a free triggered action to reveal that the ability was targeting an afterimage of you in the same space as you. The power roll for the ability is treated as an 11. You can't use this enhancement again until you earn 1 or more Victories.
 
-**Magic Resistance I:** Your characteristic scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the potencies of magic abilities.
+**Magic Resistance I:** Your [characteristic](../character/characteristic.md) scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the potencies of magic abilities.
 
 **Nettlebloom:** Whenever you are [grabbed](../../condition/grabbed.md) by an adjacent creature, your armor sprouts toxic nettles. While that creature has you [grabbed](../../condition/grabbed.md), they are [weakened](../../condition/weakened.md).
 
 **Phasing I:** Once per turn, you can move through 1 square of solid matter. If you end your turn inside solid matter, you are forced out into the space from which you entered it and you take 5 damage that can't be reduced in any way.
 
-**Psionic Resistance I:** Your characteristic scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the potencies of psionic abilities.
+**Psionic Resistance I:** Your [characteristic](../character/characteristic.md) scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the potencies of psionic abilities.
 
 **Swift:** You gain a +1 bonus to speed.
 
-**Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an adjacent creature deals damage to you before the end of your next turn, they take lightning damage equal to your highest characteristic score and you can push them 1 square.
+**Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an adjacent creature deals damage to you before the end of your next turn, they take lightning damage equal to your highest [characteristic](../character/characteristic.md) score and you can push them 1 square.
 
 ## 1st-Level Armor Enhancements Table
 
 | Enhancement          | Item Prerequisite                                                                                | Project Source Language |
 |----------------------|--------------------------------------------------------------------------------------------------|-------------------------|
 | Awe                  | A lock of hair from a fey, taken in amicable bargain for Charming or in violence for Threatening | Khelt                   |
-| Damage Immunity I    | Elemental sand left behind when an elemental enters Orden from Quintessence                      | Zaliac                  |
+| [Damage Immunity](../damage/damage-immunity.md) I    | Elemental sand left behind when an elemental enters Orden from Quintessence                      | Zaliac                  |
 | Disguise             | The blood of a lycanthrope                                                                       | Khelt                   |
 | Iridescent           | Fur from a lightbender                                                                           | Hyrallic                |
 | Magic Resistance I   | A scale from a dragon                                                                            | The First Language      |
@@ -65,19 +65,19 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
 **Absorption:** Whenever you are targeted by a magic or psionic ability that targets only one creature, you can use a free triggered action to cause this armor to absorb the ability after the ability's effects resolve. While the armor has an ability absorbed, you can't absorb another.
 
-You can use an absorbed ability as if you knew it, making power rolls for the ability using your choice of Reason, Intuition, or Presence. You don't need to spend any [Heroic Resource](../resource/heroic-resource.md) to activate the ability. Once you use the ability, the armor loses it, and you can absorb another.
+You can use an absorbed ability as if you knew it, making power rolls for the ability using your choice of [Reason](../character/reason.md), [Intuition](../character/intuition.md), or [Presence](../character/presence.md). You don't need to spend any [Heroic Resource](../resource/heroic-resource.md) to activate the ability. Once you use the ability, the armor loses it, and you can absorb another.
 
-**Damage Immunity II:** The damage immunity conveyed by the armor increases to 10.
+**[Damage Immunity](../damage/damage-immunity.md) II:** The [damage immunity](../damage/damage-immunity.md) conveyed by the armor increases to 10.
 
 **Dragon Soul:** When another creature causes you to be [winded](../health/winded.md) or [dying](../health/dying.md), you can use a free triggered action to cause the soul of a dragon to emerge from this armor and hurtle toward the creature. Make the following power roll against the creature.
 
-**Power Roll + Your Highest Characteristic Score:**
+**Power Roll + Your Highest [Characteristic](../character/characteristic.md) Score:**
 
 - **≤11:** 8 damage; push 3
 - **12-16:** 12 damage; push 4
@@ -85,13 +85,13 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Levitating:** On your turn, you can treat up to 5 consecutive squares of movement as [flying](../../movement/fly.md) movement. If you are still in midair at the end of your turn, you [fall prone](../../condition/prone.md).
 
-**Magic Resistance II:** Your characteristic scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of magic abilities. This benefit replaces Magic Resistance I.
+**Magic Resistance II:** Your [characteristic](../character/characteristic.md) scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of magic abilities. This benefit replaces Magic Resistance I.
 
 **Phasing II:** When you use the armor's Phasing I enhancement, you can move through 3 squares of solid matter per turn.
 
-**Psionic Resistance II:** Your characteristic scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of psionic abilities. This benefit replaces Psionic Resistance I.
+**Psionic Resistance II:** Your [characteristic](../character/characteristic.md) scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the potencies of psionic abilities. This benefit replaces Psionic Resistance I.
 
-**Reactive:** Whenever you take damage, you have damage immunity 2 until the end of your next turn after the triggering damage is resolved.
+**Reactive:** Whenever you take damage, you have [damage immunity](../damage/damage-immunity.md) 2 until the end of your next turn after the triggering damage is resolved.
 
 **Second Wind:** Whenever you become [winded](../health/winded.md), you can use a free triggered action to spend a [Recovery](../health/recoveries.md).
 
@@ -104,7 +104,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 | Enhancement           | Item Prerequisite                                                                 | Project Source Language |
 |-----------------------|-----------------------------------------------------------------------------------|-------------------------|
 | Absorption            | A mirror blessed by a priest of a god of magic                                    | The First Language      |
-| Damage Immunity II    | The essence of an elemental who is still alive                                    | Zaliac                  |
+| [Damage Immunity](../damage/damage-immunity.md) II    | The essence of an elemental who is still alive                                    | Zaliac                  |
 | Dragon Soul           | A scale from a dead dragon                                                        | Vastariax               |
 | Levitating            | A palm-sized crystal grown in the subterranean lair of an overmind                | Zaliac                  |
 | Magic Resistance II   | A scale from a mature dragon                                                      | The First Language      |
@@ -121,11 +121,11 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Project Source:** Texts or lore in a language determined by the enhancement
 
-**Project Roll Characteristic:** Might, Reason, or Intuition
+**Project Roll [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
 **Project Goal:** 150
 
-**Devil's Bargain:** You can [fly](../../movement/fly.md). Additionally, if an effect would make you [prone](../../condition/prone.md) while [flying](../../movement/fly.md), you can choose to not make you [prone](../../condition/prone.md) by losing [Stamina](../health/stamina.md) equal to the distance you would have fallen from make you [prone](../../condition/prone.md).
+**Devil's Bargain:** You can [fly](../../movement/fly.md). Additionally, if an effect would make you [prone](../../condition/prone.md) while [flying](../../movement/fly.md), you can choose to not make you [prone](../../condition/prone.md) by losing [Stamina](../health/stamina.md) equal to the [distance](../combat/distance.md) you would have fallen from make you [prone](../../condition/prone.md).
 
 **Dragon Soul II:** While you are [winded](../health/winded.md), your head transforms into a dragon's head and you have the following ability.
 
@@ -137,7 +137,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
-**Power Roll + Your Highest Characteristic Score:**
+**Power Roll + Your Highest [Characteristic](../character/characteristic.md) Score:**
 
 - **≤11:** 5 fire damage
 - **12-16:** 8 fire damage
@@ -145,7 +145,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Invulnerable:** When an ability roll made against you obtains a tier 1 outcome, you can ignore its damage and effects.
 
-**Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead [teleport](../../movement/teleport.md) that distance.
+**Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead [teleport](../../movement/teleport.md) that [distance](../combat/distance.md).
 
 **Life:** Whenever you would die, you can spend a [Recovery](../health/recoveries.md) to regain [Stamina](../health/stamina.md) instead. If you have no [Recoveries](../health/recoveries.md) to spend, you die.
 

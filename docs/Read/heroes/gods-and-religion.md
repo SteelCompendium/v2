@@ -247,7 +247,7 @@ Zarok the Law-Giver. Zarok the Teacher. Zarok who is Justice.
 
 The first, great hero of the [dwarves](../../Browse/ancestry/dwarf.md), Zarok was a noted general, diplomat, and poet. In his time each [dwarf](../../Browse/ancestry/dwarf.md) city-state had its own laws which were mostly just lists of offenses with punishments listed next to them. There was no consistency from one city to another and no underlying theory of law. The strong ruled, the rest obeyed.
 
-It was after Zarok retired from his career as a warmaster and became the ambassador to the elves that he undertook a study of how different cultures express the idea of justice. He surveyed the various traditions of elves, [humans](../../Browse/ancestry/human.md), and [orcs](../../Browse/ancestry/orc.md) and wrote *The Conversations*-a series of fictional dialogues in which two characters, deliberately chosen from [dwarf](../../Browse/ancestry/dwarf.md) theater so as to be familiar to his audience, debate the question: "What are the characteristics of a just society?"
+It was after Zarok retired from his career as a warmaster and became the ambassador to the elves that he undertook a study of how different cultures express the idea of justice. He surveyed the various traditions of elves, [humans](../../Browse/ancestry/human.md), and [orcs](../../Browse/ancestry/orc.md) and wrote *The Conversations*-a series of fictional dialogues in which two characters, deliberately chosen from [dwarf](../../Browse/ancestry/dwarf.md) theater so as to be familiar to his audience, debate the question: "What are the [characteristics](../../Browse/rule/character/characteristic.md) of a just society?"
 
 *The Conversations* marks the beginning of legal theory in Orden. It sought not only to state what a just society was, but to prove it ethically through a series of logical statements. Most of the work concerns itself with the proper, ethical uses of political power. The adversarial system of legal representation is his.
 
@@ -285,7 +285,7 @@ Kul, Father of Flames, Lord of the Forge, the Cleansing Fire who put fire and ma
 
 He saw his sibling gods creating their own children and placing them within the world, and so followed suit, creating the [orcs](../../Browse/ancestry/orc.md), the last of the original five speaking peoples.
 
-Kul's fire is the fire that destroys, but it is also the fire that creates, the fire of the forge, the fire that makes meat safe to eat, the fire that cauterizes wounds. Kul teaches that action is the defining characteristic of being. Kul's heroes are not philosophers or poets, but warriors and hunters.
+Kul's fire is the fire that destroys, but it is also the fire that creates, the fire of the forge, the fire that makes meat safe to eat, the fire that cauterizes wounds. Kul teaches that action is the defining [characteristic](../../Browse/rule/character/characteristic.md) of being. Kul's heroes are not philosophers or poets, but warriors and hunters.
 
 Uniquely among the Elder Creator Gods, Kul does not desire worship finds it distasteful. [Orcs](../../Browse/ancestry/orc.md) still call out to Kul in desperate times as "Kul Who Once Spoke." But in those moments, they do not call out for aid—only that Kul witness them, and that they might prove worthy of his attention.
 
@@ -365,7 +365,7 @@ At the moment of his death, when the god-caller rang the bell of souls officiall
 
 She snatched her tribe's oriflamme from her father's dead hands... and ran. For many leagues she ran and the tales of the creatures—manticores, griffins, chimeras—who barred her passage passed into legend. [Orc](../../Browse/ancestry/orc.md) children still delight at the tricks and wordplay Khravila employed to thwart the beasts, avoid fighting, and continue her epic run.
 
-Less than five hours after her father died, Khravila arrived at the Astragalus Court, forty leagues from home and while many elements of her legend are certainly mythical, the time and distance are well attested. Khravila held forth the oriflamme and announced that, should the elves continue their assault on the [humans](../../Browse/ancestry/human.md), there would be war between them and her tribe. "Chose quickly," she said. "My people are right behind me, and eager for battle." They could not have known she was bluffing.
+Less than five hours after her father died, Khravila arrived at the Astragalus Court, forty leagues from home and while many elements of her legend are certainly mythical, the time and [distance](../../Browse/rule/combat/distance.md) are well attested. Khravila held forth the oriflamme and announced that, should the elves continue their assault on the [humans](../../Browse/ancestry/human.md), there would be war between them and her tribe. "Chose quickly," she said. "My people are right behind me, and eager for battle." They could not have known she was bluffing.
 
 The elves called off their attacks and Khravila brokered peace between them and the [humans](../../Browse/ancestry/human.md). When her brother arrived with their kin folk some hours later—itself an impressive feat—Khravila handed him the oriflamme, and collapsed, dead. It was Khravila the chieftain who ran. It was Khravila the Unstoppable who died, a legendary [orc](../../Browse/ancestry/orc.md) hero.
 
@@ -387,7 +387,7 @@ The [hakaan](../../Browse/ancestry/hakaan.md) know they are descended from stone
 
 Mahsiti the Weaver was a fresco painter and mathematician of the [hakaan](../../Browse/ancestry/hakaan.md) who discovered, or invented, a way of drawing very precise geometric shapes following patterns that repeat at any scale. Believing it could be a new way to devise spells, she took to weaving tapestries using lines of thread to better understand the numerical relationships within the patterns.
 
-It took time to master weaving, but she took to it quickly and produced a series of essays, each a tapestry, proving correct her suspicions. The Tapestries of Mahsiti are a series of thirteen legendary artifacts of varying sizes, one as small as a napkin, one over two hundred feet long. Each has a powerful spell written into it, available for use by anyone who can read the patterns.
+It took time to master weaving, but she took to it quickly and produced a series of essays, each a tapestry, proving correct her suspicions. The Tapestries of Mahsiti are a series of thirteen legendary artifacts of varying [sizes](../../Browse/rule/character/size.md), one as small as a napkin, one over two hundred feet long. Each has a powerful spell written into it, available for use by anyone who can read the patterns.
 
 One of Mahsiti's weavings, titled *The Shepherd and the Sheep*, was used by her whole clan when war came to them. The [hakaan](../../Browse/ancestry/hakaan.md) had no doubt they could defend their home but were equally certain there would be enormous loss of life. Mahsiti suggested they use the tapestry, but the people of her clan did not understand. Use it how? It was simply a picture of a tree in a field with many sheep gathered around it.
 
@@ -771,7 +771,7 @@ Most heroes are hero-heroes, but some heroes are anti-heroes, and some are anti-
 
 Nikros is strength. He is dominance. His is the right of the strong to rule over the weak. He is the Tyrant.
 
-Nikros believes that strength is the only virtue, and those who are born strong were born to rule. Because of this, followers of Nikros are often mistaken for followers of [Adûn](../god/adun.md)—a mask they are happy to wear. Both teach that strength is good. But for [Adûn](../god/adun.md) strength is a tool for helping others. For Nikros, strength is power to enact your will heedless of the consequences. Might is right.
+Nikros believes that strength is the only virtue, and those who are born strong were born to rule. Because of this, followers of Nikros are often mistaken for followers of [Adûn](../god/adun.md)—a mask they are happy to wear. Both teach that strength is good. But for [Adûn](../god/adun.md) strength is a tool for helping others. For Nikros, strength is power to enact your will heedless of the consequences. [Might](../../Browse/rule/character/might.md) is right.
 
 Many is the baron or duke who attained power through sheer strength and ruthlessness, seeing their people as mere resources to be spent. Many of these rulers only come to Nikros after achieving power, their ears poisoned by a priest of the Tyrant.
 
@@ -831,7 +831,7 @@ Eseld teaches that spite is a virtue. Only fools follow rules, and sorcery is a 
 
 ### Space Gods of the Timescape
 
-The nature and origin of the gods of the timescape is not well understood. Unlike the gods of Orden, the Space Gods are corporeal beings, usually of immense—even planetary—size. Some are humanoid, others, like [Nebular](../god/nebular.md) the Star Mother and XXAXX, decidedly not so.
+The nature and origin of the gods of the timescape is not well understood. Unlike the gods of Orden, the Space Gods are corporeal beings, usually of immense—even planetary—[size](../../Browse/rule/character/size.md). Some are humanoid, others, like [Nebular](../god/nebular.md) the Star Mother and XXAXX, decidedly not so.
 
 They have godlike power—greater it seems than the Innumerable Younger Gods. But there is no evidence that they can create whole realities like the Elder Gods. They are not, as far as sages can make out, the authors of the worlds or people of the timescape. They may represent the last survivors of previous realities, High Science experiments run amok, or ascended beings from ancient civilizations who outlasted the fall of their people.
 

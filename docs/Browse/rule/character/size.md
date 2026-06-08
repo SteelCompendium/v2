@@ -18,7 +18,7 @@ The Creature Sizes table shows example sizes for creatures up to size 5, but lar
 
 ### Creature Sizes Table
 
-| Size  | Example Creature |
+| [Size](size.md)  | Example Creature |
 |-------|------------------|
 | 1T    | Pixie            |
 | 1S    | [Polder](../../ancestry/polder.md)           |

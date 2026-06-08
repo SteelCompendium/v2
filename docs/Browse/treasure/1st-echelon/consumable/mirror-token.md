@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: While the Mirror Token is on your person and you are targeted by a ranged strike, you can use a triggered action to crush the token and ignore the strike. Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the strike.
+effect: While the Mirror Token is on your person and you are targeted by a ranged [strike](../../../rule/combat/strike.md), you can use a triggered action to crush the token and ignore the [strike](../../../rule/combat/strike.md). Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the [strike](../../../rule/combat/strike.md).
 keywords:
     - Psionic
 name: Mirror Token
@@ -21,8 +21,8 @@ type: treasure
 
 **Project Source:** Texts or lore in Variac
 
-**Project Roll Characteristic:** Reason or Intuition
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Reason](../../../rule/character/reason.md) or [Intuition](../../../rule/character/intuition.md)
 
 **Project Goal:** 45
 
-**Effect:** While the Mirror Token is on your person and you are targeted by a ranged strike, you can use a triggered action to crush the token and ignore the strike. Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the strike.
+**Effect:** While the Mirror Token is on your person and you are targeted by a ranged [strike](../../../rule/combat/strike.md), you can use a triggered action to crush the token and ignore the [strike](../../../rule/combat/strike.md). Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the [strike](../../../rule/combat/strike.md).

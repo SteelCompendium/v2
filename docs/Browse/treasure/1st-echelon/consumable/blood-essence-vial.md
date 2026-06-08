@@ -22,7 +22,7 @@ type: treasure
 
 **Project Source:** Texts or lore in Proto-Ctholl
 
-**Project Roll Characteristic:** Agility or Reason
+**Project Roll [Characteristic](../../../rule/character/characteristic.md):** [Agility](../../../rule/character/agility.md) or [Reason](../../../rule/character/reason.md)
 
 **Project Goal:** 45
 

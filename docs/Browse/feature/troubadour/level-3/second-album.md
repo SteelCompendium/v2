@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area doesn&#39;t take a bane on strikes against creatures with <a href="../../../../rule/combat/concealment/">concealment</a>. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>).</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area doesn&#39;t take a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/combat/strike/">strikes</a> against creatures with <a href="../../../../rule/combat/concealment/">concealment</a>. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>).</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="none">
@@ -59,7 +59,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn <a href="../../../../rule/health/dying/">dying</a> while in the area gains an edge on power rolls and ignores the effects of <a href="../../../../condition/bleeding/">bleeding</a> until the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn <a href="../../../../rule/health/dying/">dying</a> while in the area gains an <a href="../../../../rule/dice/edge/">edge</a> on power rolls and ignores the effects of <a href="../../../../condition/bleeding/">bleeding</a> until the end of their turn.</p></div>
 </div>
 </article>
 </div>

@@ -3,7 +3,7 @@ action_type: Maneuver
 class: talent
 cost: 5 Clarity
 distance: Ranged 10
-effect: Until the start of your next turn, the target gains a +3 bonus to speed, and they have a double edge on the next power roll they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
+effect: Until the start of your next turn, the target gains a +3 bonus to speed, and they have a double [edge](../../../../rule/dice/edge.md) on the next power roll they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
 flavor: You clear the mind of nothing but the goal.
 keywords:
     - Psionic
@@ -37,7 +37,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the target gains a +3 bonus to speed, and they have a double edge on the next power roll they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the target gains a +3 bonus to speed, and they have a double <a href="../../../../../rule/dice/edge/">edge</a> on the next power roll they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

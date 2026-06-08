@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../../../movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your Might score (minimum 1 round) before you fall. While using your wings to <a href="../../../../movement/fly/">fly</a> at 3rd level or lower, you have damage weakness 5.</p>
+<p>You possess wings powerful enough to take you airborne. While using your wings to <a href="../../../../movement/fly/">fly</a>, you can stay aloft for a number of rounds equal to your <a href="../../../../rule/character/might/">Might</a> score (minimum 1 round) before you fall. While using your wings to <a href="../../../../movement/fly/">fly</a> at 3rd level or lower, you have <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> 5.</p>
 </div>
 </section>
