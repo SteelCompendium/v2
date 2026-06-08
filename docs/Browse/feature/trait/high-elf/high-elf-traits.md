@@ -46,7 +46,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to make that creature <a href="../../../../condition/frightened/">frightened</a> of you until the end of their next turn.</p>
+<p>When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> to make that creature <a href="../../../../condition/frightened/">frightened</a> of you until the end of their next <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -56,7 +56,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You gain a +1 bonus to the <a href="../../../../rule/combat/distance/">distance</a> you can shift when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
+<p>You gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../../rule/combat/distance/">distance</a> you can shift when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

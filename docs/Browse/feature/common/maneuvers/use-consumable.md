@@ -17,6 +17,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Unless otherwise noted in its description, a creature can activate a <a href="../../../../rule/treasure/consumable/">consumable</a> treasure such as a potion with the <a href="../use-consumable/">Use Consumable</a> maneuver. A creature can use this maneuver to administer a <a href="../../../../rule/treasure/consumable/">consumable</a> treasure that benefits the user either to themself or to a willing adjacent creature. See <a href="../../../../rule/treasure/consumable/">Consumables</a> in Chapter 13: <a href="../../../../../Read/heroes/rewards/">Rewards</a>.</p>
+<p>Unless otherwise noted in its description, a creature can activate a <a href="../../../../rule/treasure/consumable/">consumable</a> treasure such as a potion with the <a href="../use-consumable/">Use Consumable</a> maneuver. A creature can use this maneuver to administer a <a href="../../../../rule/treasure/consumable/">consumable</a> treasure that benefits the user either to themself or to a willing <a href="../../../../rule/combat/adjacent/">adjacent</a> creature. See <a href="../../../../rule/treasure/consumable/">Consumables</a> in Chapter 13: <a href="../../../../../Read/heroes/rewards/">Rewards</a>.</p>
 </div>
 </section>

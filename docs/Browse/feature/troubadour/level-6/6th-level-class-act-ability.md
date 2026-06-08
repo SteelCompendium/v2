@@ -67,7 +67,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, each target gains the <a href="../../../../rule/character/speed/">speed</a> bonus, weapon <a href="../../../../rule/combat/distance/">distance</a> bonus, disengage bonus, and <a href="../../../../rule/character/stability/">stability</a> bonus of your currently equipped kit in addition to their own kit&#39;s bonuses.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, each target gains the <a href="../../../../rule/character/speed/">speed</a> <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>, weapon <a href="../../../../rule/combat/distance/">distance</a> <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>, disengage <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>, and <a href="../../../../rule/character/stability/">stability</a> <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> of your currently equipped kit in addition to their own kit&#39;s <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>es.</p></div>
 </div>
 </article>
 </div>
@@ -92,9 +92,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">It&#39;s love and blood or drama and blood. Either way, there&#39;s always blood.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -111,14 +111,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You and your partner make a flashy show of derring-do, then get back to your corners.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and the target each make a melee <a href="../../../common/main-actions/free-strike/">free strike</a> that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your <a href="../../../common/main-actions/free-strike/">free strike</a> targets and which enemies the target creature&#39;s <a href="../../../common/main-actions/free-strike/">free strike</a> targets. You then slide the target 5 squares, ignoring <a href="../../../../rule/character/stability/">stability</a>.</p></div>
+<div class="sc-ability__section-body"><p>You and the target each make a <a href="../../../../rule/combat/melee/">melee</a> <a href="../../../common/main-actions/free-strike/">free strike</a> that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your <a href="../../../common/main-actions/free-strike/">free strike</a> targets and which enemies the target creature&#39;s <a href="../../../common/main-actions/free-strike/">free strike</a> targets. You then slide the target 5 squares, ignoring <a href="../../../../rule/character/stability/">stability</a>.</p></div>
 </div>
 </article>
 </div>
@@ -170,7 +170,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 1 <a href="../../../../rule/resource/surge/">surge</a>, then gains 1 <a href="../../../../rule/resource/surge/">surge</a> at the start of each combat round until the end of the encounter.</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 1 <a href="../../../../rule/resource/surge/">surge</a>, then gains 1 <a href="../../../../rule/resource/surge/">surge</a> at the start of each <a href="../../../../rule/combat/combat-round/">combat round</a> until the end of the encounter.</p></div>
 </div>
 </article>
 </div>

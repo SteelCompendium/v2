@@ -9,7 +9,7 @@ type: ancestry
 
 ---
 
-After [humans](human.md), [polders](polder.md) are the most numerous and diverse ancestry in [Orden](../rule/world/orden.md). They are not [humans](human.md), but they live in and among [humans](human.md) and share their gods and culture. Almost every [human](human.md) culture in [Orden](../rule/world/orden.md) has a [polder](polder.md) saint or a [human](human.md) saint venerated by [polder](polder.md).
+After [humans](human.md), [polders](polder.md) are the most numerous and diverse ancestry in [Orden](../rule/world/orden.md). They are not [humans](human.md), but they live in and among [humans](human.md) and share their gods and culture. Almost every [human](human.md) culture in [Orden](../rule/world/orden.md) has a [polder](polder.md) [saint](../rule/world/saint.md) or a [human](human.md) [saint](../rule/world/saint.md) venerated by [polder](polder.md).
 
 Short, averaging 31/2 feet tall, the [polders](polder.md)' origins are obscure. They are a young species who, like [humans](human.md), have no single patron god. Their ability to *shadowmeld* means they enjoy a reputation as excellent spies and thieves. Many [polders](polder.md) consider this a base slander and point out they're also famed as chefs, though [polders](polder.md) can be found in every profession, especially in cities.
 
@@ -161,7 +161,7 @@ Courage is all you know. You can't be made [frightened](../condition/frightened.
 
 #### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.polder/graceful-retreat"}
 
-Your small [size](../rule/character/size.md) makes it easier for you to slip away from the fray. You gain a +1 bonus to the [distance](../rule/combat/distance.md) you can shift when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
+Your small [size](../rule/character/size.md) makes it easier for you to slip away from the fray. You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) you can shift when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
 #### Nimblestep {data-scc="mcdm.heroes.v1/feature.trait.polder/nimblestep"}
 
@@ -169,7 +169,7 @@ A light step serves you well when [speed](../rule/character/speed.md) is of the 
 
 #### Polder Geist {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-geist"}
 
-Evading others' notice gives you freedom to move. At the start of each of your turns during combat, if no enemy has [line of effect](../rule/combat/line-of-effect.md) to you or if you are hidden from or have [concealment](../rule/combat/concealment.md) from any enemy with [line of effect](../rule/combat/line-of-effect.md) to you, you gain a +3 bonus to [speed](../rule/character/speed.md) until the end of your turn.
+Evading others' notice gives you freedom to move. At the start of each of your [turns](../rule/combat/turn.md) during combat, if no enemy has [line of effect](../rule/combat/line-of-effect.md) to you or if you are hidden from or have [concealment](../rule/combat/concealment.md) from any enemy with [line of effect](../rule/combat/line-of-effect.md) to you, you gain a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of your [turn](../rule/combat/turn.md).
 
 #### Reactive Tumble {data-scc="mcdm.heroes.v1/feature.trait.polder/reactive-tumble"}
 

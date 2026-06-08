@@ -1,9 +1,6 @@
 ---
-disengage_bonus: "+1"
 equipment_text: You wear light armor and wield one or two light weapons.
-melee_damage_bonus: +1/+1/+1
 name: Cloak and Dagger
-ranged_damage_bonus: +1/+1/+1
 scc: mcdm.heroes.v1/kit/cloak-and-dagger
 type: kit
 ---
@@ -20,17 +17,17 @@ You wear light armor and wield one or two light weapons.
 
 ## Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +3 per [echelon](../rule/general/echelon.md)
+**[Stamina](../rule/health/stamina.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +3 per [echelon](../rule/general/echelon.md)
 
-**[Speed](../rule/character/speed.md) Bonus:** +2
+**[Speed](../rule/character/speed.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +2
 
-**Melee Damage Bonus:** +1/+1/+1
+**[Melee](../rule/combat/melee.md) Damage [Bonus](../rule/dice/bonuses-and-penalties.md):** +1/+1/+1
 
-**Ranged Damage Bonus:** +1/+1/+1
+**[Ranged](../rule/combat/ranged.md) Damage [Bonus](../rule/dice/bonuses-and-penalties.md):** +1/+1/+1
 
-**Ranged [Distance](../rule/combat/distance.md) Bonus:** +5
+**[Ranged](../rule/combat/ranged.md) [Distance](../rule/combat/distance.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +5
 
-**Disengage Bonus:** +1
+**Disengage [Bonus](../rule/dice/bonuses-and-penalties.md):** +1
 
 ## Signature Ability
 
@@ -38,9 +35,9 @@ You wear light armor and wield one or two light weapons.
 
 *A stab, and a few quick, careful steps back.*
 
-| **Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 10**       | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 10**       | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 

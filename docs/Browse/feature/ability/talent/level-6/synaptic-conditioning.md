@@ -2,11 +2,11 @@
 action_type: Main action
 class: talent
 cost: 9 Clarity
-distance: Melee 2
+distance: '[Melee](../../../../rule/combat/melee.md) 2'
 flavor: It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!
 keywords:
     - Psionic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Strike
     - Telepathy
 level: "6"
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Clarity</div></div>
 </div>
 <p class="sc-ability__flavor">It&#39;s a subtle mindset shift. It&#39;s not that they&#39;re your enemy—you just don&#39;t like them!</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Melee</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 2</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 2</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

@@ -2,12 +2,12 @@
 action_type: Main action
 class: tactician
 cost: 11 Focus
-distance: Melee 1 or ranged 5
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
 effect: One ally within 10 squares of you can use a [heroic ability](../../../../rule/general/heroic-ability.md) against the target as a free [triggered action](../../../../rule/combat/triggered-action.md) without spending any of their [Heroic Resource](../../../../rule/resource/heroic-resource.md), as long as they have enough [Heroic Resource](../../../../rule/resource/heroic-resource.md) to pay for the ability. If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) before the chosen ally has used their ability, the ally can pick a different target.
 flavor: You create an opening for an ally.
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "8"
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Focus</div></div>
 </div>
 <p class="sc-ability__flavor">You create an opening for an ally.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../../rule/combat/ranged/">ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

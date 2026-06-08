@@ -3,7 +3,7 @@ action_type: Maneuver
 class: censor
 cost: 9 Wrath
 distance: 1 [burst](../../../../rule/combat/burst.md)
-effect: A target can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn, or a [prone target](../../../../condition/prone.md) can stand up.
+effect: A target can end one effect on them that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md), or a [prone target](../../../../condition/prone.md) can stand up.
 flavor: You channel your god's will to overcome hardship and inflict pain.
 keywords:
     - Area
@@ -38,6 +38,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A target can end one effect on them that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn, or a <a href="../../../../../condition/prone/">prone target</a> can stand up.</p></div>
+<div class="sc-ability__section-body"><p>A target can end one effect on them that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../../../../rule/combat/turn/">turn</a>, or a <a href="../../../../../condition/prone/">prone target</a> can stand up.</p></div>
 </div>
 </article>

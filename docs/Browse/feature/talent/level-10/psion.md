@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of each of your turns during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.</p>
+<p>At the start of each of your <a href="../../../../rule/combat/turn/">turns</a> during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.</p>
 <p>Additionally, you can choose to not take damage from having negative clarity. You can also choose to take on any ability&#39;s strained effect even if you&#39;re not strained.</p>
 </div>
 </section>

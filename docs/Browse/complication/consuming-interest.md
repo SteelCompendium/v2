@@ -26,4 +26,4 @@ Ever since you were a kid, you've been obsessed with a certain topic. During you
 
 **Project Goal:** 120, 150, 180
 
-Each time you complete this project, your knowledge of your chosen field expands, and the bonus to [tests](../rule/test/test.md) provided by your chosen skill increases by 1.
+Each time you complete this project, your knowledge of your chosen field expands, and the [bonus](../rule/dice/bonuses-and-penalties.md) to [tests](../rule/test/test.md) provided by your chosen skill increases by 1.

@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 class: talent
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: A telepathic bolt instantly zaps a creature's brain.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Strike
     - Telepathy
 level: "1"
@@ -29,9 +29,9 @@ type: ability
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">A telepathic bolt instantly zaps a creature&#39;s brain.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

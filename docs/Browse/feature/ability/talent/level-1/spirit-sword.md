@@ -1,12 +1,12 @@
 ---
 action_type: Main action
 class: talent
-distance: Melee 2
+distance: '[Melee](../../../../rule/combat/melee.md) 2'
 effect: You gain 1 [surge](../../../../rule/resource/surge.md).
 flavor: You form a blade of mind energy and stab your target, invigorating yourself.
 keywords:
     - Animapathy
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">You form a blade of mind energy and stab your target, invigorating yourself.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Animapathy</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Animapathy</span><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 2</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 2</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">

@@ -2,11 +2,11 @@
 action_type: Main action
 class: conduit
 cost: 3 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: Your divine [fury](../../../../class/fury.md) is a hammer that crashes down upon the unrighteous.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Judgment's Hammer
@@ -29,9 +29,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">3</span> Piety</div></div>
 </div>
 <p class="sc-ability__flavor">Your divine <a href="../../../../../class/fury/">fury</a> is a hammer that crashes down upon the unrighteous.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">

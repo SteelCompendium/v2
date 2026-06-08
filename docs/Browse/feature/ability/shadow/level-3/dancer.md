@@ -3,7 +3,7 @@ action_type: Maneuver
 class: shadow
 cost: 7 Insight
 distance: Self
-effect: Until the end of the encounter, whenever an enemy moves or is [force moved](../../../../movement/forced-movement.md) adjacent to you or damages you, you can take the [Disengage](../../../common/move-actions/disengage.md) move action as a free [triggered action](../../../../rule/combat/triggered-action.md).
+effect: Until the end of the encounter, whenever an enemy moves or is [force moved](../../../../movement/forced-movement.md) [adjacent](../../../../rule/combat/adjacent.md) to you or damages you, you can take the [Disengage](../../../common/move-actions/disengage.md) move action as a free [triggered action](../../../../rule/combat/triggered-action.md).
 flavor: You enter a flow state that makes you nearly impossible to pin down.
 keywords:
     - '-'
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever an enemy moves or is <a href="../../../../../movement/forced-movement/">force moved</a> adjacent to you or damages you, you can take the <a href="../../../../common/move-actions/disengage/">Disengage</a> move action as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever an enemy moves or is <a href="../../../../../movement/forced-movement/">force moved</a> <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you or damages you, you can take the <a href="../../../../common/move-actions/disengage/">Disengage</a> move action as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a>.</p></div>
 </div>
 </article>

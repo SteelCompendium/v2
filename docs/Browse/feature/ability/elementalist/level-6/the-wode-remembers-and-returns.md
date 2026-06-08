@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 9 Essence
 distance: 4 [burst](../../../../rule/combat/burst.md)
-effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has [cover](../../../../rule/combat/cover.md).
+effect: The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](../../../../rule/combat/turn.md). The area is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and any ally who ends their [turn](../../../../rule/combat/turn.md) in the area has [cover](../../../../rule/combat/cover.md).
 flavor: You create a terrarium that spans from canopy above to underbrush below.
 keywords:
     - Area
@@ -39,10 +39,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies, and any ally who ends their turn in the area has <a href="../../../../../rule/combat/cover/">cover</a>.</p></div>
+<div class="sc-ability__section-body"><p>The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>. The area is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies, and any ally who ends their <a href="../../../../../rule/combat/turn/">turn</a> in the area has <a href="../../../../../rule/combat/cover/">cover</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
-<div class="sc-ability__section-body"><p>The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
+<div class="sc-ability__section-body"><p>The area remains until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>. Additionally, at the start of your <a href="../../../../../rule/combat/turn/">turn</a>, each ally in the area can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>

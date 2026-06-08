@@ -2,11 +2,11 @@
 action_type: Main action
 class: tactician
 cost: 5 Focus
-distance: Ranged 5
-effect: One ally adjacent to the target can spend a [Recovery](../../../../rule/health/recoveries.md).
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
+effect: One ally [adjacent](../../../../rule/combat/adjacent.md) to the target can spend a [Recovery](../../../../rule/health/recoveries.md).
 flavor: Your enemy will think twice about attacking your friend.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "2"
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Focus</div></div>
 </div>
 <p class="sc-ability__flavor">Your enemy will think twice about attacking your friend.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -40,6 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>One ally adjacent to the target can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
+<div class="sc-ability__section-body"><p>One ally <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>

@@ -63,7 +63,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You use the magic of fire to create a ward of explosive energy. Whenever an adjacent creature deals damage to you, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to push that creature up to a number of squares equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
+<p>You use the magic of fire to create a ward of explosive energy. Whenever an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature deals damage to you, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to push that creature up to a number of squares equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 </div>

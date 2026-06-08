@@ -21,6 +21,6 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You add your level to your effective <a href="../../../../rule/character/size/">size</a> for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by <a href="../../../../movement/forced-movement/">forced movement</a>, and so forth. This has no effect on whether you can be <a href="../../../../condition/grabbed/">grabbed</a>.</p>
-<p>Additionally, you have a bonus to <a href="../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../rule/character/might/">Might</a> score.</p>
+<p>Additionally, you have a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../rule/character/might/">Might</a> score.</p>
 </div>
 </section>

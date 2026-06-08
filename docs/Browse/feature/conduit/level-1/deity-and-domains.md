@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Choose a god or saint who your character reveres from Chapter 14: <a href="../../../../../Read/heroes/gods-and-religion/">Gods and Religion</a>, or ask your Director about the deities in your campaign world. With the Director&#39;s permission, you can also create your own deity and choose four domains to be part of their portfolio.</p>
+<p>Choose a god or <a href="../../../../rule/world/saint/">saint</a> who your character reveres from Chapter 14: <a href="../../../../../Read/heroes/gods-and-religion/">Gods and Religion</a>, or ask your Director about the deities in your campaign world. With the Director&#39;s permission, you can also create your own deity and choose four domains to be part of their portfolio.</p>
 <p>After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your <a href="../../../../rule/general/subclass/">subclass</a>, and your choice of domains determines many of the features you&#39;ll gain as you gain new levels. (<em>Quick Build:</em> <a href="../../../../god/adun/">Adûn</a> for deity, and Life and Protection as domains.)</p>
 </div>
 </section>

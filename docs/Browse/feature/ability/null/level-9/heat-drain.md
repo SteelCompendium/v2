@@ -2,11 +2,11 @@
 action_type: Maneuver
 class: "null"
 cost: 11 Discipline
-distance: Melee 1
-effect: While [restrained](../../../../condition/restrained.md) this way, the target takes cold damage equal to your [Intuition](../../../../rule/character/intuition.md) score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](../../../../condition/restrained.md) this way, any [potency](../../../../rule/character/potency.md) associated with the damage is reduced by 2.
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: While [restrained](../../../../condition/restrained.md) this way, the target takes cold damage equal to your [Intuition](../../../../rule/character/intuition.md) score at the start of each of your [turns](../../../../rule/combat/turn.md). Additionally, whenever the target damages another creature while [restrained](../../../../condition/restrained.md) this way, any [potency](../../../../rule/character/potency.md) associated with the damage is reduced by 2.
 flavor: You drain all the heat from the target.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "9"
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Discipline</div></div>
 </div>
 <p class="sc-ability__flavor">You drain all the heat from the target.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -40,6 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/restrained/">restrained</a> this way, the target takes cold damage equal to your <a href="../../../../../rule/character/intuition/">Intuition</a> score at the start of each of your turns. Additionally, whenever the target damages another creature while <a href="../../../../../condition/restrained/">restrained</a> this way, any <a href="../../../../../rule/character/potency/">potency</a> associated with the damage is reduced by 2.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/restrained/">restrained</a> this way, the target takes cold damage equal to your <a href="../../../../../rule/character/intuition/">Intuition</a> score at the start of each of your <a href="../../../../../rule/combat/turn/">turns</a>. Additionally, whenever the target damages another creature while <a href="../../../../../condition/restrained/">restrained</a> this way, any <a href="../../../../../rule/character/potency/">potency</a> associated with the damage is reduced by 2.</p></div>
 </div>
 </article>

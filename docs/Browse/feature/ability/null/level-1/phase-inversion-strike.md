@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 class: "null"
-distance: Melee 1
-effect: Before the push is resolved, you [teleport](../../../../movement/teleport.md) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleport](../../../../movement/teleport.md)ed this way, you can't push them.
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: Before the push is resolved, you [teleport](../../../../movement/teleport.md) the target to a square [adjacent](../../../../rule/combat/adjacent.md) to you and opposite the one they started in. If the target can't be [teleport](../../../../movement/teleport.md)ed this way, you can't push them.
 flavor: You step momentarily out of phase as you pull an enemy through you.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">You step momentarily out of phase as you pull an enemy through you.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -41,6 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Before the push is resolved, you <a href="../../../../../movement/teleport/">teleport</a> the target to a square adjacent to you and opposite the one they started in. If the target can&#39;t be <a href="../../../../../movement/teleport/">teleport</a>ed this way, you can&#39;t push them.</p></div>
+<div class="sc-ability__section-body"><p>Before the push is resolved, you <a href="../../../../../movement/teleport/">teleport</a> the target to a square <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you and opposite the one they started in. If the target can&#39;t be <a href="../../../../../movement/teleport/">teleport</a>ed this way, you can&#39;t push them.</p></div>
 </div>
 </article>

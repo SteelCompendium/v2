@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: 'As a maneuver, you make a ranged [free strike](../../../feature/common/main-actions/free-strike.md) using a black ash dart. The [strike](../../../rule/combat/strike.md) deals an extra 1 damage and adds the following effects to the [tier outcomes](../../../rule/dice/tier-outcome.md) of the [power roll](../../../rule/dice/power-roll.md):'
+effect: 'As a maneuver, you make a [ranged](../../../rule/combat/ranged.md) [free strike](../../../feature/common/main-actions/free-strike.md) using a black ash dart. The [strike](../../../rule/combat/strike.md) deals an extra 1 damage and adds the following effects to the [tier outcomes](../../../rule/dice/tier-outcome.md) of the [power roll](../../../rule/dice/power-roll.md):'
 keywords:
     - Magic
 name: Black Ash Dart
@@ -25,7 +25,7 @@ type: treasure
 
 **Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a shadow)
 
-**Effect:** As a maneuver, you make a ranged [free strike](../../../feature/common/main-actions/free-strike.md) using a black ash dart. The [strike](../../../rule/combat/strike.md) deals an extra 1 damage and adds the following effects to the [tier outcomes](../../../rule/dice/tier-outcome.md) of the [power roll](../../../rule/dice/power-roll.md):
+**Effect:** As a maneuver, you make a [ranged](../../../rule/combat/ranged.md) [free strike](../../../feature/common/main-actions/free-strike.md) using a black ash dart. The [strike](../../../rule/combat/strike.md) deals an extra 1 damage and adds the following effects to the [tier outcomes](../../../rule/dice/tier-outcome.md) of the [power roll](../../../rule/dice/power-roll.md):
 
 - **≤11:** You can [teleport](../../../movement/teleport.md) the target up to 2 squares.
 - **12-16:** You can [teleport](../../../movement/teleport.md) the target up to 4 squares.

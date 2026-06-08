@@ -2,11 +2,11 @@
 action_type: Main action
 class: tactician
 cost: 9 Focus
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target uses a [heroic ability](../../../../rule/general/heroic-ability.md) with the [Strike](../../../../rule/combat/strike.md) keyword as a free [triggered action](../../../../rule/combat/triggered-action.md), and deals extra damage with that ability equal to your [Reason](../../../../rule/character/reason.md) score. The ability has its [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost reduced by 1 + your [Reason](../../../../rule/character/reason.md) score (minimum cost 0).
 flavor: You push an ally to use a [heroic ability](../../../../rule/general/heroic-ability.md) sooner than they otherwise would.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "5"
 name: You've Still Got Something Left
 scc: mcdm.heroes.v1/feature.ability.tactician.level-5/youve-still-got-something-left
@@ -28,9 +28,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Focus</div></div>
 </div>
 <p class="sc-ability__flavor">You push an ally to use a <a href="../../../../../rule/general/heroic-ability/">heroic ability</a> sooner than they otherwise would.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
 <div class="sc-ability__section">

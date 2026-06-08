@@ -22,12 +22,12 @@ You can attempt to climb a creature whose [size](../rule/character/size.md) is g
 - **12-16:** You fail to climb the creature.
 - **17+:** You climb the creature.
 
-While you climb or ride a creature, you gain an [edge](../rule/dice/edge.md) on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following [test](../rule/test/test.md):
+While you climb or ride a creature, you gain an [edge](../rule/dice/edge.md) on [melee](../rule/combat/melee.md) abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following [test](../rule/test/test.md):
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
-- **≤11:** You fall off the creature into an unoccupied adjacent space of your choice, taking falling damage and landing [prone](../condition/prone.md) as usual (see Falling below).
-- **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't l[and prone](../condition/prone.md).
+- **≤11:** You fall off the creature into an unoccupied [adjacent](../rule/combat/adjacent.md) space of your choice, taking falling damage and landing [prone](../condition/prone.md) as usual (see Falling below).
+- **12-16:** You slide down the creature into an unoccupied [adjacent](../rule/combat/adjacent.md) space of your choice and don't l[and prone](../condition/prone.md).
 - **17+:** You continue to hold on to the creature.
 
-If you are [knocked prone](../condition/prone.md) while climbing or riding a creature, you fall and l[and prone](../condition/prone.md) in an adjacent space of your choice, taking damage as usual from the fall.
+If you are [knocked prone](../condition/prone.md) while climbing or riding a creature, you fall and l[and prone](../condition/prone.md) in an [adjacent](../rule/combat/adjacent.md) space of your choice, taking damage as usual from the fall.

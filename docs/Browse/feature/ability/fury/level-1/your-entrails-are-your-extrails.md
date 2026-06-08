@@ -2,11 +2,11 @@
 action_type: Main action
 class: fury
 cost: 3 Ferocity
-distance: Melee 1
-effect: While [bleeding](../../../../condition/bleeding.md) this way, the target takes damage equal to your [Might](../../../../rule/character/might.md) score at the end of each of your turns.
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: While [bleeding](../../../../condition/bleeding.md) this way, the target takes damage equal to your [Might](../../../../rule/character/might.md) score at the end of each of your [turns](../../../../rule/combat/turn.md).
 flavor: Hard for them to fight when they're busy holding in their giblets.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">3</span> Ferocity</div></div>
 </div>
 <p class="sc-ability__flavor">Hard for them to fight when they&#39;re busy holding in their giblets.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -40,6 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/bleeding/">bleeding</a> this way, the target takes damage equal to your <a href="../../../../../rule/character/might/">Might</a> score at the end of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/bleeding/">bleeding</a> this way, the target takes damage equal to your <a href="../../../../../rule/character/might/">Might</a> score at the end of each of your <a href="../../../../../rule/combat/turn/">turns</a>.</p></div>
 </div>
 </article>

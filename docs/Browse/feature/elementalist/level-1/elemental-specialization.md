@@ -32,7 +32,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your <a href="../../../../rule/character/stability/">stability</a> increases by 1 until the start of your next turn. This benefit is cumulative.</p>
+<p>You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your <a href="../../../../rule/character/stability/">stability</a> increases by 1 until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. This benefit is cumulative.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -43,7 +43,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a>. Your <a href="../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability (see below) also gains this bonus when you use it to deal fire damage.</p>
+<p>You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a>. Your <a href="../../../ability/elementalist/level-1/hurl-element/">Hurl Element</a> ability (see below) also gains this <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> when you use it to deal fire damage.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -65,7 +65,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The <a href="../../../../rule/combat/distance/">distance</a> of all your abilities that have the Magic, Ranged, and Void keywords increases by 2 squares.</p>
+<p>You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The <a href="../../../../rule/combat/distance/">distance</a> of all your abilities that have the Magic, <a href="../../../../rule/combat/ranged/">Ranged</a>, and Void keywords increases by 2 squares.</p>
 </div>
 </section>
 </div>

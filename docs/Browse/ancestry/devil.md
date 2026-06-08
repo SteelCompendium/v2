@@ -99,7 +99,7 @@ He waggled his eyebrows. "Style counts for something."
 
 "But wait, that was..." She did some quick mental math. "Fifteen years ago?"
 
-"Well, I was an accountant here in Capital for several years in between." "An accountant!"
+"Well, I was an accountant here in [Capital](../rule/world/capital.md) for several years in between." "An accountant!"
 
 Riyalkin shrugged. "It's what I did before. I'm moderately good at it." "And how does one go from being an alien accountant to a famous [troubadour](../class/troubadour.md)?"
 
@@ -127,7 +127,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Bea
 
 #### Barbed Tail {data-scc="mcdm.heroes.v1/feature.trait.devil/barbed-tail"}
 
-Your pointy tail allows you to punctuate all your actions. Once per round when you make a melee [strike](../rule/combat/strike.md), you can deal extra damage with the [strike](../rule/combat/strike.md) equal to your highest [characteristic](../rule/character/characteristic.md) score.
+Your pointy tail allows you to punctuate all your actions. Once per round when you make a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md), you can deal extra damage with the [strike](../rule/combat/strike.md) equal to your highest [characteristic](../rule/character/characteristic.md) score.
 
 #### Beast Legs {data-scc="mcdm.heroes.v1/feature.trait.devil/beast-legs"}
 

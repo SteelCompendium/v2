@@ -2,12 +2,12 @@
 action_type: Main action
 class: tactician
 cost: 11 Focus
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: Each target uses a [signature ability](../../../../rule/combat/signature-ability.md) against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the [power roll](../../../../rule/dice/power-roll.md). After resolving the targets' abilities, you make a [power roll](../../../../rule/dice/power-roll.md) against each original target.
 flavor: You trick your enemies into attacking each other and leave them confused by the aftermath.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Weapon
 level: "9"
 name: Their Lack of Focus Is Their Undoing
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Focus</div></div>
 </div>
 <p class="sc-ability__flavor">You trick your enemies into attacking each other and leave them confused by the aftermath.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three enemies</div></div>
 </div>
 <div class="sc-ability__section">

@@ -30,8 +30,8 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain ferocity equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your turns during combat, you gain 1d3 ferocity.</p>
-<p>Additionally, the first time each combat round that you take damage, you gain 1 ferocity. The first time you become <a href="../../../../rule/health/winded/">winded</a> or are <a href="../../../../rule/health/dying/">dying</a> in an encounter, you gain 1d3 ferocity.</p>
+<p>At the start of a combat encounter or some other stressful situation tracked in <a href="../../../../rule/combat/combat-round/">combat rounds</a> (as determined by the Director), you gain ferocity equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your <a href="../../../../rule/combat/turn/">turns</a> during combat, you gain 1d3 ferocity.</p>
+<p>Additionally, the first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that you take damage, you gain 1 ferocity. The first time you become <a href="../../../../rule/health/winded/">winded</a> or are <a href="../../../../rule/health/dying/">dying</a> in an encounter, you gain 1d3 ferocity.</p>
 <p>You lose any remaining ferocity at the end of the encounter.</p>
 </div>
 </section>

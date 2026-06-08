@@ -1,7 +1,5 @@
 ---
-disengage_bonus: "+1"
 equipment_text: You wear medium armor and wield a light weapon and a medium weapon.
-melee_damage_bonus: +2/+2/+2
 name: Dual Wielder
 scc: mcdm.heroes.v1/kit/dual-wielder
 type: kit
@@ -19,13 +17,13 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 ## Kit Bonuses
 
-**[Stamina](../rule/health/stamina.md) Bonus:** +6 per [echelon](../rule/general/echelon.md)
+**[Stamina](../rule/health/stamina.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +6 per [echelon](../rule/general/echelon.md)
 
-**[Speed](../rule/character/speed.md) Bonus:** +2
+**[Speed](../rule/character/speed.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +2
 
-**Melee Damage Bonus:** +2/+2/+2
+**[Melee](../rule/combat/melee.md) Damage [Bonus](../rule/dice/bonuses-and-penalties.md):** +2/+2/+2
 
-**Disengage Bonus:** +1
+**Disengage [Bonus](../rule/dice/bonuses-and-penalties.md):** +1
 
 ## Signature Ability
 
@@ -33,9 +31,9 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 *Why strike once when you could do it twice?*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |                 **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
-| **📏 Melee 1**            | **🎯 Two creatures or objects** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 Two creatures or objects** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
@@ -43,4 +41,4 @@ You wear medium armor and wield a light weapon and a medium weapon.
 - **12-16:** 6 damage
 - **17+:** 8 damage
 
-**Effect:** If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same [power roll](../rule/dice/power-roll.md) for both targets.
+**Effect:** If you use this ability on your [turn](../rule/combat/turn.md), you can use it against one target, then use your maneuver and your move action for that [turn](../rule/combat/turn.md) before using the ability against a second target. You still use the same [power roll](../rule/dice/power-roll.md) for both targets.

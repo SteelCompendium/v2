@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain a +1 bonus to <a href="../../../../rule/character/speed/">speed</a> and to the <a href="../../../../rule/combat/distance/">distance</a> you can <a href="../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
+<p>You gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> and to the <a href="../../../../rule/combat/distance/">distance</a> you can <a href="../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
 </div>
 </section>

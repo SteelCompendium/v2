@@ -29,8 +29,8 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain insight equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your turns during combat, you gain 1d3 insight.</p>
-<p>Additionally, the first time each combat round that you deal damage incorporating 1 or more <a href="../../../../rule/resource/surge/">surges</a>, you gain 1 insight.</p>
+<p>At the start of a combat encounter or some other stressful situation tracked in <a href="../../../../rule/combat/combat-round/">combat rounds</a> (as determined by the Director), you gain insight equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your <a href="../../../../rule/combat/turn/">turns</a> during combat, you gain 1d3 insight.</p>
+<p>Additionally, the first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that you deal damage incorporating 1 or more <a href="../../../../rule/resource/surge/">surges</a>, you gain 1 insight.</p>
 <p>Whenever you use a <a href="../../../../rule/general/heroic-ability/">heroic ability</a> that makes use of a <a href="../../../../rule/dice/power-roll/">power roll</a>, that ability costs 1 fewer insight if you have an <a href="../../../../rule/dice/edge/">edge</a> or double <a href="../../../../rule/dice/edge/">edge</a> on it. If the ability has multiple targets, the cost is reduced even if the ability gains an <a href="../../../../rule/dice/edge/">edge</a> or has a double <a href="../../../../rule/dice/edge/">edge</a> against only one target.</p>
 <p>You lose any remaining insight at the end of the encounter.</p>
 </div>

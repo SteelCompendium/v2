@@ -2,12 +2,12 @@
 action_type: Maneuver
 class: conduit
 cost: 11 Piety
-distance: Ranged 10
-effect: The target has an additional main action they can use on their next turn, and gains 3 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md).
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: The target has an additional main action they can use on their next [turn](../../../../rule/combat/turn.md), and gains 3 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md).
 flavor: You speak inspiring words to a friend and spur them to incredible feats.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Alacrity of the Heart
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/alacrity-of-the-heart
@@ -29,13 +29,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Piety</div></div>
 </div>
 <p class="sc-ability__flavor">You speak inspiring words to a friend and spur them to incredible feats.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has an additional main action they can use on their next turn, and gains 3 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
+<div class="sc-ability__section-body"><p>The target has an additional main action they can use on their next <a href="../../../../../rule/combat/turn/">turn</a>, and gains 3 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
 </div>
 </article>

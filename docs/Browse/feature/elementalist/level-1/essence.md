@@ -29,8 +29,8 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain essence equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your turns during combat, you gain 2 essence.</p>
-<p>Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn&#39;t untyped or holy damage, you gain 1 essence.</p>
+<p>At the start of a combat encounter or some other stressful situation tracked in <a href="../../../../rule/combat/combat-round/">combat rounds</a> (as determined by the Director), you gain essence equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your <a href="../../../../rule/combat/turn/">turns</a> during combat, you gain 2 essence.</p>
+<p>Additionally, the first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that you or a creature within 10 squares takes damage that isn&#39;t untyped or holy damage, you gain 1 essence.</p>
 <p>You lose any remaining essence at the end of the encounter.</p>
 </div>
 </section>

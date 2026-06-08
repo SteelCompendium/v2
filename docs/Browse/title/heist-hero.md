@@ -25,9 +25,9 @@ type: title
 >
 > *Coming through with hot soup!<br/>I better watch out for that banana peel!*
 >
-> | **Ranged**       |       **Triggered** |
+> | **[Ranged](../rule/combat/ranged.md)**       |       **Triggered** |
 > |------------------|--------------------:|
-> | **📏 Ranged 10** | **🎯 One creature** |
+> | **📏 [Ranged](../rule/combat/ranged.md) 10** | **🎯 One creature** |
 >
 > **Trigger:** An ally makes a [test](../rule/test/test.md) to lie to, pick the pocket of, hide from, or sneak by the target and doesn't like the outcome.
 >

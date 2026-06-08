@@ -2,12 +2,12 @@
 action_type: Maneuver
 class: conduit
 cost: 5 Piety
-distance: Ranged 10
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 1 [surge](../../../../rule/resource/surge.md) at the end of each of your turns.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 1 [surge](../../../../rule/resource/surge.md) at the end of each of your [turns](../../../../rule/combat/turn.md).
 flavor: The gods grant insight revealing where best to strike your enemies.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Blessing of Insight
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-insight
@@ -29,13 +29,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Piety</div></div>
 </div>
 <p class="sc-ability__flavor">The gods grant insight revealing where best to strike your enemies.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each target gains 1 <a href="../../../../../rule/resource/surge/">surge</a> at the end of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each target gains 1 <a href="../../../../../rule/resource/surge/">surge</a> at the end of each of your <a href="../../../../../rule/combat/turn/">turns</a>.</p></div>
 </div>
 </article>

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your order has trained you to understand fragments of the visions granted to you by your deity, giving you a momentary advantage in challenging situations. At the start of an encounter, you can take one main action before any other creature and before your first turn. Additionally, whenever the Director calls for a <a href="../../../../rule/test/montage-test/">montage test</a>, you can make one free <a href="../../../../rule/test/test/">test</a> before the montage begins, which counts as an earned success or failure as usual.</p>
+<p>Your order has trained you to understand fragments of the visions granted to you by your deity, giving you a momentary advantage in challenging situations. At the start of an encounter, you can take one main action before any other creature and before your first <a href="../../../../rule/combat/turn/">turn</a>. Additionally, whenever the Director calls for a <a href="../../../../rule/test/montage-test/">montage test</a>, you can make one free <a href="../../../../rule/test/test/">test</a> before the montage begins, which counts as an earned success or failure as usual.</p>
 </div>
 </section>

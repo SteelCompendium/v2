@@ -1,12 +1,12 @@
 ---
 action_type: Maneuver
 class: talent
-distance: Ranged 10
-effect: The next [ability roll](../../../../rule/dice/ability-roll.md) an ally makes against the target before the start of your next turn gains an [edge](../../../../rule/dice/edge.md).
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: The next [ability roll](../../../../rule/dice/ability-roll.md) an ally makes against the target before the start of your next [turn](../../../../rule/combat/turn.md) gains an [edge](../../../../rule/dice/edge.md).
 flavor: An ally gains the benefit of your intellect.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Remote Assistance
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/remote-assistance
@@ -29,14 +29,14 @@ type: ability
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">An ally gains the benefit of your intellect.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The next <a href="../../../../../rule/dice/ability-roll/">ability roll</a> an ally makes against the target before the start of your next turn gains an <a href="../../../../../rule/dice/edge/">edge</a>.</p></div>
+<div class="sc-ability__section-body"><p>The next <a href="../../../../../rule/dice/ability-roll/">ability roll</a> an ally makes against the target before the start of your next <a href="../../../../../rule/combat/turn/">turn</a> gains an <a href="../../../../../rule/dice/edge/">edge</a>.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Clarity</span><span class="txt">You target one additional creature or object.</span></div>
 </article>

@@ -21,6 +21,6 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to target it with your <a href="../../../ability/elementalist/level-1/return-to-formlessness/">Return to Formlessness</a> ability instead.</p>
-<p>Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your <a href="../../../../rule/character/reason/">Reason</a> score until the start of their next turn. This increases to twice your <a href="../../../../rule/character/reason/">Reason</a> score if the enemy is made of or is wearing mostly metal.</p>
+<p>Additionally, any enemy who starts their <a href="../../../../rule/combat/turn/">turn</a> <a href="../../../../rule/combat/adjacent/">adjacent</a> to you has fire weakness equal to your <a href="../../../../rule/character/reason/">Reason</a> score until the start of their next <a href="../../../../rule/combat/turn/">turn</a>. This increases to twice your <a href="../../../../rule/character/reason/">Reason</a> score if the enemy is made of or is wearing mostly metal.</p>
 </div>
 </section>

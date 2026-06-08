@@ -2,12 +2,12 @@
 action_type: Main action
 class: shadow
 cost: 11 Insight
-distance: Melee 1 or ranged 10
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10'
 effect: The ground beneath a 3-[cube](../../../../rule/combat/cube.md) area around the target's starting position is [difficult terrain](../../../../movement/difficult-terrain.md).
 flavor: You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "9"
 name: To the Stars
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Insight</div></div>
 </div>
 <p class="sc-ability__flavor">You attach your most potent explosive to your foe. Under less pressing circumstances, you&#39;re sure you could launch them into orbit.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../../rule/combat/ranged/">ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">

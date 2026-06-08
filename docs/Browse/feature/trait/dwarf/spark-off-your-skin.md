@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your stone skin affords you potent protection. You have a +6 bonus to <a href="../../../../rule/health/stamina/">Stamina</a>, and that bonus increases by 6 at 4th, 7th, and 10th levels.</p>
+<p>Your stone skin affords you potent protection. You have a +6 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/health/stamina/">Stamina</a>, and that <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> increases by 6 at 4th, 7th, and 10th levels.</p>
 </div>
 </section>

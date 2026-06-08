@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<table><thead><tr><th>Domain</th><th>Feature</th></tr></thead><tbody><tr><td>Creation</td><td><a href="../improved-hands-of-the-maker/">Improved Hands of the Maker</a></td></tr><tr><td>Death</td><td><a href="../seance/">Seance</a></td></tr><tr><td>Fate</td><td><a href="../oracular-warning/">Oracular Warning</a></td></tr><tr><td>Knowledge</td><td>Saint&#39;s Epiphany</td></tr><tr><td>Life</td><td><a href="../blessing-of-life/">Blessing of Life</a></td></tr><tr><td>Love</td><td><a href="../invocation-of-the-heart/">Invocation of the Heart</a></td></tr><tr><td>Nature</td><td><a href="../wode-road/">Wode Road</a></td></tr><tr><td>Protection</td><td><a href="../impervious-touch/">Impervious Touch</a></td></tr><tr><td>Storm</td><td><a href="../windwalk/">Windwalk</a></td></tr><tr><td>Sun</td><td><a href="../light-of-revelation/">Light of Revelation</a></td></tr><tr><td>Trickery</td><td><a href="../../../ability/censor/level-4/blessing-of-secrets/">Blessing of Secrets</a></td></tr><tr><td>War</td><td><a href="../improved-sanctified-weapon/">Improved Sanctified Weapon</a></td></tr></tbody></table>
+<table><thead><tr><th>Domain</th><th>Feature</th></tr></thead><tbody><tr><td>Creation</td><td><a href="../improved-hands-of-the-maker/">Improved Hands of the Maker</a></td></tr><tr><td>Death</td><td><a href="../seance/">Seance</a></td></tr><tr><td>Fate</td><td><a href="../oracular-warning/">Oracular Warning</a></td></tr><tr><td>Knowledge</td><td><a href="../../../../rule/world/saint/">Saint</a>&#39;s Epiphany</td></tr><tr><td>Life</td><td><a href="../blessing-of-life/">Blessing of Life</a></td></tr><tr><td>Love</td><td><a href="../invocation-of-the-heart/">Invocation of the Heart</a></td></tr><tr><td>Nature</td><td><a href="../wode-road/">Wode Road</a></td></tr><tr><td>Protection</td><td><a href="../impervious-touch/">Impervious Touch</a></td></tr><tr><td>Storm</td><td><a href="../windwalk/">Windwalk</a></td></tr><tr><td>Sun</td><td><a href="../light-of-revelation/">Light of Revelation</a></td></tr><tr><td>Trickery</td><td><a href="../../../ability/censor/level-4/blessing-of-secrets/">Blessing of Secrets</a></td></tr><tr><td>War</td><td><a href="../improved-sanctified-weapon/">Improved Sanctified Weapon</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -107,7 +107,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The weapon improved by your <a href="../../level-1/sanctified-weapon/">Sanctified Weapon</a> feature grants a +3 bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> instead of +1.</p>
+<p>The weapon improved by your <a href="../../level-1/sanctified-weapon/">Sanctified Weapon</a> feature grants a +3 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> instead of +1.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -129,7 +129,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can&#39;t hide. While this feature is active, you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to notice hidden objects and entrances and to detect supernatural illusions.</p>
+<p>As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can&#39;t hide. While this feature is active, you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to notice hidden objects and entrances and to detect <a href="../../../../rule/general/supernatural/">supernatural</a> illusions.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -173,7 +173,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>While you have 5 or more <a href="../../../../rule/resource/victories/">Victories</a>, you can <a href="../../../../movement/fly/">fly</a>. If you can already <a href="../../../../movement/fly/">fly</a>, you have a +2 bonus to <a href="../../../../rule/character/speed/">speed</a> while <a href="../../../../movement/fly/">flying</a> instead.</p>
+<p>While you have 5 or more <a href="../../../../rule/resource/victories/">Victories</a>, you can <a href="../../../../movement/fly/">fly</a>. If you can already <a href="../../../../movement/fly/">fly</a>, you have a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> while <a href="../../../../movement/fly/">flying</a> instead.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

@@ -29,8 +29,8 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain focus equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your turns during combat, you gain 2 focus.</p>
-<p>Additionally, the first time each combat round that you or any ally damages a creature marked by you (see Mark below), you gain 1 focus. The first time in a combat round that any ally within 10 squares of you uses a <a href="../../../../rule/general/heroic-ability/">heroic ability</a>, you gain 1 focus.</p>
+<p>At the start of a combat encounter or some other stressful situation tracked in <a href="../../../../rule/combat/combat-round/">combat rounds</a> (as determined by the Director), you gain focus equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your <a href="../../../../rule/combat/turn/">turns</a> during combat, you gain 2 focus.</p>
+<p>Additionally, the first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that you or any ally damages a creature marked by you (see Mark below), you gain 1 focus. The first time in a <a href="../../../../rule/combat/combat-round/">combat round</a> that any ally within 10 squares of you uses a <a href="../../../../rule/general/heroic-ability/">heroic ability</a>, you gain 1 focus.</p>
 <p>You lose any remaining focus at the end of the encounter.</p>
 </div>
 </section>

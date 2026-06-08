@@ -18,13 +18,13 @@ The 1st [echelon](echelon.md) of play details the stories of characters of 1st t
 
 ## 2nd Echelon (4th to 6th Level)
 
-The 2nd [echelon](echelon.md) of play covers 4th to 6th level. At this [echelon](echelon.md), the heroes are now known throughout the wider region they serve. In [Vasloria](../world/vasloria.md), this means the characters might save and be celebrated by an entire country. In Capital, their reputation and work could encompass several different neighborhoods of the enormous city. Heroes of the timescape might be known for saving a planet!
+The 2nd [echelon](echelon.md) of play covers 4th to 6th level. At this [echelon](echelon.md), the heroes are now known throughout the wider region they serve. In [Vasloria](../world/vasloria.md), this means the characters might save and be celebrated by an entire country. In [Capital](../world/capital.md), their reputation and work could encompass several different neighborhoods of the enormous city. Heroes of the timescape might be known for saving a planet!
 
-Heroes in this [echelon](echelon.md) battle humanoids of great supernatural power, such as draconians, [devils](../../ancestry/devil.md), and hobgoblins. They face bosses possessed of cunning and ambition as great as their terrible influence, such as medusas and overminds. Heroes at this level also face the humanoid threats of earlier levels, but those foes are villainous counterparts of equal power rather than bands of ruffians or marauding armies.
+Heroes in this [echelon](echelon.md) battle humanoids of great [supernatural](supernatural.md) power, such as draconians, [devils](../../ancestry/devil.md), and hobgoblins. They face bosses possessed of cunning and ambition as great as their terrible influence, such as medusas and overminds. Heroes at this level also face the humanoid threats of earlier levels, but those foes are villainous counterparts of equal power rather than bands of ruffians or marauding armies.
 
 ## 3rd Echelon (7th to 9th Level)
 
-The 3rd [echelon](echelon.md) of play covers 7th to 9th level. At this [echelon](echelon.md), the heroes are saving and are known throughout the setting where they serve. Most folks in [Vasloria](../world/vasloria.md), Capital, or across the larger timescape know of the heroes and are grateful for their efforts saving the continent, the entire city, or multiple worlds, respectively. Foes at this [echelon](echelon.md) include beings of great power such as giants, vampires, and valok.
+The 3rd [echelon](echelon.md) of play covers 7th to 9th level. At this [echelon](echelon.md), the heroes are saving and are known throughout the setting where they serve. Most folks in [Vasloria](../world/vasloria.md), [Capital](../world/capital.md), or across the larger timescape know of the heroes and are grateful for their efforts saving the continent, the entire city, or multiple worlds, respectively. Foes at this [echelon](echelon.md) include beings of great power such as giants, vampires, and valok.
 
 ## 4th Echelon (10th Level)
 

@@ -29,8 +29,8 @@ type: treasure
 
 Enterprising mages within various thieves' guilds have developed variations of the Portable Cloud. Each variation has a secondary [item prerequisite](../../../rule/downtime/item-prerequisite.md) and a project goal of 45.
 
-**Noxious Cloud:** Filled with a green or putrid yellow haze, this sphere spreads a choking, foul-smelling mist when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 poison damage. Additionally, any creature is [weakened](../../../condition/weakened.md) while in the fog.
+**Noxious Cloud:** Filled with a green or putrid yellow haze, this sphere spreads a choking, foul-smelling mist when broken. Each creature who enters the cloud for the first time in a [combat round](../../../rule/combat/combat-round.md) or starts their turn there takes 5 poison damage. Additionally, any creature is [weakened](../../../condition/weakened.md) while in the fog.
 
-**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** An ounce of undead flesh. **Thunderhead Cloud:** Small lightning bolts arc around the black cloud in this sphere, which creates a 3 [cube](../../../rule/combat/cube.md) of cloud and lightning when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 lightning damage. Additionally, any creature is [slowed](../../../condition/slowed.md) while in the cloud.
+**[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** An ounce of undead flesh. **Thunderhead Cloud:** Small lightning bolts arc around the black cloud in this sphere, which creates a 3 [cube](../../../rule/combat/cube.md) of cloud and lightning when broken. Each creature who enters the cloud for the first time in a [combat round](../../../rule/combat/combat-round.md) or starts their turn there takes 5 lightning damage. Additionally, any creature is [slowed](../../../condition/slowed.md) while in the cloud.
 
 **[Item Prerequisite](../../../rule/downtime/item-prerequisite.md):** A spool of copper wire.

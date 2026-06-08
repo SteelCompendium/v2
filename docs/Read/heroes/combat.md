@@ -54,7 +54,7 @@ Every combat encounter is a conflict between two sides. The heroes and any of th
 
 ### Combat Round {data-scc="mcdm.heroes.v1/rule.combat/combat-round"}
 
-Combat takes place over a series of combat rounds. During a combat round, each creature in the battle takes a turn. Once every creature has taken a turn, a new round begins.
+Combat takes place over a series of combat rounds. During a combat round, each creature in the battle takes a [turn](../../Browse/rule/combat/turn.md). Once every creature has taken a [turn](../../Browse/rule/combat/turn.md), a new round begins.
 
 #### When Does Combat Start?
 
@@ -62,21 +62,21 @@ Combat starts as soon as one creature intends to harm another, or when some envi
 
 #### Determine Surprise {data-scc="mcdm.heroes.v1/rule.combat/surprised"}
 
-When battle starts, the Director determines which creatures, if any, are caught off guard. Any creature who isn't ready for combat at the start of an encounter is surprised until the end of the first combat round. A surprised creature can't take [triggered actions](../../Browse/rule/combat/triggered-action.md) or free [triggered actions](../../Browse/rule/combat/triggered-action.md), and [ability rolls](../../Browse/rule/dice/ability-roll.md) made against them gain an [edge](../../Browse/rule/dice/edge.md).
+When battle starts, the Director determines which creatures, if any, are caught off guard. Any creature who isn't ready for combat at the start of an encounter is surprised until the end of the first [combat round](../../Browse/rule/combat/combat-round.md). A surprised creature can't take [triggered actions](../../Browse/rule/combat/triggered-action.md) or free [triggered actions](../../Browse/rule/combat/triggered-action.md), and [ability rolls](../../Browse/rule/dice/ability-roll.md) made against them gain an [edge](../../Browse/rule/dice/edge.md).
 
 For example, if the heroes sneak up unnoticed on a camp of marauders and attack, each marauder is surprised. Likewise, if the heroes fail to notice that all the cloaked figures in a tavern are actually brain-devouring zombies, then the heroes are surprised. If one of the heroes notices the disguised undead before the zombies attack but has no opportunity to warn their allies, that hero isn't surprised but the rest of the characters are.
 
 #### Determine Who Goes First
 
-Sometimes figuring out who gets to take the first turn in combat is automatic. If all the creatures on one side are [surprised](../../Browse/rule/combat/surprised.md), then a creature on the other side gets to act first. But if both sides have creatures who aren't [surprised](../../Browse/rule/combat/surprised.md), the Director or a player they choose rolls a d10. On a 6 or higher, the players determine who goes first—the heroes' side or the other side. Otherwise, the Director decides which side goes first.
+Sometimes figuring out who gets to take the first [turn](../../Browse/rule/combat/turn.md) in combat is automatic. If all the creatures on one side are [surprised](../../Browse/rule/combat/surprised.md), then a creature on the other side gets to act first. But if both sides have creatures who aren't [surprised](../../Browse/rule/combat/surprised.md), the Director or a player they choose rolls a d10. On a 6 or higher, the players determine who goes first—the heroes' side or the other side. Otherwise, the Director decides which side goes first.
 
 #### Creatures Take Turns
 
-Whichever side goes first chooses a creature (or sometimes a group of creatures on the Director's side) to act at the start of combat. Whenever the rules talk about a creature acting in combat, that creature gets to take their turn. When that turn is over, the other side chooses a creature to act. Play continues back and forth this way as each creature takes their turn.
+Whichever side goes first chooses a creature (or sometimes a group of creatures on the Director's side) to act at the start of combat. Whenever the rules talk about a creature acting in combat, that creature gets to take their [turn](../../Browse/rule/combat/turn.md). When that [turn](../../Browse/rule/combat/turn.md) is over, the other side chooses a creature to act. Play continues back and forth this way as each creature takes their [turn](../../Browse/rule/combat/turn.md).
 
-Unless an ability or special rule allows them to do so, any creature who has taken a turn during a combat round can't act again until a new round begins. To help track which creatures have already acted in the current round, each creature can have a coin, token, or card they flip over on the table, or some kind of flag they set on their virtual tabletop token, once they've taken a turn. That way, all the players know who has already acted and who hasn't.
+Unless an ability or special rule allows them to do so, any creature who has taken a [turn](../../Browse/rule/combat/turn.md) during a [combat round](../../Browse/rule/combat/combat-round.md) can't act again until a new round begins. To help track which creatures have already acted in the current round, each creature can have a coin, token, or card they flip over on the table, or some kind of flag they set on their virtual tabletop token, once they've taken a [turn](../../Browse/rule/combat/turn.md). That way, all the players know who has already acted and who hasn't.
 
-In many encounters, a point comes when one side has creatures who haven't acted yet but all the creatures on the other side have. The creatures who have yet to act get to take their turns in any order they choose, without turns in between from the other side. For example, consider four heroes taking on six enemies. When all four heroes have taken their turns and four of the enemies have taken theirs, the two enemies who are left take their turns one after the other to end the round.
+In many encounters, a point comes when one side has creatures who haven't acted yet but all the creatures on the other side have. The creatures who have yet to act get to take their [turns](../../Browse/rule/combat/turn.md) in any order they choose, without [turns](../../Browse/rule/combat/turn.md) in between from the other side. For example, consider four heroes taking on six enemies. When all four heroes have taken their [turns](../../Browse/rule/combat/turn.md) and four of the enemies have taken theirs, the two enemies who are left take their turns one after the other to end the round.
 
 ##### Determining Who Acts Next
 
@@ -88,19 +88,19 @@ In general, though, most groups find that it's usually only one or two players i
 
 If the players do end up arguing in circles about what to do next, the Director can place a timer on the discussion. Usually, giving the players a warning and 30 seconds to decide who goes next does the trick. If they can't choose by the end of that time, the Director chooses a hero to act.
 
-> **Alternative Turn Order**
+> **Alternative [Turn](../../Browse/rule/combat/turn.md) Order**
 >
-> If planning everyone's turn order isn't fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md), then record the totals. When it's time for someone on the heroes' side to act, the hero with the highest total goes first. On the next hero turn, the hero with the second-highest total takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md) to determine who among the tied creatures acts before the others.
+> If planning everyone's [turn](../../Browse/rule/combat/turn.md) order isn't fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md), then record the totals. When it's time for someone on the heroes' side to act, the hero with the highest total goes first. On the next hero [turn](../../Browse/rule/combat/turn.md), the hero with the second-highest total takes their [turn](../../Browse/rule/combat/turn.md), and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md) to determine who among the tied creatures acts before the others.
 >
-> At the Director's discretion, a hero can swap their turn in the order with another willing hero at the start of a new combat round. This allows certain abilities that interact with the core turn order system, such as the [shadow's](../../Browse/class/shadow.md) [Hesitation Is Weakness](../../Browse/feature/ability/shadow/level-1/hesitation-is-weakness.md) ability, to better work with this alternative system.
+> At the Director's discretion, a hero can swap their [turn](../../Browse/rule/combat/turn.md) in the order with another willing hero at the start of a new [combat round](../../Browse/rule/combat/combat-round.md). This allows certain abilities that interact with the core [turn](../../Browse/rule/combat/turn.md) order system, such as the [shadow's](../../Browse/class/shadow.md) [Hesitation Is Weakness](../../Browse/feature/ability/shadow/level-1/hesitation-is-weakness.md) ability, to better work with this alternative system.
 
 ##### Enemies Act In Groups
 
-Director-controlled creatures act in groups, with information for building groups found in *Draw Steel: Monsters*. When a group of enemies acts, the Director chooses a single creature or minion squad to take a turn. Once that turn is over, the Director chooses another creature in that group to take a turn, continuing until all members of the group have taken their turn.
+Director-controlled creatures act in groups, with information for building groups found in *Draw Steel: Monsters*. When a group of enemies acts, the Director chooses a single creature or minion squad to take a [turn](../../Browse/rule/combat/turn.md). Once that [turn](../../Browse/rule/combat/turn.md) is over, the Director chooses another creature in that group to take a [turn](../../Browse/rule/combat/turn.md), continuing until all members of the group have taken their [turn](../../Browse/rule/combat/turn.md).
 
 #### End of Round
 
-Once all creatures on both sides of a battle have acted, the combat round ends and a new combat round begins. The side whose members acted first during the initial combat round goes first in all subsequent rounds.
+Once all creatures on both sides of a battle have acted, the [combat round](../../Browse/rule/combat/combat-round.md) ends and a new [combat round](../../Browse/rule/combat/combat-round.md) begins. The side whose members acted first during the initial [combat round](../../Browse/rule/combat/combat-round.md) goes first in all subsequent rounds.
 
 ### Taking a Turn {data-scc="mcdm.heroes.v1/rule.combat/turn"}
 
@@ -110,9 +110,9 @@ The Movement section below breaks down how your move action works, while the Man
 
 #### Triggered Actions and Free Triggered Actions {data-scc="mcdm.heroes.v1/rule.combat/triggered-action"}
 
-Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a [fury](../../Browse/class/fury.md) hero can use the [Lines of Force](../../Browse/feature/ability/fury/level-1/lines-of-force.md) triggered action to [force move](../../Browse/movement/forced-movement.md) a target, but only after an enemy has first tried to [force move](../../Browse/movement/forced-movement.md) the [fury](../../Browse/class/fury.md) or another nearby creature.
+Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your [turn](../../Browse/rule/combat/turn.md) or another creature's [turn](../../Browse/rule/combat/turn.md), but only when the action's trigger occurs. For instance, a [fury](../../Browse/class/fury.md) hero can use the [Lines of Force](../../Browse/feature/ability/fury/level-1/lines-of-force.md) triggered action to [force move](../../Browse/movement/forced-movement.md) a target, but only after an enemy has first tried to [force move](../../Browse/movement/forced-movement.md) the [fury](../../Browse/class/fury.md) or another nearby creature.
 
-A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a [shadow](../../Browse/class/shadow.md) hero can use their [Hesitation Is Weakness](../../Browse/feature/ability/shadow/level-1/hesitation-is-weakness.md) ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the [shadow](../../Browse/class/shadow.md) can still use their In All This Confusion triggered action later in the round.
+A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a [shadow](../../Browse/class/shadow.md) hero can use their [Hesitation Is Weakness](../../Browse/feature/ability/shadow/level-1/hesitation-is-weakness.md) ability to take their [turn](../../Browse/rule/combat/turn.md) in response to the trigger of another hero ending their [turn](../../Browse/rule/combat/turn.md). But because that ability is a free triggered action, the [shadow](../../Browse/class/shadow.md) can still use their In All This Confusion triggered action later in the round.
 
 If multiple triggered actions occur in response to the same trigger, any heroes and other player-controlled creatures taking a triggered action or a free triggered action decide among themselves which of those triggered actions are resolved first. Then the Director decides the same for creatures they control.
 
@@ -120,7 +120,7 @@ Any effect that prevents you from using triggered actions also prevents you from
 
 #### Free Maneuvers {data-scc="mcdm.heroes.v1/rule.combat/free-maneuver"}
 
-Boring stuff like opening an unlocked door, picking up an arrow from the ground, giving an object to an adjacent ally, or drawing a weapon doesn't require a maneuver or a main action. Rather, you can undertake such straightforward activities as free maneuvers on your turn. A free maneuver follows the same rules as a regular maneuver, but you can typically take as many free maneuvers as you like.
+Boring stuff like opening an unlocked door, picking up an arrow from the ground, giving an object to an [adjacent](../../Browse/rule/combat/adjacent.md) ally, or drawing a weapon doesn't require a maneuver or a main action. Rather, you can undertake such straightforward activities as free maneuvers on your [turn](../../Browse/rule/combat/turn.md). A free maneuver follows the same rules as a regular maneuver, but you can typically take as many free maneuvers as you like.
 
 At the Director's discretion, circumstances could make something that is typically boring more impactful and exciting. For instance, if you need to pick a magic arrow up off the ground during a violent earthquake, what would otherwise be a free maneuver could require a maneuver or a main action to accomplish.
 
@@ -130,9 +130,9 @@ Any effect that prevents you from using maneuvers also prevents you from using f
 
 #### No-Action Activities
 
-[Free maneuvers](../../Browse/rule/combat/free-maneuver.md) cover most of the simple activities you might want to undertake on your turn. When it isn't your turn, you can typically undertake even simpler activities requiring no action with the Director's approval. For instance, shouting out a warning to an ally or dropping an item so another creature can pick it up require no action.
+[Free maneuvers](../../Browse/rule/combat/free-maneuver.md) cover most of the simple activities you might want to undertake on your [turn](../../Browse/rule/combat/turn.md). When it isn't your [turn](../../Browse/rule/combat/turn.md), you can typically undertake even simpler activities requiring no action with the Director's approval. For instance, shouting out a warning to an ally or dropping an item so another creature can pick it up require no action.
 
-The Director can limit what kinds of no-action activities you can attempt when it isn't your turn. For instance, shouting out a warning about an unseen foe to an ally on the ally's or the foe's turn requires no action. But the Director might stop you from giving that ally complex tactical advice when it isn't your turn, saying that doing so instead requires a [free maneuver](../../Browse/rule/combat/free-maneuver.md) on your turn.
+The Director can limit what kinds of no-action activities you can attempt when it isn't your [turn](../../Browse/rule/combat/turn.md). For instance, shouting out a warning about an unseen foe to an ally on the ally's or the foe's [turn](../../Browse/rule/combat/turn.md) requires no action. But the Director might stop you from giving that ally complex tactical advice when it isn't your [turn](../../Browse/rule/combat/turn.md), saying that doing so instead requires a [free maneuver](../../Browse/rule/combat/free-maneuver.md) on your [turn](../../Browse/rule/combat/turn.md).
 
 ### Movement
 
@@ -140,7 +140,7 @@ During combat, creatures can employ multiple mechanics that allow them to move a
 
 Your hero starts with a [speed](../../Browse/rule/character/speed.md) granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the [Advance](../../Browse/feature/common/move-actions/advance.md) move action or when another effect allows you to move. Your [speed](../../Browse/rule/character/speed.md) can be increased by your kit and other game options.
 
-All squares adjacent to your character cost 1 movement to move into. No, there's no Pythagorean theorem on the grid. It's a game, don't overthink it.
+All squares [adjacent](../../Browse/rule/combat/adjacent.md) to your character cost 1 movement to move into. No, there's no Pythagorean theorem on the grid. It's a game, don't overthink it.
 
 Your hero can move freely through an ally's space. You can move through an enemy's space, but that space is [difficult terrain](../../Browse/movement/difficult-terrain.md) (see below). You can't stop moving in any other creature's space, including to make a [strike](../../Browse/rule/combat/strike.md) or use a main action or maneuver while in that space and then continuing your move, unless that creature's [size](../../Browse/rule/character/size.md) is two or more [sizes](../../Browse/rule/character/size.md) greater or smaller than your own.
 
@@ -148,7 +148,7 @@ At the Director's discretion, you can be forced into the same space as another c
 
 #### Can't Exceed Speed
 
-A single move or other effect can never allow a creature to move more squares than their [speed](../../Browse/rule/character/speed.md), unless the effect states otherwise. For example, a creature with [speed](../../Browse/rule/character/speed.md) 5 might have that [speed](../../Browse/rule/character/speed.md) reduced to 2 by the [slowed](../../Browse/condition/slowed.md) condition (see Conditions in Chapter 5: [Classes](classes.md)). If an ally then targets them with an effect that allows them to move up to 3 squares, the creature can move only 2 squares because that's their current [speed](../../Browse/rule/character/speed.md).
+A single move or other effect can never allow a creature to move more squares than their [speed](../../Browse/rule/character/speed.md), unless the effect states otherwise. For example, a creature with [speed](../../Browse/rule/character/speed.md) 5 might have that [speed](../../Browse/rule/character/speed.md) reduced to 2 by the [slowed](../../Browse/condition/slowed.md) [condition](../../Browse/rule/combat/condition.md) (see [Conditions](../../Browse/rule/combat/condition.md) in Chapter 5: [Classes](classes.md)). If an ally then targets them with an effect that allows them to move up to 3 squares, the creature can move only 2 squares because that's their current [speed](../../Browse/rule/character/speed.md).
 
 #### Can't Cut Corners
 
@@ -184,13 +184,13 @@ If you are on the ground, you have [line of effect](../../Browse/rule/combat/lin
 
 If you are completely beneath the ground while [burrowing](../../Browse/movement/burrow.md), you don't have [line of effect](../../Browse/rule/combat/line-of-effect.md) to any creature on the surface unless a rule states otherwise.
 
-If you are completely beneath the ground while [burrowing](../../Browse/movement/burrow.md) and are adjacent to another creature who is [burrowing](../../Browse/movement/burrow.md), you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to that creature, though you both have [cover](../../Browse/rule/combat/cover.md) from each other.
+If you are completely beneath the ground while [burrowing](../../Browse/movement/burrow.md) and are [adjacent](../../Browse/rule/combat/adjacent.md) to another creature who is [burrowing](../../Browse/movement/burrow.md), you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to that creature, though you both have [cover](../../Browse/rule/combat/cover.md) from each other.
 
 You can't gain the benefit of [high ground](../../Browse/movement/high-ground.md) (see below) against creatures who are completely beneath the ground while [burrowing](../../Browse/movement/burrow.md).
 
 ###### Non-Burrowing Creatures
 
-If you are on the ground and adjacent to a creature who is beneath the ground while [burrowing](../../Browse/movement/burrow.md), you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
+If you are on the ground and [adjacent](../../Browse/rule/combat/adjacent.md) to a creature who is beneath the ground while [burrowing](../../Browse/movement/burrow.md), you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
 
 If a creature who can't [burrow](../../Browse/movement/burrow.md) wants to dig into the ground, they can use the following ability provided their [speed](../../Browse/rule/character/speed.md) is 2 or more.
 
@@ -226,15 +226,15 @@ You can attempt to climb a creature whose [size](../../Browse/rule/character/siz
 - **12-16:** You fail to climb the creature.
 - **17+:** You climb the creature.
 
-While you climb or ride a creature, you gain an [edge](../../Browse/rule/dice/edge.md) on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following [test](../../Browse/rule/test/test.md):
+While you climb or ride a creature, you gain an [edge](../../Browse/rule/dice/edge.md) on [melee](../../Browse/rule/combat/melee.md) abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following [test](../../Browse/rule/test/test.md):
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
-- **≤11:** You fall off the creature into an unoccupied adjacent space of your choice, taking falling damage and landing [prone](../../Browse/condition/prone.md) as usual (see Falling below).
-- **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't l[and prone](../../Browse/condition/prone.md).
+- **≤11:** You fall off the creature into an unoccupied [adjacent](../../Browse/rule/combat/adjacent.md) space of your choice, taking falling damage and landing [prone](../../Browse/condition/prone.md) as usual (see Falling below).
+- **12-16:** You slide down the creature into an unoccupied [adjacent](../../Browse/rule/combat/adjacent.md) space of your choice and don't l[and prone](../../Browse/condition/prone.md).
 - **17+:** You continue to hold on to the creature.
 
-If you are [knocked prone](../../Browse/condition/prone.md) while climbing or riding a creature, you fall and l[and prone](../../Browse/condition/prone.md) in an adjacent space of your choice, taking damage as usual from the fall.
+If you are [knocked prone](../../Browse/condition/prone.md) while climbing or riding a creature, you fall and l[and prone](../../Browse/condition/prone.md) in an [adjacent](../../Browse/rule/combat/adjacent.md) space of your choice, taking damage as usual from the fall.
 
 ##### Jump {data-scc="mcdm.heroes.v1/movement/jump"}
 
@@ -252,7 +252,7 @@ You can't jump farther or higher than the [distance](../../Browse/rule/combat/di
 
 ##### Crawl {data-scc="mcdm.heroes.v1/movement/crawl"}
 
-If you [are prone](../../Browse/condition/prone.md) (see Conditions in Chapter 5: [Classes](classes.md)), you can remain prone and [crawl](../../Browse/movement/crawl.md) on the ground. Doing so costs you 1 additional square of movement for every square you [crawl](../../Browse/movement/crawl.md). If you intentionally want to [crawl](../../Browse/movement/crawl.md), you can [fall prone](../../Browse/condition/prone.md) as a [free maneuver](../../Browse/rule/combat/free-maneuver.md). While voluntarily prone, you can choose to stand as a [free maneuver](../../Browse/rule/combat/free-maneuver.md).
+If you [are prone](../../Browse/condition/prone.md) (see [Conditions](../../Browse/rule/combat/condition.md) in Chapter 5: [Classes](classes.md)), you can remain prone and [crawl](../../Browse/movement/crawl.md) on the ground. Doing so costs you 1 additional square of movement for every square you [crawl](../../Browse/movement/crawl.md). If you intentionally want to [crawl](../../Browse/movement/crawl.md), you can [fall prone](../../Browse/condition/prone.md) as a [free maneuver](../../Browse/rule/combat/free-maneuver.md). While voluntarily prone, you can choose to stand as a [free maneuver](../../Browse/rule/combat/free-maneuver.md).
 
 ##### Fly {data-scc="mcdm.heroes.v1/movement/fly"}
 
@@ -271,9 +271,9 @@ When a creature [teleports](../../Browse/movement/teleport.md), they move from o
 - A creature [teleporting](../../Browse/movement/teleport.md) themself must have [line of effect](../../Browse/rule/combat/line-of-effect.md) to their destination space. A creature [teleporting](../../Browse/movement/teleport.md) another creature must have [line of effect](../../Browse/rule/combat/line-of-effect.md) from the space the [teleport](../../Browse/movement/teleport.md)ed creature leaves and to their destination space.
 - A [teleporting](../../Browse/movement/teleport.md) creature's destination space can't be occupied by another creature or object.
 - The effect that lets a creature [teleport](../../Browse/movement/teleport.md) indicates how far they can [teleport](../../Browse/movement/teleport.md). That [distance](../../Browse/rule/combat/distance.md) can be greater than the creature's [speed](../../Browse/rule/character/speed.md).
-- If a creature can [teleport](../../Browse/movement/teleport.md) as part of their usual movement, they can use the [Advance](../../Browse/feature/common/move-actions/advance.md) move action to [teleport](../../Browse/movement/teleport.md) a number of squares up to their usual [speed](../../Browse/rule/character/speed.md), unmodified by conditions or effects.
+- If a creature can [teleport](../../Browse/movement/teleport.md) as part of their usual movement, they can use the [Advance](../../Browse/feature/common/move-actions/advance.md) move action to [teleport](../../Browse/movement/teleport.md) a number of squares up to their usual [speed](../../Browse/rule/character/speed.md), unmodified by [conditions](../../Browse/rule/combat/condition.md) or effects.
 - If a creature [teleports](../../Browse/movement/teleport.md) [while prone](../../Browse/condition/prone.md), they can be standing when they reach their destination space provided they are able to stand. If a prone creature is [teleport](../../Browse/movement/teleport.md)ed by another creature, it is up to that creature whether the [teleport](../../Browse/movement/teleport.md)ed creature remains prone or stands if they are able.
-- If you [teleport](../../Browse/movement/teleport.md) while affected by the [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md) conditions, those conditions end for you.
+- If you [teleport](../../Browse/movement/teleport.md) while affected by the [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md) [conditions](../../Browse/rule/combat/condition.md), those [conditions](../../Browse/rule/combat/condition.md) end for you.
 - When a creature [teleports](../../Browse/movement/teleport.md), they must leave the space where they start and enter a new space. A creature can't [teleport](../../Browse/movement/teleport.md) to and from the same space.
 
 #### Falling {data-scc="mcdm.heroes.v1/rule.health/falling"}
@@ -330,7 +330,7 @@ Though you can't freely push, pull, or slide a target up and down unless that [f
 
 ##### Big Versus Little
 
-When a larger creature force moves a smaller target with a melee weapon ability, the [distance](../../Browse/rule/combat/distance.md) of the [forced movement](../../Browse/movement/forced-movement.md) is increased by 1. If a smaller creature force moves a larger target with a melee weapon ability, the [distance](../../Browse/rule/combat/distance.md) doesn't change.
+When a larger creature force moves a smaller target with a [melee](../../Browse/rule/combat/melee.md) weapon ability, the [distance](../../Browse/rule/combat/distance.md) of the [forced movement](../../Browse/movement/forced-movement.md) is increased by 1. If a smaller creature force moves a larger target with a [melee](../../Browse/rule/combat/melee.md) weapon ability, the [distance](../../Browse/rule/combat/distance.md) doesn't change.
 
 ##### Slamming into Creatures
 
@@ -377,7 +377,7 @@ If you can't [fly](../../Browse/movement/fly.md) and are force moved across an o
 
 Each creature has a stability that allows them to resist [forced movement](../../Browse/movement/forced-movement.md). When a creature is force moved, they can reduce that movement up to a number of squares equal to their stability. Heroes start with stability 0 and can increase their stability through ancestry, class, and kit options.
 
-A creature's stability can't be less than 0, even when reduced by a penalty.
+A creature's stability can't be less than 0, even when reduced by a [penalty](../../Browse/rule/dice/bonuses-and-penalties.md).
 
 ##### "When a Creature Moves..."
 
@@ -389,7 +389,7 @@ Some creatures have traits or abilities that trigger when they die or are reduce
 
 ### Move Actions
 
-A move action allows a creature to move around the battlefield. Sometimes you'll already be exactly where you want to be so that you don't need to use a move action on your turn. That's okay! The decision to not move is just as tactical as the decision to move.
+A move action allows a creature to move around the battlefield. Sometimes you'll already be exactly where you want to be so that you don't need to use a move action on your [turn](../../Browse/rule/combat/turn.md). That's okay! The decision to not move is just as tactical as the decision to move.
 
 #### Advance {data-scc="mcdm.heroes.v1/feature.common.move-actions/advance"}
 
@@ -407,11 +407,11 @@ A creature can take the [Ride](../../Browse/feature/common/move-actions/ride.md)
 
 A maneuver typically involves less focus and exertion than a main action (see below). It can be an opportunity to move other creatures, drink a potion, or undertake similar activities.
 
-Sometimes you might not have anything you can do with your maneuver. That's totally fine! Often, the best thing to do on your turn is take a main action and move on.
+Sometimes you might not have anything you can do with your maneuver. That's totally fine! Often, the best thing to do on your [turn](../../Browse/rule/combat/turn.md) is take a main action and move on.
 
 #### Aid Attack {data-scc="mcdm.heroes.v1/feature.common.maneuvers/aid-attack"}
 
-A creature who uses the [Aid Attack](../../Browse/feature/common/maneuvers/aid-attack.md) maneuver chooses an enemy adjacent to them. The next [ability roll](../../Browse/rule/dice/ability-roll.md) an ally makes against that enemy before the start of the aiding creature's next turn gains an [edge](../../Browse/rule/dice/edge.md).
+A creature who uses the [Aid Attack](../../Browse/feature/common/maneuvers/aid-attack.md) maneuver chooses an enemy [adjacent](../../Browse/rule/combat/adjacent.md) to them. The next [ability roll](../../Browse/rule/dice/ability-roll.md) an ally makes against that enemy before the start of the aiding creature's next [turn](../../Browse/rule/combat/turn.md) gains an [edge](../../Browse/rule/dice/edge.md).
 
 #### Catch Breath {data-scc="mcdm.heroes.v1/feature.common.maneuvers/catch-breath"}
 
@@ -433,12 +433,12 @@ A creature who is [grabbed](../../Browse/condition/grabbed.md) by another creatu
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** No effect.
-- **12-16:** You can escape the grab, but if you do, a creature who has you [grabbed](../../Browse/condition/grabbed.md) can make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against you before you are no longer [grabbed](../../Browse/condition/grabbed.md).
+- **12-16:** You can escape the grab, but if you do, a creature who has you [grabbed](../../Browse/condition/grabbed.md) can make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) against you before you are no longer [grabbed](../../Browse/condition/grabbed.md).
 - **17+:** You are no longer [grabbed](../../Browse/condition/grabbed.md).
 
 **Effect:** You take a [bane](../../Browse/rule/dice/bane.md) on this maneuver if your [size](../../Browse/rule/character/size.md) is smaller than the size of the creature, object, or effect that has you [grabbed](../../Browse/condition/grabbed.md).
 
-See Conditions in Chapter 5: [Classes](classes.md) for information on the [grabbed](../../Browse/condition/grabbed.md) condition.
+See [Conditions](../../Browse/rule/combat/condition.md) in Chapter 5: [Classes](classes.md) for information on the [grabbed](../../Browse/condition/grabbed.md) [condition](../../Browse/rule/combat/condition.md).
 
 #### Grab {data-scc="mcdm.heroes.v1/feature.common.maneuvers/grab"}
 
@@ -447,21 +447,21 @@ A creature seeking to keep a foe close and locked down can attempt to grab a cre
 ##### Grab {data-scc="mcdm.heroes.v1/feature.ability.common.maneuvers/grab"}
 
 
-| **Melee, Weapon** |        **Maneuver** |
+| **[Melee](../../Browse/rule/combat/melee.md), Weapon** |        **Maneuver** |
 |-------------------|--------------------:|
-| **📏 Melee 1**    | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**    | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
 - **≤11:** No effect.
-- **12-16:** You can grab the target, but if you do, the target can make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against you before they are [grabbed](../../Browse/condition/grabbed.md).
+- **12-16:** You can grab the target, but if you do, the target can make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) against you before they are [grabbed](../../Browse/condition/grabbed.md).
 - **17+:** The target is [grabbed](../../Browse/condition/grabbed.md) by you.
 
 **Effect:** You can usually target only creatures of your [size](../../Browse/rule/character/size.md) or smaller. If your [Might](../../Browse/rule/character/might.md) score is 2 or higher, you can target any creature with a [size](../../Browse/rule/character/size.md) equal to or less than your [Might](../../Browse/rule/character/might.md) score.
 
 Unless otherwise indicated, a creature can grab only one creature at a time.
 
-See Conditions in Chapter 5: [Classes](classes.md) for information on the [grabbed](../../Browse/condition/grabbed.md) condition.
+See [Conditions](../../Browse/rule/combat/condition.md) in Chapter 5: [Classes](classes.md) for information on the [grabbed](../../Browse/condition/grabbed.md) [condition](../../Browse/rule/combat/condition.md).
 
 #### Hide {data-scc="mcdm.heroes.v1/feature.common.maneuvers/hide"}
 
@@ -469,14 +469,14 @@ Using the [Hide](../../Browse/feature/common/maneuvers/hide.md) maneuver, a crea
 
 #### Knockback {data-scc="mcdm.heroes.v1/feature.common.maneuvers/knockback"}
 
-A creature wanting to push an adjacent creature away from them can attempt to shove that creature using the following ability.
+A creature wanting to push an [adjacent](../../Browse/rule/combat/adjacent.md) creature away from them can attempt to shove that creature using the following ability.
 
 ##### Knockback {data-scc="mcdm.heroes.v1/feature.ability.common.maneuvers/knockback"}
 
 
-| **Melee, Weapon** |        **Maneuver** |
+| **[Melee](../../Browse/rule/combat/melee.md), Weapon** |        **Maneuver** |
 |-------------------|--------------------:|
-| **📏 Melee 1**    | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**    | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -498,11 +498,11 @@ The [Search for Hidden Creatures](../../Browse/feature/common/maneuvers/search-f
 
 #### Stand Up {data-scc="mcdm.heroes.v1/feature.common.maneuvers/stand-up"}
 
-A creature can use the [Stand Up](../../Browse/feature/common/maneuvers/stand-up.md) maneuver to stand up if they [are prone](../../Browse/condition/prone.md), ending that condition. Alternatively, they can use this maneuver to make a willing adjacent prone creature stand up.
+A creature can use the [Stand Up](../../Browse/feature/common/maneuvers/stand-up.md) maneuver to stand up if they [are prone](../../Browse/condition/prone.md), ending that [condition](../../Browse/rule/combat/condition.md). Alternatively, they can use this maneuver to make a willing [adjacent](../../Browse/rule/combat/adjacent.md) prone creature stand up.
 
 #### Use Consumable {data-scc="mcdm.heroes.v1/feature.common.maneuvers/use-consumable"}
 
-Unless otherwise noted in its description, a creature can activate a [consumable](../../Browse/rule/treasure/consumable.md) treasure such as a potion with the [Use Consumable](../../Browse/feature/common/maneuvers/use-consumable.md) maneuver. A creature can use this maneuver to administer a [consumable](../../Browse/rule/treasure/consumable.md) treasure that benefits the user either to themself or to a willing adjacent creature. See [Consumables](../../Browse/rule/treasure/consumable.md) in Chapter 13: [Rewards](rewards.md).
+Unless otherwise noted in its description, a creature can activate a [consumable](../../Browse/rule/treasure/consumable.md) treasure such as a potion with the [Use Consumable](../../Browse/feature/common/maneuvers/use-consumable.md) maneuver. A creature can use this maneuver to administer a [consumable](../../Browse/rule/treasure/consumable.md) treasure that benefits the user either to themself or to a willing [adjacent](../../Browse/rule/combat/adjacent.md) creature. See [Consumables](../../Browse/rule/treasure/consumable.md) in Chapter 13: [Rewards](rewards.md).
 
 ### Main Actions
 
@@ -510,39 +510,39 @@ When you take a main action, you most often do so to use a unique ability grante
 
 You can also use your main action to help another creature regain [Stamina](../../Browse/rule/health/stamina.md), [charge](../../Browse/feature/common/main-actions/charge.md) into battle, [defend](../../Browse/feature/common/main-actions/defend.md) yourself, or make a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
-You can convert your main action into a maneuver or a move action, allowing you to [take two](../../Browse/feature/ability/troubadour/level-5/take-two.md) maneuvers or move actions on your turn.
+You can convert your main action into a maneuver or a move action, allowing you to [take two](../../Browse/feature/ability/troubadour/level-5/take-two.md) maneuvers or move actions on your [turn](../../Browse/rule/combat/turn.md).
 
 #### Charge {data-scc="mcdm.heroes.v1/feature.common.main-actions/charge"}
 
-When a creature takes the [Charge](../../Browse/feature/common/main-actions/charge.md) main action, they move up to their [speed](../../Browse/rule/character/speed.md) in a straight line, then make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) (see [Free Strikes](../../Browse/feature/common/main-actions/free-strike.md) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+When a creature takes the [Charge](../../Browse/feature/common/main-actions/charge.md) main action, they move up to their [speed](../../Browse/rule/character/speed.md) in a straight line, then make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) (see [Free Strikes](../../Browse/feature/common/main-actions/free-strike.md) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 A creature can't move through [difficult terrain](../../Browse/movement/difficult-terrain.md) or [shift](../../Browse/movement/shifting.md) when they charge. They can [fly](../../Browse/movement/fly.md) or [burrow](../../Browse/movement/burrow.md) as part of the [Charge](../../Browse/feature/common/main-actions/charge.md) main action if they have that movement available to them, but they can't climb or swim while charging unless they can automatically use that movement at full [speed](../../Browse/rule/character/speed.md).
 
 #### Defend {data-scc="mcdm.heroes.v1/feature.common.main-actions/defend"}
 
-When a creature takes the [Defend](../../Browse/feature/common/main-actions/defend.md) main action, [ability rolls](../../Browse/rule/dice/ability-roll.md) made against them have a double [bane](../../Browse/rule/dice/bane.md) until the start of their next turn. Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](../../Browse/condition/taunted.md) by them (see Conditions in Chapter 5: [Classes](classes.md)).
+When a creature takes the [Defend](../../Browse/feature/common/main-actions/defend.md) main action, [ability rolls](../../Browse/rule/dice/ability-roll.md) made against them have a double [bane](../../Browse/rule/dice/bane.md) until the start of their next [turn](../../Browse/rule/combat/turn.md). Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is [taunted](../../Browse/condition/taunted.md) by them (see [Conditions](../../Browse/rule/combat/condition.md) in Chapter 5: [Classes](classes.md)).
 
 #### Free Strike {data-scc="mcdm.heroes.v1/feature.common.main-actions/free-strike"}
 
-A creature can use this main action to make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) (see Free  Strikes below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but [free strikes](../../Browse/feature/common/main-actions/free-strike.md) are available for when all else fails. For instance, a [fury](../../Browse/class/fury.md) who has no other options for ranged [strikes](../../Browse/rule/combat/strike.md) might use the [Ranged Weapon Free Strike](../../Browse/feature/ability/common/ranged-weapon-free-strike.md) ability with an improvised weapon when battling a [flying](../../Browse/movement/fly.md) foe.
+A creature can use this main action to make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) (see Free  Strikes below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but [free strikes](../../Browse/feature/common/main-actions/free-strike.md) are available for when all else fails. For instance, a [fury](../../Browse/class/fury.md) who has no other options for [ranged](../../Browse/rule/combat/ranged.md) [strikes](../../Browse/rule/combat/strike.md) might use the [Ranged Weapon Free Strike](../../Browse/feature/ability/common/ranged-weapon-free-strike.md) ability with an improvised weapon when battling a [flying](../../Browse/movement/fly.md) foe.
 
 #### Heal {data-scc="mcdm.heroes.v1/feature.common.main-actions/heal"}
 
-A creature who uses the [Heal](../../Browse/feature/common/main-actions/heal.md) main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a [Recovery](../../Browse/rule/health/recoveries.md) to regain [Stamina](../../Browse/rule/health/stamina.md), or can make a [saving throw](../../Browse/rule/general/saving-throw.md) against one effect they are suffering that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md).
+A creature who uses the [Heal](../../Browse/feature/common/main-actions/heal.md) main action employs medicine or inspiring words to make an [adjacent](../../Browse/rule/combat/adjacent.md) creature feel better and stay in the fight. The target creature can spend a [Recovery](../../Browse/rule/health/recoveries.md) to regain [Stamina](../../Browse/rule/health/stamina.md), or can make a [saving throw](../../Browse/rule/general/saving-throw.md) against one effect they are suffering that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md).
 
 ### Free Strikes
 
-Every creature can use a [free strike](../../Browse/feature/common/main-actions/free-strike.md) ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](../../Browse/feature/common/main-actions/free-strike.md) when the rules call for it. Specific rules let you use [free strikes](../../Browse/feature/common/main-actions/free-strike.md) as part of an action that allows you to also do something else impactful, such as how the [Charge](../../Browse/feature/common/main-actions/charge.md) main action lets you move and use a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) in one main action (see Charge above).
+Every creature can use a [free strike](../../Browse/feature/common/main-actions/free-strike.md) ability as a main action on their [turn](../../Browse/rule/combat/turn.md), though doing so typically isn't the most effective choice. Most of the time, you'll use [free strikes](../../Browse/feature/common/main-actions/free-strike.md) when the rules call for it. Specific rules let you use [free strikes](../../Browse/feature/common/main-actions/free-strike.md) as part of an action that allows you to also do something else impactful, such as how the [Charge](../../Browse/feature/common/main-actions/charge.md) main action lets you move and use a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) in one main action (see Charge above).
 
-Many rules and abilities allow heroes to make [free strikes](../../Browse/feature/common/main-actions/free-strike.md) when it isn't their turn, such as the [tactician's](../../Browse/class/tactician.md) Overwatch ability. As well, all characters can make an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+Many rules and abilities allow heroes to make [free strikes](../../Browse/feature/common/main-actions/free-strike.md) when it isn't their [turn](../../Browse/rule/combat/turn.md), such as the [tactician's](../../Browse/class/tactician.md) Overwatch ability. As well, all characters can make an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 #### Granted Abilities
 
-Some abilities, such as the [tactician's](../../Browse/class/tactician.md) [Strike Now](../../Browse/feature/ability/tactician/level-1/strike-now.md) or I'll Open and You'll Close abilities, allow another creature to use a [signature ability](../../Browse/rule/combat/signature-ability.md) or [heroic ability](../../Browse/rule/general/heroic-ability.md) when it isn't their turn. Unless otherwise stated, a creature can always use a [free strike](../../Browse/feature/common/main-actions/free-strike.md) instead of a granted [signature ability](../../Browse/rule/combat/signature-ability.md) or [heroic ability](../../Browse/rule/general/heroic-ability.md).
+Some abilities, such as the [tactician's](../../Browse/class/tactician.md) [Strike Now](../../Browse/feature/ability/tactician/level-1/strike-now.md) or I'll Open and You'll Close abilities, allow another creature to use a [signature ability](../../Browse/rule/combat/signature-ability.md) or [heroic ability](../../Browse/rule/general/heroic-ability.md) when it isn't their [turn](../../Browse/rule/combat/turn.md). Unless otherwise stated, a creature can always use a [free strike](../../Browse/feature/common/main-actions/free-strike.md) instead of a granted [signature ability](../../Browse/rule/combat/signature-ability.md) or [heroic ability](../../Browse/rule/general/heroic-ability.md).
 
 #### Opportunity Attacks {data-scc="mcdm.heroes.v1/rule.combat/opportunity-attack"}
 
-Whenever a creature has an enemy adjacent to them and the enemy willingly moves to a space that isn't adjacent to the creature without [shifting](../../Browse/movement/shifting.md), the creature can take advantage of that movement to quickly make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the enemy as a free [triggered action](../../Browse/rule/combat/triggered-action.md). This is called an opportunity attack.
+Whenever a creature has an enemy [adjacent](../../Browse/rule/combat/adjacent.md) to them and the enemy willingly moves to a space that isn't [adjacent](../../Browse/rule/combat/adjacent.md) to the creature without [shifting](../../Browse/movement/shifting.md), the creature can take advantage of that movement to quickly make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the enemy as a free [triggered action](../../Browse/rule/combat/triggered-action.md). This is called an opportunity attack.
 
 If a creature has a [bane](../../Browse/rule/dice/bane.md) or double [bane](../../Browse/rule/dice/bane.md) on the [power roll](../../Browse/rule/dice/power-roll.md) against the enemy, they can't make an opportunity attack.
 
@@ -550,13 +550,13 @@ If a creature has a [bane](../../Browse/rule/dice/bane.md) or double [bane](../.
 
 Every hero has two standard [free strike](../../Browse/feature/common/main-actions/free-strike.md) abilities available to them. Your class might give you additional [free strike](../../Browse/feature/common/main-actions/free-strike.md) options, and your kit can improve the standard options (see Chapter 6: [Kits](kits.md)).
 
-A melee weapon free strike is a melee [strike](../../Browse/rule/combat/strike.md) made with an unarmed [strike](../../Browse/rule/combat/strike.md) or an improvised weapon. A ranged weapon free strike is a ranged [strike](../../Browse/rule/combat/strike.md) made with an improvised weapon. At the Director's discretion, the [damage type](../../Browse/rule/damage/damage-type.md) of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage when used for a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+A [melee](../../Browse/rule/combat/melee.md) weapon free strike is a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) made with an unarmed [strike](../../Browse/rule/combat/strike.md) or an improvised weapon. A [ranged](../../Browse/rule/combat/ranged.md) weapon free strike is a [ranged](../../Browse/rule/combat/ranged.md) [strike](../../Browse/rule/combat/strike.md) made with an improvised weapon. At the Director's discretion, the [damage type](../../Browse/rule/damage/damage-type.md) of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage when used for a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 ###### Melee Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common.free-strikes/melee-weapon-free-strike-combat"}
 
-| **Charge, Melee, Stike, Weapon** |               **Main action** |
+| **Charge, [Melee](../../Browse/rule/combat/melee.md), Stike, Weapon** |               **Main action** |
 | -------------------------------- | -----------------------------:|
-| **📏 Melee 1**                   | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                   | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
@@ -566,9 +566,9 @@ A melee weapon free strike is a melee [strike](../../Browse/rule/combat/strike.m
 
 ###### Ranged Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common.free-strikes/ranged-weapon-free-strike-combat"}
 
-| **Ranged, Stike, Weapon** |               **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md), Stike, Weapon** |               **Main action** |
 |---------------------------| -----------------------------:|
-| **📏 Ranged 5**           | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 5**           | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
@@ -578,7 +578,7 @@ A melee weapon free strike is a melee [strike](../../Browse/rule/combat/strike.m
 
 ### Flanking {data-scc="mcdm.heroes.v1/rule.combat/flanking"}
 
-When you and one or more allies are adjacent to the same enemy and on opposite sides of the enemy, you are flanking that enemy. While flanking an enemy, you gain an [edge](../../Browse/rule/dice/edge.md) on melee [strikes](../../Browse/rule/combat/strike.md) against them.
+When you and one or more allies are [adjacent](../../Browse/rule/combat/adjacent.md) to the same enemy and on opposite sides of the enemy, you are flanking that enemy. While flanking an enemy, you gain an [edge](../../Browse/rule/dice/edge.md) on [melee](../../Browse/rule/combat/melee.md) [strikes](../../Browse/rule/combat/strike.md) against them.
 
 If you're unsure whether your hero and an ally are flanking a foe, imagine a line extending from the center of your space to the center of your ally's space. If that line passes through opposite sides or corners of the enemy's space, then you and your ally are flanking the enemy.
 
@@ -604,7 +604,7 @@ Strikes, area attacks, environmental effects, and other hazards can all deal dam
 
 Typical damage, such as that caused by weapons, falling, traps, and monstrous claws, has no type associated with it. That's because for most creatures, there's no difference in the amount of harm caused by being run through with a pike, dropped from a height onto a stone floor, slashed by a pendulum scythe, or skewered on a minotaur's horns.
 
-However, when it comes to elemental and supernatural damage sources, some creatures might have an immunity or weakness to that damage. As such, abilities and effects note when they deal any of the following damage types: acid, cold, corruption, fire, holy, lightning, poison, psychic, or sonic.
+However, when it comes to elemental and [supernatural](../../Browse/rule/general/supernatural.md) damage sources, some creatures might have an immunity or weakness to that damage. As such, abilities and effects note when they deal any of the following damage types: acid, cold, corruption, fire, holy, lightning, poison, psychic, or sonic.
 
 ##### Damage Immunity {data-scc="mcdm.heroes.v1/rule.damage/damage-immunity"}
 
@@ -644,7 +644,7 @@ You can tell when other creatures are winded and vice versa.
 
 #### Dying and Death {data-scc="mcdm.heroes.v1/rule.health/dying"}
 
-When your [Stamina](../../Browse/rule/health/stamina.md) is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver in combat. Additionally, you are [bleeding](../../Browse/condition/bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend [Recoveries](../../Browse/rule/health/recoveries.md) in combat, and you can spend [Recoveries](../../Browse/rule/health/recoveries.md) out of combat as usual.
+When your [Stamina](../../Browse/rule/health/stamina.md) is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver in combat. Additionally, you are [bleeding](../../Browse/condition/bleeding.md), and this instance of the [condition](../../Browse/rule/combat/condition.md) can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend [Recoveries](../../Browse/rule/health/recoveries.md) in combat, and you can spend [Recoveries](../../Browse/rule/health/recoveries.md) out of combat as usual.
 
 While your [Stamina](../../Browse/rule/health/stamina.md) is lower than 0, if it reaches the negative of your [winded](../../Browse/rule/health/winded.md) value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
 
@@ -687,7 +687,7 @@ Mundane objects in the game have [Stamina](../../Browse/rule/health/stamina.md) 
 - Stone: 6 [Stamina](../../Browse/rule/health/stamina.md)
 - Metal: 9 [Stamina](../../Browse/rule/health/stamina.md)
 
-The Director can decide that a well-made or poorly made object has more or less [Stamina](../../Browse/rule/health/stamina.md). Destroying a supernatural object often (but not always) requires a specific quest, such as throwing a magic ring back into the volcano where it was forged.
+The Director can decide that a well-made or poorly made object has more or less [Stamina](../../Browse/rule/health/stamina.md). Destroying a [supernatural](../../Browse/rule/general/supernatural.md) object often (but not always) requires a specific quest, such as throwing a magic ring back into the volcano where it was forged.
 
 ### Underwater Combat {data-scc="mcdm.heroes.v1/rule.combat/underwater-combat"}
 
@@ -695,13 +695,13 @@ If a creature is fully submerged in water, they have fire immunity 5 and lightni
 
 ### Suffocating {data-scc="mcdm.heroes.v1/rule.health/suffocating"}
 
-During combat or under similarly stressful circumstances, you can hold your breath for a number of combat rounds equal to your [Might](../../Browse/rule/character/might.md) score (minimum 1 round). At the end of each combat round after that, you take 1d6 damage while holding your breath.
+During combat or under similarly stressful circumstances, you can hold your breath for a number of [combat rounds](../../Browse/rule/combat/combat-round.md) equal to your [Might](../../Browse/rule/character/might.md) score (minimum 1 round). At the end of each [combat round](../../Browse/rule/combat/combat-round.md) after that, you take 1d6 damage while holding your breath.
 
-Out of combat, you can hold your breath for a number of minutes equal to your [Might](../../Browse/rule/character/might.md) score. Being unable to breathe after that time counts as a stressful condition, causing you to run out of air as above.
+Out of combat, you can hold your breath for a number of minutes equal to your [Might](../../Browse/rule/character/might.md) score. Being unable to breathe after that time counts as a stressful [condition](../../Browse/rule/combat/condition.md), causing you to run out of air as above.
 
 ### Mounted Combat {data-scc="mcdm.heroes.v1/rule.combat/mounted-combat"}
 
-A willing creature with the Mount role (see Creature Roles in *Draw Steel: Monsters*) can serve as your mount as long as their [size](../../Browse/rule/character/size.md) is greater than yours. You can climb onto your mount freely (see Climbing Other Creatures above). You determine which space you occupy. While mounted, you can take the [Ride](../../Browse/feature/common/move-actions/ride.md) move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
+A willing creature with the Mount role (see Creature Roles in *Draw Steel: Monsters*) can serve as your mount as long as their [size](../../Browse/rule/character/size.md) is greater than yours. You can climb onto your mount freely (see Climbing Other Creatures above). You determine which space you occupy. While mounted, you can take the [Ride](../../Browse/feature/common/move-actions/ride.md) move action, but a mount can only be ridden this way once per round. Both mount and rider each take a [turn](../../Browse/rule/combat/turn.md) during combat.
 
 If a creature riding a mount is [force moved](../../Browse/movement/forced-movement.md), they are knocked off the mount and must make a [test](../../Browse/rule/test/test.md) to determine how they land (see Climbing Other Creatures\). If a mount is [force moved](../../Browse/movement/forced-movement.md), they carry any riders with them. Riders and mounts [teleport](../../Browse/movement/teleport.md) separately.
 
@@ -709,7 +709,7 @@ If your mount dies, they [fall prone](../../Browse/condition/prone.md), and you 
 
 ### End of Combat
 
-At the end of combat, the Director determines if the heroes earn any [Victories](../../Browse/rule/resource/victories.md). Any effect or condition on you that you suffered during combat (except for being [winded](../../Browse/rule/health/winded.md), unconscious, or [dying](../../Browse/rule/health/dying.md)) ends if you want it to.
+At the end of combat, the Director determines if the heroes earn any [Victories](../../Browse/rule/resource/victories.md). Any effect or [condition](../../Browse/rule/combat/condition.md) on you that you suffered during combat (except for being [winded](../../Browse/rule/health/winded.md), unconscious, or [dying](../../Browse/rule/health/dying.md)) ends if you want it to.
 
 #### How Combat Ends
 
@@ -723,7 +723,7 @@ When the Director ends combat this way, the players typically choose how the bat
 
 While planning a combat encounter, the Director can set one or more objectives the heroes can achieve to end the encounter without dropping every last foe. Some broad categories of objectives are described in this section, but the Director should feel free to create their own. As well, Directors can always end combat anytime it becomes clear that the heroes are going to win an encounter with minimal effort, even if they haven't achieved all the objectives.
 
-Each of the objective endings in this section is explored in detail including looking at monster roles, map advice, success conditions, and more—in the Introduction section of *Draw Steel: Monsters*.
+Each of the objective endings in this section is explored in detail including looking at monster roles, map advice, success [conditions](../../Browse/rule/combat/condition.md), and more—in the Introduction section of *Draw Steel: Monsters*.
 
 ##### Diminish Numbers
 
@@ -763,7 +763,7 @@ The enemy holds a strategically important position and the heroes want it. The e
 
 ##### Stop the Action
 
-Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! [Objectives](../../Browse/rule/combat/objective.md) in this category have a timer associated with them. If the heroes don't achieve the [objective](../../Browse/rule/combat/objective.md) in a certain number of rounds, the conditions of the battle could well change. For instance, if the cultists summon the archdevil, defeating the [devil](../../Browse/ancestry/devil.md) suddenly becomes the heroes' new [objective](../../Browse/rule/combat/objective.md)!
+Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! [Objectives](../../Browse/rule/combat/objective.md) in this category have a timer associated with them. If the heroes don't achieve the [objective](../../Browse/rule/combat/objective.md) in a certain number of rounds, the [conditions](../../Browse/rule/combat/condition.md) of the battle could well change. For instance, if the cultists summon the archdevil, defeating the [devil](../../Browse/ancestry/devil.md) suddenly becomes the heroes' new [objective](../../Browse/rule/combat/objective.md)!
 
 ##### Complete the Action
 
@@ -781,6 +781,6 @@ Event endings can cover big scenarios such as the characters destroying a dam to
 
 > **Fleeing Foes**
 >
-> If you've played a fantasy RPG before, odds are you've had an encounter where you didn't chase down every last fleeing foe—and then one such foe [grabbed](../../Browse/condition/grabbed.md) another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
+> If you've played a fantasy RPG before, odds are you've had an encounter where you didn't chase down every last fleeing foe—and then one such foe [grabbed](../../Browse/condition/grabbed.md) another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily [turn](../../Browse/rule/combat/turn.md) a tactical encounter into a slog.
 >
 > Luckily, this is a heroic game. Although the Director can surprise the players with dramatic reveals and twisty-turny stories, "Gotcha!" moments that make players suspicious of every fleeing bandit shouldn't be part of those stories. If a bandit is fleeing an encounter, they're running away to rethink their life. If they're going for help, the players should get some sense of that—for example, the bandit screaming at the top of their lungs for help as they run toward their leader's tent. That way, the players can process what's happening, and will understand that stopping that fleeing bandit is part of the challenge of the encounter.

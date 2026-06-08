@@ -75,7 +75,7 @@ Your [censor order](../feature/censor/level-1/censor-order.md) is your [subclass
 
 ### Deity and Domains {data-scc="mcdm.heroes.v1/feature.censor.level-1/deity-and-domains"}
 
-Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](../../Read/heroes/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
+Choose a god or [saint](../rule/world/saint.md) who your character reveres from Chapter 14: [Gods and Religion](../../Read/heroes/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
 After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you'll gain from this class. (*Quick Build:* [Cavall](../god/cavall.md) as deity and War as domain.)
 
@@ -85,9 +85,9 @@ The power you serve grants you a [Heroic Resource](../rule/resource/heroic-resou
 
 #### Wrath in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain wrath equal to your [Victories](../rule/resource/victories.md). At the start of each of your turns during combat, you gain 2 wrath.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../rule/combat/combat-round.md) (as determined by the Director), you gain wrath equal to your [Victories](../rule/resource/victories.md). At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 2 wrath.
 
-Additionally, the first time each combat round that a creature judged by you (see [Judgment](../feature/ability/censor/level-1/judgment.md) below) deals damage to you, you gain 1 wrath. The first time each combat round that you deal damage to a creature judged by you, you gain 1 wrath.
+Additionally, the first time each [combat round](../rule/combat/combat-round.md) that a creature judged by you (see [Judgment](../feature/ability/censor/level-1/judgment.md) below) deals damage to you, you gain 1 wrath. The first time each [combat round](../rule/combat/combat-round.md) that you deal damage to a creature judged by you, you gain 1 wrath.
 
 You lose any remaining wrath at the end of the encounter.
 
@@ -106,9 +106,9 @@ You pick out the enemies most worthy of your wrath and place a divine [judgment]
 
 *You utter a prayer that outlines your foe in holy energy.*
 
-| **Magic, Ranged** |     **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |     **Maneuver** |
 |-------------------|-----------------:|
-| **📏 Ranged 10**  | **🎯 One enemy** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 One enemy** |
 
 **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](censor.md) judges the target.
 
@@ -118,16 +118,16 @@ When a creature judged by you is reduced to 0 [Stamina](../rule/health/stamina.m
 
 Additionally, you can spend 1 wrath to take one of the following free [triggered actions](../rule/combat/triggered-action.md):
 
-- When an adjacent creature judged by you starts to [shift](../movement/shifting.md), you make a melee [free strike](../feature/common/main-actions/free-strike.md) against them and their [speed](../rule/character/speed.md) becomes 0 until the end of the current turn, preventing them from [shifting](../movement/shifting.md).
+- When an [adjacent](../rule/combat/adjacent.md) creature judged by you starts to [shift](../movement/shifting.md), you make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) against them and their [speed](../rule/character/speed.md) becomes 0 until the end of the current [turn](../rule/combat/turn.md), preventing them from [shifting](../movement/shifting.md).
 - When a creature judged by you within 10 squares makes a [power roll](../rule/dice/power-roll.md), you cause them to take a [bane](../rule/dice/bane.md) on the roll.
 - When a creature judged by you within 10 squares uses an ability with a [potency](../rule/character/potency.md) that targets only one creature, the [potency](../rule/character/potency.md) is reduced by 1 for that creature.
-- If you damage a creature judged by you with a melee ability, the creature is [taunted](../condition/taunted.md) by you until the end of their next turn.
+- If you damage a creature judged by you with a [melee](../rule/combat/melee.md) ability, the creature is [taunted](../condition/taunted.md) by you until the end of their next [turn](../rule/combat/turn.md).
   
 You can choose only one free [triggered action](../rule/combat/triggered-action.md) option at a time, even if multiple options are triggered by the same effect.
 
 #### Judgment Order Benefit {data-scc="mcdm.heroes.v1/feature.censor.level-1/judgment-order-benefit"}
 
-The first time on a turn that you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability to judge a creature, you gain the following benefit based on your order:
+The first time on a [turn](../rule/combat/turn.md) that you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability to judge a creature, you gain the following benefit based on your order:
 
 - **Exorcist:** You can [teleport](../movement/teleport.md) up to a number of squares equal to twice your [Presence](../rule/character/presence.md) score. This movement must take you closer to the judged creature. You do not need [line of effect](../rule/combat/line-of-effect.md) to your destination.
 - **Oracle:** You can deal holy damage equal to twice your [Presence](../rule/character/presence.md) score to the judged creature.
@@ -146,15 +146,15 @@ You channel your will to mend your wounds or the wounds of your allies. You have
 
 *You channel some of your vitality into more resilience for you or an ally.*
 
-| **Magic, Ranged** |           **Triggered** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |           **Triggered** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
-**Trigger:** The target starts their turn or takes damage.
+**Trigger:** The target starts their [turn](../rule/combat/turn.md) or takes damage.
 
 **Effect:** You spend a [Recovery](../rule/health/recoveries.md) and the target regains [Stamina](../rule/health/stamina.md) equal to your [recovery value](../rule/health/recoveries.md).
 
-**Spend 1 Wrath:** You can end one effect on the target that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their turn, or a [prone](../condition/prone.md) target can stand up.
+**Spend 1 Wrath:** You can end one effect on the target that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md), or a [prone](../condition/prone.md) target can stand up.
 
 ### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-1/1st-level-domain-feature"}
 
@@ -227,7 +227,7 @@ You have the following ability.
 
 | **Magic**      |             **Maneuver** |
 |----------------|-------------------------:|
-| **📏 Melee 1** | **🎯 One dead creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1** | **🎯 One dead creature** |
 
 **Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make [tests](../rule/test/test.md) to influence them and convince them to speak with you. The trauma of [dying](../rule/health/dying.md) can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 
@@ -248,7 +248,7 @@ You have the following ability.
 
 #### Inner Light {data-scc="mcdm.heroes.v1/feature.censor.level-1/inner-light"}
 
-Each time you finish a [respite](../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../rule/resource/respite.md) to gain the benefit of a divine ritual. You place a ray of [morning light](../feature/ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 bonus to [saving throws](../rule/general/saving-throw.md) that lasts until you finish another [respite](../rule/resource/respite.md).
+Each time you finish a [respite](../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../rule/resource/respite.md) to gain the benefit of a divine ritual. You place a ray of [morning light](../feature/ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md) that lasts until you finish another [respite](../rule/resource/respite.md).
 
 #### Inspired Deception {data-scc="mcdm.heroes.v1/feature.censor.level-1/inspired-deception"}
 
@@ -264,11 +264,11 @@ You can spend 10 uninterrupted minutes to create a [protective circle](../featur
 
 #### Revitalizing Ritual {data-scc="mcdm.heroes.v1/feature.censor.level-1/revitalizing-ritual"}
 
-Each time you finish a [respite](../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../rule/resource/respite.md) to gain the benefit of a divine ritual. The chosen character gains a bonus to their [recovery value](../rule/health/recoveries.md) equal to your level that lasts until you finish another [respite](../rule/resource/respite.md).
+Each time you finish a [respite](../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../rule/resource/respite.md) to gain the benefit of a divine ritual. The chosen character gains a [bonus](../rule/dice/bonuses-and-penalties.md) to their [recovery value](../rule/health/recoveries.md) equal to your level that lasts until you finish another [respite](../rule/resource/respite.md).
 
 #### Sanctified Weapon {data-scc="mcdm.heroes.v1/feature.censor.level-1/sanctified-weapon"}
 
-As a [respite](../rule/resource/respite.md) activity, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to [rolled damage](../rule/damage/rolled-damage.md) with abilities that use the weapon. This benefit lasts until you finish another [respite](../rule/resource/respite.md).
+As a [respite](../rule/resource/respite.md) activity, you can bless a weapon. Any creature who wields the weapon gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md) with abilities that use the weapon. This benefit lasts until you finish another [respite](../rule/resource/respite.md).
 
 ### Censor Abilities {data-scc="mcdm.heroes.v1/feature.censor.level-1/censor-abilities"}
 
@@ -283,7 +283,7 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 
 *You channel power through your weapon to repel foes.*
 
-| **Area, Magic, Melee, Weapon** |               **Main action** |
+| **Area, Magic, [Melee](../rule/combat/melee.md), Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 2 [cube](../rule/combat/cube.md) within 1**         | **🎯 Each enemy in the area** |
 
@@ -298,9 +298,9 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 
 *You show your foe a glimpse of their fate after death.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          |           **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          |           **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -308,16 +308,16 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 - **12-16:** 7 + P psychic damage
 - **17+:** 10 + P psychic damage
 
-**Effect:** Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.
+**Effect:** Each time the target willingly moves before the end of your next [turn](../rule/combat/turn.md), they take 1 psychic damage for each square they move.
 
 ##### Halt Miscreant! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/halt-miscreant"}
 
 
 *You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -328,11 +328,11 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 ##### Your Allies Cannot Save You! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/your-allies-cannot-save-you"}
 
 
-*Your magic [strike](../rule/combat/strike.md) turns your foe's guilt into a burst of holy power.*
+*Your magic [strike](../rule/combat/strike.md) [turns](../rule/combat/turn.md) your foe's guilt into a burst of holy power.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -340,7 +340,7 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 - **12-16:** 5 + M holy damage
 - **17+:** 8 + M holy damage
 
-**Effect:** Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your [Presence](../rule/character/presence.md) score.
+**Effect:** Each enemy [adjacent](../rule/combat/adjacent.md) to the target is pushed away from the target up to a number of squares equal to your [Presence](../rule/character/presence.md) score.
 
 #### Heroic Abilities
 
@@ -353,11 +353,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 ##### Behold a Shield of Faith! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith"}
 
 
-*A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
+*A mighty blow [turns](../rule/combat/turn.md) your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -365,16 +365,16 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 6 + M holy damage
 - **17+:** 9 + M holy damage
 
-**Effect:** Until the start of your next turn, enemies take a [bane](../rule/dice/bane.md) on [ability rolls](../rule/dice/ability-roll.md) made against you or any ally adjacent to you.
+**Effect:** Until the start of your next [turn](../rule/combat/turn.md), enemies take a [bane](../rule/dice/bane.md) on [ability rolls](../rule/dice/ability-roll.md) made against you or any ally [adjacent](../rule/combat/adjacent.md) to you.
 
 ##### Driving Assault {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault"}
 
 
 *As you force your enemy back with your weapon, you use your faith to stay close.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -389,9 +389,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You channel holy energy to smite a foe and heal an ally.*
 
-| **Magic, Melee, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1**                   | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -406,9 +406,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You conjure memories of their sins to harry your foes.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)**  |    **Main action**  |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |    **Main action**  |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -425,9 +425,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *"I got you, you son of a bitch."*
 
-| **Magic, Melee, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   |           **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**                   |           **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -442,9 +442,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You attack a foe and your enemies behold a vision of the true nature of your resolve.*
 
-| **Magic, Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
 |-------------------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**                |           **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**                |           **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -459,9 +459,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Judged and [sentenced](../feature/ability/censor/level-2/sentenced.md).*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             |           **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**             |           **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -476,9 +476,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *The gods judge, fire cleanses.*
 
-| **Magic, Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon**  |               **Main action** |
 |-------------------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**                |           **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**                |           **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -494,7 +494,7 @@ As a 2nd-level [censor](censor.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-2/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
+You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
 ### 2nd-Level Order Features {data-scc="mcdm.heroes.v1/feature.censor.level-2/2nd-level-order-features"}
 
@@ -504,13 +504,13 @@ Your [censor order](../feature/censor/level-1/censor-order.md) grants you two fe
 
 | Order                    | Features                             |
 |--------------------------|--------------------------------------|
-| Exorcist                 | Saint's Vigilance, [A Sense for Truth](../feature/censor/level-2/a-sense-for-truth.md) |
+| Exorcist                 | [Saint](../rule/world/saint.md)'s Vigilance, [A Sense for Truth](../feature/censor/level-2/a-sense-for-truth.md) |
 | Oracle                   | [It Was Foretold](../feature/censor/level-2/it-was-foretold.md), [Judge of Character](../feature/censor/level-2/judge-of-character.md)  |
 | Paragon                  | [Lead by Example](../feature/censor/level-2/lead-by-example.md), [Stalwart Icon](../feature/censor/level-2/stalwart-icon.md)       |
 
 #### It Was Foretold {data-scc="mcdm.heroes.v1/feature.censor.level-2/it-was-foretold"}
 
-Your order has trained you to understand fragments of the visions granted to you by your deity, giving you a momentary advantage in challenging situations. At the start of an encounter, you can take one main action before any other creature and before your first turn. Additionally, whenever the Director calls for a [montage test](../rule/test/montage-test.md), you can make one free [test](../rule/test/test.md) before the montage begins, which counts as an earned success or failure as usual.
+Your order has trained you to understand fragments of the visions granted to you by your deity, giving you a momentary advantage in challenging situations. At the start of an encounter, you can take one main action before any other creature and before your first [turn](../rule/combat/turn.md). Additionally, whenever the Director calls for a [montage test](../rule/test/montage-test.md), you can make one free [test](../rule/test/test.md) before the montage begins, which counts as an earned success or failure as usual.
 
 #### Judge of Character {data-scc="mcdm.heroes.v1/feature.censor.level-2/judge-of-character"}
 
@@ -518,7 +518,7 @@ Your focus on your fragmentary visions grants divine insight into the world and 
 
 #### Lead by Example {data-scc="mcdm.heroes.v1/feature.censor.level-2/lead-by-example"}
 
-Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are adjacent to a creature, your allies gain the benefits of [flanking](../rule/combat/flanking.md) against that creature. Additionally, your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to aid other creatures with their [tests](../rule/test/test.md).
+Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are [adjacent](../rule/combat/adjacent.md) to a creature, your allies gain the benefits of [flanking](../rule/combat/flanking.md) against that creature. Additionally, your allies gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to aid other creatures with their [tests](../rule/test/test.md).
 
 #### Saint's Vigilance {data-scc="mcdm.heroes.v1/feature.censor.level-2/saints-vigilance"}
 
@@ -526,7 +526,7 @@ You have honed your ability to detect sin and can use it to find those who hide 
 
 #### A Sense for Truth {data-scc="mcdm.heroes.v1/feature.censor.level-2/a-sense-for-truth"}
 
-You are trained in secret techniques from your order that allow you to discern the truth with supernatural precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to detect lies or hidden motives.
+You are trained in secret techniques from your order that allow you to discern the truth with [supernatural](../rule/general/supernatural.md) precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to detect lies or hidden motives.
 
 #### Stalwart Icon {data-scc="mcdm.heroes.v1/feature.censor.level-2/stalwart-icon"}
 
@@ -545,9 +545,9 @@ Choose one of the following abilities.
 
 *I am but a vessel. Your own deeds weigh upon you.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -566,7 +566,7 @@ Choose one of the following abilities.
 |-----------------|------------------------------:|
 | **📏 3 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes holy damage equal to twice your [Presence](../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability against one target as a free [triggered action](../rule/combat/triggered-action.md).
+**Effect:** Each target takes holy damage equal to twice your [Presence](../rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next [turn](../rule/combat/turn.md). You can then use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability against one target as a free [triggered action](../rule/combat/triggered-action.md).
 
 #### 2nd-Level Oracle Ability
 
@@ -577,22 +577,22 @@ Choose one of the following abilities.
 
 *Gifted by a prescient vision, you warn an ally of an impending attack.*
 
-| **Magic, Ranged** |          **Triggered** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |          **Triggered** |
 |-------------------|-----------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
-**Trigger:** An enemy within 10 squares starts their turn.
+**Trigger:** An enemy within 10 squares starts their [turn](../rule/combat/turn.md).
 
-**Effect:** You can spend a [Recovery](../rule/health/recoveries.md) to allow the target to regain [Stamina](../rule/health/stamina.md) equal to your [recovery value](../rule/health/recoveries.md). The target can then take their turn immediately before the triggering enemy.
+**Effect:** You can spend a [Recovery](../rule/health/recoveries.md) to allow the target to regain [Stamina](../rule/health/stamina.md) equal to your [recovery value](../rule/health/recoveries.md). The target can then take their [turn](../rule/combat/turn.md) immediately before the triggering enemy.
 
 ##### With My Blessing {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/with-my-blessing"}
 
 
 *A word in prayer, and the gods show the way.*
 
-| **Magic, Ranged** |         **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |         **Main action** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
 **Effect:** The target can use a free [triggered action](../rule/combat/triggered-action.md) to use a [strike](../rule/combat/strike.md) [signature ability](../rule/combat/signature-ability.md) or a [strike](../rule/combat/strike.md) [heroic ability](../rule/general/heroic-ability.md), and has a double [edge](../rule/dice/edge.md) on that ability. If a [heroic ability](../rule/general/heroic-ability.md) is chosen, reduce its [Heroic Resource](../rule/resource/heroic-resource.md) cost by 3 (to a minimum cost of 0).
 
@@ -609,16 +609,16 @@ Choose one of the following abilities.
 |-----------------|--------------------------------------:|
 | **📏 3 [aura](../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target gains 1 [surge](../rule/resource/surge.md) at the end of each of your turns.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target gains 1 [surge](../rule/resource/surge.md) at the end of each of your [turns](../rule/combat/turn.md).
 
 ##### Sentenced {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/sentenced"}
 
 
 *The shock of your condemnation freezes your enemy in their boots.*
 
-| **Magic, Melee, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   |           **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**                   |           **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -649,7 +649,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 |-----------------|------------------------------:|
 | **📏 2 [aura](../rule/combat/aura.md)**   | **🎯 Each enemy in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target takes holy damage equal to your [Presence](../rule/character/presence.md) score at the end of each of your turns. A target takes an extra 2d6 holy damage if they are judged by you or if they are adjacent to any enemy.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target takes holy damage equal to your [Presence](../rule/character/presence.md) score at the end of each of your [turns](../rule/combat/turn.md). A target takes an extra 2d6 holy damage if they are judged by you or if they are [adjacent](../rule/combat/adjacent.md) to any enemy.
 
 #### Edict of Perfect Order {data-scc="mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-perfect-order"}
 
@@ -702,7 +702,7 @@ You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/h
 
 ### Wrath Beyond Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-4/wrath-beyond-wrath"}
 
-The first time each combat round that you deal damage to a creature judged by you, you gain 2 wrath instead of 1.
+The first time each [combat round](../rule/combat/combat-round.md) that you deal damage to a creature judged by you, you gain 2 wrath instead of 1.
 
 ### 4th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-4/4th-level-domain-feature"}
 
@@ -715,7 +715,7 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](c
 | Creation                         | [Improved Hands of the Maker](../feature/censor/level-4/improved-hands-of-the-maker.md) |
 | Death                            | [Seance](../feature/censor/level-4/seance.md)                      |
 | Fate                             | [Oracular Warning](../feature/censor/level-4/oracular-warning.md)            |
-| Knowledge                        | Saint's Epiphany            |
+| Knowledge                        | [Saint](../rule/world/saint.md)'s Epiphany            |
 | Life                             | [Blessing of Life](../feature/censor/level-4/blessing-of-life.md)            |
 | Love                             | [Invocation of the Heart](../feature/censor/level-4/invocation-of-the-heart.md)     |
 | Nature                           | [Wode Road](../feature/censor/level-4/wode-road.md)                   |
@@ -756,7 +756,7 @@ When you use your [Hands of the Maker](../feature/ability/censor/level-1/hands-o
 
 #### Improved Sanctified Weapon {data-scc="mcdm.heroes.v1/feature.censor.level-4/improved-sanctified-weapon"}
 
-The weapon improved by your [Sanctified Weapon](../feature/censor/level-1/sanctified-weapon.md) feature grants a +3 bonus to [rolled damage](../rule/damage/rolled-damage.md) instead of +1.
+The weapon improved by your [Sanctified Weapon](../feature/censor/level-1/sanctified-weapon.md) feature grants a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md) instead of +1.
 
 #### Invocation of the Heart {data-scc="mcdm.heroes.v1/feature.censor.level-4/invocation-of-the-heart"}
 
@@ -764,7 +764,7 @@ As a main action, you forge a bond of love and friendship with one willing creat
 
 #### Light of Revelation {data-scc="mcdm.heroes.v1/feature.censor.level-4/light-of-revelation"}
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to notice hidden objects and entrances and to detect [supernatural](../rule/general/supernatural.md) illusions.
 
 #### Oracular Warning {data-scc="mcdm.heroes.v1/feature.censor.level-4/oracular-warning"}
 
@@ -780,7 +780,7 @@ At the start of a [respite](../rule/resource/respite.md), you can inspire yourse
 
 #### Windwalk {data-scc="mcdm.heroes.v1/feature.censor.level-4/windwalk"}
 
-While you have 5 or more [Victories](../rule/resource/victories.md), you can [fly](../movement/fly.md). If you can already [fly](../movement/fly.md), you have a +2 bonus to [speed](../rule/character/speed.md) while [flying](../movement/fly.md) instead.
+While you have 5 or more [Victories](../rule/resource/victories.md), you can [fly](../movement/fly.md). If you can already [fly](../movement/fly.md), you have a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) while [flying](../movement/fly.md) instead.
 
 #### Wode Road {data-scc="mcdm.heroes.v1/feature.censor.level-4/wode-road"}
 
@@ -814,7 +814,7 @@ You discard each roll as it is used, and each time you earn [Victories](../rule/
 
 #### Stand Fast! {data-scc="mcdm.heroes.v1/feature.censor.level-5/stand-fast"}
 
-Your divine spark grows in power, allowing you and your allies to focus and endure. At the start of each of your turns, you can spend 1d6 [Stamina](../rule/health/stamina.md) to end one effect on you that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of your turn. Any ally who starts their turn within 5 squares of you can also spend [Stamina](../rule/health/stamina.md) to gain this benefit.
+Your divine spark grows in power, allowing you and your allies to focus and endure. At the start of each of your [turns](../rule/combat/turn.md), you can spend 1d6 [Stamina](../rule/health/stamina.md) to end one effect on you that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of your [turn](../rule/combat/turn.md). Any ally who starts their [turn](../rule/combat/turn.md) within 5 squares of you can also spend [Stamina](../rule/health/stamina.md) to gain this benefit.
 
 ### 9-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-5/9-wrath-ability"}
 
@@ -825,11 +825,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You channel divine force for movement that cannot be stopped.*
 
-| **Ranged** |         **Main action** |
+| **[Ranged](../rule/combat/ranged.md)** |         **Main action** |
 |------------------|------------------------:|
-| **📏 Ranged 10** | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10** | **🎯 Self or one ally** |
 
-**Effect:** The target ends any condition or effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their turn, or a [prone target](../condition/prone.md) can stand up. The target then gains 2 [surges](../rule/resource/surge.md), can [shift](../movement/shifting.md) up to their [speed](../rule/character/speed.md) while ignoring [difficult terrain](../movement/difficult-terrain.md), and can use a [strike](../rule/combat/strike.md) [signature ability](../rule/combat/signature-ability.md) as a free [triggered action](../rule/combat/triggered-action.md).
+**Effect:** The target ends any [condition](../rule/combat/condition.md) or effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md), or a [prone target](../condition/prone.md) can stand up. The target then gains 2 [surges](../rule/resource/surge.md), can [shift](../movement/shifting.md) up to their [speed](../rule/character/speed.md) while ignoring [difficult terrain](../movement/difficult-terrain.md), and can use a [strike](../rule/combat/strike.md) [signature ability](../rule/combat/signature-ability.md) as a free [triggered action](../rule/combat/triggered-action.md).
 
 #### Orison of Victory {data-scc="mcdm.heroes.v1/feature.ability.censor.level-5/orison-of-victory"}
 
@@ -846,16 +846,16 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** Each target gains 2 [surges](../rule/resource/surge.md).
 - **17+:** Each target gains 3 [surges](../rule/resource/surge.md).
 
-**Effect:** A target can end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their turn, or a [prone target](../condition/prone.md) can stand up.
+**Effect:** A target can end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md), or a [prone target](../condition/prone.md) can stand up.
 
 #### Righteous Judgment {data-scc="mcdm.heroes.v1/feature.ability.censor.level-5/righteous-judgment"}
 
 
 *You amplify the power of your [judgment](../feature/ability/censor/level-1/judgment.md).*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon**   |          **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**   |          **Main action** |
 |----------------------------|-------------------------:|
-| **📏 Melee 1**             |      **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**             |      **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -870,15 +870,15 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You strike a foe and create a fleet of divine shields that protect your allies.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |          **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |          **Main action** |
 |---------------------------|-------------------------:|
-| **📏 Melee 1**            |      **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            |      **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
-- **≤11:** 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md)
-- **12-16:** 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../rule/health/temporary-stamina.md)
-- **17+:** 20 + M damage; you and each ally adjacent to you gain 20 [temporary Stamina](../rule/health/temporary-stamina.md)
+- **≤11:** 10 + M damage; you and each ally [adjacent](../rule/combat/adjacent.md) to you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md)
+- **12-16:** 14 + M damage; you and each ally [adjacent](../rule/combat/adjacent.md) to you gain 15 [temporary Stamina](../rule/health/temporary-stamina.md)
+- **17+:** 20 + M damage; you and each ally [adjacent](../rule/combat/adjacent.md) to you gain 20 [temporary Stamina](../rule/health/temporary-stamina.md)
 
 ## 6th-Level Features
 
@@ -886,7 +886,7 @@ As a 6th-level [censor](censor.md), you gain the following features.
 
 ### Implement of Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-6/implement-of-wrath"}
 
-Each time you finish a [respite](../rule/resource/respite.md), you can choose one hero's weapon, including your own, to channel supernatural power as an implement of your god's wrath. The weapon becomes magic and gains the following benefits until your next [respite](../rule/resource/respite.md):
+Each time you finish a [respite](../rule/resource/respite.md), you can choose one hero's weapon, including your own, to channel [supernatural](../rule/general/supernatural.md) power as an [implement](../rule/treasure/implement.md) of your god's wrath. The weapon becomes magic and gains the following benefits until your next [respite](../rule/resource/respite.md):
 
 - Strikes with the weapon deal extra holy damage equal to the wielder's highest [characteristic](../rule/character/characteristic.md) score.
 - Any creature struck by the weapon who has holy weakness and has P < STRONG is [frightened](../condition/frightened.md) and [weakened](../condition/weakened.md) (save ends).
@@ -895,7 +895,7 @@ Each time you finish a [respite](../rule/resource/respite.md), you can choose on
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-6/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice.
+You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
 
 ### 6th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-6/6th-level-order-ability"}
 
@@ -925,11 +925,11 @@ Choose one of the following abilities.
 
 *You reverse the effects from an evildoer.*
 
-| **Magic, Ranged** |      **Free triggered** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |      **Free triggered** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
-**Trigger:** The target gains a condition or effect that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their turn.
+**Trigger:** The target gains a [condition](../rule/combat/condition.md) or effect that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md).
 
 **Effect:** The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](../rule/character/presence.md) score.
 
@@ -942,9 +942,9 @@ Choose one of the following abilities.
 
 *You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |         **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |         **Maneuver** |
 |---------------------------|---------------------:|
-| **📏 Ranged 10**          | **🎯 Three enemies** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 Three enemies** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -972,9 +972,9 @@ Choose one of the following abilities.
 
 *You focus your allies' wrath on a chosen foe.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |   **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |   **Main action** |
 |---------------------------|------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -989,9 +989,9 @@ Choose one of the following abilities.
 
 *You take your ally's place.*
 
-| **Magic, Ranged** | **Free triggered** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** | **Free triggered** |
 |-------------------|-------------------:|
-| **📏 Ranged 10**  |    **🎯 One ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  |    **🎯 One ally** |
 
 **Trigger:** A creature makes a [strike](../rule/combat/strike.md) against the target.
 
@@ -1039,9 +1039,9 @@ You can maintain bonds with up to three willing creatures using your [Invocation
 
 *You concentrate on a friend and [teleport](../movement/teleport.md) to them.*
 
-| **Magic, Ranged** |           **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |           **Main action** |
 |-------------------|--------------------------:|
-| **📏 Ranged 10**  | **🎯 Self and each ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Self and each ally** |
 
 **Effect:** Each target is [teleport](../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../feature/censor/level-4/invocation-of-the-heart.md) feature. You don't need [line of effect](../rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world.
 
@@ -1051,7 +1051,7 @@ Each time you finish a [respite](../rule/resource/respite.md), you can choose a 
 
 #### Font of Grace {data-scc="mcdm.heroes.v1/feature.censor.level-7/font-of-grace"}
 
-Each time you use your [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this wrath, it is lost. Additionally, the target of [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) gains 10 [temporary Stamina](../rule/health/temporary-stamina.md).
+Each time you use your [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same [turn](../rule/combat/turn.md). If you don't use this wrath, it is lost. Additionally, the target of [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) gains 10 [temporary Stamina](../rule/health/temporary-stamina.md).
 
 #### Gods' Library {data-scc="mcdm.heroes.v1/feature.censor.level-7/gods-library"}
 
@@ -1067,15 +1067,15 @@ When you finish a [respite](../rule/resource/respite.md), you can prepare a magi
 
 - Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different [damage immunity](../rule/damage/damage-immunity.md) each time.
 - Each creature gains 20 [temporary Stamina](../rule/health/temporary-stamina.md).
-- Each creature gains a +1 bonus to [speed](../rule/character/speed.md).
-- Each creature gains a +1 bonus to [saving throws](../rule/general/saving-throw.md).
+- Each creature gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md).
+- Each creature gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md).
 - Each creature gains an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to influence other creatures.
 
 Each benefit lasts until the creature who gains it finishes another [respite](../rule/resource/respite.md).
 
 #### Ride the Lightning {data-scc="mcdm.heroes.v1/feature.censor.level-7/ride-the-lightning"}
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal [rolled damage](../rule/damage/rolled-damage.md) to another creature, the ability deals extra lightning damage equal to your [Presence](../rule/character/presence.md) score. Additionally, if you use an ability that force moves a creature, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Presence](../rule/character/presence.md) score. While you are under the effect of your [Windwalk](../feature/censor/level-4/windwalk.md) feature, lightning enhances your locomotion to grant you a bonus to [speed](../rule/character/speed.md) equal to your [Might](../rule/character/might.md) score. If [Windwalk](../feature/censor/level-4/windwalk.md) already grants you a bonus to [speed](../rule/character/speed.md), this bonus adds to that.
+Lightning and thunder infuse your body. Whenever you use an ability to deal [rolled damage](../rule/damage/rolled-damage.md) to another creature, the ability deals extra lightning damage equal to your [Presence](../rule/character/presence.md) score. Additionally, if you use an ability that force moves a creature, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a [bonus](../rule/dice/bonuses-and-penalties.md) equal to your [Presence](../rule/character/presence.md) score. While you are under the effect of your [Windwalk](../feature/censor/level-4/windwalk.md) feature, lightning enhances your locomotion to grant you a [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) equal to your [Might](../rule/character/might.md) score. If [Windwalk](../feature/censor/level-4/windwalk.md) already grants you a [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md), this [bonus](../rule/dice/bonuses-and-penalties.md) adds to that.
 
 #### Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.censor.level-7/trinity-of-trickery"}
 
@@ -1086,11 +1086,11 @@ You have the following ability.
 
 *Hey! I'm over here. No, here, numbskull.*
 
-| **Magic, Ranged** |            **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
-**Effect:** You create two illusory duplicates of the target, which appear anywhere within [distance](../rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their [speed](../rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../rule/combat/triggered-action.md) to switch places with a duplicate within their [line of effect](../rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+**Effect:** You create two illusory duplicates of the target, which appear anywhere within [distance](../rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their [turns](../rule/combat/turn.md), the target can move each duplicate up to their [speed](../rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../rule/combat/triggered-action.md) to switch places with a duplicate within their [line of effect](../rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 
 #### Word of Death Deferred {data-scc="mcdm.heroes.v1/feature.censor.level-7/word-of-death-deferred"}
 
@@ -1108,7 +1108,7 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 ### Focused Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-7/focused-wrath"}
 
-When you gain wrath at the start of each of your turns during combat, you gain 3 wrath instead of 2.
+When you gain wrath at the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 3 wrath instead of 2.
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-7/skill"}
 
@@ -1155,9 +1155,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You curse your foe to become a bane to their allies.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -1165,16 +1165,16 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 13 + M damage; I < AVERAGE, [weakened](../condition/weakened.md) (save ends)
 - **17+:** 18 + M damage; I < STRONG, [weakened](../condition/weakened.md) (save ends)
 
-**Effect:** At the end of each of your turns, a target [weakened](../condition/weakened.md) this way deals holy damage equal to twice your [Presence](../rule/character/presence.md) score to each enemy within 2 squares of them. Additionally, a target [weakened](../condition/weakened.md) this way can't be targeted by their allies' abilities.
+**Effect:** At the end of each of your [turns](../rule/combat/turn.md), a target [weakened](../condition/weakened.md) this way deals holy damage equal to twice your [Presence](../rule/character/presence.md) score to each enemy within 2 squares of them. Additionally, a target [weakened](../condition/weakened.md) this way can't be targeted by their allies' abilities.
 
 #### Hand of the Gods {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/hand-of-the-gods"}
 
 
 *You use your foe as a tool against your enemies.*
 
-| **Ranged, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           |           **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           |           **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -1189,9 +1189,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Your enemy's guilt fuels a holy flame that burns your foes.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon**  |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Melee 1**             | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**             | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -1199,16 +1199,16 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 13 + M damage; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
 - **17+:** 18 + M damage; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 
-**Effect:** At the end of each of your turns, a target [dazed](../condition/dazed.md) this way deals holy damage equal to twice your [Presence](../rule/character/presence.md) score to each enemy within 2 squares of them.
+**Effect:** At the end of each of your [turns](../rule/combat/turn.md), a target [dazed](../condition/dazed.md) this way deals holy damage equal to twice your [Presence](../rule/character/presence.md) score to each enemy within 2 squares of them.
 
 #### Your Allies Turn on You! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/your-allies-turn-on-you"}
 
 
-*You turn your enemies' ire to the target.*
+*You [turn](../rule/combat/turn.md) your enemies' ire to the target.*
 
-| **Ranged, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           |           **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           |           **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -1216,7 +1216,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 9 + P damage; I < AVERAGE, [slowed](../condition/slowed.md) (save ends)
 - **17+:** 12 + P damage; I < STRONG, [slowed](../condition/slowed.md) (save ends)
 
-**Effect:** While the target is [slowed](../condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a [free maneuver](../rule/combat/free-maneuver.md) to make a [free strike](../feature/common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../feature/common/main-actions/free-strike.md) against a different creature must make the [free strike](../feature/common/main-actions/free-strike.md) against the target instead.
+**Effect:** While the target is [slowed](../condition/slowed.md) this way, each of their allies who starts their [turn](../rule/combat/turn.md) within 5 squares of them must use a [free maneuver](../rule/combat/free-maneuver.md) to make a [free strike](../feature/common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../feature/common/main-actions/free-strike.md) against a different creature must make the [free strike](../feature/common/main-actions/free-strike.md) against the target instead.
 
 ## 9th-Level Features
 
@@ -1226,8 +1226,8 @@ As a 9th-level [censor](censor.md), you gain the following features.
 
 The weapon you target with your [Implement of Wrath](../feature/censor/level-6/implement-of-wrath.md) feature gains the following additional benefits:
 
-- The weapon's wielder and each ally adjacent to them gain a +2 bonus to [saving throws](../rule/general/saving-throw.md).
-- At the end of each of the weapon wielder's turns, each ally adjacent to the wielder makes a [saving throw](../rule/general/saving-throw.md) against each effect on them that is ended by a [saving throw](../rule/general/saving-throw.md).
+- The weapon's wielder and each ally [adjacent](../rule/combat/adjacent.md) to them gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md).
+- At the end of each of the weapon wielder's [turns](../rule/combat/turn.md), each ally [adjacent](../rule/combat/adjacent.md) to the wielder makes a [saving throw](../rule/general/saving-throw.md) against each effect on them that is ended by a [saving throw](../rule/general/saving-throw.md).
 - The weapon's wielder has corruption immunity 10.
 
 ### 9th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-9/9th-level-order-ability"}
@@ -1243,9 +1243,9 @@ Choose one of the following abilities.
 
 *You sever the target's tenuous connection to the world.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon**  |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Melee 1**             | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**             | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -1260,9 +1260,9 @@ Choose one of the following abilities.
 
 *"I know what you fear."*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -1281,9 +1281,9 @@ Choose one of the following abilities.
 
 *The gods bless and damn in equal measure.*
 
-| **Magic, Ranged**  |       **Triggered** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |       **Triggered** |
 |--------------------|--------------------:|
-| **📏 Ranged 10**   | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 One creature** |
 
 **Trigger:** The target makes a [power roll](../rule/dice/power-roll.md).
 
@@ -1294,13 +1294,13 @@ Choose one of the following abilities.
 
 *You have looked at various futures, and only this one works.*
 
-| **Magic, Ranged**  |   **Triggered** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |   **Triggered** |
 |--------------------|----------------:|
-| **📏 Ranged 10**   | **🎯 One ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 One ally** |
 
-**Trigger:** You or another hero ends their turn.
+**Trigger:** You or another hero ends their [turn](../rule/combat/turn.md).
 
-**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md).
+**Effect:** The target takes their [turn](../rule/combat/turn.md) after the triggering hero, and immediately removes all [conditions](../rule/combat/condition.md) and negative effects on themself. During their [turn](../rule/combat/turn.md), the target has a double [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md).
 
 #### 9th-Level Paragon Abilities
 
@@ -1311,9 +1311,9 @@ Choose one of the following abilities.
 
 *You channel holy energy to seal an enemy's fate.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
@@ -1332,7 +1332,7 @@ Choose one of the following abilities.
 |-----------------|--------------------------------------:|
 | **📏 2 [aura](../rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target who starts their turn in the area gains 10 [temporary Stamina](../rule/health/temporary-stamina.md).
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target who starts their [turn](../rule/combat/turn.md) in the area gains 10 [temporary Stamina](../rule/health/temporary-stamina.md).
 
 ## 10th-Level Features
 
@@ -1344,7 +1344,7 @@ Your [Might](../rule/character/might.md) and [Presence](../rule/character/presen
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-10/perk"}
 
-You gain one crafting, lore, or supernatural perk of your choice.
+You gain one crafting, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-10/skill"}
 
@@ -1368,4 +1368,4 @@ Additionally, you can spend 3 [virtue](../feature/censor/level-10/virtue.md) to 
 
 ### Wrath of the Gods {data-scc="mcdm.heroes.v1/feature.censor.level-10/wrath-of-the-gods"}
 
-When you gain wrath at the start of each of your turns during combat, you gain 4 wrath instead of 3.
+When you gain wrath at the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 4 wrath instead of 3.

@@ -2,12 +2,12 @@
 action_type: Main action
 class: troubadour
 cost: 11 Drama
-distance: Melee 3
+distance: '[Melee](../../../../rule/combat/melee.md) 3'
 effect: This ability can't obtain better than a tier 2 outcome unless the target is at maximum [distance](../../../../rule/combat/distance.md). If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 [surges](../../../../rule/resource/surge.md) that you can use immediately.
 flavor: If you can land the [strike](../../../../rule/combat/strike.md), the crowd goes wild.
 keywords:
     - Charge
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "9"
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Drama</div></div>
 </div>
 <p class="sc-ability__flavor">If you can land the <a href="../../../../../rule/combat/strike/">strike</a>, the crowd goes wild.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 3</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 3</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">

@@ -2,12 +2,12 @@
 action_type: Main action
 class: talent
 cost: 11 Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: This ability ignores [cover](../../../../rule/combat/cover.md) and [concealment](../../../../rule/combat/concealment.md).
 flavor: You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Telepathy
 level: "9"
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Clarity</div></div>
 </div>
 <p class="sc-ability__flavor">You fire a telepathic bolt empowered by every consciousness within reach directly into your foe&#39;s mind.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

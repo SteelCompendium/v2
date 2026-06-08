@@ -41,18 +41,18 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The triggering creature starts their turn.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> I &lt; WEAK, the target loses their turn</li><li><b>12-16:</b> I &lt; AVERAGE, the target loses their turn</li><li><b>17+:</b> I &lt; STRONG, the target loses their turn</li></ul></div>
+<div class="sc-ability__section-body"><p>The triggering creature starts their <a href="../../../../rule/combat/turn/">turn</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> I &lt; WEAK, the target loses their <a href="../../../../rule/combat/turn/">turn</a></li><li><b>12-16:</b> I &lt; AVERAGE, the target loses their <a href="../../../../rule/combat/turn/">turn</a></li><li><b>17+:</b> I &lt; STRONG, the target loses their <a href="../../../../rule/combat/turn/">turn</a></li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target loses their turn, the round continues as if they had acted. A target who doesn&#39;t lose their turn takes psychic damage equal to twice your <a href="../../../../rule/character/intuition/">Intuition</a> score for each main action they take until the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>If the target loses their <a href="../../../../rule/combat/turn/">turn</a>, the round continues as if they had acted. A target who doesn&#39;t lose their <a href="../../../../rule/combat/turn/">turn</a> takes psychic damage equal to twice your <a href="../../../../rule/character/intuition/">Intuition</a> score for each main action they take until the end of their next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
@@ -72,11 +72,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>Another creature on the encounter map ends their turn.</p></div>
+<div class="sc-ability__section-body"><p>Another creature on the encounter map ends their <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.</p></div>
+<div class="sc-ability__section-body"><p>You take a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> <a href="../../../../rule/combat/turn/">turn</a> immediately after the triggering creature. This ability can be used only once per <a href="../../../../rule/combat/combat-round/">combat round</a>.</p></div>
 </div>
 </article>
 </div>
@@ -111,7 +111,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> granted by your <a href="../../level-2/entropic-adaptability/">Entropic Adaptability</a> trait, you ignore the negative effects of <a href="../../../../rule/health/dying/">dying</a>, and you have a +2 bonus to <a href="../../../../rule/character/potency/">potencies</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> granted by your <a href="../../level-2/entropic-adaptability/">Entropic Adaptability</a> trait, you ignore the negative effects of <a href="../../../../rule/health/dying/">dying</a>, and you have a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/potency/">potencies</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -124,9 +124,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You drain all the heat from the target.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -134,7 +134,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While <a href="../../../../condition/restrained/">restrained</a> this way, the target takes cold damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score at the start of each of your turns. Additionally, whenever the target damages another creature while <a href="../../../../condition/restrained/">restrained</a> this way, any <a href="../../../../rule/character/potency/">potency</a> associated with the damage is reduced by 2.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../condition/restrained/">restrained</a> this way, the target takes cold damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score at the start of each of your <a href="../../../../rule/combat/turn/">turns</a>. Additionally, whenever the target damages another creature while <a href="../../../../condition/restrained/">restrained</a> this way, any <a href="../../../../rule/character/potency/">potency</a> associated with the damage is reduced by 2.</p></div>
 </div>
 </article>
 </div>
@@ -183,9 +183,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your essential hyperreality disrupts your enemy&#39;s connection to existence.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -193,7 +193,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While <a href="../../../../condition/dazed/">dazed</a> this way, the target takes psychic damage equal to twice your <a href="../../../../rule/character/intuition/">Intuition</a> score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become <a href="../../../../rule/health/winded/">winded</a>, they are instead reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>. Any creature reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director&#39;s discretion.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../condition/dazed/">dazed</a> this way, the target takes psychic damage equal to twice your <a href="../../../../rule/character/intuition/">Intuition</a> score at the start of each of your <a href="../../../../rule/combat/turn/">turns</a>. If this ability causes a creature who is not a leader or solo creature to become <a href="../../../../rule/health/winded/">winded</a>, they are instead reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>. Any creature reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director&#39;s discretion.</p></div>
 </div>
 </article>
 </div>

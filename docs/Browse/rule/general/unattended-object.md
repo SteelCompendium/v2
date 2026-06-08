@@ -15,4 +15,4 @@ Mundane objects in the game have [Stamina](../health/stamina.md) based on the ma
 - Stone: 6 [Stamina](../health/stamina.md)
 - Metal: 9 [Stamina](../health/stamina.md)
 
-The Director can decide that a well-made or poorly made object has more or less [Stamina](../health/stamina.md). Destroying a supernatural object often (but not always) requires a specific quest, such as throwing a magic ring back into the volcano where it was forged.
+The Director can decide that a well-made or poorly made object has more or less [Stamina](../health/stamina.md). Destroying a [supernatural](supernatural.md) object often (but not always) requires a specific quest, such as throwing a magic ring back into the volcano where it was forged.

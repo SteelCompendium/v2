@@ -145,7 +145,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glo
 
 #### Bloodfire Rush {data-scc="mcdm.heroes.v1/feature.trait.orc/bloodfire-rush"}
 
-The magic coursing through your veins makes you run faster in the heat of battle. The first time in any combat round that you take damage, you gain a +2 bonus to [speed](../rule/character/speed.md) until the end of the round.
+The magic coursing through your veins makes you run faster in the heat of battle. The first time in any [combat round](../rule/combat/combat-round.md) that you take damage, you gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of the round.
 
 #### Glowing Recovery {data-scc="mcdm.heroes.v1/feature.trait.orc/glowing-recovery"}
 
@@ -153,7 +153,7 @@ Your bloodfire allows you to regain your strength quicker than others. Whenever 
 
 #### Grounded {data-scc="mcdm.heroes.v1/feature.trait.orc/grounded"}
 
-The magic in your blood makes it difficult for others to move you. You have a +1 bonus to [stability](../rule/character/stability.md).
+The magic in your blood makes it difficult for others to move you. You have a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [stability](../rule/character/stability.md).
 
 #### Nonstop {data-scc="mcdm.heroes.v1/feature.trait.orc/nonstop"}
 
@@ -161,4 +161,4 @@ Your bloodfire supplies you with a constant rush of adrenaline. You can't be mad
 
 #### Passionate Artisan {data-scc="mcdm.heroes.v1/feature.trait.orc/passionate-artisan"}
 
-When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the crafting skill group, whether you have those skills or not. Whenever you make a [project roll](../rule/downtime/project-roll.md) for a [crafting project](../rule/downtime/crafting-project.md) that uses these skills, you gain a +2 bonus to the roll.
+When you are stirred by a passion for creation, your bloodfire allows you to work longer and harder. When you gain your initial skills from your career, culture, class, or other source, choose two skills from the crafting skill group, whether you have those skills or not. Whenever you make a [project roll](../rule/downtime/project-roll.md) for a [crafting project](../rule/downtime/crafting-project.md) that uses these skills, you gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to the roll.

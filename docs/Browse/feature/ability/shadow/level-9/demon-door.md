@@ -2,12 +2,12 @@
 action_type: Main action
 class: shadow
 cost: 11 Insight
-distance: Melee 3
+distance: '[Melee](../../../../rule/combat/melee.md) 3'
 effect: On a [critical hit](../../../../rule/combat/critical-hit.md), the target is [grabbed](../../../../condition/grabbed.md) by the demon and pulled through the portal before it closes, never to be seen again.
 flavor: You create a temporary portal to allow a massive demonic hand to reach through.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "9"
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Insight</div></div>
 </div>
 <p class="sc-ability__flavor">You create a temporary portal to allow a massive demonic hand to reach through.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 3</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 3</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

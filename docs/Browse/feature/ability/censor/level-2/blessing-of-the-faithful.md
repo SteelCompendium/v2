@@ -3,7 +3,7 @@ action_type: Maneuver
 class: censor
 cost: 5 Wrath
 distance: 3 [aura](../../../../rule/combat/aura.md)
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 1 [surge](../../../../rule/resource/surge.md) at the end of each of your turns.
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 1 [surge](../../../../rule/resource/surge.md) at the end of each of your [turns](../../../../rule/combat/turn.md).
 flavor: The gods reward your faith.
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each target gains 1 <a href="../../../../../rule/resource/surge/">surge</a> at the end of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each target gains 1 <a href="../../../../../rule/resource/surge/">surge</a> at the end of each of your <a href="../../../../../rule/combat/turn/">turns</a>.</p></div>
 </div>
 </article>

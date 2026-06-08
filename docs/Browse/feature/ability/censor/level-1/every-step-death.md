@@ -1,12 +1,12 @@
 ---
 action_type: Main action
 class: censor
-distance: Ranged 10
-effect: Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: Each time the target willingly moves before the end of your next [turn](../../../../rule/combat/turn.md), they take 1 psychic damage for each square they move.
 flavor: You show your foe a glimpse of their fate after death.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Every Step... Death!
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">You show your foe a glimpse of their fate after death.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -40,6 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.</p></div>
+<div class="sc-ability__section-body"><p>Each time the target willingly moves before the end of your next <a href="../../../../../rule/combat/turn/">turn</a>, they take 1 psychic damage for each square they move.</p></div>
 </div>
 </article>

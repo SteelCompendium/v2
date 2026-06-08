@@ -4,11 +4,11 @@ class: conduit
 cost: 3 Piety
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
 effect: You can push each willing ally in the area the same [distance](../../../../rule/combat/distance.md), ignoring [stability](../../../../rule/character/stability.md).
-flavor: You ask your saint for thunder and your prayer is answered.
+flavor: You ask your [saint](../../../../rule/world/saint.md) for thunder and your prayer is answered.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Call the Thunder Down
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down
@@ -29,8 +29,8 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">3</span> Piety</div></div>
 </div>
-<p class="sc-ability__flavor">You ask your saint for thunder and your prayer is answered.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<p class="sc-ability__flavor">You ask your <a href="../../../../../rule/world/saint/">saint</a> for thunder and your prayer is answered.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>

@@ -70,7 +70,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares regains <a href="../../../../rule/health/stamina/">Stamina</a>.</li><li><b>Prayer Effect:</b> Choose yourself or one ally within 10 squares. That character can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, can end one effect on them that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn, or can stand up if they <a href="../../../../condition/prone/">are prone</a>. Alternatively, you or one ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to two times your <a href="../../../../rule/character/intuition/">Intuition</a> score.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares regains <a href="../../../../rule/health/stamina/">Stamina</a>.</li><li><b>Prayer Effect:</b> Choose yourself or one ally within 10 squares. That character can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, can end one effect on them that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../../../rule/combat/turn/">turn</a>, or can stand up if they <a href="../../../../condition/prone/">are prone</a>. Alternatively, you or one ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to two times your <a href="../../../../rule/character/intuition/">Intuition</a> score.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -140,7 +140,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.</li><li><b>Prayer Effect:</b> Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single <a href="../../../../rule/combat/turn/">turn</a>.</li><li><b>Prayer Effect:</b> Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>.</li></ul>
 </div>
 </section>
 </div>

@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have a bonus to <a href="../../../../rule/character/speed/">speed</a> equal to your <a href="../../../../rule/character/agility/">Agility</a> score, and you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p>
+<p>You have a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> equal to your <a href="../../../../rule/character/agility/">Agility</a> score, and you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the end of each of your turns, each enemy adjacent to you takes damage equal to your <a href="../../../../rule/character/might/">Might</a> score.</p>
+<p>At the end of each of your <a href="../../../../rule/combat/turn/">turns</a>, each enemy <a href="../../../../rule/combat/adjacent/">adjacent</a> to you takes damage equal to your <a href="../../../../rule/character/might/">Might</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

@@ -2,12 +2,12 @@
 action_type: Maneuver
 class: conduit
 cost: 9 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The first time the target is [dying](../../../../rule/health/dying.md) or [winded](../../../../rule/health/winded.md) before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.
 flavor: You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "5"
 name: Vessel of Retribution
 scc: mcdm.heroes.v1/feature.ability.conduit.level-5/vessel-of-retribution
@@ -29,9 +29,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Piety</div></div>
 </div>
 <p class="sc-ability__flavor">You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">

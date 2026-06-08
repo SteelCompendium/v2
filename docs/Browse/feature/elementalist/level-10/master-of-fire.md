@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.</p>
-<p>Additionally, your <a href="../../../ability/elementalist/level-1/return-to-formlessness/">Return to Formlessness</a> ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: <a href="../../../../../Read/heroes/rewards/">Rewards</a>), you gain breath equal to its <a href="../../../../rule/general/echelon/">echelon</a>.</p>
+<p>The damage <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.</p>
+<p>Additionally, your <a href="../../../ability/elementalist/level-1/return-to-formlessness/">Return to Formlessness</a> ability can be used on <a href="../../../../rule/general/supernatural/">supernatural</a> objects (but not on artifacts). When you melt a treasure (see Chapter 13: <a href="../../../../../Read/heroes/rewards/">Rewards</a>), you gain breath equal to its <a href="../../../../rule/general/echelon/">echelon</a>.</p>
 </div>
 </section>

@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You move with legendary grace. Whenever you make an <a href="../../../../rule/character/agility/">Agility</a> <a href="../../../../rule/test/test/">test</a>, you can roll three dice and choose which two to use. Additionally, whenever you use the <a href="../../../common/move-actions/disengage/">Disengage</a> move action, the <a href="../../../../rule/combat/distance/">distance</a> you can <a href="../../../../movement/shifting/">shift</a> gains a bonus equal to your <a href="../../../../rule/character/agility/">Agility</a> score.</p>
+<p>You move with legendary grace. Whenever you make an <a href="../../../../rule/character/agility/">Agility</a> <a href="../../../../rule/test/test/">test</a>, you can roll three dice and choose which two to use. Additionally, whenever you use the <a href="../../../common/move-actions/disengage/">Disengage</a> move action, the <a href="../../../../rule/combat/distance/">distance</a> you can <a href="../../../../movement/shifting/">shift</a> gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../rule/character/agility/">Agility</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -62,7 +62,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your strength is unmatched. Whenever you make a <a href="../../../../rule/character/might/">Might</a> <a href="../../../../rule/test/test/">test</a>, you can roll three dice and choose which two to use. Additionally, whenever you use the <a href="../../../common/maneuvers/knockback/">Knockback</a> maneuver, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../rule/character/might/">Might</a> score.</p>
+<p>Your strength is unmatched. Whenever you make a <a href="../../../../rule/character/might/">Might</a> <a href="../../../../rule/test/test/">test</a>, you can roll three dice and choose which two to use. Additionally, whenever you use the <a href="../../../common/maneuvers/knockback/">Knockback</a> maneuver, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../rule/character/might/">Might</a> score.</p>
 </div>
 </section>
 </div>

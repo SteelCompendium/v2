@@ -8,4 +8,4 @@ type: skill
 
 ---
 
-Make ranged weapons and ammunition.
+Make [ranged](../rule/combat/ranged.md) weapons and ammunition.

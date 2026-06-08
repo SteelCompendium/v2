@@ -1,8 +1,6 @@
 ---
-disengage_bonus: "+1"
 equipment_text: You wear no armor and wield a bow.
 name: Sniper
-ranged_damage_bonus: +0/+0/+4
 scc: mcdm.heroes.v1/kit/sniper
 type: kit
 ---
@@ -19,13 +17,13 @@ You wear no armor and wield a bow.
 
 ## Kit Bonuses
 
-**[Speed](../rule/character/speed.md) Bonus:** +1
+**[Speed](../rule/character/speed.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +1
 
-**Ranged Damage Bonus:** +0/+0/+4
+**[Ranged](../rule/combat/ranged.md) Damage [Bonus](../rule/dice/bonuses-and-penalties.md):** +0/+0/+4
 
-**Ranged [Distance](../rule/combat/distance.md) Bonus:** +10
+**[Ranged](../rule/combat/ranged.md) [Distance](../rule/combat/distance.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +10
 
-**Disengage Bonus:** +1
+**Disengage [Bonus](../rule/dice/bonuses-and-penalties.md):** +1
 
 ## Signature Ability
 
@@ -33,9 +31,9 @@ You wear no armor and wield a bow.
 
 *Breathe... aim... wait... then strike!*
 
-| **Ranged, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 15**           | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 15**           | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
@@ -43,4 +41,4 @@ You wear no armor and wield a bow.
 - **12-16:** 6 + M or A damage
 - **17+:** 13 + M or A damage
 
-**Effect:** If you don't take a move action this turn, this [strike](../rule/combat/strike.md) deals extra damage equal to your [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md) score (your choice).
+**Effect:** If you don't take a move action this [turn](../rule/combat/turn.md), this [strike](../rule/combat/strike.md) deals extra damage equal to your [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md) score (your choice).

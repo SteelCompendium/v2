@@ -7,7 +7,7 @@ flavor: A raging storm appears, striking your foes with lightning and throwing t
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Saint's Tempest
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/saints-tempest
@@ -29,7 +29,7 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Piety</div></div>
 </div>
 <p class="sc-ability__flavor">A raging storm appears, striking your foes with lightning and throwing them around with wind.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>

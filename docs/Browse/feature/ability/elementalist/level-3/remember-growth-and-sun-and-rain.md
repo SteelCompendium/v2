@@ -1,13 +1,13 @@
 ---
 action_type: Main action
 class: elementalist
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object's location as if you were there.
 flavor: You stir any wood's memory and learn what it has seen.
 keywords:
     - Green
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
 level: "3"
 name: Remember Growth and Sun and Rain
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-3/remember-growth-and-sun-and-rain
@@ -29,9 +29,9 @@ type: ability
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You stir any wood&#39;s memory and learn what it has seen.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One mundane wooden object</div></div>
 </div>
 <div class="sc-ability__section">

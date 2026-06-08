@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one <a href="../../../../rule/test/test/">test</a> made to jump, tumble, or climb as part of their movement before the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../../rule/combat/turn/">turn</a> in the area can automatically obtain a tier 3 outcome on one <a href="../../../../rule/test/test/">test</a> made to jump, tumble, or climb as part of their movement before the end of their <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 </div>

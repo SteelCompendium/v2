@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of your turn, you can end any <a href="../../../../condition/restrained/">restrained</a> condition on you. Additionally, you have a double <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to escape being confined or imprisoned.</p>
+<p>At the start of your <a href="../../../../rule/combat/turn/">turn</a>, you can end any <a href="../../../../condition/restrained/">restrained</a> <a href="../../../../rule/combat/condition/">condition</a> on you. Additionally, you have a double <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to escape being confined or imprisoned.</p>
 </div>
 </section>

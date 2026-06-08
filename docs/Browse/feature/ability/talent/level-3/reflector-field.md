@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 7 Clarity
 distance: 3 [aura](../../../../rule/combat/aura.md)
-effect: The [aura](../../../../rule/combat/aura.md) lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.
+effect: The [aura](../../../../rule/combat/aura.md) lasts until the start of your next [turn](../../../../rule/combat/turn.md). Whenever an enemy targets an ally in the area with a [ranged](../../../../rule/combat/ranged.md) ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.
 flavor: A protective field reverses the momentum of incoming attacks.
 keywords:
     - Area
@@ -37,7 +37,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The <a href="../../../../../rule/combat/aura/">aura</a> lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../../rule/combat/aura/">aura</a> lasts until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>. Whenever an enemy targets an ally in the area with a <a href="../../../../../rule/combat/ranged/">ranged</a> ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

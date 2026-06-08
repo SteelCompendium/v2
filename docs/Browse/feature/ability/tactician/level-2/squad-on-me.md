@@ -3,7 +3,7 @@ action_type: Maneuver
 class: tactician
 cost: 5 Focus
 distance: 1 [burst](../../../../rule/combat/burst.md)
-effect: Until the start of your next turn, each target has a bonus to [stability](../../../../rule/character/stability.md) equal to your [Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../../rule/resource/surge.md).
+effect: Until the start of your next [turn](../../../../rule/combat/turn.md), each target has a [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [stability](../../../../rule/character/stability.md) equal to your [Might](../../../../rule/character/might.md) score. Additionally, each target gains 2 [surges](../../../../rule/resource/surge.md).
 flavor: Together we are invincible!
 keywords:
     - Area
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, each target has a bonus to <a href="../../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../../rule/character/might/">Might</a> score. Additionally, each target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>, each target has a <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../../rule/character/might/">Might</a> score. Additionally, each target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>

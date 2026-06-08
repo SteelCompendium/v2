@@ -19,9 +19,9 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 >
 > *"Move or die, folks."*
 >
-> | **Ranged**       | **Main action** |
+> | **[Ranged](../rule/combat/ranged.md)**       | **Main action** |
 > |------------------|----------------:|
-> | **📏 Ranged 10** | **🎯 One ally** |
+> | **📏 [Ranged](../rule/combat/ranged.md) 10** | **🎯 One ally** |
 >
 > **Effect:** The target can use a [triggered action](../rule/combat/triggered-action.md) to take a main action, a maneuver, or a move action.
 >

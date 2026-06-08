@@ -41,9 +41,9 @@ type: feature
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">Your precise strikes let your allies take advantage of a target&#39;s agony.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -64,9 +64,9 @@ type: feature
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">&#34;It&#39;s better, just you and me. Isn&#39;t it?&#34;</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../rule/combat/ranged/">ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -74,7 +74,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target has none of your allies adjacent to them, you gain 1 <a href="../../../../rule/resource/surge/">surge</a> before making the <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
+<div class="sc-ability__section-body"><p>If the target has none of your allies <a href="../../../../rule/combat/adjacent/">adjacent</a> to them, you gain 1 <a href="../../../../rule/resource/surge/">surge</a> before making the <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -87,9 +87,9 @@ type: feature
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">You attack an enemy as an ally exposes their weakness.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../rule/combat/ranged/">ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -97,7 +97,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If any ally is adjacent to the target, you gain 1 <a href="../../../../rule/resource/surge/">surge</a> before making the <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
+<div class="sc-ability__section-body"><p>If any ally is <a href="../../../../rule/combat/adjacent/">adjacent</a> to the target, you gain 1 <a href="../../../../rule/resource/surge/">surge</a> before making the <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -110,9 +110,9 @@ type: feature
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">They can&#39;t watch both of you at once.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -155,9 +155,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your attack leaves them reeling, allowing you to follow up.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -178,9 +178,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You leave your foe bleeding out after a devastating attack.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../rule/combat/ranged/">ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -197,9 +197,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Move unexpectedly, strike fast, and be gone!</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -220,9 +220,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">A bargain.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../rule/combat/ranged/">ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two creatures or objects</div></div>
 </div>
 <div class="sc-ability__section">
@@ -251,9 +251,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your blade might be the last thing they see.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../rule/combat/ranged/">ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -270,14 +270,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">As you move across the battlefield, every foe within reach feels your wrath.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a> and make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets up to three enemies who came adjacent to you during the move.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 3 damage</li><li><b>12-16:</b> 6 damage</li><li><b>17+:</b> 9 damage</li></ul></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a> and make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets up to three enemies who came <a href="../../../../rule/combat/adjacent/">adjacent</a> to you during the move.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 3 damage</li><li><b>12-16:</b> 6 damage</li><li><b>17+:</b> 9 damage</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -290,9 +290,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your friends will thank you.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -309,7 +309,7 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">They have no idea what the college taught you.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>

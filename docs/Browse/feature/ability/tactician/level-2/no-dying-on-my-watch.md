@@ -2,11 +2,11 @@
 action_type: Triggered
 class: tactician
 cost: 5 Focus
-distance: Ranged 5
-effect: You move up to your [speed](../../../../rule/character/speed.md) toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
+effect: You move up to your [speed](../../../../rule/character/speed.md) toward the triggering ally, ending this movement [adjacent](../../../../rule/combat/adjacent.md) to them or in the nearest square if you can't reach an [adjacent](../../../../rule/combat/adjacent.md) square. The triggering ally can spend a [Recovery](../../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each enemy you came [adjacent](../../../../rule/combat/adjacent.md) to during the move. You then make a [power roll](../../../../rule/dice/power-roll.md) against the target.
 flavor: You prioritize saving an ally over your own safety.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "2"
@@ -32,9 +32,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Focus</div></div>
 </div>
 <p class="sc-ability__flavor">You prioritize saving an ally over your own safety.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
 </div>
 <div class="sc-ability__section">
@@ -43,6 +43,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your <a href="../../../../../rule/character/speed/">speed</a> toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can&#39;t reach an adjacent square. The triggering ally can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a> and gains 5 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> for each enemy you came adjacent to during the move. You then make a <a href="../../../../../rule/dice/power-roll/">power roll</a> against the target.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> R &lt; WEAK, the target is <a href="../../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li><li><b>12-16:</b> R &lt; AVERAGE, the target is <a href="../../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li><li><b>17+:</b> R &lt; STRONG, the target is <a href="../../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li></ul></div>
+<div class="sc-ability__section-body"><p>You move up to your <a href="../../../../../rule/character/speed/">speed</a> toward the triggering ally, ending this movement <a href="../../../../../rule/combat/adjacent/">adjacent</a> to them or in the nearest square if you can&#39;t reach an <a href="../../../../../rule/combat/adjacent/">adjacent</a> square. The triggering ally can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a> and gains 5 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> for each enemy you came <a href="../../../../../rule/combat/adjacent/">adjacent</a> to during the move. You then make a <a href="../../../../../rule/dice/power-roll/">power roll</a> against the target.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> R &lt; WEAK, the target is <a href="../../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li><li><b>12-16:</b> R &lt; AVERAGE, the target is <a href="../../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li><li><b>17+:</b> R &lt; STRONG, the target is <a href="../../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li></ul></div>
 </div>
 </article>

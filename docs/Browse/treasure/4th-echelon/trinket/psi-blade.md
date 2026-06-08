@@ -1,6 +1,6 @@
 ---
 echelon: "4"
-effect: While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a melee weapon free strike that deals an extra 3 psychic damage.
+effect: While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a [melee](../../../rule/combat/melee.md) weapon free strike that deals an extra 3 psychic damage.
 keywords:
     - Arms
     - Psionic
@@ -26,4 +26,4 @@ type: treasure
 
 **Project Goal:** 600
 
-**Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a melee weapon free strike that deals an extra 3 psychic damage.
+**Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a [melee](../../../rule/combat/melee.md) weapon free strike that deals an extra 3 psychic damage.

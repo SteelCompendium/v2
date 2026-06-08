@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The first time each combat round that a creature is <a href="../../../../movement/forced-movement/">force moved</a>, you gain 3 clarity instead of 2.</p>
+<p>The first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that a creature is <a href="../../../../movement/forced-movement/">force moved</a>, you gain 3 clarity instead of 2.</p>
 </div>
 </section>

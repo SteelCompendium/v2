@@ -2,8 +2,8 @@
 action_type: No action
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
-effect: At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md).
-flavor: There once was a man from Capital...
+effect: At the end of each of your [turns](../../../../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../../../../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../../../rule/health/recoveries.md).
+flavor: There once was a man from [Capital](../../../../rule/world/capital.md)...
 keywords:
     - Area
     - Magic
@@ -28,7 +28,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">There once was a man from Capital...</p>
+<p class="sc-ability__flavor">There once was a man from <a href="../../../../../rule/world/capital/">Capital</a>...</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../../rule/combat/aura/">aura</a></div></div>
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your <a href="../../../../../rule/character/presence/">Presence</a> score. Each chosen target can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each of your <a href="../../../../../rule/combat/turn/">turns</a> while this performance is active, you can choose up to a number of targets equal to your <a href="../../../../../rule/character/presence/">Presence</a> score. Each chosen target can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>

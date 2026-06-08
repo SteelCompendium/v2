@@ -2,11 +2,11 @@
 action_type: Free triggered
 class: tactician
 cost: 9 Focus
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: The target takes half the damage. You then make a [power roll](../../../../rule/dice/power-roll.md) against the triggering creature.
-flavor: You [parry](../level-1/parry.md) with almost supernatural [speed](../../../../rule/character/speed.md).
+flavor: You [parry](../level-1/parry.md) with almost [supernatural](../../../../rule/general/supernatural.md) [speed](../../../../rule/character/speed.md).
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "6"
 name: Instant Retaliation
@@ -30,10 +30,10 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Focus</div></div>
 </div>
-<p class="sc-ability__flavor">You <a href="../../level-1/parry/">parry</a> with almost supernatural <a href="../../../../../rule/character/speed/">speed</a>.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<p class="sc-ability__flavor">You <a href="../../level-1/parry/">parry</a> with almost <a href="../../../../../rule/general/supernatural/">supernatural</a> <a href="../../../../../rule/character/speed/">speed</a>.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
 <div class="sc-ability__section">

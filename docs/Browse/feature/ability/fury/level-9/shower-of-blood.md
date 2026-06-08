@@ -2,11 +2,11 @@
 action_type: Main action
 class: fury
 cost: 11 Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can't take [triggered actions](../../../../rule/combat/triggered-action.md) or free [triggered actions](../../../../rule/combat/triggered-action.md), [ability rolls](../../../../rule/dice/ability-roll.md) made against them gain an [edge](../../../../rule/dice/edge.md), and their [characteristic](../../../../rule/character/characteristic.md) scores are considered 1 lower for the purpose of resisting [potencies](../../../../rule/character/potency.md).
 flavor: You shock your foes with the brutality of your [strike](../../../../rule/combat/strike.md), resetting the balance of combat.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "9"
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Ferocity</div></div>
 </div>
 <p class="sc-ability__flavor">You shock your foes with the brutality of your <a href="../../../../../rule/combat/strike/">strike</a>, resetting the balance of combat.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

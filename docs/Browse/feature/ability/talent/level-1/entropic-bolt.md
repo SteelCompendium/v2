@@ -1,13 +1,13 @@
 ---
 action_type: Main action
 class: talent
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 flavor: You advance an enemy's age for a moment.
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Entropic Bolt
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">You advance an enemy&#39;s age for a moment.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">

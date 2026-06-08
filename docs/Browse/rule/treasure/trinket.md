@@ -84,7 +84,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee [free strike](../../feature/common/main-actions/free-strike.md) as a [free maneuver](../combat/free-maneuver.md) once during the fall before you hit the ground.
+**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a [melee](../combat/melee.md) [free strike](../../feature/common/main-actions/free-strike.md) as a [free maneuver](../combat/free-maneuver.md) once during the fall before you hit the ground.
 
 ### Displacing Replacement Bracer {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/displacing-replacement-bracer"}
 
@@ -116,7 +116,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../../feature/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../../condition/grabbed.md), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a [strike](../combat/strike.md), the target escapes your grab, or you call upon the vine to release the target (no action required).
+**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../../feature/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../../condition/grabbed.md), you can choose to keep the divine vine extended, pull the target [adjacent](../combat/adjacent.md) to you, or pull yourself [adjacent](../combat/adjacent.md) to the target. The divine vine stays attached to the target until it takes damage from a [strike](../combat/strike.md), the target escapes your grab, or you call upon the vine to release the target (no action required).
 
 ### Flameshade Gloves {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/flameshade-gloves"}
 
@@ -166,7 +166,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** Whenever you use the [Charge](../../feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 bonus to [speed](../character/speed.md) until the end of your current turn. After charging, you can use the [Knockback](../../feature/common/maneuvers/knockback.md) maneuver as a [free maneuver](../combat/free-maneuver.md), regardless of the target creature's [size](../character/size.md).
+**Effect:** Whenever you use the [Charge](../../feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 [bonus](../dice/bonuses-and-penalties.md) to [speed](../character/speed.md) until the end of your current [turn](../combat/turn.md). After charging, you can use the [Knockback](../../feature/common/maneuvers/knockback.md) maneuver as a [free maneuver](../combat/free-maneuver.md), regardless of the target creature's [size](../character/size.md).
 
 ### Mask of the Many {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/mask-of-the-many"}
 
@@ -214,7 +214,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** These boots can temporarily unbind themselves from the chains of the earth, letting you move through the air as high as 3 squares above the ground from where you started. If you end your turn while you are still airborne, you fall.
+**Effect:** These boots can temporarily unbind themselves from the chains of the earth, letting you move through the air as high as 3 squares above the ground from where you started. If you end your [turn](../combat/turn.md) while you are still airborne, you fall.
 
 ## 2nd-Echelon Trinkets
 
@@ -234,7 +234,7 @@ This section presents 2nd-[echelon](../general/echelon.md) [trinket](trinket.md)
 
 **Project Goal:** 300
 
-**Effect:** While worn, this belt grants you a +3 bonus to [Stamina](../health/stamina.md) and a +1 bonus to [Stability](../character/stability.md). This [Stamina](../health/stamina.md) bonus adds to the [Stamina](../health/stamina.md) bonus granted by other treasures.
+**Effect:** While worn, this belt grants you a +3 [bonus](../dice/bonuses-and-penalties.md) to [Stamina](../health/stamina.md) and a +1 [bonus](../dice/bonuses-and-penalties.md) to [Stability](../character/stability.md). This [Stamina](../health/stamina.md) [bonus](../dice/bonuses-and-penalties.md) adds to the [Stamina](../health/stamina.md) [bonus](../dice/bonuses-and-penalties.md) granted by other treasures.
 
 ### Evilest Eye {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.trinket/evilest-eye"}
 
@@ -282,7 +282,7 @@ This section presents 2nd-[echelon](../general/echelon.md) [trinket](trinket.md)
 
 **Project Goal:** 300
 
-**Effect:** As a maneuver, you touch the key to an adjacent willing, [grabbed](../../condition/grabbed.md), or [restrained](../../condition/restrained.md) creature and twist the key 90 degrees clockwise. That creature must answer the next three questions they are asked truthfully and fully. If twisted 90 degrees counterclockwise instead, the creature forgets the last 30 minutes they experienced. A creature affected by the key can't be affected again by any Key of Inquiry for 1 year. If the key is ever destroyed, all the memories it has erased are restored. Memories erased by the key can't be restored in any other way.
+**Effect:** As a maneuver, you touch the key to an [adjacent](../combat/adjacent.md) willing, [grabbed](../../condition/grabbed.md), or [restrained](../../condition/restrained.md) creature and twist the key 90 degrees clockwise. That creature must answer the next three questions they are asked truthfully and fully. If twisted 90 degrees counterclockwise instead, the creature forgets the last 30 minutes they experienced. A creature affected by the key can't be affected again by any Key of Inquiry for 1 year. If the key is ever destroyed, all the memories it has erased are restored. Memories erased by the key can't be restored in any other way.
 
 ### Mediator's Charm {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.trinket/mediators-charm"}
 
@@ -348,8 +348,8 @@ This section presents 2nd-[echelon](../general/echelon.md) [trinket](trinket.md)
 
 **Effect:** As a maneuver, you toss the coin in the air and let it fall to the ground in front of you. Roll a d3 to determine the coin's effect, depending on which face shows when it lands:
 
-- **1-Red:** The area within 2 squares of you is [difficult terrain](../../movement/difficult-terrain.md) for enemies until the end of your next turn.
-- **2-Green:** You and each ally who starts their turn within 2 squares of you gains a +1 bonus to [speed](../character/speed.md) until the end of your next turn.
+- **1-Red:** The area within 2 squares of you is [difficult terrain](../../movement/difficult-terrain.md) for enemies until the end of your next [turn](../combat/turn.md).
+- **2-Green:** You and each ally who starts their [turn](../combat/turn.md) within 2 squares of you gains a +1 [bonus](../dice/bonuses-and-penalties.md) to [speed](../character/speed.md) until the end of your next [turn](../combat/turn.md).
 - **3-Spinning Coin:** Both the red and green effects occur while the coin continuously spins.
 
 The coin must be picked up before it can be used again. If any creature picks up the coin, its effects immediately end.
@@ -372,7 +372,7 @@ This section presents 3rd-[echelon](../general/echelon.md) [trinket](trinket.md)
 
 **Project Goal:** 450
 
-**Effect:** While you wear them in combat, these bracers magically double the size of your hands and any melee weapons you wield, automatically compensating for the extra weight. You gain a +2 damage bonus for any weapon ability that deals [rolled damage](../damage/rolled-damage.md), and a +1 bonus to the [distance](../combat/distance.md) you push any target with any weapon ability. This damage bonus adds to the damage bonus granted by other treasures.
+**Effect:** While you wear them in combat, these bracers magically double the size of your hands and any [melee](../combat/melee.md) weapons you wield, automatically compensating for the extra weight. You gain a +2 damage [bonus](../dice/bonuses-and-penalties.md) for any weapon ability that deals [rolled damage](../damage/rolled-damage.md), and a +1 [bonus](../dice/bonuses-and-penalties.md) to the [distance](../combat/distance.md) you push any target with any weapon ability. This damage [bonus](../dice/bonuses-and-penalties.md) adds to the damage [bonus](../dice/bonuses-and-penalties.md) granted by other treasures.
 
 ### Mask of Oversight {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.trinket/mask-of-oversight"}
 
@@ -406,7 +406,7 @@ While the eyes circle your head, you can use a maneuver to launch up to three of
 
 **Project Goal:** 450
 
-**Effect:** While wearing the Mirage Band, you automatically perceive illusions for what they are, you can see invisible creatures, and supernatural effects can't conceal creatures and objects from you.
+**Effect:** While wearing the Mirage Band, you automatically perceive illusions for what they are, you can see invisible creatures, and [supernatural](../general/supernatural.md) effects can't conceal creatures and objects from you.
 
 Additionally, you have the following ability.
 
@@ -415,9 +415,9 @@ Additionally, you have the following ability.
 >
 > *A blanket of illusion twists around you and your allies, making you seem as if you belong wherever you are.*
 >
-> | **Psionic, Ranged** |             **Maneuver** |
+> | **Psionic, [Ranged](../combat/ranged.md)** |             **Maneuver** |
 > |---------------------|-------------------------:|
-> | **📏 Ranged 10**    | **🎯 Self and any ally** |
+> | **📏 [Ranged](../combat/ranged.md) 10**    | **🎯 Self and any ally** |
 >
 > **Effect:** Each target is covered by an illusion causing them to appear exactly as any creature (humanoid, animal, undead, and so forth) an observer most expects to see. The illusion ends for all targets if any creature under its effect harms or physically interacts with any creature not affected by the illusion, if you use this ability again, or if you choose to end the effect (no action required). The illusion also ends for any affected ally who moves more than the [distance](../combat/distance.md) of this ability away from you.
 
@@ -444,9 +444,9 @@ Additionally, you have the following ability.
 >
 > *Your punch delivers a devastating burst of psionic energy.*
 >
-> | **Melee, Psionic**, **Strike, Weapon** |               **Main action** |
+> | **[Melee](../combat/melee.md), Psionic**, **Strike, Weapon** |               **Main action** |
 > |----------------------------------------|------------------------------:|
-> | **📏 Melee 1**                         | **🎯 One creature or object** |
+> | **📏 [Melee](../combat/melee.md) 1**                         | **🎯 One creature or object** |
 >
 > **[Power Roll](../dice/power-roll.md) + [Might](../character/might.md) or [Agility](../character/agility.md):**
 >
@@ -470,7 +470,7 @@ Additionally, you have the following ability.
 
 **Project Goal:** 450
 
-**Effect:** Once per turn, you can use a maneuver to [teleport](../../movement/teleport.md) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](../../movement/teleport.md), you can [teleport](../../movement/teleport.md) up to 3 additional squares.
+**Effect:** Once per [turn](../combat/turn.md), you can use a maneuver to [teleport](../../movement/teleport.md) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](../../movement/teleport.md), you can [teleport](../../movement/teleport.md) up to 3 additional squares.
 
 ## 4th-Echelon Trinkets
 
@@ -512,4 +512,4 @@ A trapped spirit remains in the lantern for 10 minutes. They remember being trap
 
 **Project Goal:** 600
 
-**Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a melee weapon free strike that deals an extra 3 psychic damage.
+**Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a [melee](../combat/melee.md) weapon free strike that deals an extra 3 psychic damage.

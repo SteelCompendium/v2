@@ -13,7 +13,7 @@ The dead walk among us. Some of them are happier about it than others.
 
 Unlike the necromantic rituals that produce wights and wraiths and zombies, [revenants](revenant.md) rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
 
-These [revenants](revenant.md) are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
+These [revenants](revenant.md) are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or [Capital](../rule/world/capital.md), where lost souls gather to make a home.
 
 ## On Revenants
 
@@ -25,7 +25,7 @@ These [revenants](revenant.md) are rare. Many are hunted by ignorant villagers w
 
 "Hey," the head thief said, his brow furrowed as he looked at the label on the vial. "Where'd you say you bought this stuff ? You said a ship—a ship from where?"
 
-"I dunno, uh... uh, Capital I think."
+"I dunno, uh... uh, [Capital](../rule/world/capital.md) I think."
 
 The head thief looked at the panicking cutpurse. "This lady knight she have a red and blue device on her shield?"
 
@@ -35,7 +35,7 @@ from the outside, looked like an unremarkable section of wall.
 
 "Oh, you've got to be kidding me."
 
-"Nonono! How could she... Capital was *nine months ago!*"
+"Nonono! How could she... [Capital](../rule/world/capital.md) was *nine months ago!*"
 
 "She's a [revenant](revenant.md), idiot! She doesn't even need air. She could have walked here! Just... into the water and across the bottom of the sea! Why didn't you say anything?"
 
@@ -57,15 +57,15 @@ The gray-skinned knight walked into the room. Metal heels rang out on the wooden
 
 "How did you... this is impossible, how did you *find* us?" She looked at the man groaning on the floor. "Your boss didn't tell you about the vengeance mark?"
 
-"You marked us. Back in Capital. You marked one of us and just... just *walked* here."
+"You marked us. Back in [Capital](../rule/world/capital.md). You marked one of us and just... just *walked* here."
 
-"Don't be stupid. I marked you in Blackbottom. Capital was just normal detective work. I came here by *ship*." She smiled—black lips on pale gray skin.
+"Don't be stupid. I marked you in Blackbottom. [Capital](../rule/world/capital.md) was just normal detective work. I came here by *ship*." She smiled—black lips on pale gray skin.
 
 "Come on." The braver of the three remaining thieves drew twin daggers. "She can't get all of us at-"
 
 Lady Filliamo made a broad gesture with her right hand and argent marks flared across the foreheads of all three thieves. A clatter of weapons hitting the floor. Three pairs of hands slowly rose in the air. "Good boys. Here, put these on." She tossed three pairs of manacles on the floor.
 
-"Hang on, you can't arrest us," one of the thieves, unarmed and still holding his hands up, said. "This isn't Capital. You don't have jurisdiction!"
+"Hang on, you can't arrest us," one of the thieves, unarmed and still holding his hands up, said. "This isn't [Capital](../rule/world/capital.md). You don't have jurisdiction!"
 
 Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city watch." She drew her silver sword a few inches from the scabbard just to show them the blade.
 
@@ -103,7 +103,7 @@ You select a purchased trait that costs 2 ancestry points from your previous anc
 
 #### Undead Influence {data-scc="mcdm.heroes.v1/feature.trait.revenant/undead-influence"}
 
-Your supernatural gifts allow you to influence other undead. You gain an [edge](../rule/dice/edge.md) on [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), and [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) made to interact with undead creatures.
+Your [supernatural](../rule/general/supernatural.md) gifts allow you to influence other undead. You gain an [edge](../rule/dice/edge.md) on [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), and [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) made to interact with undead creatures.
 
 #### Vengeance Mark {data-scc="mcdm.heroes.v1/feature.trait.revenant/vengeance-mark"}
 
@@ -117,9 +117,9 @@ Additionally, you have the following [signature ability](../rule/combat/signatur
 
 *A magic sigil you placed on a creature explodes with energy.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |                        **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |                        **Main action** |
 |---------------------------|---------------------------------------:|
-| **📏 Ranged 10**          | **🎯 One creature bearing your sigil** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature bearing your sigil** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 

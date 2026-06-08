@@ -1,7 +1,7 @@
 ---
 language: One language
 name: Mage's Apprentice
-perk: One supernatural perk (*Quick Build:* [Arcane Trick](../perk/arcane-trick.md).)
+perk: One [supernatural](../rule/general/supernatural.md) perk (*Quick Build:* [Arcane Trick](../perk/arcane-trick.md).)
 scc: mcdm.heroes.v1/career/mages-apprentice
 skills:
     - The [Magic](../skill/magic.md) skill (from the lore skill group), plus two other skills from the lore group (*Quick Build:* [Magic](../skill/magic.md), [Monsters](../skill/monsters.md), [Timescape](../skill/timescape.md).)
@@ -27,7 +27,7 @@ You gain the following career benefits:
 
 **[Renown](../rule/resource/renown.md):** +1
 
-**Perk:** One supernatural perk (*Quick Build:* [Arcane Trick](../perk/arcane-trick.md).)
+**Perk:** One [supernatural](../rule/general/supernatural.md) perk (*Quick Build:* [Arcane Trick](../perk/arcane-trick.md).)
 
 | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

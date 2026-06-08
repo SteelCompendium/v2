@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<table><thead><tr><th>Order</th><th>Features</th></tr></thead><tbody><tr><td>Exorcist</td><td>Saint&#39;s Vigilance, <a href="../a-sense-for-truth/">A Sense for Truth</a></td></tr><tr><td>Oracle</td><td><a href="../it-was-foretold/">It Was Foretold</a>, <a href="../judge-of-character/">Judge of Character</a></td></tr><tr><td>Paragon</td><td><a href="../lead-by-example/">Lead by Example</a>, <a href="../stalwart-icon/">Stalwart Icon</a></td></tr></tbody></table>
+<table><thead><tr><th>Order</th><th>Features</th></tr></thead><tbody><tr><td>Exorcist</td><td><a href="../../../../rule/world/saint/">Saint</a>&#39;s Vigilance, <a href="../a-sense-for-truth/">A Sense for Truth</a></td></tr><tr><td>Oracle</td><td><a href="../it-was-foretold/">It Was Foretold</a>, <a href="../judge-of-character/">Judge of Character</a></td></tr><tr><td>Paragon</td><td><a href="../lead-by-example/">Lead by Example</a>, <a href="../stalwart-icon/">Stalwart Icon</a></td></tr></tbody></table>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your order has trained you to understand fragments of the visions granted to you by your deity, giving you a momentary advantage in challenging situations. At the start of an encounter, you can take one main action before any other creature and before your first turn. Additionally, whenever the Director calls for a <a href="../../../../rule/test/montage-test/">montage test</a>, you can make one free <a href="../../../../rule/test/test/">test</a> before the montage begins, which counts as an earned success or failure as usual.</p>
+<p>Your order has trained you to understand fragments of the visions granted to you by your deity, giving you a momentary advantage in challenging situations. At the start of an encounter, you can take one main action before any other creature and before your first <a href="../../../../rule/combat/turn/">turn</a>. Additionally, whenever the Director calls for a <a href="../../../../rule/test/montage-test/">montage test</a>, you can make one free <a href="../../../../rule/test/test/">test</a> before the montage begins, which counts as an earned success or failure as usual.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -62,7 +62,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are adjacent to a creature, your allies gain the benefits of <a href="../../../../rule/combat/flanking/">flanking</a> against that creature. Additionally, your allies gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to aid other creatures with their <a href="../../../../rule/test/test/">tests</a>.</p>
+<p>Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are <a href="../../../../rule/combat/adjacent/">adjacent</a> to a creature, your allies gain the benefits of <a href="../../../../rule/combat/flanking/">flanking</a> against that creature. Additionally, your allies gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to aid other creatures with their <a href="../../../../rule/test/test/">tests</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -84,7 +84,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You are trained in secret techniques from your order that allow you to discern the truth with supernatural precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don&#39;t necessarily know the actual truth behind their lie. Additionally, you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to detect lies or hidden motives.</p>
+<p>You are trained in secret techniques from your order that allow you to discern the truth with <a href="../../../../rule/general/supernatural/">supernatural</a> precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don&#39;t necessarily know the actual truth behind their lie. Additionally, you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to detect lies or hidden motives.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

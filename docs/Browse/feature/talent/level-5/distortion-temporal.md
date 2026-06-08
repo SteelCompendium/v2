@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>While you are not <a href="../../../../rule/health/dying/">dying</a>, time behaves irregularly around you in a 3 <a href="../../../../rule/combat/aura/">aura</a>. That area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies. Additionally, when an ally enters the area for the first time in a combat round or starts their turn there, they gain a +2 bonus to <a href="../../../../rule/character/speed/">speed</a> until the end of the turn.</p>
+<p>While you are not <a href="../../../../rule/health/dying/">dying</a>, time behaves irregularly around you in a 3 <a href="../../../../rule/combat/aura/">aura</a>. That area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies. Additionally, when an ally enters the area for the first time in a <a href="../../../../rule/combat/combat-round/">combat round</a> or starts their turn there, they gain a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> until the end of the <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>

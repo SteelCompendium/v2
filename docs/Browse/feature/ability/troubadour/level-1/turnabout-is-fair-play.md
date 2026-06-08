@@ -1,11 +1,11 @@
 ---
 action_type: Triggered
 class: troubadour
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: An [edge](../../../../rule/dice/edge.md) on the triggering roll becomes a [bane](../../../../rule/dice/bane.md), or a double [edge](../../../../rule/dice/edge.md) becomes an [edge](../../../../rule/dice/edge.md). A [bane](../../../../rule/dice/bane.md) becomes an [edge](../../../../rule/dice/edge.md), or a double [bane](../../../../rule/dice/bane.md) becomes a [bane](../../../../rule/dice/bane.md).
 flavor: All's fair in love and whatever.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Turnabout Is Fair Play
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/turnabout-is-fair-play
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">All&#39;s fair in love and whatever.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

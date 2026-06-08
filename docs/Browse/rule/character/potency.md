@@ -8,7 +8,7 @@ type: rule
 
 ---
 
-Many abilities and other effects impose conditions and unique statuses on targets. But creatures sometimes get a chance to resist such effects. After all, a monster with a high [Might](might.md) should be harder to knock [prone](../../condition/prone.md) most of the time than a creature lacking in that [characteristic](characteristic.md).
+Many abilities and other effects impose [conditions](../combat/condition.md) and unique statuses on targets. But creatures sometimes get a chance to resist such effects. After all, a monster with a high [Might](might.md) should be harder to knock [prone](../../condition/prone.md) most of the time than a creature lacking in that [characteristic](characteristic.md).
 
 Ability effects that have a **potency** are applied to a target only if the effect's potency value is higher than the target's indicated [characteristic](characteristic.md) score. The [characteristic](characteristic.md) a target uses to resist a potency is based on the ability used, while the value of the potency for your hero's abilities is based on one of your [characteristics](characteristic.md) and determined by your class.
 
@@ -62,6 +62,6 @@ Reading the ability this way prevents a lot of back and forth. You don't need to
 
 If an ability or feature allows you to spend your [Heroic Resource](../resource/heroic-resource.md) on an effect that is entirely dependent on a [potency](potency.md) and the target is unaffected because their [characteristic](characteristic.md) is high enough to resist the [potency](potency.md), then you don't spend the [Heroic Resource](../resource/heroic-resource.md).
 
-For example, the [tactician's](../../class/tactician.md) Overwatch ability allows the [tactician](../../class/tactician.md) to spend 1 focus to impose the [slowed](../../condition/slowed.md) condition on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the [tactician](../../class/tactician.md) targets a creature whose high [Reason](reason.md) leaves them unaffected, the [tactician](../../class/tactician.md) doesn't waste any focus. However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the [potency](potency.md) was resisted.
+For example, the [tactician's](../../class/tactician.md) Overwatch ability allows the [tactician](../../class/tactician.md) to spend 1 focus to impose the [slowed](../../condition/slowed.md) [condition](../combat/condition.md) on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the [tactician](../../class/tactician.md) targets a creature whose high [Reason](reason.md) leaves them unaffected, the [tactician](../../class/tactician.md) doesn't waste any focus. However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the [potency](potency.md) was resisted.
 
 This rule also applies to Director-controlled creatures who spend Malice on abilities and features that affect a target using a [potency](potency.md) and have no other automatic effects.

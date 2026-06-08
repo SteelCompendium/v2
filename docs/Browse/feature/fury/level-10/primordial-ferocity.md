@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The first time you take damage each combat round, you gain 3 ferocity instead of 2.</p>
+<p>The first time you take damage each <a href="../../../../rule/combat/combat-round/">combat round</a>, you gain 3 ferocity instead of 2.</p>
 </div>
 </section>

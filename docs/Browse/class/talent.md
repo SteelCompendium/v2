@@ -80,11 +80,11 @@ The focus and precision of your thoughts grant you a [Heroic Resource](../rule/r
 
 #### Clarity in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain clarity equal to your [Victories](../rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 clarity.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../rule/combat/combat-round.md) (as determined by the Director), you gain clarity equal to your [Victories](../rule/resource/victories.md). At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 1d3 clarity.
 
-Additionally, the first time each combat round that a creature is [force moved](../movement/forced-movement.md), you gain 1 clarity.
+Additionally, the first time each [combat round](../rule/combat/combat-round.md) that a creature is [force moved](../movement/forced-movement.md), you gain 1 clarity.
 
-You can spend clarity you don't have, pushing that [Heroic Resource](../rule/resource/heroic-resource.md) into negative numbers to a maximum negative value equal to 1 + your [Reason](../rule/character/reason.md) score. At the end of each of your turns, you take 1 damage for each negative point of clarity.
+You can spend clarity you don't have, pushing that [Heroic Resource](../rule/resource/heroic-resource.md) into negative numbers to a maximum negative value equal to 1 + your [Reason](../rule/character/reason.md) score. At the end of each of your [turns](../rule/combat/turn.md), you take 1 damage for each negative point of clarity.
 
 Whenever you have clarity below 0, you are strained. Some psionic abilities have additional effects if you are already strained or become strained when you use them. Strained effects can still impact you even after you are no longer strained.
 
@@ -100,16 +100,16 @@ When you use an ability outside of combat that lets you spend unlimited clarity 
 
 ### Mind Spike {data-scc="mcdm.heroes.v1/feature.talent.level-1/mind-spike"}
 
-You have the following ability, which can be used as a ranged [free strike](../feature/common/main-actions/free-strike.md).
+You have the following ability, which can be used as a [ranged](../rule/combat/ranged.md) [free strike](../feature/common/main-actions/free-strike.md).
 
 #### Mind Spike {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/mind-spike"}
 
 
 *A telepathic bolt instantly zaps a creature's brain.*
 
-| **Psionic, Ranged**, **Strike, Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike, Telepathy** |     **Main action** |
 |--------------------------------------------|--------------------:|
-| **📏 Ranged 10**                           | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                           | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -125,25 +125,25 @@ Through meditation, you create pathways in your mind that enhance your statistic
 
 #### Battle Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/battle-augmentation"}
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to [Stamina](../rule/health/stamina.md), and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md), and that [bonus](../rule/dice/bonuses-and-penalties.md) increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage [bonus](../rule/dice/bonuses-and-penalties.md) with weapon abilities, including [free strikes](../feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this augmentation.
 
 #### Density Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/density-augmentation"}
 
-You gain a +6 bonus to [Stamina](../rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../rule/character/stability.md).
+You gain a +6 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md), and this [bonus](../rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [stability](../rule/character/stability.md).
 
 #### Distance Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/distance-augmentation"}
 
-Your ranged psionic abilities gain a +2 bonus to [distance](../rule/combat/distance.md).
+Your [ranged](../rule/combat/ranged.md) psionic abilities gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [distance](../rule/combat/distance.md).
 
 #### Force Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/force-augmentation"}
 
-Your damage-dealing psionic abilities gain a +1 bonus to [rolled damage](../rule/damage/rolled-damage.md).
+Your damage-dealing psionic abilities gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md).
 
 #### Speed Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/speed-augmentation"}
 
-You gain a +1 bonus to [speed](../rule/character/speed.md) and to the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
+You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) and to the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
 ### Talent Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-ward"}
 
@@ -151,19 +151,19 @@ Through meditation, you create a ward that protects you. Choose one of the follo
 
 #### Entropy Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/entropy-ward"}
 
-Your ward slows time for your enemies. Whenever a creature deals damage to you, their [speed](../rule/character/speed.md) is reduced by an amount equal to your [Reason](../rule/character/reason.md) score and they can't use [triggered actions](../rule/combat/triggered-action.md) until the end of their next turn.
+Your ward slows time for your enemies. Whenever a creature deals damage to you, their [speed](../rule/character/speed.md) is reduced by an amount equal to your [Reason](../rule/character/reason.md) score and they can't use [triggered actions](../rule/combat/triggered-action.md) until the end of their next [turn](../rule/combat/turn.md).
 
 #### Repulsive Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/repulsive-ward"}
 
-You surround yourself with an invisible ward of telekinetic energy. Whenever an adjacent creature deals damage to you, you can use a free [triggered action](../rule/combat/triggered-action.md) to push them up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
+You surround yourself with an invisible ward of telekinetic energy. Whenever an [adjacent](../rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../rule/combat/triggered-action.md) to push them up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
 
 #### Steel Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/steel-ward"}
 
-Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain [damage immunity](../rule/damage/damage-immunity.md) equal to your [Reason](../rule/character/reason.md) score until the end of your next turn.
+Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain [damage immunity](../rule/damage/damage-immunity.md) equal to your [Reason](../rule/character/reason.md) score until the end of your next [turn](../rule/combat/turn.md).
 
 #### Vanishing Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/vanishing-ward"}
 
-Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next turn.
+Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next [turn](../rule/combat/turn.md).
 
 ### Telepathic Speech {data-scc="mcdm.heroes.v1/feature.talent.level-1/telepathic-speech"}
 
@@ -190,9 +190,9 @@ You have the following ability.
 
 *To your ally, it seems as though the world has slowed down.*
 
-| **Psionic, Ranged** |                **Maneuver** |
+| **Psionic, [Ranged](../rule/combat/ranged.md)** |                **Maneuver** |
 |---------------------|----------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 Self or one creature** |
 
 **Effect:** The target shifts up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
 
@@ -207,9 +207,9 @@ You have the following ability.
 
 *You step back a split second to see if things play out a little differently.*
 
-| **Psionic, Ranged** |               **Triggered** |
+| **Psionic, [Ranged](../rule/combat/ranged.md)** |               **Triggered** |
 |---------------------|----------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 Self or one creature** |
 
 **Trigger:** The target makes an [ability roll](../rule/dice/ability-roll.md).
 
@@ -224,9 +224,9 @@ You have the following ability.
 
 *Creating a brief psychic link between an enemy and their target gives that foe a taste of their own medicine.*
 
-| **Psionic, Ranged** |       **Triggered** |
+| **Psionic, [Ranged](../rule/combat/ranged.md)** |       **Triggered** |
 |---------------------|--------------------:|
-| **📏 Ranged 10**    | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 One creature** |
 
 **Trigger:** The target deals damage to an ally.
 
@@ -241,9 +241,9 @@ You have the following ability.
 
 *Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
 
-| **Psionic, Ranged** |                                 **Maneuver** |
+| **Psionic, [Ranged](../rule/combat/ranged.md)** |                                 **Maneuver** |
 |---------------------|---------------------------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one [size](../rule/character/size.md) 1 creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 Self or one [size](../rule/character/size.md) 1 creature or object** |
 
 **Effect:** You slide the target up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
 
@@ -260,12 +260,12 @@ You have the following ability.
 
 *An ally gains the benefit of your intellect.*
 
-| **Psionic, Ranged** |                  **Maneuver** |
+| **Psionic, [Ranged](../rule/combat/ranged.md)** |                  **Maneuver** |
 |---------------------|------------------------------:|
-| **📏 Ranged 10**    | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 One creature or object** |
 
 
-**Effect:** The next [ability roll](../rule/dice/ability-roll.md) an ally makes against the target before the start of your next turn gains an [edge](../rule/dice/edge.md).
+**Effect:** The next [ability roll](../rule/dice/ability-roll.md) an ally makes against the target before the start of your next [turn](../rule/combat/turn.md) gains an [edge](../rule/dice/edge.md).
 
 **Spend 1 Clarity:** You target one additional creature or object.
 
@@ -278,9 +278,9 @@ You have the following ability.
 
 *They aren't going anywhere, but you might!*
 
-| **Psionic, Ranged** |           **Triggered** |
+| **Psionic, [Ranged](../rule/combat/ranged.md)** |           **Triggered** |
 |---------------------|------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 Self or one ally** |
 
 **Trigger:** The target takes damage or is [force moved](../movement/forced-movement.md).
 
@@ -299,9 +299,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *You advance an enemy's age for a moment.*
 
-| **Chronopathy, Psionic, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** |
+| **Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
 |------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                         | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                         | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -318,9 +318,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *You blast a foe with a pulse of cold energy.*
 
-| **Cryokinesis, Psionic, Ranged**, **Strike** |     **Main action** |
+| **Cryokinesis, Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike** |     **Main action** |
 |----------------------------------------------|--------------------:|
-| **📏 Ranged 10**                             | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                             | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -328,14 +328,14 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../condition/slowed.md) ([EoT](../rule/combat/end-of-turn.md))
 - **17+:** 6 + R cold damage; M < STRONG, [slowed](../condition/slowed.md) ([EoT](../rule/combat/end-of-turn.md))
 
-**Strained:** You are [slowed](../condition/slowed.md) until the end of your next turn. Additionally, a target [slowed](../condition/slowed.md) by this ability is [restrained](../condition/restrained.md) instead.
+**Strained:** You are [slowed](../condition/slowed.md) until the end of your next [turn](../rule/combat/turn.md). Additionally, a target [slowed](../condition/slowed.md) by this ability is [restrained](../condition/restrained.md) instead.
 
 ##### Incinerate {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/incinerate"}
 
 
 *The air erupts into a column of smokeless flame.*
 
-| **Area, Fire, Psionic, Pyrokinesis, Ranged** |               **Main action** |
+| **Area, Fire, Psionic, Pyrokinesis, [Ranged](../rule/combat/ranged.md)** |               **Main action** |
 |----------------------------------------------|------------------------------:|
 | **📏 3 [cube](../rule/combat/cube.md) within 10**                      | **🎯 Each enemy in the area** |
 
@@ -345,18 +345,18 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 - **12-16:** 4 fire damage
 - **17+:** 6 fire damage
 
-**Effect:** A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.
+**Effect:** A column of fire remains in the area until the start of your next [turn](../rule/combat/turn.md). Each enemy who enters the area for the first time in a [combat round](../rule/combat/combat-round.md) or starts their turn there takes 2 fire damage.
 
-**Strained:** The size of the [cube](../rule/combat/cube.md) increases by 2, but the fire disappears at the end of your turn.
+**Strained:** The size of the [cube](../rule/combat/cube.md) increases by 2, but the fire disappears at the end of your [turn](../rule/combat/turn.md).
 
 ##### Kinetic Grip {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip"}
 
 
 *You lift and hurl your foe away from you.*
 
-| **Psionic, Ranged, Telekinesis** |               **Main action** |
+| **Psionic, [Ranged](../rule/combat/ranged.md), Telekinesis** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Ranged 10**                 | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -381,16 +381,16 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 - **12-16:** 5 psychic damage; push 1
 - **17+:** 7 psychic damage; push 2
 
-**Strained:** The size of the [burst](../rule/combat/burst.md) increases by 2, and you are [bleeding](../condition/bleeding.md) until the start of your next turn.
+**Strained:** The size of the [burst](../rule/combat/burst.md) increases by 2, and you are [bleeding](../condition/bleeding.md) until the start of your next [turn](../rule/combat/turn.md).
 
 ##### Materialize {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/materialize"}
 
 
 *You picture an object in your mind and give it form—directly above your opponent's head.*
 
-| **Psionic, Ranged, Resopathy, [Strike](../rule/combat/strike.md)** |               **Main action** |
+| **Psionic, [Ranged](../rule/combat/ranged.md), Resopathy, [Strike](../rule/combat/strike.md)** |               **Main action** |
 |----------------------------------------|------------------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -398,18 +398,18 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 - **12-16:** 5 + R damage
 - **17+:** 8 + R damage
 
-**Effect:** A worthless [size](../rule/character/size.md) 1M object drops onto the target to deal the damage, then rolls into an adjacent unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
+**Effect:** A worthless [size](../rule/character/size.md) 1M object drops onto the target to deal the damage, then rolls into an [adjacent](../rule/combat/adjacent.md) unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
 
-**Strained:** The object explodes after the damage is dealt, and each creature adjacent to the target takes damage equal to your [Reason](../rule/character/reason.md) score. You also take damage equal to your [Reason](../rule/character/reason.md) score that can't be reduced in any way.
+**Strained:** The object explodes after the damage is dealt, and each creature [adjacent](../rule/combat/adjacent.md) to the target takes damage equal to your [Reason](../rule/character/reason.md) score. You also take damage equal to your [Reason](../rule/character/reason.md) score that can't be reduced in any way.
 
 ##### Optic Blast {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/optic-blast"}
 
 
 *Your eyes emit rays of powerful enervating force.*
 
-| **Metamorphosis, Psionic, Ranged**, **Strike** |               **Main action** |
+| **Metamorphosis, Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike** |               **Main action** |
 |------------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                               | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                               | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -426,9 +426,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *You form a blade of mind energy and stab your target, invigorating yourself.*
 
-| **Animapathy, Melee, Psionic, [Strike](../rule/combat/strike.md)** |               **Main action** |
+| **Animapathy, [Melee](../rule/combat/melee.md), Psionic, [Strike](../rule/combat/strike.md)** |               **Main action** |
 |----------------------------------------|------------------------------:|
-| **📏 Melee 2**                         | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 2**                         | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -453,11 +453,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You project psionic energy out to a creature and take on a new visage in their mind.*
 
-| **Psionic, Ranged, [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
-**Effect:** If you target an ally, they gain [temporary Stamina](../rule/health/temporary-stamina.md) equal to three times your [Presence](../rule/character/presence.md) score, and they can end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their turn. If you target an enemy, you make a [power roll](../rule/dice/power-roll.md).
+**Effect:** If you target an ally, they gain [temporary Stamina](../rule/health/temporary-stamina.md) equal to three times your [Presence](../rule/character/presence.md) score, and they can end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md). If you target an enemy, you make a [power roll](../rule/dice/power-roll.md).
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -470,9 +470,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You crush a foe in a telekinetic grip.*
 
-| **Psionic, Ranged**, **Strike, Telekinesis** |     **Main action** |
+| **Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike, Telekinesis** |     **Main action** |
 |----------------------------------------------|--------------------:|
-| **📏 Ranged 10**                             | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                             | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -487,20 +487,20 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You give a target a glimpse into the future so that they're ready for what comes next.*
 
-| **Chronopathy, Melee, Psionic** |         **Main action** |
+| **Chronopathy, [Melee](../rule/combat/melee.md), Psionic** |         **Main action** |
 |---------------------------------|------------------------:|
-| **📏 Melee 2**                  | **🎯 Self or one ally** |
+| **📏 [Melee](../rule/combat/melee.md) 2**                  | **🎯 Self or one ally** |
 
-**Effect:** [Ability rolls](../rule/dice/ability-roll.md) made against the target take a [bane](../rule/dice/bane.md) until the start of your next turn. Whenever the target takes damage while under this effect, they can use a [triggered action](../rule/combat/triggered-action.md) to make a [free strike](../feature/common/main-actions/free-strike.md) against the source of the damage.
+**Effect:** [Ability rolls](../rule/dice/ability-roll.md) made against the target take a [bane](../rule/dice/bane.md) until the start of your next [turn](../rule/combat/turn.md). Whenever the target takes damage while under this effect, they can use a [triggered action](../rule/combat/triggered-action.md) to make a [free strike](../feature/common/main-actions/free-strike.md) against the source of the damage.
 
 ##### Smolder {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/smolder"}
 
 
 *Smoke flows from your enemy like tears as their skin begins to blacken and flake.*
 
-| **Psionic, Pyrokinesis, Ranged, [Strike](../rule/combat/strike.md)** |     **Main action** |
+| **Psionic, Pyrokinesis, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
 |------------------------------------------|--------------------:|
-| **📏 Ranged 10**                         | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                         | **🎯 One creature** |
 
 **Effect:** Choose the [damage type](../rule/damage/damage-type.md) and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.
 
@@ -519,9 +519,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *The target is thrown several seconds back through time and gets to do it all again.*
 
-| **Chronopathy, Psionic, Ranged** |            **Maneuver** |
+| **Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
 |----------------------------------|------------------------:|
-| **📏 Ranged 10**                 | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
 
 **Effect:** The target uses an ability with a base [Heroic Resource](../rule/resource/heroic-resource.md) cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
 
@@ -532,22 +532,22 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Your psionic energy surrounds the target and pushes everything else away from them.*
 
-| **Psionic, Ranged, Telekinesis** |            **Maneuver** |
+| **Psionic, [Ranged](../rule/combat/ranged.md), Telekinesis** |            **Maneuver** |
 |----------------------------------|------------------------:|
-| **📏 Ranged 10**                 | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
 
-**Effect:** The target ignores [difficult terrain](../movement/difficult-terrain.md) and takes no damage from [forced movement](../movement/forced-movement.md) until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your [Reason](../rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's [stability](../rule/character/stability.md). A creature can only be force moved this way once a turn.
+**Effect:** The target ignores [difficult terrain](../movement/difficult-terrain.md) and takes no damage from [forced movement](../movement/forced-movement.md) until the start of your next [turn](../rule/combat/turn.md). Whenever the target enters a square while under this effect, they can push one [adjacent](../rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's [stability](../rule/character/stability.md). A creature can only be force moved this way once a [turn](../rule/combat/turn.md).
 
-**Strained:** You are [weakened](../condition/weakened.md) (save ends). While you are [weakened](../condition/weakened.md) this way, whenever you are force moved, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +5 bonus.
+**Strained:** You are [weakened](../condition/weakened.md) (save ends). While you are [weakened](../condition/weakened.md) this way, whenever you are force moved, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +5 [bonus](../rule/dice/bonuses-and-penalties.md).
 
 ##### Iron {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/iron"}
 
 
 *The target's skin turns to hard, dark metal, impenetrable and dense.*
 
-| **Metamorphosis, Psionic, Ranged** |            **Maneuver** |
+| **Metamorphosis, Psionic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
 |------------------------------------|------------------------:|
-| **📏 Ranged 10**                   | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                   | **🎯 Self or one ally** |
 
 **Effect:** The target's [stability](../rule/character/stability.md) increases by an amount equal to your [Reason](../rule/character/reason.md) score, and they gain 10 [temporary Stamina](../rule/health/temporary-stamina.md) and 2 [surges](../rule/resource/surge.md). This [stability](../rule/character/stability.md) increase lasts until the target no longer has [temporary Stamina](../rule/health/temporary-stamina.md) from this ability.
 
@@ -558,11 +558,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You clear the mind of nothing but the goal.*
 
-| **Psionic, Ranged, Telepathy** |            **Maneuver** |
+| **Psionic, [Ranged](../rule/combat/ranged.md), Telepathy** |            **Maneuver** |
 |--------------------------------|------------------------:|
-| **📏 Ranged 10**               | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**               | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target gains a +3 bonus to [speed](../rule/character/speed.md), and they have a double [edge](../rule/dice/edge.md) on the next [power roll](../rule/dice/power-roll.md) they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
+**Effect:** Until the start of your next [turn](../rule/combat/turn.md), the target gains a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md), and they have a double [edge](../rule/dice/edge.md) on the next [power roll](../rule/dice/power-roll.md) they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
 
 **Strained:** You take 1d6 damage, and you can't use [triggered actions](../rule/combat/triggered-action.md) (save ends).
 
@@ -572,7 +572,7 @@ As a 2nd-level [talent](talent.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-2/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
+You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
 ### 2nd-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.talent.level-2/2nd-level-tradition-feature"}
 
@@ -611,9 +611,9 @@ Choose one of the following abilities.
 
 *Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.*
 
-| **Chronopathy, Psionic, Ranged** |   **Maneuver** |
+| **Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md)** |   **Maneuver** |
 |----------------------------------|---------------:|
-| **📏 Ranged 10**                 | **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 Special** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -621,7 +621,7 @@ Choose one of the following abilities.
 - **12-16:** You target three creatures, one of which can be you.
 - **17+:** You target four creatures, one of which can be you.
 
-**Effect:** Until the start of your next turn, each target gains a +5 bonus to [speed](../rule/character/speed.md), they can't be made [dazed](../condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../condition/dazed.md), that condition ends for them.
+**Effect:** Until the start of your next [turn](../rule/combat/turn.md), each target gains a +5 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md), they can't be made [dazed](../condition/dazed.md), and they can use an additional maneuver on their [turn](../rule/combat/turn.md). If a target is already [dazed](../condition/dazed.md), that [condition](../rule/combat/condition.md) ends for them.
 
 **Strained:** Your [speed](../rule/character/speed.md) is halved until the end of the encounter.
 
@@ -630,9 +630,9 @@ Choose one of the following abilities.
 
 *Perhaps they wonder why everyone else is moving so quickly?*
 
-| **Chronopathy, Psionic, Ranged** |                      **Maneuver** |
+| **Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md)** |                      **Maneuver** |
 |----------------------------------|----------------------------------:|
-| **📏 Ranged 10**                 | **🎯 Three creatures or objects** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 Three creatures or objects** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -642,7 +642,7 @@ Choose one of the following abilities.
 
 **Effect:** A target can't use [triggered actions](../rule/combat/triggered-action.md) while their [speed](../rule/character/speed.md) is reduced this way.
 
-**Strained:** The [potency](../rule/character/potency.md) of this ability increases by 1 and you take 1d6 damage. At the start of each combat round while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).
+**Strained:** The [potency](../rule/character/potency.md) of this ability increases by 1 and you take 1d6 damage. At the start of each [combat round](../rule/combat/combat-round.md) while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).
 
 #### 2nd-Level Telekinesis Ability
 
@@ -663,16 +663,16 @@ Choose one of the following abilities.
 - **12-16:** 6 damage; vertical push 4
 - **17+:** 9 damage; vertical push 6
 
-**Strained:** The size of the [burst](../rule/combat/burst.md) increases by 1, and you are [weakened](../condition/weakened.md) until the end of your turn.
+**Strained:** The size of the [burst](../rule/combat/burst.md) increases by 1, and you are [weakened](../condition/weakened.md) until the end of your [turn](../rule/combat/turn.md).
 
 ##### Levity and Gravity {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/levity-and-gravity"}
 
 
 *You raise the target slightly into the air, then smother them against the ground.*
 
-| **Psionic, Ranged, [Strike](../rule/combat/strike.md), Telekinesis** |               **Main action** |
+| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Telekinesis** |               **Main action** |
 |------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                         | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                         | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -691,9 +691,9 @@ Choose one of the following abilities.
 
 *You overload their senses, turning all their subconscious thoughts into conscious ones.*
 
-| **Psionic, Ranged, [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -701,16 +701,16 @@ Choose one of the following abilities.
 - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../condition/weakened.md) (save ends)
 - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 
-**Strained:** You start crying, and you can't use [triggered actions](../rule/combat/triggered-action.md) or make [free strikes](../feature/common/main-actions/free-strike.md) until the end of the target's next turn.
+**Strained:** You start crying, and you can't use [triggered actions](../rule/combat/triggered-action.md) or make [free strikes](../feature/common/main-actions/free-strike.md) until the end of the target's next [turn](../rule/combat/turn.md).
 
 ##### Synaptic Override {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/synaptic-override"}
 
 
 *You control an enemy's nervous system. How pleasant for them.*
 
-| **Psionic, Ranged, Telepathy** |  **Main action** |
+| **Psionic, [Ranged](../rule/combat/ranged.md), Telepathy** |  **Main action** |
 |--------------------------------|-----------------:|
-| **📏 Ranged 10**               | **🎯 One enemy** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**               | **🎯 One enemy** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -718,9 +718,9 @@ Choose one of the following abilities.
 - **12-16:** The target shifts up to their [speed](../rule/character/speed.md) and uses their [signature ability](../rule/combat/signature-ability.md) against any enemies of your choice.
 - **17+:** The target moves up to their [speed](../rule/character/speed.md) and uses their [signature ability](../rule/combat/signature-ability.md) against any enemies of your choice.
 
-**Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../rule/health/dying.md), or result in them suffering a condition or other negative effect. However, you can move them to provoke [opportunity attacks](../rule/combat/opportunity-attack.md).
+**Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../rule/health/dying.md), or result in them suffering a [condition](../rule/combat/condition.md) or other negative effect. However, you can move them to provoke [opportunity attacks](../rule/combat/opportunity-attack.md).
 
-**Strained:** You take 1d6 damage and are [weakened](../condition/weakened.md) until the end of your turn.
+**Strained:** You take 1d6 damage and are [weakened](../condition/weakened.md) until the end of your [turn](../rule/combat/turn.md).
 
 ## 3rd-Level Features
 
@@ -728,7 +728,7 @@ As a 3rd-level [talent](talent.md), you gain the following features.
 
 ### Scan {data-scc="mcdm.heroes.v1/feature.talent.level-3/scan"}
 
-You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a [free maneuver](../rule/combat/free-maneuver.md) (see Hide and Sneak in Chapter 9: [Tests](../../Read/heroes/tests.md)). Additionally, once you establish [line of effect](../rule/combat/line-of-effect.md) to a thinking creature within [distance](../rule/combat/distance.md) of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability, you always have [line of effect](../rule/combat/line-of-effect.md) to that creature until they move beyond that [distance](../rule/combat/distance.md).
+You can extend your psionic senses beyond their usual range. Once on each of your [turns](../rule/combat/turn.md), you can search for hidden creatures as a [free maneuver](../rule/combat/free-maneuver.md) (see Hide and Sneak in Chapter 9: [Tests](../../Read/heroes/tests.md)). Additionally, once you establish [line of effect](../rule/combat/line-of-effect.md) to a thinking creature within [distance](../rule/combat/distance.md) of your [Mind Spike](../feature/ability/talent/level-1/mind-spike.md) ability, you always have [line of effect](../rule/combat/line-of-effect.md) to that creature until they move beyond that [distance](../rule/combat/distance.md).
 
 ### 7-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-3/7-clarity-ability"}
 
@@ -739,9 +739,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.*
 
-| **Chronopathy, Psionic, Ranged**, **Strike** |               **Main action** |
+| **Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike** |               **Main action** |
 |----------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                             | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                             | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -749,7 +749,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](../condition/weakened.md) (save ends)
 - **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](../condition/weakened.md) (save ends)
 
-**Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
+**Effect:** A target who is flung through time is removed from the encounter map until the end of their next [turn](../rule/combat/turn.md), reappearing in their original space or the nearest unoccupied space.
 
 **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](../ancestry/human.md)). If you obtain a tier 3 outcome on the [power roll](../rule/dice/power-roll.md), you gain 2 clarity.
 
@@ -758,13 +758,13 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Spheres of solid psionic energy float around you.*
 
-| **Psionic, Ranged, [Strike](../rule/combat/strike.md), Telekinesis** | **Main action** |
+| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Telekinesis** | **Main action** |
 |------------------------------------------|----------------:|
 | **📏 Self; see below**                   |     **🎯 Self** |
 
 **Effect:** You create three [size](../rule/character/size.md) 1T orbs that orbit your body. Each orb gives you a cumulative [damage immunity](../rule/damage/damage-immunity.md) 1. Each time you take damage, you lose 1 orb.
 
-Once on each of your turns, you can use a [free maneuver](../rule/combat/free-maneuver.md) to fire an orb at a creature or object within 5 squares as a ranged [strike](../rule/combat/strike.md), losing the orb after the [strike](../rule/combat/strike.md).
+Once on each of your [turns](../rule/combat/turn.md), you can use a [free maneuver](../rule/combat/free-maneuver.md) to fire an orb at a creature or object within 5 squares as a [ranged](../rule/combat/ranged.md) [strike](../rule/combat/strike.md), losing the orb after the [strike](../rule/combat/strike.md).
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -783,7 +783,7 @@ Once on each of your turns, you can use a [free maneuver](../rule/combat/free-ma
 |------------------------------|----------------:|
 | **📏 3 [aura](../rule/combat/aura.md)**                |  **🎯 Special** |
 
-**Effect:** The [aura](../rule/combat/aura.md) lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.
+**Effect:** The [aura](../rule/combat/aura.md) lasts until the start of your next [turn](../rule/combat/turn.md). Whenever an enemy targets an ally in the area with a [ranged](../rule/combat/ranged.md) ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.
 
 **Strained:** The size of the [aura](../rule/combat/aura.md) increases by 1. Whenever your [aura](../rule/combat/aura.md) reflects an ability, you take 2d6 damage and forget a memory, as determined by you and the Director.
 
@@ -792,9 +792,9 @@ Once on each of your turns, you can use a [free maneuver](../rule/combat/free-ma
 
 *You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
 
-| **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |
+| **Animapathy, Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike** |     **Main action** |
 |---------------------------------------------|--------------------:|
-| **📏 Ranged 10**                            | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -816,7 +816,7 @@ Your [Reason](../rule/character/reason.md) and [Presence](../rule/character/pres
 
 ### Mind Projection {data-scc="mcdm.heroes.v1/feature.talent.level-4/mind-projection"}
 
-As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious [and prone](../condition/prone.md), and your mind is a separate entity with [size](../rule/character/size.md) 1T. Your mind automatically has [concealment](../rule/combat/concealment.md), and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
+As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious [and prone](../condition/prone.md), and your mind is a separate entity with [size](../rule/character/size.md) 1T. Your mind automatically has [concealment](../rule/combat/concealment.md), and can freely move through solid matter. If you end your [turn](../rule/combat/turn.md) inside solid matter, you are forced out into the space where you entered it.
 
 Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your [Stamina](../rule/health/stamina.md). Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a [free maneuver](../rule/combat/free-maneuver.md).
 
@@ -824,7 +824,7 @@ Any abilities or features you use originate from your mind. Both your mind and y
 
 Whenever you spend a [Recovery](../rule/health/recoveries.md) to regain [Stamina](../rule/health/stamina.md) while strained, you can forgo the [Stamina](../rule/health/stamina.md) and gain 3 clarity instead.
 
-Additionally, the first time each combat round that a creature is [force moved](../movement/forced-movement.md), you gain 2 clarity instead of 1.
+Additionally, the first time each [combat round](../rule/combat/combat-round.md) that a creature is [force moved](../movement/forced-movement.md), you gain 2 clarity instead of 1.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-4/perk"}
 
@@ -836,9 +836,9 @@ You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/h
 
 ### Suspensor Field {data-scc="mcdm.heroes.v1/feature.talent.level-4/suspensor-field"}
 
-You can [fly](../movement/fly.md). While [flying](../movement/fly.md), your [stability](../rule/character/stability.md) is reduced to 0 and can't be increased. If you can already [fly](../movement/fly.md), you have a +2 bonus to [speed](../rule/character/speed.md) while [flying](../movement/fly.md) instead.
+You can [fly](../movement/fly.md). While [flying](../movement/fly.md), your [stability](../rule/character/stability.md) is reduced to 0 and can't be increased. If you can already [fly](../movement/fly.md), you have a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) while [flying](../movement/fly.md) instead.
 
-If you are strained while [flying](../movement/fly.md) and are force moved, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +2 bonus.
+If you are strained while [flying](../movement/fly.md) and are force moved, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +2 [bonus](../rule/dice/bonuses-and-penalties.md).
 
 ## 5th-Level Features
 
@@ -862,23 +862,23 @@ Whenever you obtain a success on a [test](../rule/test/test.md) using a skill fr
 
 #### Distortion Temporal {data-scc="mcdm.heroes.v1/feature.talent.level-5/distortion-temporal"}
 
-While you are not [dying](../rule/health/dying.md), time behaves irregularly around you in a 3 [aura](../rule/combat/aura.md). That area is [difficult terrain](../movement/difficult-terrain.md) for enemies. Additionally, when an ally enters the area for the first time in a combat round or starts their turn there, they gain a +2 bonus to [speed](../rule/character/speed.md) until the end of the turn.
+While you are not [dying](../rule/health/dying.md), time behaves irregularly around you in a 3 [aura](../rule/combat/aura.md). That area is [difficult terrain](../movement/difficult-terrain.md) for enemies. Additionally, when an ally enters the area for the first time in a [combat round](../rule/combat/combat-round.md) or starts their turn there, they gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of the [turn](../rule/combat/turn.md).
 
 #### Kinetic Amplifier {data-scc="mcdm.heroes.v1/feature.talent.level-5/kinetic-amplifier"}
 
-Whenever you force move a creature, you can spend up to 2 [surges](../rule/resource/surge.md). For each [surge](../rule/resource/surge.md) spent, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Reason](../rule/character/reason.md) score.
+Whenever you force move a creature, you can spend up to 2 [surges](../rule/resource/surge.md). For each [surge](../rule/resource/surge.md) spent, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a [bonus](../rule/dice/bonuses-and-penalties.md) equal to your [Reason](../rule/character/reason.md) score.
 
 #### Remote Amplification {data-scc="mcdm.heroes.v1/feature.talent.level-5/remote-amplification"}
 
-The [distance](../rule/combat/distance.md) of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature increases to 1 mile.
+The [distance](../rule/combat/distance.md) of your [ranged](../rule/combat/ranged.md) psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature increases to 1 mile.
 
 #### Speed of Thought {data-scc="mcdm.heroes.v1/feature.talent.level-5/speed-of-thought"}
 
-Once per combat round while you are not [dying](../rule/health/dying.md), you can spend 2 clarity when you use a [triggered action](../rule/combat/triggered-action.md) to turn it into a free [triggered action](../rule/combat/triggered-action.md).
+Once per [combat round](../rule/combat/combat-round.md) while you are not [dying](../rule/health/dying.md), you can spend 2 clarity when you use a [triggered action](../rule/combat/triggered-action.md) to [turn](../rule/combat/turn.md) it into a free [triggered action](../rule/combat/triggered-action.md).
 
 #### Triangulate {data-scc="mcdm.heroes.v1/feature.talent.level-5/triangulate"}
 
-Whenever an ally uses a ranged ability while you are within the ability's [distance](../rule/combat/distance.md), you can spend 1 clarity as a free [triggered action](../rule/combat/triggered-action.md) to allow them to use the ability as if they were in your space.
+Whenever an ally uses a [ranged](../rule/combat/ranged.md) ability while you are within the ability's [distance](../rule/combat/distance.md), you can spend 1 clarity as a free [triggered action](../rule/combat/triggered-action.md) to allow them to use the ability as if they were in your space.
 
 ### 9-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-5/9-clarity-ability"}
 
@@ -889,18 +889,18 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You encase the target in psionic flame and allow them to flicker without fear of burning out.*
 
-| **Pyrokinesis, Psionic, Ranged** |            **Maneuver** |
+| **Pyrokinesis, Psionic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
 |----------------------------------|------------------------:|
-| **📏 Ranged 10**                 | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their [strikes](../rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../rule/character/reason.md) score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
+**Effect:** Until the start of your next [turn](../rule/combat/turn.md), the target has cold immunity 10 and fire immunity 10, and their [strikes](../rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../rule/character/reason.md) score. Additionally, whenever an enemy uses a [melee](../rule/combat/melee.md) ability against the target while they are under this effect, the enemy takes 5 fire damage.
 
 **Strained:** The target gains 2 [surges](../rule/resource/surge.md). You are [weakened](../condition/weakened.md) and [slowed](../condition/slowed.md) (save ends).
 
 #### Hypersonic {data-scc="mcdm.heroes.v1/feature.ability.talent.level-5/hypersonic"}
 
 
-*You move fast enough to turn around and watch your foes feel the aftermath.*
+*You move fast enough to [turn](../rule/combat/turn.md) around and watch your foes feel the aftermath.*
 
 | **Area, Charge, Psionic, Telekinesis** |               **Main action** |
 |----------------------------------------|------------------------------:|
@@ -914,16 +914,16 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 18 sonic damage
 - **17+:** 24 sonic damage
 
-**Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../condition/slowed.md) until the end of your turn and each target is [slowed](../condition/slowed.md) until the end of their turn.
+**Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../condition/slowed.md) until the end of your [turn](../rule/combat/turn.md) and each target is [slowed](../condition/slowed.md) until the end of their [turn](../rule/combat/turn.md).
 
 #### Mind Snare {data-scc="mcdm.heroes.v1/feature.ability.talent.level-5/mind-snare"}
 
 
 *You latch onto your prey's brain and don't let go, like a song they can't get out of their head.*
 
-| **Psionic, Ranged, [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -940,9 +940,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.*
 
-| **Animapathy, Psionic, Ranged, [Strike](../rule/combat/strike.md)** |    **Main action** |
+| **Animapathy, Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |    **Main action** |
 |-----------------------------------------|-------------------:|
-| **📏 Ranged 10**                        | **🎯 Two enemies** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                        | **🎯 Two enemies** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -950,7 +950,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 13 damage; A < AVERAGE, the target is stitched to the other target (save ends)
 - **17+:** 17 damage; A < STRONG, the target is stitched to the other target (save ends)
 
-**Effect:** If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](../rule/dice/bane.md) on [power rolls](../rule/dice/power-roll.md) while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
+**Effect:** If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](../rule/dice/bane.md) on [power rolls](../rule/dice/power-roll.md) while not [adjacent](../rule/combat/adjacent.md) to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
 
 **Strained:** You target yourself and three enemies instead.
 
@@ -960,15 +960,15 @@ As a 6th-level [talent](talent.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-6/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice.
+You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
 
 ### Psi Boost {data-scc="mcdm.heroes.v1/feature.talent.level-6/psi-boost"}
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../feature/null/level-7/psi-boost.md) to it and enhance its effects. A [psi boost](../feature/null/level-7/psi-boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../feature/null/level-7/psi-boost.md) to it and enhance its effects. A [psi boost](../feature/null/level-7/psi-boost.md)'s effects only last until the end of the [turn](../rule/combat/turn.md) which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
 
 #### Dynamic Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/dynamic-power"}
 
-If the ability force moves a target, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Reason](../rule/character/reason.md) score.
+If the ability force moves a target, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a [bonus](../rule/dice/bonuses-and-penalties.md) equal to your [Reason](../rule/character/reason.md) score.
 
 #### Expanded Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/expanded-power"}
 
@@ -976,7 +976,7 @@ If the ability targets an area, you increase the size of the area by 1. If the a
 
 #### Extended Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/extended-power"}
 
-If the ability is ranged, the [distance](../rule/combat/distance.md) gains a bonus equal to your [Reason](../rule/character/reason.md) score. If the ability is melee, the [distance](../rule/combat/distance.md) gains a +2 bonus.
+If the ability is [ranged](../rule/combat/ranged.md), the [distance](../rule/combat/distance.md) gains a [bonus](../rule/dice/bonuses-and-penalties.md) equal to your [Reason](../rule/character/reason.md) score. If the ability is [melee](../rule/combat/melee.md), the [distance](../rule/combat/distance.md) gains a +2 [bonus](../rule/dice/bonuses-and-penalties.md).
 
 #### Heightened Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/heightened-power"}
 
@@ -1007,11 +1007,11 @@ Choose one of the following abilities.
 
 *Your foe gets a glimpse of how it will end for them.*
 
-| **Chronopathy, Psionic, Melee** |  **Main action** |
+| **Chronopathy, Psionic, [Melee](../rule/combat/melee.md)** |  **Main action** |
 |---------------------------------|-----------------:|
-| **📏 Melee 2**                  | **🎯 One enemy** |
+| **📏 [Melee](../rule/combat/melee.md) 2**                  | **🎯 One enemy** |
 
-**Effect:** The target has [damage weakness](../rule/damage/damage-weakness.md) 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](../condition/prone.md).
+**Effect:** The target has [damage weakness](../rule/damage/damage-weakness.md) 5 until the end of your next [turn](../rule/combat/turn.md). Whenever the target takes damage while they have this weakness, they are [knocked prone](../condition/prone.md).
 
 **Strained:** This ability gains the [Strike](../rule/combat/strike.md) keyword as the vision hurts the target's psyche. You make a [power roll](../rule/dice/power-roll.md), then are [weakened](../condition/weakened.md) (save ends).
 
@@ -1026,11 +1026,11 @@ Choose one of the following abilities.
 
 *Keep everything as it was. Ignore everything that will be.*
 
-| **Area, Chronopathy, Psionic, Ranged** |                             **Main action** |
+| **Area, Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md)** |                             **Main action** |
 |----------------------------------------|--------------------------------------------:|
 | **📏 4 [cube](../rule/combat/cube.md) within 10**                | **🎯 Each creature and object in the area** |
 
-**Effect:** The area is frozen in time until the start of your next turn. Each object in the area is [restrained](../condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](../rule/health/stamina.md) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](../rule/health/stamina.md) remain undestroyed.
+**Effect:** The area is frozen in time until the start of your next [turn](../rule/combat/turn.md). Each object in the area is [restrained](../condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](../rule/health/stamina.md) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](../rule/health/stamina.md) remain undestroyed.
 
 Make a [power roll](../rule/dice/power-roll.md) that targets each enemy in the area.
 
@@ -1051,7 +1051,7 @@ Choose one of the following abilities.
 
 *You bend gravity into a fine point and pull your foes toward it.*
 
-| **Area, Psionic, Ranged, Telekinesis** |                             **Main action** |
+| **Area, Psionic, [Ranged](../rule/combat/ranged.md), Telekinesis** |                             **Main action** |
 |----------------------------------------|--------------------------------------------:|
 | **📏 4 [cube](../rule/combat/cube.md) within 10**                | **🎯 Each creature and object in the area** |
 
@@ -1070,9 +1070,9 @@ Choose one of the following abilities.
 
 *You raise the target into the air without breaking a sweat.*
 
-| **Psionic, Ranged**, **Strike, Telekinesis** |               **Main action** |
+| **Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike, Telekinesis** |               **Main action** |
 |----------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                             | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                             | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -1091,9 +1091,9 @@ Choose one of the following abilities.
 
 *It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!*
 
-| **Psionic, Melee**, **Strike, Telepathy** |     **Main action** |
+| **Psionic, [Melee](../rule/combat/melee.md)**, **Strike, Telepathy** |     **Main action** |
 |-------------------------------------------|--------------------:|
-| **📏 Melee 2**                            | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 2**                            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -1108,11 +1108,11 @@ Choose one of the following abilities.
 
 *You manipulate your enemies' minds and make them wonder if you were ever really there in the first place.*
 
-| **Psionic, Ranged, [Strike](../rule/combat/strike.md), Telepathy** |   **Maneuver** |
+| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Telepathy** |   **Maneuver** |
 |----------------------------------------|---------------:|
-| **📏 Ranged 10**                       | **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 Special** |
 
-**Effect:** You target a number of creatures with this ability determined by the outcome of your [power roll](../rule/dice/power-roll.md). You and your allies are invisible to each target until the start of your next turn.
+**Effect:** You target a number of creatures with this ability determined by the outcome of your [power roll](../rule/dice/power-roll.md). You and your allies are invisible to each target until the start of your next [turn](../rule/combat/turn.md).
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -1140,7 +1140,7 @@ Each of your [characteristic](../rule/character/characteristic.md) scores increa
 
 ### Lucid Mind {data-scc="mcdm.heroes.v1/feature.talent.level-7/lucid-mind"}
 
-At the start of each of your turns during combat, you gain 1d3 + 1 clarity instead of 1d3.
+At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 1d3 + 1 clarity instead of 1d3.
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.talent.level-7/skill"}
 
@@ -1183,7 +1183,7 @@ You have the following ability.
 |-------------------|-----------------------------:|
 | **📏 3 [burst](../rule/combat/burst.md)**    | **🎯 Each ally in the area** |
 
-**Effect:** Each target can [fly](../movement/fly.md) until the start of your next turn, and can immediately [shift](../movement/shifting.md) up to their [speed](../rule/character/speed.md). You can also [shift](../movement/shifting.md) up to your [speed](../rule/character/speed.md). While [flying](../movement/fly.md), a target's [stability](../rule/character/stability.md) is reduced to 0 and can't be increased.
+**Effect:** Each target can [fly](../movement/fly.md) until the start of your next [turn](../rule/combat/turn.md), and can immediately [shift](../movement/shifting.md) up to their [speed](../rule/character/speed.md). You can also [shift](../movement/shifting.md) up to your [speed](../rule/character/speed.md). While [flying](../movement/fly.md), a target's [stability](../rule/character/stability.md) is reduced to 0 and can't be increased.
 
 **Spend 5 Clarity:** The effects last for 1 hour instead.
 
@@ -1204,13 +1204,13 @@ You have the following ability.
 
 *You freeze time just long enough to bring the victim to safety!*
 
-| **Psionic, Ranged** |                          **Triggered** |
+| **Psionic, [Ranged](../rule/combat/ranged.md)** |                          **Triggered** |
 |---------------------|---------------------------------------:|
-| **📏 Ranged 10**    | **🎯 Self, or one creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**    | **🎯 Self, or one creature or object** |
 
 **Trigger:** The target takes damage.
 
-**Effect:** The target is [teleport](../movement/teleport.md)ed to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+**Effect:** The target is [teleport](../movement/teleport.md)ed to an unoccupied space [adjacent](../rule/combat/adjacent.md) to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
 
 **Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target.
 
@@ -1227,9 +1227,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive.*
 
-| **Animapathy, Psionic, Ranged**, **Strike** |               **Main action** |
+| **Animapathy, Psionic, [Ranged](../rule/combat/ranged.md)**, **Strike** |               **Main action** |
 |---------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                            | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                            | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -1246,9 +1246,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You attempt to make them forget all their training.*
 
-| **Melee, Psionic, [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), Psionic, [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
 |---------------------------------------|--------------------:|
-| **📏 Melee 2**                        | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 2**                        | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -1265,15 +1265,15 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You reshape the flow of time in the target's body to return it to an earlier state.*
 
-| **Chronopathy, Psionic, Ranged** |            **Maneuver** |
+| **Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
 |----------------------------------|------------------------:|
-| **📏 Ranged 10**                 | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
 
 **Effect:** Choose two of the following effects:
 
 - The target can spend any number of [Recoveries](../rule/health/recoveries.md).
-- The target gains 1 of their [Heroic Resource](../rule/resource/heroic-resource.md), and can end any effects on them that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of their turn.
-- The target gains 2 [surges](../rule/resource/surge.md), and gains a +3 bonus to [speed](../rule/character/speed.md) until the end of the encounter.
+- The target gains 1 of their [Heroic Resource](../rule/resource/heroic-resource.md), and can end any effects on them that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of their [turn](../rule/combat/turn.md).
+- The target gains 2 [surges](../rule/resource/surge.md), and gains a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of the encounter.
 
 **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are [weakened](../condition/weakened.md) and [slowed](../condition/slowed.md) (save ends).
 
@@ -1282,11 +1282,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *The target's skin becomes covered in tough metal.*
 
-| **Metamorphosis, Psionic, Ranged** |            **Maneuver** |
+| **Metamorphosis, Psionic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
 |------------------------------------|------------------------:|
-| **📏 Ranged 10**                   | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                   | **🎯 Self or one ally** |
 
-**Effect:** The target has [damage immunity](../rule/damage/damage-immunity.md) 5 and can't be made [slowed](../condition/slowed.md) or [weakened](../condition/weakened.md) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +5 bonus.
+**Effect:** The target has [damage immunity](../rule/damage/damage-immunity.md) 5 and can't be made [slowed](../condition/slowed.md) or [weakened](../condition/weakened.md) until the start of your next [turn](../rule/combat/turn.md). Whenever the target force moves a creature or object while under this effect, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +5 [bonus](../rule/dice/bonuses-and-penalties.md).
 
 **Strained:** You can't use maneuvers (save ends).
 
@@ -1317,11 +1317,11 @@ Choose one of the following abilities.
 
 *You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.*
 
-| **Chronopathy, Psionic, Ranged** |     **Main action** |
+| **Chronopathy, Psionic, [Ranged](../rule/combat/ranged.md)** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Ranged 5**                  | **🎯 Three allies** |
+| **📏 [Ranged](../rule/combat/ranged.md) 5**                  | **🎯 Three allies** |
 
-**Effect:** Each target can use any main action available to them as a free [triggered action](../rule/combat/triggered-action.md), but they lose their main action on their next turn.
+**Effect:** Each target can use any main action available to them as a free [triggered action](../rule/combat/triggered-action.md), but they lose their main action on their next [turn](../rule/combat/turn.md).
 
 **Strained:** Make a [power roll](../rule/dice/power-roll.md) that targets you and each enemy within [distance](../rule/combat/distance.md).
 
@@ -1340,7 +1340,7 @@ Choose one of the following abilities.
 |--------------------------------|-----------------------------:|
 | **📏 2 [burst](../rule/combat/burst.md)**                 | **🎯 Each ally in the area** |
 
-**Effect:** The targets share 6 of their [Heroic Resource](../rule/resource/heroic-resource.md) among themselves, as you determine. A target can't gain more than 3 of their [Heroic Resource](../rule/resource/heroic-resource.md) this way. After using this ability, you can't gain any clarity until the end of the next combat round.
+**Effect:** The targets share 6 of their [Heroic Resource](../rule/resource/heroic-resource.md) among themselves, as you determine. A target can't gain more than 3 of their [Heroic Resource](../rule/resource/heroic-resource.md) this way. After using this ability, you can't gain any clarity until the end of the next [combat round](../rule/combat/combat-round.md).
 
 #### 9th-Level Telekinesis Abilities
 
@@ -1363,7 +1363,7 @@ Choose one of the following abilities.
 - **12-16:** 3 [burst](../rule/combat/burst.md)
 - **17+:** 4 [burst](../rule/combat/burst.md)
 
-**Strained:** You can choose to reduce the size of the [burst](../rule/combat/burst.md) by 2 (to a minimum of 1 [burst](../rule/combat/burst.md)) to give the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) a +2 bonus. You take half the total damage all targets take from [forced movement](../movement/forced-movement.md).
+**Strained:** You can choose to reduce the size of the [burst](../rule/combat/burst.md) by 2 (to a minimum of 1 [burst](../rule/combat/burst.md)) to give the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) a +2 [bonus](../rule/dice/bonuses-and-penalties.md). You take half the total damage all targets take from [forced movement](../movement/forced-movement.md).
 
 ##### Gravitic Nova {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/gravitic-nova"}
 
@@ -1393,9 +1393,9 @@ Choose one of the following abilities.
 
 *You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.*
 
-| **Psionic, Ranged, [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Telepathy** |     **Main action** |
 | ------------------------------------|--------------------:|
-| **📏 Ranged 10**  | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -1416,7 +1416,7 @@ Choose one of the following abilities.
 |------------------------------|---------------------------------------:|
 | **📏 3 [burst](../rule/combat/burst.md)**               | **🎯 Each ally and enemy in the area** |
 
-**Effect:** You and each target ally can't obtain lower than a tier 2 outcome on [power rolls](../rule/dice/power-roll.md) until the start of your next turn. Each target enemy is affected by the ability's [power roll](../rule/dice/power-roll.md).
+**Effect:** You and each target ally can't obtain lower than a tier 2 outcome on [power rolls](../rule/dice/power-roll.md) until the start of your next [turn](../rule/combat/turn.md). Each target enemy is affected by the ability's [power roll](../rule/dice/power-roll.md).
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -1436,19 +1436,19 @@ Your [Reason](../rule/character/reason.md) and [Presence](../rule/character/pres
 
 ### Clear Mind {data-scc="mcdm.heroes.v1/feature.talent.level-10/clear-mind"}
 
-The first time each combat round that a creature is [force moved](../movement/forced-movement.md), you gain 3 clarity instead of 2.
+The first time each [combat round](../rule/combat/combat-round.md) that a creature is [force moved](../movement/forced-movement.md), you gain 3 clarity instead of 2.
 
 ### Omnisensory {data-scc="mcdm.heroes.v1/feature.talent.level-10/omnisensory"}
 
-You have a +10 bonus to the [distance](../rule/combat/distance.md) of your ranged abilities. Additionally, you don't need [line of effect](../rule/combat/line-of-effect.md) to a target of a ranged ability if the target is a creature capable of thought who you have previously had [line of effect](../rule/combat/line-of-effect.md) to.
+You have a +10 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) of your [ranged](../rule/combat/ranged.md) abilities. Additionally, you don't need [line of effect](../rule/combat/line-of-effect.md) to a target of a [ranged](../rule/combat/ranged.md) ability if the target is a creature capable of thought who you have previously had [line of effect](../rule/combat/line-of-effect.md) to.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-10/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice.
+You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
 
 ### Psion {data-scc="mcdm.heroes.v1/feature.talent.level-10/psion"}
 
-At the start of each of your turns during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.
+At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.
 
 Additionally, you can choose to not take damage from having negative clarity. You can also choose to take on any ability's strained effect even if you're not strained.
 
@@ -1460,6 +1460,6 @@ You gain one skill of your choice.
 
 You have an epic resource called vision. Each time you finish a [respite](../rule/resource/respite.md), you gain vision equal to the [XP](../rule/resource/experience.md) you gain. You can spend vision on your abilities as if it were clarity.
 
-Additionally, you can spend vision to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in vision. If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
+Additionally, you can spend vision to use one additional psionic ability on your [turn](../rule/combat/turn.md), provided you pay the entire cost of the ability in vision. If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
 
 Vision remains until you spend it.

@@ -30,7 +30,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god grants you a holy countenance that protects you at all times. You gain a +1 bonus to <a href="../../../../rule/general/saving-throw/">saving throws</a>.</p>
+<p>Your god grants you a holy countenance that protects you at all times. You gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/general/saving-throw/">saving throws</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -41,7 +41,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score after the damage is dealt.</p>
+<p>The gods imbue a divine swiftness within you. Whenever an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature deals damage to you, you can <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score after the damage is dealt.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -52,7 +52,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>In response to a foe&#39;s aggression, your god protects you. Whenever another creature damages you, that creature can&#39;t target you with a <a href="../../../../rule/combat/strike/">strike</a> until you harm them or one of their allies, or until the end of their next turn.</p>
+<p>In response to a foe&#39;s aggression, your god protects you. Whenever another creature damages you, that creature can&#39;t target you with a <a href="../../../../rule/combat/strike/">strike</a> until you harm them or one of their allies, or until the end of their next <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -63,7 +63,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Invisible spirits surround you if you are harmed. Whenever an adjacent creature deals damage to you, they take corruption damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
+<p>Invisible spirits surround you if you are harmed. Whenever an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature deals damage to you, they take corruption damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
 </div>
 </section>
 </div>

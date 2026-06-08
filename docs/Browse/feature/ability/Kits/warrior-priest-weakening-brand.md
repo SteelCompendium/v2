@@ -1,11 +1,11 @@
 ---
 action_type: Main action
-distance: Melee 1
-effect: Until the end of the target's next turn, they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
+distance: '[Melee](../../../rule/combat/melee.md) 1'
+effect: Until the end of the target's next [turn](../../../rule/combat/turn.md), they have [damage weakness](../../../rule/damage/damage-weakness.md) equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
 flavor: The impact of your weapon brands your target for destruction.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../rule/combat/melee.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: warrior-priest
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">The impact of your weapon brands your target for destruction.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -40,6 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the target&#39;s next turn, they have <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> equal to the <a href="../../../../rule/character/characteristic/">characteristic</a> score used for this ability&#39;s <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the target&#39;s next <a href="../../../../rule/combat/turn/">turn</a>, they have <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> equal to the <a href="../../../../rule/character/characteristic/">characteristic</a> score used for this ability&#39;s <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>

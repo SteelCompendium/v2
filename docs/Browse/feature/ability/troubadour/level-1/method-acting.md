@@ -2,11 +2,11 @@
 action_type: Main action
 class: troubadour
 cost: 5 Drama
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can become [bleeding](../../../../condition/bleeding.md) (save ends) to deal an extra 5 corruption damage to the target.
 flavor: They're so hurt by your performance, you start to believe it yourself.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Drama</div></div>
 </div>
 <p class="sc-ability__flavor">They&#39;re so hurt by your performance, you start to believe it yourself.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

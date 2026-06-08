@@ -2,12 +2,12 @@
 action_type: Main action
 class: conduit
 cost: 11 Piety
-distance: Ranged 10
-effect: Each ally the target comes adjacent to during the [forced movement](../../../../movement/forced-movement.md) can spend a [Recovery](../../../../rule/health/recoveries.md).
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: Each ally the target comes [adjacent](../../../../rule/combat/adjacent.md) to during the [forced movement](../../../../movement/forced-movement.md) can spend a [Recovery](../../../../rule/health/recoveries.md).
 flavor: You conjure an angel who moves a foe and heals your allies.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "8"
 name: Drag the Unworthy
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Piety</div></div>
 </div>
 <p class="sc-ability__flavor">You conjure an angel who moves a foe and heals your allies.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -40,6 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally the target comes adjacent to during the <a href="../../../../../movement/forced-movement/">forced movement</a> can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
+<div class="sc-ability__section-body"><p>Each ally the target comes <a href="../../../../../rule/combat/adjacent/">adjacent</a> to during the <a href="../../../../../movement/forced-movement/">forced movement</a> can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>

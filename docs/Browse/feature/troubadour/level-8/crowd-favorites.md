@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can&#39;t spend <a href="../../../../rule/health/recoveries/">Recoveries</a> or use <a href="../../../../rule/combat/triggered-action/">triggered actions</a>. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who is dead can choose to continue taking <a href="../../../../rule/combat/turn/">turns</a> after death. On each of their <a href="../../../../rule/combat/turn/">turns</a>, a target can move and use either a main action or a maneuver, but can&#39;t spend <a href="../../../../rule/health/recoveries/">Recoveries</a> or use <a href="../../../../rule/combat/triggered-action/">triggered actions</a>. At the end of the encounter, each target who chose to take <a href="../../../../rule/combat/turn/">turns</a> this way turns to dust and blows away.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="none">
@@ -59,7 +59,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area ignores <a href="../../../../movement/difficult-terrain/">difficult terrain</a>, and any ability they use that imposes <a href="../../../../movement/forced-movement/">forced movement</a> gains a +2 bonus to the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> until the end of their turn. Additionally, once per combat round, each target can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../../rule/combat/turn/">turn</a> in the area ignores <a href="../../../../movement/difficult-terrain/">difficult terrain</a>, and any ability they use that imposes <a href="../../../../movement/forced-movement/">forced movement</a> gains a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> until the end of their <a href="../../../../rule/combat/turn/">turn</a>. Additionally, once per <a href="../../../../rule/combat/combat-round/">combat round</a>, each target can use a <a href="../../../../rule/combat/triggered-action/">triggered action</a> as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p></div>
 </div>
 </article>
 </div>

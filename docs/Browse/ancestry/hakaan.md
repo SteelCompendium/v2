@@ -97,11 +97,11 @@ The giant nodded solemnly. "You are lorewise. My trust in you was well-placed. I
 
 "Many do!" Ardashir said. "I do not. I left the hills of my people long ago to pursue a different path. A path of order and discipline. It is my birthright perhaps."
 
-"He's a [null](../class/null.md)," Embers explained. "They eschew all weapons and implements of war. It is part of their creed, as I understand it."
+"He's a [null](../class/null.md)," Embers explained. "They eschew all weapons and [implements](../rule/treasure/implement.md) of war. It is part of their creed, as I understand it."
 
 "Strength alone might serve," Dazar nodded, "when the strength is such as yours."
 
-Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, hands clenched, arms in a guarding position before him. "Discipline, training, focus. These are my implements."
+Ardashir grinned. "Strength alone is not enough." He assumed a fighting pose, hands clenched, arms in a guarding position before him. "Discipline, training, focus. These are my [implements](../rule/treasure/implement.md)."
 
 "Well you can't ever be disarmed," John said. "That could be useful." Ardashir's smile was brilliant. "I suffice," he said.
 
@@ -131,7 +131,7 @@ Additionally, when your [Stamina](../rule/health/stamina.md) reaches the negativ
 
 #### Forceful {data-scc="mcdm.heroes.v1/feature.trait.hakaan/forceful"}
 
-Whenever you [force move](../movement/forced-movement.md) a creature or object, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +1 bonus.
+Whenever you [force move](../movement/forced-movement.md) a creature or object, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md).
 
 #### Great Fortitude {data-scc="mcdm.heroes.v1/feature.trait.hakaan/great-fortitude"}
 

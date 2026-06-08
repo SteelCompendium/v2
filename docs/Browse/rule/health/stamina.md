@@ -24,7 +24,7 @@ You can tell when other creatures are winded and vice versa.
 
 ## Dying and Death {data-scc="mcdm.heroes.v1/rule.health/dying"}
 
-When your [Stamina](stamina.md) is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../../feature/common/maneuvers/catch-breath.md) maneuver in combat. Additionally, you are [bleeding](../../condition/bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend [Recoveries](recoveries.md) in combat, and you can spend [Recoveries](recoveries.md) out of combat as usual.
+When your [Stamina](stamina.md) is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../../feature/common/maneuvers/catch-breath.md) maneuver in combat. Additionally, you are [bleeding](../../condition/bleeding.md), and this instance of the [condition](../combat/condition.md) can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend [Recoveries](recoveries.md) in combat, and you can spend [Recoveries](recoveries.md) out of combat as usual.
 
 While your [Stamina](stamina.md) is lower than 0, if it reaches the negative of your [winded](winded.md) value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
 
@@ -67,4 +67,4 @@ Mundane objects in the game have [Stamina](stamina.md) based on the material the
 - Stone: 6 [Stamina](stamina.md)
 - Metal: 9 [Stamina](stamina.md)
 
-The Director can decide that a well-made or poorly made object has more or less [Stamina](stamina.md). Destroying a supernatural object often (but not always) requires a specific quest, such as throwing a magic ring back into the volcano where it was forged.
+The Director can decide that a well-made or poorly made object has more or less [Stamina](stamina.md). Destroying a [supernatural](../general/supernatural.md) object often (but not always) requires a specific quest, such as throwing a magic ring back into the volcano where it was forged.

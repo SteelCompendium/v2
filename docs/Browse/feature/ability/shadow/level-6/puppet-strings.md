@@ -2,12 +2,12 @@
 action_type: Main action
 class: shadow
 cost: 9 Insight
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You choose the new targets for the original target's [free strike](../../../common/main-actions/free-strike.md) or ability. Additionally, if you are hidden or disguised, using this ability doesn't cause you to be revealed.
 flavor: You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Strike
     - Weapon
 level: "6"
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Insight</div></div>
 </div>
 <p class="sc-ability__flavor">You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two enemies</div></div>
 </div>
 <div class="sc-ability__section">

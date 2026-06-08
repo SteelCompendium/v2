@@ -17,7 +17,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>A creature wanting to push an adjacent creature away from them can attempt to shove that creature using the following ability.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>A creature wanting to push an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature away from them can attempt to shove that creature using the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
 <div class="sc-ability__head">
@@ -28,9 +28,9 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

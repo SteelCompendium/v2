@@ -3,10 +3,10 @@ action_type: Main action
 class: shadow
 cost: 5 Insight
 distance: Self; see below
-effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies who came adjacent to you during the move.
+effect: You [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md) and make one [power roll](../../../../rule/dice/power-roll.md) that targets up to three enemies who came [adjacent](../../../../rule/combat/adjacent.md) to you during the move.
 flavor: As you move across the battlefield, every foe within reach feels your wrath.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "1"
 name: One Hundred Throats
@@ -29,13 +29,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Insight</div></div>
 </div>
 <p class="sc-ability__flavor">As you move across the battlefield, every foe within reach feels your wrath.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your <a href="../../../../../rule/character/speed/">speed</a> and make one <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets up to three enemies who came adjacent to you during the move.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 3 damage</li><li><b>12-16:</b> 6 damage</li><li><b>17+:</b> 9 damage</li></ul></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your <a href="../../../../../rule/character/speed/">speed</a> and make one <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets up to three enemies who came <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you during the move.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 3 damage</li><li><b>12-16:</b> 6 damage</li><li><b>17+:</b> 9 damage</li></ul></div>
 </div>
 </article>

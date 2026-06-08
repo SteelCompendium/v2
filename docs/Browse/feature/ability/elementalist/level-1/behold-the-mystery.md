@@ -7,7 +7,7 @@ flavor: You open a rift into the void to harry your foes.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Void
 level: "1"
 name: Behold the Mystery
@@ -30,7 +30,7 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">3</span> Essence</div></div>
 </div>
 <p class="sc-ability__flavor">You open a rift into the void to harry your foes.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Void</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">Void</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
@@ -40,6 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>At the start of your turn, you can use a maneuver to use this ability again without spending essence.</p></div>
+<div class="sc-ability__section-body"><p>At the start of your <a href="../../../../../rule/combat/turn/">turn</a>, you can use a maneuver to use this ability again without spending essence.</p></div>
 </div>
 </article>

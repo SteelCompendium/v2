@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The first time each combat round that you deal damage to a creature judged by you, you gain 2 wrath instead of 1.</p>
+<p>The first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that you deal damage to a creature judged by you, you gain 2 wrath instead of 1.</p>
 </div>
 </section>

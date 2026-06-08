@@ -22,13 +22,13 @@ If you are on the ground, you have [line of effect](../rule/combat/line-of-effec
 
 If you are completely beneath the ground while [burrowing](burrow.md), you don't have [line of effect](../rule/combat/line-of-effect.md) to any creature on the surface unless a rule states otherwise.
 
-If you are completely beneath the ground while [burrowing](burrow.md) and are adjacent to another creature who is [burrowing](burrow.md), you have [line of effect](../rule/combat/line-of-effect.md) to that creature, though you both have [cover](../rule/combat/cover.md) from each other.
+If you are completely beneath the ground while [burrowing](burrow.md) and are [adjacent](../rule/combat/adjacent.md) to another creature who is [burrowing](burrow.md), you have [line of effect](../rule/combat/line-of-effect.md) to that creature, though you both have [cover](../rule/combat/cover.md) from each other.
 
 You can't gain the benefit of [high ground](high-ground.md) (see below) against creatures who are completely beneath the ground while [burrowing](burrow.md).
 
 ## Non-Burrowing Creatures
 
-If you are on the ground and adjacent to a creature who is beneath the ground while [burrowing](burrow.md), you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
+If you are on the ground and [adjacent](../rule/combat/adjacent.md) to a creature who is beneath the ground while [burrowing](burrow.md), you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
 
 If a creature who can't [burrow](burrow.md) wants to dig into the ground, they can use the following ability provided their [speed](../rule/character/speed.md) is 2 or more.
 

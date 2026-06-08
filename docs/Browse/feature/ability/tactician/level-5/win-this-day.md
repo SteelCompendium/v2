@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 9 Focus
 distance: 3 [burst](../../../../rule/combat/burst.md)
-effect: Each target gains 2 [surges](../../../../rule/resource/surge.md). Additionally, they can spend a [Recovery](../../../../rule/health/recoveries.md), remove any conditions or effects on them, and stand up if they [are prone](../../../../condition/prone.md).
+effect: Each target gains 2 [surges](../../../../rule/resource/surge.md). Additionally, they can spend a [Recovery](../../../../rule/health/recoveries.md), remove any [conditions](../../../../rule/combat/condition.md) or effects on them, and stand up if they [are prone](../../../../condition/prone.md).
 flavor: You inspire your allies to recover and gather their strength.
 keywords:
     - Area
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>. Additionally, they can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>, remove any conditions or effects on them, and stand up if they <a href="../../../../../condition/prone/">are prone</a>.</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>. Additionally, they can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>, remove any <a href="../../../../../rule/combat/condition/">conditions</a> or effects on them, and stand up if they <a href="../../../../../condition/prone/">are prone</a>.</p></div>
 </div>
 </article>

@@ -1,11 +1,11 @@
 ---
 action_type: Main action
-distance: Melee 1 or ranged 10
-effect: The target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of their next turn.
+distance: '[Melee](../../../rule/combat/melee.md) 1 or [ranged](../../../rule/combat/ranged.md) 10'
+effect: The target takes a [bane](../../../rule/dice/bane.md) on their next [power roll](../../../rule/dice/power-roll.md) made before the end of their next [turn](../../../rule/combat/turn.md).
 flavor: You execute a brutal strike that leaves your foe reeling. (Previously known as "[Shock and Awe](../../tactician/level-7/shock-and-awe.md)")
 keywords:
-    - Melee
-    - Ranged
+    - '[Melee](../../../rule/combat/melee.md)'
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: raider
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">You execute a brutal strike that leaves your foe reeling. (Previously known as &#34;<a href="../../../tactician/level-7/shock-and-awe/">Shock and Awe</a>&#34;)</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../rule/combat/ranged/">ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -40,6 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target takes a <a href="../../../../rule/dice/bane/">bane</a> on their next <a href="../../../../rule/dice/power-roll/">power roll</a> made before the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>The target takes a <a href="../../../../rule/dice/bane/">bane</a> on their next <a href="../../../../rule/dice/power-roll/">power roll</a> made before the end of their next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

@@ -2,12 +2,12 @@
 action_type: Main action
 class: fury
 cost: 9 Ferocity
-distance: Melee 1
-effect: You can [shift](../../../../movement/shifting.md) up to 4 squares, bringing the target with you. While [grabbed](../../../../condition/grabbed.md) this way, the target takes damage equal to twice your [Might](../../../../rule/character/might.md) score at the start of each of your turns.
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: You can [shift](../../../../movement/shifting.md) up to 4 squares, bringing the target with you. While [grabbed](../../../../condition/grabbed.md) this way, the target takes damage equal to twice your [Might](../../../../rule/character/might.md) score at the start of each of your [turns](../../../../rule/combat/turn.md).
 flavor: You strike at the target like the ultimate predator you are.
 keywords:
     - Magic
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "6"
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Ferocity</div></div>
 </div>
 <p class="sc-ability__flavor">You strike at the target like the ultimate predator you are.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -41,6 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to 4 squares, bringing the target with you. While <a href="../../../../../condition/grabbed/">grabbed</a> this way, the target takes damage equal to twice your <a href="../../../../../rule/character/might/">Might</a> score at the start of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/shifting/">shift</a> up to 4 squares, bringing the target with you. While <a href="../../../../../condition/grabbed/">grabbed</a> this way, the target takes damage equal to twice your <a href="../../../../../rule/character/might/">Might</a> score at the start of each of your <a href="../../../../../rule/combat/turn/">turns</a>.</p></div>
 </div>
 </article>

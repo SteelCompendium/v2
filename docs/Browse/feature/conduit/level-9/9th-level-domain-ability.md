@@ -42,14 +42,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You speak inspiring words to a friend and spur them to incredible feats.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has an additional main action they can use on their next turn, and gains 3 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
+<div class="sc-ability__section-body"><p>The target has an additional main action they can use on their next <a href="../../../../rule/combat/turn/">turn</a>, and gains 3 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -62,9 +62,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">The gods know you must prevail, and they bless your fate.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
@@ -102,14 +102,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">From nothing but divine will, you create a powerful ally.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You conjure a <a href="../../../../rule/character/size/">size</a> 4 dragon that appears in an unoccupied space within <a href="../../../../rule/combat/distance/">distance</a>. The dragon has <a href="../../../../rule/character/speed/">speed</a> 6 and can <a href="../../../../movement/fly/">fly</a>, <a href="../../../../rule/character/stability/">stability</a> 4, 100 <a href="../../../../rule/health/stamina/">Stamina</a>, immunity all to fire damage, and uses your <a href="../../../../rule/character/characteristic/">characteristics</a>. The dragon disappears at the end of the encounter, if their <a href="../../../../rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../../../rule/health/dying/">dying</a>.</p><p>On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 <a href="../../../../rule/combat/cube/">cube</a> within 1 square of them. Make the following <a href="../../../../rule/dice/power-roll/">power roll</a> targeting each enemy in the area.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 5 fire damage</li><li><b>12-16:</b> 9 fire damage</li><li><b>17+:</b> 12 fire damage</li></ul><p>Additionally, you can use a maneuver to move the dragon up to their <a href="../../../../rule/character/speed/">speed</a>, or to make a melee weapon <a href="../../../../rule/combat/strike/">strike</a> with their claw against an adjacent creature or object. The dragon can also make this <a href="../../../../rule/combat/strike/">strike</a> as a <a href="../../../common/main-actions/free-strike/">free strike</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 3 + I damage</li><li><b>12-16:</b> 5 + I damage</li><li><b>17+:</b> 8 + I damage</li></ul></div>
+<div class="sc-ability__section-body"><p>You conjure a <a href="../../../../rule/character/size/">size</a> 4 dragon that appears in an unoccupied space within <a href="../../../../rule/combat/distance/">distance</a>. The dragon has <a href="../../../../rule/character/speed/">speed</a> 6 and can <a href="../../../../movement/fly/">fly</a>, <a href="../../../../rule/character/stability/">stability</a> 4, 100 <a href="../../../../rule/health/stamina/">Stamina</a>, immunity all to fire damage, and uses your <a href="../../../../rule/character/characteristic/">characteristics</a>. The dragon disappears at the end of the encounter, if their <a href="../../../../rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../../../rule/health/dying/">dying</a>.</p><p>On subsequent <a href="../../../../rule/combat/turn/">turns</a>, you can use a main action to command the dragon to breathe magic fire in a 3 <a href="../../../../rule/combat/cube/">cube</a> within 1 square of them. Make the following <a href="../../../../rule/dice/power-roll/">power roll</a> targeting each enemy in the area.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 5 fire damage</li><li><b>12-16:</b> 9 fire damage</li><li><b>17+:</b> 12 fire damage</li></ul><p>Additionally, you can use a maneuver to move the dragon up to their <a href="../../../../rule/character/speed/">speed</a>, or to make a <a href="../../../../rule/combat/melee/">melee</a> weapon <a href="../../../../rule/combat/strike/">strike</a> with their claw against an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature or object. The dragon can also make this <a href="../../../../rule/combat/strike/">strike</a> as a <a href="../../../common/main-actions/free-strike/">free strike</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 3 + I damage</li><li><b>12-16:</b> 5 + I damage</li><li><b>17+:</b> 8 + I damage</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -122,7 +122,7 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You summon a divine storm that remains under your control.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/cube/">cube</a> within 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
@@ -132,7 +132,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A raging storm fills the area until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
+<div class="sc-ability__section-body"><p>A raging storm fills the area until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>. At the start of each of your <a href="../../../../rule/combat/turn/">turns</a>, you can move the storm up to 5 squares (no action required). On subsequent <a href="../../../../rule/combat/turn/">turns</a> while the storm is active, you can use a maneuver to make its <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -145,7 +145,7 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You summon darkness that thwarts only your foes.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
@@ -165,14 +165,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Intense light is emitted from your body, healing your allies.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Four allies</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability. Each target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>, can end any effects on them that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of their turn, and can stand up if they <a href="../../../../condition/prone/">are prone</a>.</p></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability. Each target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>, can end any effects on them that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of their <a href="../../../../rule/combat/turn/">turn</a>, and can stand up if they <a href="../../../../condition/prone/">are prone</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -185,14 +185,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">A wall of spinning swords and knives appears where you wish.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">15 wall within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The wall lasts until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 15 damage.</p></div>
+<div class="sc-ability__section-body"><p>The wall lasts until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a <a href="../../../../rule/combat/combat-round/">combat round</a> or starts their turn there takes 15 damage.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -205,7 +205,7 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You call down a sphere of fire that burns your foes to ash.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
@@ -224,9 +224,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Vines <a href="../../../../rule/combat/burst/">burst</a> forth from the ground and bind your foe, slowly closing around them.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -234,7 +234,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While <a href="../../../../condition/restrained/">restrained</a> this way, the target takes 10 damage at the start of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../condition/restrained/">restrained</a> this way, the target takes 10 damage at the start of each of your <a href="../../../../rule/combat/turn/">turns</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
@@ -247,9 +247,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your death will fuel our <a href="../../../../rule/resource/victories/">victory</a>.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -271,9 +271,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You utter a divine word that makes a foe brittle.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">

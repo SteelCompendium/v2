@@ -7,7 +7,7 @@ flavor: You call down a sphere of fire that burns your foes to ash.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Solar Flare
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/solar-flare
@@ -29,7 +29,7 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Piety</div></div>
 </div>
 <p class="sc-ability__flavor">You call down a sphere of fire that burns your foes to ash.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>

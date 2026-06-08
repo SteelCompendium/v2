@@ -39,6 +39,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The size of the <a href="../../../../../rule/combat/burst/">burst</a> increases by 2, and you are <a href="../../../../../condition/bleeding/">bleeding</a> until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>The size of the <a href="../../../../../rule/combat/burst/">burst</a> increases by 2, and you are <a href="../../../../../condition/bleeding/">bleeding</a> until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

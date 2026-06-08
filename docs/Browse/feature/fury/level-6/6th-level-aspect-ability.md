@@ -48,7 +48,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You jump up to your maximum jump <a href="../../../../rule/combat/distance/">distance</a> and make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each creature adjacent to the space where you land.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 4 damage; push 1</li><li><b>12-16:</b> 7 damage; push 2</li><li><b>17+:</b> 11 damage; push 3</li></ul></div>
+<div class="sc-ability__section-body"><p>You jump up to your maximum jump <a href="../../../../rule/combat/distance/">distance</a> and make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each creature <a href="../../../../rule/combat/adjacent/">adjacent</a> to the space where you land.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 4 damage; push 1</li><li><b>12-16:</b> 7 damage; push 2</li><li><b>17+:</b> 11 damage; push 3</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -61,9 +61,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -95,10 +95,10 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">Once you taste your foe&#39;s blood, you become more efficient and turn every killing blow into an opportunity.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<p class="sc-ability__flavor">Once you taste your foe&#39;s blood, you become more efficient and <a href="../../../../rule/combat/turn/">turn</a> every killing blow into an opportunity.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__section">
@@ -107,7 +107,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You target a creature adjacent to you with the same strike, using the same <a href="../../../../rule/dice/power-roll/">power roll</a> as the triggering strike.</p></div>
+<div class="sc-ability__section-body"><p>You target a creature <a href="../../../../rule/combat/adjacent/">adjacent</a> to you with the same strike, using the same <a href="../../../../rule/dice/power-roll/">power roll</a> as the triggering strike.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -120,9 +120,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You break through the enemy lines to make an example.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -156,9 +156,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You strike at the target like the ultimate predator you are.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -166,7 +166,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> up to 4 squares, bringing the target with you. While <a href="../../../../condition/grabbed/">grabbed</a> this way, the target takes damage equal to twice your <a href="../../../../rule/character/might/">Might</a> score at the start of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> up to 4 squares, bringing the target with you. While <a href="../../../../condition/grabbed/">grabbed</a> this way, the target takes damage equal to twice your <a href="../../../../rule/character/might/">Might</a> score at the start of each of your <a href="../../../../rule/combat/turn/">turns</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -186,7 +186,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each enemy target takes damage of your primordial <a href="../../../../rule/damage/damage-type/">damage type</a> equal to twice your <a href="../../../../rule/character/might/">Might</a> score at the end of each of your turns. Additionally, you can <a href="../../../../movement/fly/">fly</a> while the <a href="../../../../rule/combat/aura/">aura</a> is active. Each ally target who starts or ends their turn in the area can also <a href="../../../../movement/fly/">fly</a> until the start of their next turn or until the effect ends.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each enemy target takes damage of your primordial <a href="../../../../rule/damage/damage-type/">damage type</a> equal to twice your <a href="../../../../rule/character/might/">Might</a> score at the end of each of your <a href="../../../../rule/combat/turn/">turns</a>. Additionally, you can <a href="../../../../movement/fly/">fly</a> while the <a href="../../../../rule/combat/aura/">aura</a> is active. Each ally target who starts or ends their <a href="../../../../rule/combat/turn/">turn</a> in the area can also <a href="../../../../movement/fly/">fly</a> until the start of their next <a href="../../../../rule/combat/turn/">turn</a> or until the effect ends.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>

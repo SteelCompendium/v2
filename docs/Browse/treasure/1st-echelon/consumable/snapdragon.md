@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 bonus to the [distance](../../../rule/combat/distance.md) of any [forced movement](../../../movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../../../movement/forced-movement.md), you can push each creature targeted by the ability up to 2 squares.
+effect: As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to the [distance](../../../rule/combat/distance.md) of any [forced movement](../../../movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../../../movement/forced-movement.md), you can push each creature targeted by the ability up to 2 squares.
 keywords:
     - Magic
 name: Snapdragon
@@ -25,4 +25,4 @@ type: treasure
 
 **Project Goal:** 45 (yields 1d6 + 1 snapdragons)
 
-**Effect:** As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 bonus to the [distance](../../../rule/combat/distance.md) of any [forced movement](../../../movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../../../movement/forced-movement.md), you can push each creature targeted by the ability up to 2 squares.
+**Effect:** As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to the [distance](../../../rule/combat/distance.md) of any [forced movement](../../../movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../../../movement/forced-movement.md), you can push each creature targeted by the ability up to 2 squares.

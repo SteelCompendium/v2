@@ -27,9 +27,9 @@ Whenever [hero tokens](hero-token.md) are available, you can spend them in the f
 - You can spend a [hero token](hero-token.md) to gain 2 [surges](surge.md), allowing you to increase the [damage](../damage/damage.md) or [potency](../character/potency.md) of an ability. (See [Surges](surge.md) in [Classes](../../../Read/heroes/classes.md).)
 - You can spend a [hero token](hero-token.md) when you fail a [saving throw](../general/saving-throw.md), letting you succeed on the save instead.
 - You can spend a [hero token](hero-token.md) to reroll a [test](../test/test.md). You must use the new roll.
-- You can spend 2 [hero tokens](hero-token.md) on your turn or when you take [damage](../damage/damage.md) (no action required) to regain [Stamina](../health/stamina.md) equal to your [recovery value](../health/recoveries.md) before taking the [damage](../damage/damage.md).
+- You can spend 2 [hero tokens](hero-token.md) on your [turn](../combat/turn.md) or when you take [damage](../damage/damage.md) (no action required) to regain [Stamina](../health/stamina.md) equal to your [recovery value](../health/recoveries.md) before taking the [damage](../damage/damage.md).
 
-You can use only one [hero token](hero-token.md) benefit per turn or per [test](../test/test.md). Unless the Director decides otherwise, unused [hero tokens](hero-token.md) disappear at the end of a session.
+You can use only one [hero token](hero-token.md) benefit per [turn](../combat/turn.md) or per [test](../test/test.md). Unless the Director decides otherwise, unused [hero tokens](hero-token.md) disappear at the end of a session.
 
 > **Optional Rule: [Hero Tokens](hero-token.md) Don't Reset**
 >

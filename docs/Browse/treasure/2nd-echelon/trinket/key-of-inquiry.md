@@ -1,6 +1,6 @@
 ---
 echelon: "2"
-effect: As a maneuver, you touch the key to an adjacent willing, [grabbed](../../../condition/grabbed.md), or [restrained](../../../condition/restrained.md) creature and twist the key 90 degrees clockwise. That creature must answer the next three questions they are asked truthfully and fully. If twisted 90 degrees counterclockwise instead, the creature forgets the last 30 minutes they experienced. A creature affected by the key can't be affected again by any Key of Inquiry for 1 year. If the key is ever destroyed, all the memories it has erased are restored. Memories erased by the key can't be restored in any other way.
+effect: As a maneuver, you touch the key to an [adjacent](../../../rule/combat/adjacent.md) willing, [grabbed](../../../condition/grabbed.md), or [restrained](../../../condition/restrained.md) creature and twist the key 90 degrees clockwise. That creature must answer the next three questions they are asked truthfully and fully. If twisted 90 degrees counterclockwise instead, the creature forgets the last 30 minutes they experienced. A creature affected by the key can't be affected again by any Key of Inquiry for 1 year. If the key is ever destroyed, all the memories it has erased are restored. Memories erased by the key can't be restored in any other way.
 keywords:
     - Psionic
 name: Key of Inquiry
@@ -25,4 +25,4 @@ type: treasure
 
 **Project Goal:** 300
 
-**Effect:** As a maneuver, you touch the key to an adjacent willing, [grabbed](../../../condition/grabbed.md), or [restrained](../../../condition/restrained.md) creature and twist the key 90 degrees clockwise. That creature must answer the next three questions they are asked truthfully and fully. If twisted 90 degrees counterclockwise instead, the creature forgets the last 30 minutes they experienced. A creature affected by the key can't be affected again by any Key of Inquiry for 1 year. If the key is ever destroyed, all the memories it has erased are restored. Memories erased by the key can't be restored in any other way.
+**Effect:** As a maneuver, you touch the key to an [adjacent](../../../rule/combat/adjacent.md) willing, [grabbed](../../../condition/grabbed.md), or [restrained](../../../condition/restrained.md) creature and twist the key 90 degrees clockwise. That creature must answer the next three questions they are asked truthfully and fully. If twisted 90 degrees counterclockwise instead, the creature forgets the last 30 minutes they experienced. A creature affected by the key can't be affected again by any Key of Inquiry for 1 year. If the key is ever destroyed, all the memories it has erased are restored. Memories erased by the key can't be restored in any other way.

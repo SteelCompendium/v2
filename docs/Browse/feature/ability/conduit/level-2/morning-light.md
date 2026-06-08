@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 5 Piety
 distance: 3 [burst](../../../../rule/combat/burst.md)
-effect: Each ally in the area deals fire damage equal to your [Intuition](../../../../rule/character/intuition.md) score with their next strike made before the end of their next turn.
+effect: Each ally in the area deals fire damage equal to your [Intuition](../../../../rule/character/intuition.md) score with their next strike made before the end of their next [turn](../../../../rule/combat/turn.md).
 flavor: Light shines at your command, burning your foes and blessing your allies.
 keywords:
     - Area
@@ -39,6 +39,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally in the area deals fire damage equal to your <a href="../../../../../rule/character/intuition/">Intuition</a> score with their next strike made before the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>Each ally in the area deals fire damage equal to your <a href="../../../../../rule/character/intuition/">Intuition</a> score with their next strike made before the end of their next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

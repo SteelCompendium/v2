@@ -2,12 +2,12 @@
 action_type: Main action
 class: censor
 cost: 11 Wrath
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: While [frightened](../../../../condition/frightened.md) this way, if a target who is a leader or solo creature is [winded](../../../../rule/health/winded.md), they take an extra 25 psychic damage. If a target [frightened](../../../../condition/frightened.md) this way is not a leader or solo creature and is [winded](../../../../rule/health/winded.md), they are reduced to 0 [Stamina](../../../../rule/health/stamina.md).
 flavor: '"I know what you fear."'
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "9"
 name: Terror Manifest
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Wrath</div></div>
 </div>
 <p class="sc-ability__flavor">I know what you fear.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

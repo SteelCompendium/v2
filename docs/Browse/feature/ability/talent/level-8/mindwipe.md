@@ -2,11 +2,11 @@
 action_type: Main action
 class: talent
 cost: 11 Clarity
-distance: Melee 2
+distance: '[Melee](../../../../rule/combat/melee.md) 2'
 effect: The target can't communicate with anyone until the end of the encounter.
 flavor: You attempt to make them forget all their training.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Telepathy
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Clarity</div></div>
 </div>
 <p class="sc-ability__flavor">You attempt to make them forget all their training.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 2</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 2</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

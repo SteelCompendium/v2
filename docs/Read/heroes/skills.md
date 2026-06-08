@@ -15,15 +15,15 @@ Skills represent the different specializations a hero has outside of attacking, 
 
 ## Applying Skills
 
-If you have a skill that applies to a [test](../../Browse/rule/test/test.md) you make, you gain a +2 bonus to the [test](../../Browse/rule/test/test.md). For instance, if your hero has the [Hide](../../Browse/skill/hide.md) skill, you have a +2 bonus to any [test](../../Browse/rule/test/test.md) you make that involves hiding yourself. This might include an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) to hide behind a barrel, or a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) to disappear into a crowd.
+If you have a skill that applies to a [test](../../Browse/rule/test/test.md) you make, you gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [test](../../Browse/rule/test/test.md). For instance, if your hero has the [Hide](../../Browse/skill/hide.md) skill, you have a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to any [test](../../Browse/rule/test/test.md) you make that involves hiding yourself. This might include an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) to hide behind a barrel, or a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) to disappear into a crowd.
 
-The +2 bonus gained for a skill isn't an [edge](../../Browse/rule/dice/edge.md). A player can make a [test](../../Browse/rule/test/test.md) that has both the +2 bonus for a skill and the +2 bonus for an [edge](../../Browse/rule/dice/edge.md).
+The +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) gained for a skill isn't an [edge](../../Browse/rule/dice/edge.md). A player can make a [test](../../Browse/rule/test/test.md) that has both the +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) for a skill and the +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) for an [edge](../../Browse/rule/dice/edge.md).
 
 You can't apply more than one skill to a [test](../../Browse/rule/test/test.md).
 
 ### Justify the Skill
 
-It's not the Director's job to know every task potentially covered by the skills in the game, or to know the specific skills your hero has. Instead, the Director asks you to make a [test](../../Browse/rule/test/test.md) using a [characteristic](../../Browse/rule/character/characteristic.md) and you tell the Director if you think you have a skill that applies. If it's not obvious why the skill applies, tell the Director how your hero is approaching the task and justify why that approach uses the skill. The Director then decides if you get the +2 bonus the skill represents. If the Director disagrees with you, that's the final word.
+It's not the Director's job to know every task potentially covered by the skills in the game, or to know the specific skills your hero has. Instead, the Director asks you to make a [test](../../Browse/rule/test/test.md) using a [characteristic](../../Browse/rule/character/characteristic.md) and you tell the Director if you think you have a skill that applies. If it's not obvious why the skill applies, tell the Director how your hero is approaching the task and justify why that approach uses the skill. The Director then decides if you get the +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) the skill represents. If the Director disagrees with you, that's the final word.
 
 Approaching problems creatively while remaining reasonable can help you get the most out of your skills. For example, if you're making a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) to impress a noble at a party, using the [Brag](../../Browse/skill/brag.md) skill is an obvious choice. But what if you don't have that skill? Maybe you could instead try to impress the noble with a brief but exciting lecture about the nature of the elements, making a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using the [Magic](../../Browse/skill/magic.md) skill that you do have!
 
@@ -43,7 +43,7 @@ Having a wide range of specific skills means you'll frequently make [tests](../.
 
 Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an [elementalist](../../Browse/class/elementalist.md) who has a gymnastic background in jumping and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
 
-The rules for skills allow for them to be flexibly applied to any [test](../../Browse/rule/test/test.md) that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my [Climb](../../Browse/skill/climb.md) skill for a +2 bonus to my [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md)?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many [tests](../../Browse/rule/test/test.md) as possible. This isn't fun for anyone, and doesn't make a very compelling story.
+The rules for skills allow for them to be flexibly applied to any [test](../../Browse/rule/test/test.md) that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my [Climb](../../Browse/skill/climb.md) skill for a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to my [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md)?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many [tests](../../Browse/rule/test/test.md) as possible. This isn't fun for anyone, and doesn't make a very compelling story.
 
 > **[Edges](../../Browse/rule/dice/edge.md) on [Tests](../../Browse/rule/test/test.md) With Specific Skills**
 >
@@ -74,7 +74,7 @@ Consequences for [tests](../../Browse/rule/test/test.md) made with crafting skil
 | Blacksmithing | Forge metal armor and weapons                      |
 | Carpentry     | Create items out of wood                           |
 | Cooking       | Create delicious dishes                            |
-| Fletching     | Make ranged weapons and ammunition                 |
+| Fletching     | Make [ranged](../../Browse/rule/combat/ranged.md) weapons and ammunition                 |
 | Forgery       | Create false badges, documents, and other items    |
 | Jewelry       | Create bracelets, crowns, rings, and other jewelry |
 | Mechanics     | Build machines and clockwork items                 |
@@ -102,7 +102,7 @@ Create delicious dishes.
 
 #### Fletching {data-scc="mcdm.heroes.v1/skill/fletching"}
 
-Make ranged weapons and ammunition.
+Make [ranged](../../Browse/rule/combat/ranged.md) weapons and ammunition.
 
 #### Forgery {data-scc="mcdm.heroes.v1/skill/forgery"}
 

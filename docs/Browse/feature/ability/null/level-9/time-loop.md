@@ -3,7 +3,7 @@ action_type: Free triggered
 class: "null"
 cost: 11 Discipline
 distance: Self
-effect: You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.
+effect: You take a [bonus](../../../../rule/dice/bonuses-and-penalties.md) [turn](../../../../rule/combat/turn.md) immediately after the triggering creature. This ability can be used only once per [combat round](../../../../rule/combat/combat-round.md).
 flavor: You show shadows what true [speed](../../../../rule/character/speed.md) is.
 keywords:
     - Psionic
@@ -12,7 +12,7 @@ name: Time Loop
 scc: mcdm.heroes.v1/feature.ability.null.level-9/time-loop
 subtype: triggered
 target: Self
-trigger: Another creature on the encounter map ends their turn.
+trigger: Another creature on the encounter map ends their [turn](../../../../rule/combat/turn.md).
 type: ability
 ---
 
@@ -37,10 +37,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>Another creature on the encounter map ends their turn.</p></div>
+<div class="sc-ability__section-body"><p>Another creature on the encounter map ends their <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.</p></div>
+<div class="sc-ability__section-body"><p>You take a <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> <a href="../../../../../rule/combat/turn/">turn</a> immediately after the triggering creature. This ability can be used only once per <a href="../../../../../rule/combat/combat-round/">combat round</a>.</p></div>
 </div>
 </article>

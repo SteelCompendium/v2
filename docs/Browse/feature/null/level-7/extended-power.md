@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability is ranged, the <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score. If the ability is melee, the <a href="../../../../rule/combat/distance/">distance</a> gains a +2 bonus.</p>
+<p>If the ability is <a href="../../../../rule/combat/ranged/">ranged</a>, the <a href="../../../../rule/combat/distance/">distance</a> gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score. If the ability is <a href="../../../../rule/combat/melee/">melee</a>, the <a href="../../../../rule/combat/distance/">distance</a> gains a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>.</p>
 </div>
 </section>

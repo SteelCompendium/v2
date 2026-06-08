@@ -15,17 +15,17 @@ While all your character creation decisions bear narrative weight, none influenc
 
 Your class provides you with many of your features, most of your abilities—your most potent combat moves and noncombat options and a [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) that fuels many of those abilities. This book presents nine classes to choose from.
 
-**[Censor](../../Browse/class/censor.md):** A [censor](../../Browse/class/censor.md) is a trained warrior devoted to a saint or god. They hunt down the forces of evil using melee weapons and magic granted to them by their divine patron, specializing in confronting the wicked and locking down single enemies during combat.
+**[Censor](../../Browse/class/censor.md):** A [censor](../../Browse/class/censor.md) is a trained warrior devoted to a [saint](../../Browse/rule/world/saint.md) or god. They hunt down the forces of evil using [melee](../../Browse/rule/combat/melee.md) weapons and magic granted to them by their divine patron, specializing in confronting the wicked and locking down single enemies during combat.
 
-**[Conduit](../../Browse/class/conduit.md):** A [conduit](../../Browse/class/conduit.md) is the devoted priest of a saint or god. They wield divine magic that smites enemies with holy energy and supports their allies, and are [renown](../../Browse/rule/resource/renown.md)ed for their healing abilities.
+**[Conduit](../../Browse/class/conduit.md):** A [conduit](../../Browse/class/conduit.md) is the devoted priest of a [saint](../../Browse/rule/world/saint.md) or god. They wield divine magic that smites enemies with holy energy and supports their allies, and are [renown](../../Browse/rule/resource/renown.md)ed for their healing abilities.
 
 **[Elementalist](../../Browse/class/elementalist.md):** An [elementalist](../../Browse/class/elementalist.md) studies the elemental forces of the timescape and controls earth, fire, the void, and more with magic. Many of their abilities cover wide areas of the battlefield, and they have a versatile array of tricks that allow them to both control combat and manipulate the environment around them when the fight is done.
 
 **[Fury](../../Browse/class/fury.md):** Coursing with the ferocity of the Primordial Chaos in their veins, a [fury](../../Browse/class/fury.md) is a mobile warrior who gets up close and personal with enemies to dish out lots of damage. Leaping around the battlefield felling foes and breaking down walls is where the [fury](../../Browse/class/fury.md) lives.
 
-**[Null](../../Browse/class/null.md):** Disciplined and calm, the [null](../../Browse/class/null.md) is an unarmed warrior who manifests an [aura](../../Browse/rule/combat/aura.md) that quells the supernatural and hinders the offensive prowess of their enemies. They use psionics to make their body stronger than any steel and faster than any steed.
+**[Null](../../Browse/class/null.md):** Disciplined and calm, the [null](../../Browse/class/null.md) is an unarmed warrior who manifests an [aura](../../Browse/rule/combat/aura.md) that quells the [supernatural](../../Browse/rule/general/supernatural.md) and hinders the offensive prowess of their enemies. They use psionics to make their body stronger than any steel and faster than any steed.
 
-**[Shadow](../../Browse/class/shadow.md):** Stalking from the darkness, the [shadow](../../Browse/class/shadow.md) is an expert assassin and thief who fights equally well in melee and at range as they get the drop on their foes. They utilize magic to help them stay mobile on the battlefield and sneak up on their prey.
+**[Shadow](../../Browse/class/shadow.md):** Stalking from the darkness, the [shadow](../../Browse/class/shadow.md) is an expert assassin and thief who fights equally well in [melee](../../Browse/rule/combat/melee.md) and at range as they get the drop on their foes. They utilize magic to help them stay mobile on the battlefield and sneak up on their prey.
 
 **[Tactician](../../Browse/class/tactician.md):** A brilliant strategist and weapons master, the [tactician](../../Browse/class/tactician.md) excels at granting allies more movement and actions on the battlefield. They also support allies outside of combat, always inspiring their friends to greatness.
 
@@ -45,7 +45,7 @@ Abilities are presented in a special format that first describes the ability, th
 
 > **Abilities in Combat**
 >
-> All the abilities appearing in this book are used as a main action, a maneuver, a [triggered action](../../Browse/rule/combat/triggered-action.md), or some other part of your turn. As such, these abilities are all explicitly usable in combat or some other time-sensitive scenario where the game unfolds as combat rounds. If a creature has an ability that takes 1 minute or longer to use, that ability can't be used in combat.
+> All the abilities appearing in this book are used as a main action, a maneuver, a [triggered action](../../Browse/rule/combat/triggered-action.md), or some other part of your [turn](../../Browse/rule/combat/turn.md). As such, these abilities are all explicitly usable in combat or some other time-sensitive scenario where the game unfolds as [combat rounds](../../Browse/rule/combat/combat-round.md). If a creature has an ability that takes 1 minute or longer to use, that ability can't be used in combat.
 
 #### Name and Story Text
 
@@ -71,7 +71,7 @@ The nine [Heroic Resources](../../Browse/rule/resource/heroic-resource.md) in th
 
 ##### Heroic Abilities {data-scc="mcdm.heroes.v1/rule.general/heroic-ability"}
 
-If an ability has a [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) cost to activate—as in, you can't use the ability at all without spending some of your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md)—then it is a heroic ability. If an effect allows you to use a heroic ability when it isn't your turn, you must still pay its [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) cost to use it unless the effect says otherwise.
+If an ability has a [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) cost to activate—as in, you can't use the ability at all without spending some of your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md)—then it is a heroic ability. If an effect allows you to use a heroic ability when it isn't your [turn](../../Browse/rule/combat/turn.md), you must still pay its [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) cost to use it unless the effect says otherwise.
 
 Some abilities don't cost your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) to use but allow you to spend your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) to enhance or add effects to the ability, such as the [conduit's](../../Browse/class/conduit.md) [Healing Grace](../../Browse/feature/ability/conduit/level-1/healing-grace.md). These abilities are not heroic abilities unless the baseline ability can't be used without spending your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
@@ -89,7 +89,7 @@ Abilities with the Area keyword create an [area of effect](../../Browse/rule/com
 
 ##### Charge
 
-Abilities with the Charge keyword can be used with the [Charge](../../Browse/feature/common/main-actions/charge.md) main action instead of a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md). (The [Charge](../../Browse/feature/common/main-actions/charge.md) main action is described in Main Actions in Chapter 10: [Combat](combat.md).)
+Abilities with the Charge keyword can be used with the [Charge](../../Browse/feature/common/main-actions/charge.md) main action instead of a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md). (The [Charge](../../Browse/feature/common/main-actions/charge.md) main action is described in Main Actions in Chapter 10: [Combat](combat.md).)
 
 ##### Magic
 
@@ -97,7 +97,7 @@ Abilities with the Magic keyword are used by characters who can cast spells, hav
 
 ##### Melee {data-scc="mcdm.heroes.v1/rule.combat/melee"}
 
-Abilities with the Melee keyword can be used only over very short distances, typically within a character's reach, because they require a character to make contact with a creature or object with their body, a weapon, or an implement. (An implement is a special object used by characters channeling magic or psionic power, described in Imbue Treasure in Chapter 12: [Downtime Projects](downtime-projects.md).)
+Abilities with the Melee keyword can be used only over very short distances, typically within a character's reach, because they require a character to make contact with a creature or object with their body, a weapon, or an [implement](../../Browse/rule/treasure/implement.md). (An [implement](../../Browse/rule/treasure/implement.md) is a special object used by characters channeling magic or psionic power, described in Imbue Treasure in Chapter 12: [Downtime Projects](downtime-projects.md).)
 
 ##### Psionic
 
@@ -123,7 +123,7 @@ Your character's kit determines the types of weapons you wield and use with your
 
 #### Type
 
-Each ability notes the type of activity required to use it, on the right side of the first line beneath the flavor text. Most abilities require you to use a main action, a maneuver, a move action, a [triggered action](../../Browse/rule/combat/triggered-action.md), a [free maneuver](../../Browse/rule/combat/free-maneuver.md), or a free [triggered action](../../Browse/rule/combat/triggered-action.md) (with all those terms explained in Taking a Turn in Chapter 10: [Combat](combat.md)). For instance, if you use an ability that has "Main Action" as its type entry, you must use your main action to activate the ability.
+Each ability notes the type of activity required to use it, on the right side of the first line beneath the flavor text. Most abilities require you to use a main action, a maneuver, a move action, a [triggered action](../../Browse/rule/combat/triggered-action.md), a [free maneuver](../../Browse/rule/combat/free-maneuver.md), or a free [triggered action](../../Browse/rule/combat/triggered-action.md) (with all those terms explained in Taking a [Turn](../../Browse/rule/combat/turn.md) in Chapter 10: [Combat](combat.md)). For instance, if you use an ability that has "Main Action" as its type entry, you must use your main action to activate the ability.
 
 ##### Trigger
 
@@ -135,19 +135,19 @@ An ability's "Distance" entry, represented by this symbol 📏, indicates how cl
 
 ##### Melee
 
-Melee abilities have a [distance](../../Browse/rule/combat/distance.md) of "Melee X" and require you to make contact with a creature with your body, a weapon, or an implement. The number X is the maximum [distance](../../Browse/rule/combat/distance.md) in squares at which you can physically make contact with another creature or object targeted by the ability. For instance, a [distance](../../Browse/rule/combat/distance.md) of "Melee 2" can be used to target creatures or objects within 2 squares of you, while "Melee 1" limits you to adjacent targets (those within 1 square).
+[Melee](../../Browse/rule/combat/melee.md) abilities have a [distance](../../Browse/rule/combat/distance.md) of "[Melee](../../Browse/rule/combat/melee.md) X" and require you to make contact with a creature with your body, a weapon, or an [implement](../../Browse/rule/treasure/implement.md). The number X is the maximum [distance](../../Browse/rule/combat/distance.md) in squares at which you can physically make contact with another creature or object targeted by the ability. For instance, a [distance](../../Browse/rule/combat/distance.md) of "[Melee](../../Browse/rule/combat/melee.md) 2" can be used to target creatures or objects within 2 squares of you, while "[Melee](../../Browse/rule/combat/melee.md) 1" limits you to [adjacent](../../Browse/rule/combat/adjacent.md) targets (those within 1 square).
 
 ##### Ranged
 
-Ranged abilities have a [distance](../../Browse/rule/combat/distance.md) of "Ranged X" and can be used to target creatures or objects too far away for you to make contact with. The number X is the maximum [distance](../../Browse/rule/combat/distance.md) in squares at which a creature or object can be targeted by the ability. For instance, a [distance](../../Browse/rule/combat/distance.md) of "Ranged 5" can be used to target creatures or objects within 5 squares of you.
+[Ranged](../../Browse/rule/combat/ranged.md) abilities have a [distance](../../Browse/rule/combat/distance.md) of "[Ranged](../../Browse/rule/combat/ranged.md) X" and can be used to target creatures or objects too far away for you to make contact with. The number X is the maximum [distance](../../Browse/rule/combat/distance.md) in squares at which a creature or object can be targeted by the ability. For instance, a [distance](../../Browse/rule/combat/distance.md) of "[Ranged](../../Browse/rule/combat/ranged.md) 5" can be used to target creatures or objects within 5 squares of you.
 
-If you make a ranged [strike](../../Browse/rule/combat/strike.md) while any enemy is adjacent to you (within 1 square), you have a [bane](../../Browse/rule/dice/bane.md) on the [strike](../../Browse/rule/combat/strike.md)'s [power roll](../../Browse/rule/dice/power-roll.md). (See [Edges](../../Browse/rule/dice/edge.md) and [Banes](../../Browse/rule/dice/bane.md) in Chapter 1: [The Basics](the-basics.md).)
+If you make a [ranged](../../Browse/rule/combat/ranged.md) [strike](../../Browse/rule/combat/strike.md) while any enemy is [adjacent](../../Browse/rule/combat/adjacent.md) to you (within 1 square), you have a [bane](../../Browse/rule/dice/bane.md) on the [strike](../../Browse/rule/combat/strike.md)'s [power roll](../../Browse/rule/dice/power-roll.md). (See [Edges](../../Browse/rule/dice/edge.md) and [Banes](../../Browse/rule/dice/bane.md) in Chapter 1: [The Basics](the-basics.md).)
 
 ##### Melee or Ranged
 
-Some abilities have a melee [distance](../../Browse/rule/combat/distance.md) and a ranged [distance](../../Browse/rule/combat/distance.md). When you use such an ability, you choose whether to use it as a melee or a ranged ability.
+Some abilities have a [melee](../../Browse/rule/combat/melee.md) [distance](../../Browse/rule/combat/distance.md) and a [ranged](../../Browse/rule/combat/ranged.md) [distance](../../Browse/rule/combat/distance.md). When you use such an ability, you choose whether to use it as a [melee](../../Browse/rule/combat/melee.md) or a [ranged](../../Browse/rule/combat/ranged.md) ability.
 
-An ability never has both the Melee and Ranged keywords at the same time. For example, if you have the [Cloak and Dagger](../../Browse/kit/cloak-and-dagger.md) kit, which has a weapon damage bonus to melee abilities and a weapon damage bonus to ranged abilities, only one bonus at a time applies to an ability with both the Melee and Ranged keywords. (See Chapter 6: [Kits](kits.md).)
+An ability never has both the [Melee](../../Browse/rule/combat/melee.md) and [Ranged](../../Browse/rule/combat/ranged.md) keywords at the same time. For example, if you have the [Cloak and Dagger](../../Browse/kit/cloak-and-dagger.md) kit, which has a weapon damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [melee](../../Browse/rule/combat/melee.md) abilities and a weapon damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [ranged](../../Browse/rule/combat/ranged.md) abilities, only one [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) at a time applies to an ability with both the [Melee](../../Browse/rule/combat/melee.md) and [Ranged](../../Browse/rule/combat/ranged.md) keywords. (See Chapter 6: [Kits](kits.md).)
 
 ##### Self
 
@@ -231,7 +231,7 @@ If an area ability doesn't provide a number of targets but instead says it appli
 
 If an ability requires a [power roll](../../Browse/rule/dice/power-roll.md), it has a "[Power Roll](../../Browse/rule/dice/power-roll.md)" entry that tells you which [characteristic](../../Browse/rule/character/characteristic.md) to add to the 2d10 roll you make when you use the ability. (Chapter 1: [The Basics](the-basics.md) talks about [power rolls](../../Browse/rule/dice/power-roll.md).)
 
-Unlike [power rolls](../../Browse/rule/dice/power-roll.md) made as [tests](../../Browse/rule/test/test.md) (see Chapter 9), ability rolls always do something useful. You're rolling to determine the impact of the ability, including how much damage it deals and any other effects it imposes based on the [tier outcome](../../Browse/rule/dice/tier-outcome.md) of the [power roll](../../Browse/rule/dice/power-roll.md). For instance, the [fury's](../../Browse/class/fury.md) [Brutal Slam](../../Browse/feature/ability/fury/level-1/brutal-slam.md) ability is a melee [strike](../../Browse/rule/combat/strike.md) that targets one adjacent creature (within 1 square), and which has the following effects:
+Unlike [power rolls](../../Browse/rule/dice/power-roll.md) made as [tests](../../Browse/rule/test/test.md) (see Chapter 9), ability rolls always do something useful. You're rolling to determine the impact of the ability, including how much damage it deals and any other effects it imposes based on the [tier outcome](../../Browse/rule/dice/tier-outcome.md) of the [power roll](../../Browse/rule/dice/power-roll.md). For instance, the [fury's](../../Browse/class/fury.md) [Brutal Slam](../../Browse/feature/ability/fury/level-1/brutal-slam.md) ability is a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) that targets one [adjacent](../../Browse/rule/combat/adjacent.md) creature (within 1 square), and which has the following effects:
 
 - **Tier 1 (11 or lower):** The ability deals damage equal to 3 + your [Might](../../Browse/rule/character/might.md) score, then pushes the target back 1 square.
 - **Tier 2 (12-16):** The ability deals damage equal to 6 + your [Might](../../Browse/rule/character/might.md) score, then pushes the target back 2 squares.
@@ -283,7 +283,7 @@ Certain effects talk about rolled damage, which refers to the variable damage de
 
 #### Potencies {data-scc="mcdm.heroes.v1/rule.character/potency"}
 
-Many abilities and other effects impose conditions and unique statuses on targets. But creatures sometimes get a chance to resist such effects. After all, a monster with a high [Might](../../Browse/rule/character/might.md) should be harder to knock [prone](../../Browse/condition/prone.md) most of the time than a creature lacking in that [characteristic](../../Browse/rule/character/characteristic.md).
+Many abilities and other effects impose [conditions](../../Browse/rule/combat/condition.md) and unique statuses on targets. But creatures sometimes get a chance to resist such effects. After all, a monster with a high [Might](../../Browse/rule/character/might.md) should be harder to knock [prone](../../Browse/condition/prone.md) most of the time than a creature lacking in that [characteristic](../../Browse/rule/character/characteristic.md).
 
 Ability effects that have a **potency** are applied to a target only if the effect's potency value is higher than the target's indicated [characteristic](../../Browse/rule/character/characteristic.md) score. The [characteristic](../../Browse/rule/character/characteristic.md) a target uses to resist a potency is based on the ability used, while the value of the potency for your hero's abilities is based on one of your [characteristics](../../Browse/rule/character/characteristic.md) and determined by your class.
 
@@ -337,15 +337,15 @@ Reading the ability this way prevents a lot of back and forth. You don't need to
 
 If an ability or feature allows you to spend your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) on an effect that is entirely dependent on a [potency](../../Browse/rule/character/potency.md) and the target is unaffected because their [characteristic](../../Browse/rule/character/characteristic.md) is high enough to resist the [potency](../../Browse/rule/character/potency.md), then you don't spend the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
-For example, the [tactician's](../../Browse/class/tactician.md) Overwatch ability allows the [tactician](../../Browse/class/tactician.md) to spend 1 focus to impose the [slowed](../../Browse/condition/slowed.md) condition on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the [tactician](../../Browse/class/tactician.md) targets a creature whose high [Reason](../../Browse/rule/character/reason.md) leaves them unaffected, the [tactician](../../Browse/class/tactician.md) doesn't waste any focus. However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the [potency](../../Browse/rule/character/potency.md) was resisted.
+For example, the [tactician's](../../Browse/class/tactician.md) Overwatch ability allows the [tactician](../../Browse/class/tactician.md) to spend 1 focus to impose the [slowed](../../Browse/condition/slowed.md) [condition](../../Browse/rule/combat/condition.md) on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the [tactician](../../Browse/class/tactician.md) targets a creature whose high [Reason](../../Browse/rule/character/reason.md) leaves them unaffected, the [tactician](../../Browse/class/tactician.md) doesn't waste any focus. However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the [potency](../../Browse/rule/character/potency.md) was resisted.
 
 This rule also applies to Director-controlled creatures who spend Malice on abilities and features that affect a target using a [potency](../../Browse/rule/character/potency.md) and have no other automatic effects.
 
 #### Critical Hit {data-scc="mcdm.heroes.v1/rule.combat/critical-hit"}
 
-Whenever you make an [ability roll](../../Browse/rule/dice/ability-roll.md) as a main action and the roll is a [natural 19](../../Browse/rule/dice/natural-19-20.md) or [natural 20](../../Browse/rule/dice/natural-19-20.md)-a total of 19 or 20 before adding your [characteristic](../../Browse/rule/character/characteristic.md) score or other modifiers—you score a critical hit. A critical hit allows you to immediately take an additional main action after resolving the [power roll](../../Browse/rule/dice/power-roll.md), whether or not it's your turn and even if you are [dazed](../../Browse/condition/dazed.md) (see Conditions below).
+Whenever you make an [ability roll](../../Browse/rule/dice/ability-roll.md) as a main action and the roll is a [natural 19](../../Browse/rule/dice/natural-19-20.md) or [natural 20](../../Browse/rule/dice/natural-19-20.md)-a total of 19 or 20 before adding your [characteristic](../../Browse/rule/character/characteristic.md) score or other modifiers—you score a critical hit. A critical hit allows you to immediately take an additional main action after resolving the [power roll](../../Browse/rule/dice/power-roll.md), whether or not it's your [turn](../../Browse/rule/combat/turn.md) and even if you are [dazed](../../Browse/condition/dazed.md) (see [Conditions](../../Browse/rule/combat/condition.md) below).
 
-You can't score a critical hit with an [ability roll](../../Browse/rule/dice/ability-roll.md) made as a maneuver or any other action type, but you can score a critical hit with a main action you use off your turn. For example, an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md) made as a [triggered action](../../Browse/rule/combat/triggered-action.md) or a [signature ability](../../Browse/rule/combat/signature-ability.md) used as a free [triggered action](../../Browse/rule/combat/triggered-action.md) with the assistance of the [tactician's](../../Browse/class/tactician.md) [Strike Now](../../Browse/feature/ability/tactician/level-1/strike-now.md) ability can be critical hits.
+You can't score a critical hit with an [ability roll](../../Browse/rule/dice/ability-roll.md) made as a maneuver or any other action type, but you can score a critical hit with a main action you use off your [turn](../../Browse/rule/combat/turn.md). For example, an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md) made as a [triggered action](../../Browse/rule/combat/triggered-action.md) or a [signature ability](../../Browse/rule/combat/signature-ability.md) used as a free [triggered action](../../Browse/rule/combat/triggered-action.md) with the assistance of the [tactician's](../../Browse/class/tactician.md) [Strike Now](../../Browse/feature/ability/tactician/level-1/strike-now.md) ability can be critical hits.
 
 #### Roll Against Multiple Creatures
 
@@ -378,19 +378,19 @@ Some abilities have a "Spend X [Heroic Resource]" entry in the body of the abili
 
 #### Stacking Unique Effects
 
-The unique effects of different abilities are combined—effectively stacking on top of each other—if their durations and targets overlap. However, the effects of the same ability used multiple times don't stack. Instead, the most impactful effect—such as the highest bonus—from each use of the ability applies. The most recently used ability applies for determining duration.
+The unique effects of different abilities are combined—effectively stacking on top of each other—if their durations and targets overlap. However, the effects of the same ability used multiple times don't stack. Instead, the most impactful effect—such as the highest [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)—from each use of the ability applies. The most recently used ability applies for determining duration.
 
 For example, the [null's](../../Browse/class/null.md) [Null Field](../../Browse/feature/null/level-1/null-field.md) ability reduces the [potencies](../../Browse/rule/character/potency.md) of enemies within the field by 1. If two allied [nulls](../../Browse/class/null.md) each have their [Null Field](../../Browse/feature/null/level-1/null-field.md) ability active and an enemy cultist is targeted by both abilities, that cultist's [potencies](../../Browse/rule/character/potency.md) are reduced by 1, not by 2.
 
-Different effects that impose the same condition (see Conditions below) don't stack to impose the condition twice. For instance, if a hero is targeted by numerous creatures whose abilities cause a target to become [weakened](../../Browse/condition/weakened.md) (imposing a [bane](../../Browse/rule/dice/bane.md) on the target's [power rolls](../../Browse/rule/dice/power-roll.md)), the target isn't [weakened](../../Browse/condition/weakened.md) twice to impose a double [bane](../../Browse/rule/dice/bane.md) on those rolls. A character who is [grabbed](../../Browse/condition/grabbed.md) by an enemy can't be [grabbed](../../Browse/condition/grabbed.md) again by another enemy. The same holds true for game effects that aren't conditions. For example, if a hero is targeted by multiple abilities or effects that can halve their [recovery value](../../Browse/rule/health/recoveries.md), the hero's [recovery value](../../Browse/rule/health/recoveries.md) is halved only once.
+Different effects that impose the same [condition](../../Browse/rule/combat/condition.md) (see [Conditions](../../Browse/rule/combat/condition.md) below) don't stack to impose the [condition](../../Browse/rule/combat/condition.md) twice. For instance, if a hero is targeted by numerous creatures whose abilities cause a target to become [weakened](../../Browse/condition/weakened.md) (imposing a [bane](../../Browse/rule/dice/bane.md) on the target's [power rolls](../../Browse/rule/dice/power-roll.md)), the target isn't [weakened](../../Browse/condition/weakened.md) twice to impose a double [bane](../../Browse/rule/dice/bane.md) on those rolls. A character who is [grabbed](../../Browse/condition/grabbed.md) by an enemy can't be [grabbed](../../Browse/condition/grabbed.md) again by another enemy. The same holds true for game effects that aren't [conditions](../../Browse/rule/combat/condition.md). For example, if a hero is targeted by multiple abilities or effects that can halve their [recovery value](../../Browse/rule/health/recoveries.md), the hero's [recovery value](../../Browse/rule/health/recoveries.md) is halved only once.
 
 #### Ending Effects
 
-When a creature suffers a lasting effect, whatever ability, feature, hazard, or other mechanic imposed the effect specifies how long the effect lasts. Unless otherwise noted, all effects and conditions that are imposed on heroes during a combat encounter end when the encounter is over if the hero wants them to, except for being [winded](../../Browse/rule/health/winded.md), unconscious, or [dying](../../Browse/rule/health/dying.md). After combat, effects and conditions imposed on other creatures end when it's convenient for the heroes, allowing characters to easily bind or slip away from unconscious foes. However, the Director is free to decide that an unconscious dragon doesn't stay that way long enough to be tied up.
+When a creature suffers a lasting effect, whatever ability, feature, hazard, or other mechanic imposed the effect specifies how long the effect lasts. Unless otherwise noted, all effects and [conditions](../../Browse/rule/combat/condition.md) that are imposed on heroes during a combat encounter end when the encounter is over if the hero wants them to, except for being [winded](../../Browse/rule/health/winded.md), unconscious, or [dying](../../Browse/rule/health/dying.md). After combat, effects and [conditions](../../Browse/rule/combat/condition.md) imposed on other creatures end when it's convenient for the heroes, allowing characters to easily bind or slip away from unconscious foes. However, the Director is free to decide that an unconscious dragon doesn't stay that way long enough to be tied up.
 
 ##### End of Next Turn (EoT) {data-scc="mcdm.heroes.v1/rule.combat/end-of-turn"}
 
-Many effects last until the end of the target's next turn, abbreviated as "(EoT)" in the [tier outcomes](../../Browse/rule/dice/tier-outcome.md) for an ability's [power roll](../../Browse/rule/dice/power-roll.md). A creature suffers from such an effect until the end of their next turn, or the end of their current turn if the effect was imposed on their current turn.
+Many effects last until the end of the target's next [turn](../../Browse/rule/combat/turn.md), abbreviated as "(EoT)" in the [tier outcomes](../../Browse/rule/dice/tier-outcome.md) for an ability's [power roll](../../Browse/rule/dice/power-roll.md). A creature suffers from such an effect until the end of their next [turn](../../Browse/rule/combat/turn.md), or the end of their current [turn](../../Browse/rule/combat/turn.md) if the effect was imposed on their current [turn](../../Browse/rule/combat/turn.md).
 
 ##### Saving Throw (Save Ends) {data-scc="mcdm.heroes.v1/rule.general/saving-throw"}
 
@@ -438,23 +438,23 @@ Some abilities and other effects apply specific negative effects called conditio
 
 While a creature is [bleeding](../../Browse/condition/bleeding.md), whenever they use a main action, use a [triggered action](../../Browse/rule/combat/triggered-action.md), or make a [test](../../Browse/rule/test/test.md) or [ability roll](../../Browse/rule/dice/ability-roll.md) using [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md), they lose [Stamina](../../Browse/rule/health/stamina.md) equal to 1d6 + their level after the main action, [triggered action](../../Browse/rule/combat/triggered-action.md), or [power roll](../../Browse/rule/dice/power-roll.md) is resolved. This [Stamina](../../Browse/rule/health/stamina.md) loss can't be prevented in any way, and only happens once per action.
 
-You take damage from this condition when you use a main action off your turn. For example, a [signature ability](../../Browse/rule/combat/signature-ability.md) used as a free [triggered action](../../Browse/rule/combat/triggered-action.md) with the assistance of the [tactician's](../../Browse/class/tactician.md) [Strike Now](../../Browse/feature/ability/tactician/level-1/strike-now.md) ability triggers the damage from the [bleeding](../../Browse/condition/bleeding.md) condition.
+You take damage from this [condition](../../Browse/rule/combat/condition.md) when you use a main action off your [turn](../../Browse/rule/combat/turn.md). For example, a [signature ability](../../Browse/rule/combat/signature-ability.md) used as a free [triggered action](../../Browse/rule/combat/triggered-action.md) with the assistance of the [tactician's](../../Browse/class/tactician.md) [Strike Now](../../Browse/feature/ability/tactician/level-1/strike-now.md) ability triggers the damage from the [bleeding](../../Browse/condition/bleeding.md) [condition](../../Browse/rule/combat/condition.md).
 
 ##### Dazed {data-scc="mcdm.heroes.v1/condition/dazed"}
 
-A creature who is [dazed](../../Browse/condition/dazed.md) can do only one thing on their turn: use a main action, use a maneuver, or use a move action. A [dazed](../../Browse/condition/dazed.md) creature also can't use [triggered actions](../../Browse/rule/combat/triggered-action.md), free [triggered actions](../../Browse/rule/combat/triggered-action.md), or [free maneuvers](../../Browse/rule/combat/free-maneuver.md).
+A creature who is [dazed](../../Browse/condition/dazed.md) can do only one thing on their [turn](../../Browse/rule/combat/turn.md): use a main action, use a maneuver, or use a move action. A [dazed](../../Browse/condition/dazed.md) creature also can't use [triggered actions](../../Browse/rule/combat/triggered-action.md), free [triggered actions](../../Browse/rule/combat/triggered-action.md), or [free maneuvers](../../Browse/rule/combat/free-maneuver.md).
 
 ##### Frightened {data-scc="mcdm.heroes.v1/condition/frightened"}
 
-When a creature is [frightened](../../Browse/condition/frightened.md), any [ability roll](../../Browse/rule/dice/ability-roll.md) they make against the source of their fear takes a [bane](../../Browse/rule/dice/bane.md). If that source is a creature, their [ability rolls](../../Browse/rule/dice/ability-roll.md) made against the [frightened](../../Browse/condition/frightened.md) creature gain an [edge](../../Browse/rule/dice/edge.md). A [frightened](../../Browse/condition/frightened.md) creature can't willingly move closer to the source of their fear if they know the location of that source. If a creature gains the [frightened](../../Browse/condition/frightened.md) condition from one source while already [frightened](../../Browse/condition/frightened.md) by a different source, the new condition replaces the old one.
+When a creature is [frightened](../../Browse/condition/frightened.md), any [ability roll](../../Browse/rule/dice/ability-roll.md) they make against the source of their fear takes a [bane](../../Browse/rule/dice/bane.md). If that source is a creature, their [ability rolls](../../Browse/rule/dice/ability-roll.md) made against the [frightened](../../Browse/condition/frightened.md) creature gain an [edge](../../Browse/rule/dice/edge.md). A [frightened](../../Browse/condition/frightened.md) creature can't willingly move closer to the source of their fear if they know the location of that source. If a creature gains the [frightened](../../Browse/condition/frightened.md) [condition](../../Browse/rule/combat/condition.md) from one source while already [frightened](../../Browse/condition/frightened.md) by a different source, the new [condition](../../Browse/rule/combat/condition.md) replaces the old one.
 
 ##### Grabbed {data-scc="mcdm.heroes.v1/condition/grabbed"}
 
 A creature who is [grabbed](../../Browse/condition/grabbed.md) has [speed](../../Browse/rule/character/speed.md) 0, can't be [force moved](../../Browse/movement/forced-movement.md) except by a creature, object, or effect that has them [grabbed](../../Browse/condition/grabbed.md), can't use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver (see Maneuvers in Chapter 10: [Combat](combat.md)), and takes a [bane](../../Browse/rule/dice/bane.md) on abilities that don't target the creature, object, or effect that has them [grabbed](../../Browse/condition/grabbed.md). If a creature is [grabbed](../../Browse/condition/grabbed.md) by another creature and that creature moves, they bring the [grabbed](../../Browse/condition/grabbed.md) creature with them. If a creature's [size](../../Browse/rule/character/size.md) is equal to or less than the size of a creature they have [grabbed](../../Browse/condition/grabbed.md), their [speed](../../Browse/rule/character/speed.md) is halved while they have that creature [grabbed](../../Browse/condition/grabbed.md).
 
-A creature who has another creature [grabbed](../../Browse/condition/grabbed.md) can use a maneuver to move the [grabbed](../../Browse/condition/grabbed.md) creature into an unoccupied space adjacent to them.
+A creature who has another creature [grabbed](../../Browse/condition/grabbed.md) can use a maneuver to move the [grabbed](../../Browse/condition/grabbed.md) creature into an unoccupied space [adjacent](../../Browse/rule/combat/adjacent.md) to them.
 
-A creature can release a creature they have [grabbed](../../Browse/condition/grabbed.md) at any time to end that condition (no action required). A [grabbed](../../Browse/condition/grabbed.md) creature can attempt to escape being [grabbed](../../Browse/condition/grabbed.md) using the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver (see Chapter 10: [Combat](combat.md)). If a [grabbed](../../Browse/condition/grabbed.md) creature [teleports](../../Browse/movement/teleport.md), or if either the [grabbed](../../Browse/condition/grabbed.md) creature or the creature grabbing them is [force moved](../../Browse/movement/forced-movement.md) so that both creatures are not adjacent to each other, that creature is no longer [grabbed](../../Browse/condition/grabbed.md).
+A creature can release a creature they have [grabbed](../../Browse/condition/grabbed.md) at any time to end that [condition](../../Browse/rule/combat/condition.md) (no action required). A [grabbed](../../Browse/condition/grabbed.md) creature can attempt to escape being [grabbed](../../Browse/condition/grabbed.md) using the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver (see Chapter 10: [Combat](combat.md)). If a [grabbed](../../Browse/condition/grabbed.md) creature [teleports](../../Browse/movement/teleport.md), or if either the [grabbed](../../Browse/condition/grabbed.md) creature or the creature grabbing them is [force moved](../../Browse/movement/forced-movement.md) so that both creatures are not [adjacent](../../Browse/rule/combat/adjacent.md) to each other, that creature is no longer [grabbed](../../Browse/condition/grabbed.md).
 
 A creature can grab only creatures of their [size](../../Browse/rule/character/size.md) or smaller. If a creature's [Might](../../Browse/rule/character/might.md) score is 2 or higher, they can grab any creature larger than them with a [size](../../Browse/rule/character/size.md) equal to or less than their [Might](../../Browse/rule/character/might.md) score.
 
@@ -462,15 +462,15 @@ Unless otherwise indicated, a creature can grab only one creature at a time.
 
 ##### Prone {data-scc="mcdm.heroes.v1/condition/prone"}
 
-While a creature is [prone](../../Browse/condition/prone.md), they are flat on the ground, any strike they make takes a [bane](../../Browse/rule/dice/bane.md), and melee abilities used against them gain an [edge](../../Browse/rule/dice/edge.md). A [prone](../../Browse/condition/prone.md) creature must [crawl](../../Browse/movement/crawl.md) to move along the ground, which costs 1 additional square of movement for every square crawled. A creature can't climb, [jump](../../Browse/movement/jump.md), swim, or [fly](../../Browse/movement/fly.md) while [prone](../../Browse/condition/prone.md). If they are climbing, [flying](../../Browse/movement/fly.md), or jumping when knocked [prone](../../Browse/condition/prone.md), they fall.
+While a creature is [prone](../../Browse/condition/prone.md), they are flat on the ground, any strike they make takes a [bane](../../Browse/rule/dice/bane.md), and [melee](../../Browse/rule/combat/melee.md) abilities used against them gain an [edge](../../Browse/rule/dice/edge.md). A [prone](../../Browse/condition/prone.md) creature must [crawl](../../Browse/movement/crawl.md) to move along the ground, which costs 1 additional square of movement for every square crawled. A creature can't climb, [jump](../../Browse/movement/jump.md), swim, or [fly](../../Browse/movement/fly.md) while [prone](../../Browse/condition/prone.md). If they are climbing, [flying](../../Browse/movement/fly.md), or jumping when knocked [prone](../../Browse/condition/prone.md), they fall.
 
-Unless the ability or effect that imposed the [prone](../../Browse/condition/prone.md) condition says otherwise, a [prone](../../Browse/condition/prone.md) creature can stand up using the [Stand Up](../../Browse/feature/common/maneuvers/stand-up.md) maneuver (see Maneuvers in Chapter 10: [Combat](combat.md)). A creature adjacent to a willing [prone](../../Browse/condition/prone.md) creature can likewise use the [Stand Up](../../Browse/feature/common/maneuvers/stand-up.md) maneuver to make that creature stand up.
+Unless the ability or effect that imposed the [prone](../../Browse/condition/prone.md) [condition](../../Browse/rule/combat/condition.md) says otherwise, a [prone](../../Browse/condition/prone.md) creature can stand up using the [Stand Up](../../Browse/feature/common/maneuvers/stand-up.md) maneuver (see Maneuvers in Chapter 10: [Combat](combat.md)). A creature [adjacent](../../Browse/rule/combat/adjacent.md) to a willing [prone](../../Browse/condition/prone.md) creature can likewise use the [Stand Up](../../Browse/feature/common/maneuvers/stand-up.md) maneuver to make that creature stand up.
 
 ##### Restrained {data-scc="mcdm.heroes.v1/condition/restrained"}
 
 A creature who is [restrained](../../Browse/condition/restrained.md) has [speed](../../Browse/rule/character/speed.md) 0, can't use the [Stand Up](../../Browse/feature/common/maneuvers/stand-up.md) maneuver, and can't be [force moved](../../Browse/movement/forced-movement.md). A [restrained](../../Browse/condition/restrained.md) creature takes a [bane](../../Browse/rule/dice/bane.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) and on [Might](../../Browse/rule/character/might.md) and [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md), and abilities used against them gain an [edge](../../Browse/rule/dice/edge.md).
 
-If a creature [teleports](../../Browse/movement/teleport.md) while [restrained](../../Browse/condition/restrained.md), that condition ends.
+If a creature [teleports](../../Browse/movement/teleport.md) while [restrained](../../Browse/condition/restrained.md), that [condition](../../Browse/rule/combat/condition.md) ends.
 
 ##### Slowed {data-scc="mcdm.heroes.v1/condition/slowed"}
 
@@ -478,7 +478,7 @@ A creature who is [slowed](../../Browse/condition/slowed.md) has [speed](../../B
 
 ##### Taunted {data-scc="mcdm.heroes.v1/condition/taunted"}
 
-A creature who is [taunted](../../Browse/condition/taunted.md) has a double [bane](../../Browse/rule/dice/bane.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) for any ability that doesn't target the creature who [taunted](../../Browse/condition/taunted.md) them, as long as they have [line of effect](../../Browse/rule/combat/line-of-effect.md) to that creature. If a creature gains the [taunted](../../Browse/condition/taunted.md) condition from one source while already [taunted](../../Browse/condition/taunted.md) by a different source, the new condition replaces the old one.
+A creature who is [taunted](../../Browse/condition/taunted.md) has a double [bane](../../Browse/rule/dice/bane.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) for any ability that doesn't target the creature who [taunted](../../Browse/condition/taunted.md) them, as long as they have [line of effect](../../Browse/rule/combat/line-of-effect.md) to that creature. If a creature gains the [taunted](../../Browse/condition/taunted.md) [condition](../../Browse/rule/combat/condition.md) from one source while already [taunted](../../Browse/condition/taunted.md) by a different source, the new [condition](../../Browse/rule/combat/condition.md) replaces the old one.
 
 ##### Weakened {data-scc="mcdm.heroes.v1/condition/weakened"}
 
@@ -561,7 +561,7 @@ Your [censor order](../../Browse/feature/censor/level-1/censor-order.md) is your
 
 #### Deity and Domains {data-scc="mcdm.heroes.v1/feature.censor.level-1/deity-and-domains"}
 
-Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
+Choose a god or [saint](../../Browse/rule/world/saint.md) who your character reveres from Chapter 14: [Gods and Religion](gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
 After choosing your deity, pick one domain from their portfolio. Your choice of domain determines many of the features you'll gain from this class. (*Quick Build:* [Cavall](../god/cavall.md) as deity and War as domain.)
 
@@ -571,9 +571,9 @@ The power you serve grants you a [Heroic Resource](../../Browse/rule/resource/he
 
 ##### Wrath in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain wrath equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your turns during combat, you gain 2 wrath.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../Browse/rule/combat/combat-round.md) (as determined by the Director), you gain wrath equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 2 wrath.
 
-Additionally, the first time each combat round that a creature judged by you (see [Judgment](../../Browse/feature/ability/censor/level-1/judgment.md) below) deals damage to you, you gain 1 wrath. The first time each combat round that you deal damage to a creature judged by you, you gain 1 wrath.
+Additionally, the first time each [combat round](../../Browse/rule/combat/combat-round.md) that a creature judged by you (see [Judgment](../../Browse/feature/ability/censor/level-1/judgment.md) below) deals damage to you, you gain 1 wrath. The first time each [combat round](../../Browse/rule/combat/combat-round.md) that you deal damage to a creature judged by you, you gain 1 wrath.
 
 You lose any remaining wrath at the end of the encounter.
 
@@ -592,9 +592,9 @@ You pick out the enemies most worthy of your wrath and place a divine [judgment]
 
 *You utter a prayer that outlines your foe in holy energy.*
 
-| **Magic, Ranged** |     **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |     **Maneuver** |
 |-------------------|-----------------:|
-| **📏 Ranged 10**  | **🎯 One enemy** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 One enemy** |
 
 **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another [censor](../../Browse/class/censor.md) judges the target.
 
@@ -604,16 +604,16 @@ When a creature judged by you is reduced to 0 [Stamina](../../Browse/rule/health
 
 Additionally, you can spend 1 wrath to take one of the following free [triggered actions](../../Browse/rule/combat/triggered-action.md):
 
-- When an adjacent creature judged by you starts to [shift](../../Browse/movement/shifting.md), you make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them and their [speed](../../Browse/rule/character/speed.md) becomes 0 until the end of the current turn, preventing them from [shifting](../../Browse/movement/shifting.md).
+- When an [adjacent](../../Browse/rule/combat/adjacent.md) creature judged by you starts to [shift](../../Browse/movement/shifting.md), you make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them and their [speed](../../Browse/rule/character/speed.md) becomes 0 until the end of the current [turn](../../Browse/rule/combat/turn.md), preventing them from [shifting](../../Browse/movement/shifting.md).
 - When a creature judged by you within 10 squares makes a [power roll](../../Browse/rule/dice/power-roll.md), you cause them to take a [bane](../../Browse/rule/dice/bane.md) on the roll.
 - When a creature judged by you within 10 squares uses an ability with a [potency](../../Browse/rule/character/potency.md) that targets only one creature, the [potency](../../Browse/rule/character/potency.md) is reduced by 1 for that creature.
-- If you damage a creature judged by you with a melee ability, the creature is [taunted](../../Browse/condition/taunted.md) by you until the end of their next turn.
+- If you damage a creature judged by you with a [melee](../../Browse/rule/combat/melee.md) ability, the creature is [taunted](../../Browse/condition/taunted.md) by you until the end of their next [turn](../../Browse/rule/combat/turn.md).
   
 You can choose only one free [triggered action](../../Browse/rule/combat/triggered-action.md) option at a time, even if multiple options are triggered by the same effect.
 
 ##### Judgment Order Benefit {data-scc="mcdm.heroes.v1/feature.censor.level-1/judgment-order-benefit"}
 
-The first time on a turn that you use your [Judgment](../../Browse/feature/ability/censor/level-1/judgment.md) ability to judge a creature, you gain the following benefit based on your order:
+The first time on a [turn](../../Browse/rule/combat/turn.md) that you use your [Judgment](../../Browse/feature/ability/censor/level-1/judgment.md) ability to judge a creature, you gain the following benefit based on your order:
 
 - **Exorcist:** You can [teleport](../../Browse/movement/teleport.md) up to a number of squares equal to twice your [Presence](../../Browse/rule/character/presence.md) score. This movement must take you closer to the judged creature. You do not need [line of effect](../../Browse/rule/combat/line-of-effect.md) to your destination.
 - **Oracle:** You can deal holy damage equal to twice your [Presence](../../Browse/rule/character/presence.md) score to the judged creature.
@@ -632,15 +632,15 @@ You channel your will to mend your wounds or the wounds of your allies. You have
 
 *You channel some of your vitality into more resilience for you or an ally.*
 
-| **Magic, Ranged** |           **Triggered** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |           **Triggered** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
-**Trigger:** The target starts their turn or takes damage.
+**Trigger:** The target starts their [turn](../../Browse/rule/combat/turn.md) or takes damage.
 
 **Effect:** You spend a [Recovery](../../Browse/rule/health/recoveries.md) and the target regains [Stamina](../../Browse/rule/health/stamina.md) equal to your [recovery value](../../Browse/rule/health/recoveries.md).
 
-**Spend 1 Wrath:** You can end one effect on the target that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their turn, or a [prone](../../Browse/condition/prone.md) target can stand up.
+**Spend 1 Wrath:** You can end one effect on the target that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their [turn](../../Browse/rule/combat/turn.md), or a [prone](../../Browse/condition/prone.md) target can stand up.
 
 #### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-1/1st-level-domain-feature"}
 
@@ -713,7 +713,7 @@ You have the following ability.
 
 | **Magic**      |             **Maneuver** |
 |----------------|-------------------------:|
-| **📏 Melee 1** | **🎯 One dead creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1** | **🎯 One dead creature** |
 
 **Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make [tests](../../Browse/rule/test/test.md) to influence them and convince them to speak with you. The trauma of [dying](../../Browse/rule/health/dying.md) can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 
@@ -734,7 +734,7 @@ You have the following ability.
 
 ##### Inner Light {data-scc="mcdm.heroes.v1/feature.censor.level-1/inner-light"}
 
-Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../Browse/rule/resource/respite.md) to gain the benefit of a divine ritual. You place a ray of [morning light](../../Browse/feature/ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 bonus to [saving throws](../../Browse/rule/general/saving-throw.md) that lasts until you finish another [respite](../../Browse/rule/resource/respite.md).
+Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../Browse/rule/resource/respite.md) to gain the benefit of a divine ritual. You place a ray of [morning light](../../Browse/feature/ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [saving throws](../../Browse/rule/general/saving-throw.md) that lasts until you finish another [respite](../../Browse/rule/resource/respite.md).
 
 ##### Inspired Deception {data-scc="mcdm.heroes.v1/feature.censor.level-1/inspired-deception"}
 
@@ -750,11 +750,11 @@ You can spend 10 uninterrupted minutes to create a [protective circle](../../Bro
 
 ##### Revitalizing Ritual {data-scc="mcdm.heroes.v1/feature.censor.level-1/revitalizing-ritual"}
 
-Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../Browse/rule/resource/respite.md) to gain the benefit of a divine ritual. The chosen character gains a bonus to their [recovery value](../../Browse/rule/health/recoveries.md) equal to your level that lasts until you finish another [respite](../../Browse/rule/resource/respite.md).
+Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../Browse/rule/resource/respite.md) to gain the benefit of a divine ritual. The chosen character gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to their [recovery value](../../Browse/rule/health/recoveries.md) equal to your level that lasts until you finish another [respite](../../Browse/rule/resource/respite.md).
 
 ##### Sanctified Weapon {data-scc="mcdm.heroes.v1/feature.censor.level-1/sanctified-weapon"}
 
-As a [respite](../../Browse/rule/resource/respite.md) activity, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to [rolled damage](../../Browse/rule/damage/rolled-damage.md) with abilities that use the weapon. This benefit lasts until you finish another [respite](../../Browse/rule/resource/respite.md).
+As a [respite](../../Browse/rule/resource/respite.md) activity, you can bless a weapon. Any creature who wields the weapon gains a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [rolled damage](../../Browse/rule/damage/rolled-damage.md) with abilities that use the weapon. This benefit lasts until you finish another [respite](../../Browse/rule/resource/respite.md).
 
 #### Censor Abilities {data-scc="mcdm.heroes.v1/feature.censor.level-1/censor-abilities"}
 
@@ -769,7 +769,7 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 
 *You channel power through your weapon to repel foes.*
 
-| **Area, Magic, Melee, Weapon** |               **Main action** |
+| **Area, Magic, [Melee](../../Browse/rule/combat/melee.md), Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 2 [cube](../../Browse/rule/combat/cube.md) within 1**         | **🎯 Each enemy in the area** |
 
@@ -784,9 +784,9 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 
 *You show your foe a glimpse of their fate after death.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          |           **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          |           **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -794,16 +794,16 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 - **12-16:** 7 + P psychic damage
 - **17+:** 10 + P psychic damage
 
-**Effect:** Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.
+**Effect:** Each time the target willingly moves before the end of your next [turn](../../Browse/rule/combat/turn.md), they take 1 psychic damage for each square they move.
 
 ###### Halt Miscreant! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/halt-miscreant"}
 
 
 *You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -814,11 +814,11 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 ###### Your Allies Cannot Save You! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/your-allies-cannot-save-you"}
 
 
-*Your magic [strike](../../Browse/rule/combat/strike.md) turns your foe's guilt into a burst of holy power.*
+*Your magic [strike](../../Browse/rule/combat/strike.md) [turns](../../Browse/rule/combat/turn.md) your foe's guilt into a burst of holy power.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -826,7 +826,7 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 - **12-16:** 5 + M holy damage
 - **17+:** 8 + M holy damage
 
-**Effect:** Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your [Presence](../../Browse/rule/character/presence.md) score.
+**Effect:** Each enemy [adjacent](../../Browse/rule/combat/adjacent.md) to the target is pushed away from the target up to a number of squares equal to your [Presence](../../Browse/rule/character/presence.md) score.
 
 ##### Heroic Abilities
 
@@ -839,11 +839,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 ###### Behold a Shield of Faith! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/behold-a-shield-of-faith"}
 
 
-*A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
+*A mighty blow [turns](../../Browse/rule/combat/turn.md) your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -851,16 +851,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 6 + M holy damage
 - **17+:** 9 + M holy damage
 
-**Effect:** Until the start of your next turn, enemies take a [bane](../../Browse/rule/dice/bane.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) made against you or any ally adjacent to you.
+**Effect:** Until the start of your next [turn](../../Browse/rule/combat/turn.md), enemies take a [bane](../../Browse/rule/dice/bane.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) made against you or any ally [adjacent](../../Browse/rule/combat/adjacent.md) to you.
 
 ###### Driving Assault {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/driving-assault"}
 
 
 *As you force your enemy back with your weapon, you use your faith to stay close.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**             | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -875,9 +875,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You channel holy energy to smite a foe and heal an ally.*
 
-| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                   | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -892,9 +892,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You conjure memories of their sins to harry your foes.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  |    **Main action**  |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  |    **Main action**  |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -911,9 +911,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *"I got you, you son of a bitch."*
 
-| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   |           **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                   |           **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -928,9 +928,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You attack a foe and your enemies behold a vision of the true nature of your resolve.*
 
-| **Magic, Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
 |-------------------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**                |           **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**                |           **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -945,9 +945,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Judged and [sentenced](../../Browse/feature/ability/censor/level-2/sentenced.md).*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Melee 1**             |           **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**             |           **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -962,9 +962,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *The gods judge, fire cleanses.*
 
-| **Magic, Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
 |-------------------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**                |           **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**                |           **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -980,7 +980,7 @@ As a 2nd-level [censor](../../Browse/class/censor.md), you gain the following fe
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-2/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](perks.md).
+You gain one interpersonal, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](perks.md).
 
 #### 2nd-Level Order Features {data-scc="mcdm.heroes.v1/feature.censor.level-2/2nd-level-order-features"}
 
@@ -990,13 +990,13 @@ Your [censor order](../../Browse/feature/censor/level-1/censor-order.md) grants 
 
 | Order                    | Features                             |
 |--------------------------|--------------------------------------|
-| Exorcist                 | Saint's Vigilance, [A Sense for Truth](../../Browse/feature/censor/level-2/a-sense-for-truth.md) |
+| Exorcist                 | [Saint](../../Browse/rule/world/saint.md)'s Vigilance, [A Sense for Truth](../../Browse/feature/censor/level-2/a-sense-for-truth.md) |
 | Oracle                   | [It Was Foretold](../../Browse/feature/censor/level-2/it-was-foretold.md), [Judge of Character](../../Browse/feature/censor/level-2/judge-of-character.md)  |
 | Paragon                  | [Lead by Example](../../Browse/feature/censor/level-2/lead-by-example.md), [Stalwart Icon](../../Browse/feature/censor/level-2/stalwart-icon.md)       |
 
 ##### It Was Foretold {data-scc="mcdm.heroes.v1/feature.censor.level-2/it-was-foretold"}
 
-Your order has trained you to understand fragments of the visions granted to you by your deity, giving you a momentary advantage in challenging situations. At the start of an encounter, you can take one main action before any other creature and before your first turn. Additionally, whenever the Director calls for a [montage test](../../Browse/rule/test/montage-test.md), you can make one free [test](../../Browse/rule/test/test.md) before the montage begins, which counts as an earned success or failure as usual.
+Your order has trained you to understand fragments of the visions granted to you by your deity, giving you a momentary advantage in challenging situations. At the start of an encounter, you can take one main action before any other creature and before your first [turn](../../Browse/rule/combat/turn.md). Additionally, whenever the Director calls for a [montage test](../../Browse/rule/test/montage-test.md), you can make one free [test](../../Browse/rule/test/test.md) before the montage begins, which counts as an earned success or failure as usual.
 
 ##### Judge of Character {data-scc="mcdm.heroes.v1/feature.censor.level-2/judge-of-character"}
 
@@ -1004,7 +1004,7 @@ Your focus on your fragmentary visions grants divine insight into the world and 
 
 ##### Lead by Example {data-scc="mcdm.heroes.v1/feature.censor.level-2/lead-by-example"}
 
-Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are adjacent to a creature, your allies gain the benefits of [flanking](../../Browse/rule/combat/flanking.md) against that creature. Additionally, your allies gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to aid other creatures with their [tests](../../Browse/rule/test/test.md).
+Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are [adjacent](../../Browse/rule/combat/adjacent.md) to a creature, your allies gain the benefits of [flanking](../../Browse/rule/combat/flanking.md) against that creature. Additionally, your allies gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to aid other creatures with their [tests](../../Browse/rule/test/test.md).
 
 ##### Saint's Vigilance {data-scc="mcdm.heroes.v1/feature.censor.level-2/saints-vigilance"}
 
@@ -1012,7 +1012,7 @@ You have honed your ability to detect sin and can use it to find those who hide 
 
 ##### A Sense for Truth {data-scc="mcdm.heroes.v1/feature.censor.level-2/a-sense-for-truth"}
 
-You are trained in secret techniques from your order that allow you to discern the truth with supernatural precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to detect lies or hidden motives.
+You are trained in secret techniques from your order that allow you to discern the truth with [supernatural](../../Browse/rule/general/supernatural.md) precision. If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to detect lies or hidden motives.
 
 ##### Stalwart Icon {data-scc="mcdm.heroes.v1/feature.censor.level-2/stalwart-icon"}
 
@@ -1031,9 +1031,9 @@ Choose one of the following abilities.
 
 *I am but a vessel. Your own deeds weigh upon you.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -1052,7 +1052,7 @@ Choose one of the following abilities.
 |-----------------|------------------------------:|
 | **📏 3 [burst](../../Browse/rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes holy damage equal to twice your [Presence](../../Browse/rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next turn. You can then use your [Judgment](../../Browse/feature/ability/censor/level-1/judgment.md) ability against one target as a free [triggered action](../../Browse/rule/combat/triggered-action.md).
+**Effect:** Each target takes holy damage equal to twice your [Presence](../../Browse/rule/character/presence.md) score. Additionally, each hidden target is automatically revealed and can't become hidden again until the start of your next [turn](../../Browse/rule/combat/turn.md). You can then use your [Judgment](../../Browse/feature/ability/censor/level-1/judgment.md) ability against one target as a free [triggered action](../../Browse/rule/combat/triggered-action.md).
 
 ##### 2nd-Level Oracle Ability
 
@@ -1063,22 +1063,22 @@ Choose one of the following abilities.
 
 *Gifted by a prescient vision, you warn an ally of an impending attack.*
 
-| **Magic, Ranged** |          **Triggered** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |          **Triggered** |
 |-------------------|-----------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
-**Trigger:** An enemy within 10 squares starts their turn.
+**Trigger:** An enemy within 10 squares starts their [turn](../../Browse/rule/combat/turn.md).
 
-**Effect:** You can spend a [Recovery](../../Browse/rule/health/recoveries.md) to allow the target to regain [Stamina](../../Browse/rule/health/stamina.md) equal to your [recovery value](../../Browse/rule/health/recoveries.md). The target can then take their turn immediately before the triggering enemy.
+**Effect:** You can spend a [Recovery](../../Browse/rule/health/recoveries.md) to allow the target to regain [Stamina](../../Browse/rule/health/stamina.md) equal to your [recovery value](../../Browse/rule/health/recoveries.md). The target can then take their [turn](../../Browse/rule/combat/turn.md) immediately before the triggering enemy.
 
 ###### With My Blessing {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/with-my-blessing"}
 
 
 *A word in prayer, and the gods show the way.*
 
-| **Magic, Ranged** |         **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |         **Main action** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
 **Effect:** The target can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to use a [strike](../../Browse/rule/combat/strike.md) [signature ability](../../Browse/rule/combat/signature-ability.md) or a [strike](../../Browse/rule/combat/strike.md) [heroic ability](../../Browse/rule/general/heroic-ability.md), and has a double [edge](../../Browse/rule/dice/edge.md) on that ability. If a [heroic ability](../../Browse/rule/general/heroic-ability.md) is chosen, reduce its [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) cost by 3 (to a minimum cost of 0).
 
@@ -1095,16 +1095,16 @@ Choose one of the following abilities.
 |-----------------|--------------------------------------:|
 | **📏 3 [aura](../../Browse/rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each target gains 1 [surge](../../Browse/rule/resource/surge.md) at the end of each of your turns.
+**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each target gains 1 [surge](../../Browse/rule/resource/surge.md) at the end of each of your [turns](../../Browse/rule/combat/turn.md).
 
 ###### Sentenced {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/sentenced"}
 
 
 *The shock of your condemnation freezes your enemy in their boots.*
 
-| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   |           **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                   |           **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -1135,7 +1135,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-----------------|------------------------------:|
 | **📏 2 [aura](../../Browse/rule/combat/aura.md)**   | **🎯 Each enemy in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each target takes holy damage equal to your [Presence](../../Browse/rule/character/presence.md) score at the end of each of your turns. A target takes an extra 2d6 holy damage if they are judged by you or if they are adjacent to any enemy.
+**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each target takes holy damage equal to your [Presence](../../Browse/rule/character/presence.md) score at the end of each of your [turns](../../Browse/rule/combat/turn.md). A target takes an extra 2d6 holy damage if they are judged by you or if they are [adjacent](../../Browse/rule/combat/adjacent.md) to any enemy.
 
 ##### Edict of Perfect Order {data-scc="mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-perfect-order"}
 
@@ -1188,7 +1188,7 @@ You gain one skill of your choice. See Skills in Chapter 9: [Tests](tests.md).
 
 #### Wrath Beyond Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-4/wrath-beyond-wrath"}
 
-The first time each combat round that you deal damage to a creature judged by you, you gain 2 wrath instead of 1.
+The first time each [combat round](../../Browse/rule/combat/combat-round.md) that you deal damage to a creature judged by you, you gain 2 wrath instead of 1.
 
 #### 4th-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.censor.level-4/4th-level-domain-feature"}
 
@@ -1201,7 +1201,7 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](.
 | Creation                         | [Improved Hands of the Maker](../../Browse/feature/censor/level-4/improved-hands-of-the-maker.md) |
 | Death                            | [Seance](../../Browse/feature/censor/level-4/seance.md)                      |
 | Fate                             | [Oracular Warning](../../Browse/feature/censor/level-4/oracular-warning.md)            |
-| Knowledge                        | Saint's Epiphany            |
+| Knowledge                        | [Saint](../../Browse/rule/world/saint.md)'s Epiphany            |
 | Life                             | [Blessing of Life](../../Browse/feature/censor/level-4/blessing-of-life.md)            |
 | Love                             | [Invocation of the Heart](../../Browse/feature/censor/level-4/invocation-of-the-heart.md)     |
 | Nature                           | [Wode Road](../../Browse/feature/censor/level-4/wode-road.md)                   |
@@ -1242,7 +1242,7 @@ When you use your [Hands of the Maker](../../Browse/feature/ability/censor/level
 
 ##### Improved Sanctified Weapon {data-scc="mcdm.heroes.v1/feature.censor.level-4/improved-sanctified-weapon"}
 
-The weapon improved by your [Sanctified Weapon](../../Browse/feature/censor/level-1/sanctified-weapon.md) feature grants a +3 bonus to [rolled damage](../../Browse/rule/damage/rolled-damage.md) instead of +1.
+The weapon improved by your [Sanctified Weapon](../../Browse/feature/censor/level-1/sanctified-weapon.md) feature grants a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [rolled damage](../../Browse/rule/damage/rolled-damage.md) instead of +1.
 
 ##### Invocation of the Heart {data-scc="mcdm.heroes.v1/feature.censor.level-4/invocation-of-the-heart"}
 
@@ -1250,7 +1250,7 @@ As a main action, you forge a bond of love and friendship with one willing creat
 
 ##### Light of Revelation {data-scc="mcdm.heroes.v1/feature.censor.level-4/light-of-revelation"}
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to notice hidden objects and entrances and to detect [supernatural](../../Browse/rule/general/supernatural.md) illusions.
 
 ##### Oracular Warning {data-scc="mcdm.heroes.v1/feature.censor.level-4/oracular-warning"}
 
@@ -1266,7 +1266,7 @@ At the start of a [respite](../../Browse/rule/resource/respite.md), you can insp
 
 ##### Windwalk {data-scc="mcdm.heroes.v1/feature.censor.level-4/windwalk"}
 
-While you have 5 or more [Victories](../../Browse/rule/resource/victories.md), you can [fly](../../Browse/movement/fly.md). If you can already [fly](../../Browse/movement/fly.md), you have a +2 bonus to [speed](../../Browse/rule/character/speed.md) while [flying](../../Browse/movement/fly.md) instead.
+While you have 5 or more [Victories](../../Browse/rule/resource/victories.md), you can [fly](../../Browse/movement/fly.md). If you can already [fly](../../Browse/movement/fly.md), you have a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) while [flying](../../Browse/movement/fly.md) instead.
 
 ##### Wode Road {data-scc="mcdm.heroes.v1/feature.censor.level-4/wode-road"}
 
@@ -1300,7 +1300,7 @@ You discard each roll as it is used, and each time you earn [Victories](../../Br
 
 ##### Stand Fast! {data-scc="mcdm.heroes.v1/feature.censor.level-5/stand-fast"}
 
-Your divine spark grows in power, allowing you and your allies to focus and endure. At the start of each of your turns, you can spend 1d6 [Stamina](../../Browse/rule/health/stamina.md) to end one effect on you that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of your turn. Any ally who starts their turn within 5 squares of you can also spend [Stamina](../../Browse/rule/health/stamina.md) to gain this benefit.
+Your divine spark grows in power, allowing you and your allies to focus and endure. At the start of each of your [turns](../../Browse/rule/combat/turn.md), you can spend 1d6 [Stamina](../../Browse/rule/health/stamina.md) to end one effect on you that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of your [turn](../../Browse/rule/combat/turn.md). Any ally who starts their [turn](../../Browse/rule/combat/turn.md) within 5 squares of you can also spend [Stamina](../../Browse/rule/health/stamina.md) to gain this benefit.
 
 #### 9-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-5/9-wrath-ability"}
 
@@ -1311,11 +1311,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You channel divine force for movement that cannot be stopped.*
 
-| **Ranged** |         **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)** |         **Main action** |
 |------------------|------------------------:|
-| **📏 Ranged 10** | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 Self or one ally** |
 
-**Effect:** The target ends any condition or effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their turn, or a [prone target](../../Browse/condition/prone.md) can stand up. The target then gains 2 [surges](../../Browse/rule/resource/surge.md), can [shift](../../Browse/movement/shifting.md) up to their [speed](../../Browse/rule/character/speed.md) while ignoring [difficult terrain](../../Browse/movement/difficult-terrain.md), and can use a [strike](../../Browse/rule/combat/strike.md) [signature ability](../../Browse/rule/combat/signature-ability.md) as a free [triggered action](../../Browse/rule/combat/triggered-action.md).
+**Effect:** The target ends any [condition](../../Browse/rule/combat/condition.md) or effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their [turn](../../Browse/rule/combat/turn.md), or a [prone target](../../Browse/condition/prone.md) can stand up. The target then gains 2 [surges](../../Browse/rule/resource/surge.md), can [shift](../../Browse/movement/shifting.md) up to their [speed](../../Browse/rule/character/speed.md) while ignoring [difficult terrain](../../Browse/movement/difficult-terrain.md), and can use a [strike](../../Browse/rule/combat/strike.md) [signature ability](../../Browse/rule/combat/signature-ability.md) as a free [triggered action](../../Browse/rule/combat/triggered-action.md).
 
 ##### Orison of Victory {data-scc="mcdm.heroes.v1/feature.ability.censor.level-5/orison-of-victory"}
 
@@ -1332,16 +1332,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** Each target gains 2 [surges](../../Browse/rule/resource/surge.md).
 - **17+:** Each target gains 3 [surges](../../Browse/rule/resource/surge.md).
 
-**Effect:** A target can end one effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their turn, or a [prone target](../../Browse/condition/prone.md) can stand up.
+**Effect:** A target can end one effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their [turn](../../Browse/rule/combat/turn.md), or a [prone target](../../Browse/condition/prone.md) can stand up.
 
 ##### Righteous Judgment {data-scc="mcdm.heroes.v1/feature.ability.censor.level-5/righteous-judgment"}
 
 
 *You amplify the power of your [judgment](../../Browse/feature/ability/censor/level-1/judgment.md).*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon**   |          **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**   |          **Main action** |
 |----------------------------|-------------------------:|
-| **📏 Melee 1**             |      **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**             |      **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -1356,15 +1356,15 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You strike a foe and create a fleet of divine shields that protect your allies.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |          **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |          **Main action** |
 |---------------------------|-------------------------:|
-| **📏 Melee 1**            |      **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            |      **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md)
-- **12-16:** 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md)
-- **17+:** 20 + M damage; you and each ally adjacent to you gain 20 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md)
+- **≤11:** 10 + M damage; you and each ally [adjacent](../../Browse/rule/combat/adjacent.md) to you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md)
+- **12-16:** 14 + M damage; you and each ally [adjacent](../../Browse/rule/combat/adjacent.md) to you gain 15 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md)
+- **17+:** 20 + M damage; you and each ally [adjacent](../../Browse/rule/combat/adjacent.md) to you gain 20 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md)
 
 ### 6th-Level Features
 
@@ -1372,7 +1372,7 @@ As a 6th-level [censor](../../Browse/class/censor.md), you gain the following fe
 
 #### Implement of Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-6/implement-of-wrath"}
 
-Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can choose one hero's weapon, including your own, to channel supernatural power as an implement of your god's wrath. The weapon becomes magic and gains the following benefits until your next [respite](../../Browse/rule/resource/respite.md):
+Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can choose one hero's weapon, including your own, to channel [supernatural](../../Browse/rule/general/supernatural.md) power as an [implement](../../Browse/rule/treasure/implement.md) of your god's wrath. The weapon becomes magic and gains the following benefits until your next [respite](../../Browse/rule/resource/respite.md):
 
 - Strikes with the weapon deal extra holy damage equal to the wielder's highest [characteristic](../../Browse/rule/character/characteristic.md) score.
 - Any creature struck by the weapon who has holy weakness and has P < STRONG is [frightened](../../Browse/condition/frightened.md) and [weakened](../../Browse/condition/weakened.md) (save ends).
@@ -1381,7 +1381,7 @@ Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-6/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice.
+You gain one interpersonal, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice.
 
 #### 6th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-6/6th-level-order-ability"}
 
@@ -1411,11 +1411,11 @@ Choose one of the following abilities.
 
 *You reverse the effects from an evildoer.*
 
-| **Magic, Ranged** |      **Free triggered** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |      **Free triggered** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
-**Trigger:** The target gains a condition or effect that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their turn.
+**Trigger:** The target gains a [condition](../../Browse/rule/combat/condition.md) or effect that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their [turn](../../Browse/rule/combat/turn.md).
 
 **Effect:** The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](../../Browse/rule/character/presence.md) score.
 
@@ -1428,9 +1428,9 @@ Choose one of the following abilities.
 
 *You reveal a vision of your enemies' fate that causes them to scramble as it staggers them.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |         **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |         **Maneuver** |
 |---------------------------|---------------------:|
-| **📏 Ranged 10**          | **🎯 Three enemies** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 Three enemies** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -1458,9 +1458,9 @@ Choose one of the following abilities.
 
 *You focus your allies' wrath on a chosen foe.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |   **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |   **Main action** |
 |---------------------------|------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -1475,9 +1475,9 @@ Choose one of the following abilities.
 
 *You take your ally's place.*
 
-| **Magic, Ranged** | **Free triggered** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** | **Free triggered** |
 |-------------------|-------------------:|
-| **📏 Ranged 10**  |    **🎯 One ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  |    **🎯 One ally** |
 
 **Trigger:** A creature makes a [strike](../../Browse/rule/combat/strike.md) against the target.
 
@@ -1525,9 +1525,9 @@ You can maintain bonds with up to three willing creatures using your [Invocation
 
 *You concentrate on a friend and [teleport](../../Browse/movement/teleport.md) to them.*
 
-| **Magic, Ranged** |           **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |           **Main action** |
 |-------------------|--------------------------:|
-| **📏 Ranged 10**  | **🎯 Self and each ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 Self and each ally** |
 
 **Effect:** Each target is [teleport](../../Browse/movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your [Invocation of the Heart](../../Browse/feature/censor/level-4/invocation-of-the-heart.md) feature. You don't need [line of effect](../../Browse/rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world.
 
@@ -1537,7 +1537,7 @@ Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can
 
 ##### Font of Grace {data-scc="mcdm.heroes.v1/feature.censor.level-7/font-of-grace"}
 
-Each time you use your [My Life for Yours](../../Browse/feature/ability/censor/level-1/my-life-for-yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this wrath, it is lost. Additionally, the target of [My Life for Yours](../../Browse/feature/ability/censor/level-1/my-life-for-yours.md) gains 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
+Each time you use your [My Life for Yours](../../Browse/feature/ability/censor/level-1/my-life-for-yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same [turn](../../Browse/rule/combat/turn.md). If you don't use this wrath, it is lost. Additionally, the target of [My Life for Yours](../../Browse/feature/ability/censor/level-1/my-life-for-yours.md) gains 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
 
 ##### Gods' Library {data-scc="mcdm.heroes.v1/feature.censor.level-7/gods-library"}
 
@@ -1553,15 +1553,15 @@ When you finish a [respite](../../Browse/rule/resource/respite.md), you can prep
 
 - Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different [damage immunity](../../Browse/rule/damage/damage-immunity.md) each time.
 - Each creature gains 20 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
-- Each creature gains a +1 bonus to [speed](../../Browse/rule/character/speed.md).
-- Each creature gains a +1 bonus to [saving throws](../../Browse/rule/general/saving-throw.md).
+- Each creature gains a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md).
+- Each creature gains a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [saving throws](../../Browse/rule/general/saving-throw.md).
 - Each creature gains an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to influence other creatures.
 
 Each benefit lasts until the creature who gains it finishes another [respite](../../Browse/rule/resource/respite.md).
 
 ##### Ride the Lightning {data-scc="mcdm.heroes.v1/feature.censor.level-7/ride-the-lightning"}
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to another creature, the ability deals extra lightning damage equal to your [Presence](../../Browse/rule/character/presence.md) score. Additionally, if you use an ability that force moves a creature, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Presence](../../Browse/rule/character/presence.md) score. While you are under the effect of your [Windwalk](../../Browse/feature/censor/level-4/windwalk.md) feature, lightning enhances your locomotion to grant you a bonus to [speed](../../Browse/rule/character/speed.md) equal to your [Might](../../Browse/rule/character/might.md) score. If [Windwalk](../../Browse/feature/censor/level-4/windwalk.md) already grants you a bonus to [speed](../../Browse/rule/character/speed.md), this bonus adds to that.
+Lightning and thunder infuse your body. Whenever you use an ability to deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to another creature, the ability deals extra lightning damage equal to your [Presence](../../Browse/rule/character/presence.md) score. Additionally, if you use an ability that force moves a creature, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Presence](../../Browse/rule/character/presence.md) score. While you are under the effect of your [Windwalk](../../Browse/feature/censor/level-4/windwalk.md) feature, lightning enhances your locomotion to grant you a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) equal to your [Might](../../Browse/rule/character/might.md) score. If [Windwalk](../../Browse/feature/censor/level-4/windwalk.md) already grants you a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md), this [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) adds to that.
 
 ##### Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.censor.level-7/trinity-of-trickery"}
 
@@ -1572,11 +1572,11 @@ You have the following ability.
 
 *Hey! I'm over here. No, here, numbskull.*
 
-| **Magic, Ranged** |            **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |            **Maneuver** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
-**Effect:** You create two illusory duplicates of the target, which appear anywhere within [distance](../../Browse/rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their [speed](../../Browse/rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to switch places with a duplicate within their [line of effect](../../Browse/rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+**Effect:** You create two illusory duplicates of the target, which appear anywhere within [distance](../../Browse/rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their [turns](../../Browse/rule/combat/turn.md), the target can move each duplicate up to their [speed](../../Browse/rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to switch places with a duplicate within their [line of effect](../../Browse/rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 
 ##### Word of Death Deferred {data-scc="mcdm.heroes.v1/feature.censor.level-7/word-of-death-deferred"}
 
@@ -1594,7 +1594,7 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 #### Focused Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-7/focused-wrath"}
 
-When you gain wrath at the start of each of your turns during combat, you gain 3 wrath instead of 2.
+When you gain wrath at the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 3 wrath instead of 2.
 
 #### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-7/skill"}
 
@@ -1641,9 +1641,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You curse your foe to become a bane to their allies.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -1651,16 +1651,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 13 + M damage; I < AVERAGE, [weakened](../../Browse/condition/weakened.md) (save ends)
 - **17+:** 18 + M damage; I < STRONG, [weakened](../../Browse/condition/weakened.md) (save ends)
 
-**Effect:** At the end of each of your turns, a target [weakened](../../Browse/condition/weakened.md) this way deals holy damage equal to twice your [Presence](../../Browse/rule/character/presence.md) score to each enemy within 2 squares of them. Additionally, a target [weakened](../../Browse/condition/weakened.md) this way can't be targeted by their allies' abilities.
+**Effect:** At the end of each of your [turns](../../Browse/rule/combat/turn.md), a target [weakened](../../Browse/condition/weakened.md) this way deals holy damage equal to twice your [Presence](../../Browse/rule/character/presence.md) score to each enemy within 2 squares of them. Additionally, a target [weakened](../../Browse/condition/weakened.md) this way can't be targeted by their allies' abilities.
 
 ##### Hand of the Gods {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/hand-of-the-gods"}
 
 
 *You use your foe as a tool against your enemies.*
 
-| **Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           |           **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           |           **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -1675,9 +1675,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your enemy's guilt fuels a holy flame that burns your foes.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon**  |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Melee 1**             | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**             | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -1685,16 +1685,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 13 + M damage; I < AVERAGE, [dazed](../../Browse/condition/dazed.md) (save ends)
 - **17+:** 18 + M damage; I < STRONG, [dazed](../../Browse/condition/dazed.md) (save ends)
 
-**Effect:** At the end of each of your turns, a target [dazed](../../Browse/condition/dazed.md) this way deals holy damage equal to twice your [Presence](../../Browse/rule/character/presence.md) score to each enemy within 2 squares of them.
+**Effect:** At the end of each of your [turns](../../Browse/rule/combat/turn.md), a target [dazed](../../Browse/condition/dazed.md) this way deals holy damage equal to twice your [Presence](../../Browse/rule/character/presence.md) score to each enemy within 2 squares of them.
 
 ##### Your Allies Turn on You! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/your-allies-turn-on-you"}
 
 
-*You turn your enemies' ire to the target.*
+*You [turn](../../Browse/rule/combat/turn.md) your enemies' ire to the target.*
 
-| **Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           |           **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           |           **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -1702,7 +1702,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 9 + P damage; I < AVERAGE, [slowed](../../Browse/condition/slowed.md) (save ends)
 - **17+:** 12 + P damage; I < STRONG, [slowed](../../Browse/condition/slowed.md) (save ends)
 
-**Effect:** While the target is [slowed](../../Browse/condition/slowed.md) this way, each of their allies who starts their turn within 5 squares of them must use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../../Browse/condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../Browse/feature/common/main-actions/free-strike.md) against a different creature must make the [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the target instead.
+**Effect:** While the target is [slowed](../../Browse/condition/slowed.md) this way, each of their allies who starts their [turn](../../Browse/rule/combat/turn.md) within 5 squares of them must use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the target. Additionally, while the target is [slowed](../../Browse/condition/slowed.md) this way, each of their allies within 5 squares of them who can make a triggered [free strike](../../Browse/feature/common/main-actions/free-strike.md) against a different creature must make the [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the target instead.
 
 ### 9th-Level Features
 
@@ -1712,8 +1712,8 @@ As a 9th-level [censor](../../Browse/class/censor.md), you gain the following fe
 
 The weapon you target with your [Implement of Wrath](../../Browse/feature/censor/level-6/implement-of-wrath.md) feature gains the following additional benefits:
 
-- The weapon's wielder and each ally adjacent to them gain a +2 bonus to [saving throws](../../Browse/rule/general/saving-throw.md).
-- At the end of each of the weapon wielder's turns, each ally adjacent to the wielder makes a [saving throw](../../Browse/rule/general/saving-throw.md) against each effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md).
+- The weapon's wielder and each ally [adjacent](../../Browse/rule/combat/adjacent.md) to them gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [saving throws](../../Browse/rule/general/saving-throw.md).
+- At the end of each of the weapon wielder's [turns](../../Browse/rule/combat/turn.md), each ally [adjacent](../../Browse/rule/combat/adjacent.md) to the wielder makes a [saving throw](../../Browse/rule/general/saving-throw.md) against each effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md).
 - The weapon's wielder has corruption immunity 10.
 
 #### 9th-Level Order Ability {data-scc="mcdm.heroes.v1/feature.censor.level-9/9th-level-order-ability"}
@@ -1729,9 +1729,9 @@ Choose one of the following abilities.
 
 *You sever the target's tenuous connection to the world.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon**  |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Melee 1**             | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**             | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -1746,9 +1746,9 @@ Choose one of the following abilities.
 
 *"I know what you fear."*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -1767,9 +1767,9 @@ Choose one of the following abilities.
 
 *The gods bless and damn in equal measure.*
 
-| **Magic, Ranged**  |       **Triggered** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |       **Triggered** |
 |--------------------|--------------------:|
-| **📏 Ranged 10**   | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 One creature** |
 
 **Trigger:** The target makes a [power roll](../../Browse/rule/dice/power-roll.md).
 
@@ -1780,13 +1780,13 @@ Choose one of the following abilities.
 
 *You have looked at various futures, and only this one works.*
 
-| **Magic, Ranged**  |   **Triggered** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |   **Triggered** |
 |--------------------|----------------:|
-| **📏 Ranged 10**   | **🎯 One ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 One ally** |
 
-**Trigger:** You or another hero ends their turn.
+**Trigger:** You or another hero ends their [turn](../../Browse/rule/combat/turn.md).
 
-**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double [edge](../../Browse/rule/dice/edge.md) on [power rolls](../../Browse/rule/dice/power-roll.md).
+**Effect:** The target takes their [turn](../../Browse/rule/combat/turn.md) after the triggering hero, and immediately removes all [conditions](../../Browse/rule/combat/condition.md) and negative effects on themself. During their [turn](../../Browse/rule/combat/turn.md), the target has a double [edge](../../Browse/rule/dice/edge.md) on [power rolls](../../Browse/rule/dice/power-roll.md).
 
 ##### 9th-Level Paragon Abilities
 
@@ -1797,9 +1797,9 @@ Choose one of the following abilities.
 
 *You channel holy energy to seal an enemy's fate.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -1818,7 +1818,7 @@ Choose one of the following abilities.
 |-----------------|--------------------------------------:|
 | **📏 2 [aura](../../Browse/rule/combat/aura.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each target who starts their turn in the area gains 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
+**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each target who starts their [turn](../../Browse/rule/combat/turn.md) in the area gains 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
 
 ### 10th-Level Features
 
@@ -1830,7 +1830,7 @@ Your [Might](../../Browse/rule/character/might.md) and [Presence](../../Browse/r
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-10/perk"}
 
-You gain one crafting, lore, or supernatural perk of your choice.
+You gain one crafting, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice.
 
 #### Skill {data-scc="mcdm.heroes.v1/feature.censor.level-10/skill"}
 
@@ -1854,11 +1854,11 @@ Additionally, you can spend 3 [virtue](../../Browse/feature/censor/level-10/virt
 
 #### Wrath of the Gods {data-scc="mcdm.heroes.v1/feature.censor.level-10/wrath-of-the-gods"}
 
-When you gain wrath at the start of each of your turns during combat, you gain 4 wrath instead of 3.
+When you gain wrath at the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 4 wrath instead of 3.
 
 ## Conduit {data-scc="mcdm.heroes.v1/class/conduit"}
 
-The power of the gods flows through you! As a vessel for [divine power](../../Browse/feature/conduit/level-10/divine-power.md), you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
+The power of the gods flows through you! As a vessel for [divine power](../../Browse/feature/conduit/level-10/divine-power.md), you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or [saint](../../Browse/rule/world/saint.md) you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
 **As a [conduit](../../Browse/class/conduit.md), you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
 
@@ -1910,7 +1910,7 @@ As a [conduit](../../Browse/class/conduit.md), you gain the following features.
 
 #### Deity and Domains {data-scc="mcdm.heroes.v1/feature.conduit.level-1/deity-and-domains"}
 
-Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
+Choose a god or [saint](../../Browse/rule/world/saint.md) who your character reveres from Chapter 14: [Gods and Religion](gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
 After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your [subclass](../../Browse/rule/general/subclass.md), and your choice of domains determines many of the features you'll gain as you gain new levels. (*Quick Build:* [Adûn](../god/adun.md) for deity, and Life and Protection as domains.)
 
@@ -1920,9 +1920,9 @@ Your deity grants you a [Heroic Resource](../../Browse/rule/resource/heroic-reso
 
 ##### Piety in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain piety equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 piety.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../Browse/rule/combat/combat-round.md) (as determined by the Director), you gain piety equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 1d3 piety.
 
-Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
+Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your [turn](../../Browse/rule/combat/turn.md), you can pray (no action required). If you do, your roll gains the following additional effects:
 
 - If the roll is a 1, you gain 1 additional piety but anger the gods! You take psychic damage equal to 1d6 + your level, which can't be reduced in any way.
 - If the roll is a 2, you gain 1 additional piety.
@@ -1965,7 +1965,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ###### Life Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares regains [Stamina](../../Browse/rule/health/stamina.md).
-- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a [Recovery](../../Browse/rule/health/recoveries.md), can end one effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their turn, or can stand up if they [are prone](../../Browse/condition/prone.md). Alternatively, you or one ally within 10 squares gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to two times your [Intuition](../../Browse/rule/character/intuition.md) score.
+- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a [Recovery](../../Browse/rule/health/recoveries.md), can end one effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their [turn](../../Browse/rule/combat/turn.md), or can stand up if they [are prone](../../Browse/condition/prone.md). Alternatively, you or one ally within 10 squares gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to two times your [Intuition](../../Browse/rule/character/intuition.md) score.
 
 ###### Love Domain Piety and Effect
 
@@ -1999,7 +1999,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### War Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single [turn](../../Browse/rule/combat/turn.md).
 - **Prayer Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 [surges](../../Browse/rule/resource/surge.md).
 
 #### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-1/1st-level-domain-feature"}
@@ -2071,7 +2071,7 @@ You have the following ability.
 
 | **Magic**      |            **Maneuver**  |
 |----------------|-------------------------:|
-| **📏 Melee 1** | **🎯 One dead creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1** | **🎯 One dead creature** |
 
 **Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make [tests](../../Browse/rule/test/test.md) to influence them and convince them to speak with you. The trauma of [dying](../../Browse/rule/health/dying.md) can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 
@@ -2092,7 +2092,7 @@ You have the following ability.
 
 ##### Inner Light {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inner-light"}
 
-Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../Browse/rule/resource/respite.md) to gain the benefit of a divine ritual. You place a ray of [morning light](../../Browse/feature/ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 bonus to [saving throws](../../Browse/rule/general/saving-throw.md) that lasts until you finish another [respite](../../Browse/rule/resource/respite.md).
+Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../Browse/rule/resource/respite.md) to gain the benefit of a divine ritual. You place a ray of [morning light](../../Browse/feature/ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [saving throws](../../Browse/rule/general/saving-throw.md) that lasts until you finish another [respite](../../Browse/rule/resource/respite.md).
 
 ##### Inspired Deception {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inspired-deception"}
 
@@ -2108,46 +2108,46 @@ You can spend 10 uninterrupted minutes to create a [protective circle](../../Bro
 
 ##### Revitalizing Ritual {data-scc="mcdm.heroes.v1/feature.conduit.level-1/revitalizing-ritual"}
 
-Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../Browse/rule/resource/respite.md) to gain the benefit of a divine ritual. The chosen character gains a bonus to their [recovery value](../../Browse/rule/health/recoveries.md) equal to your level that lasts until you finish another [respite](../../Browse/rule/resource/respite.md).
+Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../../Browse/rule/resource/respite.md) to gain the benefit of a divine ritual. The chosen character gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to their [recovery value](../../Browse/rule/health/recoveries.md) equal to your level that lasts until you finish another [respite](../../Browse/rule/resource/respite.md).
 
 ##### Sanctified Weapon {data-scc="mcdm.heroes.v1/feature.conduit.level-1/sanctified-weapon"}
 
-As a [respite](../../Browse/rule/resource/respite.md) activity, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to [rolled damage](../../Browse/rule/damage/rolled-damage.md) with abilities that use the weapon. This benefit lasts until you finish another [respite](../../Browse/rule/resource/respite.md).
+As a [respite](../../Browse/rule/resource/respite.md) activity, you can bless a weapon. Any creature who wields the weapon gains a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [rolled damage](../../Browse/rule/damage/rolled-damage.md) with abilities that use the weapon. This benefit lasts until you finish another [respite](../../Browse/rule/resource/respite.md).
 
 #### Healing Grace {data-scc="mcdm.heroes.v1/feature.conduit.level-1/healing-grace"}
 
-You have the following ability, which you can use once on your turn.
+You have the following ability, which you can use once on your [turn](../../Browse/rule/combat/turn.md).
 
 ##### Healing Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/healing-grace"}
 
 
 *Your divine energy restores the righteous.*
 
-| **Magic, Ranged**          |            **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**          |            **Maneuver** |
 |----------------------------|------------------------:|
-| **📏 Ranged 10**           | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           | **🎯 Self or one ally** |
 
 **Effect:** The target can spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
-**Spend 1+ Piety:** For each piety spent, choose one of the following enhancements:
+**Spend 1+ Piety:** For each piety spent, choose one of the following [enhancements](../../Browse/rule/treasure/enhancement.md):
 
 - You can target one additional ally within [distance](../../Browse/rule/combat/distance.md).
-- You can end one effect on a target that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their turn.
+- You can end one effect on a target that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their [turn](../../Browse/rule/combat/turn.md).
 - A [prone target](../../Browse/condition/prone.md) can stand up.
 - A target can spend 1 additional [Recovery](../../Browse/rule/health/recoveries.md).
 
 #### Ray of Wrath {data-scc="mcdm.heroes.v1/feature.conduit.level-1/ray-of-wrath"}
 
-You have the following ability, which can be used as a ranged [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+You have the following ability, which can be used as a [ranged](../../Browse/rule/combat/ranged.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 ##### Ray of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/ray-of-wrath"}
 
 
 *You unleash a blast of holy light upon your foe.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2166,9 +2166,9 @@ Choose one of the following [triggered actions](../../Browse/rule/combat/trigger
 
 *You invigorate an attacking ally with divine energy.*
 
-| **Magic, Ranged**      |        **Triggered** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**      |        **Triggered** |
 |------------------------|---------------------:|
-| **📏 Ranged 10**       |      **🎯 One ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**       |      **🎯 One ally** |
 
 **Trigger:** The target makes an [ability roll](../../Browse/rule/dice/ability-roll.md) for a damage-dealing ability.
 
@@ -2181,9 +2181,9 @@ Choose one of the following [triggered actions](../../Browse/rule/combat/trigger
 
 *Your holy word saps an attacking enemy's strength.*
 
-| **Magic, Ranged**  |     **Triggered** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |     **Triggered** |
 |--------------------|------------------:|
-| **📏 Ranged 10**   |   **🎯 One ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   |   **🎯 One ally** |
 
 **Trigger:** The target would take damage from an ability that uses a [power roll](../../Browse/rule/dice/power-roll.md).
 
@@ -2193,29 +2193,29 @@ Choose one of the following [triggered actions](../../Browse/rule/combat/trigger
 
 #### Prayer {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer"}
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit Ward](../../Browse/feature/conduit/level-1/conduit-ward.md) below) by praying to your god as a [respite](../../Browse/rule/resource/respite.md) activity. (*Quick Build:* [Prayer of Distance](../../Browse/feature/conduit/level-1/prayer-of-distance.md).)
+Your god answers a prayer with [enhancements](../../Browse/rule/treasure/enhancement.md) to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit Ward](../../Browse/feature/conduit/level-1/conduit-ward.md) below) by praying to your god as a [respite](../../Browse/rule/resource/respite.md) activity. (*Quick Build:* [Prayer of Distance](../../Browse/feature/conduit/level-1/prayer-of-distance.md).)
 
 ##### Prayer of Destruction {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-destruction"}
 
-Your god infuses wrath within your being. You gain a +1 bonus to [rolled damage](../../Browse/rule/damage/rolled-damage.md) with magic abilities.
+Your god infuses wrath within your being. You gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [rolled damage](../../Browse/rule/damage/rolled-damage.md) with magic abilities.
 
 ##### Prayer of Distance {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-distance"}
 
-Your god blesses you with the ability to stretch your divine magic farther. You have a +2 bonus to the [distance](../../Browse/rule/combat/distance.md) of your ranged magic abilities.
+Your god blesses you with the ability to stretch your divine magic farther. You have a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [distance](../../Browse/rule/combat/distance.md) of your [ranged](../../Browse/rule/combat/ranged.md) magic abilities.
 
 ##### Prayer of Soldier's Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-soldiers-skill"}
 
-Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to [Stamina](../../Browse/rule/health/stamina.md), and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../Browse/feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
+Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md), and that [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) with weapon abilities, including [free strikes](../../Browse/feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this blessing.
 
 ##### Prayer of Speed {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-speed"}
 
-Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to [speed](../../Browse/rule/character/speed.md) and to the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md) when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
+Your god blesses your flesh and infuses it with divine quickness. You gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) and to the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md) when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
 
 ##### Prayer of Steel {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-steel"}
 
-Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../Browse/rule/character/stability.md).
+Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md), and this [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md).
 
 #### Conduit Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/conduit-ward"}
 
@@ -2223,19 +2223,19 @@ Your god grants you a ward that protects you from the faithless. Choose one of t
 
 ##### Bastion Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/bastion-ward"}
 
-Your god grants you a holy countenance that protects you at all times. You gain a +1 bonus to [saving throws](../../Browse/rule/general/saving-throw.md).
+Your god grants you a holy countenance that protects you at all times. You gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [saving throws](../../Browse/rule/general/saving-throw.md).
 
 ##### Quickness Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/quickness-ward"}
 
-The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can [shift](../../Browse/movement/shifting.md) up to a number of squares equal to your [Intuition](../../Browse/rule/character/intuition.md) score after the damage is dealt.
+The gods imbue a divine swiftness within you. Whenever an [adjacent](../../Browse/rule/combat/adjacent.md) creature deals damage to you, you can [shift](../../Browse/movement/shifting.md) up to a number of squares equal to your [Intuition](../../Browse/rule/character/intuition.md) score after the damage is dealt.
 
 ##### Sanctuary Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/sanctuary-ward"}
 
-In response to a foe's aggression, your god protects you. Whenever another creature damages you, that creature can't target you with a [strike](../../Browse/rule/combat/strike.md) until you harm them or one of their allies, or until the end of their next turn.
+In response to a foe's aggression, your god protects you. Whenever another creature damages you, that creature can't target you with a [strike](../../Browse/rule/combat/strike.md) until you harm them or one of their allies, or until the end of their next [turn](../../Browse/rule/combat/turn.md).
 
 ##### Spirit Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/spirit-ward"}
 
-Invisible spirits surround you if you are harmed. Whenever an adjacent creature deals damage to you, they take corruption damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
+Invisible spirits surround you if you are harmed. Whenever an [adjacent](../../Browse/rule/combat/adjacent.md) creature deals damage to you, they take corruption damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
 
 #### Conduit Abilities {data-scc="mcdm.heroes.v1/feature.conduit.level-1/conduit-abilities"}
 
@@ -2250,9 +2250,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2267,9 +2267,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *You drain the energy from your target to revitalize yourself or an ally.*
 
-| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
 |--------------------------|--------------------:|
-| **📏 Melee 1**           | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**           | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2284,9 +2284,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *A tendril of divine energy shoots forth to draw in your foe.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2316,9 +2316,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *Divine magic tears at your foe and defends a nearby friend.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2326,16 +2326,16 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 - **12-16:** 4 + I corruption damage
 - **17+:** 6 + I corruption damage
 
-**Effect:** Choose yourself or one ally within [distance](../../Browse/rule/combat/distance.md). That character can impose a [bane](../../Browse/rule/dice/bane.md) on one [power roll](../../Browse/rule/dice/power-roll.md) made against them before the end of their next turn.
+**Effect:** Choose yourself or one ally within [distance](../../Browse/rule/combat/distance.md). That character can impose a [bane](../../Browse/rule/dice/bane.md) on one [power roll](../../Browse/rule/dice/power-roll.md) made against them before the end of their next [turn](../../Browse/rule/combat/turn.md).
 
 ###### Staggering Curse {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/staggering-curse"}
 
 
 *A blast of judgment disorients your foe.*
 
-| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md)**  |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2346,11 +2346,11 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 ###### Warrior's Prayer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/warriors-prayer"}
 
 
-*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
+*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in [melee](../../Browse/rule/combat/melee.md).*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2365,9 +2365,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *A bolt of holy energy saps the life from a foe.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2386,9 +2386,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 ###### Call the Thunder Down {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down"}
 
 
-*You ask your saint for thunder and your prayer is answered.*
+*You ask your [saint](../../Browse/rule/world/saint.md) for thunder and your prayer is answered.*
 
-| **Area, Magic, Ranged** |               **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 3 [cube](../../Browse/rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 
@@ -2405,20 +2405,20 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *A brilliant column of holy light appears on the battlefield, striking out at nearby enemies.*
 
-| **Magic, Ranged**  | **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  | **Main action** |
 |--------------------|----------------:|
-| **📏 Ranged 10**   |  **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   |  **🎯 Special** |
 
-**Effect:** You summon a spirit of [size](../../Browse/rule/character/size.md) 2 who can't be harmed, and who appears in an unoccupied space within [distance](../../Browse/rule/combat/distance.md). The spirit lasts until the end of your next turn. You and your allies can move through the spirit's space, but enemies can't. Any enemy who moves within 2 squares of the spirit for the first time in a combat round or starts their turn there takes holy damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
+**Effect:** You summon a spirit of [size](../../Browse/rule/character/size.md) 2 who can't be harmed, and who appears in an unoccupied space within [distance](../../Browse/rule/combat/distance.md). The spirit lasts until the end of your next [turn](../../Browse/rule/combat/turn.md). You and your allies can move through the spirit's space, but enemies can't. Any enemy who moves within 2 squares of the spirit for the first time in a [combat round](../../Browse/rule/combat/combat-round.md) or starts their turn there takes holy damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
 
 ###### Judgment's Hammer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/judgments-hammer"}
 
 
 *Your divine [fury](../../Browse/class/fury.md) is a hammer that crashes down upon the unrighteous.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2431,9 +2431,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *After some holy lightning, your enemy will think twice about their next attack.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2441,7 +2441,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 6 + I lightning damage
 - **17+:** 9 + I lightning damage
 
-**Effect:** The first time on a turn that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).
+**Effect:** The first time on a [turn](../../Browse/rule/combat/turn.md) that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).
 
 ###### 5-Piety Ability
 
@@ -2452,9 +2452,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Cursed by you, your enemy takes more damage from your allies.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2467,9 +2467,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Fear of divine judgment overwhelms your foe.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  |                      **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  |                      **Main action** |
 |----------------------------|-------------------------------------:|
-| **📏 Ranged 10**           |                  **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           |                  **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2482,9 +2482,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *The heroes' armor glows with golden light, granting divine protection.*
 
-| **Magic, Ranged**        |       **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**        |       **Maneuver** |
 |--------------------------|-------------------:|
-| **📏 Ranged 10**         | **🎯 Four allies** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**         | **🎯 Four allies** |
 
 **Effect:** You can target yourself instead of one ally with this ability.
 
@@ -2497,13 +2497,13 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 ###### Sermon of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/sermon-of-grace"}
 
 
-*You inspire your allies with tales of your saint's great deeds.*
+*You inspire your allies with tales of your [saint](../../Browse/rule/world/saint.md)'s great deeds.*
 
 | **Area, Magic** |              **Main action** |
 |-----------------|-----------------------------:|
 | **📏 4 [burst](../../Browse/rule/combat/burst.md)**  | **🎯 Each ally in the area** |
 
-**Effect:** Each target can spend a [Recovery](../../Browse/rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../../Browse/feature/conduit/level-1/triggered-action.md) to end one effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their turn, or to stand up if [prone](../../Browse/condition/prone.md).
+**Effect:** Each target can spend a [Recovery](../../Browse/rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../../Browse/feature/conduit/level-1/triggered-action.md) to end one effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their [turn](../../Browse/rule/combat/turn.md), or to stand up if [prone](../../Browse/condition/prone.md).
 
 ### 2nd-Level Features
 
@@ -2515,7 +2515,7 @@ Your deity is aware of your growing influence, making it easier to draw their at
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-2/perk"}
 
-You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](perks.md).
+You gain one crafting, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](perks.md).
 
 #### 2nd-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-2/2nd-level-domain-feature"}
 
@@ -2537,7 +2537,7 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 | Love       | [Our Hearts Your Strength](../../Browse/feature/ability/conduit/level-2/our-hearts-your-strength.md)     |
 | Nature     | [Nature Judges Thee](../../Browse/feature/ability/conduit/level-2/nature-judges-thee.md)           |
 | Protection | [Sacred Bond](../../Browse/feature/ability/conduit/level-2/sacred-bond.md)                  |
-| Storm      | Saint's Tempest              |
+| Storm      | [Saint](../../Browse/rule/world/saint.md)'s Tempest              |
 | Sun        | [Morning Light](../../Browse/feature/ability/conduit/level-2/morning-light.md)                |
 | Trickery   | [Divine Comedy](../../Browse/feature/ability/conduit/level-2/divine-comedy.md)                |
 | War        | [Blessing of Insight](../../Browse/feature/ability/conduit/level-2/blessing-of-insight.md)          |
@@ -2547,9 +2547,9 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 
 *Your enemies suffer their fate; your allies embrace their destiny!*
 
-| **Magic, Ranged**  |        **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |        **Main action** |
 |--------------------|-----------------------:|
-| **📏 Ranged 10**   | **🎯 Three creatures** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 Three creatures** |
 
 **Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md):
 
@@ -2561,11 +2561,11 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 
 *The gods grant insight revealing where best to strike your enemies.*
 
-| **Magic, Ranged**  |              **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |              **Maneuver** |
 |--------------------|--------------------------:|
-| **📏 Ranged 10**   | **🎯 Self and each ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 Self and each ally** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each target gains 1 [surge](../../Browse/rule/resource/surge.md) at the end of each of your turns.
+**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each target gains 1 [surge](../../Browse/rule/resource/surge.md) at the end of each of your [turns](../../Browse/rule/combat/turn.md).
 
 ###### Divine Comedy {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/divine-comedy"}
 
@@ -2581,11 +2581,11 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 ###### The Gods Command You Obey {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/the-gods-command-you-obey"}
 
 
-*You speak with the voice of your saint, commanding your enemies.*
+*You speak with the voice of your [saint](../../Browse/rule/world/saint.md), commanding your enemies.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2608,14 +2608,14 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 - **12-16:** 6 fire damage
 - **17+:** 10 fire damage
 
-**Effect:** Each ally in the area deals fire damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score with their next strike made before the end of their next turn.
+**Effect:** Each ally in the area deals fire damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score with their next strike made before the end of their next [turn](../../Browse/rule/combat/turn.md).
 
 ###### Nature Judges Thee {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/nature-judges-thee"}
 
 
 *Mystical thorned vines appear at your bidding and bind your foes.*
 
-| **Area, Magic, Ranged**  |               **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |               **Main action** |
 |--------------------------|------------------------------:|
 | **📏 3 [cube](../../Browse/rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
@@ -2630,31 +2630,31 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 
 *An ally gains strength from their friends.*
 
-| **Magic, Ranged**  |             **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |             **Maneuver** |
 |--------------------|-------------------------:|
-| **📏 Ranged 10**   | **🎯 Self and one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 Self and one ally** |
 
-**Effect:** Until the end of the encounter or until the target is [dying](../../Browse/rule/health/dying.md), at the start of each of the target's turns, they gain a bonus to [speed](../../Browse/rule/character/speed.md) and a bonus to [rolled damage](../../Browse/rule/damage/rolled-damage.md) equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
+**Effect:** Until the end of the encounter or until the target is [dying](../../Browse/rule/health/dying.md), at the start of each of the target's [turns](../../Browse/rule/combat/turn.md), they gain a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) and a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [rolled damage](../../Browse/rule/damage/rolled-damage.md) equal to the number of allies within 10 squares of them. This [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) lasts until the start of their next [turn](../../Browse/rule/combat/turn.md).
 
 ###### Reap {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/reap"}
 
 
 *The gods reward those who smite their foes.*
 
-| **Magic, Ranged**  |     **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |     **Maneuver** |
 |--------------------|-----------------:|
-| **📏 Ranged 10**   | **🎯 Each ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 Each ally** |
 
-**Effect:** Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](../../Browse/rule/health/stamina.md) equal to 5 + your [Intuition](../../Browse/rule/character/intuition.md) score.
+**Effect:** Until the start of your next [turn](../../Browse/rule/combat/turn.md), each time a target kills an enemy, they regain [Stamina](../../Browse/rule/health/stamina.md) equal to 5 + your [Intuition](../../Browse/rule/character/intuition.md) score.
 
 ###### Sacred Bond {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/sacred-bond"}
 
 
 *You forge a divine connection between two creatures.*
 
-| **Magic, Ranged**  |             **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |             **Maneuver** |
 |--------------------|-------------------------:|
-| **📏 Ranged 10**   | **🎯 Self and one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 Self and one ally** |
 
 **Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../../Browse/feature/conduit/level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a [Recovery](../../Browse/rule/health/recoveries.md), the other target can use a free [triggered action](../../Browse/feature/conduit/level-1/triggered-action.md) to spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
@@ -2663,7 +2663,7 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 
 *A raging storm appears, striking your foes with lightning and throwing them around with wind.*
 
-| **Area, Magic, Ranged**  |               **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |               **Main action** |
 |--------------------------|------------------------------:|
 | **📏 3 [cube](../../Browse/rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
@@ -2678,11 +2678,11 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 
 *A marble statue of your deity rises from the earth.*
 
-| **Magic, Ranged**  |   **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |   **Maneuver** |
 |--------------------|---------------:|
-| **📏 Ranged 10**   | **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 Special** |
 
-**Effect:** A [size](../../Browse/rule/character/size.md) 2 statue rises out of the ground in an unoccupied space within [distance](../../Browse/rule/combat/distance.md) and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 [surge](../../Browse/rule/resource/surge.md) at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
+**Effect:** A [size](../../Browse/rule/character/size.md) 2 statue rises out of the ground in an unoccupied space within [distance](../../Browse/rule/combat/distance.md) and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 [surge](../../Browse/rule/resource/surge.md) at the start of each of your [turns](../../Browse/rule/combat/turn.md). Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
 
 ###### Wellspring of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/wellspring-of-grace"}
 
@@ -2693,7 +2693,7 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 |------------------|-----------------------------:|
 | **📏 3 [aura](../../Browse/rule/combat/aura.md)**    | **🎯 Each ally in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), whenever a target starts their turn in the area, they can spend a [Recovery](../../Browse/rule/health/recoveries.md).
+**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), whenever a target starts their [turn](../../Browse/rule/combat/turn.md) in the area, they can spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
 ### 3rd-Level Features
 
@@ -2714,7 +2714,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your divine magic makes a creature appear as what your enemies fear most.*
 
-| **Area, Magic, Ranged**  |               **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |               **Main action** |
 |--------------------------|------------------------------:|
 | **📏 5 [cube](../../Browse/rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
@@ -2731,9 +2731,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *An ally becomes the wearer of an empowered golden cloak.*
 
-| **Magic, Ranged**         |    **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**         |    **Maneuver** |
 |---------------------------|----------------:|
-| **📏 Ranged 10**          | **🎯 One ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 One ally** |
 
 **Effect:** The target gains 20 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) and 3 [surges](../../Browse/rule/resource/surge.md).
 
@@ -2742,9 +2742,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *A beam of energy connects a foe to a friend, draining life from one to heal the other.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |  **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |  **Main action** |
 |---------------------------|-----------------:|
-| **📏 Ranged 10**          | **🎯 One enemy** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 One enemy** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2757,7 +2757,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 ##### Words of Wrath and Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/words-of-wrath-and-grace"}
 
 
-*Your saint grants your enemies a vision of pain and fills your allies with healing energy.*
+*Your [saint](../../Browse/rule/world/saint.md) grants your enemies a vision of pain and fills your allies with healing energy.*
 
 | **Area, Magic**  |               **Main action** |
 |------------------|------------------------------:|
@@ -2802,7 +2802,7 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Creation   | Improved [Hands of the Maker](../../Browse/feature/ability/censor/level-1/hands-of-the-maker.md) |
 | Death      | Seance                      |
 | Fate       | [Oracular Warning](../../Browse/feature/censor/level-4/oracular-warning.md)            |
-| Knowledge  | Saint's Epiphany            |
+| Knowledge  | [Saint](../../Browse/rule/world/saint.md)'s Epiphany            |
 | Life       | [Blessing of Life](../../Browse/feature/censor/level-4/blessing-of-life.md)            |
 | Love       | Invocation of the Heart     |
 | Nature     | [Wode Road](../../Browse/feature/censor/level-4/wode-road.md)                   |
@@ -2843,7 +2843,7 @@ When you use your [Hands of the Maker](../../Browse/feature/ability/censor/level
 
 ###### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](../../Browse/feature/censor/level-1/sanctified-weapon.md) feature grants a +3 bonus to [rolled damage](../../Browse/rule/damage/rolled-damage.md) instead of +1.
+The weapon improved by your [Sanctified Weapon](../../Browse/feature/censor/level-1/sanctified-weapon.md) feature grants a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [rolled damage](../../Browse/rule/damage/rolled-damage.md) instead of +1.
 
 ###### Invocation of the Heart
 
@@ -2851,7 +2851,7 @@ As a main action, you forge a bond of love and friendship with a willing creatur
 
 ###### Light of Revelation
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to notice hidden objects and entrances and to detect [supernatural](../../Browse/rule/general/supernatural.md) illusions.
 
 ###### Oracular Warning
 
@@ -2867,7 +2867,7 @@ At the start of a [respite](../../Browse/rule/resource/respite.md), you can insp
 
 ###### Windwalk
 
-While you have 5 or more [Victories](../../Browse/rule/resource/victories.md), you can [fly](../../Browse/movement/fly.md). If you can already [fly](../../Browse/movement/fly.md), you have a +2 bonus to [speed](../../Browse/rule/character/speed.md) while [flying](../../Browse/movement/fly.md) instead.
+While you have 5 or more [Victories](../../Browse/rule/resource/victories.md), you can [fly](../../Browse/movement/fly.md). If you can already [fly](../../Browse/movement/fly.md), you have a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) while [flying](../../Browse/movement/fly.md) instead.
 
 ###### Wode Road
 
@@ -2890,9 +2890,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You ignite a foe with holy radiance, rewarding allies who attack them.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -2907,7 +2907,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *"If you won't kneel, the gods will make you."*
 
-| **Area, Magic, Ranged**  |               **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |               **Main action** |
 |--------------------------|------------------------------:|
 | **📏 4 [cube](../../Browse/rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
@@ -2922,20 +2922,20 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You send yourself or an ally to a divine manifold to instantaneously regain health.*
 
-| **Magic, Ranged**  |            **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |            **Maneuver** |
 |--------------------|------------------------:|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
-**Effect:** The target is removed from the encounter map until the start of their next turn and can spend any number of [Recoveries](../../Browse/rule/health/recoveries.md). At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.
+**Effect:** The target is removed from the encounter map until the start of their next [turn](../../Browse/rule/combat/turn.md) and can spend any number of [Recoveries](../../Browse/rule/health/recoveries.md). At the start of their [turn](../../Browse/rule/combat/turn.md), the target reappears in the space they left or the nearest unoccupied space of their choice.
 
 ##### Vessel of Retribution {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-5/vessel-of-retribution"}
 
 
 *You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.*
 
-| **Magic, Ranged**  | **Maneuver**            |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  | **Maneuver**            |
 |--------------------|-------------------------|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
 **Effect:** The first time the target is [dying](../../Browse/rule/health/dying.md) or [winded](../../Browse/rule/health/winded.md) before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.
 
@@ -2954,7 +2954,7 @@ You are infused with the power your deity reserves for their most worthy instrum
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-6/perk"}
 
-You gain one crafting, lore, or supernatural perk of your choice.
+You gain one crafting, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice.
 
 #### 6th-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-6/6th-level-domain-ability"}
 
@@ -2986,16 +2986,16 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 |------------------|---------------------------------:|
 | **📏 4 [aura](../../Browse/rule/combat/aura.md)**    | **🎯 Each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your [Intuition](../../Browse/rule/character/intuition.md) score. This [forced movement](../../Browse/movement/forced-movement.md) ignores [stability](../../Browse/rule/character/stability.md) for your allies.
+**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), at the end of each of your [turns](../../Browse/rule/combat/turn.md), you can slide each creature in the area up to a number of squares equal to your [Intuition](../../Browse/rule/character/intuition.md) score. This [forced movement](../../Browse/movement/forced-movement.md) ignores [stability](../../Browse/rule/character/stability.md) for your allies.
 
 ###### Blade of the Heavens {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/blade-of-the-heavens"}
 
 
 *A greatsword streams down from the sky, threatening to pin your foe.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 5**            | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 5**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -3012,29 +3012,29 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 |------------------|------------------------------------------:|
 | **📏 4 [aura](../../Browse/rule/combat/aura.md)**    | **🎯 Self and each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each enemy in the area takes a [bane](../../Browse/rule/dice/bane.md) on [power rolls](../../Browse/rule/dice/power-roll.md), and you and each ally in the area gain 1 [surge](../../Browse/rule/resource/surge.md) at the end of each of your turns.
+**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each enemy in the area takes a [bane](../../Browse/rule/dice/bane.md) on [power rolls](../../Browse/rule/dice/power-roll.md), and you and each ally in the area gain 1 [surge](../../Browse/rule/resource/surge.md) at the end of each of your [turns](../../Browse/rule/combat/turn.md).
 
 ###### Cuirass of the Gods {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/cuirass-of-the-gods"}
 
 
 *Your allies are covered in spiritual armor.*
 
-| **Area, Magic, Ranged**  |           **Maneuver** | 
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |           **Maneuver** | 
 |--------------------------|-----------------------:|
-| **📏 Ranged 10**         | **🎯 Three creatures** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**         | **🎯 Three creatures** |
 
-**Effect:** You can target yourself instead of one creature with this ability. Each target has [damage immunity](../../Browse/rule/damage/damage-immunity.md) 5 until the start of your next turn.
+**Effect:** You can target yourself instead of one creature with this ability. Each target has [damage immunity](../../Browse/rule/damage/damage-immunity.md) 5 until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
 ###### Gods' Machine {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/gods-machine"}
 
 
 *You conjure a whirring tank made of blades and metal.*
 
-| **Magic, Ranged** | **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** | **Main action** |
 |-------------------|-----------------|
-| **📏 Ranged 10**  | **🎯 Special**  |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 Special**  |
 
-**Effect:** You conjure a [size](../../Browse/rule/character/size.md) 2 rolling machine that appears in an unoccupied space within [distance](../../Browse/rule/combat/distance.md). The machine has 50 [Stamina](../../Browse/rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../../Browse/rule/health/stamina.md) drops to 0, or if you are [dying](../../Browse/rule/health/dying.md). When the machine first appears, make the following [power roll](../../Browse/rule/dice/power-roll.md) once, targeting each enemy adjacent to it.
+**Effect:** You conjure a [size](../../Browse/rule/character/size.md) 2 rolling machine that appears in an unoccupied space within [distance](../../Browse/rule/combat/distance.md). The machine has 50 [Stamina](../../Browse/rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../../Browse/rule/health/stamina.md) drops to 0, or if you are [dying](../../Browse/rule/health/dying.md). When the machine first appears, make the following [power roll](../../Browse/rule/dice/power-roll.md) once, targeting each enemy [adjacent](../../Browse/rule/combat/adjacent.md) to it.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -3042,7 +3042,7 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 - **12-16:** 5 damage
 - **17+:** 8 damage
 
-Once on each subsequent turn, you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to move the machine a number of squares up to your [Intuition](../../Browse/rule/character/intuition.md) score then repeat the [power roll](../../Browse/rule/dice/power-roll.md).
+Once on each subsequent [turn](../../Browse/rule/combat/turn.md), you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to move the machine a number of squares up to your [Intuition](../../Browse/rule/character/intuition.md) score then repeat the [power roll](../../Browse/rule/dice/power-roll.md).
 
 ###### Invocation of Mystery {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-mystery"}
 
@@ -3053,7 +3053,7 @@ Once on each subsequent turn, you can use a [free maneuver](../../Browse/rule/co
 |------------------|--------------------------------------:|
 | **📏 4 [burst](../../Browse/rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target is invisible until the start of your next turn.
+**Effect:** Each target is invisible until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
 ###### Invocation of Undoing {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-undoing"}
 
@@ -3077,9 +3077,9 @@ Once on each subsequent turn, you can use a [free maneuver](../../Browse/rule/co
 
 *You beseech the gods to give your allies what they need to win the day, and the gods answer.*
 
-| **Magic, Ranged**  |      **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |      **Maneuver** |
 |--------------------|------------------:|
-| **📏 Ranged 10**   | **🎯 Two allies** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 Two allies** |
 
 **Effect:** Each target gains 3 of their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
@@ -3109,14 +3109,14 @@ Once on each subsequent turn, you can use a [free maneuver](../../Browse/rule/co
 |------------------|--------------------------------------:|
 | **📏 4 [burst](../../Browse/rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can spend any number of [Recoveries](../../Browse/rule/health/recoveries.md). Additionally, each target can end one effect on themself that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their turn, or they can stand up if [prone](../../Browse/condition/prone.md).
+**Effect:** Each target can spend any number of [Recoveries](../../Browse/rule/health/recoveries.md). Additionally, each target can end one effect on themself that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their [turn](../../Browse/rule/combat/turn.md), or they can stand up if [prone](../../Browse/condition/prone.md).
 
 ###### Spirit Stampede {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/spirit-stampede"}
 
 
 *Animal spirits run through the battlefield, trampling your foes.*
 
-| **Area, Magic, Ranged**     |               **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)**     |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 10 x 2 line within 5** | **🎯 Each enemy in the area** |
 
@@ -3131,9 +3131,9 @@ Once on each subsequent turn, you can use a [free maneuver](../../Browse/rule/co
 
 *You bend the fate of a foe, willing them to die.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -3153,7 +3153,7 @@ Each of your [characteristic](../../Browse/rule/character/characteristic.md) sco
 
 #### Faithful's Reward {data-scc="mcdm.heroes.v1/feature.conduit.level-7/faithfuls-reward"}
 
-When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 piety.
+When you roll for piety at the start of your [turn](../../Browse/rule/combat/turn.md) in combat, you gain 1d3 + 1 piety.
 
 #### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-7/skill"}
 
@@ -3193,9 +3193,9 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 
 *You concentrate on a friend and [teleport](../../Browse/movement/teleport.md) to them.*
 
-| **Magic, Ranged**  |           **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |           **Main action** |
 |--------------------|--------------------------:|
-| **📏 Ranged 10**   | **🎯 Self and each ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 Self and each ally** |
 
 **Effect:** Each target is [teleport](../../Browse/movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need [line of effect](../../Browse/rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world.
 
@@ -3205,7 +3205,7 @@ Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can
 
 ##### Font of Grace {data-scc="mcdm.heroes.v1/feature.conduit.level-7/font-of-grace"}
 
-Each time you use your [Healing Grace](../../Browse/feature/ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../../Browse/feature/conduit/level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](../../Browse/feature/ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same [turn](../../Browse/rule/combat/turn.md). If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../../Browse/feature/conduit/level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
 
 ##### Gods' Library {data-scc="mcdm.heroes.v1/feature.conduit.level-7/gods-library"}
 
@@ -3221,15 +3221,15 @@ When you finish a [respite](../../Browse/rule/resource/respite.md), you can prep
 
 - Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different [damage immunity](../../Browse/rule/damage/damage-immunity.md) each time.
 - Each creature gains 20 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
-- Each creature gains a +1 bonus to [speed](../../Browse/rule/character/speed.md).
-- Each creature gains a +1 bonus to [saving throws](../../Browse/rule/general/saving-throw.md).
+- Each creature gains a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md).
+- Each creature gains a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [saving throws](../../Browse/rule/general/saving-throw.md).
 - Each creature gains an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to influence other creatures.
 
 Each benefit lasts until the creature who gains it finishes another [respite](../../Browse/rule/resource/respite.md).
 
 ##### Thunderstruck {data-scc="mcdm.heroes.v1/feature.conduit.level-7/thunderstruck"}
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 [surge](../../Browse/rule/resource/surge.md). Additionally, if you use an ability that force moves a creature, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
+Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 [surge](../../Browse/rule/resource/surge.md). Additionally, if you use an ability that force moves a creature, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
 
 ##### Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.conduit.level-7/trinity-of-trickery"}
 
@@ -3240,11 +3240,11 @@ You have the following ability.
 
 *Hey! I'm over here. No, here, numbskull.*
 
-| **Magic, Ranged**  |            **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |            **Maneuver** |
 |--------------------|------------------------:|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
-**Effect:** You create two illusory duplicates of the target, which appear anywhere within [distance](../../Browse/rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their [speed](../../Browse/rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../../Browse/feature/conduit/level-1/triggered-action.md) to switch places with a duplicate within their [line of effect](../../Browse/rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+**Effect:** You create two illusory duplicates of the target, which appear anywhere within [distance](../../Browse/rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their [turns](../../Browse/rule/combat/turn.md), the target can move each duplicate up to their [speed](../../Browse/rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../../Browse/feature/conduit/level-1/triggered-action.md) to switch places with a duplicate within their [line of effect](../../Browse/rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 
 ##### Word of Death Deferred {data-scc="mcdm.heroes.v1/feature.conduit.level-7/word-of-death-deferred"}
 
@@ -3281,11 +3281,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.*
 
-| **Magic, Ranged**  |         **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |         **Main action** |
 |--------------------|------------------------:|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
-**Effect:** The target can spend any number of [Recoveries](../../Browse/rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that end at the end of their turn, and can stand up if they [are prone](../../Browse/condition/prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are [dying](../../Browse/rule/health/dying.md), the target gains 3 [surges](../../Browse/rule/resource/surge.md).
+**Effect:** The target can spend any number of [Recoveries](../../Browse/rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that end at the end of their [turn](../../Browse/rule/combat/turn.md), and can stand up if they [are prone](../../Browse/condition/prone.md). Additionally, at the start of each of their [turns](../../Browse/rule/combat/turn.md) until the end of the encounter or until they are [dying](../../Browse/rule/health/dying.md), the target gains 3 [surges](../../Browse/rule/resource/surge.md).
 
 ##### Blessing of Steel {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-steel"}
 
@@ -3307,16 +3307,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------------|--------------------------------------:|
 | **📏 5 [aura](../../Browse/rule/combat/aura.md)**     | **🎯 Self and each ally in the area** |
 
-**Effect:** At the end of each of your turns until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each target gains 3 [surges](../../Browse/rule/resource/surge.md).
+**Effect:** At the end of each of your [turns](../../Browse/rule/combat/turn.md) until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each target gains 3 [surges](../../Browse/rule/resource/surge.md).
 
 ##### Drag the Unworthy {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/drag-the-unworthy"}
 
 
 *You conjure an angel who moves a foe and heals your allies.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -3324,7 +3324,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 13 + I holy damage; slide 4
 - **17+:** 18 + I holy damage; slide 6
 
-**Effect:** Each ally the target comes adjacent to during the [forced movement](../../Browse/movement/forced-movement.md) can spend a [Recovery](../../Browse/rule/health/recoveries.md).
+**Effect:** Each ally the target comes [adjacent](../../Browse/rule/combat/adjacent.md) to during the [forced movement](../../Browse/movement/forced-movement.md) can spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
 ### 9th-Level Features
 
@@ -3364,20 +3364,20 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 
 *You speak inspiring words to a friend and spur them to incredible feats.*
 
-| **Magic, Ranged**  |    **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |    **Maneuver** |
 |--------------------|----------------:|
-| **📏 Ranged 10** | **🎯 One ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 One ally** |
 
-**Effect:** The target has an additional main action they can use on their next turn, and gains 3 of their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
+**Effect:** The target has an additional main action they can use on their next [turn](../../Browse/rule/combat/turn.md), and gains 3 of their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
 ###### Bend Fate {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/bend-fate"}
 
 
 *The gods know you must prevail, and they bless your fate.*
 
-| **Magic, Ranged**  |         **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |         **Main action** |
 |--------------------|------------------------:|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
 **Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each of the target's [power rolls](../../Browse/rule/dice/power-roll.md) has its outcome improved by one tier.
 
@@ -3397,13 +3397,13 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 
 *From nothing but divine will, you create a powerful ally.*
 
-| **Magic, Ranged**  | **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  | **Main action** |
 |--------------------|----------------:|
-| **📏 Ranged 10**   |  **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   |  **🎯 Special** |
 
 **Effect:** You conjure a [size](../../Browse/rule/character/size.md) 4 dragon that appears in an unoccupied space within [distance](../../Browse/rule/combat/distance.md). The dragon has [speed](../../Browse/rule/character/speed.md) 6 and can [fly](../../Browse/movement/fly.md), [stability](../../Browse/rule/character/stability.md) 4, 100 [Stamina](../../Browse/rule/health/stamina.md), immunity all to fire damage, and uses your [characteristics](../../Browse/rule/character/characteristic.md). The dragon disappears at the end of the encounter, if their [Stamina](../../Browse/rule/health/stamina.md) drops to 0, or if you are [dying](../../Browse/rule/health/dying.md).
 
-On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 [cube](../../Browse/rule/combat/cube.md) within 1 square of them. Make the following [power roll](../../Browse/rule/dice/power-roll.md) targeting each enemy in the area.
+On subsequent [turns](../../Browse/rule/combat/turn.md), you can use a main action to command the dragon to breathe magic fire in a 3 [cube](../../Browse/rule/combat/cube.md) within 1 square of them. Make the following [power roll](../../Browse/rule/dice/power-roll.md) targeting each enemy in the area.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -3411,7 +3411,7 @@ On subsequent turns, you can use a main action to command the dragon to breathe 
 - **12-16:** 9 fire damage
 - **17+:** 12 fire damage
 
-Additionally, you can use a maneuver to move the dragon up to their [speed](../../Browse/rule/character/speed.md), or to make a melee weapon [strike](../../Browse/rule/combat/strike.md) with their claw against an adjacent creature or object. The dragon can also make this [strike](../../Browse/rule/combat/strike.md) as a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+Additionally, you can use a maneuver to move the dragon up to their [speed](../../Browse/rule/character/speed.md), or to make a [melee](../../Browse/rule/combat/melee.md) weapon [strike](../../Browse/rule/combat/strike.md) with their claw against an [adjacent](../../Browse/rule/combat/adjacent.md) creature or object. The dragon can also make this [strike](../../Browse/rule/combat/strike.md) as a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -3424,7 +3424,7 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../.
 
 *You summon a divine storm that remains under your control.*
 
-| **Area, Magic, Ranged** |               **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 5 [cube](../../Browse/rule/combat/cube.md) within 5**  | **🎯 Each enemy in the area** |
 
@@ -3434,14 +3434,14 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../.
 - **12-16:** 3 lightning damage, 3 sonic damage
 - **17+:** 5 lightning damage, 5 sonic damage
 
-**Effect:** A raging storm fills the area until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md). At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its [power roll](../../Browse/rule/dice/power-roll.md).
+**Effect:** A raging storm fills the area until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md). At the start of each of your [turns](../../Browse/rule/combat/turn.md), you can move the storm up to 5 squares (no action required). On subsequent [turns](../../Browse/rule/combat/turn.md) while the storm is active, you can use a maneuver to make its [power roll](../../Browse/rule/dice/power-roll.md).
 
 ###### Night Falls {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/night-falls"}
 
 
 *You summon darkness that thwarts only your foes.*
 
-| **Area, Magic, Ranged** |  **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |  **Main action** |
 |-------------------------|-----------------:|
 | **📏 5 [cube](../../Browse/rule/combat/cube.md) within 10** |   **🎯 Special** |
 
@@ -3452,29 +3452,29 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../.
 
 *Intense light is emitted from your body, healing your allies.*
 
-| **Magic, Ranged**  |    **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |    **Main action** |
 |--------------------|-------------------:|
-| **📏 Ranged 10**   | **🎯 Four allies** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 Four allies** |
 
-**Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of [Recoveries](../../Browse/rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that end at the end of their turn, and can stand up if they [are prone](../../Browse/condition/prone.md).
+**Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of [Recoveries](../../Browse/rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that end at the end of their [turn](../../Browse/rule/combat/turn.md), and can stand up if they [are prone](../../Browse/condition/prone.md).
 
 ###### Righteous Phalanx {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/righteous-phalanx"}
 
 
 *A wall of spinning swords and knives appears where you wish.*
 
-| **Area, Magic, Ranged**  | **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  | **Main action** |
 |--------------------------|----------------:|
 | **📏 15 wall within 10** |  **🎯 Special** |
 
-**Effect:** The wall lasts until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 15 damage.
+**Effect:** The wall lasts until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a [combat round](../../Browse/rule/combat/combat-round.md) or starts their turn there takes 15 damage.
 
 ###### Solar Flare {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/solar-flare"}
 
 
 *You call down a sphere of fire that burns your foes to ash.*
 
-| **Area, Magic, Ranged** |               **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 5 [cube](../../Browse/rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 
@@ -3489,9 +3489,9 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../.
 
 *Vines [burst](../../Browse/rule/combat/burst.md) forth from the ground and bind your foe, slowly closing around them.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -3499,16 +3499,16 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../.
 - **12-16:** 15 + I damage; A < AVERAGE, [restrained](../../Browse/condition/restrained.md) (save ends)
 - **17+:** 21 + I damage; A < STRONG, [restrained](../../Browse/condition/restrained.md) (save ends)
 
-**Effect:** While [restrained](../../Browse/condition/restrained.md) this way, the target takes 10 damage at the start of each of your turns.
+**Effect:** While [restrained](../../Browse/condition/restrained.md) this way, the target takes 10 damage at the start of each of your [turns](../../Browse/rule/combat/turn.md).
 
 ###### Word of Final Redemption {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/word-of-final-redemption"}
 
 
 *Your death will fuel our [victory](../../Browse/rule/resource/victories.md).*
 
-| **Magic, Ranged**  |  **Free triggered** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |  **Free triggered** |
 |--------------------|--------------------:|
-| **📏 Ranged 10**   | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**   | **🎯 One creature** |
 
 **Trigger:** The target dies.
 
@@ -3519,9 +3519,9 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../.
 
 *You utter a divine word that makes a foe brittle.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -3555,11 +3555,11 @@ Additionally, you can spend [divine power](../../Browse/feature/conduit/level-10
 
 #### Most Pious {data-scc="mcdm.heroes.v1/feature.conduit.level-10/most-pious"}
 
-When you roll for piety at the start of your turn in combat and you pray, you gain 1 additional piety.
+When you roll for piety at the start of your [turn](../../Browse/rule/combat/turn.md) in combat and you pray, you gain 1 additional piety.
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-10/perk"}
 
-You gain one crafting, lore, or supernatural perk of your choice.
+You gain one crafting, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice.
 
 #### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-10/skill"}
 
@@ -3633,11 +3633,11 @@ You choose an [elemental specialization](../../Browse/feature/elementalist/level
 
 ##### Earth: Acolyte of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/earth-acolyte-of-earth"}
 
-You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](../../Browse/rule/character/stability.md) increases by 1 until the start of your next turn. This benefit is cumulative.
+You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](../../Browse/rule/character/stability.md) increases by 1 until the start of your next [turn](../../Browse/rule/combat/turn.md). This benefit is cumulative.
 
 ##### Fire: Acolyte of Fire {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/fire-acolyte-of-fire"}
 
-You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to [rolled damage](../../Browse/rule/damage/rolled-damage.md). Your [Hurl Element](../../Browse/feature/ability/elementalist/level-1/hurl-element.md) ability (see below) also gains this bonus when you use it to deal fire damage.
+You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [rolled damage](../../Browse/rule/damage/rolled-damage.md). Your [Hurl Element](../../Browse/feature/ability/elementalist/level-1/hurl-element.md) ability (see below) also gains this [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) when you use it to deal fire damage.
 
 ##### Green: Acolyte of the Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/green-acolyte-of-the-green"}
 
@@ -3645,7 +3645,7 @@ You harness the residual magic from your green spells to bolster yourself and yo
 
 ##### Void: Acolyte of the Mystery {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/void-acolyte-of-the-mystery"}
 
-You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The [distance](../../Browse/rule/combat/distance.md) of all your abilities that have the Magic, Ranged, and Void keywords increases by 2 squares.
+You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The [distance](../../Browse/rule/combat/distance.md) of all your abilities that have the Magic, [Ranged](../../Browse/rule/combat/ranged.md), and Void keywords increases by 2 squares.
 
 #### Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/essence"}
 
@@ -3653,9 +3653,9 @@ You channel the substance of creation in the form of a [Heroic Resource](../../B
 
 ##### Essence in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain essence equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your turns during combat, you gain 2 essence.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../Browse/rule/combat/combat-round.md) (as determined by the Director), you gain essence equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 2 essence.
 
-Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 essence.
+Additionally, the first time each [combat round](../../Browse/rule/combat/combat-round.md) that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 essence.
 
 You lose any remaining essence at the end of the encounter.
 
@@ -3669,16 +3669,16 @@ When you use an ability outside of combat that lets you spend unlimited essence 
 
 #### Hurl Element {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/hurl-element"}
 
-You have the following ability, which can be used as a ranged [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+You have the following ability, which can be used as a [ranged](../../Browse/rule/combat/ranged.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 ##### Hurl Element {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/hurl-element"}
 
 
 *You cast a ball of elemental energy at a foe.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -3690,13 +3690,13 @@ You have the following ability, which can be used as a ranged [free strike](../.
 
 #### Persistent Magic {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/persistent-magic"}
 
-Some of your [heroic abilities](../../Browse/rule/general/heroic-ability.md) have a persistent effect entry. For example, the [Instantaneous Excavation](../../Browse/feature/ability/elementalist/level-1/instantaneous-excavation.md) ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
+Some of your [heroic abilities](../../Browse/rule/general/heroic-ability.md) have a persistent effect entry. For example, the [Instantaneous Excavation](../../Browse/feature/ability/elementalist/level-1/instantaneous-excavation.md) ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your [turn](../../Browse/rule/combat/turn.md) by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
 
-You can't maintain any abilities that would make you earn a negative amount of essence at the start of your turn. You can stop maintaining an ability at any time (no action required).
+You can't maintain any abilities that would make you earn a negative amount of essence at the start of your [turn](../../Browse/rule/combat/turn.md). You can stop maintaining an ability at any time (no action required).
 
 If you maintain the same ability on several targets and the effect includes a [power roll](../../Browse/rule/dice/power-roll.md), you make that roll once and apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.
 
-If you take damage equal to or greater than 5 times your [Reason](../../Browse/rule/character/reason.md) score in one turn, you stop maintaining any persistent abilities. For instance, if you have a [Reason](../../Browse/rule/character/reason.md) score of 2 and are maintaining [Instantaneous Excavation](../../Browse/feature/ability/elementalist/level-1/instantaneous-excavation.md), taking 10 or more damage in one turn causes you to stop maintaining the ability.
+If you take damage equal to or greater than 5 times your [Reason](../../Browse/rule/character/reason.md) score in one [turn](../../Browse/rule/combat/turn.md), you stop maintaining any persistent abilities. For instance, if you have a [Reason](../../Browse/rule/character/reason.md) score of 2 and are maintaining [Instantaneous Excavation](../../Browse/feature/ability/elementalist/level-1/instantaneous-excavation.md), taking 10 or more damage in one [turn](../../Browse/rule/combat/turn.md) causes you to stop maintaining the ability.
 
 #### Practical Magic {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/practical-magic"}
 
@@ -3732,7 +3732,7 @@ Your [elemental specialization](../../Browse/feature/elementalist/level-1/elemen
 
 ##### A Beyonding of Vision {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/a-beyonding-of-vision"}
 
-You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.
+You instantly recognize illusions for what they are, you can see invisible creatures, and [supernatural](../../Browse/rule/general/supernatural.md) effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.
 
 You also gain the following ability.
 
@@ -3741,11 +3741,11 @@ You also gain the following ability.
 
 *You grant allies a taste of your unearthly vision.*
 
-| **Magic, Ranged, Void** |    **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), Void** |    **Maneuver** |
 |-------------------------|----------------:|
-| **📏 Ranged 10**        |  **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**        |  **🎯 Special** |
 
-**Effect:** For each [Victory](../../Browse/rule/resource/victories.md) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](../../Browse/feature/elementalist/level-1/a-beyonding-of-vision.md) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../../Browse/feature/ability/elementalist/level-1/shared-void-sense.md) ability.
+**Effect:** For each [Victory](../../Browse/rule/resource/victories.md) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](../../Browse/feature/elementalist/level-1/a-beyonding-of-vision.md) feature until the end of your next [turn](../../Browse/rule/combat/turn.md), but doesn't gain the use of the [Shared Void Sense](../../Browse/feature/ability/elementalist/level-1/shared-void-sense.md) ability.
 
 ##### It Is the Soul Which Hears {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/it-is-the-soul-which-hears"}
 
@@ -3762,9 +3762,9 @@ You have the following ability.
 
 *The earth rises, falls, or opens up at your command.*
 
-| **Earth, Magic, Melee** | **Main action** |
+| **Earth, Magic, [Melee](../../Browse/rule/combat/melee.md)** | **Main action** |
 |-------------------------|----------------:|
-| **📏 Melee 1**          |  **🎯 Special** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**          |  **🎯 Special** |
 
 **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
 
@@ -3779,9 +3779,9 @@ You have the following ability.
 
 *With the merest touch, you cause an object to turn to slag or ash.*
 
-| **Fire, Magic, Melee**  |           **Main action** |
+| **Fire, Magic, [Melee](../../Browse/rule/combat/melee.md)**  |           **Main action** |
 |-------------------------|--------------------------:|
-| **📏 Melee 1**          | **🎯 One mundane object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**          | **🎯 One mundane object** |
 
 **Effect:** You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.
 
@@ -3803,11 +3803,11 @@ Your [elemental specialization](../../Browse/feature/elementalist/level-1/elemen
 
 *The power you channel grants the ability to get back in the fight.*
 
-| **Green, Magic, Ranged**          |           **Triggered** |
+| **Green, Magic, [Ranged](../../Browse/rule/combat/ranged.md)**          |           **Triggered** |
 |-----------------------------------|------------------------:|
-| **📏 Ranged 10**                  | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                  | **🎯 Self or one ally** |
 
-**Trigger:** The target starts their turn or takes damage.
+**Trigger:** The target starts their [turn](../../Browse/rule/combat/turn.md) or takes damage.
 
 **Effect:** The target can spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
@@ -3818,24 +3818,24 @@ Your [elemental specialization](../../Browse/feature/elementalist/level-1/elemen
 
 *You add a little magic to an ally's aggression at just the right time.*
 
-| **Fire, Magic, Ranged**  |           **Triggered** |
+| **Fire, Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |           **Triggered** |
 |--------------------------|------------------------:|
-| **📏 Ranged 10**         | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**         | **🎯 Self or one ally** |
 
 **Trigger:** The target [force move](../../Browse/movement/forced-movement.md)s a creature or object. 
 
-**Effect:** The [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Reason](../../Browse/rule/character/reason.md) score.
+**Effect:** The [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
-**Spend 1 Essence:** The [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to twice your [Reason](../../Browse/rule/character/reason.md) score instead.
+**Spend 1 Essence:** The [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to twice your [Reason](../../Browse/rule/character/reason.md) score instead.
 
 ###### Skin Like Castle Walls {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/skin-like-castle-walls"}
 
 
 *You cover yourself or an ally in protective stone.*
 
-| **Earth, Magic, Ranged**  |           **Triggered** |
+| **Earth, Magic, [Ranged](../../Browse/rule/combat/ranged.md)**  |           **Triggered** |
 |---------------------------|------------------------:|
-| **📏 Ranged 10**          | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 Self or one ally** |
 
 **Trigger:** The target takes damage.
 
@@ -3848,11 +3848,11 @@ Your [elemental specialization](../../Browse/feature/elementalist/level-1/elemen
 
 *You call on the void to swallow and spit out an ally.*
 
-| **Magic, Ranged, Void**  |           **Triggered** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), Void**  |           **Triggered** |
 |--------------------------|------------------------:|
-| **📏 Ranged 10**         | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**         | **🎯 Self or one ally** |
 
-**Trigger:** The target starts their turn, moves, or is [force moved](../../Browse/movement/forced-movement.md). 
+**Trigger:** The target starts their [turn](../../Browse/rule/combat/turn.md), moves, or is [force moved](../../Browse/movement/forced-movement.md). 
 
 **Effect:** You [teleport](../../Browse/movement/teleport.md) the target up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score. If the target moves to trigger this ability, you can [teleport](../../Browse/movement/teleport.md) them at any point during the move.
 
@@ -3864,25 +3864,25 @@ You weave an elemental [enchantment](../../Browse/feature/elementalist/level-1/e
 
 ##### Enchantment of Battle {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-battle"}
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to [Stamina](../../Browse/rule/health/stamina.md), and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../Browse/feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md), and that [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) with weapon abilities, including [free strikes](../../Browse/feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this [enchantment](../../Browse/feature/elementalist/level-1/enchantment.md).
 
 ##### Enchantment of Celerity {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-celerity"}
 
-You gain a +1 bonus to [speed](../../Browse/rule/character/speed.md) and to the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md) when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
+You gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) and to the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md) when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
 
 ##### Enchantment of Destruction {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-destruction"}
 
-You gain a +1 bonus to [rolled damage](../../Browse/rule/damage/rolled-damage.md) with magic abilities.
+You gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [rolled damage](../../Browse/rule/damage/rolled-damage.md) with magic abilities.
 
 ##### Enchantment of Distance {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-distance"}
 
-You have a +2 bonus to the [distance](../../Browse/rule/combat/distance.md) of your ranged magic abilities.
+You have a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [distance](../../Browse/rule/combat/distance.md) of your [ranged](../../Browse/rule/combat/ranged.md) magic abilities.
 
 ##### Enchantment of Permanence {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-permanence"}
 
-You gain a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../Browse/rule/character/stability.md).
+You gain a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md), and this [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md).
 
 #### Elementalist Ward {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-ward"}
 
@@ -3902,7 +3902,7 @@ The green energy writhing within your body allows you to produce powerful vines 
 
 ##### Ward of Surprising Reactivity {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-surprising-reactivity"}
 
-You use the magic of fire to create a ward of explosive energy. Whenever an adjacent creature deals damage to you, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to push that creature up to a number of squares equal to twice your [Reason](../../Browse/rule/character/reason.md) score.
+You use the magic of fire to create a ward of explosive energy. Whenever an [adjacent](../../Browse/rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to push that creature up to a number of squares equal to twice your [Reason](../../Browse/rule/character/reason.md) score.
 
 #### Elementalist Abilities {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-abilities"}
 
@@ -3917,9 +3917,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *Your curse causes your foe's flesh to rot off as spores that aid your allies.*
 
-| **Green, Magic, Ranged, Rot, [Strike](../../Browse/rule/combat/strike.md)**  |     **Main action** |
+| **Green, Magic, [Ranged](../../Browse/rule/combat/ranged.md), Rot, [Strike](../../Browse/rule/combat/strike.md)**  |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -3927,16 +3927,16 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 - **12-16:** 4 + R corruption damage
 - **17+:** 6 + R corruption damage
 
-**Effect:** Choose yourself or one ally within [distance](../../Browse/rule/combat/distance.md). That character can end one effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their turn.
+**Effect:** Choose yourself or one ally within [distance](../../Browse/rule/combat/distance.md). That character can end one effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their [turn](../../Browse/rule/combat/turn.md).
 
 ###### Bifurcated Incineration {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/bifurcated-incineration"}
 
 
 *Two jets of flame lance out at your command.*
 
-| **Fire, Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |                 **Main action** |
+| **Fire, Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |                 **Main action** |
 |---------------------------------|--------------------------------:|
-| **📏 Ranged 10**                | **🎯 Two creatures or objects** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                | **🎯 Two creatures or objects** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -3949,9 +3949,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *You absorb the life energy of another creature and use it to [teleport](../../Browse/movement/teleport.md).*
 
-| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md), Void** |     **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Void** |     **Main action** |
 |--------------------------------|--------------------:|
-| **📏 Melee 1**                 | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                 | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -3966,9 +3966,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *Whipping vines erupt from a foe's body to grasp at another close by.*
 
-| **Green, Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |      **Main action** |
+| **Green, Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |      **Main action** |
 |----------------------------------|---------------------:|
-| **📏 Ranged 10**                 |  **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                 |  **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -3983,9 +3983,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *You give your enemy a gentle tap-like an asteroid impact.*
 
-| **Earth, Magic, Melee, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
+| **Earth, Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Melee 1**                  | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                  | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -3998,9 +3998,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *You inflict pain and doubt in equal measure.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md), Void** |               **Main action** | 
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Void** |               **Main action** | 
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -4013,7 +4013,7 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *A sudden storm of detritus assaults your foes and leaves them struggling to move.*
 
-| **Area, Earth, Magic, Ranged** |               **Main action** |
+| **Area, Earth, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 2 [cube](../../Browse/rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
@@ -4030,9 +4030,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *A jet of heavy fire erupts where you strike.*
 
-| **Fire, Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** | 
+| **Fire, Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** | 
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -4053,7 +4053,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You open a rift into the void to harry your foes.*
 
-| **Area, Magic, Ranged, Void** |               **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md), Void** |               **Main action** |
 |-------------------------------|------------------------------:|
 | **📏 3 [cube](../../Browse/rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |
 
@@ -4063,16 +4063,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 4 psychic damage
 - **17+:** 6 psychic damage
 
-**Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+**Persistent 1:** At the start of your [turn](../../Browse/rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence.
 
 ###### The Flesh, a Crucible {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/the-flesh-a-crucible"}
 
 
 *Fire engulfs your target and continues to churn.*
 
-| **Fire, Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
+| **Fire, Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -4080,16 +4080,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 8 + R fire damage
 - **17+:** 11 + R fire damage
 
-**Persistent 1:** If the target is within [distance](../../Browse/rule/combat/distance.md) at the start of your turn, you can make the [power roll](../../Browse/rule/dice/power-roll.md) again without spending essence (no action required).
+**Persistent 1:** If the target is within [distance](../../Browse/rule/combat/distance.md) at the start of your [turn](../../Browse/rule/combat/turn.md), you can make the [power roll](../../Browse/rule/dice/power-roll.md) again without spending essence (no action required).
 
 ###### Invigorating Growth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/invigorating-growth"}
 
 
 *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
 
-| **Green, Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |      **Main action** |
+| **Green, Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |      **Main action** |
 |----------------------------------|---------------------:|
-| **📏 Ranged 10**                 |  **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                 |  **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -4097,7 +4097,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 7 + R poison damage
 - **17+:** 11 + R poison damage
 
-**Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 [surge](../../Browse/rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
+**Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally [adjacent](../../Browse/rule/combat/adjacent.md) to the target gain 1 [surge](../../Browse/rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an [adjacent](../../Browse/rule/combat/adjacent.md) creature as a main action.
 
 ###### Ripples in the Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/ripples-in-the-earth"}
 
@@ -4125,7 +4125,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *A storm of fire descends upon your enemies.*
 
-| **Area, Fire, Magic, Ranged** |               **Main action** |
+| **Area, Fire, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |               **Main action** |
 |-------------------------------|------------------------------:|
 | **📏 3 [cube](../../Browse/rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |
 
@@ -4135,16 +4135,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 6 fire damage
 - **17+:** 10 fire damage
 
-**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+**Persistent 2:** At the start of your [turn](../../Browse/rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence.
 
 ###### Instantaneous Excavation {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/instantaneous-excavation"}
 
 
 *The surface of the world around you opens up to swallow foes.*
 
-| **Earth, Magic, Ranged** |    **Maneuver** |
+| **Earth, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |    **Maneuver** |
 |--------------------------|----------------:|
-| **📏 Ranged 10**         |  **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**         |  **🎯 Special** |
 
 **Effect:** You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../../Browse/rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate [power roll](../../Browse/rule/dice/power-roll.md) for each creature on the ground above a hole and small enough to fall in. (You can't score a [critical hit](../../Browse/rule/combat/critical-hit.md) with this ability because it uses a maneuver.)
 
@@ -4154,27 +4154,27 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** The target falls into the hole.
 - **17+:** The target falls into the hole and can't reduce the height of the fall.
 
-**Persistent 1:** At the start of your turn, you open another hole, making a [power roll](../../Browse/rule/dice/power-roll.md) against each creature who could fall into the hole when it opens without spending essence.
+**Persistent 1:** At the start of your [turn](../../Browse/rule/combat/turn.md), you open another hole, making a [power roll](../../Browse/rule/dice/power-roll.md) against each creature who could fall into the hole when it opens without spending essence.
 
 ###### No More Than a Breeze {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/no-more-than-a-breeze"}
 
 
 *The material substance of a creature shreds away at your command.*
 
-| **Magic, Ranged, Void** |            **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), Void** |            **Maneuver** |
 |-------------------------|------------------------:|
-| **📏 Ranged 10**        | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**        | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](../../Browse/movement/difficult-terrain.md), and their movement can't provoke [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md). If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+**Effect:** Until the start of your next [turn](../../Browse/rule/combat/turn.md), the target can move through solid matter, they ignore [difficult terrain](../../Browse/movement/difficult-terrain.md), and their movement can't provoke [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md). If the target ends their [turn](../../Browse/rule/combat/turn.md) inside solid matter, they are forced out into the space where they entered it and this effect ends.
 
-**Persistent 1:** The effect lasts until the start of your next turn.
+**Persistent 1:** The effect lasts until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
 ###### Test of Rain {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/test-of-rain"}
 
 
 *You call down a rain that burns your enemies and restores your allies.*
 
-| **Area, Green, Magic, Ranged** |               **Main action** |
+| **Area, Green, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 3 [cube](../../Browse/rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
@@ -4184,7 +4184,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 6 acid damage
 - **17+:** 10 acid damage
 
-**Effect:** You can end one effect on yourself that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of your turn. Each ally in the area also gains this benefit.
+**Effect:** You can end one effect on yourself that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of your [turn](../../Browse/rule/combat/turn.md). Each ally in the area also gains this benefit.
 
 ### 2nd-Level Features
 
@@ -4192,7 +4192,7 @@ As a 2nd-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/perk"}
 
-You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](perks.md).
+You gain one crafting, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](perks.md).
 
 #### 2nd-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/2nd-level-specialization-feature"}
 
@@ -4209,7 +4209,7 @@ Your [elemental specialization](../../Browse/feature/elementalist/level-1/elemen
 
 ##### Disciple of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/disciple-of-earth"}
 
-Your body is strengthened by your mind's connection to the element of permanence. You have a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md), and you gain an additional +3 bonus to [Stamina](../../Browse/rule/health/stamina.md) whenever you gain a level past 2nd.
+Your body is strengthened by your mind's connection to the element of permanence. You have a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md), and you gain an additional +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) whenever you gain a level past 2nd.
 
 ##### Disciple of Fire {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/disciple-of-fire"}
 
@@ -4219,38 +4219,38 @@ At the start of a combat encounter, you gain a number of [surges](../../Browse/r
 
 ##### Disciple of the Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/disciple-of-the-green"}
 
-You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](../../Browse/complication/animal-form.md), you can speak, and you use your [Reason](../../Browse/rule/character/reason.md) score to make melee [free strikes](../../Browse/feature/common/main-actions/free-strike.md). Your statistics stay the same except as noted on the table.
+You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](../../Browse/complication/animal-form.md), you can speak, and you use your [Reason](../../Browse/rule/character/reason.md) score to make [melee](../../Browse/rule/combat/melee.md) [free strikes](../../Browse/feature/common/main-actions/free-strike.md). Your statistics stay the same except as noted on the table.
 
 Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). You lose this [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) when you revert back to your true form.
 
 You choose a specific animal and appearance while in [animal form](../../Browse/complication/animal-form.md). For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other [size](../../Browse/rule/character/size.md) 1T animal who fits the rodent type. When you take on an [animal form](../../Browse/complication/animal-form.md), your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
 
-You can revert back to your true form as a maneuver. You can't enter an [animal form](../../Browse/complication/animal-form.md) unless you are in your true form. When you are [dying](../../Browse/rule/health/dying.md), you revert to your true form and can't turn back into an animal until you are no longer [dying](../../Browse/rule/health/dying.md).
+You can revert back to your true form as a maneuver. You can't enter an [animal form](../../Browse/complication/animal-form.md) unless you are in your true form. When you are [dying](../../Browse/rule/health/dying.md), you revert to your true form and can't [turn](../../Browse/rule/combat/turn.md) back into an animal until you are no longer [dying](../../Browse/rule/health/dying.md).
 
 ###### Green Animal Forms Table
 
-| Animal Type         | Level | [Temporary Stamina](../../Browse/rule/health/temporary-stamina.md) | [Speed](../../Browse/rule/character/speed.md)         | [Size](../../Browse/rule/character/size.md) | [Stability](../../Browse/rule/character/stability.md) Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                         |
+| Animal Type         | Level | [Temporary Stamina](../../Browse/rule/health/temporary-stamina.md) | [Speed](../../Browse/rule/character/speed.md)         | [Size](../../Browse/rule/character/size.md) | [Stability](../../Browse/rule/character/stability.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md) | [Melee](../../Browse/rule/combat/melee.md) Damage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md) | Special                                                                                                                                                                                                                                                                         |
 |---------------------|-------|-------------------|---------------|------|-----------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Canine              | 2nd   | 5                 | 7             | 1M   | +0              | +1/+1/+1           | You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) that involve smell.                                                                                                                                                                                                                                   |
 | Fish                | 2nd   | 0                 | 5 (swim only) | 1T   | +0              | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                       |
 | Rodent              | 2nd   | 0                 | 5 (climb)     | 1T   | +0              | +0/+0/+0           | You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) that involve smell.                                                                                                                                                                                                                                   |
 | Bird                | 3rd   | 0                 | 5 ([fly](../../Browse/movement/fly.md))       | 1T   | +0              | +0/+0/+0           | -                                                                                                                                                                                                                                                                               |
-| Great cat           | 3rd   | 5                 | 6 (climb)     | 2    | +0              | +1/+1/+1           | As a maneuver, you can jump up to 3 squares in any direction. If you land on<br>an enemy of your [size](../../Browse/rule/character/size.md) or smaller, that enemy is [knocked prone](../../Browse/condition/prone.md), and you can<br>make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them (no action required).                                                       |
-| Giant frog          | 4th   | 5                 | 5 (swim)      | 2    | +0              | +0/+0/+0           | Your melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) has a [distance](../../Browse/rule/combat/distance.md) of melee 3. When you take the Advance<br>move action, you can high jump or long jump up to half your [speed](../../Browse/rule/character/speed.md). This<br>jump can allow you to move more squares than your [speed](../../Browse/rule/character/speed.md).                                                              |
-| Horse               | 4th   | 5                 | 8             | 2    | +1              | +0/+0/+0           | You can use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action as a maneuver. You can't use two Charge<br>main actions on the same turn.                                                                                                                                                                    |
-| Mohler              | 4th   | 0                 | 7 ([burrow](../../Browse/movement/burrow.md))    | 1S   | +1              | +0/+0/+0           | Your melee [distance](../../Browse/rule/combat/distance.md) gains a +1 bonus.                                                                                                                                                                                                                                           |
-| Bear                | 5th   | 10                | 5 (climb)     | 2    | +1              | +2/+2/+2           | Your melee [distance](../../Browse/rule/combat/distance.md) gains a +1 bonus.                                                                                                                                                                                                                                           |
-| Giant bird          | 5th   | 0                 | 7 ([fly](../../Browse/movement/fly.md))       | 2    | +0              | +1/+1/+1           | After making a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md), you can [shift](../../Browse/movement/shifting.md) up to 3 squares as a free<br>[triggered action](../../Browse/rule/combat/triggered-action.md).                                                                                                                                                                                  |
-| Giant<br>salamander | 6th   | 5                 | 5             | 1L   | +3              | +2/+2/+2           | Your melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) deals fire damage. Additionally, you have fire immunity<br>3.                                                                                                                                                                                            |
-| Giant spider        | 6th   | 0                 | 5 (climb)     | 2    | +0              | +0/+1/+2           | You have a double [edge](../../Browse/rule/dice/edge.md) on melee [free strikes](../../Browse/feature/common/main-actions/free-strike.md) against creatures you are hidden<br>from.                                                                                                                                                                                          |
-| Giant snake         | 7th   | 5                 | 5             | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md), you<br>can automatically grab the target. While [grabbed](../../Browse/condition/grabbed.md) this way, the target takes 2<br>damage at the start of each of their turns.                                                                      |
-| Kangaroo            | 7th   | 0                 | 7             | 1L   | +1              | +0/+0/+4           | When you score a [critical hit](../../Browse/rule/combat/critical-hit.md) with a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md), the target is [dazed](../../Browse/condition/dazed.md) (save<br>ends). When you take the [Advance](../../Browse/feature/common/move-actions/advance.md) move action, you can high jump or long<br>jump up to half your [speed](../../Browse/rule/character/speed.md). This jump can allow you to move more squares<br>than your [speed](../../Browse/rule/character/speed.md).                    |
-| Spiny armadillo     | 7th   | 10                | 5             | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br>creature takes 3 damage.                                                                                                                                                                            |
+| Great cat           | 3rd   | 5                 | 6 (climb)     | 2    | +0              | +1/+1/+1           | As a maneuver, you can jump up to 3 squares in any direction. If you land on<br>an enemy of your [size](../../Browse/rule/character/size.md) or smaller, that enemy is [knocked prone](../../Browse/condition/prone.md), and you can<br>make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them (no action required).                                                       |
+| Giant frog          | 4th   | 5                 | 5 (swim)      | 2    | +0              | +0/+0/+0           | Your [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) has a [distance](../../Browse/rule/combat/distance.md) of [melee](../../Browse/rule/combat/melee.md) 3. When you take the Advance<br>move action, you can high jump or long jump up to half your [speed](../../Browse/rule/character/speed.md). This<br>jump can allow you to move more squares than your [speed](../../Browse/rule/character/speed.md).                                                              |
+| Horse               | 4th   | 5                 | 8             | 2    | +1              | +0/+0/+0           | You can use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action as a maneuver. You can't use two Charge<br>main actions on the same [turn](../../Browse/rule/combat/turn.md).                                                                                                                                                                    |
+| Mohler              | 4th   | 0                 | 7 ([burrow](../../Browse/movement/burrow.md))    | 1S   | +1              | +0/+0/+0           | Your [melee](../../Browse/rule/combat/melee.md) [distance](../../Browse/rule/combat/distance.md) gains a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).                                                                                                                                                                                                                                           |
+| Bear                | 5th   | 10                | 5 (climb)     | 2    | +1              | +2/+2/+2           | Your [melee](../../Browse/rule/combat/melee.md) [distance](../../Browse/rule/combat/distance.md) gains a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).                                                                                                                                                                                                                                           |
+| Giant bird          | 5th   | 0                 | 7 ([fly](../../Browse/movement/fly.md))       | 2    | +0              | +1/+1/+1           | After making a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md), you can [shift](../../Browse/movement/shifting.md) up to 3 squares as a free<br>[triggered action](../../Browse/rule/combat/triggered-action.md).                                                                                                                                                                                  |
+| Giant<br>salamander | 6th   | 5                 | 5             | 1L   | +3              | +2/+2/+2           | Your [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) deals fire damage. Additionally, you have fire immunity<br>3.                                                                                                                                                                                            |
+| Giant spider        | 6th   | 0                 | 5 (climb)     | 2    | +0              | +0/+1/+2           | You have a double [edge](../../Browse/rule/dice/edge.md) on [melee](../../Browse/rule/combat/melee.md) [free strikes](../../Browse/feature/common/main-actions/free-strike.md) against creatures you are hidden<br>from.                                                                                                                                                                                          |
+| Giant snake         | 7th   | 5                 | 5             | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md), you<br>can automatically grab the target. While [grabbed](../../Browse/condition/grabbed.md) this way, the target takes 2<br>damage at the start of each of their [turns](../../Browse/rule/combat/turn.md).                                                                      |
+| Kangaroo            | 7th   | 0                 | 7             | 1L   | +1              | +0/+0/+4           | When you score a [critical hit](../../Browse/rule/combat/critical-hit.md) with a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md), the target is [dazed](../../Browse/condition/dazed.md) (save<br>ends). When you take the [Advance](../../Browse/feature/common/move-actions/advance.md) move action, you can high jump or long<br>jump up to half your [speed](../../Browse/rule/character/speed.md). This jump can allow you to move more squares<br>than your [speed](../../Browse/rule/character/speed.md).                    |
+| Spiny armadillo     | 7th   | 10                | 5             | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an [adjacent](../../Browse/rule/combat/adjacent.md) creature's [melee](../../Browse/rule/combat/melee.md) ability, that<br>creature takes 3 damage.                                                                                                                                                                            |
 | Ostrich             | 8th   | 0                 | 10            | 2    | +0              | +1/+1/+1           | Your movement does not provoke [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md).                                                                                                                                                                                                                             |
 | Shark               | 8th   | 0                 | 8 (swim only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an [edge](../../Browse/rule/dice/edge.md) on [strikes](../../Browse/rule/combat/strike.md) against targets who are [bleeding](../../Browse/condition/bleeding.md) or [winded](../../Browse/rule/health/winded.md).                                                                                                                              |
-| Giant octopus       | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your melee [free strike](../../Browse/feature/common/main-actions/free-strike.md). Whenever you obtain a tier 2 or tier 3 outcome on<br>a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md), you can automatically grab the target. You can have up to<br>eight creatures [grabbed](../../Browse/condition/grabbed.md). |
-| Rhinoceros          | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) as part of the Charge action, that<br>strike gains an [edge](../../Browse/rule/dice/edge.md).                                                                                                                                                                               |
-| King terror lizard  | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) is a 1 [burst](../../Browse/rule/combat/burst.md) with the Area and Strike keywords.                                                                                                                                                                                                          |
+| Giant octopus       | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md). Whenever you obtain a tier 2 or tier 3 outcome on<br>a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md), you can automatically grab the target. You can have up to<br>eight creatures [grabbed](../../Browse/condition/grabbed.md). |
+| Rhinoceros          | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) as part of the Charge action, that<br>strike gains an [edge](../../Browse/rule/dice/edge.md).                                                                                                                                                                               |
+| King terror lizard  | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) is a 1 [burst](../../Browse/rule/combat/burst.md) with the Area and Strike keywords.                                                                                                                                                                                                          |
 
 ##### There Is No Space Between {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/there-is-no-space-between"}
 
@@ -4261,13 +4261,13 @@ You have the following ability.
 
 *Knowledge of the mystery reveals that two spaces are the same space.*
 
-| **Magic, Ranged, Void** |   **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), Void** |   **Maneuver** |
 |-------------------------|---------------:|
-| **📏 Ranged 10**        | **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**        | **🎯 Special** |
 
-**Effect:** You open two [size](../../Browse/rule/character/size.md) 1 portals in unoccupied spaces within [distance](../../Browse/rule/combat/distance.md), which last until you move beyond [distance](../../Browse/rule/combat/distance.md) from any portal, end the effect as a maneuver, or are [dying](../../Browse/rule/health/dying.md). Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleport](../../Browse/movement/teleport.md)ed to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their [forced movement](../../Browse/movement/forced-movement.md) ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
+**Effect:** You open two [size](../../Browse/rule/character/size.md) 1 portals in unoccupied spaces within [distance](../../Browse/rule/combat/distance.md), which last until you move beyond [distance](../../Browse/rule/combat/distance.md) from any portal, end the effect as a maneuver, or are [dying](../../Browse/rule/health/dying.md). Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleport](../../Browse/movement/teleport.md)ed to an unoccupied space of their choice [adjacent](../../Browse/rule/combat/adjacent.md) to the other portal. If an enemy is force moved into a portal, their [forced movement](../../Browse/movement/forced-movement.md) ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
 
-At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who [force move](../../Browse/movement/forced-movement.md)s an enemy into a portal chooses that enemy's destination portal.
+At the start of each of your [turns](../../Browse/rule/combat/turn.md) while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who [force move](../../Browse/movement/forced-movement.md)s an enemy into a portal chooses that enemy's destination portal.
 
 #### New 5-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/new-5-essence-ability"}
 
@@ -4278,26 +4278,26 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Revitalizing plants and jagged stones grow, helping allies and hindering foes.*
 
-| **Area, Earth, Green, Magic, Ranged** |   **Maneuver** |
+| **Area, Earth, Green, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |   **Maneuver** |
 |---------------------------------------|---------------:|
 | **📏 3 [cube](../../Browse/rule/combat/cube.md) within 10**               | **🎯 Special** |
 
-**Effect:** Until the start of your next turn, the area gains the following effects:
+**Effect:** Until the start of your next [turn](../../Browse/rule/combat/turn.md), the area gains the following effects:
 
-- Once as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) at the start of your turn, you allow yourself and each ally in the area to spend any number of [Recoveries](../../Browse/rule/health/recoveries.md).
+- Once as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) at the start of your [turn](../../Browse/rule/combat/turn.md), you allow yourself and each ally in the area to spend any number of [Recoveries](../../Browse/rule/health/recoveries.md).
 - The area is [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies.
-- Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your [Reason](../../Browse/rule/character/reason.md) score.
+- Each enemy who enters the area for the first time in a [combat round](../../Browse/rule/combat/combat-round.md) or starts their turn there takes damage equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
-**Persistent 1:** The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your [line of effect](../../Browse/rule/combat/line-of-effect.md).
+**Persistent 1:** The area remains until the start of your next [turn](../../Browse/rule/combat/turn.md). As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your [line of effect](../../Browse/rule/combat/line-of-effect.md).
 
 ##### Subvert the Green Within {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-2/subvert-the-green-within"}
 
 
 *Fungal spores sprout inside your enemy's brain, allowing you to control their actions.*
 
-| **Green, Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md), Void** |     **Main action** |
+| **Green, Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Void** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
 **Effect:** The target uses their [signature ability](../../Browse/rule/combat/signature-ability.md) against a creature of your choice. This [signature ability](../../Browse/rule/combat/signature-ability.md) can target the creature even if it usually wouldn't. You then make a [power roll](../../Browse/rule/dice/power-roll.md) against the target of this ability.
 
@@ -4312,11 +4312,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your ally disappears, then reappears in a burst of fire.*
 
-| **Fire, Magic, Ranged, Void** |         **Main action** |
+| **Fire, Magic, [Ranged](../../Browse/rule/combat/ranged.md), Void** |         **Main action** |
 |-------------------------------|------------------------:|
-| **📏 Ranged 10**              | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**              | **🎯 Self or one ally** |
 
-**Effect:** The target is [teleport](../../Browse/movement/teleport.md)ed to another space within [distance](../../Browse/rule/combat/distance.md). Make a [power roll](../../Browse/rule/dice/power-roll.md) that affects each enemy adjacent to the target's new space.
+**Effect:** The target is [teleport](../../Browse/movement/teleport.md)ed to another space within [distance](../../Browse/rule/combat/distance.md). Make a [power roll](../../Browse/rule/dice/power-roll.md) that affects each enemy [adjacent](../../Browse/rule/combat/adjacent.md) to the target's new space.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -4329,9 +4329,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Wrap them up in fire and melting stone.*
 
-| **Earth, Fire, Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
+| **Earth, Fire, Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -4388,9 +4388,9 @@ You have the following ability.
 
 *You stir any wood's memory and learn what it has seen.*
 
-| **Green, Magic, Melee** |                  **Main action** |
+| **Green, Magic, [Melee](../../Browse/rule/combat/melee.md)** |                  **Main action** |
 |-------------------------|---------------------------------:|
-| **📏 Melee 1**          | **🎯 One mundane wooden object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**          | **🎯 One mundane wooden object** |
 
 **Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object's location as if you were there.
 
@@ -4403,9 +4403,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *With a flick of the wrist, you phase creatures out of existence.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md), Void** | **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Void** | **Main action** |
 |---------------------------------|----------------:|
-| **📏 Ranged 10**                |  **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                |  **🎯 Special** |
 
 **Special:** The number of creatures you target with this ability is determined by your [power roll](../../Browse/rule/dice/power-roll.md).
 
@@ -4415,14 +4415,14 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** Two creatures
 - **17+:** Three creatures
 
-**Effect:** Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a [bane](../../Browse/rule/dice/bane.md) on [power rolls](../../Browse/rule/dice/power-roll.md). At the end of their first turn, they have a double [bane](../../Browse/rule/dice/bane.md) on [power rolls](../../Browse/rule/dice/power-roll.md). At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
+**Effect:** Each target begins to fade from existence (save ends). On their first [turn](../../Browse/rule/combat/turn.md) while fading from existence, a target takes a [bane](../../Browse/rule/dice/bane.md) on [power rolls](../../Browse/rule/dice/power-roll.md). At the end of their first [turn](../../Browse/rule/combat/turn.md), they have a double [bane](../../Browse/rule/dice/bane.md) on [power rolls](../../Browse/rule/dice/power-roll.md). At the end of their second [turn](../../Browse/rule/combat/turn.md), they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
 
 ##### Maw of Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/maw-of-earth"}
 
 
 *You open up the ground, spewing out shrapnel of stone and debris.*
 
-| **Area, Earth, Magic, Ranged** |                **Main action** |
+| **Area, Earth, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |                **Main action** |
 |--------------------------------|-------------------------------:|
 | **📏 3 [cube](../../Browse/rule/combat/cube.md) within 10**        |  **🎯 Each enemy in the area** |
 
@@ -4449,22 +4449,22 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 6 damage
 - **17+:** 9 damage
 
-**Effect:** Until the end of your next turn, each ally in the area has each of their [characteristic](../../Browse/rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../Browse/rule/character/potency.md), and has a +1 bonus to [saving throws](../../Browse/rule/general/saving-throw.md).
+**Effect:** Until the end of your next [turn](../../Browse/rule/combat/turn.md), each ally in the area has each of their [characteristic](../../Browse/rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../Browse/rule/character/potency.md), and has a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [saving throws](../../Browse/rule/general/saving-throw.md).
 
-**Persistent 1:** You make the [power roll](../../Browse/rule/dice/power-roll.md) again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn.
+**Persistent 1:** You make the [power roll](../../Browse/rule/dice/power-roll.md) again to target each enemy in the area without spending essence, and the effect lasts until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
 ##### Wall of Fire {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/wall-of-fire"}
 
 
 *A blazing, beautifully organized inferno erupts at your command.*
 
-| **Area, Fire, Magic, Ranged** |   **Maneuver** |
+| **Area, Fire, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |   **Maneuver** |
 |-------------------------------|---------------:|
 | **📏 10 wall within 10**      | **🎯 Special** |
 
-**Effect:** The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your [Reason](../../Browse/rule/character/reason.md) score for each square of the area they start their turn in or enter.
+**Effect:** The wall lasts until the start of your next [turn](../../Browse/rule/combat/turn.md), and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a [combat round](../../Browse/rule/combat/combat-round.md) or starts their turn there takes fire damage equal to your [Reason](../../Browse/rule/character/reason.md) score for each square of the area they start their [turn](../../Browse/rule/combat/turn.md) in or enter.
 
-**Persistent 1:** The wall lasts until the start of your next turn, and you can add a number of squares to the wall equal to your [Reason](../../Browse/rule/character/reason.md) score.
+**Persistent 1:** The wall lasts until the start of your next [turn](../../Browse/rule/combat/turn.md), and you can add a number of squares to the wall equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 ### 4th-Level Features
 
@@ -4476,7 +4476,7 @@ Your [Reason](../../Browse/rule/character/reason.md) score increases to 3. Addit
 
 #### Font of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/font-of-essence"}
 
-The first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 2 essence instead of 1.
+The first time each [combat round](../../Browse/rule/combat/combat-round.md) that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 2 essence instead of 1.
 
 #### Mantle of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/mantle-of-essence"}
 
@@ -4493,15 +4493,15 @@ While you have 3 or more essence and are not [dying](../../Browse/rule/health/dy
 
 ##### Burning Grounds {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/burning-grounds"}
 
-At the end of each of your turns, each enemy in the area takes fire damage equal to your [Reason](../../Browse/rule/character/reason.md) score.
+At the end of each of your [turns](../../Browse/rule/combat/turn.md), each enemy in the area takes fire damage equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 ##### Flowering Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/flowering-bed"}
 
-At the end of each of your turns, each ally in the area gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to your [Reason](../../Browse/rule/character/reason.md) score.
+At the end of each of your [turns](../../Browse/rule/combat/turn.md), each ally in the area gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 ##### Quaking Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/quaking-earth"}
 
-At the end of each of your turns, you can push each enemy in the area up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
+At the end of each of your [turns](../../Browse/rule/combat/turn.md), you can push each enemy in the area up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 ##### Veiling Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/veiling-bed"}
 
@@ -4536,7 +4536,7 @@ Your [elemental specialization](../../Browse/feature/elementalist/level-1/elemen
 
 Your animal forms become hardier. You gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to your level when you enter an [animal form](../../Browse/complication/animal-form.md) in combat, which is added to any [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) provided by the [animal form](../../Browse/complication/animal-form.md).
 
-Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) down to a minimum of 0. The ally gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to the amount you lost.
+Additionally, an [adjacent](../../Browse/rule/combat/adjacent.md) ally can use a maneuver to pet you. If they do so, you can lose [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) down to a minimum of 0. The ally gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to the amount you lost.
 
 ##### The Mountain Does Not Move {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/the-mountain-does-not-move"}
 
@@ -4554,7 +4554,7 @@ Additionally, whenever you use a void ability, you or one ally within [distance]
 
 You can use 1 square of movement to walk into an area of fire your [size](../../Browse/rule/character/size.md) or larger and [teleport](../../Browse/movement/teleport.md) to any other area of fire your [size](../../Browse/rule/character/size.md) or larger within 10 squares of the first area.
 
-Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your [Reason](../../Browse/rule/character/reason.md) score.
+Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy [adjacent](../../Browse/rule/combat/adjacent.md) to you takes fire damage equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 #### 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/9-essence-ability"}
 
@@ -4565,9 +4565,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your flames dance from kindling to kindling to kindling.*
 
-| **Fire, Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
+| **Fire, Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -4575,14 +4575,14 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 13 + R fire damage
 - **17+:** 17 + R fire damage
 
-**Effect:** When the target ends their next turn, or if they drop to 0 [Stamina](../../Browse/rule/health/stamina.md) before then, each enemy adjacent to them takes fire damage equal to twice your [Reason](../../Browse/rule/character/reason.md) score. Each affected enemy then gains this same effect.
+**Effect:** When the target ends their next [turn](../../Browse/rule/combat/turn.md), or if they drop to 0 [Stamina](../../Browse/rule/health/stamina.md) before then, each enemy [adjacent](../../Browse/rule/combat/adjacent.md) to them takes fire damage equal to twice your [Reason](../../Browse/rule/character/reason.md) score. Each affected enemy then gains this same effect.
 
 ##### Storm of Sands {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/storm-of-sands"}
 
 
 *Dirt and debris swirl into a dark, pulsing hurricane.*
 
-| **Area, Earth, Magic, Ranged** |               **Main action** |
+| **Area, Earth, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 4 [cube](../../Browse/rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
@@ -4592,31 +4592,31 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 5 damage
 - **17+:** 7 damage
 
-**Effect:** The area lasts until the start of your next turn. It is [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../../Browse/rule/combat/concealment.md) while in the area.
+**Effect:** The area lasts until the start of your next [turn](../../Browse/rule/combat/turn.md). It is [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../../Browse/rule/combat/concealment.md) while in the area.
 
-**Persistent 1:** The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the [power roll](../../Browse/rule/dice/power-roll.md) again without spending essence.
+**Persistent 1:** The area remains until the start of your next [turn](../../Browse/rule/combat/turn.md), and you can move it up to 5 squares (no action required). As a maneuver, you can make the [power roll](../../Browse/rule/dice/power-roll.md) again without spending essence.
 
 ##### Subverted Perception of Space {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/subverted-perception-of-space"}
 
 
 *You rip an enemy's world in twain.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md), Void** |               **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Void** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
 - **≤11:** 9 + R corruption damage
-- **12-16:** 10 + R corruption damage; the target has [line of effect](../../Browse/rule/combat/line-of-effect.md) only to creatures and objects within 4 squares of them until the start of your next turn
-- **17+:** 15 + R corruption damage; the target has [line of effect](../../Browse/rule/combat/line-of-effect.md) only to adjacent creatures and objects until the start of your next turn
+- **12-16:** 10 + R corruption damage; the target has [line of effect](../../Browse/rule/combat/line-of-effect.md) only to creatures and objects within 4 squares of them until the start of your next [turn](../../Browse/rule/combat/turn.md)
+- **17+:** 15 + R corruption damage; the target has [line of effect](../../Browse/rule/combat/line-of-effect.md) only to [adjacent](../../Browse/rule/combat/adjacent.md) creatures and objects until the start of your next [turn](../../Browse/rule/combat/turn.md)
 
 ##### Web of All That's Come Before {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/web-of-all-thats-come-before"}
 
 
 *Threads you've been weaving through your adventures create a vibrant, pearlescent web.*
 
-| **Area, Green, Magic, Ranged** |               **Main action** |
+| **Area, Green, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 4 [cube](../../Browse/rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
@@ -4626,9 +4626,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](../../Browse/condition/restrained.md) (save ends)
 - **17+:** 5 corruption damage; A < STRONG, [restrained](../../Browse/condition/restrained.md) (save ends)
 
-**Effect:** The area is [difficult terrain](../../Browse/movement/difficult-terrain.md) until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../../Browse/condition/restrained.md) (save ends).
+**Effect:** The area is [difficult terrain](../../Browse/movement/difficult-terrain.md) until the start of your next [turn](../../Browse/rule/combat/turn.md). Each enemy who ends their [turn](../../Browse/rule/combat/turn.md) in the area is [restrained](../../Browse/condition/restrained.md) (save ends).
 
-**Persistent 1:** The area remains until the start of your next turn.
+**Persistent 1:** The area remains until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
 ### 6th-Level Features
 
@@ -4636,7 +4636,7 @@ As a 6th-level [elementalist](../../Browse/class/elementalist.md), you gain the 
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/perk"}
 
-You gain one crafting, lore, or supernatural perk of your choice.
+You gain one crafting, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice.
 
 #### Wyrding {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/wyrding"}
 
@@ -4647,7 +4647,7 @@ You can spend 10 uninterrupted minutes to create a freeform magic spell for a va
 - You restore all [Stamina](../../Browse/rule/health/stamina.md) to a mundane object of a [size](../../Browse/rule/character/size.md) equal to your [Reason](../../Browse/rule/character/reason.md) score or smaller.
 - Choose a [cube](../../Browse/rule/combat/cube.md) with a [size](../../Browse/rule/character/size.md) up to your [Reason](../../Browse/rule/character/reason.md) score within 5 squares. You can fill that area with [difficult terrain](../../Browse/movement/difficult-terrain.md) or natural phenomena such as fire, water, or plant life, or can clear the area of those things.
 - You can preserve a corpse or up to 5 pounds of food for a week, or can cause a corpse or that amount of food to instantly rot.
-- You create a seal on a surface that can't be seen or felt by anyone but you. When a creature comes adjacent to the surface, you can see and hear through the seal for as long as the creature remains adjacent to it. When you create the seal, you can decide to limit the number of creatures who activate it by choosing a creature keyword (such as Undead) or a specific name (such as Ajax the Invincible) or organization (such as the Black Iron Pact). If you do, the seal alerts you only when creatures with the keyword, name, or organizational affiliation you provide pass by it. If you create a second seal, the first one disappears. You can dispel a seal at any time (no action required).
+- You create a seal on a surface that can't be seen or felt by anyone but you. When a creature comes [adjacent](../../Browse/rule/combat/adjacent.md) to the surface, you can see and hear through the seal for as long as the creature remains [adjacent](../../Browse/rule/combat/adjacent.md) to it. When you create the seal, you can decide to limit the number of creatures who activate it by choosing a creature keyword (such as Undead) or a specific name (such as Ajax the Invincible) or organization (such as the Black Iron Pact). If you do, the seal alerts you only when creatures with the keyword, name, or organizational affiliation you provide pass by it. If you create a second seal, the first one disappears. You can dispel a seal at any time (no action required).
 
 #### New 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/new-9-essence-ability"}
 
@@ -4658,41 +4658,41 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *They shine vibrantly, a beautiful diamond in the night sky.*
 
-| **Fire, Green, Magic, Ranged, Void** |            **Maneuver** |
+| **Fire, Green, Magic, [Ranged](../../Browse/rule/combat/ranged.md), Void** |            **Maneuver** |
 |--------------------------------------|------------------------:|
-| **📏 Ranged 10**                     | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                     | **🎯 Self or one ally** |
 
-**Effect:** The target has a +3 bonus to [speed](../../Browse/rule/character/speed.md), they can [fly](../../Browse/movement/fly.md), and their abilities ignore [concealment](../../Browse/rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../../Browse/rule/resource/heroic-resource.md). This effect lasts until the start of your next turn.
+**Effect:** The target has a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md), they can [fly](../../Browse/movement/fly.md), and their abilities ignore [concealment](../../Browse/rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../../Browse/rule/resource/heroic-resource.md). This effect lasts until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
-**Persistent 1:** The effect lasts until the start of your next turn.
+**Persistent 1:** The effect lasts until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
 ##### Magma Titan {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-6/magma-titan"}
 
 
 *Their body swells with lava, mud, and might, towering over their enemies.*
 
-| **Earth, Fire, Green, Magic, Ranged** |            **Maneuver** |
+| **Earth, Fire, Green, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |            **Maneuver** |
 |---------------------------------------|------------------------:|
-| **📏 Ranged 10**                      | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                      | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target has the following benefits:
+**Effect:** Until the start of your next [turn](../../Browse/rule/combat/turn.md), the target has the following benefits:
 
 - Their [size](../../Browse/rule/character/size.md) and [stability](../../Browse/rule/character/stability.md) increase by 2, with any [size](../../Browse/rule/character/size.md) 1 target becoming [size](../../Browse/rule/character/size.md) 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring [stability](../../Browse/rule/character/stability.md). If the target doesn't have space to grow, they grow as much as they can and become [restrained](../../Browse/condition/restrained.md) until the effect ends.
 - They have fire immunity 10.
 - Their [strikes](../../Browse/rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../../Browse/rule/character/reason.md) score.
-- When the target force moves a creature or object, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a +2 bonus.
+- When the target force moves a creature or object, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).
 - They can use their highest [characteristic](../../Browse/rule/character/characteristic.md) instead of [Might](../../Browse/rule/character/might.md) for [Might](../../Browse/rule/character/might.md) [power rolls](../../Browse/rule/dice/power-roll.md).
 
-**Persistent 2:** The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 [Recoveries](../../Browse/rule/health/recoveries.md).
+**Persistent 2:** The effect lasts until the start of your next [turn](../../Browse/rule/combat/turn.md). Additionally, at the start of your [turn](../../Browse/rule/combat/turn.md), the target can spend 2 [Recoveries](../../Browse/rule/health/recoveries.md).
 
 ##### Meteor {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-6/meteor"}
 
 
 *You [teleport](../../Browse/movement/teleport.md) the target into the air and let the ground and the elemental force of fire do the rest.*
 
-| **Earth, Fire, Magic, Ranged, Void** |               **Main action** |
+| **Earth, Fire, Magic, [Ranged](../../Browse/rule/combat/ranged.md), Void** |               **Main action** |
 |--------------------------------------|------------------------------:|
-| **📏 Ranged 10**                     | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -4711,9 +4711,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------------------------------|----------------:|
 | **📏 4 [burst](../../Browse/rule/combat/burst.md)**                      |  **🎯 Special** |
 
-**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has [cover](../../Browse/rule/combat/cover.md).
+**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](../../Browse/rule/combat/turn.md). The area is [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies, and any ally who ends their [turn](../../Browse/rule/combat/turn.md) in the area has [cover](../../Browse/rule/combat/cover.md).
 
-**Persistent 2:** The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a [Recovery](../../Browse/rule/health/recoveries.md).
+**Persistent 2:** The area remains until the start of your next [turn](../../Browse/rule/combat/turn.md). Additionally, at the start of your [turn](../../Browse/rule/combat/turn.md), each ally in the area can spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
 ### 7th-Level Features
 
@@ -4727,11 +4727,11 @@ Each of your [characteristic](../../Browse/rule/character/characteristic.md) sco
 
 Your [Mantle of Essence](../../Browse/feature/elementalist/level-4/mantle-of-essence.md) feature no longer requires essence.
 
-Additionally, your [Mantle of Essence](../../Browse/feature/elementalist/level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's [aura](../../Browse/rule/combat/aura.md) have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) that use the [Handle Animals](../../Browse/skill/handle-animals.md) skill. If you have 5 or more [Victories](../../Browse/rule/resource/victories.md), the bonus to patience increases to 2 and [tests](../../Browse/rule/test/test.md) that use the [Handle Animals](../../Browse/skill/handle-animals.md) skill have a double [edge](../../Browse/rule/dice/edge.md).
+Additionally, your [Mantle of Essence](../../Browse/feature/elementalist/level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's [aura](../../Browse/rule/combat/aura.md) have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) that use the [Handle Animals](../../Browse/skill/handle-animals.md) skill. If you have 5 or more [Victories](../../Browse/rule/resource/victories.md), the [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to patience increases to 2 and [tests](../../Browse/rule/test/test.md) that use the [Handle Animals](../../Browse/skill/handle-animals.md) skill have a double [edge](../../Browse/rule/dice/edge.md).
 
 #### Surging Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/surging-essence"}
 
-When you gain essence at the start of each of your turns during combat, you gain 3 essence instead of 2.
+When you gain essence at the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 3 essence instead of 2.
 
 #### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/skill"}
 
@@ -4760,13 +4760,13 @@ Your [elemental specialization](../../Browse/feature/elementalist/level-1/elemen
 
 ##### Black Hole Star {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/black-hole-star"}
 
-You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within [distance](../../Browse/rule/combat/distance.md) of your [Hurl Element](../../Browse/feature/ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their [stability](../../Browse/rule/character/stability.md) reduces this [forced movement](../../Browse/movement/forced-movement.md), they are pulled a minimum of 2 squares. This [forced movement](../../Browse/movement/forced-movement.md) ignores [stability](../../Browse/rule/character/stability.md) for your allies.
+You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your [turns](../../Browse/rule/combat/turn.md), you target one creature or object within [distance](../../Browse/rule/combat/distance.md) of your [Hurl Element](../../Browse/feature/ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their [stability](../../Browse/rule/character/stability.md) reduces this [forced movement](../../Browse/movement/forced-movement.md), they are pulled a minimum of 2 squares. This [forced movement](../../Browse/movement/forced-movement.md) ignores [stability](../../Browse/rule/character/stability.md) for your allies.
 
 Additionally, your [Mantle of Essence](../../Browse/feature/elementalist/level-4/mantle-of-essence.md) improves. While in the area of the [aura](../../Browse/rule/combat/aura.md), enemies and objects have their [stability](../../Browse/rule/character/stability.md) reduced by an amount equal to your level.
 
 ##### Chimeric Manifestation {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/chimeric-manifestation"}
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../../Browse/complication/animal-form.md) as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) the first time you use your [Disciple of the Green](../../Browse/feature/elementalist/level-2/disciple-of-the-green.md) feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../../Browse/complication/animal-form.md) as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) the first time you use your [Disciple of the Green](../../Browse/feature/elementalist/level-2/disciple-of-the-green.md) feature on your [turn](../../Browse/rule/combat/turn.md).
 
 Additionally, whenever you use your [Disciple of the Green](../../Browse/feature/elementalist/level-2/disciple-of-the-green.md) feature, you can select an additional [animal form](../../Browse/complication/animal-form.md) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest [speed](../../Browse/rule/character/speed.md) between the two animal forms and have all types of movement from both forms.
 
@@ -4776,7 +4776,7 @@ You can only combine animal forms whose levels add up to 12 or less. For example
 
 You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to target it with your [Return to Formlessness](../../Browse/feature/ability/elementalist/level-1/return-to-formlessness.md) ability instead.
 
-Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your [Reason](../../Browse/rule/character/reason.md) score until the start of their next turn. This increases to twice your [Reason](../../Browse/rule/character/reason.md) score if the enemy is made of or is wearing mostly metal.
+Additionally, any enemy who starts their [turn](../../Browse/rule/combat/turn.md) [adjacent](../../Browse/rule/combat/adjacent.md) to you has fire weakness equal to your [Reason](../../Browse/rule/character/reason.md) score until the start of their next [turn](../../Browse/rule/combat/turn.md). This increases to twice your [Reason](../../Browse/rule/character/reason.md) score if the enemy is made of or is wearing mostly metal.
 
 ##### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/summon-source-of-earth"}
 
@@ -4787,15 +4787,15 @@ You have the following ability.
 
 *The ground rumbles as an elemental [bursts](../../Browse/rule/combat/burst.md) forth, ready to serve.*
 
-| **Earth, Magic, Ranged** | **Main action** |
+| **Earth, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** | **Main action** |
 |--------------------------|----------------:|
-| **📏 Ranged 10**         |  **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**         |  **🎯 Special** |
 
-**Effect:** A **source of earth** emerges from an unoccupied space within [distance](../../Browse/rule/combat/distance.md). The source takes their turn immediately after you, moving up to their [speed](../../Browse/rule/character/speed.md) and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
+**Effect:** A **source of earth** emerges from an unoccupied space within [distance](../../Browse/rule/combat/distance.md). The source takes their [turn](../../Browse/rule/combat/turn.md) immediately after you, moving up to their [speed](../../Browse/rule/character/speed.md) and either taking a main action or a maneuver. The source is dismissed at the start of your next [turn](../../Browse/rule/combat/turn.md).
 
 The source starts an encounter at full [Stamina](../../Browse/rule/health/stamina.md), but maintains their current [Stamina](../../Browse/rule/health/stamina.md) throughout the encounter, even if they are dismissed and you use this ability again. They can't regain [Stamina](../../Browse/rule/health/stamina.md) during the encounter. When the source's [Stamina](../../Browse/rule/health/stamina.md) is reduced to 0, you can't use this ability again until you earn 1 or more [Victories](../../Browse/rule/resource/victories.md).
 
-**Persistent 2:** The source takes another turn. They are dismissed at the start of your next turn.
+**Persistent 2:** The source takes another [turn](../../Browse/rule/combat/turn.md). They are dismissed at the start of your next [turn](../../Browse/rule/combat/turn.md).
 
 
 ###### Source of Earth Statblock
@@ -4823,9 +4823,9 @@ The source starts an encounter at full [Stamina](../../Browse/rule/health/stamin
 >
 >> **Boulder Bash**
 >>
->> | **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Signature** |
+>> | **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Signature** |
 >> |-----------------------------------|------------------------------:|
->> | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
+>> | **📏 [Melee](../../Browse/rule/combat/melee.md) 2 or [ranged](../../Browse/rule/combat/ranged.md) 10**       | **🎯 One creature or object** |
 >>
 >> **[Power Roll](../../Browse/rule/dice/power-roll.md) + 3:**
 >>
@@ -4842,20 +4842,20 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You call forth one of the Great Tree's many splinters to provide for your every need.*
 
-| **Green, Magic, Ranged** | **Main action** |
+| **Green, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** | **Main action** |
 |--------------------------|----------------:|
-| **📏 Ranged 10**         |  **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**         |  **🎯 Special** |
 
-**Effect:** A [size](../../Browse/rule/character/size.md) 5 tree appears in an unoccupied space within [distance](../../Browse/rule/combat/distance.md). The tree has 100 [Stamina](../../Browse/rule/health/stamina.md) and can't be [force moved](../../Browse/movement/forced-movement.md). You and any ally can touch the tree to use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver as a [free maneuver](../../Browse/rule/combat/free-maneuver.md). Additionally, when you start your turn with [line of effect](../../Browse/rule/combat/line-of-effect.md) to the tree, you can end one effect on yourself that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of your turn, or you can stand up if you [are prone](../../Browse/condition/prone.md). Each ally within [distance](../../Browse/rule/combat/distance.md) also gains this benefit.
+**Effect:** A [size](../../Browse/rule/character/size.md) 5 tree appears in an unoccupied space within [distance](../../Browse/rule/combat/distance.md). The tree has 100 [Stamina](../../Browse/rule/health/stamina.md) and can't be [force moved](../../Browse/movement/forced-movement.md). You and any ally can touch the tree to use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver as a [free maneuver](../../Browse/rule/combat/free-maneuver.md). Additionally, when you start your [turn](../../Browse/rule/combat/turn.md) with [line of effect](../../Browse/rule/combat/line-of-effect.md) to the tree, you can end one effect on yourself that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of your [turn](../../Browse/rule/combat/turn.md), or you can stand up if you [are prone](../../Browse/condition/prone.md). Each ally within [distance](../../Browse/rule/combat/distance.md) also gains this benefit.
 
-Each enemy who ends their turn within 3 squares of the tree is [restrained](../../Browse/condition/restrained.md) until the end of their next turn. A creature [restrained](../../Browse/condition/restrained.md) this way can use a main action to end the effect early.
+Each enemy who ends their [turn](../../Browse/rule/combat/turn.md) within 3 squares of the tree is [restrained](../../Browse/condition/restrained.md) until the end of their next [turn](../../Browse/rule/combat/turn.md). A creature [restrained](../../Browse/condition/restrained.md) this way can use a main action to end the effect early.
 
 ##### Muse of Fire {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/muse-of-fire"}
 
 
 *The fire burns hot enough to sear the face of any god watching.*
 
-| **Area, Fire, Magic, Ranged** |               **Main action** |
+| **Area, Fire, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |               **Main action** |
 |-------------------------------|------------------------------:|
 | **📏 5 [cube](../../Browse/rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |
 
@@ -4872,11 +4872,11 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../.
 
 *You create a tear in reality that could consume everything.*
 
-| **Area, Magic, Ranged, Void** | **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md), Void** | **Main action** |
 |-------------------------------|----------------:|
-| **📏 Ranged 10**              |  **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**              |  **🎯 Special** |
 
-**Effect:** You create a [size](../../Browse/rule/character/size.md) 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../../Browse/condition/prone.md). At the end of the round, if a [winded](../../Browse/rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+**Effect:** You create a [size](../../Browse/rule/character/size.md) 1L vortex that lasts until the end of the encounter. At the start of each [combat round](../../Browse/rule/combat/combat-round.md) while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../../Browse/condition/prone.md). At the end of the round, if a [winded](../../Browse/rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 
 ##### World Torn Asunder {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/world-torn-asunder"}
 
@@ -4893,7 +4893,7 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../.
 - **12-16:** M < AVERAGE[, prone](../../Browse/condition/prone.md)
 - **17+:** M < STRONG[, prone](../../Browse/condition/prone.md)
 
-**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../../Browse/condition/prone.md) and [size](../../Browse/rule/character/size.md) 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../../Browse/movement/shifting.md) to the nearest unoccupied space of their choice outside it.
+**Effect:** You create a fissure in the ground [adjacent](../../Browse/rule/combat/adjacent.md) to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../../Browse/condition/prone.md) and [size](../../Browse/rule/character/size.md) 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../../Browse/movement/shifting.md) to the nearest unoccupied space of their choice outside it.
 
 ### 9th-Level Features
 
@@ -4914,7 +4914,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Everyone and everything gets blown away in an eruption of rocks and debris.*
 
-| **Area, Earth, Magic, Ranged** |                          **Main action** |
+| **Area, Earth, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |                          **Main action** |
 |--------------------------------|-----------------------------------------:|
 | **📏 5 [cube](../../Browse/rule/combat/cube.md) within 10**        | **🎯 Each enemy and object in the area** |
 
@@ -4924,20 +4924,20 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 9 damage
 - **17+:** 13 damage
 
-**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+**Persistent 2:** At the start of your [turn](../../Browse/rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence.
 
 ##### The Green Defends Its Servants {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-9/the-green-defends-its-servants"}
 
 
 *A luminous green shield shows its true beauty the more it cracks.*
 
-| **Green, Magic, Ranged** |            **Maneuver** |
+| **Green, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |            **Maneuver** |
 |--------------------------|------------------------:|
-| **📏 Ranged 10**         | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**         | **🎯 Self or one ally** |
 
-**Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the [Defend](../../Browse/feature/common/main-actions/defend.md) main action as a maneuver on each of their turns. The target gains 30 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) that lasts until depleted or until the effect ends. If this [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
+**Effect:** You conjure an elemental shield that protects the target until the end of your next [turn](../../Browse/rule/combat/turn.md). While the shield is active, the target can take the [Defend](../../Browse/feature/common/main-actions/defend.md) main action as a maneuver on each of their [turns](../../Browse/rule/combat/turn.md). The target gains 30 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) that lasts until depleted or until the effect ends. If this [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
 
-**Persistent 2:** The effect lasts until the start of your next turn.
+**Persistent 2:** The effect lasts until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
 ##### Prism {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-9/prism"}
 
@@ -4955,9 +4955,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You let fly a fiery missile braided with pure primal energy.*
 
-| **Fire, Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |            **Main action** |
+| **Fire, Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |            **Main action** |
 |---------------------------------|---------------------------:|
-| **📏 Ranged 10**                | **🎯 One enemy or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                | **🎯 One enemy or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -4983,7 +4983,7 @@ Your [Reason](../../Browse/rule/character/reason.md) score increases to 5. Addit
 
 #### Essential Being {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/essential-being"}
 
-When you gain essence at the start of each of your turns during combat, you gain 4 essence instead of 3.
+When you gain essence at the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 4 essence instead of 3.
 
 #### One {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/one"}
 
@@ -5006,9 +5006,9 @@ Additionally, as a [respite](../../Browse/rule/resource/respite.md) activity, yo
 
 ##### Master of Fire {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-fire"}
 
-The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
+The damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
-Additionally, your [Return to Formlessness](../../Browse/feature/ability/elementalist/level-1/return-to-formlessness.md) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](rewards.md)), you gain breath equal to its [echelon](../../Browse/rule/general/echelon.md).
+Additionally, your [Return to Formlessness](../../Browse/feature/ability/elementalist/level-1/return-to-formlessness.md) ability can be used on [supernatural](../../Browse/rule/general/supernatural.md) objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](rewards.md)), you gain breath equal to its [echelon](../../Browse/rule/general/echelon.md).
 
 ##### Master of Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-green"}
 
@@ -5016,7 +5016,7 @@ The number of [Recoveries](../../Browse/rule/health/recoveries.md) you have incr
 
 Additionally, as a [respite](../../Browse/rule/resource/respite.md) activity, you can perform a ritual that causes a fruit tree to spring from the ground, grow, mature, and produce 1d6 of a treasure called Life Fruit. You can use a [respite](../../Browse/rule/resource/respite.md) activity to cause an existing tree to produce another 1d6 Life Fruit, but it does not grow these magic [consumables](../../Browse/rule/treasure/consumable.md) on its own.
 
-As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their [Stamina](../../Browse/rule/health/stamina.md), they can end all conditions or effects on themself, and they can stand up if [prone](../../Browse/condition/prone.md). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
+As a maneuver, a creature can consume a Life Fruit or feed it to an [adjacent](../../Browse/rule/combat/adjacent.md) willing ally. When a creature eats a Life Fruit, they restore all their [Stamina](../../Browse/rule/health/stamina.md), they can end all [conditions](../../Browse/rule/combat/condition.md) or effects on themself, and they can stand up if [prone](../../Browse/condition/prone.md). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
 
 ##### Master of Void {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-void"}
 
@@ -5026,7 +5026,7 @@ Additionally, your mind is connected to the mystery and helps you find the answe
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/perk"}
 
-You gain one crafting, lore, or supernatural perk of your choice.
+You gain one crafting, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice.
 
 #### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/skill"}
 
@@ -5103,9 +5103,9 @@ Within the heat of battle, your determination and anger grow, fueling a [Heroic 
 
 ##### Ferocity in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain ferocity equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 ferocity.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../Browse/rule/combat/combat-round.md) (as determined by the Director), you gain ferocity equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 1d3 ferocity.
 
-Additionally, the first time each combat round that you take damage, you gain 1 ferocity. The first time you become [winded](../../Browse/rule/health/winded.md) or are [dying](../../Browse/rule/health/dying.md) in an encounter, you gain 1d3 ferocity.
+Additionally, the first time each [combat round](../../Browse/rule/combat/combat-round.md) that you take damage, you gain 1 ferocity. The first time you become [winded](../../Browse/rule/health/winded.md) or are [dying](../../Browse/rule/health/dying.md) in an encounter, you gain 1d3 ferocity.
 
 You lose any remaining ferocity at the end of the encounter.
 
@@ -5117,7 +5117,7 @@ When you use an ability outside of combat that lets you spend unlimited ferocity
 
 #### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-1/growing-ferocity"}
 
-You gain certain benefits in combat based on the amount of ferocity you have (see 1st-Level Aspect Features for details). These benefits last until the end of your turn, even if a benefit would become unavailable to you because of the amount of ferocity you spend during your turn.
+You gain certain benefits in combat based on the amount of ferocity you have (see 1st-Level Aspect Features for details). These benefits last until the end of your [turn](../../Browse/rule/combat/turn.md), even if a benefit would become unavailable to you because of the amount of ferocity you spend during your [turn](../../Browse/rule/combat/turn.md).
 
 Some [Growing Ferocity](../../Browse/feature/fury/boren/growing-ferocity.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the various [Growing Ferocity](../../Browse/feature/fury/boren/growing-ferocity.md) tables in this section.
 
@@ -5125,23 +5125,23 @@ Some [Growing Ferocity](../../Browse/feature/fury/boren/growing-ferocity.md) ben
 
 | Ferocity        | Benefit                                                                                                                                                                                                                        |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Might](../../Browse/rule/character/might.md) score.                                                                                                                 |
-| 4               | The first time you push a creature on a turn, you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                                                                                                |
+| 2               | Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Might](../../Browse/rule/character/might.md) score.                                                                                                                 |
+| 4               | The first time you push a creature on a [turn](../../Browse/rule/combat/turn.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                                                                                                |
 | 6               | You gain an [edge](../../Browse/rule/dice/edge.md) on [Might](../../Browse/rule/character/might.md) [tests](../../Browse/rule/test/test.md) and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time you push a creature on a turn, you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                                                                                                                               |
+| 8 (4th level)   | The first time you push a creature on a [turn](../../Browse/rule/combat/turn.md), you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                                                                                                                               |
 | 10 (7th level)  | You have a double [edge](../../Browse/rule/dice/edge.md) on [Might](../../Browse/rule/character/might.md) [tests](../../Browse/rule/test/test.md) and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, whenever you make a [power roll](../../Browse/rule/dice/power-roll.md) that imposes [forced movement](../../Browse/movement/forced-movement.md) on a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Might](../../Browse/rule/character/might.md) score. |
+| 12 (10th level) | Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, whenever you make a [power roll](../../Browse/rule/dice/power-roll.md) that imposes [forced movement](../../Browse/movement/forced-movement.md) on a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Might](../../Browse/rule/character/might.md) score. |
 
 ###### Reaver Growing Ferocity Table
 
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Agility](../../Browse/rule/character/agility.md) score.                                                                                                                 |
-| 4               | The first time you slide a creature on a turn, you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                                                                                                 |
+| 2               | Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Agility](../../Browse/rule/character/agility.md) score.                                                                                                                 |
+| 4               | The first time you slide a creature on a [turn](../../Browse/rule/combat/turn.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                                                                                                 |
 | 6               | You gain an [edge](../../Browse/rule/dice/edge.md) on [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md) and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time you slide a creature on a turn, you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                                                                                                                                |
+| 8 (4th level)   | The first time you slide a creature on a [turn](../../Browse/rule/combat/turn.md), you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                                                                                                                                |
 | 10 (7th level)  | You have a double [edge](../../Browse/rule/dice/edge.md) on [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md) and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, whenever you make a [power roll](../../Browse/rule/dice/power-roll.md) that imposes [forced movement](../../Browse/movement/forced-movement.md) on a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Agility](../../Browse/rule/character/agility.md) score. |
+| 12 (10th level) | Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, whenever you make a [power roll](../../Browse/rule/dice/power-roll.md) that imposes [forced movement](../../Browse/movement/forced-movement.md) on a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Agility](../../Browse/rule/character/agility.md) score. |
 
 #### 1st-Level Aspect Features {data-scc="mcdm.heroes.v1/feature.fury.level-1/1st-level-aspect-features"}
 
@@ -5211,15 +5211,15 @@ Your [primordial aspect](../../Browse/feature/fury/level-1/primordial-aspect.md)
 
 *You redirect the energy of motion.*
 
-| **Magic, Melee** |               **Triggered** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md)** |               **Triggered** |
 |------------------|----------------------------:|
-| **📏 Melee 1**   | **🎯 Self or one creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**   | **🎯 Self or one creature** |
 
 **Trigger:** The target would be [force moved](../../Browse/movement/forced-movement.md).
 
-**Effect:** You can select a new target of the same [size](../../Browse/rule/character/size.md) or smaller within [distance](../../Browse/rule/combat/distance.md) to be force moved instead. You become the source of the [forced movement](../../Browse/movement/forced-movement.md), determine the new target's destination, and can push the target instead of using the original [forced movement](../../Browse/movement/forced-movement.md) type. Additionally, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Might](../../Browse/rule/character/might.md) score.
+**Effect:** You can select a new target of the same [size](../../Browse/rule/character/size.md) or smaller within [distance](../../Browse/rule/combat/distance.md) to be force moved instead. You become the source of the [forced movement](../../Browse/movement/forced-movement.md), determine the new target's destination, and can push the target instead of using the original [forced movement](../../Browse/movement/forced-movement.md) type. Additionally, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Might](../../Browse/rule/character/might.md) score.
 
-**Spend 1 Ferocity:** The [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to twice your [Might](../../Browse/rule/character/might.md) score instead.
+**Spend 1 Ferocity:** The [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to twice your [Might](../../Browse/rule/character/might.md) score instead.
 
 ###### Unearthly Reflexes {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/unearthly-reflexes"}
 
@@ -5253,9 +5253,9 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 
 *The heavy impact of your weapon attacks drives your foes ever back.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |                **Main action** |
 |---------------------------|-------------------------------:|
-| **📏 Melee 1**            |  **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            |  **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5268,9 +5268,9 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 
 *Staying in constant motion helps you slip out of reach after a brutal assault.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5285,9 +5285,9 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 
 *You skewer your enemy like a boar upon a spit.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                             **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |                             **Main action** |
 |---------------------------|--------------------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature of your [size](../../Browse/rule/character/size.md) or smaller** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature of your [size](../../Browse/rule/character/size.md) or smaller** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5300,9 +5300,9 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 
 *Your reckless assault leaves you tactically vulnerable.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5325,7 +5325,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You hew about you with your mighty weapon, hurling enemies backward.*
 
-| **Area, Melee, Weapon** |               **Main action** |
+| **Area, [Melee](../../Browse/rule/combat/melee.md), Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 1 [burst](../../Browse/rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 
@@ -5340,9 +5340,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your enemies will clear your path—whether they want to or not.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5357,11 +5357,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Teach them the folly of lining up for you.*
 
-| **Melee, Weapon**      | **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Weapon**      | **Main action** |
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You move up to your [speed](../../Browse/rule/character/speed.md) in a straight line, and enemy squares are not [difficult terrain](../../Browse/movement/difficult-terrain.md) for this movement. You can end this movement in a creature's space and move them to an adjacent unoccupied space. You make one [power roll](../../Browse/rule/dice/power-roll.md) that targets each enemy whose space you move through.
+**Effect:** You move up to your [speed](../../Browse/rule/character/speed.md) in a straight line, and enemy squares are not [difficult terrain](../../Browse/movement/difficult-terrain.md) for this movement. You can end this movement in a creature's space and move them to an [adjacent](../../Browse/rule/combat/adjacent.md) unoccupied space. You make one [power roll](../../Browse/rule/dice/power-roll.md) that targets each enemy whose space you move through.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5376,9 +5376,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Hard for them to fight when they're busy holding in their giblets.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5386,7 +5386,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 5 + M damage; M < AVERAGE, [bleeding](../../Browse/condition/bleeding.md) (save ends)
 - **17+:** 8 + M damage; M < STRONG, [bleeding](../../Browse/condition/bleeding.md) (save ends)
 
-**Effect:** While [bleeding](../../Browse/condition/bleeding.md) this way, the target takes damage equal to your [Might](../../Browse/rule/character/might.md) score at the end of each of your turns.
+**Effect:** While [bleeding](../../Browse/condition/bleeding.md) this way, the target takes damage equal to your [Might](../../Browse/rule/character/might.md) score at the end of each of your [turns](../../Browse/rule/combat/turn.md).
 
 ###### 5-Ferocity Ability
 
@@ -5397,9 +5397,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *See how well they fight after you've bled them dry.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon**   |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**   |               **Main action** |
 |-----------------------------|------------------------------:|
-| **📏 Melee 1**              | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**              | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5418,14 +5418,14 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------|------------------:|
 | **📏 Self** |       **🎯 Self** |
 
-**Effect:** You gain 1 [surge](../../Browse/rule/resource/surge.md), and the next [ability roll](../../Browse/rule/dice/ability-roll.md) you make this turn automatically obtains a tier 3 outcome.
+**Effect:** You gain 1 [surge](../../Browse/rule/resource/surge.md), and the next [ability roll](../../Browse/rule/dice/ability-roll.md) you make this [turn](../../Browse/rule/combat/turn.md) automatically obtains a tier 3 outcome.
 
 ###### Thunder Roar {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/thunder-roar"}
 
 
 *You unleash a howl that hurls your enemies back.*
 
-| **Area, Melee, Weapon**    |               **Main action** |
+| **Area, [Melee](../../Browse/rule/combat/melee.md), Weapon**    |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
@@ -5442,9 +5442,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You gut your life force to ensure a foe's demise.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5476,11 +5476,11 @@ Your [primordial aspect](../../Browse/feature/fury/level-1/primordial-aspect.md)
 
 ##### Inescapable Wrath {data-scc="mcdm.heroes.v1/feature.fury.level-2/inescapable-wrath"}
 
-You have a bonus to [speed](../../Browse/rule/character/speed.md) equal to your [Agility](../../Browse/rule/character/agility.md) score, and you ignore [difficult terrain](../../Browse/movement/difficult-terrain.md).
+You have a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) equal to your [Agility](../../Browse/rule/character/agility.md) score, and you ignore [difficult terrain](../../Browse/movement/difficult-terrain.md).
 
 ##### Tooth and Claw {data-scc="mcdm.heroes.v1/feature.fury.level-2/tooth-and-claw"}
 
-At the end of each of your turns, each enemy adjacent to you takes damage equal to your [Might](../../Browse/rule/character/might.md) score.
+At the end of each of your [turns](../../Browse/rule/combat/turn.md), each enemy [adjacent](../../Browse/rule/combat/adjacent.md) to you takes damage equal to your [Might](../../Browse/rule/character/might.md) score.
 
 ##### Unstoppable Force {data-scc="mcdm.heroes.v1/feature.fury.level-2/unstoppable-force"}
 
@@ -5499,9 +5499,9 @@ Choose one of the following abilities.
 
 *You ready?*
 
-| **Melee, Weapon** |            **Maneuver** |
+| **[Melee](../../Browse/rule/combat/melee.md), Weapon** |            **Maneuver** |
 |-------------------|------------------------:|
-| **📏 Melee 1**    | **🎯 One willing ally** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**    | **🎯 One willing ally** |
 
 **Effect:** You vertically push the target up to 4 squares. This [forced movement](../../Browse/movement/forced-movement.md) ignores the target's [stability](../../Browse/rule/character/stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) that deals extra damage equal to your [Might](../../Browse/rule/character/might.md) score.
 
@@ -5510,13 +5510,13 @@ Choose one of the following abilities.
 
 *It's easier to destroy than to create. Much easier, in fact!*
 
-| **Melee, Weapon**      | **Maneuver** |
+| **[Melee](../../Browse/rule/combat/melee.md), Weapon**      | **Maneuver** |
 |------------------------|-------------:|
 | **📏 Self; see below** |  **🎯 Self** |
 
 **Effect:** You move up to your [speed](../../Browse/rule/character/speed.md) in a straight line. During this movement, you can move through mundane structures, including walls, which are [difficult terrain](../../Browse/movement/difficult-terrain.md) for you. You automatically destroy each square of structure you move through and leave behind a square of [difficult terrain](../../Browse/movement/difficult-terrain.md).
 
-Additionally, you make one [power roll](../../Browse/rule/dice/power-roll.md) that targets each enemy you move adjacent to during this movement.
+Additionally, you make one [power roll](../../Browse/rule/dice/power-roll.md) that targets each enemy you move [adjacent](../../Browse/rule/combat/adjacent.md) to during this movement.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5533,9 +5533,9 @@ Choose one of the following abilities.
 
 *Your unbridled rage strikes terror in their hearts.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5548,11 +5548,11 @@ Choose one of the following abilities.
 
 *Organizing your forces like feckless creatures of Law. Pitiful.*
 
-| **Melee, Weapon**      | **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Weapon**      | **Main action** |
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md) and make one [power roll](../../Browse/rule/dice/power-roll.md) that targets up to three enemies you move adjacent to during this [shift](../../Browse/movement/shifting.md).
+**Effect:** You [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md) and make one [power roll](../../Browse/rule/dice/power-roll.md) that targets up to three enemies you move [adjacent](../../Browse/rule/combat/adjacent.md) to during this [shift](../../Browse/movement/shifting.md).
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5569,9 +5569,9 @@ Choose one of the following abilities.
 
 *I will hunt you down.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5618,7 +5618,7 @@ Your [primordial aspect](../../Browse/feature/fury/level-1/primordial-aspect.md)
 
 You add your level to your effective [size](../../Browse/rule/character/size.md) for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by [forced movement](../../Browse/movement/forced-movement.md), and so forth. This has no effect on whether you can be [grabbed](../../Browse/condition/grabbed.md).
 
-Additionally, you have a bonus to [stability](../../Browse/rule/character/stability.md) equal to your [Might](../../Browse/rule/character/might.md) score.
+Additionally, you have a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md) equal to your [Might](../../Browse/rule/character/might.md) score.
 
 ##### Nature's Knight {data-scc="mcdm.heroes.v1/feature.fury.level-3/natures-knight"}
 
@@ -5643,7 +5643,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](../../Browse/condition/frightened.md) until the end of their turn.
+**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each enemy who starts their [turn](../../Browse/rule/combat/turn.md) [adjacent](../../Browse/rule/combat/adjacent.md) to you and has P < STRONG is [frightened](../../Browse/condition/frightened.md) until the end of their [turn](../../Browse/rule/combat/turn.md).
 
 ##### Face the Storm! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/face-the-storm"}
 
@@ -5654,7 +5654,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each creature you make a melee [strike](../../Browse/rule/combat/strike.md) against who has P < AVERAGE is [taunted](../../Browse/condition/taunted.md) until the end of their next turn. Additionally, when you use an ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) against any enemy [taunted](../../Browse/condition/taunted.md) by you, the ability deals extra damage equal to twice your [Might](../../Browse/rule/character/might.md) score and increases its [potency](../../Browse/rule/character/potency.md) by 1.
+**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each creature you make a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) against who has P < AVERAGE is [taunted](../../Browse/condition/taunted.md) until the end of their next [turn](../../Browse/rule/combat/turn.md). Additionally, when you use an ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) against any enemy [taunted](../../Browse/condition/taunted.md) by you, the ability deals extra damage equal to twice your [Might](../../Browse/rule/character/might.md) score and increases its [potency](../../Browse/rule/character/potency.md) by 1.
 
 ##### Steelbreaker {data-scc="mcdm.heroes.v1/feature.ability.fury.level-3/steelbreaker"}
 
@@ -5672,11 +5672,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Slash. Walk away.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
-**Effect:** If the target is not a leader or solo creature, they are reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) at the end of their next turn. If the target is a leader or solo creature, you gain 3 [surges](../../Browse/rule/resource/surge.md) and can make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them.
+**Effect:** If the target is not a leader or solo creature, they are reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) at the end of their next [turn](../../Browse/rule/combat/turn.md). If the target is a leader or solo creature, you gain 3 [surges](../../Browse/rule/resource/surge.md) and can make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them.
 
 ### 4th-Level Features
 
@@ -5688,7 +5688,7 @@ Your [Might](../../Browse/rule/character/might.md) and [Agility](../../Browse/ru
 
 #### Damaging Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-4/damaging-ferocity"}
 
-The first time you take damage each combat round, you gain 2 ferocity instead of 1.
+The first time you take damage each [combat round](../../Browse/rule/combat/combat-round.md), you gain 2 ferocity instead of 1.
 
 #### Growing Ferocity Improvement {data-scc="mcdm.heroes.v1/feature.fury.level-4/growing-ferocity-improvement"}
 
@@ -5736,7 +5736,7 @@ You and each ally within 5 squares of you ignore negative effects from inclement
 
 ##### Unfettered {data-scc="mcdm.heroes.v1/feature.fury.level-5/unfettered"}
 
-At the start of your turn, you can end any [restrained](../../Browse/condition/restrained.md) condition on you. Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to escape being confined or imprisoned.
+At the start of your [turn](../../Browse/rule/combat/turn.md), you can end any [restrained](../../Browse/condition/restrained.md) [condition](../../Browse/rule/combat/condition.md) on you. Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to escape being confined or imprisoned.
 
 #### 9-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.fury.level-5/9-ferocity-ability"}
 
@@ -5747,9 +5747,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You need just one blow to sabotage your target.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5764,9 +5764,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You quickly strike back at a foe.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |             **Free triggered** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |             **Free triggered** |
 |---------------------------|-------------------------------:|
-| **📏 Melee 1**            | **🎯 The triggering creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 The triggering creature** |
 
 **Trigger:** A creature causes you to be [winded](../../Browse/rule/health/winded.md) or [dying](../../Browse/rule/health/dying.md), or damages you while you are [winded](../../Browse/rule/health/winded.md) or [dying](../../Browse/rule/health/dying.md).
 
@@ -5783,9 +5783,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You knock around enemies like playthings.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
-| **📏 Melee 1**            | **🎯 Two creatures or objects** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 Two creatures or objects** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5800,9 +5800,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You channel the Primordial Chaos into blows that petrify your foe... literally.*
 
-| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                   | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5810,7 +5810,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 13 + M damage; M < AVERAGE, [slowed](../../Browse/condition/slowed.md) (save ends)
 - **17+:** 18 + M damage; M < STRONG, [restrained](../../Browse/condition/restrained.md) (save ends)
 
-**Effect:** While the target is [slowed](../../Browse/condition/slowed.md) this way, any other effect that would make the target [slowed](../../Browse/condition/slowed.md) instead makes them [restrained](../../Browse/condition/restrained.md) by this ability. Additionally, a creature who fails the [saving throw](../../Browse/rule/general/saving-throw.md) while [restrained](../../Browse/condition/restrained.md) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
+**Effect:** While the target is [slowed](../../Browse/condition/slowed.md) this way, any other effect that would make the target [slowed](../../Browse/condition/slowed.md) instead makes them [restrained](../../Browse/condition/restrained.md) by this ability. Additionally, a creature who fails the [saving throw](../../Browse/rule/general/saving-throw.md) while [restrained](../../Browse/condition/restrained.md) this way is petrified until they are given a [supernatural](../../Browse/rule/general/supernatural.md) cure or you choose to reverse the effect (no action required).
 
 ### 6th-Level Features
 
@@ -5849,7 +5849,7 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You jump up to your maximum jump [distance](../../Browse/rule/combat/distance.md) and make one [power roll](../../Browse/rule/dice/power-roll.md) that targets each creature adjacent to the space where you land.
+**Effect:** You jump up to your maximum jump [distance](../../Browse/rule/combat/distance.md) and make one [power roll](../../Browse/rule/dice/power-roll.md) that targets each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the space where you land.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5862,9 +5862,9 @@ Choose one of the following abilities.
 
 *You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5881,24 +5881,24 @@ Choose one of the following abilities.
 ###### Death Strike {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/death-strike"}
 
 
-*Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.*
+*Once you taste your foe's blood, you become more efficient and [turn](../../Browse/rule/combat/turn.md) every killing blow into an opportunity.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** | **Free triggered** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** | **Free triggered** |
 |---------------------------|-------------------:|
-| **📏 Melee 1**            |        **🎯 Self** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            |        **🎯 Self** |
 
 **Trigger:** You reduce a creature to 0 [Stamina](../../Browse/rule/health/stamina.md) with a [strike](../../Browse/rule/combat/strike.md).
 
-**Effect:** You target a creature adjacent to you with the same strike, using the same [power roll](../../Browse/rule/dice/power-roll.md) as the triggering strike.
+**Effect:** You target a creature [adjacent](../../Browse/rule/combat/adjacent.md) to you with the same strike, using the same [power roll](../../Browse/rule/dice/power-roll.md) as the triggering strike.
 
 ###### Seek and Destroy {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/seek-and-destroy"}
 
 
 *You break through the enemy lines to make an example.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **Effect:** You [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md).
 
@@ -5919,9 +5919,9 @@ Choose one of the following abilities.
 
 *You strike at the target like the ultimate predator you are.*
 
-| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                   | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -5929,7 +5929,7 @@ Choose one of the following abilities.
 - **12-16:** 13 damage; M < AVERAGE, [grabbed](../../Browse/condition/grabbed.md)
 - **17+:** 17 damage; M < STRONG, [grabbed](../../Browse/condition/grabbed.md)
 
-**Effect:** You can [shift](../../Browse/movement/shifting.md) up to 4 squares, bringing the target with you. While [grabbed](../../Browse/condition/grabbed.md) this way, the target takes damage equal to twice your [Might](../../Browse/rule/character/might.md) score at the start of each of your turns.
+**Effect:** You can [shift](../../Browse/movement/shifting.md) up to 4 squares, bringing the target with you. While [grabbed](../../Browse/condition/grabbed.md) this way, the target takes damage equal to twice your [Might](../../Browse/rule/character/might.md) score at the start of each of your [turns](../../Browse/rule/combat/turn.md).
 
 ###### Riders on the Storm {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/riders-on-the-storm"}
 
@@ -5940,7 +5940,7 @@ Choose one of the following abilities.
 |-----------------|---------------------------------:|
 | **📏 3 [aura](../../Browse/rule/combat/aura.md)**   | **🎯 Each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each enemy target takes damage of your primordial [damage type](../../Browse/rule/damage/damage-type.md) equal to twice your [Might](../../Browse/rule/character/might.md) score at the end of each of your turns. Additionally, you can [fly](../../Browse/movement/fly.md) while the [aura](../../Browse/rule/combat/aura.md) is active. Each ally target who starts or ends their turn in the area can also [fly](../../Browse/movement/fly.md) until the start of their next turn or until the effect ends.
+**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), each enemy target takes damage of your primordial [damage type](../../Browse/rule/damage/damage-type.md) equal to twice your [Might](../../Browse/rule/character/might.md) score at the end of each of your [turns](../../Browse/rule/combat/turn.md). Additionally, you can [fly](../../Browse/movement/fly.md) while the [aura](../../Browse/rule/combat/aura.md) is active. Each ally target who starts or ends their [turn](../../Browse/rule/combat/turn.md) in the area can also [fly](../../Browse/movement/fly.md) until the start of their next [turn](../../Browse/rule/combat/turn.md) or until the effect ends.
 
 **Special:** When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a [primordial storm](../../Browse/feature/fury/stormwight-kits/primordial-storm.md) that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.
 
@@ -5960,7 +5960,7 @@ Additionally, if you are a berserker or reaver, you have immunity to acid, cold,
 
 #### Greater Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-7/greater-ferocity"}
 
-When you gain ferocity at the start of each of your turns during combat, you gain 1d3 + 1 ferocity instead of 1d3.
+When you gain ferocity at the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 1d3 + 1 ferocity instead of 1d3.
 
 #### Growing Ferocity Improvement {data-scc="mcdm.heroes.v1/feature.fury.level-7/growing-ferocity-improvement"}
 
@@ -5996,11 +5996,11 @@ You can use all [stormwight kits](../../Browse/feature/fury/stormwight-kits/kit-
 
 ##### A Step Ahead {data-scc="mcdm.heroes.v1/feature.fury.level-8/a-step-ahead"}
 
-You move with legendary grace. Whenever you make an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md), you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action, the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md) gains a bonus equal to your [Agility](../../Browse/rule/character/agility.md) score.
+You move with legendary grace. Whenever you make an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md), you can roll three dice and choose which two to use. Additionally, whenever you use the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action, the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Agility](../../Browse/rule/character/agility.md) score.
 
 ##### Strongest There Is {data-scc="mcdm.heroes.v1/feature.fury.level-8/strongest-there-is"}
 
-Your strength is unmatched. Whenever you make a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md), you can roll three dice and choose which two to use. Additionally, whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Might](../../Browse/rule/character/might.md) score.
+Your strength is unmatched. Whenever you make a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md), you can roll three dice and choose which two to use. Additionally, whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Might](../../Browse/rule/character/might.md) score.
 
 #### 11-Ferocity Ability {data-scc="mcdm.heroes.v1/feature.fury.level-8/11-ferocity-ability"}
 
@@ -6022,9 +6022,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You strike so no damage is wasted.*
 
-| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                   | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -6050,11 +6050,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You won't escape your fate.*
 
-| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** | **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** | **Main action** |
 |----------------------------------|----------------:|
 | **📏 Self; see below**           |     **🎯 Self** |
 
-**Effect:** You [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md). Each enemy you move adjacent to during this movement takes damage equal to twice your [Might](../../Browse/rule/character/might.md) score. Then make one [power roll](../../Browse/rule/dice/power-roll.md) that targets each enemy you move adjacent to during this [shift](../../Browse/movement/shifting.md). You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).
+**Effect:** You [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md). Each enemy you move [adjacent](../../Browse/rule/combat/adjacent.md) to during this movement takes damage equal to twice your [Might](../../Browse/rule/character/might.md) score. Then make one [power roll](../../Browse/rule/dice/power-roll.md) that targets each enemy you move [adjacent](../../Browse/rule/combat/adjacent.md) to during this [shift](../../Browse/movement/shifting.md). You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -6083,7 +6083,7 @@ Choose one of the following abilities.
 
 *You use your weapon to create a destructive shockwave.*
 
-| **Area, Magic, Melee, Weapon** |               **Main action** |
+| **Area, Magic, [Melee](../../Browse/rule/combat/melee.md), Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 3 [burst](../../Browse/rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
 
@@ -6100,7 +6100,7 @@ Choose one of the following abilities.
 
 *You channel the power of the Primordial Chaos to pull foes to you.*
 
-| **Area, Magic, Melee, Weapon** |               **Main action** |
+| **Area, Magic, [Melee](../../Browse/rule/combat/melee.md), Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 3 [burst](../../Browse/rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
 
@@ -6121,9 +6121,9 @@ Choose one of the following abilities.
 
 *You attune the target to be weaker to a specific element.*
 
-| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                   | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -6138,9 +6138,9 @@ Choose one of the following abilities.
 
 *You shock your foes with the brutality of your [strike](../../Browse/rule/combat/strike.md), resetting the balance of combat.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -6174,7 +6174,7 @@ Choose one of the following abilities.
 
 *You summon your [primordial storm](../../Browse/feature/fury/stormwight-kits/primordial-storm.md).*
 
-| **Area, Magic, Ranged** |               **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 5 [cube](../../Browse/rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 
@@ -6212,7 +6212,7 @@ You gain one crafting, exploration, or intrigue perk of your choice.
 
 #### Primordial Ferocity {data-scc="mcdm.heroes.v1/feature.fury.level-10/primordial-ferocity"}
 
-The first time you take damage each combat round, you gain 3 ferocity instead of 2.
+The first time you take damage each [combat round](../../Browse/rule/combat/combat-round.md), you gain 3 ferocity instead of 2.
 
 #### Primordial Power {data-scc="mcdm.heroes.v1/feature.fury.level-10/primordial-power"}
 
@@ -6267,7 +6267,7 @@ You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat
 
 ##### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.stormwight-kits/kit-bonuses"}
 
-These bonuses apply in your true form, your [animal form](../../Browse/complication/animal-form.md), and your hybrid form. See Chapter 6: [Kits](kits.md) for information on [kit bonuses](../../Browse/feature/fury/boren/kit-bonuses.md).
+These [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es apply in your true form, your [animal form](../../Browse/complication/animal-form.md), and your hybrid form. See Chapter 6: [Kits](kits.md) for information on [kit bonuses](../../Browse/feature/fury/boren/kit-bonuses.md).
 
 ##### Signature Ability
 
@@ -6283,15 +6283,15 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 
 ##### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.boren/aspect-benefits"}
 
-Whenever you use [forced movement](../../Browse/movement/forced-movement.md) to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has M < AVERAGE, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to make that creature [grabbed](../../Browse/condition/grabbed.md) by you.
+Whenever you use [forced movement](../../Browse/movement/forced-movement.md) to push a creature, you can pull that creature instead. Whenever you pull a creature [adjacent](../../Browse/rule/combat/adjacent.md) to you and that creature has M < AVERAGE, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to make that creature [grabbed](../../Browse/condition/grabbed.md) by you.
 
 ##### Animal Form: Bear {data-scc="mcdm.heroes.v1/feature.fury.boren/animal-form-bear"}
 
-While you are in your bear form, your [size](../../Browse/rule/character/size.md) is 2 and you gain a +1 bonus to [distance](../../Browse/rule/combat/distance.md) with melee weapon abilities.
+While you are in your bear form, your [size](../../Browse/rule/character/size.md) is 2 and you gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [distance](../../Browse/rule/combat/distance.md) with [melee](../../Browse/rule/combat/melee.md) weapon abilities.
 
 ##### Hybrid Form: Bear {data-scc="mcdm.heroes.v1/feature.fury.boren/hybrid-form-bear"}
 
-While you are in your hybrid form, your [size](../../Browse/rule/character/size.md) is 2 and you gain a +1 bonus to [distance](../../Browse/rule/combat/distance.md) with melee weapon abilities. At 4th level, the first time you take hybrid form in an encounter, you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
+While you are in your hybrid form, your [size](../../Browse/rule/character/size.md) is 2 and you gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [distance](../../Browse/rule/combat/distance.md) with [melee](../../Browse/rule/combat/melee.md) weapon abilities. At 4th level, the first time you take hybrid form in an encounter, you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
 
 ##### Primordial Storm: Blizzard {data-scc="mcdm.heroes.v1/feature.fury.boren/primordial-storm-blizzard"}
 
@@ -6299,9 +6299,9 @@ Your primordial [damage type](../../Browse/rule/damage/damage-type.md) is cold.
 
 ##### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.boren/kit-bonuses"}
 
-- **[Stamina](../../Browse/rule/health/stamina.md) Bonus:** +9 per [echelon](../../Browse/rule/general/echelon.md)
-- **[Stability](../../Browse/rule/character/stability.md) Bonus:** +2
-- **Melee Damage Bonus:** +0/+0/+4
+- **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +9 per [echelon](../../Browse/rule/general/echelon.md)
+- **[Stability](../../Browse/rule/character/stability.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +2
+- **[Melee](../../Browse/rule/combat/melee.md) Damage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +0/+0/+4
 
 ##### Signature Ability
 
@@ -6309,9 +6309,9 @@ Your primordial [damage type](../../Browse/rule/damage/damage-type.md) is cold.
 
 *Attacks with your sharp and deadly claws grab the weak.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -6328,11 +6328,11 @@ As your ferocity grows, you gain benefits as noted on the [Boren](../../Browse/k
 | Ferocity        | Benefit                                                                                                                                                                                                                   |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | You can have up to two creatures [grabbed](../../Browse/condition/grabbed.md) at a time. Additionally, whenever you make a [strike](../../Browse/rule/combat/strike.md) against a creature you have [grabbed](../../Browse/condition/grabbed.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                       |
-| 4               | The first time you grab a creature on a turn, you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                                                                                           |
+| 4               | The first time you grab a creature on a [turn](../../Browse/rule/combat/turn.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                                                                                           |
 | 6               | You gain an [edge](../../Browse/rule/dice/edge.md) on the [Grab](../../Browse/feature/common/maneuvers/grab.md) and [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                                                     |
-| 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 [surges](../../Browse/rule/resource/surge.md) instead of 1.                                                                                                                                             |
+| 8 (4th level)   | The first time you grab a creature on a [turn](../../Browse/rule/combat/turn.md), you gain 2 [surges](../../Browse/rule/resource/surge.md) instead of 1.                                                                                                                                             |
 | 10 (7th level)  | You have a double [edge](../../Browse/rule/dice/edge.md) on the [Grab](../../Browse/feature/common/maneuvers/grab.md) and [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                                               |
-| 12 (10th level) | Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, whenever you have a creature [grabbed](../../Browse/condition/grabbed.md), any [ability roll](../../Browse/rule/dice/ability-roll.md) made against that creature gains a bonus to its [potency](../../Browse/rule/character/potency.md) equal to your [Might](../../Browse/rule/character/might.md) score. |
+| 12 (10th level) | Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, whenever you have a creature [grabbed](../../Browse/condition/grabbed.md), any [ability roll](../../Browse/rule/dice/ability-roll.md) made against that creature gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to its [potency](../../Browse/rule/character/potency.md) equal to your [Might](../../Browse/rule/character/might.md) score. |
 
 #### Corven {data-scc="mcdm.heroes.v1/kit/corven"}
 
@@ -6356,10 +6356,10 @@ Your primordial [damage type](../../Browse/rule/damage/damage-type.md) is fire.
 
 ##### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.corven/kit-bonuses"}
 
-- **[Stamina](../../Browse/rule/health/stamina.md) Bonus:** +3 per [echelon](../../Browse/rule/general/echelon.md)
-- **[Speed](../../Browse/rule/character/speed.md) Bonus:** +3
-- **Melee Damage Bonus:** +2/+2/+2
-- **Disengage Bonus:** +1
+- **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +3 per [echelon](../../Browse/rule/general/echelon.md)
+- **[Speed](../../Browse/rule/character/speed.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +3
+- **[Melee](../../Browse/rule/combat/melee.md) Damage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +2/+2/+2
+- **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
 ##### Signature Ability
 
@@ -6367,7 +6367,7 @@ Your primordial [damage type](../../Browse/rule/damage/damage-type.md) is fire.
 
 *Foes who try to close in around you do so at their peril.*
 
-| **Area, Melee, Weapon** |               **Main action** |
+| **Area, [Melee](../../Browse/rule/combat/melee.md), Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 1 [burst](../../Browse/rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 
@@ -6387,10 +6387,10 @@ As your ferocity grows, you gain benefits as noted on the [Corven](../../Browse/
 
 | Ferocity        | Benefit                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action, the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md) gains a bonus equal to your [Agility](../../Browse/rule/character/agility.md) score.                                 |
-| 4               | The first time you [shift](../../Browse/movement/shifting.md) on a turn, you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                             |
+| 2               | Whenever you use the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action, the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Agility](../../Browse/rule/character/agility.md) score.                                 |
+| 4               | The first time you [shift](../../Browse/movement/shifting.md) on a [turn](../../Browse/rule/combat/turn.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                             |
 | 6               | You gain an [edge](../../Browse/rule/dice/edge.md) on [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md), the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                          |
-| 8 (4th level)   | The first time you [shift](../../Browse/movement/shifting.md) on a turn, you gain 2 [surges](../../Browse/rule/resource/surge.md) instead of 1.                                                                               |
+| 8 (4th level)   | The first time you [shift](../../Browse/movement/shifting.md) on a [turn](../../Browse/rule/combat/turn.md), you gain 2 [surges](../../Browse/rule/resource/surge.md) instead of 1.                                                                               |
 | 10 (7th level)  | You have a double [edge](../../Browse/rule/dice/edge.md) on [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md), the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                    |
 | 12 (10th level) | Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, the [potency](../../Browse/rule/character/potency.md) of any effects targeting you is reduced by 2 for you. |
 
@@ -6416,10 +6416,10 @@ Your primordial [damage type](../../Browse/rule/damage/damage-type.md) is corrup
 
 ##### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.raden/kit-bonuses"}
 
-- **[Stamina](../../Browse/rule/health/stamina.md) Bonus:** +3 per [echelon](../../Browse/rule/general/echelon.md)
-- **[Speed](../../Browse/rule/character/speed.md) Bonus:** +3
-- **Melee Damage Bonus:** +2/+2/+2
-- **Disengage Bonus:** +1
+- **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +3 per [echelon](../../Browse/rule/general/echelon.md)
+- **[Speed](../../Browse/rule/character/speed.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +3
+- **[Melee](../../Browse/rule/combat/melee.md) Damage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +2/+2/+2
+- **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
 ##### Signature Ability
 
@@ -6427,9 +6427,9 @@ Your primordial [damage type](../../Browse/rule/damage/damage-type.md) is corrup
 
 *Your enemies try in vain to fall back from your pouncing attack.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -6447,10 +6447,10 @@ As your ferocity grows, you gain benefits as noted on the [Raden](../../Browse/k
 
 | Ferocity        | Benefit                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action, the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md) gains a bonus equal to your [Agility](../../Browse/rule/character/agility.md) score.                                 |
-| 4               | The first time you [shift](../../Browse/movement/shifting.md) on a turn, you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                             |
+| 2               | Whenever you use the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action, the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Agility](../../Browse/rule/character/agility.md) score.                                 |
+| 4               | The first time you [shift](../../Browse/movement/shifting.md) on a [turn](../../Browse/rule/combat/turn.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                             |
 | 6               | You gain an [edge](../../Browse/rule/dice/edge.md) on [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md), the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                          |
-| 8 (4th level)   | The first time you [shift](../../Browse/movement/shifting.md) on a turn, you gain 2 [surges](../../Browse/rule/resource/surge.md) instead of 1.                                                                               |
+| 8 (4th level)   | The first time you [shift](../../Browse/movement/shifting.md) on a [turn](../../Browse/rule/combat/turn.md), you gain 2 [surges](../../Browse/rule/resource/surge.md) instead of 1.                                                                               |
 | 10 (7th level)  | You have a double [edge](../../Browse/rule/dice/edge.md) on [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md), the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver                                                     |
 | 12 (10th level) | Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, the [potency](../../Browse/rule/character/potency.md) of any effects targeting you is reduced by 2 for you. |
 
@@ -6464,11 +6464,11 @@ Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback
 
 ##### Animal Form: Wolf {data-scc="mcdm.heroes.v1/feature.fury.vuken/animal-form-wolf"}
 
-While you are in your wolf form, your [size](../../Browse/rule/character/size.md) is 1L, you have a +2 bonus to [speed](../../Browse/rule/character/speed.md), and you ignore [difficult terrain](../../Browse/movement/difficult-terrain.md).
+While you are in your wolf form, your [size](../../Browse/rule/character/size.md) is 1L, you have a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md), and you ignore [difficult terrain](../../Browse/movement/difficult-terrain.md).
 
 ##### Hybrid Form: Wolf {data-scc="mcdm.heroes.v1/feature.fury.vuken/hybrid-form-wolf"}
 
-While you are in your hybrid form, your [size](../../Browse/rule/character/size.md) is 1L, you have a +2 bonus to [speed](../../Browse/rule/character/speed.md), and you ignore [difficult terrain](../../Browse/movement/difficult-terrain.md). At 4th level, the first time you take hybrid form in an encounter, you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
+While you are in your hybrid form, your [size](../../Browse/rule/character/size.md) is 1L, you have a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md), and you ignore [difficult terrain](../../Browse/movement/difficult-terrain.md). At 4th level, the first time you take hybrid form in an encounter, you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
 
 ##### Primordial Storm: Lightning Storm {data-scc="mcdm.heroes.v1/feature.fury.vuken/primordial-storm-lightning-storm"}
 
@@ -6476,10 +6476,10 @@ Your primordial [damage type](../../Browse/rule/damage/damage-type.md) is lightn
 
 ##### Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.vuken/kit-bonuses"}
 
-- **[Stamina](../../Browse/rule/health/stamina.md) Bonus:** +9 per [echelon](../../Browse/rule/general/echelon.md)
-- **[Speed](../../Browse/rule/character/speed.md) Bonus:** +2
-- **Melee Damage Bonus:** +2/+2/+2
-- **Disengage Bonus:** +1
+- **[Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +9 per [echelon](../../Browse/rule/general/echelon.md)
+- **[Speed](../../Browse/rule/character/speed.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +2
+- **[Melee](../../Browse/rule/combat/melee.md) Damage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +2/+2/+2
+- **Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md):** +1
 
 ##### Signature Ability
 
@@ -6487,9 +6487,9 @@ Your primordial [damage type](../../Browse/rule/damage/damage-type.md) is lightn
 
 *A wild assault forces your foe onto their back.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -6506,17 +6506,17 @@ As your ferocity grows, you gain benefits as noted on the [Vuken](../../Browse/k
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature.                                                                                                                                                 |
-| 4               | The first time on a turn that you push a creature or knock a [creature prone](../../Browse/condition/prone.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                                                                   |
+| 4               | The first time on a [turn](../../Browse/rule/combat/turn.md) that you push a creature or knock a [creature prone](../../Browse/condition/prone.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                                                                   |
 | 6               | You gain an [edge](../../Browse/rule/dice/edge.md) on [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md) and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time on a turn that you push a creature or knock a [creature prone](../../Browse/condition/prone.md), you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                                                                                                  |
+| 8 (4th level)   | The first time on a [turn](../../Browse/rule/combat/turn.md) that you push a creature or knock a [creature prone](../../Browse/condition/prone.md), you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                                                                                                  |
 | 10 (7th level)  | You have a double [edge](../../Browse/rule/dice/edge.md) on [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md) and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, whenever you make a [power roll](../../Browse/rule/dice/power-roll.md) that imposes [forced movement](../../Browse/movement/forced-movement.md) on a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Agility](../../Browse/rule/character/agility.md) score. |
+| 12 (10th level) | Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, whenever you make a [power roll](../../Browse/rule/dice/power-roll.md) that imposes [forced movement](../../Browse/movement/forced-movement.md) on a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Agility](../../Browse/rule/character/agility.md) score. |
 
 ## Null {data-scc="mcdm.heroes.v1/class/null"}
 
 The mind is not separate from the body. Perfection of one requires perfection of the other. You strive for perfect discipline, perfect order, mastery over mind and body, becoming an unarmed psionic warrior who dampens and absorbs magic and psionics. You require no weapons, no tools. You suffice.
 
-**As a [null](../../Browse/class/null.md), you resist the supernatural forces of the universe with composure and confidence. As you strive for perfect order, you are an enemy of the ultimate expression of chaos: the supernatural. Those who break the laws of nature using sorcery or psionics should fear you.**
+**As a [null](../../Browse/class/null.md), you resist the [supernatural](../../Browse/rule/general/supernatural.md) forces of the universe with composure and confidence. As you strive for perfect order, you are an enemy of the ultimate expression of chaos: the [supernatural](../../Browse/rule/general/supernatural.md). Those who break the laws of nature using sorcery or psionics should fear you.**
 
 > "Any weapon can be turned against the hand that wields it."
 >
@@ -6579,9 +6579,9 @@ As your mastery of your body and tradition grows, it imbues you with a [Heroic R
 
 ##### Discipline in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain discipline equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your turns during combat, you gain 2 discipline.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../Browse/rule/combat/combat-round.md) (as determined by the Director), you gain discipline equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 2 discipline.
 
-Additionally, the first time each combat round that an enemy in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability (see below) uses a main action, you gain 1 discipline. The first time each combat round that the Director uses an ability that costs Malice (see *Draw Steel: Monsters*), you gain 1 discipline.
+Additionally, the first time each [combat round](../../Browse/rule/combat/combat-round.md) that an enemy in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability (see below) uses a main action, you gain 1 discipline. The first time each [combat round](../../Browse/rule/combat/combat-round.md) that the Director uses an ability that costs Malice (see *Draw Steel: Monsters*), you gain 1 discipline.
 
 You lose any remaining discipline at the end of the encounter.
 
@@ -6593,7 +6593,7 @@ When you use an ability outside of combat that lets you spend unlimited discipli
 
 #### Null Field {data-scc="mcdm.heroes.v1/feature.null.level-1/null-field"}
 
-You project a psionic field of order around your body, dampening the effects of supernatural abilities harmful to you and your allies.
+You project a psionic field of order around your body, dampening the effects of [supernatural](../../Browse/rule/general/supernatural.md) abilities harmful to you and your allies.
 
 ##### Null Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/null-field"}
 
@@ -6606,10 +6606,10 @@ You project a psionic field of order around your body, dampening the effects of 
 
 **Effect:** Each target reduces their [potencies](../../Browse/rule/character/potency.md) by 1.
 
-Once as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) on each of your turns, you can spend 1 discipline and give your [Null Field](../../Browse/feature/null/level-1/null-field.md) one of the following additional effects until the start of your next turn:
+Once as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) on each of your [turns](../../Browse/rule/combat/turn.md), you can spend 1 discipline and give your [Null Field](../../Browse/feature/null/level-1/null-field.md) one of the following additional effects until the start of your next [turn](../../Browse/rule/combat/turn.md):
 
-- Gravitic Disruption: The first time on a turn that a target takes damage, you can slide them up to 2 squares.
-- Inertial Anchor: Any target who starts their turn in the area can't [shift](../../Browse/movement/shifting.md).
+- Gravitic Disruption: The first time on a [turn](../../Browse/rule/combat/turn.md) that a target takes damage, you can slide them up to 2 squares.
+- Inertial Anchor: Any target who starts their [turn](../../Browse/rule/combat/turn.md) in the area can't [shift](../../Browse/movement/shifting.md).
 - Synaptic Break: Whenever you or any ally uses an ability against a target that has a [potency](../../Browse/rule/character/potency.md) effect, the [potency](../../Browse/rule/character/potency.md) is increased by 1.
 
 This ability remains active even after an encounter ends. It ends only if you are [dying](../../Browse/rule/health/dying.md) or if you willingly end it (no action required).
@@ -6635,7 +6635,7 @@ Your instincts for danger let you predict attacks before they happen.
 
 #### Discipline Mastery {data-scc="mcdm.heroes.v1/feature.null.level-1/discipline-mastery"}
 
-As you advance in your chosen [null tradition](../../Browse/feature/null/level-1/null-tradition.md), you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your turn, even if a benefit would become unavailable to you because of the amount of discipline you spend during your turn.
+As you advance in your chosen [null tradition](../../Browse/feature/null/level-1/null-tradition.md), you gain certain benefits in combat, including benefits based on the amount of discipline you have. Benefits based on how much discipline you have last until the end of your [turn](../../Browse/rule/combat/turn.md), even if a benefit would become unavailable to you because of the amount of discipline you spend during your [turn](../../Browse/rule/combat/turn.md).
 
 Some [Discipline Mastery](../../Browse/feature/null/level-1/discipline-mastery.md) benefits can be applied only if you are a specific level or higher, with the level of those benefits noted in the tables below.
 
@@ -6650,11 +6650,11 @@ Additionally, as your discipline grows, your psionic mastery of your body intens
 | Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, you can use the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action as a free [triggered action](../../Browse/rule/combat/triggered-action.md) either before or after the maneuver.                                              |
-| 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                 |
+| 4               | The first time on a [turn](../../Browse/rule/combat/turn.md) that you willingly move 1 or more squares as part of an ability, you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                 |
 | 6               | You gain an [edge](../../Browse/rule/dice/edge.md) on the [Grab](../../Browse/feature/common/maneuvers/grab.md) and [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
-| 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                                                |
+| 8 (4th level)   | The first time on a [turn](../../Browse/rule/combat/turn.md) that you willingly move 1 or more squares as part of an ability, you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                                                |
 | 10 (7th level)  | You have a double [edge](../../Browse/rule/dice/edge.md) on the [Grab](../../Browse/feature/common/maneuvers/grab.md) and [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
-| 12 (10th level) | Whenever you force move a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Intuition](../../Browse/rule/character/intuition.md) score. Additionally, whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). |
+| 12 (10th level) | Whenever you force move a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../Browse/rule/character/intuition.md) score. Additionally, whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). |
 
 ##### Cryokinetic Mastery {data-scc="mcdm.heroes.v1/feature.null.level-1/cryokinetic-mastery"}
 
@@ -6667,11 +6667,11 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 | Discipline      | Benefit                                                                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
-| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability, you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                   |
+| 4               | The first time on a [turn](../../Browse/rule/combat/turn.md) that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability, you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                   |
 | 6               | You gain an [edge](../../Browse/rule/dice/edge.md) on the [Grab](../../Browse/feature/common/maneuvers/grab.md) and [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                             |
-| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability, you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                  |
+| 8 (4th level)   | The first time on a [turn](../../Browse/rule/combat/turn.md) that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability, you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                  |
 | 10 (7th level)  | You have a double [edge](../../Browse/rule/dice/edge.md) on the [Grab](../../Browse/feature/common/maneuvers/grab.md) and [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
-| 12 (10th level) | Whenever you force move a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Intuition](../../Browse/rule/character/intuition.md) score. Additionally, whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).       |
+| 12 (10th level) | Whenever you force move a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../Browse/rule/character/intuition.md) score. Additionally, whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).       |
 
 ##### Metakinetic Mastery {data-scc="mcdm.heroes.v1/feature.null.level-1/metakinetic-mastery"}
 
@@ -6683,16 +6683,16 @@ Additionally, as your discipline grows, your psionic potential is amplified, gra
 
 | Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Intuition](../../Browse/rule/character/intuition.md) score.                                                                          |
-| 4               | The first time in a combat round that you take damage or are [force moved](../../Browse/movement/forced-movement.md), you gain 1 [surge](../../Browse/rule/resource/surge.md), even if you resist the effect.                                                                  |
+| 2               | Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../Browse/rule/character/intuition.md) score.                                                                          |
+| 4               | The first time in a [combat round](../../Browse/rule/combat/combat-round.md) that you take damage or are [force moved](../../Browse/movement/forced-movement.md), you gain 1 [surge](../../Browse/rule/resource/surge.md), even if you resist the effect.                                                                  |
 | 6               | You gain an [edge](../../Browse/rule/dice/edge.md) on the [Grab](../../Browse/feature/common/maneuvers/grab.md) and [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
-| 8 (4th level)   | The first time in a combat round that you take damage or are [force moved](../../Browse/movement/forced-movement.md), you gain 2 [surges](../../Browse/rule/resource/surge.md), even if you resist the effect.                                                                 |
+| 8 (4th level)   | The first time in a [combat round](../../Browse/rule/combat/combat-round.md) that you take damage or are [force moved](../../Browse/movement/forced-movement.md), you gain 2 [surges](../../Browse/rule/resource/surge.md), even if you resist the effect.                                                                 |
 | 10 (7th level)  | You have a double [edge](../../Browse/rule/dice/edge.md) on the [Grab](../../Browse/feature/common/maneuvers/grab.md) and [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
-| 12 (10th level) | Whenever you force move a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Intuition](../../Browse/rule/character/intuition.md) score. Additionally, whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). |
+| 12 (10th level) | Whenever you force move a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../Browse/rule/character/intuition.md) score. Additionally, whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). |
 
 #### Null Speed {data-scc="mcdm.heroes.v1/feature.null.level-1/null-speed"}
 
-The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to [speed](../../Browse/rule/character/speed.md) and to the number of squares you can [shift](../../Browse/movement/shifting.md) when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action equal to your [Agility](../../Browse/rule/character/agility.md) score.
+The flow of psionic power through you allows you to achieve high velocity. You gain a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) and to the number of squares you can [shift](../../Browse/movement/shifting.md) when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action equal to your [Agility](../../Browse/rule/character/agility.md) score.
 
 #### Psionic Augmentation {data-scc="mcdm.heroes.v1/feature.null.level-1/psionic-augmentation"}
 
@@ -6700,15 +6700,15 @@ Your training has turned your body into the perfect psionic weapon, shaping path
 
 ##### Density Augmentation {data-scc="mcdm.heroes.v1/feature.null.level-1/density-augmentation"}
 
-You gain a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../Browse/rule/character/stability.md).
+You gain a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md), and this [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md).
 
 ##### Force Augmentation {data-scc="mcdm.heroes.v1/feature.null.level-1/force-augmentation"}
 
-Your damage-dealing psionic abilities gain a +1 bonus to [rolled damage](../../Browse/rule/damage/rolled-damage.md).
+Your damage-dealing psionic abilities gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [rolled damage](../../Browse/rule/damage/rolled-damage.md).
 
 ##### Speed Augmentation {data-scc="mcdm.heroes.v1/feature.null.level-1/speed-augmentation"}
 
-You gain a +1 bonus to [speed](../../Browse/rule/character/speed.md) and to the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md) when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
+You gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) and to the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md) when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
 
 #### Psionic Martial Arts {data-scc="mcdm.heroes.v1/feature.null.level-1/psionic-martial-arts"}
 
@@ -6737,16 +6737,16 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 - **12-16:** 4 damage
 - **17+:** 5 damage
 
-**Effect:** You can slide one adjacent enemy up to a number of squares equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
+**Effect:** You can slide one [adjacent](../../Browse/rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
 
 ###### Faster Than the Eye {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/faster-than-the-eye"}
 
 
 *You strike so quickly that your hands become a blur.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Main action** |
 |------------------------------------|--------------------------------:|
-| **📏 Melee 1**                     | **🎯 Two creatures or objects** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 Two creatures or objects** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -6754,16 +6754,16 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 - **12-16:** 5 damage
 - **17+:** 7 damage
 
-**Effect:** You can deal damage equal to your [Agility](../../Browse/rule/character/agility.md) score to one creature or object adjacent to you.
+**Effect:** You can deal damage equal to your [Agility](../../Browse/rule/character/agility.md) score to one creature or object [adjacent](../../Browse/rule/combat/adjacent.md) to you.
 
 ###### Inertial Step {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/inertial-step"}
 
 
 *You flit about the battlefield and take an opportunistic strike.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -6778,9 +6778,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *You contort your enemy's body into a stance they struggle to escape from.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -6793,9 +6793,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *Your opponent staggers. They cannot ignore you.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -6808,9 +6808,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *The force of your blow extends past the limits of your body, pulling your enemy closer.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 2**                     | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 2**                     | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -6823,9 +6823,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *You step momentarily out of phase as you pull an enemy through you.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -6833,16 +6833,16 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 - **12-16:** 6 + A damage; push 4
 - **17+:** 8 + A damage; push 6
 
-**Effect:** Before the push is resolved, you [teleport](../../Browse/movement/teleport.md) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleport](../../Browse/movement/teleport.md)ed this way, you can't push them.
+**Effect:** Before the push is resolved, you [teleport](../../Browse/movement/teleport.md) the target to a square [adjacent](../../Browse/rule/combat/adjacent.md) to you and opposite the one they started in. If the target can't be [teleport](../../Browse/movement/teleport.md)ed this way, you can't push them.
 
 ###### Pressure Points {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/pressure-points"}
 
 
 *You strike at key nerve clusters to leave your foe staggered.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -6863,9 +6863,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You foresee the best moment to strike, then exploit it.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -6884,16 +6884,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------------|------------------------------:|
 | **📏 2 [burst](../../Browse/rule/combat/burst.md)**    | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes psychic damage equal to twice your [Intuition](../../Browse/rule/character/intuition.md) score. Until the start of your next turn, the size of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability increases by 1. At the end of your current turn, each enemy in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability takes psychic damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
+**Effect:** Each target takes psychic damage equal to twice your [Intuition](../../Browse/rule/character/intuition.md) score. Until the start of your next [turn](../../Browse/rule/combat/turn.md), the size of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability increases by 1. At the end of your current [turn](../../Browse/rule/combat/turn.md), each enemy in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability takes psychic damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
 
 ###### Relentless Nemesis {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/relentless-nemesis"}
 
 
 *You strike, and for the next few moments, your enemy can't escape you.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -6901,16 +6901,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 8 + A damage
 - **17+:** 12 + A damage
 
-**Effect:** Until the start of your next turn, whenever the target finishes moving or being [force moved](../../Browse/movement/forced-movement.md), you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md). You must end this [shift](../../Browse/movement/shifting.md) adjacent to the target.
+**Effect:** Until the start of your next [turn](../../Browse/rule/combat/turn.md), whenever the target finishes moving or being [force moved](../../Browse/movement/forced-movement.md), you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md). You must end this [shift](../../Browse/movement/shifting.md) [adjacent](../../Browse/rule/combat/adjacent.md) to the target.
 
 ###### Stunning Blow {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/stunning-blow"}
 
 
 *You focus your psionic technique into a concussive punch.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -6927,9 +6927,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -6937,16 +6937,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 12 + **A** psychic damage; M < AVERAGE, [weakened](../../Browse/condition/weakened.md) (save ends)
 - **17+:** 16 + **A** psychic damage; M < STRONG, [weakened](../../Browse/condition/weakened.md) (save ends)
 
-**Effect:** While [weakened](../../Browse/condition/weakened.md) this way, the target takes damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score whenever they use a supernatural ability that costs Malice.
+**Effect:** While [weakened](../../Browse/condition/weakened.md) this way, the target takes damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score whenever they use a [supernatural](../../Browse/rule/general/supernatural.md) ability that costs Malice.
 
 ###### Impart Force {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/impart-force"}
 
 
 *A single touch from you, and your enemy flies backward.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                  **Maneuver** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                  **Maneuver** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -6961,9 +6961,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *For a moment, your foe slips out of phase with this manifold.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                           **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                           **Main action** |
 |------------------------------------|------------------------------------------:|
-| **📏 Melee 1**                     |                       **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     |                       **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -7048,9 +7048,9 @@ Choose one of the following abilities.
 
 *The force of your [strike](../../Browse/rule/combat/strike.md) moves your target in a surprising direction.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 3**                     | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 3**                     | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -7086,7 +7086,7 @@ Choose one of the following [heroic abilities](../../Browse/rule/general/heroic-
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the start of your next turn, the size of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../../Browse/rule/combat/concealment.md) while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
+**Effect:** Until the start of your next [turn](../../Browse/rule/combat/turn.md), the size of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../../Browse/rule/combat/concealment.md) while in the area. At the end of this [turn](../../Browse/rule/combat/turn.md), each enemy in the area takes cold damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
 
 ##### 2nd-Level Metakinetic Ability
 
@@ -7097,9 +7097,9 @@ Choose one of the following abilities.
 
 *Your fist emanates gravitic force that pulls a distant enemy closer.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 3**                     | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 3**                     | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -7134,7 +7134,7 @@ You can long jump and high jump a [distance](../../Browse/rule/combat/distance.m
 
 #### Reorder {data-scc="mcdm.heroes.v1/feature.null.level-3/reorder"}
 
-At the start of each of your turns, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to end one effect on you that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of your turn. Alternatively, you can grant this benefit to one creature in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability.
+At the start of each of your [turns](../../Browse/rule/combat/turn.md), you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to end one effect on you that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of your [turn](../../Browse/rule/combat/turn.md). Alternatively, you can grant this benefit to one creature in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability.
 
 #### 7-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-3/7-discipline-ability"}
 
@@ -7160,7 +7160,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../../Browse/condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
+**Effect:** Until the end of the encounter, the size of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a [combat round](../../Browse/rule/combat/combat-round.md) or starts their turn there is [bleeding](../../Browse/condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a [combat round](../../Browse/rule/combat/combat-round.md) or starts their turn there gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
 
 ##### Stabilizing Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/stabilizing-field"}
 
@@ -7171,7 +7171,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, you ignore [difficult terrain](../../Browse/movement/difficult-terrain.md) and reduce the [potency](../../Browse/rule/character/potency.md) of enemy effects targeting you by 1 for you. You can also use a free [triggered action](../../Browse/rule/combat/triggered-action.md) at the start of each of your turns to end one effect on you that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of your turn. Each ally in the area also gains these benefits.
+**Effect:** Until the end of the encounter, the size of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, you ignore [difficult terrain](../../Browse/movement/difficult-terrain.md) and reduce the [potency](../../Browse/rule/character/potency.md) of enemy effects targeting you by 1 for you. You can also use a free [triggered action](../../Browse/rule/combat/triggered-action.md) at the start of each of your turns to end one effect on you that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of your [turn](../../Browse/rule/combat/turn.md). Each ally in the area also gains these benefits.
 
 ##### Synapse Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/synapse-field"}
 
@@ -7198,7 +7198,7 @@ Your [Discipline Mastery](../../Browse/feature/null/level-1/discipline-mastery.m
 
 #### Enhanced Null Field {data-scc="mcdm.heroes.v1/feature.null.level-4/enhanced-null-field"}
 
-While using your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your [aura](../../Browse/rule/combat/aura.md) partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your [aura](../../Browse/rule/combat/aura.md) overlaps with their location, but return when the [aura](../../Browse/rule/combat/aura.md) no longer overlaps with them.
+While using your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary [supernatural](../../Browse/rule/general/supernatural.md) terrain effects of your level or lower are removed when your [aura](../../Browse/rule/combat/aura.md) partially or fully overlaps with their location. Permanent [supernatural](../../Browse/rule/general/supernatural.md) terrain effects of your level or lower are temporarily negated while your [aura](../../Browse/rule/combat/aura.md) overlaps with their location, but return when the [aura](../../Browse/rule/combat/aura.md) no longer overlaps with them.
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.null.level-4/perk"}
 
@@ -7206,7 +7206,7 @@ You gain one perk of your choice.
 
 #### Regenerative Field {data-scc="mcdm.heroes.v1/feature.null.level-4/regenerative-field"}
 
-The first time each combat round that an enemy in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability uses a main action, you gain 2 discipline instead of 1.
+The first time each [combat round](../../Browse/rule/combat/combat-round.md) that an enemy in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability uses a main action, you gain 2 discipline instead of 1.
 
 #### Skill {data-scc="mcdm.heroes.v1/feature.null.level-4/skill"}
 
@@ -7238,7 +7238,7 @@ Whenever you use an ability to reduce damage dealt to you or to reduce the [dist
 
 #### Instant Action {data-scc="mcdm.heroes.v1/feature.null.level-5/instant-action"}
 
-If you're not [surprised](../../Browse/rule/combat/surprised.md) at the start of your first turn in combat, you gain an [edge](../../Browse/rule/dice/edge.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) and gain 2 [surges](../../Browse/rule/resource/surge.md). If you are [surprised](../../Browse/rule/combat/surprised.md), you can spend 3 discipline to no longer be [surprised](../../Browse/rule/combat/surprised.md) and gain the benefits of this feature.
+If you're not [surprised](../../Browse/rule/combat/surprised.md) at the start of your first [turn](../../Browse/rule/combat/turn.md) in combat, you gain an [edge](../../Browse/rule/dice/edge.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) and gain 2 [surges](../../Browse/rule/resource/surge.md). If you are [surprised](../../Browse/rule/combat/surprised.md), you can spend 3 discipline to no longer be [surprised](../../Browse/rule/combat/surprised.md) and gain the benefits of this feature.
 
 #### 9-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-5/9-discipline-ability"}
 
@@ -7249,9 +7249,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |  **Free triggered** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |  **Free triggered** |
 |------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature** |
 
 **Trigger:** The target moves or uses a main action.
 
@@ -7266,11 +7266,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 ##### Iron Grip {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/iron-grip"}
 
 
-*You grab the target with supernatural force.*
+*You grab the target with [supernatural](../../Browse/rule/general/supernatural.md) force.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -7289,7 +7289,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------|------------:|
 | **📏 Self** | **🎯 Self** |
 
-**Effect:** You jump up to your [speed](../../Browse/rule/character/speed.md) without provoking [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md). Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a [bane](../../Browse/rule/dice/bane.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md). You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability is active, your afterimage also projects the [aura](../../Browse/rule/combat/aura.md) from that ability, which you control as if you were in the afterimage's space.
+**Effect:** You jump up to your [speed](../../Browse/rule/character/speed.md) without provoking [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md). Until the end of your next [turn](../../Browse/rule/combat/turn.md), a static afterimage of you remains in the space you left, and any enemy [adjacent](../../Browse/rule/combat/adjacent.md) to your afterimage takes a [bane](../../Browse/rule/dice/bane.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md). You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability is active, your afterimage also projects the [aura](../../Browse/rule/combat/aura.md) from that ability, which you control as if you were in the afterimage's space.
 
 ##### Synaptic Reset {data-scc="mcdm.heroes.v1/feature.ability.null.level-5/synaptic-reset"}
 
@@ -7300,7 +7300,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------------|--------------------------------------:|
 | **📏 3 [burst](../../Browse/rule/combat/burst.md)**    | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can end any conditions or effects on themself, and gains 5 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) for each condition or effect removed.
+**Effect:** Each target can end any [conditions](../../Browse/rule/combat/condition.md) or effects on themself, and gains 5 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) for each [condition](../../Browse/rule/combat/condition.md) or effect removed.
 
 ### 6th-Level Features
 
@@ -7342,7 +7342,7 @@ Choose one of the following abilities.
 
 *You weaken your connection to this manifold, allowing you to move through and damage enemies.*
 
-| **Melee, Psionic, Weapon** | **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, Weapon** | **Main action** |
 |----------------------------|----------------:|
 | **📏 Self; see below**     |     **🎯 Self** |
 
@@ -7363,9 +7363,9 @@ Choose one of the following abilities.
 
 *Pillars of ice erupt from the ground and launch your foes into the air.*
 
-| **Psionic, Ranged** |                   **Main action** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |                   **Main action** |
 |---------------------|----------------------------------:|
-| **📏 Ranged 10**    | **🎯 Three creatures or objects** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 Three creatures or objects** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -7380,11 +7380,11 @@ Choose one of the following abilities.
 
 *You create a [wall of ice](../../Browse/feature/ability/null/level-6/wall-of-ice.md).*
 
-| **Area, Psionic, Ranged** | **Main action** |
+| **Area, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** | **Main action** |
 |---------------------------|----------------:|
 | **📏 10 wall within 10**  |  **🎯 Special** |
 
-**Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md). The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](../../Browse/condition/slowed.md) (save ends). Each enemy who is [force moved](../../Browse/movement/forced-movement.md) into the wall and has M < AVERAGE is [restrained](../../Browse/condition/restrained.md) (save ends).
+**Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md). The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square [adjacent](../../Browse/rule/combat/adjacent.md) to the wall and has M < AVERAGE is [slowed](../../Browse/condition/slowed.md) (save ends). Each enemy who is [force moved](../../Browse/movement/forced-movement.md) into the wall and has M < AVERAGE is [restrained](../../Browse/condition/restrained.md) (save ends).
 
 ##### 6th-Level Metakinetic Abilities
 
@@ -7416,7 +7416,7 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You gain 20 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your [stability](../../Browse/rule/character/stability.md) gains a bonus equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
+**Effect:** You gain 20 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your [stability](../../Browse/rule/character/stability.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
 
 ### 7th-Level Features
 
@@ -7432,11 +7432,11 @@ Your [Discipline Mastery](../../Browse/feature/null/level-1/discipline-mastery.m
 
 #### Psi Boost {data-scc="mcdm.heroes.v1/feature.null.level-7/psi-boost"}
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../Browse/feature/null/level-7/psi-boost.md) to it and enhance its effects. A [psi boost](../../Browse/feature/null/level-7/psi-boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../Browse/feature/null/level-7/psi-boost.md) to it and enhance its effects. A [psi boost](../../Browse/feature/null/level-7/psi-boost.md)'s effects only last until the end of the [turn](../../Browse/rule/combat/turn.md) which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
 
 ##### Dynamic Power {data-scc="mcdm.heroes.v1/feature.null.level-7/dynamic-power"}
 
-If the ability force moves a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
+If the ability force moves a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
 
 ##### Expanded Power {data-scc="mcdm.heroes.v1/feature.null.level-7/expanded-power"}
 
@@ -7444,7 +7444,7 @@ If the ability targets an area, you increase the size of the area by 1. If the a
 
 ##### Extended Power {data-scc="mcdm.heroes.v1/feature.null.level-7/extended-power"}
 
-If the ability is ranged, the [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Intuition](../../Browse/rule/character/intuition.md) score. If the ability is melee, the [distance](../../Browse/rule/combat/distance.md) gains a +2 bonus.
+If the ability is [ranged](../../Browse/rule/combat/ranged.md), the [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../../Browse/rule/character/intuition.md) score. If the ability is [melee](../../Browse/rule/combat/melee.md), the [distance](../../Browse/rule/combat/distance.md) gains a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).
 
 ##### Heightened Power {data-scc="mcdm.heroes.v1/feature.null.level-7/heightened-power"}
 
@@ -7464,7 +7464,7 @@ If the ability has any [power roll](../../Browse/rule/dice/power-roll.md), that 
 
 #### Improved Body {data-scc="mcdm.heroes.v1/feature.null.level-7/improved-body"}
 
-When you gain discipline at the start of each of your turns during combat, you gain 3 discipline instead of 2.
+When you gain discipline at the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 3 discipline instead of 2.
 
 #### Skill {data-scc="mcdm.heroes.v1/feature.null.level-7/skill"}
 
@@ -7492,7 +7492,7 @@ Your [null tradition](../../Browse/feature/null/level-1/null-tradition.md) grant
 
 ##### Inertial Dampener {data-scc="mcdm.heroes.v1/feature.null.level-8/inertial-dampener"}
 
-You and each creature or object of your choice in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability gain a bonus to [stability](../../Browse/rule/character/stability.md) equal to your [Intuition](../../Browse/rule/character/intuition.md) score. A creature who attempts to [force move](../../Browse/movement/forced-movement.md) a target with this bonus takes psychic damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
+You and each creature or object of your choice in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability gain a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md) equal to your [Intuition](../../Browse/rule/character/intuition.md) score. A creature who attempts to [force move](../../Browse/movement/forced-movement.md) a target with this [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) takes psychic damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
 
 ##### Shared Momentum {data-scc="mcdm.heroes.v1/feature.null.level-8/shared-momentum"}
 
@@ -7511,9 +7511,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You focus your [null field](../../Browse/feature/null/level-1/null-field.md) into a pressure point strike that prevents your foe from channeling sorcery.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -7521,16 +7521,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 19 + A damage; M < AVERAGE, the target is suppressed (save ends)
 - **17+:** 24 + A damage; M < STRONG, the target is suppressed (save ends)
 
-**Effect:** While suppressed, a target takes psychic damage equal to twice your [Intuition](../../Browse/rule/character/intuition.md) score at the start of their turns, whenever they use a supernatural ability, or whenever they use an ability that costs Malice.
+**Effect:** While suppressed, a target takes psychic damage equal to twice your [Intuition](../../Browse/rule/character/intuition.md) score at the start of their [turns](../../Browse/rule/combat/turn.md), whenever they use a [supernatural](../../Browse/rule/general/supernatural.md) ability, or whenever they use an ability that costs Malice.
 
 ##### Phase Hurl {data-scc="mcdm.heroes.v1/feature.ability.null.level-8/phase-hurl"}
 
 
 *You throw your foe out of phase with this manifold, causing them to harm other enemies as they return.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -7589,19 +7589,19 @@ Choose one of the following abilities.
 
 *You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.*
 
-| **Psionic, Ranged** |  **Free triggered** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |  **Free triggered** |
 |---------------------|--------------------:|
-| **📏 Ranged 10**    | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 One creature** |
 
-**Trigger:** The triggering creature starts their turn.
+**Trigger:** The triggering creature starts their [turn](../../Browse/rule/combat/turn.md).
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
-- **≤11:** I < WEAK, the target loses their turn
-- **12-16:** I < AVERAGE, the target loses their turn
-- **17+:** I < STRONG, the target loses their turn
+- **≤11:** I < WEAK, the target loses their [turn](../../Browse/rule/combat/turn.md)
+- **12-16:** I < AVERAGE, the target loses their [turn](../../Browse/rule/combat/turn.md)
+- **17+:** I < STRONG, the target loses their [turn](../../Browse/rule/combat/turn.md)
 
-**Effect:** If the target loses their turn, the round continues as if they had acted. A target who doesn't lose their turn takes psychic damage equal to twice your [Intuition](../../Browse/rule/character/intuition.md) score for each main action they take until the end of their next turn.
+**Effect:** If the target loses their [turn](../../Browse/rule/combat/turn.md), the round continues as if they had acted. A target who doesn't lose their [turn](../../Browse/rule/combat/turn.md) takes psychic damage equal to twice your [Intuition](../../Browse/rule/character/intuition.md) score for each main action they take until the end of their next [turn](../../Browse/rule/combat/turn.md).
 
 ###### Time Loop {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/time-loop"}
 
@@ -7612,9 +7612,9 @@ Choose one of the following abilities.
 |-------------|-------------------:|
 | **📏 Self** |        **🎯 Self** |
 
-**Trigger:** Another creature on the encounter map ends their turn.
+**Trigger:** Another creature on the encounter map ends their [turn](../../Browse/rule/combat/turn.md).
 
-**Effect:** You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.
+**Effect:** You take a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) [turn](../../Browse/rule/combat/turn.md) immediately after the triggering creature. This ability can be used only once per [combat round](../../Browse/rule/combat/combat-round.md).
 
 ##### 9th-Level Cryokinetic Abilities
 
@@ -7635,16 +7635,16 @@ Choose one of the following abilities.
 - **12-16:** You gain 30 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
 - **17+:** You gain 40 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
 
-**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold [damage immunity](../../Browse/rule/damage/damage-immunity.md) granted by your [Entropic Adaptability](../../Browse/feature/null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of [dying](../../Browse/rule/health/dying.md), and you have a +2 bonus to [potencies](../../Browse/rule/character/potency.md).
+**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold [damage immunity](../../Browse/rule/damage/damage-immunity.md) granted by your [Entropic Adaptability](../../Browse/feature/null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of [dying](../../Browse/rule/health/dying.md), and you have a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [potencies](../../Browse/rule/character/potency.md).
 
 ###### Heat Drain {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/heat-drain"}
 
 
 *You drain all the heat from the target.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md)** |        **Maneuver** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md)** |        **Maneuver** |
 |----------------------------|--------------------:|
-| **📏 Melee 1**             | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**             | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
@@ -7652,7 +7652,7 @@ Choose one of the following abilities.
 - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](../../Browse/condition/restrained.md) (save ends)
 - **17+:** 15 + I cold damage; M < STRONG, [restrained](../../Browse/condition/restrained.md) (save ends)
 
-**Effect:** While [restrained](../../Browse/condition/restrained.md) this way, the target takes cold damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](../../Browse/condition/restrained.md) this way, any [potency](../../Browse/rule/character/potency.md) associated with the damage is reduced by 2.
+**Effect:** While [restrained](../../Browse/condition/restrained.md) this way, the target takes cold damage equal to your [Intuition](../../Browse/rule/character/intuition.md) score at the start of each of your [turns](../../Browse/rule/combat/turn.md). Additionally, whenever the target damages another creature while [restrained](../../Browse/condition/restrained.md) this way, any [potency](../../Browse/rule/character/potency.md) associated with the damage is reduced by 2.
 
 ##### 9th-Level Metakinetic Abilities
 
@@ -7676,9 +7676,9 @@ Choose one of the following abilities.
 
 *Your essential hyperreality disrupts your enemy's connection to existence.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------|--------------------:|
-| **📏 Melee 1**                     | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -7686,7 +7686,7 @@ Choose one of the following abilities.
 - **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](../../Browse/condition/dazed.md)
 - **17+:** 13 + A psychic damage; I < STRONG, [dazed](../../Browse/condition/dazed.md)
 
-**Effect:** While [dazed](../../Browse/condition/dazed.md) this way, the target takes psychic damage equal to twice your [Intuition](../../Browse/rule/character/intuition.md) score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become [winded](../../Browse/rule/health/winded.md), they are instead reduced to 0 [Stamina](../../Browse/rule/health/stamina.md). Any creature reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
+**Effect:** While [dazed](../../Browse/condition/dazed.md) this way, the target takes psychic damage equal to twice your [Intuition](../../Browse/rule/character/intuition.md) score at the start of each of your [turns](../../Browse/rule/combat/turn.md). If this ability causes a creature who is not a leader or solo creature to become [winded](../../Browse/rule/health/winded.md), they are instead reduced to 0 [Stamina](../../Browse/rule/health/stamina.md). Any creature reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
 
 ### 10th-Level Features
 
@@ -7702,11 +7702,11 @@ Your [Discipline Mastery](../../Browse/feature/null/level-1/discipline-mastery.m
 
 #### Manifold Body {data-scc="mcdm.heroes.v1/feature.null.level-10/manifold-body"}
 
-When you gain discipline at the start of each of your turns during combat, you gain 4 discipline instead of 3.
+When you gain discipline at the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 4 discipline instead of 3.
 
 #### Manifold Resonance {data-scc="mcdm.heroes.v1/feature.null.level-10/manifold-resonance"}
 
-Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can [shift](../../Browse/movement/shifting.md) yourself and any creatures in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability to any location in the timescape known to you, known to any other creature in the area, or where any supernatural treasure in the area has been before.
+Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. Each time you finish a [respite](../../Browse/rule/resource/respite.md), you can [shift](../../Browse/movement/shifting.md) yourself and any creatures in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability to any location in the timescape known to you, known to any other creature in the area, or where any [supernatural](../../Browse/rule/general/supernatural.md) treasure in the area has been before.
 
 Whenever you use an ability, you gain 1 discipline that can be used only to apply a benefit from your [Psi Boost](../../Browse/feature/null/level-7/psi-boost.md) feature to that ability. Additionally, you and allies in the area of your [Null Field](../../Browse/feature/null/level-1/null-field.md) ability ignore [banes](../../Browse/rule/dice/bane.md) and double [banes](../../Browse/rule/dice/bane.md) on your [power rolls](../../Browse/rule/dice/power-roll.md).
 
@@ -7778,7 +7778,7 @@ As a 1st-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 
 #### Shadow College {data-scc="mcdm.heroes.v1/feature.shadow.level-1/shadow-college"}
 
-[Shadow](../../Browse/class/shadow.md) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that [tests](../../Browse/rule/test/test.md) the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](../../Browse/class/shadow.md) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+[Shadow](../../Browse/class/shadow.md) colleges are secret institutions that [turn](../../Browse/rule/combat/turn.md) ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that [tests](../../Browse/rule/test/test.md) the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](../../Browse/class/shadow.md) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
 You graduated from a [shadow college](../../Browse/feature/shadow/level-1/shadow-college.md) chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
@@ -7794,9 +7794,9 @@ By observing your enemy, you learn how to use their weaknesses against them, bui
 
 ##### Insight in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain insight equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 insight.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../Browse/rule/combat/combat-round.md) (as determined by the Director), you gain insight equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 1d3 insight.
 
-Additionally, the first time each combat round that you deal damage incorporating 1 or more [surges](../../Browse/rule/resource/surge.md), you gain 1 insight.
+Additionally, the first time each [combat round](../../Browse/rule/combat/combat-round.md) that you deal damage incorporating 1 or more [surges](../../Browse/rule/resource/surge.md), you gain 1 insight.
 
 Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md) that makes use of a [power roll](../../Browse/rule/dice/power-roll.md), that ability costs 1 fewer insight if you have an [edge](../../Browse/rule/dice/edge.md) or double [edge](../../Browse/rule/dice/edge.md) on it. If the ability has multiple targets, the cost is reduced even if the ability gains an [edge](../../Browse/rule/dice/edge.md) or has a double [edge](../../Browse/rule/dice/edge.md) against only one target.
 
@@ -7867,7 +7867,7 @@ You have the following ability.
 |-------------|-------------:|
 | **📏 Self** |    **🎯 Self** |
 
-**Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your [size](../../Browse/rule/character/size.md), such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your [strikes](../../Browse/rule/combat/strike.md) gain an [edge](../../Browse/rule/dice/edge.md), and when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action, you gain a +1 bonus to the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md).
+**Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your [size](../../Browse/rule/character/size.md), such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your [strikes](../../Browse/rule/combat/strike.md) gain an [edge](../../Browse/rule/dice/edge.md), and when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action, you gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md).
 
 The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 [surge](../../Browse/rule/resource/surge.md).
 
@@ -7945,9 +7945,9 @@ You have the following ability.
 |-------------|-------------------:|
 | **📏 Self** |        **🎯 Self** |
 
-**Trigger:** Another hero ends their turn. That hero can't have used this ability to start their turn.
+**Trigger:** Another hero ends their [turn](../../Browse/rule/combat/turn.md). That hero can't have used this ability to start their [turn](../../Browse/rule/combat/turn.md).
 
-**Effect:** You take your turn after the triggering hero.
+**Effect:** You take your [turn](../../Browse/rule/combat/turn.md) after the triggering hero.
 
 #### Kit {data-scc="mcdm.heroes.v1/feature.shadow.level-1/kit"}
 
@@ -7966,9 +7966,9 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 
 *Your precise strikes let your allies take advantage of a target's agony.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -7983,9 +7983,9 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 
 *"It's better, just you and me. Isn't it?"*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -7993,16 +7993,16 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 - **12-16:** 6 + A damage
 - **17+:** 9 + A damage
 
-**Effect:** If the target has none of your allies adjacent to them, you gain 1 [surge](../../Browse/rule/resource/surge.md) before making the [power roll](../../Browse/rule/dice/power-roll.md).
+**Effect:** If the target has none of your allies [adjacent](../../Browse/rule/combat/adjacent.md) to them, you gain 1 [surge](../../Browse/rule/resource/surge.md) before making the [power roll](../../Browse/rule/dice/power-roll.md).
 
 ###### Teamwork Has Its Place {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/teamwork-has-its-place"}
 
 
 *You attack an enemy as an ally exposes their weakness.*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8010,16 +8010,16 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 - **12-16:** 6 + A damage
 - **17+:** 9 + A damage
 
-**Effect:** If any ally is adjacent to the target, you gain 1 [surge](../../Browse/rule/resource/surge.md) before making the [power roll](../../Browse/rule/dice/power-roll.md).
+**Effect:** If any ally is [adjacent](../../Browse/rule/combat/adjacent.md) to the target, you gain 1 [surge](../../Browse/rule/resource/surge.md) before making the [power roll](../../Browse/rule/dice/power-roll.md).
 
 ###### You Were Watching the Wrong One {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/you-were-watching-the-wrong-one"}
 
 
 *They can't watch both of you at once.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8042,9 +8042,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your attack leaves them reeling, allowing you to follow up.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8059,9 +8059,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You leave your foe bleeding out after a devastating attack.*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8074,9 +8074,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Move unexpectedly, strike fast, and be gone!*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8091,9 +8091,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *A bargain.*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Main action** |
 |-----------------------------------|--------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures or objects** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 Two creatures or objects** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8110,9 +8110,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your blade might be the last thing they see.*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8125,11 +8125,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *As you move across the battlefield, every foe within reach feels your wrath.*
 
-| **Melee, Weapon**      | **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Weapon**      | **Main action** |
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md) and make one [power roll](../../Browse/rule/dice/power-roll.md) that targets up to three enemies who came adjacent to you during the move.
+**Effect:** You [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md) and make one [power roll](../../Browse/rule/dice/power-roll.md) that targets up to three enemies who came [adjacent](../../Browse/rule/combat/adjacent.md) to you during the move.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8142,9 +8142,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your friends will thank you.*
 
-| **Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 5**            | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 5**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8157,7 +8157,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *They have no idea what the college taught you.*
 
-| **Magic, Melee, Ranged** | **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md)** | **Main action** |
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
@@ -8185,7 +8185,7 @@ Your [shadow college](../../Browse/feature/shadow/level-1/shadow-college.md) gra
 
 ##### Burning Ash {data-scc="mcdm.heroes.v1/feature.shadow.level-2/burning-ash"}
 
-The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to [teleport](../../Browse/movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your [Agility](../../Browse/rule/character/agility.md) score.
+The ash you leave behind burns your foes. The first time on a [turn](../../Browse/rule/combat/turn.md) that you use a shadow ability to [teleport](../../Browse/movement/teleport.md) away from or into a space [adjacent](../../Browse/rule/combat/adjacent.md) to an enemy, that enemy takes fire damage equal to your [Agility](../../Browse/rule/character/agility.md) score.
 
 ##### Friend! {data-scc="mcdm.heroes.v1/feature.shadow.level-2/friend"}
 
@@ -8210,9 +8210,9 @@ Choose one of the following abilities.
 
 *You enchant a [strike](../../Browse/rule/combat/strike.md) with your [teleport](../../Browse/movement/teleport.md)ation magic.*
 
-| **Magic, Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**               | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8242,11 +8242,11 @@ Choose one of the following abilities.
 
 *Explosives are best when they're attached to an enemy.*
 
-| **Ranged**       |     **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |     **Main action** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 One creature** |
 
-**Effect:** You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a [power roll](../../Browse/rule/dice/power-roll.md) targeting each enemy within 2 squares of it.
+**Effect:** You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next [turn](../../Browse/rule/combat/turn.md), the bomb detonates. When the bomb detonates, you make a [power roll](../../Browse/rule/dice/power-roll.md) targeting each enemy within 2 squares of it.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8259,7 +8259,7 @@ Choose one of the following abilities.
 
 *Putrid yellow gas explodes from a bomb you toss.*
 
-| **Area, Ranged**        |                  **Main action** |
+| **Area, [Ranged](../../Browse/rule/combat/ranged.md)**        |                  **Main action** |
 |-------------------------|---------------------------------:|
 | **📏 3 [cube](../../Browse/rule/combat/cube.md) within 10** | **🎯 Each creature in the area** |
 
@@ -8269,7 +8269,7 @@ Choose one of the following abilities.
 - **12-16:** 5 poison damage
 - **17+:** 7 poison damage
 
-**Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](../../Browse/condition/weakened.md) (save ends).
+**Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their [turn](../../Browse/rule/combat/turn.md) in the area and has M < AVERAGE is [weakened](../../Browse/condition/weakened.md) (save ends).
 
 ##### 2nd-Level Harlequin Mask Ability
 
@@ -8280,7 +8280,7 @@ Choose one of the following abilities.
 
 *Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*
 
-| **Area, Magic, Ranged** |                     **Maneuver** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |                     **Maneuver** |
 |-------------------------|---------------------------------:|
 | **📏 3 [cube](../../Browse/rule/combat/cube.md) within 10** | **🎯 Each creature in the area** |
 
@@ -8318,9 +8318,9 @@ You have the following ability.
 
 *A moment of focus leaves a foe firmly in your sights.*
 
-| **Ranged**       |        **Maneuver** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |        **Maneuver** |
 |------------------|--------------------:|
-| **📏 Ranged 20** | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 20** | **🎯 One creature** |
 
 **Effect:** As long as you remain within [distance](../../Browse/rule/combat/distance.md) of the target, maintain [line of effect](../../Browse/rule/combat/line-of-effect.md) to them, and strike no other creature first, you gain an [edge](../../Browse/rule/dice/edge.md) on the next strike you make against the assessed creature, and gain 1 [surge](../../Browse/rule/resource/surge.md) you can use only on that [strike](../../Browse/rule/combat/strike.md).
 
@@ -8337,16 +8337,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../../Browse/movement/forced-movement.md) adjacent to you or damages you, you can take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action as a free [triggered action](../../Browse/rule/combat/triggered-action.md).
+**Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../../Browse/movement/forced-movement.md) [adjacent](../../Browse/rule/combat/adjacent.md) to you or damages you, you can take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action as a free [triggered action](../../Browse/rule/combat/triggered-action.md).
 
 ##### Misdirecting Strike {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/misdirecting-strike"}
 
 
 *"Why are you looking at ME?!"*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8354,16 +8354,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 13 + A damage
 - **17+:** 18 + A damage
 
-**Effect:** The target is [taunted](../../Browse/condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next turn.
+**Effect:** The target is [taunted](../../Browse/condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next [turn](../../Browse/rule/combat/turn.md).
 
 ##### Pinning Shot {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/pinning-shot"}
 
 
 *One missile—placed well and placed hard.*
 
-| **Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 5**            | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 5**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8376,9 +8376,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *There's no recovering from this.*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8409,9 +8409,9 @@ Additionally, you have the following ability.
 
 *A steely dagger from out of the blue knocks another weapon off course.*
 
-| **Ranged, Weapon** |   **Triggered** |
+| **[Ranged](../../Browse/rule/combat/ranged.md), Weapon** |   **Triggered** |
 |--------------------|----------------:|
-| **📏 Ranged 5**    | **🎯 One ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 5**    | **🎯 One ally** |
 
 **Trigger:** The target takes damage from another creature's ability while you are hidden.
 
@@ -8427,7 +8427,7 @@ You gain one skill of your choice. See Skills in Chapter 9: [Tests](tests.md).
 
 #### Surge of Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-4/surge-of-insight"}
 
-The first time each combat round that you deal damage incorporating 1 or more [surges](../../Browse/rule/resource/surge.md), you gain 2 insight instead of 1.
+The first time each [combat round](../../Browse/rule/combat/combat-round.md) that you deal damage incorporating 1 or more [surges](../../Browse/rule/resource/surge.md), you gain 2 insight instead of 1.
 
 ### 5th-Level Features
 
@@ -8447,7 +8447,7 @@ Your [shadow college](../../Browse/feature/shadow/level-1/shadow-college.md) gra
 
 ##### Harlequin Gambit {data-scc="mcdm.heroes.v1/feature.shadow.level-5/harlequin-gambit"}
 
-Whenever you reduce an adjacent non-minion creature to 0 [Stamina](../../Browse/rule/health/stamina.md), you can immediately use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to use your [I'm No Threat](../../Browse/feature/ability/shadow/level-1/im-no-threat.md) ability and then move up to your [speed](../../Browse/rule/character/speed.md).
+Whenever you reduce an [adjacent](../../Browse/rule/combat/adjacent.md) non-minion creature to 0 [Stamina](../../Browse/rule/health/stamina.md), you can immediately use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to use your [I'm No Threat](../../Browse/feature/ability/shadow/level-1/im-no-threat.md) ability and then move up to your [speed](../../Browse/rule/character/speed.md).
 
 If the creature is the same [size](../../Browse/rule/character/size.md) as you, you can disguise yourself as them using [I'm No Threat](../../Browse/feature/ability/shadow/level-1/im-no-threat.md) without spending insight. If you do, while [I'm No Threat](../../Browse/feature/ability/shadow/level-1/im-no-threat.md) is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
 
@@ -8455,11 +8455,11 @@ If the creature is the same [size](../../Browse/rule/character/size.md) as you, 
 
 Whenever you reduce a non-minion creature to 0 [Stamina](../../Browse/rule/health/stamina.md), you can immediately use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to use your [Black Ash Teleport](../../Browse/feature/ability/shadow/level-1/black-ash-teleport.md) ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to [teleport](../../Browse/movement/teleport.md). The creature appears in an unoccupied space adjacent to the space into which you [teleport](../../Browse/movement/teleport.md)ed. If no such space exists, they can't [teleport](../../Browse/movement/teleport.md) with you.
+Additionally, you can now bring an [adjacent](../../Browse/rule/combat/adjacent.md) willing creature along with you whenever you use a shadow ability to [teleport](../../Browse/movement/teleport.md). The creature appears in an unoccupied space [adjacent](../../Browse/rule/combat/adjacent.md) to the space into which you [teleport](../../Browse/movement/teleport.md)ed. If no such space exists, they can't [teleport](../../Browse/movement/teleport.md) with you.
 
 ##### Volatile Reagents {data-scc="mcdm.heroes.v1/feature.shadow.level-5/volatile-reagents"}
 
-Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your [Agility](../../Browse/rule/character/agility.md) score.
+Whenever you take damage, each enemy [adjacent](../../Browse/rule/combat/adjacent.md) to you takes fire, acid, or poison damage (your choice) equal to your [Agility](../../Browse/rule/character/agility.md) score.
 
 Additionally, your [Defensive Roll](../../Browse/feature/ability/shadow/level-1/defensive-roll.md) ability now allows you to [shift](../../Browse/movement/shifting.md) up to 5 squares, including [shifting](../../Browse/movement/shifting.md) vertically. If you don't end this [shift](../../Browse/movement/shifting.md) on solid ground and are not [flying](../../Browse/movement/fly.md), you fall.
 
@@ -8476,18 +8476,18 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-----------------|---------------:|
 | **📏 3 [burst](../../Browse/rule/combat/burst.md)**  | **🎯 Special** |
 
-**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies [concealment](../../Browse/rule/combat/concealment.md) against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to [shift](../../Browse/movement/shifting.md) to a new location within the area and make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them.
+**Effect:** A black cloud fills the area until the end of your next [turn](../../Browse/rule/combat/turn.md), granting you and your allies [concealment](../../Browse/rule/combat/concealment.md) against enemies. While you are in the area, whenever an enemy ends their [turn](../../Browse/rule/combat/turn.md) in the area, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to [shift](../../Browse/movement/shifting.md) to a new location within the area and make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them.
 
 ##### Into the Shadows {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows"}
 
 
 *You sweep your foe off their feet and plunge them into absolute darkness.*
 
-| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                   | **🎯 One creature or object** |
 
-**Effect:** You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../../Browse/rule/dice/power-roll.md) upon your return.
+**Effect:** You and the target are removed from the encounter map until the start of your next [turn](../../Browse/rule/combat/turn.md). You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../../Browse/rule/dice/power-roll.md) upon your return.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8500,7 +8500,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You vanish. They fall. You reappear.*
 
-| **Area, Melee, Weapon**     |               **Main action** |
+| **Area, [Melee](../../Browse/rule/combat/melee.md), Weapon**     |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
 
@@ -8517,9 +8517,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Silence is a virtue. A knife pinning their mouth shut is the next best thing.*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8542,9 +8542,9 @@ You gain one perk of your choice.
 As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are [dying](../../Browse/rule/health/dying.md), or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
 - You can automatically climb at full [speed](../../Browse/rule/character/speed.md) while moving.
-- Enemies' spaces don't count as [difficult terrain](../../Browse/movement/difficult-terrain.md) for you. An enemy takes corruption damage equal to your [Agility](../../Browse/rule/character/agility.md) score the first time you pass through their space on a turn.
-- If you end your turn with [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from another creature, you are automatically hidden from that creature.
-- You gain 1 [surge](../../Browse/rule/resource/surge.md) at the start of each of your turns.
+- Enemies' spaces don't count as [difficult terrain](../../Browse/movement/difficult-terrain.md) for you. An enemy takes corruption damage equal to your [Agility](../../Browse/rule/character/agility.md) score the first time you pass through their space on a [turn](../../Browse/rule/combat/turn.md).
+- If you end your [turn](../../Browse/rule/combat/turn.md) with [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from another creature, you are automatically hidden from that creature.
+- You gain 1 [surge](../../Browse/rule/resource/surge.md) at the start of each of your [turns](../../Browse/rule/combat/turn.md).
 - You have corruption immunity equal to 5 + your level.
 - Creatures gain an [edge](../../Browse/rule/dice/edge.md) on [strikes](../../Browse/rule/combat/strike.md) against you.
 - You take a [bane](../../Browse/rule/dice/bane.md) on [Presence](../../Browse/rule/character/presence.md) [tests](../../Browse/rule/test/test.md) made to interact with other creatures.
@@ -8562,9 +8562,9 @@ Choose one of the following abilities.
 
 *Your attack produces a cloud of black ash that launches an enemy into the air.*
 
-| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                   | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8583,7 +8583,7 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 4 [burst](../../Browse/rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can [teleport](../../Browse/movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../../Browse/movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your [Agility](../../Browse/rule/character/agility.md) score. Additionally, a target who ends this movement in [concealment](../../Browse/rule/combat/concealment.md) or [cover](../../Browse/rule/combat/cover.md) can use the [Hide](../../Browse/feature/common/maneuvers/hide.md) maneuver even if they are observed.
+**Effect:** Each target can [teleport](../../Browse/movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../../Browse/movement/teleport.md) away from or into a space [adjacent](../../Browse/rule/combat/adjacent.md) to an enemy, that enemy takes fire damage equal to your [Agility](../../Browse/rule/character/agility.md) score. Additionally, a target who ends this movement in [concealment](../../Browse/rule/combat/concealment.md) or [cover](../../Browse/rule/combat/cover.md) can use the [Hide](../../Browse/feature/common/maneuvers/hide.md) maneuver even if they are observed.
 
 ##### 6th-Level Caustic Alchemy Abilities
 
@@ -8594,9 +8594,9 @@ Choose one of the following abilities.
 
 *A well-timed throw of a potion will keep your allies in the fight.*
 
-| **Ranged**       |           **Maneuver** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |           **Maneuver** |
 |------------------|-----------------------:|
-| **📏 Ranged 10** | **🎯 Three creatures** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 Three creatures** |
 
 **Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../Browse/feature/common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its [potency](../../Browse/rule/character/potency.md) at the end of the encounter.
 
@@ -8607,9 +8607,9 @@ A creature who drinks the potion can spend up to 2 [Recoveries](../../Browse/rul
 
 *Each ally who catches a potion you throw can take the battle to the next level.*
 
-| **Ranged**       |        **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |        **Main action** |
 |------------------|-----------------------:|
-| **📏 Ranged 10** | **🎯 Three creatures** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 Three creatures** |
 
 **Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../../Browse/feature/common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its [potency](../../Browse/rule/character/potency.md) at the end of the encounter.
 
@@ -8619,7 +8619,7 @@ A creature who drinks the potion receives benefits based on your [power roll](..
 
 - **≤11:** The creature's [speed](../../Browse/rule/character/speed.md) is increased by 2 until the end of the encounter.
 - **12-16:** The creature can [fly](../../Browse/movement/fly.md) until the end of the encounter.
-- **17+:** The creature turns invisible until the end of their next turn.
+- **17+:** The creature [turns](../../Browse/rule/combat/turn.md) invisible until the end of their next [turn](../../Browse/rule/combat/turn.md).
 
 ##### 6th-Level Harlequin Mask Abilities
 
@@ -8634,16 +8634,16 @@ Choose one of the following abilities.
 |-----------------|------------------------------:|
 | **📏 5 [burst](../../Browse/rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Effect:** Until the start of your next turn, any [ability roll](../../Browse/rule/dice/ability-roll.md) made against a target gains an [edge](../../Browse/rule/dice/edge.md).
+**Effect:** Until the start of your next [turn](../../Browse/rule/combat/turn.md), any [ability roll](../../Browse/rule/dice/ability-roll.md) made against a target gains an [edge](../../Browse/rule/dice/edge.md).
 
 ###### Puppet Strings {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/puppet-strings"}
 
 
 *You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.*
 
-| **Magic, Melee**, **Strike, Weapon** |    **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md)**, **Strike, Weapon** |    **Main action** |
 |--------------------------------------|-------------------:|
-| **📏 Melee 1**                       | **🎯 Two enemies** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                       | **🎯 Two enemies** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8663,7 +8663,7 @@ Each of your [characteristic](../../Browse/rule/character/characteristic.md) sco
 
 #### Keen Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-7/keen-insight"}
 
-At the start of each of your turns during combat, you gain 1d3 + 1 insight instead of 1d3.
+At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 1d3 + 1 insight instead of 1d3.
 
 #### Skill {data-scc="mcdm.heroes.v1/feature.shadow.level-7/skill"}
 
@@ -8707,20 +8707,20 @@ Your movement no longer provokes [opportunity attacks](../../Browse/rule/combat/
 
 ##### Time Bomb {data-scc="mcdm.heroes.v1/feature.shadow.level-8/time-bomb"}
 
-You have [damage immunity](../../Browse/rule/damage/damage-immunity.md) against area abilities and effects equal to your [Agility](../../Browse/rule/character/agility.md) score. You also have the following ability, which you can use once per round on your turn.
+You have [damage immunity](../../Browse/rule/damage/damage-immunity.md) against area abilities and effects equal to your [Agility](../../Browse/rule/character/agility.md) score. You also have the following ability, which you can use once per round on your [turn](../../Browse/rule/combat/turn.md).
 
 ###### Time Bomb {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/time-bomb"}
 
 
 *The longer it cooks, the bigger the boom.*
 
-| **Area, Ranged**        |             **[Free maneuver](../../Browse/rule/combat/free-maneuver.md)** |
+| **Area, [Ranged](../../Browse/rule/combat/ranged.md)**        |             **[Free maneuver](../../Browse/rule/combat/free-maneuver.md)** |
 |-------------------------|------------------------------:|
 | **📏 2 [cube](../../Browse/rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 
 **Effect:** Each target takes acid, fire, or poison damage (your choice) equal to your [Agility](../../Browse/rule/character/agility.md) score.
 
-For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 [surge](../../Browse/rule/resource/surge.md) that must be used with this ability. After using the ability or at the end of the encounter, its area and [surges](../../Browse/rule/resource/surge.md) are reset.
+For each [combat round](../../Browse/rule/combat/combat-round.md) that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 [surge](../../Browse/rule/resource/surge.md) that must be used with this ability. After using the ability or at the end of the encounter, its area and [surges](../../Browse/rule/resource/surge.md) are reset.
 
 **Spend 2+ Insight:** For every 2 insight spent, you increase the [cube](../../Browse/rule/combat/cube.md)'s [size](../../Browse/rule/character/size.md) by 1 and gain 1 [surge](../../Browse/rule/resource/surge.md) that can be used only with this ability.
 
@@ -8733,9 +8733,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *A practiced attack will instantly kill an already weakened foe.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8776,7 +8776,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You fire a projectile so fast that it passes through a line of foes, hamstringing them.*
 
-| **Area, Ranged, Weapon**   |               **Main action** |
+| **Area, [Ranged](../../Browse/rule/combat/ranged.md), Weapon**   |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |
 
@@ -8792,7 +8792,7 @@ As a 9th-level [shadow](../../Browse/class/shadow.md), you gain the following fe
 
 #### Gloom Squad {data-scc="mcdm.heroes.v1/feature.shadow.level-9/gloom-squad"}
 
-At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 [Stamina](../../Browse/rule/health/stamina.md). They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have insight and can't use the [Careful Observation](../../Browse/feature/ability/shadow/level-3/careful-observation.md) ability, the [Umbral Form](../../Browse/feature/shadow/level-6/umbral-form.md) feature, or any [triggered actions](../../Browse/rule/combat/triggered-action.md). On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../../Browse/feature/common/main-actions/free-strike.md). While making a [free strike](../../Browse/feature/common/main-actions/free-strike.md), a clone must choose targets that you or another clone aren't also striking.
+At the start of each of your [turns](../../Browse/rule/combat/turn.md), you can forgo gaining insight to create 1d6 clones of yourself in unoccupied [adjacent](../../Browse/rule/combat/adjacent.md) spaces. A clone acts on your [turn](../../Browse/rule/combat/turn.md) and uses your statistics, except they have 1 [Stamina](../../Browse/rule/health/stamina.md). They are affected by any [conditions](../../Browse/rule/combat/condition.md) and effects on you, and last until the start of your next [turn](../../Browse/rule/combat/turn.md). A clone doesn't have insight and can't use the [Careful Observation](../../Browse/feature/ability/shadow/level-3/careful-observation.md) ability, the [Umbral Form](../../Browse/feature/shadow/level-6/umbral-form.md) feature, or any [triggered actions](../../Browse/rule/combat/triggered-action.md). On their [turn](../../Browse/rule/combat/turn.md), a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../../Browse/feature/common/main-actions/free-strike.md). While making a [free strike](../../Browse/feature/common/main-actions/free-strike.md), a clone must choose targets that you or another clone aren't also striking.
 
 Outside of combat, you can have one clone active for every 2 [Victories](../../Browse/rule/resource/victories.md) you have. If a clone is destroyed, you must wait 1 hour before creating another one.
 
@@ -8809,11 +8809,11 @@ Choose one of the following abilities.
 
 *You tumble through the battle, stabbing foes and [teleporting](../../Browse/movement/teleport.md) allies.*
 
-| **Magic, Melee, Weapon** | **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), Weapon** | **Main action** |
 |--------------------------|----------------:|
 | **📏 Self; see below**   |     **🎯 Self** |
 
-**Effect:** You [shift](../../Browse/movement/shifting.md) up to twice your [speed](../../Browse/rule/character/speed.md), making one [power roll](../../Browse/rule/dice/power-roll.md) that targets each creature you come adjacent to during the [shift](../../Browse/movement/shifting.md).
+**Effect:** You [shift](../../Browse/movement/shifting.md) up to twice your [speed](../../Browse/rule/character/speed.md), making one [power roll](../../Browse/rule/dice/power-roll.md) that targets each creature you come [adjacent](../../Browse/rule/combat/adjacent.md) to during the [shift](../../Browse/movement/shifting.md).
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8826,9 +8826,9 @@ Choose one of the following abilities.
 
 *You create a temporary portal to allow a massive demonic hand to reach through.*
 
-| **Magic, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 3**                   | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 3**                   | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8847,9 +8847,9 @@ Choose one of the following abilities.
 
 *One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*
 
-| **Ranged**       |               **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |               **Main action** |
 |------------------|------------------------------:|
-| **📏 Ranged 10** | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 One creature or object** |
 
 **Effect:** Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).
 
@@ -8864,9 +8864,9 @@ Choose one of the following abilities.
 
 *You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md)**   |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)**   |               **Main action** |
 |-----------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10** | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8885,20 +8885,20 @@ Choose one of the following abilities.
 
 *Your mask reflects your foe's face. Surely they won't need it much longer.*
 
-| **Magic, Ranged** |            **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |            **Maneuver** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  |     **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  |     **🎯 One creature** |
 
-**Effect:** Until the end of the encounter, you gain the target's damage immunities and [speed](../../Browse/rule/character/speed.md) (if they are better than yours), and can use any types of movement they can use. You can also use the target's [signature ability](../../Browse/rule/combat/signature-ability.md), using their bonus for the [power roll](../../Browse/rule/dice/power-roll.md).
+**Effect:** Until the end of the encounter, you gain the target's damage immunities and [speed](../../Browse/rule/character/speed.md) (if they are better than yours), and can use any types of movement they can use. You can also use the target's [signature ability](../../Browse/rule/combat/signature-ability.md), using their [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) for the [power roll](../../Browse/rule/dice/power-roll.md).
 
 ###### It Was Me All Along {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/it-was-me-all-along"}
 
 
 *After everything you've been through together, you twist the blade and make the pain extra personal.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -8918,7 +8918,7 @@ Your [Agility](../../Browse/rule/character/agility.md) score increases to 5. Add
 
 #### Death Pool {data-scc="mcdm.heroes.v1/feature.shadow.level-10/death-pool"}
 
-The first time each combat round that you deal damage incorporating 1 or more [surges](../../Browse/rule/resource/surge.md), you gain 3 insight instead of 2.
+The first time each [combat round](../../Browse/rule/combat/combat-round.md) that you deal damage incorporating 1 or more [surges](../../Browse/rule/resource/surge.md), you gain 3 insight instead of 2.
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-10/perk"}
 
@@ -8942,7 +8942,7 @@ While you are in your [umbral form](../../Browse/feature/shadow/level-6/umbral-f
 
 You have an epic resource called [subterfuge](../../Browse/feature/shadow/level-10/subterfuge.md). Each time you finish a [respite](../../Browse/rule/resource/respite.md), you gain [subterfuge](../../Browse/feature/shadow/level-10/subterfuge.md) equal to the [XP](../../Browse/rule/resource/experience.md) you gain. You can spend [subterfuge](../../Browse/feature/shadow/level-10/subterfuge.md) on your abilities as if it were insight.
 
-Additionally, you can spend [subterfuge](../../Browse/feature/shadow/level-10/subterfuge.md) to take additional maneuvers on your turn. You can use one maneuver for each [subterfuge](../../Browse/feature/shadow/level-10/subterfuge.md) you spend.
+Additionally, you can spend [subterfuge](../../Browse/feature/shadow/level-10/subterfuge.md) to take additional maneuvers on your [turn](../../Browse/rule/combat/turn.md). You can use one maneuver for each [subterfuge](../../Browse/feature/shadow/level-10/subterfuge.md) you spend.
 
 [Subterfuge](../../Browse/feature/shadow/level-10/subterfuge.md) remains until you spend it.
 
@@ -9013,9 +9013,9 @@ The ring of steel panics others but brings order to your mind, granting you a [H
 
 ##### Focus in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain focus equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your turns during combat, you gain 2 focus.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../Browse/rule/combat/combat-round.md) (as determined by the Director), you gain focus equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 2 focus.
 
-Additionally, the first time each combat round that you or any ally damages a creature marked by you (see Mark below), you gain 1 focus. The first time in a combat round that any ally within 10 squares of you uses a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 1 focus.
+Additionally, the first time each [combat round](../../Browse/rule/combat/combat-round.md) that you or any ally damages a creature marked by you (see Mark below), you gain 1 focus. The first time in a [combat round](../../Browse/rule/combat/combat-round.md) that any ally within 10 squares of you uses a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 1 focus.
 
 You lose any remaining focus at the end of the encounter.
 
@@ -9086,9 +9086,9 @@ Your [tactical doctrine](../../Browse/feature/tactician/level-1/tactical-doctrin
 
 *Your leadership aids an ally.*
 
-| **Ranged**       |   **Triggered** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |   **Triggered** |
 |------------------|----------------:|
-| **📏 Ranged 10** | **🎯 One ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 One ally** |
 
 **Trigger:** The target deals damage to another creature.
 
@@ -9101,9 +9101,9 @@ Your [tactical doctrine](../../Browse/feature/tactician/level-1/tactical-doctrin
 
 *Under your direction, an ally waits for just the right moment to strike.*
 
-| **Ranged**       |       **Triggered** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |       **Triggered** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 One creature** |
 
 **Trigger:** The target moves.
 
@@ -9116,34 +9116,34 @@ Your [tactical doctrine](../../Browse/feature/tactician/level-1/tactical-doctrin
 
 *Your quick reflexes cost an enemy the precision they seek.*
 
-| **Melee, Weapon** |            **Triggered** |
+| **[Melee](../../Browse/rule/combat/melee.md), Weapon** |            **Triggered** |
 |-------------------|-------------------------:|
-| **📏 Melee 2**    |  **🎯 Self or one ally** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 2**    |  **🎯 Self or one ally** |
 
 **Trigger:** A creature deals damage to the target.
 
-**Effect:** You can [shift](../../Browse/movement/shifting.md) 1 square. If the target is you, or if you end this [shift](../../Browse/movement/shifting.md) adjacent to the target, the target takes half the damage. If the damage has any [potency](../../Browse/rule/character/potency.md) effect associated with it, the [potency](../../Browse/rule/character/potency.md) is decreased by 1.
+**Effect:** You can [shift](../../Browse/movement/shifting.md) 1 square. If the target is you, or if you end this [shift](../../Browse/movement/shifting.md) [adjacent](../../Browse/rule/combat/adjacent.md) to the target, the target takes half the damage. If the damage has any [potency](../../Browse/rule/character/potency.md) effect associated with it, the [potency](../../Browse/rule/character/potency.md) is decreased by 1.
 
-**Spend 1 Focus:** This ability's [distance](../../Browse/rule/combat/distance.md) becomes Melee 1 + your [Reason](../../Browse/rule/character/reason.md) score, and you can [shift](../../Browse/movement/shifting.md) up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score instead of 1 square.
+**Spend 1 Focus:** This ability's [distance](../../Browse/rule/combat/distance.md) becomes [Melee](../../Browse/rule/combat/melee.md) 1 + your [Reason](../../Browse/rule/character/reason.md) score, and you can [shift](../../Browse/movement/shifting.md) up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score instead of 1 square.
 
 #### Field Arsenal {data-scc="mcdm.heroes.v1/feature.tactician.level-1/field-arsenal"}
 
 You have drilled with a broad array of arms and armor, and have developed techniques to optimize their use. You can use and gain the benefits of two kits, including both their [signature abilities](../../Browse/rule/combat/signature-ability.md). Whenever you would choose or change one kit, you can choose or change your second kit as well. See Chapter 6: [Kits](kits.md) for more information. (*Quick Build:* [Shining Armor](../../Browse/kit/shining-armor.md), Sniper.)
 
-If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a [respite](../../Browse/rule/resource/respite.md). (This usually means taking the higher of two bonuses.)
+If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a [respite](../../Browse/rule/resource/respite.md). (This usually means taking the higher of two [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es.)
 
 For example, if you take the [Shining Armor](../../Browse/kit/shining-armor.md) and [Sniper](../../Browse/kit/sniper.md) kits, you gain the following benefits overall:
 
-- [Stamina](../../Browse/rule/health/stamina.md) Bonus: +12 per [echelon](../../Browse/rule/general/echelon.md)
-- [Stability](../../Browse/rule/character/stability.md) Bonus: +1
-- Melee Damage Bonus: +2/+2/+2
-- Ranged Damage Bonus: +0/+0/+4
-- [Speed](../../Browse/rule/character/speed.md) Bonus: +1
-- Ranged [Distance](../../Browse/rule/combat/distance.md) Bonus: +10
-- Disengage Bonus: +1
+- [Stamina](../../Browse/rule/health/stamina.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md): +12 per [echelon](../../Browse/rule/general/echelon.md)
+- [Stability](../../Browse/rule/character/stability.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md): +1
+- [Melee](../../Browse/rule/combat/melee.md) Damage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md): +2/+2/+2
+- [Ranged](../../Browse/rule/combat/ranged.md) Damage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md): +0/+0/+4
+- [Speed](../../Browse/rule/character/speed.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md): +1
+- [Ranged](../../Browse/rule/combat/ranged.md) [Distance](../../Browse/rule/combat/distance.md) [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md): +10
+- Disengage [Bonus](../../Browse/rule/dice/bonuses-and-penalties.md): +1
 - You can use the [Patient Shot](../../Browse/feature/ability/sniper/patient-shot.md) and [Protective Attack](../../Browse/feature/ability/shining-armor/protective-attack.md) [signature abilities](../../Browse/rule/combat/signature-ability.md).
 
-Kit [signature abilities](../../Browse/rule/combat/signature-ability.md) have their kit's bonuses already applied, which might require you to adjust the bonuses of the [signature abilities](../../Browse/rule/combat/signature-ability.md) you gain from a kit. For example, you might take the [Martial Artist](../../Browse/kit/martial-artist.md) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the Mountain kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the Mountain kit's damage bonus, then the [Battle Grace](../../Browse/feature/ability/martial-artist/battle-grace.md) [signature ability](../../Browse/rule/combat/signature-ability.md) from the [Martial Artist](../../Browse/kit/martial-artist.md) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the Mountain kit to deal 3/6/13 damage.
+Kit [signature abilities](../../Browse/rule/combat/signature-ability.md) have their kit's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es already applied, which might require you to adjust the [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es of the [signature abilities](../../Browse/rule/combat/signature-ability.md) you gain from a kit. For example, you might take the [Martial Artist](../../Browse/kit/martial-artist.md) kit, which gives a [melee](../../Browse/rule/combat/melee.md) weapon damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) of +2/+2/+2, and the Mountain kit, which gives a [melee](../../Browse/rule/combat/melee.md) weapon damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) of +0/+0/+4. If you choose to use the Mountain kit's damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md), then the [Battle Grace](../../Browse/feature/ability/martial-artist/battle-grace.md) [signature ability](../../Browse/rule/combat/signature-ability.md) from the [Martial Artist](../../Browse/kit/martial-artist.md) kit loses the +2/+2/+2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the Mountain kit to deal 3/6/13 damage.
 
 #### Mark {data-scc="mcdm.heroes.v1/feature.tactician.level-1/mark"}
 
@@ -9154,9 +9154,9 @@ You know how to focus the attention of your allies as you push them toward [vict
 
 *You draw your allies' attention to a specific foe—with devastating effect.*
 
-| **Ranged**       |        **Maneuver** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |        **Maneuver** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 One creature** |
 
 **Effect:** The target is marked by you until the end of the encounter, until you are [dying](../../Browse/rule/health/dying.md), or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](../../Browse/class/tactician.md) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to mark a new target within [distance](../../Browse/rule/combat/distance.md).
 
@@ -9167,7 +9167,7 @@ While a creature marked by you is within your [line of effect](../../Browse/rule
 - The ability deals extra damage equal to twice your [Reason](../../Browse/rule/character/reason.md) score.
 - The creature dealing the damage can spend a [Recovery](../../Browse/rule/health/recoveries.md).
 - The creature dealing the damage can [shift](../../Browse/movement/shifting.md) up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
-- If you damage a creature marked by you with a melee ability, the creature is [taunted](../../Browse/condition/taunted.md) by you until the end of their next turn.
+- If you damage a creature marked by you with a [melee](../../Browse/rule/combat/melee.md) ability, the creature is [taunted](../../Browse/condition/taunted.md) by you until the end of their next [turn](../../Browse/rule/combat/turn.md).
 
 You can't gain more than one benefit from the same trigger.
 
@@ -9180,9 +9180,9 @@ You have the following ability.
 
 *Your foe left an opening. You point this out to an ally!*
 
-| **Ranged** | **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)** | **Main action** |
 | ---------------------------------------|----------------:|
-| **📏 Ranged 10**  | **🎯 One ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 One ally** |
 
 **Effect:** The target can use a [signature ability](../../Browse/rule/combat/signature-ability.md) as a free [triggered action](../../Browse/rule/combat/triggered-action.md).
 
@@ -9209,9 +9209,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You shout a phrase that galvanizes your team.*
 
-| **Ranged**       |        **Maneuver** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |        **Maneuver** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 Three allies** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 Three allies** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -9224,9 +9224,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your precise strike leaves your foe struggling to respond.*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -9239,9 +9239,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your attack gives an ally hope.*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -9254,9 +9254,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *On your command, you and your allies force back the enemy line.*
 
-| **Ranged**       |               **Maneuver** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |               **Maneuver** |
 |------------------|---------------------------:|
-| **📏 Ranged 10** | **🎯 Self and two allies** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 Self and two allies** |
 
 **Effect:** Each target can move up to their [speed](../../Browse/rule/character/speed.md).
 
@@ -9269,9 +9269,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *"Let's not argue about who's the hammer and who's the anvil!"*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -9286,9 +9286,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your attack demoralizes your foe. Your allies begin to think you can win.*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 One creature or object** |
 
 **Effect:** You mark the target.
 
@@ -9298,16 +9298,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 6 + M damage; R < AVERAGE, [weakened](../../Browse/condition/weakened.md) (save ends)
 - **17+:** 10 + M damage; R < STRONG, [weakened](../../Browse/condition/weakened.md) (save ends)
 
-**Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a [Recovery](../../Browse/rule/health/recoveries.md).
+**Effect:** Before the start of your next [turn](../../Browse/rule/combat/turn.md), the first time any ally deals damage to any target marked by you, that ally can spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
 ##### Now! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/now"}
 
 
 *Your allies wait for your command—then unleash death!*
 
-| **Ranged**       |        **Maneuver** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |        **Maneuver** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 Three allies** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 Three allies** |
 
 **Effect:** Each target can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
@@ -9316,11 +9316,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *All those coordination drills you made them do finally pay off.*
 
-| **Ranged**       |      **Maneuver** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |      **Maneuver** |
 |------------------|------------------:|
-| **📏 Ranged 10** | **🎯 Two allies** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 Two allies** |
 
-**Effect:** Each target who hasn't acted yet this combat round can take their turn in any order immediately after yours.
+**Effect:** Each target who hasn't acted yet this [combat round](../../Browse/rule/combat/combat-round.md) can take their [turn](../../Browse/rule/combat/turn.md) in any order immediately after yours.
 
 ### 2nd-Level Features
 
@@ -9352,9 +9352,9 @@ You have trained your squad to work together, stay silent, and wait for the oppo
 
 ##### Melee Superiority {data-scc="mcdm.heroes.v1/feature.tactician.level-2/melee-superiority"}
 
-After constant drills, you can more accurately anticipate an enemy's plan and thwart their attempts to move across the battlefield. Whenever you make an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md), the target's [speed](../../Browse/rule/character/speed.md) is reduced to 0 until the end of the current turn.
+After constant drills, you can more accurately anticipate an enemy's plan and thwart their attempts to move across the battlefield. Whenever you make an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md), the target's [speed](../../Browse/rule/character/speed.md) is reduced to 0 until the end of the current [turn](../../Browse/rule/combat/turn.md).
 
-**Mark Benefit:** When a creature marked by you attempts to move or [shift](../../Browse/movement/shifting.md) within [distance](../../Browse/rule/combat/distance.md) of your melee [free strike](../../Browse/feature/common/main-actions/free-strike.md), you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) and spend 2 focus to make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against that creature.
+**Mark Benefit:** When a creature marked by you attempts to move or [shift](../../Browse/movement/shifting.md) within [distance](../../Browse/rule/combat/distance.md) of your [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md), you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) and spend 2 focus to make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) against that creature.
 
 #### 2nd-Level Doctrine Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-2/2nd-level-doctrine-ability"}
 
@@ -9369,9 +9369,9 @@ Choose one of the following abilities.
 
 *Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.*
 
-| **Ranged**       |         **Maneuver** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |         **Maneuver** |
 |------------------|---------------------:|
-| **📏 Ranged 10** | **🎯 Two creatures** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 Two creatures** |
 
 **Effect:** Each target is marked by you, and must immediately make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against a creature of your choice within 5 squares of them.
 
@@ -9382,11 +9382,11 @@ Choose one of the following abilities.
 
 *"Try picking on someone my [size](../../Browse/rule/character/size.md)."*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** | **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** | **Main action** |
 |---------------------------|----------------:|
 | **📏 Self; see below**    |     **🎯 Self** |
 
-**Effect:** You [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md) directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](../../Browse/rule/health/recoveries.md), and you can make the following weapon [strike](../../Browse/rule/combat/strike.md) with a [distance](../../Browse/rule/combat/distance.md) of melee 1 against a creature.
+**Effect:** You [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md) directly toward an ally, ending [adjacent](../../Browse/rule/combat/adjacent.md) to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](../../Browse/rule/health/recoveries.md), and you can make the following weapon [strike](../../Browse/rule/combat/strike.md) with a [distance](../../Browse/rule/combat/distance.md) of [melee](../../Browse/rule/combat/melee.md) 1 against a creature.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -9403,9 +9403,9 @@ Choose one of the following abilities.
 
 *Your enemy will think twice about attacking your friend.*
 
-| **Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 5**            | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 5**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -9413,16 +9413,16 @@ Choose one of the following abilities.
 - **12-16:** 9 + R damage; [taunted](../../Browse/condition/taunted.md) ([EoT](../../Browse/rule/combat/end-of-turn.md))
 - **17+:** 12 + R damage; [taunted](../../Browse/condition/taunted.md) ([EoT](../../Browse/rule/combat/end-of-turn.md))
 
-**Effect:** One ally adjacent to the target can spend a [Recovery](../../Browse/rule/health/recoveries.md).
+**Effect:** One ally [adjacent](../../Browse/rule/combat/adjacent.md) to the target can spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
 ###### Targets of Opportunity {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-2/targets-of-opportunity"}
 
 
 *You point out easy targets to your friends, allowing them to include more enemies in their attacks.*
 
-| **Ranged**      |         **Maneuver** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**      |         **Maneuver** |
 |-----------------|---------------------:|
-| **📏 Ranged 5** | **🎯 Two creatures** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 5** | **🎯 Two creatures** |
 
 **Effect:** Each target is marked by you, and you gain two [surges](../../Browse/rule/resource/surge.md).
 
@@ -9437,13 +9437,13 @@ Choose one of the following abilities.
 
 *You prioritize saving an ally over your own safety.*
 
-| **Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |    **Triggered** |
+| **[Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |    **Triggered** |
 |----------------------------|-----------------:|
-| **📏 Ranged 5**            | **🎯 One enemy** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 5**            | **🎯 One enemy** |
 
 **Trigger:** The target deals damage to an ally.
 
-**Effect:** You move up to your [speed](../../Browse/rule/character/speed.md) toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../../Browse/rule/health/recoveries.md) and gains 5 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a [power roll](../../Browse/rule/dice/power-roll.md) against the target.
+**Effect:** You move up to your [speed](../../Browse/rule/character/speed.md) toward the triggering ally, ending this movement [adjacent](../../Browse/rule/combat/adjacent.md) to them or in the nearest square if you can't reach an [adjacent](../../Browse/rule/combat/adjacent.md) square. The triggering ally can spend a [Recovery](../../Browse/rule/health/recoveries.md) and gains 5 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) for each enemy you came [adjacent](../../Browse/rule/combat/adjacent.md) to during the move. You then make a [power roll](../../Browse/rule/dice/power-roll.md) against the target.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -9460,7 +9460,7 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 1 [burst](../../Browse/rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the start of your next turn, each target has a bonus to [stability](../../Browse/rule/character/stability.md) equal to your [Might](../../Browse/rule/character/might.md) score. Additionally, each target gains 2 [surges](../../Browse/rule/resource/surge.md).
+**Effect:** Until the start of your next [turn](../../Browse/rule/combat/turn.md), each target has a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md) equal to your [Might](../../Browse/rule/character/might.md) score. Additionally, each target gains 2 [surges](../../Browse/rule/resource/surge.md).
 
 ### 3rd-Level Features
 
@@ -9468,7 +9468,7 @@ As a 3rd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 
 #### Out of Position {data-scc="mcdm.heroes.v1/feature.tactician.level-3/out-of-position"}
 
-Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to use your Mark ability against one enemy you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to, even if you are [surprised](../../Browse/rule/combat/surprised.md). You can then slide the marked target up to 3 squares, ignoring [stability](../../Browse/rule/character/stability.md). The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../Browse/rule/health/dying.md), or result in them suffering a condition or other negative effect.
+Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to use your Mark ability against one enemy you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to, even if you are [surprised](../../Browse/rule/combat/surprised.md). You can then slide the marked target up to 3 squares, ignoring [stability](../../Browse/rule/character/stability.md). The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../Browse/rule/health/dying.md), or result in them suffering a [condition](../../Browse/rule/combat/condition.md) or other negative effect.
 
 #### 7-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-3/7-focus-ability"}
 
@@ -9483,7 +9483,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../../Browse/movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../../Browse/feature/common/main-actions/charge.md) main action to target a creature marked by you can use a melee [strike](../../Browse/rule/combat/strike.md) [signature ability](../../Browse/rule/combat/signature-ability.md) or a melee [strike](../../Browse/rule/combat/strike.md) [heroic ability](../../Browse/rule/general/heroic-ability.md) instead of a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), the first time on a [turn](../../Browse/rule/combat/turn.md) that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../../Browse/movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../../Browse/feature/common/main-actions/charge.md) main action to target a creature marked by you can use a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) [signature ability](../../Browse/rule/combat/signature-ability.md) or a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) [heroic ability](../../Browse/rule/general/heroic-ability.md) instead of a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 ##### Hit 'Em Hard! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-3/hit-em-hard"}
 
@@ -9499,7 +9499,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 ##### Rout {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-3/rout"}
 
 
-*The tide begins to turn.*
+*The tide begins to [turn](../../Browse/rule/combat/turn.md).*
 
 | **-**       | **Maneuver** |
 |-------------|-------------:|
@@ -9528,7 +9528,7 @@ Your [Might](../../Browse/rule/character/might.md) and [Reason](../../Browse/rul
 
 #### Focus on Their Weaknesses {data-scc="mcdm.heroes.v1/feature.tactician.level-4/focus-on-their-weaknesses"}
 
-The first time each combat round that you or any ally damages a target marked by you, you gain 2 focus instead of 1.
+The first time each [combat round](../../Browse/rule/combat/combat-round.md) that you or any ally damages a target marked by you, you gain 2 focus instead of 1.
 
 #### Improved Field Arsenal {data-scc="mcdm.heroes.v1/feature.tactician.level-4/improved-field-arsenal"}
 
@@ -9576,11 +9576,11 @@ You and any ally within 10 squares of you can move at full [speed](../../Browse/
 
 ##### Shake It Off {data-scc="mcdm.heroes.v1/feature.tactician.level-5/shake-it-off"}
 
-As a [free maneuver](../../Browse/rule/combat/free-maneuver.md), you can spend 1d6 [Stamina](../../Browse/rule/health/stamina.md) to ignore a consequence from a [test](../../Browse/rule/test/test.md), or to end one effect on you that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of your turn. Any ally adjacent to you can also spend [Stamina](../../Browse/rule/health/stamina.md) as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to gain this benefit.
+As a [free maneuver](../../Browse/rule/combat/free-maneuver.md), you can spend 1d6 [Stamina](../../Browse/rule/health/stamina.md) to ignore a consequence from a [test](../../Browse/rule/test/test.md), or to end one effect on you that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of your [turn](../../Browse/rule/combat/turn.md). Any ally [adjacent](../../Browse/rule/combat/adjacent.md) to you can also spend [Stamina](../../Browse/rule/health/stamina.md) as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to gain this benefit.
 
 ##### Tactical Offensive {data-scc="mcdm.heroes.v1/feature.tactician.level-5/tactical-offensive"}
 
-When you use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action to attack a creature marked by you, you can use a signature or [heroic ability](../../Browse/rule/general/heroic-ability.md) with the Melee and Strike keywords instead of a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+When you use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action to attack a creature marked by you, you can use a signature or [heroic ability](../../Browse/rule/general/heroic-ability.md) with the [Melee](../../Browse/rule/combat/melee.md) and Strike keywords instead of a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 #### 9-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-5/9-focus-ability"}
 
@@ -9591,9 +9591,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You distract a foe while your allies secure their defensive gear.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** | **Main action**     |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** | **Main action**     |
 |---------------------------|---------------------|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -9601,16 +9601,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 13 + M damage
 - **17+:** 18 + M damage
 
-**Effect:** You and each ally adjacent to the target gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
+**Effect:** You and each ally [adjacent](../../Browse/rule/combat/adjacent.md) to the target gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md).
 
 ##### Squad! Remember Your Training! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-5/squad-remember-your-training"}
 
 
 *You remind your allies how to best use their gear.*
 
-| **Ranged**                |                         **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**                |                         **Main action** |
 |------------------------------|----------------------------------------:|
-| **📏 Ranged 10**  | **🎯 Self and two allies** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 Self and two allies** |
 
 **Effect:** Each target gains 1 [surge](../../Browse/rule/resource/surge.md) and can use a [signature ability](../../Browse/rule/combat/signature-ability.md) that has a double [edge](../../Browse/rule/dice/edge.md).
 
@@ -9623,16 +9623,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |----------------|--------------------------------------:|
 | **📏 3 [burst](../../Browse/rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target gains 2 [surges](../../Browse/rule/resource/surge.md). Additionally, they can spend a [Recovery](../../Browse/rule/health/recoveries.md), remove any conditions or effects on them, and stand up if they [are prone](../../Browse/condition/prone.md).
+**Effect:** Each target gains 2 [surges](../../Browse/rule/resource/surge.md). Additionally, they can spend a [Recovery](../../Browse/rule/health/recoveries.md), remove any [conditions](../../Browse/rule/combat/condition.md) or effects on them, and stand up if they [are prone](../../Browse/condition/prone.md).
 
 ##### You've Still Got Something Left {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-5/youve-still-got-something-left"}
 
 
 *You push an ally to use a [heroic ability](../../Browse/rule/general/heroic-ability.md) sooner than they otherwise would.*
 
-| **Ranged**       | **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       | **Main action** |
 |------------------|----------------:|
-| **📏 Ranged 10** | **🎯 One ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 One ally** |
 
 **Effect:** The target uses a [heroic ability](../../Browse/rule/general/heroic-ability.md) with the [Strike](../../Browse/rule/combat/strike.md) keyword as a free [triggered action](../../Browse/rule/combat/triggered-action.md), and deals extra damage with that ability equal to your [Reason](../../Browse/rule/character/reason.md) score. The ability has its [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) cost reduced by 1 + your [Reason](../../Browse/rule/character/reason.md) score (minimum cost 0).
 
@@ -9661,9 +9661,9 @@ Choose one of the following abilities.
 
 *You direct your ally to make a killing blow.*
 
-| **Ranged**       | **Free triggered** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       | **Free triggered** |
 |------------------|-------------------:|
-| **📏 Ranged 10** |    **🎯 One ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** |    **🎯 One ally** |
 
 **Trigger:** The target uses an ability to deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to a creature while hidden.
 
@@ -9674,9 +9674,9 @@ Choose one of the following abilities.
 
 *You confuse your foes, causing them to turn on each other.*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |      **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |      **Main action** |
 |-----------------------------------|---------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 Two creatures** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -9695,9 +9695,9 @@ Choose one of the following abilities.
 
 *With new understanding of your foes, you create the perfect plan to win the battle.*
 
-| **Ranged**       |           **Maneuver** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |           **Maneuver** |
 |------------------|-----------------------:|
-| **📏 Ranged 10** | **🎯 Three creatures** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 Three creatures** |
 
 **Effect:** Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have [damage immunity](../../Browse/rule/damage/damage-immunity.md) or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 [surges](../../Browse/rule/resource/surge.md).
 
@@ -9721,11 +9721,11 @@ Choose one of the following abilities.
 ###### Instant Retaliation {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-6/instant-retaliation"}
 
 
-*You [parry](../../Browse/feature/ability/tactician/level-1/parry.md) with almost supernatural [speed](../../Browse/rule/character/speed.md).*
+*You [parry](../../Browse/feature/ability/tactician/level-1/parry.md) with almost [supernatural](../../Browse/rule/general/supernatural.md) [speed](../../Browse/rule/character/speed.md).*
 
-| **Melee, Weapon** | **Free triggered** |
+| **[Melee](../../Browse/rule/combat/melee.md), Weapon** | **Free triggered** |
 | ------------------------------------|-------------------:|
-| **📏 Melee 1**                   |    **🎯 One ally** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                   |    **🎯 One ally** |
 
 **Trigger:** A creature deals damage to the target.
 
@@ -9742,15 +9742,15 @@ Choose one of the following abilities.
 
 *You lead your allies in a charge.*
 
-| **Charge, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **Charge, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1**                    | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                    | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action as a free [triggered action](../../Browse/rule/combat/triggered-action.md), and can use a melee [strike](../../Browse/rule/combat/strike.md) [signature ability](../../Browse/rule/combat/signature-ability.md) instead of a [free strike](../../Browse/feature/common/main-actions/free-strike.md) for the charge
-- **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action as a free [triggered action](../../Browse/rule/combat/triggered-action.md), and can use a melee [strike](../../Browse/rule/combat/strike.md) [signature ability](../../Browse/rule/combat/signature-ability.md) that gains an [edge](../../Browse/rule/dice/edge.md) instead of a [free strike](../../Browse/feature/common/main-actions/free-strike.md) for the charge
-- **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action as a free [triggered action](../../Browse/rule/combat/triggered-action.md), and can each use a melee [strike](../../Browse/rule/combat/strike.md) [signature ability](../../Browse/rule/combat/signature-ability.md) that gains an [edge](../../Browse/rule/dice/edge.md) instead of a [free strike](../../Browse/feature/common/main-actions/free-strike.md) for the charge
+- **≤11:** 6 + M damage; one ally within 10 squares can use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action as a free [triggered action](../../Browse/rule/combat/triggered-action.md), and can use a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) [signature ability](../../Browse/rule/combat/signature-ability.md) instead of a [free strike](../../Browse/feature/common/main-actions/free-strike.md) for the charge
+- **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action as a free [triggered action](../../Browse/rule/combat/triggered-action.md), and can use a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) [signature ability](../../Browse/rule/combat/signature-ability.md) that gains an [edge](../../Browse/rule/dice/edge.md) instead of a [free strike](../../Browse/feature/common/main-actions/free-strike.md) for the charge
+- **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action as a free [triggered action](../../Browse/rule/combat/triggered-action.md), and can each use a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) [signature ability](../../Browse/rule/combat/signature-ability.md) that gains an [edge](../../Browse/rule/dice/edge.md) instead of a [free strike](../../Browse/feature/common/main-actions/free-strike.md) for the charge
 
 **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../../Browse/condition/dazed.md) (save ends). If the target is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) before one or both allies has made their [strike](../../Browse/rule/combat/strike.md), the ally or allies can pick a different target.
 
@@ -9764,7 +9764,7 @@ Each of your [characteristic](../../Browse/rule/character/characteristic.md) sco
 
 #### Heightened Focus {data-scc="mcdm.heroes.v1/feature.tactician.level-7/heightened-focus"}
 
-When you gain focus at the start of each of your turns during combat, you gain 3 focus instead of 2.
+When you gain focus at the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 3 focus instead of 2.
 
 #### Seize the Initiative {data-scc="mcdm.heroes.v1/feature.tactician.level-7/seize-the-initiative"}
 
@@ -9834,7 +9834,7 @@ You have trained your squad to coordinate their movements to maximize combat imp
 
 You have trained your squad to maximize impact and break enemy lines when they attack.
 
-**Mark Benefit:** When you or any ally makes a melee [strike](../../Browse/rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to have the character making the [strike](../../Browse/rule/combat/strike.md) push the target up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score. That character can then [shift](../../Browse/movement/shifting.md) up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score, ending this [shift](../../Browse/movement/shifting.md) adjacent to the target.
+**Mark Benefit:** When you or any ally makes a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to have the character making the [strike](../../Browse/rule/combat/strike.md) push the target up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score. That character can then [shift](../../Browse/movement/shifting.md) up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score, ending this [shift](../../Browse/movement/shifting.md) [adjacent](../../Browse/rule/combat/adjacent.md) to the target.
 
 #### 11-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-8/11-focus-ability"}
 
@@ -9845,9 +9845,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You direct an attack to strike true.*
 
-| **Ranged**       |         **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |         **Main action** |
 |------------------|------------------------:|
-| **📏 Ranged 10** | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 Self or one ally** |
 
 **Effect:** The target gains 2 [surges](../../Browse/rule/resource/surge.md) and can use a signature or [heroic ability](../../Browse/rule/general/heroic-ability.md) as a free [triggered action](../../Browse/rule/combat/triggered-action.md). The ability has a double [edge](../../Browse/rule/dice/edge.md) on the [power roll](../../Browse/rule/dice/power-roll.md), ignores [damage immunity](../../Browse/rule/damage/damage-immunity.md), and increases the [potency](../../Browse/rule/character/potency.md) of any [potency](../../Browse/rule/character/potency.md) effects by 1.
 
@@ -9856,9 +9856,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You point out an opening to your ally so they can land a killing blow.*
 
-| **Ranged**       |  **Free triggered** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |  **Free triggered** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 One creature** |
 
 **Trigger:** The target is not a leader or solo creature, and becomes [winded](../../Browse/rule/health/winded.md).
 
@@ -9869,9 +9869,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You direct your squad to strike in unison and with devastating effect.*
 
-| **Ranged**       |     **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |     **Main action** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 Three allies** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 Three allies** |
 
 **Effect:** Each target gains 1 [surge](../../Browse/rule/resource/surge.md) and can use a [signature ability](../../Browse/rule/combat/signature-ability.md) as a free [triggered action](../../Browse/rule/combat/triggered-action.md). That ability gains an [edge](../../Browse/rule/dice/edge.md) on the [power roll](../../Browse/rule/dice/power-roll.md) and increases the [potency](../../Browse/rule/character/potency.md) of any [potency](../../Browse/rule/character/potency.md) effects by 1.
 
@@ -9880,9 +9880,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You create an opening for an ally.*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
@@ -9913,9 +9913,9 @@ Choose one of the following abilities.
 
 *I had to pry this secret from the [shadow college](../../Browse/feature/shadow/level-1/shadow-college.md)s.*
 
-| **Ranged**       |            **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |            **Main action** |
 |------------------|---------------------------:|
-| **📏 Ranged 10** | **🎯 Self and two allies** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 Self and two allies** |
 
 **Effect:** Each target gains 2 [surges](../../Browse/rule/resource/surge.md), and can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to use a [signature ability](../../Browse/rule/combat/signature-ability.md) that gains an [edge](../../Browse/rule/dice/edge.md). After resolving their ability, each target can [shift](../../Browse/movement/shifting.md) up to 2 squares and become hidden even if they have no [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md), or if they are observed.
 
@@ -9924,9 +9924,9 @@ Choose one of the following abilities.
 
 *You trick your enemies into attacking each other and leave them confused by the aftermath.*
 
-| **Magic, Ranged, Weapon** |      **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), Weapon** |      **Main action** |
 |---------------------------|---------------------:|
-| **📏 Ranged 10**          | **🎯 Three enemies** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**          | **🎯 Three enemies** |
 
 **Effect:** Each target uses a [signature ability](../../Browse/rule/combat/signature-ability.md) against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the [power roll](../../Browse/rule/dice/power-roll.md). After resolving the targets' abilities, you make a [power roll](../../Browse/rule/dice/power-roll.md) against each original target.
 
@@ -9949,7 +9949,7 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 3 [burst](../../Browse/rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can make a ranged [free strike](../../Browse/feature/common/main-actions/free-strike.md) that gains an [edge](../../Browse/rule/dice/edge.md) against any enemy marked by you within [distance](../../Browse/rule/combat/distance.md) of their ranged [free strike](../../Browse/feature/common/main-actions/free-strike.md). A target ignores [banes](../../Browse/rule/dice/bane.md) and double [banes](../../Browse/rule/dice/bane.md) when making this [strike](../../Browse/rule/combat/strike.md).
+**Effect:** Each target can make a [ranged](../../Browse/rule/combat/ranged.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) that gains an [edge](../../Browse/rule/dice/edge.md) against any enemy marked by you within [distance](../../Browse/rule/combat/distance.md) of their [ranged](../../Browse/rule/combat/ranged.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md). A target ignores [banes](../../Browse/rule/dice/bane.md) and double [banes](../../Browse/rule/dice/bane.md) when making this [strike](../../Browse/rule/combat/strike.md).
 
 ###### Counterstrategy {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/counterstrategy"}
 
@@ -9971,9 +9971,9 @@ Choose one of the following abilities.
 
 *Nothing will stop you from reaching your foe.*
 
-| **Charge, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **Charge, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
-| **📏 Melee 1**                    | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                    | **🎯 One creature** |
 
 **Effect:** You mark the target.
 
@@ -9990,9 +9990,9 @@ Choose one of the following abilities.
 
 *You focus on making an enemy irrelevant.*
 
-| **Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **Effect:** The target is marked by you.
 
@@ -10030,7 +10030,7 @@ You gain one skill of your choice.
 
 #### True Focus {data-scc="mcdm.heroes.v1/feature.tactician.level-10/true-focus"}
 
-When you gain focus at the start of each of your turns during combat, you gain 4 focus instead of 3.
+When you gain focus at the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 4 focus instead of 3.
 
 #### Warmaster {data-scc="mcdm.heroes.v1/feature.tactician.level-10/warmaster"}
 
@@ -10110,11 +10110,11 @@ The focus and precision of your thoughts grant you a [Heroic Resource](../../Bro
 
 ##### Clarity in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain clarity equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 clarity.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../Browse/rule/combat/combat-round.md) (as determined by the Director), you gain clarity equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 1d3 clarity.
 
-Additionally, the first time each combat round that a creature is [force moved](../../Browse/movement/forced-movement.md), you gain 1 clarity.
+Additionally, the first time each [combat round](../../Browse/rule/combat/combat-round.md) that a creature is [force moved](../../Browse/movement/forced-movement.md), you gain 1 clarity.
 
-You can spend clarity you don't have, pushing that [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) into negative numbers to a maximum negative value equal to 1 + your [Reason](../../Browse/rule/character/reason.md) score. At the end of each of your turns, you take 1 damage for each negative point of clarity.
+You can spend clarity you don't have, pushing that [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) into negative numbers to a maximum negative value equal to 1 + your [Reason](../../Browse/rule/character/reason.md) score. At the end of each of your [turns](../../Browse/rule/combat/turn.md), you take 1 damage for each negative point of clarity.
 
 Whenever you have clarity below 0, you are strained. Some psionic abilities have additional effects if you are already strained or become strained when you use them. Strained effects can still impact you even after you are no longer strained.
 
@@ -10130,16 +10130,16 @@ When you use an ability outside of combat that lets you spend unlimited clarity 
 
 #### Mind Spike {data-scc="mcdm.heroes.v1/feature.talent.level-1/mind-spike"}
 
-You have the following ability, which can be used as a ranged [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+You have the following ability, which can be used as a [ranged](../../Browse/rule/combat/ranged.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 ##### Mind Spike {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/mind-spike"}
 
 
 *A telepathic bolt instantly zaps a creature's brain.*
 
-| **Psionic, Ranged**, **Strike, Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)**, **Strike, Telepathy** |     **Main action** |
 |--------------------------------------------|--------------------:|
-| **📏 Ranged 10**                           | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                           | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -10155,25 +10155,25 @@ Through meditation, you create pathways in your mind that enhance your statistic
 
 ##### Battle Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/battle-augmentation"}
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to [Stamina](../../Browse/rule/health/stamina.md), and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../../Browse/feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md), and that [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) with weapon abilities, including [free strikes](../../Browse/feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this augmentation.
 
 ##### Density Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/density-augmentation"}
 
-You gain a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../../Browse/rule/character/stability.md).
+You gain a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md), and this [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md).
 
 ##### Distance Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/distance-augmentation"}
 
-Your ranged psionic abilities gain a +2 bonus to [distance](../../Browse/rule/combat/distance.md).
+Your [ranged](../../Browse/rule/combat/ranged.md) psionic abilities gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [distance](../../Browse/rule/combat/distance.md).
 
 ##### Force Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/force-augmentation"}
 
-Your damage-dealing psionic abilities gain a +1 bonus to [rolled damage](../../Browse/rule/damage/rolled-damage.md).
+Your damage-dealing psionic abilities gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [rolled damage](../../Browse/rule/damage/rolled-damage.md).
 
 ##### Speed Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/speed-augmentation"}
 
-You gain a +1 bonus to [speed](../../Browse/rule/character/speed.md) and to the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md) when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
+You gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) and to the [distance](../../Browse/rule/combat/distance.md) you can [shift](../../Browse/movement/shifting.md) when you take the [Disengage](../../Browse/feature/common/move-actions/disengage.md) move action.
 
 #### Talent Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-ward"}
 
@@ -10181,19 +10181,19 @@ Through meditation, you create a ward that protects you. Choose one of the follo
 
 ##### Entropy Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/entropy-ward"}
 
-Your ward slows time for your enemies. Whenever a creature deals damage to you, their [speed](../../Browse/rule/character/speed.md) is reduced by an amount equal to your [Reason](../../Browse/rule/character/reason.md) score and they can't use [triggered actions](../../Browse/rule/combat/triggered-action.md) until the end of their next turn.
+Your ward slows time for your enemies. Whenever a creature deals damage to you, their [speed](../../Browse/rule/character/speed.md) is reduced by an amount equal to your [Reason](../../Browse/rule/character/reason.md) score and they can't use [triggered actions](../../Browse/rule/combat/triggered-action.md) until the end of their next [turn](../../Browse/rule/combat/turn.md).
 
 ##### Repulsive Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/repulsive-ward"}
 
-You surround yourself with an invisible ward of telekinetic energy. Whenever an adjacent creature deals damage to you, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to push them up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
+You surround yourself with an invisible ward of telekinetic energy. Whenever an [adjacent](../../Browse/rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to push them up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 ##### Steel Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/steel-ward"}
 
-Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain [damage immunity](../../Browse/rule/damage/damage-immunity.md) equal to your [Reason](../../Browse/rule/character/reason.md) score until the end of your next turn.
+Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain [damage immunity](../../Browse/rule/damage/damage-immunity.md) equal to your [Reason](../../Browse/rule/character/reason.md) score until the end of your next [turn](../../Browse/rule/combat/turn.md).
 
 ##### Vanishing Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/vanishing-ward"}
 
-Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next turn.
+Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next [turn](../../Browse/rule/combat/turn.md).
 
 #### Telepathic Speech {data-scc="mcdm.heroes.v1/feature.talent.level-1/telepathic-speech"}
 
@@ -10220,9 +10220,9 @@ You have the following ability.
 
 *To your ally, it seems as though the world has slowed down.*
 
-| **Psionic, Ranged** |                **Maneuver** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |                **Maneuver** |
 |---------------------|----------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 Self or one creature** |
 
 **Effect:** The target shifts up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
@@ -10237,9 +10237,9 @@ You have the following ability.
 
 *You step back a split second to see if things play out a little differently.*
 
-| **Psionic, Ranged** |               **Triggered** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |               **Triggered** |
 |---------------------|----------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 Self or one creature** |
 
 **Trigger:** The target makes an [ability roll](../../Browse/rule/dice/ability-roll.md).
 
@@ -10254,9 +10254,9 @@ You have the following ability.
 
 *Creating a brief psychic link between an enemy and their target gives that foe a taste of their own medicine.*
 
-| **Psionic, Ranged** |       **Triggered** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |       **Triggered** |
 |---------------------|--------------------:|
-| **📏 Ranged 10**    | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 One creature** |
 
 **Trigger:** The target deals damage to an ally.
 
@@ -10271,9 +10271,9 @@ You have the following ability.
 
 *Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
 
-| **Psionic, Ranged** |                                 **Maneuver** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |                                 **Maneuver** |
 |---------------------|---------------------------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one [size](../../Browse/rule/character/size.md) 1 creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 Self or one [size](../../Browse/rule/character/size.md) 1 creature or object** |
 
 **Effect:** You slide the target up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
@@ -10290,12 +10290,12 @@ You have the following ability.
 
 *An ally gains the benefit of your intellect.*
 
-| **Psionic, Ranged** |                  **Maneuver** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |                  **Maneuver** |
 |---------------------|------------------------------:|
-| **📏 Ranged 10**    | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 One creature or object** |
 
 
-**Effect:** The next [ability roll](../../Browse/rule/dice/ability-roll.md) an ally makes against the target before the start of your next turn gains an [edge](../../Browse/rule/dice/edge.md).
+**Effect:** The next [ability roll](../../Browse/rule/dice/ability-roll.md) an ally makes against the target before the start of your next [turn](../../Browse/rule/combat/turn.md) gains an [edge](../../Browse/rule/dice/edge.md).
 
 **Spend 1 Clarity:** You target one additional creature or object.
 
@@ -10308,9 +10308,9 @@ You have the following ability.
 
 *They aren't going anywhere, but you might!*
 
-| **Psionic, Ranged** |           **Triggered** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |           **Triggered** |
 |---------------------|------------------------:|
-| **📏 Ranged 10**    | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 Self or one ally** |
 
 **Trigger:** The target takes damage or is [force moved](../../Browse/movement/forced-movement.md).
 
@@ -10329,9 +10329,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *You advance an enemy's age for a moment.*
 
-| **Chronopathy, Psionic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
+| **Chronopathy, Psionic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
 |------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                         | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                         | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -10348,9 +10348,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *You blast a foe with a pulse of cold energy.*
 
-| **Cryokinesis, Psionic, Ranged**, **Strike** |     **Main action** |
+| **Cryokinesis, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)**, **Strike** |     **Main action** |
 |----------------------------------------------|--------------------:|
-| **📏 Ranged 10**                             | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                             | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -10358,14 +10358,14 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 - **12-16:** 4 + R cold damage; M < AVERAGE, [slowed](../../Browse/condition/slowed.md) ([EoT](../../Browse/rule/combat/end-of-turn.md))
 - **17+:** 6 + R cold damage; M < STRONG, [slowed](../../Browse/condition/slowed.md) ([EoT](../../Browse/rule/combat/end-of-turn.md))
 
-**Strained:** You are [slowed](../../Browse/condition/slowed.md) until the end of your next turn. Additionally, a target [slowed](../../Browse/condition/slowed.md) by this ability is [restrained](../../Browse/condition/restrained.md) instead.
+**Strained:** You are [slowed](../../Browse/condition/slowed.md) until the end of your next [turn](../../Browse/rule/combat/turn.md). Additionally, a target [slowed](../../Browse/condition/slowed.md) by this ability is [restrained](../../Browse/condition/restrained.md) instead.
 
 ###### Incinerate {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/incinerate"}
 
 
 *The air erupts into a column of smokeless flame.*
 
-| **Area, Fire, Psionic, Pyrokinesis, Ranged** |               **Main action** |
+| **Area, Fire, Psionic, Pyrokinesis, [Ranged](../../Browse/rule/combat/ranged.md)** |               **Main action** |
 |----------------------------------------------|------------------------------:|
 | **📏 3 [cube](../../Browse/rule/combat/cube.md) within 10**                      | **🎯 Each enemy in the area** |
 
@@ -10375,18 +10375,18 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 - **12-16:** 4 fire damage
 - **17+:** 6 fire damage
 
-**Effect:** A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.
+**Effect:** A column of fire remains in the area until the start of your next [turn](../../Browse/rule/combat/turn.md). Each enemy who enters the area for the first time in a [combat round](../../Browse/rule/combat/combat-round.md) or starts their turn there takes 2 fire damage.
 
-**Strained:** The size of the [cube](../../Browse/rule/combat/cube.md) increases by 2, but the fire disappears at the end of your turn.
+**Strained:** The size of the [cube](../../Browse/rule/combat/cube.md) increases by 2, but the fire disappears at the end of your [turn](../../Browse/rule/combat/turn.md).
 
 ###### Kinetic Grip {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip"}
 
 
 *You lift and hurl your foe away from you.*
 
-| **Psionic, Ranged, Telekinesis** |               **Main action** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), Telekinesis** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Ranged 10**                 | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                 | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -10411,16 +10411,16 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 - **12-16:** 5 psychic damage; push 1
 - **17+:** 7 psychic damage; push 2
 
-**Strained:** The size of the [burst](../../Browse/rule/combat/burst.md) increases by 2, and you are [bleeding](../../Browse/condition/bleeding.md) until the start of your next turn.
+**Strained:** The size of the [burst](../../Browse/rule/combat/burst.md) increases by 2, and you are [bleeding](../../Browse/condition/bleeding.md) until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
 ###### Materialize {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/materialize"}
 
 
 *You picture an object in your mind and give it form—directly above your opponent's head.*
 
-| **Psionic, Ranged, Resopathy, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), Resopathy, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
 |----------------------------------------|------------------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                       | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -10428,18 +10428,18 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 - **12-16:** 5 + R damage
 - **17+:** 8 + R damage
 
-**Effect:** A worthless [size](../../Browse/rule/character/size.md) 1M object drops onto the target to deal the damage, then rolls into an adjacent unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
+**Effect:** A worthless [size](../../Browse/rule/character/size.md) 1M object drops onto the target to deal the damage, then rolls into an [adjacent](../../Browse/rule/combat/adjacent.md) unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).
 
-**Strained:** The object explodes after the damage is dealt, and each creature adjacent to the target takes damage equal to your [Reason](../../Browse/rule/character/reason.md) score. You also take damage equal to your [Reason](../../Browse/rule/character/reason.md) score that can't be reduced in any way.
+**Strained:** The object explodes after the damage is dealt, and each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the target takes damage equal to your [Reason](../../Browse/rule/character/reason.md) score. You also take damage equal to your [Reason](../../Browse/rule/character/reason.md) score that can't be reduced in any way.
 
 ###### Optic Blast {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/optic-blast"}
 
 
 *Your eyes emit rays of powerful enervating force.*
 
-| **Metamorphosis, Psionic, Ranged**, **Strike** |               **Main action** |
+| **Metamorphosis, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)**, **Strike** |               **Main action** |
 |------------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                               | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                               | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -10456,9 +10456,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 *You form a blade of mind energy and stab your target, invigorating yourself.*
 
-| **Animapathy, Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
+| **Animapathy, [Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
 |----------------------------------------|------------------------------:|
-| **📏 Melee 2**                         | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 2**                         | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -10483,11 +10483,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You project psionic energy out to a creature and take on a new visage in their mind.*
 
-| **Psionic, Ranged, [Strike](../../Browse/rule/combat/strike.md), Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Telepathy** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
-**Effect:** If you target an ally, they gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to three times your [Presence](../../Browse/rule/character/presence.md) score, and they can end one effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their turn. If you target an enemy, you make a [power roll](../../Browse/rule/dice/power-roll.md).
+**Effect:** If you target an ally, they gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to three times your [Presence](../../Browse/rule/character/presence.md) score, and they can end one effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their [turn](../../Browse/rule/combat/turn.md). If you target an enemy, you make a [power roll](../../Browse/rule/dice/power-roll.md).
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -10500,9 +10500,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You crush a foe in a telekinetic grip.*
 
-| **Psionic, Ranged**, **Strike, Telekinesis** |     **Main action** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)**, **Strike, Telekinesis** |     **Main action** |
 |----------------------------------------------|--------------------:|
-| **📏 Ranged 10**                             | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                             | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -10517,20 +10517,20 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You give a target a glimpse into the future so that they're ready for what comes next.*
 
-| **Chronopathy, Melee, Psionic** |         **Main action** |
+| **Chronopathy, [Melee](../../Browse/rule/combat/melee.md), Psionic** |         **Main action** |
 |---------------------------------|------------------------:|
-| **📏 Melee 2**                  | **🎯 Self or one ally** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 2**                  | **🎯 Self or one ally** |
 
-**Effect:** [Ability rolls](../../Browse/rule/dice/ability-roll.md) made against the target take a [bane](../../Browse/rule/dice/bane.md) until the start of your next turn. Whenever the target takes damage while under this effect, they can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the source of the damage.
+**Effect:** [Ability rolls](../../Browse/rule/dice/ability-roll.md) made against the target take a [bane](../../Browse/rule/dice/bane.md) until the start of your next [turn](../../Browse/rule/combat/turn.md). Whenever the target takes damage while under this effect, they can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the source of the damage.
 
 ###### Smolder {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/smolder"}
 
 
 *Smoke flows from your enemy like tears as their skin begins to blacken and flake.*
 
-| **Psionic, Pyrokinesis, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
+| **Psionic, Pyrokinesis, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
 |------------------------------------------|--------------------:|
-| **📏 Ranged 10**                         | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                         | **🎯 One creature** |
 
 **Effect:** Choose the [damage type](../../Browse/rule/damage/damage-type.md) and the weakness for this ability from one of the following: acid, corruption, or fire. The target takes damage before this ability imposes any weakness.
 
@@ -10549,9 +10549,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *The target is thrown several seconds back through time and gets to do it all again.*
 
-| **Chronopathy, Psionic, Ranged** |            **Maneuver** |
+| **Chronopathy, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |            **Maneuver** |
 |----------------------------------|------------------------:|
-| **📏 Ranged 10**                 | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
 
 **Effect:** The target uses an ability with a base [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
 
@@ -10562,22 +10562,22 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your psionic energy surrounds the target and pushes everything else away from them.*
 
-| **Psionic, Ranged, Telekinesis** |            **Maneuver** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), Telekinesis** |            **Maneuver** |
 |----------------------------------|------------------------:|
-| **📏 Ranged 10**                 | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
 
-**Effect:** The target ignores [difficult terrain](../../Browse/movement/difficult-terrain.md) and takes no damage from [forced movement](../../Browse/movement/forced-movement.md) until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's [stability](../../Browse/rule/character/stability.md). A creature can only be force moved this way once a turn.
+**Effect:** The target ignores [difficult terrain](../../Browse/movement/difficult-terrain.md) and takes no damage from [forced movement](../../Browse/movement/forced-movement.md) until the start of your next [turn](../../Browse/rule/combat/turn.md). Whenever the target enters a square while under this effect, they can push one [adjacent](../../Browse/rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's [stability](../../Browse/rule/character/stability.md). A creature can only be force moved this way once a [turn](../../Browse/rule/combat/turn.md).
 
-**Strained:** You are [weakened](../../Browse/condition/weakened.md) (save ends). While you are [weakened](../../Browse/condition/weakened.md) this way, whenever you are force moved, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a +5 bonus.
+**Strained:** You are [weakened](../../Browse/condition/weakened.md) (save ends). While you are [weakened](../../Browse/condition/weakened.md) this way, whenever you are force moved, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a +5 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).
 
 ###### Iron {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/iron"}
 
 
 *The target's skin turns to hard, dark metal, impenetrable and dense.*
 
-| **Metamorphosis, Psionic, Ranged** |            **Maneuver** |
+| **Metamorphosis, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |            **Maneuver** |
 |------------------------------------|------------------------:|
-| **📏 Ranged 10**                   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                   | **🎯 Self or one ally** |
 
 **Effect:** The target's [stability](../../Browse/rule/character/stability.md) increases by an amount equal to your [Reason](../../Browse/rule/character/reason.md) score, and they gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) and 2 [surges](../../Browse/rule/resource/surge.md). This [stability](../../Browse/rule/character/stability.md) increase lasts until the target no longer has [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) from this ability.
 
@@ -10588,11 +10588,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You clear the mind of nothing but the goal.*
 
-| **Psionic, Ranged, Telepathy** |            **Maneuver** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), Telepathy** |            **Maneuver** |
 |--------------------------------|------------------------:|
-| **📏 Ranged 10**               | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**               | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target gains a +3 bonus to [speed](../../Browse/rule/character/speed.md), and they have a double [edge](../../Browse/rule/dice/edge.md) on the next [power roll](../../Browse/rule/dice/power-roll.md) they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
+**Effect:** Until the start of your next [turn](../../Browse/rule/combat/turn.md), the target gains a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md), and they have a double [edge](../../Browse/rule/dice/edge.md) on the next [power roll](../../Browse/rule/dice/power-roll.md) they make. If the target obtains a tier 3 outcome on that roll, you gain 1 clarity.
 
 **Strained:** You take 1d6 damage, and you can't use [triggered actions](../../Browse/rule/combat/triggered-action.md) (save ends).
 
@@ -10602,7 +10602,7 @@ As a 2nd-level [talent](../../Browse/class/talent.md), you gain the following fe
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-2/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](perks.md).
+You gain one interpersonal, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](perks.md).
 
 #### 2nd-Level Tradition Feature {data-scc="mcdm.heroes.v1/feature.talent.level-2/2nd-level-tradition-feature"}
 
@@ -10641,9 +10641,9 @@ Choose one of the following abilities.
 
 *Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.*
 
-| **Chronopathy, Psionic, Ranged** |   **Maneuver** |
+| **Chronopathy, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |   **Maneuver** |
 |----------------------------------|---------------:|
-| **📏 Ranged 10**                 | **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                 | **🎯 Special** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -10651,7 +10651,7 @@ Choose one of the following abilities.
 - **12-16:** You target three creatures, one of which can be you.
 - **17+:** You target four creatures, one of which can be you.
 
-**Effect:** Until the start of your next turn, each target gains a +5 bonus to [speed](../../Browse/rule/character/speed.md), they can't be made [dazed](../../Browse/condition/dazed.md), and they can use an additional maneuver on their turn. If a target is already [dazed](../../Browse/condition/dazed.md), that condition ends for them.
+**Effect:** Until the start of your next [turn](../../Browse/rule/combat/turn.md), each target gains a +5 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md), they can't be made [dazed](../../Browse/condition/dazed.md), and they can use an additional maneuver on their [turn](../../Browse/rule/combat/turn.md). If a target is already [dazed](../../Browse/condition/dazed.md), that [condition](../../Browse/rule/combat/condition.md) ends for them.
 
 **Strained:** Your [speed](../../Browse/rule/character/speed.md) is halved until the end of the encounter.
 
@@ -10660,9 +10660,9 @@ Choose one of the following abilities.
 
 *Perhaps they wonder why everyone else is moving so quickly?*
 
-| **Chronopathy, Psionic, Ranged** |                      **Maneuver** |
+| **Chronopathy, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |                      **Maneuver** |
 |----------------------------------|----------------------------------:|
-| **📏 Ranged 10**                 | **🎯 Three creatures or objects** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                 | **🎯 Three creatures or objects** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -10672,7 +10672,7 @@ Choose one of the following abilities.
 
 **Effect:** A target can't use [triggered actions](../../Browse/rule/combat/triggered-action.md) while their [speed](../../Browse/rule/character/speed.md) is reduced this way.
 
-**Strained:** The [potency](../../Browse/rule/character/potency.md) of this ability increases by 1 and you take 1d6 damage. At the start of each combat round while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).
+**Strained:** The [potency](../../Browse/rule/character/potency.md) of this ability increases by 1 and you take 1d6 damage. At the start of each [combat round](../../Browse/rule/combat/combat-round.md) while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).
 
 ##### 2nd-Level Telekinesis Ability
 
@@ -10693,16 +10693,16 @@ Choose one of the following abilities.
 - **12-16:** 6 damage; vertical push 4
 - **17+:** 9 damage; vertical push 6
 
-**Strained:** The size of the [burst](../../Browse/rule/combat/burst.md) increases by 1, and you are [weakened](../../Browse/condition/weakened.md) until the end of your turn.
+**Strained:** The size of the [burst](../../Browse/rule/combat/burst.md) increases by 1, and you are [weakened](../../Browse/condition/weakened.md) until the end of your [turn](../../Browse/rule/combat/turn.md).
 
 ###### Levity and Gravity {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/levity-and-gravity"}
 
 
 *You raise the target slightly into the air, then smother them against the ground.*
 
-| **Psionic, Ranged, [Strike](../../Browse/rule/combat/strike.md), Telekinesis** |               **Main action** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Telekinesis** |               **Main action** |
 |------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                         | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                         | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -10721,9 +10721,9 @@ Choose one of the following abilities.
 
 *You overload their senses, turning all their subconscious thoughts into conscious ones.*
 
-| **Psionic, Ranged, [Strike](../../Browse/rule/combat/strike.md), Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Telepathy** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -10731,16 +10731,16 @@ Choose one of the following abilities.
 - **12-16:** 10 + R psychic damage; I < AVERAGE, [weakened](../../Browse/condition/weakened.md) (save ends)
 - **17+:** 14 + R psychic damage; I < STRONG, [dazed](../../Browse/condition/dazed.md) (save ends)
 
-**Strained:** You start crying, and you can't use [triggered actions](../../Browse/rule/combat/triggered-action.md) or make [free strikes](../../Browse/feature/common/main-actions/free-strike.md) until the end of the target's next turn.
+**Strained:** You start crying, and you can't use [triggered actions](../../Browse/rule/combat/triggered-action.md) or make [free strikes](../../Browse/feature/common/main-actions/free-strike.md) until the end of the target's next [turn](../../Browse/rule/combat/turn.md).
 
 ###### Synaptic Override {data-scc="mcdm.heroes.v1/feature.ability.talent.level-2/synaptic-override"}
 
 
 *You control an enemy's nervous system. How pleasant for them.*
 
-| **Psionic, Ranged, Telepathy** |  **Main action** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), Telepathy** |  **Main action** |
 |--------------------------------|-----------------:|
-| **📏 Ranged 10**               | **🎯 One enemy** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**               | **🎯 One enemy** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -10748,9 +10748,9 @@ Choose one of the following abilities.
 - **12-16:** The target shifts up to their [speed](../../Browse/rule/character/speed.md) and uses their [signature ability](../../Browse/rule/combat/signature-ability.md) against any enemies of your choice.
 - **17+:** The target moves up to their [speed](../../Browse/rule/character/speed.md) and uses their [signature ability](../../Browse/rule/combat/signature-ability.md) against any enemies of your choice.
 
-**Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../Browse/rule/health/dying.md), or result in them suffering a condition or other negative effect. However, you can move them to provoke [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md).
+**Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../Browse/rule/health/dying.md), or result in them suffering a [condition](../../Browse/rule/combat/condition.md) or other negative effect. However, you can move them to provoke [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md).
 
-**Strained:** You take 1d6 damage and are [weakened](../../Browse/condition/weakened.md) until the end of your turn.
+**Strained:** You take 1d6 damage and are [weakened](../../Browse/condition/weakened.md) until the end of your [turn](../../Browse/rule/combat/turn.md).
 
 ### 3rd-Level Features
 
@@ -10758,7 +10758,7 @@ As a 3rd-level [talent](../../Browse/class/talent.md), you gain the following fe
 
 #### Scan {data-scc="mcdm.heroes.v1/feature.talent.level-3/scan"}
 
-You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) (see Hide and Sneak in Chapter 9: [Tests](tests.md)). Additionally, once you establish [line of effect](../../Browse/rule/combat/line-of-effect.md) to a thinking creature within [distance](../../Browse/rule/combat/distance.md) of your [Mind Spike](../../Browse/feature/ability/talent/level-1/mind-spike.md) ability, you always have [line of effect](../../Browse/rule/combat/line-of-effect.md) to that creature until they move beyond that [distance](../../Browse/rule/combat/distance.md).
+You can extend your psionic senses beyond their usual range. Once on each of your [turns](../../Browse/rule/combat/turn.md), you can search for hidden creatures as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) (see Hide and Sneak in Chapter 9: [Tests](tests.md)). Additionally, once you establish [line of effect](../../Browse/rule/combat/line-of-effect.md) to a thinking creature within [distance](../../Browse/rule/combat/distance.md) of your [Mind Spike](../../Browse/feature/ability/talent/level-1/mind-spike.md) ability, you always have [line of effect](../../Browse/rule/combat/line-of-effect.md) to that creature until they move beyond that [distance](../../Browse/rule/combat/distance.md).
 
 #### 7-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-3/7-clarity-ability"}
 
@@ -10769,9 +10769,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.*
 
-| **Chronopathy, Psionic, Ranged**, **Strike** |               **Main action** |
+| **Chronopathy, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)**, **Strike** |               **Main action** |
 |----------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                             | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                             | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -10779,7 +10779,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are [weakened](../../Browse/condition/weakened.md) (save ends)
 - **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are [weakened](../../Browse/condition/weakened.md) (save ends)
 
-**Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
+**Effect:** A target who is flung through time is removed from the encounter map until the end of their next [turn](../../Browse/rule/combat/turn.md), reappearing in their original space or the nearest unoccupied space.
 
 **Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](../../Browse/ancestry/human.md)). If you obtain a tier 3 outcome on the [power roll](../../Browse/rule/dice/power-roll.md), you gain 2 clarity.
 
@@ -10788,13 +10788,13 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Spheres of solid psionic energy float around you.*
 
-| **Psionic, Ranged, [Strike](../../Browse/rule/combat/strike.md), Telekinesis** | **Main action** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Telekinesis** | **Main action** |
 |------------------------------------------|----------------:|
 | **📏 Self; see below**                   |     **🎯 Self** |
 
 **Effect:** You create three [size](../../Browse/rule/character/size.md) 1T orbs that orbit your body. Each orb gives you a cumulative [damage immunity](../../Browse/rule/damage/damage-immunity.md) 1. Each time you take damage, you lose 1 orb.
 
-Once on each of your turns, you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to fire an orb at a creature or object within 5 squares as a ranged [strike](../../Browse/rule/combat/strike.md), losing the orb after the [strike](../../Browse/rule/combat/strike.md).
+Once on each of your [turns](../../Browse/rule/combat/turn.md), you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to fire an orb at a creature or object within 5 squares as a [ranged](../../Browse/rule/combat/ranged.md) [strike](../../Browse/rule/combat/strike.md), losing the orb after the [strike](../../Browse/rule/combat/strike.md).
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -10813,7 +10813,7 @@ Once on each of your turns, you can use a [free maneuver](../../Browse/rule/comb
 |------------------------------|----------------:|
 | **📏 3 [aura](../../Browse/rule/combat/aura.md)**                |  **🎯 Special** |
 
-**Effect:** The [aura](../../Browse/rule/combat/aura.md) lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.
+**Effect:** The [aura](../../Browse/rule/combat/aura.md) lasts until the start of your next [turn](../../Browse/rule/combat/turn.md). Whenever an enemy targets an ally in the area with a [ranged](../../Browse/rule/combat/ranged.md) ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.
 
 **Strained:** The size of the [aura](../../Browse/rule/combat/aura.md) increases by 1. Whenever your [aura](../../Browse/rule/combat/aura.md) reflects an ability, you take 2d6 damage and forget a memory, as determined by you and the Director.
 
@@ -10822,9 +10822,9 @@ Once on each of your turns, you can use a [free maneuver](../../Browse/rule/comb
 
 *You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
 
-| **Animapathy, Psionic, Ranged**, **Strike** |     **Main action** |
+| **Animapathy, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)**, **Strike** |     **Main action** |
 |---------------------------------------------|--------------------:|
-| **📏 Ranged 10**                            | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -10846,7 +10846,7 @@ Your [Reason](../../Browse/rule/character/reason.md) and [Presence](../../Browse
 
 #### Mind Projection {data-scc="mcdm.heroes.v1/feature.talent.level-4/mind-projection"}
 
-As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious [and prone](../../Browse/condition/prone.md), and your mind is a separate entity with [size](../../Browse/rule/character/size.md) 1T. Your mind automatically has [concealment](../../Browse/rule/combat/concealment.md), and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
+As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious [and prone](../../Browse/condition/prone.md), and your mind is a separate entity with [size](../../Browse/rule/character/size.md) 1T. Your mind automatically has [concealment](../../Browse/rule/combat/concealment.md), and can freely move through solid matter. If you end your [turn](../../Browse/rule/combat/turn.md) inside solid matter, you are forced out into the space where you entered it.
 
 Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your [Stamina](../../Browse/rule/health/stamina.md). Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a [free maneuver](../../Browse/rule/combat/free-maneuver.md).
 
@@ -10854,7 +10854,7 @@ Any abilities or features you use originate from your mind. Both your mind and y
 
 Whenever you spend a [Recovery](../../Browse/rule/health/recoveries.md) to regain [Stamina](../../Browse/rule/health/stamina.md) while strained, you can forgo the [Stamina](../../Browse/rule/health/stamina.md) and gain 3 clarity instead.
 
-Additionally, the first time each combat round that a creature is [force moved](../../Browse/movement/forced-movement.md), you gain 2 clarity instead of 1.
+Additionally, the first time each [combat round](../../Browse/rule/combat/combat-round.md) that a creature is [force moved](../../Browse/movement/forced-movement.md), you gain 2 clarity instead of 1.
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-4/perk"}
 
@@ -10866,9 +10866,9 @@ You gain one skill of your choice. See Skills in Chapter 9: [Tests](tests.md).
 
 #### Suspensor Field {data-scc="mcdm.heroes.v1/feature.talent.level-4/suspensor-field"}
 
-You can [fly](../../Browse/movement/fly.md). While [flying](../../Browse/movement/fly.md), your [stability](../../Browse/rule/character/stability.md) is reduced to 0 and can't be increased. If you can already [fly](../../Browse/movement/fly.md), you have a +2 bonus to [speed](../../Browse/rule/character/speed.md) while [flying](../../Browse/movement/fly.md) instead.
+You can [fly](../../Browse/movement/fly.md). While [flying](../../Browse/movement/fly.md), your [stability](../../Browse/rule/character/stability.md) is reduced to 0 and can't be increased. If you can already [fly](../../Browse/movement/fly.md), you have a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) while [flying](../../Browse/movement/fly.md) instead.
 
-If you are strained while [flying](../../Browse/movement/fly.md) and are force moved, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a +2 bonus.
+If you are strained while [flying](../../Browse/movement/fly.md) and are force moved, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).
 
 ### 5th-Level Features
 
@@ -10892,23 +10892,23 @@ Whenever you obtain a success on a [test](../../Browse/rule/test/test.md) using 
 
 ##### Distortion Temporal {data-scc="mcdm.heroes.v1/feature.talent.level-5/distortion-temporal"}
 
-While you are not [dying](../../Browse/rule/health/dying.md), time behaves irregularly around you in a 3 [aura](../../Browse/rule/combat/aura.md). That area is [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies. Additionally, when an ally enters the area for the first time in a combat round or starts their turn there, they gain a +2 bonus to [speed](../../Browse/rule/character/speed.md) until the end of the turn.
+While you are not [dying](../../Browse/rule/health/dying.md), time behaves irregularly around you in a 3 [aura](../../Browse/rule/combat/aura.md). That area is [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies. Additionally, when an ally enters the area for the first time in a [combat round](../../Browse/rule/combat/combat-round.md) or starts their turn there, they gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) until the end of the [turn](../../Browse/rule/combat/turn.md).
 
 ##### Kinetic Amplifier {data-scc="mcdm.heroes.v1/feature.talent.level-5/kinetic-amplifier"}
 
-Whenever you force move a creature, you can spend up to 2 [surges](../../Browse/rule/resource/surge.md). For each [surge](../../Browse/rule/resource/surge.md) spent, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Reason](../../Browse/rule/character/reason.md) score.
+Whenever you force move a creature, you can spend up to 2 [surges](../../Browse/rule/resource/surge.md). For each [surge](../../Browse/rule/resource/surge.md) spent, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 ##### Remote Amplification {data-scc="mcdm.heroes.v1/feature.talent.level-5/remote-amplification"}
 
-The [distance](../../Browse/rule/combat/distance.md) of your ranged psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../Browse/feature/talent/level-1/telepathic-speech.md) feature increases to 1 mile.
+The [distance](../../Browse/rule/combat/distance.md) of your [ranged](../../Browse/rule/combat/ranged.md) psionic abilities increases by 5. Additionally, the range of your [Telepathic Speech](../../Browse/feature/talent/level-1/telepathic-speech.md) feature increases to 1 mile.
 
 ##### Speed of Thought {data-scc="mcdm.heroes.v1/feature.talent.level-5/speed-of-thought"}
 
-Once per combat round while you are not [dying](../../Browse/rule/health/dying.md), you can spend 2 clarity when you use a [triggered action](../../Browse/rule/combat/triggered-action.md) to turn it into a free [triggered action](../../Browse/rule/combat/triggered-action.md).
+Once per [combat round](../../Browse/rule/combat/combat-round.md) while you are not [dying](../../Browse/rule/health/dying.md), you can spend 2 clarity when you use a [triggered action](../../Browse/rule/combat/triggered-action.md) to [turn](../../Browse/rule/combat/turn.md) it into a free [triggered action](../../Browse/rule/combat/triggered-action.md).
 
 ##### Triangulate {data-scc="mcdm.heroes.v1/feature.talent.level-5/triangulate"}
 
-Whenever an ally uses a ranged ability while you are within the ability's [distance](../../Browse/rule/combat/distance.md), you can spend 1 clarity as a free [triggered action](../../Browse/rule/combat/triggered-action.md) to allow them to use the ability as if they were in your space.
+Whenever an ally uses a [ranged](../../Browse/rule/combat/ranged.md) ability while you are within the ability's [distance](../../Browse/rule/combat/distance.md), you can spend 1 clarity as a free [triggered action](../../Browse/rule/combat/triggered-action.md) to allow them to use the ability as if they were in your space.
 
 #### 9-Clarity Ability {data-scc="mcdm.heroes.v1/feature.talent.level-5/9-clarity-ability"}
 
@@ -10919,18 +10919,18 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You encase the target in psionic flame and allow them to flicker without fear of burning out.*
 
-| **Pyrokinesis, Psionic, Ranged** |            **Maneuver** |
+| **Pyrokinesis, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |            **Maneuver** |
 |----------------------------------|------------------------:|
-| **📏 Ranged 10**                 | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their [strikes](../../Browse/rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../../Browse/rule/character/reason.md) score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
+**Effect:** Until the start of your next [turn](../../Browse/rule/combat/turn.md), the target has cold immunity 10 and fire immunity 10, and their [strikes](../../Browse/rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../../Browse/rule/character/reason.md) score. Additionally, whenever an enemy uses a [melee](../../Browse/rule/combat/melee.md) ability against the target while they are under this effect, the enemy takes 5 fire damage.
 
 **Strained:** The target gains 2 [surges](../../Browse/rule/resource/surge.md). You are [weakened](../../Browse/condition/weakened.md) and [slowed](../../Browse/condition/slowed.md) (save ends).
 
 ##### Hypersonic {data-scc="mcdm.heroes.v1/feature.ability.talent.level-5/hypersonic"}
 
 
-*You move fast enough to turn around and watch your foes feel the aftermath.*
+*You move fast enough to [turn](../../Browse/rule/combat/turn.md) around and watch your foes feel the aftermath.*
 
 | **Area, Charge, Psionic, Telekinesis** |               **Main action** |
 |----------------------------------------|------------------------------:|
@@ -10944,16 +10944,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 18 sonic damage
 - **17+:** 24 sonic damage
 
-**Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../../Browse/condition/slowed.md) until the end of your turn and each target is [slowed](../../Browse/condition/slowed.md) until the end of their turn.
+**Strained:** If you obtain a tier 2 outcome or better, you are [slowed](../../Browse/condition/slowed.md) until the end of your [turn](../../Browse/rule/combat/turn.md) and each target is [slowed](../../Browse/condition/slowed.md) until the end of their [turn](../../Browse/rule/combat/turn.md).
 
 ##### Mind Snare {data-scc="mcdm.heroes.v1/feature.ability.talent.level-5/mind-snare"}
 
 
 *You latch onto your prey's brain and don't let go, like a song they can't get out of their head.*
 
-| **Psionic, Ranged, [Strike](../../Browse/rule/combat/strike.md), Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Telepathy** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -10970,9 +10970,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.*
 
-| **Animapathy, Psionic, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |    **Main action** |
+| **Animapathy, Psionic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |    **Main action** |
 |-----------------------------------------|-------------------:|
-| **📏 Ranged 10**                        | **🎯 Two enemies** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                        | **🎯 Two enemies** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -10980,7 +10980,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 13 damage; A < AVERAGE, the target is stitched to the other target (save ends)
 - **17+:** 17 damage; A < STRONG, the target is stitched to the other target (save ends)
 
-**Effect:** If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](../../Browse/rule/dice/bane.md) on [power rolls](../../Browse/rule/dice/power-roll.md) while not adjacent to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
+**Effect:** If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a [bane](../../Browse/rule/dice/bane.md) on [power rolls](../../Browse/rule/dice/power-roll.md) while not [adjacent](../../Browse/rule/combat/adjacent.md) to a creature they're stitched to. Whenever a stitched target takes damage that wasn't dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.
 
 **Strained:** You target yourself and three enemies instead.
 
@@ -10990,15 +10990,15 @@ As a 6th-level [talent](../../Browse/class/talent.md), you gain the following fe
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-6/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice.
+You gain one interpersonal, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice.
 
 #### Psi Boost {data-scc="mcdm.heroes.v1/feature.talent.level-6/psi-boost"}
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../Browse/feature/null/level-7/psi-boost.md) to it and enhance its effects. A [psi boost](../../Browse/feature/null/level-7/psi-boost.md)'s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](../../Browse/feature/null/level-7/psi-boost.md) to it and enhance its effects. A [psi boost](../../Browse/feature/null/level-7/psi-boost.md)'s effects only last until the end of the [turn](../../Browse/rule/combat/turn.md) which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
 
 ##### Dynamic Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/dynamic-power"}
 
-If the ability force moves a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Reason](../../Browse/rule/character/reason.md) score.
+If the ability force moves a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 ##### Expanded Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/expanded-power"}
 
@@ -11006,7 +11006,7 @@ If the ability targets an area, you increase the size of the area by 1. If the a
 
 ##### Extended Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/extended-power"}
 
-If the ability is ranged, the [distance](../../Browse/rule/combat/distance.md) gains a bonus equal to your [Reason](../../Browse/rule/character/reason.md) score. If the ability is melee, the [distance](../../Browse/rule/combat/distance.md) gains a +2 bonus.
+If the ability is [ranged](../../Browse/rule/combat/ranged.md), the [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Reason](../../Browse/rule/character/reason.md) score. If the ability is [melee](../../Browse/rule/combat/melee.md), the [distance](../../Browse/rule/combat/distance.md) gains a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).
 
 ##### Heightened Power {data-scc="mcdm.heroes.v1/feature.talent.level-6/heightened-power"}
 
@@ -11037,11 +11037,11 @@ Choose one of the following abilities.
 
 *Your foe gets a glimpse of how it will end for them.*
 
-| **Chronopathy, Psionic, Melee** |  **Main action** |
+| **Chronopathy, Psionic, [Melee](../../Browse/rule/combat/melee.md)** |  **Main action** |
 |---------------------------------|-----------------:|
-| **📏 Melee 2**                  | **🎯 One enemy** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 2**                  | **🎯 One enemy** |
 
-**Effect:** The target has [damage weakness](../../Browse/rule/damage/damage-weakness.md) 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are [knocked prone](../../Browse/condition/prone.md).
+**Effect:** The target has [damage weakness](../../Browse/rule/damage/damage-weakness.md) 5 until the end of your next [turn](../../Browse/rule/combat/turn.md). Whenever the target takes damage while they have this weakness, they are [knocked prone](../../Browse/condition/prone.md).
 
 **Strained:** This ability gains the [Strike](../../Browse/rule/combat/strike.md) keyword as the vision hurts the target's psyche. You make a [power roll](../../Browse/rule/dice/power-roll.md), then are [weakened](../../Browse/condition/weakened.md) (save ends).
 
@@ -11056,11 +11056,11 @@ Choose one of the following abilities.
 
 *Keep everything as it was. Ignore everything that will be.*
 
-| **Area, Chronopathy, Psionic, Ranged** |                             **Main action** |
+| **Area, Chronopathy, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |                             **Main action** |
 |----------------------------------------|--------------------------------------------:|
 | **📏 4 [cube](../../Browse/rule/combat/cube.md) within 10**                | **🎯 Each creature and object in the area** |
 
-**Effect:** The area is frozen in time until the start of your next turn. Each object in the area is [restrained](../../Browse/condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) remain undestroyed.
+**Effect:** The area is frozen in time until the start of your next [turn](../../Browse/rule/combat/turn.md). Each object in the area is [restrained](../../Browse/condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) remain undestroyed.
 
 Make a [power roll](../../Browse/rule/dice/power-roll.md) that targets each enemy in the area.
 
@@ -11081,7 +11081,7 @@ Choose one of the following abilities.
 
 *You bend gravity into a fine point and pull your foes toward it.*
 
-| **Area, Psionic, Ranged, Telekinesis** |                             **Main action** |
+| **Area, Psionic, [Ranged](../../Browse/rule/combat/ranged.md), Telekinesis** |                             **Main action** |
 |----------------------------------------|--------------------------------------------:|
 | **📏 4 [cube](../../Browse/rule/combat/cube.md) within 10**                | **🎯 Each creature and object in the area** |
 
@@ -11100,9 +11100,9 @@ Choose one of the following abilities.
 
 *You raise the target into the air without breaking a sweat.*
 
-| **Psionic, Ranged**, **Strike, Telekinesis** |               **Main action** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)**, **Strike, Telekinesis** |               **Main action** |
 |----------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                             | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                             | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -11121,9 +11121,9 @@ Choose one of the following abilities.
 
 *It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!*
 
-| **Psionic, Melee**, **Strike, Telepathy** |     **Main action** |
+| **Psionic, [Melee](../../Browse/rule/combat/melee.md)**, **Strike, Telepathy** |     **Main action** |
 |-------------------------------------------|--------------------:|
-| **📏 Melee 2**                            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 2**                            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -11138,11 +11138,11 @@ Choose one of the following abilities.
 
 *You manipulate your enemies' minds and make them wonder if you were ever really there in the first place.*
 
-| **Psionic, Ranged, [Strike](../../Browse/rule/combat/strike.md), Telepathy** |   **Maneuver** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Telepathy** |   **Maneuver** |
 |----------------------------------------|---------------:|
-| **📏 Ranged 10**                       | **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                       | **🎯 Special** |
 
-**Effect:** You target a number of creatures with this ability determined by the outcome of your [power roll](../../Browse/rule/dice/power-roll.md). You and your allies are invisible to each target until the start of your next turn.
+**Effect:** You target a number of creatures with this ability determined by the outcome of your [power roll](../../Browse/rule/dice/power-roll.md). You and your allies are invisible to each target until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -11170,7 +11170,7 @@ Each of your [characteristic](../../Browse/rule/character/characteristic.md) sco
 
 #### Lucid Mind {data-scc="mcdm.heroes.v1/feature.talent.level-7/lucid-mind"}
 
-At the start of each of your turns during combat, you gain 1d3 + 1 clarity instead of 1d3.
+At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 1d3 + 1 clarity instead of 1d3.
 
 #### Skill {data-scc="mcdm.heroes.v1/feature.talent.level-7/skill"}
 
@@ -11213,7 +11213,7 @@ You have the following ability.
 |-------------------|-----------------------------:|
 | **📏 3 [burst](../../Browse/rule/combat/burst.md)**    | **🎯 Each ally in the area** |
 
-**Effect:** Each target can [fly](../../Browse/movement/fly.md) until the start of your next turn, and can immediately [shift](../../Browse/movement/shifting.md) up to their [speed](../../Browse/rule/character/speed.md). You can also [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md). While [flying](../../Browse/movement/fly.md), a target's [stability](../../Browse/rule/character/stability.md) is reduced to 0 and can't be increased.
+**Effect:** Each target can [fly](../../Browse/movement/fly.md) until the start of your next [turn](../../Browse/rule/combat/turn.md), and can immediately [shift](../../Browse/movement/shifting.md) up to their [speed](../../Browse/rule/character/speed.md). You can also [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md). While [flying](../../Browse/movement/fly.md), a target's [stability](../../Browse/rule/character/stability.md) is reduced to 0 and can't be increased.
 
 **Spend 5 Clarity:** The effects last for 1 hour instead.
 
@@ -11234,13 +11234,13 @@ You have the following ability.
 
 *You freeze time just long enough to bring the victim to safety!*
 
-| **Psionic, Ranged** |                          **Triggered** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |                          **Triggered** |
 |---------------------|---------------------------------------:|
-| **📏 Ranged 10**    | **🎯 Self, or one creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 Self, or one creature or object** |
 
 **Trigger:** The target takes damage.
 
-**Effect:** The target is [teleport](../../Browse/movement/teleport.md)ed to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+**Effect:** The target is [teleport](../../Browse/movement/teleport.md)ed to an unoccupied space [adjacent](../../Browse/rule/combat/adjacent.md) to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
 
 **Strained:** You can't target yourself, and you take the damage and any additional effects instead of the target.
 
@@ -11257,9 +11257,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive.*
 
-| **Animapathy, Psionic, Ranged**, **Strike** |               **Main action** |
+| **Animapathy, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)**, **Strike** |               **Main action** |
 |---------------------------------------------|------------------------------:|
-| **📏 Ranged 10**                            | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                            | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -11276,9 +11276,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You attempt to make them forget all their training.*
 
-| **Melee, Psionic, [Strike](../../Browse/rule/combat/strike.md), Telepathy** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), Psionic, [Strike](../../Browse/rule/combat/strike.md), Telepathy** |     **Main action** |
 |---------------------------------------|--------------------:|
-| **📏 Melee 2**                        | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 2**                        | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -11295,15 +11295,15 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You reshape the flow of time in the target's body to return it to an earlier state.*
 
-| **Chronopathy, Psionic, Ranged** |            **Maneuver** |
+| **Chronopathy, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |            **Maneuver** |
 |----------------------------------|------------------------:|
-| **📏 Ranged 10**                 | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
 
 **Effect:** Choose two of the following effects:
 
 - The target can spend any number of [Recoveries](../../Browse/rule/health/recoveries.md).
-- The target gains 1 of their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), and can end any effects on them that are ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that end at the end of their turn.
-- The target gains 2 [surges](../../Browse/rule/resource/surge.md), and gains a +3 bonus to [speed](../../Browse/rule/character/speed.md) until the end of the encounter.
+- The target gains 1 of their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), and can end any effects on them that are ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that end at the end of their [turn](../../Browse/rule/combat/turn.md).
+- The target gains 2 [surges](../../Browse/rule/resource/surge.md), and gains a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) until the end of the encounter.
 
 **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../../Browse/ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are [weakened](../../Browse/condition/weakened.md) and [slowed](../../Browse/condition/slowed.md) (save ends).
 
@@ -11312,11 +11312,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *The target's skin becomes covered in tough metal.*
 
-| **Metamorphosis, Psionic, Ranged** |            **Maneuver** |
+| **Metamorphosis, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |            **Maneuver** |
 |------------------------------------|------------------------:|
-| **📏 Ranged 10**                   | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                   | **🎯 Self or one ally** |
 
-**Effect:** The target has [damage immunity](../../Browse/rule/damage/damage-immunity.md) 5 and can't be made [slowed](../../Browse/condition/slowed.md) or [weakened](../../Browse/condition/weakened.md) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a +5 bonus.
+**Effect:** The target has [damage immunity](../../Browse/rule/damage/damage-immunity.md) 5 and can't be made [slowed](../../Browse/condition/slowed.md) or [weakened](../../Browse/condition/weakened.md) until the start of your next [turn](../../Browse/rule/combat/turn.md). Whenever the target force moves a creature or object while under this effect, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a +5 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).
 
 **Strained:** You can't use maneuvers (save ends).
 
@@ -11347,11 +11347,11 @@ Choose one of the following abilities.
 
 *You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.*
 
-| **Chronopathy, Psionic, Ranged** |     **Main action** |
+| **Chronopathy, Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Ranged 5**                  | **🎯 Three allies** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 5**                  | **🎯 Three allies** |
 
-**Effect:** Each target can use any main action available to them as a free [triggered action](../../Browse/rule/combat/triggered-action.md), but they lose their main action on their next turn.
+**Effect:** Each target can use any main action available to them as a free [triggered action](../../Browse/rule/combat/triggered-action.md), but they lose their main action on their next [turn](../../Browse/rule/combat/turn.md).
 
 **Strained:** Make a [power roll](../../Browse/rule/dice/power-roll.md) that targets you and each enemy within [distance](../../Browse/rule/combat/distance.md).
 
@@ -11370,7 +11370,7 @@ Choose one of the following abilities.
 |--------------------------------|-----------------------------:|
 | **📏 2 [burst](../../Browse/rule/combat/burst.md)**                 | **🎯 Each ally in the area** |
 
-**Effect:** The targets share 6 of their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) among themselves, as you determine. A target can't gain more than 3 of their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) this way. After using this ability, you can't gain any clarity until the end of the next combat round.
+**Effect:** The targets share 6 of their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) among themselves, as you determine. A target can't gain more than 3 of their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) this way. After using this ability, you can't gain any clarity until the end of the next [combat round](../../Browse/rule/combat/combat-round.md).
 
 ##### 9th-Level Telekinesis Abilities
 
@@ -11393,7 +11393,7 @@ Choose one of the following abilities.
 - **12-16:** 3 [burst](../../Browse/rule/combat/burst.md)
 - **17+:** 4 [burst](../../Browse/rule/combat/burst.md)
 
-**Strained:** You can choose to reduce the size of the [burst](../../Browse/rule/combat/burst.md) by 2 (to a minimum of 1 [burst](../../Browse/rule/combat/burst.md)) to give the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) a +2 bonus. You take half the total damage all targets take from [forced movement](../../Browse/movement/forced-movement.md).
+**Strained:** You can choose to reduce the size of the [burst](../../Browse/rule/combat/burst.md) by 2 (to a minimum of 1 [burst](../../Browse/rule/combat/burst.md)) to give the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md). You take half the total damage all targets take from [forced movement](../../Browse/movement/forced-movement.md).
 
 ###### Gravitic Nova {data-scc="mcdm.heroes.v1/feature.ability.talent.level-9/gravitic-nova"}
 
@@ -11423,9 +11423,9 @@ Choose one of the following abilities.
 
 *You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.*
 
-| **Psionic, Ranged, [Strike](../../Browse/rule/combat/strike.md), Telepathy** |     **Main action** |
+| **Psionic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Telepathy** |     **Main action** |
 | ------------------------------------|--------------------:|
-| **📏 Ranged 10**  | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -11446,7 +11446,7 @@ Choose one of the following abilities.
 |------------------------------|---------------------------------------:|
 | **📏 3 [burst](../../Browse/rule/combat/burst.md)**               | **🎯 Each ally and enemy in the area** |
 
-**Effect:** You and each target ally can't obtain lower than a tier 2 outcome on [power rolls](../../Browse/rule/dice/power-roll.md) until the start of your next turn. Each target enemy is affected by the ability's [power roll](../../Browse/rule/dice/power-roll.md).
+**Effect:** You and each target ally can't obtain lower than a tier 2 outcome on [power rolls](../../Browse/rule/dice/power-roll.md) until the start of your next [turn](../../Browse/rule/combat/turn.md). Each target enemy is affected by the ability's [power roll](../../Browse/rule/dice/power-roll.md).
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -11466,19 +11466,19 @@ Your [Reason](../../Browse/rule/character/reason.md) and [Presence](../../Browse
 
 #### Clear Mind {data-scc="mcdm.heroes.v1/feature.talent.level-10/clear-mind"}
 
-The first time each combat round that a creature is [force moved](../../Browse/movement/forced-movement.md), you gain 3 clarity instead of 2.
+The first time each [combat round](../../Browse/rule/combat/combat-round.md) that a creature is [force moved](../../Browse/movement/forced-movement.md), you gain 3 clarity instead of 2.
 
 #### Omnisensory {data-scc="mcdm.heroes.v1/feature.talent.level-10/omnisensory"}
 
-You have a +10 bonus to the [distance](../../Browse/rule/combat/distance.md) of your ranged abilities. Additionally, you don't need [line of effect](../../Browse/rule/combat/line-of-effect.md) to a target of a ranged ability if the target is a creature capable of thought who you have previously had [line of effect](../../Browse/rule/combat/line-of-effect.md) to.
+You have a +10 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [distance](../../Browse/rule/combat/distance.md) of your [ranged](../../Browse/rule/combat/ranged.md) abilities. Additionally, you don't need [line of effect](../../Browse/rule/combat/line-of-effect.md) to a target of a [ranged](../../Browse/rule/combat/ranged.md) ability if the target is a creature capable of thought who you have previously had [line of effect](../../Browse/rule/combat/line-of-effect.md) to.
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.talent.level-10/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice.
+You gain one interpersonal, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice.
 
 #### Psion {data-scc="mcdm.heroes.v1/feature.talent.level-10/psion"}
 
-At the start of each of your turns during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.
+At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.
 
 Additionally, you can choose to not take damage from having negative clarity. You can also choose to take on any ability's strained effect even if you're not strained.
 
@@ -11490,7 +11490,7 @@ You gain one skill of your choice.
 
 You have an epic resource called vision. Each time you finish a [respite](../../Browse/rule/resource/respite.md), you gain vision equal to the [XP](../../Browse/rule/resource/experience.md) you gain. You can spend vision on your abilities as if it were clarity.
 
-Additionally, you can spend vision to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in vision. If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
+Additionally, you can spend vision to use one additional psionic ability on your [turn](../../Browse/rule/combat/turn.md), provided you pay the entire cost of the ability in vision. If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
 
 Vision remains until you spend it.
 
@@ -11561,11 +11561,11 @@ During battles, you are fueled by the dynamic ups, downs, and upside downs of th
 
 ##### Drama in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain drama equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 drama.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../../Browse/rule/combat/combat-round.md) (as determined by the Director), you gain drama equal to your [Victories](../../Browse/rule/resource/victories.md). At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 1d3 drama.
 
 Additionally, you gain drama when certain events occur during a combat encounter:
 
-- The first time three or more heroes use an ability on the same turn, you gain 2 drama.
+- The first time three or more heroes use an ability on the same [turn](../../Browse/rule/combat/turn.md), you gain 2 drama.
 - The first time any hero is made [winded](../../Browse/rule/health/winded.md) during the encounter, you gain 2 drama.
 - Whenever a creature within your [line of effect](../../Browse/rule/combat/line-of-effect.md) rolls a [natural 19 or 20](../../Browse/rule/dice/natural-19-20.md), you gain 3 drama.
 - When you or another hero dies, you gain 10 drama.
@@ -11602,7 +11602,7 @@ You can have a number of bonds active equal to your level. When you form a bond 
 
 #### Routines {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/routines"}
 
-You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](../../Browse/condition/dazed.md), dead, or [surprised](../../Browse/rule/combat/surprised.md), you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
+You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each [combat round](../../Browse/rule/combat/combat-round.md), as long as you are not [dazed](../../Browse/condition/dazed.md), dead, or [surprised](../../Browse/rule/combat/surprised.md), you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
 
 You start off with the [Choreography](../../Browse/feature/ability/troubadour/level-1/choreography.md) and [Revitalizing Limerick](../../Browse/feature/ability/troubadour/level-1/revitalizing-limerick.md) performance abilities. Your choice of class act grants you additional performances.
 
@@ -11615,18 +11615,18 @@ You start off with the [Choreography](../../Browse/feature/ability/troubadour/le
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../Browse/rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area gains a +2 bonus to [speed](../../Browse/rule/character/speed.md) until the end of their turn.
+**Effect:** While this performance is active, each target who starts their [turn](../../Browse/rule/combat/turn.md) in the area gains a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) until the end of their [turn](../../Browse/rule/combat/turn.md).
 
 ##### Revitalizing Limerick {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/revitalizing-limerick"}
 
 
-*There once was a man from Capital...*
+*There once was a man from [Capital](../../Browse/rule/world/capital.md)...*
 
 | **Area, Magic, Performance** |                         **No action** |
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../Browse/rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../Browse/rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../Browse/rule/health/recoveries.md).
+**Effect:** At the end of each of your [turns](../../Browse/rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../../Browse/rule/character/presence.md) score. Each chosen target can spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
 #### 1st-Level Class Act Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/1st-level-class-act-features"}
 
@@ -11653,7 +11653,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../Browse/rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one [test](../../Browse/rule/test/test.md) made to jump, tumble, or climb as part of their movement before the end of their turn.
+**Effect:** While this performance is active, each target who starts their [turn](../../Browse/rule/combat/turn.md) in the area can automatically obtain a tier 3 outcome on one [test](../../Browse/rule/test/test.md) made to jump, tumble, or climb as part of their movement before the end of their [turn](../../Browse/rule/combat/turn.md).
 
 ##### Blocking {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/blocking"}
 
@@ -11668,7 +11668,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|---------------------------------:|
 | **📏 2 [aura](../../Browse/rule/combat/aura.md)**                | **🎯 Each creature in the area** |
 
-**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../../Browse/rule/character/presence.md) score and [teleport](../../Browse/movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../../Browse/movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../../Browse/rule/health/dying.md), or result in them suffering a condition or other negative effect.
+**Effect:** At the end of each of your [turns](../../Browse/rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../../Browse/rule/character/presence.md) score and [teleport](../../Browse/movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../../Browse/movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../../Browse/rule/health/dying.md), or result in them suffering a [condition](../../Browse/rule/combat/condition.md) or other negative effect.
 
 ##### Dramatic Monologue {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/dramatic-monologue"}
 
@@ -11679,15 +11679,15 @@ You have the following ability.
 
 *It doesn't need to make sense. Just say it with emotion.*
 
-| **Magic, Ranged** |   **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |   **Maneuver** |
 |-------------------|---------------:|
-| **📏 Ranged 10**  | **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 Special** |
 
 **Effect:** Choose one of the following effects:
 
-- You orate a rousing tale of [victory](../../Browse/rule/resource/victories.md). One ally within [distance](../../Browse/rule/combat/distance.md) gains an [edge](../../Browse/rule/dice/edge.md) on the next [power roll](../../Browse/rule/dice/power-roll.md) they make before the start of your next turn.
+- You orate a rousing tale of [victory](../../Browse/rule/resource/victories.md). One ally within [distance](../../Browse/rule/combat/distance.md) gains an [edge](../../Browse/rule/dice/edge.md) on the next [power roll](../../Browse/rule/dice/power-roll.md) they make before the start of your next [turn](../../Browse/rule/combat/turn.md).
 - You weave a tale of high-stakes heroics. One ally within [distance](../../Browse/rule/combat/distance.md) gains 1 [surge](../../Browse/rule/resource/surge.md).
-- You insult a foe where they're most vulnerable. One enemy within [distance](../../Browse/rule/combat/distance.md) takes a [bane](../../Browse/rule/dice/bane.md) on the next [power roll](../../Browse/rule/dice/power-roll.md) they make before the end of their next turn.
+- You insult a foe where they're most vulnerable. One enemy within [distance](../../Browse/rule/combat/distance.md) takes a [bane](../../Browse/rule/dice/bane.md) on the next [power roll](../../Browse/rule/dice/power-roll.md) they make before the end of their next [turn](../../Browse/rule/combat/turn.md).
 
 **Spend 1 Drama:** You can choose two targets for the chosen effect.
 
@@ -11723,9 +11723,9 @@ You have the following ability.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You gain a +2 bonus to [speed](../../Browse/rule/character/speed.md) until the end of your turn. Additionally, the next [power roll](../../Browse/rule/dice/power-roll.md) you make this turn can't have an outcome lower than tier 2.
+**Effect:** You gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) until the end of your [turn](../../Browse/rule/combat/turn.md). Additionally, the next [power roll](../../Browse/rule/dice/power-roll.md) you make this [turn](../../Browse/rule/combat/turn.md) can't have an outcome lower than tier 2.
 
-**Spend 1 Drama:** You gain a +4 bonus to [speed](../../Browse/rule/character/speed.md) instead.
+**Spend 1 Drama:** You gain a +4 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) instead.
 
 ##### Virtuoso Performances {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/virtuoso-performances"}
 
@@ -11736,11 +11736,11 @@ You have the following performance abilities, which are usable with your [Routin
 
 *All for thunder motherrr! ♪ Run and hide for coverrr!♪*
 
-| **Magic, Performance, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |       **No action** |
+| **Magic, Performance, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |       **No action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
-**Effect:** At the end of each combat round while this performance is active, you can make a [power roll](../../Browse/rule/dice/power-roll.md) against the target that ignores [cover](../../Browse/rule/combat/cover.md). You can't target the same creature twice with this effect.
+**Effect:** At the end of each [combat round](../../Browse/rule/combat/combat-round.md) while this performance is active, you can make a [power roll](../../Browse/rule/dice/power-roll.md) against the target that ignores [cover](../../Browse/rule/combat/cover.md). You can't target the same creature twice with this effect.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -11757,7 +11757,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../Browse/rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area gains 1 [surge](../../Browse/rule/resource/surge.md).
+**Effect:** While this performance is active, each target who starts their [turn](../../Browse/rule/combat/turn.md) in the area gains 1 [surge](../../Browse/rule/resource/surge.md).
 
 #### Class Act Triggered Action {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/class-act-triggered-action"}
 
@@ -11776,9 +11776,9 @@ Your [troubadour class act](../../Browse/feature/troubadour/level-1/troubadour-c
 
 *Give the chorus a little punch.*
 
-| **Ranged**      |   **Triggered** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**      |   **Triggered** |
 |-----------------|----------------:|
-| **📏 Ranged 5** | **🎯 One ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 5** | **🎯 One ally** |
 
 **Trigger:** The target uses an ability that targets only one enemy and costs 3 or fewer of their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
@@ -11791,11 +11791,11 @@ Your [troubadour class act](../../Browse/feature/troubadour/level-1/troubadour-c
 
 *"I'd have brought treats had I known I'd be fighting a dog."*
 
-| **Melee**      |           **Triggered** |
+| **[Melee](../../Browse/rule/combat/melee.md)**      |           **Triggered** |
 |----------------|------------------------:|
-| **📏 Melee 1** | **🎯 Self or one ally** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1** | **🎯 Self or one ally** |
 
-**Trigger:** The target takes damage from a melee [strike](../../Browse/rule/combat/strike.md).
+**Trigger:** The target takes damage from a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md).
 
 **Effect:** The target makes a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the creature who made the triggering strike.
 
@@ -11804,9 +11804,9 @@ Your [troubadour class act](../../Browse/feature/troubadour/level-1/troubadour-c
 
 *All's fair in love and whatever.*
 
-| **Ranged**       |       **Triggered** |
+| **[Ranged](../../Browse/rule/combat/ranged.md)**       |       **Triggered** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 One creature** |
 
 **Trigger:** The target makes an [ability roll](../../Browse/rule/dice/ability-roll.md) that has an [edge](../../Browse/rule/dice/edge.md), a double [edge](../../Browse/rule/dice/edge.md), a [bane](../../Browse/rule/dice/bane.md), or a double [bane](../../Browse/rule/dice/bane.md).
 
@@ -11827,9 +11827,9 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 
 *And they said practicing fencing was a waste!*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
-| **📏 Melee 1**            | **🎯 Two creatures or objects** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 Two creatures or objects** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -11846,9 +11846,9 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 
 *There you are, radiating your usual charisma.*
 
-| **Magic, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Ranged 10**                  | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                  | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -11861,9 +11861,9 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 
 *I didn't do it! What?*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon**             | **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**             | **Main action** |
 |---------------------------------------|----------------:|
-| **📏 Melee 1**                        | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                        | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -11871,16 +11871,16 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 - **12-16:** 6 + P damage
 - **17+:** 9 + P damage
 
-**Effect:** The target is [taunted](../../Browse/condition/taunted.md) by you or a willing ally adjacent to you until the end of the target's next turn.
+**Effect:** The target is [taunted](../../Browse/condition/taunted.md) by you or a willing ally [adjacent](../../Browse/rule/combat/adjacent.md) to you until the end of the target's next [turn](../../Browse/rule/combat/turn.md).
 
 ##### Witty Banter {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter"}
 
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
 
-| **Magic, Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**       | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 5**       | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -11888,7 +11888,7 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 - **12-16:** 5 + P psychic damage
 - **17+:** 7 + P psychic damage
 
-**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their turn.
+**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of their [turn](../../Browse/rule/combat/turn.md).
 
 **Spend 1 Drama:** The chosen ally can spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
@@ -11905,9 +11905,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Just one bad review will ruin their day.*
 
-| **Magic, Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 10**      | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -11915,7 +11915,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 10 + P sonic damage
 - **17+:** 13 + P sonic damage
 
-**Effect:** The first time the target uses an ability before the start of your next turn, any effects from the ability's [tier outcomes](../../Browse/rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the [power roll](../../Browse/rule/dice/power-roll.md) work as usual.
+**Effect:** The first time the target uses an ability before the start of your next [turn](../../Browse/rule/combat/turn.md), any effects from the ability's [tier outcomes](../../Browse/rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the [power roll](../../Browse/rule/dice/power-roll.md) work as usual.
 
 ###### Hypnotic Overtones {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones"}
 
@@ -11939,7 +11939,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You write something unexpected into the scene that hinders your enemy.*
 
-| **Area, Magic, Ranged**     |               **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)**     |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 3 [cube](../../Browse/rule/combat/cube.md) within 10**     | **🎯 Each enemy in the area** |
 
@@ -11956,11 +11956,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** | **Maneuver** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** | **Maneuver** |
 |---------------------------|-------------:|
 | **📏 Self; see below**    |  **🎯 Self** |
 
-**Effect:** You [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md). You make one [power roll](../../Browse/rule/dice/power-roll.md) that targets each enemy you move adjacent to during this [shift](../../Browse/movement/shifting.md).
+**Effect:** You [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md). You make one [power roll](../../Browse/rule/dice/power-roll.md) that targets each enemy you move [adjacent](../../Browse/rule/combat/adjacent.md) to during this [shift](../../Browse/movement/shifting.md).
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md) or [Presence](../../Browse/rule/character/presence.md):**
 
@@ -11996,7 +11996,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to [speed](../../Browse/rule/character/speed.md) and you ignore [difficult terrain](../../Browse/movement/difficult-terrain.md). The illusion and your invisibility last until the end of your next turn, or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.
+**Effect:** You [turn](../../Browse/rule/combat/turn.md) invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) and you ignore [difficult terrain](../../Browse/movement/difficult-terrain.md). The illusion and your invisibility last until the end of your next [turn](../../Browse/rule/combat/turn.md), or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.
 
 ###### Flip the Script {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/flip-the-script"}
 
@@ -12014,9 +12014,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *They're so hurt by your performance, you start to believe it yourself.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -12034,7 +12034,7 @@ As a 2nd-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 
 You can give a rousing speech, invoke your inspirations, or lift your fellows' spirits, appealing to the muses to heighten a battle's drama. However, irony is eager to hand your fortune to the villain to achieve the same end.
 
-Before you roll to gain drama at the start of your turn, you can make your appeal (no action required). If you do, your roll gains the following additional effects:
+Before you roll to gain drama at the start of your [turn](../../Browse/rule/combat/turn.md), you can make your appeal (no action required). If you do, your roll gains the following additional effects:
 
 - If the roll is a 1, you gain 1 additional drama. The Director gains 1d3 Malice (see *Draw Steel: Monsters*).
 - If the roll is a 2, you gain 1 [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), which you can keep or give to an ally within the [distance](../../Browse/rule/combat/distance.md) of your active performance. The Director gains 1 Malice.
@@ -12046,13 +12046,13 @@ You have a specific manner that helps define your presence on the battlefield. C
 
 ##### Allow Me to Introduce Tonight's Players {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/allow-me-to-introduce-tonights-players"}
 
-Whenever you take the first turn in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can [shift](../../Browse/movement/shifting.md) up to their [speed](../../Browse/rule/character/speed.md), and [ability rolls](../../Browse/rule/dice/ability-roll.md) made against them have a double [bane](../../Browse/rule/dice/bane.md) until the end of the combat round. Additionally, any [surprised](../../Browse/rule/combat/surprised.md) enemy is no longer [surprised](../../Browse/rule/combat/surprised.md).
+Whenever you take the first [turn](../../Browse/rule/combat/turn.md) in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can [shift](../../Browse/movement/shifting.md) up to their [speed](../../Browse/rule/character/speed.md), and [ability rolls](../../Browse/rule/dice/ability-roll.md) made against them have a double [bane](../../Browse/rule/dice/bane.md) until the end of the [combat round](../../Browse/rule/combat/combat-round.md). Additionally, any [surprised](../../Browse/rule/combat/surprised.md) enemy is no longer [surprised](../../Browse/rule/combat/surprised.md).
 
 ##### Formal Introductions {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/formal-introductions"}
 
 As a [respite](../../Browse/rule/resource/respite.md) activity, you can scribe a notice of your arrival (such as a calling card or a formal letter) addressed to an enemy. You can deliver the notice to the target personally if you are in the same general area, send it by courier, or leave it in a covert location for the target to find. You can have only one notice active at a time.
 
-The Director determines when the target receives your notice. When the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per combat round during encounters involving the target. The heroes start each such encounter with 2 additional [hero tokens](../../Browse/rule/resource/hero-token.md) (Chapter 1: [The Basics](the-basics.md)). These [hero tokens](../../Browse/rule/resource/hero-token.md) disappear at the end of the encounter.
+The Director determines when the target receives your notice. When the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per [combat round](../../Browse/rule/combat/combat-round.md) during encounters involving the target. The heroes start each such encounter with 2 additional [hero tokens](../../Browse/rule/resource/hero-token.md) (Chapter 1: [The Basics](the-basics.md)). These [hero tokens](../../Browse/rule/resource/hero-token.md) disappear at the end of the encounter.
 
 ##### My Reputation Precedes Me {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/my-reputation-precedes-me"}
 
@@ -12062,7 +12062,7 @@ The Director can award the heroes 1 [hero token](../../Browse/rule/resource/hero
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](perks.md).
+You gain one interpersonal, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](perks.md).
 
 #### 2nd-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/2nd-level-class-act-ability"}
 
@@ -12077,22 +12077,22 @@ Choose one of the following abilities.
 
 *We offered them a percentage of the gross. So they're working for free!*
 
-| **Magic, Ranged** | **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** | **Main action** |
 |-------------------|----------------:|
-| **📏 Ranged 10**  |  **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  |  **🎯 Special** |
 
-**Effect:** A [guest star](../../Browse/feature/ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within [distance](../../Browse/rule/combat/distance.md) uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within [distance](../../Browse/rule/combat/distance.md). This [guest star](../../Browse/feature/ability/troubadour/level-2/guest-star.md) is controlled by you, has their own turn, and shares your [characteristics](../../Browse/rule/character/characteristic.md). Their [Stamina](../../Browse/rule/health/stamina.md) maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../../Browse/feature/common/main-actions/free-strike.md). At the end of the encounter, or when the [guest star](../../Browse/feature/ability/troubadour/level-2/guest-star.md) is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
+**Effect:** A [guest star](../../Browse/feature/ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within [distance](../../Browse/rule/combat/distance.md) uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within [distance](../../Browse/rule/combat/distance.md). This [guest star](../../Browse/feature/ability/troubadour/level-2/guest-star.md) is controlled by you, has their own [turn](../../Browse/rule/combat/turn.md), and shares your [characteristics](../../Browse/rule/character/characteristic.md). Their [Stamina](../../Browse/rule/health/stamina.md) maximum is half yours. They have no abilities other than your [melee](../../Browse/rule/combat/melee.md) and [ranged](../../Browse/rule/combat/ranged.md) [free strikes](../../Browse/feature/common/main-actions/free-strike.md). At the end of the encounter, or when the [guest star](../../Browse/feature/ability/troubadour/level-2/guest-star.md) is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
 
 ###### Twist at the End {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/twist-at-the-end"}
 
 
 *You didn't see that coming, did you?!*
 
-| **Magic, Ranged** |       **Main action** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |       **Main action** |
 |-------------------|----------------------:|
-| **📏 Ranged 10**  | **🎯 One dead enemy** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 One dead enemy** |
 
-**Effect:** A target who is not a leader or solo creature comes back to life with half their [Stamina](../../Browse/rule/health/stamina.md) and becomes an ally under the Director's control. The players can work with the Director to determine when the target takes their turn each combat round. At the end of the encounter, the target turns to dust and is blown away.
+**Effect:** A target who is not a leader or solo creature comes back to life with half their [Stamina](../../Browse/rule/health/stamina.md) and becomes an ally under the Director's control. The players can work with the Director to determine when the target takes their [turn](../../Browse/rule/combat/turn.md) each [combat round](../../Browse/rule/combat/combat-round.md). At the end of the encounter, the target turns to dust and is blown away.
 
 ##### 2nd-Level Duelist Ability
 
@@ -12103,20 +12103,20 @@ Choose one of the following abilities.
 
 *Audiences love this bit.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |                  **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |                  **Main action** |
 |---------------------------|---------------------------------:|
-| **📏 Melee 1**            | **🎯 Self and one willing ally** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 Self and one willing ally** |
 
-**Effect:** Each target can [shift](../../Browse/movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) that deals extra damage equal to twice their highest [characteristic](../../Browse/rule/character/characteristic.md) score.
+**Effect:** Each target can [shift](../../Browse/movement/shifting.md) up to 5 squares, including vertically, but must end this movement [adjacent](../../Browse/rule/combat/adjacent.md) to the other target and on solid ground. Each target can then make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) that deals extra damage equal to twice their highest [characteristic](../../Browse/rule/character/characteristic.md) score.
 
 ###### En Garde! {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/en-garde"}
 
 
-*Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*
+*Wait, it's... Guard! [Turn](../../Browse/rule/combat/turn.md)! Parry! Dodge! Spin! Thrust! Ha!*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -12124,7 +12124,7 @@ Choose one of the following abilities.
 - **12-16:** 11 + **A** damage
 - **17+:** 16 + **A** damage
 
-**Effect:** The target can make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against you. If they do, you can make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the target.
+**Effect:** The target can make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) against you. If they do, you can make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the target.
 
 ##### 2nd-Level Virtuoso Ability
 
@@ -12139,18 +12139,18 @@ Choose one of the following abilities.
 |-------------------|----------------:|
 | **📏 Special**    |  **🎯 Special** |
 
-**Effect:** You use an ability that you have observed being used this combat round. The ability must have the [Strike](../../Browse/rule/combat/strike.md) keyword, cost 5 or fewer of a [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), and cost no Malice. When you make the [strike](../../Browse/rule/combat/strike.md), you use your [Presence](../../Browse/rule/character/presence.md) score for any [power rolls](../../Browse/rule/dice/power-roll.md), and any damage you deal is sonic damage.
+**Effect:** You use an ability that you have observed being used this [combat round](../../Browse/rule/combat/combat-round.md). The ability must have the [Strike](../../Browse/rule/combat/strike.md) keyword, cost 5 or fewer of a [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), and cost no Malice. When you make the [strike](../../Browse/rule/combat/strike.md), you use your [Presence](../../Browse/rule/character/presence.md) score for any [power rolls](../../Browse/rule/dice/power-roll.md), and any damage you deal is sonic damage.
 
 ###### Tough Crowd {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/tough-crowd"}
 
 
 *Your fans don't seem to like the opening act...*
 
-| **Area, Magic, Ranged** | **Main action** |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** | **Main action** |
 |-------------------------|----------------:|
 | **📏 3 [cube](../../Browse/rule/combat/cube.md) within 10** |  **🎯 Special** |
 
-**Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one [power roll](../../Browse/rule/dice/power-roll.md) that targets each enemy in the area.
+**Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your [turns](../../Browse/rule/combat/turn.md), you can make one [power roll](../../Browse/rule/dice/power-roll.md) that targets each enemy in the area.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -12176,11 +12176,11 @@ Your [troubadour class act](../../Browse/feature/troubadour/level-1/troubadour-c
 
 ##### Foil {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/foil"}
 
-At the start of an encounter, choose one creature within your [line of effect](../../Browse/rule/combat/line-of-effect.md). You have a double [edge](../../Browse/rule/dice/edge.md) on [power rolls](../../Browse/rule/dice/power-roll.md) made against or in competition with that creature. The chosen creature also has a double [edge](../../Browse/rule/dice/edge.md) on [power rolls](../../Browse/rule/dice/power-roll.md) made against or in competition with you. If the chosen creature is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), you can choose a new foil at the start of the next combat round.
+At the start of an encounter, choose one creature within your [line of effect](../../Browse/rule/combat/line-of-effect.md). You have a double [edge](../../Browse/rule/dice/edge.md) on [power rolls](../../Browse/rule/dice/power-roll.md) made against or in competition with that creature. The chosen creature also has a double [edge](../../Browse/rule/dice/edge.md) on [power rolls](../../Browse/rule/dice/power-roll.md) made against or in competition with you. If the chosen creature is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), you can choose a new foil at the start of the next [combat round](../../Browse/rule/combat/combat-round.md).
 
 ##### Missed Cue {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/missed-cue"}
 
-If you aren't [surprised](../../Browse/rule/combat/surprised.md) at the start of an encounter, you can choose one enemy within your [line of effect](../../Browse/rule/combat/line-of-effect.md) who is not a leader or solo creature. The Director temporarily removes the chosen creature from the encounter. The chosen creature enters the encounter at the start of the second combat round. You must earn 3 [Victories](../../Browse/rule/resource/victories.md) before you can use this feature again.
+If you aren't [surprised](../../Browse/rule/combat/surprised.md) at the start of an encounter, you can choose one enemy within your [line of effect](../../Browse/rule/combat/line-of-effect.md) who is not a leader or solo creature. The Director temporarily removes the chosen creature from the encounter. The chosen creature enters the encounter at the start of the second [combat round](../../Browse/rule/combat/combat-round.md). You must earn 3 [Victories](../../Browse/rule/resource/victories.md) before you can use this feature again.
 
 ##### Second Album {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/second-album"}
 
@@ -12195,7 +12195,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../Browse/rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area doesn't take a [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) against creatures with [concealment](../../Browse/rule/combat/concealment.md). Once during their turn, they can search for hidden creatures as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) (see Hide and Sneak in Chapter 9: [Tests](tests.md)).
+**Effect:** While this performance is active, each target who starts their [turn](../../Browse/rule/combat/turn.md) in the area doesn't take a [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) against creatures with [concealment](../../Browse/rule/combat/concealment.md). Once during their [turn](../../Browse/rule/combat/turn.md), they can search for hidden creatures as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) (see Hide and Sneak in Chapter 9: [Tests](tests.md)).
 
 ###### "Never-Ending Hero" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/never-ending-hero"}
 
@@ -12206,7 +12206,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../Browse/rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn [dying](../../Browse/rule/health/dying.md) while in the area gains an [edge](../../Browse/rule/dice/edge.md) on [power rolls](../../Browse/rule/dice/power-roll.md) and ignores the effects of [bleeding](../../Browse/condition/bleeding.md) until the end of their turn.
+**Effect:** While this performance is active, each target who starts their [turn](../../Browse/rule/combat/turn.md) [dying](../../Browse/rule/health/dying.md) while in the area gains an [edge](../../Browse/rule/dice/edge.md) on [power rolls](../../Browse/rule/dice/power-roll.md) and ignores the effects of [bleeding](../../Browse/condition/bleeding.md) until the end of their [turn](../../Browse/rule/combat/turn.md).
 
 #### 7-Drama Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/7-drama-ability"}
 
@@ -12234,7 +12234,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *A spicy performance lights a fire under your allies' feet.*
 
-| **Area, Magic, Melee, Weapon** |               **Main action** |
+| **Area, Magic, [Melee](../../Browse/rule/combat/melee.md), Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 3 [burst](../../Browse/rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
 
@@ -12251,9 +12251,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your performance travels and doesn't stop moving until your audience is completely rocked.*
 
-| **Magic, Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10**              | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 10**              | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -12261,20 +12261,20 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 8 + P damage; push 3
 - **17+:** 11 + P damage; push 5
 
-**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending drama.
+**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 [combat rounds](../../Browse/rule/combat/combat-round.md) without spending drama.
 
 ##### We Meet at Last {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/we-meet-at-last"}
 
 
 *You magically intertwine your fate with another creature—for better or worse.*
 
-| **Magic, Ranged** |        **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |        **Maneuver** |
 |-------------------|--------------------:|
-| **📏 Ranged 10**  | **🎯 One creature** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 One creature** |
 
 **Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond [distance](../../Browse/rule/combat/distance.md), with the [distance](../../Browse/rule/combat/distance.md) of this ability replacing those abilities' [distances](../../Browse/rule/combat/distance.md). The target can't be [force moved](../../Browse/movement/forced-movement.md) by an ability used beyond [distance](../../Browse/rule/combat/distance.md) this way.
 
-Additionally, once on each of your turns, you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to communicate a motivating or dispiriting message to the target, either granting them 2 [surges](../../Browse/rule/resource/surge.md) or forcing them to take a [bane](../../Browse/rule/dice/bane.md) on the next [ability roll](../../Browse/rule/dice/ability-roll.md) they make before the start of your next turn.
+Additionally, once on each of your [turns](../../Browse/rule/combat/turn.md), you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to communicate a motivating or dispiriting message to the target, either granting them 2 [surges](../../Browse/rule/resource/surge.md) or forcing them to take a [bane](../../Browse/rule/dice/bane.md) on the next [ability roll](../../Browse/rule/dice/ability-roll.md) they make before the start of your next [turn](../../Browse/rule/combat/turn.md).
 
 ### 4th-Level Features
 
@@ -12338,7 +12338,7 @@ Choose one of the following features.
 
 ###### Fix It in Post
 
-Once on each of your turns, you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to change one condition affecting a creature within [distance](../../Browse/rule/combat/distance.md) of your [Dramatic Monologue](../../Browse/feature/ability/troubadour/level-1/dramatic-monologue.md) ability. Choose one of the following conditions on the target: [bleeding](../../Browse/condition/bleeding.md), [frightened](../../Browse/condition/frightened.md)[, prone](../../Browse/condition/prone.md), [slowed](../../Browse/condition/slowed.md), or [taunted](../../Browse/condition/taunted.md). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.
+Once on each of your [turns](../../Browse/rule/combat/turn.md), you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to change one [condition](../../Browse/rule/combat/condition.md) affecting a creature within [distance](../../Browse/rule/combat/distance.md) of your [Dramatic Monologue](../../Browse/feature/ability/troubadour/level-1/dramatic-monologue.md) ability. Choose one of the following [conditions](../../Browse/rule/combat/condition.md) on the target: [bleeding](../../Browse/condition/bleeding.md), [frightened](../../Browse/condition/frightened.md)[, prone](../../Browse/condition/prone.md), [slowed](../../Browse/condition/slowed.md), or [taunted](../../Browse/condition/taunted.md). You change that [condition](../../Browse/rule/combat/condition.md) to another of those [conditions](../../Browse/rule/combat/condition.md), maintaining the duration and origin of the original [condition](../../Browse/rule/combat/condition.md). A target who is no longer prone can stand up.
 
 ###### Take Two!
 
@@ -12353,7 +12353,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../Browse/rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area can reroll the first [power roll](../../Browse/rule/dice/power-roll.md) that turn that obtains a tier 2 outcome. They must use the new roll.
+**Effect:** While this performance is active, each target who starts their [turn](../../Browse/rule/combat/turn.md) in the area can reroll the first [power roll](../../Browse/rule/dice/power-roll.md) that [turn](../../Browse/rule/combat/turn.md) that obtains a tier 2 outcome. They must use the new roll.
 
 ##### Duelist Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/duelist-features"}
 
@@ -12361,7 +12361,7 @@ Choose one of the following features.
 
 ###### Verbal Duel
 
-Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to exchange words with them. Make an opposed [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) with the target. Whoever gets the higher result can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md), which deals psychic damage instead of its usual damage.
+Once on each of your [turns](../../Browse/rule/combat/turn.md) while the target of your Foil feature is [adjacent](../../Browse/rule/combat/adjacent.md) to you, you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to exchange words with them. Make an opposed [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) with the target. Whoever gets the higher result can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md), which deals psychic damage instead of its usual damage.
 
 ###### We Can't Be Upstaged!
 
@@ -12376,7 +12376,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../Browse/rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, a target who starts their turn in the area gains a bonus to the [distance](../../Browse/rule/combat/distance.md) they can [shift](../../Browse/movement/shifting.md) equal to your [Presence](../../Browse/rule/character/presence.md) score until the end of their turn.
+**Effect:** While this performance is active, a target who starts their [turn](../../Browse/rule/combat/turn.md) in the area gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [distance](../../Browse/rule/combat/distance.md) they can [shift](../../Browse/movement/shifting.md) equal to your [Presence](../../Browse/rule/character/presence.md) score until the end of their [turn](../../Browse/rule/combat/turn.md).
 
 ##### Virtuoso Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/virtuoso-features"}
 
@@ -12384,7 +12384,7 @@ Choose one of the following features.
 
 ###### Bolstering Banter
 
-Once on each of your turns, you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to exchange words with a target of your current performance, other than yourself. The target can spend a [Recovery](../../Browse/rule/health/recoveries.md) to gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to their [recovery value](../../Browse/rule/health/recoveries.md).
+Once on each of your [turns](../../Browse/rule/combat/turn.md), you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to exchange words with a target of your current performance, other than yourself. The target can spend a [Recovery](../../Browse/rule/health/recoveries.md) to gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to their [recovery value](../../Browse/rule/health/recoveries.md).
 
 ###### Medley
 
@@ -12399,7 +12399,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *You wield your weapon at blistering [speed](../../Browse/rule/character/speed.md), leaving everyone around you fighting for their lives.*
 
-| **Area, Melee, Weapon** |               **Main action** |
+| **Area, [Melee](../../Browse/rule/combat/melee.md), Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 3 [burst](../../Browse/rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 
@@ -12416,20 +12416,20 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Your subject is written into two places at once.*
 
-| **Magic, Ranged** |               **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |               **Maneuver** |
 |-------------------|---------------------------:|
-| **📏 Ranged 10**  | **🎯 One enemy or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 One enemy or object** |
 
-**Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within [distance](../../Browse/rule/combat/distance.md). If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's [Stamina](../../Browse/rule/health/stamina.md), is [weakened](../../Browse/condition/weakened.md), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current [Stamina](../../Browse/rule/health/stamina.md).
+**Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within [distance](../../Browse/rule/combat/distance.md). If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's [Stamina](../../Browse/rule/health/stamina.md), is [weakened](../../Browse/condition/weakened.md), and takes 1d6 corruption damage at the start of each of their [turns](../../Browse/rule/combat/turn.md). If either entity is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current [Stamina](../../Browse/rule/health/stamina.md).
 
 ##### Love Song {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/love-song"}
 
 
 *You play a small ditty that plants you inside your target's heart.*
 
-| **Magic, Ranged** |                  **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |                  **Maneuver** |
 |-------------------|------------------------------:|
-| **📏 Ranged 10**  | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 One creature or object** |
 
 **Effect:** The target gains 20 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Until the end of the encounter, whenever the target takes damage while you're within [distance](../../Browse/rule/combat/distance.md), you can choose to take the damage instead of the target.
 
@@ -12438,15 +12438,15 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 *Dazzle them with your fancy patter and they forget where they were.*
 
-| **Magic, Ranged** |   **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |   **Maneuver** |
 |-------------------|---------------:|
-| **📏 Ranged 10**  | **🎯 Special** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 Special** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
-- **≤11:** One ally within [distance](../../Browse/rule/combat/distance.md) can take their turn immediately after yours.
-- **12-16:** Two allies within [distance](../../Browse/rule/combat/distance.md) can take their turns immediately after yours in any order.
-- **17+:** Three allies within [distance](../../Browse/rule/combat/distance.md) can take their turns immediately after yours in any order. One of those allies can have already taken a turn this combat round.
+- **≤11:** One ally within [distance](../../Browse/rule/combat/distance.md) can take their [turn](../../Browse/rule/combat/turn.md) immediately after yours.
+- **12-16:** Two allies within [distance](../../Browse/rule/combat/distance.md) can take their [turns](../../Browse/rule/combat/turn.md) immediately after yours in any order.
+- **17+:** Three allies within [distance](../../Browse/rule/combat/distance.md) can take their [turns](../../Browse/rule/combat/turn.md) immediately after yours in any order. One of those allies can have already taken a [turn](../../Browse/rule/combat/turn.md) this [combat round](../../Browse/rule/combat/combat-round.md).
 
 ### 6th-Level Features
 
@@ -12454,7 +12454,7 @@ As a 6th-level [troubadour](../../Browse/class/troubadour.md), you gain the foll
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice.
+You gain one interpersonal, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice.
 
 #### Spotlight {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/spotlight"}
 
@@ -12469,7 +12469,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../Browse/rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area gains 1 of their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md). This [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) disappears at the end of the target's turn if they don't spend it.
+**Effect:** While this performance is active, each target who starts their [turn](../../Browse/rule/combat/turn.md) in the area gains 1 of their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md). This [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) disappears at the end of the target's [turn](../../Browse/rule/combat/turn.md) if they don't spend it.
 
 #### 6th-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/6th-level-class-act-ability"}
 
@@ -12503,7 +12503,7 @@ Choose one of the following abilities.
 |-----------------|-----------------------------:|
 | **📏 5 [burst](../../Browse/rule/combat/burst.md)**  | **🎯 Each ally in the area** |
 
-**Effect:** Until the end of the encounter, each target gains the [speed](../../Browse/rule/character/speed.md) bonus, weapon [distance](../../Browse/rule/combat/distance.md) bonus, disengage bonus, and [stability](../../Browse/rule/character/stability.md) bonus of your currently equipped kit in addition to their own kit's bonuses.
+**Effect:** Until the end of the encounter, each target gains the [speed](../../Browse/rule/character/speed.md) [bonus](../../Browse/rule/dice/bonuses-and-penalties.md), weapon [distance](../../Browse/rule/combat/distance.md) [bonus](../../Browse/rule/dice/bonuses-and-penalties.md), disengage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md), and [stability](../../Browse/rule/character/stability.md) [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) of your currently equipped kit in addition to their own kit's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es.
 
 ##### 6th-Level Duelist Abilities
 
@@ -12514,9 +12514,9 @@ Choose one of the following abilities.
 
 *It's love and blood or drama and blood. Either way, there's always blood.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -12529,11 +12529,11 @@ Choose one of the following abilities.
 
 *You and your partner make a flashy show of derring-do, then get back to your corners.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
-**Effect:** You and the target each make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../Browse/feature/common/main-actions/free-strike.md) targets and which enemies the target creature's [free strike](../../Browse/feature/common/main-actions/free-strike.md) targets. You then slide the target 5 squares, ignoring [stability](../../Browse/rule/character/stability.md).
+**Effect:** You and the target each make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../Browse/feature/common/main-actions/free-strike.md) targets and which enemies the target creature's [free strike](../../Browse/feature/common/main-actions/free-strike.md) targets. You then slide the target 5 squares, ignoring [stability](../../Browse/rule/character/stability.md).
 
 ##### 6th-Level Virtuoso Abilities
 
@@ -12565,7 +12565,7 @@ Choose one of the following abilities.
 |-----------------|--------------------------------------:|
 | **📏 4 [burst](../../Browse/rule/combat/burst.md)**  | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target gains 1 [surge](../../Browse/rule/resource/surge.md), then gains 1 [surge](../../Browse/rule/resource/surge.md) at the start of each combat round until the end of the encounter.
+**Effect:** Each target gains 1 [surge](../../Browse/rule/resource/surge.md), then gains 1 [surge](../../Browse/rule/resource/surge.md) at the start of each [combat round](../../Browse/rule/combat/combat-round.md) until the end of the encounter.
 
 ### 7th-Level Features
 
@@ -12579,11 +12579,11 @@ Each of your [characteristic](../../Browse/rule/character/characteristic.md) sco
 
 You can use your [Scene Partner](../../Browse/feature/troubadour/level-1/scene-partner.md) feature to form a bond with one willing hero instead of an [NPC](../../Browse/rule/general/npc.md) you interact with using a [test](../../Browse/rule/test/test.md). If you bond with another hero, you lose your existing bond with a hero.
 
-Additionally, you and creatures you are bonded with gain a +1 bonus to [saving throws](../../Browse/rule/general/saving-throw.md). Whenever you or a bonded creature succeeds on a [saving throw](../../Browse/rule/general/saving-throw.md), you and each creature you are bonded with gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to your level.
+Additionally, you and creatures you are bonded with gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [saving throws](../../Browse/rule/general/saving-throw.md). Whenever you or a bonded creature succeeds on a [saving throw](../../Browse/rule/general/saving-throw.md), you and each creature you are bonded with gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to your level.
 
 #### A Muse's Muse {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/a-muses-muse"}
 
-At the start of each of your turns during combat, you gain 1d3 + 1 drama instead of 1d3.
+At the start of each of your [turns](../../Browse/rule/combat/turn.md) during combat, you gain 1d3 + 1 drama instead of 1d3.
 
 #### Skill {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/skill"}
 
@@ -12622,7 +12622,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|-----------------------------:|
 | **📏 5 [aura](../../Browse/rule/combat/aura.md)**                | **🎯 Each ally in the area** |
 
-**Effect:** While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../../Browse/rule/health/recoveries.md) or use [triggered actions](../../Browse/rule/combat/triggered-action.md). At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
+**Effect:** While this performance is active, each target who is dead can choose to continue taking [turns](../../Browse/rule/combat/turn.md) after death. On each of their [turns](../../Browse/rule/combat/turn.md), a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../../Browse/rule/health/recoveries.md) or use [triggered actions](../../Browse/rule/combat/triggered-action.md). At the end of the encounter, each target who chose to take [turns](../../Browse/rule/combat/turn.md) this way turns to dust and blows away.
 
 ###### Radical Fantasia {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/radical-fantasia"}
 
@@ -12633,7 +12633,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../../Browse/rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area ignores [difficult terrain](../../Browse/movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../../Browse/movement/forced-movement.md) gains a +2 bonus to the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) until the end of their turn. Additionally, once per combat round, each target can use a [triggered action](../../Browse/rule/combat/triggered-action.md) as a free [triggered action](../../Browse/rule/combat/triggered-action.md).
+**Effect:** While this performance is active, each target who starts their [turn](../../Browse/rule/combat/turn.md) in the area ignores [difficult terrain](../../Browse/movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../../Browse/movement/forced-movement.md) gains a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) until the end of their [turn](../../Browse/rule/combat/turn.md). Additionally, once per [combat round](../../Browse/rule/combat/combat-round.md), each target can use a [triggered action](../../Browse/rule/combat/triggered-action.md) as a free [triggered action](../../Browse/rule/combat/triggered-action.md).
 
 ##### Deleted Scene {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/deleted-scene"}
 
@@ -12658,16 +12658,16 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 [Stamina](../../Browse/rule/health/stamina.md) using an ability, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to [teleport](../../Browse/movement/teleport.md) an ally within [distance](../../Browse/rule/combat/distance.md) of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../Browse/movement/teleport.md)ed ally can then make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 [Stamina](../../Browse/rule/health/stamina.md) using an ability, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to [teleport](../../Browse/movement/teleport.md) an ally within [distance](../../Browse/rule/combat/distance.md) of that ability into the creature's space in a plume of rose petals. You or the [teleport](../../Browse/movement/teleport.md)ed ally can then make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 ##### Power Ballad {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/power-ballad"}
 
 
 *A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.*
 
-| **Magic, Ranged** |            **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |            **Maneuver** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
 **Effect:** Until the end of the encounter, whenever the target takes damage while [winded](../../Browse/rule/health/winded.md), they can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to deal half the damage they took to the source of the damage.
 
@@ -12680,19 +12680,19 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to a creature or object, or enable a creature to spend a [Recovery](../../Browse/rule/health/recoveries.md), you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to give that creature or object one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending [Recoveries](../../Browse/rule/health/recoveries.md) simultaneously, each target receives the same effect:
+**Effect:** Until the end of the encounter, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to a creature or object, or enable a creature to spend a [Recovery](../../Browse/rule/health/recoveries.md), you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to give that creature or object one of the following effects until the start of your next [turn](../../Browse/rule/combat/turn.md). If this ability is triggered by multiple targets taking damage or multiple creatures spending [Recoveries](../../Browse/rule/health/recoveries.md) simultaneously, each target receives the same effect:
 
 - The target has [damage weakness](../../Browse/rule/damage/damage-weakness.md) equal to your [Presence](../../Browse/rule/character/presence.md) score against any magic, psionic, or weapon ability.
 - The target has [damage immunity](../../Browse/rule/damage/damage-immunity.md) equal to your [Presence](../../Browse/rule/character/presence.md) score.
-- The target has a bonus to [stability](../../Browse/rule/character/stability.md) and a penalty to [speed](../../Browse/rule/character/speed.md) equal to your [Presence](../../Browse/rule/character/presence.md) score.
-- The target has a bonus to [speed](../../Browse/rule/character/speed.md) and a penalty to [stability](../../Browse/rule/character/stability.md) equal to your [Presence](../../Browse/rule/character/presence.md) score.
+- The target has a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md) and a [penalty](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) equal to your [Presence](../../Browse/rule/character/presence.md) score.
+- The target has a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) and a [penalty](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md) equal to your [Presence](../../Browse/rule/character/presence.md) score.
 
 ##### The Show Must Go On {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/the-show-must-go-on"}
 
 
 *You shine a bright light on the players on the stage and compel them to finish the performance.*
 
-| **Area, Magic, Ranged** | **Maneuver**                  |
+| **Area, Magic, [Ranged](../../Browse/rule/combat/ranged.md)** | **Maneuver**                  |
 |-------------------------|-------------------------------|
 | **📏 5 [cube](../../Browse/rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 
@@ -12702,7 +12702,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 8 damage; P < AVERAGE, the target can't willingly leave the area (save ends)
 - **17+:** 12 damage; the target can't willingly leave the area ([EoT](../../Browse/rule/combat/end-of-turn.md)); if P < STRONG, they can't willingly leave the area (save ends)
 
-**Effect:** Each ally within [distance](../../Browse/rule/combat/distance.md) can't obtain lower than a tier 2 outcome on the next [test](../../Browse/rule/test/test.md) they make before the start of your next turn.
+**Effect:** Each ally within [distance](../../Browse/rule/combat/distance.md) can't obtain lower than a tier 2 outcome on the next [test](../../Browse/rule/test/test.md) they make before the start of your next [turn](../../Browse/rule/combat/turn.md).
 
 ### 9th-Level Features
 
@@ -12727,9 +12727,9 @@ Choose one of the following abilities.
 
 *Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.*
 
-| **Magic, Melee, Ranged**    |        **Maneuver** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md)**    |        **Maneuver** |
 |-----------------------------|--------------------:|
-| **📏 Melee 1 or ranged 10** | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 One creature** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -12742,13 +12742,13 @@ Choose one of the following abilities.
 ###### Rising Tension {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/rising-tension"}
 
 
-*You narrate the tension of the scene and put all hope into your protagonist to turn things around.*
+*You narrate the tension of the scene and put all hope into your protagonist to [turn](../../Browse/rule/combat/turn.md) things around.*
 
-| **Magic, Ranged** |    **Maneuver** |
+| **Magic, [Ranged](../../Browse/rule/combat/ranged.md)** |    **Maneuver** |
 |-------------------|----------------:|
-| **📏 Ranged 10**  | **🎯 One ally** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**  | **🎯 One ally** |
 
-**Effect:** The target gains 3 of their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), has a double [edge](../../Browse/rule/dice/edge.md) on a [power roll](../../Browse/rule/dice/power-roll.md) of their choice made during their next turn, is no longer [slowed](../../Browse/condition/slowed.md) or [weakened](../../Browse/condition/weakened.md) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+**Effect:** The target gains 3 of their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), has a double [edge](../../Browse/rule/dice/edge.md) on a [power roll](../../Browse/rule/dice/power-roll.md) of their choice made during their next [turn](../../Browse/rule/combat/turn.md), is no longer [slowed](../../Browse/condition/slowed.md) or [weakened](../../Browse/condition/weakened.md) if they were before, and can immediately take their [turn](../../Browse/rule/combat/turn.md) after yours if they have not taken their [turn](../../Browse/rule/combat/turn.md) already this round.
 
 ##### 9th-Level Duelist Abilities
 
@@ -12759,9 +12759,9 @@ Choose one of the following abilities.
 
 *If you can land the [strike](../../Browse/rule/combat/strike.md), the crowd goes wild.*
 
-| **Charge, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
+| **Charge, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
-| **📏 Melee 3**                    | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 3**                    | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
@@ -12776,17 +12776,17 @@ Choose one of the following abilities.
 
 *No, no. You don't die until the sequel.*
 
-| **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **Effect:** Add your current [Stamina](../../Browse/rule/health/stamina.md) to your target's current [Stamina](../../Browse/rule/health/stamina.md), then you have half that total [Stamina](../../Browse/rule/health/stamina.md) and the target has the remainder. If either of you would gain more [Stamina](../../Browse/rule/health/stamina.md) this way than their [Stamina](../../Browse/rule/health/stamina.md) maximum, the difference in [Stamina](../../Browse/rule/health/stamina.md) between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more [Stamina](../../Browse/rule/health/stamina.md) than your maximum this way. You then make a [power roll](../../Browse/rule/dice/power-roll.md).
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
-- **≤11:** You and the target can each end one effect on yourselves that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of your turns.
-- **12-16:** You and the target can end any effects on yourselves that are ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that end at the end of your turns.
-- **17+:** You can choose any of the current effects on you and the target that are ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that end at the end of your turns, apply the chosen effects to the target, and end the rest.
+- **≤11:** You and the target can each end one effect on yourselves that is ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that ends at the end of your [turns](../../Browse/rule/combat/turn.md).
+- **12-16:** You and the target can end any effects on yourselves that are ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that end at the end of your [turns](../../Browse/rule/combat/turn.md).
+- **17+:** You can choose any of the current effects on you and the target that are ended by a [saving throw](../../Browse/rule/general/saving-throw.md) or that end at the end of your [turns](../../Browse/rule/combat/turn.md), apply the chosen effects to the target, and end the rest.
 
 ##### 9th-Level Virtuoso Abilities
 
@@ -12807,16 +12807,16 @@ Choose one of the following abilities.
 - **12-16:** 11 sonic damage
 - **17+:** 15 sonic damage
 
-**Effect:** Each creature within [distance](../../Browse/rule/combat/distance.md) gains a +5 bonus to [speed](../../Browse/rule/character/speed.md) until the end of their next turn. While under this effect, each target must use their full movement during their turn.
+**Effect:** Each creature within [distance](../../Browse/rule/combat/distance.md) gains a +5 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) until the end of their next [turn](../../Browse/rule/combat/turn.md). While under this effect, each target must use their full movement during their [turn](../../Browse/rule/combat/turn.md).
 
 ###### Melt Their Faces {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/melt-their-faces"}
 
 
 *The power of music rips through the reality around the target and blows them away.*
 
-| **Magic, Melee, Ranged, [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Melee](../../Browse/rule/combat/melee.md), [Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md)** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1 or [ranged](../../Browse/rule/combat/ranged.md) 10**      | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
@@ -12852,7 +12852,7 @@ Whenever you obtain a success on a [test](../../Browse/rule/test/test.md), each 
 
 #### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice.
+You gain one interpersonal, lore, or [supernatural](../../Browse/rule/general/supernatural.md) perk of your choice.
 
 #### Skill {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/skill"}
 

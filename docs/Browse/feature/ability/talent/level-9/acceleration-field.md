@@ -2,13 +2,13 @@
 action_type: Main action
 class: talent
 cost: 11 Clarity
-distance: Ranged 5
-effect: Each target can use any main action available to them as a free [triggered action](../../../../rule/combat/triggered-action.md), but they lose their main action on their next turn.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 5'
+effect: Each target can use any main action available to them as a free [triggered action](../../../../rule/combat/triggered-action.md), but they lose their main action on their next [turn](../../../../rule/combat/turn.md).
 flavor: You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Acceleration Field
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/acceleration-field
@@ -30,14 +30,14 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Clarity</div></div>
 </div>
 <p class="sc-ability__flavor">You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three allies</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can use any main action available to them as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a>, but they lose their main action on their next turn.</p></div>
+<div class="sc-ability__section-body"><p>Each target can use any main action available to them as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a>, but they lose their main action on their next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

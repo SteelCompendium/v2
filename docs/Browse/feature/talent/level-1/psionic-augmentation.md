@@ -30,7 +30,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can wear light armor and wield light weapons effectively, even though you don&#39;t have a kit. While you wear light armor, you gain a +3 bonus to <a href="../../../../rule/health/stamina/">Stamina</a>, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including <a href="../../../common/main-actions/free-strike/">free strikes</a>. You can use light armor treasures and light weapon treasures.</p>
+<p>You can wear light armor and wield light weapons effectively, even though you don&#39;t have a kit. While you wear light armor, you gain a +3 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/health/stamina/">Stamina</a>, and that <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> with weapon abilities, including <a href="../../../common/main-actions/free-strike/">free strikes</a>. You can use light armor treasures and light weapon treasures.</p>
 <p>If you have a kit, you can&#39;t take this augmentation.</p>
 </div>
 </section>
@@ -42,7 +42,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain a +6 bonus to <a href="../../../../rule/health/stamina/">Stamina</a>, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to <a href="../../../../rule/character/stability/">stability</a>.</p>
+<p>You gain a +6 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/health/stamina/">Stamina</a>, and this <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/stability/">stability</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -53,7 +53,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your ranged psionic abilities gain a +2 bonus to <a href="../../../../rule/combat/distance/">distance</a>.</p>
+<p>Your <a href="../../../../rule/combat/ranged/">ranged</a> psionic abilities gain a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/combat/distance/">distance</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -64,7 +64,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your damage-dealing psionic abilities gain a +1 bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a>.</p>
+<p>Your damage-dealing psionic abilities gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -75,7 +75,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain a +1 bonus to <a href="../../../../rule/character/speed/">speed</a> and to the <a href="../../../../rule/combat/distance/">distance</a> you can <a href="../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
+<p>You gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> and to the <a href="../../../../rule/combat/distance/">distance</a> you can <a href="../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
 </div>
 </section>
 </div>

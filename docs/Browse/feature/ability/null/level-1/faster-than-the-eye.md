@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 class: "null"
-distance: Melee 1
-effect: You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object adjacent to you.
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: You can deal damage equal to your [Agility](../../../../rule/character/agility.md) score to one creature or object [adjacent](../../../../rule/combat/adjacent.md) to you.
 flavor: You strike so quickly that your hands become a blur.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">You strike so quickly that your hands become a blur.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two creatures or objects</div></div>
 </div>
 <div class="sc-ability__section">
@@ -41,6 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can deal damage equal to your <a href="../../../../../rule/character/agility/">Agility</a> score to one creature or object adjacent to you.</p></div>
+<div class="sc-ability__section-body"><p>You can deal damage equal to your <a href="../../../../../rule/character/agility/">Agility</a> score to one creature or object <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you.</p></div>
 </div>
 </article>

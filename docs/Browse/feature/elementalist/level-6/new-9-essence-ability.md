@@ -32,18 +32,18 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">They shine vibrantly, a beautiful diamond in the night sky.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Void</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">Void</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has a +3 bonus to <a href="../../../../rule/character/speed/">speed</a>, they can <a href="../../../../movement/fly/">fly</a>, and their abilities ignore <a href="../../../../rule/combat/concealment/">concealment</a>. Additionally, whenever the target gains their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, they gain 1 additional <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>. This effect lasts until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>The target has a +3 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a>, they can <a href="../../../../movement/fly/">fly</a>, and their abilities ignore <a href="../../../../rule/combat/concealment/">concealment</a>. Additionally, whenever the target gains their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, they gain 1 additional <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>. This effect lasts until the start of your next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>The effect lasts until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>The effect lasts until the start of your next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -56,18 +56,18 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Their body swells with lava, mud, and might, towering over their enemies.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the target has the following benefits:</p><ul><li>Their <a href="../../../../rule/character/size/">size</a> and <a href="../../../../rule/character/stability/">stability</a> increase by 2, with any <a href="../../../../rule/character/size/">size</a> 1 target becoming <a href="../../../../rule/character/size/">size</a> 3. Each creature who is within the target&#39;s new space slides to the nearest unoccupied space, ignoring <a href="../../../../rule/character/stability/">stability</a>. If the target doesn&#39;t have space to grow, they grow as much as they can and become <a href="../../../../condition/restrained/">restrained</a> until the effect ends.</li><li>They have fire immunity 10.</li><li>Their <a href="../../../../rule/combat/strike/">strikes</a> deal extra fire damage equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score.</li><li>When the target force moves a creature or object, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +2 bonus.</li><li>They can use their highest <a href="../../../../rule/character/characteristic/">characteristic</a> instead of <a href="../../../../rule/character/might/">Might</a> for <a href="../../../../rule/character/might/">Might</a> <a href="../../../../rule/dice/power-roll/">power rolls</a>.</li></ul></div>
+<div class="sc-ability__section-body"><p>Until the start of your next <a href="../../../../rule/combat/turn/">turn</a>, the target has the following benefits:</p><ul><li>Their <a href="../../../../rule/character/size/">size</a> and <a href="../../../../rule/character/stability/">stability</a> increase by 2, with any <a href="../../../../rule/character/size/">size</a> 1 target becoming <a href="../../../../rule/character/size/">size</a> 3. Each creature who is within the target&#39;s new space slides to the nearest unoccupied space, ignoring <a href="../../../../rule/character/stability/">stability</a>. If the target doesn&#39;t have space to grow, they grow as much as they can and become <a href="../../../../condition/restrained/">restrained</a> until the effect ends.</li><li>They have fire immunity 10.</li><li>Their <a href="../../../../rule/combat/strike/">strikes</a> deal extra fire damage equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score.</li><li>When the target force moves a creature or object, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>.</li><li>They can use their highest <a href="../../../../rule/character/characteristic/">characteristic</a> instead of <a href="../../../../rule/character/might/">Might</a> for <a href="../../../../rule/character/might/">Might</a> <a href="../../../../rule/dice/power-roll/">power rolls</a>.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
-<div class="sc-ability__section-body"><p>The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 <a href="../../../../rule/health/recoveries/">Recoveries</a>.</p></div>
+<div class="sc-ability__section-body"><p>The effect lasts until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. Additionally, at the start of your <a href="../../../../rule/combat/turn/">turn</a>, the target can spend 2 <a href="../../../../rule/health/recoveries/">Recoveries</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -80,9 +80,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You <a href="../../../../movement/teleport/">teleport</a> the target into the air and let the ground and the elemental force of fire do the rest.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Void</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">Void</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -110,11 +110,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies, and any ally who ends their turn in the area has <a href="../../../../rule/combat/cover/">cover</a>.</p></div>
+<div class="sc-ability__section-body"><p>The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. The area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies, and any ally who ends their <a href="../../../../rule/combat/turn/">turn</a> in the area has <a href="../../../../rule/combat/cover/">cover</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
-<div class="sc-ability__section-body"><p>The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
+<div class="sc-ability__section-body"><p>The area remains until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. Additionally, at the start of your <a href="../../../../rule/combat/turn/">turn</a>, each ally in the area can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
 </div>

@@ -41,14 +41,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You forcibly stuff more moments into a critical point in time, knowing full well you might need to steal some of your own.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three allies</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can use any main action available to them as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>, but they lose their main action on their next turn.</p></div>
+<div class="sc-ability__section-body"><p>Each target can use any main action available to them as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>, but they lose their main action on their next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -72,7 +72,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The targets share 6 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> among themselves, as you determine. A target can&#39;t gain more than 3 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> this way. After using this ability, you can&#39;t gain any clarity until the end of the next combat round.</p></div>
+<div class="sc-ability__section-body"><p>The targets share 6 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> among themselves, as you determine. A target can&#39;t gain more than 3 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> this way. After using this ability, you can&#39;t gain any clarity until the end of the next <a href="../../../../rule/combat/combat-round/">combat round</a>.</p></div>
 </div>
 </article>
 </div>
@@ -108,7 +108,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You can choose to reduce the size of the <a href="../../../../rule/combat/burst/">burst</a> by 2 (to a minimum of 1 <a href="../../../../rule/combat/burst/">burst</a>) to give the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> a +2 bonus. You take half the total damage all targets take from <a href="../../../../movement/forced-movement/">forced movement</a>.</p></div>
+<div class="sc-ability__section-body"><p>You can choose to reduce the size of the <a href="../../../../rule/combat/burst/">burst</a> by 2 (to a minimum of 1 <a href="../../../../rule/combat/burst/">burst</a>) to give the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>. You take half the total damage all targets take from <a href="../../../../movement/forced-movement/">forced movement</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -160,9 +160,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You fire a telepathic bolt empowered by every consciousness within reach directly into your foe&#39;s mind.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -194,7 +194,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and each target ally can&#39;t obtain lower than a tier 2 outcome on <a href="../../../../rule/dice/power-roll/">power rolls</a> until the start of your next turn. Each target enemy is affected by the ability&#39;s <a href="../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> R &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>12-16:</b> R &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>17+:</b> R &lt; STRONG, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li></ul></div>
+<div class="sc-ability__section-body"><p>You and each target ally can&#39;t obtain lower than a tier 2 outcome on <a href="../../../../rule/dice/power-roll/">power rolls</a> until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. Each target enemy is affected by the ability&#39;s <a href="../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> R &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>12-16:</b> R &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>17+:</b> R &lt; STRONG, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

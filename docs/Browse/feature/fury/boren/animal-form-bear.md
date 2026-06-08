@@ -19,6 +19,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>While you are in your bear form, your <a href="../../../../rule/character/size/">size</a> is 2 and you gain a +1 bonus to <a href="../../../../rule/combat/distance/">distance</a> with melee weapon abilities.</p>
+<p>While you are in your bear form, your <a href="../../../../rule/character/size/">size</a> is 2 and you gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/combat/distance/">distance</a> with <a href="../../../../rule/combat/melee/">melee</a> weapon abilities.</p>
 </div>
 </section>

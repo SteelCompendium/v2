@@ -21,7 +21,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You can give a rousing speech, invoke your inspirations, or lift your fellows&#39; spirits, appealing to the muses to heighten a battle&#39;s drama. However, irony is eager to hand your fortune to the villain to achieve the same end.</p>
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Before you roll to gain drama at the start of your turn, you can make your appeal (no action required). If you do, your roll gains the following additional effects:</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Before you roll to gain drama at the start of your <a href="../../../../rule/combat/turn/">turn</a>, you can make your appeal (no action required). If you do, your roll gains the following additional effects:</p>
 <ul><li>If the roll is a 1, you gain 1 additional drama. The Director gains 1d3 Malice (see <em>Draw Steel: Monsters</em>).</li><li>If the roll is a 2, you gain 1 <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, which you can keep or give to an ally within the <a href="../../../../rule/combat/distance/">distance</a> of your active performance. The Director gains 1 Malice.</li><li>If the roll is a 3, you gain 2 of a <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, which you can distribute among yourself and any allies within the <a href="../../../../rule/combat/distance/">distance</a> of your active performance.</li></ul>
 </div>
 </section>

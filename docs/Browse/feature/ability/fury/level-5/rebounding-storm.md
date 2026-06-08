@@ -2,11 +2,11 @@
 action_type: Main action
 class: fury
 cost: 9 Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: When a target would end this [forced movement](../../../../movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are pushed the remaining [distance](../../../../rule/combat/distance.md) away from the creature or object in the direction they came from. As long as [forced movement](../../../../movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
 flavor: You knock around enemies like playthings.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "5"
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Ferocity</div></div>
 </div>
 <p class="sc-ability__flavor">You knock around enemies like playthings.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two creatures or objects</div></div>
 </div>
 <div class="sc-ability__section">

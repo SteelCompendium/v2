@@ -2,13 +2,13 @@
 action_type: Main action
 class: troubadour
 cost: 3 Drama
-distance: Melee 1 or ranged 10
-effect: The first time the target uses an ability before the start of your next turn, any effects from the ability's [tier outcomes](../../../../rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the [power roll](../../../../rule/dice/power-roll.md) work as usual.
+distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 10'
+effect: The first time the target uses an ability before the start of your next [turn](../../../../rule/combat/turn.md), any effects from the ability's [tier outcomes](../../../../rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the [power roll](../../../../rule/dice/power-roll.md) work as usual.
 flavor: Just one bad review will ruin their day.
 keywords:
     - Magic
-    - Melee
-    - Ranged
+    - '[Melee](../../../../rule/combat/melee.md)'
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Harsh Critic
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">3</span> Drama</div></div>
 </div>
 <p class="sc-ability__flavor">Just one bad review will ruin their day.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../../rule/combat/ranged/">ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -41,6 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The first time the target uses an ability before the start of your next turn, any effects from the ability&#39;s <a href="../../../../../rule/dice/tier-outcome/">tier outcomes</a> other than damage are negated for all targets. Ability effects that always happen regardless of the <a href="../../../../../rule/dice/power-roll/">power roll</a> work as usual.</p></div>
+<div class="sc-ability__section-body"><p>The first time the target uses an ability before the start of your next <a href="../../../../../rule/combat/turn/">turn</a>, any effects from the ability&#39;s <a href="../../../../../rule/dice/tier-outcome/">tier outcomes</a> other than damage are negated for all targets. Ability effects that always happen regardless of the <a href="../../../../../rule/dice/power-roll/">power roll</a> work as usual.</p></div>
 </div>
 </article>

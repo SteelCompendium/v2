@@ -1,16 +1,16 @@
 ---
 action_type: Maneuver
 class: conduit
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target can spend a [Recovery](../../../../rule/health/recoveries.md).
 flavor: Your divine energy restores the righteous.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Healing Grace
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/healing-grace
-spend: '1+ Piety: For each piety spent, choose one of the following enhancements:'
+spend: '1+ Piety: For each piety spent, choose one of the following [enhancements](../../../../rule/treasure/enhancement.md):'
 target: Self or one ally
 type: ability
 ---
@@ -29,9 +29,9 @@ type: ability
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your divine energy restores the righteous.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
@@ -39,7 +39,7 @@ type: ability
 <div class="sc-ability__section-body"><p>The target can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><ul><li>You can target one additional ally within <a href="../../../../../rule/combat/distance/">distance</a>.</li><li>You can end one effect on a target that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn.</li><li>A <a href="../../../../../condition/prone/">prone target</a> can stand up.</li><li>A target can spend 1 additional <a href="../../../../../rule/health/recoveries/">Recovery</a>.</li></ul></div>
+<div class="sc-ability__section-body"><ul><li>You can target one additional ally within <a href="../../../../../rule/combat/distance/">distance</a>.</li><li>You can end one effect on a target that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../../../../rule/combat/turn/">turn</a>.</li><li>A <a href="../../../../../condition/prone/">prone target</a> can stand up.</li><li>A target can spend 1 additional <a href="../../../../../rule/health/recoveries/">Recovery</a>.</li></ul></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1+ Piety</span><span class="txt">For each piety spent, choose one of the following enhancements:</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1+ Piety</span><span class="txt">For each piety spent, choose one of the following <a href="../../../../../rule/treasure/enhancement/">enhancements</a>:</span></div>
 </article>

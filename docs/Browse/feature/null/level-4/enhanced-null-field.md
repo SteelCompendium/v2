@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>While using your <a href="../../level-1/null-field/">Null Field</a> ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your <a href="../../../../rule/combat/aura/">aura</a> partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your <a href="../../../../rule/combat/aura/">aura</a> overlaps with their location, but return when the <a href="../../../../rule/combat/aura/">aura</a> no longer overlaps with them.</p>
+<p>While using your <a href="../../level-1/null-field/">Null Field</a> ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary <a href="../../../../rule/general/supernatural/">supernatural</a> terrain effects of your level or lower are removed when your <a href="../../../../rule/combat/aura/">aura</a> partially or fully overlaps with their location. Permanent <a href="../../../../rule/general/supernatural/">supernatural</a> terrain effects of your level or lower are temporarily negated while your <a href="../../../../rule/combat/aura/">aura</a> overlaps with their location, but return when the <a href="../../../../rule/combat/aura/">aura</a> no longer overlaps with them.</p>
 </div>
 </section>

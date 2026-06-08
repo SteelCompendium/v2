@@ -27,7 +27,7 @@ type: title
 > |-----------------|--------------------------------------------:|
 > | **📏 5 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area hidden to you** |
 >
-> **Effect:** Each target who has P < AVERAGE is [taunted](../condition/taunted.md) by you until the end of their next turn, and you know the location of each creature [taunted](../condition/taunted.md) in this way.
+> **Effect:** Each target who has P < AVERAGE is [taunted](../condition/taunted.md) by you until the end of their next [turn](../rule/combat/turn.md), and you know the location of each creature [taunted](../condition/taunted.md) in this way.
 
-- *Deadly and Big:* Your [strikes](../rule/combat/strike.md) gain a +3 damage bonus against creatures whose [size](../rule/character/size.md) is smaller than yours.
+- *Deadly and Big:* Your [strikes](../rule/combat/strike.md) gain a +3 damage [bonus](../rule/dice/bonuses-and-penalties.md) against creatures whose [size](../rule/character/size.md) is smaller than yours.
 - *Everybody Move!:* When you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature of your [size](../rule/character/size.md) or two additional smaller creatures.

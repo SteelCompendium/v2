@@ -3,7 +3,7 @@ action_type: Maneuver
 class: "null"
 cost: 9 Discipline
 distance: 3 [burst](../../../../rule/combat/burst.md)
-effect: Each target can end any conditions or effects on themself, and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each condition or effect removed.
+effect: Each target can end any [conditions](../../../../rule/combat/condition.md) or effects on themself, and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each [condition](../../../../rule/combat/condition.md) or effect removed.
 flavor: You expand your nullifying power to mitigate harmful effects.
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can end any conditions or effects on themself, and gains 5 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> for each condition or effect removed.</p></div>
+<div class="sc-ability__section-body"><p>Each target can end any <a href="../../../../../rule/combat/condition/">conditions</a> or effects on themself, and gains 5 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> for each <a href="../../../../../rule/combat/condition/">condition</a> or effect removed.</p></div>
 </div>
 </article>

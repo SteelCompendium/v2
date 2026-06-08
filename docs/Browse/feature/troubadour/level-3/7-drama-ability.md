@@ -55,7 +55,7 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">A spicy performance lights a fire under your allies&#39; feet.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
@@ -78,9 +78,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your performance travels and doesn&#39;t stop moving until your audience is completely rocked.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../rule/combat/ranged/">ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -88,7 +88,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending drama.</p></div>
+<div class="sc-ability__section-body"><p>You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 <a href="../../../../rule/combat/combat-round/">combat rounds</a> without spending drama.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -101,14 +101,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You magically intertwine your fate with another creature—for better or worse.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond <a href="../../../../rule/combat/distance/">distance</a>, with the <a href="../../../../rule/combat/distance/">distance</a> of this ability replacing those abilities&#39; <a href="../../../../rule/combat/distance/">distances</a>. The target can&#39;t be <a href="../../../../movement/forced-movement/">force moved</a> by an ability used beyond <a href="../../../../rule/combat/distance/">distance</a> this way.</p><p>Additionally, once on each of your turns, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to communicate a motivating or dispiriting message to the target, either granting them 2 <a href="../../../../rule/resource/surge/">surges</a> or forcing them to take a <a href="../../../../rule/dice/bane/">bane</a> on the next <a href="../../../../rule/dice/ability-roll/">ability roll</a> they make before the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond <a href="../../../../rule/combat/distance/">distance</a>, with the <a href="../../../../rule/combat/distance/">distance</a> of this ability replacing those abilities&#39; <a href="../../../../rule/combat/distance/">distances</a>. The target can&#39;t be <a href="../../../../movement/forced-movement/">force moved</a> by an ability used beyond <a href="../../../../rule/combat/distance/">distance</a> this way.</p><p>Additionally, once on each of your <a href="../../../../rule/combat/turn/">turns</a>, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to communicate a motivating or dispiriting message to the target, either granting them 2 <a href="../../../../rule/resource/surge/">surges</a> or forcing them to take a <a href="../../../../rule/dice/bane/">bane</a> on the next <a href="../../../../rule/dice/ability-roll/">ability roll</a> they make before the start of your next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 </div>

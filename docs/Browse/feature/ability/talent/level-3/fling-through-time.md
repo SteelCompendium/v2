@@ -2,13 +2,13 @@
 action_type: Main action
 class: talent
 cost: 7 Clarity
-distance: Ranged 10
-effect: A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: A target who is flung through time is removed from the encounter map until the end of their next [turn](../../../../rule/combat/turn.md), reappearing in their original space or the nearest unoccupied space.
 flavor: You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Strike
 level: "3"
 name: Fling Through Time
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">7</span> Clarity</div></div>
 </div>
 <p class="sc-ability__flavor">You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -41,7 +41,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.</p></div>
+<div class="sc-ability__section-body"><p>A target who is flung through time is removed from the encounter map until the end of their next <a href="../../../../../rule/combat/turn/">turn</a>, reappearing in their original space or the nearest unoccupied space.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

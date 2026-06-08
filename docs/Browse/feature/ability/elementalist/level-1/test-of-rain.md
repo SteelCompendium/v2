@@ -3,13 +3,13 @@ action_type: Main action
 class: elementalist
 cost: 5 Essence
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
-effect: You can end one effect on yourself that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of your turn. Each ally in the area also gains this benefit.
+effect: You can end one effect on yourself that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of your [turn](../../../../rule/combat/turn.md). Each ally in the area also gains this benefit.
 flavor: You call down a rain that burns your enemies and restores your allies.
 keywords:
     - Area
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Test of Rain
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/test-of-rain
@@ -31,7 +31,7 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Essence</div></div>
 </div>
 <p class="sc-ability__flavor">You call down a rain that burns your enemies and restores your allies.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
@@ -41,6 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can end one effect on yourself that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your turn. Each ally in the area also gains this benefit.</p></div>
+<div class="sc-ability__section-body"><p>You can end one effect on yourself that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your <a href="../../../../../rule/combat/turn/">turn</a>. Each ally in the area also gains this benefit.</p></div>
 </div>
 </article>

@@ -2,12 +2,12 @@
 action_type: Main action
 class: talent
 cost: 3 Clarity
-distance: Melee 2
-effect: '[Ability rolls](../../../../rule/dice/ability-roll.md) made against the target take a [bane](../../../../rule/dice/bane.md) until the start of your next turn. Whenever the target takes damage while under this effect, they can use a [triggered action](../../../../rule/combat/triggered-action.md) to make a [free strike](../../../common/main-actions/free-strike.md) against the source of the damage.'
+distance: '[Melee](../../../../rule/combat/melee.md) 2'
+effect: '[Ability rolls](../../../../rule/dice/ability-roll.md) made against the target take a [bane](../../../../rule/dice/bane.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target takes damage while under this effect, they can use a [triggered action](../../../../rule/combat/triggered-action.md) to make a [free strike](../../../common/main-actions/free-strike.md) against the source of the damage.'
 flavor: You give a target a glimpse into the future so that they're ready for what comes next.
 keywords:
     - Chronopathy
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
 level: "1"
 name: Precognition
@@ -30,13 +30,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">3</span> Clarity</div></div>
 </div>
 <p class="sc-ability__flavor">You give a target a glimpse into the future so that they&#39;re ready for what comes next.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Psionic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 2</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 2</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p><a href="../../../../../rule/dice/ability-roll/">Ability rolls</a> made against the target take a <a href="../../../../../rule/dice/bane/">bane</a> until the start of your next turn. Whenever the target takes damage while under this effect, they can use a <a href="../../../../../rule/combat/triggered-action/">triggered action</a> to make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against the source of the damage.</p></div>
+<div class="sc-ability__section-body"><p><a href="../../../../../rule/dice/ability-roll/">Ability rolls</a> made against the target take a <a href="../../../../../rule/dice/bane/">bane</a> until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>. Whenever the target takes damage while under this effect, they can use a <a href="../../../../../rule/combat/triggered-action/">triggered action</a> to make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against the source of the damage.</p></div>
 </div>
 </article>

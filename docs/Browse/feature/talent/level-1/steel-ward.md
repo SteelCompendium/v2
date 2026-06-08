@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> equal to your <a href="../../../../rule/character/reason/">Reason</a> score until the end of your next turn.</p>
+<p>Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> equal to your <a href="../../../../rule/character/reason/">Reason</a> score until the end of your next <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>

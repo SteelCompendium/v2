@@ -2,13 +2,13 @@
 action_type: Maneuver
 class: elementalist
 cost: 5 Essence
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../../../../rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate [power roll](../../../../rule/dice/power-roll.md) for each creature on the ground above a hole and small enough to fall in. (You can't score a [critical hit](../../../../rule/combat/critical-hit.md) with this ability because it uses a maneuver.)
 flavor: The surface of the world around you opens up to swallow foes.
 keywords:
     - Earth
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Instantaneous Excavation
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/instantaneous-excavation
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Essence</div></div>
 </div>
 <p class="sc-ability__flavor">The surface of the world around you opens up to swallow foes.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
@@ -41,6 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>At the start of your turn, you open another hole, making a <a href="../../../../../rule/dice/power-roll/">power roll</a> against each creature who could fall into the hole when it opens without spending essence.</p></div>
+<div class="sc-ability__section-body"><p>At the start of your <a href="../../../../../rule/combat/turn/">turn</a>, you open another hole, making a <a href="../../../../../rule/dice/power-roll/">power roll</a> against each creature who could fall into the hole when it opens without spending essence.</p></div>
 </div>
 </article>

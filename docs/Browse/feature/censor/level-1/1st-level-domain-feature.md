@@ -126,7 +126,7 @@ type: feature
 <p class="sc-ability__flavor">You commune with the lingering soul of the recently dead.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One dead creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -178,7 +178,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can choose yourself or one ally who is also finishing a <a href="../../../../rule/resource/respite/">respite</a> to gain the benefit of a divine ritual. You place a ray of <a href="../../../ability/conduit/level-2/morning-light/">morning light</a> into the chosen character&#39;s soul, granting them a +1 bonus to <a href="../../../../rule/general/saving-throw/">saving throws</a> that lasts until you finish another <a href="../../../../rule/resource/respite/">respite</a>.</p>
+<p>Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can choose yourself or one ally who is also finishing a <a href="../../../../rule/resource/respite/">respite</a> to gain the benefit of a divine ritual. You place a ray of <a href="../../../ability/conduit/level-2/morning-light/">morning light</a> into the chosen character&#39;s soul, granting them a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/general/saving-throw/">saving throws</a> that lasts until you finish another <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -222,7 +222,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can choose yourself or one ally who is also finishing a <a href="../../../../rule/resource/respite/">respite</a> to gain the benefit of a divine ritual. The chosen character gains a bonus to their <a href="../../../../rule/health/recoveries/">recovery value</a> equal to your level that lasts until you finish another <a href="../../../../rule/resource/respite/">respite</a>.</p>
+<p>Each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can choose yourself or one ally who is also finishing a <a href="../../../../rule/resource/respite/">respite</a> to gain the benefit of a divine ritual. The chosen character gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to their <a href="../../../../rule/health/recoveries/">recovery value</a> equal to your level that lasts until you finish another <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -233,7 +233,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a <a href="../../../../rule/resource/respite/">respite</a> activity, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> with abilities that use the weapon. This benefit lasts until you finish another <a href="../../../../rule/resource/respite/">respite</a>.</p>
+<p>As a <a href="../../../../rule/resource/respite/">respite</a> activity, you can bless a weapon. Any creature who wields the weapon gains a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> with abilities that use the weapon. This benefit lasts until you finish another <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
 </div>

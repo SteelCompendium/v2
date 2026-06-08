@@ -1,6 +1,6 @@
 ---
 echelon: "1"
-effect: Whenever you use the [Charge](../../../feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 bonus to [speed](../../../rule/character/speed.md) until the end of your current turn. After charging, you can use the [Knockback](../../../feature/common/maneuvers/knockback.md) maneuver as a [free maneuver](../../../rule/combat/free-maneuver.md), regardless of the target creature's [size](../../../rule/character/size.md).
+effect: Whenever you use the [Charge](../../../feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) until the end of your current [turn](../../../rule/combat/turn.md). After charging, you can use the [Knockback](../../../feature/common/maneuvers/knockback.md) maneuver as a [free maneuver](../../../rule/combat/free-maneuver.md), regardless of the target creature's [size](../../../rule/character/size.md).
 keywords:
     - Head
     - Magic
@@ -26,4 +26,4 @@ type: treasure
 
 **Project Goal:** 150
 
-**Effect:** Whenever you use the [Charge](../../../feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 bonus to [speed](../../../rule/character/speed.md) until the end of your current turn. After charging, you can use the [Knockback](../../../feature/common/maneuvers/knockback.md) maneuver as a [free maneuver](../../../rule/combat/free-maneuver.md), regardless of the target creature's [size](../../../rule/character/size.md).
+**Effect:** Whenever you use the [Charge](../../../feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) until the end of your current [turn](../../../rule/combat/turn.md). After charging, you can use the [Knockback](../../../feature/common/maneuvers/knockback.md) maneuver as a [free maneuver](../../../rule/combat/free-maneuver.md), regardless of the target creature's [size](../../../rule/character/size.md).

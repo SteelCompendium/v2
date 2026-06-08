@@ -32,9 +32,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">With a flick of the wrist, you phase creatures out of existence.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Void</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Void</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
@@ -43,7 +43,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a>. At the end of their first turn, they have a double <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a>. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.</p></div>
+<div class="sc-ability__section-body"><p>Each target begins to fade from existence (save ends). On their first <a href="../../../../rule/combat/turn/">turn</a> while fading from existence, a target takes a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a>. At the end of their first <a href="../../../../rule/combat/turn/">turn</a>, they have a double <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a>. At the end of their second <a href="../../../../rule/combat/turn/">turn</a>, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -56,7 +56,7 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You open up the ground, spewing out shrapnel of stone and debris.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
@@ -89,11 +89,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of your next turn, each ally in the area has each of their <a href="../../../../rule/character/characteristic/">characteristic</a> scores treated as 1 higher for the purpose of resisting <a href="../../../../rule/character/potency/">potencies</a>, and has a +1 bonus to <a href="../../../../rule/general/saving-throw/">saving throws</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of your next <a href="../../../../rule/combat/turn/">turn</a>, each ally in the area has each of their <a href="../../../../rule/character/characteristic/">characteristic</a> scores treated as 1 higher for the purpose of resisting <a href="../../../../rule/character/potency/">potencies</a>, and has a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/general/saving-throw/">saving throws</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>You make the <a href="../../../../rule/dice/power-roll/">power roll</a> again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>You make the <a href="../../../../rule/dice/power-roll/">power roll</a> again to target each enemy in the area without spending essence, and the effect lasts until the start of your next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -106,18 +106,18 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">A blazing, beautifully organized inferno erupts at your command.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">10 wall within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score for each square of the area they start their turn in or enter.</p></div>
+<div class="sc-ability__section-body"><p>The wall lasts until the start of your next <a href="../../../../rule/combat/turn/">turn</a>, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a <a href="../../../../rule/combat/combat-round/">combat round</a> or starts their turn there takes fire damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score for each square of the area they start their <a href="../../../../rule/combat/turn/">turn</a> in or enter.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>The wall lasts until the start of your next turn, and you can add a number of squares to the wall equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p></div>
+<div class="sc-ability__section-body"><p>The wall lasts until the start of your next <a href="../../../../rule/combat/turn/">turn</a>, and you can add a number of squares to the wall equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p></div>
 </div>
 </article>
 </div>

@@ -2,11 +2,11 @@
 action_type: Main action
 class: tactician
 cost: 9 Focus
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a [signature ability](../../../../rule/combat/signature-ability.md) that has a double [edge](../../../../rule/dice/edge.md).
 flavor: You remind your allies how to best use their gear.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "5"
 name: Squad! Remember Your Training!
 scc: mcdm.heroes.v1/feature.ability.tactician.level-5/squad-remember-your-training
@@ -28,9 +28,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Focus</div></div>
 </div>
 <p class="sc-ability__flavor">You remind your allies how to best use their gear.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and two allies</div></div>
 </div>
 <div class="sc-ability__section">

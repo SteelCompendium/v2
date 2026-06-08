@@ -17,6 +17,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>A creature who uses the <a href="../heal/">Heal</a> main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to regain <a href="../../../../rule/health/stamina/">Stamina</a>, or can make a <a href="../../../../rule/general/saving-throw/">saving throw</a> against one effect they are suffering that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a>.</p>
+<p>A creature who uses the <a href="../heal/">Heal</a> main action employs medicine or inspiring words to make an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature feel better and stay in the fight. The target creature can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to regain <a href="../../../../rule/health/stamina/">Stamina</a>, or can make a <a href="../../../../rule/general/saving-throw/">saving throw</a> against one effect they are suffering that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a>.</p>
 </div>
 </section>

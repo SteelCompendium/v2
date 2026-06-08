@@ -32,14 +32,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You channel divine force for movement that cannot be stopped.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target ends any condition or effect on them that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn, or a <a href="../../../../condition/prone/">prone target</a> can stand up. The target then gains 2 <a href="../../../../rule/resource/surge/">surges</a>, can <a href="../../../../movement/shifting/">shift</a> up to their <a href="../../../../rule/character/speed/">speed</a> while ignoring <a href="../../../../movement/difficult-terrain/">difficult terrain</a>, and can use a <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p></div>
+<div class="sc-ability__section-body"><p>The target ends any <a href="../../../../rule/combat/condition/">condition</a> or effect on them that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../../../rule/combat/turn/">turn</a>, or a <a href="../../../../condition/prone/">prone target</a> can stand up. The target then gains 2 <a href="../../../../rule/resource/surge/">surges</a>, can <a href="../../../../movement/shifting/">shift</a> up to their <a href="../../../../rule/character/speed/">speed</a> while ignoring <a href="../../../../movement/difficult-terrain/">difficult terrain</a>, and can use a <a href="../../../../rule/combat/strike/">strike</a> <a href="../../../../rule/combat/signature-ability/">signature ability</a> as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -62,7 +62,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A target can end one effect on them that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn, or a <a href="../../../../condition/prone/">prone target</a> can stand up.</p></div>
+<div class="sc-ability__section-body"><p>A target can end one effect on them that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../../../rule/combat/turn/">turn</a>, or a <a href="../../../../condition/prone/">prone target</a> can stand up.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -75,9 +75,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You amplify the power of your <a href="../../../ability/censor/level-1/judgment/">judgment</a>.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -98,13 +98,13 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You strike a foe and create a fleet of divine shields that protect your allies.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 10 + M damage; you and each ally adjacent to you gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></li><li><b>12-16:</b> 14 + M damage; you and each ally adjacent to you gain 15 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></li><li><b>17+:</b> 20 + M damage; you and each ally adjacent to you gain 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></li></ul></div>
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 10 + M damage; you and each ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to you gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></li><li><b>12-16:</b> 14 + M damage; you and each ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to you gain 15 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></li><li><b>17+:</b> 20 + M damage; you and each ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to you gain 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></li></ul></div>
 </div>
 </article>
 </div>

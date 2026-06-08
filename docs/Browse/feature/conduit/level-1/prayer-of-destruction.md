@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god infuses wrath within your being. You gain a +1 bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> with magic abilities.</p>
+<p>Your god infuses wrath within your being. You gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> with magic abilities.</p>
 </div>
 </section>

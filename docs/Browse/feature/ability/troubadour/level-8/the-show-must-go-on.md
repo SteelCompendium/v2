@@ -3,12 +3,12 @@ action_type: Maneuver
 class: troubadour
 cost: 11 Drama
 distance: 5 [cube](../../../../rule/combat/cube.md) within 10
-effect: Each ally within [distance](../../../../rule/combat/distance.md) can't obtain lower than a tier 2 outcome on the next [test](../../../../rule/test/test.md) they make before the start of your next turn.
+effect: Each ally within [distance](../../../../rule/combat/distance.md) can't obtain lower than a tier 2 outcome on the next [test](../../../../rule/test/test.md) they make before the start of your next [turn](../../../../rule/combat/turn.md).
 flavor: You shine a bright light on the players on the stage and compel them to finish the performance.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "8"
 name: The Show Must Go On
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-8/the-show-must-go-on
@@ -30,7 +30,7 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Drama</div></div>
 </div>
 <p class="sc-ability__flavor">You shine a bright light on the players on the stage and compel them to finish the performance.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
@@ -40,6 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally within <a href="../../../../../rule/combat/distance/">distance</a> can&#39;t obtain lower than a tier 2 outcome on the next <a href="../../../../../rule/test/test/">test</a> they make before the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>Each ally within <a href="../../../../../rule/combat/distance/">distance</a> can&#39;t obtain lower than a tier 2 outcome on the next <a href="../../../../../rule/test/test/">test</a> they make before the start of your next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

@@ -2,13 +2,13 @@
 action_type: Maneuver
 class: conduit
 cost: 9 Piety
-distance: Ranged 10
-effect: You can target yourself instead of one creature with this ability. Each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5 until the start of your next turn.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: You can target yourself instead of one creature with this ability. Each target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5 until the start of your next [turn](../../../../rule/combat/turn.md).
 flavor: Your allies are covered in spiritual armor.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "6"
 name: Cuirass of the Gods
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/cuirass-of-the-gods
@@ -30,13 +30,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Piety</div></div>
 </div>
 <p class="sc-ability__flavor">Your allies are covered in spiritual armor.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can target yourself instead of one creature with this ability. Each target has <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 5 until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one creature with this ability. Each target has <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 5 until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

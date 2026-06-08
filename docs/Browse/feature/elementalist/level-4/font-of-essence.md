@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The first time each combat round that you or a creature within 10 squares takes damage that isn&#39;t untyped or holy damage, you gain 2 essence instead of 1.</p>
+<p>The first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that you or a creature within 10 squares takes damage that isn&#39;t untyped or holy damage, you gain 2 essence instead of 1.</p>
 </div>
 </section>

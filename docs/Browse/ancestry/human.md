@@ -9,7 +9,7 @@ type: ancestry
 
 ---
 
-[Humans](human.md) belong to the world in a way the other speaking peoples do not. You can sense the presence of the supernatural—that... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
+[Humans](human.md) belong to the world in a way the other speaking peoples do not. You can sense the presence of the [supernatural](../rule/general/supernatural.md)—that... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
 
 "No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin... the [dwarves](dwarf.md) and the [orcs](orc.md) as you say. What is it that sets [humans](human.md) apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason."
 
@@ -45,7 +45,7 @@ Those great [humans](human.md), your ancestors, did not focus on differences. Th
 
 The people who stand against Ajax and tyrants like him will be just like you—normal people. Priests and scholars and merchants and farmers. Maybe even teachers.
 
-Stopping Ajax will require you to become something else. You must become heroes. [Conduits](../class/conduit.md) of saints, warmasters of great armies. [Censors](../class/censor.md) and [shadows](../class/shadow.md). That may seem unlikely now, but the future has a way of surprising us.
+Stopping Ajax will require you to become something else. You must become heroes. [Conduits](../class/conduit.md) of [saints](../rule/world/saint.md), warmasters of great armies. [Censors](../class/censor.md) and [shadows](../class/shadow.md). That may seem unlikely now, but the future has a way of surprising us.
 
 Some of your names, I will see written in future textbooks. But some of your names, I will see written in the stars.
 
@@ -55,7 +55,7 @@ Some of your names, I will see written in future textbooks. But some of your nam
 
 ### Signature Trait: Detect the Supernatural {data-scc="mcdm.heroes.v1/feature.trait.human/detect-the-supernatural"}
 
-As a maneuver, you can open your awareness to detect supernatural creatures and phenomena. Until the end of your next turn, you know the location of any supernatural object, or any undead, construct, or creature from another world within 5 squares, even if you don't have [line of effect](../rule/combat/line-of-effect.md) to that object or creature. You know if you're detecting an item or a creature, and you know the nature of any creature you detect.
+As a maneuver, you can open your awareness to detect [supernatural](../rule/general/supernatural.md) creatures and phenomena. Until the end of your next [turn](../rule/combat/turn.md), you know the location of any [supernatural](../rule/general/supernatural.md) object, or any undead, construct, or creature from another world within 5 squares, even if you don't have [line of effect](../rule/combat/line-of-effect.md) to that object or creature. You know if you're detecting an item or a creature, and you know the nature of any creature you detect.
 
 ### Purchased Human Traits
 
@@ -63,11 +63,11 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Per
 
 #### Can't Take Hold {data-scc="mcdm.heroes.v1/feature.trait.human/cant-take-hold"}
 
-Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary [difficult terrain](../movement/difficult-terrain.md) created by magic and psionic abilities. Additionally, when you are [force moved](../movement/forced-movement.md) by a magic or psionic ability, you can reduce the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) by 1.
+Your connection to the natural world allows you to resist certain [supernatural](../rule/general/supernatural.md) effects. You ignore temporary [difficult terrain](../movement/difficult-terrain.md) created by magic and psionic abilities. Additionally, when you are [force moved](../movement/forced-movement.md) by a magic or psionic ability, you can reduce the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) by 1.
 
 #### Determination {data-scc="mcdm.heroes.v1/feature.trait.human/determination"}
 
-A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](../condition/frightened.md), [slowed](../condition/slowed.md), or [weakened](../condition/weakened.md), you can use a maneuver to immediately end one of those conditions.
+A tolerance for pain and distress allows you to push through difficult situations. If you are [frightened](../condition/frightened.md), [slowed](../condition/slowed.md), or [weakened](../condition/weakened.md), you can use a maneuver to immediately end one of those [conditions](../rule/combat/condition.md).
 
 #### Perseverance {data-scc="mcdm.heroes.v1/feature.trait.human/perseverance"}
 

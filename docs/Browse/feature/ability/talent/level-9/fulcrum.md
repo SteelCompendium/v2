@@ -41,6 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You can choose to reduce the size of the <a href="../../../../../rule/combat/burst/">burst</a> by 2 (to a minimum of 1 <a href="../../../../../rule/combat/burst/">burst</a>) to give the <a href="../../../../../movement/forced-movement/">forced movement</a> <a href="../../../../../rule/combat/distance/">distance</a> a +2 bonus. You take half the total damage all targets take from <a href="../../../../../movement/forced-movement/">forced movement</a>.</p></div>
+<div class="sc-ability__section-body"><p>You can choose to reduce the size of the <a href="../../../../../rule/combat/burst/">burst</a> by 2 (to a minimum of 1 <a href="../../../../../rule/combat/burst/">burst</a>) to give the <a href="../../../../../movement/forced-movement/">forced movement</a> <a href="../../../../../rule/combat/distance/">distance</a> a +2 <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a>. You take half the total damage all targets take from <a href="../../../../../movement/forced-movement/">forced movement</a>.</p></div>
 </div>
 </article>

@@ -91,7 +91,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
   <div class="sc-card__line"><b>Skills</b> The <a href="../skill/religion/">Religion</a> skill (from the lore skill group), plus two more skills from the lore group (<em>Quick Build:</em> <a href="../skill/culture/">Culture</a>, <a href="../skill/magic/">Magic</a>, <a href="../skill/religion/">Religion</a>.)</div>
-  <div class="sc-card__line"><b>Perk</b> One supernatural perk (<em>Quick Build:</em> <a href="../perk/ritualist/">Ritualist</a>.)</div>
+  <div class="sc-card__line"><b>Perk</b> One <a href="../rule/general/supernatural/">supernatural</a> perk (<em>Quick Build:</em> <a href="../perk/ritualist/">Ritualist</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="explorer/" aria-label="Explorer"></a>
@@ -166,7 +166,7 @@
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Wealth</div></div>
   </div>
   <div class="sc-card__line"><b>Skills</b> The <a href="../skill/magic/">Magic</a> skill (from the lore skill group), plus two other skills from the lore group (<em>Quick Build:</em> <a href="../skill/magic/">Magic</a>, <a href="../skill/monsters/">Monsters</a>, <a href="../skill/timescape/">Timescape</a>.)</div>
-  <div class="sc-card__line"><b>Perk</b> One supernatural perk (<em>Quick Build:</em> <a href="../perk/arcane-trick/">Arcane Trick</a>.)</div>
+  <div class="sc-card__line"><b>Perk</b> One <a href="../rule/general/supernatural/">supernatural</a> perk (<em>Quick Build:</em> <a href="../perk/arcane-trick/">Arcane Trick</a>.)</div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="performer/" aria-label="Performer"></a>

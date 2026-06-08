@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
-effect: While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../../../../rule/health/recoveries.md) or use [triggered actions](../../../../rule/combat/triggered-action.md). At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
+effect: While this performance is active, each target who is dead can choose to continue taking [turns](../../../../rule/combat/turn.md) after death. On each of their [turns](../../../../rule/combat/turn.md), a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../../../../rule/health/recoveries.md) or use [triggered actions](../../../../rule/combat/triggered-action.md). At the end of the encounter, each target who chose to take [turns](../../../../rule/combat/turn.md) this way turns to dust and blows away.
 flavor: Music pours out of your heart, filling the area with the utmost delicacy and without damper.
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can&#39;t spend <a href="../../../../../rule/health/recoveries/">Recoveries</a> or use <a href="../../../../../rule/combat/triggered-action/">triggered actions</a>. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who is dead can choose to continue taking <a href="../../../../../rule/combat/turn/">turns</a> after death. On each of their <a href="../../../../../rule/combat/turn/">turns</a>, a target can move and use either a main action or a maneuver, but can&#39;t spend <a href="../../../../../rule/health/recoveries/">Recoveries</a> or use <a href="../../../../../rule/combat/triggered-action/">triggered actions</a>. At the end of the encounter, each target who chose to take <a href="../../../../../rule/combat/turn/">turns</a> this way turns to dust and blows away.</p></div>
 </div>
 </article>

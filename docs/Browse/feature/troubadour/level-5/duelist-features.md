@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to exchange words with them. Make an opposed <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">test</a> with the target. Whoever gets the higher result can make a <a href="../../../common/main-actions/free-strike/">free strike</a>, which deals psychic damage instead of its usual damage.</p>
+<p>Once on each of your <a href="../../../../rule/combat/turn/">turns</a> while the target of your Foil feature is <a href="../../../../rule/combat/adjacent/">adjacent</a> to you, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to exchange words with them. Make an opposed <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">test</a> with the target. Whoever gets the higher result can make a <a href="../../../common/main-actions/free-strike/">free strike</a>, which deals psychic damage instead of its usual damage.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -59,7 +59,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, a target who starts their turn in the area gains a bonus to the <a href="../../../../rule/combat/distance/">distance</a> they can <a href="../../../../movement/shifting/">shift</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score until the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, a target who starts their <a href="../../../../rule/combat/turn/">turn</a> in the area gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../../rule/combat/distance/">distance</a> they can <a href="../../../../movement/shifting/">shift</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score until the end of their <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 </div>

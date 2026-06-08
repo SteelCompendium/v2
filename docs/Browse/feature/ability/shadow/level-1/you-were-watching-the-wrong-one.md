@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 class: shadow
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: As long as you have one or more allies within 5 squares of the target, you gain 1 [surge](../../../../rule/resource/surge.md). If you are [flanking](../../../../rule/combat/flanking.md) the target when you use this ability, choose one ally who is [flanking](../../../../rule/combat/flanking.md) with you. That ally also gains 1 [surge](../../../../rule/resource/surge.md).
 flavor: They can't watch both of you at once.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">They can&#39;t watch both of you at once.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

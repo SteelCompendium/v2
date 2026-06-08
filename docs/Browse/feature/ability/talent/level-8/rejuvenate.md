@@ -2,13 +2,13 @@
 action_type: Maneuver
 class: talent
 cost: 11 Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: 'Choose two of the following effects:'
 flavor: You reshape the flow of time in the target's body to return it to an earlier state.
 keywords:
     - Chronopathy
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "8"
 name: Rejuvenate
 scc: mcdm.heroes.v1/feature.ability.talent.level-8/rejuvenate
@@ -30,14 +30,14 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Clarity</div></div>
 </div>
 <p class="sc-ability__flavor">You reshape the flow of time in the target&#39;s body to return it to an earlier state.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose two of the following effects:</p><ul><li>The target can spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>.</li><li>The target gains 1 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>, and can end any effects on them that are ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of their turn.</li><li>The target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>, and gains a +3 bonus to <a href="../../../../../rule/character/speed/">speed</a> until the end of the encounter.</li></ul></div>
+<div class="sc-ability__section-body"><p>Choose two of the following effects:</p><ul><li>The target can spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>.</li><li>The target gains 1 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>, and can end any effects on them that are ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of their <a href="../../../../../rule/combat/turn/">turn</a>.</li><li>The target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>, and gains a +3 <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../../rule/character/speed/">speed</a> until the end of the encounter.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

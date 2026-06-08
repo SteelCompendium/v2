@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
-effect: While this performance is active, a target who starts their turn in the area gains a bonus to the [distance](../../../../rule/combat/distance.md) they can [shift](../../../../movement/shifting.md) equal to your [Presence](../../../../rule/character/presence.md) score until the end of their turn.
+effect: While this performance is active, a target who starts their [turn](../../../../rule/combat/turn.md) in the area gains a [bonus](../../../../rule/dice/bonuses-and-penalties.md) to the [distance](../../../../rule/combat/distance.md) they can [shift](../../../../movement/shifting.md) equal to your [Presence](../../../../rule/character/presence.md) score until the end of their [turn](../../../../rule/combat/turn.md).
 flavor: Swordplay so graceful it looks like you all practiced this.
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, a target who starts their turn in the area gains a bonus to the <a href="../../../../../rule/combat/distance/">distance</a> they can <a href="../../../../../movement/shifting/">shift</a> equal to your <a href="../../../../../rule/character/presence/">Presence</a> score until the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, a target who starts their <a href="../../../../../rule/combat/turn/">turn</a> in the area gains a <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../../../rule/combat/distance/">distance</a> they can <a href="../../../../../movement/shifting/">shift</a> equal to your <a href="../../../../../rule/character/presence/">Presence</a> score until the end of their <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

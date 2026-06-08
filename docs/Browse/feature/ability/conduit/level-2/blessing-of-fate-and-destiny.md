@@ -2,12 +2,12 @@
 action_type: Main action
 class: conduit
 cost: 5 Piety
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: 'You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are [dying](../../../../rule/health/dying.md):'
 flavor: Your enemies suffer their fate; your allies embrace their destiny!
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Blessing of Fate and Destiny
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/blessing-of-fate-and-destiny
@@ -29,9 +29,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Piety</div></div>
 </div>
 <p class="sc-ability__flavor">Your enemies suffer their fate; your allies embrace their destiny!</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div>
 </div>
 <div class="sc-ability__section">

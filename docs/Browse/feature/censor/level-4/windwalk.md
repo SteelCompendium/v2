@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>While you have 5 or more <a href="../../../../rule/resource/victories/">Victories</a>, you can <a href="../../../../movement/fly/">fly</a>. If you can already <a href="../../../../movement/fly/">fly</a>, you have a +2 bonus to <a href="../../../../rule/character/speed/">speed</a> while <a href="../../../../movement/fly/">flying</a> instead.</p>
+<p>While you have 5 or more <a href="../../../../rule/resource/victories/">Victories</a>, you can <a href="../../../../movement/fly/">fly</a>. If you can already <a href="../../../../movement/fly/">fly</a>, you have a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> while <a href="../../../../movement/fly/">flying</a> instead.</p>
 </div>
 </section>

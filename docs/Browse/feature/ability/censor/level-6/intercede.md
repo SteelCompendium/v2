@@ -2,12 +2,12 @@
 action_type: Free triggered
 class: censor
 cost: 9 Wrath
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target is unaffected by the [strike](../../../../rule/combat/strike.md) and you become the target instead, even if you aren't a valid target for it. You take half the damage from the [strike](../../../../rule/combat/strike.md), and the target gains 3 [surges](../../../../rule/resource/surge.md).
 flavor: You take your ally's place.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "6"
 name: Intercede
 scc: mcdm.heroes.v1/feature.ability.censor.level-6/intercede
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Wrath</div></div>
 </div>
 <p class="sc-ability__flavor">You take your ally&#39;s place.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
 <div class="sc-ability__section">

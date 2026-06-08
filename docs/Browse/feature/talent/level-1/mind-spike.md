@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability, which can be used as a ranged <a href="../../../common/main-actions/free-strike/">free strike</a>.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have the following ability, which can be used as a <a href="../../../../rule/combat/ranged/">ranged</a> <a href="../../../common/main-actions/free-strike/">free strike</a>.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="main">
 <div class="sc-ability__head">
@@ -32,9 +32,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">A telepathic bolt instantly zaps a creature&#39;s brain.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

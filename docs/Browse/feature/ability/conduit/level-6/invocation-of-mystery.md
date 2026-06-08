@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 9 Piety
 distance: 4 [burst](../../../../rule/combat/burst.md)
-effect: Each target is invisible until the start of your next turn.
+effect: Each target is invisible until the start of your next [turn](../../../../rule/combat/turn.md).
 flavor: '"Now you see us..."'
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target is invisible until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>Each target is invisible until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

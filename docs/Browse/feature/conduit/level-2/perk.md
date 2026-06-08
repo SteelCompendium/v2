@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: <a href="../../../../../Read/heroes/perks/">Perks</a>.</p>
+<p>You gain one crafting, lore, or <a href="../../../../rule/general/supernatural/">supernatural</a> perk of your choice. See Chapter 7: <a href="../../../../../Read/heroes/perks/">Perks</a>.</p>
 </div>
 </section>

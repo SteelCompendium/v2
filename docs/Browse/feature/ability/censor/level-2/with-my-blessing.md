@@ -2,12 +2,12 @@
 action_type: Main action
 class: censor
 cost: 5 Wrath
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target can use a free [triggered action](../../../../rule/combat/triggered-action.md) to use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) or a [strike](../../../../rule/combat/strike.md) [heroic ability](../../../../rule/general/heroic-ability.md), and has a double [edge](../../../../rule/dice/edge.md) on that ability. If a [heroic ability](../../../../rule/general/heroic-ability.md) is chosen, reduce its [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost by 3 (to a minimum cost of 0).
 flavor: A word in prayer, and the gods show the way.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: With My Blessing
 scc: mcdm.heroes.v1/feature.ability.censor.level-2/with-my-blessing
@@ -29,9 +29,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Wrath</div></div>
 </div>
 <p class="sc-ability__flavor">A word in prayer, and the gods show the way.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">

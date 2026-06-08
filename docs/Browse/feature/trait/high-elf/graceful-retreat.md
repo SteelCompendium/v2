@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>You gain a +1 bonus to the <a href="../../../../rule/combat/distance/">distance</a> you can shift when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
+<p>You gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to the <a href="../../../../rule/combat/distance/">distance</a> you can shift when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
 </div>
 </section>

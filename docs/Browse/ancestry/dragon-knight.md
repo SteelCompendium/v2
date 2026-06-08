@@ -107,7 +107,7 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* [Dr
 
 #### Draconian Guard {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/draconian-guard"}
 
-Whenever you or an adjacent creature takes damage from a [strike](../rule/combat/strike.md), you can use a [triggered action](../rule/combat/triggered-action.md) to guard against the blow. You reduce any damage from the [strike](../rule/combat/strike.md) by an amount equal to your level.
+Whenever you or an [adjacent](../rule/combat/adjacent.md) creature takes damage from a [strike](../rule/combat/strike.md), you can use a [triggered action](../rule/combat/triggered-action.md) to guard against the blow. You reduce any damage from the [strike](../rule/combat/strike.md) by an amount equal to your level.
 
 #### Draconian Pride {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/draconian-pride"}
 
@@ -153,7 +153,7 @@ Select one [damage immunity](../rule/damage/damage-immunity.md) granted by your 
 
 #### Remember Your Oath {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/remember-your-oath"}
 
-As a maneuver, you can recite the following oath. Until the start of your next turn, whenever you make a [saving throw](../rule/general/saving-throw.md), you succeed on a 4 or higher.
+As a maneuver, you can recite the following oath. Until the start of your next [turn](../rule/combat/turn.md), whenever you make a [saving throw](../rule/general/saving-throw.md), you succeed on a 4 or higher.
 
 *Even should the sun stop in the sky Even should the night last a thousand years I will stand forever I shall not yield Those who suffer and yearn for justice I am your sword and shield I will yield no ground I will speak no lies I will stand against all tyrants Until the last villain dies*
 

@@ -15,19 +15,19 @@ type: chapter
 
 When a river floods or crops fail, some people may curse the gods, but those people do not all believe a god caused these events. They may curse simply because the gods didn't prevent catastrophe. They do not think, "Why did the gods do that?" They think, "Why did the gods make a world that behaves like this?"
 
-The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of [demigod](../../Browse/title/demigod.md)-like status, once mortals, who now serve their patron god in eternity. Many [humans](../../Browse/ancestry/human.md) call these beings saints, while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
+The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of [demigod](../../Browse/title/demigod.md)-like status, once mortals, who now serve their patron god in eternity. Many [humans](../../Browse/ancestry/human.md) call these beings [saints](../../Browse/rule/world/saint.md), while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
 
-Each god has many saints, some obscure. They sometimes manifest in the world. These encounters are always brief, leading sages and theologians to conclude there must be some limit to how much time or energy these saints and legendary heroes can spend on the prime manifold. Who created or enforces these limits?
+Each god has many [saints](../../Browse/rule/world/saint.md), some obscure. They sometimes manifest in the world. These encounters are always brief, leading sages and theologians to conclude there must be some limit to how much time or energy these [saints](../../Browse/rule/world/saint.md) and legendary heroes can spend on the prime manifold. Who created or enforces these limits?
 
 No one knows.
 
-As a result of this complex tapestry of belief and personalities, a farmer in Aendrim might call upon [Adûn](../god/adun.md) for strength while tilling the earth. But if a cool breeze suddenly came along, easing the bite of the sun on their back, they would almost certainly not thank [Adûn](../god/adun.md) or any of his saints. They would probably thank Saint Elspeth the Blithe, sometimes called the Summer Breeze. If they had a neighbor or relative with a shrine to Saint Elspeth in their home, they might give that person a small gift or offering and ask them to place it on their shrine. More likely, they would silently promise to do this, and then forget or get distracted.
+As a result of this complex tapestry of belief and personalities, a farmer in Aendrim might call upon [Adûn](../god/adun.md) for strength while tilling the earth. But if a cool breeze suddenly came along, easing the bite of the sun on their back, they would almost certainly not thank [Adûn](../god/adun.md) or any of his [saints](../../Browse/rule/world/saint.md). They would probably thank Saint Elspeth the Blithe, sometimes called the Summer Breeze. If they had a neighbor or relative with a shrine to Saint Elspeth in their home, they might give that person a small gift or offering and ask them to place it on their shrine. More likely, they would silently promise to do this, and then forget or get distracted.
 
-If questioned about this-"Why did you call upon one god, but thank the saint of a completely different god?"-they would first be [surprised](../../Browse/rule/combat/surprised.md) by the question. It would not have occurred to them to examine this behavior. If pressed they would say, "Oh, I'm sure they worked it out between them." They would not imagine, "[Adûn](../god/adun.md) told Viras, who told her saint, Elspeth, to send a cooling breeze," but they would assume
+If questioned about this-"Why did you call upon one god, but thank the [saint](../../Browse/rule/world/saint.md) of a completely different god?"-they would first be [surprised](../../Browse/rule/combat/surprised.md) by the question. It would not have occurred to them to examine this behavior. If pressed they would say, "Oh, I'm sure they worked it out between them." They would not imagine, "[Adûn](../god/adun.md) told Viras, who told her [saint](../../Browse/rule/world/saint.md), Elspeth, to send a cooling breeze," but they would assume
 
 something like that happened and not worry overmuch about the details. They called out, they received aid—that's what's important.
 
-If no aid is forthcoming folks assume this is because the gods and saints are all very busy and cannot be arsed to answer every prayer. People are never [surprised](../../Browse/rule/combat/surprised.md) when the gods and saints are silent. They are usually silent.
+If no aid is forthcoming folks assume this is because the gods and [saints](../../Browse/rule/world/saint.md) are all very busy and cannot be arsed to answer every prayer. People are never [surprised](../../Browse/rule/combat/surprised.md) when the gods and [saints](../../Browse/rule/world/saint.md) are silent. They are usually silent.
 
 ### Churches and Temples {data-scc="mcdm.heroes.v1/rule.world/saint"}
 
@@ -55,31 +55,31 @@ There are churches dedicated to nature or knowledge or the sun, with no clear mo
 
 Elves, [dwarves](../../Browse/ancestry/dwarf.md), and [orcs](../../Browse/ancestry/orc.md) revere their own creator gods. Val, Ord, and Kul respectively. [Humans](../../Browse/ancestry/human.md), uniquely, worship many gods. The difference between the Innumerable Younger Gods of the [humans](../../Browse/ancestry/human.md) and the Elder Gods who created the other speaking peoples is not well understood.
 
-[Dwarves](../../Browse/ancestry/dwarf.md) mostly venerate [dwarf](../../Browse/ancestry/dwarf.md) heroes, [humans](../../Browse/ancestry/human.md) mostly worship [human](../../Browse/ancestry/human.md) saints, and so on... But this is just a side effect of the fact that members of the same ancestry share the same culture and language and self-assemble along those lines. Any sufficiently large city, regardless of which species founded it, has churches and temples to gods of many species because cities attract people of many different species.
+[Dwarves](../../Browse/ancestry/dwarf.md) mostly venerate [dwarf](../../Browse/ancestry/dwarf.md) heroes, [humans](../../Browse/ancestry/human.md) mostly worship [human](../../Browse/ancestry/human.md) [saints](../../Browse/rule/world/saint.md), and so on... But this is just a side effect of the fact that members of the same ancestry share the same culture and language and self-assemble along those lines. Any sufficiently large city, regardless of which species founded it, has churches and temples to gods of many species because cities attract people of many different species.
 
 Each culture's pantheon reflects the mores and folkways of the people who live there. In far northern Vanigar, villains in folktales often gain their power by tricking others through clever wordplay. Riddles. Though they are villains, they are clever, and this earns them some respect even from their enemies. So the Vanigar pantheon includes Holkatya, a trickster god.
 
 Whereas [Vasloria](../../Browse/rule/world/vasloria.md) has no folk tradition of trickster figures, and so has no trickster god. Instead, villains in Vaslorian folktales tend to be people who seek quick ways to power in order to avoid honest work. So [Vasloria](../../Browse/rule/world/vasloria.md) has the dark god Cyrvis who teaches that magic can subvert fate and make you master of not only your destiny, but also the world. This also reveals the common Vaslorian's attitude toward magic.
 
-The gods of each pantheon tell you what the people of that region value, and what they fear, disapprove of, or distrust. The Vaslorian pantheon is wholly different from the pantheon of Vanigar which is different from the pantheon of Rioja. The gods and saints can hear their worshippers anywhere in the timescape and even small cities can have temples to distant gods of other peoples and regions. All it takes is one dedicated [conduit](../../Browse/class/conduit.md) to establish a church of their saint or hero in some distant land.
+The gods of each pantheon tell you what the people of that region value, and what they fear, disapprove of, or distrust. The Vaslorian pantheon is wholly different from the pantheon of Vanigar which is different from the pantheon of Rioja. The gods and [saints](../../Browse/rule/world/saint.md) can hear their worshippers anywhere in the timescape and even small cities can have temples to distant gods of other peoples and regions. All it takes is one dedicated [conduit](../../Browse/class/conduit.md) to establish a church of their [saint](../../Browse/rule/world/saint.md) or hero in some distant land.
 
-For instance, the High City of Dalrath, a small barony in northern Aendrim, has a temple to Sektahre the Boatman, a saint of Khemhara, a distant desert region. The people of Dalrath do not find this strange. The priestess of Sektahre does all the same things any native curate would do: perform rituals, heal the sick, and otherwise tend to the spiritual and physical wellbeing of the locals without asking much in return. Some people may be suspicious of a stranger peddling their religion far from home, but yet more people consider the presence of such a priestess a sign that their city must be very important indeed.
+For instance, the High City of Dalrath, a small barony in northern Aendrim, has a temple to Sektahre the Boatman, a [saint](../../Browse/rule/world/saint.md) of Khemhara, a distant desert region. The people of Dalrath do not find this strange. The priestess of Sektahre does all the same things any native curate would do: perform rituals, heal the sick, and otherwise tend to the spiritual and physical wellbeing of the locals without asking much in return. Some people may be suspicious of a stranger peddling their religion far from home, but yet more people consider the presence of such a priestess a sign that their city must be very important indeed.
 
-Because of all these gods and saints, religion in [Orden](../../Browse/rule/world/orden.md) is a very à la carte affair. There are [human](../../Browse/ancestry/human.md) heroes in the elf pantheon. There are [dwarf](../../Browse/ancestry/dwarf.md) saints in many [human](../../Browse/ancestry/human.md) pantheons. Elder or younger, the gods do not care much about their [followers](../../Browse/rule/general/follower.md)' biology. If you devote your life to the teachings of a god and do good works in their name, you can expect to be rewarded regardless of your ancestry. And, though the Age of Saints is long past, most folk believe it is still possible for a mortal to ascend to sainthood or herodom, even in this late age.
+Because of all these gods and [saints](../../Browse/rule/world/saint.md), religion in [Orden](../../Browse/rule/world/orden.md) is a very à la carte affair. There are [human](../../Browse/ancestry/human.md) heroes in the elf pantheon. There are [dwarf](../../Browse/ancestry/dwarf.md) [saints](../../Browse/rule/world/saint.md) in many [human](../../Browse/ancestry/human.md) pantheons. Elder or younger, the gods do not care much about their [followers](../../Browse/rule/general/follower.md)' biology. If you devote your life to the teachings of a god and do good works in their name, you can expect to be rewarded regardless of your ancestry. And, though the Age of [Saints](../../Browse/rule/world/saint.md) is long past, most folk believe it is still possible for a mortal to ascend to sainthood or herodom, even in this late age.
 
-Lastly, though rulers across the land instinctively believe the gods are paying more attention to them because they are queens or dukes or the heads of a powerful wizard order or guild... there is no evidence of this. As far as theologists can tell, the gods seem to view every soul as equally worthy. Many of the tales of saints and heroes feature characters of enormous [divine power](../../Browse/feature/conduit/level-10/divine-power.md) battling over the soul of a normal person with no station or power or inheritance.
+Lastly, though rulers across the land instinctively believe the gods are paying more attention to them because they are queens or dukes or the heads of a powerful wizard order or guild... there is no evidence of this. As far as theologists can tell, the gods seem to view every soul as equally worthy. Many of the tales of [saints](../../Browse/rule/world/saint.md) and heroes feature characters of enormous [divine power](../../Browse/feature/conduit/level-10/divine-power.md) battling over the soul of a normal person with no station or power or inheritance.
 
 As much as it annoys the great and the good, the gods view all mortals as equals.
 
 ### Evil Gods and Saints
 
-The gods and saints presented in this chapter are popular and well-known. Their priests, shamans, or god-callers serve the public weal and tend to the souls of the people.
+The gods and [saints](../../Browse/rule/world/saint.md) presented in this chapter are popular and well-known. Their priests, shamans, or god-callers serve the public weal and tend to the souls of the people.
 
-But the world is not for heroes alone. There are villains, as well as those who are simply misguided or desperate. Every pantheon has saints, even gods, who teach the virtues of selfishness, cruelty, the pursuit of power for its own sake, and the right of the strong to do as they please.
+But the world is not for heroes alone. There are villains, as well as those who are simply mis[guide](../../Browse/rule/downtime/guide.md)d or desperate. Every pantheon has [saints](../../Browse/rule/world/saint.md), even gods, who teach the virtues of selfishness, cruelty, the pursuit of power for its own sake, and the right of the strong to do as they please.
 
-These religions do not usually build public temples and worship in the open, but most communities know, or very strongly suspect, who among them serve evil gods and saints.
+These religions do not usually build public temples and worship in the open, but most communities know, or very strongly suspect, who among them serve evil gods and [saints](../../Browse/rule/world/saint.md).
 
-Among the people of [Vasloria](../../Browse/rule/world/vasloria.md), there are the gods Nikros the Tyrant and Cyrvis the Lich, evil gods, each with their own saints. When tyrants rule, these religions tend to come out from the basements and sewer-temples and start worshipping openly.
+Among the people of [Vasloria](../../Browse/rule/world/vasloria.md), there are the gods Nikros the Tyrant and Cyrvis the Lich, evil gods, each with their own [saints](../../Browse/rule/world/saint.md). When tyrants rule, these religions tend to come out from the basements and sewer-temples and start worshipping openly.
 
 ### Afterlife in Orden
 
@@ -97,19 +97,19 @@ Some people in [Orden](../../Browse/rule/world/orden.md), like the [hakaan](../.
 
 ### Conduits and Censors
 
-"[Conduit](../../Browse/class/conduit.md)" and "[censor](../../Browse/class/censor.md)" are not titles within any church—they are jobs or ranks. An abbot, rector, even a bishop may be, or may have been, a [conduit](../../Browse/class/conduit.md) or a [censor](../../Browse/class/censor.md). [Conduits](../../Browse/class/conduit.md) and [censors](../../Browse/class/censor.md) are those members of the church expected to go out into the world and actively, sometimes very actively, represent their saint's ethos. It is for this purpose [conduits](../../Browse/class/conduit.md) and [censors](../../Browse/class/censor.md) are given access to powerful prayers.
+"[Conduit](../../Browse/class/conduit.md)" and "[censor](../../Browse/class/censor.md)" are not titles within any church—they are jobs or ranks. An abbot, rector, even a bishop may be, or may have been, a [conduit](../../Browse/class/conduit.md) or a [censor](../../Browse/class/censor.md). [Conduits](../../Browse/class/conduit.md) and [censors](../../Browse/class/censor.md) are those members of the church expected to go out into the world and actively, sometimes very actively, represent their [saint](../../Browse/rule/world/saint.md)'s ethos. It is for this purpose [conduits](../../Browse/class/conduit.md) and [censors](../../Browse/class/censor.md) are given access to powerful prayers.
 
-Any sufficiently large organization has [conduits](../../Browse/class/conduit.md) and [censors](../../Browse/class/censor.md) just like they have [shadows](../../Browse/class/shadow.md) and wizards. The thieves' guild needs healers, just as the church needs spies! A [conduit](../../Browse/class/conduit.md) who works for the thieves' guild still serves their saint which implicitly means the church approves of the guild's activities and the two organizations are at least pointing in the same direction if not actively allied.
+Any sufficiently large organization has [conduits](../../Browse/class/conduit.md) and [censors](../../Browse/class/censor.md) just like they have [shadows](../../Browse/class/shadow.md) and wizards. The thieves' guild needs healers, just as the church needs spies! A [conduit](../../Browse/class/conduit.md) who works for the thieves' guild still serves their [saint](../../Browse/rule/world/saint.md) which implicitly means the church approves of the guild's activities and the two organizations are at least pointing in the same direction if not actively allied.
 
 Churches have bureaucracy just like any organization and while some prelates, abbots, bishops, or hierarchs are [conduits](../../Browse/class/conduit.md), many are not. They are normal people who serve the church in administrative, political, or bureaucratic roles. While they know the same minor orisons every acolyte and abbot know, they do not go out into the world righting wrongs, and so do not gain access to the powers of the [conduit](../../Browse/class/conduit.md) or [censor](../../Browse/class/censor.md).
 
-The prayers acolytes perform in churches are little more than magical rituals. They say the right words, make the right gestures, touch the appropriate fetish or talisman, and wounds close, curses are lifted, blessings bestowed. There's no direct connection in these examples between the acolyte and their god or saint. Though, even a lowly acolyte can expect to find their prayers fall on deaf ears if they fail to uphold the tenets of their faith.
+The prayers acolytes perform in churches are little more than magical rituals. They say the right words, make the right gestures, touch the appropriate fetish or talisman, and wounds close, curses are lifted, blessings bestowed. There's no direct connection in these examples between the acolyte and their god or [saint](../../Browse/rule/world/saint.md). Though, even a lowly acolyte can expect to find their prayers fall on deaf ears if they fail to uphold the tenets of their faith.
 
-Should the acolyte continue in their studies and deeds and earn the rank of [conduit](../../Browse/class/conduit.md) or [censor](../../Browse/class/censor.md), they gain access to greater prayers granted them by their saint. As they advance in their faith they call upon their saint more directly, and they begin to form a personal relationship with their saint. It is a feeling that develops whereby the [conduit](../../Browse/class/conduit.md) learns the... mood, for lack of a better term, of their saint or hero.
+Should the acolyte continue in their studies and deeds and earn the rank of [conduit](../../Browse/class/conduit.md) or [censor](../../Browse/class/censor.md), they gain access to greater prayers granted them by their [saint](../../Browse/rule/world/saint.md). As they advance in their faith they call upon their [saint](../../Browse/rule/world/saint.md) more directly, and they begin to form a personal relationship with their [saint](../../Browse/rule/world/saint.md). It is a feeling that develops whereby the [conduit](../../Browse/class/conduit.md) learns the... mood, for lack of a better term, of their [saint](../../Browse/rule/world/saint.md) or hero.
 
-As they gain experience, a [conduit](../../Browse/class/conduit.md) or [censor](../../Browse/class/censor.md) may even enter into dialogue with their saint. When they call upon their saint for power in battle, their saint personally answers them. They might literally be on first-name terms. At even higher levels, [conduits](../../Browse/class/conduit.md) begin to get a sense of the greater power behind the saint or legendary hero: their god, who begins answering prayers directly. They become, in effect, little mini-saints. The pathway from high-level [conduit](../../Browse/class/conduit.md) or [censor](../../Browse/class/censor.md) to saint is now obscure, but was once well-known. In earlier ages of the world, it was expected that certain holy heroes who had served their god and saint well would—should appropriately dramatic circumstances reveal themselves—be elevated to sainthood.
+As they gain experience, a [conduit](../../Browse/class/conduit.md) or [censor](../../Browse/class/censor.md) may even enter into dialogue with their [saint](../../Browse/rule/world/saint.md). When they call upon their [saint](../../Browse/rule/world/saint.md) for power in battle, their [saint](../../Browse/rule/world/saint.md) personally answers them. They might literally be on first-name terms. At even higher levels, [conduits](../../Browse/class/conduit.md) begin to get a sense of the greater power behind the [saint](../../Browse/rule/world/saint.md) or legendary hero: their god, who begins answering prayers directly. They become, in effect, little mini-[saints](../../Browse/rule/world/saint.md). The pathway from high-level [conduit](../../Browse/class/conduit.md) or [censor](../../Browse/class/censor.md) to [saint](../../Browse/rule/world/saint.md) is now obscure, but was once well-known. In earlier ages of the world, it was expected that certain holy heroes who had served their god and [saint](../../Browse/rule/world/saint.md) well would—should appropriately dramatic circumstances reveal themselves—be elevated to sainthood.
 
-The Deities and Domains table and the Saints and Domains table summarize each of the gods and saints mentioned in this chapter and their available domains.
+The Deities and Domains table and the [Saints](../../Browse/rule/world/saint.md) and Domains table summarize each of the gods and [saints](../../Browse/rule/world/saint.md) mentioned in this chapter and their available domains.
 
 ###### Deities and Domains Table
 
@@ -128,7 +128,7 @@ The Deities and Domains table and the Saints and Domains table summarize each of
 
 ###### Saints and Domains Table
 
-| Saint                               | Domains                       |
+| [Saint](../../Browse/rule/world/saint.md)                               | Domains                       |
 |-------------------------------------|-------------------------------|
 | Atossa the Shepherd                 | Fate, Protection, Trickery    |
 | Cho'kassa the Time Rider            | Storm, Sun                    |
@@ -169,7 +169,7 @@ Val holds that the greatest purpose a thinking being can commit themselves to is
 
 #### Heroes of the Elves
 
-The legendary heroes of the elves are once-mortal heroes who now dwell in Arcadia and make up Val's court there. They answer prayers and dispense blessings and boons, even manifest in the world during times of great need. (Though, like all the speaking people's saints and heroes, what these legendary figures consider "great need" is very personal and has little to do with politics or great kingdoms.)
+The legendary heroes of the elves are once-mortal heroes who now dwell in Arcadia and make up Val's court there. They answer prayers and dispense blessings and boons, even manifest in the world during times of great need. (Though, like all the speaking people's [saints](../../Browse/rule/world/saint.md) and heroes, what these legendary figures consider "great need" is very personal and has little to do with politics or great kingdoms.)
 
 The [high elf](../../Browse/ancestry/high-elf.md) heroes detailed in this book are A Sea of Suns, the Taste of Morning, and Ripples of Honey on a Shore of Gold. The [wode elf](../../Browse/ancestry/wode-elf.md) heroes are Yllin Dyrvis, Thyll Hylacae, and Illwyv li Orchiax.
 
@@ -253,7 +253,7 @@ It was after Zarok retired from his career as a warmaster and became the ambassa
 
 Zarok teaches that all people should be equal under the law. His is the principle of fair play—sportsmanship. Respect for your adversary. The responsibility of the strong to protect the weak.
 
-Zarok's *The Conversations* are still quoted today. There is a long legal tradition, when a prestigious lawyer in Capital wishes to write an amicus brief without revealing their identity, they sign it "Z."
+Zarok's *The Conversations* are still quoted today. There is a long legal tradition, when a prestigious lawyer in [Capital](../../Browse/rule/world/capital.md) wishes to write an amicus brief without revealing their identity, they sign it "Z."
 
 ##### Valak-koth the Seeker
 
@@ -311,7 +311,7 @@ Death Captain Voyrik's eyes went wide. "It's three thousand miles," he pointed o
 
 How long it took the bloodrunners of the Lightning to cross the desert is not well-attested. It took four or six months depending on which accounts you read, but even six months would make their march a legendary journey.
 
-Opposed at every turn by the local noble houses and then eventually the desert clans who sought the bounty placed on Khorvath's head, the ten thousand grew in battle prowess as they demolished any enemy foolish enough to get in their way. Given the many tens of thousands of warriors the bloodrunners dispatched over the course of four (or six) months, it may well be that Khorvath's sobriquet was literal.
+Opposed at every [turn](../../Browse/rule/combat/turn.md) by the local noble houses and then eventually the desert clans who sought the bounty placed on Khorvath's head, the ten thousand grew in battle prowess as they demolished any enemy foolish enough to get in their way. Given the many tens of thousands of warriors the bloodrunners dispatched over the course of four (or six) months, it may well be that Khorvath's sobriquet was literal.
 
 Success was a double edged sword. The more [victories](../../Browse/rule/resource/victories.md) they earned in battle, the easier they were to follow. "Our enemies walk the red road," Voyrik once said, looking at the vast swath of blood they left in their wake.
 
@@ -345,9 +345,9 @@ Voyrik gave his warleader's torque to her son, who grew to lead the Lightning fi
 
 **Domains:** Life, War
 
-Grole the One-Handed, Grole who Slew the Saint of Skulls, lost his left hand at the Battle of Dur Mothe where he stood alone against the horde of deathless and their master, the living saint Morath of Many Tendrils. Grole thought to buy time for his army to escape the flood of death, but when they saw their warleader grappling alone with the Saint of Rot, they reversed their retreat. When Morath lashed out with his greataxe Viscerator and severed Grole's left hand from his arm, Grole's army surged forward, breaking the tide of deathless.
+Grole the One-Handed, Grole who Slew the [Saint](../../Browse/rule/world/saint.md) of Skulls, lost his left hand at the Battle of Dur Mothe where he stood alone against the horde of deathless and their master, the living saint Morath of Many Tendrils. Grole thought to buy time for his army to escape the flood of death, but when they saw their warleader grappling alone with the [Saint](../../Browse/rule/world/saint.md) of Rot, they reversed their retreat. When Morath lashed out with his greataxe Viscerator and severed Grole's left hand from his arm, Grole's army surged forward, breaking the tide of deathless.
 
-His army watched as Kul's light descended on their wounded leader, and they knew Grole had been chosen by Kul in that moment. At the last, Grole and Morath fought as equals. [Orc](../../Browse/ancestry/orc.md) hero and dark [human](../../Browse/ancestry/human.md) saint grappled atop the ancient hill. With his one good hand Grole plunged the Green Fire, his grandmother's saber, into Morath's heart, ending the Saint of Many Tendrils.
+His army watched as Kul's light descended on their wounded leader, and they knew Grole had been chosen by Kul in that moment. At the last, Grole and Morath fought as equals. [Orc](../../Browse/ancestry/orc.md) hero and dark [human](../../Browse/ancestry/human.md) [saint](../../Browse/rule/world/saint.md) grappled atop the ancient hill. With his one good hand Grole plunged the Green Fire, his grandmother's saber, into Morath's heart, ending the [Saint](../../Browse/rule/world/saint.md) of Many Tendrils.
 
 Grole teaches the extraordinary deeds common people can accomplish if they cast fear from their minds. It was Grole who said, "Even should an [orc](../../Browse/ancestry/orc.md) be pierced by many arrows, they should still be able to perform one last act of revenge."
 
@@ -375,7 +375,7 @@ Khravila teaches the virtue of persistence, endurance, and—above all—wits. N
 
 Most [hakaan](../../Browse/ancestry/hakaan.md) in [Orden](../../Browse/rule/world/orden.md) are animists. They know and respect the four Elder Gods who created the world and believe these gods watch the world and see what happens within it. But the [Hakaan](../../Browse/ancestry/hakaan.md) do not create churches or formal belief systems around this attitude.
 
-Instead they believe the world is filled with innumerable nature spirits. Each river, tree, stone, has their own spirit, which the [hakaan](../../Browse/ancestry/hakaan.md) revere. They have no organized religion in the way the other ancestries in this chapter do, though a [hakaan](../../Browse/ancestry/hakaan.md) brought up in a city, or among another people, would naturally venerate in whatever gods and saints are worshiped by the folk who raised them.
+Instead they believe the world is filled with innumerable nature spirits. Each river, tree, stone, has their own spirit, which the [hakaan](../../Browse/ancestry/hakaan.md) revere. They have no organized religion in the way the other ancestries in this chapter do, though a [hakaan](../../Browse/ancestry/hakaan.md) brought up in a city, or among another people, would naturally venerate in whatever gods and [saints](../../Browse/rule/world/saint.md) are worshiped by the folk who raised them.
 
 The [hakaan](../../Browse/ancestry/hakaan.md) know they are descended from stone giants, but they do not think of themselves as stone giants. They know their ancestors were tricked by Holkatya, one of the gods of Vanigar, into trading some of their great strength for the doomsight. But while they respect Holkatya, they do not worship her. Nor do they resent her. She's merely a detail of their history.
 
@@ -445,27 +445,27 @@ Atossa teaches that it is not for the shepherd to judge the flock—only to prot
 
 ### Devil Gods
 
-[Devil](../../Browse/ancestry/devil.md) heroes in [Orden](../../Browse/rule/world/orden.md) usually serve the gods and saints of the culture in which they were raised. Few [devils](../../Browse/ancestry/devil.md) in [Orden](../../Browse/rule/world/orden.md) are from the Seven Cities, most are descended from [devils](../../Browse/ancestry/devil.md) who were stranded on [Orden](../../Browse/rule/world/orden.md) hundreds or thousands of years ago. [Devils](../../Browse/ancestry/devil.md) who are from the Seven Cities have their own unique pantheon.
+[Devil](../../Browse/ancestry/devil.md) heroes in [Orden](../../Browse/rule/world/orden.md) usually serve the gods and [saints](../../Browse/rule/world/saint.md) of the culture in which they were raised. Few [devils](../../Browse/ancestry/devil.md) in [Orden](../../Browse/rule/world/orden.md) are from the Seven Cities, most are descended from [devils](../../Browse/ancestry/devil.md) who were stranded on [Orden](../../Browse/rule/world/orden.md) hundreds or thousands of years ago. [Devils](../../Browse/ancestry/devil.md) who are from the Seven Cities have their own unique pantheon.
 
-The Seven Cities have saints just like [humans](../../Browse/ancestry/human.md) in [Orden](../../Browse/rule/world/orden.md) do but in place of gods, these saints serve the seven Archdukes of Hell, also known as Archdevils or the Lords of Hell. Unlike the gods of [Orden](../../Browse/rule/world/orden.md), the Lords of Hell are corporeal. Giant figures, 30 feet tall, who each sit upon the throne of their city, projecting their consciousness out into the world, dealing with politics, sorcery, and treachery, manifesting avatars when necessary. They are, effectively, the Gods of Hell.
+The Seven Cities have [saints](../../Browse/rule/world/saint.md) just like [humans](../../Browse/ancestry/human.md) in [Orden](../../Browse/rule/world/orden.md) do but in place of gods, these [saints](../../Browse/rule/world/saint.md) serve the seven Archdukes of Hell, also known as Archdevils or the Lords of Hell. Unlike the gods of [Orden](../../Browse/rule/world/orden.md), the Lords of Hell are corporeal. Giant figures, 30 feet tall, who each sit upon the throne of their city, projecting their consciousness out into the world, dealing with politics, sorcery, and treachery, manifesting avatars when necessary. They are, effectively, the Gods of Hell.
 
-Like the other gods of the timescape, the Lords of Hell are too busy to attend to every petition and request and so employ saints just like other gods. Religion in Hell is superficially similar to religion among the peoples of [Orden](../../Browse/rule/world/orden.md). There are churches and rites and rituals, but [devils](../../Browse/ancestry/devil.md) tend to view attending church and performing the expected rituals at the appropriate times as akin to paying taxes. Annoying but necessary.
+Like the other gods of the timescape, the Lords of Hell are too busy to attend to every petition and request and so employ [saints](../../Browse/rule/world/saint.md) just like other gods. Religion in Hell is superficially similar to religion among the peoples of [Orden](../../Browse/rule/world/orden.md). There are churches and rites and rituals, but [devils](../../Browse/ancestry/devil.md) tend to view attending church and performing the expected rituals at the appropriate times as akin to paying taxes. Annoying but necessary.
 
 #### Saints of Hell
 
-Like [Orden](../../Browse/rule/world/orden.md), there are dozens of saints in Hell, some obscure. These three are some of the most popular and the most likely saints for a [conduit](../../Browse/class/conduit.md) or [censor](../../Browse/class/censor.md) to follow.
+Like [Orden](../../Browse/rule/world/orden.md), there are dozens of [saints](../../Browse/rule/world/saint.md) in Hell, some obscure. These three are some of the most popular and the most likely [saints](../../Browse/rule/world/saint.md) for a [conduit](../../Browse/class/conduit.md) or [censor](../../Browse/class/censor.md) to follow.
 
 #### Thellasko the Great Designer {data-scc="mcdm.heroes.v1/god/thellasko"}
 
 **Domains:** Knowledge, War
 
-Thellasko the Great Designer, the Game Master, Saint of Strategy did not invent war—[humans](../../Browse/ancestry/human.md) in [Orden](../../Browse/rule/world/orden.md) hold that honor. Thellasko invented war simulation. Creating what were effectively games to train cadets and lieutenants at the wartable to ensure [victory](../../Browse/rule/resource/victories.md) on the field.
+Thellasko the Great Designer, the Game Master, [Saint](../../Browse/rule/world/saint.md) of Strategy did not invent war—[humans](../../Browse/ancestry/human.md) in [Orden](../../Browse/rule/world/orden.md) hold that honor. Thellasko invented war simulation. Creating what were effectively games to train cadets and lieutenants at the wartable to ensure [victory](../../Browse/rule/resource/victories.md) on the field.
 
 Thellasko served in Dispater's army, rising to the rank of major general. He retired with honors after the Battle of the River Rhye, intending to take what he had learned on the field and write a book about the proper way to conduct a war.
 
 He felt the high command of Hell's armies fought battles on outdated principles. Which side had the best fighting spirit, which side's officers had the greater noble pedigree. Thellasko's treatise, never published, was titled *The Proper Application of Force*. As he wrote, he created a kind of ideal battlefield to use as his running example. The example became more and more critical to the text, more robust, such that eventually Thellasko put his manuscript down to develop the example into a proper game.
 
-This first game was played on a board of sixty-four squares arranged in an eight-by-eight grid. There were two armies each with sixteen pieces. Eight serfs, two soldiers, two prelates, two towers, a king and queen. The game was superficially simple but held hidden depths. It taught the principles of sacrifice and territory control, of thinking like your enemy.
+This first game was played on a board of sixty-four squares ar[ranged](../../Browse/rule/combat/ranged.md) in an eight-by-eight grid. There were two armies each with sixteen pieces. Eight serfs, two soldiers, two prelates, two towers, a king and queen. The game was superficially simple but held hidden depths. It taught the principles of sacrifice and territory control, of thinking like your enemy.
 
 The game evolved into the game of *Shere*, played throughout the timescape. But while the game was immediately popular far outside its intended audience, Thellasko grew dissatisfied with it, and began work on his masterpiece simply called *The Game of War*. It was complex, using hexagonal tiles to build modular terrain boards, and featuring dozens of different unit types with extensive tables that factored supplies, morale, visibility. Unlike Shere, which was an abstraction, The Game of War was a true simulation.
 
@@ -473,7 +473,7 @@ Expensive to produce, *The Game of War* was never very popular outside the Acade
 
 In Thellasko's time, the most senior noble was always the senior commander, regardless of experience or, indeed, sanity. After Thellasko and *The Game of War*, commanders were chosen from among the soldiers with the most battlefield experience.
 
-Thellasko was granted sainthood on his deathbed after a generation of successful battles won by his students, all of whom carried a symbol of graduation from Thellasko's school—three adjacent hexagons. The students praised him on the battlefield during his life, and his church continues to advance his theories.
+Thellasko was granted sainthood on his deathbed after a generation of successful battles won by his students, all of whom carried a symbol of graduation from Thellasko's school—three [adjacent](../../Browse/rule/combat/adjacent.md) hexagons. The students praised him on the battlefield during his life, and his church continues to advance his theories.
 
 Thellasko teaches the virtue of accepting the battle as it is, not as you wish it might be. To take action based on available data, not what tradition says. That wars are not won based solely on the size of one's army, but based on which side is best able to bring its force to bear against the opponent.
 
@@ -481,7 +481,7 @@ Thellasko teaches the virtue of accepting the battle as it is, not as you wish i
 
 **Domains:** Knowledge, Trickery
 
-Uryal the Subtle, Deception, the Hidden Hand, Saint of Lies rose to the rank of senior adjudicator in the Bank of Vorilom in Styx. His manager had been permanent undersecretary of finance for over three hundred years, which Uryal felt was taking the title a *tad* literally.
+Uryal the Subtle, Deception, the Hidden Hand, [Saint](../../Browse/rule/world/saint.md) of Lies rose to the rank of senior adjudicator in the Bank of Vorilom in Styx. His manager had been permanent undersecretary of finance for over three hundred years, which Uryal felt was taking the title a *tad* literally.
 
 A dozen senior adjudicators had tried to usurp the permanent undersecretary for generations. Their corpses made excellent lamps and even better examples. But Uryal believed he was different. He knew the game the finance managers played, and thought it was stale. Lying, double-dealing, and backstabbing have their place, but there are even subtler tools in the deceiver's toolbox.
 
@@ -499,13 +499,13 @@ Uryal teaches that deception is only one tool in the art of lies. That the point
 
 be used to achieve one's ends. Uryal teaches the virtue of flexibility of character and morality. The virtue of unpredictability—always behaving in a manner that is open to interpretation so as to prevent your opponent from learning your tells.
 
-Uryal is the Saint of Hell's diplomatic corps. His *unofficial* motto, falsely attributed to him but oft-repeated: "*Do unto the other guy as he would do unto you. But do it to him first.*"
+Uryal is the [Saint](../../Browse/rule/world/saint.md) of Hell's diplomatic corps. His *unofficial* motto, falsely attributed to him but oft-repeated: "*Do unto the other guy as he would do unto you. But do it to him first.*"
 
 ##### Kuryalka the False Principle
 
 **Domains:** Death, Trickery
 
-Kuryalka the False Principle, Soulstealer, Audacity, Saint of Ambition is credited with inventing the trading scheme known as the Kuryalka Ploy. Daughter and eldest child of Orliath IX—Marquis of Naraka, the City of Blood—tradition held Kuryalka would ascend to the house throne upon her mother's death and rule, but from childhood Kuryalka was obsessed with what was informally known as "the Trade"—the buying and selling of mortal souls from [Orden](../../Browse/rule/world/orden.md) and elsewhere in the timescape.
+Kuryalka the False Principle, Soulstealer, Audacity, [Saint](../../Browse/rule/world/saint.md) of Ambition is credited with inventing the trading scheme known as the Kuryalka Ploy. Daughter and eldest child of Orliath IX—Marquis of Naraka, the City of Blood—tradition held Kuryalka would ascend to the house throne upon her mother's death and rule, but from childhood Kuryalka was obsessed with what was informally known as "the Trade"—the buying and selling of mortal souls from [Orden](../../Browse/rule/world/orden.md) and elsewhere in the timescape.
 
 It occurred to Kuryalka that as long as people saw their soul-power increasing on paper they wouldn't inquire too closely about her stewardship of their investment. They signed their accumulated souls over to young Kuryalka, who promised them great returns. It seemed too good to be true! But she published a report every quarter showing marvelous gains, and while no one could understand her math or references to "integrals," they were well pleased with their growing wealth. Whenever someone complained about the lack of disbursements, Kuryalka would quickly pay them out of her growing hoard of souls.
 
@@ -513,7 +513,7 @@ Of course, there was no investment taking place. She simply kept the souls and g
 
 Days before that moment, supreme in the fullness of her soulpower, Kuryalka did not withdraw her souls and escape into the timescape with her near-infinite wealth. She went to the Archdevil Sutekh, Lord of Naraka, and offered him her vast soul wealth in exchange for immortality and a place in the Court of the Seven Cities.
 
-Sutekh's terrifying hollow laughter could be heard throughout Hell. No mortal, he said, had ever embodied such naked ambition. He accepted her offer, making her the first Saint of Hell. Sutekh took Kuryalka's souls and founded the Exchange, making the trade in souls an official government department in Hell, and building an entire bureaucracy around it.
+Sutekh's terrifying hollow laughter could be heard throughout Hell. No mortal, he said, had ever embodied such naked ambition. He accepted her offer, making her the first [Saint](../../Browse/rule/world/saint.md) of Hell. Sutekh took Kuryalka's souls and founded the Exchange, making the trade in souls an official government department in Hell, and building an entire bureaucracy around it.
 
 Kuryalka teaches the virtue of ambition—that if you are willing to risk everything, you can gain everything. "The world is yours, if only you tell a lie big enough." That the greatest ambitions are those that are so audacious, no one else has even imagined them yet. In this manner does one avoid competition.
 
@@ -547,7 +547,7 @@ Adûn and [Cavall](../god/cavall.md) are brothers and the line between them is n
 
 **Domains:** Love, Protection
 
-Gaed the Confessor, son of Malgen, son of Germoc, was the abbot of a small monastery dedicated to Saint Anthony—Shield of the North—in eastern Aendrim during the rule of the tyrant Baron Kaveran. Kaveran was a secret [censor](../../Browse/class/censor.md) of the church of Saint Pallad, winning the baronial throne though a combination of treachery and good strategic battle principles. Once on the throne, he threw off the black cloth covering the device on his shield, revealing himself to be a servant of Pallad, Saint of Nikros.
+Gaed the Confessor, son of Malgen, son of Germoc, was the abbot of a small monastery dedicated to Saint Anthony—Shield of the North—in eastern Aendrim during the rule of the tyrant Baron Kaveran. Kaveran was a secret [censor](../../Browse/class/censor.md) of the church of Saint Pallad, winning the baronial throne though a combination of treachery and good strategic battle principles. Once on the throne, he threw off the black cloth covering the device on his shield, revealing himself to be a servant of Pallad, [Saint](../../Browse/rule/world/saint.md) of Nikros.
 
 Kaveran sought to consolidate his rule by extinguishing the church of Saint Anthony, Shield of the North specifically, and worship of Adûn generally. In this, he almost succeeded. Gaed's monastery was small, his province obscure. But as he refused to renounce his faith, his monastery attracted more and more refugees, making it harder and harder for Kaveran to deal with him without causing a revolt.
 
@@ -623,15 +623,15 @@ Llewellyn and Silverheart plunged into the bog and though it was night and the m
 
 Looking to the upper window of the tower, Llewellyn saw someone performing a dark ritual. A flash of lightning illuminated the figure. It was Melianus! Melianus was the sorcerer! Llewellyn called out, and the duke descended the tower and mounted his hellsteed. On his shield now—the screaming-skull symbol of Cyrvis, the Lich, god of malice.
 
-Cyrvis had rewarded his loyal servant for years of cruelty, and the figure astride the nightmare was Saint Melianus the Bright. The Dark Saint charged Llewellyn, his lance gleaming with balefire. Llewellyn and Silverheart returned the charge and the two clashed together, Melianus's blow strong enough to unseat a giant. But Llewellyn was not thrown. His strength was the strength of ten, for his heart was pure.
+Cyrvis had rewarded his loyal servant for years of cruelty, and the figure astride the nightmare was Saint Melianus the Bright. The Dark [Saint](../../Browse/rule/world/saint.md) charged Llewellyn, his lance gleaming with balefire. Llewellyn and Silverheart returned the charge and the two clashed together, Melianus's blow strong enough to unseat a giant. But Llewellyn was not thrown. His strength was the strength of ten, for his heart was pure.
 
 Coalfire struck with flaming hooves at Silverheart but the destrier struck back, blow for bite and bite for blow. Then the hellsteed, roared and a rotting green flame burned Silverheart's flesh and stole her breath until, choking, she fell to the ground, dead.
 
 Llewellyn's heart [burst](../../Browse/rule/combat/burst.md). He threw his body over the corpse of his loyal steed, and Melianus's lance pierced his armor, his back, and his heart. Knight and horse, dead. Melianus crowed as the lightning flashed again. But, in that moment, the miracle.
 
-Cavall stood between the Dark Saint and loyal knight. Cavall pulled the lance from Llewellyn's back. "Rise my son, and rise thy steed. Thy work shalt never be done."
+Cavall stood between the Dark [Saint](../../Browse/rule/world/saint.md) and loyal knight. Cavall pulled the lance from Llewellyn's back. "Rise my son, and rise thy steed. Thy work shalt never be done."
 
-Saint Llewellyn the Valiant and Silverheart his Eversteed rose, immortal, and the battle against evil renewed itself, the two armored saints clashing on barded steeds.
+Saint Llewellyn the Valiant and Silverheart his Eversteed rose, immortal, and the battle against evil renewed itself, the two armored [saints](../../Browse/rule/world/saint.md) clashing on barded steeds.
 
 Weeks later, neither having returned, the people of Gant laboriously forded the swamp and found the tower of the sorcerer. The ground
 
@@ -639,7 +639,7 @@ around the tower turned black from the baleful energies unleashed. Though no bod
 
 Llewellyn and Silverheart had rid the people of their cursed, hateful duke.
 
-Saint Llewellyn is Cavall's greatest saint. He teaches that the greatest loyalty is to the well-being of the people, and that it is the responsibility of the strong to protect the weak. That the only proper use of power is in pursuit of justice.
+Saint Llewellyn is Cavall's greatest [saint](../../Browse/rule/world/saint.md). He teaches that the greatest loyalty is to the well-being of the people, and that it is the responsibility of the strong to protect the weak. That the only proper use of power is in pursuit of justice.
 
 ##### Gwenllian the Fell-Handed
 
@@ -679,7 +679,7 @@ Twelve days after they rode out, Zür returned with Lady Gwenllian's body on her
 
 "I bring you her body," Zür said to the baron. "And one thing more will I do for you. I shall build you a church here. A cathedral worthy of the life of Saint Gwenllian."
 
-Gwenllian is the saint of those who stand watch, of all those who must carry a burden ceaselessly. Gwenllian teaches that vigilance is its own reward.
+Gwenllian is the [saint](../../Browse/rule/world/saint.md) of those who stand watch, of all those who must carry a burden ceaselessly. Gwenllian teaches that vigilance is its own reward.
 
 #### Salorna {data-scc="mcdm.heroes.v1/god/salorna"}
 
@@ -697,7 +697,7 @@ A wheel that harnesses the power of the river is a beautiful thing. [Humans](../
 
 Some of Salorna's priests are [conduits](../../Browse/class/conduit.md); some are mages of the green. Both seek to preserve the balance and respect for nature. Because much of [Vasloria](../../Browse/rule/world/vasloria.md) is covered in elven forest, Salorna's druids are also often diplomats to the elves.
 
-Salorna has few [censors](../../Browse/class/censor.md), but not none! Favoring light armor and ranged weapons, her [censors](../../Browse/class/censor.md) are often mistaken for rangers. They seek to punish those who hunt for sport, or those who would defile the natural order.
+Salorna has few [censors](../../Browse/class/censor.md), but not none! Favoring light armor and [ranged](../../Browse/rule/combat/ranged.md) weapons, her [censors](../../Browse/class/censor.md) are often mistaken for rangers. They seek to punish those who hunt for sport, or those who would defile the natural order.
 
 ##### Draighen the Warden
 
@@ -723,7 +723,7 @@ Draighen teaches solutions can always be found if people are willing to talk. Th
 
 **Domains:** Nature, Storm
 
-Eriarwen the Wroth apprenticed to her mother as a witch just as her mother had apprenticed under her mother. Her family were witches in service to Halcyon the Moonmaiden, saint of Viras, the Lady of Spring. They had tended to the souls and health of the people of five villages for two centuries. Eriarwen was not yet of age, and so not yet a full mistress of the craft when the blight came.
+Eriarwen the Wroth apprenticed to her mother as a witch just as her mother had apprenticed under her mother. Her family were witches in service to Halcyon the Moonmaiden, [saint](../../Browse/rule/world/saint.md) of Viras, the Lady of Spring. They had tended to the souls and health of the people of five villages for two centuries. Eriarwen was not yet of age, and so not yet a full mistress of the craft when the blight came.
 
 At first it was a newborn foal born with seven eyes and a writhing grasping tentacle where it tongue should have been. It took three farmers to kill the infant beast and though they dismissed it as an accident of birth, the three were harrowed.
 
@@ -739,7 +739,7 @@ Then Eriarwen saw the beast rip her grandmother apart with a single bite.
 
 Her mother raced to her mother's corpse. And Eriarwen called out.
 
-Eriarwen did not scream or cry, nor call out for aid or even mercy. She did not call to Viras, nor any of her saints. She called out to Salorna the Summer Storm and demanded the Woodland Mistress act.
+Eriarwen did not scream or cry, nor call out for aid or even mercy. She did not call to Viras, nor any of her [saints](../../Browse/rule/world/saint.md). She called out to Salorna the Summer Storm and demanded the Woodland Mistress act.
 
 Eriarwen felt a growing heat and joy in her heart, and, feeling like she could [fly](../../Browse/movement/fly.md), she suddenly saw the world through a million eyes all at once, and where she had stood, a humanoid figure composed entirely of bees filled the space. Eriarwen the Swarm exploded in a cloud of bees and each bee was Eriarwen. She sped across the countryside from one village to the next, stinging every animal affected by the Red Blight, and the villagers watched as the woodland creatures, their own pets and livestock, returned to normal. Good as new! None knew then that it was Eriarwen who saved them, but all knew it must be a member of her family. Who else?
 
@@ -747,15 +747,15 @@ But Eriarwen was just getting started. Returning to her grandmother's corpse, th
 
 "CASWYN!" she thundered. "I SUMMON THEE! COME! YOU CANNOT RESIST! I COMPEL THEE!"
 
-Caswyn, furious at the death of his blight, furious at the girl who dared oppose him, could not resist. He revealed himself and in that moment, it was Caswyn the Pestilent, saint of Cyrvis who appeared.
+Caswyn, furious at the death of his blight, furious at the girl who dared oppose him, could not resist. He revealed himself and in that moment, it was Caswyn the Pestilent, [saint](../../Browse/rule/world/saint.md) of Cyrvis who appeared.
 
 Saint Caswyn and Saint Eriarwen battled and grappled with each other, each growing to great size infused with the power of their gods. But their figures were unrecognizable. Caswyn was a rotting giant, a mutated dragon, a griffon oozing blood.
 
 Eriarwen was a wolf made of fire, a crow made of lightning, a bear made of stone.
 
-Caswyn the Chimera hurled Eriarwen the Lion to the ground and it was Caswyn the Cobra who struck. But it was Eriarwen the Elk who spit Caswyn upon her antlers, banishing the saint from the mundane world.
+Caswyn the Chimera hurled Eriarwen the Lion to the ground and it was Caswyn the Cobra who struck. But it was Eriarwen the Elk who spit Caswyn upon her antlers, banishing the [saint](../../Browse/rule/world/saint.md) from the mundane world.
 
-Eriarwen returned to herself, and though she was now an immortal saint, she sensed that Salorna had given her yet more power. She saw her mother weeping over her grandmother's body. The old woman's horse, restored by Eriarwen's sting, nuzzled at her mistress's curled gray hair.
+Eriarwen returned to herself, and though she was now an immortal [saint](../../Browse/rule/world/saint.md), she sensed that Salorna had given her yet more power. She saw her mother weeping over her grandmother's body. The old woman's horse, restored by Eriarwen's sting, nuzzled at her mistress's curled gray hair.
 
 Eriarwen smiled, and knew the task before her. She conjured lightning from her fingertip, and her grandmother was renewed. Mothers and daughters reunited.
 
@@ -763,7 +763,7 @@ Eriarwen teaches that nature holds the power to destroy—that Mother Nature is 
 
 #### Evil Gods
 
-Most heroes are hero-heroes, but some heroes are anti-heroes, and some are anti-villains! This section presents one archetypal saint from each of [Vasloria](../../Browse/rule/world/vasloria.md)'s evil gods; the brothers Nikros and Cyrvis for those players who wish to play such heroes.
+Most heroes are hero-heroes, but some heroes are anti-heroes, and some are anti-villains! This section presents one archetypal [saint](../../Browse/rule/world/saint.md) from each of [Vasloria](../../Browse/rule/world/vasloria.md)'s evil gods; the brothers Nikros and Cyrvis for those players who wish to play such heroes.
 
 ##### Nikros the Tyrant
 
@@ -793,7 +793,7 @@ Eventually serving at the right hand of the conqueror was not enough. Pentalion 
 
 He used all his usual tactics. His agents aided the duke's daughter and helped her build her insurgency, but in a critical moment when she confronted Uther with only Lord Pentalion as witness, the evil paladin killed first Uther, then the duke's daughter assuming leadership of both the kingdom and the rebellion.
 
-Savior to all, Pentalion was made a saint of Nikros for this act. He ruled well into old age, always finding new enemies within and without to be cruel to. And the more cruel he was to his invented enemies, the more the people loved him.
+Savior to all, Pentalion was made a [saint](../../Browse/rule/world/saint.md) of Nikros for this act. He ruled well into old age, always finding new enemies within and without to be cruel to. And the more cruel he was to his invented enemies, the more the people loved him.
 
 Saint Pentalion teaches that one should bide their time and build their power before striking. That treachery in service to growing your own power is no vice.
 
@@ -823,7 +823,7 @@ But though the tome was written in an ancient dialect Eseld knew, the words move
 
 With a flash of certain insight, Eseld understood the riddle. She took a dagger and carved out her own eye. With only one good eye remaining, blood from her eyesocket pouring onto the page, she could read the lore within.
 
-In that moment was Eseld made a saint of Cyrvis.
+In that moment was Eseld made a [saint](../../Browse/rule/world/saint.md) of Cyrvis.
 
 Filled with sorcerous power, Eseld no long sought mastery of the Tower of Enchantment, returning instead to the hidden Tower of Blood, restoring it to its former glory—there to start her own cult. Eventually Eseld was overthrown by the Darkling Shades, her own cadre of elite sorceresses who pass on her lore to this day.
 
@@ -845,9 +845,9 @@ The Space Gods do not concern themselves overmuch with what [humans](../../Brows
 
 #### Heralds of the Space Gods
 
-Whether it is a tradition or some real limitation, each Space God has, instead of saints, a single herald—a mortal chosen to be the voice of the Space God and communicate with their worshippers where the god themself cannot due to their alien mind.
+Whether it is a tradition or some real limitation, each Space God has, instead of [saints](../../Browse/rule/world/saint.md), a single herald—a mortal chosen to be the voice of the Space God and communicate with their worshippers where the god themself cannot due to their alien mind.
 
-These heralds function much the same way as saints. They grant [conduits](../../Browse/class/conduit.md) and [censors](../../Browse/class/censor.md) power in battle, but without the moral expectations of [Orden](../../Browse/rule/world/orden.md)'s gods. The Space Gods themselves are more capricious, but their heralds often arrive in person to aid their [followers](../../Browse/rule/general/follower.md) and take an active interest in the mortal affairs of the timescape.
+These heralds function much the same way as [saints](../../Browse/rule/world/saint.md). They grant [conduits](../../Browse/class/conduit.md) and [censors](../../Browse/class/censor.md) power in battle, but without the moral expectations of [Orden](../../Browse/rule/world/orden.md)'s gods. The Space Gods themselves are more capricious, but their heralds often arrive in person to aid their [followers](../../Browse/rule/general/follower.md) and take an active interest in the mortal affairs of the timescape.
 
 #### Religion in the Timescape
 
@@ -855,7 +855,7 @@ The people of the timescape know and believe in their gods just like the people 
 
 But most citizens of the timescape do not carry the gods with them in their daily lives the way the people of [Orden](../../Browse/rule/world/orden.md) do. The gods of the timescape are powerful and reward their worshippers, but they are remote and unknowable. Most denizens of the upper worlds view a church as just another kind of shop. A place to go to renew your soul and speak the rites that your parents spoke. For many denizens of the upper worlds, religion is more of a cultural phenomenon than a way of life.
 
-The closest analog to worship in [Orden](../../Browse/rule/world/orden.md) to be found in the upper worlds would be in Alloy, the City at the Center of the Timescape. The great port city where civilizations across the timescape come to trade is also a city of temples. Temples to every god and saint and hero and herald in the timescape—some dead, some forgotten—can be found somewhere in the ancient city's limits. Folk from [Orden](../../Browse/rule/world/orden.md) arriving in Alloy (an incredibly rare event, as it takes enormous energies to lift one's ship up out of the slow-time of the lower words) remark at how familiar Alloy seems to them. It is a city where the upper and lower worlds mingle and steel sabers sometimes cross with swords made of hard light.
+The closest analog to worship in [Orden](../../Browse/rule/world/orden.md) to be found in the upper worlds would be in Alloy, the City at the Center of the Timescape. The great port city where civilizations across the timescape come to trade is also a city of temples. Temples to every god and [saint](../../Browse/rule/world/saint.md) and hero and herald in the timescape—some dead, some forgotten—can be found somewhere in the ancient city's limits. Folk from [Orden](../../Browse/rule/world/orden.md) arriving in Alloy (an incredibly rare event, as it takes enormous energies to lift one's ship up out of the slow-time of the lower words) remark at how familiar Alloy seems to them. It is a city where the upper and lower worlds mingle and steel sabers sometimes cross with swords made of hard light.
 
 #### Nebular the Star Mother {data-scc="mcdm.heroes.v1/god/nebular"}
 
@@ -915,7 +915,7 @@ Lost ships sometimes find their navigation systems lighting up, a clear path hom
 
 OV is the god of navigators and those who seek safe passage through treacherous scenarios. Because he cares little for the politics of the timescape, he is respected by the [time raiders](../../Browse/ancestry/time-raider.md), though none would call him or any other being their "god."
 
-When a [time raider](../../Browse/ancestry/time-raider.md) swears, "OV guide me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
+When a [time raider](../../Browse/ancestry/time-raider.md) swears, "OV [guide](../../Browse/rule/downtime/guide.md) me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
 
 ##### The Calling of Cho'kassa the Time Rider
 

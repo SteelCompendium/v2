@@ -32,7 +32,7 @@ Though you can't freely push, pull, or slide a target up and down unless that [f
 
 ## Big Versus Little
 
-When a larger creature force moves a smaller target with a melee weapon ability, the [distance](../rule/combat/distance.md) of the [forced movement](forced-movement.md) is increased by 1. If a smaller creature force moves a larger target with a melee weapon ability, the [distance](../rule/combat/distance.md) doesn't change.
+When a larger creature force moves a smaller target with a [melee](../rule/combat/melee.md) weapon ability, the [distance](../rule/combat/distance.md) of the [forced movement](forced-movement.md) is increased by 1. If a smaller creature force moves a larger target with a [melee](../rule/combat/melee.md) weapon ability, the [distance](../rule/combat/distance.md) doesn't change.
 
 ## Slamming into Creatures
 
@@ -79,7 +79,7 @@ If you can't [fly](fly.md) and are force moved across an open space that would c
 
 Each creature has a stability that allows them to resist [forced movement](forced-movement.md). When a creature is force moved, they can reduce that movement up to a number of squares equal to their stability. Heroes start with stability 0 and can increase their stability through ancestry, class, and kit options.
 
-A creature's stability can't be less than 0, even when reduced by a penalty.
+A creature's stability can't be less than 0, even when reduced by a [penalty](../rule/dice/bonuses-and-penalties.md).
 
 ## "When a Creature Moves..."
 

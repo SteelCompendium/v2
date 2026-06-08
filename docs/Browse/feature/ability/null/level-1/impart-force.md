@@ -2,11 +2,11 @@
 action_type: Maneuver
 class: "null"
 cost: 5 Discipline
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: An object you target must be your [size](../../../../rule/character/size.md) or smaller. You gain an [edge](../../../../rule/dice/edge.md) on this ability. Additionally, for each square you push the target, they take 1 psychic damage.
 flavor: A single touch from you, and your enemy flies backward.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Discipline</div></div>
 </div>
 <p class="sc-ability__flavor">A single touch from you, and your enemy flies backward.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">

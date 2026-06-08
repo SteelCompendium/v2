@@ -2,11 +2,11 @@
 action_type: Main action
 class: troubadour
 cost: 9 Drama
-distance: Melee 1
-effect: You and the target each make a melee [free strike](../../../common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../../common/main-actions/free-strike.md) targets and which enemies the target creature's [free strike](../../../common/main-actions/free-strike.md) targets. You then slide the target 5 squares, ignoring [stability](../../../../rule/character/stability.md).
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
+effect: You and the target each make a [melee](../../../../rule/combat/melee.md) [free strike](../../../common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../../common/main-actions/free-strike.md) targets and which enemies the target creature's [free strike](../../../common/main-actions/free-strike.md) targets. You then slide the target 5 squares, ignoring [stability](../../../../rule/character/stability.md).
 flavor: You and your partner make a flashy show of derring-do, then get back to your corners.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "6"
@@ -30,13 +30,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Drama</div></div>
 </div>
 <p class="sc-ability__flavor">You and your partner make a flashy show of derring-do, then get back to your corners.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and the target each make a melee <a href="../../../../common/main-actions/free-strike/">free strike</a> that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your <a href="../../../../common/main-actions/free-strike/">free strike</a> targets and which enemies the target creature&#39;s <a href="../../../../common/main-actions/free-strike/">free strike</a> targets. You then slide the target 5 squares, ignoring <a href="../../../../../rule/character/stability/">stability</a>.</p></div>
+<div class="sc-ability__section-body"><p>You and the target each make a <a href="../../../../../rule/combat/melee/">melee</a> <a href="../../../../common/main-actions/free-strike/">free strike</a> that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your <a href="../../../../common/main-actions/free-strike/">free strike</a> targets and which enemies the target creature&#39;s <a href="../../../../common/main-actions/free-strike/">free strike</a> targets. You then slide the target 5 squares, ignoring <a href="../../../../../rule/character/stability/">stability</a>.</p></div>
 </div>
 </article>

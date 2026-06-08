@@ -68,7 +68,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your supernatural gifts allow you to influence other undead. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/reason/">Reason</a>, <a href="../../../../rule/character/intuition/">Intuition</a>, and <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">tests</a> made to interact with undead creatures.</p>
+<p>Your <a href="../../../../rule/general/supernatural/">supernatural</a> gifts allow you to influence other undead. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/reason/">Reason</a>, <a href="../../../../rule/character/intuition/">Intuition</a>, and <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">tests</a> made to interact with undead creatures.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -92,9 +92,9 @@ type: trait
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">A magic sigil you placed on a creature explodes with energy.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature bearing your sigil</div></div>
 </div>
 <div class="sc-ability__section">

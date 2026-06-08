@@ -41,14 +41,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">We offered them a percentage of the gross. So they&#39;re working for free!</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A <a href="../../../ability/troubadour/level-2/guest-star/">guest star</a> appears to help you during the encounter: either a bystander within <a href="../../../../rule/combat/distance/">distance</a> uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within <a href="../../../../rule/combat/distance/">distance</a>. This <a href="../../../ability/troubadour/level-2/guest-star/">guest star</a> is controlled by you, has their own turn, and shares your <a href="../../../../rule/character/characteristic/">characteristics</a>. Their <a href="../../../../rule/health/stamina/">Stamina</a> maximum is half yours. They have no abilities other than your melee and ranged <a href="../../../common/main-actions/free-strike/">free strikes</a>. At the end of the encounter, or when the <a href="../../../ability/troubadour/level-2/guest-star/">guest star</a> is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, they retreat or revert to a bystander. The same bystander can&#39;t be uplifted this way more than once during an encounter.</p></div>
+<div class="sc-ability__section-body"><p>A <a href="../../../ability/troubadour/level-2/guest-star/">guest star</a> appears to help you during the encounter: either a bystander within <a href="../../../../rule/combat/distance/">distance</a> uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within <a href="../../../../rule/combat/distance/">distance</a>. This <a href="../../../ability/troubadour/level-2/guest-star/">guest star</a> is controlled by you, has their own <a href="../../../../rule/combat/turn/">turn</a>, and shares your <a href="../../../../rule/character/characteristic/">characteristics</a>. Their <a href="../../../../rule/health/stamina/">Stamina</a> maximum is half yours. They have no abilities other than your <a href="../../../../rule/combat/melee/">melee</a> and <a href="../../../../rule/combat/ranged/">ranged</a> <a href="../../../common/main-actions/free-strike/">free strikes</a>. At the end of the encounter, or when the <a href="../../../ability/troubadour/level-2/guest-star/">guest star</a> is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, they retreat or revert to a bystander. The same bystander can&#39;t be uplifted this way more than once during an encounter.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -61,14 +61,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You didn&#39;t see that coming, did you?!</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One dead enemy</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A target who is not a leader or solo creature comes back to life with half their <a href="../../../../rule/health/stamina/">Stamina</a> and becomes an ally under the Director&#39;s control. The players can work with the Director to determine when the target takes their turn each combat round. At the end of the encounter, the target turns to dust and is blown away.</p></div>
+<div class="sc-ability__section-body"><p>A target who is not a leader or solo creature comes back to life with half their <a href="../../../../rule/health/stamina/">Stamina</a> and becomes an ally under the Director&#39;s control. The players can work with the Director to determine when the target takes their <a href="../../../../rule/combat/turn/">turn</a> each <a href="../../../../rule/combat/combat-round/">combat round</a>. At the end of the encounter, the target turns to dust and is blown away.</p></div>
 </div>
 </article>
 </div>
@@ -93,14 +93,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Audiences love this bit.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and one willing ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can <a href="../../../../movement/shifting/">shift</a> up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee <a href="../../../common/main-actions/free-strike/">free strike</a> that deals extra damage equal to twice their highest <a href="../../../../rule/character/characteristic/">characteristic</a> score.</p></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../../../movement/shifting/">shift</a> up to 5 squares, including vertically, but must end this movement <a href="../../../../rule/combat/adjacent/">adjacent</a> to the other target and on solid ground. Each target can then make a <a href="../../../../rule/combat/melee/">melee</a> <a href="../../../common/main-actions/free-strike/">free strike</a> that deals extra damage equal to twice their highest <a href="../../../../rule/character/characteristic/">characteristic</a> score.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -112,10 +112,10 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">Wait, it&#39;s... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<p class="sc-ability__flavor">Wait, it&#39;s... Guard! <a href="../../../../rule/combat/turn/">Turn</a>! Parry! Dodge! Spin! Thrust! Ha!</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -123,7 +123,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target can make a melee <a href="../../../common/main-actions/free-strike/">free strike</a> against you. If they do, you can make a melee <a href="../../../common/main-actions/free-strike/">free strike</a> against the target.</p></div>
+<div class="sc-ability__section-body"><p>The target can make a <a href="../../../../rule/combat/melee/">melee</a> <a href="../../../common/main-actions/free-strike/">free strike</a> against you. If they do, you can make a <a href="../../../../rule/combat/melee/">melee</a> <a href="../../../common/main-actions/free-strike/">free strike</a> against the target.</p></div>
 </div>
 </article>
 </div>
@@ -155,7 +155,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You use an ability that you have observed being used this combat round. The ability must have the <a href="../../../../rule/combat/strike/">Strike</a> keyword, cost 5 or fewer of a <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, and cost no Malice. When you make the <a href="../../../../rule/combat/strike/">strike</a>, you use your <a href="../../../../rule/character/presence/">Presence</a> score for any <a href="../../../../rule/dice/power-roll/">power rolls</a>, and any damage you deal is sonic damage.</p></div>
+<div class="sc-ability__section-body"><p>You use an ability that you have observed being used this <a href="../../../../rule/combat/combat-round/">combat round</a>. The ability must have the <a href="../../../../rule/combat/strike/">Strike</a> keyword, cost 5 or fewer of a <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, and cost no Malice. When you make the <a href="../../../../rule/combat/strike/">strike</a>, you use your <a href="../../../../rule/character/presence/">Presence</a> score for any <a href="../../../../rule/dice/power-roll/">power rolls</a>, and any damage you deal is sonic damage.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -168,14 +168,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your fans don&#39;t seem to like the opening act...</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 5 corruption damage; M &lt; WEAK, pull 1 toward the center of the area</li><li><b>12-16:</b> 9 corruption damage; M &lt; AVERAGE, pull 2 toward the center of the area</li><li><b>17+:</b> 12 corruption damage; M &lt; STRONG, pull 3 toward the center of the area</li></ul></div>
+<div class="sc-ability__section-body"><p>The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your <a href="../../../../rule/combat/turn/">turns</a>, you can make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each enemy in the area.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 5 corruption damage; M &lt; WEAK, pull 1 toward the center of the area</li><li><b>12-16:</b> 9 corruption damage; M &lt; AVERAGE, pull 2 toward the center of the area</li><li><b>17+:</b> 12 corruption damage; M &lt; STRONG, pull 3 toward the center of the area</li></ul></div>
 </div>
 </article>
 </div>

@@ -41,9 +41,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You ready?</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One willing ally</div></div>
 </div>
 <div class="sc-ability__section">
@@ -61,14 +61,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">It&#39;s easier to destroy than to create. Much easier, in fact!</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your <a href="../../../../rule/character/speed/">speed</a> in a straight line. During this movement, you can move through mundane structures, including walls, which are <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for you. You automatically destroy each square of structure you move through and leave behind a square of <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p><p>Additionally, you make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each enemy you move adjacent to during this movement.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> Push 1</li><li><b>12-16:</b> Push 2</li><li><b>17+:</b> Push 3</li></ul></div>
+<div class="sc-ability__section-body"><p>You move up to your <a href="../../../../rule/character/speed/">speed</a> in a straight line. During this movement, you can move through mundane structures, including walls, which are <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for you. You automatically destroy each square of structure you move through and leave behind a square of <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p><p>Additionally, you make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../../../rule/combat/adjacent/">adjacent</a> to during this movement.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> Push 1</li><li><b>12-16:</b> Push 2</li><li><b>17+:</b> Push 3</li></ul></div>
 </div>
 </article>
 </div>
@@ -93,9 +93,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your unbridled rage strikes terror in their hearts.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -112,14 +112,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Organizing your forces like feckless creatures of Law. Pitiful.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a> and make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets up to three enemies you move adjacent to during this <a href="../../../../movement/shifting/">shift</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 2 damage; A &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>12-16:</b> 4 damage; A &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>17+:</b> 6 damage; A &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li></ul></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a> and make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets up to three enemies you move <a href="../../../../rule/combat/adjacent/">adjacent</a> to during this <a href="../../../../movement/shifting/">shift</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 2 damage; A &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>12-16:</b> 4 damage; A &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>17+:</b> 6 damage; A &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li></ul></div>
 </div>
 </article>
 </div>
@@ -144,9 +144,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">I will hunt you down.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

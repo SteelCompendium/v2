@@ -3,7 +3,7 @@ action_type: Maneuver
 class: shadow
 cost: 9 Insight
 distance: 5 [burst](../../../../rule/combat/burst.md)
-effect: Until the start of your next turn, any [ability roll](../../../../rule/dice/ability-roll.md) made against a target gains an [edge](../../../../rule/dice/edge.md).
+effect: Until the start of your next [turn](../../../../rule/combat/turn.md), any [ability roll](../../../../rule/dice/ability-roll.md) made against a target gains an [edge](../../../../rule/dice/edge.md).
 flavor: You distract your foes, allowing your allies to take advantage of that distraction.
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, any <a href="../../../../../rule/dice/ability-roll/">ability roll</a> made against a target gains an <a href="../../../../../rule/dice/edge/">edge</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>, any <a href="../../../../../rule/dice/ability-roll/">ability roll</a> made against a target gains an <a href="../../../../../rule/dice/edge/">edge</a>.</p></div>
 </div>
 </article>

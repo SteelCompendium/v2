@@ -10,7 +10,7 @@ type: class
 
 ---
 
-The power of the gods flows through you! As a vessel for [divine power](../feature/conduit/level-10/divine-power.md), you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
+The power of the gods flows through you! As a vessel for [divine power](../feature/conduit/level-10/divine-power.md), you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or [saint](../rule/world/saint.md) you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
 **As a [conduit](conduit.md), you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
 
@@ -62,7 +62,7 @@ As a [conduit](conduit.md), you gain the following features.
 
 ### Deity and Domains {data-scc="mcdm.heroes.v1/feature.conduit.level-1/deity-and-domains"}
 
-Choose a god or saint who your character reveres from Chapter 14: [Gods and Religion](../../Read/heroes/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
+Choose a god or [saint](../rule/world/saint.md) who your character reveres from Chapter 14: [Gods and Religion](../../Read/heroes/gods-and-religion.md), or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity and choose four domains to be part of their portfolio.
 
 After choosing your deity, pick two domains from their portfolio. The two domains you pick make up your [subclass](../rule/general/subclass.md), and your choice of domains determines many of the features you'll gain as you gain new levels. (*Quick Build:* [Adûn](../god/adun.md) for deity, and Life and Protection as domains.)
 
@@ -72,9 +72,9 @@ Your deity grants you a [Heroic Resource](../rule/resource/heroic-resource.md) c
 
 #### Piety in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain piety equal to your [Victories](../rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 piety.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../rule/combat/combat-round.md) (as determined by the Director), you gain piety equal to your [Victories](../rule/resource/victories.md). At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 1d3 piety.
 
-Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
+Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your [turn](../rule/combat/turn.md), you can pray (no action required). If you do, your roll gains the following additional effects:
 
 - If the roll is a 1, you gain 1 additional piety but anger the gods! You take psychic damage equal to 1d6 + your level, which can't be reduced in any way.
 - If the roll is a 2, you gain 1 additional piety.
@@ -117,7 +117,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ##### Life Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares regains [Stamina](../rule/health/stamina.md).
-- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a [Recovery](../rule/health/recoveries.md), can end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their turn, or can stand up if they [are prone](../condition/prone.md). Alternatively, you or one ally within 10 squares gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to two times your [Intuition](../rule/character/intuition.md) score.
+- **Prayer Effect:** Choose yourself or one ally within 10 squares. That character can spend a [Recovery](../rule/health/recoveries.md), can end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md), or can stand up if they [are prone](../condition/prone.md). Alternatively, you or one ally within 10 squares gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to two times your [Intuition](../rule/character/intuition.md) score.
 
 ##### Love Domain Piety and Effect
 
@@ -151,7 +151,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ##### War Domain Piety and Effect
 
-- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single [turn](../rule/combat/turn.md).
 - **Prayer Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 [surges](../rule/resource/surge.md).
 
 ### 1st-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-1/1st-level-domain-feature"}
@@ -223,7 +223,7 @@ You have the following ability.
 
 | **Magic**      |            **Maneuver**  |
 |----------------|-------------------------:|
-| **📏 Melee 1** | **🎯 One dead creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1** | **🎯 One dead creature** |
 
 **Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make [tests](../rule/test/test.md) to influence them and convince them to speak with you. The trauma of [dying](../rule/health/dying.md) can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 
@@ -244,7 +244,7 @@ You have the following ability.
 
 #### Inner Light {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inner-light"}
 
-Each time you finish a [respite](../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../rule/resource/respite.md) to gain the benefit of a divine ritual. You place a ray of [morning light](../feature/ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 bonus to [saving throws](../rule/general/saving-throw.md) that lasts until you finish another [respite](../rule/resource/respite.md).
+Each time you finish a [respite](../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../rule/resource/respite.md) to gain the benefit of a divine ritual. You place a ray of [morning light](../feature/ability/conduit/level-2/morning-light.md) into the chosen character's soul, granting them a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md) that lasts until you finish another [respite](../rule/resource/respite.md).
 
 #### Inspired Deception {data-scc="mcdm.heroes.v1/feature.conduit.level-1/inspired-deception"}
 
@@ -260,46 +260,46 @@ You can spend 10 uninterrupted minutes to create a [protective circle](../featur
 
 #### Revitalizing Ritual {data-scc="mcdm.heroes.v1/feature.conduit.level-1/revitalizing-ritual"}
 
-Each time you finish a [respite](../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../rule/resource/respite.md) to gain the benefit of a divine ritual. The chosen character gains a bonus to their [recovery value](../rule/health/recoveries.md) equal to your level that lasts until you finish another [respite](../rule/resource/respite.md).
+Each time you finish a [respite](../rule/resource/respite.md), you can choose yourself or one ally who is also finishing a [respite](../rule/resource/respite.md) to gain the benefit of a divine ritual. The chosen character gains a [bonus](../rule/dice/bonuses-and-penalties.md) to their [recovery value](../rule/health/recoveries.md) equal to your level that lasts until you finish another [respite](../rule/resource/respite.md).
 
 #### Sanctified Weapon {data-scc="mcdm.heroes.v1/feature.conduit.level-1/sanctified-weapon"}
 
-As a [respite](../rule/resource/respite.md) activity, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to [rolled damage](../rule/damage/rolled-damage.md) with abilities that use the weapon. This benefit lasts until you finish another [respite](../rule/resource/respite.md).
+As a [respite](../rule/resource/respite.md) activity, you can bless a weapon. Any creature who wields the weapon gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md) with abilities that use the weapon. This benefit lasts until you finish another [respite](../rule/resource/respite.md).
 
 ### Healing Grace {data-scc="mcdm.heroes.v1/feature.conduit.level-1/healing-grace"}
 
-You have the following ability, which you can use once on your turn.
+You have the following ability, which you can use once on your [turn](../rule/combat/turn.md).
 
 #### Healing Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/healing-grace"}
 
 
 *Your divine energy restores the righteous.*
 
-| **Magic, Ranged**          |            **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**          |            **Maneuver** |
 |----------------------------|------------------------:|
-| **📏 Ranged 10**           | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 Self or one ally** |
 
 **Effect:** The target can spend a [Recovery](../rule/health/recoveries.md).
 
-**Spend 1+ Piety:** For each piety spent, choose one of the following enhancements:
+**Spend 1+ Piety:** For each piety spent, choose one of the following [enhancements](../rule/treasure/enhancement.md):
 
 - You can target one additional ally within [distance](../rule/combat/distance.md).
-- You can end one effect on a target that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their turn.
+- You can end one effect on a target that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md).
 - A [prone target](../condition/prone.md) can stand up.
 - A target can spend 1 additional [Recovery](../rule/health/recoveries.md).
 
 ### Ray of Wrath {data-scc="mcdm.heroes.v1/feature.conduit.level-1/ray-of-wrath"}
 
-You have the following ability, which can be used as a ranged [free strike](../feature/common/main-actions/free-strike.md).
+You have the following ability, which can be used as a [ranged](../rule/combat/ranged.md) [free strike](../feature/common/main-actions/free-strike.md).
 
 #### Ray of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/ray-of-wrath"}
 
 
 *You unleash a blast of holy light upon your foe.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -318,9 +318,9 @@ Choose one of the following [triggered actions](../rule/combat/triggered-action.
 
 *You invigorate an attacking ally with divine energy.*
 
-| **Magic, Ranged**      |        **Triggered** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**      |        **Triggered** |
 |------------------------|---------------------:|
-| **📏 Ranged 10**       |      **🎯 One ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**       |      **🎯 One ally** |
 
 **Trigger:** The target makes an [ability roll](../rule/dice/ability-roll.md) for a damage-dealing ability.
 
@@ -333,9 +333,9 @@ Choose one of the following [triggered actions](../rule/combat/triggered-action.
 
 *Your holy word saps an attacking enemy's strength.*
 
-| **Magic, Ranged**  |     **Triggered** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |     **Triggered** |
 |--------------------|------------------:|
-| **📏 Ranged 10**   |   **🎯 One ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   |   **🎯 One ally** |
 
 **Trigger:** The target would take damage from an ability that uses a [power roll](../rule/dice/power-roll.md).
 
@@ -345,29 +345,29 @@ Choose one of the following [triggered actions](../rule/combat/triggered-action.
 
 ### Prayer {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer"}
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit Ward](../feature/conduit/level-1/conduit-ward.md) below) by praying to your god as a [respite](../rule/resource/respite.md) activity. (*Quick Build:* [Prayer of Distance](../feature/conduit/level-1/prayer-of-distance.md).)
+Your god answers a prayer with [enhancements](../rule/treasure/enhancement.md) to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit Ward](../feature/conduit/level-1/conduit-ward.md) below) by praying to your god as a [respite](../rule/resource/respite.md) activity. (*Quick Build:* [Prayer of Distance](../feature/conduit/level-1/prayer-of-distance.md).)
 
 #### Prayer of Destruction {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-destruction"}
 
-Your god infuses wrath within your being. You gain a +1 bonus to [rolled damage](../rule/damage/rolled-damage.md) with magic abilities.
+Your god infuses wrath within your being. You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md) with magic abilities.
 
 #### Prayer of Distance {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-distance"}
 
-Your god blesses you with the ability to stretch your divine magic farther. You have a +2 bonus to the [distance](../rule/combat/distance.md) of your ranged magic abilities.
+Your god blesses you with the ability to stretch your divine magic farther. You have a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) of your [ranged](../rule/combat/ranged.md) magic abilities.
 
 #### Prayer of Soldier's Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-soldiers-skill"}
 
-Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to [Stamina](../rule/health/stamina.md), and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
+Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md), and that [bonus](../rule/dice/bonuses-and-penalties.md) increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage [bonus](../rule/dice/bonuses-and-penalties.md) with weapon abilities, including [free strikes](../feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this blessing.
 
 #### Prayer of Speed {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-speed"}
 
-Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to [speed](../rule/character/speed.md) and to the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
+Your god blesses your flesh and infuses it with divine quickness. You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) and to the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
 #### Prayer of Steel {data-scc="mcdm.heroes.v1/feature.conduit.level-1/prayer-of-steel"}
 
-Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to [Stamina](../rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../rule/character/stability.md).
+Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md), and this [bonus](../rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [stability](../rule/character/stability.md).
 
 ### Conduit Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/conduit-ward"}
 
@@ -375,19 +375,19 @@ Your god grants you a ward that protects you from the faithless. Choose one of t
 
 #### Bastion Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/bastion-ward"}
 
-Your god grants you a holy countenance that protects you at all times. You gain a +1 bonus to [saving throws](../rule/general/saving-throw.md).
+Your god grants you a holy countenance that protects you at all times. You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md).
 
 #### Quickness Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/quickness-ward"}
 
-The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can [shift](../movement/shifting.md) up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score after the damage is dealt.
+The gods imbue a divine swiftness within you. Whenever an [adjacent](../rule/combat/adjacent.md) creature deals damage to you, you can [shift](../movement/shifting.md) up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score after the damage is dealt.
 
 #### Sanctuary Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/sanctuary-ward"}
 
-In response to a foe's aggression, your god protects you. Whenever another creature damages you, that creature can't target you with a [strike](../rule/combat/strike.md) until you harm them or one of their allies, or until the end of their next turn.
+In response to a foe's aggression, your god protects you. Whenever another creature damages you, that creature can't target you with a [strike](../rule/combat/strike.md) until you harm them or one of their allies, or until the end of their next [turn](../rule/combat/turn.md).
 
 #### Spirit Ward {data-scc="mcdm.heroes.v1/feature.conduit.level-1/spirit-ward"}
 
-Invisible spirits surround you if you are harmed. Whenever an adjacent creature deals damage to you, they take corruption damage equal to your [Intuition](../rule/character/intuition.md) score.
+Invisible spirits surround you if you are harmed. Whenever an [adjacent](../rule/combat/adjacent.md) creature deals damage to you, they take corruption damage equal to your [Intuition](../rule/character/intuition.md) score.
 
 ### Conduit Abilities {data-scc="mcdm.heroes.v1/feature.conduit.level-1/conduit-abilities"}
 
@@ -402,9 +402,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -419,9 +419,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *You drain the energy from your target to revitalize yourself or an ally.*
 
-| **Magic, Melee, [Strike](../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
 |--------------------------|--------------------:|
-| **📏 Melee 1**           | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**           | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -436,9 +436,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *A tendril of divine energy shoots forth to draw in your foe.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -468,9 +468,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *Divine magic tears at your foe and defends a nearby friend.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -478,16 +478,16 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 - **12-16:** 4 + I corruption damage
 - **17+:** 6 + I corruption damage
 
-**Effect:** Choose yourself or one ally within [distance](../rule/combat/distance.md). That character can impose a [bane](../rule/dice/bane.md) on one [power roll](../rule/dice/power-roll.md) made against them before the end of their next turn.
+**Effect:** Choose yourself or one ally within [distance](../rule/combat/distance.md). That character can impose a [bane](../rule/dice/bane.md) on one [power roll](../rule/dice/power-roll.md) made against them before the end of their next [turn](../rule/combat/turn.md).
 
 ##### Staggering Curse {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/staggering-curse"}
 
 
 *A blast of judgment disorients your foe.*
 
-| **Magic, Melee, [Strike](../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md)**  |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -498,11 +498,11 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 ##### Warrior's Prayer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/warriors-prayer"}
 
 
-*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.*
+*Your quickly uttered prayer lends aggressive divine energy to a friend engaged in [melee](../rule/combat/melee.md).*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -517,9 +517,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *A bolt of holy energy saps the life from a foe.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -538,9 +538,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 ##### Call the Thunder Down {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down"}
 
 
-*You ask your saint for thunder and your prayer is answered.*
+*You ask your [saint](../rule/world/saint.md) for thunder and your prayer is answered.*
 
-| **Area, Magic, Ranged** |               **Main action** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 3 [cube](../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 
@@ -557,20 +557,20 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *A brilliant column of holy light appears on the battlefield, striking out at nearby enemies.*
 
-| **Magic, Ranged**  | **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  | **Main action** |
 |--------------------|----------------:|
-| **📏 Ranged 10**   |  **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   |  **🎯 Special** |
 
-**Effect:** You summon a spirit of [size](../rule/character/size.md) 2 who can't be harmed, and who appears in an unoccupied space within [distance](../rule/combat/distance.md). The spirit lasts until the end of your next turn. You and your allies can move through the spirit's space, but enemies can't. Any enemy who moves within 2 squares of the spirit for the first time in a combat round or starts their turn there takes holy damage equal to your [Intuition](../rule/character/intuition.md) score.
+**Effect:** You summon a spirit of [size](../rule/character/size.md) 2 who can't be harmed, and who appears in an unoccupied space within [distance](../rule/combat/distance.md). The spirit lasts until the end of your next [turn](../rule/combat/turn.md). You and your allies can move through the spirit's space, but enemies can't. Any enemy who moves within 2 squares of the spirit for the first time in a [combat round](../rule/combat/combat-round.md) or starts their turn there takes holy damage equal to your [Intuition](../rule/character/intuition.md) score.
 
 ##### Judgment's Hammer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/judgments-hammer"}
 
 
 *Your divine [fury](fury.md) is a hammer that crashes down upon the unrighteous.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -583,9 +583,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *After some holy lightning, your enemy will think twice about their next attack.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -593,7 +593,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 6 + I lightning damage
 - **17+:** 9 + I lightning damage
 
-**Effect:** The first time on a turn that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).
+**Effect:** The first time on a [turn](../rule/combat/turn.md) that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).
 
 ##### 5-Piety Ability
 
@@ -604,9 +604,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Cursed by you, your enemy takes more damage from your allies.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -619,9 +619,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Fear of divine judgment overwhelms your foe.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)**  |                      **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |                      **Main action** |
 |----------------------------|-------------------------------------:|
-| **📏 Ranged 10**           |                  **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           |                  **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -634,9 +634,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *The heroes' armor glows with golden light, granting divine protection.*
 
-| **Magic, Ranged**        |       **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**        |       **Maneuver** |
 |--------------------------|-------------------:|
-| **📏 Ranged 10**         | **🎯 Four allies** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**         | **🎯 Four allies** |
 
 **Effect:** You can target yourself instead of one ally with this ability.
 
@@ -649,13 +649,13 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 ##### Sermon of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/sermon-of-grace"}
 
 
-*You inspire your allies with tales of your saint's great deeds.*
+*You inspire your allies with tales of your [saint](../rule/world/saint.md)'s great deeds.*
 
 | **Area, Magic** |              **Main action** |
 |-----------------|-----------------------------:|
 | **📏 4 [burst](../rule/combat/burst.md)**  | **🎯 Each ally in the area** |
 
-**Effect:** Each target can spend a [Recovery](../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../feature/conduit/level-1/triggered-action.md) to end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their turn, or to stand up if [prone](../condition/prone.md).
+**Effect:** Each target can spend a [Recovery](../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../feature/conduit/level-1/triggered-action.md) to end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md), or to stand up if [prone](../condition/prone.md).
 
 ## 2nd-Level Features
 
@@ -667,7 +667,7 @@ Your deity is aware of your growing influence, making it easier to draw their at
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-2/perk"}
 
-You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
+You gain one crafting, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
 ### 2nd-Level Domain Feature {data-scc="mcdm.heroes.v1/feature.conduit.level-2/2nd-level-domain-feature"}
 
@@ -689,7 +689,7 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 | Love       | [Our Hearts Your Strength](../feature/ability/conduit/level-2/our-hearts-your-strength.md)     |
 | Nature     | [Nature Judges Thee](../feature/ability/conduit/level-2/nature-judges-thee.md)           |
 | Protection | [Sacred Bond](../feature/ability/conduit/level-2/sacred-bond.md)                  |
-| Storm      | Saint's Tempest              |
+| Storm      | [Saint](../rule/world/saint.md)'s Tempest              |
 | Sun        | [Morning Light](../feature/ability/conduit/level-2/morning-light.md)                |
 | Trickery   | [Divine Comedy](../feature/ability/conduit/level-2/divine-comedy.md)                |
 | War        | [Blessing of Insight](../feature/ability/conduit/level-2/blessing-of-insight.md)          |
@@ -699,9 +699,9 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 
 *Your enemies suffer their fate; your allies embrace their destiny!*
 
-| **Magic, Ranged**  |        **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |        **Main action** |
 |--------------------|-----------------------:|
-| **📏 Ranged 10**   | **🎯 Three creatures** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Three creatures** |
 
 **Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are [dying](../rule/health/dying.md):
 
@@ -713,11 +713,11 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 
 *The gods grant insight revealing where best to strike your enemies.*
 
-| **Magic, Ranged**  |              **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |              **Maneuver** |
 |--------------------|--------------------------:|
-| **📏 Ranged 10**   | **🎯 Self and each ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self and each ally** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target gains 1 [surge](../rule/resource/surge.md) at the end of each of your turns.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target gains 1 [surge](../rule/resource/surge.md) at the end of each of your [turns](../rule/combat/turn.md).
 
 ##### Divine Comedy {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/divine-comedy"}
 
@@ -733,11 +733,11 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 ##### The Gods Command You Obey {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/the-gods-command-you-obey"}
 
 
-*You speak with the voice of your saint, commanding your enemies.*
+*You speak with the voice of your [saint](../rule/world/saint.md), commanding your enemies.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -760,14 +760,14 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 - **12-16:** 6 fire damage
 - **17+:** 10 fire damage
 
-**Effect:** Each ally in the area deals fire damage equal to your [Intuition](../rule/character/intuition.md) score with their next strike made before the end of their next turn.
+**Effect:** Each ally in the area deals fire damage equal to your [Intuition](../rule/character/intuition.md) score with their next strike made before the end of their next [turn](../rule/combat/turn.md).
 
 ##### Nature Judges Thee {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/nature-judges-thee"}
 
 
 *Mystical thorned vines appear at your bidding and bind your foes.*
 
-| **Area, Magic, Ranged**  |               **Main action** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)**  |               **Main action** |
 |--------------------------|------------------------------:|
 | **📏 3 [cube](../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
@@ -782,31 +782,31 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 
 *An ally gains strength from their friends.*
 
-| **Magic, Ranged**  |             **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |             **Maneuver** |
 |--------------------|-------------------------:|
-| **📏 Ranged 10**   | **🎯 Self and one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self and one ally** |
 
-**Effect:** Until the end of the encounter or until the target is [dying](../rule/health/dying.md), at the start of each of the target's turns, they gain a bonus to [speed](../rule/character/speed.md) and a bonus to [rolled damage](../rule/damage/rolled-damage.md) equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.
+**Effect:** Until the end of the encounter or until the target is [dying](../rule/health/dying.md), at the start of each of the target's [turns](../rule/combat/turn.md), they gain a [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) and a [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md) equal to the number of allies within 10 squares of them. This [bonus](../rule/dice/bonuses-and-penalties.md) lasts until the start of their next [turn](../rule/combat/turn.md).
 
 ##### Reap {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/reap"}
 
 
 *The gods reward those who smite their foes.*
 
-| **Magic, Ranged**  |     **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |     **Maneuver** |
 |--------------------|-----------------:|
-| **📏 Ranged 10**   | **🎯 Each ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Each ally** |
 
-**Effect:** Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](../rule/health/stamina.md) equal to 5 + your [Intuition](../rule/character/intuition.md) score.
+**Effect:** Until the start of your next [turn](../rule/combat/turn.md), each time a target kills an enemy, they regain [Stamina](../rule/health/stamina.md) equal to 5 + your [Intuition](../rule/character/intuition.md) score.
 
 ##### Sacred Bond {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/sacred-bond"}
 
 
 *You forge a divine connection between two creatures.*
 
-| **Magic, Ranged**  |             **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |             **Maneuver** |
 |--------------------|-------------------------:|
-| **📏 Ranged 10**   | **🎯 Self and one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self and one ally** |
 
 **Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free [triggered action](../feature/conduit/level-1/triggered-action.md) to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a [Recovery](../rule/health/recoveries.md), the other target can use a free [triggered action](../feature/conduit/level-1/triggered-action.md) to spend a [Recovery](../rule/health/recoveries.md).
 
@@ -815,7 +815,7 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 
 *A raging storm appears, striking your foes with lightning and throwing them around with wind.*
 
-| **Area, Magic, Ranged**  |               **Main action** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)**  |               **Main action** |
 |--------------------------|------------------------------:|
 | **📏 3 [cube](../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
@@ -830,11 +830,11 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 
 *A marble statue of your deity rises from the earth.*
 
-| **Magic, Ranged**  |   **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |   **Maneuver** |
 |--------------------|---------------:|
-| **📏 Ranged 10**   | **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Special** |
 
-**Effect:** A [size](../rule/character/size.md) 2 statue rises out of the ground in an unoccupied space within [distance](../rule/combat/distance.md) and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 [surge](../rule/resource/surge.md) at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
+**Effect:** A [size](../rule/character/size.md) 2 statue rises out of the ground in an unoccupied space within [distance](../rule/combat/distance.md) and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 [surge](../rule/resource/surge.md) at the start of each of your [turns](../rule/combat/turn.md). Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
 
 ##### Wellspring of Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/wellspring-of-grace"}
 
@@ -845,7 +845,7 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 |------------------|-----------------------------:|
 | **📏 3 [aura](../rule/combat/aura.md)**    | **🎯 Each ally in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever a target starts their turn in the area, they can spend a [Recovery](../rule/health/recoveries.md).
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever a target starts their [turn](../rule/combat/turn.md) in the area, they can spend a [Recovery](../rule/health/recoveries.md).
 
 ## 3rd-Level Features
 
@@ -866,7 +866,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Your divine magic makes a creature appear as what your enemies fear most.*
 
-| **Area, Magic, Ranged**  |               **Main action** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)**  |               **Main action** |
 |--------------------------|------------------------------:|
 | **📏 5 [cube](../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
@@ -883,9 +883,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *An ally becomes the wearer of an empowered golden cloak.*
 
-| **Magic, Ranged**         |    **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**         |    **Maneuver** |
 |---------------------------|----------------:|
-| **📏 Ranged 10**          | **🎯 One ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One ally** |
 
 **Effect:** The target gains 20 [temporary Stamina](../rule/health/temporary-stamina.md) and 3 [surges](../rule/resource/surge.md).
 
@@ -894,9 +894,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *A beam of energy connects a foe to a friend, draining life from one to heal the other.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |  **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |  **Main action** |
 |---------------------------|-----------------:|
-| **📏 Ranged 10**          | **🎯 One enemy** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One enemy** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -909,7 +909,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 #### Words of Wrath and Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-3/words-of-wrath-and-grace"}
 
 
-*Your saint grants your enemies a vision of pain and fills your allies with healing energy.*
+*Your [saint](../rule/world/saint.md) grants your enemies a vision of pain and fills your allies with healing energy.*
 
 | **Area, Magic**  |               **Main action** |
 |------------------|------------------------------:|
@@ -954,7 +954,7 @@ Choose one of your domains. You gain a domain feature for that domain, as shown 
 | Creation   | Improved [Hands of the Maker](../feature/ability/censor/level-1/hands-of-the-maker.md) |
 | Death      | Seance                      |
 | Fate       | [Oracular Warning](../feature/censor/level-4/oracular-warning.md)            |
-| Knowledge  | Saint's Epiphany            |
+| Knowledge  | [Saint](../rule/world/saint.md)'s Epiphany            |
 | Life       | [Blessing of Life](../feature/censor/level-4/blessing-of-life.md)            |
 | Love       | Invocation of the Heart     |
 | Nature     | [Wode Road](../feature/censor/level-4/wode-road.md)                   |
@@ -995,7 +995,7 @@ When you use your [Hands of the Maker](../feature/ability/censor/level-1/hands-o
 
 ##### Improved Sanctified Weapon
 
-The weapon improved by your [Sanctified Weapon](../feature/censor/level-1/sanctified-weapon.md) feature grants a +3 bonus to [rolled damage](../rule/damage/rolled-damage.md) instead of +1.
+The weapon improved by your [Sanctified Weapon](../feature/censor/level-1/sanctified-weapon.md) feature grants a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md) instead of +1.
 
 ##### Invocation of the Heart
 
@@ -1003,7 +1003,7 @@ As a main action, you forge a bond of love and friendship with a willing creatur
 
 ##### Light of Revelation
 
-As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to notice hidden objects and entrances and to detect supernatural illusions.
+As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can't hide. While this feature is active, you gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to notice hidden objects and entrances and to detect [supernatural](../rule/general/supernatural.md) illusions.
 
 ##### Oracular Warning
 
@@ -1019,7 +1019,7 @@ At the start of a [respite](../rule/resource/respite.md), you can inspire yourse
 
 ##### Windwalk
 
-While you have 5 or more [Victories](../rule/resource/victories.md), you can [fly](../movement/fly.md). If you can already [fly](../movement/fly.md), you have a +2 bonus to [speed](../rule/character/speed.md) while [flying](../movement/fly.md) instead.
+While you have 5 or more [Victories](../rule/resource/victories.md), you can [fly](../movement/fly.md). If you can already [fly](../movement/fly.md), you have a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) while [flying](../movement/fly.md) instead.
 
 ##### Wode Road
 
@@ -1042,9 +1042,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You ignite a foe with holy radiance, rewarding allies who attack them.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -1059,7 +1059,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *"If you won't kneel, the gods will make you."*
 
-| **Area, Magic, Ranged**  |               **Main action** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)**  |               **Main action** |
 |--------------------------|------------------------------:|
 | **📏 4 [cube](../rule/combat/cube.md) within 10**  | **🎯 Each enemy in the area** |
 
@@ -1074,20 +1074,20 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You send yourself or an ally to a divine manifold to instantaneously regain health.*
 
-| **Magic, Ranged**  |            **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |            **Maneuver** |
 |--------------------|------------------------:|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
-**Effect:** The target is removed from the encounter map until the start of their next turn and can spend any number of [Recoveries](../rule/health/recoveries.md). At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.
+**Effect:** The target is removed from the encounter map until the start of their next [turn](../rule/combat/turn.md) and can spend any number of [Recoveries](../rule/health/recoveries.md). At the start of their [turn](../rule/combat/turn.md), the target reappears in the space they left or the nearest unoccupied space of their choice.
 
 #### Vessel of Retribution {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-5/vessel-of-retribution"}
 
 
 *You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.*
 
-| **Magic, Ranged**  | **Maneuver**            |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  | **Maneuver**            |
 |--------------------|-------------------------|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
 **Effect:** The first time the target is [dying](../rule/health/dying.md) or [winded](../rule/health/winded.md) before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.
 
@@ -1106,7 +1106,7 @@ You are infused with the power your deity reserves for their most worthy instrum
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-6/perk"}
 
-You gain one crafting, lore, or supernatural perk of your choice.
+You gain one crafting, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
 
 ### 6th-Level Domain Ability {data-scc="mcdm.heroes.v1/feature.conduit.level-6/6th-level-domain-ability"}
 
@@ -1138,16 +1138,16 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 |------------------|---------------------------------:|
 | **📏 4 [aura](../rule/combat/aura.md)**    | **🎯 Each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score. This [forced movement](../movement/forced-movement.md) ignores [stability](../rule/character/stability.md) for your allies.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), at the end of each of your [turns](../rule/combat/turn.md), you can slide each creature in the area up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score. This [forced movement](../movement/forced-movement.md) ignores [stability](../rule/character/stability.md) for your allies.
 
 ##### Blade of the Heavens {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/blade-of-the-heavens"}
 
 
 *A greatsword streams down from the sky, threatening to pin your foe.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 5**            | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 5**            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -1164,29 +1164,29 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 |------------------|------------------------------------------:|
 | **📏 4 [aura](../rule/combat/aura.md)**    | **🎯 Self and each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each enemy in the area takes a [bane](../rule/dice/bane.md) on [power rolls](../rule/dice/power-roll.md), and you and each ally in the area gain 1 [surge](../rule/resource/surge.md) at the end of each of your turns.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each enemy in the area takes a [bane](../rule/dice/bane.md) on [power rolls](../rule/dice/power-roll.md), and you and each ally in the area gain 1 [surge](../rule/resource/surge.md) at the end of each of your [turns](../rule/combat/turn.md).
 
 ##### Cuirass of the Gods {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/cuirass-of-the-gods"}
 
 
 *Your allies are covered in spiritual armor.*
 
-| **Area, Magic, Ranged**  |           **Maneuver** | 
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)**  |           **Maneuver** | 
 |--------------------------|-----------------------:|
-| **📏 Ranged 10**         | **🎯 Three creatures** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**         | **🎯 Three creatures** |
 
-**Effect:** You can target yourself instead of one creature with this ability. Each target has [damage immunity](../rule/damage/damage-immunity.md) 5 until the start of your next turn.
+**Effect:** You can target yourself instead of one creature with this ability. Each target has [damage immunity](../rule/damage/damage-immunity.md) 5 until the start of your next [turn](../rule/combat/turn.md).
 
 ##### Gods' Machine {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/gods-machine"}
 
 
 *You conjure a whirring tank made of blades and metal.*
 
-| **Magic, Ranged** | **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** | **Main action** |
 |-------------------|-----------------|
-| **📏 Ranged 10**  | **🎯 Special**  |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Special**  |
 
-**Effect:** You conjure a [size](../rule/character/size.md) 2 rolling machine that appears in an unoccupied space within [distance](../rule/combat/distance.md). The machine has 50 [Stamina](../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../rule/health/stamina.md) drops to 0, or if you are [dying](../rule/health/dying.md). When the machine first appears, make the following [power roll](../rule/dice/power-roll.md) once, targeting each enemy adjacent to it.
+**Effect:** You conjure a [size](../rule/character/size.md) 2 rolling machine that appears in an unoccupied space within [distance](../rule/combat/distance.md). The machine has 50 [Stamina](../rule/health/stamina.md) and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its [Stamina](../rule/health/stamina.md) drops to 0, or if you are [dying](../rule/health/dying.md). When the machine first appears, make the following [power roll](../rule/dice/power-roll.md) once, targeting each enemy [adjacent](../rule/combat/adjacent.md) to it.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -1194,7 +1194,7 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 - **12-16:** 5 damage
 - **17+:** 8 damage
 
-Once on each subsequent turn, you can use a [free maneuver](../rule/combat/free-maneuver.md) to move the machine a number of squares up to your [Intuition](../rule/character/intuition.md) score then repeat the [power roll](../rule/dice/power-roll.md).
+Once on each subsequent [turn](../rule/combat/turn.md), you can use a [free maneuver](../rule/combat/free-maneuver.md) to move the machine a number of squares up to your [Intuition](../rule/character/intuition.md) score then repeat the [power roll](../rule/dice/power-roll.md).
 
 ##### Invocation of Mystery {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-mystery"}
 
@@ -1205,7 +1205,7 @@ Once on each subsequent turn, you can use a [free maneuver](../rule/combat/free-
 |------------------|--------------------------------------:|
 | **📏 4 [burst](../rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target is invisible until the start of your next turn.
+**Effect:** Each target is invisible until the start of your next [turn](../rule/combat/turn.md).
 
 ##### Invocation of Undoing {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-undoing"}
 
@@ -1229,9 +1229,9 @@ Once on each subsequent turn, you can use a [free maneuver](../rule/combat/free-
 
 *You beseech the gods to give your allies what they need to win the day, and the gods answer.*
 
-| **Magic, Ranged**  |      **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |      **Maneuver** |
 |--------------------|------------------:|
-| **📏 Ranged 10**   | **🎯 Two allies** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Two allies** |
 
 **Effect:** Each target gains 3 of their [Heroic Resource](../rule/resource/heroic-resource.md).
 
@@ -1261,14 +1261,14 @@ Once on each subsequent turn, you can use a [free maneuver](../rule/combat/free-
 |------------------|--------------------------------------:|
 | **📏 4 [burst](../rule/combat/burst.md)**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can spend any number of [Recoveries](../rule/health/recoveries.md). Additionally, each target can end one effect on themself that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their turn, or they can stand up if [prone](../condition/prone.md).
+**Effect:** Each target can spend any number of [Recoveries](../rule/health/recoveries.md). Additionally, each target can end one effect on themself that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md), or they can stand up if [prone](../condition/prone.md).
 
 ##### Spirit Stampede {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/spirit-stampede"}
 
 
 *Animal spirits run through the battlefield, trampling your foes.*
 
-| **Area, Magic, Ranged**     |               **Main action** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)**     |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 10 x 2 line within 5** | **🎯 Each enemy in the area** |
 
@@ -1283,9 +1283,9 @@ Once on each subsequent turn, you can use a [free maneuver](../rule/combat/free-
 
 *You bend the fate of a foe, willing them to die.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Ranged 10**          | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -1305,7 +1305,7 @@ Each of your [characteristic](../rule/character/characteristic.md) scores increa
 
 ### Faithful's Reward {data-scc="mcdm.heroes.v1/feature.conduit.level-7/faithfuls-reward"}
 
-When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 piety.
+When you roll for piety at the start of your [turn](../rule/combat/turn.md) in combat, you gain 1d3 + 1 piety.
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-7/skill"}
 
@@ -1345,9 +1345,9 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 
 *You concentrate on a friend and [teleport](../movement/teleport.md) to them.*
 
-| **Magic, Ranged**  |           **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |           **Main action** |
 |--------------------|--------------------------:|
-| **📏 Ranged 10**   | **🎯 Self and each ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self and each ally** |
 
 **Effect:** Each target is [teleport](../movement/teleport.md)ed to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don't need [line of effect](../rule/combat/line-of-effect.md) to the bonded creature but you must be on the same world.
 
@@ -1357,7 +1357,7 @@ Each time you finish a [respite](../rule/resource/respite.md), you can choose a 
 
 #### Font of Grace {data-scc="mcdm.heroes.v1/feature.conduit.level-7/font-of-grace"}
 
-Each time you use your [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../feature/conduit/level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
+Each time you use your [Healing Grace](../feature/ability/conduit/level-1/healing-grace.md) ability, you gain 1 piety that can be spent only on that ability during the same [turn](../rule/combat/turn.md). If you don't use this piety, it is lost. Additionally, you can use your [Minor Miracle](../feature/conduit/level-3/minor-miracle.md) feature to return a creature to life even if you don't have their remains.
 
 #### Gods' Library {data-scc="mcdm.heroes.v1/feature.conduit.level-7/gods-library"}
 
@@ -1373,15 +1373,15 @@ When you finish a [respite](../rule/resource/respite.md), you can prepare a magi
 
 - Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different [damage immunity](../rule/damage/damage-immunity.md) each time.
 - Each creature gains 20 [temporary Stamina](../rule/health/temporary-stamina.md).
-- Each creature gains a +1 bonus to [speed](../rule/character/speed.md).
-- Each creature gains a +1 bonus to [saving throws](../rule/general/saving-throw.md).
+- Each creature gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md).
+- Each creature gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md).
 - Each creature gains an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) made to influence other creatures.
 
 Each benefit lasts until the creature who gains it finishes another [respite](../rule/resource/respite.md).
 
 #### Thunderstruck {data-scc="mcdm.heroes.v1/feature.conduit.level-7/thunderstruck"}
 
-Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 [surge](../rule/resource/surge.md). Additionally, if you use an ability that force moves a creature, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Intuition](../rule/character/intuition.md) score.
+Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 [surge](../rule/resource/surge.md). Additionally, if you use an ability that force moves a creature, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a [bonus](../rule/dice/bonuses-and-penalties.md) equal to your [Intuition](../rule/character/intuition.md) score.
 
 #### Trinity of Trickery {data-scc="mcdm.heroes.v1/feature.conduit.level-7/trinity-of-trickery"}
 
@@ -1392,11 +1392,11 @@ You have the following ability.
 
 *Hey! I'm over here. No, here, numbskull.*
 
-| **Magic, Ranged**  |            **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |            **Maneuver** |
 |--------------------|------------------------:|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
-**Effect:** You create two illusory duplicates of the target, which appear anywhere within [distance](../rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their [speed](../rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../feature/conduit/level-1/triggered-action.md) to switch places with a duplicate within their [line of effect](../rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
+**Effect:** You create two illusory duplicates of the target, which appear anywhere within [distance](../rule/combat/distance.md). These duplicates last until the end of the encounter. On each of their [turns](../rule/combat/turn.md), the target can move each duplicate up to their [speed](../rule/character/speed.md). If the target is targeted by an ability, they can use a free [triggered action](../feature/conduit/level-1/triggered-action.md) to switch places with a duplicate within their [line of effect](../rule/combat/line-of-effect.md), making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
 
 #### Word of Death Deferred {data-scc="mcdm.heroes.v1/feature.conduit.level-7/word-of-death-deferred"}
 
@@ -1433,11 +1433,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.*
 
-| **Magic, Ranged**  |         **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |         **Main action** |
 |--------------------|------------------------:|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
-**Effect:** The target can spend any number of [Recoveries](../rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of their turn, and can stand up if they [are prone](../condition/prone.md). Additionally, at the start of each of their turns until the end of the encounter or until they are [dying](../rule/health/dying.md), the target gains 3 [surges](../rule/resource/surge.md).
+**Effect:** The target can spend any number of [Recoveries](../rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of their [turn](../rule/combat/turn.md), and can stand up if they [are prone](../condition/prone.md). Additionally, at the start of each of their [turns](../rule/combat/turn.md) until the end of the encounter or until they are [dying](../rule/health/dying.md), the target gains 3 [surges](../rule/resource/surge.md).
 
 #### Blessing of Steel {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/blessing-of-steel"}
 
@@ -1459,16 +1459,16 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 |-------------------|--------------------------------------:|
 | **📏 5 [aura](../rule/combat/aura.md)**     | **🎯 Self and each ally in the area** |
 
-**Effect:** At the end of each of your turns until the end of the encounter or until you are [dying](../rule/health/dying.md), each target gains 3 [surges](../rule/resource/surge.md).
+**Effect:** At the end of each of your [turns](../rule/combat/turn.md) until the end of the encounter or until you are [dying](../rule/health/dying.md), each target gains 3 [surges](../rule/resource/surge.md).
 
 #### Drag the Unworthy {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-8/drag-the-unworthy"}
 
 
 *You conjure an angel who moves a foe and heals your allies.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)**  |               **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |               **Main action** |
 |----------------------------|------------------------------:|
-| **📏 Ranged 10**           | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -1476,7 +1476,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 13 + I holy damage; slide 4
 - **17+:** 18 + I holy damage; slide 6
 
-**Effect:** Each ally the target comes adjacent to during the [forced movement](../movement/forced-movement.md) can spend a [Recovery](../rule/health/recoveries.md).
+**Effect:** Each ally the target comes [adjacent](../rule/combat/adjacent.md) to during the [forced movement](../movement/forced-movement.md) can spend a [Recovery](../rule/health/recoveries.md).
 
 ## 9th-Level Features
 
@@ -1516,20 +1516,20 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 
 *You speak inspiring words to a friend and spur them to incredible feats.*
 
-| **Magic, Ranged**  |    **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |    **Maneuver** |
 |--------------------|----------------:|
-| **📏 Ranged 10** | **🎯 One ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10** | **🎯 One ally** |
 
-**Effect:** The target has an additional main action they can use on their next turn, and gains 3 of their [Heroic Resource](../rule/resource/heroic-resource.md).
+**Effect:** The target has an additional main action they can use on their next [turn](../rule/combat/turn.md), and gains 3 of their [Heroic Resource](../rule/resource/heroic-resource.md).
 
 ##### Bend Fate {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/bend-fate"}
 
 
 *The gods know you must prevail, and they bless your fate.*
 
-| **Magic, Ranged**  |         **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |         **Main action** |
 |--------------------|------------------------:|
-| **📏 Ranged 10**   | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Self or one ally** |
 
 **Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each of the target's [power rolls](../rule/dice/power-roll.md) has its outcome improved by one tier.
 
@@ -1549,13 +1549,13 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 
 *From nothing but divine will, you create a powerful ally.*
 
-| **Magic, Ranged**  | **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  | **Main action** |
 |--------------------|----------------:|
-| **📏 Ranged 10**   |  **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   |  **🎯 Special** |
 
 **Effect:** You conjure a [size](../rule/character/size.md) 4 dragon that appears in an unoccupied space within [distance](../rule/combat/distance.md). The dragon has [speed](../rule/character/speed.md) 6 and can [fly](../movement/fly.md), [stability](../rule/character/stability.md) 4, 100 [Stamina](../rule/health/stamina.md), immunity all to fire damage, and uses your [characteristics](../rule/character/characteristic.md). The dragon disappears at the end of the encounter, if their [Stamina](../rule/health/stamina.md) drops to 0, or if you are [dying](../rule/health/dying.md).
 
-On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 [cube](../rule/combat/cube.md) within 1 square of them. Make the following [power roll](../rule/dice/power-roll.md) targeting each enemy in the area.
+On subsequent [turns](../rule/combat/turn.md), you can use a main action to command the dragon to breathe magic fire in a 3 [cube](../rule/combat/cube.md) within 1 square of them. Make the following [power roll](../rule/dice/power-roll.md) targeting each enemy in the area.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -1563,7 +1563,7 @@ On subsequent turns, you can use a main action to command the dragon to breathe 
 - **12-16:** 9 fire damage
 - **17+:** 12 fire damage
 
-Additionally, you can use a maneuver to move the dragon up to their [speed](../rule/character/speed.md), or to make a melee weapon [strike](../rule/combat/strike.md) with their claw against an adjacent creature or object. The dragon can also make this [strike](../rule/combat/strike.md) as a [free strike](../feature/common/main-actions/free-strike.md).
+Additionally, you can use a maneuver to move the dragon up to their [speed](../rule/character/speed.md), or to make a [melee](../rule/combat/melee.md) weapon [strike](../rule/combat/strike.md) with their claw against an [adjacent](../rule/combat/adjacent.md) creature or object. The dragon can also make this [strike](../rule/combat/strike.md) as a [free strike](../feature/common/main-actions/free-strike.md).
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -1576,7 +1576,7 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../r
 
 *You summon a divine storm that remains under your control.*
 
-| **Area, Magic, Ranged** |               **Main action** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 5 [cube](../rule/combat/cube.md) within 5**  | **🎯 Each enemy in the area** |
 
@@ -1586,14 +1586,14 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../r
 - **12-16:** 3 lightning damage, 3 sonic damage
 - **17+:** 5 lightning damage, 5 sonic damage
 
-**Effect:** A raging storm fills the area until the end of the encounter or until you are [dying](../rule/health/dying.md). At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its [power roll](../rule/dice/power-roll.md).
+**Effect:** A raging storm fills the area until the end of the encounter or until you are [dying](../rule/health/dying.md). At the start of each of your [turns](../rule/combat/turn.md), you can move the storm up to 5 squares (no action required). On subsequent [turns](../rule/combat/turn.md) while the storm is active, you can use a maneuver to make its [power roll](../rule/dice/power-roll.md).
 
 ##### Night Falls {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/night-falls"}
 
 
 *You summon darkness that thwarts only your foes.*
 
-| **Area, Magic, Ranged** |  **Main action** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)** |  **Main action** |
 |-------------------------|-----------------:|
 | **📏 5 [cube](../rule/combat/cube.md) within 10** |   **🎯 Special** |
 
@@ -1604,29 +1604,29 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../r
 
 *Intense light is emitted from your body, healing your allies.*
 
-| **Magic, Ranged**  |    **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |    **Main action** |
 |--------------------|-------------------:|
-| **📏 Ranged 10**   | **🎯 Four allies** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 Four allies** |
 
-**Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of [Recoveries](../rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of their turn, and can stand up if they [are prone](../condition/prone.md).
+**Effect:** You can target yourself instead of one ally with this ability. Each target can spend any number of [Recoveries](../rule/health/recoveries.md), can end any effects on them that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of their [turn](../rule/combat/turn.md), and can stand up if they [are prone](../condition/prone.md).
 
 ##### Righteous Phalanx {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/righteous-phalanx"}
 
 
 *A wall of spinning swords and knives appears where you wish.*
 
-| **Area, Magic, Ranged**  | **Main action** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)**  | **Main action** |
 |--------------------------|----------------:|
 | **📏 15 wall within 10** |  **🎯 Special** |
 
-**Effect:** The wall lasts until the end of the encounter or until you are [dying](../rule/health/dying.md), and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 15 damage.
+**Effect:** The wall lasts until the end of the encounter or until you are [dying](../rule/health/dying.md), and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a [combat round](../rule/combat/combat-round.md) or starts their turn there takes 15 damage.
 
 ##### Solar Flare {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/solar-flare"}
 
 
 *You call down a sphere of fire that burns your foes to ash.*
 
-| **Area, Magic, Ranged** |               **Main action** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 5 [cube](../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 
@@ -1641,9 +1641,9 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../r
 
 *Vines [burst](../rule/combat/burst.md) forth from the ground and bind your foe, slowly closing around them.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)**  |     **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 10**           | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**           | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -1651,16 +1651,16 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../r
 - **12-16:** 15 + I damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
 - **17+:** 21 + I damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-**Effect:** While [restrained](../condition/restrained.md) this way, the target takes 10 damage at the start of each of your turns.
+**Effect:** While [restrained](../condition/restrained.md) this way, the target takes 10 damage at the start of each of your [turns](../rule/combat/turn.md).
 
 ##### Word of Final Redemption {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-9/word-of-final-redemption"}
 
 
 *Your death will fuel our [victory](../rule/resource/victories.md).*
 
-| **Magic, Ranged**  |  **Free triggered** |
+| **Magic, [Ranged](../rule/combat/ranged.md)**  |  **Free triggered** |
 |--------------------|--------------------:|
-| **📏 Ranged 10**   | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**   | **🎯 One creature** |
 
 **Trigger:** The target dies.
 
@@ -1671,9 +1671,9 @@ Additionally, you can use a maneuver to move the dragon up to their [speed](../r
 
 *You utter a divine word that makes a foe brittle.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
@@ -1707,11 +1707,11 @@ Additionally, you can spend [divine power](../feature/conduit/level-10/divine-po
 
 ### Most Pious {data-scc="mcdm.heroes.v1/feature.conduit.level-10/most-pious"}
 
-When you roll for piety at the start of your turn in combat and you pray, you gain 1 additional piety.
+When you roll for piety at the start of your [turn](../rule/combat/turn.md) in combat and you pray, you gain 1 additional piety.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.conduit.level-10/perk"}
 
-You gain one crafting, lore, or supernatural perk of your choice.
+You gain one crafting, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.conduit.level-10/skill"}
 

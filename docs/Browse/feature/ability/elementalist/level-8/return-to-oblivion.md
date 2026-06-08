@@ -2,13 +2,13 @@
 action_type: Main action
 class: elementalist
 cost: 11 Essence
-distance: Ranged 10
-effect: You create a [size](../../../../rule/character/size.md) 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../../../../condition/prone.md). At the end of the round, if a [winded](../../../../rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: You create a [size](../../../../rule/character/size.md) 1L vortex that lasts until the end of the encounter. At the start of each [combat round](../../../../rule/combat/combat-round.md) while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../../../../condition/prone.md). At the end of the round, if a [winded](../../../../rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 flavor: You create a tear in reality that could consume everything.
 keywords:
     - Area
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Void
 level: "8"
 name: Return to Oblivion
@@ -31,13 +31,13 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Essence</div></div>
 </div>
 <p class="sc-ability__flavor">You create a tear in reality that could consume everything.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Void</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">Void</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create a <a href="../../../../../rule/character/size/">size</a> 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is <a href="../../../../../condition/prone/">knocked prone</a>. At the end of the round, if a <a href="../../../../../rule/health/winded/">winded</a> enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.</p></div>
+<div class="sc-ability__section-body"><p>You create a <a href="../../../../../rule/character/size/">size</a> 1L vortex that lasts until the end of the encounter. At the start of each <a href="../../../../../rule/combat/combat-round/">combat round</a> while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is <a href="../../../../../condition/prone/">knocked prone</a>. At the end of the round, if a <a href="../../../../../rule/health/winded/">winded</a> enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.</p></div>
 </div>
 </article>

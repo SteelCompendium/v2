@@ -119,7 +119,7 @@ Your lawful nature and quick reflexes mean you give no quarter to creatures tryi
 
 #### Keeper of Order {data-scc="mcdm.heroes.v1/feature.trait.memonek/keeper-of-order"}
 
-Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an adjacent creature makes a [power roll](../rule/dice/power-roll.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to remove an [edge](../rule/dice/edge.md) or a [bane](../rule/dice/bane.md) on the roll, to turn a double [edge](../rule/dice/edge.md) into an [edge](../rule/dice/edge.md), or to turn a double [bane](../rule/dice/bane.md) into a [bane](../rule/dice/bane.md).
+Your connection to Axiom, the plane of Uttermost Law, allows you to manage chaos around you. Once per round when you or an [adjacent](../rule/combat/adjacent.md) creature makes a [power roll](../rule/dice/power-roll.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to remove an [edge](../rule/dice/edge.md) or a [bane](../rule/dice/bane.md) on the roll, to [turn](../rule/combat/turn.md) a double [edge](../rule/dice/edge.md) into an [edge](../rule/dice/edge.md), or to [turn](../rule/combat/turn.md) a double [bane](../rule/dice/bane.md) into a [bane](../rule/dice/bane.md).
 
 #### Lightning Nimbleness {data-scc="mcdm.heroes.v1/feature.trait.memonek/lightning-nimbleness"}
 
@@ -139,4 +139,4 @@ Your ordered mind can't be caught off guard. You can't be made [surprised](../ru
 
 #### Useful Emotion {data-scc="mcdm.heroes.v1/feature.trait.memonek/useful-emotion"}
 
-Velloparatha—the worldsickness—might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 [surge](../rule/resource/surge.md).
+Velloparatha—the worldsickness—might hinder you, but you know how to [turn](../rule/combat/turn.md) your pain into something your enemies feel. At the start of any combat, you gain 1 [surge](../rule/resource/surge.md).

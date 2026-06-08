@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a <a href="../../../null/level-7/psi-boost/">psi boost</a> to it and enhance its effects. A <a href="../../../null/level-7/psi-boost/">psi boost</a>&#39;s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a <a href="../../../null/level-7/psi-boost/">psi boost</a> to it and enhance its effects. A <a href="../../../null/level-7/psi-boost/">psi boost</a>&#39;s effects only last until the end of the <a href="../../../../rule/combat/turn/">turn</a> which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -30,7 +30,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability force moves a target, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
+<p>If the ability force moves a target, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -52,7 +52,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If the ability is ranged, the <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../rule/character/reason/">Reason</a> score. If the ability is melee, the <a href="../../../../rule/combat/distance/">distance</a> gains a +2 bonus.</p>
+<p>If the ability is <a href="../../../../rule/combat/ranged/">ranged</a>, the <a href="../../../../rule/combat/distance/">distance</a> gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../rule/character/reason/">Reason</a> score. If the ability is <a href="../../../../rule/combat/melee/">melee</a>, the <a href="../../../../rule/combat/distance/">distance</a> gains a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

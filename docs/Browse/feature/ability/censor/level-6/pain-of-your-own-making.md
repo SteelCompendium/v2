@@ -2,18 +2,18 @@
 action_type: Free triggered
 class: censor
 cost: 9 Wrath
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your [Presence](../../../../rule/character/presence.md) score.
 flavor: You reverse the effects from an evildoer.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "6"
 name: Pain of Your Own Making
 scc: mcdm.heroes.v1/feature.ability.censor.level-6/pain-of-your-own-making
 subtype: triggered
 target: Self or one ally
-trigger: The target gains a condition or effect that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn.
+trigger: The target gains a [condition](../../../../rule/combat/condition.md) or effect that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md).
 type: ability
 ---
 
@@ -31,14 +31,14 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Wrath</div></div>
 </div>
 <p class="sc-ability__flavor">You reverse the effects from an evildoer.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target gains a condition or effect that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>The target gains a <a href="../../../../../rule/combat/condition/">condition</a> or effect that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

@@ -2,14 +2,14 @@
 action_type: Main action
 class: talent
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
-effect: A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.
+effect: A column of fire remains in the area until the start of your next [turn](../../../../rule/combat/turn.md). Each enemy who enters the area for the first time in a [combat round](../../../../rule/combat/combat-round.md) or starts their turn there takes 2 fire damage.
 flavor: The air erupts into a column of smokeless flame.
 keywords:
     - Area
     - Fire
     - Psionic
     - Pyrokinesis
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Incinerate
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/incinerate
@@ -32,7 +32,7 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">The air erupts into a column of smokeless flame.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Pyrokinesis</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Pyrokinesis</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
@@ -42,10 +42,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.</p></div>
+<div class="sc-ability__section-body"><p>A column of fire remains in the area until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>. Each enemy who enters the area for the first time in a <a href="../../../../../rule/combat/combat-round/">combat round</a> or starts their turn there takes 2 fire damage.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The size of the <a href="../../../../../rule/combat/cube/">cube</a> increases by 2, but the fire disappears at the end of your turn.</p></div>
+<div class="sc-ability__section-body"><p>The size of the <a href="../../../../../rule/combat/cube/">cube</a> increases by 2, but the fire disappears at the end of your <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

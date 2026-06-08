@@ -30,7 +30,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain a +6 bonus to <a href="../../../../rule/health/stamina/">Stamina</a>, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to <a href="../../../../rule/character/stability/">stability</a>.</p>
+<p>You gain a +6 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/health/stamina/">Stamina</a>, and this <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/stability/">stability</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -41,7 +41,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your damage-dealing psionic abilities gain a +1 bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a>.</p>
+<p>Your damage-dealing psionic abilities gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -52,7 +52,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain a +1 bonus to <a href="../../../../rule/character/speed/">speed</a> and to the <a href="../../../../rule/combat/distance/">distance</a> you can <a href="../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
+<p>You gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> and to the <a href="../../../../rule/combat/distance/">distance</a> you can <a href="../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action.</p>
 </div>
 </section>
 </div>

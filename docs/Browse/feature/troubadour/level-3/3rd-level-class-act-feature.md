@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of an encounter, choose one creature within your <a href="../../../../rule/combat/line-of-effect/">line of effect</a>. You have a double <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a> made against or in competition with that creature. The chosen creature also has a double <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a> made against or in competition with you. If the chosen creature is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, you can choose a new foil at the start of the next combat round.</p>
+<p>At the start of an encounter, choose one creature within your <a href="../../../../rule/combat/line-of-effect/">line of effect</a>. You have a double <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a> made against or in competition with that creature. The chosen creature also has a double <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a> made against or in competition with you. If the chosen creature is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, you can choose a new foil at the start of the next <a href="../../../../rule/combat/combat-round/">combat round</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">3</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If you aren&#39;t <a href="../../../../rule/combat/surprised/">surprised</a> at the start of an encounter, you can choose one enemy within your <a href="../../../../rule/combat/line-of-effect/">line of effect</a> who is not a leader or solo creature. The Director temporarily removes the chosen creature from the encounter. The chosen creature enters the encounter at the start of the second combat round. You must earn 3 <a href="../../../../rule/resource/victories/">Victories</a> before you can use this feature again.</p>
+<p>If you aren&#39;t <a href="../../../../rule/combat/surprised/">surprised</a> at the start of an encounter, you can choose one enemy within your <a href="../../../../rule/combat/line-of-effect/">line of effect</a> who is not a leader or solo creature. The Director temporarily removes the chosen creature from the encounter. The chosen creature enters the encounter at the start of the second <a href="../../../../rule/combat/combat-round/">combat round</a>. You must earn 3 <a href="../../../../rule/resource/victories/">Victories</a> before you can use this feature again.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -81,7 +81,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area doesn&#39;t take a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/combat/strike/">strikes</a> against creatures with <a href="../../../../rule/combat/concealment/">concealment</a>. Once during their turn, they can search for hidden creatures as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> (see Hide and Sneak in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>).</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../../rule/combat/turn/">turn</a> in the area doesn&#39;t take a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/combat/strike/">strikes</a> against creatures with <a href="../../../../rule/combat/concealment/">concealment</a>. Once during their <a href="../../../../rule/combat/turn/">turn</a>, they can search for hidden creatures as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> (see Hide and Sneak in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a>).</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="none">
@@ -101,7 +101,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn <a href="../../../../rule/health/dying/">dying</a> while in the area gains an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a> and ignores the effects of <a href="../../../../condition/bleeding/">bleeding</a> until the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../../rule/combat/turn/">turn</a> <a href="../../../../rule/health/dying/">dying</a> while in the area gains an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a> and ignores the effects of <a href="../../../../condition/bleeding/">bleeding</a> until the end of their <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 </div>

@@ -30,7 +30,7 @@
   <div class="sc-card__head"><span class="sc-crest"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 1L3 5V11C3 16.5 6.8 21.7 12 23C17.2 21.7 21 16.5 21 11V5L12 1M15 15H13V18H11V15H9V13H11L10 7.1L12 5.5L14 7.1L13 13H15V15Z"/></svg></span></span>
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Conduit</div></div></div>
-  <div class="sc-card__intro"><p>The power of the gods flows through you! As a vessel for <a href="../feature/conduit/level-10/divine-power/">divine power</a>, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.</p>
+  <div class="sc-card__intro"><p>The power of the gods flows through you! As a vessel for <a href="../feature/conduit/level-10/divine-power/">divine power</a>, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. Though the deity or <a href="../rule/world/saint/">saint</a> you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.</p>
 <p><strong>As a <a href="conduit/">conduit</a>, you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.</strong></p>
 <blockquote>
 <p>&quot;The gods judge our actions, and our inaction.&quot;</p>
@@ -67,7 +67,7 @@
     <div><div class="sc-card__type">Class</div>
     <div class="sc-card__name">Null</div></div></div>
   <div class="sc-card__intro"><p>The mind is not separate from the body. Perfection of one requires perfection of the other. You strive for perfect discipline, perfect order, mastery over mind and body, becoming an unarmed psionic warrior who dampens and absorbs magic and psionics. You require no weapons, no tools. You suffice.</p>
-<p><strong>As a <a href="null/">null</a>, you resist the supernatural forces of the universe with composure and confidence. As you strive for perfect order, you are an enemy of the ultimate expression of chaos: the supernatural. Those who break the laws of nature using sorcery or psionics should fear you.</strong></p>
+<p><strong>As a <a href="null/">null</a>, you resist the <a href="../rule/general/supernatural/">supernatural</a> forces of the universe with composure and confidence. As you strive for perfect order, you are an enemy of the ultimate expression of chaos: the <a href="../rule/general/supernatural/">supernatural</a>. Those who break the laws of nature using sorcery or psionics should fear you.</strong></p>
 <blockquote>
 <p>&quot;Any weapon can be turned against the hand that wields it.&quot;</p>
 <p><strong>Ardashir</strong></p>

@@ -1,9 +1,9 @@
 ---
 action_type: Maneuver
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can usually target only creatures of your [size](../../../../rule/character/size.md) or smaller. If your [Might](../../../../rule/character/might.md) score is 2 or higher, you can target any creature with a [size](../../../../rule/character/size.md) equal to or less than your [Might](../../../../rule/character/might.md) score.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 name: Knockback
 scc: mcdm.heroes.v1/feature.ability.common.maneuvers/knockback
@@ -24,9 +24,9 @@ type: ability
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

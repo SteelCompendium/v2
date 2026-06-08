@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
-effect: While this performance is active, each target who starts their turn in the area gains a +2 bonus to [speed](../../../../rule/character/speed.md) until the end of their turn.
+effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains a +2 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md) until the end of their [turn](../../../../rule/combat/turn.md).
 flavor: Taps, kicks, steps. It's all "[choreography](choreography.md)."
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area gains a +2 bonus to <a href="../../../../../rule/character/speed/">speed</a> until the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../../../rule/combat/turn/">turn</a> in the area gains a +2 <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../../rule/character/speed/">speed</a> until the end of their <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

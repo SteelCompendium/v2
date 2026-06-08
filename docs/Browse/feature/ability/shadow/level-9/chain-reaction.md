@@ -2,11 +2,11 @@
 action_type: Main action
 class: shadow
 cost: 11 Insight
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).
 flavor: One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Chain Reaction
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/chain-reaction
@@ -28,9 +28,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Insight</div></div>
 </div>
 <p class="sc-ability__flavor">One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">

@@ -39,7 +39,7 @@ The easiest way to create custom titles is to modify an existing title's require
 
 > **For the Director: Perks as Custom Titles**
 >
-> You can turn a perk into a 1st-[echelon](../../Browse/rule/general/echelon.md) title simply by giving it a prerequisite (see Chapter 7: [Perks](perks.md)). For example, a hero might gain the Familiar perk as a title instead if they complete a quest for an archmage, who then teaches the hero the conjuring ritual as a reward.
+> You can [turn](../../Browse/rule/combat/turn.md) a perk into a 1st-[echelon](../../Browse/rule/general/echelon.md) title simply by giving it a prerequisite (see Chapter 7: [Perks](perks.md)). For example, a hero might gain the Familiar perk as a title instead if they complete a quest for an archmage, who then teaches the hero the conjuring ritual as a reward.
 
 ## How Many Titles?
 
@@ -102,8 +102,8 @@ Titles suitable for 1st-[echelon](../../Browse/rule/general/echelon.md) characte
 **Effect:** Choose one of the following benefits:
 
 - *Duck!:* When an enemy strikes you while a second creature is [flanking](../../Browse/rule/combat/flanking.md) you, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to redirect the [strike](../../Browse/rule/combat/strike.md) against the second creature. Once you use this benefit, you can't use it again until you earn 1 or more [Victories](../../Browse/rule/resource/victories.md).
-- *Furniture Fighter:* When you use a weapon ability with an improvised weapon or a weapon that isn't part of your kit, the ability benefits from your kit's melee weapon damage bonus.
-- *Headbutt:* While you are [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md), your [free strikes](../../Browse/feature/common/main-actions/free-strike.md) don't take a [bane](../../Browse/rule/dice/bane.md) when those conditions would impose one.
+- *Furniture Fighter:* When you use a weapon ability with an improvised weapon or a weapon that isn't part of your kit, the ability benefits from your kit's [melee](../../Browse/rule/combat/melee.md) weapon damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).
+- *Headbutt:* While you are [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md), your [free strikes](../../Browse/feature/common/main-actions/free-strike.md) don't take a [bane](../../Browse/rule/dice/bane.md) when those [conditions](../../Browse/rule/combat/condition.md) would impose one.
 - *If I Wanted You Dead, You'd Be Dead:* Whenever you defeat foes without killing any of them (including the foes you defeat to meet the prerequisite for this title), you gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) during negotiations with those foes.
 
 ### City Rat {data-scc="mcdm.heroes.v1/title/city-rat"}
@@ -134,9 +134,9 @@ Titles suitable for 1st-[echelon](../../Browse/rule/general/echelon.md) characte
 
 **Effect:** Choose one of the following benefits:
 
-- *Close Formation:* While adjacent to two or more allies, you gain a +2 bonus to [stability](../../Browse/rule/character/stability.md).
+- *Close Formation:* While [adjacent](../../Browse/rule/combat/adjacent.md) to two or more allies, you gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md).
 - *Rune of Alarm:* You can spend 10 uninterrupted minutes to inscribe a magic eye-shaped rune on a surface. The rune sheds light for 2 squares. The rune is dispelled 1 minute after it is activated or if you inscribe the rune elsewhere. The rune activates when an enemy comes within 2 squares of it. When the rune is activated, you wake up if you are nonmagically asleep, and you can perceive through the rune for 1 minute as if you were in its square.
-- *Stonemeld:* While adjacent to a stone wall, you can use a maneuver to gain [concealment](../../Browse/rule/combat/concealment.md). This [concealment](../../Browse/rule/combat/concealment.md) lasts until you leave the square or use an ability.
+- *Stonemeld:* While [adjacent](../../Browse/rule/combat/adjacent.md) to a stone wall, you can use a maneuver to gain [concealment](../../Browse/rule/combat/concealment.md). This [concealment](../../Browse/rule/combat/concealment.md) lasts until you leave the square or use an ability.
 
 ### Elemental Dabbler {data-scc="mcdm.heroes.v1/title/elemental-dabbler"}
 
@@ -160,8 +160,8 @@ Titles suitable for 1st-[echelon](../../Browse/rule/general/echelon.md) characte
 
 Additionally, the Director assigns you one of the following benefits, as appropriate to the faction in question. The Director can also create a custom benefit for a type of faction not noted here. You can use this benefit only in a settlement where your faction has a presence, and once you use this benefit, you can't use it again until you complete a task for your faction.
 
-- *Academic Faction:* You find a sage who can make up to three [Reason](../../Browse/rule/character/reason.md) [tests](../../Browse/rule/test/test.md) to recall lore or make [project rolls](../../Browse/rule/downtime/project-roll.md) for [research projects](../../Browse/rule/downtime/research-project.md) on your behalf. The sage has a +5 bonus to these [tests](../../Browse/rule/test/test.md). These [project rolls](../../Browse/rule/downtime/project-roll.md) take 10 minutes each and don't need to be made during a [respite](../../Browse/rule/resource/respite.md).
-- *Guild Faction:* You find an expert crafter who can make up to three [project rolls](../../Browse/rule/downtime/project-roll.md) for [crafting projects](../../Browse/rule/downtime/crafting-project.md) on your behalf. The crafter has a +5 bonus to these [tests](../../Browse/rule/test/test.md). These [project rolls](../../Browse/rule/downtime/project-roll.md) take 10 uninterrupted minutes each and don't need to be made during a [respite](../../Browse/rule/resource/respite.md).
+- *Academic Faction:* You find a sage who can make up to three [Reason](../../Browse/rule/character/reason.md) [tests](../../Browse/rule/test/test.md) to recall lore or make [project rolls](../../Browse/rule/downtime/project-roll.md) for [research projects](../../Browse/rule/downtime/research-project.md) on your behalf. The sage has a +5 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to these [tests](../../Browse/rule/test/test.md). These [project rolls](../../Browse/rule/downtime/project-roll.md) take 10 minutes each and don't need to be made during a [respite](../../Browse/rule/resource/respite.md).
+- *Guild Faction:* You find an expert crafter who can make up to three [project rolls](../../Browse/rule/downtime/project-roll.md) for [crafting projects](../../Browse/rule/downtime/crafting-project.md) on your behalf. The crafter has a +5 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to these [tests](../../Browse/rule/test/test.md). These [project rolls](../../Browse/rule/downtime/project-roll.md) take 10 uninterrupted minutes each and don't need to be made during a [respite](../../Browse/rule/resource/respite.md).
 - *Martial Faction:* You recruit up to three minions with levels no greater than your own, of a type appropriate for the faction (such as **[human](../../Browse/ancestry/human.md) guards**). These minions follow your orders for a day.
 - *Spy Faction:* You find an agent who can provide you with three pieces of information about the settlement you're in, such as the location of a hidden person, a secret entrance into a guarded area, or the negotiation motivation or pitfall of an important person.
 
@@ -192,8 +192,8 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 **Effect:** Choose one of the following benefits:
 
 - *Arcane Dampening:* When resisting [potencies](../../Browse/rule/character/potency.md) from magic abilities, your [characteristic](../../Browse/rule/character/characteristic.md) scores are considered to be 1 higher than usual.
-- *Oh No, You Don't!:* Whenever an adjacent creature uses an ability with the Magic keyword, you can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them as a [triggered action](../../Browse/rule/combat/triggered-action.md).
-- *Stink of Magic:* As a maneuver, you open your senses to the residue of magic. Until the end of your next turn, you are aware of whether each creature within 5 squares is a construct, an undead, or a creature from another world, and whether they have used a magic ability in the previous hour. Additionally, you can't be [surprised](../../Browse/rule/combat/surprised.md) by constructs, undead, or creatures from another world.
+- *Oh No, You Don't!:* Whenever an [adjacent](../../Browse/rule/combat/adjacent.md) creature uses an ability with the Magic keyword, you can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against them as a [triggered action](../../Browse/rule/combat/triggered-action.md).
+- *Stink of Magic:* As a maneuver, you open your senses to the residue of magic. Until the end of your next [turn](../../Browse/rule/combat/turn.md), you are aware of whether each creature within 5 squares is a construct, an undead, or a creature from another world, and whether they have used a magic ability in the previous hour. Additionally, you can't be [surprised](../../Browse/rule/combat/surprised.md) by constructs, undead, or creatures from another world.
 
 ### Marshal {data-scc="mcdm.heroes.v1/title/marshal"}
 
@@ -203,8 +203,8 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 **Effect:** Choose one of the following benefits:
 
-- *Guess It's the Hard Way Then:* When combat begins and you aren't [surprised](../../Browse/rule/combat/surprised.md), the first time you take damage before taking your turn, you halve that damage.
-- *Heedless Pursuer:* Once on each of your turns, you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to deal yourself 1d6 damage that can't be reduced in any way. When you do, you ignore [difficult terrain](../../Browse/movement/difficult-terrain.md) and you can increase the [distance](../../Browse/rule/combat/distance.md) of any jump you make by 1 square, both until the end of your turn.
+- *Guess It's the Hard Way Then:* When combat begins and you aren't [surprised](../../Browse/rule/combat/surprised.md), the first time you take damage before taking your [turn](../../Browse/rule/combat/turn.md), you halve that damage.
+- *Heedless Pursuer:* Once on each of your [turns](../../Browse/rule/combat/turn.md), you can use a [free maneuver](../../Browse/rule/combat/free-maneuver.md) to deal yourself 1d6 damage that can't be reduced in any way. When you do, you ignore [difficult terrain](../../Browse/movement/difficult-terrain.md) and you can increase the [distance](../../Browse/rule/combat/distance.md) of any jump you make by 1 square, both until the end of your [turn](../../Browse/rule/combat/turn.md).
 - *Silver Shield:* You have a badge granted to you by your organization. While you wear it, you gain the My Life for Yours feature from the [censor](../../Browse/class/censor.md) class. When you use that ability, you can't spend wrath unless you have the Wrath class feature.
 - *Trained Tracker:* You gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to track criminals.
 
@@ -259,9 +259,9 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 > |-----------------|--------------------------------------------:|
 > | **📏 5 [burst](../../Browse/rule/combat/burst.md)**  | **🎯 Each enemy in the area hidden to you** |
 >
-> **Effect:** Each target who has P < AVERAGE is [taunted](../../Browse/condition/taunted.md) by you until the end of their next turn, and you know the location of each creature [taunted](../../Browse/condition/taunted.md) in this way.
+> **Effect:** Each target who has P < AVERAGE is [taunted](../../Browse/condition/taunted.md) by you until the end of their next [turn](../../Browse/rule/combat/turn.md), and you know the location of each creature [taunted](../../Browse/condition/taunted.md) in this way.
 
-- *Deadly and Big:* Your [strikes](../../Browse/rule/combat/strike.md) gain a +3 damage bonus against creatures whose [size](../../Browse/rule/character/size.md) is smaller than yours.
+- *Deadly and Big:* Your [strikes](../../Browse/rule/combat/strike.md) gain a +3 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) against creatures whose [size](../../Browse/rule/character/size.md) is smaller than yours.
 - *Everybody Move!:* When you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature of your [size](../../Browse/rule/character/size.md) or two additional smaller creatures.
 
 ### Saved for a Worse Fate {data-scc="mcdm.heroes.v1/title/saved-for-a-worse-fate"}
@@ -275,7 +275,7 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 The Director chooses one of the following benefits, based on the fate your captors have in mind for you. Each hero gains the same benefit. Additionally, you must face an encounter, [montage test](../../Browse/rule/test/montage-test.md), or adventure related to the benefit, as the Director determines.
 
 - *Gladiators:* You must fight to the death for your captors' amusement. Your intended opponents wield or guard a [trinket](../../Browse/rule/treasure/trinket.md) or [leveled treasure](../../Browse/rule/treasure/leveled-treasure.md), which you can earn if you are victorious.
-- *Prey:* Your captors plan to release you and hunt you down, but it's no fun unless you offer a challenge. Each of you is given a medicinal draught that grants a +1 bonus to [speed](../../Browse/rule/character/speed.md) and increases your [Recoveries](../../Browse/rule/health/recoveries.md) by 2. This benefit lasts until the end of your next [respite](../../Browse/rule/resource/respite.md).
+- *Prey:* Your captors plan to release you and hunt you down, but it's no fun unless you offer a challenge. Each of you is given a medicinal draught that grants a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) and increases your [Recoveries](../../Browse/rule/health/recoveries.md) by 2. This benefit lasts until the end of your next [respite](../../Browse/rule/resource/respite.md).
 - *Sacrifices:* You are to be dropped in a volcano, fed to a sacred monster, abandoned in a desert, or otherwise sacrificed to a higher power. You are bedecked with holy jewelry. Each hero earns 1 [Wealth](../../Browse/rule/resource/wealth.md).
 - *Saviors:* Your captors fear an even stronger foe, and they want you to defeat this enemy for them. You can even keep any treasure you find while doing so.
 
@@ -300,7 +300,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 **Effect:** Choose one of the following benefits:
 
-- *[Flying](../../Browse/movement/fly.md) Circus:* When you are adjacent to a willing ally on their turn, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to push them up to 2 squares if their [size](../../Browse/rule/character/size.md) is the same as yours, or 4 squares if they are smaller. If this push causes the ally to fall, they can use a maneuver before they fall to reduce the height of the fall by 2.
+- *[Flying](../../Browse/movement/fly.md) Circus:* When you are [adjacent](../../Browse/rule/combat/adjacent.md) to a willing ally on their [turn](../../Browse/rule/combat/turn.md), you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to push them up to 2 squares if their [size](../../Browse/rule/character/size.md) is the same as yours, or 4 squares if they are smaller. If this push causes the ally to fall, they can use a maneuver before they fall to reduce the height of the fall by 2.
 - *Spotlight:* You magically cause a creature within 10 squares to shed light for 5 squares. This light lasts for 1 minute, until the creature is more than 10 squares away from you, or until you dismiss the effect (no action required). While illuminated, a creature can't sneak or hide, they take a [bane](../../Browse/rule/dice/bane.md) on [tests](../../Browse/rule/test/test.md) made to perform any action secretly, and they gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made using the Lead, Music, or Perform skills.
 - *Supporting Player:* You gain an [edge](../../Browse/rule/dice/edge.md) on [group tests](../../Browse/rule/test/group-test.md) using [Presence](../../Browse/rule/character/presence.md) and on [tests](../../Browse/rule/test/test.md) made to assist another creature with a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md).
 - *Work the Crowd:* While any of your allies is playing music or performing, you gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to conceal objects, hide, pick pockets, or sneak.
@@ -314,8 +314,8 @@ The Director chooses one of the following benefits, based on the fate your capto
 **Effect:** Choose one of the following benefits:
 
 - *Honor Among Thieves:* When negotiating with criminals, your [Renown](../../Browse/rule/resource/renown.md) score is considered to be 2 higher than usual.
-- *Minion Mower:* When you make a melee [strike](../../Browse/rule/combat/strike.md) that targets a minion and at least one more minion is within [distance](../../Browse/rule/combat/distance.md) of the [strike](../../Browse/rule/combat/strike.md), the [strike](../../Browse/rule/combat/strike.md) gains a +3 damage bonus.
-- *No, You're Under Arrest!:* You gain an [edge](../../Browse/rule/dice/edge.md) on the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver. Additionally, when you succeed on a [test](../../Browse/rule/test/test.md) to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an adjacent creature of the same [size](../../Browse/rule/character/size.md) without them immediately noticing.
+- *Minion Mower:* When you make a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) that targets a minion and at least one more minion is within [distance](../../Browse/rule/combat/distance.md) of the [strike](../../Browse/rule/combat/strike.md), the [strike](../../Browse/rule/combat/strike.md) gains a +3 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).
+- *No, You're Under Arrest!:* You gain an [edge](../../Browse/rule/dice/edge.md) on the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver. Additionally, when you succeed on a [test](../../Browse/rule/test/test.md) to escape bonds or manacles, as part of the same maneuver, you can transfer the bonds or manacles to an [adjacent](../../Browse/rule/combat/adjacent.md) creature of the same [size](../../Browse/rule/character/size.md) without them immediately noticing.
 
 ### Zombie Slayer {data-scc="mcdm.heroes.v1/title/zombie-slayer"}
 
@@ -352,17 +352,17 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 
 **Effect:** Choose one of the following benefits:
 
-- *Dirty Fighting:* While you are standing, your melee [strikes](../../Browse/rule/combat/strike.md) gain a +3 damage bonus against [prone creature](../../Browse/condition/prone.md)s. Additionally, being prone doesn't impose a [bane](../../Browse/rule/dice/bane.md) on your [strikes](../../Browse/rule/combat/strike.md).
-- *Foes as Weapons:* Whenever you have a creature of your [size](../../Browse/rule/character/size.md) or smaller [grabbed](../../Browse/condition/grabbed.md), you can use them as a weapon when you make a melee weapon free strike. Both the target and the [grabbed](../../Browse/condition/grabbed.md) enemy take the [strike](../../Browse/rule/combat/strike.md)'s damage.
+- *Dirty Fighting:* While you are standing, your [melee](../../Browse/rule/combat/melee.md) [strikes](../../Browse/rule/combat/strike.md) gain a +3 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) against [prone creature](../../Browse/condition/prone.md)s. Additionally, being prone doesn't impose a [bane](../../Browse/rule/dice/bane.md) on your [strikes](../../Browse/rule/combat/strike.md).
+- *Foes as Weapons:* Whenever you have a creature of your [size](../../Browse/rule/character/size.md) or smaller [grabbed](../../Browse/condition/grabbed.md), you can use them as a weapon when you make a [melee](../../Browse/rule/combat/melee.md) weapon free strike. Both the target and the [grabbed](../../Browse/condition/grabbed.md) enemy take the [strike](../../Browse/rule/combat/strike.md)'s damage.
 - *Instant Celebrity:* You earn 1 [Renown](../../Browse/rule/resource/renown.md).
 - *Showstopper:* You have the following ability, which can be paid for using the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) of your class.
 
 #### Showstopper (5 Heroic Resource)
 
 >
-> | **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+> | **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 > |---------------------------|--------------------:|
-> | **📏 Melee 1**            | **🎯 One creature** |
+> | **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 >
 > **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 >
@@ -428,7 +428,7 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 
 **Effect:** Choose one of the following benefits:
 
-- *Artillerist:* You gain a +5 damage bonus when using a ship's weapons
+- *Artillerist:* You gain a +5 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) when using a ship's weapons
 - *Black Flag:* You have a recognizable flag that strikes terror on the high seas. While your flag is [flying](../../Browse/movement/fly.md) from your ship, crewmembers of other ships who have [line of effect](../../Browse/rule/combat/line-of-effect.md) to the flag take a [bane](../../Browse/rule/dice/bane.md) on [strikes](../../Browse/rule/combat/strike.md) made against your ship or its crew.
 - *Fearsome Reputation:* You earn 1 [Renown](../../Browse/rule/resource/renown.md).
 - *Scoundrel Tactics:* While aboard a ship, you can use the following skills to make a [test](../../Browse/rule/test/test.md) to influence another ship up to 5 miles away whose crewmembers have [line of effect](../../Browse/rule/combat/line-of-effect.md) to you, and you gain an [edge](../../Browse/rule/dice/edge.md) when you do so. You can use Disguise to hide your ship's identity or general type, Intimidate to convince another ship's crew to flee or surrender, or Hide or Sneak to let your ship avoid notice.
@@ -470,9 +470,9 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 #### The Harder They Fall (7 Heroic Resource)
 
 >
-> | **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+> | **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 > |---------------------------|--------------------:|
-> | **📏 Melee 1**            | **🎯 One creature** |
+> | **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 >
 > **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 >
@@ -488,13 +488,13 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 
 *He seemed like he needed help! Now the dead speak to me. I think maybe that old man was more than he appeared.*
 
-**Prerequisite:** You do a favor for an agent of a god or saint, or promise to do so.
+**Prerequisite:** You do a favor for an agent of a god or [saint](../../Browse/rule/world/saint.md), or promise to do so.
 
 **Effect:** Choose one of the following benefits:
 
 - *Healing Gift:* You can use the 1st-level [Conduit](../../Browse/class/conduit.md) feature [Healing Grace](../../Browse/feature/ability/conduit/level-1/healing-grace.md) as if you had spent 1 [piety](../../Browse/feature/conduit/level-1/piety.md) (see Chapter 5: [Classes](classes.md)). Once you use this benefit, you can't use it again until you earn 1 or more [Victories](../../Browse/rule/resource/victories.md).
-- *Last-Ditch Prayer:* As a [free maneuver](../../Browse/rule/combat/free-maneuver.md), you recite a prayer for help, gaining a pool of 2d10 of the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) granted by your class. This pool disappears at the end of your turn if you haven't used it. Once you use this benefit, you can't use it again until you perform another service for a god or saint, or until you gain a level.
-- *Touched by the Divine:* Choose a god or saint from the Deities and  Domains table in Chapter 14: [Gods and Religion](gods-and-religion.md). From that god or saint's domains, choose a [Conduit](../../Browse/class/conduit.md) 1st-level domain feature (see Chapter 5: [Classes](classes.md)).
+- *Last-Ditch Prayer:* As a [free maneuver](../../Browse/rule/combat/free-maneuver.md), you recite a prayer for help, gaining a pool of 2d10 of the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) granted by your class. This pool disappears at the end of your [turn](../../Browse/rule/combat/turn.md) if you haven't used it. Once you use this benefit, you can't use it again until you perform another service for a god or [saint](../../Browse/rule/world/saint.md), or until you gain a level.
+- *Touched by the Divine:* Choose a god or [saint](../../Browse/rule/world/saint.md) from the Deities and  Domains table in Chapter 14: [Gods and Religion](gods-and-religion.md). From that god or [saint](../../Browse/rule/world/saint.md)'s domains, choose a [Conduit](../../Browse/class/conduit.md) 1st-level domain feature (see Chapter 5: [Classes](classes.md)).
 
 ### Heist Hero {data-scc="mcdm.heroes.v1/title/heist-hero"}
 
@@ -513,9 +513,9 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 >
 > *Coming through with hot soup!<br/>I better watch out for that banana peel!*
 >
-> | **Ranged**       |       **Triggered** |
+> | **[Ranged](../../Browse/rule/combat/ranged.md)**       |       **Triggered** |
 > |------------------|--------------------:|
-> | **📏 Ranged 10** | **🎯 One creature** |
+> | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10** | **🎯 One creature** |
 >
 > **Trigger:** An ally makes a [test](../../Browse/rule/test/test.md) to lie to, pick the pocket of, hide from, or sneak by the target and doesn't like the outcome.
 >
@@ -538,9 +538,9 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 >
 > *Have at thee!*
 >
-> | **Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
+> | **[Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon** |     **Main action** |
 > |---------------------------|--------------------:|
-> | **📏 Melee 1**            | **🎯 One creature** |
+> | **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 >
 > **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 >
@@ -548,7 +548,7 @@ Titles suitable for 2nd-[echelon](../../Browse/rule/general/echelon.md) characte
 > - **12-16:** 11 damage; [taunted](../../Browse/condition/taunted.md) (save ends)
 > - **17+:** 16 damage; [taunted](../../Browse/condition/taunted.md) (save ends)
 >
-> **Effect:** You can end the [taunted](../../Browse/condition/taunted.md) condition on the target as a [free maneuver](../../Browse/rule/combat/free-maneuver.md).
+> **Effect:** You can end the [taunted](../../Browse/condition/taunted.md) [condition](../../Browse/rule/combat/condition.md) on the target as a [free maneuver](../../Browse/rule/combat/free-maneuver.md).
 >
 > **Special:** If you take this title, you might occasionally be called upon to perform duties for the person who knighted you.
 
@@ -594,7 +594,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 **Effect:** Choose one of the following benefits:
 
-- *Hunter's Oath:* As a main action, you swear a hunter's oath against a creature within 10 squares who you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to. This oath lasts until the target dies or until you swear a hunter's oath against a different creature. As long as the hunter's oath lasts, you magically know the direction to the target if they are within 50 miles of you, and your damage-dealing abilities gain a +5 damage bonus against the target.
+- *Hunter's Oath:* As a main action, you swear a hunter's oath against a creature within 10 squares who you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to. This oath lasts until the target dies or until you swear a hunter's oath against a different creature. As long as the hunter's oath lasts, you magically know the direction to the target if they are within 50 miles of you, and your damage-dealing abilities gain a +5 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) against the target.
 - *Particular Set of Skills:* You know a skill from the intrigue skill group.
 - *We're In This Together:* When you have a creature [grabbed](../../Browse/condition/grabbed.md) and take damage from an ability not used by that creature, the [grabbed](../../Browse/condition/grabbed.md) creature takes the same damage.
 
@@ -606,8 +606,8 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 **Effect:** You return to life 1 minute after being killed with [Stamina](../../Browse/rule/health/stamina.md) equal to your [winded](../../Browse/rule/health/winded.md) value. You gain corruption immunity equal to your level and one of the benefits below, based on the type of creature who killed you. If you die again, you rise as an undead creature under the Director's control.
 
-- *Ghoul or Vampire:* When you make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against an adjacent creature, you can bite that creature. If you do so and obtain a tier 3 outcome, you gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to the damage dealt. If not lost beforehand, this [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) lasts until the end of your next [respite](../../Browse/rule/resource/respite.md).
-- *Incorporeal Undead:* You can move through other creatures and objects. The first time in a combat round that you pass through a creature, that creature takes corruption damage equal to half your level. You don't take damage from being [force moved](../../Browse/movement/forced-movement.md) into objects.
+- *Ghoul or Vampire:* When you make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) against an [adjacent](../../Browse/rule/combat/adjacent.md) creature, you can bite that creature. If you do so and obtain a tier 3 outcome, you gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to the damage dealt. If not lost beforehand, this [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) lasts until the end of your next [respite](../../Browse/rule/resource/respite.md).
+- *Incorporeal Undead:* You can move through other creatures and objects. The first time in a [combat round](../../Browse/rule/combat/combat-round.md) that you pass through a creature, that creature takes corruption damage equal to half your level. You don't take damage from being [force moved](../../Browse/movement/forced-movement.md) into objects.
 - *Other Corporeal Undead:* When you are reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by damage that isn't fire or holy damage and your body isn't destroyed, you can regain half your [Stamina](../../Browse/rule/health/stamina.md) and [fall prone](../../Browse/condition/prone.md). Once you use this benefit, you can't use it again until you earn 10 or more [Victories](../../Browse/rule/resource/victories.md).
 
 ### Unstoppable {data-scc="mcdm.heroes.v1/title/unstoppable"}
@@ -618,9 +618,9 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 **Effect:** Choose one of the following benefits:
 
-- *From Hell's Heart:* While you are [winded](../../Browse/rule/health/winded.md), your melee [strikes](../../Browse/rule/combat/strike.md) gain a +3 damage bonus.
+- *From Hell's Heart:* While you are [winded](../../Browse/rule/health/winded.md), your [melee](../../Browse/rule/combat/melee.md) [strikes](../../Browse/rule/combat/strike.md) gain a +3 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).
 - *Furious Attack:* Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) from the [fury](../../Browse/class/fury.md) class. You gain that ability regardless of whether your class and [subclass](../../Browse/rule/general/subclass.md) allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
-- *Furious Charge:* When you use the [Charge](../../Browse/feature/common/main-actions/charge.md) action, your [strike](../../Browse/rule/combat/strike.md) made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
+- *Furious Charge:* When you use the [Charge](../../Browse/feature/common/main-actions/charge.md) action, your [strike](../../Browse/rule/combat/strike.md) made as part of that action gains a damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to the number of squares you moved as part of the charge.
 
 ## 3rd-Echelon Titles
 
@@ -652,7 +652,7 @@ Titles suitable for 3rd-[echelon](../../Browse/rule/general/echelon.md) characte
 
 *Demonic Lore:* You know the Proto-Ctholl language. Additionally, when you deal damage using a magic ability, you can change the ability's [damage type](../../Browse/rule/damage/damage-type.md) to holy.
 
-- *Lethe:* While you are [winded](../../Browse/rule/health/winded.md), your [strikes](../../Browse/rule/combat/strike.md) gain a +5 damage bonus
+- *Lethe:* While you are [winded](../../Browse/rule/health/winded.md), your [strikes](../../Browse/rule/combat/strike.md) gain a +5 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)
 - *Made of Teeth:* Your body can sprout teeth in unusual places. Whenever a creature makes physical contact with you or starts their turn touching you, you can deal 5 damage to them (no action required).
 - *Soulsight:* Any creature within 2 squares can't be hidden from you.
 
@@ -666,7 +666,7 @@ Titles suitable for 3rd-[echelon](../../Browse/rule/general/echelon.md) characte
 
 **Effect:** Choose one of the following benefits:
 
-- *Devil Lore:* You know the Anjali language, and your understanding of this language helps you create irresistible supernatural effects. The [potencies](../../Browse/rule/character/potency.md) of your magic or psionic abilities that target [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md) increase by 1.
+- *Devil Lore:* You know the Anjali language, and your understanding of this language helps you create irresistible [supernatural](../../Browse/rule/general/supernatural.md) effects. The [potencies](../../Browse/rule/character/potency.md) of your magic or psionic abilities that target [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md) increase by 1.
 - *Infernal Legacy:* You gain 3 ancestry points to spend on purchased [devil](../../Browse/ancestry/devil.md) [ancestry traits](ancestries.md) (see Chapter 3: [Ancestries](ancestries.md)).
 - *Sly [Devil](../../Browse/ancestry/devil.md):* You gain the Silver Tongue signature trait from the [devil](../../Browse/ancestry/devil.md) ancestry.
 - *Untouched by Corruption:* Whenever you use a damage-dealing ability, that ability can deal holy damage instead of its usual [damage type](../../Browse/rule/damage/damage-type.md).
@@ -728,18 +728,18 @@ Titles suitable for 3rd-[echelon](../../Browse/rule/general/echelon.md) characte
 >
 > **Effect:** The soul of any creature killed by this ability is dragged to Hell.
 
-- *Music of the Spheres:* As a main action, you sing or play a note as delicate and sharp as glass—and just as easily shattered. Until the start of your next turn, whenever a creature within 10 squares makes a [strike](../../Browse/rule/combat/strike.md), they take 8 sonic damage. Whenever you make a [strike](../../Browse/rule/combat/strike.md) during that same period, you also take 8 sonic damage.
+- *Music of the Spheres:* As a main action, you sing or play a note as delicate and sharp as glass—and just as easily shattered. Until the start of your next [turn](../../Browse/rule/combat/turn.md), whenever a creature within 10 squares makes a [strike](../../Browse/rule/combat/strike.md), they take 8 sonic damage. Whenever you make a [strike](../../Browse/rule/combat/strike.md) during that same period, you also take 8 sonic damage.
 
 ### Master Crafter {data-scc="mcdm.heroes.v1/title/master-crafter"}
 
 *The sword Vanartha has been remade, mightier now than on the day it was forged.*
 
-**Prerequisite:** You complete a downtime project to imbue armor, an implement, or a weapon with a 9th-level enhancement.
+**Prerequisite:** You complete a downtime project to imbue armor, an [implement](../../Browse/rule/treasure/implement.md), or a weapon with a 9th-level [enhancement](../../Browse/rule/treasure/enhancement.md).
 
 **Effect:** Choose one of the following benefits:
 
-- *Masterpiece:* The armor, implement, or weapon can be imbued a fourth time, with any enhancement the item qualifies for.
-- *Research Dividends:* You gain the [item prerequisite](../../Browse/rule/downtime/item-prerequisite.md) for an armor, implement, or weapon enhancement of your choice. Additionally, you learn the [project source](../../Browse/rule/downtime/project-source.md) language for that enhancement.
+- *Masterpiece:* The armor, [implement](../../Browse/rule/treasure/implement.md), or weapon can be imbued a fourth time, with any [enhancement](../../Browse/rule/treasure/enhancement.md) the item qualifies for.
+- *Research Dividends:* You gain the [item prerequisite](../../Browse/rule/downtime/item-prerequisite.md) for an armor, [implement](../../Browse/rule/treasure/implement.md), or weapon [enhancement](../../Browse/rule/treasure/enhancement.md) of your choice. Additionally, you learn the [project source](../../Browse/rule/downtime/project-source.md) language for that [enhancement](../../Browse/rule/treasure/enhancement.md).
 - *Skilled Hands:* You have a skill from the crafting skill group that would have been used during the creation of the prerequisite item. If you already have that skill, you instead gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made using the skill. Additionally, you gain a second skill of your choice from the crafting skill group.
 - *Strong Hands Make Light Work:* Whenever you make a [project roll](../../Browse/rule/downtime/project-roll.md), you can use [Might](../../Browse/rule/character/might.md) as the [project roll](../../Browse/rule/downtime/project-roll.md) [characteristic](../../Browse/rule/character/characteristic.md).
 
@@ -765,7 +765,7 @@ Titles suitable for 3rd-[echelon](../../Browse/rule/general/echelon.md) characte
 
 **Effect:** Choose one of the following benefits:
 
-- *Prismacore Eyes:* Exposure to prismacore has given your eyes a mirrorlike sheen. You have psychic immunity 10, creatures can't use magic or psionic abilities or other effects to determine your location or read your thoughts unless you allow them to, and you gain a +3 bonus to [stability](../../Browse/rule/character/stability.md) against magic or psionic abilities.
+- *Prismacore Eyes:* Exposure to prismacore has given your eyes a mirrorlike sheen. You have psychic immunity 10, creatures can't use magic or psionic abilities or other effects to determine your location or read your thoughts unless you allow them to, and you gain a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md) against magic or psionic abilities.
 - *Stellar Knowledge:* You gain the Mechanics skill. If you already have this skill, you instead gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made using the skill. Additionally, you gain the [item prerequisite](../../Browse/rule/downtime/item-prerequisite.md) and [project source](../../Browse/rule/downtime/project-source.md) for a psionic [trinket](../../Browse/rule/treasure/trinket.md).
 - *[Time Raider](../../Browse/ancestry/time-raider.md) Training:* You gain 2 ancestry points to spend on purchased [time raider](../../Browse/ancestry/time-raider.md) [ancestry traits](ancestries.md) (see Chapter 3: [Ancestries](ancestries.md)).
 
@@ -787,8 +787,8 @@ Titles suitable for 3rd-[echelon](../../Browse/rule/general/echelon.md) characte
 
 **Effect:** Choose one of the following benefits:
 
-- *Death From Above:* When you gain an [edge](../../Browse/rule/dice/edge.md) on an ability due to [high ground](../../Browse/movement/high-ground.md), the ability gains a +8 damage bonus.
-- *Hold the Line:* While you're within 5 squares of an ally, you and each ally within 5 squares of you gains a +3 bonus to [stability](../../Browse/rule/character/stability.md).
+- *Death From Above:* When you gain an [edge](../../Browse/rule/dice/edge.md) on an ability due to [high ground](../../Browse/movement/high-ground.md), the ability gains a +8 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).
+- *Hold the Line:* While you're within 5 squares of an ally, you and each ally within 5 squares of you gains a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md).
 - *Last Defender:* Whenever an ally within 5 squares is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), you gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to the ally's level (or 1 if they have no level). If you already have [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) granted by this title, you increase your [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) by the amount you would have gained.
 
 ### Teacher {data-scc="mcdm.heroes.v1/title/teacher"}
@@ -811,7 +811,7 @@ Titles suitable for 4th-[echelon](../../Browse/rule/general/echelon.md) characte
 
 **Effect:** A [characteristic](../../Browse/rule/character/characteristic.md) used during the competition increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
-- *Best of the Best:* Choose a skill you used during the competition. You gain a +4 bonus to [tests](../../Browse/rule/test/test.md) made using that skill instead of a +2 bonus
+- *Best of the Best:* Choose a skill you used during the competition. You gain a +4 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [tests](../../Browse/rule/test/test.md) made using that skill instead of a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)
 - *Glory and Riches:* You earn 2 [Renown](../../Browse/rule/resource/renown.md) and 1 [Wealth](../../Browse/rule/resource/wealth.md).
 - *I'll Just Take the Prize:* You gain a [trinket](../../Browse/rule/treasure/trinket.md) or [leveled treasure](../../Browse/rule/treasure/leveled-treasure.md) of the Director's choice.
 
@@ -842,8 +842,8 @@ Additionally, choose one of the following benefits:
 **Effect:** Your choice of your [Reason](../../Browse/rule/character/reason.md) or [Intuition](../../Browse/rule/character/intuition.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Cosmic Revelation:* When you make a [test](../../Browse/rule/test/test.md) with a skill from the lore skill group and obtain a tier 1 or tier 2 outcome, you can instead obtain a tier 3 outcome. Once you use this benefit, you can't use it again until you earn 1 or more [Victories](../../Browse/rule/resource/victories.md).
-- *Mind Over Matter:* Whenever you spend a [Recovery](../../Browse/rule/health/recoveries.md), you can end one condition on yourself.
-- *Rearrange the Game Pieces:* You can reach behind the curtain and alter reality. At the start of combat, choose yourself or any creature within 5 squares. The chosen target must move up to their [speed](../../Browse/rule/character/speed.md) to a space you choose, but can't enter [damaging terrain](../../Browse/movement/damaging-terrain.md) or terrain that could impose a condition on them. The target doesn't appear to move or [teleport](../../Browse/movement/teleport.md) to that space—they are simply there. No one but you has any memory of the target's previous position.
+- *Mind Over Matter:* Whenever you spend a [Recovery](../../Browse/rule/health/recoveries.md), you can end one [condition](../../Browse/rule/combat/condition.md) on yourself.
+- *Rearrange the Game Pieces:* You can reach behind the curtain and alter reality. At the start of combat, choose yourself or any creature within 5 squares. The chosen target must move up to their [speed](../../Browse/rule/character/speed.md) to a space you choose, but can't enter [damaging terrain](../../Browse/movement/damaging-terrain.md) or terrain that could impose a [condition](../../Browse/rule/combat/condition.md) on them. The target doesn't appear to move or [teleport](../../Browse/movement/teleport.md) to that space—they are simply there. No one but you has any memory of the target's previous position.
 
 ### Forsaken {data-scc="mcdm.heroes.v1/title/forsaken"}
 
@@ -853,9 +853,9 @@ Additionally, choose one of the following benefits:
 
 **Effect:** A [characteristic](../../Browse/rule/character/characteristic.md) of your choice increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
-- *Brief Reunion:* While you're [winded](../../Browse/rule/health/winded.md), you can use a maneuver to summon the artifact to your hand. It disappears at the end of your next turn. Once you use this benefit, you can't use it again until you earn 1 or more [Victories](../../Browse/rule/resource/victories.md).
+- *Brief Reunion:* While you're [winded](../../Browse/rule/health/winded.md), you can use a maneuver to summon the artifact to your hand. It disappears at the end of your next [turn](../../Browse/rule/combat/turn.md). Once you use this benefit, you can't use it again until you earn 1 or more [Victories](../../Browse/rule/resource/victories.md).
 - *Perfect Protection:* The Director chooses a [damage type](../../Browse/rule/damage/damage-type.md) that is dealt by or thematically related to the artifact—for instance, holy for the Blade of a Thousand Years, psychic for the Encepter, or corruption for the Mortal Coil. You have immunity all to the chosen [damage type](../../Browse/rule/damage/damage-type.md).
-- *Poor Compensation:* Instead of disappearing or otherwise departing, the artifact turns into a [trinket](../../Browse/rule/treasure/trinket.md) or [leveled treasure](../../Browse/rule/treasure/leveled-treasure.md) of the Director's choice that has the same approximate shape as the lost item—for instance, any magic sword for the Blade of a Thousand Years, any implement for the Encepter, or a Thief of Joy or any other torque for the Mortal Coil.
+- *Poor Compensation:* Instead of disappearing or otherwise departing, the artifact turns into a [trinket](../../Browse/rule/treasure/trinket.md) or [leveled treasure](../../Browse/rule/treasure/leveled-treasure.md) of the Director's choice that has the same approximate shape as the lost item—for instance, any magic sword for the Blade of a Thousand Years, any [implement](../../Browse/rule/treasure/implement.md) for the Encepter, or a Thief of Joy or any other torque for the Mortal Coil.
 
 ### Monarch {data-scc="mcdm.heroes.v1/title/monarch"}
 
@@ -926,7 +926,7 @@ Additionally, choose a [heroic ability](../../Browse/rule/general/heroic-ability
 
 - *Bounce Back Fast:* Whenever you rest for 8 hours or more, you can gain the benefit of a [respite](../../Browse/rule/resource/respite.md). Once you use this benefit, you can't use it again until you have taken a regular [respite](../../Browse/rule/resource/respite.md).
 - *Reserves of Strength:* Your [recovery value](../../Browse/rule/health/recoveries.md) is half your [Stamina](../../Browse/rule/health/stamina.md)
-- *Undying:* You can't be affected by the [bleeding](../../Browse/condition/bleeding.md) condition.
+- *Undying:* You can't be affected by the [bleeding](../../Browse/condition/bleeding.md) [condition](../../Browse/rule/combat/condition.md).
 
 ### Unchained {data-scc="mcdm.heroes.v1/title/unchained"}
 

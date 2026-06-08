@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>If you&#39;re not <a href="../../../../rule/combat/surprised/">surprised</a> at the start of your first turn in combat, you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/dice/ability-roll/">ability rolls</a> and gain 2 <a href="../../../../rule/resource/surge/">surges</a>. If you are <a href="../../../../rule/combat/surprised/">surprised</a>, you can spend 3 discipline to no longer be <a href="../../../../rule/combat/surprised/">surprised</a> and gain the benefits of this feature.</p>
+<p>If you&#39;re not <a href="../../../../rule/combat/surprised/">surprised</a> at the start of your first <a href="../../../../rule/combat/turn/">turn</a> in combat, you gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/dice/ability-roll/">ability rolls</a> and gain 2 <a href="../../../../rule/resource/surge/">surges</a>. If you are <a href="../../../../rule/combat/surprised/">surprised</a>, you can spend 3 discipline to no longer be <a href="../../../../rule/combat/surprised/">surprised</a> and gain the benefits of this feature.</p>
 </div>
 </section>

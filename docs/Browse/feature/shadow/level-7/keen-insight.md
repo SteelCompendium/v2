@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of each of your turns during combat, you gain 1d3 + 1 insight instead of 1d3.</p>
+<p>At the start of each of your <a href="../../../../rule/combat/turn/">turns</a> during combat, you gain 1d3 + 1 insight instead of 1d3.</p>
 </div>
 </section>

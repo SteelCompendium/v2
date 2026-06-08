@@ -29,9 +29,9 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain clarity equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your turns during combat, you gain 1d3 clarity.</p>
-<p>Additionally, the first time each combat round that a creature is <a href="../../../../movement/forced-movement/">force moved</a>, you gain 1 clarity.</p>
-<p>You can spend clarity you don&#39;t have, pushing that <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> into negative numbers to a maximum negative value equal to 1 + your <a href="../../../../rule/character/reason/">Reason</a> score. At the end of each of your turns, you take 1 damage for each negative point of clarity.</p>
+<p>At the start of a combat encounter or some other stressful situation tracked in <a href="../../../../rule/combat/combat-round/">combat rounds</a> (as determined by the Director), you gain clarity equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your <a href="../../../../rule/combat/turn/">turns</a> during combat, you gain 1d3 clarity.</p>
+<p>Additionally, the first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that a creature is <a href="../../../../movement/forced-movement/">force moved</a>, you gain 1 clarity.</p>
+<p>You can spend clarity you don&#39;t have, pushing that <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> into negative numbers to a maximum negative value equal to 1 + your <a href="../../../../rule/character/reason/">Reason</a> score. At the end of each of your <a href="../../../../rule/combat/turn/">turns</a>, you take 1 damage for each negative point of clarity.</p>
 <p>Whenever you have clarity below 0, you are strained. Some psionic abilities have additional effects if you are already strained or become strained when you use them. Strained effects can still impact you even after you are no longer strained.</p>
 <p>You lose any remaining clarity or reset any negative clarity at the end of the encounter.</p>
 </div>

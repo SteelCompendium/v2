@@ -30,7 +30,7 @@ The Director should make an agenda for a campaign's first session often called "
 
 ### Step-by-Step Hero Making
 
-Use the following step-by-step guide to create a hero. These steps are presented in what we believe is the best way to approach making your first hero for *Draw Steel*. That said, the order of the steps is still a suggestion, not a hard and fast rule.
+Use the following step-by-step [guide](../../Browse/rule/downtime/guide.md) to create a hero. These steps are presented in what we believe is the best way to approach making your first hero for *Draw Steel*. That said, the order of the steps is still a suggestion, not a hard and fast rule.
 
 Many players like to build a hero from the backstory up, making ancestry and culture ideal first choices. However, some players like to start more in the present, choosing a career and a class—the choices with the most potential impact on what your character can do in the game—and then going back and figuring out where their hero came from. There's no wrong way to do it! (The sections below tell you where to look to learn about ancestries, classes, and other options.)
 
@@ -90,21 +90,21 @@ Choose your hero's class. This choice has the biggest impact on how your hero in
 
 #### 6. Kit
 
-Your class might grant your hero a kit that helps define your approach to martial combat. The kit you choose provides you with equipment and a fighting style that grants a [signature ability](../../Browse/rule/combat/signature-ability.md), as well as bonuses to one or more of your game statistics. See Chapter 6: [Kits](kits.md) for more information.
+Your class might grant your hero a kit that helps define your approach to martial combat. The kit you choose provides you with equipment and a fighting style that grants a [signature ability](../../Browse/rule/combat/signature-ability.md), as well as [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es to one or more of your game statistics. See Chapter 6: [Kits](kits.md) for more information.
 
 #### 7. Add Free Strikes
 
-A [free strike](../../Browse/feature/common/main-actions/free-strike.md) is a combat ability you can use when it's not your turn, representing the simplest and most basic weapon attack you can make. An enemy is foolish enough to walk away from you in melee? [Free strike](../../Browse/feature/common/main-actions/free-strike.md)! Every hero has a melee weapon free strike and a ranged weapon free strike. They're all the same—until modified by your kit or class—and it's up to you to decide what exactly your [free strikes](../../Browse/feature/common/main-actions/free-strike.md) are. A thrown dagger? A punch? The design is intended to let you use your imagination.
+A [free strike](../../Browse/feature/common/main-actions/free-strike.md) is a combat ability you can use when it's not your [turn](../../Browse/rule/combat/turn.md), representing the simplest and most basic weapon attack you can make. An enemy is foolish enough to walk away from you in [melee](../../Browse/rule/combat/melee.md)? [Free strike](../../Browse/feature/common/main-actions/free-strike.md)! Every hero has a [melee](../../Browse/rule/combat/melee.md) weapon free strike and a [ranged](../../Browse/rule/combat/ranged.md) weapon free strike. They're all the same—until modified by your kit or class—and it's up to you to decide what exactly your [free strikes](../../Browse/feature/common/main-actions/free-strike.md) are. A thrown dagger? A punch? The design is intended to let you use your imagination.
 
-You can also make [free strikes](../../Browse/feature/common/main-actions/free-strike.md) on your turn to represent using weapons your hero isn't otherwise themed to use. A [wode elf](../../Browse/ancestry/wode-elf.md) master archer can stab a too-close enemy with a dagger as a [free strike](../../Browse/feature/common/main-actions/free-strike.md), and a greataxe-wielding [orc](../../Browse/ancestry/orc.md) [fury](../../Browse/class/fury.md) can use a [free strike](../../Browse/feature/common/main-actions/free-strike.md) to hurl a handaxe at a flying enemy staying annoyingly out of melee range.
+You can also make [free strikes](../../Browse/feature/common/main-actions/free-strike.md) on your turn to represent using weapons your hero isn't otherwise themed to use. A [wode elf](../../Browse/ancestry/wode-elf.md) master archer can stab a too-close enemy with a dagger as a [free strike](../../Browse/feature/common/main-actions/free-strike.md), and a greataxe-wielding [orc](../../Browse/ancestry/orc.md) [fury](../../Browse/class/fury.md) can use a [free strike](../../Browse/feature/common/main-actions/free-strike.md) to hurl a handaxe at a flying enemy staying annoyingly out of [melee](../../Browse/rule/combat/melee.md) range.
 
 See [Free Strikes](../../Browse/feature/common/main-actions/free-strike.md) in Chapter 10: [Combat](combat.md) for more information on using [free strikes](../../Browse/feature/common/main-actions/free-strike.md), and see Abilities in Chapter 5: [Classes](classes.md) for information on the ability format and how to read it.
 
 ###### Melee Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common/melee-weapon-free-strike"}
 
-| **Charge, Melee, [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
+| **Charge, [Melee](../../Browse/rule/combat/melee.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
 |------------------------------------|------------------------------:|
-| **📏 Melee 1**                     | **🎯 One creature or object** |
+| **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                     | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
@@ -114,9 +114,9 @@ See [Free Strikes](../../Browse/feature/common/main-actions/free-strike.md) in C
 
 ###### Ranged Weapon Free Strike {data-scc="mcdm.heroes.v1/feature.ability.common/ranged-weapon-free-strike"}
 
-| **Ranged, [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
+| **[Ranged](../../Browse/rule/combat/ranged.md), [Strike](../../Browse/rule/combat/strike.md), Weapon**  |               **Main action** |
 |-----------------------------|------------------------------:|
-| **📏 Ranged 5**             | **🎯 One creature or object** |
+| **📏 [Ranged](../../Browse/rule/combat/ranged.md) 5**             | **🎯 One creature or object** |
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 

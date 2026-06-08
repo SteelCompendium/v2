@@ -3,7 +3,7 @@ action_type: Maneuver
 class: censor
 cost: 11 Wrath
 distance: 2 [aura](../../../../rule/combat/aura.md)
-effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target who starts their turn in the area gains 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 flavor: You and your allies are clad in shimmering armor.
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each target who starts their turn in the area gains 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each target who starts their <a href="../../../../../rule/combat/turn/">turn</a> in the area gains 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p></div>
 </div>
 </article>

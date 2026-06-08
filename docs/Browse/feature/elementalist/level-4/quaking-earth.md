@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>At the end of each of your turns, you can push each enemy in the area up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
+<p>At the end of each of your <a href="../../../../rule/combat/turn/">turns</a>, you can push each enemy in the area up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>

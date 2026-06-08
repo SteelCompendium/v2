@@ -2,11 +2,11 @@
 action_type: Main action
 class: censor
 cost: 5 Wrath
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: When a target who is not a leader or solo creature is made [winded](../../../../rule/health/winded.md) by this ability, they are reduced to 0 [Stamina](../../../../rule/health/stamina.md).
 flavor: Judged and [sentenced](../level-2/sentenced.md).
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "1"
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Wrath</div></div>
 </div>
 <p class="sc-ability__flavor">Judged and <a href="../../level-2/sentenced/">sentenced</a>.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

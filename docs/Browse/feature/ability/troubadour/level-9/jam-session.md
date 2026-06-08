@@ -3,7 +3,7 @@ action_type: Main action
 class: troubadour
 cost: 11 Drama
 distance: 5 [burst](../../../../rule/combat/burst.md)
-effect: Each creature within [distance](../../../../rule/combat/distance.md) gains a +5 bonus to [speed](../../../../rule/character/speed.md) until the end of their next turn. While under this effect, each target must use their full movement during their turn.
+effect: Each creature within [distance](../../../../rule/combat/distance.md) gains a +5 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../../rule/character/speed.md) until the end of their next [turn](../../../../rule/combat/turn.md). While under this effect, each target must use their full movement during their [turn](../../../../rule/combat/turn.md).
 flavor: Your [jam session](jam-session.md) creates new genres that compel everyone to get up and move.
 keywords:
     - Area
@@ -39,6 +39,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each creature within <a href="../../../../../rule/combat/distance/">distance</a> gains a +5 bonus to <a href="../../../../../rule/character/speed/">speed</a> until the end of their next turn. While under this effect, each target must use their full movement during their turn.</p></div>
+<div class="sc-ability__section-body"><p>Each creature within <a href="../../../../../rule/combat/distance/">distance</a> gains a +5 <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../../rule/character/speed/">speed</a> until the end of their next <a href="../../../../../rule/combat/turn/">turn</a>. While under this effect, each target must use their full movement during their <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

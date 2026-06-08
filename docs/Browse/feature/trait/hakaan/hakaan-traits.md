@@ -68,7 +68,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you <a href="../../../../movement/forced-movement/">force move</a> a creature or object, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +1 bonus.</p>
+<p>Whenever you <a href="../../../../movement/forced-movement/">force move</a> a creature or object, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

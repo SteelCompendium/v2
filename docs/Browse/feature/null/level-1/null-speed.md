@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The flow of psionic power through you allows you to achieve high velocity. You gain a bonus to <a href="../../../../rule/character/speed/">speed</a> and to the number of squares you can <a href="../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action equal to your <a href="../../../../rule/character/agility/">Agility</a> score.</p>
+<p>The flow of psionic power through you allows you to achieve high velocity. You gain a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> and to the number of squares you can <a href="../../../../movement/shifting/">shift</a> when you take the <a href="../../../common/move-actions/disengage/">Disengage</a> move action equal to your <a href="../../../../rule/character/agility/">Agility</a> score.</p>
 </div>
 </section>

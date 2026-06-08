@@ -31,7 +31,7 @@ Each test has the following steps:
 
 The Director decides that a hero's activities call for a test and asks the hero's player to make a [power roll](../../Browse/rule/dice/power-roll.md) using an appropriate [characteristic](../../Browse/rule/character/characteristic.md) (see [Characteristics](../../Browse/rule/character/characteristic.md) and Tests below). The Director then selects a difficulty for the [power roll](../../Browse/rule/dice/power-roll.md), either secretly or publicly (see [Test Difficulty](../../Browse/rule/test/test-difficulty.md) below).
 
-The player makes the [power roll](../../Browse/rule/dice/power-roll.md). If the character has a skill that applies to the test (see Skills later in this chapter), they can ask the Director if the skill applies and justify the use of the skill. If the Director agrees the skill applies, the hero gains a +2 bonus to the roll.
+The player makes the [power roll](../../Browse/rule/dice/power-roll.md). If the character has a skill that applies to the test (see Skills later in this chapter), they can ask the Director if the skill applies and justify the use of the skill. If the Director agrees the skill applies, the hero gains a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the roll.
 
 The player reports the total of the roll, and the Director interprets its success or failure.
 
@@ -145,7 +145,7 @@ In lieu of other consequences, the Director also has the option to gain 2 additi
 
 If you fail a [test](../../Browse/rule/test/test.md) without incurring a consequence, you simply don't do what you set out to do. A hero attempting to climb a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
 
-On a failed [test](../../Browse/rule/test/test.md), the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the [test](../../Browse/rule/test/test.md). This penalty shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm... yet.
+On a failed [test](../../Browse/rule/test/test.md), the Director can decide that there might still be a small [penalty](../../Browse/rule/dice/bonuses-and-penalties.md) for failure, depending on the circumstances of the [test](../../Browse/rule/test/test.md). This [penalty](../../Browse/rule/dice/bonuses-and-penalties.md) shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm... yet.
 
 When a hero rolls a failure without a consequence, the Director can offer to let them succeed with a consequence instead. For instance, when a hero rolls a 10 on a medium [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) to break down a locked door, that's a failure and the door stays closed. But the Director could suggest to the player that instead of not breaking down the door, they can break down the door and lose 1d6 [Stamina](../../Browse/rule/health/stamina.md) from being injured in the effort.
 
@@ -204,11 +204,11 @@ If a hero attempts to sneak by an enemy guard unnoticed, should the hero make an
 
 Except in certain scenarios (explored at [NPCs](../../Browse/rule/general/npc.md) Roll for Deceptive Tasks and [Opposed Power Rolls](../../Browse/rule/dice/opposed-power-roll.md) below), heroes make [tests](../../Browse/rule/test/test.md) and [NPCs](../../Browse/rule/general/npc.md) do not. Heroes are the stars of the story, and the consequences and rewards of [tests](../../Browse/rule/test/test.md) have longer-lasting implications for them. There are exceptions to this rule, of course. If a hero travels with an [NPC](../../Browse/rule/general/npc.md) [retainer](../../Browse/rule/general/retainer.md) or companion, that [NPC](../../Browse/rule/general/npc.md) will almost certainly make [tests](../../Browse/rule/test/test.md) from time to time. But for the most part, [NPCs](../../Browse/rule/general/npc.md) and other creatures never need to make [tests](../../Browse/rule/test/test.md) when what they do opposes what the heroes do.
 
-To quickly assess the difficulty of a task opposed by one or more creatures and the [test](../../Browse/rule/test/test.md) made to attempt it, the Director can use the following guidelines (though these are not hard and fast rules):
+To quickly assess the difficulty of a task opposed by one or more creatures and the [test](../../Browse/rule/test/test.md) made to attempt it, the Director can use the following [guide](../../Browse/rule/downtime/guide.md)lines (though these are not hard and fast rules):
 
-- **Easy [Test](../../Browse/rule/test/test.md):** A [test](../../Browse/rule/test/test.md) is easy if only one creature opposes the hero, and that opposed creature would have a lower bonus to their [test](../../Browse/rule/test/test.md) roll for the task than the hero does. If a hero with an [Agility](../../Browse/rule/character/agility.md) score of 2 attempts to sneak by a guard with an [Intuition](../../Browse/rule/character/intuition.md) score of 0, the [test](../../Browse/rule/test/test.md) is easy.
-- **Moderate [Test](../../Browse/rule/test/test.md):** A [test](../../Browse/rule/test/test.md) is moderate if multiple creatures oppose the hero and those creatures would have lower bonuses to their [test](../../Browse/rule/test/test.md) rolls than the hero, or if only one creature opposes the hero and has the same [test](../../Browse/rule/test/test.md) bonus as the hero.
-- **Hard [Test](../../Browse/rule/test/test.md):** A [test](../../Browse/rule/test/test.md) is hard if an opposed creature would have a higher bonus to their [test](../../Browse/rule/test/test.md) roll than the hero, or if multiple creatures with the same [test](../../Browse/rule/test/test.md) bonus as the hero oppose the hero.
+- **Easy [Test](../../Browse/rule/test/test.md):** A [test](../../Browse/rule/test/test.md) is easy if only one creature opposes the hero, and that opposed creature would have a lower [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to their [test](../../Browse/rule/test/test.md) roll for the task than the hero does. If a hero with an [Agility](../../Browse/rule/character/agility.md) score of 2 attempts to sneak by a guard with an [Intuition](../../Browse/rule/character/intuition.md) score of 0, the [test](../../Browse/rule/test/test.md) is easy.
+- **Moderate [Test](../../Browse/rule/test/test.md):** A [test](../../Browse/rule/test/test.md) is moderate if multiple creatures oppose the hero and those creatures would have lower [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es to their [test](../../Browse/rule/test/test.md) rolls than the hero, or if only one creature opposes the hero and has the same [test](../../Browse/rule/test/test.md) [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) as the hero.
+- **Hard [Test](../../Browse/rule/test/test.md):** A [test](../../Browse/rule/test/test.md) is hard if an opposed creature would have a higher [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to their [test](../../Browse/rule/test/test.md) roll than the hero, or if multiple creatures with the same [test](../../Browse/rule/test/test.md) [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) as the hero oppose the hero.
 
 The failure consequences of opposed tasks are some of the easiest to create on the fly. Fail to hide from someone, and they notice you. Fail to lie to someone, and they catch your duplicity. Fail to arm wrestle someone for a free ale, and you're picking up the tab. The consequence is that the opposition bests the hero.
 
@@ -230,7 +230,7 @@ For example, if your hero attempts to sneak by a demon lord, you make an [Agilit
 
 In the event of a tie in an opposed [test](../../Browse/rule/test/test.md), the state of the scene doesn't change. In the previous example, a tie means that if a demon on guard duty didn't know a sneaking hero was there, the demon remains oblivious. If the demon did know the hero was out there somewhere while trying to avoid being noticed, a tie means the demon still knows the hero is there but hasn't determined their location.
 
-Since opposed [power rolls](../../Browse/rule/dice/power-roll.md) don't use tiers, when you make an opposed [power roll](../../Browse/rule/dice/power-roll.md), a double [edge](../../Browse/rule/dice/edge.md) provides a +4 bonus to the roll, a double [bane](../../Browse/rule/dice/bane.md) provides a -4 penalty to the roll, an automatic tier increase counts as a +4 bonus to the roll, and an automatic tier decrease counts as a -4 penalty to the roll.
+Since opposed [power rolls](../../Browse/rule/dice/power-roll.md) don't use tiers, when you make an opposed [power roll](../../Browse/rule/dice/power-roll.md), a double [edge](../../Browse/rule/dice/edge.md) provides a +4 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the roll, a double [bane](../../Browse/rule/dice/bane.md) provides a -4 [penalty](../../Browse/rule/dice/bonuses-and-penalties.md) to the roll, an automatic tier increase counts as a +4 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the roll, and an automatic tier decrease counts as a -4 [penalty](../../Browse/rule/dice/bonuses-and-penalties.md) to the roll.
 
 ### Reactive Tests {data-scc="mcdm.heroes.v1/rule.test/reactive-test"}
 
@@ -255,15 +255,15 @@ Skills represent the different specializations a hero has outside of attacking, 
 
 #### Applying Skills
 
-If you have a skill that applies to a [test](../../Browse/rule/test/test.md) you make, you gain a +2 bonus to the [test](../../Browse/rule/test/test.md). For instance, if your hero has the [Hide](../../Browse/skill/hide.md) skill, you have a +2 bonus to any [test](../../Browse/rule/test/test.md) you make that involves hiding yourself. This might include an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) to hide behind a barrel, or a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) to disappear into a crowd.
+If you have a skill that applies to a [test](../../Browse/rule/test/test.md) you make, you gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [test](../../Browse/rule/test/test.md). For instance, if your hero has the [Hide](../../Browse/skill/hide.md) skill, you have a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to any [test](../../Browse/rule/test/test.md) you make that involves hiding yourself. This might include an [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) to hide behind a barrel, or a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) to disappear into a crowd.
 
-The +2 bonus gained for a skill isn't an [edge](../../Browse/rule/dice/edge.md). A player can make a [test](../../Browse/rule/test/test.md) that has both the +2 bonus for a skill and the +2 bonus for an [edge](../../Browse/rule/dice/edge.md).
+The +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) gained for a skill isn't an [edge](../../Browse/rule/dice/edge.md). A player can make a [test](../../Browse/rule/test/test.md) that has both the +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) for a skill and the +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) for an [edge](../../Browse/rule/dice/edge.md).
 
 You can't apply more than one skill to a [test](../../Browse/rule/test/test.md).
 
 ##### Justify the Skill
 
-It's not the Director's job to know every task potentially covered by the skills in the game, or to know the specific skills your hero has. Instead, the Director asks you to make a [test](../../Browse/rule/test/test.md) using a [characteristic](../../Browse/rule/character/characteristic.md) and you tell the Director if you think you have a skill that applies. If it's not obvious why the skill applies, tell the Director how your hero is approaching the task and justify why that approach uses the skill. The Director then decides if you get the +2 bonus the skill represents. If the Director disagrees with you, that's the final word.
+It's not the Director's job to know every task potentially covered by the skills in the game, or to know the specific skills your hero has. Instead, the Director asks you to make a [test](../../Browse/rule/test/test.md) using a [characteristic](../../Browse/rule/character/characteristic.md) and you tell the Director if you think you have a skill that applies. If it's not obvious why the skill applies, tell the Director how your hero is approaching the task and justify why that approach uses the skill. The Director then decides if you get the +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) the skill represents. If the Director disagrees with you, that's the final word.
 
 Approaching problems creatively while remaining reasonable can help you get the most out of your skills. For example, if you're making a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) to impress a noble at a party, using the [Brag](../../Browse/skill/brag.md) skill is an obvious choice. But what if you don't have that skill? Maybe you could instead try to impress the noble with a brief but exciting lecture about the nature of the elements, making a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using the [Magic](../../Browse/skill/magic.md) skill that you do have!
 
@@ -283,7 +283,7 @@ Having a wide range of specific skills means you'll frequently make [tests](../.
 
 Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an [elementalist](../../Browse/class/elementalist.md) who has a gymnastic background in jumping and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
 
-The rules for skills allow for them to be flexibly applied to any [test](../../Browse/rule/test/test.md) that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my [Climb](../../Browse/skill/climb.md) skill for a +2 bonus to my [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md)?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many [tests](../../Browse/rule/test/test.md) as possible. This isn't fun for anyone, and doesn't make a very compelling story.
+The rules for skills allow for them to be flexibly applied to any [test](../../Browse/rule/test/test.md) that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my [Climb](../../Browse/skill/climb.md) skill for a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to my [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md)?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many [tests](../../Browse/rule/test/test.md) as possible. This isn't fun for anyone, and doesn't make a very compelling story.
 
 > **[Edges](../../Browse/rule/dice/edge.md) on [Tests](../../Browse/rule/test/test.md) With Specific Skills**
 >
@@ -314,7 +314,7 @@ Consequences for [tests](../../Browse/rule/test/test.md) made with crafting skil
 | Blacksmithing | Forge metal armor and weapons                      |
 | Carpentry     | Create items out of wood                           |
 | Cooking       | Create delicious dishes                            |
-| Fletching     | Make ranged weapons and ammunition                 |
+| Fletching     | Make [ranged](../../Browse/rule/combat/ranged.md) weapons and ammunition                 |
 | Forgery       | Create false badges, documents, and other items    |
 | Jewelry       | Create bracelets, crowns, rings, and other jewelry |
 | Mechanics     | Build machines and clockwork items                 |
@@ -342,7 +342,7 @@ Create delicious dishes.
 
 ###### Fletching {data-scc="mcdm.heroes.v1/skill/fletching"}
 
-Make ranged weapons and ammunition.
+Make [ranged](../../Browse/rule/combat/ranged.md) weapons and ammunition.
 
 ###### Forgery {data-scc="mcdm.heroes.v1/skill/forgery"}
 
@@ -670,7 +670,7 @@ The Director knows that the walls around the Star Chamber, the headquarters of t
 
 **Director:** *For sure. Okay, roll it up.*
 
-Alyssa rolls 2d10 and gets a 13. She then adds her [Might](../../Browse/rule/character/might.md) score of 2 and her +2 bonus for having an applicable skill to the roll, for a total of 17.
+Alyssa rolls 2d10 and gets a 13. She then adds her [Might](../../Browse/rule/character/might.md) score of 2 and her +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) for having an applicable skill to the roll, for a total of 17.
 
 **Alyssa:** *A 17! That's tier 3, baby!*
 
@@ -708,7 +708,7 @@ The Director checks the [Test Difficulty](../../Browse/rule/test/test-difficulty
 
 **Director:** *Yes, it does. Roll it up. That's a medium difficulty [test](../../Browse/rule/test/test.md).*
 
-Lifting the diminutive [polder](../../Browse/ancestry/polder.md), Alyssa rolls 2d10-but gets a 2! With her [Might](../../Browse/rule/character/might.md) score and Lift skill bonus of +2, the total is 6.
+Lifting the diminutive [polder](../../Browse/ancestry/polder.md), Alyssa rolls 2d10-but gets a 2! With her [Might](../../Browse/rule/character/might.md) score and Lift skill [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) of +2, the total is 6.
 
 **Alyssa:** *A 6! Oof. That's tier 1.*
 
@@ -724,19 +724,19 @@ The Director then decides to make the failure potentially more interesting, by a
 
 **James:** *Thanks for not leaving me behind!*
 
-**Director:** *As Jorn yanks Korvo off the ground and pulls him up to the top of the wall, a guard turns a bullseye lantern your way, calling out, "Who goes there?"*
+**Director:** *As Jorn yanks Korvo off the ground and pulls him up to the top of the wall, a guard [turns](../../Browse/rule/combat/turn.md) a bullseye lantern your way, calling out, "Who goes there?"*
 
 ### Assist a Test
 
 You can attempt to assist another creature with a [test](../../Browse/rule/test/test.md) they make, provided you have a skill that applies to the [test](../../Browse/rule/test/test.md), the other creature isn't using that same skill on the [test](../../Browse/rule/test/test.md), and you can describe how your character helps to the Director's satisfaction. In other words, your attempt to help has to make sense, and you have to bring some useful expertise to the table. Helping another creature sneak by shouting encouragement at them isn't going to make them stealthier.
 
-When you attempt to assist another creature, make a [test](../../Browse/rule/test/test.md) using the skill you choose, and using a [characteristic](../../Browse/rule/character/characteristic.md) chosen by the Director based on the activity you use to help. The outcome of that [test](../../Browse/rule/test/test.md) determines the bonus applied to the [test](../../Browse/rule/test/test.md) you're assisting:
+When you attempt to assist another creature, make a [test](../../Browse/rule/test/test.md) using the skill you choose, and using a [characteristic](../../Browse/rule/character/characteristic.md) chosen by the Director based on the activity you use to help. The outcome of that [test](../../Browse/rule/test/test.md) determines the [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) applied to the [test](../../Browse/rule/test/test.md) you're assisting:
 
 - **≤11:** You get in the way or make things worse. The creature takes a [bane](../../Browse/rule/dice/bane.md) on their [test](../../Browse/rule/test/test.md).
 - **12-16:** Your help grants the other creature an [edge](../../Browse/rule/dice/edge.md) on their [test](../../Browse/rule/test/test.md).
 - **17+:** Your help gives the other creature a double [edge](../../Browse/rule/dice/edge.md) on their [test](../../Browse/rule/test/test.md).
 
-For example, when an ally tries to pick a jailer's pocket, you might attempt to assist by using the [Flirt](../../Browse/skill/flirt.md) skill to distract the jailer. The Director accepts this, and asks you to make a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using Flirt. The outcome of that [test](../../Browse/rule/test/test.md) determines the bonus you provide to the other hero's [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) to pick the jailer's pocket—or whether you fumble the distraction and potentially draw attention to the attempt.
+For example, when an ally tries to pick a jailer's pocket, you might attempt to assist by using the [Flirt](../../Browse/skill/flirt.md) skill to distract the jailer. The Director accepts this, and asks you to make a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) using Flirt. The outcome of that [test](../../Browse/rule/test/test.md) determines the [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) you provide to the other hero's [Agility](../../Browse/rule/character/agility.md) [test](../../Browse/rule/test/test.md) to pick the jailer's pocket—or whether you fumble the distraction and potentially draw attention to the attempt.
 
 ### Hide and Sneak
 
@@ -750,7 +750,7 @@ When you use the [Hide](../../Browse/feature/common/maneuvers/hide.md) maneuver 
 
 While you are hidden from another creature, the creature can't target you with abilities that don't have the Area keyword. This benefit ends as soon as you are no longer hidden from that creature.
 
-Additionally, while you are hidden from another creature, you gain an [edge](../../Browse/rule/dice/edge.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) made against that creature. This benefit lasts until the end of the turn in which you are no longer hidden. This means you can be hidden from another creature at the start of your turn, move out of [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) toward them and use an ability against them, and still gain an [edge](../../Browse/rule/dice/edge.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) made against the creature as long as you use the ability before the end of that turn.
+Additionally, while you are hidden from another creature, you gain an [edge](../../Browse/rule/dice/edge.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) made against that creature. This benefit lasts until the end of the [turn](../../Browse/rule/combat/turn.md) in which you are no longer hidden. This means you can be hidden from another creature at the start of your [turn](../../Browse/rule/combat/turn.md), move out of [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) toward them and use an ability against them, and still gain an [edge](../../Browse/rule/dice/edge.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md) made against the creature as long as you use the ability before the end of that [turn](../../Browse/rule/combat/turn.md).
 
 Draw Steel
 
@@ -798,9 +798,9 @@ If fewer than half the heroes incur a consequence or earn a reward on their indi
 
 When a group of heroes works together over time to accomplish a common goal that requires more than a single [characteristic](../../Browse/rule/character/characteristic.md), the Director can call for a montage [test](../../Browse/rule/test/test.md). Such [tests](../../Browse/rule/test/test.md) typically take place over a prolonged period and focus on collective or shared activities. Navigating a vast desert, convincing farmers to rise up against a tyrannical leader, and performing a ritual to open a magically sealed gate can all be accomplished with montage [tests](../../Browse/rule/test/test.md).
 
-In a montage [test](../../Browse/rule/test/test.md), the players take turns making [tests](../../Browse/rule/test/test.md) as their characters tackle a task together in a montage [test](../../Browse/rule/test/test.md) round. Each hero has a chance to make a [test](../../Browse/rule/test/test.md) (or to assist another hero's [test](../../Browse/rule/test/test.md); see Assist a [Test](../../Browse/rule/test/test.md) above) intended to influence the outcome of the task.
+In a montage [test](../../Browse/rule/test/test.md), the players take [turns](../../Browse/rule/combat/turn.md) making [tests](../../Browse/rule/test/test.md) as their characters tackle a task together in a montage [test](../../Browse/rule/test/test.md) round. Each hero has a chance to make a [test](../../Browse/rule/test/test.md) (or to assist another hero's [test](../../Browse/rule/test/test.md); see Assist a [Test](../../Browse/rule/test/test.md) above) intended to influence the outcome of the task.
 
-A hero can also spend their turn using an item, ability, or other option they have available that they believe can help in the montage [test](../../Browse/rule/test/test.md). For example, if a group of heroes want to cross an ocean on a sailing ship before a storm begins, one hero might make use of a magic fan that creates wind to keep the sails full day and night. The Director decides that this clever action gives the heroes 2 automatic successes in the montage [test](../../Browse/rule/test/test.md), with no individual [tests](../../Browse/rule/test/test.md) necessary (see Total Successes and Failures below).
+A hero can also spend their [turn](../../Browse/rule/combat/turn.md) using an item, ability, or other option they have available that they believe can help in the montage [test](../../Browse/rule/test/test.md). For example, if a group of heroes want to cross an ocean on a sailing ship before a storm begins, one hero might make use of a magic fan that creates wind to keep the sails full day and night. The Director decides that this clever action gives the heroes 2 automatic successes in the montage [test](../../Browse/rule/test/test.md), with no individual [tests](../../Browse/rule/test/test.md) necessary (see Total Successes and Failures below).
 
 Once a hero makes a [test](../../Browse/rule/test/test.md), assists with a [test](../../Browse/rule/test/test.md), or uses an ability or other option, they can't do anything else as part of the montage [test](../../Browse/rule/test/test.md) until each other hero involved in the montage [test](../../Browse/rule/test/test.md) does so as well. A hero can also choose to do nothing, most often if they have no one to assist and fear that their actions might make the situation worse (see Montage [Test](../../Browse/rule/test/test.md) Outcomes below). Once every hero has had a chance to act, the montage [test](../../Browse/rule/test/test.md) round ends and a new one begins.
 
@@ -818,7 +818,7 @@ At the start of a [montage test](../../Browse/rule/test/montage-test.md), the Di
 
 The difficulty of each individual [test](../../Browse/rule/test/test.md) in a [montage test](../../Browse/rule/test/montage-test.md) is set by the Director and can vary from [test](../../Browse/rule/test/test.md) to [test](../../Browse/rule/test/test.md). For instance, if the heroes are preparing the defenses of a village threatened by a band of approaching raiders, the Director might decide that a character who wants to dig a trench around the village needs to make an easy [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md). Another hero wants to train the untested farmers of the village in the ways of war, and the Director decides this is a hard [Reason](../../Browse/rule/character/reason.md) [test](../../Browse/rule/test/test.md).
 
-The same rules and guidelines that apply to all individual [tests](../../Browse/rule/test/test.md) apply in [montage tests](../../Browse/rule/test/montage-test.md). If a hero has a clever, out-of-the-box idea that the Director thinks should automatically succeed without rolling dice, it does. If the circumstances of the [test](../../Browse/rule/test/test.md) should grant an [edge](../../Browse/rule/dice/edge.md) or a [bane](../../Browse/rule/dice/bane.md), they do. Individual [test](../../Browse/rule/test/test.md) outcomes shouldn't halt the story.
+The same rules and [guide](../../Browse/rule/downtime/guide.md)lines that apply to all individual [tests](../../Browse/rule/test/test.md) apply in [montage tests](../../Browse/rule/test/montage-test.md). If a hero has a clever, out-of-the-box idea that the Director thinks should automatically succeed without rolling dice, it does. If the circumstances of the [test](../../Browse/rule/test/test.md) should grant an [edge](../../Browse/rule/dice/edge.md) or a [bane](../../Browse/rule/dice/bane.md), they do. Individual [test](../../Browse/rule/test/test.md) outcomes shouldn't halt the story.
 
 The Director should couch each success or failure as it relates to the overall goal of the [montage test](../../Browse/rule/test/montage-test.md). If the heroes are trying to reach an ancient temple, failing a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) to ford a river in their path doesn't mean they don't cross the river and are stuck on the other side. But it could mean that failing to cross the river in a timely manner gives a rival group of villains the chance to beat the party to the temple.
 

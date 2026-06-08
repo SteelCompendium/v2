@@ -30,7 +30,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you take the first turn in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can <a href="../../../../movement/shifting/">shift</a> up to their <a href="../../../../rule/character/speed/">speed</a>, and <a href="../../../../rule/dice/ability-roll/">ability rolls</a> made against them have a double <a href="../../../../rule/dice/bane/">bane</a> until the end of the combat round. Additionally, any <a href="../../../../rule/combat/surprised/">surprised</a> enemy is no longer <a href="../../../../rule/combat/surprised/">surprised</a>.</p>
+<p>Whenever you take the first <a href="../../../../rule/combat/turn/">turn</a> in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can <a href="../../../../movement/shifting/">shift</a> up to their <a href="../../../../rule/character/speed/">speed</a>, and <a href="../../../../rule/dice/ability-roll/">ability rolls</a> made against them have a double <a href="../../../../rule/dice/bane/">bane</a> until the end of the <a href="../../../../rule/combat/combat-round/">combat round</a>. Additionally, any <a href="../../../../rule/combat/surprised/">surprised</a> enemy is no longer <a href="../../../../rule/combat/surprised/">surprised</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -42,7 +42,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>As a <a href="../../../../rule/resource/respite/">respite</a> activity, you can scribe a notice of your arrival (such as a calling card or a formal letter) addressed to an enemy. You can deliver the notice to the target personally if you are in the same general area, send it by courier, or leave it in a covert location for the target to find. You can have only one notice active at a time.</p>
-<p>The Director determines when the target receives your notice. When the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per combat round during encounters involving the target. The heroes start each such encounter with 2 additional <a href="../../../../rule/resource/hero-token/">hero tokens</a> (Chapter 1: <a href="../../../../../Read/heroes/the-basics/">The Basics</a>). These <a href="../../../../rule/resource/hero-token/">hero tokens</a> disappear at the end of the encounter.</p>
+<p>The Director determines when the target receives your notice. When the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per <a href="../../../../rule/combat/combat-round/">combat round</a> during encounters involving the target. The heroes start each such encounter with 2 additional <a href="../../../../rule/resource/hero-token/">hero tokens</a> (Chapter 1: <a href="../../../../../Read/heroes/the-basics/">The Basics</a>). These <a href="../../../../rule/resource/hero-token/">hero tokens</a> disappear at the end of the encounter.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

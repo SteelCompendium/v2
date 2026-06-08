@@ -32,9 +32,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You tug at the strings of the foe&#39;s anima and unravel them, allowing someone else to take advantage of their drive.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Animapathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Animapathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -59,9 +59,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You attempt to make them forget all their training.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 2</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 2</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -86,14 +86,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You reshape the flow of time in the target&#39;s body to return it to an earlier state.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose two of the following effects:</p><ul><li>The target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>.</li><li>The target gains 1 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, and can end any effects on them that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of their turn.</li><li>The target gains 2 <a href="../../../../rule/resource/surge/">surges</a>, and gains a +3 bonus to <a href="../../../../rule/character/speed/">speed</a> until the end of the encounter.</li></ul></div>
+<div class="sc-ability__section-body"><p>Choose two of the following effects:</p><ul><li>The target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>.</li><li>The target gains 1 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, and can end any effects on them that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of their <a href="../../../../rule/combat/turn/">turn</a>.</li><li>The target gains 2 <a href="../../../../rule/resource/surge/">surges</a>, and gains a +3 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> until the end of the encounter.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -110,14 +110,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">The target&#39;s skin becomes covered in tough metal.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Metamorphosis</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Metamorphosis</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> 5 and can&#39;t be made <a href="../../../../condition/slowed/">slowed</a> or <a href="../../../../condition/weakened/">weakened</a> until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +5 bonus.</p></div>
+<div class="sc-ability__section-body"><p>The target has <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> 5 and can&#39;t be made <a href="../../../../condition/slowed/">slowed</a> or <a href="../../../../condition/weakened/">weakened</a> until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. Whenever the target force moves a creature or object while under this effect, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +5 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

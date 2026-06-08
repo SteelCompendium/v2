@@ -3,11 +3,11 @@ action_type: Main action
 class: shadow
 cost: 5 Insight
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
-effect: The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](../../../../condition/weakened.md) (save ends).
+effect: The gas remains in the area until the end of the encounter. Any creature who starts their [turn](../../../../rule/combat/turn.md) in the area and has M < AVERAGE is [weakened](../../../../condition/weakened.md) (save ends).
 flavor: Putrid yellow gas explodes from a bomb you toss.
 keywords:
     - Area
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Stink Bomb
 scc: mcdm.heroes.v1/feature.ability.shadow.level-2/stink-bomb
@@ -29,7 +29,7 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Insight</div></div>
 </div>
 <p class="sc-ability__flavor">Putrid yellow gas explodes from a bomb you toss.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature in the area</div></div>
@@ -39,6 +39,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M &lt; AVERAGE is <a href="../../../../../condition/weakened/">weakened</a> (save ends).</p></div>
+<div class="sc-ability__section-body"><p>The gas remains in the area until the end of the encounter. Any creature who starts their <a href="../../../../../rule/combat/turn/">turn</a> in the area and has M &lt; AVERAGE is <a href="../../../../../condition/weakened/">weakened</a> (save ends).</p></div>
 </div>
 </article>

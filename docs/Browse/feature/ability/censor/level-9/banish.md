@@ -2,11 +2,11 @@
 action_type: Main action
 class: censor
 cost: 11 Wrath
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: This ability gains an [edge](../../../../rule/dice/edge.md) against demons, [devils](../../../../ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double [edge](../../../../rule/dice/edge.md). While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make [saving throws](../../../../rule/general/saving-throw.md), and takes 10 holy damage each time they do so. If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) while banished, they are lost to the timescape.
 flavor: You sever the target's tenuous connection to the world.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "9"
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Wrath</div></div>
 </div>
 <p class="sc-ability__flavor">You sever the target&#39;s tenuous connection to the world.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

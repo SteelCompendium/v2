@@ -1,11 +1,11 @@
 ---
 action_type: Main action
 ancestry: time-raider
-distance: Ranged 10
+distance: '[Ranged](../../../rule/combat/ranged.md) 10'
 flavor: You slam an invisible force down upon the target.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
 name: Concussive Slam
 scc: mcdm.heroes.v1/feature.ability.time-raider/concussive-slam
@@ -28,9 +28,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">You slam an invisible force down upon the target.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">

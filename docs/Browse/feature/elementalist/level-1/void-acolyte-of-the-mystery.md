@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The <a href="../../../../rule/combat/distance/">distance</a> of all your abilities that have the Magic, Ranged, and Void keywords increases by 2 squares.</p>
+<p>You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The <a href="../../../../rule/combat/distance/">distance</a> of all your abilities that have the Magic, <a href="../../../../rule/combat/ranged/">Ranged</a>, and Void keywords increases by 2 squares.</p>
 </div>
 </section>

@@ -36,7 +36,7 @@ The specific outcome of any power roll is determined by the effect or ability th
 
 ### Downgrade a Power Roll
 
-Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the [restrained](../../condition/restrained.md) condition on a creature, but the tier 2 outcome for that ability lets you impose the [slowed](../../condition/slowed.md) condition, you can use the tier 2 outcome if you would rather have the creature [slowed](../../condition/slowed.md) than [restrained](../../condition/restrained.md).
+Whenever you make a power roll, you can downgrade it to select the outcome of a lower tier. For instance, if an ability has a tier 3 outcome that lets you impose the [restrained](../../condition/restrained.md) [condition](../combat/condition.md) on a creature, but the tier 2 outcome for that ability lets you impose the [slowed](../../condition/slowed.md) [condition](../combat/condition.md), you can use the tier 2 outcome if you would rather have the creature [slowed](../../condition/slowed.md) than [restrained](../../condition/restrained.md).
 
 If you downgrade a [critical hit](../combat/critical-hit.md), you still get the extra action benefit of the [critical hit](../combat/critical-hit.md) (see [Critical Hit](../combat/critical-hit.md) in [Classes](../../../Read/heroes/classes.md)).
 
@@ -52,15 +52,15 @@ An archer standing on a castle wall fires down into a throng of enemies, hitting
 
 ### Edge {data-scc="mcdm.heroes.v1/rule.dice/edge"}
 
-An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee [strike](../combat/strike.md) against a [prone](../../condition/prone.md) creature gains an edge on the power roll for their [strike](../combat/strike.md). A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to climb walls!
+An **edge** represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a [melee](../combat/melee.md) [strike](../combat/strike.md) against a [prone](../../condition/prone.md) creature gains an edge on the power roll for their [strike](../combat/strike.md). A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to climb walls!
 
-When you make a power roll with an edge, you gain a +2 bonus to the roll. If you make a power roll with two or more edges, you have a **double edge**. With a double edge, you don't add anything to the power roll, but the outcome of the roll automatically improves one tier (to a maximum of tier 3).
+When you make a power roll with an edge, you gain a +2 [bonus](bonuses-and-penalties.md) to the roll. If you make a power roll with two or more edges, you have a **double edge**. With a double edge, you don't add anything to the power roll, but the outcome of the roll automatically improves one tier (to a maximum of tier 3).
 
 ### Bane {data-scc="mcdm.heroes.v1/rule.dice/bane"}
 
 A **bane** represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make a [strike](../combat/strike.md) while [prone](../../condition/prone.md), the power roll for the [strike](../combat/strike.md) takes a bane. A rainstorm might give you a bane on a power roll made to climb an outdoor wall because the weather makes the stone surface extra slick.
 
-When you make a power roll with a bane, you take a −2 penalty to the roll. If you make a power roll with two or more banes, you have a **double bane**. With a double bane, you don't subtract anything from the power roll, but the outcome of the roll automatically decreases one tier (to a minimum of tier 1).
+When you make a power roll with a bane, you take a −2 [penalty](bonuses-and-penalties.md) to the roll. If you make a power roll with two or more banes, you have a **double bane**. With a double bane, you don't subtract anything from the power roll, but the outcome of the roll automatically decreases one tier (to a minimum of tier 1).
 
 ### Rolling With Edges and Banes
 
@@ -72,11 +72,11 @@ Under certain circumstances, you might have one or more [edges](edge.md) and [ba
 
 ### When to Use Edges and Banes
 
-The rules tell you when to modify a roll with an [edge](edge.md) or a [bane](bane.md). The Director can also modify rolls with [edges](edge.md) and [banes](bane.md) as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a [bane](bane.md) on power rolls made to climb a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
+The rules tell you when to modify a roll with an [edge](edge.md) or a [bane](bane.md). The Director can also modify rolls with [edges](edge.md) and [banes](bane.md) as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a [bane](bane.md) on power rolls made to climb a stone wall. But it makes sense that rainy [conditions](../combat/condition.md) should make climbing that wall harder, so a Director should absolutely do so!
 
 > **Why Cap?**
 >
-> We capped [edges](edge.md) and [banes](bane.md) at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can benefit or be hindered by short-term circumstances only so much. For example, a character who is [prone](../../condition/prone.md) and [weakened](../../condition/weakened.md) by poison already finds it difficult to attack—so that becoming [restrained](../../condition/restrained.md) by a net can't really make it harder.
+> We capped [edges](edge.md) and [banes](bane.md) at a maximum of two each for several reasons, including thinking about the narrative of those [penalties](bonuses-and-penalties.md). Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can benefit or be hindered by short-term circumstances only so much. For example, a character who is [prone](../../condition/prone.md) and [weakened](../../condition/weakened.md) by poison already finds it difficult to attack—so that becoming [restrained](../../condition/restrained.md) by a net can't really make it harder.
 
 We also liked capping [edges](edge.md) and [banes](bane.md) at two because it keeps play quick. It's nice to not need to count beyond two positive or negative circumstances in a battle with a lot of effects flying around.
 
@@ -88,6 +88,6 @@ Though it might sound as if the math with bonuses and penalties can get confusin
 
 ## Automatic Tier Outcomes
 
-Effects in the game sometimes allow a creature to obtain an automatic tier 1, 2, or 3 outcome on a power roll. Such effects supersede any [edges](edge.md), [banes](bane.md), bonuses, or penalties that might affect the roll. If you obtain an automatic [tier outcome](tier-outcome.md) and the power roll would have an additional effect if you get a specific roll, such as scoring a [critical hit](../combat/critical-hit.md) in combat, you can still make the roll to determine if you obtain the additional effect in addition to the automatic outcome.
+Effects in the game sometimes allow a creature to obtain an automatic tier 1, 2, or 3 outcome on a power roll. Such effects supersede any [edges](edge.md), [banes](bane.md), [bonus](bonuses-and-penalties.md)es, or [penalties](bonuses-and-penalties.md) that might affect the roll. If you obtain an automatic [tier outcome](tier-outcome.md) and the power roll would have an additional effect if you get a specific roll, such as scoring a [critical hit](../combat/critical-hit.md) in combat, you can still make the roll to determine if you obtain the additional effect in addition to the automatic outcome.
 
 If you are under multiple effects that each grant you a different automatic outcome, those effects cancel each other out and all automatic outcomes are ignored. If multiple effects grant you the same automatic outcome, you obtain that outcome.

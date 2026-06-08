@@ -2,12 +2,12 @@
 action_type: Triggered
 class: talent
 cost: 3 Clarity
-distance: Ranged 10
-effect: The target is [teleport](../../../../movement/teleport.md)ed to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: The target is [teleport](../../../../movement/teleport.md)ed to an unoccupied space [adjacent](../../../../rule/combat/adjacent.md) to you, taking no damage and suffering no additional effects if this movement would get them out of harm's way.
 flavor: You freeze time just long enough to bring the victim to safety!
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "8"
 name: Stasis Shield
 scc: mcdm.heroes.v1/feature.ability.talent.level-8/stasis-shield
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">3</span> Clarity</div></div>
 </div>
 <p class="sc-ability__flavor">You freeze time just long enough to bring the victim to safety!</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self, or one creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -42,7 +42,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is <a href="../../../../../movement/teleport/">teleport</a>ed to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm&#39;s way.</p></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../../../movement/teleport/">teleport</a>ed to an unoccupied space <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you, taking no damage and suffering no additional effects if this movement would get them out of harm&#39;s way.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

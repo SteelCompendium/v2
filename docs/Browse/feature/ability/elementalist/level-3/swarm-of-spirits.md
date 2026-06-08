@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 7 Essence
 distance: 3 [aura](../../../../rule/combat/aura.md)
-effect: Until the end of your next turn, each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../../rule/character/potency.md), and has a +1 bonus to [saving throws](../../../../rule/general/saving-throw.md).
+effect: Until the end of your next [turn](../../../../rule/combat/turn.md), each ally in the area has each of their [characteristic](../../../../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../../../../rule/character/potency.md), and has a +1 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [saving throws](../../../../rule/general/saving-throw.md).
 flavor: Guardian animal spirits surround you to harry your foes and bolster your allies.
 keywords:
     - Area
@@ -40,10 +40,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of your next turn, each ally in the area has each of their <a href="../../../../../rule/character/characteristic/">characteristic</a> scores treated as 1 higher for the purpose of resisting <a href="../../../../../rule/character/potency/">potencies</a>, and has a +1 bonus to <a href="../../../../../rule/general/saving-throw/">saving throws</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of your next <a href="../../../../../rule/combat/turn/">turn</a>, each ally in the area has each of their <a href="../../../../../rule/character/characteristic/">characteristic</a> scores treated as 1 higher for the purpose of resisting <a href="../../../../../rule/character/potency/">potencies</a>, and has a +1 <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../../rule/general/saving-throw/">saving throws</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>You make the <a href="../../../../../rule/dice/power-roll/">power roll</a> again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>You make the <a href="../../../../../rule/dice/power-roll/">power roll</a> again to target each enemy in the area without spending essence, and the effect lasts until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

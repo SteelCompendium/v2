@@ -1,12 +1,12 @@
 ---
 action_type: Triggered
 class: talent
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: You can use this ability after seeing the result of the triggering roll. The target must reroll the [power roll](../../../../rule/dice/power-roll.md) and use the new roll.
 flavor: You step back a split second to see if things play out a little differently.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Again
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/again
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You step back a split second to see if things play out a little differently.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one creature</div></div>
 </div>
 <div class="sc-ability__section">

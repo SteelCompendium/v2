@@ -19,6 +19,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>While you are in your hybrid form, your <a href="../../../../rule/character/size/">size</a> is 1L, you have a +2 bonus to <a href="../../../../rule/character/speed/">speed</a>, and you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a>. At 4th level, the first time you take hybrid form in an encounter, you gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p>
+<p>While you are in your hybrid form, your <a href="../../../../rule/character/size/">size</a> is 1L, you have a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a>, and you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a>. At 4th level, the first time you take hybrid form in an encounter, you gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p>
 </div>
 </section>

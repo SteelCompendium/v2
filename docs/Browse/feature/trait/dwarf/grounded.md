@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to <a href="../../../../rule/character/stability/">stability</a>.</p>
+<p>Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/stability/">stability</a>.</p>
 </div>
 </section>

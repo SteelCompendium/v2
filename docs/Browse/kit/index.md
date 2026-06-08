@@ -14,11 +14,11 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Ranged Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
@@ -38,7 +38,7 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
@@ -77,11 +77,11 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Melee Dmg</div></div>
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Ranged Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
@@ -119,10 +119,10 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
@@ -143,7 +143,7 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
@@ -161,10 +161,10 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
@@ -185,7 +185,7 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+0/+0/+4</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
@@ -206,7 +206,7 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+0/+0/+4</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
@@ -227,7 +227,7 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
@@ -266,11 +266,11 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Melee Dmg</div></div>
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Ranged Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
@@ -287,11 +287,11 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Melee Dmg</div></div>
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Ranged Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
@@ -308,11 +308,11 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Ranged Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
@@ -329,10 +329,10 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
@@ -353,7 +353,7 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
@@ -371,11 +371,11 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+0/+0/+4</div><div class="l">Ranged Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
   </div>
@@ -395,7 +395,7 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
@@ -413,10 +413,10 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
@@ -434,10 +434,10 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
@@ -455,10 +455,10 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+2/+2/+2</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
@@ -500,7 +500,7 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>
@@ -518,10 +518,10 @@
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stamina per Echelon</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Speed</div></div>
     <div class="sc-card__stat"><div class="v">0</div><div class="l">Stability</div></div>
-    <div class="sc-card__stat"><div class="v">+1</div><div class="l">Disengage</div></div>
+    <div class="sc-card__stat"><div class="v">0</div><div class="l">Disengage</div></div>
   </div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(4,1fr)">
-    <div class="sc-card__stat is-dmg"><div class="v" style="font-size:.72rem">+1/+1/+1</div><div class="l">Melee Dmg</div></div>
+    <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Melee Dmg</div></div>
     <div class="sc-card__stat is-dmg"><div class="v">—</div><div class="l">Ranged Dmg</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Melee Dist</div></div>
     <div class="sc-card__stat"><div class="v">—</div><div class="l">Ranged Dist</div></div>

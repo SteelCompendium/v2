@@ -32,9 +32,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You curse your foe to become a bane to their allies.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -42,7 +42,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each of your turns, a target <a href="../../../../condition/weakened/">weakened</a> this way deals holy damage equal to twice your <a href="../../../../rule/character/presence/">Presence</a> score to each enemy within 2 squares of them. Additionally, a target <a href="../../../../condition/weakened/">weakened</a> this way can&#39;t be targeted by their allies&#39; abilities.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each of your <a href="../../../../rule/combat/turn/">turns</a>, a target <a href="../../../../condition/weakened/">weakened</a> this way deals holy damage equal to twice your <a href="../../../../rule/character/presence/">Presence</a> score to each enemy within 2 squares of them. Additionally, a target <a href="../../../../condition/weakened/">weakened</a> this way can&#39;t be targeted by their allies&#39; abilities.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -55,9 +55,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You use your foe as a tool against your enemies.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -78,9 +78,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your enemy&#39;s guilt fuels a holy flame that burns your foes.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -88,7 +88,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each of your turns, a target <a href="../../../../condition/dazed/">dazed</a> this way deals holy damage equal to twice your <a href="../../../../rule/character/presence/">Presence</a> score to each enemy within 2 squares of them.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each of your <a href="../../../../rule/combat/turn/">turns</a>, a target <a href="../../../../condition/dazed/">dazed</a> this way deals holy damage equal to twice your <a href="../../../../rule/character/presence/">Presence</a> score to each enemy within 2 squares of them.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -100,10 +100,10 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">You turn your enemies&#39; ire to the target.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<p class="sc-ability__flavor">You <a href="../../../../rule/combat/turn/">turn</a> your enemies&#39; ire to the target.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -111,7 +111,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While the target is <a href="../../../../condition/slowed/">slowed</a> this way, each of their allies who starts their turn within 5 squares of them must use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to make a <a href="../../../common/main-actions/free-strike/">free strike</a> against the target. Additionally, while the target is <a href="../../../../condition/slowed/">slowed</a> this way, each of their allies within 5 squares of them who can make a triggered <a href="../../../common/main-actions/free-strike/">free strike</a> against a different creature must make the <a href="../../../common/main-actions/free-strike/">free strike</a> against the target instead.</p></div>
+<div class="sc-ability__section-body"><p>While the target is <a href="../../../../condition/slowed/">slowed</a> this way, each of their allies who starts their <a href="../../../../rule/combat/turn/">turn</a> within 5 squares of them must use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to make a <a href="../../../common/main-actions/free-strike/">free strike</a> against the target. Additionally, while the target is <a href="../../../../condition/slowed/">slowed</a> this way, each of their allies within 5 squares of them who can make a triggered <a href="../../../common/main-actions/free-strike/">free strike</a> against a different creature must make the <a href="../../../common/main-actions/free-strike/">free strike</a> against the target instead.</p></div>
 </div>
 </article>
 </div>

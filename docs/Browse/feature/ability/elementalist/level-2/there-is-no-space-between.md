@@ -1,12 +1,12 @@
 ---
 action_type: Maneuver
 class: elementalist
-distance: Ranged 10
-effect: You open two [size](../../../../rule/character/size.md) 1 portals in unoccupied spaces within [distance](../../../../rule/combat/distance.md), which last until you move beyond [distance](../../../../rule/combat/distance.md) from any portal, end the effect as a maneuver, or are [dying](../../../../rule/health/dying.md). Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleport](../../../../movement/teleport.md)ed to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their [forced movement](../../../../movement/forced-movement.md) ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: You open two [size](../../../../rule/character/size.md) 1 portals in unoccupied spaces within [distance](../../../../rule/combat/distance.md), which last until you move beyond [distance](../../../../rule/combat/distance.md) from any portal, end the effect as a maneuver, or are [dying](../../../../rule/health/dying.md). Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleport](../../../../movement/teleport.md)ed to an unoccupied space of their choice [adjacent](../../../../rule/combat/adjacent.md) to the other portal. If an enemy is force moved into a portal, their [forced movement](../../../../movement/forced-movement.md) ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
 flavor: Knowledge of the mystery reveals that two spaces are the same space.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Void
 level: "2"
 name: There Is No Space Between
@@ -29,13 +29,13 @@ type: ability
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Knowledge of the mystery reveals that two spaces are the same space.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Void</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">Void</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You open two <a href="../../../../../rule/character/size/">size</a> 1 portals in unoccupied spaces within <a href="../../../../../rule/combat/distance/">distance</a>, which last until you move beyond <a href="../../../../../rule/combat/distance/">distance</a> from any portal, end the effect as a maneuver, or are <a href="../../../../../rule/health/dying/">dying</a>. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly <a href="../../../../../movement/teleport/">teleport</a>ed to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their <a href="../../../../../movement/forced-movement/">forced movement</a> ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.</p><p>At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who <a href="../../../../../movement/forced-movement/">force move</a>s an enemy into a portal chooses that enemy&#39;s destination portal.</p></div>
+<div class="sc-ability__section-body"><p>You open two <a href="../../../../../rule/character/size/">size</a> 1 portals in unoccupied spaces within <a href="../../../../../rule/combat/distance/">distance</a>, which last until you move beyond <a href="../../../../../rule/combat/distance/">distance</a> from any portal, end the effect as a maneuver, or are <a href="../../../../../rule/health/dying/">dying</a>. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly <a href="../../../../../movement/teleport/">teleport</a>ed to an unoccupied space of their choice <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the other portal. If an enemy is force moved into a portal, their <a href="../../../../../movement/forced-movement/">forced movement</a> ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.</p><p>At the start of each of your <a href="../../../../../rule/combat/turn/">turns</a> while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who <a href="../../../../../movement/forced-movement/">force move</a>s an enemy into a portal chooses that enemy&#39;s destination portal.</p></div>
 </div>
 </article>

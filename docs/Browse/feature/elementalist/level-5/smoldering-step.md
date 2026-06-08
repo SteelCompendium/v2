@@ -21,6 +21,6 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You can use 1 square of movement to walk into an area of fire your <a href="../../../../rule/character/size/">size</a> or larger and <a href="../../../../movement/teleport/">teleport</a> to any other area of fire your <a href="../../../../rule/character/size/">size</a> or larger within 10 squares of the first area.</p>
-<p>Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
+<p>Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy <a href="../../../../rule/combat/adjacent/">adjacent</a> to you takes fire damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>

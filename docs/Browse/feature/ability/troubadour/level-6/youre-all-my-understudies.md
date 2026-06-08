@@ -3,7 +3,7 @@ action_type: Maneuver
 class: troubadour
 cost: 9 Drama
 distance: 5 [burst](../../../../rule/combat/burst.md)
-effect: Until the end of the encounter, each target gains the [speed](../../../../rule/character/speed.md) bonus, weapon [distance](../../../../rule/combat/distance.md) bonus, disengage bonus, and [stability](../../../../rule/character/stability.md) bonus of your currently equipped kit in addition to their own kit's bonuses.
+effect: Until the end of the encounter, each target gains the [speed](../../../../rule/character/speed.md) [bonus](../../../../rule/dice/bonuses-and-penalties.md), weapon [distance](../../../../rule/combat/distance.md) [bonus](../../../../rule/dice/bonuses-and-penalties.md), disengage [bonus](../../../../rule/dice/bonuses-and-penalties.md), and [stability](../../../../rule/character/stability.md) [bonus](../../../../rule/dice/bonuses-and-penalties.md) of your currently equipped kit in addition to their own kit's [bonus](../../../../rule/dice/bonuses-and-penalties.md)es.
 flavor: It's important for everyone to know each other's lines, just in case...
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, each target gains the <a href="../../../../../rule/character/speed/">speed</a> bonus, weapon <a href="../../../../../rule/combat/distance/">distance</a> bonus, disengage bonus, and <a href="../../../../../rule/character/stability/">stability</a> bonus of your currently equipped kit in addition to their own kit&#39;s bonuses.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, each target gains the <a href="../../../../../rule/character/speed/">speed</a> <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a>, weapon <a href="../../../../../rule/combat/distance/">distance</a> <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a>, disengage <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a>, and <a href="../../../../../rule/character/stability/">stability</a> <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> of your currently equipped kit in addition to their own kit&#39;s <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a>es.</p></div>
 </div>
 </article>

@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 9 Piety
 distance: 4 [burst](../../../../rule/combat/burst.md)
-effect: Each target can spend any number of [Recoveries](../../../../rule/health/recoveries.md). Additionally, each target can end one effect on themself that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their turn, or they can stand up if [prone](../../../../condition/prone.md).
+effect: Each target can spend any number of [Recoveries](../../../../rule/health/recoveries.md). Additionally, each target can end one effect on themself that is ended by a [saving throw](../../../../rule/general/saving-throw.md) or that ends at the end of their [turn](../../../../rule/combat/turn.md), or they can stand up if [prone](../../../../condition/prone.md).
 flavor: With a gesture, you restore your health and that of your allies.
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>. Additionally, each target can end one effect on themself that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their turn, or they can stand up if <a href="../../../../../condition/prone/">prone</a>.</p></div>
+<div class="sc-ability__section-body"><p>Each target can spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>. Additionally, each target can end one effect on themself that is ended by a <a href="../../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of their <a href="../../../../../rule/combat/turn/">turn</a>, or they can stand up if <a href="../../../../../condition/prone/">prone</a>.</p></div>
 </div>
 </article>

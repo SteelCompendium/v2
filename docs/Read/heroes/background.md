@@ -19,7 +19,7 @@ No. A hero's life experience and background make them what they are. That backgr
 
 A hero's culture describes the beliefs, customs, values, and way of life held by the community in which they were raised. This community provides life experiences that give a character some of their game statistics. Even if a hero doesn't share their culture's values, those values shaped their early development and way of life. In fact, some people become heroes primarily from the rejection of the ways of their culture.
 
-For our purposes, a hero's culture represents people, not a place. Yes, you might have grown up in the great city of Capital, but your culture is more specific than that. One hero's culture might be House Alvaro, a noble house in Capital where they were raised. Another's culture could be a group or organization that moves around, such as a band of pirates or a secret order of sorcerers sworn to protect books of fell magic. It helps to get specific when thinking about your culture, and working with the four aspects of a culture can help you do that: **language**, **environment**, **organization**, and **upbringing**.
+For our purposes, a hero's culture represents people, not a place. Yes, you might have grown up in the great city of [Capital](../../Browse/rule/world/capital.md), but your culture is more specific than that. One hero's culture might be House Alvaro, a noble house in [Capital](../../Browse/rule/world/capital.md) where they were raised. Another's culture could be a group or organization that moves around, such as a band of pirates or a secret order of sorcerers sworn to protect books of fell magic. It helps to get specific when thinking about your culture, and working with the four aspects of a culture can help you do that: **language**, **environment**, **organization**, and **upbringing**.
 
 ## Using Culture
 
@@ -68,7 +68,7 @@ You can build your culture one aspect at a time, or you can use the following ta
 
 ### Why Build a Culture?
 
-Building a character is about more than adding up your stats, picking skills and abilities, and recording that information on a character sheet. You're building a hero—a main character in a story, be it a one-shot or a heroic campaign. Think about the personality and the past of who you are creating. That's why the game lets you build a culture rather than simply saying, "Pick three skills and a bonus language." We want players to imagine their heroes as complex and intricate characters.
+Building a character is about more than adding up your stats, picking skills and abilities, and recording that information on a character sheet. You're building a hero—a main character in a story, be it a one-shot or a heroic campaign. Think about the personality and the past of who you are creating. That's why the game lets you build a culture rather than simply saying, "Pick three skills and a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) language." We want players to imagine their heroes as complex and intricate characters.
 
 ### Culture Benefits
 
@@ -114,7 +114,7 @@ When people live together in close quarters, they typically learn to get along. 
 
 ##### Urban {data-scc="mcdm.heroes.v1/culture/urban"}
 
-An [urban](../../Browse/culture/urban.md) culture is always centered in a city. Such a culture might arise within the walls of Capital, a massive metropolis with a cosmopolitan population; within a network of caverns that hold an underground city; or in any other place where a large population lives relatively close together. The people of [urban](../../Browse/culture/urban.md) cultures often learn to effectively misdirect others in order to navigate the crowds and the political machinations that can come with city life.
+An [urban](../../Browse/culture/urban.md) culture is always centered in a city. Such a culture might arise within the walls of [Capital](../../Browse/rule/world/capital.md), a massive metropolis with a cosmopolitan population; within a network of caverns that hold an underground city; or in any other place where a large population lives relatively close together. The people of [urban](../../Browse/culture/urban.md) cultures often learn to effectively misdirect others in order to navigate the crowds and the political machinations that can come with city life.
 
 **Skill Options:** One skill from the interpersonal or intrigue skill groups. (*Quick Build:* [Alertness](../../Browse/skill/alertness.md).)
 
@@ -134,7 +134,7 @@ When you build a culture, select its organization aspect from the following opti
 
 [Bureaucratic](../../Browse/culture/bureaucratic.md) cultures are steeped in official leadership and formally recorded laws. Members of such a culture are often ranked in power according to those laws, with a small group of people holding the power to rule according to birthright, popular vote, or some other official and measurable standard. Many bureaucratic communities
 
-have one person at the top, though others might be ruled by a council. A trade guild with a guildmaster, treasurer, secretary, and a charter of rules and regulations for membership; a feudal lord who rules over a group of knights who in turn rule over peasants working the land; and a militaristic society with ranks and rules that its people must abide are all examples of bureaucratic cultures.
+have one person at the top, though others might be ruled by a council. A trade guild with a guildmaster, treasurer, secretary, and a charter of rules and regulations for membership; a feudal lord who rules over a group of knights who in [turn](../../Browse/rule/combat/turn.md) rule over peasants working the land; and a militaristic society with ranks and rules that its people must abide are all examples of bureaucratic cultures.
 
 Those who thrive in [bureaucratic](../../Browse/culture/bureaucratic.md) cultures don't simply follow the rules. They know how to use those rules to their advantage, either bending, changing, or reinterpreting policy to advance their own interests. Schmoozing with those who make the laws is often key to this approach. Others in a [bureaucratic](../../Browse/culture/bureaucratic.md) culture might specialize in operating outside the strict regulations that govern the culture without getting caught.
 
@@ -406,7 +406,7 @@ You gain the following career benefits:
 | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | **Blood Money:** When you entered adulthood, you heard unsavory whispers about your family's fortune before learning that their wealth came at the cost of others' suffering. Whether you shed light on the secret or not, you left to become a hero stripped of noble title. |
-| 2  | **Charmed Life:** Whether through some supernatural power or your innate persuasiveness, you were able to defraud other aristocrats. You did it for fun. And when you were found out, you lost your status. Whether you served time or escaped punishment, you decided to rehabilitate yourself and became a hero. |
+| 2  | **Charmed Life:** Whether through some [supernatural](../../Browse/rule/general/supernatural.md) power or your innate persuasiveness, you were able to defraud other aristocrats. You did it for fun. And when you were found out, you lost your status. Whether you served time or escaped punishment, you decided to rehabilitate yourself and became a hero. |
 | 3  | **Inheritance:** The guardians who instilled in you the virtues of doing the right thing were murdered in a senseless petty robbery. Though their wealth was bequeathed to you, it did little to assuage the guilt you felt for being unable to stop the deadly crime. You decided to use your riches to fund your life as a hero, whether publicly or using an alter ego. |
 | 4  | **Privileged Position:** Life outside the manor never piqued your interest. You had everything you wanted. It thus came as a surprise when the peasants came to overthrow your family. You narrowly escaped, and for the first time witnessed the world. It caused you to become a hero for the people, fighting against inequities. |
 | 5  | **Royal Pauper:** Seeking a break from noble duties, you sought a lookalike to switch identities with. It went so well that you made a habit of switching whenever you were bored. Unfortunately, your counterpart became so good at imitating you that they convinced all those around you that you were an impostor. You lost contact with your family, but now pursue a heroic path free of the pomp of your old life. |
@@ -498,7 +498,7 @@ You gain the following career benefits:
 
 You worked in a church, temple, or other religious institution as part of the clergy. In defining your career, think about the following questions:
 
-- What gods or saints did your institution venerate?
+- What gods or [saints](../../Browse/rule/world/saint.md) did your institution venerate?
 - What initiation rites did you undergo to get the job?
 - What were your responsibilities as a [disciple](../../Browse/career/disciple.md)?
 - How was your institution viewed by members of the local culture?
@@ -509,7 +509,7 @@ You gain the following career benefits:
 
 **[Project Points](../../Browse/rule/downtime/project-points.md):** 240
 
-**Perk:** One supernatural perk (*Quick Build:* [Ritualist](../../Browse/perk/ritualist.md).)
+**Perk:** One [supernatural](../../Browse/rule/general/supernatural.md) perk (*Quick Build:* [Ritualist](../../Browse/perk/ritualist.md).)
 
 | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -517,7 +517,7 @@ You gain the following career benefits:
 | 2  | **Dogma:** Although you joined your religious institution under the guidance of a kind mentor, others within the house of worship became increasingly fanatical in their convictions. Your mentor sought to be a voice of reason in the rising tide of hatred and was tried as a heretic before being executed. Leaving the institution behind, you became a hero to uphold the beliefs you hold dear. |
 | 3  | **Freedom to Worship:** Your temple was destroyed in a religious conflict. The institution's leaders sought retaliation, but you saw in these actions a ceaseless cycle of destruction that would lead to more conflict. Instead, you became a hero to protect religious freedoms, so all worshippers might practice their faith without fear. |
 | 4  | **Lost Faith:** You devoted your life to ministering to the sick and needy, alongside other charitable work. Time and time again, tragedy struck those you served without rhyme or reason. Your prayers went unanswered, and your efforts went thankless. Eventually, you lost your faith in a higher power, and you left your church or temple to do good outside of any religious affiliation. |
-| 5  | **Near-Death Experience:** While serving at a religious institution, you almost died in an accident. When you woke, you had lost all memory of ever having worked for the church or temple. Though the clergy encouraged you to stay, you left to forge a new path. Your sense of altruism—whether instilled in you by your past work or a part of who you naturally are—guides you in your life. |
+| 5  | **Near-Death Experience:** While serving at a religious institution, you almost died in an accident. When you woke, you had lost all memory of ever having worked for the church or temple. Though the clergy encouraged you to stay, you left to forge a new path. Your sense of altruism—whether instilled in you by your past work or a part of who you naturally are—[guides](../../Browse/rule/downtime/guide.md) you in your life. |
 | 6  | **Taxing Times:** The faith-based organization you were once part of became corrupt. It used its status in the community to accumulate wealth through tithes, while its leaders sought political appointments. During a season of drought, the institution stockpiled resources and refused to give aid, resulting in the deaths of many. You became a hero to fight against such corruption and to honor those you lost. |
 
 #### Explorer {data-scc="mcdm.heroes.v1/career/explorer"}
@@ -628,7 +628,7 @@ You gain the following career benefits:
 | 2  | **Disaster:** A disaster, such as a cave-in, wildfire, or tidal wave, hit the work crew you were in charge of. You saved as many as you could, but the ones you couldn't save weigh heavily on your mind. You took up the life of a hero to save as many people as possible, vowing that what happened to you then won't happen again. |
 | 3  | **Embarrassment:** A noble you worked for admonished you publicly for work done poorly—and more than once. Finally, you'd had enough. You vowed to take up a new path and show this noble you're far more than what they make you out to be. |
 | 4  | **Live the Dream:** You worked with a good friend, and on the job, you would always fantasize about what it would be like to hit the road as adventuring heroes... someday. You didn't expect that your friend would fall ill and pass away. Now it's time to live out that dream for both of you. |
-| 5  | **Shining Light:** You kept a lighthouse along the constantly stormy cliffs of your village with your mentor. On a clear and sunny day, your mentor vanished. Finding only a cryptic notebook filled with his musings on the supernatural, you left to find out what really happened. The trail has gone cold for now, and you're helping others find their loved ones in the meantime. |
+| 5  | **Shining Light:** You kept a lighthouse along the constantly stormy cliffs of your village with your mentor. On a clear and sunny day, your mentor vanished. Finding only a cryptic notebook filled with his musings on the [supernatural](../../Browse/rule/general/supernatural.md), you left to find out what really happened. The trail has gone cold for now, and you're helping others find their loved ones in the meantime. |
 | 6  | **Slow and Steady:** You labored silently as an uncaring boss drove those around you into the ground, pushing you to work harder to lessen the burden on your companions. But when the boss pushed too far and killed a friend of yours, you led an uprising against them. That was the start of your adventuring life. |
 
 #### Mage's Apprentice {data-scc="mcdm.heroes.v1/career/mages-apprentice"}
@@ -648,7 +648,7 @@ You gain the following career benefits:
 
 **[Renown](../../Browse/rule/resource/renown.md):** +1
 
-**Perk:** One supernatural perk (*Quick Build:* [Arcane Trick](../../Browse/perk/arcane-trick.md).)
+**Perk:** One [supernatural](../../Browse/rule/general/supernatural.md) perk (*Quick Build:* [Arcane Trick](../../Browse/perk/arcane-trick.md).)
 
 | d6 | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -799,7 +799,7 @@ You gain the following career benefits:
 
 #### Warden {data-scc="mcdm.heroes.v1/career/warden"}
 
-You protected a wild region from those who sought to harm it, such as poachers and cultists bent on the destruction of the natural world. Knowing your land well, you could also serve as a guide or the leader of a rescue party for those wandering the wilds. In defining your career, think about the following questions:
+You protected a wild region from those who sought to harm it, such as poachers and cultists bent on the destruction of the natural world. Knowing your land well, you could also serve as a [guide](../../Browse/rule/downtime/guide.md) or the leader of a rescue party for those wandering the wilds. In defining your career, think about the following questions:
 
 - What environment did you protect?
 - Were you part of a formal group of wardens or did you take the job upon yourself ?
@@ -821,7 +821,7 @@ You gain the following career benefits:
 | 1  | **Betrayed:** When outsiders arrived in your lands with the intent to exploit the wilds for their resources, you spoke out against them. However, several other wardens spoke in favor of these outsiders, and allowed them in to despoil nature. Refusing to watch your homeland destroyed, you left. Now you help others avoid such a fate. |
 | 2  | **Corruption:** A disease has infected the lands you protect, causing animals to become violent and twisting plants into something sinister. You've tried everything, magical and mundane, to stop the scourge, but it continues to spread. As such, you've set out in search of a cure or an unblighted land to protect. |
 | 3  | **Exiled:** You made a mistake that could not be forgiven. The other wardens of the region decided your fate, exiling you from your lands with an order never to return. |
-| 4  | **Honor the Fallen:** A group of heroes arrived in your territory with trouble close on their heels. You fought alongside them to turn back the evil, but it was too much. The heroes fell, and your wilderness was forever altered. Though your lands are beyond saving, there are other lands you can help. |
+| 4  | **Honor the Fallen:** A group of heroes arrived in your territory with trouble close on their heels. You fought alongside them to [turn](../../Browse/rule/combat/turn.md) back the evil, but it was too much. The heroes fell, and your wilderness was forever altered. Though your lands are beyond saving, there are other lands you can help. |
 | 5  | **Portents:** There were signs. You tried to ignore them, but when a great beast died at your feet, you had to recognize the truth. You were meant to leave your home territory, meant to fight a battle for the fate of all lands—and so you gave up the only life you've ever known. |
 | 6  | **Theft:** You were responsible for guarding something precious, something vital to your region's survival. But you let someone in, and they betrayed your trust by stealing the thing you were meant to guard. You left your chosen territory to atone for your mistake. |
 

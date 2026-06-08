@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Invisible spirits surround you if you are harmed. Whenever an adjacent creature deals damage to you, they take corruption damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
+<p>Invisible spirits surround you if you are harmed. Whenever an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature deals damage to you, they take corruption damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
 </div>
 </section>

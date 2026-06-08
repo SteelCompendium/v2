@@ -2,10 +2,10 @@
 action_type: Main action
 class: censor
 cost: 9 Wrath
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 flavor: You strike a foe and create a fleet of divine shields that protect your allies.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
 level: "5"
@@ -29,12 +29,12 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Wrath</div></div>
 </div>
 <p class="sc-ability__flavor">You strike a foe and create a fleet of divine shields that protect your allies.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 10 + M damage; you and each ally adjacent to you gain 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a></li><li><b>12-16:</b> 14 + M damage; you and each ally adjacent to you gain 15 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a></li><li><b>17+:</b> 20 + M damage; you and each ally adjacent to you gain 20 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a></li></ul></div>
+<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 10 + M damage; you and each ally <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you gain 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a></li><li><b>12-16:</b> 14 + M damage; you and each ally <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you gain 15 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a></li><li><b>17+:</b> 20 + M damage; you and each ally <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you gain 20 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a></li></ul></div>
 </div>
 </article>

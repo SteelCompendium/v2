@@ -42,9 +42,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your leadership aids an ally.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
 <div class="sc-ability__section">
@@ -67,9 +67,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Under your direction, an ally waits for just the right moment to strike.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -92,9 +92,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your quick reflexes cost an enemy the precision they seek.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 2</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 2</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
@@ -103,9 +103,9 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> 1 square. If the target is you, or if you end this <a href="../../../../movement/shifting/">shift</a> adjacent to the target, the target takes half the damage. If the damage has any <a href="../../../../rule/character/potency/">potency</a> effect associated with it, the <a href="../../../../rule/character/potency/">potency</a> is decreased by 1.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> 1 square. If the target is you, or if you end this <a href="../../../../movement/shifting/">shift</a> <a href="../../../../rule/combat/adjacent/">adjacent</a> to the target, the target takes half the damage. If the damage has any <a href="../../../../rule/character/potency/">potency</a> effect associated with it, the <a href="../../../../rule/character/potency/">potency</a> is decreased by 1.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">This ability&#39;s <a href="../../../../rule/combat/distance/">distance</a> becomes Melee 1 + your <a href="../../../../rule/character/reason/">Reason</a> score, and you can <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score instead of 1 square.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">This ability&#39;s <a href="../../../../rule/combat/distance/">distance</a> becomes <a href="../../../../rule/combat/melee/">Melee</a> 1 + your <a href="../../../../rule/character/reason/">Reason</a> score, and you can <a href="../../../../movement/shifting/">shift</a> up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score instead of 1 square.</span></div>
 </article>
 </div>
 </div>

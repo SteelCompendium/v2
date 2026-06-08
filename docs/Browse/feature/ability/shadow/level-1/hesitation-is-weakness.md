@@ -3,7 +3,7 @@ action_type: Free triggered
 class: shadow
 cost: 1 Insight
 distance: Self
-effect: You take your turn after the triggering hero.
+effect: You take your [turn](../../../../rule/combat/turn.md) after the triggering hero.
 flavor: Keep up the attack. Never give them a moment's grace.
 keywords:
     - '-'
@@ -12,7 +12,7 @@ name: Hesitation Is Weakness
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/hesitation-is-weakness
 subtype: triggered
 target: Self
-trigger: Another hero ends their turn. That hero can't have used this ability to start their turn.
+trigger: Another hero ends their [turn](../../../../rule/combat/turn.md). That hero can't have used this ability to start their [turn](../../../../rule/combat/turn.md).
 type: ability
 ---
 
@@ -37,10 +37,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>Another hero ends their turn. That hero can&#39;t have used this ability to start their turn.</p></div>
+<div class="sc-ability__section-body"><p>Another hero ends their <a href="../../../../../rule/combat/turn/">turn</a>. That hero can&#39;t have used this ability to start their <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take your turn after the triggering hero.</p></div>
+<div class="sc-ability__section-body"><p>You take your <a href="../../../../../rule/combat/turn/">turn</a> after the triggering hero.</p></div>
 </div>
 </article>

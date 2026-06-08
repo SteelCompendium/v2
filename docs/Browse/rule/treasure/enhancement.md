@@ -8,17 +8,17 @@ type: rule
 
 ---
 
-Armor imbued with an enhancement grants you special benefits while it is worn. Additionally, when your armor receives its 1st-level enhancement, it also grants a +6 bonus to [Stamina](../health/stamina.md). A 5th-level enhancement increases the [Stamina](../health/stamina.md) bonus to +12, and a 9th-level enhancement increases it to +21.
+Armor imbued with an enhancement grants you special benefits while it is worn. Additionally, when your armor receives its 1st-level enhancement, it also grants a +6 [bonus](../dice/bonuses-and-penalties.md) to [Stamina](../health/stamina.md). A 5th-level enhancement increases the [Stamina](../health/stamina.md) [bonus](../dice/bonuses-and-penalties.md) to +12, and a 9th-level enhancement increases it to +21.
 
 > **Clothing as Armor Treasures**
 >
-> A hero who has a kit that provides no armor, such as the [Martial Artist](../../kit/martial-artist.md) or [Sniper](../../kit/sniper.md) kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../../class/elementalist.md) and [nulls](../../class/null.md), can also benefit from such treasures.
+> A hero who has a kit that provides no armor, such as the [Martial Artist](../../kit/martial-artist.md) or [Sniper](../../kit/sniper.md) kit, can create and make use of leveled armor treasures that imbue mundane clothing with [supernatural](../general/supernatural.md) power. At the Director's discretion, heroes who don't use kits, such as [elementalists](../../class/elementalist.md) and [nulls](../../class/null.md), can also benefit from such treasures.
 
 ## 1st-Level Armor Enhancement
 
 **[Item Prerequisite](../downtime/item-prerequisite.md):** Varies
 
-**[Project Source](../downtime/project-source.md):** Texts or lore in a language determined by the enhancement
+**[Project Source](../downtime/project-source.md):** Texts or lore in a language determined by the [enhancement](enhancement.md)
 
 **[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
@@ -30,23 +30,23 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Disguise:** You can use a maneuver to cause this armor to take the form of any type of clothing that you have been in the presence of—a noble's dress, a guard's uniform, a cultist's robes, and so forth. The armor loses none of its protective qualities while transformed into other clothing.
 
-**Iridescent:** When you are the sole target of an ability, you can use a free [triggered action](../combat/triggered-action.md) to reveal that the ability was targeting an afterimage of you in the same space as you. The [power roll](../dice/power-roll.md) for the ability is treated as an 11. You can't use this enhancement again until you earn 1 or more [Victories](../resource/victories.md).
+**Iridescent:** When you are the sole target of an ability, you can use a free [triggered action](../combat/triggered-action.md) to reveal that the ability was targeting an afterimage of you in the same space as you. The [power roll](../dice/power-roll.md) for the ability is treated as an 11. You can't use this [enhancement](enhancement.md) again until you earn 1 or more [Victories](../resource/victories.md).
 
 **Magic Resistance I:** Your [characteristic](../character/characteristic.md) scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the [potencies](../character/potency.md) of magic abilities.
 
-**Nettlebloom:** Whenever you are [grabbed](../../condition/grabbed.md) by an adjacent creature, your armor sprouts toxic nettles. While that creature has you [grabbed](../../condition/grabbed.md), they are [weakened](../../condition/weakened.md).
+**Nettlebloom:** Whenever you are [grabbed](../../condition/grabbed.md) by an [adjacent](../combat/adjacent.md) creature, your armor sprouts toxic nettles. While that creature has you [grabbed](../../condition/grabbed.md), they are [weakened](../../condition/weakened.md).
 
-**Phasing I:** Once per turn, you can move through 1 square of solid matter. If you end your turn inside solid matter, you are forced out into the space from which you entered it and you take 5 damage that can't be reduced in any way.
+**Phasing I:** Once per [turn](../combat/turn.md), you can move through 1 square of solid matter. If you end your [turn](../combat/turn.md) inside solid matter, you are forced out into the space from which you entered it and you take 5 damage that can't be reduced in any way.
 
 **Psionic Resistance I:** Your [characteristic](../character/characteristic.md) scores are treated as 1 higher (to a maximum of 2) for the purpose of resisting the [potencies](../character/potency.md) of psionic abilities.
 
-**Swift:** You gain a +1 bonus to [speed](../character/speed.md).
+**Swift:** You gain a +1 [bonus](../dice/bonuses-and-penalties.md) to [speed](../character/speed.md).
 
-**Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an adjacent creature deals damage to you before the end of your next turn, they take lightning damage equal to your highest [characteristic](../character/characteristic.md) score and you can push them 1 square.
+**Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an [adjacent](../combat/adjacent.md) creature deals damage to you before the end of your next [turn](../combat/turn.md), they take lightning damage equal to your highest [characteristic](../character/characteristic.md) score and you can push them 1 square.
 
 ## 1st-Level Armor Enhancements Table
 
-| Enhancement          | [Item Prerequisite](../downtime/item-prerequisite.md)                                                                                | [Project Source](../downtime/project-source.md) Language |
+| [Enhancement](enhancement.md)          | [Item Prerequisite](../downtime/item-prerequisite.md)                                                                                | [Project Source](../downtime/project-source.md) Language |
 |----------------------|--------------------------------------------------------------------------------------------------|-------------------------|
 | Awe                  | A lock of hair from a fey, taken in amicable bargain for Charming or in violence for Threatening | Khelt                   |
 | [Damage Immunity](../damage/damage-immunity.md) I    | Elemental sand left behind when an elemental enters [Orden](../world/orden.md) from Quintessence                      | Zaliac                  |
@@ -61,9 +61,9 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 ## 5th-Level Armor Enhancement
 
-**[Item Prerequisite](../downtime/item-prerequisite.md):** Armor with a 1st-level enhancement; varies
+**[Item Prerequisite](../downtime/item-prerequisite.md):** Armor with a 1st-level [enhancement](enhancement.md); varies
 
-**[Project Source](../downtime/project-source.md):** Texts or lore in a language determined by the enhancement
+**[Project Source](../downtime/project-source.md):** Texts or lore in a language determined by the [enhancement](enhancement.md)
 
 **[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
@@ -83,25 +83,25 @@ You can use an absorbed ability as if you knew it, making [power rolls](../dice/
 - **12-16:** 12 damage; push 4
 - **17+:** 15 damage; push 5
 
-**Levitating:** On your turn, you can treat up to 5 consecutive squares of movement as [flying](../../movement/fly.md) movement. If you are still in midair at the end of your turn, you [fall prone](../../condition/prone.md).
+**Levitating:** On your [turn](../combat/turn.md), you can treat up to 5 consecutive squares of movement as [flying](../../movement/fly.md) movement. If you are still in midair at the end of your [turn](../combat/turn.md), you [fall prone](../../condition/prone.md).
 
 **Magic Resistance II:** Your [characteristic](../character/characteristic.md) scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the [potencies](../character/potency.md) of magic abilities. This benefit replaces Magic Resistance I.
 
-**Phasing II:** When you use the armor's Phasing I enhancement, you can move through 3 squares of solid matter per turn.
+**Phasing II:** When you use the armor's Phasing I [enhancement](enhancement.md), you can move through 3 squares of solid matter per [turn](../combat/turn.md).
 
 **Psionic Resistance II:** Your [characteristic](../character/characteristic.md) scores are treated as 2 higher (to a maximum of 3) for the purpose of resisting the [potencies](../character/potency.md) of psionic abilities. This benefit replaces Psionic Resistance I.
 
-**Reactive:** Whenever you take damage, you have [damage immunity](../damage/damage-immunity.md) 2 until the end of your next turn after the triggering damage is resolved.
+**Reactive:** Whenever you take damage, you have [damage immunity](../damage/damage-immunity.md) 2 until the end of your next [turn](../combat/turn.md) after the triggering damage is resolved.
 
 **Second Wind:** Whenever you become [winded](../health/winded.md), you can use a free [triggered action](../combat/triggered-action.md) to spend a [Recovery](../health/recoveries.md).
 
 **Shattering:** Whenever an enemy scores a [critical hit](../combat/critical-hit.md) against you, they take 10 sonic damage.
 
-**Tempest II:** When you use the armor's Tempest I enhancement, the affected creature takes 8 lightning damage and you push them up to 3 squares.
+**Tempest II:** When you use the armor's Tempest I [enhancement](enhancement.md), the affected creature takes 8 lightning damage and you push them up to 3 squares.
 
 ## 5th-Level Armor Enhancements Table
 
-| Enhancement           | [Item Prerequisite](../downtime/item-prerequisite.md)                                                                 | [Project Source](../downtime/project-source.md) Language |
+| [Enhancement](enhancement.md)           | [Item Prerequisite](../downtime/item-prerequisite.md)                                                                 | [Project Source](../downtime/project-source.md) Language |
 |-----------------------|-----------------------------------------------------------------------------------|-------------------------|
 | Absorption            | A mirror blessed by a priest of a god of magic                                    | The First Language      |
 | [Damage Immunity](../damage/damage-immunity.md) II    | The essence of an elemental who is still alive                                    | Zaliac                  |
@@ -117,9 +117,9 @@ You can use an absorbed ability as if you knew it, making [power rolls](../dice/
 
 ## 9th-Level Armor Enhancement
 
-**[Item Prerequisite](../downtime/item-prerequisite.md):** Armor with a 5th-level enhancement; varies
+**[Item Prerequisite](../downtime/item-prerequisite.md):** Armor with a 5th-level [enhancement](enhancement.md); varies
 
-**[Project Source](../downtime/project-source.md):** Texts or lore in a language determined by the enhancement
+**[Project Source](../downtime/project-source.md):** Texts or lore in a language determined by the [enhancement](enhancement.md)
 
 **[Project Roll](../downtime/project-roll.md) [Characteristic](../character/characteristic.md):** [Might](../character/might.md), [Reason](../character/reason.md), or [Intuition](../character/intuition.md)
 
@@ -145,31 +145,31 @@ You can use an absorbed ability as if you knew it, making [power rolls](../dice/
 
 **Invulnerable:** When an [ability roll](../dice/ability-roll.md) made against you obtains a tier 1 outcome, you can ignore its damage and effects.
 
-**Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead [teleport](../../movement/teleport.md) that [distance](../combat/distance.md).
+**Leyline Walker:** Once per [turn](../combat/turn.md) as a move action, you can spend any amount of your movement to instead [teleport](../../movement/teleport.md) that [distance](../combat/distance.md).
 
 **Life:** Whenever you would die, you can spend a [Recovery](../health/recoveries.md) to regain [Stamina](../health/stamina.md) instead. If you have no [Recoveries](../health/recoveries.md) to spend, you die.
 
-**Magic Resistance III:** The benefit of the armor's Magic Resistance II enhancement extends to each ally within 3 squares of you.
+**Magic Resistance III:** The benefit of the armor's Magic Resistance II [enhancement](enhancement.md) extends to each ally within 3 squares of you.
 
-**Phasing III:** Your movement doesn't provoke [opportunity attacks](../combat/opportunity-attack.md), and you can move through the space of any enemy as if they were an ally. You can't end your turn in an enemy's space.
+**Phasing III:** Your movement doesn't provoke [opportunity attacks](../combat/opportunity-attack.md), and you can move through the space of any enemy as if they were an ally. You can't end your [turn](../combat/turn.md) in an enemy's space.
 
-**Psionic Resistance III:** The benefit of the armor's Psionic Resistance II enhancement extends to each ally within 3 squares of you.
+**Psionic Resistance III:** The benefit of the armor's Psionic Resistance II [enhancement](enhancement.md) extends to each ally within 3 squares of you.
 
 **Temporal Flux:** Whenever you move out of a square, you can choose to leave an imprint behind that lasts until the end of the encounter, until your imprint takes 20 or more damage, or until you create a new imprint. The square is occupied by your imprint, and you can share that space with it.
 
-On your turn, you can [teleport](../../movement/teleport.md) to the imprint's space as a [free maneuver](../combat/free-maneuver.md). When you are targeted by an ability, you can use a free [triggered action](../combat/triggered-action.md) to [teleport](../../movement/teleport.md) to your imprint, and the [power roll](../dice/power-roll.md) for the ability is an automatic tier 1 result.
+On your [turn](../combat/turn.md), you can [teleport](../../movement/teleport.md) to the imprint's space as a [free maneuver](../combat/free-maneuver.md). When you are targeted by an ability, you can use a free [triggered action](../combat/triggered-action.md) to [teleport](../../movement/teleport.md) to your imprint, and the [power roll](../dice/power-roll.md) for the ability is an automatic tier 1 result.
 
-**Unbending:** You can't be subjected to [forced movement](../../movement/forced-movement.md) unless you choose to be. Effects that ignore [Stability](../character/stability.md) also ignore this enhancement.
+**Unbending:** You can't be subjected to [forced movement](../../movement/forced-movement.md) unless you choose to be. Effects that ignore [Stability](../character/stability.md) also ignore this [enhancement](enhancement.md).
 
 ## 9th-Level Armor Enhancements Table
 
-| Enhancement            | [Item Prerequisite](../downtime/item-prerequisite.md)                                                                                    | [Project Source](../downtime/project-source.md) Language |
+| [Enhancement](enhancement.md)            | [Item Prerequisite](../downtime/item-prerequisite.md)                                                                                    | [Project Source](../downtime/project-source.md) Language |
 |------------------------|------------------------------------------------------------------------------------------------------|-------------------------|
 | Devil's Bargain        | The wing of an archdevil                                                                             | Anjali                  |
 | Dragon Soul II         | An offering of gems, coins, and art stolen from a dragon's hoard, sacrificed in ritual fire          | Vastariax               |
 | Invulnerable           | Repurposed metal plates from a servok war engine                                                     | Rallarian               |
 | Leyline Walker         | A cutting from an ethereal tree that manifests in the mundane world only once a year                 | Yllyric                 |
-| Life                   | The tear of a saint                                                                                  | High Kuric              |
+| Life                   | The tear of a [saint](../world/saint.md)                                                                                  | High Kuric              |
 | Magic Resistance III   | A scale from an ancient dragon                                                                       | The First Language      |
 | Phasing III            | Perfectly clear glass from a house that disappeared into the Ethereal Plane                          | Szetch                  |
 | Psionic Resistance III | The skull of a voiceless talker at least a century old                                               | Voll                    |

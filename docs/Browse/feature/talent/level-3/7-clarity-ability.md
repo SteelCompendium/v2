@@ -32,9 +32,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Chronopathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -42,7 +42,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.</p></div>
+<div class="sc-ability__section-body"><p>A target who is flung through time is removed from the encounter map until the end of their next <a href="../../../../rule/combat/turn/">turn</a>, reappearing in their original space or the nearest unoccupied space.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -59,14 +59,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Spheres of solid psionic energy float around you.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telekinesis</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telekinesis</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create three <a href="../../../../rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your turns, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to fire an orb at a creature or object within 5 squares as a ranged <a href="../../../../rule/combat/strike/">strike</a>, losing the orb after the <a href="../../../../rule/combat/strike/">strike</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 damage</li><li><b>12-16:</b> 3 damage</li><li><b>17+:</b> 5 damage</li></ul></div>
+<div class="sc-ability__section-body"><p>You create three <a href="../../../../rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your <a href="../../../../rule/combat/turn/">turns</a>, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to fire an orb at a creature or object within 5 squares as a <a href="../../../../rule/combat/ranged/">ranged</a> <a href="../../../../rule/combat/strike/">strike</a>, losing the orb after the <a href="../../../../rule/combat/strike/">strike</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 damage</li><li><b>12-16:</b> 3 damage</li><li><b>17+:</b> 5 damage</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -90,7 +90,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The <a href="../../../../rule/combat/aura/">aura</a> lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.</p></div>
+<div class="sc-ability__section-body"><p>The <a href="../../../../rule/combat/aura/">aura</a> lasts until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. Whenever an enemy targets an ally in the area with a <a href="../../../../rule/combat/ranged/">ranged</a> ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -107,9 +107,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Animapathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Animapathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

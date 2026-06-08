@@ -28,10 +28,10 @@ Your primordial [damage type](../rule/damage/damage-type.md) is corruption.
 
 ## Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.raden/kit-bonuses"}
 
-- **[Stamina](../rule/health/stamina.md) Bonus:** +3 per [echelon](../rule/general/echelon.md)
-- **[Speed](../rule/character/speed.md) Bonus:** +3
-- **Melee Damage Bonus:** +2/+2/+2
-- **Disengage Bonus:** +1
+- **[Stamina](../rule/health/stamina.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +3 per [echelon](../rule/general/echelon.md)
+- **[Speed](../rule/character/speed.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +3
+- **[Melee](../rule/combat/melee.md) Damage [Bonus](../rule/dice/bonuses-and-penalties.md):** +2/+2/+2
+- **Disengage [Bonus](../rule/dice/bonuses-and-penalties.md):** +1
 
 ## Signature Ability
 
@@ -39,9 +39,9 @@ Your primordial [damage type](../rule/damage/damage-type.md) is corruption.
 
 *Your enemies try in vain to fall back from your pouncing attack.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -59,9 +59,9 @@ As your ferocity grows, you gain benefits as noted on the [Raden](raden.md) [Gro
 
 | Ferocity        | Benefit                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | Whenever you use the [Disengage](../feature/common/move-actions/disengage.md) move action, the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) gains a bonus equal to your [Agility](../rule/character/agility.md) score.                                 |
-| 4               | The first time you [shift](../movement/shifting.md) on a turn, you gain 1 [surge](../rule/resource/surge.md).                                                                                             |
+| 2               | Whenever you use the [Disengage](../feature/common/move-actions/disengage.md) move action, the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) gains a [bonus](../rule/dice/bonuses-and-penalties.md) equal to your [Agility](../rule/character/agility.md) score.                                 |
+| 4               | The first time you [shift](../movement/shifting.md) on a [turn](../rule/combat/turn.md), you gain 1 [surge](../rule/resource/surge.md).                                                                                             |
 | 6               | You gain an [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) [tests](../rule/test/test.md), the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                          |
-| 8 (4th level)   | The first time you [shift](../movement/shifting.md) on a turn, you gain 2 [surges](../rule/resource/surge.md) instead of 1.                                                                               |
+| 8 (4th level)   | The first time you [shift](../movement/shifting.md) on a [turn](../rule/combat/turn.md), you gain 2 [surges](../rule/resource/surge.md) instead of 1.                                                                               |
 | 10 (7th level)  | You have a double [edge](../rule/dice/edge.md) on [Agility](../rule/character/agility.md) [tests](../rule/test/test.md), the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver                                                     |
 | 12 (10th level) | Whenever you use a [heroic ability](../rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, the [potency](../rule/character/potency.md) of any effects targeting you is reduced by 2 for you. |

@@ -32,14 +32,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>, can end any effects on them that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of their turn, and can stand up if they <a href="../../../../condition/prone/">are prone</a>. Additionally, at the start of each of their turns until the end of the encounter or until they are <a href="../../../../rule/health/dying/">dying</a>, the target gains 3 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
+<div class="sc-ability__section-body"><p>The target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>, can end any effects on them that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of their <a href="../../../../rule/combat/turn/">turn</a>, and can stand up if they <a href="../../../../condition/prone/">are prone</a>. Additionally, at the start of each of their <a href="../../../../rule/combat/turn/">turns</a> until the end of the encounter or until they are <a href="../../../../rule/health/dying/">dying</a>, the target gains 3 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -79,7 +79,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each of your turns until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each target gains 3 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each of your <a href="../../../../rule/combat/turn/">turns</a> until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each target gains 3 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -92,9 +92,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You conjure an angel who moves a foe and heals your allies.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -102,7 +102,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally the target comes adjacent to during the <a href="../../../../movement/forced-movement/">forced movement</a> can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
+<div class="sc-ability__section-body"><p>Each ally the target comes <a href="../../../../rule/combat/adjacent/">adjacent</a> to during the <a href="../../../../movement/forced-movement/">forced movement</a> can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
 </div>

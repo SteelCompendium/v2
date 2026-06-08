@@ -12,7 +12,7 @@ Each test has the following steps:
 
 The Director decides that a hero's activities call for a test and asks the hero's player to make a [power roll](../dice/power-roll.md) using an appropriate [characteristic](../character/characteristic.md) (see [Characteristics](../character/characteristic.md) and Tests below). The Director then selects a difficulty for the [power roll](../dice/power-roll.md), either secretly or publicly (see [Test Difficulty](test-difficulty.md) below).
 
-The player makes the [power roll](../dice/power-roll.md). If the character has a skill that applies to the test (see Skills later in this chapter), they can ask the Director if the skill applies and justify the use of the skill. If the Director agrees the skill applies, the hero gains a +2 bonus to the roll.
+The player makes the [power roll](../dice/power-roll.md). If the character has a skill that applies to the test (see Skills later in this chapter), they can ask the Director if the skill applies and justify the use of the skill. If the Director agrees the skill applies, the hero gains a +2 [bonus](../dice/bonuses-and-penalties.md) to the roll.
 
 The player reports the total of the roll, and the Director interprets its success or failure.
 
@@ -126,7 +126,7 @@ In lieu of other consequences, the Director also has the option to gain 2 additi
 
 If you fail a [test](test.md) without incurring a consequence, you simply don't do what you set out to do. A hero attempting to climb a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
 
-On a failed [test](test.md), the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the [test](test.md). This penalty shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an [Agility](../character/agility.md) [test](test.md) made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm... yet.
+On a failed [test](test.md), the Director can decide that there might still be a small [penalty](../dice/bonuses-and-penalties.md) for failure, depending on the circumstances of the [test](test.md). This [penalty](../dice/bonuses-and-penalties.md) shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an [Agility](../character/agility.md) [test](test.md) made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm... yet.
 
 When a hero rolls a failure without a consequence, the Director can offer to let them succeed with a consequence instead. For instance, when a hero rolls a 10 on a medium [Might](../character/might.md) [test](test.md) to break down a locked door, that's a failure and the door stays closed. But the Director could suggest to the player that instead of not breaking down the door, they can break down the door and lose 1d6 [Stamina](../health/stamina.md) from being injured in the effort.
 

@@ -2,11 +2,11 @@
 action_type: Maneuver
 class: tactician
 cost: 9 Focus
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have [damage immunity](../../../../rule/damage/damage-immunity.md) or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 [surges](../../../../rule/resource/surge.md).
 flavor: With new understanding of your foes, you create the perfect plan to win the battle.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "6"
 name: Battle Plan
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/battle-plan
@@ -28,9 +28,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Focus</div></div>
 </div>
 <p class="sc-ability__flavor">With new understanding of your foes, you create the perfect plan to win the battle.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div>
 </div>
 <div class="sc-ability__section">

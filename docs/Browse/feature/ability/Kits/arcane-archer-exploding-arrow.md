@@ -1,11 +1,11 @@
 ---
 action_type: Main action
-distance: Ranged 15
+distance: '[Ranged](../../../rule/combat/ranged.md) 15'
 effect: One creature or object of your choice within 2 squares of the target takes fire damage equal to the [characteristic](../../../rule/character/characteristic.md) score used for this ability's [power roll](../../../rule/dice/power-roll.md).
 flavor: Your ammunition explodes with magical energy.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: arcane-archer
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">Your ammunition explodes with magical energy.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 15</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 15</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">

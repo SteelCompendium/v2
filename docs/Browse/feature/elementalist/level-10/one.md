@@ -52,8 +52,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.</p>
-<p>Additionally, your <a href="../../../ability/elementalist/level-1/return-to-formlessness/">Return to Formlessness</a> ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: <a href="../../../../../Read/heroes/rewards/">Rewards</a>), you gain breath equal to its <a href="../../../../rule/general/echelon/">echelon</a>.</p>
+<p>The damage <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.</p>
+<p>Additionally, your <a href="../../../ability/elementalist/level-1/return-to-formlessness/">Return to Formlessness</a> ability can be used on <a href="../../../../rule/general/supernatural/">supernatural</a> objects (but not on artifacts). When you melt a treasure (see Chapter 13: <a href="../../../../../Read/heroes/rewards/">Rewards</a>), you gain breath equal to its <a href="../../../../rule/general/echelon/">echelon</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -66,7 +66,7 @@ type: feature
 <div class="sc-trait__body">
 <p>The number of <a href="../../../../rule/health/recoveries/">Recoveries</a> you have increases by 2, and each time you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can grant each ally who finished the <a href="../../../../rule/resource/respite/">respite</a> with you 2 additional <a href="../../../../rule/health/recoveries/">Recoveries</a>. Your allies&#39; additional <a href="../../../../rule/health/recoveries/">Recoveries</a> disappear when they finish their next <a href="../../../../rule/resource/respite/">respite</a>.</p>
 <p>Additionally, as a <a href="../../../../rule/resource/respite/">respite</a> activity, you can perform a ritual that causes a fruit tree to spring from the ground, grow, mature, and produce 1d6 of a treasure called Life Fruit. You can use a <a href="../../../../rule/resource/respite/">respite</a> activity to cause an existing tree to produce another 1d6 Life Fruit, but it does not grow these magic <a href="../../../../rule/treasure/consumable/">consumables</a> on its own.</p>
-<p>As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their <a href="../../../../rule/health/stamina/">Stamina</a>, they can end all conditions or effects on themself, and they can stand up if <a href="../../../../condition/prone/">prone</a>. Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don&#39;t stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.</p>
+<p>As a maneuver, a creature can consume a Life Fruit or feed it to an <a href="../../../../rule/combat/adjacent/">adjacent</a> willing ally. When a creature eats a Life Fruit, they restore all their <a href="../../../../rule/health/stamina/">Stamina</a>, they can end all <a href="../../../../rule/combat/condition/">conditions</a> or effects on themself, and they can stand up if <a href="../../../../condition/prone/">prone</a>. Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don&#39;t stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

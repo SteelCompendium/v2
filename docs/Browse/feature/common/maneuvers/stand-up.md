@@ -17,6 +17,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>A creature can use the <a href="../stand-up/">Stand Up</a> maneuver to stand up if they <a href="../../../../condition/prone/">are prone</a>, ending that condition. Alternatively, they can use this maneuver to make a willing adjacent prone creature stand up.</p>
+<p>A creature can use the <a href="../stand-up/">Stand Up</a> maneuver to stand up if they <a href="../../../../condition/prone/">are prone</a>, ending that <a href="../../../../rule/combat/condition/">condition</a>. Alternatively, they can use this maneuver to make a willing <a href="../../../../rule/combat/adjacent/">adjacent</a> prone creature stand up.</p>
 </div>
 </section>

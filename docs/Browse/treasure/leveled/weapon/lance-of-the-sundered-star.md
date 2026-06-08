@@ -24,7 +24,7 @@ type: treasure
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can [shift](../../../movement/shifting.md) to any square adjacent to the target after the push.
+**1st Level:** Any weapon ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can [shift](../../../movement/shifting.md) to any square [adjacent](../../../rule/combat/adjacent.md) to the target after the push.
 
 **5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the [Charge](../../../feature/common/main-actions/charge.md) main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to [shift](../../../movement/shifting.md), you can [fly](../../../movement/fly.md) as part of the charge movement or the [shift](../../../movement/shifting.md). If you don't end your [flying](../../../movement/fly.md) movement on the ground, you fall.
 

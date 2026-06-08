@@ -27,7 +27,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>As a maneuver, you can open your awareness to detect supernatural creatures and phenomena. Until the end of your next turn, you know the location of any supernatural object, or any undead, construct, or creature from another world within 5 squares, even if you don&#39;t have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to that object or creature. You know if you&#39;re detecting an item or a creature, and you know the nature of any creature you detect.</p>
+<p>As a maneuver, you can open your awareness to detect <a href="../../../../rule/general/supernatural/">supernatural</a> creatures and phenomena. Until the end of your next <a href="../../../../rule/combat/turn/">turn</a>, you know the location of any <a href="../../../../rule/general/supernatural/">supernatural</a> object, or any undead, construct, or creature from another world within 5 squares, even if you don&#39;t have <a href="../../../../rule/combat/line-of-effect/">line of effect</a> to that object or creature. You know if you&#39;re detecting an item or a creature, and you know the nature of any creature you detect.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -46,7 +46,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your connection to the natural world allows you to resist certain supernatural effects. You ignore temporary <a href="../../../../movement/difficult-terrain/">difficult terrain</a> created by magic and psionic abilities. Additionally, when you are <a href="../../../../movement/forced-movement/">force moved</a> by a magic or psionic ability, you can reduce the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> by 1.</p>
+<p>Your connection to the natural world allows you to resist certain <a href="../../../../rule/general/supernatural/">supernatural</a> effects. You ignore temporary <a href="../../../../movement/difficult-terrain/">difficult terrain</a> created by magic and psionic abilities. Additionally, when you are <a href="../../../../movement/forced-movement/">force moved</a> by a magic or psionic ability, you can reduce the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> by 1.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -56,7 +56,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>A tolerance for pain and distress allows you to push through difficult situations. If you are <a href="../../../../condition/frightened/">frightened</a>, <a href="../../../../condition/slowed/">slowed</a>, or <a href="../../../../condition/weakened/">weakened</a>, you can use a maneuver to immediately end one of those conditions.</p>
+<p>A tolerance for pain and distress allows you to push through difficult situations. If you are <a href="../../../../condition/frightened/">frightened</a>, <a href="../../../../condition/slowed/">slowed</a>, or <a href="../../../../condition/weakened/">weakened</a>, you can use a maneuver to immediately end one of those <a href="../../../../rule/combat/condition/">conditions</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next turn.</p>
+<p>Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>

@@ -41,9 +41,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">I am but a vessel. Your own deeds weigh upon you.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -71,7 +71,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target takes holy damage equal to twice your <a href="../../../../rule/character/presence/">Presence</a> score. Additionally, each hidden target is automatically revealed and can&#39;t become hidden again until the start of your next turn. You can then use your <a href="../../../ability/censor/level-1/judgment/">Judgment</a> ability against one target as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p></div>
+<div class="sc-ability__section-body"><p>Each target takes holy damage equal to twice your <a href="../../../../rule/character/presence/">Presence</a> score. Additionally, each hidden target is automatically revealed and can&#39;t become hidden again until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. You can then use your <a href="../../../ability/censor/level-1/judgment/">Judgment</a> ability against one target as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>.</p></div>
 </div>
 </article>
 </div>
@@ -96,18 +96,18 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Gifted by a prescient vision, you warn an ally of an impending attack.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>An enemy within 10 squares starts their turn.</p></div>
+<div class="sc-ability__section-body"><p>An enemy within 10 squares starts their <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to allow the target to regain <a href="../../../../rule/health/stamina/">Stamina</a> equal to your <a href="../../../../rule/health/recoveries/">recovery value</a>. The target can then take their turn immediately before the triggering enemy.</p></div>
+<div class="sc-ability__section-body"><p>You can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to allow the target to regain <a href="../../../../rule/health/stamina/">Stamina</a> equal to your <a href="../../../../rule/health/recoveries/">recovery value</a>. The target can then take their <a href="../../../../rule/combat/turn/">turn</a> immediately before the triggering enemy.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -120,9 +120,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">A word in prayer, and the gods show the way.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
@@ -159,7 +159,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each target gains 1 <a href="../../../../rule/resource/surge/">surge</a> at the end of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each target gains 1 <a href="../../../../rule/resource/surge/">surge</a> at the end of each of your <a href="../../../../rule/combat/turn/">turns</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -172,9 +172,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">The shock of your condemnation freezes your enemy in their boots.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

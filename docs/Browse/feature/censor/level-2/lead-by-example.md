@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are adjacent to a creature, your allies gain the benefits of <a href="../../../../rule/combat/flanking/">flanking</a> against that creature. Additionally, your allies gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to aid other creatures with their <a href="../../../../rule/test/test/">tests</a>.</p>
+<p>Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are <a href="../../../../rule/combat/adjacent/">adjacent</a> to a creature, your allies gain the benefits of <a href="../../../../rule/combat/flanking/">flanking</a> against that creature. Additionally, your allies gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to aid other creatures with their <a href="../../../../rule/test/test/">tests</a>.</p>
 </div>
 </section>

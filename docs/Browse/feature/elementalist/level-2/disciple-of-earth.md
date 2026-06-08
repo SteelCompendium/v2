@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your body is strengthened by your mind&#39;s connection to the element of permanence. You have a +6 bonus to <a href="../../../../rule/health/stamina/">Stamina</a>, and you gain an additional +3 bonus to <a href="../../../../rule/health/stamina/">Stamina</a> whenever you gain a level past 2nd.</p>
+<p>Your body is strengthened by your mind&#39;s connection to the element of permanence. You have a +6 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/health/stamina/">Stamina</a>, and you gain an additional +3 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/health/stamina/">Stamina</a> whenever you gain a level past 2nd.</p>
 </div>
 </section>

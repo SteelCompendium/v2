@@ -10,7 +10,7 @@ type: rule
 
 While planning a combat encounter, the Director can set one or more objectives the heroes can achieve to end the encounter without dropping every last foe. Some broad categories of objectives are described in this section, but the Director should feel free to create their own. As well, Directors can always end combat anytime it becomes clear that the heroes are going to win an encounter with minimal effort, even if they haven't achieved all the objectives.
 
-Each of the objective endings in this section is explored in detail including looking at monster roles, map advice, success conditions, and more—in the Introduction section of *Draw Steel: Monsters*.
+Each of the objective endings in this section is explored in detail including looking at monster roles, map advice, success [conditions](condition.md), and more—in the Introduction section of *Draw Steel: Monsters*.
 
 ## Diminish Numbers
 
@@ -50,7 +50,7 @@ The enemy holds a strategically important position and the heroes want it. The e
 
 ## Stop the Action
 
-Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! [Objectives](objective.md) in this category have a timer associated with them. If the heroes don't achieve the [objective](objective.md) in a certain number of rounds, the conditions of the battle could well change. For instance, if the cultists summon the archdevil, defeating the [devil](../../ancestry/devil.md) suddenly becomes the heroes' new [objective](objective.md)!
+Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! [Objectives](objective.md) in this category have a timer associated with them. If the heroes don't achieve the [objective](objective.md) in a certain number of rounds, the [conditions](condition.md) of the battle could well change. For instance, if the cultists summon the archdevil, defeating the [devil](../../ancestry/devil.md) suddenly becomes the heroes' new [objective](objective.md)!
 
 ## Complete the Action
 

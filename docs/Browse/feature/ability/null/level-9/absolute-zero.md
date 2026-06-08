@@ -3,7 +3,7 @@ action_type: Maneuver
 class: "null"
 cost: 11 Discipline
 distance: Self
-effect: Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold [damage immunity](../../../../rule/damage/damage-immunity.md) granted by your [Entropic Adaptability](../../../null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of [dying](../../../../rule/health/dying.md), and you have a +2 bonus to [potencies](../../../../rule/character/potency.md).
+effect: Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold [damage immunity](../../../../rule/damage/damage-immunity.md) granted by your [Entropic Adaptability](../../../null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of [dying](../../../../rule/health/dying.md), and you have a +2 [bonus](../../../../rule/dice/bonuses-and-penalties.md) to [potencies](../../../../rule/character/potency.md).
 flavor: You become the coldest thing in the timescape.
 keywords:
     - Psionic
@@ -38,6 +38,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> granted by your <a href="../../../../null/level-2/entropic-adaptability/">Entropic Adaptability</a> trait, you ignore the negative effects of <a href="../../../../../rule/health/dying/">dying</a>, and you have a +2 bonus to <a href="../../../../../rule/character/potency/">potencies</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> granted by your <a href="../../../../null/level-2/entropic-adaptability/">Entropic Adaptability</a> trait, you ignore the negative effects of <a href="../../../../../rule/health/dying/">dying</a>, and you have a +2 <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../../rule/character/potency/">potencies</a>.</p></div>
 </div>
 </article>

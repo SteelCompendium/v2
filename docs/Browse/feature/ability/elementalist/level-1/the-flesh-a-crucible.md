@@ -2,12 +2,12 @@
 action_type: Main action
 class: elementalist
 cost: 3 Essence
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: Fire engulfs your target and continues to churn.
 keywords:
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: The Flesh, a Crucible
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">3</span> Essence</div></div>
 </div>
 <p class="sc-ability__flavor">Fire engulfs your target and continues to churn.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -40,6 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>If the target is within <a href="../../../../../rule/combat/distance/">distance</a> at the start of your turn, you can make the <a href="../../../../../rule/dice/power-roll/">power roll</a> again without spending essence (no action required).</p></div>
+<div class="sc-ability__section-body"><p>If the target is within <a href="../../../../../rule/combat/distance/">distance</a> at the start of your <a href="../../../../../rule/combat/turn/">turn</a>, you can make the <a href="../../../../../rule/dice/power-roll/">power roll</a> again without spending essence (no action required).</p></div>
 </div>
 </article>

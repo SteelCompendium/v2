@@ -21,6 +21,6 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>Whenever you spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to regain <a href="../../../../rule/health/stamina/">Stamina</a> while strained, you can forgo the <a href="../../../../rule/health/stamina/">Stamina</a> and gain 3 clarity instead.</p>
-<p>Additionally, the first time each combat round that a creature is <a href="../../../../movement/forced-movement/">force moved</a>, you gain 2 clarity instead of 1.</p>
+<p>Additionally, the first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that a creature is <a href="../../../../movement/forced-movement/">force moved</a>, you gain 2 clarity instead of 1.</p>
 </div>
 </section>

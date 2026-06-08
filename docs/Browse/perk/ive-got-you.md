@@ -8,4 +8,4 @@ type: perk
 
 ---
 
-Whenever a willing ally falls and would land on you or adjacent to you, you can safely catch them as a free [triggered action](../rule/combat/triggered-action.md). Neither of you takes damage from the ally's fall.
+Whenever a willing ally falls and would land on you or [adjacent](../rule/combat/adjacent.md) to you, you can safely catch them as a free [triggered action](../rule/combat/triggered-action.md). Neither of you takes damage from the ally's fall.

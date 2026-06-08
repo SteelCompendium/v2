@@ -1,6 +1,6 @@
 ---
 echelon: "2"
-effect: As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), and [taunted](../../../condition/taunted.md) conditions on yourself, and you gain a +8 bonus to [Stability](../../../rule/character/stability.md) until the end of the encounter.
+effect: As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), and [taunted](../../../condition/taunted.md) [conditions](../../../rule/combat/condition.md) on yourself, and you gain a +8 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stability](../../../rule/character/stability.md) until the end of the encounter.
 keywords:
     - Psionic
 name: Breath of Dawn
@@ -25,4 +25,4 @@ type: treasure
 
 **Project Goal:** 90
 
-**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), and [taunted](../../../condition/taunted.md) conditions on yourself, and you gain a +8 bonus to [Stability](../../../rule/character/stability.md) until the end of the encounter.
+**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../../../condition/frightened.md), [slowed](../../../condition/slowed.md), and [taunted](../../../condition/taunted.md) [conditions](../../../rule/combat/condition.md) on yourself, and you gain a +8 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stability](../../../rule/character/stability.md) until the end of the encounter.

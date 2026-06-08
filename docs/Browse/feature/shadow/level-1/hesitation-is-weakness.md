@@ -39,11 +39,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>Another hero ends their turn. That hero can&#39;t have used this ability to start their turn.</p></div>
+<div class="sc-ability__section-body"><p>Another hero ends their <a href="../../../../rule/combat/turn/">turn</a>. That hero can&#39;t have used this ability to start their <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take your turn after the triggering hero.</p></div>
+<div class="sc-ability__section-body"><p>You take your <a href="../../../../rule/combat/turn/">turn</a> after the triggering hero.</p></div>
 </div>
 </article>
 </div>

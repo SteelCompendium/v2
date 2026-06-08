@@ -32,14 +32,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Hey! I&#39;m over here. No, here, numbskull.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create two illusory duplicates of the target, which appear anywhere within <a href="../../../../rule/combat/distance/">distance</a>. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their <a href="../../../../rule/character/speed/">speed</a>. If the target is targeted by an ability, they can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to switch places with a duplicate within their <a href="../../../../rule/combat/line-of-effect/">line of effect</a>, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.</p></div>
+<div class="sc-ability__section-body"><p>You create two illusory duplicates of the target, which appear anywhere within <a href="../../../../rule/combat/distance/">distance</a>. These duplicates last until the end of the encounter. On each of their <a href="../../../../rule/combat/turn/">turns</a>, the target can move each duplicate up to their <a href="../../../../rule/character/speed/">speed</a>. If the target is targeted by an ability, they can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to switch places with a duplicate within their <a href="../../../../rule/combat/line-of-effect/">line of effect</a>, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.</p></div>
 </div>
 </article>
 </div>

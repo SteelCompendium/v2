@@ -76,11 +76,11 @@ You choose an [elemental specialization](../feature/elementalist/level-1/element
 
 #### Earth: Acolyte of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/earth-acolyte-of-earth"}
 
-You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](../rule/character/stability.md) increases by 1 until the start of your next turn. This benefit is cumulative.
+You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your [stability](../rule/character/stability.md) increases by 1 until the start of your next [turn](../rule/combat/turn.md). This benefit is cumulative.
 
 #### Fire: Acolyte of Fire {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/fire-acolyte-of-fire"}
 
-You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to [rolled damage](../rule/damage/rolled-damage.md). Your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability (see below) also gains this bonus when you use it to deal fire damage.
+You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md). Your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability (see below) also gains this [bonus](../rule/dice/bonuses-and-penalties.md) when you use it to deal fire damage.
 
 #### Green: Acolyte of the Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/green-acolyte-of-the-green"}
 
@@ -88,7 +88,7 @@ You harness the residual magic from your green spells to bolster yourself and yo
 
 #### Void: Acolyte of the Mystery {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/void-acolyte-of-the-mystery"}
 
-You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The [distance](../rule/combat/distance.md) of all your abilities that have the Magic, Ranged, and Void keywords increases by 2 squares.
+You use your immersion in the mystery of void magic to expand the reach of that magic better than other mages. The [distance](../rule/combat/distance.md) of all your abilities that have the Magic, [Ranged](../rule/combat/ranged.md), and Void keywords increases by 2 squares.
 
 ### Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/essence"}
 
@@ -96,9 +96,9 @@ You channel the substance of creation in the form of a [Heroic Resource](../rule
 
 #### Essence in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain essence equal to your [Victories](../rule/resource/victories.md). At the start of each of your turns during combat, you gain 2 essence.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../rule/combat/combat-round.md) (as determined by the Director), you gain essence equal to your [Victories](../rule/resource/victories.md). At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 2 essence.
 
-Additionally, the first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 essence.
+Additionally, the first time each [combat round](../rule/combat/combat-round.md) that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 1 essence.
 
 You lose any remaining essence at the end of the encounter.
 
@@ -112,16 +112,16 @@ When you use an ability outside of combat that lets you spend unlimited essence 
 
 ### Hurl Element {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/hurl-element"}
 
-You have the following ability, which can be used as a ranged [free strike](../feature/common/main-actions/free-strike.md).
+You have the following ability, which can be used as a [ranged](../rule/combat/ranged.md) [free strike](../feature/common/main-actions/free-strike.md).
 
 #### Hurl Element {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/hurl-element"}
 
 
 *You cast a ball of elemental energy at a foe.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Ranged 10**          | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -133,13 +133,13 @@ You have the following ability, which can be used as a ranged [free strike](../f
 
 ### Persistent Magic {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/persistent-magic"}
 
-Some of your [heroic abilities](../rule/general/heroic-ability.md) have a persistent effect entry. For example, the [Instantaneous Excavation](../feature/ability/elementalist/level-1/instantaneous-excavation.md) ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
+Some of your [heroic abilities](../rule/general/heroic-ability.md) have a persistent effect entry. For example, the [Instantaneous Excavation](../feature/ability/elementalist/level-1/instantaneous-excavation.md) ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it, and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your [turn](../rule/combat/turn.md) by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end at the end of the encounter.
 
-You can't maintain any abilities that would make you earn a negative amount of essence at the start of your turn. You can stop maintaining an ability at any time (no action required).
+You can't maintain any abilities that would make you earn a negative amount of essence at the start of your [turn](../rule/combat/turn.md). You can stop maintaining an ability at any time (no action required).
 
 If you maintain the same ability on several targets and the effect includes a [power roll](../rule/dice/power-roll.md), you make that roll once and apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.
 
-If you take damage equal to or greater than 5 times your [Reason](../rule/character/reason.md) score in one turn, you stop maintaining any persistent abilities. For instance, if you have a [Reason](../rule/character/reason.md) score of 2 and are maintaining [Instantaneous Excavation](../feature/ability/elementalist/level-1/instantaneous-excavation.md), taking 10 or more damage in one turn causes you to stop maintaining the ability.
+If you take damage equal to or greater than 5 times your [Reason](../rule/character/reason.md) score in one [turn](../rule/combat/turn.md), you stop maintaining any persistent abilities. For instance, if you have a [Reason](../rule/character/reason.md) score of 2 and are maintaining [Instantaneous Excavation](../feature/ability/elementalist/level-1/instantaneous-excavation.md), taking 10 or more damage in one [turn](../rule/combat/turn.md) causes you to stop maintaining the ability.
 
 ### Practical Magic {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/practical-magic"}
 
@@ -175,7 +175,7 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 #### A Beyonding of Vision {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/a-beyonding-of-vision"}
 
-You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.
+You instantly recognize illusions for what they are, you can see invisible creatures, and [supernatural](../rule/general/supernatural.md) effects can't conceal creatures and objects from you. Additionally, you always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.
 
 You also gain the following ability.
 
@@ -184,11 +184,11 @@ You also gain the following ability.
 
 *You grant allies a taste of your unearthly vision.*
 
-| **Magic, Ranged, Void** |    **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md), Void** |    **Maneuver** |
 |-------------------------|----------------:|
-| **📏 Ranged 10**        |  **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**        |  **🎯 Special** |
 
-**Effect:** For each [Victory](../rule/resource/victories.md) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](../feature/elementalist/level-1/a-beyonding-of-vision.md) feature until the end of your next turn, but doesn't gain the use of the [Shared Void Sense](../feature/ability/elementalist/level-1/shared-void-sense.md) ability.
+**Effect:** For each [Victory](../rule/resource/victories.md) you have, you can target one creature. Each target gains the benefit of your [A Beyonding of Vision](../feature/elementalist/level-1/a-beyonding-of-vision.md) feature until the end of your next [turn](../rule/combat/turn.md), but doesn't gain the use of the [Shared Void Sense](../feature/ability/elementalist/level-1/shared-void-sense.md) ability.
 
 #### It Is the Soul Which Hears {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/it-is-the-soul-which-hears"}
 
@@ -205,9 +205,9 @@ You have the following ability.
 
 *The earth rises, falls, or opens up at your command.*
 
-| **Earth, Magic, Melee** | **Main action** |
+| **Earth, Magic, [Melee](../rule/combat/melee.md)** | **Main action** |
 |-------------------------|----------------:|
-| **📏 Melee 1**          |  **🎯 Special** |
+| **📏 [Melee](../rule/combat/melee.md) 1**          |  **🎯 Special** |
 
 **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
 
@@ -222,9 +222,9 @@ You have the following ability.
 
 *With the merest touch, you cause an object to turn to slag or ash.*
 
-| **Fire, Magic, Melee**  |           **Main action** |
+| **Fire, Magic, [Melee](../rule/combat/melee.md)**  |           **Main action** |
 |-------------------------|--------------------------:|
-| **📏 Melee 1**          | **🎯 One mundane object** |
+| **📏 [Melee](../rule/combat/melee.md) 1**          | **🎯 One mundane object** |
 
 **Effect:** You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.
 
@@ -246,11 +246,11 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 *The power you channel grants the ability to get back in the fight.*
 
-| **Green, Magic, Ranged**          |           **Triggered** |
+| **Green, Magic, [Ranged](../rule/combat/ranged.md)**          |           **Triggered** |
 |-----------------------------------|------------------------:|
-| **📏 Ranged 10**                  | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                  | **🎯 Self or one ally** |
 
-**Trigger:** The target starts their turn or takes damage.
+**Trigger:** The target starts their [turn](../rule/combat/turn.md) or takes damage.
 
 **Effect:** The target can spend a [Recovery](../rule/health/recoveries.md).
 
@@ -261,24 +261,24 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 *You add a little magic to an ally's aggression at just the right time.*
 
-| **Fire, Magic, Ranged**  |           **Triggered** |
+| **Fire, Magic, [Ranged](../rule/combat/ranged.md)**  |           **Triggered** |
 |--------------------------|------------------------:|
-| **📏 Ranged 10**         | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**         | **🎯 Self or one ally** |
 
 **Trigger:** The target [force move](../movement/forced-movement.md)s a creature or object. 
 
-**Effect:** The [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to your [Reason](../rule/character/reason.md) score.
+**Effect:** The [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a [bonus](../rule/dice/bonuses-and-penalties.md) equal to your [Reason](../rule/character/reason.md) score.
 
-**Spend 1 Essence:** The [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a bonus equal to twice your [Reason](../rule/character/reason.md) score instead.
+**Spend 1 Essence:** The [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a [bonus](../rule/dice/bonuses-and-penalties.md) equal to twice your [Reason](../rule/character/reason.md) score instead.
 
 ##### Skin Like Castle Walls {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/skin-like-castle-walls"}
 
 
 *You cover yourself or an ally in protective stone.*
 
-| **Earth, Magic, Ranged**  |           **Triggered** |
+| **Earth, Magic, [Ranged](../rule/combat/ranged.md)**  |           **Triggered** |
 |---------------------------|------------------------:|
-| **📏 Ranged 10**          | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 Self or one ally** |
 
 **Trigger:** The target takes damage.
 
@@ -291,11 +291,11 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 *You call on the void to swallow and spit out an ally.*
 
-| **Magic, Ranged, Void**  |           **Triggered** |
+| **Magic, [Ranged](../rule/combat/ranged.md), Void**  |           **Triggered** |
 |--------------------------|------------------------:|
-| **📏 Ranged 10**         | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**         | **🎯 Self or one ally** |
 
-**Trigger:** The target starts their turn, moves, or is [force moved](../movement/forced-movement.md). 
+**Trigger:** The target starts their [turn](../rule/combat/turn.md), moves, or is [force moved](../movement/forced-movement.md). 
 
 **Effect:** You [teleport](../movement/teleport.md) the target up to a number of squares equal to your [Reason](../rule/character/reason.md) score. If the target moves to trigger this ability, you can [teleport](../movement/teleport.md) them at any point during the move.
 
@@ -307,25 +307,25 @@ You weave an elemental [enchantment](../feature/elementalist/level-1/enchantment
 
 #### Enchantment of Battle {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-battle"}
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to [Stamina](../rule/health/stamina.md), and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md), and that [bonus](../rule/dice/bonuses-and-penalties.md) increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage [bonus](../rule/dice/bonuses-and-penalties.md) with weapon abilities, including [free strikes](../feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this [enchantment](../feature/elementalist/level-1/enchantment.md).
 
 #### Enchantment of Celerity {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-celerity"}
 
-You gain a +1 bonus to [speed](../rule/character/speed.md) and to the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
+You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) and to the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md) when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
 #### Enchantment of Destruction {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-destruction"}
 
-You gain a +1 bonus to [rolled damage](../rule/damage/rolled-damage.md) with magic abilities.
+You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [rolled damage](../rule/damage/rolled-damage.md) with magic abilities.
 
 #### Enchantment of Distance {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-distance"}
 
-You have a +2 bonus to the [distance](../rule/combat/distance.md) of your ranged magic abilities.
+You have a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) of your [ranged](../rule/combat/ranged.md) magic abilities.
 
 #### Enchantment of Permanence {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-permanence"}
 
-You gain a +6 bonus to [Stamina](../rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to [stability](../rule/character/stability.md).
+You gain a +6 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md), and this [bonus](../rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [stability](../rule/character/stability.md).
 
 ### Elementalist Ward {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-ward"}
 
@@ -345,7 +345,7 @@ The green energy writhing within your body allows you to produce powerful vines 
 
 #### Ward of Surprising Reactivity {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-surprising-reactivity"}
 
-You use the magic of fire to create a ward of explosive energy. Whenever an adjacent creature deals damage to you, you can use a free [triggered action](../rule/combat/triggered-action.md) to push that creature up to a number of squares equal to twice your [Reason](../rule/character/reason.md) score.
+You use the magic of fire to create a ward of explosive energy. Whenever an [adjacent](../rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../rule/combat/triggered-action.md) to push that creature up to a number of squares equal to twice your [Reason](../rule/character/reason.md) score.
 
 ### Elementalist Abilities {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-abilities"}
 
@@ -360,9 +360,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *Your curse causes your foe's flesh to rot off as spores that aid your allies.*
 
-| **Green, Magic, Ranged, Rot, [Strike](../rule/combat/strike.md)**  |     **Main action** |
+| **Green, Magic, [Ranged](../rule/combat/ranged.md), Rot, [Strike](../rule/combat/strike.md)**  |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -370,16 +370,16 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 - **12-16:** 4 + R corruption damage
 - **17+:** 6 + R corruption damage
 
-**Effect:** Choose yourself or one ally within [distance](../rule/combat/distance.md). That character can end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their turn.
+**Effect:** Choose yourself or one ally within [distance](../rule/combat/distance.md). That character can end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md).
 
 ##### Bifurcated Incineration {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/bifurcated-incineration"}
 
 
 *Two jets of flame lance out at your command.*
 
-| **Fire, Magic, Ranged, [Strike](../rule/combat/strike.md)** |                 **Main action** |
+| **Fire, Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |                 **Main action** |
 |---------------------------------|--------------------------------:|
-| **📏 Ranged 10**                | **🎯 Two creatures or objects** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                | **🎯 Two creatures or objects** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -392,9 +392,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *You absorb the life energy of another creature and use it to [teleport](../movement/teleport.md).*
 
-| **Magic, Melee, [Strike](../rule/combat/strike.md), Void** |     **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Void** |     **Main action** |
 |--------------------------------|--------------------:|
-| **📏 Melee 1**                 | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**                 | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -409,9 +409,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *Whipping vines erupt from a foe's body to grasp at another close by.*
 
-| **Green, Magic, Ranged, [Strike](../rule/combat/strike.md)** |      **Main action** |
+| **Green, Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |      **Main action** |
 |----------------------------------|---------------------:|
-| **📏 Ranged 10**                 |  **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                 |  **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -426,9 +426,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *You give your enemy a gentle tap-like an asteroid impact.*
 
-| **Earth, Magic, Melee, [Strike](../rule/combat/strike.md)** |               **Main action** |
+| **Earth, Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Melee 1**                  | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1**                  | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -441,9 +441,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *You inflict pain and doubt in equal measure.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md), Void** |               **Main action** | 
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Void** |               **Main action** | 
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -456,7 +456,7 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *A sudden storm of detritus assaults your foes and leaves them struggling to move.*
 
-| **Area, Earth, Magic, Ranged** |               **Main action** |
+| **Area, Earth, Magic, [Ranged](../rule/combat/ranged.md)** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 2 [cube](../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
@@ -473,9 +473,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 *A jet of heavy fire erupts where you strike.*
 
-| **Fire, Magic, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** | 
+| **Fire, Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** | 
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -496,7 +496,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You open a rift into the void to harry your foes.*
 
-| **Area, Magic, Ranged, Void** |               **Main action** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md), Void** |               **Main action** |
 |-------------------------------|------------------------------:|
 | **📏 3 [cube](../rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |
 
@@ -506,16 +506,16 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 4 psychic damage
 - **17+:** 6 psychic damage
 
-**Persistent 1:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+**Persistent 1:** At the start of your [turn](../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence.
 
 ##### The Flesh, a Crucible {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/the-flesh-a-crucible"}
 
 
 *Fire engulfs your target and continues to churn.*
 
-| **Fire, Magic, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** |
+| **Fire, Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -523,16 +523,16 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 8 + R fire damage
 - **17+:** 11 + R fire damage
 
-**Persistent 1:** If the target is within [distance](../rule/combat/distance.md) at the start of your turn, you can make the [power roll](../rule/dice/power-roll.md) again without spending essence (no action required).
+**Persistent 1:** If the target is within [distance](../rule/combat/distance.md) at the start of your [turn](../rule/combat/turn.md), you can make the [power roll](../rule/dice/power-roll.md) again without spending essence (no action required).
 
 ##### Invigorating Growth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/invigorating-growth"}
 
 
 *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
 
-| **Green, Magic, Ranged, [Strike](../rule/combat/strike.md)** |      **Main action** |
+| **Green, Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |      **Main action** |
 |----------------------------------|---------------------:|
-| **📏 Ranged 10**                 |  **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                 |  **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -540,7 +540,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 7 + R poison damage
 - **17+:** 11 + R poison damage
 
-**Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 [surge](../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
+**Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally [adjacent](../rule/combat/adjacent.md) to the target gain 1 [surge](../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an [adjacent](../rule/combat/adjacent.md) creature as a main action.
 
 ##### Ripples in the Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/ripples-in-the-earth"}
 
@@ -568,7 +568,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *A storm of fire descends upon your enemies.*
 
-| **Area, Fire, Magic, Ranged** |               **Main action** |
+| **Area, Fire, Magic, [Ranged](../rule/combat/ranged.md)** |               **Main action** |
 |-------------------------------|------------------------------:|
 | **📏 3 [cube](../rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |
 
@@ -578,16 +578,16 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 6 fire damage
 - **17+:** 10 fire damage
 
-**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+**Persistent 2:** At the start of your [turn](../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence.
 
 ##### Instantaneous Excavation {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/instantaneous-excavation"}
 
 
 *The surface of the world around you opens up to swallow foes.*
 
-| **Earth, Magic, Ranged** |    **Maneuver** |
+| **Earth, Magic, [Ranged](../rule/combat/ranged.md)** |    **Maneuver** |
 |--------------------------|----------------:|
-| **📏 Ranged 10**         |  **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**         |  **🎯 Special** |
 
 **Effect:** You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within [distance](../rule/combat/distance.md). You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate [power roll](../rule/dice/power-roll.md) for each creature on the ground above a hole and small enough to fall in. (You can't score a [critical hit](../rule/combat/critical-hit.md) with this ability because it uses a maneuver.)
 
@@ -597,27 +597,27 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** The target falls into the hole.
 - **17+:** The target falls into the hole and can't reduce the height of the fall.
 
-**Persistent 1:** At the start of your turn, you open another hole, making a [power roll](../rule/dice/power-roll.md) against each creature who could fall into the hole when it opens without spending essence.
+**Persistent 1:** At the start of your [turn](../rule/combat/turn.md), you open another hole, making a [power roll](../rule/dice/power-roll.md) against each creature who could fall into the hole when it opens without spending essence.
 
 ##### No More Than a Breeze {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/no-more-than-a-breeze"}
 
 
 *The material substance of a creature shreds away at your command.*
 
-| **Magic, Ranged, Void** |            **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md), Void** |            **Maneuver** |
 |-------------------------|------------------------:|
-| **📏 Ranged 10**        | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**        | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target can move through solid matter, they ignore [difficult terrain](../movement/difficult-terrain.md), and their movement can't provoke [opportunity attacks](../rule/combat/opportunity-attack.md). If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.
+**Effect:** Until the start of your next [turn](../rule/combat/turn.md), the target can move through solid matter, they ignore [difficult terrain](../movement/difficult-terrain.md), and their movement can't provoke [opportunity attacks](../rule/combat/opportunity-attack.md). If the target ends their [turn](../rule/combat/turn.md) inside solid matter, they are forced out into the space where they entered it and this effect ends.
 
-**Persistent 1:** The effect lasts until the start of your next turn.
+**Persistent 1:** The effect lasts until the start of your next [turn](../rule/combat/turn.md).
 
 ##### Test of Rain {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/test-of-rain"}
 
 
 *You call down a rain that burns your enemies and restores your allies.*
 
-| **Area, Green, Magic, Ranged** |               **Main action** |
+| **Area, Green, Magic, [Ranged](../rule/combat/ranged.md)** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 3 [cube](../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
@@ -627,7 +627,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 6 acid damage
 - **17+:** 10 acid damage
 
-**Effect:** You can end one effect on yourself that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of your turn. Each ally in the area also gains this benefit.
+**Effect:** You can end one effect on yourself that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of your [turn](../rule/combat/turn.md). Each ally in the area also gains this benefit.
 
 ## 2nd-Level Features
 
@@ -635,7 +635,7 @@ As a 2nd-level [elementalist](elementalist.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/perk"}
 
-You gain one crafting, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
+You gain one crafting, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
 ### 2nd-Level Specialization Feature {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/2nd-level-specialization-feature"}
 
@@ -652,7 +652,7 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 #### Disciple of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/disciple-of-earth"}
 
-Your body is strengthened by your mind's connection to the element of permanence. You have a +6 bonus to [Stamina](../rule/health/stamina.md), and you gain an additional +3 bonus to [Stamina](../rule/health/stamina.md) whenever you gain a level past 2nd.
+Your body is strengthened by your mind's connection to the element of permanence. You have a +6 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md), and you gain an additional +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md) whenever you gain a level past 2nd.
 
 #### Disciple of Fire {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/disciple-of-fire"}
 
@@ -662,38 +662,38 @@ At the start of a combat encounter, you gain a number of [surges](../rule/resour
 
 #### Disciple of the Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/disciple-of-the-green"}
 
-You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](../complication/animal-form.md), you can speak, and you use your [Reason](../rule/character/reason.md) score to make melee [free strikes](../feature/common/main-actions/free-strike.md). Your statistics stay the same except as noted on the table.
+You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](../complication/animal-form.md), you can speak, and you use your [Reason](../rule/character/reason.md) score to make [melee](../rule/combat/melee.md) [free strikes](../feature/common/main-actions/free-strike.md). Your statistics stay the same except as noted on the table.
 
 Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you [temporary Stamina](../rule/health/temporary-stamina.md). You lose this [temporary Stamina](../rule/health/temporary-stamina.md) when you revert back to your true form.
 
 You choose a specific animal and appearance while in [animal form](../complication/animal-form.md). For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other [size](../rule/character/size.md) 1T animal who fits the rodent type. When you take on an [animal form](../complication/animal-form.md), your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
 
-You can revert back to your true form as a maneuver. You can't enter an [animal form](../complication/animal-form.md) unless you are in your true form. When you are [dying](../rule/health/dying.md), you revert to your true form and can't turn back into an animal until you are no longer [dying](../rule/health/dying.md).
+You can revert back to your true form as a maneuver. You can't enter an [animal form](../complication/animal-form.md) unless you are in your true form. When you are [dying](../rule/health/dying.md), you revert to your true form and can't [turn](../rule/combat/turn.md) back into an animal until you are no longer [dying](../rule/health/dying.md).
 
 ##### Green Animal Forms Table
 
-| Animal Type         | Level | [Temporary Stamina](../rule/health/temporary-stamina.md) | [Speed](../rule/character/speed.md)         | [Size](../rule/character/size.md) | [Stability](../rule/character/stability.md) Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                         |
+| Animal Type         | Level | [Temporary Stamina](../rule/health/temporary-stamina.md) | [Speed](../rule/character/speed.md)         | [Size](../rule/character/size.md) | [Stability](../rule/character/stability.md) [Bonus](../rule/dice/bonuses-and-penalties.md) | [Melee](../rule/combat/melee.md) Damage [Bonus](../rule/dice/bonuses-and-penalties.md) | Special                                                                                                                                                                                                                                                                         |
 |---------------------|-------|-------------------|---------------|------|-----------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Canine              | 2nd   | 5                 | 7             | 1M   | +0              | +1/+1/+1           | You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that involve smell.                                                                                                                                                                                                                                   |
 | Fish                | 2nd   | 0                 | 5 (swim only) | 1T   | +0              | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                       |
 | Rodent              | 2nd   | 0                 | 5 (climb)     | 1T   | +0              | +0/+0/+0           | You gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that involve smell.                                                                                                                                                                                                                                   |
 | Bird                | 3rd   | 0                 | 5 ([fly](../movement/fly.md))       | 1T   | +0              | +0/+0/+0           | -                                                                                                                                                                                                                                                                               |
-| Great cat           | 3rd   | 5                 | 6 (climb)     | 2    | +0              | +1/+1/+1           | As a maneuver, you can jump up to 3 squares in any direction. If you land on<br>an enemy of your [size](../rule/character/size.md) or smaller, that enemy is [knocked prone](../condition/prone.md), and you can<br>make a melee [free strike](../feature/common/main-actions/free-strike.md) against them (no action required).                                                       |
-| Giant frog          | 4th   | 5                 | 5 (swim)      | 2    | +0              | +0/+0/+0           | Your melee [free strike](../feature/common/main-actions/free-strike.md) has a [distance](../rule/combat/distance.md) of melee 3. When you take the Advance<br>move action, you can high jump or long jump up to half your [speed](../rule/character/speed.md). This<br>jump can allow you to move more squares than your [speed](../rule/character/speed.md).                                                              |
-| Horse               | 4th   | 5                 | 8             | 2    | +1              | +0/+0/+0           | You can use the [Charge](../feature/common/main-actions/charge.md) main action as a maneuver. You can't use two Charge<br>main actions on the same turn.                                                                                                                                                                    |
-| Mohler              | 4th   | 0                 | 7 ([burrow](../movement/burrow.md))    | 1S   | +1              | +0/+0/+0           | Your melee [distance](../rule/combat/distance.md) gains a +1 bonus.                                                                                                                                                                                                                                           |
-| Bear                | 5th   | 10                | 5 (climb)     | 2    | +1              | +2/+2/+2           | Your melee [distance](../rule/combat/distance.md) gains a +1 bonus.                                                                                                                                                                                                                                           |
-| Giant bird          | 5th   | 0                 | 7 ([fly](../movement/fly.md))       | 2    | +0              | +1/+1/+1           | After making a melee [free strike](../feature/common/main-actions/free-strike.md), you can [shift](../movement/shifting.md) up to 3 squares as a free<br>[triggered action](../rule/combat/triggered-action.md).                                                                                                                                                                                  |
-| Giant<br>salamander | 6th   | 5                 | 5             | 1L   | +3              | +2/+2/+2           | Your melee [free strike](../feature/common/main-actions/free-strike.md) deals fire damage. Additionally, you have fire immunity<br>3.                                                                                                                                                                                            |
-| Giant spider        | 6th   | 0                 | 5 (climb)     | 2    | +0              | +0/+1/+2           | You have a double [edge](../rule/dice/edge.md) on melee [free strikes](../feature/common/main-actions/free-strike.md) against creatures you are hidden<br>from.                                                                                                                                                                                          |
-| Giant snake         | 7th   | 5                 | 5             | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a melee [free strike](../feature/common/main-actions/free-strike.md), you<br>can automatically grab the target. While [grabbed](../condition/grabbed.md) this way, the target takes 2<br>damage at the start of each of their turns.                                                                      |
-| Kangaroo            | 7th   | 0                 | 7             | 1L   | +1              | +0/+0/+4           | When you score a [critical hit](../rule/combat/critical-hit.md) with a melee [free strike](../feature/common/main-actions/free-strike.md), the target is [dazed](../condition/dazed.md) (save<br>ends). When you take the [Advance](../feature/common/move-actions/advance.md) move action, you can high jump or long<br>jump up to half your [speed](../rule/character/speed.md). This jump can allow you to move more squares<br>than your [speed](../rule/character/speed.md).                    |
-| Spiny armadillo     | 7th   | 10                | 5             | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br>creature takes 3 damage.                                                                                                                                                                            |
+| Great cat           | 3rd   | 5                 | 6 (climb)     | 2    | +0              | +1/+1/+1           | As a maneuver, you can jump up to 3 squares in any direction. If you land on<br>an enemy of your [size](../rule/character/size.md) or smaller, that enemy is [knocked prone](../condition/prone.md), and you can<br>make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) against them (no action required).                                                       |
+| Giant frog          | 4th   | 5                 | 5 (swim)      | 2    | +0              | +0/+0/+0           | Your [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) has a [distance](../rule/combat/distance.md) of [melee](../rule/combat/melee.md) 3. When you take the Advance<br>move action, you can high jump or long jump up to half your [speed](../rule/character/speed.md). This<br>jump can allow you to move more squares than your [speed](../rule/character/speed.md).                                                              |
+| Horse               | 4th   | 5                 | 8             | 2    | +1              | +0/+0/+0           | You can use the [Charge](../feature/common/main-actions/charge.md) main action as a maneuver. You can't use two Charge<br>main actions on the same [turn](../rule/combat/turn.md).                                                                                                                                                                    |
+| Mohler              | 4th   | 0                 | 7 ([burrow](../movement/burrow.md))    | 1S   | +1              | +0/+0/+0           | Your [melee](../rule/combat/melee.md) [distance](../rule/combat/distance.md) gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md).                                                                                                                                                                                                                                           |
+| Bear                | 5th   | 10                | 5 (climb)     | 2    | +1              | +2/+2/+2           | Your [melee](../rule/combat/melee.md) [distance](../rule/combat/distance.md) gains a +1 [bonus](../rule/dice/bonuses-and-penalties.md).                                                                                                                                                                                                                                           |
+| Giant bird          | 5th   | 0                 | 7 ([fly](../movement/fly.md))       | 2    | +0              | +1/+1/+1           | After making a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md), you can [shift](../movement/shifting.md) up to 3 squares as a free<br>[triggered action](../rule/combat/triggered-action.md).                                                                                                                                                                                  |
+| Giant<br>salamander | 6th   | 5                 | 5             | 1L   | +3              | +2/+2/+2           | Your [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) deals fire damage. Additionally, you have fire immunity<br>3.                                                                                                                                                                                            |
+| Giant spider        | 6th   | 0                 | 5 (climb)     | 2    | +0              | +0/+1/+2           | You have a double [edge](../rule/dice/edge.md) on [melee](../rule/combat/melee.md) [free strikes](../feature/common/main-actions/free-strike.md) against creatures you are hidden<br>from.                                                                                                                                                                                          |
+| Giant snake         | 7th   | 5                 | 5             | 3    | +0              | +0/+1/+2           | Whenever you obtain a tier 2 or tier 3 outcome on a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md), you<br>can automatically grab the target. While [grabbed](../condition/grabbed.md) this way, the target takes 2<br>damage at the start of each of their [turns](../rule/combat/turn.md).                                                                      |
+| Kangaroo            | 7th   | 0                 | 7             | 1L   | +1              | +0/+0/+4           | When you score a [critical hit](../rule/combat/critical-hit.md) with a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md), the target is [dazed](../condition/dazed.md) (save<br>ends). When you take the [Advance](../feature/common/move-actions/advance.md) move action, you can high jump or long<br>jump up to half your [speed](../rule/character/speed.md). This jump can allow you to move more squares<br>than your [speed](../rule/character/speed.md).                    |
+| Spiny armadillo     | 7th   | 10                | 5             | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an [adjacent](../rule/combat/adjacent.md) creature's [melee](../rule/combat/melee.md) ability, that<br>creature takes 3 damage.                                                                                                                                                                            |
 | Ostrich             | 8th   | 0                 | 10            | 2    | +0              | +1/+1/+1           | Your movement does not provoke [opportunity attacks](../rule/combat/opportunity-attack.md).                                                                                                                                                                                                                             |
 | Shark               | 8th   | 0                 | 8 (swim only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an [edge](../rule/dice/edge.md) on [strikes](../rule/combat/strike.md) against targets who are [bleeding](../condition/bleeding.md) or [winded](../rule/health/winded.md).                                                                                                                              |
-| Giant octopus       | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your melee [free strike](../feature/common/main-actions/free-strike.md). Whenever you obtain a tier 2 or tier 3 outcome on<br>a melee [free strike](../feature/common/main-actions/free-strike.md), you can automatically grab the target. You can have up to<br>eight creatures [grabbed](../condition/grabbed.md). |
-| Rhinoceros          | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a melee [free strike](../feature/common/main-actions/free-strike.md) as part of the Charge action, that<br>strike gains an [edge](../rule/dice/edge.md).                                                                                                                                                                               |
-| King terror lizard  | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your melee [free strike](../feature/common/main-actions/free-strike.md) is a 1 [burst](../rule/combat/burst.md) with the Area and Strike keywords.                                                                                                                                                                                                          |
+| Giant octopus       | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md). Whenever you obtain a tier 2 or tier 3 outcome on<br>a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md), you can automatically grab the target. You can have up to<br>eight creatures [grabbed](../condition/grabbed.md). |
+| Rhinoceros          | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) as part of the Charge action, that<br>strike gains an [edge](../rule/dice/edge.md).                                                                                                                                                                               |
+| King terror lizard  | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) is a 1 [burst](../rule/combat/burst.md) with the Area and Strike keywords.                                                                                                                                                                                                          |
 
 #### There Is No Space Between {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/there-is-no-space-between"}
 
@@ -704,13 +704,13 @@ You have the following ability.
 
 *Knowledge of the mystery reveals that two spaces are the same space.*
 
-| **Magic, Ranged, Void** |   **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md), Void** |   **Maneuver** |
 |-------------------------|---------------:|
-| **📏 Ranged 10**        | **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**        | **🎯 Special** |
 
-**Effect:** You open two [size](../rule/character/size.md) 1 portals in unoccupied spaces within [distance](../rule/combat/distance.md), which last until you move beyond [distance](../rule/combat/distance.md) from any portal, end the effect as a maneuver, or are [dying](../rule/health/dying.md). Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleport](../movement/teleport.md)ed to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their [forced movement](../movement/forced-movement.md) ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
+**Effect:** You open two [size](../rule/character/size.md) 1 portals in unoccupied spaces within [distance](../rule/combat/distance.md), which last until you move beyond [distance](../rule/combat/distance.md) from any portal, end the effect as a maneuver, or are [dying](../rule/health/dying.md). Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleport](../movement/teleport.md)ed to an unoccupied space of their choice [adjacent](../rule/combat/adjacent.md) to the other portal. If an enemy is force moved into a portal, their [forced movement](../movement/forced-movement.md) ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
 
-At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who [force move](../movement/forced-movement.md)s an enemy into a portal chooses that enemy's destination portal.
+At the start of each of your [turns](../rule/combat/turn.md) while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who [force move](../movement/forced-movement.md)s an enemy into a portal chooses that enemy's destination portal.
 
 ### New 5-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/new-5-essence-ability"}
 
@@ -721,26 +721,26 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Revitalizing plants and jagged stones grow, helping allies and hindering foes.*
 
-| **Area, Earth, Green, Magic, Ranged** |   **Maneuver** |
+| **Area, Earth, Green, Magic, [Ranged](../rule/combat/ranged.md)** |   **Maneuver** |
 |---------------------------------------|---------------:|
 | **📏 3 [cube](../rule/combat/cube.md) within 10**               | **🎯 Special** |
 
-**Effect:** Until the start of your next turn, the area gains the following effects:
+**Effect:** Until the start of your next [turn](../rule/combat/turn.md), the area gains the following effects:
 
-- Once as a [free maneuver](../rule/combat/free-maneuver.md) at the start of your turn, you allow yourself and each ally in the area to spend any number of [Recoveries](../rule/health/recoveries.md).
+- Once as a [free maneuver](../rule/combat/free-maneuver.md) at the start of your [turn](../rule/combat/turn.md), you allow yourself and each ally in the area to spend any number of [Recoveries](../rule/health/recoveries.md).
 - The area is [difficult terrain](../movement/difficult-terrain.md) for enemies.
-- Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your [Reason](../rule/character/reason.md) score.
+- Each enemy who enters the area for the first time in a [combat round](../rule/combat/combat-round.md) or starts their turn there takes damage equal to your [Reason](../rule/character/reason.md) score.
 
-**Persistent 1:** The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your [line of effect](../rule/combat/line-of-effect.md).
+**Persistent 1:** The area remains until the start of your next [turn](../rule/combat/turn.md). As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your [line of effect](../rule/combat/line-of-effect.md).
 
 #### Subvert the Green Within {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-2/subvert-the-green-within"}
 
 
 *Fungal spores sprout inside your enemy's brain, allowing you to control their actions.*
 
-| **Green, Magic, Ranged, [Strike](../rule/combat/strike.md), Void** |     **Main action** |
+| **Green, Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Void** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
 **Effect:** The target uses their [signature ability](../rule/combat/signature-ability.md) against a creature of your choice. This [signature ability](../rule/combat/signature-ability.md) can target the creature even if it usually wouldn't. You then make a [power roll](../rule/dice/power-roll.md) against the target of this ability.
 
@@ -755,11 +755,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Your ally disappears, then reappears in a burst of fire.*
 
-| **Fire, Magic, Ranged, Void** |         **Main action** |
+| **Fire, Magic, [Ranged](../rule/combat/ranged.md), Void** |         **Main action** |
 |-------------------------------|------------------------:|
-| **📏 Ranged 10**              | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**              | **🎯 Self or one ally** |
 
-**Effect:** The target is [teleport](../movement/teleport.md)ed to another space within [distance](../rule/combat/distance.md). Make a [power roll](../rule/dice/power-roll.md) that affects each enemy adjacent to the target's new space.
+**Effect:** The target is [teleport](../movement/teleport.md)ed to another space within [distance](../rule/combat/distance.md). Make a [power roll](../rule/dice/power-roll.md) that affects each enemy [adjacent](../rule/combat/adjacent.md) to the target's new space.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -772,9 +772,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Wrap them up in fire and melting stone.*
 
-| **Earth, Fire, Magic, Ranged, [Strike](../rule/combat/strike.md)** |     **Main action** |
+| **Earth, Fire, Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -831,9 +831,9 @@ You have the following ability.
 
 *You stir any wood's memory and learn what it has seen.*
 
-| **Green, Magic, Melee** |                  **Main action** |
+| **Green, Magic, [Melee](../rule/combat/melee.md)** |                  **Main action** |
 |-------------------------|---------------------------------:|
-| **📏 Melee 1**          | **🎯 One mundane wooden object** |
+| **📏 [Melee](../rule/combat/melee.md) 1**          | **🎯 One mundane wooden object** |
 
 **Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object's location as if you were there.
 
@@ -846,9 +846,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *With a flick of the wrist, you phase creatures out of existence.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md), Void** | **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Void** | **Main action** |
 |---------------------------------|----------------:|
-| **📏 Ranged 10**                |  **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                |  **🎯 Special** |
 
 **Special:** The number of creatures you target with this ability is determined by your [power roll](../rule/dice/power-roll.md).
 
@@ -858,14 +858,14 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** Two creatures
 - **17+:** Three creatures
 
-**Effect:** Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a [bane](../rule/dice/bane.md) on [power rolls](../rule/dice/power-roll.md). At the end of their first turn, they have a double [bane](../rule/dice/bane.md) on [power rolls](../rule/dice/power-roll.md). At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
+**Effect:** Each target begins to fade from existence (save ends). On their first [turn](../rule/combat/turn.md) while fading from existence, a target takes a [bane](../rule/dice/bane.md) on [power rolls](../rule/dice/power-roll.md). At the end of their first [turn](../rule/combat/turn.md), they have a double [bane](../rule/dice/bane.md) on [power rolls](../rule/dice/power-roll.md). At the end of their second [turn](../rule/combat/turn.md), they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
 
 #### Maw of Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/maw-of-earth"}
 
 
 *You open up the ground, spewing out shrapnel of stone and debris.*
 
-| **Area, Earth, Magic, Ranged** |                **Main action** |
+| **Area, Earth, Magic, [Ranged](../rule/combat/ranged.md)** |                **Main action** |
 |--------------------------------|-------------------------------:|
 | **📏 3 [cube](../rule/combat/cube.md) within 10**        |  **🎯 Each enemy in the area** |
 
@@ -892,22 +892,22 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 6 damage
 - **17+:** 9 damage
 
-**Effect:** Until the end of your next turn, each ally in the area has each of their [characteristic](../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../rule/character/potency.md), and has a +1 bonus to [saving throws](../rule/general/saving-throw.md).
+**Effect:** Until the end of your next [turn](../rule/combat/turn.md), each ally in the area has each of their [characteristic](../rule/character/characteristic.md) scores treated as 1 higher for the purpose of resisting [potencies](../rule/character/potency.md), and has a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md).
 
-**Persistent 1:** You make the [power roll](../rule/dice/power-roll.md) again to target each enemy in the area without spending essence, and the effect lasts until the start of your next turn.
+**Persistent 1:** You make the [power roll](../rule/dice/power-roll.md) again to target each enemy in the area without spending essence, and the effect lasts until the start of your next [turn](../rule/combat/turn.md).
 
 #### Wall of Fire {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-3/wall-of-fire"}
 
 
 *A blazing, beautifully organized inferno erupts at your command.*
 
-| **Area, Fire, Magic, Ranged** |   **Maneuver** |
+| **Area, Fire, Magic, [Ranged](../rule/combat/ranged.md)** |   **Maneuver** |
 |-------------------------------|---------------:|
 | **📏 10 wall within 10**      | **🎯 Special** |
 
-**Effect:** The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your [Reason](../rule/character/reason.md) score for each square of the area they start their turn in or enter.
+**Effect:** The wall lasts until the start of your next [turn](../rule/combat/turn.md), and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a [combat round](../rule/combat/combat-round.md) or starts their turn there takes fire damage equal to your [Reason](../rule/character/reason.md) score for each square of the area they start their [turn](../rule/combat/turn.md) in or enter.
 
-**Persistent 1:** The wall lasts until the start of your next turn, and you can add a number of squares to the wall equal to your [Reason](../rule/character/reason.md) score.
+**Persistent 1:** The wall lasts until the start of your next [turn](../rule/combat/turn.md), and you can add a number of squares to the wall equal to your [Reason](../rule/character/reason.md) score.
 
 ## 4th-Level Features
 
@@ -919,7 +919,7 @@ Your [Reason](../rule/character/reason.md) score increases to 3. Additionally, y
 
 ### Font of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/font-of-essence"}
 
-The first time each combat round that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 2 essence instead of 1.
+The first time each [combat round](../rule/combat/combat-round.md) that you or a creature within 10 squares takes damage that isn't untyped or holy damage, you gain 2 essence instead of 1.
 
 ### Mantle of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/mantle-of-essence"}
 
@@ -936,15 +936,15 @@ While you have 3 or more essence and are not [dying](../rule/health/dying.md), y
 
 #### Burning Grounds {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/burning-grounds"}
 
-At the end of each of your turns, each enemy in the area takes fire damage equal to your [Reason](../rule/character/reason.md) score.
+At the end of each of your [turns](../rule/combat/turn.md), each enemy in the area takes fire damage equal to your [Reason](../rule/character/reason.md) score.
 
 #### Flowering Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/flowering-bed"}
 
-At the end of each of your turns, each ally in the area gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your [Reason](../rule/character/reason.md) score.
+At the end of each of your [turns](../rule/combat/turn.md), each ally in the area gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your [Reason](../rule/character/reason.md) score.
 
 #### Quaking Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/quaking-earth"}
 
-At the end of each of your turns, you can push each enemy in the area up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
+At the end of each of your [turns](../rule/combat/turn.md), you can push each enemy in the area up to a number of squares equal to your [Reason](../rule/character/reason.md) score.
 
 #### Veiling Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/veiling-bed"}
 
@@ -979,7 +979,7 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 Your animal forms become hardier. You gain [temporary Stamina](../rule/health/temporary-stamina.md) equal to your level when you enter an [animal form](../complication/animal-form.md) in combat, which is added to any [temporary Stamina](../rule/health/temporary-stamina.md) provided by the [animal form](../complication/animal-form.md).
 
-Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose [temporary Stamina](../rule/health/temporary-stamina.md) down to a minimum of 0. The ally gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to the amount you lost.
+Additionally, an [adjacent](../rule/combat/adjacent.md) ally can use a maneuver to pet you. If they do so, you can lose [temporary Stamina](../rule/health/temporary-stamina.md) down to a minimum of 0. The ally gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to the amount you lost.
 
 #### The Mountain Does Not Move {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/the-mountain-does-not-move"}
 
@@ -997,7 +997,7 @@ Additionally, whenever you use a void ability, you or one ally within [distance]
 
 You can use 1 square of movement to walk into an area of fire your [size](../rule/character/size.md) or larger and [teleport](../movement/teleport.md) to any other area of fire your [size](../rule/character/size.md) or larger within 10 squares of the first area.
 
-Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your [Reason](../rule/character/reason.md) score.
+Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy [adjacent](../rule/combat/adjacent.md) to you takes fire damage equal to your [Reason](../rule/character/reason.md) score.
 
 ### 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/9-essence-ability"}
 
@@ -1008,9 +1008,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Your flames dance from kindling to kindling to kindling.*
 
-| **Fire, Magic, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** |
+| **Fire, Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -1018,14 +1018,14 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 13 + R fire damage
 - **17+:** 17 + R fire damage
 
-**Effect:** When the target ends their next turn, or if they drop to 0 [Stamina](../rule/health/stamina.md) before then, each enemy adjacent to them takes fire damage equal to twice your [Reason](../rule/character/reason.md) score. Each affected enemy then gains this same effect.
+**Effect:** When the target ends their next [turn](../rule/combat/turn.md), or if they drop to 0 [Stamina](../rule/health/stamina.md) before then, each enemy [adjacent](../rule/combat/adjacent.md) to them takes fire damage equal to twice your [Reason](../rule/character/reason.md) score. Each affected enemy then gains this same effect.
 
 #### Storm of Sands {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/storm-of-sands"}
 
 
 *Dirt and debris swirl into a dark, pulsing hurricane.*
 
-| **Area, Earth, Magic, Ranged** |               **Main action** |
+| **Area, Earth, Magic, [Ranged](../rule/combat/ranged.md)** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 4 [cube](../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
@@ -1035,31 +1035,31 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 5 damage
 - **17+:** 7 damage
 
-**Effect:** The area lasts until the start of your next turn. It is [difficult terrain](../movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../rule/combat/concealment.md) while in the area.
+**Effect:** The area lasts until the start of your next [turn](../rule/combat/turn.md). It is [difficult terrain](../movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../rule/combat/concealment.md) while in the area.
 
-**Persistent 1:** The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the [power roll](../rule/dice/power-roll.md) again without spending essence.
+**Persistent 1:** The area remains until the start of your next [turn](../rule/combat/turn.md), and you can move it up to 5 squares (no action required). As a maneuver, you can make the [power roll](../rule/dice/power-roll.md) again without spending essence.
 
 #### Subverted Perception of Space {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/subverted-perception-of-space"}
 
 
 *You rip an enemy's world in twain.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md), Void** |               **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Void** |               **Main action** |
 |---------------------------------|------------------------------:|
-| **📏 Ranged 10**                | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
 - **≤11:** 9 + R corruption damage
-- **12-16:** 10 + R corruption damage; the target has [line of effect](../rule/combat/line-of-effect.md) only to creatures and objects within 4 squares of them until the start of your next turn
-- **17+:** 15 + R corruption damage; the target has [line of effect](../rule/combat/line-of-effect.md) only to adjacent creatures and objects until the start of your next turn
+- **12-16:** 10 + R corruption damage; the target has [line of effect](../rule/combat/line-of-effect.md) only to creatures and objects within 4 squares of them until the start of your next [turn](../rule/combat/turn.md)
+- **17+:** 15 + R corruption damage; the target has [line of effect](../rule/combat/line-of-effect.md) only to [adjacent](../rule/combat/adjacent.md) creatures and objects until the start of your next [turn](../rule/combat/turn.md)
 
 #### Web of All That's Come Before {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/web-of-all-thats-come-before"}
 
 
 *Threads you've been weaving through your adventures create a vibrant, pearlescent web.*
 
-| **Area, Green, Magic, Ranged** |               **Main action** |
+| **Area, Green, Magic, [Ranged](../rule/combat/ranged.md)** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 4 [cube](../rule/combat/cube.md) within 10**        | **🎯 Each enemy in the area** |
 
@@ -1069,9 +1069,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 3 corruption damage; A < AVERAGE, [restrained](../condition/restrained.md) (save ends)
 - **17+:** 5 corruption damage; A < STRONG, [restrained](../condition/restrained.md) (save ends)
 
-**Effect:** The area is [difficult terrain](../movement/difficult-terrain.md) until the start of your next turn. Each enemy who ends their turn in the area is [restrained](../condition/restrained.md) (save ends).
+**Effect:** The area is [difficult terrain](../movement/difficult-terrain.md) until the start of your next [turn](../rule/combat/turn.md). Each enemy who ends their [turn](../rule/combat/turn.md) in the area is [restrained](../condition/restrained.md) (save ends).
 
-**Persistent 1:** The area remains until the start of your next turn.
+**Persistent 1:** The area remains until the start of your next [turn](../rule/combat/turn.md).
 
 ## 6th-Level Features
 
@@ -1079,7 +1079,7 @@ As a 6th-level [elementalist](elementalist.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/perk"}
 
-You gain one crafting, lore, or supernatural perk of your choice.
+You gain one crafting, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
 
 ### Wyrding {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/wyrding"}
 
@@ -1090,7 +1090,7 @@ You can spend 10 uninterrupted minutes to create a freeform magic spell for a va
 - You restore all [Stamina](../rule/health/stamina.md) to a mundane object of a [size](../rule/character/size.md) equal to your [Reason](../rule/character/reason.md) score or smaller.
 - Choose a [cube](../rule/combat/cube.md) with a [size](../rule/character/size.md) up to your [Reason](../rule/character/reason.md) score within 5 squares. You can fill that area with [difficult terrain](../movement/difficult-terrain.md) or natural phenomena such as fire, water, or plant life, or can clear the area of those things.
 - You can preserve a corpse or up to 5 pounds of food for a week, or can cause a corpse or that amount of food to instantly rot.
-- You create a seal on a surface that can't be seen or felt by anyone but you. When a creature comes adjacent to the surface, you can see and hear through the seal for as long as the creature remains adjacent to it. When you create the seal, you can decide to limit the number of creatures who activate it by choosing a creature keyword (such as Undead) or a specific name (such as Ajax the Invincible) or organization (such as the Black Iron Pact). If you do, the seal alerts you only when creatures with the keyword, name, or organizational affiliation you provide pass by it. If you create a second seal, the first one disappears. You can dispel a seal at any time (no action required).
+- You create a seal on a surface that can't be seen or felt by anyone but you. When a creature comes [adjacent](../rule/combat/adjacent.md) to the surface, you can see and hear through the seal for as long as the creature remains [adjacent](../rule/combat/adjacent.md) to it. When you create the seal, you can decide to limit the number of creatures who activate it by choosing a creature keyword (such as Undead) or a specific name (such as Ajax the Invincible) or organization (such as the Black Iron Pact). If you do, the seal alerts you only when creatures with the keyword, name, or organizational affiliation you provide pass by it. If you create a second seal, the first one disappears. You can dispel a seal at any time (no action required).
 
 ### New 9-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-6/new-9-essence-ability"}
 
@@ -1101,41 +1101,41 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *They shine vibrantly, a beautiful diamond in the night sky.*
 
-| **Fire, Green, Magic, Ranged, Void** |            **Maneuver** |
+| **Fire, Green, Magic, [Ranged](../rule/combat/ranged.md), Void** |            **Maneuver** |
 |--------------------------------------|------------------------:|
-| **📏 Ranged 10**                     | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                     | **🎯 Self or one ally** |
 
-**Effect:** The target has a +3 bonus to [speed](../rule/character/speed.md), they can [fly](../movement/fly.md), and their abilities ignore [concealment](../rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../rule/resource/heroic-resource.md). This effect lasts until the start of your next turn.
+**Effect:** The target has a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md), they can [fly](../movement/fly.md), and their abilities ignore [concealment](../rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../rule/resource/heroic-resource.md). This effect lasts until the start of your next [turn](../rule/combat/turn.md).
 
-**Persistent 1:** The effect lasts until the start of your next turn.
+**Persistent 1:** The effect lasts until the start of your next [turn](../rule/combat/turn.md).
 
 #### Magma Titan {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-6/magma-titan"}
 
 
 *Their body swells with lava, mud, and might, towering over their enemies.*
 
-| **Earth, Fire, Green, Magic, Ranged** |            **Maneuver** |
+| **Earth, Fire, Green, Magic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
 |---------------------------------------|------------------------:|
-| **📏 Ranged 10**                      | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                      | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target has the following benefits:
+**Effect:** Until the start of your next [turn](../rule/combat/turn.md), the target has the following benefits:
 
 - Their [size](../rule/character/size.md) and [stability](../rule/character/stability.md) increase by 2, with any [size](../rule/character/size.md) 1 target becoming [size](../rule/character/size.md) 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring [stability](../rule/character/stability.md). If the target doesn't have space to grow, they grow as much as they can and become [restrained](../condition/restrained.md) until the effect ends.
 - They have fire immunity 10.
 - Their [strikes](../rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../rule/character/reason.md) score.
-- When the target force moves a creature or object, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +2 bonus.
+- When the target force moves a creature or object, the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) gains a +2 [bonus](../rule/dice/bonuses-and-penalties.md).
 - They can use their highest [characteristic](../rule/character/characteristic.md) instead of [Might](../rule/character/might.md) for [Might](../rule/character/might.md) [power rolls](../rule/dice/power-roll.md).
 
-**Persistent 2:** The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 [Recoveries](../rule/health/recoveries.md).
+**Persistent 2:** The effect lasts until the start of your next [turn](../rule/combat/turn.md). Additionally, at the start of your [turn](../rule/combat/turn.md), the target can spend 2 [Recoveries](../rule/health/recoveries.md).
 
 #### Meteor {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-6/meteor"}
 
 
 *You [teleport](../movement/teleport.md) the target into the air and let the ground and the elemental force of fire do the rest.*
 
-| **Earth, Fire, Magic, Ranged, Void** |               **Main action** |
+| **Earth, Fire, Magic, [Ranged](../rule/combat/ranged.md), Void** |               **Main action** |
 |--------------------------------------|------------------------------:|
-| **📏 Ranged 10**                     | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                     | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -1154,9 +1154,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 |-------------------------------------|----------------:|
 | **📏 4 [burst](../rule/combat/burst.md)**                      |  **🎯 Special** |
 
-**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has [cover](../rule/combat/cover.md).
+**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next [turn](../rule/combat/turn.md). The area is [difficult terrain](../movement/difficult-terrain.md) for enemies, and any ally who ends their [turn](../rule/combat/turn.md) in the area has [cover](../rule/combat/cover.md).
 
-**Persistent 2:** The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a [Recovery](../rule/health/recoveries.md).
+**Persistent 2:** The area remains until the start of your next [turn](../rule/combat/turn.md). Additionally, at the start of your [turn](../rule/combat/turn.md), each ally in the area can spend a [Recovery](../rule/health/recoveries.md).
 
 ## 7th-Level Features
 
@@ -1170,11 +1170,11 @@ Each of your [characteristic](../rule/character/characteristic.md) scores increa
 
 Your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) feature no longer requires essence.
 
-Additionally, your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's [aura](../rule/combat/aura.md) have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Handle Animals](../skill/handle-animals.md) skill. If you have 5 or more [Victories](../rule/resource/victories.md), the bonus to patience increases to 2 and [tests](../rule/test/test.md) that use the [Handle Animals](../skill/handle-animals.md) skill have a double [edge](../rule/dice/edge.md).
+Additionally, your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) now radiates magic that creates a calming air. Creatures in the area of the mantle's [aura](../rule/combat/aura.md) have their starting patience increased by 1 (to a maximum of 5) during any negotiation. While in the area, you and any ally gain an [edge](../rule/dice/edge.md) on [tests](../rule/test/test.md) that use the [Handle Animals](../skill/handle-animals.md) skill. If you have 5 or more [Victories](../rule/resource/victories.md), the [bonus](../rule/dice/bonuses-and-penalties.md) to patience increases to 2 and [tests](../rule/test/test.md) that use the [Handle Animals](../skill/handle-animals.md) skill have a double [edge](../rule/dice/edge.md).
 
 ### Surging Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/surging-essence"}
 
-When you gain essence at the start of each of your turns during combat, you gain 3 essence instead of 2.
+When you gain essence at the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 3 essence instead of 2.
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-7/skill"}
 
@@ -1203,13 +1203,13 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 #### Black Hole Star {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/black-hole-star"}
 
-You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your turns, you target one creature or object within [distance](../rule/combat/distance.md) of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their [stability](../rule/character/stability.md) reduces this [forced movement](../movement/forced-movement.md), they are pulled a minimum of 2 squares. This [forced movement](../movement/forced-movement.md) ignores [stability](../rule/character/stability.md) for your allies.
+You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your [turns](../rule/combat/turn.md), you target one creature or object within [distance](../rule/combat/distance.md) of your [Hurl Element](../feature/ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their [stability](../rule/character/stability.md) reduces this [forced movement](../movement/forced-movement.md), they are pulled a minimum of 2 squares. This [forced movement](../movement/forced-movement.md) ignores [stability](../rule/character/stability.md) for your allies.
 
 Additionally, your [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) improves. While in the area of the [aura](../rule/combat/aura.md), enemies and objects have their [stability](../rule/character/stability.md) reduced by an amount equal to your level.
 
 #### Chimeric Manifestation {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/chimeric-manifestation"}
 
-Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../complication/animal-form.md) as a [free maneuver](../rule/combat/free-maneuver.md) the first time you use your [Disciple of the Green](../feature/elementalist/level-2/disciple-of-the-green.md) feature on your turn.
+Nature isn't static and unchanging, and neither are you. You can enter or exit your [animal form](../complication/animal-form.md) as a [free maneuver](../rule/combat/free-maneuver.md) the first time you use your [Disciple of the Green](../feature/elementalist/level-2/disciple-of-the-green.md) feature on your [turn](../rule/combat/turn.md).
 
 Additionally, whenever you use your [Disciple of the Green](../feature/elementalist/level-2/disciple-of-the-green.md) feature, you can select an additional [animal form](../complication/animal-form.md) and gain the positive benefits from both forms. You can choose the size of either animal, and if both animal forms grant you the same benefit, you can choose whichever you prefer. You gain the highest [speed](../rule/character/speed.md) between the two animal forms and have all types of movement from both forms.
 
@@ -1219,7 +1219,7 @@ You can only combine animal forms whose levels add up to 12 or less. For example
 
 You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If you deal fire damage to a mundane object, you can use a free [triggered action](../rule/combat/triggered-action.md) to target it with your [Return to Formlessness](../feature/ability/elementalist/level-1/return-to-formlessness.md) ability instead.
 
-Additionally, any enemy who starts their turn adjacent to you has fire weakness equal to your [Reason](../rule/character/reason.md) score until the start of their next turn. This increases to twice your [Reason](../rule/character/reason.md) score if the enemy is made of or is wearing mostly metal.
+Additionally, any enemy who starts their [turn](../rule/combat/turn.md) [adjacent](../rule/combat/adjacent.md) to you has fire weakness equal to your [Reason](../rule/character/reason.md) score until the start of their next [turn](../rule/combat/turn.md). This increases to twice your [Reason](../rule/character/reason.md) score if the enemy is made of or is wearing mostly metal.
 
 #### Summon Source of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/summon-source-of-earth"}
 
@@ -1230,15 +1230,15 @@ You have the following ability.
 
 *The ground rumbles as an elemental [bursts](../rule/combat/burst.md) forth, ready to serve.*
 
-| **Earth, Magic, Ranged** | **Main action** |
+| **Earth, Magic, [Ranged](../rule/combat/ranged.md)** | **Main action** |
 |--------------------------|----------------:|
-| **📏 Ranged 10**         |  **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**         |  **🎯 Special** |
 
-**Effect:** A **source of earth** emerges from an unoccupied space within [distance](../rule/combat/distance.md). The source takes their turn immediately after you, moving up to their [speed](../rule/character/speed.md) and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
+**Effect:** A **source of earth** emerges from an unoccupied space within [distance](../rule/combat/distance.md). The source takes their [turn](../rule/combat/turn.md) immediately after you, moving up to their [speed](../rule/character/speed.md) and either taking a main action or a maneuver. The source is dismissed at the start of your next [turn](../rule/combat/turn.md).
 
 The source starts an encounter at full [Stamina](../rule/health/stamina.md), but maintains their current [Stamina](../rule/health/stamina.md) throughout the encounter, even if they are dismissed and you use this ability again. They can't regain [Stamina](../rule/health/stamina.md) during the encounter. When the source's [Stamina](../rule/health/stamina.md) is reduced to 0, you can't use this ability again until you earn 1 or more [Victories](../rule/resource/victories.md).
 
-**Persistent 2:** The source takes another turn. They are dismissed at the start of your next turn.
+**Persistent 2:** The source takes another [turn](../rule/combat/turn.md). They are dismissed at the start of your next [turn](../rule/combat/turn.md).
 
 
 ##### Source of Earth Statblock
@@ -1266,9 +1266,9 @@ The source starts an encounter at full [Stamina](../rule/health/stamina.md), but
 >
 >> **Boulder Bash**
 >>
->> | **Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon** |                 **Signature** |
+>> | **[Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |                 **Signature** |
 >> |-----------------------------------|------------------------------:|
->> | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
+>> | **📏 [Melee](../rule/combat/melee.md) 2 or [ranged](../rule/combat/ranged.md) 10**       | **🎯 One creature or object** |
 >>
 >> **[Power Roll](../rule/dice/power-roll.md) + 3:**
 >>
@@ -1285,20 +1285,20 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You call forth one of the Great Tree's many splinters to provide for your every need.*
 
-| **Green, Magic, Ranged** | **Main action** |
+| **Green, Magic, [Ranged](../rule/combat/ranged.md)** | **Main action** |
 |--------------------------|----------------:|
-| **📏 Ranged 10**         |  **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**         |  **🎯 Special** |
 
-**Effect:** A [size](../rule/character/size.md) 5 tree appears in an unoccupied space within [distance](../rule/combat/distance.md). The tree has 100 [Stamina](../rule/health/stamina.md) and can't be [force moved](../movement/forced-movement.md). You and any ally can touch the tree to use the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver as a [free maneuver](../rule/combat/free-maneuver.md). Additionally, when you start your turn with [line of effect](../rule/combat/line-of-effect.md) to the tree, you can end one effect on yourself that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of your turn, or you can stand up if you [are prone](../condition/prone.md). Each ally within [distance](../rule/combat/distance.md) also gains this benefit.
+**Effect:** A [size](../rule/character/size.md) 5 tree appears in an unoccupied space within [distance](../rule/combat/distance.md). The tree has 100 [Stamina](../rule/health/stamina.md) and can't be [force moved](../movement/forced-movement.md). You and any ally can touch the tree to use the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver as a [free maneuver](../rule/combat/free-maneuver.md). Additionally, when you start your [turn](../rule/combat/turn.md) with [line of effect](../rule/combat/line-of-effect.md) to the tree, you can end one effect on yourself that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of your [turn](../rule/combat/turn.md), or you can stand up if you [are prone](../condition/prone.md). Each ally within [distance](../rule/combat/distance.md) also gains this benefit.
 
-Each enemy who ends their turn within 3 squares of the tree is [restrained](../condition/restrained.md) until the end of their next turn. A creature [restrained](../condition/restrained.md) this way can use a main action to end the effect early.
+Each enemy who ends their [turn](../rule/combat/turn.md) within 3 squares of the tree is [restrained](../condition/restrained.md) until the end of their next [turn](../rule/combat/turn.md). A creature [restrained](../condition/restrained.md) this way can use a main action to end the effect early.
 
 #### Muse of Fire {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/muse-of-fire"}
 
 
 *The fire burns hot enough to sear the face of any god watching.*
 
-| **Area, Fire, Magic, Ranged** |               **Main action** |
+| **Area, Fire, Magic, [Ranged](../rule/combat/ranged.md)** |               **Main action** |
 |-------------------------------|------------------------------:|
 | **📏 5 [cube](../rule/combat/cube.md) within 10**       | **🎯 Each enemy in the area** |
 
@@ -1315,11 +1315,11 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../c
 
 *You create a tear in reality that could consume everything.*
 
-| **Area, Magic, Ranged, Void** | **Main action** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md), Void** | **Main action** |
 |-------------------------------|----------------:|
-| **📏 Ranged 10**              |  **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**              |  **🎯 Special** |
 
-**Effect:** You create a [size](../rule/character/size.md) 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../condition/prone.md). At the end of the round, if a [winded](../rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+**Effect:** You create a [size](../rule/character/size.md) 1L vortex that lasts until the end of the encounter. At the start of each [combat round](../rule/combat/combat-round.md) while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../condition/prone.md). At the end of the round, if a [winded](../rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 
 #### World Torn Asunder {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/world-torn-asunder"}
 
@@ -1336,7 +1336,7 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../c
 - **12-16:** M < AVERAGE[, prone](../condition/prone.md)
 - **17+:** M < STRONG[, prone](../condition/prone.md)
 
-**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../condition/prone.md) and [size](../rule/character/size.md) 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../movement/shifting.md) to the nearest unoccupied space of their choice outside it.
+**Effect:** You create a fissure in the ground [adjacent](../rule/combat/adjacent.md) to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who [is prone](../condition/prone.md) and [size](../rule/character/size.md) 2 or smaller falls in. Other creatures can enter the fissure or can [shift](../movement/shifting.md) to the nearest unoccupied space of their choice outside it.
 
 ## 9th-Level Features
 
@@ -1357,7 +1357,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Everyone and everything gets blown away in an eruption of rocks and debris.*
 
-| **Area, Earth, Magic, Ranged** |                          **Main action** |
+| **Area, Earth, Magic, [Ranged](../rule/combat/ranged.md)** |                          **Main action** |
 |--------------------------------|-----------------------------------------:|
 | **📏 5 [cube](../rule/combat/cube.md) within 10**        | **🎯 Each enemy and object in the area** |
 
@@ -1367,20 +1367,20 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 9 damage
 - **17+:** 13 damage
 
-**Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
+**Persistent 2:** At the start of your [turn](../rule/combat/turn.md), you can use a maneuver to use this ability again without spending essence.
 
 #### The Green Defends Its Servants {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-9/the-green-defends-its-servants"}
 
 
 *A luminous green shield shows its true beauty the more it cracks.*
 
-| **Green, Magic, Ranged** |            **Maneuver** |
+| **Green, Magic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
 |--------------------------|------------------------:|
-| **📏 Ranged 10**         | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**         | **🎯 Self or one ally** |
 
-**Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the [Defend](../feature/common/main-actions/defend.md) main action as a maneuver on each of their turns. The target gains 30 [temporary Stamina](../rule/health/temporary-stamina.md) that lasts until depleted or until the effect ends. If this [temporary Stamina](../rule/health/temporary-stamina.md) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
+**Effect:** You conjure an elemental shield that protects the target until the end of your next [turn](../rule/combat/turn.md). While the shield is active, the target can take the [Defend](../feature/common/main-actions/defend.md) main action as a maneuver on each of their [turns](../rule/combat/turn.md). The target gains 30 [temporary Stamina](../rule/health/temporary-stamina.md) that lasts until depleted or until the effect ends. If this [temporary Stamina](../rule/health/temporary-stamina.md) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
 
-**Persistent 2:** The effect lasts until the start of your next turn.
+**Persistent 2:** The effect lasts until the start of your next [turn](../rule/combat/turn.md).
 
 #### Prism {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-9/prism"}
 
@@ -1398,9 +1398,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You let fly a fiery missile braided with pure primal energy.*
 
-| **Fire, Magic, Ranged, [Strike](../rule/combat/strike.md)** |            **Main action** |
+| **Fire, Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |            **Main action** |
 |---------------------------------|---------------------------:|
-| **📏 Ranged 10**                | **🎯 One enemy or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                | **🎯 One enemy or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md):**
 
@@ -1426,7 +1426,7 @@ Your [Reason](../rule/character/reason.md) score increases to 5. Additionally, y
 
 ### Essential Being {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/essential-being"}
 
-When you gain essence at the start of each of your turns during combat, you gain 4 essence instead of 3.
+When you gain essence at the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 4 essence instead of 3.
 
 ### One {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/one"}
 
@@ -1449,9 +1449,9 @@ Additionally, as a [respite](../rule/resource/respite.md) activity, you can shap
 
 #### Master of Fire {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-fire"}
 
-The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
+The damage [bonus](../rule/dice/bonuses-and-penalties.md) of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
 
-Additionally, your [Return to Formlessness](../feature/ability/elementalist/level-1/return-to-formlessness.md) ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](../../Read/heroes/rewards.md)), you gain breath equal to its [echelon](../rule/general/echelon.md).
+Additionally, your [Return to Formlessness](../feature/ability/elementalist/level-1/return-to-formlessness.md) ability can be used on [supernatural](../rule/general/supernatural.md) objects (but not on artifacts). When you melt a treasure (see Chapter 13: [Rewards](../../Read/heroes/rewards.md)), you gain breath equal to its [echelon](../rule/general/echelon.md).
 
 #### Master of Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-green"}
 
@@ -1459,7 +1459,7 @@ The number of [Recoveries](../rule/health/recoveries.md) you have increases by 2
 
 Additionally, as a [respite](../rule/resource/respite.md) activity, you can perform a ritual that causes a fruit tree to spring from the ground, grow, mature, and produce 1d6 of a treasure called Life Fruit. You can use a [respite](../rule/resource/respite.md) activity to cause an existing tree to produce another 1d6 Life Fruit, but it does not grow these magic [consumables](../rule/treasure/consumable.md) on its own.
 
-As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their [Stamina](../rule/health/stamina.md), they can end all conditions or effects on themself, and they can stand up if [prone](../condition/prone.md). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
+As a maneuver, a creature can consume a Life Fruit or feed it to an [adjacent](../rule/combat/adjacent.md) willing ally. When a creature eats a Life Fruit, they restore all their [Stamina](../rule/health/stamina.md), they can end all [conditions](../rule/combat/condition.md) or effects on themself, and they can stand up if [prone](../condition/prone.md). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
 
 #### Master of Void {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-void"}
 
@@ -1469,7 +1469,7 @@ Additionally, your mind is connected to the mystery and helps you find the answe
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/perk"}
 
-You gain one crafting, lore, or supernatural perk of your choice.
+You gain one crafting, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/skill"}
 

@@ -30,7 +30,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your ward slows time for your enemies. Whenever a creature deals damage to you, their <a href="../../../../rule/character/speed/">speed</a> is reduced by an amount equal to your <a href="../../../../rule/character/reason/">Reason</a> score and they can&#39;t use <a href="../../../../rule/combat/triggered-action/">triggered actions</a> until the end of their next turn.</p>
+<p>Your ward slows time for your enemies. Whenever a creature deals damage to you, their <a href="../../../../rule/character/speed/">speed</a> is reduced by an amount equal to your <a href="../../../../rule/character/reason/">Reason</a> score and they can&#39;t use <a href="../../../../rule/combat/triggered-action/">triggered actions</a> until the end of their next <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -41,7 +41,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You surround yourself with an invisible ward of telekinetic energy. Whenever an adjacent creature deals damage to you, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to push them up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
+<p>You surround yourself with an invisible ward of telekinetic energy. Whenever an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature deals damage to you, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to push them up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -52,7 +52,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> equal to your <a href="../../../../rule/character/reason/">Reason</a> score until the end of your next turn.</p>
+<p>Your ward reacts to danger, protecting you from future harm. Whenever you take damage, after the damage resolves, you gain <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> equal to your <a href="../../../../rule/character/reason/">Reason</a> score until the end of your next <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -63,7 +63,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next turn.</p>
+<p>Your ward allows you to slip away from threats. Whenever you take damage, you become invisible until the end of your next <a href="../../../../rule/combat/turn/">turn</a>.</p>
 </div>
 </section>
 </div>

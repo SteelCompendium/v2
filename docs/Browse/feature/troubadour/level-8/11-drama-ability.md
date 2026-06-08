@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you reduce a creature to 0 <a href="../../../../rule/health/stamina/">Stamina</a> using an ability, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to <a href="../../../../movement/teleport/">teleport</a> an ally within <a href="../../../../rule/combat/distance/">distance</a> of that ability into the creature&#39;s space in a plume of rose petals. You or the <a href="../../../../movement/teleport/">teleport</a>ed ally can then make a melee <a href="../../../common/main-actions/free-strike/">free strike</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you reduce a creature to 0 <a href="../../../../rule/health/stamina/">Stamina</a> using an ability, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to <a href="../../../../movement/teleport/">teleport</a> an ally within <a href="../../../../rule/combat/distance/">distance</a> of that ability into the creature&#39;s space in a plume of rose petals. You or the <a href="../../../../movement/teleport/">teleport</a>ed ally can then make a <a href="../../../../rule/combat/melee/">melee</a> <a href="../../../common/main-actions/free-strike/">free strike</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -52,9 +52,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
@@ -79,7 +79,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you deal <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> to a creature or object, or enable a creature to spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to give that creature or object one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending <a href="../../../../rule/health/recoveries/">Recoveries</a> simultaneously, each target receives the same effect:</p><ul><li>The target has <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score against any magic, psionic, or weapon ability.</li><li>The target has <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score.</li><li>The target has a bonus to <a href="../../../../rule/character/stability/">stability</a> and a penalty to <a href="../../../../rule/character/speed/">speed</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score.</li><li>The target has a bonus to <a href="../../../../rule/character/speed/">speed</a> and a penalty to <a href="../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score.</li></ul></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you deal <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> to a creature or object, or enable a creature to spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to give that creature or object one of the following effects until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. If this ability is triggered by multiple targets taking damage or multiple creatures spending <a href="../../../../rule/health/recoveries/">Recoveries</a> simultaneously, each target receives the same effect:</p><ul><li>The target has <a href="../../../../rule/damage/damage-weakness/">damage weakness</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score against any magic, psionic, or weapon ability.</li><li>The target has <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score.</li><li>The target has a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/stability/">stability</a> and a <a href="../../../../rule/dice/bonuses-and-penalties/">penalty</a> to <a href="../../../../rule/character/speed/">speed</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score.</li><li>The target has a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> and a <a href="../../../../rule/dice/bonuses-and-penalties/">penalty</a> to <a href="../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score.</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -92,7 +92,7 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You shine a bright light on the players on the stage and compel them to finish the performance.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
@@ -102,7 +102,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally within <a href="../../../../rule/combat/distance/">distance</a> can&#39;t obtain lower than a tier 2 outcome on the next <a href="../../../../rule/test/test/">test</a> they make before the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>Each ally within <a href="../../../../rule/combat/distance/">distance</a> can&#39;t obtain lower than a tier 2 outcome on the next <a href="../../../../rule/test/test/">test</a> they make before the start of your next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 </div>

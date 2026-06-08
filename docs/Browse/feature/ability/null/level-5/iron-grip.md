@@ -2,11 +2,11 @@
 action_type: Main action
 class: "null"
 cost: 9 Discipline
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: While [grabbed](../../../../condition/grabbed.md) this way, the target takes a [bane](../../../../rule/dice/bane.md) on the [Escape Grab](../../../common/maneuvers/escape-grab.md) maneuver. Each time they use that maneuver, they take damage equal to twice your [Agility](../../../../rule/character/agility.md) score.
-flavor: You grab the target with supernatural force.
+flavor: You grab the target with [supernatural](../../../../rule/general/supernatural.md) force.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - '[Strike](../../../../rule/combat/strike.md)'
     - Weapon
@@ -30,10 +30,10 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Discipline</div></div>
 </div>
-<p class="sc-ability__flavor">You grab the target with supernatural force.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<p class="sc-ability__flavor">You grab the target with <a href="../../../../../rule/general/supernatural/">supernatural</a> force.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

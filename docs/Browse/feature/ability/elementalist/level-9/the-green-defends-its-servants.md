@@ -2,13 +2,13 @@
 action_type: Maneuver
 class: elementalist
 cost: 11 Essence
-distance: Ranged 10
-effect: You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the [Defend](../../../common/main-actions/defend.md) main action as a maneuver on each of their turns. The target gains 30 [temporary Stamina](../../../../rule/health/temporary-stamina.md) that lasts until depleted or until the effect ends. If this [temporary Stamina](../../../../rule/health/temporary-stamina.md) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: You conjure an elemental shield that protects the target until the end of your next [turn](../../../../rule/combat/turn.md). While the shield is active, the target can take the [Defend](../../../common/main-actions/defend.md) main action as a maneuver on each of their [turns](../../../../rule/combat/turn.md). The target gains 30 [temporary Stamina](../../../../rule/health/temporary-stamina.md) that lasts until depleted or until the effect ends. If this [temporary Stamina](../../../../rule/health/temporary-stamina.md) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
 flavor: A luminous green shield shows its true beauty the more it cracks.
 keywords:
     - Green
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: The Green Defends Its Servants
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-9/the-green-defends-its-servants
@@ -30,17 +30,17 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Essence</div></div>
 </div>
 <p class="sc-ability__flavor">A luminous green shield shows its true beauty the more it cracks.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the <a href="../../../../common/main-actions/defend/">Defend</a> main action as a maneuver on each of their turns. The target gains 30 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> that lasts until depleted or until the effect ends. If this <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.</p></div>
+<div class="sc-ability__section-body"><p>You conjure an elemental shield that protects the target until the end of your next <a href="../../../../../rule/combat/turn/">turn</a>. While the shield is active, the target can take the <a href="../../../../common/main-actions/defend/">Defend</a> main action as a maneuver on each of their <a href="../../../../../rule/combat/turn/">turns</a>. The target gains 30 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> that lasts until depleted or until the effect ends. If this <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
-<div class="sc-ability__section-body"><p>The effect lasts until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>The effect lasts until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 <a href="../../../../rule/resource/surge/">surge</a>. Additionally, if you use an ability that force moves a creature, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
+<p>Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 <a href="../../../../rule/resource/surge/">surge</a>. Additionally, if you use an ability that force moves a creature, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p>
 </div>
 </section>

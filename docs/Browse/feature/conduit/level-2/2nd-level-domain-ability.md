@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<table><thead><tr><th>Domain</th><th>Ability</th></tr></thead><tbody><tr><td>Creation</td><td><a href="../../../ability/conduit/level-2/statue-of-power/">Statue of Power</a></td></tr><tr><td>Death</td><td>Reap</td></tr><tr><td>Fate</td><td><a href="../../../ability/conduit/level-2/blessing-of-fate-and-destiny/">Blessing of Fate and Destiny</a></td></tr><tr><td>Knowledge</td><td><a href="../../../ability/conduit/level-2/the-gods-command-you-obey/">The Gods Command You Obey</a></td></tr><tr><td>Life</td><td><a href="../../../ability/conduit/level-2/wellspring-of-grace/">Wellspring of Grace</a></td></tr><tr><td>Love</td><td><a href="../../../ability/conduit/level-2/our-hearts-your-strength/">Our Hearts Your Strength</a></td></tr><tr><td>Nature</td><td><a href="../../../ability/conduit/level-2/nature-judges-thee/">Nature Judges Thee</a></td></tr><tr><td>Protection</td><td><a href="../../../ability/conduit/level-2/sacred-bond/">Sacred Bond</a></td></tr><tr><td>Storm</td><td>Saint&#39;s Tempest</td></tr><tr><td>Sun</td><td><a href="../../../ability/conduit/level-2/morning-light/">Morning Light</a></td></tr><tr><td>Trickery</td><td><a href="../../../ability/conduit/level-2/divine-comedy/">Divine Comedy</a></td></tr><tr><td>War</td><td><a href="../../../ability/conduit/level-2/blessing-of-insight/">Blessing of Insight</a></td></tr></tbody></table>
+<table><thead><tr><th>Domain</th><th>Ability</th></tr></thead><tbody><tr><td>Creation</td><td><a href="../../../ability/conduit/level-2/statue-of-power/">Statue of Power</a></td></tr><tr><td>Death</td><td>Reap</td></tr><tr><td>Fate</td><td><a href="../../../ability/conduit/level-2/blessing-of-fate-and-destiny/">Blessing of Fate and Destiny</a></td></tr><tr><td>Knowledge</td><td><a href="../../../ability/conduit/level-2/the-gods-command-you-obey/">The Gods Command You Obey</a></td></tr><tr><td>Life</td><td><a href="../../../ability/conduit/level-2/wellspring-of-grace/">Wellspring of Grace</a></td></tr><tr><td>Love</td><td><a href="../../../ability/conduit/level-2/our-hearts-your-strength/">Our Hearts Your Strength</a></td></tr><tr><td>Nature</td><td><a href="../../../ability/conduit/level-2/nature-judges-thee/">Nature Judges Thee</a></td></tr><tr><td>Protection</td><td><a href="../../../ability/conduit/level-2/sacred-bond/">Sacred Bond</a></td></tr><tr><td>Storm</td><td><a href="../../../../rule/world/saint/">Saint</a>&#39;s Tempest</td></tr><tr><td>Sun</td><td><a href="../../../ability/conduit/level-2/morning-light/">Morning Light</a></td></tr><tr><td>Trickery</td><td><a href="../../../ability/conduit/level-2/divine-comedy/">Divine Comedy</a></td></tr><tr><td>War</td><td><a href="../../../ability/conduit/level-2/blessing-of-insight/">Blessing of Insight</a></td></tr></tbody></table>
 </div>
 </section>
 <article class="sc-ability sc-fil" data-action="main">
@@ -42,9 +42,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your enemies suffer their fate; your allies embrace their destiny!</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div>
 </div>
 <div class="sc-ability__section">
@@ -62,14 +62,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">The gods grant insight revealing where best to strike your enemies.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each target gains 1 <a href="../../../../rule/resource/surge/">surge</a> at the end of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each target gains 1 <a href="../../../../rule/resource/surge/">surge</a> at the end of each of your <a href="../../../../rule/combat/turn/">turns</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -101,10 +101,10 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">You speak with the voice of your saint, commanding your enemies.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
+<p class="sc-ability__flavor">You speak with the voice of your <a href="../../../../rule/world/saint/">saint</a>, commanding your enemies.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -131,7 +131,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally in the area deals fire damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score with their next strike made before the end of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>Each ally in the area deals fire damage equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score with their next strike made before the end of their next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -144,7 +144,7 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Mystical thorned vines appear at your bidding and bind your foes.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
@@ -163,14 +163,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">An ally gains strength from their friends.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until the target is <a href="../../../../rule/health/dying/">dying</a>, at the start of each of the target&#39;s turns, they gain a bonus to <a href="../../../../rule/character/speed/">speed</a> and a bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until the target is <a href="../../../../rule/health/dying/">dying</a>, at the start of each of the target&#39;s <a href="../../../../rule/combat/turn/">turns</a>, they gain a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> and a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> equal to the number of allies within 10 squares of them. This <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> lasts until the start of their next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -183,14 +183,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">The gods reward those who smite their foes.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, each time a target kills an enemy, they regain <a href="../../../../rule/health/stamina/">Stamina</a> equal to 5 + your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next <a href="../../../../rule/combat/turn/">turn</a>, each time a target kills an enemy, they regain <a href="../../../../rule/health/stamina/">Stamina</a> equal to 5 + your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -203,9 +203,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You forge a divine connection between two creatures.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and one ally</div></div>
 </div>
 <div class="sc-ability__section">
@@ -223,7 +223,7 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">A raging storm appears, striking your foes with lightning and throwing them around with wind.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
@@ -242,14 +242,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">A marble statue of your deity rises from the earth.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A <a href="../../../../rule/character/size/">size</a> 2 statue rises out of the ground in an unoccupied space within <a href="../../../../rule/combat/distance/">distance</a> and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 <a href="../../../../rule/resource/surge/">surge</a> at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.</p></div>
+<div class="sc-ability__section-body"><p>A <a href="../../../../rule/character/size/">size</a> 2 statue rises out of the ground in an unoccupied space within <a href="../../../../rule/combat/distance/">distance</a> and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 <a href="../../../../rule/resource/surge/">surge</a> at the start of each of your <a href="../../../../rule/combat/turn/">turns</a>. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -269,7 +269,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, whenever a target starts their turn in the area, they can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, whenever a target starts their <a href="../../../../rule/combat/turn/">turn</a> in the area, they can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
 </div>

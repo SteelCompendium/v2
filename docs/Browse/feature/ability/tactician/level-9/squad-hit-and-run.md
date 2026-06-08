@@ -2,11 +2,11 @@
 action_type: Main action
 class: tactician
 cost: 11 Focus
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: Each target gains 2 [surges](../../../../rule/resource/surge.md), and can use a free [triggered action](../../../../rule/combat/triggered-action.md) to use a [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md). After resolving their ability, each target can [shift](../../../../movement/shifting.md) up to 2 squares and become hidden even if they have no [cover](../../../../rule/combat/cover.md) or [concealment](../../../../rule/combat/concealment.md), or if they are observed.
 flavor: I had to pry this secret from the [shadow college](../../../shadow/level-1/shadow-college.md)s.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Squad! Hit and Run!
 scc: mcdm.heroes.v1/feature.ability.tactician.level-9/squad-hit-and-run
@@ -28,9 +28,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Focus</div></div>
 </div>
 <p class="sc-ability__flavor">I had to pry this secret from the <a href="../../../../shadow/level-1/shadow-college/">shadow college</a>s.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and two allies</div></div>
 </div>
 <div class="sc-ability__section">

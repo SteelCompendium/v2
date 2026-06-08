@@ -41,9 +41,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your attack produces a cloud of black ash that launches an enemy into the air.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -71,7 +71,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can <a href="../../../../movement/teleport/">teleport</a> up to 5 squares. For each target in addition to you who <a href="../../../../movement/teleport/">teleports</a> away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your <a href="../../../../rule/character/agility/">Agility</a> score. Additionally, a target who ends this movement in <a href="../../../../rule/combat/concealment/">concealment</a> or <a href="../../../../rule/combat/cover/">cover</a> can use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver even if they are observed.</p></div>
+<div class="sc-ability__section-body"><p>Each target can <a href="../../../../movement/teleport/">teleport</a> up to 5 squares. For each target in addition to you who <a href="../../../../movement/teleport/">teleports</a> away from or into a space <a href="../../../../rule/combat/adjacent/">adjacent</a> to an enemy, that enemy takes fire damage equal to your <a href="../../../../rule/character/agility/">Agility</a> score. Additionally, a target who ends this movement in <a href="../../../../rule/combat/concealment/">concealment</a> or <a href="../../../../rule/combat/cover/">cover</a> can use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver even if they are observed.</p></div>
 </div>
 </article>
 </div>
@@ -96,9 +96,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">A well-timed throw of a potion will keep your allies in the fight.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div>
 </div>
 <div class="sc-ability__section">
@@ -116,14 +116,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Each ally who catches a potion you throw can take the battle to the next level.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../../common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its <a href="../../../../rule/character/potency/">potency</a> at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your <a href="../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> The creature&#39;s <a href="../../../../rule/character/speed/">speed</a> is increased by 2 until the end of the encounter.</li><li><b>12-16:</b> The creature can <a href="../../../../movement/fly/">fly</a> until the end of the encounter.</li><li><b>17+:</b> The creature turns invisible until the end of their next turn.</li></ul></div>
+<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../../common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its <a href="../../../../rule/character/potency/">potency</a> at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your <a href="../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> The creature&#39;s <a href="../../../../rule/character/speed/">speed</a> is increased by 2 until the end of the encounter.</li><li><b>12-16:</b> The creature can <a href="../../../../movement/fly/">fly</a> until the end of the encounter.</li><li><b>17+:</b> The creature <a href="../../../../rule/combat/turn/">turns</a> invisible until the end of their next <a href="../../../../rule/combat/turn/">turn</a>.</li></ul></div>
 </div>
 </article>
 </div>
@@ -155,7 +155,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, any <a href="../../../../rule/dice/ability-roll/">ability roll</a> made against a target gains an <a href="../../../../rule/dice/edge/">edge</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next <a href="../../../../rule/combat/turn/">turn</a>, any <a href="../../../../rule/dice/ability-roll/">ability roll</a> made against a target gains an <a href="../../../../rule/dice/edge/">edge</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -168,9 +168,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two enemies</div></div>
 </div>
 <div class="sc-ability__section">

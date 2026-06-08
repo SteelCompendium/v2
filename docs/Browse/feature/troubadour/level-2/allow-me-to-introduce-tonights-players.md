@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you take the first turn in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can <a href="../../../../movement/shifting/">shift</a> up to their <a href="../../../../rule/character/speed/">speed</a>, and <a href="../../../../rule/dice/ability-roll/">ability rolls</a> made against them have a double <a href="../../../../rule/dice/bane/">bane</a> until the end of the combat round. Additionally, any <a href="../../../../rule/combat/surprised/">surprised</a> enemy is no longer <a href="../../../../rule/combat/surprised/">surprised</a>.</p>
+<p>Whenever you take the first <a href="../../../../rule/combat/turn/">turn</a> in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can <a href="../../../../movement/shifting/">shift</a> up to their <a href="../../../../rule/character/speed/">speed</a>, and <a href="../../../../rule/dice/ability-roll/">ability rolls</a> made against them have a double <a href="../../../../rule/dice/bane/">bane</a> until the end of the <a href="../../../../rule/combat/combat-round/">combat round</a>. Additionally, any <a href="../../../../rule/combat/surprised/">surprised</a> enemy is no longer <a href="../../../../rule/combat/surprised/">surprised</a>.</p>
 </div>
 </section>

@@ -59,7 +59,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one <a href="../../../../rule/test/test/">test</a> made to jump, tumble, or climb as part of their movement before the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../../rule/combat/turn/">turn</a> in the area can automatically obtain a tier 3 outcome on one <a href="../../../../rule/test/test/">test</a> made to jump, tumble, or climb as part of their movement before the end of their <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 </div>
@@ -92,7 +92,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your <a href="../../../../rule/character/presence/">Presence</a> score and <a href="../../../../movement/teleport/">teleport</a> those targets to unoccupied spaces in the area. A target can&#39;t be <a href="../../../../movement/teleport/">teleport</a>ed in a way that would harm them (such as over a cliff), leave them <a href="../../../../rule/health/dying/">dying</a>, or result in them suffering a condition or other negative effect.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each of your <a href="../../../../rule/combat/turn/">turns</a> while this performance is active, you can choose up to a number of targets equal to your <a href="../../../../rule/character/presence/">Presence</a> score and <a href="../../../../movement/teleport/">teleport</a> those targets to unoccupied spaces in the area. A target can&#39;t be <a href="../../../../movement/teleport/">teleport</a>ed in a way that would harm them (such as over a cliff), leave them <a href="../../../../rule/health/dying/">dying</a>, or result in them suffering a <a href="../../../../rule/combat/condition/">condition</a> or other negative effect.</p></div>
 </div>
 </article>
 </div>
@@ -118,14 +118,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">It doesn&#39;t need to make sense. Just say it with emotion.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose one of the following effects:</p><ul><li>You orate a rousing tale of <a href="../../../../rule/resource/victories/">victory</a>. One ally within <a href="../../../../rule/combat/distance/">distance</a> gains an <a href="../../../../rule/dice/edge/">edge</a> on the next <a href="../../../../rule/dice/power-roll/">power roll</a> they make before the start of your next turn.</li><li>You weave a tale of high-stakes heroics. One ally within <a href="../../../../rule/combat/distance/">distance</a> gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</li><li>You insult a foe where they&#39;re most vulnerable. One enemy within <a href="../../../../rule/combat/distance/">distance</a> takes a <a href="../../../../rule/dice/bane/">bane</a> on the next <a href="../../../../rule/dice/power-roll/">power roll</a> they make before the end of their next turn.</li></ul></div>
+<div class="sc-ability__section-body"><p>Choose one of the following effects:</p><ul><li>You orate a rousing tale of <a href="../../../../rule/resource/victories/">victory</a>. One ally within <a href="../../../../rule/combat/distance/">distance</a> gains an <a href="../../../../rule/dice/edge/">edge</a> on the next <a href="../../../../rule/dice/power-roll/">power roll</a> they make before the start of your next <a href="../../../../rule/combat/turn/">turn</a>.</li><li>You weave a tale of high-stakes heroics. One ally within <a href="../../../../rule/combat/distance/">distance</a> gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</li><li>You insult a foe where they&#39;re most vulnerable. One enemy within <a href="../../../../rule/combat/distance/">distance</a> takes a <a href="../../../../rule/dice/bane/">bane</a> on the next <a href="../../../../rule/dice/power-roll/">power roll</a> they make before the end of their next <a href="../../../../rule/combat/turn/">turn</a>.</li></ul></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">You can choose two targets for the chosen effect.</span></div>
 </article>
@@ -191,9 +191,9 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain a +2 bonus to <a href="../../../../rule/character/speed/">speed</a> until the end of your turn. Additionally, the next <a href="../../../../rule/dice/power-roll/">power roll</a> you make this turn can&#39;t have an outcome lower than tier 2.</p></div>
+<div class="sc-ability__section-body"><p>You gain a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> until the end of your <a href="../../../../rule/combat/turn/">turn</a>. Additionally, the next <a href="../../../../rule/dice/power-roll/">power roll</a> you make this <a href="../../../../rule/combat/turn/">turn</a> can&#39;t have an outcome lower than tier 2.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">You gain a +4 bonus to <a href="../../../../rule/character/speed/">speed</a> instead.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">You gain a +4 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> instead.</span></div>
 </article>
 </div>
 </div>
@@ -218,14 +218,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">All for thunder motherrr! ♪ Run and hide for coverrr!♪</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Performance</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each combat round while this performance is active, you can make a <a href="../../../../rule/dice/power-roll/">power roll</a> against the target that ignores <a href="../../../../rule/combat/cover/">cover</a>. You can&#39;t target the same creature twice with this effect.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> Lightning damage equal to your level</li><li><b>12-16:</b> Lightning damage equal to 5 + your level</li><li><b>17+:</b> Lightning damage equal to 10 + your level</li></ul></div>
+<div class="sc-ability__section-body"><p>At the end of each <a href="../../../../rule/combat/combat-round/">combat round</a> while this performance is active, you can make a <a href="../../../../rule/dice/power-roll/">power roll</a> against the target that ignores <a href="../../../../rule/combat/cover/">cover</a>. You can&#39;t target the same creature twice with this effect.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> Lightning damage equal to your level</li><li><b>12-16:</b> Lightning damage equal to 5 + your level</li><li><b>17+:</b> Lightning damage equal to 10 + your level</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="none">
@@ -245,7 +245,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../../rule/combat/turn/">turn</a> in the area gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</p></div>
 </div>
 </article>
 </div>

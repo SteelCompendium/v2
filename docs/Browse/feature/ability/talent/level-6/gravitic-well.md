@@ -8,7 +8,7 @@ flavor: You bend gravity into a fine point and pull your foes toward it.
 keywords:
     - Area
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - Telekinesis
 level: "6"
 name: Gravitic Well
@@ -31,7 +31,7 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Clarity</div></div>
 </div>
 <p class="sc-ability__flavor">You bend gravity into a fine point and pull your foes toward it.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Telekinesis</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">Telekinesis</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each creature and object in the area</div></div>

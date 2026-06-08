@@ -8,7 +8,7 @@ type: rule
 
 ---
 
-Boring stuff like opening an unlocked door, picking up an arrow from the ground, giving an object to an adjacent ally, or drawing a weapon doesn't require a maneuver or a main action. Rather, you can undertake such straightforward activities as free maneuvers on your turn. A free maneuver follows the same rules as a regular maneuver, but you can typically take as many free maneuvers as you like.
+Boring stuff like opening an unlocked door, picking up an arrow from the ground, giving an object to an [adjacent](adjacent.md) ally, or drawing a weapon doesn't require a maneuver or a main action. Rather, you can undertake such straightforward activities as free maneuvers on your [turn](turn.md). A free maneuver follows the same rules as a regular maneuver, but you can typically take as many free maneuvers as you like.
 
 At the Director's discretion, circumstances could make something that is typically boring more impactful and exciting. For instance, if you need to pick a magic arrow up off the ground during a violent earthquake, what would otherwise be a free maneuver could require a maneuver or a main action to accomplish.
 

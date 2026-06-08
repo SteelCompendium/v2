@@ -1,8 +1,6 @@
 ---
-disengage_bonus: "+1"
 equipment_text: You wear no armor and wield a bow.
 name: Arcane Archer
-ranged_damage_bonus: +2/+2/+2
 scc: mcdm.heroes.v1/kit/arcane-archer
 type: kit
 ---
@@ -11,7 +9,7 @@ type: kit
 
 ---
 
-The [Arcane Archer](arcane-archer.md) kit allows you to combine magic and ranged weapon [strikes](../rule/combat/strike.md). Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
+The [Arcane Archer](arcane-archer.md) kit allows you to combine magic and [ranged](../rule/combat/ranged.md) weapon [strikes](../rule/combat/strike.md). Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
 
 ## Equipment
 
@@ -19,13 +17,13 @@ You wear no armor and wield a bow.
 
 ## Kit Bonuses
 
-**[Speed](../rule/character/speed.md) Bonus:** +1
+**[Speed](../rule/character/speed.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +1
 
-**Ranged Damage Bonus:** +2/+2/+2
+**[Ranged](../rule/combat/ranged.md) Damage [Bonus](../rule/dice/bonuses-and-penalties.md):** +2/+2/+2
 
-**Ranged [Distance](../rule/combat/distance.md) Bonus:** +10
+**[Ranged](../rule/combat/ranged.md) [Distance](../rule/combat/distance.md) [Bonus](../rule/dice/bonuses-and-penalties.md):** +10
 
-**Disengage Bonus:** +1
+**Disengage [Bonus](../rule/dice/bonuses-and-penalties.md):** +1
 
 ## Signature Ability
 
@@ -33,9 +31,9 @@ You wear no armor and wield a bow.
 
 *Your ammunition explodes with magical energy.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
-| **📏 Ranged 15**                  | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 15**                  | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md), [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 

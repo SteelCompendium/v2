@@ -29,8 +29,8 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain wrath equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your turns during combat, you gain 2 wrath.</p>
-<p>Additionally, the first time each combat round that a creature judged by you (see <a href="../../../ability/censor/level-1/judgment/">Judgment</a> below) deals damage to you, you gain 1 wrath. The first time each combat round that you deal damage to a creature judged by you, you gain 1 wrath.</p>
+<p>At the start of a combat encounter or some other stressful situation tracked in <a href="../../../../rule/combat/combat-round/">combat rounds</a> (as determined by the Director), you gain wrath equal to your <a href="../../../../rule/resource/victories/">Victories</a>. At the start of each of your <a href="../../../../rule/combat/turn/">turns</a> during combat, you gain 2 wrath.</p>
+<p>Additionally, the first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that a creature judged by you (see <a href="../../../ability/censor/level-1/judgment/">Judgment</a> below) deals damage to you, you gain 1 wrath. The first time each <a href="../../../../rule/combat/combat-round/">combat round</a> that you deal damage to a creature judged by you, you gain 1 wrath.</p>
 <p>You lose any remaining wrath at the end of the encounter.</p>
 </div>
 </section>

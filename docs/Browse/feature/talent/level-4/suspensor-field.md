@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can <a href="../../../../movement/fly/">fly</a>. While <a href="../../../../movement/fly/">flying</a>, your <a href="../../../../rule/character/stability/">stability</a> is reduced to 0 and can&#39;t be increased. If you can already <a href="../../../../movement/fly/">fly</a>, you have a +2 bonus to <a href="../../../../rule/character/speed/">speed</a> while <a href="../../../../movement/fly/">flying</a> instead.</p>
-<p>If you are strained while <a href="../../../../movement/fly/">flying</a> and are force moved, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +2 bonus.</p>
+<p>You can <a href="../../../../movement/fly/">fly</a>. While <a href="../../../../movement/fly/">flying</a>, your <a href="../../../../rule/character/stability/">stability</a> is reduced to 0 and can&#39;t be increased. If you can already <a href="../../../../movement/fly/">fly</a>, you have a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> while <a href="../../../../movement/fly/">flying</a> instead.</p>
+<p>If you are strained while <a href="../../../../movement/fly/">flying</a> and are force moved, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>.</p>
 </div>
 </section>

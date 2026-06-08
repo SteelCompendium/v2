@@ -2,12 +2,12 @@
 action_type: Maneuver
 class: talent
 cost: 9 Clarity
-distance: Ranged 10
-effect: You target a number of creatures with this ability determined by the outcome of your [power roll](../../../../rule/dice/power-roll.md). You and your allies are invisible to each target until the start of your next turn.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: You target a number of creatures with this ability determined by the outcome of your [power roll](../../../../rule/dice/power-roll.md). You and your allies are invisible to each target until the start of your next [turn](../../../../rule/combat/turn.md).
 flavor: You manipulate your enemies' minds and make them wonder if you were ever really there in the first place.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Telepathy
 level: "6"
@@ -31,14 +31,14 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Clarity</div></div>
 </div>
 <p class="sc-ability__flavor">You manipulate your enemies&#39; minds and make them wonder if you were ever really there in the first place.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You target a number of creatures with this ability determined by the outcome of your <a href="../../../../../rule/dice/power-roll/">power roll</a>. You and your allies are invisible to each target until the start of your next turn.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> Two creatures</li><li><b>12-16:</b> Three creatures</li><li><b>17+:</b> Five creatures</li></ul></div>
+<div class="sc-ability__section-body"><p>You target a number of creatures with this ability determined by the outcome of your <a href="../../../../../rule/dice/power-roll/">power roll</a>. You and your allies are invisible to each target until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> Two creatures</li><li><b>12-16:</b> Three creatures</li><li><b>17+:</b> Five creatures</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

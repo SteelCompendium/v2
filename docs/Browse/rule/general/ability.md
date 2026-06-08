@@ -16,7 +16,7 @@ Abilities with the Area keyword create an [area of effect](../combat/area-of-eff
 
 ## Charge
 
-Abilities with the Charge keyword can be used with the [Charge](../../feature/common/main-actions/charge.md) main action instead of a melee [free strike](../../feature/common/main-actions/free-strike.md). (The [Charge](../../feature/common/main-actions/charge.md) main action is described in Main Actions in Chapter 10: [Combat](../../../Read/heroes/combat.md).)
+Abilities with the Charge keyword can be used with the [Charge](../../feature/common/main-actions/charge.md) main action instead of a [melee](../combat/melee.md) [free strike](../../feature/common/main-actions/free-strike.md). (The [Charge](../../feature/common/main-actions/charge.md) main action is described in Main Actions in Chapter 10: [Combat](../../../Read/heroes/combat.md).)
 
 ## Magic
 
@@ -24,7 +24,7 @@ Abilities with the Magic keyword are used by characters who can cast spells, hav
 
 ## Melee {data-scc="mcdm.heroes.v1/rule.combat/melee"}
 
-Abilities with the Melee keyword can be used only over very short distances, typically within a character's reach, because they require a character to make contact with a creature or object with their body, a weapon, or an implement. (An implement is a special object used by characters channeling magic or psionic power, described in Imbue Treasure in Chapter 12: [Downtime Projects](../../../Read/heroes/downtime-projects.md).)
+Abilities with the Melee keyword can be used only over very short distances, typically within a character's reach, because they require a character to make contact with a creature or object with their body, a weapon, or an [implement](../treasure/implement.md). (An [implement](../treasure/implement.md) is a special object used by characters channeling magic or psionic power, described in Imbue Treasure in Chapter 12: [Downtime Projects](../../../Read/heroes/downtime-projects.md).)
 
 ## Psionic
 

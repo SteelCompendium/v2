@@ -1,9 +1,9 @@
 ---
 action_type: Main action
-distance: Ranged 12
+distance: '[Ranged](../../../rule/combat/ranged.md) 12'
 flavor: When you fire two arrows back-to-back, both hit their mark.
 keywords:
-    - Ranged
+    - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
     - Weapon
 kit: rapid-fire
@@ -28,9 +28,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost">Signature</div></div>
 </div>
 <p class="sc-ability__flavor">When you fire two arrows back-to-back, both hit their mark.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 12</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 12</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two creatures or objects</div></div>
 </div>
 <div class="sc-ability__section">

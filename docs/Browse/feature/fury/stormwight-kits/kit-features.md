@@ -90,7 +90,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>These bonuses apply in your true form, your <a href="../../../../complication/animal-form/">animal form</a>, and your hybrid form. See Chapter 6: <a href="../../../../../Read/heroes/kits/">Kits</a> for information on <a href="../../boren/kit-bonuses/">kit bonuses</a>.</p>
+<p>These <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a>es apply in your true form, your <a href="../../../../complication/animal-form/">animal form</a>, and your hybrid form. See Chapter 6: <a href="../../../../../Read/heroes/kits/">Kits</a> for information on <a href="../../boren/kit-bonuses/">kit bonuses</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

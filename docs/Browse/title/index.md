@@ -224,7 +224,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Godsworn</div></div></div>
   <div class="sc-card__flavor">He seemed like he needed help! Now the dead speak to me. I think maybe that old man was more than he appeared.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You do a favor for an agent of a god or saint, or promise to do so.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You do a favor for an agent of a god or [saint](../rule/world/saint.md), or promise to do so.</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="heist-hero/" aria-label="Heist Hero"></a>
@@ -280,7 +280,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Master Crafter</div></div></div>
   <div class="sc-card__flavor">The sword Vanartha has been remade, mightier now than on the day it was forged.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You complete a downtime project to imbue armor, an implement, or a weapon with a 9th-level enhancement.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You complete a downtime project to imbue armor, an [implement](../rule/treasure/implement.md), or a weapon with a 9th-level [enhancement](../rule/treasure/enhancement.md).</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="master-librarian/" aria-label="Master Librarian"></a>

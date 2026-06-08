@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you reduce an adjacent non-minion creature to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, you can immediately use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to use your <a href="../../../ability/shadow/level-1/im-no-threat/">I&#39;m No Threat</a> ability and then move up to your <a href="../../../../rule/character/speed/">speed</a>.</p>
+<p>Whenever you reduce an <a href="../../../../rule/combat/adjacent/">adjacent</a> non-minion creature to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, you can immediately use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to use your <a href="../../../ability/shadow/level-1/im-no-threat/">I&#39;m No Threat</a> ability and then move up to your <a href="../../../../rule/character/speed/">speed</a>.</p>
 <p>If the creature is the same <a href="../../../../rule/character/size/">size</a> as you, you can disguise yourself as them using <a href="../../../ability/shadow/level-1/im-no-threat/">I&#39;m No Threat</a> without spending insight. If you do, while <a href="../../../ability/shadow/level-1/im-no-threat/">I&#39;m No Threat</a> is active, the creature&#39;s body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature&#39;s body, it ends for both.</p>
 </div>
 </section>
@@ -53,7 +53,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>Whenever you reduce a non-minion creature to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, you can immediately use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to use your <a href="../../../ability/shadow/level-1/black-ash-teleport/">Black Ash Teleport</a> ability.</p>
-<p>Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to <a href="../../../../movement/teleport/">teleport</a>. The creature appears in an unoccupied space adjacent to the space into which you <a href="../../../../movement/teleport/">teleport</a>ed. If no such space exists, they can&#39;t <a href="../../../../movement/teleport/">teleport</a> with you.</p>
+<p>Additionally, you can now bring an <a href="../../../../rule/combat/adjacent/">adjacent</a> willing creature along with you whenever you use a shadow ability to <a href="../../../../movement/teleport/">teleport</a>. The creature appears in an unoccupied space <a href="../../../../rule/combat/adjacent/">adjacent</a> to the space into which you <a href="../../../../movement/teleport/">teleport</a>ed. If no such space exists, they can&#39;t <a href="../../../../movement/teleport/">teleport</a> with you.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -64,7 +64,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your <a href="../../../../rule/character/agility/">Agility</a> score.</p>
+<p>Whenever you take damage, each enemy <a href="../../../../rule/combat/adjacent/">adjacent</a> to you takes fire, acid, or poison damage (your choice) equal to your <a href="../../../../rule/character/agility/">Agility</a> score.</p>
 <p>Additionally, your <a href="../../../ability/shadow/level-1/defensive-roll/">Defensive Roll</a> ability now allows you to <a href="../../../../movement/shifting/">shift</a> up to 5 squares, including <a href="../../../../movement/shifting/">shifting</a> vertically. If you don&#39;t end this <a href="../../../../movement/shifting/">shift</a> on solid ground and are not <a href="../../../../movement/fly/">flying</a>, you fall.</p>
 </div>
 </section>

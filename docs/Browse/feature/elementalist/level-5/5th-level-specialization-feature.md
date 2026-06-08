@@ -41,7 +41,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>Your animal forms become hardier. You gain <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your level when you enter an <a href="../../../../complication/animal-form/">animal form</a> in combat, which is added to any <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> provided by the <a href="../../../../complication/animal-form/">animal form</a>.</p>
-<p>Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> down to a minimum of 0. The ally gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to the amount you lost.</p>
+<p>Additionally, an <a href="../../../../rule/combat/adjacent/">adjacent</a> ally can use a maneuver to pet you. If they do so, you can lose <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> down to a minimum of 0. The ally gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to the amount you lost.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -77,7 +77,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You can use 1 square of movement to walk into an area of fire your <a href="../../../../rule/character/size/">size</a> or larger and <a href="../../../../movement/teleport/">teleport</a> to any other area of fire your <a href="../../../../rule/character/size/">size</a> or larger within 10 squares of the first area.</p>
-<p>Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
+<p>Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy <a href="../../../../rule/combat/adjacent/">adjacent</a> to you takes fire damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 </div>

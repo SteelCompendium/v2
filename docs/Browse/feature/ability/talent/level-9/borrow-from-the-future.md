@@ -3,7 +3,7 @@ action_type: Maneuver
 class: talent
 cost: 11 Clarity
 distance: 2 [burst](../../../../rule/combat/burst.md)
-effect: The targets share 6 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md) among themselves, as you determine. A target can't gain more than 3 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md) this way. After using this ability, you can't gain any clarity until the end of the next combat round.
+effect: The targets share 6 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md) among themselves, as you determine. A target can't gain more than 3 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md) this way. After using this ability, you can't gain any clarity until the end of the next [combat round](../../../../rule/combat/combat-round.md).
 flavor: You lean on future heroism to assist you in the now.
 keywords:
     - Area
@@ -37,6 +37,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The targets share 6 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a> among themselves, as you determine. A target can&#39;t gain more than 3 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a> this way. After using this ability, you can&#39;t gain any clarity until the end of the next combat round.</p></div>
+<div class="sc-ability__section-body"><p>The targets share 6 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a> among themselves, as you determine. A target can&#39;t gain more than 3 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a> this way. After using this ability, you can&#39;t gain any clarity until the end of the next <a href="../../../../../rule/combat/combat-round/">combat round</a>.</p></div>
 </div>
 </article>

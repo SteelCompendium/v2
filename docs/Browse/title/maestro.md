@@ -36,4 +36,4 @@ type: title
 >
 > **Effect:** The soul of any creature killed by this ability is dragged to Hell.
 
-- *Music of the Spheres:* As a main action, you sing or play a note as delicate and sharp as glass—and just as easily shattered. Until the start of your next turn, whenever a creature within 10 squares makes a [strike](../rule/combat/strike.md), they take 8 sonic damage. Whenever you make a [strike](../rule/combat/strike.md) during that same period, you also take 8 sonic damage.
+- *Music of the Spheres:* As a main action, you sing or play a note as delicate and sharp as glass—and just as easily shattered. Until the start of your next [turn](../rule/combat/turn.md), whenever a creature within 10 squares makes a [strike](../rule/combat/strike.md), they take 8 sonic damage. Whenever you make a [strike](../rule/combat/strike.md) during that same period, you also take 8 sonic damage.

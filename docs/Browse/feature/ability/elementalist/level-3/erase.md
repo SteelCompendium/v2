@@ -2,12 +2,12 @@
 action_type: Main action
 class: elementalist
 cost: 7 Essence
-distance: Ranged 10
-effect: Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md). At the end of their first turn, they have a double [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md). At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: Each target begins to fade from existence (save ends). On their first [turn](../../../../rule/combat/turn.md) while fading from existence, a target takes a [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md). At the end of their first [turn](../../../../rule/combat/turn.md), they have a double [bane](../../../../rule/dice/bane.md) on [power rolls](../../../../rule/dice/power-roll.md). At the end of their second [turn](../../../../rule/combat/turn.md), they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.
 flavor: With a flick of the wrist, you phase creatures out of existence.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Void
 level: "3"
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">7</span> Essence</div></div>
 </div>
 <p class="sc-ability__flavor">With a flick of the wrist, you phase creatures out of existence.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Void</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Void</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
@@ -42,6 +42,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target begins to fade from existence (save ends). On their first turn while fading from existence, a target takes a <a href="../../../../../rule/dice/bane/">bane</a> on <a href="../../../../../rule/dice/power-roll/">power rolls</a>. At the end of their first turn, they have a double <a href="../../../../../rule/dice/bane/">bane</a> on <a href="../../../../../rule/dice/power-roll/">power rolls</a>. At the end of their second turn, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.</p></div>
+<div class="sc-ability__section-body"><p>Each target begins to fade from existence (save ends). On their first <a href="../../../../../rule/combat/turn/">turn</a> while fading from existence, a target takes a <a href="../../../../../rule/dice/bane/">bane</a> on <a href="../../../../../rule/dice/power-roll/">power rolls</a>. At the end of their first <a href="../../../../../rule/combat/turn/">turn</a>, they have a double <a href="../../../../../rule/dice/bane/">bane</a> on <a href="../../../../../rule/dice/power-roll/">power rolls</a>. At the end of their second <a href="../../../../../rule/combat/turn/">turn</a>, they fade from existence for 1 hour, after which they reappear in their original space or the nearest unoccupied space.</p></div>
 </div>
 </article>

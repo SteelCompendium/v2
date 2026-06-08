@@ -18,4 +18,4 @@ type: title
 
 - *Bounce Back Fast:* Whenever you rest for 8 hours or more, you can gain the benefit of a [respite](../rule/resource/respite.md). Once you use this benefit, you can't use it again until you have taken a regular [respite](../rule/resource/respite.md).
 - *Reserves of Strength:* Your [recovery value](../rule/health/recoveries.md) is half your [Stamina](../rule/health/stamina.md)
-- *Undying:* You can't be affected by the [bleeding](../condition/bleeding.md) condition.
+- *Undying:* You can't be affected by the [bleeding](../condition/bleeding.md) [condition](../rule/combat/condition.md).

@@ -19,6 +19,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>While you are in your wolf form, your <a href="../../../../rule/character/size/">size</a> is 1L, you have a +2 bonus to <a href="../../../../rule/character/speed/">speed</a>, and you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p>
+<p>While you are in your wolf form, your <a href="../../../../rule/character/size/">size</a> is 1L, you have a +2 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a>, and you ignore <a href="../../../../movement/difficult-terrain/">difficult terrain</a>.</p>
 </div>
 </section>

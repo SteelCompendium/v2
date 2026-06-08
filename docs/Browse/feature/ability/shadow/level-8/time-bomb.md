@@ -6,7 +6,7 @@ effect: Each target takes acid, fire, or poison damage (your choice) equal to yo
 flavor: The longer it cooks, the bigger the boom.
 keywords:
     - Area
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "8"
 name: Time Bomb
 scc: mcdm.heroes.v1/feature.ability.shadow.level-8/time-bomb
@@ -29,14 +29,14 @@ type: ability
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">The longer it cooks, the bigger the boom.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target takes acid, fire, or poison damage (your choice) equal to your <a href="../../../../../rule/character/agility/">Agility</a> score.</p><p>For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 <a href="../../../../../rule/resource/surge/">surge</a> that must be used with this ability. After using the ability or at the end of the encounter, its area and <a href="../../../../../rule/resource/surge/">surges</a> are reset.</p></div>
+<div class="sc-ability__section-body"><p>Each target takes acid, fire, or poison damage (your choice) equal to your <a href="../../../../../rule/character/agility/">Agility</a> score.</p><p>For each <a href="../../../../../rule/combat/combat-round/">combat round</a> that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 <a href="../../../../../rule/resource/surge/">surge</a> that must be used with this ability. After using the ability or at the end of the encounter, its area and <a href="../../../../../rule/resource/surge/">surges</a> are reset.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2+ Insight</span><span class="txt">For every 2 insight spent, you increase the <a href="../../../../../rule/combat/cube/">cube</a>&#39;s <a href="../../../../../rule/character/size/">size</a> by 1 and gain 1 <a href="../../../../../rule/resource/surge/">surge</a> that can be used only with this ability.</span></div>
 </article>

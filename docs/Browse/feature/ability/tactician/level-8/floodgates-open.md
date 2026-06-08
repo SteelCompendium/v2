@@ -2,11 +2,11 @@
 action_type: Main action
 class: tactician
 cost: 11 Focus
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a [signature ability](../../../../rule/combat/signature-ability.md) as a free [triggered action](../../../../rule/combat/triggered-action.md). That ability gains an [edge](../../../../rule/dice/edge.md) on the [power roll](../../../../rule/dice/power-roll.md) and increases the [potency](../../../../rule/character/potency.md) of any [potency](../../../../rule/character/potency.md) effects by 1.
 flavor: You direct your squad to strike in unison and with devastating effect.
 keywords:
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "8"
 name: Floodgates Open
 scc: mcdm.heroes.v1/feature.ability.tactician.level-8/floodgates-open
@@ -28,9 +28,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Focus</div></div>
 </div>
 <p class="sc-ability__flavor">You direct your squad to strike in unison and with devastating effect.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three allies</div></div>
 </div>
 <div class="sc-ability__section">

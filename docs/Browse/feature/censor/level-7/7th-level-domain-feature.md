@@ -63,9 +63,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You concentrate on a friend and <a href="../../../../movement/teleport/">teleport</a> to them.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally</div></div>
 </div>
 <div class="sc-ability__section">
@@ -95,7 +95,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each time you use your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don&#39;t use this wrath, it is lost. Additionally, the target of <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> gains 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p>
+<p>Each time you use your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability, you gain 1 wrath that can be spent only on that ability during the same <a href="../../../../rule/combat/turn/">turn</a>. If you don&#39;t use this wrath, it is lost. Additionally, the target of <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> gains 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -129,7 +129,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>When you finish a <a href="../../../../rule/resource/respite/">respite</a>, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:</p>
-<ul><li>Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> each time.</li><li>Each creature gains 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li>Each creature gains a +1 bonus to <a href="../../../../rule/character/speed/">speed</a>.</li><li>Each creature gains a +1 bonus to <a href="../../../../rule/general/saving-throw/">saving throws</a>.</li><li>Each creature gains an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to influence other creatures.</li></ul>
+<ul><li>Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> each time.</li><li>Each creature gains 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li>Each creature gains a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a>.</li><li>Each creature gains a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/general/saving-throw/">saving throws</a>.</li><li>Each creature gains an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/test/test/">tests</a> made to influence other creatures.</li></ul>
 <p>Each benefit lasts until the creature who gains it finishes another <a href="../../../../rule/resource/respite/">respite</a>.</p>
 </div>
 </section>
@@ -141,7 +141,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Lightning and thunder infuse your body. Whenever you use an ability to deal <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> to another creature, the ability deals extra lightning damage equal to your <a href="../../../../rule/character/presence/">Presence</a> score. Additionally, if you use an ability that force moves a creature, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a bonus equal to your <a href="../../../../rule/character/presence/">Presence</a> score. While you are under the effect of your <a href="../../level-4/windwalk/">Windwalk</a> feature, lightning enhances your locomotion to grant you a bonus to <a href="../../../../rule/character/speed/">speed</a> equal to your <a href="../../../../rule/character/might/">Might</a> score. If <a href="../../level-4/windwalk/">Windwalk</a> already grants you a bonus to <a href="../../../../rule/character/speed/">speed</a>, this bonus adds to that.</p>
+<p>Lightning and thunder infuse your body. Whenever you use an ability to deal <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> to another creature, the ability deals extra lightning damage equal to your <a href="../../../../rule/character/presence/">Presence</a> score. Additionally, if you use an ability that force moves a creature, the <a href="../../../../movement/forced-movement/">forced movement</a> <a href="../../../../rule/combat/distance/">distance</a> gains a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> equal to your <a href="../../../../rule/character/presence/">Presence</a> score. While you are under the effect of your <a href="../../level-4/windwalk/">Windwalk</a> feature, lightning enhances your locomotion to grant you a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> equal to your <a href="../../../../rule/character/might/">Might</a> score. If <a href="../../level-4/windwalk/">Windwalk</a> already grants you a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a>, this <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> adds to that.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -164,14 +164,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Hey! I&#39;m over here. No, here, numbskull.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create two illusory duplicates of the target, which appear anywhere within <a href="../../../../rule/combat/distance/">distance</a>. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their <a href="../../../../rule/character/speed/">speed</a>. If the target is targeted by an ability, they can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to switch places with a duplicate within their <a href="../../../../rule/combat/line-of-effect/">line of effect</a>, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.</p></div>
+<div class="sc-ability__section-body"><p>You create two illusory duplicates of the target, which appear anywhere within <a href="../../../../rule/combat/distance/">distance</a>. These duplicates last until the end of the encounter. On each of their <a href="../../../../rule/combat/turn/">turns</a>, the target can move each duplicate up to their <a href="../../../../rule/character/speed/">speed</a>. If the target is targeted by an ability, they can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to switch places with a duplicate within their <a href="../../../../rule/combat/line-of-effect/">line of effect</a>, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.</p></div>
 </div>
 </article>
 </div>

@@ -41,7 +41,7 @@ The king tapped the scroll against his lap, seeming to have reached a decision.
 
 Llyander nodded deferentially, silently congratulating the king on his insight.
 
-"Alas, your escort's efforts are for naught." Then the king's face became softer. He held up the heavy scroll. "But this is not nothing," he said. "We made a treaty with Ajax to deliver unto him any artifacts our search teams discover from the ruins of this city. He benefits from this bargain more than we. But this, methinks, will stay with us. It was written by my grandmother's grandmother in the youth of the world, and there are some things which must be denied the Iron Saint, even should they violate the treaty."
+"Alas, your escort's efforts are for naught." Then the king's face became softer. He held up the heavy scroll. "But this is not nothing," he said. "We made a treaty with Ajax to deliver unto him any artifacts our search teams discover from the ruins of this city. He benefits from this bargain more than we. But this, methinks, will stay with us. It was written by my grandmother's grandmother in the youth of the world, and there are some things which must be denied the Iron [Saint](../rule/world/saint.md), even should they violate the treaty."
 
 Llyander turned to the children and smiled brilliantly, eyebrows waggling in a show of glee. Wenna and Credan couldn't help but smile. "Well, you see children?" Llyander said. "We only have *more* to do, not everything to do."
 
@@ -93,11 +93,11 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Hig
 
 #### Glamor of Terror {data-scc="mcdm.heroes.v1/feature.trait.high-elf/glamor-of-terror"}
 
-When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a [triggered action](../rule/combat/triggered-action.md) to make that creature [frightened](../condition/frightened.md) of you until the end of their next turn.
+When a foe strikes, you reverse the magic of your glamor to instill fear into their heart. Whenever you take damage from a creature, you can use a [triggered action](../rule/combat/triggered-action.md) to make that creature [frightened](../condition/frightened.md) of you until the end of their next [turn](../rule/combat/turn.md).
 
 #### Graceful Retreat {data-scc="mcdm.heroes.v1/feature.trait.high-elf/graceful-retreat"}
 
-You gain a +1 bonus to the [distance](../rule/combat/distance.md) you can shift when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
+You gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) you can shift when you take the [Disengage](../feature/common/move-actions/disengage.md) move action.
 
 #### High Senses {data-scc="mcdm.heroes.v1/feature.trait.high-elf/high-senses"}
 

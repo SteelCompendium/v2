@@ -8,13 +8,13 @@ type: perk
 
 ---
 
-A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your [familiar](familiar.md)—or to adopt you as their [familiar](familiar.md).
+A [supernatural](../rule/general/supernatural.md) spirit who has taken the form of a specific small animal or animated object has chosen to be your [familiar](familiar.md)—or to adopt you as their [familiar](familiar.md).
 
 The spirit uses the [familiar](familiar.md) stat block.
 
 The [familiar](familiar.md) can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
 
-If your [familiar](familiar.md) is destroyed, you can restore them as a [respite](../rule/resource/respite.md) activity, or by spending a [Recovery](../rule/health/recoveries.md) as a main action to bring them back into existence in an unoccupied space adjacent to you.
+If your [familiar](familiar.md) is destroyed, you can restore them as a [respite](../rule/resource/respite.md) activity, or by spending a [Recovery](../rule/health/recoveries.md) as a main action to bring them back into existence in an unoccupied space [adjacent](../rule/combat/adjacent.md) to you.
 
 ### Familiar Statblock
 

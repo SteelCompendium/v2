@@ -2,12 +2,12 @@
 action_type: Maneuver
 class: troubadour
 cost: 9 Drama
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 effect: The target gains 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md). Until the end of the encounter, whenever the target takes damage while you're within [distance](../../../../rule/combat/distance.md), you can choose to take the damage instead of the target.
 flavor: You play a small ditty that plants you inside your target's heart.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "5"
 name: Love Song
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-5/love-song
@@ -29,9 +29,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Drama</div></div>
 </div>
 <p class="sc-ability__flavor">You play a small ditty that plants you inside your target&#39;s heart.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">

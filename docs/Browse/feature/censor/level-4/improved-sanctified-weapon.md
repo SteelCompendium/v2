@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The weapon improved by your <a href="../../level-1/sanctified-weapon/">Sanctified Weapon</a> feature grants a +3 bonus to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> instead of +1.</p>
+<p>The weapon improved by your <a href="../../level-1/sanctified-weapon/">Sanctified Weapon</a> feature grants a +3 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/damage/rolled-damage/">rolled damage</a> instead of +1.</p>
 </div>
 </section>

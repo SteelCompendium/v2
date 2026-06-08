@@ -32,18 +32,18 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Revitalizing plants and jagged stones grow, helping allies and hindering foes.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the area gains the following effects:</p><ul><li>Once as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> at the start of your turn, you allow yourself and each ally in the area to spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>.</li><li>The area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</li><li>Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</li></ul></div>
+<div class="sc-ability__section-body"><p>Until the start of your next <a href="../../../../rule/combat/turn/">turn</a>, the area gains the following effects:</p><ul><li>Once as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> at the start of your <a href="../../../../rule/combat/turn/">turn</a>, you allow yourself and each ally in the area to spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>.</li><li>The area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies.</li><li>Each enemy who enters the area for the first time in a <a href="../../../../rule/combat/combat-round/">combat round</a> or starts their turn there takes damage equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</li></ul></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your <a href="../../../../rule/combat/line-of-effect/">line of effect</a>.</p></div>
+<div class="sc-ability__section-body"><p>The area remains until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your <a href="../../../../rule/combat/line-of-effect/">line of effect</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -56,9 +56,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Fungal spores sprout inside your enemy&#39;s brain, allowing you to control their actions.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Void</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Void</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -76,14 +76,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your ally disappears, then reappears in a burst of fire.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">Void</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">Void</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is <a href="../../../../movement/teleport/">teleport</a>ed to another space within <a href="../../../../rule/combat/distance/">distance</a>. Make a <a href="../../../../rule/dice/power-roll/">power roll</a> that affects each enemy adjacent to the target&#39;s new space.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 3 fire damage</li><li><b>12-16:</b> 5 fire damage</li><li><b>17+:</b> 8 fire damage</li></ul></div>
+<div class="sc-ability__section-body"><p>The target is <a href="../../../../movement/teleport/">teleport</a>ed to another space within <a href="../../../../rule/combat/distance/">distance</a>. Make a <a href="../../../../rule/dice/power-roll/">power roll</a> that affects each enemy <a href="../../../../rule/combat/adjacent/">adjacent</a> to the target&#39;s new space.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 3 fire damage</li><li><b>12-16:</b> 5 fire damage</li><li><b>17+:</b> 8 fire damage</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -96,9 +96,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Wrap them up in fire and melting stone.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">

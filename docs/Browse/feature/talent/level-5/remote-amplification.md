@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The <a href="../../../../rule/combat/distance/">distance</a> of your ranged psionic abilities increases by 5. Additionally, the range of your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature increases to 1 mile.</p>
+<p>The <a href="../../../../rule/combat/distance/">distance</a> of your <a href="../../../../rule/combat/ranged/">ranged</a> psionic abilities increases by 5. Additionally, the range of your <a href="../../level-1/telepathic-speech/">Telepathic Speech</a> feature increases to 1 mile.</p>
 </div>
 </section>

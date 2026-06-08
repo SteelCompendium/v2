@@ -19,9 +19,9 @@ Your mother and father never saw eye to eye. You know this because your father i
 >
 > *Your looks don't kill—they petrify.*
 >
-> | **Magic, Ranged, [Strike](../rule/combat/strike.md)** |     **Main action** |
+> | **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
 > |---------------------------|--------------------:|
-> | **📏 Ranged 10**          | **🎯 One creature** |
+> | **📏 [Ranged](../rule/combat/ranged.md) 10**          | **🎯 One creature** |
 >
 > **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Presence](../rule/character/presence.md):**
 >

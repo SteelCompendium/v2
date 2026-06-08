@@ -75,11 +75,11 @@ During battles, you are fueled by the dynamic ups, downs, and upside downs of th
 
 #### Drama in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain drama equal to your [Victories](../rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 drama.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../rule/combat/combat-round.md) (as determined by the Director), you gain drama equal to your [Victories](../rule/resource/victories.md). At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 1d3 drama.
 
 Additionally, you gain drama when certain events occur during a combat encounter:
 
-- The first time three or more heroes use an ability on the same turn, you gain 2 drama.
+- The first time three or more heroes use an ability on the same [turn](../rule/combat/turn.md), you gain 2 drama.
 - The first time any hero is made [winded](../rule/health/winded.md) during the encounter, you gain 2 drama.
 - Whenever a creature within your [line of effect](../rule/combat/line-of-effect.md) rolls a [natural 19 or 20](../rule/dice/natural-19-20.md), you gain 3 drama.
 - When you or another hero dies, you gain 10 drama.
@@ -116,7 +116,7 @@ You can have a number of bonds active equal to your level. When you form a bond 
 
 ### Routines {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/routines"}
 
-You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each combat round, as long as you are not [dazed](../condition/dazed.md), dead, or [surprised](../rule/combat/surprised.md), you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
+You enter every battle with a set of performance abilities at the ready. Performances are magical presentations (such as songs, dances, poems, or gymnastic feats) that your allies can participate in. These abilities have the Performance keyword. At the start of each [combat round](../rule/combat/combat-round.md), as long as you are not [dazed](../condition/dazed.md), dead, or [surprised](../rule/combat/surprised.md), you can either choose a new performance or maintain your current performance (no action required). Your performance lasts until you are unable to maintain it or until the end of the encounter.
 
 You start off with the [Choreography](../feature/ability/troubadour/level-1/choreography.md) and [Revitalizing Limerick](../feature/ability/troubadour/level-1/revitalizing-limerick.md) performance abilities. Your choice of class act grants you additional performances.
 
@@ -129,18 +129,18 @@ You start off with the [Choreography](../feature/ability/troubadour/level-1/chor
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area gains a +2 bonus to [speed](../rule/character/speed.md) until the end of their turn.
+**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) in the area gains a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of their [turn](../rule/combat/turn.md).
 
 #### Revitalizing Limerick {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/revitalizing-limerick"}
 
 
-*There once was a man from Capital...*
+*There once was a man from [Capital](../rule/world/capital.md)...*
 
 | **Area, Magic, Performance** |                         **No action** |
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../rule/health/recoveries.md).
+**Effect:** At the end of each of your [turns](../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../rule/character/presence.md) score. Each chosen target can spend a [Recovery](../rule/health/recoveries.md).
 
 ### 1st-Level Class Act Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/1st-level-class-act-features"}
 
@@ -167,7 +167,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one [test](../rule/test/test.md) made to jump, tumble, or climb as part of their movement before the end of their turn.
+**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) in the area can automatically obtain a tier 3 outcome on one [test](../rule/test/test.md) made to jump, tumble, or climb as part of their movement before the end of their [turn](../rule/combat/turn.md).
 
 #### Blocking {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/blocking"}
 
@@ -182,7 +182,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|---------------------------------:|
 | **📏 2 [aura](../rule/combat/aura.md)**                | **🎯 Each creature in the area** |
 
-**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your [Presence](../rule/character/presence.md) score and [teleport](../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../rule/health/dying.md), or result in them suffering a condition or other negative effect.
+**Effect:** At the end of each of your [turns](../rule/combat/turn.md) while this performance is active, you can choose up to a number of targets equal to your [Presence](../rule/character/presence.md) score and [teleport](../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../rule/health/dying.md), or result in them suffering a [condition](../rule/combat/condition.md) or other negative effect.
 
 #### Dramatic Monologue {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/dramatic-monologue"}
 
@@ -193,15 +193,15 @@ You have the following ability.
 
 *It doesn't need to make sense. Just say it with emotion.*
 
-| **Magic, Ranged** |   **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |   **Maneuver** |
 |-------------------|---------------:|
-| **📏 Ranged 10**  | **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Special** |
 
 **Effect:** Choose one of the following effects:
 
-- You orate a rousing tale of [victory](../rule/resource/victories.md). One ally within [distance](../rule/combat/distance.md) gains an [edge](../rule/dice/edge.md) on the next [power roll](../rule/dice/power-roll.md) they make before the start of your next turn.
+- You orate a rousing tale of [victory](../rule/resource/victories.md). One ally within [distance](../rule/combat/distance.md) gains an [edge](../rule/dice/edge.md) on the next [power roll](../rule/dice/power-roll.md) they make before the start of your next [turn](../rule/combat/turn.md).
 - You weave a tale of high-stakes heroics. One ally within [distance](../rule/combat/distance.md) gains 1 [surge](../rule/resource/surge.md).
-- You insult a foe where they're most vulnerable. One enemy within [distance](../rule/combat/distance.md) takes a [bane](../rule/dice/bane.md) on the next [power roll](../rule/dice/power-roll.md) they make before the end of their next turn.
+- You insult a foe where they're most vulnerable. One enemy within [distance](../rule/combat/distance.md) takes a [bane](../rule/dice/bane.md) on the next [power roll](../rule/dice/power-roll.md) they make before the end of their next [turn](../rule/combat/turn.md).
 
 **Spend 1 Drama:** You can choose two targets for the chosen effect.
 
@@ -237,9 +237,9 @@ You have the following ability.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You gain a +2 bonus to [speed](../rule/character/speed.md) until the end of your turn. Additionally, the next [power roll](../rule/dice/power-roll.md) you make this turn can't have an outcome lower than tier 2.
+**Effect:** You gain a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of your [turn](../rule/combat/turn.md). Additionally, the next [power roll](../rule/dice/power-roll.md) you make this [turn](../rule/combat/turn.md) can't have an outcome lower than tier 2.
 
-**Spend 1 Drama:** You gain a +4 bonus to [speed](../rule/character/speed.md) instead.
+**Spend 1 Drama:** You gain a +4 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) instead.
 
 #### Virtuoso Performances {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/virtuoso-performances"}
 
@@ -250,11 +250,11 @@ You have the following performance abilities, which are usable with your [Routin
 
 *All for thunder motherrr! ♪ Run and hide for coverrr!♪*
 
-| **Magic, Performance, Ranged, [Strike](../rule/combat/strike.md)** |       **No action** |
+| **Magic, Performance, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |       **No action** |
 |----------------------------------------|--------------------:|
-| **📏 Ranged 10**                       | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                       | **🎯 One creature** |
 
-**Effect:** At the end of each combat round while this performance is active, you can make a [power roll](../rule/dice/power-roll.md) against the target that ignores [cover](../rule/combat/cover.md). You can't target the same creature twice with this effect.
+**Effect:** At the end of each [combat round](../rule/combat/combat-round.md) while this performance is active, you can make a [power roll](../rule/dice/power-roll.md) against the target that ignores [cover](../rule/combat/cover.md). You can't target the same creature twice with this effect.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -271,7 +271,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area gains 1 [surge](../rule/resource/surge.md).
+**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) in the area gains 1 [surge](../rule/resource/surge.md).
 
 ### Class Act Triggered Action {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/class-act-triggered-action"}
 
@@ -290,9 +290,9 @@ Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.m
 
 *Give the chorus a little punch.*
 
-| **Ranged**      |   **Triggered** |
+| **[Ranged](../rule/combat/ranged.md)**      |   **Triggered** |
 |-----------------|----------------:|
-| **📏 Ranged 5** | **🎯 One ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 5** | **🎯 One ally** |
 
 **Trigger:** The target uses an ability that targets only one enemy and costs 3 or fewer of their [Heroic Resource](../rule/resource/heroic-resource.md).
 
@@ -305,11 +305,11 @@ Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.m
 
 *"I'd have brought treats had I known I'd be fighting a dog."*
 
-| **Melee**      |           **Triggered** |
+| **[Melee](../rule/combat/melee.md)**      |           **Triggered** |
 |----------------|------------------------:|
-| **📏 Melee 1** | **🎯 Self or one ally** |
+| **📏 [Melee](../rule/combat/melee.md) 1** | **🎯 Self or one ally** |
 
-**Trigger:** The target takes damage from a melee [strike](../rule/combat/strike.md).
+**Trigger:** The target takes damage from a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md).
 
 **Effect:** The target makes a [free strike](../feature/common/main-actions/free-strike.md) against the creature who made the triggering strike.
 
@@ -318,9 +318,9 @@ Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.m
 
 *All's fair in love and whatever.*
 
-| **Ranged**       |       **Triggered** |
+| **[Ranged](../rule/combat/ranged.md)**       |       **Triggered** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10** | **🎯 One creature** |
 
 **Trigger:** The target makes an [ability roll](../rule/dice/ability-roll.md) that has an [edge](../rule/dice/edge.md), a double [edge](../rule/dice/edge.md), a [bane](../rule/dice/bane.md), or a double [bane](../rule/dice/bane.md).
 
@@ -341,9 +341,9 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 
 *And they said practicing fencing was a waste!*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |                 **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |                 **Main action** |
 |---------------------------|--------------------------------:|
-| **📏 Melee 1**            | **🎯 Two creatures or objects** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 Two creatures or objects** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -360,9 +360,9 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 
 *There you are, radiating your usual charisma.*
 
-| **Magic, Ranged, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Ranged 10**                  | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**                  | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -375,9 +375,9 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 
 *I didn't do it! What?*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon**             | **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon**             | **Main action** |
 |---------------------------------------|----------------:|
-| **📏 Melee 1**                        | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**                        | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -385,16 +385,16 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 - **12-16:** 6 + P damage
 - **17+:** 9 + P damage
 
-**Effect:** The target is [taunted](../condition/taunted.md) by you or a willing ally adjacent to you until the end of the target's next turn.
+**Effect:** The target is [taunted](../condition/taunted.md) by you or a willing ally [adjacent](../rule/combat/adjacent.md) to you until the end of the target's next [turn](../rule/combat/turn.md).
 
 #### Witty Banter {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter"}
 
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
 
-| **Magic, Melee, Ranged, [Strike](../rule/combat/strike.md)** |     **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**       | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**       | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -402,7 +402,7 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 - **12-16:** 5 + P psychic damage
 - **17+:** 7 + P psychic damage
 
-**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their turn.
+**Effect:** One ally within 10 squares of you can end one effect on them that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of their [turn](../rule/combat/turn.md).
 
 **Spend 1 Drama:** The chosen ally can spend a [Recovery](../rule/health/recoveries.md).
 
@@ -419,9 +419,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Just one bad review will ruin their day.*
 
-| **Magic, Melee, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 10**      | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -429,7 +429,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 10 + P sonic damage
 - **17+:** 13 + P sonic damage
 
-**Effect:** The first time the target uses an ability before the start of your next turn, any effects from the ability's [tier outcomes](../rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the [power roll](../rule/dice/power-roll.md) work as usual.
+**Effect:** The first time the target uses an ability before the start of your next [turn](../rule/combat/turn.md), any effects from the ability's [tier outcomes](../rule/dice/tier-outcome.md) other than damage are negated for all targets. Ability effects that always happen regardless of the [power roll](../rule/dice/power-roll.md) work as usual.
 
 ##### Hypnotic Overtones {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones"}
 
@@ -453,7 +453,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You write something unexpected into the scene that hinders your enemy.*
 
-| **Area, Magic, Ranged**     |               **Main action** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)**     |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 3 [cube](../rule/combat/cube.md) within 10**     | **🎯 Each enemy in the area** |
 
@@ -470,11 +470,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** | **Maneuver** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** | **Maneuver** |
 |---------------------------|-------------:|
 | **📏 Self; see below**    |  **🎯 Self** |
 
-**Effect:** You [shift](../movement/shifting.md) up to your [speed](../rule/character/speed.md). You make one [power roll](../rule/dice/power-roll.md) that targets each enemy you move adjacent to during this [shift](../movement/shifting.md).
+**Effect:** You [shift](../movement/shifting.md) up to your [speed](../rule/character/speed.md). You make one [power roll](../rule/dice/power-roll.md) that targets each enemy you move [adjacent](../rule/combat/adjacent.md) to during this [shift](../movement/shifting.md).
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md) or [Presence](../rule/character/presence.md):**
 
@@ -510,7 +510,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to [speed](../rule/character/speed.md) and you ignore [difficult terrain](../movement/difficult-terrain.md). The illusion and your invisibility last until the end of your next turn, or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.
+**Effect:** You [turn](../rule/combat/turn.md) invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) and you ignore [difficult terrain](../movement/difficult-terrain.md). The illusion and your invisibility last until the end of your next [turn](../rule/combat/turn.md), or until the illusion is interacted with, you take damage, or you use a main action or a maneuver.
 
 ##### Flip the Script {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/flip-the-script"}
 
@@ -528,9 +528,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *They're so hurt by your performance, you start to believe it yourself.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -548,7 +548,7 @@ As a 2nd-level [troubadour](troubadour.md), you gain the following features.
 
 You can give a rousing speech, invoke your inspirations, or lift your fellows' spirits, appealing to the muses to heighten a battle's drama. However, irony is eager to hand your fortune to the villain to achieve the same end.
 
-Before you roll to gain drama at the start of your turn, you can make your appeal (no action required). If you do, your roll gains the following additional effects:
+Before you roll to gain drama at the start of your [turn](../rule/combat/turn.md), you can make your appeal (no action required). If you do, your roll gains the following additional effects:
 
 - If the roll is a 1, you gain 1 additional drama. The Director gains 1d3 Malice (see *Draw Steel: Monsters*).
 - If the roll is a 2, you gain 1 [Heroic Resource](../rule/resource/heroic-resource.md), which you can keep or give to an ally within the [distance](../rule/combat/distance.md) of your active performance. The Director gains 1 Malice.
@@ -560,13 +560,13 @@ You have a specific manner that helps define your presence on the battlefield. C
 
 #### Allow Me to Introduce Tonight's Players {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/allow-me-to-introduce-tonights-players"}
 
-Whenever you take the first turn in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can [shift](../movement/shifting.md) up to their [speed](../rule/character/speed.md), and [ability rolls](../rule/dice/ability-roll.md) made against them have a double [bane](../rule/dice/bane.md) until the end of the combat round. Additionally, any [surprised](../rule/combat/surprised.md) enemy is no longer [surprised](../rule/combat/surprised.md).
+Whenever you take the first [turn](../rule/combat/turn.md) in a combat encounter, you can use a main action to introduce yourself and your allies to your opponents. Each ally can [shift](../movement/shifting.md) up to their [speed](../rule/character/speed.md), and [ability rolls](../rule/dice/ability-roll.md) made against them have a double [bane](../rule/dice/bane.md) until the end of the [combat round](../rule/combat/combat-round.md). Additionally, any [surprised](../rule/combat/surprised.md) enemy is no longer [surprised](../rule/combat/surprised.md).
 
 #### Formal Introductions {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/formal-introductions"}
 
 As a [respite](../rule/resource/respite.md) activity, you can scribe a notice of your arrival (such as a calling card or a formal letter) addressed to an enemy. You can deliver the notice to the target personally if you are in the same general area, send it by courier, or leave it in a covert location for the target to find. You can have only one notice active at a time.
 
-The Director determines when the target receives your notice. When the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per combat round during encounters involving the target. The heroes start each such encounter with 2 additional [hero tokens](../rule/resource/hero-token.md) (Chapter 1: [The Basics](../../Read/heroes/the-basics.md)). These [hero tokens](../rule/resource/hero-token.md) disappear at the end of the encounter.
+The Director determines when the target receives your notice. When the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per [combat round](../rule/combat/combat-round.md) during encounters involving the target. The heroes start each such encounter with 2 additional [hero tokens](../rule/resource/hero-token.md) (Chapter 1: [The Basics](../../Read/heroes/the-basics.md)). These [hero tokens](../rule/resource/hero-token.md) disappear at the end of the encounter.
 
 #### My Reputation Precedes Me {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/my-reputation-precedes-me"}
 
@@ -576,7 +576,7 @@ The Director can award the heroes 1 [hero token](../rule/resource/hero-token.md)
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
+You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice. See Chapter 7: [Perks](../../Read/heroes/perks.md).
 
 ### 2nd-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/2nd-level-class-act-ability"}
 
@@ -591,22 +591,22 @@ Choose one of the following abilities.
 
 *We offered them a percentage of the gross. So they're working for free!*
 
-| **Magic, Ranged** | **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** | **Main action** |
 |-------------------|----------------:|
-| **📏 Ranged 10**  |  **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  |  **🎯 Special** |
 
-**Effect:** A [guest star](../feature/ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within [distance](../rule/combat/distance.md) uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within [distance](../rule/combat/distance.md). This [guest star](../feature/ability/troubadour/level-2/guest-star.md) is controlled by you, has their own turn, and shares your [characteristics](../rule/character/characteristic.md). Their [Stamina](../rule/health/stamina.md) maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../feature/common/main-actions/free-strike.md). At the end of the encounter, or when the [guest star](../feature/ability/troubadour/level-2/guest-star.md) is reduced to 0 [Stamina](../rule/health/stamina.md), they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
+**Effect:** A [guest star](../feature/ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within [distance](../rule/combat/distance.md) uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within [distance](../rule/combat/distance.md). This [guest star](../feature/ability/troubadour/level-2/guest-star.md) is controlled by you, has their own [turn](../rule/combat/turn.md), and shares your [characteristics](../rule/character/characteristic.md). Their [Stamina](../rule/health/stamina.md) maximum is half yours. They have no abilities other than your [melee](../rule/combat/melee.md) and [ranged](../rule/combat/ranged.md) [free strikes](../feature/common/main-actions/free-strike.md). At the end of the encounter, or when the [guest star](../feature/ability/troubadour/level-2/guest-star.md) is reduced to 0 [Stamina](../rule/health/stamina.md), they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
 
 ##### Twist at the End {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/twist-at-the-end"}
 
 
 *You didn't see that coming, did you?!*
 
-| **Magic, Ranged** |       **Main action** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |       **Main action** |
 |-------------------|----------------------:|
-| **📏 Ranged 10**  | **🎯 One dead enemy** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 One dead enemy** |
 
-**Effect:** A target who is not a leader or solo creature comes back to life with half their [Stamina](../rule/health/stamina.md) and becomes an ally under the Director's control. The players can work with the Director to determine when the target takes their turn each combat round. At the end of the encounter, the target turns to dust and is blown away.
+**Effect:** A target who is not a leader or solo creature comes back to life with half their [Stamina](../rule/health/stamina.md) and becomes an ally under the Director's control. The players can work with the Director to determine when the target takes their [turn](../rule/combat/turn.md) each [combat round](../rule/combat/combat-round.md). At the end of the encounter, the target turns to dust and is blown away.
 
 #### 2nd-Level Duelist Ability
 
@@ -617,20 +617,20 @@ Choose one of the following abilities.
 
 *Audiences love this bit.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |                  **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |                  **Main action** |
 |---------------------------|---------------------------------:|
-| **📏 Melee 1**            | **🎯 Self and one willing ally** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 Self and one willing ally** |
 
-**Effect:** Each target can [shift](../movement/shifting.md) up to 5 squares, including vertically, but must end this movement adjacent to the other target and on solid ground. Each target can then make a melee [free strike](../feature/common/main-actions/free-strike.md) that deals extra damage equal to twice their highest [characteristic](../rule/character/characteristic.md) score.
+**Effect:** Each target can [shift](../movement/shifting.md) up to 5 squares, including vertically, but must end this movement [adjacent](../rule/combat/adjacent.md) to the other target and on solid ground. Each target can then make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) that deals extra damage equal to twice their highest [characteristic](../rule/character/characteristic.md) score.
 
 ##### En Garde! {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/en-garde"}
 
 
-*Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*
+*Wait, it's... Guard! [Turn](../rule/combat/turn.md)! Parry! Dodge! Spin! Thrust! Ha!*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -638,7 +638,7 @@ Choose one of the following abilities.
 - **12-16:** 11 + **A** damage
 - **17+:** 16 + **A** damage
 
-**Effect:** The target can make a melee [free strike](../feature/common/main-actions/free-strike.md) against you. If they do, you can make a melee [free strike](../feature/common/main-actions/free-strike.md) against the target.
+**Effect:** The target can make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) against you. If they do, you can make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) against the target.
 
 #### 2nd-Level Virtuoso Ability
 
@@ -653,18 +653,18 @@ Choose one of the following abilities.
 |-------------------|----------------:|
 | **📏 Special**    |  **🎯 Special** |
 
-**Effect:** You use an ability that you have observed being used this combat round. The ability must have the [Strike](../rule/combat/strike.md) keyword, cost 5 or fewer of a [Heroic Resource](../rule/resource/heroic-resource.md), and cost no Malice. When you make the [strike](../rule/combat/strike.md), you use your [Presence](../rule/character/presence.md) score for any [power rolls](../rule/dice/power-roll.md), and any damage you deal is sonic damage.
+**Effect:** You use an ability that you have observed being used this [combat round](../rule/combat/combat-round.md). The ability must have the [Strike](../rule/combat/strike.md) keyword, cost 5 or fewer of a [Heroic Resource](../rule/resource/heroic-resource.md), and cost no Malice. When you make the [strike](../rule/combat/strike.md), you use your [Presence](../rule/character/presence.md) score for any [power rolls](../rule/dice/power-roll.md), and any damage you deal is sonic damage.
 
 ##### Tough Crowd {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/tough-crowd"}
 
 
 *Your fans don't seem to like the opening act...*
 
-| **Area, Magic, Ranged** | **Main action** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)** | **Main action** |
 |-------------------------|----------------:|
 | **📏 3 [cube](../rule/combat/cube.md) within 10** |  **🎯 Special** |
 
-**Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one [power roll](../rule/dice/power-roll.md) that targets each enemy in the area.
+**Effect:** The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your [turns](../rule/combat/turn.md), you can make one [power roll](../rule/dice/power-roll.md) that targets each enemy in the area.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -690,11 +690,11 @@ Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.m
 
 #### Foil {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/foil"}
 
-At the start of an encounter, choose one creature within your [line of effect](../rule/combat/line-of-effect.md). You have a double [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md) made against or in competition with that creature. The chosen creature also has a double [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md) made against or in competition with you. If the chosen creature is reduced to 0 [Stamina](../rule/health/stamina.md), you can choose a new foil at the start of the next combat round.
+At the start of an encounter, choose one creature within your [line of effect](../rule/combat/line-of-effect.md). You have a double [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md) made against or in competition with that creature. The chosen creature also has a double [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md) made against or in competition with you. If the chosen creature is reduced to 0 [Stamina](../rule/health/stamina.md), you can choose a new foil at the start of the next [combat round](../rule/combat/combat-round.md).
 
 #### Missed Cue {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/missed-cue"}
 
-If you aren't [surprised](../rule/combat/surprised.md) at the start of an encounter, you can choose one enemy within your [line of effect](../rule/combat/line-of-effect.md) who is not a leader or solo creature. The Director temporarily removes the chosen creature from the encounter. The chosen creature enters the encounter at the start of the second combat round. You must earn 3 [Victories](../rule/resource/victories.md) before you can use this feature again.
+If you aren't [surprised](../rule/combat/surprised.md) at the start of an encounter, you can choose one enemy within your [line of effect](../rule/combat/line-of-effect.md) who is not a leader or solo creature. The Director temporarily removes the chosen creature from the encounter. The chosen creature enters the encounter at the start of the second [combat round](../rule/combat/combat-round.md). You must earn 3 [Victories](../rule/resource/victories.md) before you can use this feature again.
 
 #### Second Album {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/second-album"}
 
@@ -709,7 +709,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area doesn't take a [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against creatures with [concealment](../rule/combat/concealment.md). Once during their turn, they can search for hidden creatures as a [free maneuver](../rule/combat/free-maneuver.md) (see Hide and Sneak in Chapter 9: [Tests](../../Read/heroes/tests.md)).
+**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) in the area doesn't take a [bane](../rule/dice/bane.md) on [strikes](../rule/combat/strike.md) against creatures with [concealment](../rule/combat/concealment.md). Once during their [turn](../rule/combat/turn.md), they can search for hidden creatures as a [free maneuver](../rule/combat/free-maneuver.md) (see Hide and Sneak in Chapter 9: [Tests](../../Read/heroes/tests.md)).
 
 ##### "Never-Ending Hero" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/never-ending-hero"}
 
@@ -720,7 +720,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn [dying](../rule/health/dying.md) while in the area gains an [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md) and ignores the effects of [bleeding](../condition/bleeding.md) until the end of their turn.
+**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) [dying](../rule/health/dying.md) while in the area gains an [edge](../rule/dice/edge.md) on [power rolls](../rule/dice/power-roll.md) and ignores the effects of [bleeding](../condition/bleeding.md) until the end of their [turn](../rule/combat/turn.md).
 
 ### 7-Drama Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/7-drama-ability"}
 
@@ -748,7 +748,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *A spicy performance lights a fire under your allies' feet.*
 
-| **Area, Magic, Melee, Weapon** |               **Main action** |
+| **Area, Magic, [Melee](../rule/combat/melee.md), Weapon** |               **Main action** |
 |--------------------------------|------------------------------:|
 | **📏 3 [burst](../rule/combat/burst.md)**                 | **🎯 Each enemy in the area** |
 
@@ -765,9 +765,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Your performance travels and doesn't stop moving until your audience is completely rocked.*
 
-| **Magic, Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |------------------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10**              | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 10**              | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -775,20 +775,20 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 8 + P damage; push 3
 - **17+:** 11 + P damage; push 5
 
-**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 combat rounds without spending drama.
+**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 [combat rounds](../rule/combat/combat-round.md) without spending drama.
 
 #### We Meet at Last {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/we-meet-at-last"}
 
 
 *You magically intertwine your fate with another creature—for better or worse.*
 
-| **Magic, Ranged** |        **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |        **Maneuver** |
 |-------------------|--------------------:|
-| **📏 Ranged 10**  | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 One creature** |
 
 **Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond [distance](../rule/combat/distance.md), with the [distance](../rule/combat/distance.md) of this ability replacing those abilities' [distances](../rule/combat/distance.md). The target can't be [force moved](../movement/forced-movement.md) by an ability used beyond [distance](../rule/combat/distance.md) this way.
 
-Additionally, once on each of your turns, you can use a [free maneuver](../rule/combat/free-maneuver.md) to communicate a motivating or dispiriting message to the target, either granting them 2 [surges](../rule/resource/surge.md) or forcing them to take a [bane](../rule/dice/bane.md) on the next [ability roll](../rule/dice/ability-roll.md) they make before the start of your next turn.
+Additionally, once on each of your [turns](../rule/combat/turn.md), you can use a [free maneuver](../rule/combat/free-maneuver.md) to communicate a motivating or dispiriting message to the target, either granting them 2 [surges](../rule/resource/surge.md) or forcing them to take a [bane](../rule/dice/bane.md) on the next [ability roll](../rule/dice/ability-roll.md) they make before the start of your next [turn](../rule/combat/turn.md).
 
 ## 4th-Level Features
 
@@ -852,7 +852,7 @@ Choose one of the following features.
 
 ##### Fix It in Post
 
-Once on each of your turns, you can use a [free maneuver](../rule/combat/free-maneuver.md) to change one condition affecting a creature within [distance](../rule/combat/distance.md) of your [Dramatic Monologue](../feature/ability/troubadour/level-1/dramatic-monologue.md) ability. Choose one of the following conditions on the target: [bleeding](../condition/bleeding.md), [frightened](../condition/frightened.md)[, prone](../condition/prone.md), [slowed](../condition/slowed.md), or [taunted](../condition/taunted.md). You change that condition to another of those conditions, maintaining the duration and origin of the original condition. A target who is no longer prone can stand up.
+Once on each of your [turns](../rule/combat/turn.md), you can use a [free maneuver](../rule/combat/free-maneuver.md) to change one [condition](../rule/combat/condition.md) affecting a creature within [distance](../rule/combat/distance.md) of your [Dramatic Monologue](../feature/ability/troubadour/level-1/dramatic-monologue.md) ability. Choose one of the following [conditions](../rule/combat/condition.md) on the target: [bleeding](../condition/bleeding.md), [frightened](../condition/frightened.md)[, prone](../condition/prone.md), [slowed](../condition/slowed.md), or [taunted](../condition/taunted.md). You change that [condition](../rule/combat/condition.md) to another of those [conditions](../rule/combat/condition.md), maintaining the duration and origin of the original [condition](../rule/combat/condition.md). A target who is no longer prone can stand up.
 
 ##### Take Two!
 
@@ -867,7 +867,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area can reroll the first [power roll](../rule/dice/power-roll.md) that turn that obtains a tier 2 outcome. They must use the new roll.
+**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) in the area can reroll the first [power roll](../rule/dice/power-roll.md) that [turn](../rule/combat/turn.md) that obtains a tier 2 outcome. They must use the new roll.
 
 #### Duelist Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/duelist-features"}
 
@@ -875,7 +875,7 @@ Choose one of the following features.
 
 ##### Verbal Duel
 
-Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a [free maneuver](../rule/combat/free-maneuver.md) to exchange words with them. Make an opposed [Presence](../rule/character/presence.md) [test](../rule/test/test.md) with the target. Whoever gets the higher result can make a [free strike](../feature/common/main-actions/free-strike.md), which deals psychic damage instead of its usual damage.
+Once on each of your [turns](../rule/combat/turn.md) while the target of your Foil feature is [adjacent](../rule/combat/adjacent.md) to you, you can use a [free maneuver](../rule/combat/free-maneuver.md) to exchange words with them. Make an opposed [Presence](../rule/character/presence.md) [test](../rule/test/test.md) with the target. Whoever gets the higher result can make a [free strike](../feature/common/main-actions/free-strike.md), which deals psychic damage instead of its usual damage.
 
 ##### We Can't Be Upstaged!
 
@@ -890,7 +890,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, a target who starts their turn in the area gains a bonus to the [distance](../rule/combat/distance.md) they can [shift](../movement/shifting.md) equal to your [Presence](../rule/character/presence.md) score until the end of their turn.
+**Effect:** While this performance is active, a target who starts their [turn](../rule/combat/turn.md) in the area gains a [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) they can [shift](../movement/shifting.md) equal to your [Presence](../rule/character/presence.md) score until the end of their [turn](../rule/combat/turn.md).
 
 #### Virtuoso Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-5/virtuoso-features"}
 
@@ -898,7 +898,7 @@ Choose one of the following features.
 
 ##### Bolstering Banter
 
-Once on each of your turns, you can use a [free maneuver](../rule/combat/free-maneuver.md) to exchange words with a target of your current performance, other than yourself. The target can spend a [Recovery](../rule/health/recoveries.md) to gain [temporary Stamina](../rule/health/temporary-stamina.md) equal to their [recovery value](../rule/health/recoveries.md).
+Once on each of your [turns](../rule/combat/turn.md), you can use a [free maneuver](../rule/combat/free-maneuver.md) to exchange words with a target of your current performance, other than yourself. The target can spend a [Recovery](../rule/health/recoveries.md) to gain [temporary Stamina](../rule/health/temporary-stamina.md) equal to their [recovery value](../rule/health/recoveries.md).
 
 ##### Medley
 
@@ -913,7 +913,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You wield your weapon at blistering [speed](../rule/character/speed.md), leaving everyone around you fighting for their lives.*
 
-| **Area, Melee, Weapon** |               **Main action** |
+| **Area, [Melee](../rule/combat/melee.md), Weapon** |               **Main action** |
 |-------------------------|------------------------------:|
 | **📏 3 [burst](../rule/combat/burst.md)**          | **🎯 Each enemy in the area** |
 
@@ -930,20 +930,20 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Your subject is written into two places at once.*
 
-| **Magic, Ranged** |               **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |               **Maneuver** |
 |-------------------|---------------------------:|
-| **📏 Ranged 10**  | **🎯 One enemy or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 One enemy or object** |
 
-**Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within [distance](../rule/combat/distance.md). If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's [Stamina](../rule/health/stamina.md), is [weakened](../condition/weakened.md), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 [Stamina](../rule/health/stamina.md), the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current [Stamina](../rule/health/stamina.md).
+**Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within [distance](../rule/combat/distance.md). If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's [Stamina](../rule/health/stamina.md), is [weakened](../condition/weakened.md), and takes 1d6 corruption damage at the start of each of their [turns](../rule/combat/turn.md). If either entity is reduced to 0 [Stamina](../rule/health/stamina.md), the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current [Stamina](../rule/health/stamina.md).
 
 #### Love Song {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/love-song"}
 
 
 *You play a small ditty that plants you inside your target's heart.*
 
-| **Magic, Ranged** |                  **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |                  **Maneuver** |
 |-------------------|------------------------------:|
-| **📏 Ranged 10**  | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 One creature or object** |
 
 **Effect:** The target gains 20 [temporary Stamina](../rule/health/temporary-stamina.md). Until the end of the encounter, whenever the target takes damage while you're within [distance](../rule/combat/distance.md), you can choose to take the damage instead of the target.
 
@@ -952,15 +952,15 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Dazzle them with your fancy patter and they forget where they were.*
 
-| **Magic, Ranged** |   **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |   **Maneuver** |
 |-------------------|---------------:|
-| **📏 Ranged 10**  | **🎯 Special** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Special** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** One ally within [distance](../rule/combat/distance.md) can take their turn immediately after yours.
-- **12-16:** Two allies within [distance](../rule/combat/distance.md) can take their turns immediately after yours in any order.
-- **17+:** Three allies within [distance](../rule/combat/distance.md) can take their turns immediately after yours in any order. One of those allies can have already taken a turn this combat round.
+- **≤11:** One ally within [distance](../rule/combat/distance.md) can take their [turn](../rule/combat/turn.md) immediately after yours.
+- **12-16:** Two allies within [distance](../rule/combat/distance.md) can take their [turns](../rule/combat/turn.md) immediately after yours in any order.
+- **17+:** Three allies within [distance](../rule/combat/distance.md) can take their [turns](../rule/combat/turn.md) immediately after yours in any order. One of those allies can have already taken a [turn](../rule/combat/turn.md) this [combat round](../rule/combat/combat-round.md).
 
 ## 6th-Level Features
 
@@ -968,7 +968,7 @@ As a 6th-level [troubadour](troubadour.md), you gain the following features.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice.
+You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
 
 ### Spotlight {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/spotlight"}
 
@@ -983,7 +983,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area gains 1 of their [Heroic Resource](../rule/resource/heroic-resource.md). This [Heroic Resource](../rule/resource/heroic-resource.md) disappears at the end of the target's turn if they don't spend it.
+**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) in the area gains 1 of their [Heroic Resource](../rule/resource/heroic-resource.md). This [Heroic Resource](../rule/resource/heroic-resource.md) disappears at the end of the target's [turn](../rule/combat/turn.md) if they don't spend it.
 
 ### 6th-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/6th-level-class-act-ability"}
 
@@ -1017,7 +1017,7 @@ Choose one of the following abilities.
 |-----------------|-----------------------------:|
 | **📏 5 [burst](../rule/combat/burst.md)**  | **🎯 Each ally in the area** |
 
-**Effect:** Until the end of the encounter, each target gains the [speed](../rule/character/speed.md) bonus, weapon [distance](../rule/combat/distance.md) bonus, disengage bonus, and [stability](../rule/character/stability.md) bonus of your currently equipped kit in addition to their own kit's bonuses.
+**Effect:** Until the end of the encounter, each target gains the [speed](../rule/character/speed.md) [bonus](../rule/dice/bonuses-and-penalties.md), weapon [distance](../rule/combat/distance.md) [bonus](../rule/dice/bonuses-and-penalties.md), disengage [bonus](../rule/dice/bonuses-and-penalties.md), and [stability](../rule/character/stability.md) [bonus](../rule/dice/bonuses-and-penalties.md) of your currently equipped kit in addition to their own kit's [bonus](../rule/dice/bonuses-and-penalties.md)es.
 
 #### 6th-Level Duelist Abilities
 
@@ -1028,9 +1028,9 @@ Choose one of the following abilities.
 
 *It's love and blood or drama and blood. Either way, there's always blood.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -1043,11 +1043,11 @@ Choose one of the following abilities.
 
 *You and your partner make a flashy show of derring-do, then get back to your corners.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
-**Effect:** You and the target each make a melee [free strike](../feature/common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../feature/common/main-actions/free-strike.md) targets and which enemies the target creature's [free strike](../feature/common/main-actions/free-strike.md) targets. You then slide the target 5 squares, ignoring [stability](../rule/character/stability.md).
+**Effect:** You and the target each make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../feature/common/main-actions/free-strike.md) targets and which enemies the target creature's [free strike](../feature/common/main-actions/free-strike.md) targets. You then slide the target 5 squares, ignoring [stability](../rule/character/stability.md).
 
 #### 6th-Level Virtuoso Abilities
 
@@ -1079,7 +1079,7 @@ Choose one of the following abilities.
 |-----------------|--------------------------------------:|
 | **📏 4 [burst](../rule/combat/burst.md)**  | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target gains 1 [surge](../rule/resource/surge.md), then gains 1 [surge](../rule/resource/surge.md) at the start of each combat round until the end of the encounter.
+**Effect:** Each target gains 1 [surge](../rule/resource/surge.md), then gains 1 [surge](../rule/resource/surge.md) at the start of each [combat round](../rule/combat/combat-round.md) until the end of the encounter.
 
 ## 7th-Level Features
 
@@ -1093,11 +1093,11 @@ Each of your [characteristic](../rule/character/characteristic.md) scores increa
 
 You can use your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature to form a bond with one willing hero instead of an [NPC](../rule/general/npc.md) you interact with using a [test](../rule/test/test.md). If you bond with another hero, you lose your existing bond with a hero.
 
-Additionally, you and creatures you are bonded with gain a +1 bonus to [saving throws](../rule/general/saving-throw.md). Whenever you or a bonded creature succeeds on a [saving throw](../rule/general/saving-throw.md), you and each creature you are bonded with gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your level.
+Additionally, you and creatures you are bonded with gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [saving throws](../rule/general/saving-throw.md). Whenever you or a bonded creature succeeds on a [saving throw](../rule/general/saving-throw.md), you and each creature you are bonded with gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your level.
 
 ### A Muse's Muse {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/a-muses-muse"}
 
-At the start of each of your turns during combat, you gain 1d3 + 1 drama instead of 1d3.
+At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 1d3 + 1 drama instead of 1d3.
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/skill"}
 
@@ -1136,7 +1136,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|-----------------------------:|
 | **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Each ally in the area** |
 
-**Effect:** While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../rule/health/recoveries.md) or use [triggered actions](../rule/combat/triggered-action.md). At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
+**Effect:** While this performance is active, each target who is dead can choose to continue taking [turns](../rule/combat/turn.md) after death. On each of their [turns](../rule/combat/turn.md), a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../rule/health/recoveries.md) or use [triggered actions](../rule/combat/triggered-action.md). At the end of the encounter, each target who chose to take [turns](../rule/combat/turn.md) this way turns to dust and blows away.
 
 ##### Radical Fantasia {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/radical-fantasia"}
 
@@ -1147,7 +1147,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 [aura](../rule/combat/aura.md)**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area ignores [difficult terrain](../movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../movement/forced-movement.md) gains a +2 bonus to the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) until the end of their turn. Additionally, once per combat round, each target can use a [triggered action](../rule/combat/triggered-action.md) as a free [triggered action](../rule/combat/triggered-action.md).
+**Effect:** While this performance is active, each target who starts their [turn](../rule/combat/turn.md) in the area ignores [difficult terrain](../movement/difficult-terrain.md), and any ability they use that imposes [forced movement](../movement/forced-movement.md) gains a +2 [bonus](../rule/dice/bonuses-and-penalties.md) to the [forced movement](../movement/forced-movement.md) [distance](../rule/combat/distance.md) until the end of their [turn](../rule/combat/turn.md). Additionally, once per [combat round](../rule/combat/combat-round.md), each target can use a [triggered action](../rule/combat/triggered-action.md) as a free [triggered action](../rule/combat/triggered-action.md).
 
 #### Deleted Scene {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/deleted-scene"}
 
@@ -1172,16 +1172,16 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 [Stamina](../rule/health/stamina.md) using an ability, you can use a free [triggered action](../rule/combat/triggered-action.md) to [teleport](../movement/teleport.md) an ally within [distance](../rule/combat/distance.md) of that ability into the creature's space in a plume of rose petals. You or the [teleport](../movement/teleport.md)ed ally can then make a melee [free strike](../feature/common/main-actions/free-strike.md).
+**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 [Stamina](../rule/health/stamina.md) using an ability, you can use a free [triggered action](../rule/combat/triggered-action.md) to [teleport](../movement/teleport.md) an ally within [distance](../rule/combat/distance.md) of that ability into the creature's space in a plume of rose petals. You or the [teleport](../movement/teleport.md)ed ally can then make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md).
 
 #### Power Ballad {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/power-ballad"}
 
 
 *A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.*
 
-| **Magic, Ranged** |            **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  | **🎯 Self or one ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 Self or one ally** |
 
 **Effect:** Until the end of the encounter, whenever the target takes damage while [winded](../rule/health/winded.md), they can use a free [triggered action](../rule/combat/triggered-action.md) to deal half the damage they took to the source of the damage.
 
@@ -1194,19 +1194,19 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature or object, or enable a creature to spend a [Recovery](../rule/health/recoveries.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to give that creature or object one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending [Recoveries](../rule/health/recoveries.md) simultaneously, each target receives the same effect:
+**Effect:** Until the end of the encounter, whenever you deal [rolled damage](../rule/damage/rolled-damage.md) to a creature or object, or enable a creature to spend a [Recovery](../rule/health/recoveries.md), you can use a free [triggered action](../rule/combat/triggered-action.md) to give that creature or object one of the following effects until the start of your next [turn](../rule/combat/turn.md). If this ability is triggered by multiple targets taking damage or multiple creatures spending [Recoveries](../rule/health/recoveries.md) simultaneously, each target receives the same effect:
 
 - The target has [damage weakness](../rule/damage/damage-weakness.md) equal to your [Presence](../rule/character/presence.md) score against any magic, psionic, or weapon ability.
 - The target has [damage immunity](../rule/damage/damage-immunity.md) equal to your [Presence](../rule/character/presence.md) score.
-- The target has a bonus to [stability](../rule/character/stability.md) and a penalty to [speed](../rule/character/speed.md) equal to your [Presence](../rule/character/presence.md) score.
-- The target has a bonus to [speed](../rule/character/speed.md) and a penalty to [stability](../rule/character/stability.md) equal to your [Presence](../rule/character/presence.md) score.
+- The target has a [bonus](../rule/dice/bonuses-and-penalties.md) to [stability](../rule/character/stability.md) and a [penalty](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) equal to your [Presence](../rule/character/presence.md) score.
+- The target has a [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) and a [penalty](../rule/dice/bonuses-and-penalties.md) to [stability](../rule/character/stability.md) equal to your [Presence](../rule/character/presence.md) score.
 
 #### The Show Must Go On {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/the-show-must-go-on"}
 
 
 *You shine a bright light on the players on the stage and compel them to finish the performance.*
 
-| **Area, Magic, Ranged** | **Maneuver**                  |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)** | **Maneuver**                  |
 |-------------------------|-------------------------------|
 | **📏 5 [cube](../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 
@@ -1216,7 +1216,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 8 damage; P < AVERAGE, the target can't willingly leave the area (save ends)
 - **17+:** 12 damage; the target can't willingly leave the area ([EoT](../rule/combat/end-of-turn.md)); if P < STRONG, they can't willingly leave the area (save ends)
 
-**Effect:** Each ally within [distance](../rule/combat/distance.md) can't obtain lower than a tier 2 outcome on the next [test](../rule/test/test.md) they make before the start of your next turn.
+**Effect:** Each ally within [distance](../rule/combat/distance.md) can't obtain lower than a tier 2 outcome on the next [test](../rule/test/test.md) they make before the start of your next [turn](../rule/combat/turn.md).
 
 ## 9th-Level Features
 
@@ -1241,9 +1241,9 @@ Choose one of the following abilities.
 
 *Your story tells a tale of the villain's waning power and how the heroes rose to the occasion to stop them.*
 
-| **Magic, Melee, Ranged**    |        **Maneuver** |
+| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md)**    |        **Maneuver** |
 |-----------------------------|--------------------:|
-| **📏 Melee 1 or ranged 10** | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 10** | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -1256,13 +1256,13 @@ Choose one of the following abilities.
 ##### Rising Tension {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/rising-tension"}
 
 
-*You narrate the tension of the scene and put all hope into your protagonist to turn things around.*
+*You narrate the tension of the scene and put all hope into your protagonist to [turn](../rule/combat/turn.md) things around.*
 
-| **Magic, Ranged** |    **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |    **Maneuver** |
 |-------------------|----------------:|
-| **📏 Ranged 10**  | **🎯 One ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  | **🎯 One ally** |
 
-**Effect:** The target gains 3 of their [Heroic Resource](../rule/resource/heroic-resource.md), has a double [edge](../rule/dice/edge.md) on a [power roll](../rule/dice/power-roll.md) of their choice made during their next turn, is no longer [slowed](../condition/slowed.md) or [weakened](../condition/weakened.md) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+**Effect:** The target gains 3 of their [Heroic Resource](../rule/resource/heroic-resource.md), has a double [edge](../rule/dice/edge.md) on a [power roll](../rule/dice/power-roll.md) of their choice made during their next [turn](../rule/combat/turn.md), is no longer [slowed](../condition/slowed.md) or [weakened](../condition/weakened.md) if they were before, and can immediately take their [turn](../rule/combat/turn.md) after yours if they have not taken their [turn](../rule/combat/turn.md) already this round.
 
 #### 9th-Level Duelist Abilities
 
@@ -1273,9 +1273,9 @@ Choose one of the following abilities.
 
 *If you can land the [strike](../rule/combat/strike.md), the crowd goes wild.*
 
-| **Charge, Melee, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Charge, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
-| **📏 Melee 3**                    | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 3**                    | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -1290,17 +1290,17 @@ Choose one of the following abilities.
 
 *No, no. You don't die until the sequel.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **Effect:** Add your current [Stamina](../rule/health/stamina.md) to your target's current [Stamina](../rule/health/stamina.md), then you have half that total [Stamina](../rule/health/stamina.md) and the target has the remainder. If either of you would gain more [Stamina](../rule/health/stamina.md) this way than their [Stamina](../rule/health/stamina.md) maximum, the difference in [Stamina](../rule/health/stamina.md) between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more [Stamina](../rule/health/stamina.md) than your maximum this way. You then make a [power roll](../rule/dice/power-roll.md).
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** You and the target can each end one effect on yourselves that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of your turns.
-- **12-16:** You and the target can end any effects on yourselves that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of your turns.
-- **17+:** You can choose any of the current effects on you and the target that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of your turns, apply the chosen effects to the target, and end the rest.
+- **≤11:** You and the target can each end one effect on yourselves that is ended by a [saving throw](../rule/general/saving-throw.md) or that ends at the end of your [turns](../rule/combat/turn.md).
+- **12-16:** You and the target can end any effects on yourselves that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of your [turns](../rule/combat/turn.md).
+- **17+:** You can choose any of the current effects on you and the target that are ended by a [saving throw](../rule/general/saving-throw.md) or that end at the end of your [turns](../rule/combat/turn.md), apply the chosen effects to the target, and end the rest.
 
 #### 9th-Level Virtuoso Abilities
 
@@ -1321,16 +1321,16 @@ Choose one of the following abilities.
 - **12-16:** 11 sonic damage
 - **17+:** 15 sonic damage
 
-**Effect:** Each creature within [distance](../rule/combat/distance.md) gains a +5 bonus to [speed](../rule/character/speed.md) until the end of their next turn. While under this effect, each target must use their full movement during their turn.
+**Effect:** Each creature within [distance](../rule/combat/distance.md) gains a +5 [bonus](../rule/dice/bonuses-and-penalties.md) to [speed](../rule/character/speed.md) until the end of their next [turn](../rule/combat/turn.md). While under this effect, each target must use their full movement during their [turn](../rule/combat/turn.md).
 
 ##### Melt Their Faces {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/melt-their-faces"}
 
 
 *The power of music rips through the reality around the target and blows them away.*
 
-| **Magic, Melee, Ranged, [Strike](../rule/combat/strike.md)** |               **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 10**      | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
@@ -1366,7 +1366,7 @@ Whenever you obtain a success on a [test](../rule/test/test.md), each [NPC](../r
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/perk"}
 
-You gain one interpersonal, lore, or supernatural perk of your choice.
+You gain one interpersonal, lore, or [supernatural](../rule/general/supernatural.md) perk of your choice.
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/skill"}
 

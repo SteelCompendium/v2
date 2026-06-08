@@ -4,7 +4,7 @@ class: conduit
 cost: 7 Piety
 distance: 5 [burst](../../../../rule/combat/burst.md)
 effect: Each ally in the area can spend a [Recovery](../../../../rule/health/recoveries.md).
-flavor: Your saint grants your enemies a vision of pain and fills your allies with healing energy.
+flavor: Your [saint](../../../../rule/world/saint.md) grants your enemies a vision of pain and fills your allies with healing energy.
 keywords:
     - Area
     - Magic
@@ -28,7 +28,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">7</span> Piety</div></div>
 </div>
-<p class="sc-ability__flavor">Your saint grants your enemies a vision of pain and fills your allies with healing energy.</p>
+<p class="sc-ability__flavor">Your <a href="../../../../../rule/world/saint/">saint</a> grants your enemies a vision of pain and fills your allies with healing energy.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../../rule/combat/burst/">burst</a></div></div>

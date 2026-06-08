@@ -41,9 +41,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two creatures</div></div>
 </div>
 <div class="sc-ability__section">
@@ -65,14 +65,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">&#34;Try picking on someone my <a href="../../../../rule/character/size/">size</a>.&#34;</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a> directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, and you can make the following weapon <a href="../../../../rule/combat/strike/">strike</a> with a <a href="../../../../rule/combat/distance/">distance</a> of melee 1 against a creature.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 + R damage; R &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>12-16:</b> 3 + R damage; R &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>17+:</b> 4 + R damage; R &lt; STRONG, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li></ul></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a> directly toward an ally, ending <a href="../../../../rule/combat/adjacent/">adjacent</a> to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, and you can make the following weapon <a href="../../../../rule/combat/strike/">strike</a> with a <a href="../../../../rule/combat/distance/">distance</a> of <a href="../../../../rule/combat/melee/">melee</a> 1 against a creature.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 + R damage; R &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>12-16:</b> 3 + R damage; R &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>17+:</b> 4 + R damage; R &lt; STRONG, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li></ul></div>
 </div>
 </article>
 </div>
@@ -97,9 +97,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your enemy will think twice about attacking your friend.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -107,7 +107,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>One ally adjacent to the target can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
+<div class="sc-ability__section-body"><p>One ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to the target can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -120,9 +120,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You point out easy targets to your friends, allowing them to include more enemies in their attacks.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two creatures</div></div>
 </div>
 <div class="sc-ability__section">
@@ -156,9 +156,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You prioritize saving an ally over your own safety.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 5</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One enemy</div></div>
 </div>
 <div class="sc-ability__section">
@@ -167,7 +167,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your <a href="../../../../rule/character/speed/">speed</a> toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can&#39;t reach an adjacent square. The triggering ally can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> and gains 5 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> for each enemy you came adjacent to during the move. You then make a <a href="../../../../rule/dice/power-roll/">power roll</a> against the target.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> R &lt; WEAK, the target is <a href="../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li><li><b>12-16:</b> R &lt; AVERAGE, the target is <a href="../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li><li><b>17+:</b> R &lt; STRONG, the target is <a href="../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li></ul></div>
+<div class="sc-ability__section-body"><p>You move up to your <a href="../../../../rule/character/speed/">speed</a> toward the triggering ally, ending this movement <a href="../../../../rule/combat/adjacent/">adjacent</a> to them or in the nearest square if you can&#39;t reach an <a href="../../../../rule/combat/adjacent/">adjacent</a> square. The triggering ally can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> and gains 5 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> for each enemy you came <a href="../../../../rule/combat/adjacent/">adjacent</a> to during the move. You then make a <a href="../../../../rule/dice/power-roll/">power roll</a> against the target.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> R &lt; WEAK, the target is <a href="../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li><li><b>12-16:</b> R &lt; AVERAGE, the target is <a href="../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li><li><b>17+:</b> R &lt; STRONG, the target is <a href="../../../../condition/frightened/">frightened</a> of the triggering ally (save ends)</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -187,7 +187,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, each target has a bonus to <a href="../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../rule/character/might/">Might</a> score. Additionally, each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next <a href="../../../../rule/combat/turn/">turn</a>, each target has a <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/stability/">stability</a> equal to your <a href="../../../../rule/character/might/">Might</a> score. Additionally, each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
 </div>

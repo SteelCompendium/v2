@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god grants you a holy countenance that protects you at all times. You gain a +1 bonus to <a href="../../../../rule/general/saving-throw/">saving throws</a>.</p>
+<p>Your god grants you a holy countenance that protects you at all times. You gain a +1 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/general/saving-throw/">saving throws</a>.</p>
 </div>
 </section>

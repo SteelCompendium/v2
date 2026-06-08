@@ -84,7 +84,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a>, you can spend 1d6 <a href="../../../../rule/health/stamina/">Stamina</a> to ignore a consequence from a <a href="../../../../rule/test/test/">test</a>, or to end one effect on you that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your turn. Any ally adjacent to you can also spend <a href="../../../../rule/health/stamina/">Stamina</a> as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to gain this benefit.</p>
+<p>As a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a>, you can spend 1d6 <a href="../../../../rule/health/stamina/">Stamina</a> to ignore a consequence from a <a href="../../../../rule/test/test/">test</a>, or to end one effect on you that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your <a href="../../../../rule/combat/turn/">turn</a>. Any ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to you can also spend <a href="../../../../rule/health/stamina/">Stamina</a> as a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to gain this benefit.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -95,7 +95,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>When you use the <a href="../../../common/main-actions/charge/">Charge</a> main action to attack a creature marked by you, you can use a signature or <a href="../../../../rule/general/heroic-ability/">heroic ability</a> with the Melee and Strike keywords instead of a melee <a href="../../../common/main-actions/free-strike/">free strike</a>.</p>
+<p>When you use the <a href="../../../common/main-actions/charge/">Charge</a> main action to attack a creature marked by you, you can use a signature or <a href="../../../../rule/general/heroic-ability/">heroic ability</a> with the <a href="../../../../rule/combat/melee/">Melee</a> and Strike keywords instead of a <a href="../../../../rule/combat/melee/">melee</a> <a href="../../../common/main-actions/free-strike/">free strike</a>.</p>
 </div>
 </section>
 </div>

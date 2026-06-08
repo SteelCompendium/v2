@@ -41,9 +41,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your story tells a tale of the villain&#39;s waning power and how the heroes rose to the occasion to stop them.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../rule/combat/ranged/">ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -63,15 +63,15 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">You narrate the tension of the scene and put all hope into your protagonist to turn things around.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<p class="sc-ability__flavor">You narrate the tension of the scene and put all hope into your protagonist to <a href="../../../../rule/combat/turn/">turn</a> things around.</p>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 3 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, has a double <a href="../../../../rule/dice/edge/">edge</a> on a <a href="../../../../rule/dice/power-roll/">power roll</a> of their choice made during their next turn, is no longer <a href="../../../../condition/slowed/">slowed</a> or <a href="../../../../condition/weakened/">weakened</a> if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.</p></div>
+<div class="sc-ability__section-body"><p>The target gains 3 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, has a double <a href="../../../../rule/dice/edge/">edge</a> on a <a href="../../../../rule/dice/power-roll/">power roll</a> of their choice made during their next <a href="../../../../rule/combat/turn/">turn</a>, is no longer <a href="../../../../condition/slowed/">slowed</a> or <a href="../../../../condition/weakened/">weakened</a> if they were before, and can immediately take their <a href="../../../../rule/combat/turn/">turn</a> after yours if they have not taken their <a href="../../../../rule/combat/turn/">turn</a> already this round.</p></div>
 </div>
 </article>
 </div>
@@ -96,9 +96,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">If you can land the <a href="../../../../rule/combat/strike/">strike</a>, the crowd goes wild.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 3</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 3</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -119,14 +119,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">No, no. You don&#39;t die until the sequel.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Add your current <a href="../../../../rule/health/stamina/">Stamina</a> to your target&#39;s current <a href="../../../../rule/health/stamina/">Stamina</a>, then you have half that total <a href="../../../../rule/health/stamina/">Stamina</a> and the target has the remainder. If either of you would gain more <a href="../../../../rule/health/stamina/">Stamina</a> this way than their <a href="../../../../rule/health/stamina/">Stamina</a> maximum, the difference in <a href="../../../../rule/health/stamina/">Stamina</a> between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more <a href="../../../../rule/health/stamina/">Stamina</a> than your maximum this way. You then make a <a href="../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> You and the target can each end one effect on yourselves that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your turns.</li><li><b>12-16:</b> You and the target can end any effects on yourselves that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of your turns.</li><li><b>17+:</b> You can choose any of the current effects on you and the target that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of your turns, apply the chosen effects to the target, and end the rest.</li></ul></div>
+<div class="sc-ability__section-body"><p>Add your current <a href="../../../../rule/health/stamina/">Stamina</a> to your target&#39;s current <a href="../../../../rule/health/stamina/">Stamina</a>, then you have half that total <a href="../../../../rule/health/stamina/">Stamina</a> and the target has the remainder. If either of you would gain more <a href="../../../../rule/health/stamina/">Stamina</a> this way than their <a href="../../../../rule/health/stamina/">Stamina</a> maximum, the difference in <a href="../../../../rule/health/stamina/">Stamina</a> between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more <a href="../../../../rule/health/stamina/">Stamina</a> than your maximum this way. You then make a <a href="../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> You and the target can each end one effect on yourselves that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your <a href="../../../../rule/combat/turn/">turns</a>.</li><li><b>12-16:</b> You and the target can end any effects on yourselves that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of your <a href="../../../../rule/combat/turn/">turns</a>.</li><li><b>17+:</b> You can choose any of the current effects on you and the target that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of your <a href="../../../../rule/combat/turn/">turns</a>, apply the chosen effects to the target, and end the rest.</li></ul></div>
 </div>
 </article>
 </div>
@@ -161,7 +161,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each creature within <a href="../../../../rule/combat/distance/">distance</a> gains a +5 bonus to <a href="../../../../rule/character/speed/">speed</a> until the end of their next turn. While under this effect, each target must use their full movement during their turn.</p></div>
+<div class="sc-ability__section-body"><p>Each creature within <a href="../../../../rule/combat/distance/">distance</a> gains a +5 <a href="../../../../rule/dice/bonuses-and-penalties/">bonus</a> to <a href="../../../../rule/character/speed/">speed</a> until the end of their next <a href="../../../../rule/combat/turn/">turn</a>. While under this effect, each target must use their full movement during their <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -174,9 +174,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">The power of music rips through the reality around the target and blows them away.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Melee](../../../rule/combat/melee.md)</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1 or ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../rule/combat/ranged/">ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">

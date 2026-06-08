@@ -46,7 +46,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your pointy tail allows you to punctuate all your actions. Once per round when you make a melee <a href="../../../../rule/combat/strike/">strike</a>, you can deal extra damage with the <a href="../../../../rule/combat/strike/">strike</a> equal to your highest <a href="../../../../rule/character/characteristic/">characteristic</a> score.</p>
+<p>Your pointy tail allows you to punctuate all your actions. Once per round when you make a <a href="../../../../rule/combat/melee/">melee</a> <a href="../../../../rule/combat/strike/">strike</a>, you can deal extra damage with the <a href="../../../../rule/combat/strike/">strike</a> equal to your highest <a href="../../../../rule/character/characteristic/">characteristic</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

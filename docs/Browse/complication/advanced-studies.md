@@ -14,4 +14,4 @@ You somehow obtained the notebook of a brilliant but eccentric member of your cl
 
 - **≤11:** You summon a hostile demon of your level or lower who attacks you at the end of the [respite](../rule/resource/respite.md). The demon acts first in the combat, regardless of the traits or abilities of you or any other creature involved.
 - **12-16:** You learn nothing and your time is wasted.
-- **17+:** You learn one bonus [heroic ability](../rule/general/heroic-ability.md) from your class that you qualify for. You can use that ability until you finish your next [respite](../rule/resource/respite.md).
+- **17+:** You learn one [bonus](../rule/dice/bonuses-and-penalties.md) [heroic ability](../rule/general/heroic-ability.md) from your class that you qualify for. You can use that ability until you finish your next [respite](../rule/resource/respite.md).

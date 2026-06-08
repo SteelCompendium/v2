@@ -32,14 +32,14 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You encase the target in psionic flame and allow them to flicker without fear of burning out.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Pyrokinesis</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Pyrokinesis</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their <a href="../../../../rule/combat/strike/">strikes</a> deal extra fire damage equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next <a href="../../../../rule/combat/turn/">turn</a>, the target has cold immunity 10 and fire immunity 10, and their <a href="../../../../rule/combat/strike/">strikes</a> deal extra fire damage equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score. Additionally, whenever an enemy uses a <a href="../../../../rule/combat/melee/">melee</a> ability against the target while they are under this effect, the enemy takes 5 fire damage.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -55,7 +55,7 @@ type: feature
 </div>
 <div class="sc-ability__corner"></div>
 </div>
-<p class="sc-ability__flavor">You move fast enough to turn around and watch your foes feel the aftermath.</p>
+<p class="sc-ability__flavor">You move fast enough to <a href="../../../../rule/combat/turn/">turn</a> around and watch your foes feel the aftermath.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Telekinesis</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 x 2 line within 1</div></div>
@@ -67,7 +67,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>If you obtain a tier 2 outcome or better, you are <a href="../../../../condition/slowed/">slowed</a> until the end of your turn and each target is <a href="../../../../condition/slowed/">slowed</a> until the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>If you obtain a tier 2 outcome or better, you are <a href="../../../../condition/slowed/">slowed</a> until the end of your <a href="../../../../rule/combat/turn/">turn</a> and each target is <a href="../../../../condition/slowed/">slowed</a> until the end of their <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -80,9 +80,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You latch onto your prey&#39;s brain and don&#39;t let go, like a song they can&#39;t get out of their head.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -107,9 +107,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Animapathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Animapathy</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two enemies</div></div>
 </div>
 <div class="sc-ability__section">
@@ -117,7 +117,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a> while not adjacent to a creature they&#39;re stitched to. Whenever a stitched target takes damage that wasn&#39;t dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.</p></div>
+<div class="sc-ability__section-body"><p>If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a> while not <a href="../../../../rule/combat/adjacent/">adjacent</a> to a creature they&#39;re stitched to. Whenever a stitched target takes damage that wasn&#39;t dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

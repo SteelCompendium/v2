@@ -32,9 +32,9 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Your flames dance from kindling to kindling to kindling.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -42,7 +42,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>When the target ends their next turn, or if they drop to 0 <a href="../../../../rule/health/stamina/">Stamina</a> before then, each enemy adjacent to them takes fire damage equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score. Each affected enemy then gains this same effect.</p></div>
+<div class="sc-ability__section-body"><p>When the target ends their next <a href="../../../../rule/combat/turn/">turn</a>, or if they drop to 0 <a href="../../../../rule/health/stamina/">Stamina</a> before then, each enemy <a href="../../../../rule/combat/adjacent/">adjacent</a> to them takes fire damage equal to twice your <a href="../../../../rule/character/reason/">Reason</a> score. Each affected enemy then gains this same effect.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -55,7 +55,7 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Dirt and debris swirl into a dark, pulsing hurricane.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Earth</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
@@ -65,11 +65,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area lasts until the start of your next turn. It is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies, and you and your allies have <a href="../../../../rule/combat/concealment/">concealment</a> while in the area.</p></div>
+<div class="sc-ability__section-body"><p>The area lasts until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. It is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies, and you and your allies have <a href="../../../../rule/combat/concealment/">concealment</a> while in the area.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the <a href="../../../../rule/dice/power-roll/">power roll</a> again without spending essence.</p></div>
+<div class="sc-ability__section-body"><p>The area remains until the start of your next <a href="../../../../rule/combat/turn/">turn</a>, and you can move it up to 5 squares (no action required). As a maneuver, you can make the <a href="../../../../rule/dice/power-roll/">power roll</a> again without spending essence.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -82,13 +82,13 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">You rip an enemy&#39;s world in twain.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Void</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Void</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 9 + R corruption damage</li><li><b>12-16:</b> 10 + R corruption damage; the target has <a href="../../../../rule/combat/line-of-effect/">line of effect</a> only to creatures and objects within 4 squares of them until the start of your next turn</li><li><b>17+:</b> 15 + R corruption damage; the target has <a href="../../../../rule/combat/line-of-effect/">line of effect</a> only to adjacent creatures and objects until the start of your next turn</li></ul></div>
+<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 9 + R corruption damage</li><li><b>12-16:</b> 10 + R corruption damage; the target has <a href="../../../../rule/combat/line-of-effect/">line of effect</a> only to creatures and objects within 4 squares of them until the start of your next <a href="../../../../rule/combat/turn/">turn</a></li><li><b>17+:</b> 15 + R corruption damage; the target has <a href="../../../../rule/combat/line-of-effect/">line of effect</a> only to <a href="../../../../rule/combat/adjacent/">adjacent</a> creatures and objects until the start of your next <a href="../../../../rule/combat/turn/">turn</a></li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -101,7 +101,7 @@ type: feature
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">Threads you&#39;ve been weaving through your adventures create a vibrant, pearlescent web.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Green</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
@@ -111,11 +111,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> until the start of your next turn. Each enemy who ends their turn in the area is <a href="../../../../condition/restrained/">restrained</a> (save ends).</p></div>
+<div class="sc-ability__section-body"><p>The area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. Each enemy who ends their <a href="../../../../rule/combat/turn/">turn</a> in the area is <a href="../../../../condition/restrained/">restrained</a> (save ends).</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
-<div class="sc-ability__section-body"><p>The area remains until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>The area remains until the start of your next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>
 </div>

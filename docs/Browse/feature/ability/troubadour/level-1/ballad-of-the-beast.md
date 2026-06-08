@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
-effect: While this performance is active, each target who starts their turn in the area gains 1 [surge](../../../../rule/resource/surge.md).
+effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area gains 1 [surge](../../../../rule/resource/surge.md).
 flavor: Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area gains 1 <a href="../../../../../rule/resource/surge/">surge</a>.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../../../rule/combat/turn/">turn</a> in the area gains 1 <a href="../../../../../rule/resource/surge/">surge</a>.</p></div>
 </div>
 </article>

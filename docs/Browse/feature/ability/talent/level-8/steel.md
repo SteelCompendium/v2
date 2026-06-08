@@ -2,13 +2,13 @@
 action_type: Maneuver
 class: talent
 cost: 11 Clarity
-distance: Ranged 10
-effect: The target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5 and can't be made [slowed](../../../../condition/slowed.md) or [weakened](../../../../condition/weakened.md) until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) gains a +5 bonus.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: The target has [damage immunity](../../../../rule/damage/damage-immunity.md) 5 and can't be made [slowed](../../../../condition/slowed.md) or [weakened](../../../../condition/weakened.md) until the start of your next [turn](../../../../rule/combat/turn.md). Whenever the target force moves a creature or object while under this effect, the [forced movement](../../../../movement/forced-movement.md) [distance](../../../../rule/combat/distance.md) gains a +5 [bonus](../../../../rule/dice/bonuses-and-penalties.md).
 flavor: The target's skin becomes covered in tough metal.
 keywords:
     - Metamorphosis
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "8"
 name: Steel
 scc: mcdm.heroes.v1/feature.ability.talent.level-8/steel
@@ -30,14 +30,14 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">11</span> Clarity</div></div>
 </div>
 <p class="sc-ability__flavor">The target&#39;s skin becomes covered in tough metal.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Metamorphosis</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Metamorphosis</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 5 and can&#39;t be made <a href="../../../../../condition/slowed/">slowed</a> or <a href="../../../../../condition/weakened/">weakened</a> until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the <a href="../../../../../movement/forced-movement/">forced movement</a> <a href="../../../../../rule/combat/distance/">distance</a> gains a +5 bonus.</p></div>
+<div class="sc-ability__section-body"><p>The target has <a href="../../../../../rule/damage/damage-immunity/">damage immunity</a> 5 and can&#39;t be made <a href="../../../../../condition/slowed/">slowed</a> or <a href="../../../../../condition/weakened/">weakened</a> until the start of your next <a href="../../../../../rule/combat/turn/">turn</a>. Whenever the target force moves a creature or object while under this effect, the <a href="../../../../../movement/forced-movement/">forced movement</a> <a href="../../../../../rule/combat/distance/">distance</a> gains a +5 <a href="../../../../../rule/dice/bonuses-and-penalties/">bonus</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

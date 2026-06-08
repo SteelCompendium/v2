@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>When you roll for piety at the start of your turn in combat, you gain 1d3 + 1 piety.</p>
+<p>When you roll for piety at the start of your <a href="../../../../rule/combat/turn/">turn</a> in combat, you gain 1d3 + 1 piety.</p>
 </div>
 </section>

@@ -1,17 +1,17 @@
 ---
 action_type: Triggered
 class: troubadour
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: The target makes a [free strike](../../../common/main-actions/free-strike.md) against the creature who made the triggering strike.
 flavor: '"I''d have brought treats had I known I''d be fighting a dog."'
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
 level: "1"
 name: Riposte
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/riposte
 subtype: triggered
 target: Self or one ally
-trigger: The target takes damage from a melee [strike](../../../../rule/combat/strike.md).
+trigger: The target takes damage from a [melee](../../../../rule/combat/melee.md) [strike](../../../../rule/combat/strike.md).
 type: ability
 ---
 
@@ -29,14 +29,14 @@ type: ability
 <div class="sc-ability__corner"></div>
 </div>
 <p class="sc-ability__flavor">I&#39;&#39;d have brought treats had I known I&#39;&#39;d be fighting a dog.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self or one ally</div></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target takes damage from a melee <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
+<div class="sc-ability__section-body"><p>The target takes damage from a <a href="../../../../../rule/combat/melee/">melee</a> <a href="../../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

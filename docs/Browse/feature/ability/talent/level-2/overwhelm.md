@@ -2,11 +2,11 @@
 action_type: Main action
 class: talent
 cost: 5 Clarity
-distance: Ranged 10
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
 flavor: You overload their senses, turning all their subconscious thoughts into conscious ones.
 keywords:
     - Psionic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
     - Telepathy
 level: "2"
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Clarity</div></div>
 </div>
 <p class="sc-ability__flavor">You overload their senses, turning all their subconscious thoughts into conscious ones.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span><span class="sc-ability__chip">Telepathy</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -40,6 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You start crying, and you can&#39;t use <a href="../../../../../rule/combat/triggered-action/">triggered actions</a> or make <a href="../../../../common/main-actions/free-strike/">free strikes</a> until the end of the target&#39;s next turn.</p></div>
+<div class="sc-ability__section-body"><p>You start crying, and you can&#39;t use <a href="../../../../../rule/combat/triggered-action/">triggered actions</a> or make <a href="../../../../common/main-actions/free-strike/">free strikes</a> until the end of the target&#39;s next <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

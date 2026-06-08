@@ -1,6 +1,6 @@
 ---
 echelon: "3"
-effect: Once per turn, you can use a maneuver to [teleport](../../../movement/teleport.md) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](../../../movement/teleport.md), you can [teleport](../../../movement/teleport.md) up to 3 additional squares.
+effect: Once per [turn](../../../rule/combat/turn.md), you can use a maneuver to [teleport](../../../movement/teleport.md) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](../../../movement/teleport.md), you can [teleport](../../../movement/teleport.md) up to 3 additional squares.
 keywords:
     - Psionic
     - Ring
@@ -26,4 +26,4 @@ type: treasure
 
 **Project Goal:** 450
 
-**Effect:** Once per turn, you can use a maneuver to [teleport](../../../movement/teleport.md) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](../../../movement/teleport.md), you can [teleport](../../../movement/teleport.md) up to 3 additional squares.
+**Effect:** Once per [turn](../../../rule/combat/turn.md), you can use a maneuver to [teleport](../../../movement/teleport.md) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](../../../movement/teleport.md), you can [teleport](../../../movement/teleport.md) up to 3 additional squares.

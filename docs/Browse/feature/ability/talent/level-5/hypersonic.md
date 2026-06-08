@@ -4,7 +4,7 @@ class: talent
 cost: 9 Clarity
 distance: 5 x 2 line within 1
 effect: You [teleport](../../../../movement/teleport.md) to a square on the opposite side of the area before making the [power roll](../../../../rule/dice/power-roll.md).
-flavor: You move fast enough to turn around and watch your foes feel the aftermath.
+flavor: You move fast enough to [turn](../../../../rule/combat/turn.md) around and watch your foes feel the aftermath.
 keywords:
     - Area
     - Charge
@@ -30,7 +30,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Clarity</div></div>
 </div>
-<p class="sc-ability__flavor">You move fast enough to turn around and watch your foes feel the aftermath.</p>
+<p class="sc-ability__flavor">You move fast enough to <a href="../../../../../rule/combat/turn/">turn</a> around and watch your foes feel the aftermath.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Area</span><span class="sc-ability__chip">Charge</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Telekinesis</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 x 2 line within 1</div></div>
@@ -42,6 +42,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>If you obtain a tier 2 outcome or better, you are <a href="../../../../../condition/slowed/">slowed</a> until the end of your turn and each target is <a href="../../../../../condition/slowed/">slowed</a> until the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>If you obtain a tier 2 outcome or better, you are <a href="../../../../../condition/slowed/">slowed</a> until the end of your <a href="../../../../../rule/combat/turn/">turn</a> and each target is <a href="../../../../../condition/slowed/">slowed</a> until the end of their <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 </article>

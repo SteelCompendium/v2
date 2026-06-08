@@ -13,21 +13,21 @@ type: chapter
 
 You've helped save the world! Or at least a corner of that world important to you. Now you deserve the treasures that can help you do so even more efficiently next time. So claim your magic sword, psionic shield, and Catapult Dust, and ride to your next adventure!
 
-Treasures are the supernatural items that heroes find on their adventures, or that they craft themselves to help with their heroics. You might claim a magic whip from a bandit captain or create a psionic necklace that will help you take down a dread cult.
+Treasures are the [supernatural](../../Browse/rule/general/supernatural.md) items that heroes find on their adventures, or that they craft themselves to help with their heroics. You might claim a magic whip from a bandit captain or create a psionic necklace that will help you take down a dread cult.
 
 Treasures come in all shapes and sizes, and are broken down into four types.
 
 **[Consumables](../../Browse/rule/treasure/consumable.md)** are the most numerous treasures. These include potions, dusts, and other items that are consumed by you when you activate them. Most [consumables](../../Browse/rule/treasure/consumable.md) can be used only once!
 
-**[Trinkets](../../Browse/rule/treasure/trinket.md)** are treasures with supernatural properties that never fade. These include magic bags, boots, cloaks, gloves, jewelry, and other oddities.
+**[Trinkets](../../Browse/rule/treasure/trinket.md)** are treasures with [supernatural](../../Browse/rule/general/supernatural.md) properties that never fade. These include magic bags, boots, cloaks, gloves, jewelry, and other oddities.
 
-**[Leveled treasures](../../Browse/rule/treasure/leveled-treasure.md)** are treasures that become even more powerful in the hands of a higher-level hero. They connect with their user, building a bond that fuels the item's supernatural power. Armor, implements, and weapons are the most common types of [leveled treasure](../../Browse/rule/treasure/leveled-treasure.md).
+**[Leveled treasures](../../Browse/rule/treasure/leveled-treasure.md)** are treasures that become even more powerful in the hands of a higher-level hero. They connect with their user, building a bond that fuels the item's [supernatural](../../Browse/rule/general/supernatural.md) power. Armor, [implements](../../Browse/rule/treasure/implement.md), and weapons are the most common types of [leveled treasure](../../Browse/rule/treasure/leveled-treasure.md).
 
 **Artifacts** are treasures of legendary power that can change or shape an adventure—or even an entire campaign. Each of these game-breaking items is unique, highly coveted, and well guarded.
 
 ## Found, Earned, or Crafted
 
-The rules of the game account for worlds where the average person sometimes even the average noble—doesn't have regular access to treasures. There might be an apothecary in the capital city of a region, but they're selling herbal remedies, not supernatural potions. In [Vasloria](../../Browse/rule/world/vasloria.md), a town blacksmith isn't selling magic maces, and the local tailor doesn't make psionic capes. There simply aren't enough treasures readily available to create a good trade economy. Word sometimes gets around of mysterious clubs where heroes and treasure seekers can meet up to swap items, but the constant threat of thieves makes such markets difficult to find.
+The rules of the game account for worlds where the average person sometimes even the average noble—doesn't have regular access to treasures. There might be an apothecary in the capital city of a region, but they're selling herbal remedies, not [supernatural](../../Browse/rule/general/supernatural.md) potions. In [Vasloria](../../Browse/rule/world/vasloria.md), a town blacksmith isn't selling magic maces, and the local tailor doesn't make psionic capes. There simply aren't enough treasures readily available to create a good trade economy. Word sometimes gets around of mysterious clubs where heroes and treasure seekers can meet up to swap items, but the constant threat of thieves makes such markets difficult to find.
 
 Most treasures are found as part of adventures. Many people concoct dastardly schemes, but only those with the will and power to enact that vision become villains—and acquiring treasures of great power is often part of a villain's plans. As such, the heroes who vanquish those evildoers often get to claim those treasures for themselves. At
 
@@ -45,7 +45,7 @@ When a hero finds a treasure, they learn its properties if they examine it for 5
 
 ### Wearing Treasures
 
-Many treasures, such as cloaks, jewelry, hats, and boots, must be worn. Unless the Director deems otherwise, these items supernaturally resize themselves to fit the creature using them.
+Many treasures, such as cloaks, jewelry, hats, and boots, must be worn. Unless the Director deems otherwise, these items [supernatural](../../Browse/rule/general/supernatural.md)ly resize themselves to fit the creature using them.
 
 Wearable treasures have keywords that indicate which part of the body they are meant to adorn—Arms, Feet, Hands, Head, Neck, or Waist. The Ring keyword marks treasures typically worn on the finger. You can wear any number of treasures that have the same body keyword as long as the Director deems it reasonable. For example, it might be fine for a four-armed [time raider](../../Browse/ancestry/time-raider.md) to wear two pairs of bracers, but the Director might decide that the same hero can't benefit from wearing two magic cloaks at once. If the Director decides you're wearing too many treasures with the same body keyword, none of those treasures function.
 
@@ -55,9 +55,9 @@ If a wearable treasure comes as a set, such as a pair of bracers, boots, or earr
 
 ### Wielding Treasures
 
-Some treasures are wielded in the form of weapons or implements. A weapon might have the Light Weapon, Medium Weapon, or Heavy Weapon keywords, or might have a keyword denoting a specific category of weapon (Bow, Polearm, and so forth). An implement might have the Implement keyword or a keyword denoting the type of implement (Orb, Wand, and so forth). Armor is also considered a wielded treasure, with the Light Armor, Medium Armor, or Heavy Armor keywords, or the Shield keyword.
+Some treasures are wielded in the form of weapons or [implements](../../Browse/rule/treasure/implement.md). A weapon might have the Light Weapon, Medium Weapon, or Heavy Weapon keywords, or might have a keyword denoting a specific category of weapon (Bow, Polearm, and so forth). An [implement](../../Browse/rule/treasure/implement.md) might have the [Implement](../../Browse/rule/treasure/implement.md) keyword or a keyword denoting the type of [implement](../../Browse/rule/treasure/implement.md) (Orb, Wand, and so forth). Armor is also considered a wielded treasure, with the Light Armor, Medium Armor, or Heavy Armor keywords, or the Shield keyword.
 
-A hero can wield as many weapons, implements, suits of armor, or shields as they can feasibly hold or wear. However, an ability can benefit only from one weapon or implement at a time.
+A hero can wield as many weapons, [implements](../../Browse/rule/treasure/implement.md), suits of armor, or shields as they can feasibly hold or wear. However, an ability can benefit only from one weapon or [implement](../../Browse/rule/treasure/implement.md) at a time.
 
 #### Treasures and Kits
 
@@ -65,21 +65,21 @@ To gain the benefits of a weapon or armor treasure, the treasure must have keywo
 
 If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the [conduit's](../../Browse/class/conduit.md) Prayer of Soldier's Skill.
 
-A weapon's damage bonus only adds to melee abilities if your kit has a melee damage bonus. A weapon's damage bonus only adds to ranged abilities if your kit has a ranged damage bonus.
+A weapon's damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) only adds to [melee](../../Browse/rule/combat/melee.md) abilities if your kit has a [melee](../../Browse/rule/combat/melee.md) damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md). A weapon's damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) only adds to [ranged](../../Browse/rule/combat/ranged.md) abilities if your kit has a [ranged](../../Browse/rule/combat/ranged.md) damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).
 
 ### Magic and Psionic Treasures
 
-The Magic and Psionic keywords for treasures refer to how those treasures are created, not how they are used. Just as magic potions and swords aren't limited only to characters who wield magic themselves, the Magic and Psionic keywords don't restrict the use of treasures to only certain types of characters, so that an implement with the Magic keyword can be used to enhance abilities with the Psionic keyword, and vice versa. Treasures that have the Magic or Psionic keyword and are used to enhance an ability don't add those keywords to the ability.
+The Magic and Psionic keywords for treasures refer to how those treasures are created, not how they are used. Just as magic potions and swords aren't limited only to characters who wield magic themselves, the Magic and Psionic keywords don't restrict the use of treasures to only certain types of characters, so that an [implement](../../Browse/rule/treasure/implement.md) with the Magic keyword can be used to enhance abilities with the Psionic keyword, and vice versa. Treasures that have the Magic or Psionic keyword and are used to enhance an ability don't add those keywords to the ability.
 
 ### Stamina Bonuses and Damage Bonuses
 
-If two treasures give a creature a bonus to their [Stamina](../../Browse/rule/health/stamina.md) or a bonus to the [rolled damage](../../Browse/rule/damage/rolled-damage.md) of their abilities, only the higher bonus applies unless the treasure's description notes otherwise. [Stamina](../../Browse/rule/health/stamina.md) bonuses and damage bonuses from [consumables](../../Browse/rule/treasure/consumable.md) ignore this rule, and can be stacked with other [Stamina](../../Browse/rule/health/stamina.md) bonuses and damage bonuses granted by treasures.
+If two treasures give a creature a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to their [Stamina](../../Browse/rule/health/stamina.md) or a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [rolled damage](../../Browse/rule/damage/rolled-damage.md) of their abilities, only the higher [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) applies unless the treasure's description notes otherwise. [Stamina](../../Browse/rule/health/stamina.md) [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es and damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es from [consumables](../../Browse/rule/treasure/consumable.md) ignore this rule, and can be stacked with other [Stamina](../../Browse/rule/health/stamina.md) [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es and damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md)es granted by treasures.
 
 ## Consumables {data-scc="mcdm.heroes.v1/rule.treasure/consumable"}
 
-Consumables are treasures that can be used a limited number of times before they expire, losing whatever makes them supernatural. You can drink a potion once, and when you do so, that's it. It's consumed. Other consumables might have a specific number of charges that can be spent. Once those charges are gone, the treasure is useless.
+Consumables are treasures that can be used a limited number of times before they expire, losing whatever makes them [supernatural](../../Browse/rule/general/supernatural.md). You can drink a potion once, and when you do so, that's it. It's consumed. Other consumables might have a specific number of charges that can be spent. Once those charges are gone, the treasure is useless.
 
-Consumables are organized by [echelon](../../Browse/rule/general/echelon.md) to make life easy for the Director handing them out (see [Echelons](../../Browse/rule/general/echelon.md) of Play in Chapter 1: [The Basics](the-basics.md)). As a guideline, a hero should always be able to find consumable treasures or the materials required to craft consumables of their [echelon](../../Browse/rule/general/echelon.md) and lower. For example, heroes who are 5th level should be able to find consumables of 1st and 2nd [echelon](../../Browse/rule/general/echelon.md). In some cases, the Director might decide to award consumables of an [echelon](../../Browse/rule/general/echelon.md) higher than the heroes' [echelon](../../Browse/rule/general/echelon.md), but such a choice means giving the heroes more power than the encounter-building guidelines in *Draw Steel: Monsters* accounts for.
+Consumables are organized by [echelon](../../Browse/rule/general/echelon.md) to make life easy for the Director handing them out (see [Echelons](../../Browse/rule/general/echelon.md) of Play in Chapter 1: [The Basics](the-basics.md)). As a [guide](../../Browse/rule/downtime/guide.md)line, a hero should always be able to find consumable treasures or the materials required to craft consumables of their [echelon](../../Browse/rule/general/echelon.md) and lower. For example, heroes who are 5th level should be able to find consumables of 1st and 2nd [echelon](../../Browse/rule/general/echelon.md). In some cases, the Director might decide to award consumables of an [echelon](../../Browse/rule/general/echelon.md) higher than the heroes' [echelon](../../Browse/rule/general/echelon.md), but such a choice means giving the heroes more power than the encounter-building [guide](../../Browse/rule/downtime/guide.md)lines in *Draw Steel: Monsters* accounts for.
 
 Your character can carry any number of consumables at a time.
 
@@ -91,7 +91,7 @@ Your character can carry any number of consumables at a time.
 >
 > Languages: Chapter 4: [Background](background.md)
 >
-> Abilities, conditions, [potencies](../../Browse/rule/character/potency.md), [surges](../../Browse/rule/resource/surge.md): Chapter 5: [Classes](classes.md)
+> Abilities, [conditions](../../Browse/rule/combat/condition.md), [potencies](../../Browse/rule/character/potency.md), [surges](../../Browse/rule/resource/surge.md): Chapter 5: [Classes](classes.md)
 >
 > Skills, [tests](../../Browse/rule/test/test.md): Chapter 9: [Tests](tests.md)
 >
@@ -119,7 +119,7 @@ This section presents 1st-[echelon](../../Browse/rule/general/echelon.md) [consu
 
 **Project Goal:** 45 (yields 1d3 darts, or three darts if crafted by a shadow)
 
-**Effect:** As a maneuver, you make a ranged [free strike](../../Browse/feature/common/main-actions/free-strike.md) using a black ash dart. The [strike](../../Browse/rule/combat/strike.md) deals an extra 1 damage and adds the following effects to the [tier outcomes](../../Browse/rule/dice/tier-outcome.md) of the [power roll](../../Browse/rule/dice/power-roll.md):
+**Effect:** As a maneuver, you make a [ranged](../../Browse/rule/combat/ranged.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) using a black ash dart. The [strike](../../Browse/rule/combat/strike.md) deals an extra 1 damage and adds the following effects to the [tier outcomes](../../Browse/rule/dice/tier-outcome.md) of the [power roll](../../Browse/rule/dice/power-roll.md):
 
 - **≤11:** You can [teleport](../../Browse/movement/teleport.md) the target up to 2 squares.
 - **12-16:** You can [teleport](../../Browse/movement/teleport.md) the target up to 4 squares.
@@ -139,7 +139,7 @@ This section presents 1st-[echelon](../../Browse/rule/general/echelon.md) [consu
 
 **Project Goal:** 45
 
-**Effect:** When you damage an adjacent creature who has blood, you can capture the target's life essence in this vial (no action required). Record the damage you dealt. You can capture life essence in the vial only once. As a maneuver, you drink the contents of the vial to regain [Stamina](../../Browse/rule/health/stamina.md) equal to half the damage dealt. If you spend 1 [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) while you drink, you regain [Stamina](../../Browse/rule/health/stamina.md) equal to the damage dealt. Once you drink from the vial, it crumbles to dust.
+**Effect:** When you damage an [adjacent](../../Browse/rule/combat/adjacent.md) creature who has blood, you can capture the target's life essence in this vial (no action required). Record the damage you dealt. You can capture life essence in the vial only once. As a maneuver, you drink the contents of the vial to regain [Stamina](../../Browse/rule/health/stamina.md) equal to half the damage dealt. If you spend 1 [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) while you drink, you regain [Stamina](../../Browse/rule/health/stamina.md) equal to the damage dealt. Once you drink from the vial, it crumbles to dust.
 
 #### Buzz Balm {data-scc="mcdm.heroes.v1/treasure.1st-echelon.consumable/buzz-balm"}
 
@@ -155,7 +155,7 @@ This section presents 1st-[echelon](../../Browse/rule/general/echelon.md) [consu
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you rub the balm on your body and feel it tingle across your skin. You immediately end the [bleeding](../../Browse/condition/bleeding.md) and [weakened](../../Browse/condition/weakened.md) conditions on yourself, and you gain a +2 bonus to [speed](../../Browse/rule/character/speed.md) until the start of your next turn.
+**Effect:** As a maneuver, you rub the balm on your body and feel it tingle across your skin. You immediately end the [bleeding](../../Browse/condition/bleeding.md) and [weakened](../../Browse/condition/weakened.md) [conditions](../../Browse/rule/combat/condition.md) on yourself, and you gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
 #### Catapult Dust {data-scc="mcdm.heroes.v1/treasure.1st-echelon.consumable/catapult-dust"}
 
@@ -171,7 +171,7 @@ This section presents 1st-[echelon](../../Browse/rule/general/echelon.md) [consu
 
 **Project Goal:** 45
 
-**Effect:** Catapult Dust was developed as a cost-effective magic siege weapon. As a main action, you pour the dust out in an adjacent unoccupied space to fill an area as large as a 2 [cube](../../Browse/rule/combat/cube.md). At the start of your next turn, the ground at the bottom of the area erupts violently upwards and in a direction of your choice. Any [unattended objects](../../Browse/rule/general/unattended-object.md) in the area, or creatures who have entered the area since the dust was poured, are launched in an arc that is 6 + 1d6 squares long and 3 + 1d6 squares high.
+**Effect:** Catapult Dust was developed as a cost-effective magic siege weapon. As a main action, you pour the dust out in an [adjacent](../../Browse/rule/combat/adjacent.md) unoccupied space to fill an area as large as a 2 [cube](../../Browse/rule/combat/cube.md). At the start of your next [turn](../../Browse/rule/combat/turn.md), the ground at the bottom of the area erupts violently upwards and in a direction of your choice. Any [unattended objects](../../Browse/rule/general/unattended-object.md) in the area, or creatures who have entered the area since the dust was poured, are launched in an arc that is 6 + 1d6 squares long and 3 + 1d6 squares high.
 
 #### Giant's-Blood Flame {data-scc="mcdm.heroes.v1/treasure.1st-echelon.consumable/giants-blood-flame"}
 
@@ -207,7 +207,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you can drink this potion or pour it over an object of [size](../../Browse/rule/character/size.md) 2 or smaller, causing the target's [size](../../Browse/rule/character/size.md) to increase by 1(to a minimum size of 2). If you are the target, your [Stamina](../../Browse/rule/health/stamina.md) maximum and [Stability](../../Browse/rule/character/stability.md) are doubled, you gain an [edge](../../Browse/rule/dice/edge.md) on [Might](../../Browse/rule/character/might.md) [tests](../../Browse/rule/test/test.md), and your weapon abilities that deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) gain a damage bonus equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score. You shrink back to your original [size](../../Browse/rule/character/size.md) after 3 rounds, halving your current [Stamina](../../Browse/rule/health/stamina.md) maximum and [Stability](../../Browse/rule/character/stability.md), and losing the potion's other benefits. Objects maintain their new [size](../../Browse/rule/character/size.md) permanently.
+**Effect:** As a maneuver, you can drink this potion or pour it over an object of [size](../../Browse/rule/character/size.md) 2 or smaller, causing the target's [size](../../Browse/rule/character/size.md) to increase by 1(to a minimum size of 2). If you are the target, your [Stamina](../../Browse/rule/health/stamina.md) maximum and [Stability](../../Browse/rule/character/stability.md) are doubled, you gain an [edge](../../Browse/rule/dice/edge.md) on [Might](../../Browse/rule/character/might.md) [tests](../../Browse/rule/test/test.md), and your weapon abilities that deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) gain a damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score. You shrink back to your original [size](../../Browse/rule/character/size.md) after 3 rounds, halving your current [Stamina](../../Browse/rule/health/stamina.md) maximum and [Stability](../../Browse/rule/character/stability.md), and losing the potion's other benefits. Objects maintain their new [size](../../Browse/rule/character/size.md) permanently.
 
 #### Healing Potion {data-scc="mcdm.heroes.v1/treasure.1st-echelon.consumable/healing-potion"}
 
@@ -255,7 +255,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Goal:** 45 (yields 1d3 teeth)
 
-**Effect:** As a maneuver, you attach a lachomp tooth to a weapon, allowing that weapon to supernaturally flicker in and out of reality. Your next strike that uses the weapon can tear through multiple targets in a line (for a ranged [strike](../../Browse/rule/combat/strike.md)) or surrounding you (for a melee [strike](../../Browse/rule/combat/strike.md)). The [strike](../../Browse/rule/combat/strike.md) adds the following effects to the [tier outcomes](../../Browse/rule/dice/tier-outcome.md) of the [power roll](../../Browse/rule/dice/power-roll.md):
+**Effect:** As a maneuver, you attach a lachomp tooth to a weapon, allowing that weapon to [supernatural](../../Browse/rule/general/supernatural.md)ly flicker in and out of reality. Your next strike that uses the weapon can tear through multiple targets in a line (for a [ranged](../../Browse/rule/combat/ranged.md) [strike](../../Browse/rule/combat/strike.md)) or surrounding you (for a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md)). The [strike](../../Browse/rule/combat/strike.md) adds the following effects to the [tier outcomes](../../Browse/rule/dice/tier-outcome.md) of the [power roll](../../Browse/rule/dice/power-roll.md):
 
 - **≤11:** You can affect one additional target with this [strike](../../Browse/rule/combat/strike.md).
 - **12-16:** You can affect up to three additional targets with this [strike](../../Browse/rule/combat/strike.md).
@@ -275,7 +275,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Goal:** 45
 
-**Effect:** While the Mirror Token is on your person and you are targeted by a ranged [strike](../../Browse/rule/combat/strike.md), you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to crush the token and ignore the [strike](../../Browse/rule/combat/strike.md). Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the [strike](../../Browse/rule/combat/strike.md).
+**Effect:** While the Mirror Token is on your person and you are targeted by a [ranged](../../Browse/rule/combat/ranged.md) [strike](../../Browse/rule/combat/strike.md), you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to crush the token and ignore the [strike](../../Browse/rule/combat/strike.md). Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the [strike](../../Browse/rule/combat/strike.md).
 
 #### Pocket Homunculus {data-scc="mcdm.heroes.v1/treasure.1st-echelon.consumable/pocket-homunculus"}
 
@@ -291,7 +291,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Goal:** 45
 
-**Effect:** When activated as a maneuver, this item erupts in a bright flash, you can [shift](../../Browse/movement/shifting.md) 1 square without your enemies noticing your movement, and a homunculus perfectly resembling you appears in an adjacent space. The homunculus is a creature with [Stamina](../../Browse/rule/health/stamina.md) 15, a 0 in all their [characteristics](../../Browse/rule/character/characteristic.md), and a [speed](../../Browse/rule/character/speed.md) and [stability](../../Browse/rule/character/stability.md) equal to yours. They appear indistinguishable from you but can't use any abilities.
+**Effect:** When activated as a maneuver, this item erupts in a bright flash, you can [shift](../../Browse/movement/shifting.md) 1 square without your enemies noticing your movement, and a homunculus perfectly resembling you appears in an [adjacent](../../Browse/rule/combat/adjacent.md) space. The homunculus is a creature with [Stamina](../../Browse/rule/health/stamina.md) 15, a 0 in all their [characteristics](../../Browse/rule/character/characteristic.md), and a [speed](../../Browse/rule/character/speed.md) and [stability](../../Browse/rule/character/stability.md) equal to yours. They appear indistinguishable from you but can't use any abilities.
 
 While you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to your homunculus, you can use a maneuver to issue them a telepathic command. The homunculus performs the command to the best of their ability. If not commanded, the homunculus mimics your movements and speech. When you move, the homunculus moves with you, matching your pace. The homunculus crumbles to dust after 1 hour or if reduced to 0 [Stamina](../../Browse/rule/health/stamina.md).
 
@@ -313,9 +313,9 @@ While you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to y
 
 Enterprising mages within various thieves' guilds have developed variations of the Portable Cloud. Each variation has a secondary [item prerequisite](../../Browse/rule/downtime/item-prerequisite.md) and a project goal of 45.
 
-**Noxious Cloud:** Filled with a green or putrid yellow haze, this sphere spreads a choking, foul-smelling mist when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 poison damage. Additionally, any creature is [weakened](../../Browse/condition/weakened.md) while in the fog.
+**Noxious Cloud:** Filled with a green or putrid yellow haze, this sphere spreads a choking, foul-smelling mist when broken. Each creature who enters the cloud for the first time in a [combat round](../../Browse/rule/combat/combat-round.md) or starts their turn there takes 5 poison damage. Additionally, any creature is [weakened](../../Browse/condition/weakened.md) while in the fog.
 
-**[Item Prerequisite](../../Browse/rule/downtime/item-prerequisite.md):** An ounce of undead flesh. **Thunderhead Cloud:** Small lightning bolts arc around the black cloud in this sphere, which creates a 3 [cube](../../Browse/rule/combat/cube.md) of cloud and lightning when broken. Each creature who enters the cloud for the first time in a combat round or starts their turn there takes 5 lightning damage. Additionally, any creature is [slowed](../../Browse/condition/slowed.md) while in the cloud.
+**[Item Prerequisite](../../Browse/rule/downtime/item-prerequisite.md):** An ounce of undead flesh. **Thunderhead Cloud:** Small lightning bolts arc around the black cloud in this sphere, which creates a 3 [cube](../../Browse/rule/combat/cube.md) of cloud and lightning when broken. Each creature who enters the cloud for the first time in a [combat round](../../Browse/rule/combat/combat-round.md) or starts their turn there takes 5 lightning damage. Additionally, any creature is [slowed](../../Browse/condition/slowed.md) while in the cloud.
 
 **[Item Prerequisite](../../Browse/rule/downtime/item-prerequisite.md):** A spool of copper wire.
 
@@ -333,7 +333,7 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you sprinkle a dose of this powder onto food or drink, or blow it at an adjacent creature who is [grabbed](../../Browse/condition/grabbed.md), [restrained](../../Browse/condition/restrained.md), or unconscious. A creature who is exposed to blown powder (even if they hold their breath) or consumes a dose of the powder must communicate in only true statements for 1 hour. Additionally, other creatures gain an [edge](../../Browse/rule/dice/edge.md) on [Intuition](../../Browse/rule/character/intuition.md) and [Presence](../../Browse/rule/character/presence.md) [tests](../../Browse/rule/test/test.md) made to convince the target to communicate, or to read the target's emotions. Any such creature has a double [edge](../../Browse/rule/dice/edge.md) on the [test](../../Browse/rule/test/test.md) if the target doesn't realize they've been affected by the snuff.
+**Effect:** As a maneuver, you sprinkle a dose of this powder onto food or drink, or blow it at an [adjacent](../../Browse/rule/combat/adjacent.md) creature who is [grabbed](../../Browse/condition/grabbed.md), [restrained](../../Browse/condition/restrained.md), or unconscious. A creature who is exposed to blown powder (even if they hold their breath) or consumes a dose of the powder must communicate in only true statements for 1 hour. Additionally, other creatures gain an [edge](../../Browse/rule/dice/edge.md) on [Intuition](../../Browse/rule/character/intuition.md) and [Presence](../../Browse/rule/character/presence.md) [tests](../../Browse/rule/test/test.md) made to convince the target to communicate, or to read the target's emotions. Any such creature has a double [edge](../../Browse/rule/dice/edge.md) on the [test](../../Browse/rule/test/test.md) if the target doesn't realize they've been affected by the snuff.
 
 #### Snapdragon {data-scc="mcdm.heroes.v1/treasure.1st-echelon.consumable/snapdragon"}
 
@@ -349,7 +349,7 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Project Goal:** 45 (yields 1d6 + 1 snapdragons)
 
-**Effect:** As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 bonus to the [distance](../../Browse/rule/combat/distance.md) of any [forced movement](../../Browse/movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../../Browse/movement/forced-movement.md), you can push each creature targeted by the ability up to 2 squares.
+**Effect:** As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [distance](../../Browse/rule/combat/distance.md) of any [forced movement](../../Browse/movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../../Browse/movement/forced-movement.md), you can push each creature targeted by the ability up to 2 squares.
 
 ### 2nd-Echelon Consumables
 
@@ -369,7 +369,7 @@ This section presents 2nd-[echelon](../../Browse/rule/general/echelon.md) [consu
 
 **Project Goal:** 90
 
-**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../../Browse/condition/frightened.md), [slowed](../../Browse/condition/slowed.md), and [taunted](../../Browse/condition/taunted.md) conditions on yourself, and you gain a +8 bonus to [Stability](../../Browse/rule/character/stability.md) until the end of the encounter.
+**Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the [frightened](../../Browse/condition/frightened.md), [slowed](../../Browse/condition/slowed.md), and [taunted](../../Browse/condition/taunted.md) [conditions](../../Browse/rule/combat/condition.md) on yourself, and you gain a +8 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stability](../../Browse/rule/character/stability.md) until the end of the encounter.
 
 #### Bull Shot {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.consumable/bull-shot"}
 
@@ -401,7 +401,7 @@ This section presents 2nd-[echelon](../../Browse/rule/general/echelon.md) [consu
 
 **Project Goal:** 90
 
-**Effect:** When you consume this delicious piece of candy as a maneuver, you gain 15 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) and a +10 bonus to [stability](../../Browse/rule/character/stability.md). Additionally, if you don't use your movement during your turn, any strikes you make on that turn deal an extra 5 damage, and any [strikes](../../Browse/rule/combat/strike.md) against you take a [bane](../../Browse/rule/dice/bane.md) until the start of your next turn. This effect and the bonus to [stability](../../Browse/rule/character/stability.md) lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) lasts until the end of your next [respite](../../Browse/rule/resource/respite.md).
+**Effect:** When you consume this delicious piece of candy as a maneuver, you gain 15 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) and a +10 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md). Additionally, if you don't use your movement during your [turn](../../Browse/rule/combat/turn.md), any strikes you make on that [turn](../../Browse/rule/combat/turn.md) deal an extra 5 damage, and any [strikes](../../Browse/rule/combat/strike.md) against you take a [bane](../../Browse/rule/dice/bane.md) until the start of your next [turn](../../Browse/rule/combat/turn.md). This effect and the [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [stability](../../Browse/rule/character/stability.md) lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) lasts until the end of your next [respite](../../Browse/rule/resource/respite.md).
 
 #### Concealment Potion {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.consumable/concealment-potion"}
 
@@ -489,7 +489,7 @@ A creature with a willing soul returns to life at the end of the [respite](../..
 - **[Size](../../Browse/rule/character/size.md) 2:** vertical pull 3
 - **[Size](../../Browse/rule/character/size.md) 3:** vertical pull 1
 
-If you pull a [size](../../Browse/rule/character/size.md) 1T object adjacent to you, you can catch it. This treasure can affect any target within [line of effect](../../Browse/rule/combat/line-of-effect.md).
+If you pull a [size](../../Browse/rule/character/size.md) 1T object [adjacent](../../Browse/rule/combat/adjacent.md) to you, you can catch it. This treasure can affect any target within [line of effect](../../Browse/rule/combat/line-of-effect.md).
 
 #### Vial of Ethereal Attack {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.consumable/vial-of-ethereal-attack"}
 
@@ -505,7 +505,7 @@ If you pull a [size](../../Browse/rule/character/size.md) 1T object adjacent to 
 
 **Project Goal:** 90
 
-**Effect:** As a maneuver, you throw this vial up to 10 squares, destroying the vial and creating a 2-[cube](../../Browse/rule/combat/cube.md) ethereal vortex centered on the spot where it lands. The vortex dissipates at the end of the encounter or when you dismiss it (no action required). Any creature who enters the vortex for the first time in a combat round or starts their turn there takes 10 psychic damage. At the start of each of your turns, you can move the vortex up to 5 squares (no action required).
+**Effect:** As a maneuver, you throw this vial up to 10 squares, destroying the vial and creating a 2-[cube](../../Browse/rule/combat/cube.md) ethereal vortex centered on the spot where it lands. The vortex dissipates at the end of the encounter or when you dismiss it (no action required). Any creature who enters the vortex for the first time in a [combat round](../../Browse/rule/combat/combat-round.md) or starts their turn there takes 10 psychic damage. At the start of each of your [turns](../../Browse/rule/combat/turn.md), you can move the vortex up to 5 squares (no action required).
 
 ### 3rd-Echelon Consumables
 
@@ -525,9 +525,9 @@ This section presents 3rd-[echelon](../../Browse/rule/general/echelon.md) [consu
 
 **Project Goal:** 180
 
-**Effect:** When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh adjacent to you. The wall can't be created to fill any square occupied by a creature with [stability](../../Browse/rule/character/stability.md) 1 or higher. Each other creature in the wall when it is created is pushed to the nearest unoccupied space.
+**Effect:** When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh [adjacent](../../Browse/rule/combat/adjacent.md) to you. The wall can't be created to fill any square occupied by a creature with [stability](../../Browse/rule/character/stability.md) 1 or higher. Each other creature in the wall when it is created is pushed to the nearest unoccupied space.
 
-At the start of each of your turns, each creature adjacent to the wall takes psychic damage equal to three times their [Intuition](../../Browse/rule/character/intuition.md) score, and you can add 1 square to the wall for each creature who takes this damage. If no creature takes damage at the start of your turn, the larva dies and the wall disappears.
+At the start of each of your [turns](../../Browse/rule/combat/turn.md), each creature [adjacent](../../Browse/rule/combat/adjacent.md) to the wall takes psychic damage equal to three times their [Intuition](../../Browse/rule/character/intuition.md) score, and you can add 1 square to the wall for each creature who takes this damage. If no creature takes damage at the start of your [turn](../../Browse/rule/combat/turn.md), the larva dies and the wall disappears.
 
 #### Bottled Paradox {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.consumable/bottled-paradox"}
 
@@ -591,7 +591,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** When you drink this potion as a maneuver, you gain a tenacious will to cling to life for 24 hours. If you are [dying](../../Browse/rule/health/dying.md) during this time, you don't die until you reach the negative of your [Stamina](../../Browse/rule/health/stamina.md) maximum rather than your [winded](../../Browse/rule/health/winded.md) value. Additionally, while you are [dying](../../Browse/rule/health/dying.md), you gain on [edge](../../Browse/rule/dice/edge.md) on [power rolls](../../Browse/rule/dice/power-roll.md) and you take half the damage dealt by the [bleeding](../../Browse/condition/bleeding.md) condition. Once the potion's magic is triggered, it ends when you are no longer [dying](../../Browse/rule/health/dying.md).
+**Effect:** When you drink this potion as a maneuver, you gain a tenacious will to cling to life for 24 hours. If you are [dying](../../Browse/rule/health/dying.md) during this time, you don't die until you reach the negative of your [Stamina](../../Browse/rule/health/stamina.md) maximum rather than your [winded](../../Browse/rule/health/winded.md) value. Additionally, while you are [dying](../../Browse/rule/health/dying.md), you gain on [edge](../../Browse/rule/dice/edge.md) on [power rolls](../../Browse/rule/dice/power-roll.md) and you take half the damage dealt by the [bleeding](../../Browse/condition/bleeding.md) [condition](../../Browse/rule/combat/condition.md). Once the potion's magic is triggered, it ends when you are no longer [dying](../../Browse/rule/health/dying.md).
 
 #### Timesplitter {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.consumable/timesplitter"}
 
@@ -607,7 +607,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** As a maneuver, you make a ranged [free strike](../../Browse/feature/common/main-actions/free-strike.md) using the Timesplitter, which shatters upon impact. The [strike](../../Browse/rule/combat/strike.md) deals an extra 1d6 psychic damage and adds the following effects to the [tier outcomes](../../Browse/rule/dice/tier-outcome.md) of the [power roll](../../Browse/rule/dice/power-roll.md):
+**Effect:** As a maneuver, you make a [ranged](../../Browse/rule/combat/ranged.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) using the Timesplitter, which shatters upon impact. The [strike](../../Browse/rule/combat/strike.md) deals an extra 1d6 psychic damage and adds the following effects to the [tier outcomes](../../Browse/rule/dice/tier-outcome.md) of the [power roll](../../Browse/rule/dice/power-roll.md):
 
 - **≤11:** The target and each creature within 3 squares of them a [slowed](../../Browse/condition/slowed.md) (save ends).
 - **12-16:** The target and each creature within 5 squares of them is [slowed](../../Browse/condition/slowed.md) (save ends).
@@ -643,7 +643,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** When you drink this tonic as a maneuver, you feel a surge of physical and spiritual immunity. You can immediately end up to three conditions or effects affecting you. Additionally, until the start of your next turn, you can ignore any effect that would last until the end of your next turn or be ended by a [saving throw](../../Browse/rule/general/saving-throw.md).
+**Effect:** When you drink this tonic as a maneuver, you feel a surge of physical and spiritual immunity. You can immediately end up to three [conditions](../../Browse/rule/combat/condition.md) or effects affecting you. Additionally, until the start of your next [turn](../../Browse/rule/combat/turn.md), you can ignore any effect that would last until the end of your next [turn](../../Browse/rule/combat/turn.md) or be ended by a [saving throw](../../Browse/rule/general/saving-throw.md).
 
 ### 4th-Echelon Consumables
 
@@ -663,7 +663,7 @@ This section presents 4th-[echelon](../../Browse/rule/general/echelon.md) [consu
 
 **Project Goal:** 360
 
-**Effect:** When you inhale the Breath of Creation as a maneuver, you are imbued with cosmic power. You earn 1 [Renown](../../Browse/rule/resource/renown.md), and you create a [size](../../Browse/rule/character/size.md) 2 portal to a new demiplane in an adjacent square. The demiplane is a 20-[cube](../../Browse/rule/combat/cube.md) area whose form and mundane features are chosen by you. The portal appears only to you and creatures you designate, and only you and those creatures can enter the demiplane. When a creature moves into the portal, they emerge from a corresponding portal inside the demiplane, and vice versa. Objects created within the demiplane turn to dust if removed from it.
+**Effect:** When you inhale the Breath of Creation as a maneuver, you are imbued with cosmic power. You earn 1 [Renown](../../Browse/rule/resource/renown.md), and you create a [size](../../Browse/rule/character/size.md) 2 portal to a new demiplane in an [adjacent](../../Browse/rule/combat/adjacent.md) square. The demiplane is a 20-[cube](../../Browse/rule/combat/cube.md) area whose form and mundane features are chosen by you. The portal appears only to you and creatures you designate, and only you and those creatures can enter the demiplane. When a creature moves into the portal, they emerge from a corresponding portal inside the demiplane, and vice versa. Objects created within the demiplane turn to dust if removed from it.
 
 Each time you use another Breath of Creation, you can create a new demiplane or expand a demiplane you have already created or visited. The size of an expanded demiplane increases by 20, and you create a second portal to the demiplane with a corresponding portal inside.
 
@@ -699,7 +699,7 @@ Infinite Library detailing incomplete instructions for building a sun
 
 **Project Goal:** 360
 
-**Effect:** As a maneuver, you spend 1 [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) to destroy this page and create a 4-[cube](../../Browse/rule/combat/cube.md) area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a combat round or starts their turn there takes 20 fire damage and is [dazed](../../Browse/condition/dazed.md) until the end of their turn.
+**Effect:** As a maneuver, you spend 1 [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) to destroy this page and create a 4-[cube](../../Browse/rule/combat/cube.md) area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a [combat round](../../Browse/rule/combat/combat-round.md) or starts their turn there takes 20 fire damage and is [dazed](../../Browse/condition/dazed.md) until the end of their [turn](../../Browse/rule/combat/turn.md).
 
 #### Restorative of the Bright Court {data-scc="mcdm.heroes.v1/treasure.4th-echelon.consumable/restorative-of-the-bright-court"}
 
@@ -795,7 +795,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) once during the fall before you hit the ground.
+**Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall 5 or more squares this way, you can make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) once during the fall before you hit the ground.
 
 #### Displacing Replacement Bracer {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/displacing-replacement-bracer"}
 
@@ -827,7 +827,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../../Browse/condition/grabbed.md), you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until it takes damage from a [strike](../../Browse/rule/combat/strike.md), the target escapes your grab, or you call upon the vine to release the target (no action required).
+**Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver at a distance. If the target is [grabbed](../../Browse/condition/grabbed.md), you can choose to keep the divine vine extended, pull the target [adjacent](../../Browse/rule/combat/adjacent.md) to you, or pull yourself [adjacent](../../Browse/rule/combat/adjacent.md) to the target. The divine vine stays attached to the target until it takes damage from a [strike](../../Browse/rule/combat/strike.md), the target escapes your grab, or you call upon the vine to release the target (no action required).
 
 #### Flameshade Gloves {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/flameshade-gloves"}
 
@@ -877,7 +877,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** Whenever you use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 bonus to [speed](../../Browse/rule/character/speed.md) until the end of your current turn. After charging, you can use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver as a [free maneuver](../../Browse/rule/combat/free-maneuver.md), regardless of the target creature's [size](../../Browse/rule/character/size.md).
+**Effect:** Whenever you use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) until the end of your current [turn](../../Browse/rule/combat/turn.md). After charging, you can use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver as a [free maneuver](../../Browse/rule/combat/free-maneuver.md), regardless of the target creature's [size](../../Browse/rule/character/size.md).
 
 #### Mask of the Many {data-scc="mcdm.heroes.v1/treasure.1st-echelon.trinket/mask-of-the-many"}
 
@@ -925,7 +925,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Project Goal:** 150
 
-**Effect:** These boots can temporarily unbind themselves from the chains of the earth, letting you move through the air as high as 3 squares above the ground from where you started. If you end your turn while you are still airborne, you fall.
+**Effect:** These boots can temporarily unbind themselves from the chains of the earth, letting you move through the air as high as 3 squares above the ground from where you started. If you end your [turn](../../Browse/rule/combat/turn.md) while you are still airborne, you fall.
 
 ### 2nd-Echelon Trinkets
 
@@ -945,7 +945,7 @@ This section presents 2nd-[echelon](../../Browse/rule/general/echelon.md) [trink
 
 **Project Goal:** 300
 
-**Effect:** While worn, this belt grants you a +3 bonus to [Stamina](../../Browse/rule/health/stamina.md) and a +1 bonus to [Stability](../../Browse/rule/character/stability.md). This [Stamina](../../Browse/rule/health/stamina.md) bonus adds to the [Stamina](../../Browse/rule/health/stamina.md) bonus granted by other treasures.
+**Effect:** While worn, this belt grants you a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) and a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stability](../../Browse/rule/character/stability.md). This [Stamina](../../Browse/rule/health/stamina.md) [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) adds to the [Stamina](../../Browse/rule/health/stamina.md) [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) granted by other treasures.
 
 #### Evilest Eye {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.trinket/evilest-eye"}
 
@@ -993,7 +993,7 @@ This section presents 2nd-[echelon](../../Browse/rule/general/echelon.md) [trink
 
 **Project Goal:** 300
 
-**Effect:** As a maneuver, you touch the key to an adjacent willing, [grabbed](../../Browse/condition/grabbed.md), or [restrained](../../Browse/condition/restrained.md) creature and twist the key 90 degrees clockwise. That creature must answer the next three questions they are asked truthfully and fully. If twisted 90 degrees counterclockwise instead, the creature forgets the last 30 minutes they experienced. A creature affected by the key can't be affected again by any Key of Inquiry for 1 year. If the key is ever destroyed, all the memories it has erased are restored. Memories erased by the key can't be restored in any other way.
+**Effect:** As a maneuver, you touch the key to an [adjacent](../../Browse/rule/combat/adjacent.md) willing, [grabbed](../../Browse/condition/grabbed.md), or [restrained](../../Browse/condition/restrained.md) creature and twist the key 90 degrees clockwise. That creature must answer the next three questions they are asked truthfully and fully. If twisted 90 degrees counterclockwise instead, the creature forgets the last 30 minutes they experienced. A creature affected by the key can't be affected again by any Key of Inquiry for 1 year. If the key is ever destroyed, all the memories it has erased are restored. Memories erased by the key can't be restored in any other way.
 
 #### Mediator's Charm {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.trinket/mediators-charm"}
 
@@ -1059,8 +1059,8 @@ This section presents 2nd-[echelon](../../Browse/rule/general/echelon.md) [trink
 
 **Effect:** As a maneuver, you toss the coin in the air and let it fall to the ground in front of you. Roll a d3 to determine the coin's effect, depending on which face shows when it lands:
 
-- **1-Red:** The area within 2 squares of you is [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies until the end of your next turn.
-- **2-Green:** You and each ally who starts their turn within 2 squares of you gains a +1 bonus to [speed](../../Browse/rule/character/speed.md) until the end of your next turn.
+- **1-Red:** The area within 2 squares of you is [difficult terrain](../../Browse/movement/difficult-terrain.md) for enemies until the end of your next [turn](../../Browse/rule/combat/turn.md).
+- **2-Green:** You and each ally who starts their [turn](../../Browse/rule/combat/turn.md) within 2 squares of you gains a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) until the end of your next [turn](../../Browse/rule/combat/turn.md).
 - **3-Spinning Coin:** Both the red and green effects occur while the coin continuously spins.
 
 The coin must be picked up before it can be used again. If any creature picks up the coin, its effects immediately end.
@@ -1083,7 +1083,7 @@ This section presents 3rd-[echelon](../../Browse/rule/general/echelon.md) [trink
 
 **Project Goal:** 450
 
-**Effect:** While you wear them in combat, these bracers magically double the size of your hands and any melee weapons you wield, automatically compensating for the extra weight. You gain a +2 damage bonus for any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md), and a +1 bonus to the [distance](../../Browse/rule/combat/distance.md) you push any target with any weapon ability. This damage bonus adds to the damage bonus granted by other treasures.
+**Effect:** While you wear them in combat, these bracers magically double the size of your hands and any [melee](../../Browse/rule/combat/melee.md) weapons you wield, automatically compensating for the extra weight. You gain a +2 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) for any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md), and a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [distance](../../Browse/rule/combat/distance.md) you push any target with any weapon ability. This damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) adds to the damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) granted by other treasures.
 
 #### Mask of Oversight {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.trinket/mask-of-oversight"}
 
@@ -1117,7 +1117,7 @@ While the eyes circle your head, you can use a maneuver to launch up to three of
 
 **Project Goal:** 450
 
-**Effect:** While wearing the Mirage Band, you automatically perceive illusions for what they are, you can see invisible creatures, and supernatural effects can't conceal creatures and objects from you.
+**Effect:** While wearing the Mirage Band, you automatically perceive illusions for what they are, you can see invisible creatures, and [supernatural](../../Browse/rule/general/supernatural.md) effects can't conceal creatures and objects from you.
 
 Additionally, you have the following ability.
 
@@ -1126,9 +1126,9 @@ Additionally, you have the following ability.
 >
 > *A blanket of illusion twists around you and your allies, making you seem as if you belong wherever you are.*
 >
-> | **Psionic, Ranged** |             **Maneuver** |
+> | **Psionic, [Ranged](../../Browse/rule/combat/ranged.md)** |             **Maneuver** |
 > |---------------------|-------------------------:|
-> | **📏 Ranged 10**    | **🎯 Self and any ally** |
+> | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 Self and any ally** |
 >
 > **Effect:** Each target is covered by an illusion causing them to appear exactly as any creature (humanoid, animal, undead, and so forth) an observer most expects to see. The illusion ends for all targets if any creature under its effect harms or physically interacts with any creature not affected by the illusion, if you use this ability again, or if you choose to end the effect (no action required). The illusion also ends for any affected ally who moves more than the [distance](../../Browse/rule/combat/distance.md) of this ability away from you.
 
@@ -1155,9 +1155,9 @@ Additionally, you have the following ability.
 >
 > *Your punch delivers a devastating burst of psionic energy.*
 >
-> | **Melee, Psionic**, **Strike, Weapon** |               **Main action** |
+> | **[Melee](../../Browse/rule/combat/melee.md), Psionic**, **Strike, Weapon** |               **Main action** |
 > |----------------------------------------|------------------------------:|
-> | **📏 Melee 1**                         | **🎯 One creature or object** |
+> | **📏 [Melee](../../Browse/rule/combat/melee.md) 1**                         | **🎯 One creature or object** |
 >
 > **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 >
@@ -1181,7 +1181,7 @@ Additionally, you have the following ability.
 
 **Project Goal:** 450
 
-**Effect:** Once per turn, you can use a maneuver to [teleport](../../Browse/movement/teleport.md) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](../../Browse/movement/teleport.md), you can [teleport](../../Browse/movement/teleport.md) up to 3 additional squares.
+**Effect:** Once per [turn](../../Browse/rule/combat/turn.md), you can use a maneuver to [teleport](../../Browse/movement/teleport.md) up to 3 squares. Additionally, when targeted by any other effect that causes you to [teleport](../../Browse/movement/teleport.md), you can [teleport](../../Browse/movement/teleport.md) up to 3 additional squares.
 
 ### 4th-Echelon Trinkets
 
@@ -1223,7 +1223,7 @@ A trapped spirit remains in the lantern for 10 minutes. They remember being trap
 
 **Project Goal:** 600
 
-**Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a melee weapon free strike that deals an extra 3 psychic damage.
+**Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a [melee](../../Browse/rule/combat/melee.md) weapon free strike that deals an extra 3 psychic damage.
 
 ## Leveled Treasures {data-scc="mcdm.heroes.v1/rule.treasure/leveled-treasure"}
 
@@ -1235,7 +1235,7 @@ Each [leveled treasure](../../Browse/rule/treasure/leveled-treasure.md) has bene
 
 ### Carry Three Safely
 
-Your connection with [leveled treasures](../../Browse/rule/treasure/leveled-treasure.md) doesn't just make them useful. It also makes them dangerous. Each [leveled treasure](../../Browse/rule/treasure/leveled-treasure.md) is a quasi-sentient, purpose-driven entity. A magic sword wishes to be used in combat. A psionic implement yearns to unleash its powerful magic. As such, a creature can safely carry a maximum of three [leveled treasures](../../Browse/rule/treasure/leveled-treasure.md) at a time. If you carry more [leveled treasures](../../Browse/rule/treasure/leveled-treasure.md), those items become jealous of one another and fight for your attention, attempting to subconsciously influence you into using them—and leaving your other items behind.
+Your connection with [leveled treasures](../../Browse/rule/treasure/leveled-treasure.md) doesn't just make them useful. It also makes them dangerous. Each [leveled treasure](../../Browse/rule/treasure/leveled-treasure.md) is a quasi-sentient, purpose-driven entity. A magic sword wishes to be used in combat. A psionic [implement](../../Browse/rule/treasure/implement.md) yearns to unleash its powerful magic. As such, a creature can safely carry a maximum of three [leveled treasures](../../Browse/rule/treasure/leveled-treasure.md) at a time. If you carry more [leveled treasures](../../Browse/rule/treasure/leveled-treasure.md), those items become jealous of one another and fight for your attention, attempting to subconsciously influence you into using them—and leaving your other items behind.
 
 It's fine to own or possess more than three [leveled treasures](../../Browse/rule/treasure/leveled-treasure.md), as long as the extras are stored away or in the possession of other creatures. But if you carry more than three [leveled treasures](../../Browse/rule/treasure/leveled-treasure.md), you must make a [Presence](../../Browse/rule/character/presence.md) [test](../../Browse/rule/test/test.md) during each [respite](../../Browse/rule/resource/respite.md):
 
@@ -1265,11 +1265,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md), and you have immunity to acid and poison damage equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score.
+**1st Level:** While you wear this armor, you gain a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md), and you have immunity to acid and poison damage equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score.
 
-**5th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +12. Additionally, whenever an adjacent creature deals damage to you, they take 3 acid or poison damage (your choice).
+**5th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +12. Additionally, whenever an [adjacent](../../Browse/rule/combat/adjacent.md) creature deals damage to you, they take 3 acid or poison damage (your choice).
 
-**9th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +21, and an adjacent creature who deals damage to you takes 6 acid or poison damage. Additionally, you can use a maneuver to transmute a 2-[cube](../../Browse/rule/combat/cube.md) area of liquid or gas adjacent to you into liquid acid or poison gas until the start of your next turn. Any creature who enters the area for the first time in a combat round or starts their turn there takes 6 acid or poison damage, as appropriate.
+**9th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +21, and an [adjacent](../../Browse/rule/combat/adjacent.md) creature who deals damage to you takes 6 acid or poison damage. Additionally, you can use a maneuver to transmute a 2-[cube](../../Browse/rule/combat/cube.md) area of liquid or gas [adjacent](../../Browse/rule/combat/adjacent.md) to you into liquid acid or poison gas until the start of your next [turn](../../Browse/rule/combat/turn.md). Any creature who enters the area for the first time in a [combat round](../../Browse/rule/combat/combat-round.md) or starts their turn there takes 6 acid or poison damage, as appropriate.
 
 #### Chain of the Sea and Sky {data-scc="mcdm.heroes.v1/treasure.leveled.armor/chain-of-the-sea-and-sky"}
 
@@ -1285,11 +1285,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md), you can automatically swim at full [speed](../../Browse/rule/character/speed.md) while moving, and you can breathe underwater for up to 1 hour. Returning to the surface to breathe air again for any length of time reset's the armor's water-breathing benefit.
+**1st Level:** While you wear this armor, you gain a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md), you can automatically swim at full [speed](../../Browse/rule/character/speed.md) while moving, and you can breathe underwater for up to 1 hour. Returning to the surface to breathe air again for any length of time reset's the armor's water-breathing benefit.
 
-**5th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +12, and you have cold immunity 5. Additionally, whenever you fall, you can extend your arms (no action required) to unfurl a thick membrane between your arms and your body, slowing your fall and allowing you to glide. While gliding this way, you move downward at 1 square per round, and you can glide up to 6 squares horizontally as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) once during each of your turns.
+**5th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +12, and you have cold immunity 5. Additionally, whenever you fall, you can extend your arms (no action required) to unfurl a thick membrane between your arms and your body, slowing your fall and allowing you to glide. While gliding this way, you move downward at 1 square per round, and you can glide up to 6 squares horizontally as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) once during each of your [turns](../../Browse/rule/combat/turn.md).
 
-**9th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +21, and you have cold immunity 10. Additionally, whenever your feet are not touching the ground (including floating in water or being in midair), you gain an [edge](../../Browse/rule/dice/edge.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md), and any ability takes a [bane](../../Browse/rule/dice/bane.md) when targeting you.
+**9th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +21, and you have cold immunity 10. Additionally, whenever your feet are not touching the ground (including floating in water or being in midair), you gain an [edge](../../Browse/rule/dice/edge.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md), and any ability takes a [bane](../../Browse/rule/dice/bane.md) when targeting you.
 
 #### Grand Scarab {data-scc="mcdm.heroes.v1/treasure.leveled.armor/grand-scarab"}
 
@@ -1305,11 +1305,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md) and you can [fly](../../Browse/movement/fly.md). If you don't end your turn on the ground, you fall.
+**1st Level:** While you wear this armor, you gain a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) and you can [fly](../../Browse/movement/fly.md). If you don't end your turn on the ground, you fall.
 
-**5th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +12. Additionally, you no longer need to end your turn on the ground to avoid falling.
+**5th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +12. Additionally, you no longer need to end your turn on the ground to avoid falling.
 
-**9th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +21. Additionally, if you [fly](../../Browse/movement/fly.md) any [distance](../../Browse/rule/combat/distance.md) before making a [strike](../../Browse/rule/combat/strike.md), that [strike](../../Browse/rule/combat/strike.md) gains an [edge](../../Browse/rule/dice/edge.md).
+**9th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +21. Additionally, if you [fly](../../Browse/movement/fly.md) any [distance](../../Browse/rule/combat/distance.md) before making a [strike](../../Browse/rule/combat/strike.md), that [strike](../../Browse/rule/combat/strike.md) gains an [edge](../../Browse/rule/dice/edge.md).
 
 #### King's Roar {data-scc="mcdm.heroes.v1/treasure.leveled.armor/kings-roar"}
 
@@ -1325,11 +1325,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wield or carry this shield, you gain a +3 bonus to [Stamina](../../Browse/rule/health/stamina.md). This [Stamina](../../Browse/rule/health/stamina.md) bonus adds to the [Stamina](../../Browse/rule/health/stamina.md) bonus granted by other treasures. Additionally, you can use a maneuver to make the shield's lion face roar, choosing one adjacent creature or object and pushing that target up to 3 squares.
+**1st Level:** While you wield or carry this shield, you gain a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md). This [Stamina](../../Browse/rule/health/stamina.md) [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) adds to the [Stamina](../../Browse/rule/health/stamina.md) [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) granted by other treasures. Additionally, you can use a maneuver to make the shield's lion face roar, choosing one [adjacent](../../Browse/rule/combat/adjacent.md) creature or object and pushing that target up to 3 squares.
 
-**5th Level:** The shield's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +6. When you cause the shield to roar, you target one creature or object within 3 squares and push that target up to 4 squares.
+**5th Level:** The shield's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +6. When you cause the shield to roar, you target one creature or object within 3 squares and push that target up to 4 squares.
 
-**9th Level:** The shield's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you push that target up to 5 squares, and the target is [slowed](../../Browse/condition/slowed.md) until the end of their next turn.
+**9th Level:** The shield's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you push that target up to 5 squares, and the target is [slowed](../../Browse/condition/slowed.md) until the end of their next [turn](../../Browse/rule/combat/turn.md).
 
 #### Kuran'zoi Prismscale {data-scc="mcdm.heroes.v1/treasure.leveled.armor/kuranzoi-prismscale"}
 
@@ -1345,11 +1345,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** You gain a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md) while you wear this armor. Additionally, whenever a creature within 5 squares deals damage to you, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to capture a moment of time in the armor, making that creature [slowed](../../Browse/condition/slowed.md) until the end of their next turn.
+**1st Level:** You gain a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) while you wear this armor. Additionally, whenever a creature within 5 squares deals damage to you, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to capture a moment of time in the armor, making that creature [slowed](../../Browse/condition/slowed.md) until the end of their next [turn](../../Browse/rule/combat/turn.md).
 
-**5th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +12. Additionally, when you capture a moment of time in the armor, the triggering creature also takes corruption damage equal to twice your highest [characteristic](../../Browse/rule/character/characteristic.md) score.
+**5th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +12. Additionally, when you capture a moment of time in the armor, the triggering creature also takes corruption damage equal to twice your highest [characteristic](../../Browse/rule/character/characteristic.md) score.
 
-**9th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +21. Additionally, whenever you capture a moment of time in the armor, you can immediately release it to gain a +3 bonus to [speed](../../Browse/rule/character/speed.md) that lasts until the end of your next turn.
+**9th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +21. Additionally, whenever you capture a moment of time in the armor, you can immediately release it to gain a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md) that lasts until the end of your next [turn](../../Browse/rule/combat/turn.md).
 
 #### Paper Trappings {data-scc="mcdm.heroes.v1/treasure.leveled.armor/paper-trappings"}
 
@@ -1365,11 +1365,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md). Additionally, you can use a main action to fold in on yourself until you and your gear are paper thin. This effect lasts for 1 minute, letting you easily slip through any opening that is 1 inch wide or more. When you return to your three-dimensional form, you are [dazed](../../Browse/condition/dazed.md) for 1 minute. If you return to your true form while in a space that is too small for you, you are violently expelled into the nearest open space of your choice and take 3d6 damage.
+**1st Level:** While you wear this armor, you gain a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md). Additionally, you can use a main action to fold in on yourself until you and your gear are paper thin. This effect lasts for 1 minute, letting you easily slip through any opening that is 1 inch wide or more. When you return to your three-dimensional form, you are [dazed](../../Browse/condition/dazed.md) for 1 minute. If you return to your true form while in a space that is too small for you, you are violently expelled into the nearest open space of your choice and take 3d6 damage.
 
-**5th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +12, and when you return to your true form, you are [dazed](../../Browse/condition/dazed.md) only until the end of your next turn. Additionally, while you are paper thin, you can use a maneuver to wrap yourself around an adjacent target who is the same [size](../../Browse/rule/character/size.md) or smaller than you, automatically grabbing them.
+**5th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +12, and when you return to your true form, you are [dazed](../../Browse/condition/dazed.md) only until the end of your next [turn](../../Browse/rule/combat/turn.md). Additionally, while you are paper thin, you can use a maneuver to wrap yourself around an [adjacent](../../Browse/rule/combat/adjacent.md) target who is the same [size](../../Browse/rule/character/size.md) or smaller than you, automatically grabbing them.
 
-**9th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +21, and you are no longer [dazed](../../Browse/condition/dazed.md) when you return to your true form. Additionally, while you have a target [grabbed](../../Browse/condition/grabbed.md) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a [bane](../../Browse/rule/dice/bane.md) when using the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver against you and when making [strikes](../../Browse/rule/combat/strike.md) against you.
+**9th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +21, and you are no longer [dazed](../../Browse/condition/dazed.md) when you return to your true form. Additionally, while you have a target [grabbed](../../Browse/condition/grabbed.md) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a [bane](../../Browse/rule/dice/bane.md) when using the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver against you and when making [strikes](../../Browse/rule/combat/strike.md) against you.
 
 #### Shrouded Memory {data-scc="mcdm.heroes.v1/treasure.leveled.armor/shrouded-memory"}
 
@@ -1385,11 +1385,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** You gain a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md) while you wear this armor. Additionally, you gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to lie about or conceal your identity.
+**1st Level:** You gain a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) while you wear this armor. Additionally, you gain an [edge](../../Browse/rule/dice/edge.md) on [tests](../../Browse/rule/test/test.md) made to lie about or conceal your identity.
 
-**5th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +12. Additionally, whenever you take damage, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to [teleport](../../Browse/movement/teleport.md) up to 5 squares. If you do, you create an illusion of you [dying](../../Browse/rule/health/dying.md) in your previous space, which fades at the end of your next turn.
+**5th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +12. Additionally, whenever you take damage, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to [teleport](../../Browse/movement/teleport.md) up to 5 squares. If you do, you create an illusion of you [dying](../../Browse/rule/health/dying.md) in your previous space, which fades at the end of your next [turn](../../Browse/rule/combat/turn.md).
 
-**9th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +21. Whenever you use the armor's [triggered action](../../Browse/rule/combat/triggered-action.md) to [teleport](../../Browse/movement/teleport.md), you can [teleport](../../Browse/movement/teleport.md) up to a number of squares equal to the damage taken (minimum 5 squares). Additionally, if a creature dealt you the triggering damage, you become invisible to that creature until the end of your next turn.
+**9th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +21. Whenever you use the armor's [triggered action](../../Browse/rule/combat/triggered-action.md) to [teleport](../../Browse/movement/teleport.md), you can [teleport](../../Browse/movement/teleport.md) up to a number of squares equal to the damage taken (minimum 5 squares). Additionally, if a creature dealt you the triggering damage, you become invisible to that creature until the end of your next [turn](../../Browse/rule/combat/turn.md).
 
 #### Spiny Turtle {data-scc="mcdm.heroes.v1/treasure.leveled.armor/spiny-turtle"}
 
@@ -1405,11 +1405,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md). Additionally, you can use a main action to expand the armor on your back to create a 4 wall of metal behind you. The wall is an object that retracts if you move, or if it takes 15 damage. It then requires a main action to recalibrate before it can be deployed again.
+**1st Level:** While you wear this armor, you gain a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md). Additionally, you can use a main action to expand the armor on your back to create a 4 wall of metal behind you. The wall is an object that retracts if you move, or if it takes 15 damage. It then requires a main action to recalibrate before it can be deployed again.
 
-**5th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +12, and the damage the wall can take before retracting increases to 25. Additionally, while the wall is expanded, spikes extrude from it, and any creature who deals damage to the wall while adjacent to it takes 3 damage.
+**5th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +12, and the damage the wall can take before retracting increases to 25. Additionally, while the wall is expanded, spikes extrude from it, and any creature who deals damage to the wall while [adjacent](../../Browse/rule/combat/adjacent.md) to it takes 3 damage.
 
-**9th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +21. Additionally, spikes cover the armor, and any adjacent creature who deals damage to you takes 6 damage.
+**9th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +21. Additionally, spikes cover the armor, and any [adjacent](../../Browse/rule/combat/adjacent.md) creature who deals damage to you takes 6 damage.
 
 #### Star-Hunter {data-scc="mcdm.heroes.v1/treasure.leveled.armor/star-hunter"}
 
@@ -1425,11 +1425,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md), but any magic ability gains an [edge](../../Browse/rule/dice/edge.md) when targeting you. Additionally, you instinctively know the location of any creature with [concealment](../../Browse/rule/combat/concealment.md) within 2 squares. You can also turn invisible as a maneuver. Your invisibility ends if you take damage or use an ability, or at the end of your next turn.
+**1st Level:** While you wear this armor, you gain a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md), but any magic ability gains an [edge](../../Browse/rule/dice/edge.md) when targeting you. Additionally, you instinctively know the location of any creature with [concealment](../../Browse/rule/combat/concealment.md) within 2 squares. You can also [turn](../../Browse/rule/combat/turn.md) invisible as a maneuver. Your invisibility ends if you take damage or use an ability, or at the end of your next [turn](../../Browse/rule/combat/turn.md).
 
-**5th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +12, you instinctively know the location of any creature with [concealment](../../Browse/rule/combat/concealment.md) within 5 squares, and your invisibility no longer ends at the end of your next turn. Additionally, you have psychic immunity 5.
+**5th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +12, you instinctively know the location of any creature with [concealment](../../Browse/rule/combat/concealment.md) within 5 squares, and your invisibility no longer ends at the end of your next [turn](../../Browse/rule/combat/turn.md). Additionally, you have psychic immunity 5.
 
-**9th Level:** The armor's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +21, and you instinctively know the location of any creature with [concealment](../../Browse/rule/combat/concealment.md) within 10 squares. Your invisibility no longer ends when you use an ability, and you have psychic immunity 10.
+**9th Level:** The armor's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +21, and you instinctively know the location of any creature with [concealment](../../Browse/rule/combat/concealment.md) within 10 squares. Your invisibility no longer ends when you use an ability, and you have psychic immunity 10.
 
 #### Telekinetic Bulwark {data-scc="mcdm.heroes.v1/treasure.leveled.armor/telekinetic-bulwark"}
 
@@ -1445,21 +1445,21 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wield or carry this shield, you gain a +2 bonus to [Stamina](../../Browse/rule/health/stamina.md). This [Stamina](../../Browse/rule/health/stamina.md) bonus adds to the [Stamina](../../Browse/rule/health/stamina.md) bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to use the [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver against that enemy. You can have any number of enemies [grabbed](../../Browse/condition/grabbed.md) in this way.
+**1st Level:** While you wield or carry this shield, you gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md). This [Stamina](../../Browse/rule/health/stamina.md) [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) adds to the [Stamina](../../Browse/rule/health/stamina.md) [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) granted by other treasures. Additionally, once per [turn](../../Browse/rule/combat/turn.md) when an [adjacent](../../Browse/rule/combat/adjacent.md) enemy uses an ability, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to use the [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver against that enemy. You can have any number of enemies [grabbed](../../Browse/condition/grabbed.md) in this way.
 
-**5th Level:** The shield's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +5, and you can use the shield's free [triggered action](../../Browse/rule/combat/triggered-action.md) against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver while [grabbed](../../Browse/condition/grabbed.md) this way takes a [bane](../../Browse/rule/dice/bane.md) on the [test](../../Browse/rule/test/test.md).
+**5th Level:** The shield's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +5, and you can use the shield's free [triggered action](../../Browse/rule/combat/triggered-action.md) against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) maneuver while [grabbed](../../Browse/condition/grabbed.md) this way takes a [bane](../../Browse/rule/dice/bane.md) on the [test](../../Browse/rule/test/test.md).
 
-**9th Level:** The shield's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](../../Browse/condition/grabbed.md) up to 5 squares.
+**9th Level:** The shield's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](../../Browse/condition/grabbed.md) up to 5 squares.
 
 ### Leveled Implement Treasures
 
-Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects used by magic and psionic heroes to focus their power. This section presents [leveled implement treasures](treasures.md) in alphabetical order.
+[Implements](../../Browse/rule/treasure/implement.md) are pieces of jewelry, orbs, staffs, tomes, wands, and other objects used by magic and psionic heroes to focus their power. This section presents [leveled implement treasures](treasures.md) in alphabetical order.
 
 #### Abjurer's Bastion {data-scc="mcdm.heroes.v1/treasure.leveled.implement/abjurers-bastion"}
 
 *An ornate ring is set with a large diamond that swirls with blue light, and whose inner surface is etched with protective runes.*
 
-**Keywords:** Implement, Magic
+**Keywords:** [Implement](../../Browse/rule/treasure/implement.md), Magic
 
 **[Item Prerequisite](../../Browse/rule/downtime/item-prerequisite.md):** A diamond ring
 
@@ -1469,11 +1469,11 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **Project Goal:** 450
 
-**1st Level:** While you wield this implement, your magic or psionic abilities that deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) gain a +1 damage bonus. Additionally, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to a creature using a magic or psionic ability, you gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score.
+**1st Level:** While you wield this [implement](../../Browse/rule/treasure/implement.md), your magic or psionic abilities that deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) gain a +1 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md). Additionally, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to a creature using a magic or psionic ability, you gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score.
 
-**5th Level:** The implement's damage bonus increases to +2. Additionally, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) using a magic or psionic ability, you can use a maneuver to create an immobile field of protection that is a 1 [cube](../../Browse/rule/combat/cube.md), around yourself or around an ally within 5 squares. While in the area, you or the chosen ally has [damage immunity](../../Browse/rule/damage/damage-immunity.md) 5. The field disappears at the start of your next turn.
+**5th Level:** The [implement](../../Browse/rule/treasure/implement.md)'s damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +2. Additionally, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) using a magic or psionic ability, you can use a maneuver to create an immobile field of protection that is a 1 [cube](../../Browse/rule/combat/cube.md), around yourself or around an ally within 5 squares. While in the area, you or the chosen ally has [damage immunity](../../Browse/rule/damage/damage-immunity.md) 5. The field disappears at the start of your next [turn](../../Browse/rule/combat/turn.md).
 
-**9th Level:** The implement's damage bonus increases to +3. Whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to a creature using a magic or psionic ability, you and each ally within 5 squares of you gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score. Additionally, the size of your field of protection increases to a 3 [cube](../../Browse/rule/combat/cube.md), and it can be placed anywhere within 10 squares of you. You and each ally in the area gain its benefits.
+**9th Level:** The [implement](../../Browse/rule/treasure/implement.md)'s damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +3. Whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to a creature using a magic or psionic ability, you and each ally within 5 squares of you gains [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score. Additionally, the size of your field of protection increases to a 3 [cube](../../Browse/rule/combat/cube.md), and it can be placed anywhere within 10 squares of you. You and each ally in the area gain its benefits.
 
 #### Brittlebreaker {data-scc="mcdm.heroes.v1/treasure.leveled.implement/brittlebreaker"}
 
@@ -1489,17 +1489,17 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **Project Goal:** 450
 
-**1st Level:** While you wield this implement, your magic or psionic abilities that deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) deal an extra 2 psychic damage. Additionally, you have [damage weakness](../../Browse/rule/damage/damage-weakness.md) 3, and you gain an [edge](../../Browse/rule/dice/edge.md) on magic or psionic abilities if you aren't at full [Stamina](../../Browse/rule/health/stamina.md), or a double [edge](../../Browse/rule/dice/edge.md) if you are [winded](../../Browse/rule/health/winded.md).
+**1st Level:** While you wield this [implement](../../Browse/rule/treasure/implement.md), your magic or psionic abilities that deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) deal an extra 2 psychic damage. Additionally, you have [damage weakness](../../Browse/rule/damage/damage-weakness.md) 3, and you gain an [edge](../../Browse/rule/dice/edge.md) on magic or psionic abilities if you aren't at full [Stamina](../../Browse/rule/health/stamina.md), or a double [edge](../../Browse/rule/dice/edge.md) if you are [winded](../../Browse/rule/health/winded.md).
 
-**5th Level:** The implement's extra psychic damage increases to 3. Additionally, once per round when you take more than 20 damage from a single source, the implement's extra damage is doubled until the end of your next turn.
+**5th Level:** The [implement](../../Browse/rule/treasure/implement.md)'s extra psychic damage increases to 3. Additionally, once per round when you take more than 20 damage from a single source, the [implement](../../Browse/rule/treasure/implement.md)'s extra damage is doubled until the end of your next [turn](../../Browse/rule/combat/turn.md).
 
-**9th Level:** The implement's extra psychic damage increases to 4. Additionally, whenever you use a damage-dealing magic or psionic ability, you can take half as much total damage as is dealt to all targets to immediately use the same ability again. The damage you take can't be reduced in any way. You can't use this benefit more than once a turn.
+**9th Level:** The [implement](../../Browse/rule/treasure/implement.md)'s extra psychic damage increases to 4. Additionally, whenever you use a damage-dealing magic or psionic ability, you can take half as much total damage as is dealt to all targets to immediately use the same ability again. The damage you take can't be reduced in any way. You can't use this benefit more than once a [turn](../../Browse/rule/combat/turn.md).
 
 #### Chaldorb {data-scc="mcdm.heroes.v1/treasure.leveled.implement/chaldorb"}
 
 *A perfectly clear sphere is embossed with fine ivory and crystal that is frigid to the touch.*
 
-**Keywords:** Implement, Magic
+**Keywords:** [Implement](../../Browse/rule/treasure/implement.md), Magic
 
 **[Item Prerequisite](../../Browse/rule/downtime/item-prerequisite.md):** An ounce of primordial ice, an ounce of mammoth-ivory shards
 
@@ -1509,17 +1509,17 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **Project Goal:** 450
 
-**1st Level:** While you wield this implement, your magic or psionic abilities that deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) gain a +1 damage bonus. Additionally, if you make a magic [strike](../../Browse/rule/combat/strike.md), the [strike](../../Browse/rule/combat/strike.md) must deal cold damage instead of its usual damage.
+**1st Level:** While you wield this [implement](../../Browse/rule/treasure/implement.md), your magic or psionic abilities that deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) gain a +1 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md). Additionally, if you make a magic [strike](../../Browse/rule/combat/strike.md), the [strike](../../Browse/rule/combat/strike.md) must deal cold damage instead of its usual damage.
 
-**5th Level:** The implement's damage bonus increases to +2. Additionally, whenever you use a magic or psionic ability, a whirlwind of sleet and ice whips around you, dealing 3 cold damage to each adjacent enemy.
+**5th Level:** The [implement](../../Browse/rule/treasure/implement.md)'s damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +2. Additionally, whenever you use a magic or psionic ability, a whirlwind of sleet and ice whips around you, dealing 3 cold damage to each [adjacent](../../Browse/rule/combat/adjacent.md) enemy.
 
-**9th Level:** The implement's damage bonus increases to +3, and the whirlwind you create when you use a magic or psionic ability deals 6 cold damage to each enemy within 2 squares of you. Additionally, the whirlwind creates a 2 [aura](../../Browse/rule/combat/aura.md) around you that lasts until the start of your next turn. Each enemy who enters the [aura](../../Browse/rule/combat/aura.md) for the first time in a combat round or starts their turn there takes 6 cold damage.
+**9th Level:** The [implement](../../Browse/rule/treasure/implement.md)'s damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +3, and the whirlwind you create when you use a magic or psionic ability deals 6 cold damage to each enemy within 2 squares of you. Additionally, the whirlwind creates a 2 [aura](../../Browse/rule/combat/aura.md) around you that lasts until the start of your next [turn](../../Browse/rule/combat/turn.md). Each enemy who enters the [aura](../../Browse/rule/combat/aura.md) for the first time in a [combat round](../../Browse/rule/combat/combat-round.md) or starts their turn there takes 6 cold damage.
 
 #### Ether-Fueled Vessel {data-scc="mcdm.heroes.v1/treasure.leveled.implement/ether-fueled-vessel"}
 
 *This bronze bottle has been shaped into the form of a ghostly figure.*
 
-**Keywords:** Implement, Psionic
+**Keywords:** [Implement](../../Browse/rule/treasure/implement.md), Psionic
 
 **[Item Prerequisite](../../Browse/rule/downtime/item-prerequisite.md):** Incense distilled from the essence of ether
 
@@ -1529,17 +1529,17 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **Project Goal:** 450
 
-**1st Level:** While you wield this implement, your magic or psionic abilities that deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) gain a +1 damage bonus. Additionally, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to a creature using a magic or psionic ability, they become insubstantial to you until the end of their next turn, allowing you to pass through them freely. While insubstantial, a creature can't make [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md) against you.
+**1st Level:** While you wield this [implement](../../Browse/rule/treasure/implement.md), your magic or psionic abilities that deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) gain a +1 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md). Additionally, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to a creature using a magic or psionic ability, they become insubstantial to you until the end of their next [turn](../../Browse/rule/combat/turn.md), allowing you to pass through them freely. While insubstantial, a creature can't make [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md) against you.
 
-**5th Level:** The implement's damage bonus increases to +2. Additionally, when you move through a creature who is insubstantial to you, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to deal damage to them equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score. If you do, the insubstantial effect ends immediately after you pass through the creature and into an adjacent space outside them.
+**5th Level:** The [implement](../../Browse/rule/treasure/implement.md)'s damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +2. Additionally, when you move through a creature who is insubstantial to you, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to deal damage to them equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score. If you do, the insubstantial effect ends immediately after you pass through the creature and into an [adjacent](../../Browse/rule/combat/adjacent.md) space outside them.
 
-**9th Level:** The implement's damage bonus increases to +3. Additionally, any creature who is insubstantial to you and isn't a leader or solo creature also can't make [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md) against your allies while they remain insubstantial.
+**9th Level:** The [implement](../../Browse/rule/treasure/implement.md)'s damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +3. Additionally, any creature who is insubstantial to you and isn't a leader or solo creature also can't make [opportunity attacks](../../Browse/rule/combat/opportunity-attack.md) against your allies while they remain insubstantial.
 
 #### Foesense Lenses {data-scc="mcdm.heroes.v1/treasure.leveled.implement/foesense-lenses"}
 
 *These spectacles feature pink-tinted glass lenses held in a silver frame.*
 
-**Keywords:** Implement, Psionic
+**Keywords:** [Implement](../../Browse/rule/treasure/implement.md), Psionic
 
 **[Item Prerequisite](../../Browse/rule/downtime/item-prerequisite.md):** Two clear lenses carved from volcanic glass
 
@@ -1549,17 +1549,17 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **Project Goal:** 450
 
-**1st Level:** While you wield this implement, your magic or psionic abilities that deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) gain a +1 damage bonus. Additionally, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to a creature using a magic or psionic ability, you can use that creature's senses until the end of your next turn, allowing you to experience all they observe and to use your abilities as if you were in their space. You also benefit from your own senses at the same time.
+**1st Level:** While you wield this [implement](../../Browse/rule/treasure/implement.md), your magic or psionic abilities that deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) gain a +1 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md). Additionally, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to a creature using a magic or psionic ability, you can use that creature's senses until the end of your next [turn](../../Browse/rule/combat/turn.md), allowing you to experience all they observe and to use your abilities as if you were in their space. You also benefit from your own senses at the same time.
 
-**5th Level:** The implement's damage bonus increases to +2. Additionally, whenever you deal 20 or more [rolled damage](../../Browse/rule/damage/rolled-damage.md) with a magic or psionic ability to a creature whose senses you are using, that creature is weakend until the end of their next turn.
+**5th Level:** The [implement](../../Browse/rule/treasure/implement.md)'s damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +2. Additionally, whenever you deal 20 or more [rolled damage](../../Browse/rule/damage/rolled-damage.md) with a magic or psionic ability to a creature whose senses you are using, that creature is weakend until the end of their next [turn](../../Browse/rule/combat/turn.md).
 
-**9th Level:** The implement's damage bonus increases to +3. Additionally, whenever you deal 30 or more [rolled damage](../../Browse/rule/damage/rolled-damage.md) with a magic or psionic ability to a creature whose senses you are using, that creature is [dazed](../../Browse/condition/dazed.md) until the end of their next turn.
+**9th Level:** The [implement](../../Browse/rule/treasure/implement.md)'s damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +3. Additionally, whenever you deal 30 or more [rolled damage](../../Browse/rule/damage/rolled-damage.md) with a magic or psionic ability to a creature whose senses you are using, that creature is [dazed](../../Browse/condition/dazed.md) until the end of their next [turn](../../Browse/rule/combat/turn.md).
 
 #### Words Become Wonders at Next Breath {data-scc="mcdm.heroes.v1/treasure.leveled.implement/words-become-wonders-at-next-breath"}
 
 *This ornate [high elf](../../Browse/ancestry/high-elf.md) tome seems to sigh each time it is opened.*
 
-**Keywords:** Implement, Magic
+**Keywords:** [Implement](../../Browse/rule/treasure/implement.md), Magic
 
 **[Item Prerequisite](../../Browse/rule/downtime/item-prerequisite.md):** Written permission from a [high elf](../../Browse/ancestry/high-elf.md) magistrate
 
@@ -1569,9 +1569,9 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **Project Goal:** 450
 
-**1st Level:** You can open or close the tome as a maneuver while speaking or thinking its full name. While the tome is open, it floats in an adjacent space and flips to specific pages at your command, you gain an [edge](../../Browse/rule/dice/edge.md) on [Reason](../../Browse/rule/character/reason.md) [tests](../../Browse/rule/test/test.md) made to recall lore, and you gain a +3 bonus to [distance](../../Browse/rule/combat/distance.md) for your ranged magic or psionic abilities.
+**1st Level:** You can open or close the tome as a maneuver while speaking or thinking its full name. While the tome is open, it floats in an [adjacent](../../Browse/rule/combat/adjacent.md) space and flips to specific pages at your command, you gain an [edge](../../Browse/rule/dice/edge.md) on [Reason](../../Browse/rule/character/reason.md) [tests](../../Browse/rule/test/test.md) made to recall lore, and you gain a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [distance](../../Browse/rule/combat/distance.md) for your [ranged](../../Browse/rule/combat/ranged.md) magic or psionic abilities.
 
-**5th Level:** While the tome is open, the bonus to [distance](../../Browse/rule/combat/distance.md) for your ranged magic or psionic abilities increases to +5. Additionally, when you or a creature you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to uses a magic or psionic ability, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to grant a +3 bonus to the [power roll](../../Browse/rule/dice/power-roll.md).
+**5th Level:** While the tome is open, the [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [distance](../../Browse/rule/combat/distance.md) for your [ranged](../../Browse/rule/combat/ranged.md) magic or psionic abilities increases to +5. Additionally, when you or a creature you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to uses a magic or psionic ability, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to grant a +3 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [power roll](../../Browse/rule/dice/power-roll.md).
 
 **9th Level:** While the tome is open, you automatically obtain a tier 3 outcome on [Reason](../../Browse/rule/character/reason.md) [tests](../../Browse/rule/test/test.md) made to recall lore, and when you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), its [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) cost is reduced by 1 (to a minimum of 1).
 
@@ -1593,11 +1593,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon gains a +1 damage bonus. Whenever you damage a creature with the weapon, you can immediately use a maneuver to end one effect imposed by that creature on you or another creature within 5 squares of you.
+**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon gains a +1 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md). Whenever you damage a creature with the weapon, you can immediately use a maneuver to end one effect imposed by that creature on you or another creature within 5 squares of you.
 
-**5th Level:** The weapon's damage bonus increases to +2. Additionally, you and each ally within 2 squares of you gains a +1 bonus to [saving throws](../../Browse/rule/general/saving-throw.md).
+**5th Level:** The weapon's damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +2. Additionally, you and each ally within 2 squares of you gains a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [saving throws](../../Browse/rule/general/saving-throw.md).
 
-**9th Level:** The weapon's damage bonus increases to +3. Additionally, you no longer need to use a maneuver to end one effect when you damage a creature with the weapon. The weapon also refuses to vie for control of your psyche, and no longer counts against the limit of [leveled treasures](../../Browse/rule/treasure/leveled-treasure.md) you can carry safely.
+**9th Level:** The weapon's damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +3. Additionally, you no longer need to use a maneuver to end one effect when you damage a creature with the weapon. The weapon also refuses to vie for control of your psyche, and no longer counts against the limit of [leveled treasures](../../Browse/rule/treasure/leveled-treasure.md) you can carry safely.
 
 #### Blade of Quintessence {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/blade-of-quintessence"}
 
@@ -1613,11 +1613,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450 
 
-**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon gains a +1 damage bonus. Additionally, you can change the [damage type](../../Browse/rule/damage/damage-type.md) of such abilities to cold, fire, lightning, or sonic.
+**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon gains a +1 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md). Additionally, you can change the [damage type](../../Browse/rule/damage/damage-type.md) of such abilities to cold, fire, lightning, or sonic.
 
-**5th Level:** The weapon's damage bonus increases to +2. Additionally, the weapon can be used with ranged weapon abilities, and returns to you when a ranged ability is resolved. Ranged abilities used with the weapon increase their [distance](../../Browse/rule/combat/distance.md) by 3, and must deal cold, fire, lightning, or sonic damage (chosen when you use the ability).
+**5th Level:** The weapon's damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +2. Additionally, the weapon can be used with [ranged](../../Browse/rule/combat/ranged.md) weapon abilities, and returns to you when a [ranged](../../Browse/rule/combat/ranged.md) ability is resolved. [Ranged](../../Browse/rule/combat/ranged.md) abilities used with the weapon increase their [distance](../../Browse/rule/combat/distance.md) by 3, and must deal cold, fire, lightning, or sonic damage (chosen when you use the ability).
 
-**9th Level:** The weapon's damage bonus increases to +3. Additionally, while you wield or carry the weapon, you have immunity 10 to cold, fire, lightning, and sonic damage.
+**9th Level:** The weapon's damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +3. Additionally, while you wield or carry the weapon, you have immunity 10 to cold, fire, lightning, and sonic damage.
 
 #### Blade of the Luxurious Fop {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/blade-of-the-luxurious-fop"}
 
@@ -1633,11 +1633,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon gains a +1 damage bonus. Additionally, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) with this weapon, you can immediately [shift](../../Browse/movement/shifting.md) 1 square. As well, while you wield or carry the weapon and are present in a negotiation, if an [NPC](../../Browse/rule/general/npc.md) in the negotiation has the greed, legacy, power, or revelry motivation, their starting interest increases by 1 (to a maximum of 5).
+**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon gains a +1 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md). Additionally, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) with this weapon, you can immediately [shift](../../Browse/movement/shifting.md) 1 square. As well, while you wield or carry the weapon and are present in a negotiation, if an [NPC](../../Browse/rule/general/npc.md) in the negotiation has the greed, legacy, power, or revelry motivation, their starting interest increases by 1 (to a maximum of 5).
 
-**5th Level:** The weapon's damage bonus increases to +2. Additionally, when you make an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md) against an enemy of your [size](../../Browse/rule/character/size.md) or smaller, you can use [fancy footwork](../../Browse/feature/ability/swashbuckler/fancy-footwork.md) to knock them [prone](../../Browse/condition/prone.md). You also earn 1 [Renown](../../Browse/rule/resource/renown.md).
+**5th Level:** The weapon's damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +2. Additionally, when you make an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md) against an enemy of your [size](../../Browse/rule/character/size.md) or smaller, you can use [fancy footwork](../../Browse/feature/ability/swashbuckler/fancy-footwork.md) to knock them [prone](../../Browse/condition/prone.md). You also earn 1 [Renown](../../Browse/rule/resource/renown.md).
 
-**9th Level:** The weapon's damage bonus increases to +3. Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on any [test](../../Browse/rule/test/test.md) you make using a skill you have from the interpersonal skill group.
+**9th Level:** The weapon's damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) increases to +3. Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on any [test](../../Browse/rule/test/test.md) you make using a skill you have from the interpersonal skill group.
 
 #### Displacer {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/displacer"}
 
@@ -1657,7 +1657,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to a creature, you can use a maneuver to trade places with that creature or any creature within 4 squares of them, provided you both fit into each other's spaces.
 
-**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to a creature, you can use a maneuver to trade places with that creature or any creature within 8 squares of them, provided you both fit into each other's spaces. Additionally, you can cause the creature you traded places with to be [weakened](../../Browse/condition/weakened.md) until the end of their next turn, or you can spend a [Recovery](../../Browse/rule/health/recoveries.md).
+**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, whenever you deal [rolled damage](../../Browse/rule/damage/rolled-damage.md) to a creature, you can use a maneuver to trade places with that creature or any creature within 8 squares of them, provided you both fit into each other's spaces. Additionally, you can cause the creature you traded places with to be [weakened](../../Browse/condition/weakened.md) until the end of their next [turn](../../Browse/rule/combat/turn.md), or you can spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
 #### Executioner's Blade {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/executioners-blade"}
 
@@ -1717,7 +1717,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **5th Level:** Whenever you reduce a creature to 0 [Stamina](../../Browse/rule/health/stamina.md) with an ability using this weapon, one of its indentations glows brighter. When you use a [signature ability](../../Browse/rule/combat/signature-ability.md) using the weapon, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to expend any number of bright-glowing indentations, with the ability dealing extra psychic damage equal to the number of indentations. The expended indentations then return to a dim glow.
 
-**9th Level:** If you make a weapon [strike](../../Browse/rule/combat/strike.md) using this weapon against a target after dropping down on them from a height of 2 squares or more, the attack deals an extra 10 psychic damage. You can distribute all extra psychic damage dealt by the attack between the target and any enemies adjacent to them.
+**9th Level:** If you make a weapon [strike](../../Browse/rule/combat/strike.md) using this weapon against a target after dropping down on them from a height of 2 squares or more, the attack deals an extra 10 psychic damage. You can distribute all extra psychic damage dealt by the attack between the target and any enemies [adjacent](../../Browse/rule/combat/adjacent.md) to them.
 
 #### Lance of the Sundered Star {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/lance-of-the-sundered-star"}
 
@@ -1733,7 +1733,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can [shift](../../Browse/movement/shifting.md) to any square adjacent to the target after the push.
+**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can [shift](../../Browse/movement/shifting.md) to any square [adjacent](../../Browse/rule/combat/adjacent.md) to the target after the push.
 
 **5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the [Charge](../../Browse/feature/common/main-actions/charge.md) main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to [shift](../../Browse/movement/shifting.md), you can [fly](../../Browse/movement/fly.md) as part of the charge movement or the [shift](../../Browse/movement/shifting.md). If you don't end your [flying](../../Browse/movement/fly.md) movement on the ground, you fall.
 
@@ -1773,11 +1773,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon deals an extra 1 poison damage. Additionally, any [signature ability](../../Browse/rule/combat/signature-ability.md) using the weapon that obtains a tier 3 outcome also makes the target [weakened](../../Browse/condition/weakened.md) until the end of their next turn.
+**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon deals an extra 1 poison damage. Additionally, any [signature ability](../../Browse/rule/combat/signature-ability.md) using the weapon that obtains a tier 3 outcome also makes the target [weakened](../../Browse/condition/weakened.md) until the end of their next [turn](../../Browse/rule/combat/turn.md).
 
-**5th Level:** The weapon's extra poison damage increases to 2. A [signature ability](../../Browse/rule/combat/signature-ability.md) made using the weapon that obtains a tier 3 outcome also makes the target [weakened](../../Browse/condition/weakened.md) and [slowed](../../Browse/condition/slowed.md) until the end of their next turn.
+**5th Level:** The weapon's extra poison damage increases to 2. A [signature ability](../../Browse/rule/combat/signature-ability.md) made using the weapon that obtains a tier 3 outcome also makes the target [weakened](../../Browse/condition/weakened.md) and [slowed](../../Browse/condition/slowed.md) until the end of their next [turn](../../Browse/rule/combat/turn.md).
 
-**9th Level:** The weapon's extra poison damage increases to 3. Additionally, if you use an ability using the weapon that targets one creature and you don't have a [bane](../../Browse/rule/dice/bane.md) or double [bane](../../Browse/rule/dice/bane.md) on the ability, you can take a [bane](../../Browse/rule/dice/bane.md). Doing so lets you target another creature adjacent to the original target. Alternatively, you can have a double [bane](../../Browse/rule/dice/bane.md) to target two creatures adjacent to the original target.
+**9th Level:** The weapon's extra poison damage increases to 3. Additionally, if you use an ability using the weapon that targets one creature and you don't have a [bane](../../Browse/rule/dice/bane.md) or double [bane](../../Browse/rule/dice/bane.md) on the ability, you can take a [bane](../../Browse/rule/dice/bane.md). Doing so lets you target another creature [adjacent](../../Browse/rule/combat/adjacent.md) to the original target. Alternatively, you can have a double [bane](../../Browse/rule/dice/bane.md) to target two creatures [adjacent](../../Browse/rule/combat/adjacent.md) to the original target.
 
 #### Steeltongue {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/steeltongue"}
 
@@ -1793,11 +1793,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** You gain a +1 bonus to melee [distance](../../Browse/rule/combat/distance.md) with weapon abilities using this weapon. Additionally, any damage-dealing weapon ability using the weapon against a target who has A < AVERAGE also leaves that target [bleeding](../../Browse/condition/bleeding.md) (save ends).
+**1st Level:** You gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [melee](../../Browse/rule/combat/melee.md) [distance](../../Browse/rule/combat/distance.md) with weapon abilities using this weapon. Additionally, any damage-dealing weapon ability using the weapon against a target who has A < AVERAGE also leaves that target [bleeding](../../Browse/condition/bleeding.md) (save ends).
 
-**5th Level:** The weapon's bonus to melee [distance](../../Browse/rule/combat/distance.md) increases to +2. Additionally, any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using the weapon gains a +3 damage bonus against any target who is [bleeding](../../Browse/condition/bleeding.md).
+**5th Level:** The weapon's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [melee](../../Browse/rule/combat/melee.md) [distance](../../Browse/rule/combat/distance.md) increases to +2. Additionally, any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using the weapon gains a +3 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) against any target who is [bleeding](../../Browse/condition/bleeding.md).
 
-**9th Level:** The weapon's bonus to melee [distance](../../Browse/rule/combat/distance.md) increases to +3. Additionally, if you use a [signature ability](../../Browse/rule/combat/signature-ability.md) using the weapon that targets one or more [bleeding](../../Browse/condition/bleeding.md) creatures, you can use the same ability again immediately as a maneuver.
+**9th Level:** The weapon's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [melee](../../Browse/rule/combat/melee.md) [distance](../../Browse/rule/combat/distance.md) increases to +3. Additionally, if you use a [signature ability](../../Browse/rule/combat/signature-ability.md) using the weapon that targets one or more [bleeding](../../Browse/condition/bleeding.md) creatures, you can use the same ability again immediately as a maneuver.
 
 #### Third Eye Seeker {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/third-eye-seeker"}
 
@@ -1813,9 +1813,9 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon deals an extra 1 psychic damage. Additionally, any damage-dealing weapon ability using the weapon that achieves a tier 3 outcome also leaves the target [dazed](../../Browse/condition/dazed.md) until the end of their next turn. **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever a creature within [distance](../../Browse/rule/combat/distance.md) of your ranged weapon free strike uses a [triggered action](../../Browse/rule/combat/triggered-action.md), you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) after their [triggered action](../../Browse/rule/combat/triggered-action.md) resolves to make a ranged weapon free strike using this weapon against the creature.
+**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon deals an extra 1 psychic damage. Additionally, any damage-dealing weapon ability using the weapon that achieves a tier 3 outcome also leaves the target [dazed](../../Browse/condition/dazed.md) until the end of their next [turn](../../Browse/rule/combat/turn.md). **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever a creature within [distance](../../Browse/rule/combat/distance.md) of your [ranged](../../Browse/rule/combat/ranged.md) weapon free strike uses a [triggered action](../../Browse/rule/combat/triggered-action.md), you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) after their [triggered action](../../Browse/rule/combat/triggered-action.md) resolves to make a [ranged](../../Browse/rule/combat/ranged.md) weapon free strike using this weapon against the creature.
 
-**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on weapon abilities that use the weapon against creatures who have used a psionic ability since the end of your last turn.
+**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, you have a double [edge](../../Browse/rule/dice/edge.md) on weapon abilities that use the weapon against creatures who have used a psionic ability since the end of your last [turn](../../Browse/rule/combat/turn.md).
 
 #### Thunderhead Bident {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/thunderhead-bident"}
 
@@ -1831,11 +1831,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon deals an extra 1 sonic damage. Additionally, when the weapon is used with any ability that pushes a target, you gain a +1 bonus to the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md). If the weapon is used with a damage-dealing ability that doesn't impose [forced movement](../../Browse/movement/forced-movement.md), you can push the target 1 square.
+**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon deals an extra 1 sonic damage. Additionally, when the weapon is used with any ability that pushes a target, you gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md). If the weapon is used with a damage-dealing ability that doesn't impose [forced movement](../../Browse/movement/forced-movement.md), you can push the target 1 square.
 
-**5th Level:** The weapon's extra sonic damage increases to 2, and the additional [distance](../../Browse/rule/combat/distance.md) or [distance](../../Browse/rule/combat/distance.md) of a push for abilities using the weapon increases to 2 squares. Additionally, the weapon can be used with ranged weapon abilities, and gains power the farther it is hurled. For each 2 squares the weapon travels to the target of a ranged [strike](../../Browse/rule/combat/strike.md), the [strike](../../Browse/rule/combat/strike.md) deals an extra 1 sonic damage.
+**5th Level:** The weapon's extra sonic damage increases to 2, and the additional [distance](../../Browse/rule/combat/distance.md) or [distance](../../Browse/rule/combat/distance.md) of a push for abilities using the weapon increases to 2 squares. Additionally, the weapon can be used with [ranged](../../Browse/rule/combat/ranged.md) weapon abilities, and gains power the farther it is hurled. For each 2 squares the weapon travels to the target of a [ranged](../../Browse/rule/combat/ranged.md) [strike](../../Browse/rule/combat/strike.md), the [strike](../../Browse/rule/combat/strike.md) deals an extra 1 sonic damage.
 
-**9th Level:** The weapon's extra sonic damage increases to 3, and it deals an extra 1 sonic damage for each square it travels as part of a ranged [strike](../../Browse/rule/combat/strike.md). Additionally, whenever you make a weapon [strike](../../Browse/rule/combat/strike.md) using this weapon, each enemy adjacent to the target takes 6 sonic damage.
+**9th Level:** The weapon's extra sonic damage increases to 3, and it deals an extra 1 sonic damage for each square it travels as part of a [ranged](../../Browse/rule/combat/ranged.md) [strike](../../Browse/rule/combat/strike.md). Additionally, whenever you make a weapon [strike](../../Browse/rule/combat/strike.md) using this weapon, each enemy [adjacent](../../Browse/rule/combat/adjacent.md) to the target takes 6 sonic damage.
 
 #### Wetwork {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/wetwork"}
 
@@ -1851,15 +1851,15 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon deals an extra 1 psychic damage. Additionally, if you reduce a creature to 0 [Stamina](../../Browse/rule/health/stamina.md) using this weapon, you can immediately use a maneuver to make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+**1st Level:** Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using this weapon deals an extra 1 psychic damage. Additionally, if you reduce a creature to 0 [Stamina](../../Browse/rule/health/stamina.md) using this weapon, you can immediately use a maneuver to make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
-**5th Level:** The weapon's extra psychic damage increases to 2. Additionally, if you reduce a creature to 0 [Stamina](../../Browse/rule/health/stamina.md) using the weapon, you can use a maneuver to make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) and can move up to 2 squares before or after the [strike](../../Browse/rule/combat/strike.md).
+**5th Level:** The weapon's extra psychic damage increases to 2. Additionally, if you reduce a creature to 0 [Stamina](../../Browse/rule/health/stamina.md) using the weapon, you can use a maneuver to make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) and can move up to 2 squares before or after the [strike](../../Browse/rule/combat/strike.md).
 
-**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 [Stamina](../../Browse/rule/health/stamina.md) using the weapon, you can use a maneuver to move up to your [speed](../../Browse/rule/character/speed.md) and make either a [signature ability](../../Browse/rule/combat/signature-ability.md) strike or a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 [Stamina](../../Browse/rule/health/stamina.md) using the weapon, you can use a maneuver to move up to your [speed](../../Browse/rule/character/speed.md) and make either a [signature ability](../../Browse/rule/combat/signature-ability.md) strike or a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 ### Other Leveled Treasures
 
-In addition to armor, shields, implements, and weapons, heroes can make use of a wide range of [magic and psionic treasures](treasures.md). This section presents other types of [leveled treasures](../../Browse/rule/treasure/leveled-treasure.md) in alphabetical order.
+In addition to armor, shields, [implements](../../Browse/rule/treasure/implement.md), and weapons, heroes can make use of a wide range of [magic and psionic treasures](treasures.md). This section presents other types of [leveled treasures](../../Browse/rule/treasure/leveled-treasure.md) in alphabetical order.
 
 #### Bloodbound Band {data-scc="mcdm.heroes.v1/treasure.leveled.other/bloodbound-band"}
 
@@ -1875,11 +1875,11 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this ring, you gain a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md). Additionally, during a [respite](../../Browse/rule/resource/respite.md), you can touch the ring to any number of other Bloodbound Bands worn by willing creatures to form a bond among all of you. Creatures related by blood can't form bonds in this way. Bonded creatures can each use the highest [recovery value](../../Browse/rule/health/recoveries.md) of any bonded creature in place of their own, and can spend each other's [Recoveries](../../Browse/rule/health/recoveries.md) as if they were their own. Whenever any other bonded creature takes damage, each bonded creature takes 1 damage that can't be reduced in any way. Your bond ends if you remove the ring, use it to bond with one or more other creatures, or die, but other rings continue to be bonded to each other.
+**1st Level:** While you wear this ring, you gain a +6 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md). Additionally, during a [respite](../../Browse/rule/resource/respite.md), you can touch the ring to any number of other Bloodbound Bands worn by willing creatures to form a bond among all of you. Creatures related by blood can't form bonds in this way. Bonded creatures can each use the highest [recovery value](../../Browse/rule/health/recoveries.md) of any bonded creature in place of their own, and can spend each other's [Recoveries](../../Browse/rule/health/recoveries.md) as if they were their own. Whenever any other bonded creature takes damage, each bonded creature takes 1 damage that can't be reduced in any way. Your bond ends if you remove the ring, use it to bond with one or more other creatures, or die, but other rings continue to be bonded to each other.
 
-**5th Level:** The ring's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +12. Additionally, you have [damage immunity](../../Browse/rule/damage/damage-immunity.md) 2.
+**5th Level:** The ring's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +12. Additionally, you have [damage immunity](../../Browse/rule/damage/damage-immunity.md) 2.
 
-**9th Level:** The ring's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain [Stamina](../../Browse/rule/health/stamina.md) equal to their [winded](../../Browse/rule/health/winded.md) value. Your ring then [teleports](../../Browse/movement/teleport.md) into their possession and ceases to be magic.
+**9th Level:** The ring's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain [Stamina](../../Browse/rule/health/stamina.md) equal to their [winded](../../Browse/rule/health/winded.md) value. Your ring then [teleports](../../Browse/movement/teleport.md) into their possession and ceases to be magic.
 
 #### Bloody Hand Wraps {data-scc="mcdm.heroes.v1/treasure.leveled.other/bloody-hand-wraps"}
 
@@ -1895,11 +1895,11 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Goal:** 450
 
-**1st Level:** While you wear these hand wraps, any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using your unarmed [strikes](../../Browse/rule/combat/strike.md) gains a +1 damage bonus. Additionally, once per turn, you can take 5 damage that can't be reduced in any way to use the [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver (no action required).
+**1st Level:** While you wear these hand wraps, any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using your unarmed [strikes](../../Browse/rule/combat/strike.md) gains a +1 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md). Additionally, once per [turn](../../Browse/rule/combat/turn.md), you can take 5 damage that can't be reduced in any way to use the [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver (no action required).
 
-**5th Level:** The damage bonus granted by the hand wraps increases to +2. Additionally, once per turn, you can take 10 damage that can't be reduced in any way to make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) (no action required). On your turn, you can use the wraps' melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) option or [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver option, but only one.
+**5th Level:** The damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) granted by the hand wraps increases to +2. Additionally, once per [turn](../../Browse/rule/combat/turn.md), you can take 10 damage that can't be reduced in any way to make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) (no action required). On your [turn](../../Browse/rule/combat/turn.md), you can use the wraps' [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) option or [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver option, but only one.
 
-**9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a [signature ability](../../Browse/rule/combat/signature-ability.md) (no action required). On your turn, you can use the wraps' [signature ability](../../Browse/rule/combat/signature-ability.md) option, melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) option, or [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver option, but only one.
+**9th Level:** The damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) granted by the hand wraps increases to +3. Additionally, once per [turn](../../Browse/rule/combat/turn.md), you can take 15 damage that can't be reduced in any way to use a [signature ability](../../Browse/rule/combat/signature-ability.md) (no action required). On your [turn](../../Browse/rule/combat/turn.md), you can use the wraps' [signature ability](../../Browse/rule/combat/signature-ability.md) option, [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) option, or [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver option, but only one.
 
 #### Lightning Treads {data-scc="mcdm.heroes.v1/treasure.leveled.other/lightning-treads"}
 
@@ -1915,11 +1915,11 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Goal:** 450
 
-**1st Level:** While you wear these boots, any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using your unarmed [strikes](../../Browse/rule/combat/strike.md) deals an extra 1 lightning damage. Additionally, you gain a +2 bonus to [speed](../../Browse/rule/character/speed.md).
+**1st Level:** While you wear these boots, any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using your unarmed [strikes](../../Browse/rule/combat/strike.md) deals an extra 1 lightning damage. Additionally, you gain a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed](../../Browse/rule/character/speed.md).
 
-**5th Level:** The extra lightning damage granted by the treads increases to 2. Additionally, for each square you move on your turn before you use a weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using your unarmed [strikes](../../Browse/rule/combat/strike.md), this extra damage increases by 1 (to a maximum of 4).
+**5th Level:** The extra lightning damage granted by the treads increases to 2. Additionally, for each square you move on your [turn](../../Browse/rule/combat/turn.md) before you use a weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using your unarmed [strikes](../../Browse/rule/combat/strike.md), this extra damage increases by 1 (to a maximum of 4).
 
-**9th Level:** The extra lightning damage granted by the treads increases to 3, and your movement can increase that extra damage to a maximum of 6. Additionally, you can use a maneuver to perform a [flying](../../Browse/movement/fly.md) lightning kick on one adjacent creature. That target is pushed up to 5 squares, and you can move to any square adjacent to the target after the push.
+**9th Level:** The extra lightning damage granted by the treads increases to 3, and your movement can increase that extra damage to a maximum of 6. Additionally, you can use a maneuver to perform a [flying](../../Browse/movement/fly.md) lightning kick on one [adjacent](../../Browse/rule/combat/adjacent.md) creature. That target is pushed up to 5 squares, and you can move to any square [adjacent](../../Browse/rule/combat/adjacent.md) to the target after the push.
 
 #### Revenger's Wrap {data-scc="mcdm.heroes.v1/treasure.leveled.other/revengers-wrap"}
 
@@ -1935,9 +1935,9 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this cloak, any creature who damages you is marked for revenge until the end of your next turn or until another creature damages you. Any strike you make against a creature marked for revenge deals extra damage equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score, and whenever you damage a creature marked for revenge, they are also [bleeding](../../Browse/condition/bleeding.md) until the end of their next turn.
+**1st Level:** While you wear this cloak, any creature who damages you is marked for revenge until the end of your next [turn](../../Browse/rule/combat/turn.md) or until another creature damages you. Any strike you make against a creature marked for revenge deals extra damage equal to your highest [characteristic](../../Browse/rule/character/characteristic.md) score, and whenever you damage a creature marked for revenge, they are also [bleeding](../../Browse/condition/bleeding.md) until the end of their next [turn](../../Browse/rule/combat/turn.md).
 
-**5th Level:** Each creature who damages you is marked for revenge until the end of your next turn. Whenever you damage a creature marked for revenge, they are also [bleeding](../../Browse/condition/bleeding.md) (save ends).
+**5th Level:** Each creature who damages you is marked for revenge until the end of your next [turn](../../Browse/rule/combat/turn.md). Whenever you damage a creature marked for revenge, they are also [bleeding](../../Browse/condition/bleeding.md) (save ends).
 
 **9th Level:** When you have three or more creatures marked for revenge and you target one of them with an ability that targets only one creature, you target all the creatures marked for revenge, regardless of their [distance](../../Browse/rule/combat/distance.md) from you and even if you don't have [line of effect](../../Browse/rule/combat/line-of-effect.md) to them.
 
@@ -1955,17 +1955,17 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this torque, you gain a bonus to [Stamina](../../Browse/rule/health/stamina.md) equal to twice your highest [characteristic](../../Browse/rule/character/characteristic.md) score. Additionally, you can use a maneuver to choose a creature in your [line of effect](../../Browse/rule/combat/line-of-effect.md) and learn their level. If their level is higher than yours, the torque grants you envy. If their level is equal to or lower than yours, the torque grants you disdain. You can have both envy and disdain from different creatures, but not more than one instance of either.
+**1st Level:** While you wear this torque, you gain a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) equal to twice your highest [characteristic](../../Browse/rule/character/characteristic.md) score. Additionally, you can use a maneuver to choose a creature in your [line of effect](../../Browse/rule/combat/line-of-effect.md) and learn their level. If their level is higher than yours, the torque grants you envy. If their level is equal to or lower than yours, the torque grants you disdain. You can have both envy and disdain from different creatures, but not more than one instance of either.
 
-Whenever a creature within 10 squares of you deals damage to another creature, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to expend your envy or disdain. If you expend envy, you deal damage equal to the triggering damage to a creature adjacent to you. If you expend disdain, you reduce the triggering damage by half. At the end of the encounter, you lose any envy or disdain granted by the torque.
+Whenever a creature within 10 squares of you deals damage to another creature, you can use a [triggered action](../../Browse/rule/combat/triggered-action.md) to expend your envy or disdain. If you expend envy, you deal damage equal to the triggering damage to a creature [adjacent](../../Browse/rule/combat/adjacent.md) to you. If you expend disdain, you reduce the triggering damage by half. At the end of the encounter, you lose any envy or disdain granted by the torque.
 
-**5th Level:** The torque's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to three times your highest [characteristic](../../Browse/rule/character/characteristic.md) score. Additionally, when you use the torque's maneuver and the target creature is the same level as you, you gain your choice of envy or disdain.
+**5th Level:** The torque's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to three times your highest [characteristic](../../Browse/rule/character/characteristic.md) score. Additionally, when you use the torque's maneuver and the target creature is the same level as you, you gain your choice of envy or disdain.
 
-**9th Level:** The torque's bonus to [Stamina](../../Browse/rule/health/stamina.md) increases to five times your highest [characteristic](../../Browse/rule/character/characteristic.md) score. Additionally, you can have multiple instances of envy and disdain, with no limit on either.
+**9th Level:** The torque's [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) increases to five times your highest [characteristic](../../Browse/rule/character/characteristic.md) score. Additionally, you can have multiple instances of envy and disdain, with no limit on either.
 
 ## Artifacts
 
-Artifacts are powerful treasures, with entire campaigns to be built around finding, using, hiding, protecting, or destroying one. Make no mistake—these items unbalance the game. If the heroes or villains have access to such a treasure, their power is far beyond what the encounter—building guidelines in *Draw Steel: Monsters* expect. That's part of the fun!
+Artifacts are powerful treasures, with entire campaigns to be built around finding, using, hiding, protecting, or destroying one. Make no mistake—these items unbalance the game. If the heroes or villains have access to such a treasure, their power is far beyond what the encounter—building [guide](../../Browse/rule/downtime/guide.md)lines in *Draw Steel: Monsters* expect. That's part of the fun!
 
 Typically, one creature never holds onto an artifact for too long. Most of these treasures have a sentience of their own and an eagerness to move on. Since many powerful entities might want to get their hands on an artifact, characters might see armies, dragons, and even gods come to collect one from a wielder who refuses to let go.
 
@@ -1979,15 +1979,15 @@ Whether drawn from a stone, gifted by a lake spirit, forged by a god, or used to
 
 Though its size and make are often debated, the sword is consistently described as having a crossguard made from pure starlight. When wielded, a brilliant metal blade springs forth from that hilt, suiting the holder's taste in weapons. Those who touch the blade are filled with the vigor and power of the heroes who have held it before.
 
-**Suited for [Victory](../../Browse/rule/resource/victories.md):** This sword takes on the size, shape, and make that the wielder wills into it. It can be a light, medium, or heavy weapon, and you can change its weapon type and appearance as a [free maneuver](../../Browse/rule/combat/free-maneuver.md). Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using the Blade of a Thousand Years gains a +5 damage bonus, and that ability always deals holy damage. Any creature with weakness to holy damage who takes damage from this weapon is also [frightened](../../Browse/condition/frightened.md) and [weakened](../../Browse/condition/weakened.md) until the end of their next turn.
+**Suited for [Victory](../../Browse/rule/resource/victories.md):** This sword takes on the size, shape, and make that the wielder wills into it. It can be a light, medium, or heavy weapon, and you can change its weapon type and appearance as a [free maneuver](../../Browse/rule/combat/free-maneuver.md). Any weapon ability that deals [rolled damage](../../Browse/rule/damage/rolled-damage.md) using the Blade of a Thousand Years gains a +5 damage [bonus](../../Browse/rule/dice/bonuses-and-penalties.md), and that ability always deals holy damage. Any creature with weakness to holy damage who takes damage from this weapon is also [frightened](../../Browse/condition/frightened.md) and [weakened](../../Browse/condition/weakened.md) until the end of their next [turn](../../Browse/rule/combat/turn.md).
 
-**Rally the Righteous:** This blade fills all around it with hope and courage. Each ally within 1 mile of the weapon gains an [edge](../../Browse/rule/dice/edge.md) on weapon abilities and magic abilities, and has [damage immunity](../../Browse/rule/damage/damage-immunity.md) 5. Additionally, each such creature's [Stamina](../../Browse/rule/health/stamina.md) maximum increases by 15 and they gain a +15 bonus to [Stamina](../../Browse/rule/health/stamina.md) when this ability first affects them.
+**Rally the Righteous:** This blade fills all around it with hope and courage. Each ally within 1 mile of the weapon gains an [edge](../../Browse/rule/dice/edge.md) on weapon abilities and magic abilities, and has [damage immunity](../../Browse/rule/damage/damage-immunity.md) 5. Additionally, each such creature's [Stamina](../../Browse/rule/health/stamina.md) maximum increases by 15 and they gain a +15 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) when this ability first affects them.
 
 **Turn the Tide:** Each enemy minion within 1 mile of the sword is [dazed](../../Browse/condition/dazed.md). Any enemy leader or solo creature in that area takes a [bane](../../Browse/rule/dice/bane.md) on [ability rolls](../../Browse/rule/dice/ability-roll.md).
 
 **[Victory](../../Browse/rule/resource/victories.md)'s Assurance:** This weapon always appears on the eve before what will later come to be known as a historic battle. It disappears after 24 hours or when the battle is won, whichever comes first. By taking the blade, the wielder unwittingly enters into a pact with the weapon. If they don't secure [victory](../../Browse/rule/resource/victories.md) against monumental odds or some great foe by the time the sword disappears, they are pulled into the sword, preventing any chance of resurrection, and forever dooming them to lend their strength to the heroes of other ages.
 
-**Soul of the Martyr:** If the wielder dies while holding this blade, their soul is drawn into the starlight hilt, where it remains for the rest of time to prevent any chance of resurrection. The sword disappears, but the lingering feeling of hope that spreads from it remains. For the next hour, the effects of Rally the Righteous increase to provide a double [edge](../../Browse/rule/dice/edge.md) on weapon abilities and magic abilities, [damage immunity](../../Browse/rule/damage/damage-immunity.md) 10, an increase to [Stamina](../../Browse/rule/health/stamina.md) maximum of 30, and a bonus to [Stamina](../../Browse/rule/health/stamina.md) of +30.
+**Soul of the Martyr:** If the wielder dies while holding this blade, their soul is drawn into the starlight hilt, where it remains for the rest of time to prevent any chance of resurrection. The sword disappears, but the lingering feeling of hope that spreads from it remains. For the next hour, the effects of Rally the Righteous increase to provide a double [edge](../../Browse/rule/dice/edge.md) on weapon abilities and magic abilities, [damage immunity](../../Browse/rule/damage/damage-immunity.md) 10, an increase to [Stamina](../../Browse/rule/health/stamina.md) maximum of 30, and a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [Stamina](../../Browse/rule/health/stamina.md) of +30.
 
 #### Encepter {data-scc="mcdm.heroes.v1/treasure.artifact/encepter"}
 
@@ -2017,7 +2017,7 @@ The Encepter is said to have first manifested in a young world doomed to apocaly
 
 Change is the engine of existence. Permanence begets stagnation. When the past refuses to relinquish control, a path must be cleared for the future. Energized by the flickering of minds and souls passing through the void, the Mortal Coil taps into the entropic potential inherent in every living creature to cast a shadow capable of felling even gods. For the true gift of life is death, and gifts are meant to be given.
 
-Only one destined for death can contain the power of the Mortal Coil. A mortal creature who carries this artifact serves as its host, gaining an additional main action on each of their turns, aging at ten times the usual rate, and becoming unable to ever regain [Stamina](../../Browse/rule/health/stamina.md). A host with no natural maximum lifespan permanently reduces their [Stamina](../../Browse/rule/health/stamina.md) maximum by 10 each year.
+Only one destined for death can contain the power of the Mortal Coil. A mortal creature who carries this artifact serves as its host, gaining an additional main action on each of their [turns](../../Browse/rule/combat/turn.md), aging at ten times the usual rate, and becoming unable to ever regain [Stamina](../../Browse/rule/health/stamina.md). A host with no natural maximum lifespan permanently reduces their [Stamina](../../Browse/rule/health/stamina.md) maximum by 10 each year.
 
 When the Mortal Coil is left unattended or is in the possession of a creature who is not mortal, it activates and can't be deactivated until a mortal creature becomes its host once more. While active, the artifact extends a penumbra of influence for 10 miles in every direction. Every creature in the penumbra is subject to the following effects.
 

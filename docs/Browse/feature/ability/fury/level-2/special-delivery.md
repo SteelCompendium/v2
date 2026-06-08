@@ -2,11 +2,11 @@
 action_type: Maneuver
 class: fury
 cost: 5 Ferocity
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You vertically push the target up to 4 squares. This [forced movement](../../../../movement/forced-movement.md) ignores the target's [stability](../../../../rule/character/stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../../common/main-actions/free-strike.md) that deals extra damage equal to your [Might](../../../../rule/character/might.md) score.
 flavor: You ready?
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Weapon
 level: "2"
 name: Special Delivery
@@ -29,9 +29,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">5</span> Ferocity</div></div>
 </div>
 <p class="sc-ability__flavor">You ready?</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One willing ally</div></div>
 </div>
 <div class="sc-ability__section">

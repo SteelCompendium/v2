@@ -28,9 +28,9 @@ Under Omund's rule, order thrived. Roads were safe. People could even walk into 
 
 Omund died 15 years ago and so died the rule of law. Now the forest claims the towns and roads once held safe. The woods are dangerous. Their only law... [tooth and claw](../../feature/fury/level-2/tooth-and-claw.md).
 
-Omund was betrayed and his castle fell to Ajax the Invincible, now called the Iron Saint. His wizard Mortum unlocked the secret of the ancient sky elf flying cities, and raised the Chrysopolis, Ajax's city-fortress in the sky.
+Omund was betrayed and his castle fell to Ajax the Invincible, now called the Iron [Saint](saint.md). His wizard Mortum unlocked the secret of the ancient sky elf flying cities, and raised the Chrysopolis, Ajax's city-fortress in the sky.
 
-It was Mortum who used the secrets of the synliroi body banks, granting immortality to those nobles who voluntarily submit to Ajax. Those same body banks produce Ajax's war dogs, his brutal, patchwork—soldiers who owe their new lives to the Iron Saint and fight for him fanatically.
+It was Mortum who used the secrets of the synliroi body banks, granting immortality to those nobles who voluntarily submit to Ajax. Those same body banks produce Ajax's war dogs, his brutal, patchwork—soldiers who owe their new lives to the Iron [Saint](saint.md) and fight for him fanatically.
 
 Ajax abolished all faiths and temples. He executed the dukes who organized and united the barons, leaving the far-flung baronies to try and hold [human](../../ancestry/human.md) civilization together. Once, these people were loose allies. There was trade between [humans](../../ancestry/human.md), elves, [dwarves](../../ancestry/dwarf.md) and [orcs](../../ancestry/orc.md).
 

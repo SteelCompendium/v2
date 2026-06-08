@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your supernatural gifts allow you to influence other undead. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/reason/">Reason</a>, <a href="../../../../rule/character/intuition/">Intuition</a>, and <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">tests</a> made to interact with undead creatures.</p>
+<p>Your <a href="../../../../rule/general/supernatural/">supernatural</a> gifts allow you to influence other undead. You gain an <a href="../../../../rule/dice/edge/">edge</a> on <a href="../../../../rule/character/reason/">Reason</a>, <a href="../../../../rule/character/intuition/">Intuition</a>, and <a href="../../../../rule/character/presence/">Presence</a> <a href="../../../../rule/test/test/">tests</a> made to interact with undead creatures.</p>
 </div>
 </section>

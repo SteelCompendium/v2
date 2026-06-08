@@ -1,7 +1,7 @@
 ---
 action_type: Maneuver
 class: conduit
-distance: Melee 1
+distance: '[Melee](../../../../rule/combat/melee.md) 1'
 effect: You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make [tests](../../../../rule/test/test.md) to influence them and convince them to speak with you. The trauma of [dying](../../../../rule/health/dying.md) can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 flavor: You commune with the lingering soul of the recently dead.
 keywords:
@@ -29,7 +29,7 @@ type: ability
 <p class="sc-ability__flavor">You commune with the lingering soul of the recently dead.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One dead creature</div></div>
 </div>
 <div class="sc-ability__section">

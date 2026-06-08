@@ -2,12 +2,12 @@
 action_type: Main action
 class: conduit
 cost: 3 Piety
-distance: Ranged 10
-effect: The first time on a turn that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: The first time on a [turn](../../../../rule/combat/turn.md) that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).
 flavor: After some holy lightning, your enemy will think twice about their next attack.
 keywords:
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Violence Will Not Aid Thee
@@ -30,9 +30,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">3</span> Piety</div></div>
 </div>
 <p class="sc-ability__flavor">After some holy lightning, your enemy will think twice about their next attack.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
 <div class="sc-ability__section">
@@ -40,6 +40,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The first time on a turn that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).</p></div>
+<div class="sc-ability__section-body"><p>The first time on a <a href="../../../../../rule/combat/turn/">turn</a> that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).</p></div>
 </div>
 </article>

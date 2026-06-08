@@ -6,7 +6,7 @@ distance: Self; see below
 effect: You can [shift](../../../../movement/shifting.md) up to your [speed](../../../../rule/character/speed.md), and squares occupied by enemies or objects are not [difficult terrain](../../../../movement/difficult-terrain.md) for this [shift](../../../../movement/shifting.md). You make one [power roll](../../../../rule/dice/power-roll.md) that targets each enemy you moved through during this [shift](../../../../movement/shifting.md).
 flavor: You weaken your connection to this manifold, allowing you to move through and damage enemies.
 keywords:
-    - Melee
+    - '[Melee](../../../../rule/combat/melee.md)'
     - Psionic
     - Weapon
 level: "6"
@@ -30,7 +30,7 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Discipline</div></div>
 </div>
 <p class="sc-ability__flavor">You weaken your connection to this manifold, allowing you to move through and damage enemies.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Melee</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Weapon</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">[Melee](../../../../rule/combat/melee.md)</span><span class="sc-ability__chip">Psionic</span><span class="sc-ability__chip">Weapon</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>

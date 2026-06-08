@@ -121,7 +121,7 @@ You can carve a rune onto your skin with 10 uninterrupted minutes of work, which
 
 **Detection:** Pick a specific type of creature (such as goblins or [humans](human.md)) or object (such as gems or potions). Your rune glows softly when you are within 20 squares of any creature or object of that type, even if you don't have [line of effect](../rule/combat/line-of-effect.md) to the creature or object. You can change the type of creature or object as a maneuver.
 
-**Light:** Your skin sheds light for 10 squares. You can turn this light on and off as a maneuver.
+**Light:** Your skin sheds light for 10 squares. You can [turn](../rule/combat/turn.md) this light on and off as a maneuver.
 
 **Voice:** As a maneuver, you can communicate telepathically with a willing creature you have met before and who is within 1 mile of you. You must know the creature's name, and they must speak and understand a language you know. You and the creature can respond to one another as if having a spoken conversation. You can communicate with a different creature by changing the rune.
 
@@ -137,11 +137,11 @@ Your hearty constitution prevents you from losing strength. You can't be made [w
 
 #### Grounded {data-scc="mcdm.heroes.v1/feature.trait.dwarf/grounded"}
 
-Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 bonus to [stability](../rule/character/stability.md).
+Your heavy stone body and connection to the earth make it difficult for others to move you. You have a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to [stability](../rule/character/stability.md).
 
 #### Spark Off Your Skin {data-scc="mcdm.heroes.v1/feature.trait.dwarf/spark-off-your-skin"}
 
-Your stone skin affords you potent protection. You have a +6 bonus to [Stamina](../rule/health/stamina.md), and that bonus increases by 6 at 4th, 7th, and 10th levels.
+Your stone skin affords you potent protection. You have a +6 [bonus](../rule/dice/bonuses-and-penalties.md) to [Stamina](../rule/health/stamina.md), and that [bonus](../rule/dice/bonuses-and-penalties.md) increases by 6 at 4th, 7th, and 10th levels.
 
 #### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stand-tough"}
 

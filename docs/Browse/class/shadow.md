@@ -60,7 +60,7 @@ As a 1st-level [shadow](shadow.md), you gain the following features.
 
 ### Shadow College {data-scc="mcdm.heroes.v1/feature.shadow.level-1/shadow-college"}
 
-[Shadow](shadow.md) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that [tests](../rule/test/test.md) the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](shadow.md) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+[Shadow](shadow.md) colleges are secret institutions that [turn](../rule/combat/turn.md) ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that [tests](../rule/test/test.md) the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](shadow.md) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
 You graduated from a [shadow college](../feature/shadow/level-1/shadow-college.md) chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
@@ -76,9 +76,9 @@ By observing your enemy, you learn how to use their weaknesses against them, bui
 
 #### Insight in Combat
 
-At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain insight equal to your [Victories](../rule/resource/victories.md). At the start of each of your turns during combat, you gain 1d3 insight.
+At the start of a combat encounter or some other stressful situation tracked in [combat rounds](../rule/combat/combat-round.md) (as determined by the Director), you gain insight equal to your [Victories](../rule/resource/victories.md). At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 1d3 insight.
 
-Additionally, the first time each combat round that you deal damage incorporating 1 or more [surges](../rule/resource/surge.md), you gain 1 insight.
+Additionally, the first time each [combat round](../rule/combat/combat-round.md) that you deal damage incorporating 1 or more [surges](../rule/resource/surge.md), you gain 1 insight.
 
 Whenever you use a [heroic ability](../rule/general/heroic-ability.md) that makes use of a [power roll](../rule/dice/power-roll.md), that ability costs 1 fewer insight if you have an [edge](../rule/dice/edge.md) or double [edge](../rule/dice/edge.md) on it. If the ability has multiple targets, the cost is reduced even if the ability gains an [edge](../rule/dice/edge.md) or has a double [edge](../rule/dice/edge.md) against only one target.
 
@@ -149,7 +149,7 @@ You have the following ability.
 |-------------|-------------:|
 | **📏 Self** |    **🎯 Self** |
 
-**Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your [size](../rule/character/size.md), such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your [strikes](../rule/combat/strike.md) gain an [edge](../rule/dice/edge.md), and when you take the [Disengage](../feature/common/move-actions/disengage.md) move action, you gain a +1 bonus to the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md).
+**Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your [size](../rule/character/size.md), such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your [strikes](../rule/combat/strike.md) gain an [edge](../rule/dice/edge.md), and when you take the [Disengage](../feature/common/move-actions/disengage.md) move action, you gain a +1 [bonus](../rule/dice/bonuses-and-penalties.md) to the [distance](../rule/combat/distance.md) you can [shift](../movement/shifting.md).
 
 The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 [surge](../rule/resource/surge.md).
 
@@ -227,9 +227,9 @@ You have the following ability.
 |-------------|-------------------:|
 | **📏 Self** |        **🎯 Self** |
 
-**Trigger:** Another hero ends their turn. That hero can't have used this ability to start their turn.
+**Trigger:** Another hero ends their [turn](../rule/combat/turn.md). That hero can't have used this ability to start their [turn](../rule/combat/turn.md).
 
-**Effect:** You take your turn after the triggering hero.
+**Effect:** You take your [turn](../rule/combat/turn.md) after the triggering hero.
 
 ### Kit {data-scc="mcdm.heroes.v1/feature.shadow.level-1/kit"}
 
@@ -248,9 +248,9 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 
 *Your precise strikes let your allies take advantage of a target's agony.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -265,9 +265,9 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 
 *"It's better, just you and me. Isn't it?"*
 
-| **Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -275,16 +275,16 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 - **12-16:** 6 + A damage
 - **17+:** 9 + A damage
 
-**Effect:** If the target has none of your allies adjacent to them, you gain 1 [surge](../rule/resource/surge.md) before making the [power roll](../rule/dice/power-roll.md).
+**Effect:** If the target has none of your allies [adjacent](../rule/combat/adjacent.md) to them, you gain 1 [surge](../rule/resource/surge.md) before making the [power roll](../rule/dice/power-roll.md).
 
 ##### Teamwork Has Its Place {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/teamwork-has-its-place"}
 
 
 *You attack an enemy as an ally exposes their weakness.*
 
-| **Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |-----------------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**        | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -292,16 +292,16 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 - **12-16:** 6 + A damage
 - **17+:** 9 + A damage
 
-**Effect:** If any ally is adjacent to the target, you gain 1 [surge](../rule/resource/surge.md) before making the [power roll](../rule/dice/power-roll.md).
+**Effect:** If any ally is [adjacent](../rule/combat/adjacent.md) to the target, you gain 1 [surge](../rule/resource/surge.md) before making the [power roll](../rule/dice/power-roll.md).
 
 ##### You Were Watching the Wrong One {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/you-were-watching-the-wrong-one"}
 
 
 *They can't watch both of you at once.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -324,9 +324,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Your attack leaves them reeling, allowing you to follow up.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -341,9 +341,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You leave your foe bleeding out after a devastating attack.*
 
-| **Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -356,9 +356,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Move unexpectedly, strike fast, and be gone!*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |---------------------------|--------------------:|
-| **📏 Melee 1**            | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -373,9 +373,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *A bargain.*
 
-| **Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon** |                 **Main action** |
+| **[Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |                 **Main action** |
 |-----------------------------------|--------------------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 Two creatures or objects** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**        | **🎯 Two creatures or objects** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -392,9 +392,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Your blade might be the last thing they see.*
 
-| **Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -407,11 +407,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *As you move across the battlefield, every foe within reach feels your wrath.*
 
-| **Melee, Weapon**      | **Main action** |
+| **[Melee](../rule/combat/melee.md), Weapon**      | **Main action** |
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
-**Effect:** You [shift](../movement/shifting.md) up to your [speed](../rule/character/speed.md) and make one [power roll](../rule/dice/power-roll.md) that targets up to three enemies who came adjacent to you during the move.
+**Effect:** You [shift](../movement/shifting.md) up to your [speed](../rule/character/speed.md) and make one [power roll](../rule/dice/power-roll.md) that targets up to three enemies who came [adjacent](../rule/combat/adjacent.md) to you during the move.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -424,9 +424,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Your friends will thank you.*
 
-| **Ranged, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 5**            | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 5**            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -439,7 +439,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *They have no idea what the college taught you.*
 
-| **Magic, Melee, Ranged** | **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md)** | **Main action** |
 |------------------------|----------------:|
 | **📏 Self; see below** |     **🎯 Self** |
 
@@ -467,7 +467,7 @@ Your [shadow college](../feature/shadow/level-1/shadow-college.md) grants you a 
 
 #### Burning Ash {data-scc="mcdm.heroes.v1/feature.shadow.level-2/burning-ash"}
 
-The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to [teleport](../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your [Agility](../rule/character/agility.md) score.
+The ash you leave behind burns your foes. The first time on a [turn](../rule/combat/turn.md) that you use a shadow ability to [teleport](../movement/teleport.md) away from or into a space [adjacent](../rule/combat/adjacent.md) to an enemy, that enemy takes fire damage equal to your [Agility](../rule/character/agility.md) score.
 
 #### Friend! {data-scc="mcdm.heroes.v1/feature.shadow.level-2/friend"}
 
@@ -492,9 +492,9 @@ Choose one of the following abilities.
 
 *You enchant a [strike](../rule/combat/strike.md) with your [teleport](../movement/teleport.md)ation magic.*
 
-| **Magic, Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |------------------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**               | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -524,11 +524,11 @@ Choose one of the following abilities.
 
 *Explosives are best when they're attached to an enemy.*
 
-| **Ranged**       |     **Main action** |
+| **[Ranged](../rule/combat/ranged.md)**       |     **Main action** |
 |------------------|--------------------:|
-| **📏 Ranged 10** | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10** | **🎯 One creature** |
 
-**Effect:** You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a [power roll](../rule/dice/power-roll.md) targeting each enemy within 2 squares of it.
+**Effect:** You attach a small bomb to a creature. If you are hidden from the creature, they don't notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don't, at the end of your next [turn](../rule/combat/turn.md), the bomb detonates. When the bomb detonates, you make a [power roll](../rule/dice/power-roll.md) targeting each enemy within 2 squares of it.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -541,7 +541,7 @@ Choose one of the following abilities.
 
 *Putrid yellow gas explodes from a bomb you toss.*
 
-| **Area, Ranged**        |                  **Main action** |
+| **Area, [Ranged](../rule/combat/ranged.md)**        |                  **Main action** |
 |-------------------------|---------------------------------:|
 | **📏 3 [cube](../rule/combat/cube.md) within 10** | **🎯 Each creature in the area** |
 
@@ -551,7 +551,7 @@ Choose one of the following abilities.
 - **12-16:** 5 poison damage
 - **17+:** 7 poison damage
 
-**Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their turn in the area and has M < AVERAGE is [weakened](../condition/weakened.md) (save ends).
+**Effect:** The gas remains in the area until the end of the encounter. Any creature who starts their [turn](../rule/combat/turn.md) in the area and has M < AVERAGE is [weakened](../condition/weakened.md) (save ends).
 
 #### 2nd-Level Harlequin Mask Ability
 
@@ -562,7 +562,7 @@ Choose one of the following abilities.
 
 *Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.*
 
-| **Area, Magic, Ranged** |                     **Maneuver** |
+| **Area, Magic, [Ranged](../rule/combat/ranged.md)** |                     **Maneuver** |
 |-------------------------|---------------------------------:|
 | **📏 3 [cube](../rule/combat/cube.md) within 10** | **🎯 Each creature in the area** |
 
@@ -600,9 +600,9 @@ You have the following ability.
 
 *A moment of focus leaves a foe firmly in your sights.*
 
-| **Ranged**       |        **Maneuver** |
+| **[Ranged](../rule/combat/ranged.md)**       |        **Maneuver** |
 |------------------|--------------------:|
-| **📏 Ranged 20** | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 20** | **🎯 One creature** |
 
 **Effect:** As long as you remain within [distance](../rule/combat/distance.md) of the target, maintain [line of effect](../rule/combat/line-of-effect.md) to them, and strike no other creature first, you gain an [edge](../rule/dice/edge.md) on the next strike you make against the assessed creature, and gain 1 [surge](../rule/resource/surge.md) you can use only on that [strike](../rule/combat/strike.md).
 
@@ -619,16 +619,16 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../movement/forced-movement.md) adjacent to you or damages you, you can take the [Disengage](../feature/common/move-actions/disengage.md) move action as a free [triggered action](../rule/combat/triggered-action.md).
+**Effect:** Until the end of the encounter, whenever an enemy moves or is [force moved](../movement/forced-movement.md) [adjacent](../rule/combat/adjacent.md) to you or damages you, you can take the [Disengage](../feature/common/move-actions/disengage.md) move action as a free [triggered action](../rule/combat/triggered-action.md).
 
 #### Misdirecting Strike {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/misdirecting-strike"}
 
 
 *"Why are you looking at ME?!"*
 
-| **Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -636,16 +636,16 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 13 + A damage
 - **17+:** 18 + A damage
 
-**Effect:** The target is [taunted](../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next turn.
+**Effect:** The target is [taunted](../condition/taunted.md) by a willing ally within 5 squares of you until the end of the target's next [turn](../rule/combat/turn.md).
 
 #### Pinning Shot {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-3/pinning-shot"}
 
 
 *One missile—placed well and placed hard.*
 
-| **Ranged, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------|--------------------:|
-| **📏 Ranged 5**            | **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 5**            | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -658,9 +658,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *There's no recovering from this.*
 
-| **Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -691,9 +691,9 @@ Additionally, you have the following ability.
 
 *A steely dagger from out of the blue knocks another weapon off course.*
 
-| **Ranged, Weapon** |   **Triggered** |
+| **[Ranged](../rule/combat/ranged.md), Weapon** |   **Triggered** |
 |--------------------|----------------:|
-| **📏 Ranged 5**    | **🎯 One ally** |
+| **📏 [Ranged](../rule/combat/ranged.md) 5**    | **🎯 One ally** |
 
 **Trigger:** The target takes damage from another creature's ability while you are hidden.
 
@@ -709,7 +709,7 @@ You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/h
 
 ### Surge of Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-4/surge-of-insight"}
 
-The first time each combat round that you deal damage incorporating 1 or more [surges](../rule/resource/surge.md), you gain 2 insight instead of 1.
+The first time each [combat round](../rule/combat/combat-round.md) that you deal damage incorporating 1 or more [surges](../rule/resource/surge.md), you gain 2 insight instead of 1.
 
 ## 5th-Level Features
 
@@ -729,7 +729,7 @@ Your [shadow college](../feature/shadow/level-1/shadow-college.md) grants you a 
 
 #### Harlequin Gambit {data-scc="mcdm.heroes.v1/feature.shadow.level-5/harlequin-gambit"}
 
-Whenever you reduce an adjacent non-minion creature to 0 [Stamina](../rule/health/stamina.md), you can immediately use a [free maneuver](../rule/combat/free-maneuver.md) to use your [I'm No Threat](../feature/ability/shadow/level-1/im-no-threat.md) ability and then move up to your [speed](../rule/character/speed.md).
+Whenever you reduce an [adjacent](../rule/combat/adjacent.md) non-minion creature to 0 [Stamina](../rule/health/stamina.md), you can immediately use a [free maneuver](../rule/combat/free-maneuver.md) to use your [I'm No Threat](../feature/ability/shadow/level-1/im-no-threat.md) ability and then move up to your [speed](../rule/character/speed.md).
 
 If the creature is the same [size](../rule/character/size.md) as you, you can disguise yourself as them using [I'm No Threat](../feature/ability/shadow/level-1/im-no-threat.md) without spending insight. If you do, while [I'm No Threat](../feature/ability/shadow/level-1/im-no-threat.md) is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
 
@@ -737,11 +737,11 @@ If the creature is the same [size](../rule/character/size.md) as you, you can di
 
 Whenever you reduce a non-minion creature to 0 [Stamina](../rule/health/stamina.md), you can immediately use a [free maneuver](../rule/combat/free-maneuver.md) to use your [Black Ash Teleport](../feature/ability/shadow/level-1/black-ash-teleport.md) ability.
 
-Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to [teleport](../movement/teleport.md). The creature appears in an unoccupied space adjacent to the space into which you [teleport](../movement/teleport.md)ed. If no such space exists, they can't [teleport](../movement/teleport.md) with you.
+Additionally, you can now bring an [adjacent](../rule/combat/adjacent.md) willing creature along with you whenever you use a shadow ability to [teleport](../movement/teleport.md). The creature appears in an unoccupied space [adjacent](../rule/combat/adjacent.md) to the space into which you [teleport](../movement/teleport.md)ed. If no such space exists, they can't [teleport](../movement/teleport.md) with you.
 
 #### Volatile Reagents {data-scc="mcdm.heroes.v1/feature.shadow.level-5/volatile-reagents"}
 
-Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your [Agility](../rule/character/agility.md) score.
+Whenever you take damage, each enemy [adjacent](../rule/combat/adjacent.md) to you takes fire, acid, or poison damage (your choice) equal to your [Agility](../rule/character/agility.md) score.
 
 Additionally, your [Defensive Roll](../feature/ability/shadow/level-1/defensive-roll.md) ability now allows you to [shift](../movement/shifting.md) up to 5 squares, including [shifting](../movement/shifting.md) vertically. If you don't end this [shift](../movement/shifting.md) on solid ground and are not [flying](../movement/fly.md), you fall.
 
@@ -758,18 +758,18 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 |-----------------|---------------:|
 | **📏 3 [burst](../rule/combat/burst.md)**  | **🎯 Special** |
 
-**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies [concealment](../rule/combat/concealment.md) against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free [triggered action](../rule/combat/triggered-action.md) to [shift](../movement/shifting.md) to a new location within the area and make a [free strike](../feature/common/main-actions/free-strike.md) against them.
+**Effect:** A black cloud fills the area until the end of your next [turn](../rule/combat/turn.md), granting you and your allies [concealment](../rule/combat/concealment.md) against enemies. While you are in the area, whenever an enemy ends their [turn](../rule/combat/turn.md) in the area, you can use a free [triggered action](../rule/combat/triggered-action.md) to [shift](../movement/shifting.md) to a new location within the area and make a [free strike](../feature/common/main-actions/free-strike.md) against them.
 
 #### Into the Shadows {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows"}
 
 
 *You sweep your foe off their feet and plunge them into absolute darkness.*
 
-| **Magic, Melee, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |----------------------------------|------------------------------:|
-| **📏 Melee 1**                   | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1**                   | **🎯 One creature or object** |
 
-**Effect:** You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../rule/dice/power-roll.md) upon your return.
+**Effect:** You and the target are removed from the encounter map until the start of your next [turn](../rule/combat/turn.md). You reappear in the spaces you left or the nearest unoccupied spaces. Make a [power roll](../rule/dice/power-roll.md) upon your return.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -782,7 +782,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You vanish. They fall. You reappear.*
 
-| **Area, Melee, Weapon**     |               **Main action** |
+| **Area, [Melee](../rule/combat/melee.md), Weapon**     |               **Main action** |
 |-----------------------------|------------------------------:|
 | **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
 
@@ -799,9 +799,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *Silence is a virtue. A knife pinning their mouth shut is the next best thing.*
 
-| **Melee, Ranged, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **[Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |-----------------------------------|--------------------:|
-| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 5**        | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -824,9 +824,9 @@ You gain one perk of your choice.
 As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are [dying](../rule/health/dying.md), or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
 - You can automatically climb at full [speed](../rule/character/speed.md) while moving.
-- Enemies' spaces don't count as [difficult terrain](../movement/difficult-terrain.md) for you. An enemy takes corruption damage equal to your [Agility](../rule/character/agility.md) score the first time you pass through their space on a turn.
-- If you end your turn with [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md) from another creature, you are automatically hidden from that creature.
-- You gain 1 [surge](../rule/resource/surge.md) at the start of each of your turns.
+- Enemies' spaces don't count as [difficult terrain](../movement/difficult-terrain.md) for you. An enemy takes corruption damage equal to your [Agility](../rule/character/agility.md) score the first time you pass through their space on a [turn](../rule/combat/turn.md).
+- If you end your [turn](../rule/combat/turn.md) with [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md) from another creature, you are automatically hidden from that creature.
+- You gain 1 [surge](../rule/resource/surge.md) at the start of each of your [turns](../rule/combat/turn.md).
 - You have corruption immunity equal to 5 + your level.
 - Creatures gain an [edge](../rule/dice/edge.md) on [strikes](../rule/combat/strike.md) against you.
 - You take a [bane](../rule/dice/bane.md) on [Presence](../rule/character/presence.md) [tests](../rule/test/test.md) made to interact with other creatures.
@@ -844,9 +844,9 @@ Choose one of the following abilities.
 
 *Your attack produces a cloud of black ash that launches an enemy into the air.*
 
-| **Magic, Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 1**                   | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 1**                   | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -865,7 +865,7 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 4 [burst](../rule/combat/burst.md)** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can [teleport](../movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your [Agility](../rule/character/agility.md) score. Additionally, a target who ends this movement in [concealment](../rule/combat/concealment.md) or [cover](../rule/combat/cover.md) can use the [Hide](../feature/common/maneuvers/hide.md) maneuver even if they are observed.
+**Effect:** Each target can [teleport](../movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../movement/teleport.md) away from or into a space [adjacent](../rule/combat/adjacent.md) to an enemy, that enemy takes fire damage equal to your [Agility](../rule/character/agility.md) score. Additionally, a target who ends this movement in [concealment](../rule/combat/concealment.md) or [cover](../rule/combat/cover.md) can use the [Hide](../feature/common/maneuvers/hide.md) maneuver even if they are observed.
 
 #### 6th-Level Caustic Alchemy Abilities
 
@@ -876,9 +876,9 @@ Choose one of the following abilities.
 
 *A well-timed throw of a potion will keep your allies in the fight.*
 
-| **Ranged**       |           **Maneuver** |
+| **[Ranged](../rule/combat/ranged.md)**       |           **Maneuver** |
 |------------------|-----------------------:|
-| **📏 Ranged 10** | **🎯 Three creatures** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10** | **🎯 Three creatures** |
 
 **Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../feature/common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its [potency](../rule/character/potency.md) at the end of the encounter.
 
@@ -889,9 +889,9 @@ A creature who drinks the potion can spend up to 2 [Recoveries](../rule/health/r
 
 *Each ally who catches a potion you throw can take the battle to the next level.*
 
-| **Ranged**       |        **Main action** |
+| **[Ranged](../rule/combat/ranged.md)**       |        **Main action** |
 |------------------|-----------------------:|
-| **📏 Ranged 10** | **🎯 Three creatures** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10** | **🎯 Three creatures** |
 
 **Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../feature/common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its [potency](../rule/character/potency.md) at the end of the encounter.
 
@@ -901,7 +901,7 @@ A creature who drinks the potion receives benefits based on your [power roll](..
 
 - **≤11:** The creature's [speed](../rule/character/speed.md) is increased by 2 until the end of the encounter.
 - **12-16:** The creature can [fly](../movement/fly.md) until the end of the encounter.
-- **17+:** The creature turns invisible until the end of their next turn.
+- **17+:** The creature [turns](../rule/combat/turn.md) invisible until the end of their next [turn](../rule/combat/turn.md).
 
 #### 6th-Level Harlequin Mask Abilities
 
@@ -916,16 +916,16 @@ Choose one of the following abilities.
 |-----------------|------------------------------:|
 | **📏 5 [burst](../rule/combat/burst.md)**  | **🎯 Each enemy in the area** |
 
-**Effect:** Until the start of your next turn, any [ability roll](../rule/dice/ability-roll.md) made against a target gains an [edge](../rule/dice/edge.md).
+**Effect:** Until the start of your next [turn](../rule/combat/turn.md), any [ability roll](../rule/dice/ability-roll.md) made against a target gains an [edge](../rule/dice/edge.md).
 
 ##### Puppet Strings {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/puppet-strings"}
 
 
 *You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.*
 
-| **Magic, Melee**, **Strike, Weapon** |    **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md)**, **Strike, Weapon** |    **Main action** |
 |--------------------------------------|-------------------:|
-| **📏 Melee 1**                       | **🎯 Two enemies** |
+| **📏 [Melee](../rule/combat/melee.md) 1**                       | **🎯 Two enemies** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -945,7 +945,7 @@ Each of your [characteristic](../rule/character/characteristic.md) scores increa
 
 ### Keen Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-7/keen-insight"}
 
-At the start of each of your turns during combat, you gain 1d3 + 1 insight instead of 1d3.
+At the start of each of your [turns](../rule/combat/turn.md) during combat, you gain 1d3 + 1 insight instead of 1d3.
 
 ### Skill {data-scc="mcdm.heroes.v1/feature.shadow.level-7/skill"}
 
@@ -989,20 +989,20 @@ Your movement no longer provokes [opportunity attacks](../rule/combat/opportunit
 
 #### Time Bomb {data-scc="mcdm.heroes.v1/feature.shadow.level-8/time-bomb"}
 
-You have [damage immunity](../rule/damage/damage-immunity.md) against area abilities and effects equal to your [Agility](../rule/character/agility.md) score. You also have the following ability, which you can use once per round on your turn.
+You have [damage immunity](../rule/damage/damage-immunity.md) against area abilities and effects equal to your [Agility](../rule/character/agility.md) score. You also have the following ability, which you can use once per round on your [turn](../rule/combat/turn.md).
 
 ##### Time Bomb {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/time-bomb"}
 
 
 *The longer it cooks, the bigger the boom.*
 
-| **Area, Ranged**        |             **[Free maneuver](../rule/combat/free-maneuver.md)** |
+| **Area, [Ranged](../rule/combat/ranged.md)**        |             **[Free maneuver](../rule/combat/free-maneuver.md)** |
 |-------------------------|------------------------------:|
 | **📏 2 [cube](../rule/combat/cube.md) within 10** | **🎯 Each enemy in the area** |
 
 **Effect:** Each target takes acid, fire, or poison damage (your choice) equal to your [Agility](../rule/character/agility.md) score.
 
-For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 [surge](../rule/resource/surge.md) that must be used with this ability. After using the ability or at the end of the encounter, its area and [surges](../rule/resource/surge.md) are reset.
+For each [combat round](../rule/combat/combat-round.md) that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 [surge](../rule/resource/surge.md) that must be used with this ability. After using the ability or at the end of the encounter, its area and [surges](../rule/resource/surge.md) are reset.
 
 **Spend 2+ Insight:** For every 2 insight spent, you increase the [cube](../rule/combat/cube.md)'s [size](../rule/character/size.md) by 1 and gain 1 [surge](../rule/resource/surge.md) that can be used only with this ability.
 
@@ -1015,9 +1015,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *A practiced attack will instantly kill an already weakened foe.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -1058,7 +1058,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 *You fire a projectile so fast that it passes through a line of foes, hamstringing them.*
 
-| **Area, Ranged, Weapon**   |               **Main action** |
+| **Area, [Ranged](../rule/combat/ranged.md), Weapon**   |               **Main action** |
 |----------------------------|------------------------------:|
 | **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |
 
@@ -1074,7 +1074,7 @@ As a 9th-level [shadow](shadow.md), you gain the following features.
 
 ### Gloom Squad {data-scc="mcdm.heroes.v1/feature.shadow.level-9/gloom-squad"}
 
-At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 [Stamina](../rule/health/stamina.md). They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have insight and can't use the [Careful Observation](../feature/ability/shadow/level-3/careful-observation.md) ability, the [Umbral Form](../feature/shadow/level-6/umbral-form.md) feature, or any [triggered actions](../rule/combat/triggered-action.md). On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../feature/common/main-actions/free-strike.md). While making a [free strike](../feature/common/main-actions/free-strike.md), a clone must choose targets that you or another clone aren't also striking.
+At the start of each of your [turns](../rule/combat/turn.md), you can forgo gaining insight to create 1d6 clones of yourself in unoccupied [adjacent](../rule/combat/adjacent.md) spaces. A clone acts on your [turn](../rule/combat/turn.md) and uses your statistics, except they have 1 [Stamina](../rule/health/stamina.md). They are affected by any [conditions](../rule/combat/condition.md) and effects on you, and last until the start of your next [turn](../rule/combat/turn.md). A clone doesn't have insight and can't use the [Careful Observation](../feature/ability/shadow/level-3/careful-observation.md) ability, the [Umbral Form](../feature/shadow/level-6/umbral-form.md) feature, or any [triggered actions](../rule/combat/triggered-action.md). On their [turn](../rule/combat/turn.md), a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../feature/common/main-actions/free-strike.md). While making a [free strike](../feature/common/main-actions/free-strike.md), a clone must choose targets that you or another clone aren't also striking.
 
 Outside of combat, you can have one clone active for every 2 [Victories](../rule/resource/victories.md) you have. If a clone is destroyed, you must wait 1 hour before creating another one.
 
@@ -1091,11 +1091,11 @@ Choose one of the following abilities.
 
 *You tumble through the battle, stabbing foes and [teleporting](../movement/teleport.md) allies.*
 
-| **Magic, Melee, Weapon** | **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), Weapon** | **Main action** |
 |--------------------------|----------------:|
 | **📏 Self; see below**   |     **🎯 Self** |
 
-**Effect:** You [shift](../movement/shifting.md) up to twice your [speed](../rule/character/speed.md), making one [power roll](../rule/dice/power-roll.md) that targets each creature you come adjacent to during the [shift](../movement/shifting.md).
+**Effect:** You [shift](../movement/shifting.md) up to twice your [speed](../rule/character/speed.md), making one [power roll](../rule/dice/power-roll.md) that targets each creature you come [adjacent](../rule/combat/adjacent.md) to during the [shift](../movement/shifting.md).
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -1108,9 +1108,9 @@ Choose one of the following abilities.
 
 *You create a temporary portal to allow a massive demonic hand to reach through.*
 
-| **Magic, Melee, [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
+| **Magic, [Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |     **Main action** |
 |----------------------------------|--------------------:|
-| **📏 Melee 3**                   | **🎯 One creature** |
+| **📏 [Melee](../rule/combat/melee.md) 3**                   | **🎯 One creature** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -1129,9 +1129,9 @@ Choose one of the following abilities.
 
 *One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*
 
-| **Ranged**       |               **Main action** |
+| **[Ranged](../rule/combat/ranged.md)**       |               **Main action** |
 |------------------|------------------------------:|
-| **📏 Ranged 10** | **🎯 One creature or object** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10** | **🎯 One creature or object** |
 
 **Effect:** Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).
 
@@ -1146,9 +1146,9 @@ Choose one of the following abilities.
 
 *You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
 
-| **Melee, Ranged, [Strike](../rule/combat/strike.md)**   |               **Main action** |
+| **[Melee](../rule/combat/melee.md), [Ranged](../rule/combat/ranged.md), [Strike](../rule/combat/strike.md)**   |               **Main action** |
 |-----------------------------|------------------------------:|
-| **📏 Melee 1 or ranged 10** | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1 or [ranged](../rule/combat/ranged.md) 10** | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -1167,20 +1167,20 @@ Choose one of the following abilities.
 
 *Your mask reflects your foe's face. Surely they won't need it much longer.*
 
-| **Magic, Ranged** |            **Maneuver** |
+| **Magic, [Ranged](../rule/combat/ranged.md)** |            **Maneuver** |
 |-------------------|------------------------:|
-| **📏 Ranged 10**  |     **🎯 One creature** |
+| **📏 [Ranged](../rule/combat/ranged.md) 10**  |     **🎯 One creature** |
 
-**Effect:** Until the end of the encounter, you gain the target's damage immunities and [speed](../rule/character/speed.md) (if they are better than yours), and can use any types of movement they can use. You can also use the target's [signature ability](../rule/combat/signature-ability.md), using their bonus for the [power roll](../rule/dice/power-roll.md).
+**Effect:** Until the end of the encounter, you gain the target's damage immunities and [speed](../rule/character/speed.md) (if they are better than yours), and can use any types of movement they can use. You can also use the target's [signature ability](../rule/combat/signature-ability.md), using their [bonus](../rule/dice/bonuses-and-penalties.md) for the [power roll](../rule/dice/power-roll.md).
 
 ##### It Was Me All Along {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-9/it-was-me-all-along"}
 
 
 *After everything you've been through together, you twist the blade and make the pain extra personal.*
 
-| **Melee, [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
+| **[Melee](../rule/combat/melee.md), [Strike](../rule/combat/strike.md), Weapon** |               **Main action** |
 |---------------------------|------------------------------:|
-| **📏 Melee 1**            | **🎯 One creature or object** |
+| **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature or object** |
 
 **[Power Roll](../rule/dice/power-roll.md) + [Agility](../rule/character/agility.md):**
 
@@ -1200,7 +1200,7 @@ Your [Agility](../rule/character/agility.md) score increases to 5. Additionally,
 
 ### Death Pool {data-scc="mcdm.heroes.v1/feature.shadow.level-10/death-pool"}
 
-The first time each combat round that you deal damage incorporating 1 or more [surges](../rule/resource/surge.md), you gain 3 insight instead of 2.
+The first time each [combat round](../rule/combat/combat-round.md) that you deal damage incorporating 1 or more [surges](../rule/resource/surge.md), you gain 3 insight instead of 2.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-10/perk"}
 
@@ -1224,6 +1224,6 @@ While you are in your [umbral form](../feature/shadow/level-6/umbral-form.md), y
 
 You have an epic resource called [subterfuge](../feature/shadow/level-10/subterfuge.md). Each time you finish a [respite](../rule/resource/respite.md), you gain [subterfuge](../feature/shadow/level-10/subterfuge.md) equal to the [XP](../rule/resource/experience.md) you gain. You can spend [subterfuge](../feature/shadow/level-10/subterfuge.md) on your abilities as if it were insight.
 
-Additionally, you can spend [subterfuge](../feature/shadow/level-10/subterfuge.md) to take additional maneuvers on your turn. You can use one maneuver for each [subterfuge](../feature/shadow/level-10/subterfuge.md) you spend.
+Additionally, you can spend [subterfuge](../feature/shadow/level-10/subterfuge.md) to take additional maneuvers on your [turn](../rule/combat/turn.md). You can use one maneuver for each [subterfuge](../feature/shadow/level-10/subterfuge.md) you spend.
 
 [Subterfuge](../feature/shadow/level-10/subterfuge.md) remains until you spend it.

@@ -2,13 +2,13 @@
 action_type: Main action
 class: elementalist
 cost: 9 Essence
-distance: Ranged 10
-effect: When the target ends their next turn, or if they drop to 0 [Stamina](../../../../rule/health/stamina.md) before then, each enemy adjacent to them takes fire damage equal to twice your [Reason](../../../../rule/character/reason.md) score. Each affected enemy then gains this same effect.
+distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
+effect: When the target ends their next [turn](../../../../rule/combat/turn.md), or if they drop to 0 [Stamina](../../../../rule/health/stamina.md) before then, each enemy [adjacent](../../../../rule/combat/adjacent.md) to them takes fire damage equal to twice your [Reason](../../../../rule/character/reason.md) score. Each affected enemy then gains this same effect.
 flavor: Your flames dance from kindling to kindling to kindling.
 keywords:
     - Fire
     - Magic
-    - Ranged
+    - '[Ranged](../../../../rule/combat/ranged.md)'
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "5"
 name: Combustion Deferred
@@ -31,9 +31,9 @@ type: ability
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">9</span> Essence</div></div>
 </div>
 <p class="sc-ability__flavor">Your flames dance from kindling to kindling to kindling.</p>
-<div class="sc-ability__kw"><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">Ranged</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
+<div class="sc-ability__kw"><span class="sc-ability__chip">Fire</span><span class="sc-ability__chip">Magic</span><span class="sc-ability__chip">[Ranged](../../../../rule/combat/ranged.md)</span><span class="sc-ability__chip">[Strike](../../../../rule/combat/strike.md)</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Ranged 10</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
 <div class="sc-ability__section">
@@ -41,6 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>When the target ends their next turn, or if they drop to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> before then, each enemy adjacent to them takes fire damage equal to twice your <a href="../../../../../rule/character/reason/">Reason</a> score. Each affected enemy then gains this same effect.</p></div>
+<div class="sc-ability__section-body"><p>When the target ends their next <a href="../../../../../rule/combat/turn/">turn</a>, or if they drop to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> before then, each enemy <a href="../../../../../rule/combat/adjacent/">adjacent</a> to them takes fire damage equal to twice your <a href="../../../../../rule/character/reason/">Reason</a> score. Each affected enemy then gains this same effect.</p></div>
 </div>
 </article>

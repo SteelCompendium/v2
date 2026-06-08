@@ -34,7 +34,7 @@ type: feature
 <p class="sc-ability__flavor">You commune with the lingering soul of the recently dead.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">Magic</span></div>
 <div class="sc-ability__rail">
-<div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Melee 1</div></div>
+<div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One dead creature</div></div>
 </div>
 <div class="sc-ability__section">

@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: 5 [aura](../../../../rule/combat/aura.md)
-effect: While this performance is active, each target who starts their turn in the area can reroll the first [power roll](../../../../rule/dice/power-roll.md) that turn that obtains a tier 2 outcome. They must use the new roll.
+effect: While this performance is active, each target who starts their [turn](../../../../rule/combat/turn.md) in the area can reroll the first [power roll](../../../../rule/dice/power-roll.md) that [turn](../../../../rule/combat/turn.md) that obtains a tier 2 outcome. They must use the new roll.
 flavor: One more, and this time make it interesting.
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area can reroll the first <a href="../../../../../rule/dice/power-roll/">power roll</a> that turn that obtains a tier 2 outcome. They must use the new roll.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their <a href="../../../../../rule/combat/turn/">turn</a> in the area can reroll the first <a href="../../../../../rule/dice/power-roll/">power roll</a> that <a href="../../../../../rule/combat/turn/">turn</a> that obtains a tier 2 outcome. They must use the new roll.</p></div>
 </div>
 </article>

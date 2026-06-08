@@ -24,8 +24,8 @@ type: treasure
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../../../rule/health/stamina.md) and you can [fly](../../../movement/fly.md). If you don't end your turn on the ground, you fall.
+**1st Level:** While you wear this armor, you gain a +6 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md) and you can [fly](../../../movement/fly.md). If you don't end your turn on the ground, you fall.
 
-**5th Level:** The armor's bonus to [Stamina](../../../rule/health/stamina.md) increases to +12. Additionally, you no longer need to end your turn on the ground to avoid falling.
+**5th Level:** The armor's [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md) increases to +12. Additionally, you no longer need to end your turn on the ground to avoid falling.
 
-**9th Level:** The armor's bonus to [Stamina](../../../rule/health/stamina.md) increases to +21. Additionally, if you [fly](../../../movement/fly.md) any [distance](../../../rule/combat/distance.md) before making a [strike](../../../rule/combat/strike.md), that [strike](../../../rule/combat/strike.md) gains an [edge](../../../rule/dice/edge.md).
+**9th Level:** The armor's [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md) increases to +21. Additionally, if you [fly](../../../movement/fly.md) any [distance](../../../rule/combat/distance.md) before making a [strike](../../../rule/combat/strike.md), that [strike](../../../rule/combat/strike.md) gains an [edge](../../../rule/dice/edge.md).

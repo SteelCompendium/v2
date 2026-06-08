@@ -4,7 +4,7 @@ class: tactician
 cost: 7 Focus
 distance: Self
 effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the creature who dealt the damage (save ends).
-flavor: The tide begins to turn.
+flavor: The tide begins to [turn](../../../../rule/combat/turn.md).
 keywords:
     - '-'
 level: "3"
@@ -27,7 +27,7 @@ type: ability
 </div>
 <div class="sc-ability__corner"><div class="sc-ability__cost"><span class="num">7</span> Focus</div></div>
 </div>
-<p class="sc-ability__flavor">The tide begins to turn.</p>
+<p class="sc-ability__flavor">The tide begins to <a href="../../../../../rule/combat/turn/">turn</a>.</p>
 <div class="sc-ability__kw"><span class="sc-ability__chip">-</span></div>
 <div class="sc-ability__rail">
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
