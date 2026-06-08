@@ -1,8 +1,10 @@
 ---
+flavor: This suit is shaped of tough leather and set with thousands of tiny barbs on the inside, all thankfully pain-free to the touch.
 keywords:
     - Light Armor
     - Magic
 name: Adaptive Second Skin of Toxins
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/adaptive-second-skin-of-toxins
 treasure_type: armor
 type: treasure

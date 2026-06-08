@@ -1,4 +1,5 @@
 ---
+flavor: A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your familiar—or to adopt you as their familiar.
 name: Familiar
 scc: mcdm.heroes.v1/perk/familiar
 type: perk

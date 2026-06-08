@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: We won't kill you. But you might wish we had.
 name: Brawler
 prerequisite: You triumph in battle without killing any of your foes.
 scc: mcdm.heroes.v1/title/brawler

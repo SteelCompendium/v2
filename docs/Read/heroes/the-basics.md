@@ -228,7 +228,7 @@ Sometimes the rules tell you to divide a number in half. Whenever you divide an 
 
 ### Creatures and Objects {data-scc="mcdm.heroes.v1/rule.general/creature"}
 
-*Draw Steel* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. Creatures are living or unliving beings such as animals, elves, [humans](../../Browse/ancestry/human.md), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
+*Draw Steel* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. [Creatures](../../Browse/rule/general/creature.md) are living or unliving beings such as animals, elves, [humans](../../Browse/ancestry/human.md), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
 
 When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](../../Browse/class/elementalist.md) can't use their [Return to Formlessness](../../Browse/feature/ability/elementalist/level-1/return-to-formlessness.md) ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](../../Browse/class/elementalist.md) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
 

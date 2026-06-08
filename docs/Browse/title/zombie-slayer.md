@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: Why won't you die?! You've already done it once, you should be good at it by now!
 name: Zombie Slayer
 prerequisite: You defeat a leader or solo creature with the Undead keyword, such as a ghost.
 scc: mcdm.heroes.v1/title/zombie-slayer

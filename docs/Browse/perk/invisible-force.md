@@ -1,4 +1,5 @@
 ---
+flavor: You have the following ability.
 name: Invisible Force
 scc: mcdm.heroes.v1/perk/invisible-force
 type: perk

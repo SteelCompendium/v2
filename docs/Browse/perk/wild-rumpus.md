@@ -1,4 +1,5 @@
 ---
+flavor: You have the following ability.
 name: Wild Rumpus
 scc: mcdm.beastheart.v1/perk/wild-rumpus
 type: perk

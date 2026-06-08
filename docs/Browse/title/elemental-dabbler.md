@@ -1,5 +1,6 @@
 ---
 effect: 'Choose a [damage type](../rule/damage/damage-type.md) to which the defeated creature had an immunity (such as fire). Then choose one of the following benefits:'
+flavor: Spirit of fire, I command you!
 name: Elemental Dabbler
 prerequisite: You defeat a creature with the Elemental keyword, such as a crux of fire.
 scc: mcdm.heroes.v1/title/elemental-dabbler

@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: Stay out all night, visit the dives. Get in a fight, run from the cops. That's the real city.
 name: City Rat
 prerequisite: You have spent at least five [respites](../rule/resource/respite.md) in a metropolis.
 scc: mcdm.heroes.v1/title/city-rat

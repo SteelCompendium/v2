@@ -1,8 +1,10 @@
 ---
+flavor: This crystal wand thrums with power, yet is so thin and brittle that it feels as if even a slight squeeze will shatter it.
 keywords:
     - Psionic
     - Wand
 name: Brittlebreaker
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.implement/brittlebreaker
 treasure_type: implement
 type: treasure

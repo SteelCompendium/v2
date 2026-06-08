@@ -1,4 +1,5 @@
 ---
+flavor: Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, high elf history describes a better age, before the coming of humans and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 name: High Elf
 scc: mcdm.heroes.v1/ancestry/high-elf
 signature_trait_name: High Elf Glamor

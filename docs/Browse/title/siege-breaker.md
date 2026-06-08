@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: Best way to deal with a castle siege? Be on the outside.
 name: Siege Breaker
 prerequisite: You have the [Battlefield Commander](battlefield-commander.md) title, and you lead the defense of a settlement or fortification.
 scc: mcdm.heroes.v1/title/siege-breaker

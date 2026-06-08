@@ -1,4 +1,5 @@
 ---
+flavor: You somehow obtained the notebook of a brilliant but eccentric member of your class. The knowledge held within those notes should help you unlock powerful new abilities—if you can ever figure out what the notes mean.
 name: Advanced Studies
 scc: mcdm.heroes.v1/complication/advanced-studies
 type: complication

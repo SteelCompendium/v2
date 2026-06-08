@@ -1,4 +1,5 @@
 ---
+flavor: This fabled sword features a hilt made of glittering starlight, out of which its gleaming metal blade extends.
 keywords:
     - Magic; Light Weapon
     - Medium Weapon

@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: He seemed like he needed help! Now the dead speak to me. I think maybe that old man was more than he appeared.
 name: Godsworn
 prerequisite: You do a favor for an agent of a god or [saint](../rule/world/saint.md), or promise to do so.
 scc: mcdm.heroes.v1/title/godsworn

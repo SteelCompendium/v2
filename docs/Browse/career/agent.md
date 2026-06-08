@@ -1,4 +1,5 @@
 ---
+flavor: You worked as a spy for a government or organization.
 language: Two languages
 name: Agent
 perk: One intrigue perk (*Quick Build:* [Forgettable Face](../perk/forgettable-face.md).)

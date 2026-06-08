@@ -1,8 +1,11 @@
 ---
+flavor: This bow is festooned with mirrors and sights pointing in all directions.
 keywords:
     - Bow
     - Magic
 name: Glancing Bow
+project_goal: "450"
+project_roll_characteristic: Agility, Reason, or Intuition
 scc: mcdm.beastheart.v1/treasure.leveled.weapon/glancing-bow
 treasure_type: weapon
 type: treasure

@@ -1,4 +1,5 @@
 ---
+flavor: Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among humans for snatching children who wander too far into the woods. Humans should fear the trees.
 name: Wode Elf
 scc: mcdm.heroes.v1/ancestry/wode-elf
 signature_trait_name: Wode Elf Glamor

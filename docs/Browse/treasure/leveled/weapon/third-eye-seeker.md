@@ -1,8 +1,10 @@
 ---
+flavor: The shifting patterns on this bow's crystalline grip resemble dozens of blinking eyes.
 keywords:
     - Bow
     - Psionic
 name: Third Eye Seeker
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/third-eye-seeker
 treasure_type: weapon
 type: treasure

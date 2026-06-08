@@ -1,4 +1,5 @@
 ---
+flavor: The dead walk among us. Some of them are happier about it than others.
 name: Revenant
 scc: mcdm.heroes.v1/ancestry/revenant
 signature_trait_name: Former Life

@@ -9,7 +9,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Color Cloak (Blue)</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__flavor sc-card__flavor--clamp">This silky-blue hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;ice.&#34;</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This silky-blue hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;ice.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
@@ -20,7 +20,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Color Cloak (Red)</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__flavor sc-card__flavor--clamp">This red woolen hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;fire.&#34;</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This red woolen hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;fire.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
@@ -31,7 +31,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Color Cloak (Yellow)</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Magic</span><span class="sc-tag">Neck</span></div>
-  <div class="sc-card__flavor sc-card__flavor--clamp">This yellow rubbery hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;lightning.&#34;</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">This yellow rubbery hooded cloak is emblazoned with a golden Anjali sigil meaning &#34;lightning.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>
@@ -53,7 +53,7 @@
     <div><div class="sc-card__type">Trinket</div>
     <div class="sc-card__name">Displacing Replacement Bracer</div></div></div>
   <div class="sc-card__tags"><span class="sc-tag">Arms</span><span class="sc-tag">Psionic</span></div>
-  <div class="sc-card__flavor sc-card__flavor--clamp">A wooden bangle is etched with an ambigram sigil of the Zaliac word for &#34;transfer.&#34;</div>
+  <div class="sc-card__flavor sc-card__flavor--clamp">A wooden bangle is etched with an ambigram sigil of the Zaliac word for &#34;transfer.</div>
   <div class="sc-card__stats" style="grid-template-columns:repeat(1,1fr)">
     <div class="sc-card__stat"><div class="v">150</div><div class="l">Project Goal</div></div>
   </div>

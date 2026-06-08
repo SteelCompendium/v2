@@ -1,4 +1,5 @@
 ---
+flavor: Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a talent's abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
 name: Talent
 scc: mcdm.heroes.v1/class/talent
 skills:

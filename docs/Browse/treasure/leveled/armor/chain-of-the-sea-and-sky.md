@@ -1,8 +1,10 @@
 ---
+flavor: This set of heavy chain mail is created to allow free movement in extreme environments without sacrificing protection.
 keywords:
     - Heavy Armor
     - Magic
 name: Chain of the Sea and Sky
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/chain-of-the-sea-and-sky
 treasure_type: armor
 type: treasure

@@ -1,9 +1,11 @@
 ---
 echelon: "2"
 effect: 'As a maneuver, you toss the coin in the air and let it fall to the ground in front of you. Roll a d3 to determine the coin''s effect, depending on which face shows when it lands:'
+flavor: This small, featureless coin is solid green on one side and solid red on the other.
 keywords:
     - Magic
 name: Stop-'n-Go Coin
+project_goal: "300"
 scc: mcdm.heroes.v1/treasure.2nd-echelon.trinket/stop-n-go-coin
 treasure_type: trinket
 type: treasure

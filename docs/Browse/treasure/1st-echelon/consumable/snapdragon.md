@@ -1,9 +1,11 @@
 ---
 echelon: "1"
 effect: As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 [bonus](../../../rule/dice/bonuses-and-penalties.md) to the [distance](../../../rule/combat/distance.md) of any [forced movement](../../../movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../../../movement/forced-movement.md), you can push each creature targeted by the ability up to 2 squares.
+flavor: This delicate orange blossom has a sickly-sweet smell.
 keywords:
     - Magic
 name: Snapdragon
+project_goal: 45 (yields 1d6 + 1 snapdragons)
 scc: mcdm.heroes.v1/treasure.1st-echelon.consumable/snapdragon
 treasure_type: consumable
 type: treasure

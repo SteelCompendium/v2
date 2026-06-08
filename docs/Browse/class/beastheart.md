@@ -1,4 +1,5 @@
 ---
+flavor: A beastheart never fights alone! You travel with a ferocious beast by your side—no trained pet, but an untamed creature such as a wolf, a basilisk, or even a young dragon. Bound to you by a primordial connection, your companion honors your wishes just as you are guided by their instincts. But beware! As battle rages on, your companion may succumb to a blood-soaked rampage, lashing out at enemies and friends alike.
 name: Beastheart
 scc: mcdm.beastheart.v1/class/beastheart
 type: class

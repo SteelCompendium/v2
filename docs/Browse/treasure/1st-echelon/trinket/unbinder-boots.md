@@ -1,10 +1,12 @@
 ---
 echelon: "1"
 effect: These boots can temporarily unbind themselves from the chains of the earth, letting you move through the air as high as 3 squares above the ground from where you started. If you end your [turn](../../../rule/combat/turn.md) while you are still airborne, you fall.
+flavor: A pair of ornately embroidered leather boots are covered in images of broken chains.
 keywords:
     - Feet
     - Magic
 name: Unbinder Boots
+project_goal: "150"
 scc: mcdm.heroes.v1/treasure.1st-echelon.trinket/unbinder-boots
 treasure_type: trinket
 type: treasure

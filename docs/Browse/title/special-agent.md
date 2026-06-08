@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: And this is interesting... if you twist the third button on your overcoat no, don't do it now!
 name: Special Agent
 prerequisite: A spymaster gives you an important secret mission.
 scc: mcdm.heroes.v1/title/special-agent

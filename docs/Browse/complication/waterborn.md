@@ -1,6 +1,7 @@
 ---
 benefit: You can automatically swim at full [speed](../rule/character/speed.md) while moving, and you can breathe underwater. Additionally, you have the following ability.
 drawback: You have lightning weakness 5. Additionally, the ocean or a creature it sends to seek you can assign you a quest. If you don't do the ocean's bidding, it might temporarily deny you this complication's benefits—including being able to breathe underwater—at an inconvenient time.
+flavor: You nearly lost your life at sea, but then you heard the voice. Someone—or something—in the water called out to you, telling you to swim. The ocean was suddenly no longer your doom but your parent, granting you a fragment of its power. But for what purpose, you can't be sure.
 name: Waterborn
 scc: mcdm.heroes.v1/complication/waterborn
 type: complication

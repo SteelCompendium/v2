@@ -8,7 +8,7 @@ type: rule
 
 ---
 
-*Draw Steel* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. Creatures are living or unliving beings such as animals, elves, [humans](../../ancestry/human.md), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
+*Draw Steel* uses the terms "creature" and "object" when referring to the targets of abilities and other effects. [Creatures](creature.md) are living or unliving beings such as animals, elves, [humans](../../ancestry/human.md), dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings.
 
 When a creature dies, their body becomes an object, and is affected by abilities and other effects as an object, not a creature. For example, an [elementalist](../../class/elementalist.md) can't use their [Return to Formlessness](../../feature/ability/elementalist/level-1/return-to-formlessness.md) ability to set an enemy cult leader on fire. But if that leader dies, the [elementalist](../../class/elementalist.md) can immolate their body to prevent them from being raised as a powerful undead by the temple's magic.
 

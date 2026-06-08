@@ -1,8 +1,10 @@
 ---
+flavor: This sinuous whip reflects all light off its plated steel surfaces.
 keywords:
     - Magic
     - Whip
 name: Steeltongue
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/steeltongue
 treasure_type: weapon
 type: treasure

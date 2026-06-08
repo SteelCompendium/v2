@@ -1,8 +1,10 @@
 ---
+flavor: This blade exudes a faint hum that grows louder as its quarry weakens.
 keywords:
     - Heavy Weapon
     - Psionic
 name: Executioner's Blade
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/executioners-blade
 treasure_type: weapon
 type: treasure

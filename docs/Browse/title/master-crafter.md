@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: The sword Vanartha has been remade, mightier now than on the day it was forged.
 name: Master Crafter
 prerequisite: You complete a downtime project to imbue armor, an [implement](../rule/treasure/implement.md), or a weapon with a 9th-level [enhancement](../rule/treasure/enhancement.md).
 scc: mcdm.heroes.v1/title/master-crafter

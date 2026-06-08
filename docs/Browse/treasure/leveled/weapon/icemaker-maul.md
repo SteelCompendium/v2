@@ -1,8 +1,10 @@
 ---
+flavor: The head of this iron hammer is cold to the touch and encases whatever it strikes in a thin layer of ice.
 keywords:
     - Heavy Weapon
     - Magic
 name: Icemaker Maul
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/icemaker-maul
 treasure_type: weapon
 type: treasure

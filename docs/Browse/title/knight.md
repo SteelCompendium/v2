@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: Kneel, heroes. Arise, knights of Tor, and may your swords be ever sharp in our service.
 name: Knight
 prerequisite: A [noble](noble.md) or [monarch](monarch.md) grants you knighthood or a similar rank.
 scc: mcdm.heroes.v1/title/knight

@@ -1,8 +1,11 @@
 ---
+flavor: This paired helmet and barding face shield are each set with a pair of curving metal horns.
 keywords:
     - Heavy Weapon
     - 'Magic Item Prerequisite: The horns of a minotaur Project Source: Epic poem in High Kuric'
 name: Horned Champion
+project_goal: "450"
+project_roll_characteristic: Might, Reason, or Intuition
 scc: mcdm.beastheart.v1/treasure.leveled.weapon/horned-champion
 treasure_type: weapon
 type: treasure

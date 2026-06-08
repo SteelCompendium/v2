@@ -1,8 +1,10 @@
 ---
+flavor: This armor, fashioned from the barbed scales of a thorn dragon, still pulses with the echo of the dragon's heartbeat.
 keywords:
     - Magic
     - Medium Armor
 name: Thorn Dragonscale
+project_goal: "450"
 scc: mcdm.beastheart.v1/treasure.leveled.armor/thorn-dragonscale
 treasure_type: armor
 type: treasure

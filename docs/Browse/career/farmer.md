@@ -1,4 +1,5 @@
 ---
+flavor: You grew crops or cared for livestock.
 language: One language
 name: Farmer
 perk: One exploration perk (*Quick Build:* [Monster Whisperer](../perk/monster-whisperer.md).)

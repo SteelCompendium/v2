@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: I like fighting these little guys. Means I don't have to waste money on a helmet.
 name: Ratcatcher
 prerequisite: You defeat a leader or solo creature who is [size](../rule/character/size.md) 1S or smaller, such as a goblin [monarch](monarch.md).
 scc: mcdm.heroes.v1/title/ratcatcher

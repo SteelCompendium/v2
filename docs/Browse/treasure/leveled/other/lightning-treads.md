@@ -1,8 +1,10 @@
 ---
+flavor: Sparks strike from these boots whenever they touch the ground, increasing in number as the wearer gathers speed.
 keywords:
     - Feet
     - Magic
 name: Lightning Treads
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.other/lightning-treads
 treasure_type: other
 type: treasure

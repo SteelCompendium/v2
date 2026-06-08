@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: I said you had twenty-four hours to leave town. That was... what, about twenty-four hours ago?
 name: Marshal
 prerequisite: 'You join an organization that hunts criminals, such as the Far Mariners (see [Orden](../rule/world/orden.md) and the Timescape in Chapter 1: [The Basics](../../Read/heroes/the-basics.md)), or you are deputized to act for the local authorities.'
 scc: mcdm.heroes.v1/title/marshal

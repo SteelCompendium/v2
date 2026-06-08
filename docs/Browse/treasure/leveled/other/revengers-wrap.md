@@ -1,8 +1,10 @@
 ---
+flavor: When first handled, this tattered cloak fills the mind with thoughts of revenge.
 keywords:
     - Neck
     - Magic
 name: Revenger's Wrap
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.other/revengers-wrap
 treasure_type: other
 type: treasure

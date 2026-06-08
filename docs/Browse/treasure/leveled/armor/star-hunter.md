@@ -1,8 +1,10 @@
 ---
+flavor: Shimmering light flows like liquid along this suit of crystalline armor.
 keywords:
     - Heavy Armor
     - Psionic
 name: Star-Hunter
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/star-hunter
 treasure_type: armor
 type: treasure

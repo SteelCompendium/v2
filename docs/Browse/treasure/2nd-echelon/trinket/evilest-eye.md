@@ -1,10 +1,12 @@
 ---
 echelon: "2"
 effect: As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 [surge](../../../rule/resource/surge.md).
+flavor: A perfectly preserved eyeball hangs unnervingly from a gold chain.
 keywords:
     - Neck
     - Psionic
 name: Evilest Eye
+project_goal: "300"
 scc: mcdm.heroes.v1/treasure.2nd-echelon.trinket/evilest-eye
 treasure_type: trinket
 type: treasure

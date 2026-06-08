@@ -1,9 +1,12 @@
 ---
 effect: The target takes poison damage equal to 3 + your
+flavor: These braids of articulated, wickedly barbed tails weave behind your heads, threatening painful stings.
 keywords:
     - Light Weapon
     - Magic
 name: Scorpion Tails
+project_goal: "450"
+project_roll_characteristic: Agility, Reason, or Intuition
 scc: mcdm.beastheart.v1/treasure.leveled.weapon/scorpion-tails
 treasure_type: weapon
 type: treasure

@@ -1,8 +1,10 @@
 ---
+flavor: An unseen force seems to draw this steel shield toward nearby creatures.
 keywords:
     - Psionic
     - Shield
 name: Telekinetic Bulwark
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/telekinetic-bulwark
 treasure_type: armor
 type: treasure

@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: I stabbed the wyrm Axarthan in the heart and their silver blood washed over me, leaving me... as you see.
 name: Dragon Blooded
 prerequisite: You defeat a leader or solo creature with the Dragon keyword, such as a gloom dragon.
 scc: mcdm.heroes.v1/title/dragon-blooded

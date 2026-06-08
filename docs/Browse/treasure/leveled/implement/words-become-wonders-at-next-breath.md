@@ -1,8 +1,10 @@
 ---
+flavor: This ornate high elf tome seems to sigh each time it is opened.
 keywords:
     - '[Implement](../../../rule/treasure/implement.md)'
     - Magic
 name: Words Become Wonders at Next Breath
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.implement/words-become-wonders-at-next-breath
 treasure_type: implement
 type: treasure

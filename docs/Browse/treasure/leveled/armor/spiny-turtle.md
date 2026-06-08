@@ -1,8 +1,10 @@
 ---
+flavor: This heavy mechanized plate armor of gnomish make is designed to create its own cover on the battlefield.
 keywords:
     - Heavy Armor
     - Magic
 name: Spiny Turtle
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/spiny-turtle
 treasure_type: armor
 type: treasure

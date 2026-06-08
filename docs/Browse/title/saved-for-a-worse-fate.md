@@ -1,5 +1,6 @@
 ---
 effect: After being defeated, each character awakes, alive and with full [Stamina](../rule/health/stamina.md) and [Recoveries](../rule/health/recoveries.md). You are all captives of the creatures who defeated you, and a gruesome end awaits you—unless you can escape or overcome the nefarious challenge your captors have planned.
+flavor: Drink this. You'll need all your strength for what lies ahead!
 name: Saved for a Worse Fate
 prerequisite: The entire party is killed or captured by sapient foes.
 scc: mcdm.heroes.v1/title/saved-for-a-worse-fate

@@ -1,5 +1,6 @@
 ---
 effect: You gain a visible scar in a location of your choice. Additionally, your [Stamina](../rule/health/stamina.md) maximum increases by 20, and the creature who [scarred](scarred.md) you takes a [bane](../rule/dice/bane.md) on abilities against you.
+flavor: Last time we fought, I gave you a little token to remember me by... now it appears you need another reminder of my power.
 name: Scarred
 prerequisite: An enemy leader or solo creature reduces you to 0 [Stamina](../rule/health/stamina.md).
 scc: mcdm.heroes.v1/title/scarred

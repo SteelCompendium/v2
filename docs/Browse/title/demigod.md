@@ -1,5 +1,6 @@
 ---
 effect: 'You gain the following benefits:'
+flavor: The ritual is complete. I feel your power flow through me. I am become a god! Ah-ha-ha-ha-ha!
 name: Demigod
 prerequisite: You have the [Godsworn](godsworn.md) title, and hundreds of worshipful mortals complete a divine ritual in your name.
 scc: mcdm.heroes.v1/title/demigod

@@ -1,8 +1,10 @@
 ---
+flavor: These spectacles feature pink-tinted glass lenses held in a silver frame.
 keywords:
     - '[Implement](../../../rule/treasure/implement.md)'
     - Psionic
 name: Foesense Lenses
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.implement/foesense-lenses
 treasure_type: implement
 type: treasure

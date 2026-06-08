@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: Technically, I'm called Lord Morninghill these days. I did a little favor for Duke Kenway at the Battle of Black Forest.
 name: Noble
 prerequisite: A [monarch](monarch.md) or important [noble](noble.md) grants you a [noble](noble.md) rank.
 scc: mcdm.heroes.v1/title/noble

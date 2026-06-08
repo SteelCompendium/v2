@@ -1,5 +1,6 @@
 ---
 effect: 'Your choice of your [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
+flavor: I'll never get away with it? My dear, I already have.
 name: Unchained
 prerequisite: You have the [Heist Hero](heist-hero.md) title, and you have stolen a precious object or escaped from captivity while evading guards of 8th level or higher.
 scc: mcdm.heroes.v1/title/unchained

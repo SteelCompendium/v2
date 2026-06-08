@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: A hundred silver?! An insult! I turned my father in for fifty golden crowns. And he was innocent!
 name: Wanted Dead or Alive
 prerequisite: You are declared an outlaw by a governmental authority.
 scc: mcdm.heroes.v1/title/wanted-dead-or-alive

@@ -1,4 +1,5 @@
 ---
+flavor: This floating helix of golden metal spins ever faster as it activates, crackling with crimson sparks.
 keywords:
     - Psionic
 name: Mortal Coil

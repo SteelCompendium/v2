@@ -1,4 +1,5 @@
 ---
+flavor: Possessed of a strength that belies their size, dwarves have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
 name: Dwarf
 scc: mcdm.heroes.v1/ancestry/dwarf
 signature_trait_name: Runic Carving

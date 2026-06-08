@@ -1,4 +1,5 @@
 ---
+flavor: An anger that cannot be hidden. A fury that drives them in battle. Orcs are famed throughout the world as consummate warriors—a reputation that the peace—loving orcs find distasteful.
 name: Orc
 scc: mcdm.heroes.v1/ancestry/orc
 signature_trait_name: Relentless

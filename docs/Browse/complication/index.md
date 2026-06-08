@@ -294,7 +294,7 @@
   <a class="sc-card__link" href="host-body/" aria-label="Host Body"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M23,12L20.56,9.22L20.9,5.54L17.29,4.72L15.4,1.54L12,3L8.6,1.54L6.71,4.72L3.1,5.53L3.44,9.21L1,12L3.44,14.78L3.1,18.47L6.71,19.29L8.6,22.47L12,21L15.4,22.46L17.29,19.28L20.9,18.46L20.56,14.78L23,12M13,17H11V15H13V17M13,13H11V7H13V13Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Host Body</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">&#34;Do not be alarmed! We are not the humanoid we appear to be. We are an intelligent fungal collective, using this body as a host. No, we are doing nothing unsavory! This body was dead when we found it, and we merely gave it another chance at life. We are friendly. Please put down those torches!&#34;</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">Do not be alarmed! We are not the humanoid we appear to be. We are an intelligent fungal collective, using this body as a host. No, we are doing nothing unsavory! This body was dead when we found it, and we merely gave it another chance at life. We are friendly. Please put down those torches!</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
@@ -455,7 +455,7 @@
   <a class="sc-card__link" href="prisoner-of-the-synlirii/" aria-label="Prisoner of the Synlirii"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M23,12L20.56,9.22L20.9,5.54L17.29,4.72L15.4,1.54L12,3L8.6,1.54L6.71,4.72L3.1,5.53L3.44,9.21L1,12L3.44,14.78L3.1,18.47L6.71,19.29L8.6,22.47L12,21L15.4,22.46L17.29,19.28L20.9,18.46L20.56,14.78L23,12M13,17H11V15H13V17M13,13H11V7H13V13Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Prisoner of the Synlirii</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">You were captured by the psionic beings known as voiceless talkers (see Draw Steel: Monsters). You escaped them, but you can&#39;t escape a feeling that&#39;s lingered since then in the back of your mind-the feeling of being watched.</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You were captured by the psionic beings known as voiceless talkers (see Draw Steel: Monsters). You escaped them, but you can&#39;&#39;t escape a feeling that&#39;&#39;s lingered since then in the back of your mind-the feeling of being watched.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
@@ -560,7 +560,7 @@
   <a class="sc-card__link" href="shattered-legacy/" aria-label="Shattered Legacy"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M23,12L20.56,9.22L20.9,5.54L17.29,4.72L15.4,1.54L12,3L8.6,1.54L6.71,4.72L3.1,5.53L3.44,9.21L1,12L3.44,14.78L3.1,18.47L6.71,19.29L8.6,22.47L12,21L15.4,22.46L17.29,19.28L20.9,18.46L20.56,14.78L23,12M13,17H11V15H13V17M13,13H11V7H13V13Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">Shattered Legacy</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">You&#39;re the heir to a powerful supernatural treasure that has been in your family for generations. One problem, though: that treasure is broken. Some ancestor of yours sundered it while saving the world. Or maybe they tripped and smashed it on a rock. Either way, it&#39;s your job to fix it.</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You&#39;&#39;re the heir to a powerful supernatural treasure that has been in your family for generations. One problem, though: that treasure is broken. Some ancestor of yours sundered it while saving the world. Or maybe they tripped and smashed it on a rock. Either way, it&#39;&#39;s your job to fix it.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">
@@ -658,7 +658,7 @@
   <a class="sc-card__link" href="war-dog-collar/" aria-label="War Dog Collar"></a>
   <span class="sc-crest lg"><span><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M23,12L20.56,9.22L20.9,5.54L17.29,4.72L15.4,1.54L12,3L8.6,1.54L6.71,4.72L3.1,5.53L3.44,9.21L1,12L3.44,14.78L3.1,18.47L6.71,19.29L8.6,22.47L12,21L15.4,22.46L17.29,19.28L20.9,18.46L20.56,14.78L23,12M13,17H11V15H13V17M13,13H11V7H13V13Z"/></svg></span></span>
   <div class="sc-card__namecol"><div class="sc-card__type">Complication</div><div class="sc-card__name">War Dog Collar</div></div>
-  <div class="sc-card__body">  <div class="sc-card__flavor">You wear a loyalty collar from one of Ajax&#39;s war dogs (see Draw Steel: Monsters). You&#39;ve managed to rig the collar so it explodes outward while keeping you safe.</div>
+  <div class="sc-card__body">  <div class="sc-card__flavor">You wear a loyalty collar from one of Ajax&#39;&#39;s war dogs (see Draw Steel: Monsters). You&#39;&#39;ve managed to rig the collar so it explodes outward while keeping you safe.</div>
 </div>
 </div>
 <div class="sc-card sc-card--wide sc-fil">

@@ -1,4 +1,5 @@
 ---
+flavor: Career? Who needs a career when you're born into money! Or marry into it! Or con your way into it! Whatever the case, you didn't need to work thanks to (someone's) generational wealth.
 language: One language
 name: Aristocrat
 perk: One lore perk (*Quick Build:* I've Read About This Place.)

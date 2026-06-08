@@ -1,5 +1,6 @@
 ---
 equipment_text: You wear heavy armor and wield a heavy weapon.
+flavor: The Mountain kit does exactly what it says on the tin. You don heavy armor and raise a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to strike.
 name: Mountain
 scc: mcdm.heroes.v1/kit/mountain
 type: kit

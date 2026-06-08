@@ -1,8 +1,11 @@
 ---
+flavor: While wearing these worn leather bands, your companion appears as not a single creature, but a hunting pack.
 keywords:
     - Light Armor
     - Magic
 name: Pack Harness
+project_goal: "450"
+project_roll_characteristic: Agility or Intuition
 scc: mcdm.beastheart.v1/treasure.leveled.armor/pack-harness
 treasure_type: armor
 type: treasure

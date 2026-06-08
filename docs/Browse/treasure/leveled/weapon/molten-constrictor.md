@@ -1,8 +1,10 @@
 ---
+flavor: This flexible black-iron net burns with the heat of a volcano.
 keywords:
     - Magic
     - Net
 name: Molten Constrictor
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/molten-constrictor
 treasure_type: weapon
 type: treasure

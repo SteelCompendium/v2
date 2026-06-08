@@ -1,8 +1,10 @@
 ---
+flavor: These rough hand wraps are stained with blood that never comes clean.
 keywords:
     - Hands
     - Psionic
 name: Bloody Hand Wraps
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.other/bloody-hand-wraps
 treasure_type: other
 type: treasure

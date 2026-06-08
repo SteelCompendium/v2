@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: Flow, blood, thou fiend's libation, and catch my foes in conflagration!
 name: Blood Magic
 prerequisite: You participate in a Discover Lore project to learn forbidden knowledge.
 scc: mcdm.heroes.v1/title/blood-magic

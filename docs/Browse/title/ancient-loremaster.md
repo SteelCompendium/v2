@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: It's astonishing what you find in old books. Look at this—nearly complete schematics for a war automaton, gathering dust because nobody here reads Zaliac.
 name: Ancient Loremaster
 prerequisite: You find a trove of forgotten books.
 scc: mcdm.heroes.v1/title/ancient-loremaster

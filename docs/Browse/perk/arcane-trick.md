@@ -1,4 +1,5 @@
 ---
+flavor: You have the following ability.
 name: Arcane Trick
 scc: mcdm.heroes.v1/perk/arcane-trick
 type: perk

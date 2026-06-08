@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: Their power is dangerous. Unnatural. Someone needs to do something.
 name: Mage Hunter
 prerequisite: You defeat three leader or solo creatures who each have at least one ability with the Magic keyword.
 scc: mcdm.heroes.v1/title/mage-hunter

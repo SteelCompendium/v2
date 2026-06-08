@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: I was grappling with them, and when they died... I felt something happen. To me.
 name: Awakened
 prerequisite: You defeat a leader or solo creature who has at least one ability with the Psionic keyword, such as a voiceless talker evolutionist.
 scc: mcdm.heroes.v1/title/awakened

@@ -1,4 +1,5 @@
 ---
+flavor: From an early age, you dedicated yourself to learning, whether you shared the knowledge of the world with others or sought out secret lore only for yourself.
 language: One language
 name: Sage
 perk: One lore perk (*Quick Build:* [Expert Sage](../perk/expert-sage.md).)

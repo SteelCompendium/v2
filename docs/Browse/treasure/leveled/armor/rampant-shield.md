@@ -1,8 +1,10 @@
 ---
+flavor: This battered shield bears a magically animated painting of a lion rampant.
 keywords:
     - Magic
     - Shield
 name: Rampant Shield
+project_goal: "450"
 scc: mcdm.beastheart.v1/treasure.leveled.armor/rampant-shield
 treasure_type: armor
 type: treasure

@@ -1,4 +1,5 @@
 ---
+flavor: In the past, you entertained the masses with flashy displays of violence in the arena.
 language: One language
 name: Gladiator
 perk: One exploration perk (*Quick Build:* [Friend Catapult](../perk/friend-catapult.md).)

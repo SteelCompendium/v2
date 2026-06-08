@@ -1,8 +1,10 @@
 ---
+flavor: An ornate ring is set with a large diamond that swirls with blue light, and whose inner surface is etched with protective runes.
 keywords:
     - '[Implement](../../../rule/treasure/implement.md)'
     - Magic
 name: Abjurer's Bastion
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.implement/abjurers-bastion
 treasure_type: implement
 type: treasure

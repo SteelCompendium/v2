@@ -1,4 +1,5 @@
 ---
+flavor: You worked in a church, temple, or other religious institution as part of the clergy.
 name: Disciple
 perk: One [supernatural](../rule/general/supernatural.md) perk (*Quick Build:* [Ritualist](../perk/ritualist.md).)
 scc: mcdm.heroes.v1/career/disciple

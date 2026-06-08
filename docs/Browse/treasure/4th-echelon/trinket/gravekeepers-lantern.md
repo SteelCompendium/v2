@@ -1,9 +1,11 @@
 ---
 echelon: "4"
 effect: 'The Gravekeeper''s Lantern can temporarily trap a nonhostile spirit of the dead—either an incorporeal undead or the wandering spirit of a creature who died within the last 30 days—allowing you to interrogate them. Trapping a spirit requires you to be within 10 squares of them and succeed on a hard [Intuition](../../../rule/character/intuition.md) [test](../../../rule/test/test.md) as a main action. Once a spirit is trapped, you make a [Presence](../../../rule/character/presence.md) [test](../../../rule/test/test.md) to coax them into answering your questions:'
+flavor: This ancient wooden lantern is inscribed with eldritch runes and stained with dark blood.
 keywords:
     - Magic
 name: Gravekeeper's Lantern
+project_goal: "600"
 scc: mcdm.heroes.v1/treasure.4th-echelon.trinket/gravekeepers-lantern
 treasure_type: trinket
 type: treasure

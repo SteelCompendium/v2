@@ -1,4 +1,5 @@
 ---
+flavor: In your formative years, you fought tirelessly in skirmishes and campaigns against enemy forces.
 language: Two languages
 name: Soldier
 perk: One exploration perk (*Quick Build:* Teamwork.)

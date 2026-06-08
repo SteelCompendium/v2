@@ -1,5 +1,6 @@
 ---
 effect: 'Your choice of your [Reason](../rule/character/reason.md) or [Presence](../rule/character/presence.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
+flavor: There goes Diana, peace bringer. She has won many a victory with her sword, but her greatest deed was convincing two nations to stop fighting.
 name: Peace Bringer
 prerequisite: You conduct a successful negotiation on which the fate of a nation or a world stands.
 scc: mcdm.heroes.v1/title/peace-bringer

@@ -1,4 +1,5 @@
 ---
+flavor: You can sing, act, or dance well enough that people actually pay you to do it. Imagine that!
 name: Performer
 perk: One interpersonal perk (*Quick Build:* [Harmonizer](../perk/harmonizer.md).)
 scc: mcdm.heroes.v1/career/performer

@@ -39,7 +39,7 @@ Each class also has a number of subclasses presented in this book. Your subclass
 
 ### Abilities
 
-Abilities are special actions, maneuvers, and more that allow you to affect creatures, objects, and the environment. They represent the main activities your character can undertake when the game is in combat or some other time-sensitive scenario. All characters have access to a few basic abilities, including [free strikes](../../Browse/feature/common/main-actions/free-strike.md) and maneuvers such as [Grab](../../Browse/feature/common/maneuvers/grab.md) and [Knockback](../../Browse/feature/common/maneuvers/knockback.md) (see Maneuvers in Chapter 10: [Combat](combat.md)). But your class, ancestry (see Chapter 3: [Ancestries](ancestries.md)), kit (Chapter 6: [Kits](kits.md)), titles and treasures (Chapter 13: [Rewards](rewards.md)), and other heroic options give you access to more powerful abilities that make your hero stand out.
+[Abilities](../../Browse/rule/general/ability.md) are special actions, maneuvers, and more that allow you to affect creatures, objects, and the environment. They represent the main activities your character can undertake when the game is in combat or some other time-sensitive scenario. All characters have access to a few basic abilities, including [free strikes](../../Browse/feature/common/main-actions/free-strike.md) and maneuvers such as [Grab](../../Browse/feature/common/maneuvers/grab.md) and [Knockback](../../Browse/feature/common/maneuvers/knockback.md) (see Maneuvers in Chapter 10: [Combat](combat.md)). But your class, ancestry (see Chapter 3: [Ancestries](ancestries.md)), kit (Chapter 6: [Kits](kits.md)), titles and treasures (Chapter 13: [Rewards](rewards.md)), and other heroic options give you access to more powerful abilities that make your hero stand out.
 
 Abilities are presented in a special format that first describes the ability, then summarizes its mechanical details, and finally breaks out the ability's [power roll](../../Browse/rule/dice/power-roll.md) (if it has one) and effects.
 
@@ -193,7 +193,7 @@ You can stack squares on top of each other to make the wall higher. Unless other
 
 #### Target {data-scc="mcdm.heroes.v1/rule.combat/target"}
 
-The "Target" entry of an ability, represented by this symbol 🎯, notes the number of creatures, objects, or both who can be targeted by that ability. You can always affect fewer targets than the number indicated by this entry.
+The "[Target](../../Browse/rule/combat/target.md)" entry of an ability, represented by this symbol 🎯, notes the number of creatures, objects, or both who can be targeted by that ability. You can always affect fewer targets than the number indicated by this entry.
 
 ##### Creature
 
@@ -207,11 +207,11 @@ When an ability can target creatures and objects, the ability can damage objects
 
 ##### Enemy {data-scc="mcdm.heroes.v1/rule.combat/enemy"}
 
-If an ability targets one or more enemies, it can affect only creatures who are hostile to the creature using the ability. Typically, you decide who counts as an enemy for the purpose of using your hero's abilities, though the Director has the final say.
+If an ability targets one or more [enemies](../../Browse/rule/combat/enemy.md), it can affect only creatures who are hostile to the creature using the ability. Typically, you decide who counts as an enemy for the purpose of using your hero's abilities, though the Director has the final say.
 
 ##### Ally {data-scc="mcdm.heroes.v1/rule.combat/ally"}
 
-If an ability targets one or more allies, it can affect only willing creatures who are friendly to the creature using the ability. Typically, you and any other player whose character you target with an ability decide who counts as an ally, though the Director has the final say.
+If an ability targets one or more [allies](../../Browse/rule/combat/ally.md), it can affect only willing creatures who are friendly to the creature using the ability. Typically, you and any other player whose character you target with an ability decide who counts as an ally, though the Director has the final say.
 
 You aren't an eligible target for your own abilities that target allies unless those abilities also have "self" as a target, or unless the ability indicates otherwise.
 

@@ -1,5 +1,6 @@
 ---
 effect: 'You gain the following benefits:'
+flavor: The tyrant is dead! Long live the new king!
 name: Monarch
 prerequisite: You or a member of your party becomes the [monarch](monarch.md) of a nation.
 scc: mcdm.heroes.v1/title/monarch

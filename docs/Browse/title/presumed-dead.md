@@ -1,5 +1,6 @@
 ---
 effect: While it might appear that you died, you did not. Instead, you regain 1 [Stamina](../rule/health/stamina.md) and can spend 1 or more [Recoveries](../rule/health/recoveries.md). Additionally, you gain a 1st-[echelon](../rule/general/echelon.md) [trinket](../rule/treasure/trinket.md) of the Director's choice (see Treasures earlier in this chapter).
+flavor: But... you're dead. We went to your funeral.
 name: Presumed Dead
 prerequisite: You die in a way that prevents your body from being recovered or examined (for instance, by falling off a cliff).
 scc: mcdm.heroes.v1/title/presumed-dead

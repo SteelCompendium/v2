@@ -1,4 +1,5 @@
 ---
+flavor: A hero with a martial upbringing was raised by warriors. These might have been the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a martial upbringing are always ready for a fight—and they know how to finish that fight.
 name: Martial
 scc: mcdm.heroes.v1/culture/martial
 type: culture

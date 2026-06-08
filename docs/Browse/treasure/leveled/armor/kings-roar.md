@@ -1,8 +1,10 @@
 ---
+flavor: A sunmetal kite shield bears the face of a lion on its front, its mouth opening wider over the course of battle.
 keywords:
     - Magic
     - Shield
 name: King's Roar
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.armor/kings-roar
 treasure_type: armor
 type: treasure

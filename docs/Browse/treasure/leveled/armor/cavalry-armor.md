@@ -1,8 +1,11 @@
 ---
+flavor: Wearing this absurdly heavy plate armor makes it almost impossible to move—and once you get into motion, it's equally hard to stop.
 keywords:
     - Heavy Armor
     - Magic
 name: Cavalry Armor
+project_goal: "450"
+project_roll_characteristic: Might or Intuition
 scc: mcdm.beastheart.v1/treasure.leveled.armor/cavalry-armor
 treasure_type: armor
 type: treasure

@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: Everybody know their assignments? All right, let's go.
 name: Heist Hero
 prerequisite: You have the [Troupe Leading Player](troupe-leading-player.md) title, and you have used planning and teamwork to execute a theft that went (reasonably) according to plan.
 scc: mcdm.heroes.v1/title/heist-hero

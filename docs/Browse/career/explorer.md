@@ -1,4 +1,5 @@
 ---
+flavor: You ventured into uncharted areas and made your living as a cartographer, researcher, resource seeker, or treasure hunter.
 language: Two languages
 name: Explorer
 perk: One exploration perk (*Quick Build:* [Wood Wise](../perk/wood-wise.md).)

@@ -1,8 +1,10 @@
 ---
+flavor: When first held, this naginata whispers the names of its past victims.
 keywords:
     - Polearm
     - Psionic
 name: Wetwork
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/wetwork
 treasure_type: weapon
 type: treasure

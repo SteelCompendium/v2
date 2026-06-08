@@ -1,5 +1,6 @@
 ---
 effect: 'Your choice of your [Reason](../rule/character/reason.md) or [Intuition](../rule/character/intuition.md) increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
+flavor: Don't you see? This world that seems so real to you is nothing but a game, and all the people merely pieces!
 name: Enlightened
 prerequisite: You learn a cosmic truth that alters your understanding of reality.
 scc: mcdm.heroes.v1/title/enlightened

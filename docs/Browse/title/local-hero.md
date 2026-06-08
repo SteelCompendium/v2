@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: Your coin won't spend here. The Heroes of Gravesford drink for free in this tavern!
 name: Local Hero
 prerequisite: You save a community from certain destruction.
 scc: mcdm.heroes.v1/title/local-hero

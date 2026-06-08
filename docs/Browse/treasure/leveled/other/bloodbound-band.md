@@ -1,8 +1,10 @@
 ---
+flavor: This ring appears to be traced by dried blood, which returns each time it is rubbed away.
 keywords:
     - Magic
     - Ring
 name: Bloodbound Band
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.other/bloodbound-band
 treasure_type: other
 type: treasure

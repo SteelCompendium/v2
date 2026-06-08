@@ -1,8 +1,10 @@
 ---
+flavor: The arm-length claws jutting from your armor are your only weapon.
 keywords:
     - Magic
     - 'Medium Weapon Item Prerequisite: The claws of a dragon'
 name: Longclaw
+project_goal: "450"
 scc: mcdm.beastheart.v1/treasure.leveled.weapon/longclaw
 treasure_type: weapon
 type: treasure

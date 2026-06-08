@@ -1,5 +1,6 @@
 ---
 effect: Your choice of your [Reason](../rule/character/reason.md) or [Intuition](../rule/character/intuition.md) increases by 1 (to a maximum of 6).
+flavor: I've read about this tactic in books—it looks fairly straightforward.
 name: Theoretical Warrior
 prerequisite: You have the [Master Librarian](master-librarian.md) title, and you complete a Learn From a Master project with a project goal of 1,000.
 scc: mcdm.heroes.v1/title/theoretical-warrior

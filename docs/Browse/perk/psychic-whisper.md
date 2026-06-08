@@ -1,4 +1,5 @@
 ---
+flavor: You have the following ability.
 name: Psychic Whisper
 scc: mcdm.heroes.v1/perk/psychic-whisper
 type: perk

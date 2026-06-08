@@ -1,5 +1,6 @@
 ---
 effect: 'A [characteristic](../rule/character/characteristic.md) used during the competition increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:'
+flavor: Marduk uses the Beldoit Gambit! Avanna counters with the Iron Defense and goes on the attack! Marduk's last tower is knocked down! And just like that, we have a new... world... champion!
 name: Champion Competitor
 prerequisite: You beat the best in the world at a game or sport.
 scc: mcdm.heroes.v1/title/champion-competitor

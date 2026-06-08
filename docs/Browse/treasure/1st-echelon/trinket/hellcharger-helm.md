@@ -1,10 +1,12 @@
 ---
 echelon: "1"
 effect: Whenever you use the [Charge](../../../feature/common/main-actions/charge.md) main action while wearing this helmet, you gain a +5 [bonus](../../../rule/dice/bonuses-and-penalties.md) to [speed](../../../rule/character/speed.md) until the end of your current [turn](../../../rule/combat/turn.md). After charging, you can use the [Knockback](../../../feature/common/maneuvers/knockback.md) maneuver as a [free maneuver](../../../rule/combat/free-maneuver.md), regardless of the target creature's [size](../../../rule/character/size.md).
+flavor: A steel helm is set with two curved ebony horns, a crackling plume of fire floating between them.
 keywords:
     - Head
     - Magic
 name: Hellcharger Helm
+project_goal: "150"
 scc: mcdm.heroes.v1/treasure.1st-echelon.trinket/hellcharger-helm
 treasure_type: trinket
 type: treasure

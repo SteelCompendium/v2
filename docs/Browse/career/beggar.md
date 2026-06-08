@@ -1,4 +1,5 @@
 ---
+flavor: You lived by going to a tavern, crossroads, city street, or other busy area and begging passersby for money or food.
 language: Two languages
 name: Beggar
 perk: One interpersonal perk (*Quick Build:* [Spot the Tell](../perk/spot-the-tell.md).)

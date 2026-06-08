@@ -1,6 +1,7 @@
 ---
 benefit: You have immunity to corruption, holy, and psychic damage equal to your level.
 drawback: Whenever you carry more than three magic treasures, you take a [bane](../rule/dice/bane.md) on [power rolls](../rule/dice/power-roll.md).
+flavor: You're hopelessly nonmagical. When you try to use magic abilities, or even when they're used on you, they never work right. Even magic devices seem to fizzle in your presence.
 name: Mundane
 scc: mcdm.heroes.v1/complication/mundane
 type: complication

@@ -1,8 +1,10 @@
 ---
+flavor: This long, sinuous chain is composed entirely of broken links held together by unseen power.
 keywords:
     - Psionic
     - Whip
 name: Authority's End
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/authoritys-end
 treasure_type: weapon
 type: treasure

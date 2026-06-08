@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: I will follow you to the ends of the earth—just so I can kick you off the edge.
 name: Sworn Hunter
 prerequisite: You have the [Marshal](marshal.md) title, and you take down an entire criminal organization.
 scc: mcdm.heroes.v1/title/sworn-hunter

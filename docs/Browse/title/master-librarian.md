@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: You want to know the exact coordinates of the Gem of the Waves shipwreck? I came across that just the other day in an unpublished memoir of its second mate. Let me get that for you.
 name: Master Librarian
 prerequisite: You have the [Ancient Loremaster](ancient-loremaster.md) title, and you have completed a Discover Lore project to learn lost knowledge or forbidden knowledge.
 scc: mcdm.heroes.v1/title/master-librarian

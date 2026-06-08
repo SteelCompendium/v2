@@ -1,8 +1,10 @@
 ---
+flavor: This bident is made from two pieces of moon metal twisted together, and hums like a tuning fork.
 keywords:
     - Magic
     - Medium Weapon
 name: Thunderhead Bident
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/thunderhead-bident
 treasure_type: weapon
 type: treasure

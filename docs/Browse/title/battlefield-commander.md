@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: Spells and shadows have their place, but it takes soldiers to hold the field.
 name: Battlefield Commander
 prerequisite: You lead an army in battle and win.
 scc: mcdm.heroes.v1/title/battlefield-commander

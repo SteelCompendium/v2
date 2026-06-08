@@ -8,7 +8,7 @@ type: rule
 
 ---
 
-The "Target" entry of an ability, represented by this symbol 🎯, notes the number of creatures, objects, or both who can be targeted by that ability. You can always affect fewer targets than the number indicated by this entry.
+The "[Target](target.md)" entry of an ability, represented by this symbol 🎯, notes the number of creatures, objects, or both who can be targeted by that ability. You can always affect fewer targets than the number indicated by this entry.
 
 ## Creature
 
@@ -22,11 +22,11 @@ When an ability can target creatures and objects, the ability can damage objects
 
 ## Enemy {data-scc="mcdm.heroes.v1/rule.combat/enemy"}
 
-If an ability targets one or more enemies, it can affect only creatures who are hostile to the creature using the ability. Typically, you decide who counts as an enemy for the purpose of using your hero's abilities, though the Director has the final say.
+If an ability targets one or more [enemies](enemy.md), it can affect only creatures who are hostile to the creature using the ability. Typically, you decide who counts as an enemy for the purpose of using your hero's abilities, though the Director has the final say.
 
 ## Ally {data-scc="mcdm.heroes.v1/rule.combat/ally"}
 
-If an ability targets one or more allies, it can affect only willing creatures who are friendly to the creature using the ability. Typically, you and any other player whose character you target with an ability decide who counts as an ally, though the Director has the final say.
+If an ability targets one or more [allies](ally.md), it can affect only willing creatures who are friendly to the creature using the ability. Typically, you and any other player whose character you target with an ability decide who counts as an ally, though the Director has the final say.
 
 You aren't an eligible target for your own abilities that target allies unless those abilities also have "self" as a target, or unless the ability indicates otherwise.
 

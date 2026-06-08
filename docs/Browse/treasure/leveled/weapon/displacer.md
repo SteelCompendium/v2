@@ -1,8 +1,10 @@
 ---
+flavor: This crystal battleaxe seems to pull at the hands that wield it, as if anxious to leap across the battlefield.
 keywords:
     - Medium Weapon
     - Psionic
 name: Displacer
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.leveled.weapon/displacer
 treasure_type: weapon
 type: treasure

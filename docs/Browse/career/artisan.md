@@ -1,4 +1,5 @@
 ---
+flavor: You made and sold useful wares.
 language: One language
 name: Artisan
 perk: One crafting perk (*Quick Build:* [Area of Expertise](../perk/area-of-expertise.md).)

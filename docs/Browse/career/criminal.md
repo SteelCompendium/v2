@@ -1,4 +1,5 @@
 ---
+flavor: You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin.
 language: One language
 name: Criminal
 perk: One intrigue perk (*Quick Build:* [Criminal Contacts](../perk/criminal-contacts.md).)

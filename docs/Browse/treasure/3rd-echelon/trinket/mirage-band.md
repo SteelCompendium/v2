@@ -1,10 +1,12 @@
 ---
 echelon: "3"
 effect: While wearing the Mirage Band, you automatically perceive illusions for what they are, you can see invisible creatures, and [supernatural](../../../rule/general/supernatural.md) effects can't conceal creatures and objects from you.
+flavor: A sable blue circlet shimmers with finely woven threads of sparkling white.
 keywords:
     - Head
     - Psionic
 name: Mirage Band
+project_goal: "450"
 scc: mcdm.heroes.v1/treasure.3rd-echelon.trinket/mirage-band
 treasure_type: trinket
 type: treasure

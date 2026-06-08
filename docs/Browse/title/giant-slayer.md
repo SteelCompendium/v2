@@ -1,5 +1,6 @@
 ---
 effect: 'Choose one of the following benefits:'
+flavor: Come back here, puny one, and let me crush you!
 name: Giant Slayer
 prerequisite: You defeat a leader or solo creature with the Giant keyword, such as a fire giant chief.
 scc: mcdm.heroes.v1/title/giant-slayer
