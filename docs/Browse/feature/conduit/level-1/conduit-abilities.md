@@ -56,7 +56,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>One ally within distance gains a number of surges equal to the tier outcome of your power roll.</p></div>
+<div class="sc-ability__section-body"><p>One ally within distance gains a number of <a href="../../../../rule/resource/surge/">surges</a> equal to the tier outcome of your power roll.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -84,7 +84,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You or one ally within distance can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>You or one ally within distance can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -216,7 +216,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You or one ally within distance gains temporary Stamina equal to your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>You or one ally within distance gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your Intuition score.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -441,9 +441,9 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target gains 5 temporary Stamina.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target gains 10 temporary Stamina.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target gains 15 temporary Stamina.</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target gains 5 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target gains 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target gains 15 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
@@ -468,7 +468,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can spend a Recovery. Additionally, each target can use a free <a href="../triggered-action/">triggered action</a> to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if <a href="../../../../condition/prone/">prone</a>.</p></div>
+<div class="sc-ability__section-body"><p>Each target can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>. Additionally, each target can use a free <a href="../triggered-action/">triggered action</a> to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if <a href="../../../../condition/prone/">prone</a>.</p></div>
 </div>
 </article>
 </div>

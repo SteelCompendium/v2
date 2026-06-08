@@ -28,4 +28,4 @@ type: treasure
 
 **5th Level:** While the tome is open, the bonus to distance for your ranged magic or psionic abilities increases to +5. Additionally, when you or a creature you have line of effect to uses a magic or psionic ability, you can use a triggered action to grant a +3 bonus to the power roll.
 
-**9th Level:** While the tome is open, you automatically obtain a tier 3 outcome on Reason tests made to recall lore, and when you use a heroic ability, its Heroic Resource cost is reduced by 1 (to a minimum of 1).
+**9th Level:** While the tome is open, you automatically obtain a tier 3 outcome on Reason tests made to recall lore, and when you use a heroic ability, its [Heroic Resource](../../../rule/resource/heroic-resource.md) cost is reduced by 1 (to a minimum of 1).

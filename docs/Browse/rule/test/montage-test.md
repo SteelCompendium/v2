@@ -34,7 +34,7 @@ The same rules and guidelines that apply to all individual tests apply in montag
 
 The Director should couch each success or failure as it relates to the overall goal of the montage test. If the heroes are trying to reach an ancient temple, failing a Might test to ford a river in their path doesn't mean they don't cross the river and are stuck on the other side. But it could mean that failing to cross the river in a timely manner gives a rival group of villains the chance to beat the party to the temple.
 
-The rewards and consequences of individual tests made during a montage test are handled on an individual basis. The Director can use the default of gaining additional Malice in the next combat encounter for consequences and having the party gain hero tokens for rewards to keep the montage moving.
+The rewards and consequences of individual tests made during a montage test are handled on an individual basis. The Director can use the default of gaining additional Malice in the next combat encounter for consequences and having the party gain [hero tokens](../resource/hero-token.md) for rewards to keep the montage moving.
 
 ## Can't Use the Same Skill Twice
 

@@ -18,17 +18,17 @@ Your character can carry any number of consumables at a time.
 >
 > The rules for using treasures refer to lots of other parts of the game. You can find information on specific topics as follows:
 >
-> Recoveries, respites, Victories: Chapter 1: [The Basics](../../../Read/heroes/the-basics.md)
+> [Recoveries](../health/recoveries.md), respites, Victories: Chapter 1: [The Basics](../../../Read/heroes/the-basics.md)
 >
 > Languages: Chapter 4: [Background](../../../Read/heroes/background.md)
 >
-> Abilities, conditions, potencies, surges: Chapter 5: [Classes](../../../Read/heroes/classes.md)
+> Abilities, conditions, potencies, [surges](../resource/surge.md): Chapter 5: [Classes](../../../Read/heroes/classes.md)
 >
 > Skills, tests: Chapter 9: [Tests](../../../Read/heroes/tests.md)
 >
 > Item creation rules, crafting and research projects: Chapter 12: [Downtime Projects](../../../Read/heroes/downtime-projects.md)
 >
-> Main actions and maneuvers, creature size, damage and Stamina, dying and death, movement and [forced movement](../../movement/forced-movement.md), winded: Chapter 10: [Combat](../../../Read/heroes/combat.md)
+> Main actions and maneuvers, creature size, damage and [Stamina](../health/stamina.md), [dying](../health/dying.md) and death, movement and [forced movement](../../movement/forced-movement.md), [winded](../health/winded.md): Chapter 10: [Combat](../../../Read/heroes/combat.md)
 >
 > Negotiation rules, motivations, pitfalls, interest, and patience: Chapter 11: [Negotiation](../../../Read/heroes/negotiation.md).
 
@@ -70,7 +70,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 45
 
-**Effect:** When you damage an adjacent creature who has blood, you can capture the target's life essence in this vial (no action required). Record the damage you dealt. You can capture life essence in the vial only once. As a maneuver, you drink the contents of the vial to regain Stamina equal to half the damage dealt. If you spend 1 Heroic Resource while you drink, you regain Stamina equal to the damage dealt. Once you drink from the vial, it crumbles to dust.
+**Effect:** When you damage an adjacent creature who has blood, you can capture the target's life essence in this vial (no action required). Record the damage you dealt. You can capture life essence in the vial only once. As a maneuver, you drink the contents of the vial to regain [Stamina](../health/stamina.md) equal to half the damage dealt. If you spend 1 [Heroic Resource](../resource/heroic-resource.md) while you drink, you regain [Stamina](../health/stamina.md) equal to the damage dealt. Once you drink from the vial, it crumbles to dust.
 
 ### Buzz Balm {data-scc="mcdm.heroes.v1/treasure.1st-echelon.consumable/buzz-balm"}
 
@@ -138,7 +138,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Goal:** 45
 
-**Effect:** As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target's size to increase by 1(to a minimum size of 2). If you are the target, your Stamina maximum and Stability are doubled, you gain an edge on Might tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest characteristic score. You shrink back to your original size after 3 rounds, halving your current Stamina maximum and Stability, and losing the potion's other benefits. Objects maintain their new size permanently.
+**Effect:** As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target's size to increase by 1(to a minimum size of 2). If you are the target, your [Stamina](../health/stamina.md) maximum and Stability are doubled, you gain an edge on Might tests, and your weapon abilities that deal rolled damage gain a damage bonus equal to your highest characteristic score. You shrink back to your original size after 3 rounds, halving your current [Stamina](../health/stamina.md) maximum and Stability, and losing the potion's other benefits. Objects maintain their new size permanently.
 
 ### Healing Potion {data-scc="mcdm.heroes.v1/treasure.1st-echelon.consumable/healing-potion"}
 
@@ -154,7 +154,7 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Goal:** 45
 
-**Effect:** When you drink this potion as a maneuver, you regain Stamina equal to your recovery value without spending a Recovery.
+**Effect:** When you drink this potion as a maneuver, you regain [Stamina](../health/stamina.md) equal to your [recovery value](../health/recoveries.md) without spending a [Recovery](../health/recoveries.md).
 
 ### Imp's Tongue {data-scc="mcdm.heroes.v1/treasure.1st-echelon.consumable/imps-tongue"}
 
@@ -222,9 +222,9 @@ Any fire caused by the oil is extinguished after burning for 1 hour.
 
 **Project Goal:** 45
 
-**Effect:** When activated as a maneuver, this item erupts in a bright flash, you can [shift](../../movement/shifting.md) 1 square without your enemies noticing your movement, and a homunculus perfectly resembling you appears in an adjacent space. The homunculus is a creature with Stamina 15, a 0 in all their characteristics, and a speed and stability equal to yours. They appear indistinguishable from you but can't use any abilities.
+**Effect:** When activated as a maneuver, this item erupts in a bright flash, you can [shift](../../movement/shifting.md) 1 square without your enemies noticing your movement, and a homunculus perfectly resembling you appears in an adjacent space. The homunculus is a creature with [Stamina](../health/stamina.md) 15, a 0 in all their characteristics, and a speed and stability equal to yours. They appear indistinguishable from you but can't use any abilities.
 
-While you have line of effect to your homunculus, you can use a maneuver to issue them a telepathic command. The homunculus performs the command to the best of their ability. If not commanded, the homunculus mimics your movements and speech. When you move, the homunculus moves with you, matching your pace. The homunculus crumbles to dust after 1 hour or if reduced to 0 Stamina.
+While you have line of effect to your homunculus, you can use a maneuver to issue them a telepathic command. The homunculus performs the command to the best of their ability. If not commanded, the homunculus mimics your movements and speech. When you move, the homunculus moves with you, matching your pace. The homunculus crumbles to dust after 1 hour or if reduced to 0 [Stamina](../health/stamina.md).
 
 ### Portable Cloud {data-scc="mcdm.heroes.v1/treasure.1st-echelon.consumable/portable-cloud"}
 
@@ -332,7 +332,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Project Goal:** 90
 
-**Effect:** When you consume this delicious piece of candy as a maneuver, you gain 15 temporary Stamina and a +10 bonus to stability. Additionally, if you don't use your movement during your turn, any strikes you make on that turn deal an extra 5 damage, and any strikes against you take a bane until the start of your next turn. This effect and the bonus to stability lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the temporary Stamina lasts until the end of your next respite.
+**Effect:** When you consume this delicious piece of candy as a maneuver, you gain 15 [temporary Stamina](../health/temporary-stamina.md) and a +10 bonus to stability. Additionally, if you don't use your movement during your turn, any strikes you make on that turn deal an extra 5 damage, and any strikes against you take a bane until the start of your next turn. This effect and the bonus to stability lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the [temporary Stamina](../health/temporary-stamina.md) lasts until the end of your next respite.
 
 ### Concealment Potion {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.consumable/concealment-potion"}
 
@@ -398,7 +398,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Effect:** As a respite activity, you repeatedly chant the contents of this scroll over the remains of a creature who has been dead for less than 1 year. The creature's soul must be willing to return to life for the scroll to work. If they are not willing, you instinctively understand that as you start the respite activity and can cease it immediately. The scroll is not consumed, and you can undertake a new respite activity.
 
-A creature with a willing soul returns to life at the end of the respite with full Stamina and half their Recoveries. You regain only half your Recoveries at the end of the respite, and the scroll is consumed.
+A creature with a willing soul returns to life at the end of the respite with full [Stamina](../health/stamina.md) and half their [Recoveries](../health/recoveries.md). You regain only half your [Recoveries](../health/recoveries.md) at the end of the respite, and the scroll is consumed.
 
 ### Telemagnet {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.consumable/telemagnet"}
 
@@ -506,7 +506,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 120
 
-**Effect:** The Personal Effigy is crafted to depict a specific humanoid creature it is tied to, and activates only for the first minute after the creature dies. While you are within 5 squares of the remains of the creature the effigy is tied to, you can use a maneuver to manually light and burn the effigy and bring the creature back to life. The creature returns to life with Stamina equal to their winded value and 10 temporary Stamina that lasts until the end of their next respite. If the creature has been dead for more than 1 minute, they remain dead and the effigy dissolves into dust.
+**Effect:** The Personal Effigy is crafted to depict a specific humanoid creature it is tied to, and activates only for the first minute after the creature dies. While you are within 5 squares of the remains of the creature the effigy is tied to, you can use a maneuver to manually light and burn the effigy and bring the creature back to life. The creature returns to life with [Stamina](../health/stamina.md) equal to their [winded](../health/winded.md) value and 10 [temporary Stamina](../health/temporary-stamina.md) that lasts until the end of their next respite. If the creature has been dead for more than 1 minute, they remain dead and the effigy dissolves into dust.
 
 ### Stygian Liquor {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.consumable/stygian-liquor"}
 
@@ -522,7 +522,7 @@ At the start of each of your turns, each creature adjacent to the wall takes psy
 
 **Project Goal:** 180
 
-**Effect:** When you drink this potion as a maneuver, you gain a tenacious will to cling to life for 24 hours. If you are dying during this time, you don't die until you reach the negative of your Stamina maximum rather than your winded value. Additionally, while you are dying, you gain on edge on power rolls and you take half the damage dealt by the [bleeding](../../condition/bleeding.md) condition. Once the potion's magic is triggered, it ends when you are no longer dying.
+**Effect:** When you drink this potion as a maneuver, you gain a tenacious will to cling to life for 24 hours. If you are [dying](../health/dying.md) during this time, you don't die until you reach the negative of your [Stamina](../health/stamina.md) maximum rather than your [winded](../health/winded.md) value. Additionally, while you are [dying](../health/dying.md), you gain on edge on power rolls and you take half the damage dealt by the [bleeding](../../condition/bleeding.md) condition. Once the potion's magic is triggered, it ends when you are no longer [dying](../health/dying.md).
 
 ### Timesplitter {data-scc="mcdm.heroes.v1/treasure.3rd-echelon.consumable/timesplitter"}
 
@@ -630,7 +630,7 @@ Infinite Library detailing incomplete instructions for building a sun
 
 **Project Goal:** 360
 
-**Effect:** As a maneuver, you spend 1 Heroic Resource to destroy this page and create a 4-cube area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a combat round or starts their turn there takes 20 fire damage and is [dazed](../../condition/dazed.md) until the end of their turn.
+**Effect:** As a maneuver, you spend 1 [Heroic Resource](../resource/heroic-resource.md) to destroy this page and create a 4-cube area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a combat round or starts their turn there takes 20 fire damage and is [dazed](../../condition/dazed.md) until the end of their turn.
 
 ### Restorative of the Bright Court {data-scc="mcdm.heroes.v1/treasure.4th-echelon.consumable/restorative-of-the-bright-court"}
 
@@ -646,4 +646,4 @@ Infinite Library detailing incomplete instructions for building a sun
 
 **Project Goal:** 360
 
-**Effect:** When opened as a maneuver, this vial bursts into a storm of multicolored lights. You and each ally within 5 squares of you regain 1d6 Recoveries. However, any mortal using this treasure draws the interest of a powerful fey noble.
+**Effect:** When opened as a maneuver, this vial bursts into a storm of multicolored lights. You and each ally within 5 squares of you regain 1d6 [Recoveries](../health/recoveries.md). However, any mortal using this treasure draws the interest of a powerful fey noble.

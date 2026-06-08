@@ -75,7 +75,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of flanking.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of <a href="../../../../rule/combat/flanking/">flanking</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

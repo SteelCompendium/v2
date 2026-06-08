@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 9 Clarity
 distance: 4 cube within 10
-effect: The area is frozen in time until the start of your next turn. Each object in the area is [restrained](../../../../condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
+effect: The area is frozen in time until the start of your next turn. Each object in the area is [restrained](../../../../condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](../../../../rule/health/stamina.md) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](../../../../rule/health/stamina.md) remain undestroyed.
 flavor: Keep everything as it was. Ignore everything that will be.
 keywords:
     - Area
@@ -50,7 +50,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next turn. Each object in the area is <a href="../../../../../condition/restrained/">restrained</a> and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.</p><p>Make a power roll that targets each enemy in the area.</p></div>
+<div class="sc-ability__section-body"><p>The area is frozen in time until the start of your next turn. Each object in the area is <a href="../../../../../condition/restrained/">restrained</a> and can&#39;t fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> or would die stay alive, and objects in the area that are reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> remain undestroyed.</p><p>Make a power roll that targets each enemy in the area.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

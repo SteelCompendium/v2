@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to hide, any creature marked by you doesn&#39;t count as an observer. Additionally, you and your allies can use other allies as cover for the purpose of hiding.</p>
+<p>You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to hide, any creature marked by you doesn&#39;t count as an observer. Additionally, you and your allies can use other allies as <a href="../../../../rule/combat/cover/">cover</a> for the purpose of hiding.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -84,7 +84,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a free maneuver, you can spend 1d6 Stamina to ignore a consequence from a test, or to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Any ally adjacent to you can also spend Stamina as a free maneuver to gain this benefit.</p>
+<p>As a free maneuver, you can spend 1d6 <a href="../../../../rule/health/stamina/">Stamina</a> to ignore a consequence from a test, or to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Any ally adjacent to you can also spend <a href="../../../../rule/health/stamina/">Stamina</a> as a free maneuver to gain this benefit.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

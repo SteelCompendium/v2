@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each time you use your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don&#39;t use this wrath, it is lost. Additionally, the target of <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> gains 10 temporary Stamina.</p>
+<p>Each time you use your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don&#39;t use this wrath, it is lost. Additionally, the target of <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> gains 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p>
 </div>
 </section>

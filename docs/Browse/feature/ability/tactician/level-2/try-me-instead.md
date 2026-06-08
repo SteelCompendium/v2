@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 5 Focus
 distance: Self; see below
-effect: You [shift](../../../../movement/shifting.md) up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.
+effect: You [shift](../../../../movement/shifting.md) up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](../../../../rule/health/recoveries.md), and you can make the following weapon strike with a distance of melee 1 against a creature.
 flavor: '"Try picking on someone my size."'
 keywords:
     - Melee
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>, and you can make the following weapon strike with a distance of melee 1 against a creature.</p></div>
 </div>
 </article>

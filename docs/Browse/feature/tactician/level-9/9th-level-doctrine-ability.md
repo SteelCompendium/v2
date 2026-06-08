@@ -48,7 +48,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can <a href="../../../../movement/shifting/">shift</a> up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can <a href="../../../../movement/shifting/">shift</a> up to 2 squares and become hidden even if they have no <a href="../../../../rule/combat/cover/">cover</a> or <a href="../../../../rule/combat/concealment/">concealment</a>, or if they are observed.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -128,7 +128,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 6 surges. Until the end of the encounter or until you are dying, whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their Heroic Resource.</p></div>
+<div class="sc-ability__section-body"><p>You gain 6 <a href="../../../../rule/resource/surge/">surges</a>. Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
 </div>
 </article>
 </div>
@@ -204,7 +204,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a <a href="../../../common/main-actions/free-strike/">free strike</a> against any target marked by you.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, you can use a signature or heroic ability instead of a <a href="../../../common/main-actions/free-strike/">free strike</a> against any target marked by you.</p></div>
 </div>
 </article>
 </div>

@@ -116,7 +116,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Velloparatha—the worldsickness—might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 surge.</p>
+<p>Velloparatha—the worldsickness—might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 <a href="../../../../rule/resource/surge/">surge</a>.</p>
 </div>
 </section>
 </div>

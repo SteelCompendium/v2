@@ -3,7 +3,7 @@ action_type: Maneuver
 class: "null"
 cost: 5 Discipline
 distance: Self
-effect: While you have temporary Stamina from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while dying.
+effect: While you have [temporary Stamina](../../../../rule/health/temporary-stamina.md) from this ability, you can't be made [bleeding](../../../../condition/bleeding.md) even while [dying](../../../../rule/health/dying.md).
 flavor: You manifest a force barrier that absorbs incoming kinetic energy.
 keywords:
     - Psionic
@@ -12,9 +12,9 @@ name: Kinetic Shield
 power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.null.level-2/kinetic-shield
 target: Self
-tier1: You gain 10 temporary Stamina.
-tier2: You gain 15 temporary Stamina.
-tier3: You gain 20 temporary Stamina.
+tier1: You gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+tier2: You gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+tier3: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 type: ability
 ---
 
@@ -40,13 +40,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You gain 10 temporary Stamina.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You gain 15 temporary Stamina.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You gain 20 temporary Stamina.</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You gain 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You gain 15 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You gain 20 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While you have temporary Stamina from this ability, you can&#39;t be made <a href="../../../../../condition/bleeding/">bleeding</a> even while dying.</p></div>
+<div class="sc-ability__section-body"><p>While you have <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> from this ability, you can&#39;t be made <a href="../../../../../condition/bleeding/">bleeding</a> even while <a href="../../../../../rule/health/dying/">dying</a>.</p></div>
 </div>
 </article>

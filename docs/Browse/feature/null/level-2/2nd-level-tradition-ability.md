@@ -128,7 +128,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, the size of your <a href="../../level-1/null-field/">Null Field</a> ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, the size of your <a href="../../level-1/null-field/">Null Field</a> ability increases by 1, and you and any ally benefit from <a href="../../../../rule/combat/concealment/">concealment</a> while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.</p></div>
 </div>
 </article>
 </div>
@@ -185,14 +185,14 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You gain 10 temporary Stamina.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You gain 15 temporary Stamina.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You gain 20 temporary Stamina.</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You gain 15 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You gain 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While you have temporary Stamina from this ability, you can&#39;t be made <a href="../../../../condition/bleeding/">bleeding</a> even while dying.</p></div>
+<div class="sc-ability__section-body"><p>While you have <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> from this ability, you can&#39;t be made <a href="../../../../condition/bleeding/">bleeding</a> even while <a href="../../../../rule/health/dying/">dying</a>.</p></div>
 </div>
 </article>
 </div>

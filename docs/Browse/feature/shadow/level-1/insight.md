@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called insight.</p>
+<p>By observing your enemy, you learn how to use their weaknesses against them, building up a <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> called insight.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -30,7 +30,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain insight equal to your Victories. At the start of each of your turns during combat, you gain 1d3 insight.</p>
-<p>Additionally, the first time each combat round that you deal damage incorporating 1 or more surges, you gain 1 insight.</p>
+<p>Additionally, the first time each combat round that you deal damage incorporating 1 or more <a href="../../../../rule/resource/surge/">surges</a>, you gain 1 insight.</p>
 <p>Whenever you use a heroic ability that makes use of a power roll, that ability costs 1 fewer insight if you have an edge or double edge on it. If the ability has multiple targets, the cost is reduced even if the ability gains an edge or has a double edge against only one target.</p>
 <p>You lose any remaining insight at the end of the encounter.</p>
 </div>

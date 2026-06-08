@@ -3,7 +3,7 @@ action_type: Maneuver
 class: tactician
 cost: 7 Focus
 distance: Self
-effect: Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, that creature gains 2 surges, which they can use immediately.
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you, that creature gains 2 [surges](../../../../rule/resource/surge.md), which they can use immediately.
 flavor: Your allies see the advantages in attacking the targets you select.
 keywords:
     - '-'
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, that creature gains 2 surges, which they can use immediately.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, whenever you or any ally deals damage to a target marked by you, that creature gains 2 <a href="../../../../../rule/resource/surge/">surges</a>, which they can use immediately.</p></div>
 </div>
 </article>

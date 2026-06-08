@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 5 Piety
 distance: Ranged 10
-effect: Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each target gains 1 [surge](../../../../rule/resource/surge.md) at the end of each of your turns.
 flavor: The gods grant insight revealing where best to strike your enemies.
 keywords:
     - Magic
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each target gains 1 <a href="../../../../../rule/resource/surge/">surge</a> at the end of each of your turns.</p></div>
 </div>
 </article>

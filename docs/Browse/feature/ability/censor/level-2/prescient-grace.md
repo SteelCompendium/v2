@@ -3,7 +3,7 @@ action_type: Triggered
 class: censor
 cost: 5 Wrath
 distance: Ranged 10
-effect: You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.
+effect: You can spend a [Recovery](../../../../rule/health/recoveries.md) to allow the target to regain [Stamina](../../../../rule/health/stamina.md) equal to your [recovery value](../../../../rule/health/recoveries.md). The target can then take their turn immediately before the triggering enemy.
 flavor: Gifted by a prescient vision, you warn an ally of an impending attack.
 keywords:
     - Magic
@@ -42,6 +42,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.</p></div>
+<div class="sc-ability__section-body"><p>You can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a> to allow the target to regain <a href="../../../../../rule/health/stamina/">Stamina</a> equal to your <a href="../../../../../rule/health/recoveries/">recovery value</a>. The target can then take their turn immediately before the triggering enemy.</p></div>
 </div>
 </article>

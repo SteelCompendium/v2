@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The gods send divine favor to you and your allies. While you are not dying, enemies take a bane on strikes against you or any ally within 3 squares of you.</p>
+<p>The gods send divine favor to you and your allies. While you are not <a href="../../../../rule/health/dying/">dying</a>, enemies take a bane on strikes against you or any ally within 3 squares of you.</p>
 </div>
 </section>

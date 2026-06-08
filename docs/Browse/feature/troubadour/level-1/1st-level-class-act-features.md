@@ -92,7 +92,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and <a href="../../../../movement/teleport/">teleport</a> those targets to unoccupied spaces in the area. A target can&#39;t be <a href="../../../../movement/teleport/">teleport</a>ed in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and <a href="../../../../movement/teleport/">teleport</a> those targets to unoccupied spaces in the area. A target can&#39;t be <a href="../../../../movement/teleport/">teleport</a>ed in a way that would harm them (such as over a cliff), leave them <a href="../../../../rule/health/dying/">dying</a>, or result in them suffering a condition or other negative effect.</p></div>
 </div>
 </article>
 </div>
@@ -125,7 +125,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose one of the following effects:</p><ul><li>You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn.</li><li>You weave a tale of high-stakes heroics. One ally within distance gains 1 surge.</li><li>You insult a foe where they&#39;re most vulnerable. One enemy within distance takes a bane on the next power roll they make before the end of their next turn.</li></ul></div>
+<div class="sc-ability__section-body"><p>Choose one of the following effects:</p><ul><li>You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn.</li><li>You weave a tale of high-stakes heroics. One ally within distance gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</li><li>You insult a foe where they&#39;re most vulnerable. One enemy within distance takes a bane on the next power roll they make before the end of their next turn.</li></ul></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">You can choose two targets for the chosen effect.</span></div>
 </article>
@@ -238,7 +238,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each combat round while this performance is active, you can make a power roll against the target that ignores cover. You can&#39;t target the same creature twice with this effect.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each combat round while this performance is active, you can make a power roll against the target that ignores <a href="../../../../rule/combat/cover/">cover</a>. You can&#39;t target the same creature twice with this effect.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="none">
@@ -258,7 +258,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area gains 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</p></div>
 </div>
 </article>
 </div>

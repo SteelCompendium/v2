@@ -53,6 +53,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P &lt; AVERAGE, they are <a href="../../../../../condition/frightened/">frightened</a> of you (save ends).</p></div>
+<div class="sc-ability__section-body"><p>If a target who is not a leader or solo creature is <a href="../../../../../rule/health/winded/">winded</a> by this strike, they are reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> and you choose an enemy within 5 squares of you. If that enemy has P &lt; AVERAGE, they are <a href="../../../../../condition/frightened/">frightened</a> of you (save ends).</p></div>
 </div>
 </article>

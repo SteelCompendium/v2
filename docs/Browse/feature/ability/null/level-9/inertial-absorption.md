@@ -3,7 +3,7 @@ action_type: Free triggered
 class: "null"
 cost: 11 Discipline
 distance: Self
-effect: You take half the damage, negate any effects associated with the damage for you, and gain 3 surges.
+effect: You take half the damage, negate any effects associated with the damage for you, and gain 3 [surges](../../../../rule/resource/surge.md).
 flavor: You absorb an attack to empower your body.
 keywords:
     - Psionic
@@ -41,6 +41,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You take half the damage, negate any effects associated with the damage for you, and gain 3 surges.</p></div>
+<div class="sc-ability__section-body"><p>You take half the damage, negate any effects associated with the damage for you, and gain 3 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>

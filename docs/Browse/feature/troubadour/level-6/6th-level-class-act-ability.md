@@ -188,7 +188,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 1 surge, then gains 1 surge at the start of each combat round until the end of the encounter.</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 1 <a href="../../../../rule/resource/surge/">surge</a>, then gains 1 <a href="../../../../rule/resource/surge/">surge</a> at the start of each combat round until the end of the encounter.</p></div>
 </div>
 </article>
 </div>

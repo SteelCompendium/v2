@@ -137,11 +137,11 @@ Khorva shook her head. "[Orcs](orc.md) have no great love for battle. We love tr
 
 ### Signature Trait: Relentless {data-scc="mcdm.heroes.v1/feature.trait.orc/relentless"}
 
-Whenever a creature deals damage to you that leaves you dying, you can make a [free strike](../feature/common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
+Whenever a creature deals damage to you that leaves you [dying](../rule/health/dying.md), you can make a [free strike](../feature/common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 [Stamina](../rule/health/stamina.md) by your strike, you can spend a [Recovery](../rule/health/recoveries.md).
 
 ### Purchased Orc Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing Recovery, Grounded.)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing [Recovery](../rule/health/recoveries.md), Grounded.)
 
 #### Bloodfire Rush {data-scc="mcdm.heroes.v1/feature.trait.orc/bloodfire-rush"}
 
@@ -149,7 +149,7 @@ The magic coursing through your veins makes you run faster in the heat of battle
 
 #### Glowing Recovery {data-scc="mcdm.heroes.v1/feature.trait.orc/glowing-recovery"}
 
-Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver, you can spend as many Recoveries as you like.
+Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver, you can spend as many [Recoveries](../rule/health/recoveries.md) as you like.
 
 #### Grounded {data-scc="mcdm.heroes.v1/feature.trait.orc/grounded"}
 

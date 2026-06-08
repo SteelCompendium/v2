@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 11 Piety
 distance: Self; see below
-effect: Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you by moving or by being [force moved](../../../../movement/forced-movement.md) by any enemy. Targets can be [force moved](../../../../movement/forced-movement.md) closer to you by you or your allies, or can move closer because of your movement.
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), no enemy can approach within 5 squares of you by moving or by being [force moved](../../../../movement/forced-movement.md) by any enemy. Targets can be [force moved](../../../../movement/forced-movement.md) closer to you by you or your allies, or can move closer because of your movement.
 flavor: A magic circle extends out from you, barring foes from getting close.
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you by moving or by being <a href="../../../../../movement/forced-movement/">force moved</a> by any enemy. Targets can be <a href="../../../../../movement/forced-movement/">force moved</a> closer to you by you or your allies, or can move closer because of your movement.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, no enemy can approach within 5 squares of you by moving or by being <a href="../../../../../movement/forced-movement/">force moved</a> by any enemy. Targets can be <a href="../../../../../movement/forced-movement/">force moved</a> closer to you by you or your allies, or can move closer because of your movement.</p></div>
 </div>
 </article>

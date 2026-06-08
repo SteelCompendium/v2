@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>For you, an open wound is indistinguishable from a scratch. You can&#39;t be made <a href="../../../../condition/bleeding/">bleeding</a> even while dying.</p>
+<p>For you, an open wound is indistinguishable from a scratch. You can&#39;t be made <a href="../../../../condition/bleeding/">bleeding</a> even while <a href="../../../../rule/health/dying/">dying</a>.</p>
 </div>
 </section>

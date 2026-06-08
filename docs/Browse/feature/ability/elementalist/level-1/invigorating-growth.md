@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 3 Essence
 distance: Ranged 10
-effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
+effect: Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 [surge](../../../../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
 flavor: Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.
 keywords:
     - Green
@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Mushrooms cover the target&#39;s body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.</p></div>
+<div class="sc-ability__section-body"><p>Mushrooms cover the target&#39;s body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 <a href="../../../../../rule/resource/surge/">surge</a> whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.</p></div>
 </div>
 </article>

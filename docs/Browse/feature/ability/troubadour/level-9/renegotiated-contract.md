@@ -3,7 +3,7 @@ action_type: Main action
 class: troubadour
 cost: 11 Drama
 distance: Melee 1
-effect: Add your current Stamina to your target's current Stamina, then you have half that total Stamina and the target has the remainder. If either of you would gain more Stamina this way than their Stamina maximum, the difference in Stamina between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more Stamina than your maximum this way. You then make a power roll.
+effect: Add your current [Stamina](../../../../rule/health/stamina.md) to your target's current [Stamina](../../../../rule/health/stamina.md), then you have half that total [Stamina](../../../../rule/health/stamina.md) and the target has the remainder. If either of you would gain more [Stamina](../../../../rule/health/stamina.md) this way than their [Stamina](../../../../rule/health/stamina.md) maximum, the difference in [Stamina](../../../../rule/health/stamina.md) between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more [Stamina](../../../../rule/health/stamina.md) than your maximum this way. You then make a power roll.
 flavor: No, no. You don't die until the sequel.
 keywords:
     - Melee
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Add your current Stamina to your target&#39;s current Stamina, then you have half that total Stamina and the target has the remainder. If either of you would gain more Stamina this way than their Stamina maximum, the difference in Stamina between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more Stamina than your maximum this way. You then make a power roll.</p></div>
+<div class="sc-ability__section-body"><p>Add your current <a href="../../../../../rule/health/stamina/">Stamina</a> to your target&#39;s current <a href="../../../../../rule/health/stamina/">Stamina</a>, then you have half that total <a href="../../../../../rule/health/stamina/">Stamina</a> and the target has the remainder. If either of you would gain more <a href="../../../../../rule/health/stamina/">Stamina</a> this way than their <a href="../../../../../rule/health/stamina/">Stamina</a> maximum, the difference in <a href="../../../../../rule/health/stamina/">Stamina</a> between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more <a href="../../../../../rule/health/stamina/">Stamina</a> than your maximum this way. You then make a power roll.</p></div>
 </div>
 </article>

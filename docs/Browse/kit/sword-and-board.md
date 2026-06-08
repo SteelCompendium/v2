@@ -5,7 +5,6 @@ melee_damage_bonus: +2/+2/+2
 name: Sword and Board
 scc: mcdm.heroes.v1/kit/sword-and-board
 stability_bonus: "+1"
-stamina_bonus: +9 per echelon
 type: kit
 ---
 
@@ -21,7 +20,7 @@ You wear medium armor and wield a shield and a medium weapon.
 
 ## Kit Bonuses
 
-**Stamina Bonus:** +9 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +9 per echelon
 
 **Stability Bonus:** +1
 

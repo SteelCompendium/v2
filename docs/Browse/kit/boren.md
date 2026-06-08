@@ -20,7 +20,7 @@ While you are in your bear form, your size is 2 and you gain a +1 bonus to dista
 
 ## Hybrid Form: Bear {data-scc="mcdm.heroes.v1/feature.fury.boren/hybrid-form-bear"}
 
-While you are in your hybrid form, your size is 2 and you gain a +1 bonus to distance with melee weapon abilities. At 4th level, the first time you take hybrid form in an encounter, you gain 10 temporary Stamina.
+While you are in your hybrid form, your size is 2 and you gain a +1 bonus to distance with melee weapon abilities. At 4th level, the first time you take hybrid form in an encounter, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md).
 
 ## Primordial Storm: Blizzard {data-scc="mcdm.heroes.v1/feature.fury.boren/primordial-storm-blizzard"}
 
@@ -28,7 +28,7 @@ Your primordial damage type is cold.
 
 ## Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.boren/kit-bonuses"}
 
-- **Stamina Bonus:** +9 per echelon
+- **[Stamina](../rule/health/stamina.md) Bonus:** +9 per echelon
 - **Stability Bonus:** +2
 - **Melee Damage Bonus:** +0/+0/+4
 
@@ -56,9 +56,9 @@ As your ferocity grows, you gain benefits as noted on the [Boren](boren.md) [Gro
 
 | Ferocity        | Benefit                                                                                                                                                                                                                   |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2               | You can have up to two creatures [grabbed](../condition/grabbed.md) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](../condition/grabbed.md), you gain 1 surge.                                                                       |
-| 4               | The first time you grab a creature on a turn, you gain 1 surge.                                                                                                                                                           |
+| 2               | You can have up to two creatures [grabbed](../condition/grabbed.md) at a time. Additionally, whenever you make a strike against a creature you have [grabbed](../condition/grabbed.md), you gain 1 [surge](../rule/resource/surge.md).                                                                       |
+| 4               | The first time you grab a creature on a turn, you gain 1 [surge](../rule/resource/surge.md).                                                                                                                                                           |
 | 6               | You gain an edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                                                     |
-| 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 surges instead of 1.                                                                                                                                             |
+| 8 (4th level)   | The first time you grab a creature on a turn, you gain 2 [surges](../rule/resource/surge.md) instead of 1.                                                                                                                                             |
 | 10 (7th level)  | You have a double edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                                               |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you have a creature [grabbed](../condition/grabbed.md), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, whenever you have a creature [grabbed](../condition/grabbed.md), any ability roll made against that creature gains a bonus to its potency equal to your Might score. |

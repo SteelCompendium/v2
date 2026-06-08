@@ -1,6 +1,6 @@
 ---
 benefit: The Director tells you when you hear the voice. The voice seems to be aware of your surroundings, and its advice is usually vague but helpful. Someday its motivations might be different from your own, but for now, the voice seems keen on making sure you survive.
-drawback: Eventually, the voice reveals it wants something from you that you might not want to provide. If the voice is displeased with you, it can interrupt your rest during a respite, causing you to regain 2 fewer Recoveries than usual.
+drawback: Eventually, the voice reveals it wants something from you that you might not want to provide. If the voice is displeased with you, it can interrupt your rest during a respite, causing you to regain 2 fewer [Recoveries](../rule/health/recoveries.md) than usual.
 name: Voice in Your Head
 scc: mcdm.heroes.v1/complication/voice-in-your-head
 type: complication
@@ -14,4 +14,4 @@ You occasionally hear a [voice in your head](voice-in-your-head.md), giving you 
 
 **Benefit:** The Director tells you when you hear the voice. The voice seems to be aware of your surroundings, and its advice is usually vague but helpful. Someday its motivations might be different from your own, but for now, the voice seems keen on making sure you survive.
 
-**Drawback:** Eventually, the voice reveals it wants something from you that you might not want to provide. If the voice is displeased with you, it can interrupt your rest during a respite, causing you to regain 2 fewer Recoveries than usual.
+**Drawback:** Eventually, the voice reveals it wants something from you that you might not want to provide. If the voice is displeased with you, it can interrupt your rest during a respite, causing you to regain 2 fewer [Recoveries](../rule/health/recoveries.md) than usual.

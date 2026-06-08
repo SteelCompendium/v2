@@ -112,7 +112,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.</p></div>
+<div class="sc-ability__section-body"><p>You can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to allow the target to regain <a href="../../../../rule/health/stamina/">Stamina</a> equal to your <a href="../../../../rule/health/recoveries/">recovery value</a>. The target can then take their turn immediately before the triggering enemy.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -132,7 +132,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).</p></div>
+<div class="sc-ability__section-body"><p>The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> cost by 3 (to a minimum cost of 0).</p></div>
 </div>
 </article>
 </div>
@@ -164,7 +164,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each target gains 1 <a href="../../../../rule/resource/surge/">surge</a> at the end of each of your turns.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

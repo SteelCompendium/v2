@@ -132,7 +132,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.</p></div>
 </div>
 </article>
 </div>
@@ -172,7 +172,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally can <a href="../../../../movement/shifting/">shift</a> up to 2 squares and gains 2 surges before making the strike.</p></div>
+<div class="sc-ability__section-body"><p>Each ally can <a href="../../../../movement/shifting/">shift</a> up to 2 squares and gains 2 <a href="../../../../rule/resource/surge/">surges</a> before making the strike.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
@@ -196,7 +196,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is unaffected by the strike and you become the target instead, even if you aren&#39;t a valid target for it. You take half the damage from the strike, and the target gains 3 surges.</p></div>
+<div class="sc-ability__section-body"><p>The target is unaffected by the strike and you become the target instead, even if you aren&#39;t a valid target for it. You take half the damage from the strike, and the target gains 3 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
 </div>

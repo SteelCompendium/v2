@@ -47,17 +47,17 @@ This chapter details twelve ancestries for the game:
 >
 > The rules for using ancestries refer to lots of other parts of the game. You can find information on specific topics as follows:
 >
-> Edges and banes, Recoveries, respites: Chapter 1: [The Basics](the-basics.md)
+> Edges and banes, [Recoveries](../../Browse/rule/health/recoveries.md), respites: Chapter 1: [The Basics](the-basics.md)
 >
 > Languages: Chapter 4: [Background](background.md)
 >
-> Abilities, conditions, potencies, saving throws, surges: Chapter 5: [Classes](classes.md)
+> Abilities, conditions, potencies, saving throws, [surges](../../Browse/rule/resource/surge.md): Chapter 5: [Classes](classes.md)
 >
 > Skills, tests: Chapter 9: [Tests](tests.md)
 >
 > Crafting projects: Chapter 12: [Downtime Projects](downtime-projects.md)
 >
-> Main actions and maneuvers, creature size, damage and Stamina, dying and death, flanking, movement and [forced movement](../../Browse/movement/forced-movement.md), winded: Chapter 10: [Combat](combat.md)
+> Main actions and maneuvers, creature size, damage and [Stamina](../../Browse/rule/health/stamina.md), [dying](../../Browse/rule/health/dying.md) and death, [flanking](../../Browse/rule/combat/flanking.md), movement and [forced movement](../../Browse/movement/forced-movement.md), [winded](../../Browse/rule/health/winded.md): Chapter 10: [Combat](combat.md)
 
 ### On the Origin of Species
 
@@ -401,7 +401,7 @@ Your eyes are a solid, vibrant color that flares to show your excitement or rage
 
 ##### Hellsight {data-scc="mcdm.heroes.v1/feature.trait.devil/hellsight"}
 
-Your eyes let you see through darkness, fog, and other obscuring effects. You don't take a bane on strikes made against creatures with concealment.
+Your eyes let you see through darkness, fog, and other obscuring effects. You don't take a bane on strikes made against creatures with [concealment](../../Browse/rule/combat/concealment.md).
 
 ##### Impressive Horns {data-scc="mcdm.heroes.v1/feature.trait.devil/impressive-horns"}
 
@@ -703,7 +703,7 @@ Your heavy stone body and connection to the earth make it difficult for others t
 
 ##### Spark Off Your Skin {data-scc="mcdm.heroes.v1/feature.trait.dwarf/spark-off-your-skin"}
 
-Your stone skin affords you potent protection. You have a +6 bonus to Stamina, and that bonus increases by 6 at 4th, 7th, and 10th levels.
+Your stone skin affords you potent protection. You have a +6 bonus to [Stamina](../../Browse/rule/health/stamina.md), and that bonus increases by 6 at 4th, 7th, and 10th levels.
 
 ##### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stand-tough"}
 
@@ -961,7 +961,7 @@ In spite of their friendly, outgoing nature, the rare presence of a [hakaan](../
 
 Descended from a tribe of giants in upper Vanigar, the original Haka'an tribe made a bargain with Holkatya the Vanigar trickster god. They traded some of their gigantic size and strength for the ability to see the future.
 
-But Holkatya betrayed them, and the only future a [hakaan](../../Browse/ancestry/hakaan.md) is allowed to see is the moment and nature of their own death. These visions are never of some mundane tragedy. No [hakaan](../../Browse/ancestry/hakaan.md) ever received a vision of dying from choking on a grape. This Doomsight is always momentous. Always dramatic.
+But Holkatya betrayed them, and the only future a [hakaan](../../Browse/ancestry/hakaan.md) is allowed to see is the moment and nature of their own death. These visions are never of some mundane tragedy. No [hakaan](../../Browse/ancestry/hakaan.md) ever received a vision of [dying](../../Browse/rule/health/dying.md) from choking on a grape. This Doomsight is always momentous. Always dramatic.
 
 The Doomsight can happen at any moment. It does not come for all or even most [hakaan](../../Browse/ancestry/hakaan.md), but when it comes, it is considered an act of overwhelming hubris to ignore it. Trying to escape the Doomsight means a painful, tragic death, and cursing your family to live with shame.
 
@@ -1071,11 +1071,11 @@ You are exceptionally strong. You gain an edge on tests made to lift and haul he
 
 ##### Doomsight {data-scc="mcdm.heroes.v1/feature.trait.hakaan/doomsight"}
 
-Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on tests and ability rolls, and you don't die no matter how low your Stamina falls. You then die immediately at the end of the encounter, and can't be returned to life by any means.
+Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on tests and ability rolls, and you don't die no matter how low your [Stamina](../../Browse/rule/health/stamina.md) falls. You then die immediately at the end of the encounter, and can't be returned to life by any means.
 
-If you don't predetermine your death encounter, you can choose to become doomed while you are dying with the Director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you—not because you're playing a one-shot and have nothing to lose, Hacaarl.
+If you don't predetermine your death encounter, you can choose to become doomed while you are [dying](../../Browse/rule/health/dying.md) with the Director's approval (no action required). Doing so should be reserved for encounters in which you are [dying](../../Browse/rule/health/dying.md) as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you—not because you're playing a one-shot and have nothing to lose, Hacaarl.
 
-Additionally, when your Stamina reaches the negative of your winded value and you are not doomed, you turn to rubble instead of experiencing death. You are unaware of your surroundings in this state, and you can't regain Stamina or have this effect undone in any way. After 12 hours, you regain Stamina equal to your recovery value.
+Additionally, when your [Stamina](../../Browse/rule/health/stamina.md) reaches the negative of your [winded](../../Browse/rule/health/winded.md) value and you are not doomed, you turn to rubble instead of experiencing death. You are unaware of your surroundings in this state, and you can't regain [Stamina](../../Browse/rule/health/stamina.md) or have this effect undone in any way. After 12 hours, you regain [Stamina](../../Browse/rule/health/stamina.md) equal to your [recovery value](../../Browse/rule/health/recoveries.md).
 
 ##### Forceful {data-scc="mcdm.heroes.v1/feature.trait.hakaan/forceful"}
 
@@ -1109,7 +1109,7 @@ I was here, teaching this class during the fire of Chaos 373. The fire *leveled 
 
 *Six months* after the Great Fire, your ancestors had rebuilt... everything. I have seen many miracles in my life. Witnessing that feat might be chief among them.
 
-Liches are almost always [humans](../../Browse/ancestry/human.md). Did you know that? I think I know why. Your lives are so short—almost as soon as you're born, you're thinking about dying, and you refuse to yield.
+Liches are almost always [humans](../../Browse/ancestry/human.md). Did you know that? I think I know why. Your lives are so short—almost as soon as you're born, you're thinking about [dying](../../Browse/rule/health/dying.md), and you refuse to yield.
 
 That refusal to yield to death... to *death*... is what drives you, I think. Drives you to leave the world better than you found it. Causes ruined people to rebuild great city.
 
@@ -1161,7 +1161,7 @@ Your instinctive resilience protects you from injuries beyond the routine. Whene
 
 ##### Staying Power {data-scc="mcdm.heroes.v1/feature.trait.human/staying-power"}
 
-Your [human](../../Browse/ancestry/human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of Recoveries by 2.
+Your [human](../../Browse/ancestry/human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of [Recoveries](../../Browse/rule/health/recoveries.md) by 2.
 
 ## Memonek {data-scc="mcdm.heroes.v1/ancestry/memonek"}
 
@@ -1199,7 +1199,7 @@ Count Revile shook his head. "Not like this. We are creatures of reason, we of A
 
 "At yourself ? Why? What did you...?"
 
-"John," the [memonek](../../Browse/ancestry/memonek.md) said, and now it was his turn to whisper. "I was afraid. Afraid of... of being wounded, of failing you, failing my friends. Of dying. And out of that fear came... enormous anger. At myself. Anger that I was so weak so... useless. Anger so... strong, so powerful... I forgot who I was."
+"John," the [memonek](../../Browse/ancestry/memonek.md) said, and now it was his turn to whisper. "I was afraid. Afraid of... of being wounded, of failing you, failing my friends. Of [dying](../../Browse/rule/health/dying.md). And out of that fear came... enormous anger. At myself. Anger that I was so weak so... useless. Anger so... strong, so powerful... I forgot who I was."
 
 John chuckled. "That's just..." He smiled broadly. "That's just normal. We all feel that way."
 
@@ -1295,7 +1295,7 @@ Your ordered mind can't be caught off guard. You can't be made surprised.
 
 ##### Useful Emotion {data-scc="mcdm.heroes.v1/feature.trait.memonek/useful-emotion"}
 
-Velloparatha—the worldsickness—might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 surge.
+Velloparatha—the worldsickness—might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 [surge](../../Browse/rule/resource/surge.md).
 
 ## Orc {data-scc="mcdm.heroes.v1/ancestry/orc"}
 
@@ -1427,11 +1427,11 @@ Khorva shook her head. "[Orcs](../../Browse/ancestry/orc.md) have no great love 
 
 #### Signature Trait: Relentless {data-scc="mcdm.heroes.v1/feature.trait.orc/relentless"}
 
-Whenever a creature deals damage to you that leaves you dying, you can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
+Whenever a creature deals damage to you that leaves you [dying](../../Browse/rule/health/dying.md), you can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against any creature. If the creature is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by your strike, you can spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
 #### Purchased Orc Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing Recovery, Grounded.)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* Glowing [Recovery](../../Browse/rule/health/recoveries.md), Grounded.)
 
 ##### Bloodfire Rush {data-scc="mcdm.heroes.v1/feature.trait.orc/bloodfire-rush"}
 
@@ -1439,7 +1439,7 @@ The magic coursing through your veins makes you run faster in the heat of battle
 
 ##### Glowing Recovery {data-scc="mcdm.heroes.v1/feature.trait.orc/glowing-recovery"}
 
-Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver, you can spend as many Recoveries as you like.
+Your bloodfire allows you to regain your strength quicker than others. Whenever you use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver, you can spend as many [Recoveries](../../Browse/rule/health/recoveries.md) as you like.
 
 ##### Grounded {data-scc="mcdm.heroes.v1/feature.trait.orc/grounded"}
 
@@ -1585,7 +1585,7 @@ You have the following ability.
 |-------------|----------------:|
 | **📏 Self** |     **🎯 Self** |
 
-**Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be [force moved](../../Browse/movement/forced-movement.md), and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
+**Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be [force moved](../../Browse/movement/forced-movement.md), and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
 
 If the surface you are flattened against is destroyed, this ability ends and you take 1d6 damage that can't be reduced in any way.
 
@@ -1615,7 +1615,7 @@ A light step serves you well when speed is of the essence. You ignore the effect
 
 ##### Polder Geist {data-scc="mcdm.heroes.v1/feature.trait.polder/polder-geist"}
 
-Evading others' notice gives you freedom to move. At the start of each of your turns during combat, if no enemy has line of effect to you or if you are hidden from or have concealment from any enemy with line of effect to you, you gain a +3 bonus to speed until the end of your turn.
+Evading others' notice gives you freedom to move. At the start of each of your turns during combat, if no enemy has line of effect to you or if you are hidden from or have [concealment](../../Browse/rule/combat/concealment.md) from any enemy with line of effect to you, you gain a +3 bonus to speed until the end of your turn.
 
 ##### Reactive Tumble {data-scc="mcdm.heroes.v1/feature.trait.polder/reactive-tumble"}
 
@@ -1697,7 +1697,7 @@ Choose the ancestry you were before you died. Your size is that ancestry's size 
 
 Your undead body grants you immunity to cold, corruption, lightning, and poison damage equal to your level, but you have fire weakness 5. You can't suffocate, and you don't need to eat or drink to stay alive.
 
-Additionally, when your Stamina reaches the negative of your winded value, you become inert instead of dying. You fall [prone](../../Browse/condition/prone.md) and can't stand. You continue to observe your surroundings, but you can't speak, take main actions, maneuvers, move actions, or triggered actions. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
+Additionally, when your [Stamina](../../Browse/rule/health/stamina.md) reaches the negative of your [winded](../../Browse/rule/health/winded.md) value, you become inert instead of [dying](../../Browse/rule/health/dying.md). You fall [prone](../../Browse/condition/prone.md) and can't stand. You continue to observe your surroundings, but you can't speak, take main actions, maneuvers, move actions, or triggered actions. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain [Stamina](../../Browse/rule/health/stamina.md) equal to your [recovery value](../../Browse/rule/health/recoveries.md).
 
 ##### Purchased Revenant Traits
 
@@ -1705,7 +1705,7 @@ You have 2 ancestry points to spend on the following traits, or 3 ancestry point
 
 ##### Bloodless {data-scc="mcdm.heroes.v1/feature.trait.revenant/bloodless"}
 
-For you, an open wound is indistinguishable from a scratch. You can't be made [bleeding](../../Browse/condition/bleeding.md) even while dying.
+For you, an open wound is indistinguishable from a scratch. You can't be made [bleeding](../../Browse/condition/bleeding.md) even while [dying](../../Browse/rule/health/dying.md).
 
 ##### Previous Life: 1 Point {data-scc="mcdm.heroes.v1/feature.trait.revenant/previous-life-1-point"}
 
@@ -1855,7 +1855,7 @@ As a maneuver, you can adjust your vision to allow you to see through mundane ob
 
 ##### Foresight {data-scc="mcdm.heroes.v1/feature.trait.time-raider/foresight"}
 
-Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with concealment who isn't hidden from you within 20, and you negate the usual bane on strikes against such creatures. Additionally, whenever you are targeted by a strike, you can use a triggered action to impose a bane on the power roll.
+Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with [concealment](../../Browse/rule/combat/concealment.md) who isn't hidden from you within 20, and you negate the usual bane on strikes against such creatures. Additionally, whenever you are targeted by a strike, you can use a triggered action to impose a bane on the power roll.
 
 ##### Four-Armed Athletics {data-scc="mcdm.heroes.v1/feature.trait.time-raider/four-armed-athletics"}
 

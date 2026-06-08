@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your deity grants you a Heroic Resource called piety, letting you heal and empower your allies, and unleash holy power upon your foes.</p>
+<p>Your deity grants you a <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> called piety, letting you heal and empower your allies, and unleash holy power upon your foes.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -74,7 +74,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares who isn&#39;t a minion is reduced to 0 Stamina, or the first time in an encounter that a solo creature within 10 squares becomes winded.</li><li><b>Prayer Effect:</b> You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your Intuition score.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares who isn&#39;t a minion is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, or the first time in an encounter that a solo creature within 10 squares becomes <a href="../../../../rule/health/winded/">winded</a>.</li><li><b>Prayer Effect:</b> You inflict a deadly curse on up to two enemies within 10 squares of you. Each target takes corruption damage equal to twice your Intuition score.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -94,7 +94,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that the Director spends Malice (see <em>Draw Steel: Monsters</em>).</li><li><b>Prayer Effect:</b> Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 surge.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that the Director spends Malice (see <em>Draw Steel: Monsters</em>).</li><li><b>Prayer Effect:</b> Choose up to five allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -104,7 +104,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares regains Stamina.</li><li><b>Prayer Effect:</b> Choose yourself or one ally within 10 squares. That character can spend a Recovery, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they <a href="../../../../condition/prone/">are prone</a>. Alternatively, you or one ally within 10 squares gains temporary Stamina equal to two times your Intuition score.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that a creature within 10 squares regains <a href="../../../../rule/health/stamina/">Stamina</a>.</li><li><b>Prayer Effect:</b> Choose yourself or one ally within 10 squares. That character can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or can stand up if they <a href="../../../../condition/prone/">are prone</a>. Alternatively, you or one ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to two times your Intuition score.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -114,7 +114,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the <a href="../../../common/maneuvers/aid-attack/">Aid Attack</a> maneuver or an ability that targets an ally.</li><li><b>Prayer Effect:</b> Each ally within 10 squares of you gains temporary Stamina equal to two times your Intuition score.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or any ally within 10 squares uses the <a href="../../../common/maneuvers/aid-attack/">Aid Attack</a> maneuver or an ability that targets an ally.</li><li><b>Prayer Effect:</b> Each ally within 10 squares of you gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to two times your Intuition score.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -134,7 +134,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a <a href="../triggered-action/">triggered action</a> to reduce incoming damage or to impose a bane or double bane on an enemy&#39;s power roll.</li><li><b>Prayer Effect:</b> One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>, or uses a <a href="../triggered-action/">triggered action</a> to reduce incoming damage or to impose a bane or double bane on an enemy&#39;s power roll.</li><li><b>Prayer Effect:</b> One ally within 10 squares gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to four times your Intuition score.</li></ul>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -174,7 +174,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.</li><li><b>Prayer Effect:</b> Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.</li></ul>
+<ul><li><b>Piety:</b> You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.</li><li><b>Prayer Effect:</b> Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>.</li></ul>
 </div>
 </section>
 </div>

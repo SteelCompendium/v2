@@ -132,7 +132,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>You gain 2 <a href="../../../../rule/resource/surge/">surges</a>, and the target can make an opportunity attack against you as a free triggered action.</p></div>
 </div>
 </article>
 </div>
@@ -324,7 +324,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 1 surge, and the next ability roll you make this turn automatically obtains a tier 3 outcome.</p></div>
+<div class="sc-ability__section-body"><p>You gain 1 <a href="../../../../rule/resource/surge/">surge</a>, and the next ability roll you make this turn automatically obtains a tier 3 outcome.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -378,7 +378,7 @@ type: feature
 <div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + M damage</span></div>
 </div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1+ Ferocity</span><span class="txt">While you are winded, this ability deals an extra 1d6 damage for each ferocity spent. While you are dying, it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 Stamina after making this strike.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1+ Ferocity</span><span class="txt">While you are <a href="../../../../rule/health/winded/">winded</a>, this ability deals an extra 1d6 damage for each ferocity spent. While you are <a href="../../../../rule/health/dying/">dying</a>, it deals an extra 1d10 damage for each ferocity spent. In either case, you lose 1d6 <a href="../../../../rule/health/stamina/">Stamina</a> after making this strike.</span></div>
 </article>
 </div>
 </div>

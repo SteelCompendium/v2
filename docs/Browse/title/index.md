@@ -376,7 +376,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Scarred</div></div></div>
   <div class="sc-card__flavor">Last time we fought, I gave you a little token to remember me by... now it appears you need another reminder of my power.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">An enemy leader or solo creature reduces you to 0 Stamina.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">An enemy leader or solo creature reduces you to 0 [Stamina](../rule/health/stamina.md).</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="ship-captain/" aria-label="Ship Captain"></a>
@@ -471,7 +471,7 @@
     <div><div class="sc-card__type">Title</div>
     <div class="sc-card__name">Unstoppable</div></div></div>
   <div class="sc-card__flavor">I seen the goblin king run &#39;im through with a spear. Then I seen &#39;im pull &#39;imself back up, spear still in &#39;im, and headbutt the goblin king... then he pulls out the spear and throws it on the goblin king&#39;s corpse.</div>
-  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You defeat a foe while at or below 0 Stamina.</span></div>
+  <div class="sc-card__line"><b>Prerequisite</b> <span class="hl">You defeat a foe while at or below 0 [Stamina](../rule/health/stamina.md).</span></div>
 </div>
 <div class="sc-card sc-fil">
   <a class="sc-card__link" href="wanted-dead-or-alive/" aria-label="Wanted Dead or Alive"></a>

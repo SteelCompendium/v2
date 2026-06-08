@@ -14,7 +14,7 @@ name: Death Strike
 scc: mcdm.heroes.v1/feature.ability.fury.level-6/death-strike
 subtype: triggered
 target: Self
-trigger: You reduce a creature to 0 Stamina with a strike.
+trigger: You reduce a creature to 0 [Stamina](../../../../rule/health/stamina.md) with a strike.
 type: ability
 ---
 
@@ -39,7 +39,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>You reduce a creature to 0 Stamina with a strike.</p></div>
+<div class="sc-ability__section-body"><p>You reduce a creature to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> with a strike.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

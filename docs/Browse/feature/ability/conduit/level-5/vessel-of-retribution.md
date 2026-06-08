@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 9 Piety
 distance: Ranged 10
-effect: The first time the target is dying or winded before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.
+effect: The first time the target is [dying](../../../../rule/health/dying.md) or [winded](../../../../rule/health/winded.md) before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.
 flavor: You infuse yourself or an ally with the retributive energy of the gods, waiting to be unleashed.
 keywords:
     - Magic
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The first time the target is dying or winded before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.</p></div>
+<div class="sc-ability__section-body"><p>The first time the target is <a href="../../../../../rule/health/dying/">dying</a> or <a href="../../../../../rule/health/winded/">winded</a> before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.</p></div>
 </div>
 </article>

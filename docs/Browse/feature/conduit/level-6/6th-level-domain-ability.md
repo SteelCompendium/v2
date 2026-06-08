@@ -49,7 +49,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This <a href="../../../../movement/forced-movement/">forced movement</a> ignores stability for your allies.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, at the end of each of your turns, you can slide each creature in the area up to a number of squares equal to your Intuition score. This <a href="../../../../movement/forced-movement/">forced movement</a> ignores stability for your allies.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -93,7 +93,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 surge at the end of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 <a href="../../../../rule/resource/surge/">surge</a> at the end of each of your turns.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -141,7 +141,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You conjure a size 2 rolling machine that appears in an unoccupied space within distance. The machine has 50 Stamina and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its Stamina drops to 0, or if you are dying. When the machine first appears, make the following power roll once, targeting each enemy adjacent to it.</p></div>
+<div class="sc-ability__section-body"><p>You conjure a size 2 rolling machine that appears in an unoccupied space within distance. The machine has 50 <a href="../../../../rule/health/stamina/">Stamina</a> and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its <a href="../../../../rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../../../rule/health/dying/">dying</a>. When the machine first appears, make the following power roll once, targeting each enemy adjacent to it.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Once on each subsequent turn, you can use a free maneuver to move the machine a number of squares up to your Intuition score then repeat the power roll.</p></div>
@@ -212,7 +212,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 3 of their Heroic Resource.</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 3 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -260,7 +260,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can spend any number of Recoveries. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if <a href="../../../../condition/prone/">prone</a>.</p></div>
+<div class="sc-ability__section-body"><p>Each target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>. Additionally, each target can end one effect on themself that is ended by a saving throw or that ends at the end of their turn, or they can stand up if <a href="../../../../condition/prone/">prone</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -312,7 +312,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If this damage kills the target, you and each ally within distance can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>If this damage kills the target, you and each ally within distance can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
 </div>

@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 distance: Melee 1
-effect: You or one ally within distance can spend a Recovery.
+effect: You or one ally within distance can spend a [Recovery](../../../../rule/health/recoveries.md).
 flavor: You drain the energy from your target to revitalize yourself or an ally.
 keywords:
     - Magic
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You or one ally within distance can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>You or one ally within distance can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>

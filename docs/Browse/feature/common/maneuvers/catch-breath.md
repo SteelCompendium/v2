@@ -17,7 +17,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>A creature who uses the <a href="../catch-breath/">Catch Breath</a> maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for Stamina. See Recoveries in Chapter 1: <a href="../../../../../Read/heroes/the-basics/">The Basics</a>.)</p>
-<p>A creature who is dying (see Dying and Death in Stamina below) can&#39;t use the <a href="../catch-breath/">Catch Breath</a> maneuver, but other creatures can help them spend Recoveries in other ways.</p>
+<p>A creature who uses the <a href="../catch-breath/">Catch Breath</a> maneuver spends a <a href="../../../../rule/health/recoveries/">Recovery</a> and regains <a href="../../../../rule/health/stamina/">Stamina</a> equal to their <a href="../../../../rule/health/recoveries/">recovery value</a>. (See below for <a href="../../../../rule/health/stamina/">Stamina</a>. See <a href="../../../../rule/health/recoveries/">Recoveries</a> in Chapter 1: <a href="../../../../../Read/heroes/the-basics/">The Basics</a>.)</p>
+<p>A creature who is <a href="../../../../rule/health/dying/">dying</a> (see <a href="../../../../rule/health/dying/">Dying</a> and Death in <a href="../../../../rule/health/stamina/">Stamina</a> below) can&#39;t use the <a href="../catch-breath/">Catch Breath</a> maneuver, but other creatures can help them spend <a href="../../../../rule/health/recoveries/">Recoveries</a> in other ways.</p>
 </div>
 </section>

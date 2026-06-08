@@ -1,5 +1,5 @@
 ---
-benefit: Whenever you start your turn with concealment, you gain 1 surge.
+benefit: Whenever you start your turn with [concealment](../rule/combat/concealment.md), you gain 1 [surge](../rule/resource/surge.md).
 drawback: You have holy weakness 5.
 name: Shadow Born
 scc: mcdm.heroes.v1/complication/shadow-born
@@ -12,6 +12,6 @@ type: complication
 
 You were born in the dusk land ruled by the Queen of [Shadows](../class/shadow.md), and its darkness has seeped into your bones. (See The Myriad Worlds of the Timescape in Chapter 1: [The Basics](../../Read/heroes/the-basics.md).)
 
-**Benefit:** Whenever you start your turn with concealment, you gain 1 surge.
+**Benefit:** Whenever you start your turn with [concealment](../rule/combat/concealment.md), you gain 1 [surge](../rule/resource/surge.md).
 
 **Drawback:** You have holy weakness 5.

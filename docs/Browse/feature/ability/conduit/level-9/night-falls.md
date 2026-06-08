@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 11 Piety
 distance: 5 cube within 10
-effect: Until the end of the encounter or until you are dying, the area is filled with magic darkness that your enemies can't see through, but you and your allies can.
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the area is filled with magic darkness that your enemies can't see through, but you and your allies can.
 flavor: You summon darkness that thwarts only your foes.
 keywords:
     - Area
@@ -37,6 +37,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, the area is filled with magic darkness that your enemies can&#39;t see through, but you and your allies can.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, the area is filled with magic darkness that your enemies can&#39;t see through, but you and your allies can.</p></div>
 </div>
 </article>

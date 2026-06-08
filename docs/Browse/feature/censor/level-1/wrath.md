@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you <a href="../../../../class/censor/">censor</a> those your church deems to be heretics.</p>
+<p>The power you serve grants you a <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> called wrath, fueling your abilities as you <a href="../../../../class/censor/">censor</a> those your church deems to be heretics.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">

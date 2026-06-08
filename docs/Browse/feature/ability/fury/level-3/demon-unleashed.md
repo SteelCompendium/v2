@@ -3,7 +3,7 @@ action_type: Maneuver
 class: fury
 cost: 7 Ferocity
 distance: Self
-effect: Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](../../../../condition/frightened.md) until the end of their turn.
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each enemy who starts their turn adjacent to you and has P < STRONG is [frightened](../../../../condition/frightened.md) until the end of their turn.
 flavor: Foes tremble at the sight of you.
 keywords:
     - Magic
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P &lt; STRONG is <a href="../../../../../condition/frightened/">frightened</a> until the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each enemy who starts their turn adjacent to you and has P &lt; STRONG is <a href="../../../../../condition/frightened/">frightened</a> until the end of their turn.</p></div>
 </div>
 </article>

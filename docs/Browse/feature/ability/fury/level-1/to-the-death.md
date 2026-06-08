@@ -2,7 +2,7 @@
 action_type: Main action
 class: fury
 distance: Melee 1
-effect: You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.
+effect: You gain 2 [surges](../../../../rule/resource/surge.md), and the target can make an opportunity attack against you as a free triggered action.
 flavor: Your reckless assault leaves you tactically vulnerable.
 keywords:
     - Melee
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.</p></div>
+<div class="sc-ability__section-body"><p>You gain 2 <a href="../../../../../rule/resource/surge/">surges</a>, and the target can make an opportunity attack against you as a free triggered action.</p></div>
 </div>
 </article>

@@ -53,9 +53,9 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>The target can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1+ Essence</span><span class="txt">The target can spend an additional Recovery for each essence spent.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1+ Essence</span><span class="txt">The target can spend an additional <a href="../../../../rule/health/recoveries/">Recovery</a> for each essence spent.</span></div>
 </article>
 <article class="sc-ability sc-fil" data-action="triggered">
 <div class="sc-ability__head">

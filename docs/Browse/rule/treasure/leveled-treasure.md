@@ -46,11 +46,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina, and you have immunity to acid and poison damage equal to your highest characteristic score.
+**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../health/stamina.md), and you have immunity to acid and poison damage equal to your highest characteristic score.
 
-**5th Level:** The armor's bonus to Stamina increases to +12. Additionally, whenever an adjacent creature deals damage to you, they take 3 acid or poison damage (your choice).
+**5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12. Additionally, whenever an adjacent creature deals damage to you, they take 3 acid or poison damage (your choice).
 
-**9th Level:** The armor's bonus to Stamina increases to +21, and an adjacent creature who deals damage to you takes 6 acid or poison damage. Additionally, you can use a maneuver to transmute a 2-cube area of liquid or gas adjacent to you into liquid acid or poison gas until the start of your next turn. Any creature who enters the area for the first time in a combat round or starts their turn there takes 6 acid or poison damage, as appropriate.
+**9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21, and an adjacent creature who deals damage to you takes 6 acid or poison damage. Additionally, you can use a maneuver to transmute a 2-cube area of liquid or gas adjacent to you into liquid acid or poison gas until the start of your next turn. Any creature who enters the area for the first time in a combat round or starts their turn there takes 6 acid or poison damage, as appropriate.
 
 ### Chain of the Sea and Sky {data-scc="mcdm.heroes.v1/treasure.leveled.armor/chain-of-the-sea-and-sky"}
 
@@ -66,11 +66,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina, you can automatically swim at full speed while moving, and you can breathe underwater for up to 1 hour. Returning to the surface to breathe air again for any length of time reset's the armor's water-breathing benefit.
+**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../health/stamina.md), you can automatically swim at full speed while moving, and you can breathe underwater for up to 1 hour. Returning to the surface to breathe air again for any length of time reset's the armor's water-breathing benefit.
 
-**5th Level:** The armor's bonus to Stamina increases to +12, and you have cold immunity 5. Additionally, whenever you fall, you can extend your arms (no action required) to unfurl a thick membrane between your arms and your body, slowing your fall and allowing you to glide. While gliding this way, you move downward at 1 square per round, and you can glide up to 6 squares horizontally as a free maneuver once during each of your turns.
+**5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12, and you have cold immunity 5. Additionally, whenever you fall, you can extend your arms (no action required) to unfurl a thick membrane between your arms and your body, slowing your fall and allowing you to glide. While gliding this way, you move downward at 1 square per round, and you can glide up to 6 squares horizontally as a free maneuver once during each of your turns.
 
-**9th Level:** The armor's bonus to Stamina increases to +21, and you have cold immunity 10. Additionally, whenever your feet are not touching the ground (including floating in water or being in midair), you gain an edge on ability rolls, and any ability takes a bane when targeting you.
+**9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21, and you have cold immunity 10. Additionally, whenever your feet are not touching the ground (including floating in water or being in midair), you gain an edge on ability rolls, and any ability takes a bane when targeting you.
 
 ### Grand Scarab {data-scc="mcdm.heroes.v1/treasure.leveled.armor/grand-scarab"}
 
@@ -86,11 +86,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina and you can [fly](../../movement/fly.md). If you don't end your turn on the ground, you fall.
+**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../health/stamina.md) and you can [fly](../../movement/fly.md). If you don't end your turn on the ground, you fall.
 
-**5th Level:** The armor's bonus to Stamina increases to +12. Additionally, you no longer need to end your turn on the ground to avoid falling.
+**5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12. Additionally, you no longer need to end your turn on the ground to avoid falling.
 
-**9th Level:** The armor's bonus to Stamina increases to +21. Additionally, if you [fly](../../movement/fly.md) any distance before making a strike, that strike gains an edge.
+**9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21. Additionally, if you [fly](../../movement/fly.md) any distance before making a strike, that strike gains an edge.
 
 ### King's Roar {data-scc="mcdm.heroes.v1/treasure.leveled.armor/kings-roar"}
 
@@ -106,11 +106,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wield or carry this shield, you gain a +3 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, you can use a maneuver to make the shield's lion face roar, choosing one adjacent creature or object and pushing that target up to 3 squares.
+**1st Level:** While you wield or carry this shield, you gain a +3 bonus to [Stamina](../health/stamina.md). This [Stamina](../health/stamina.md) bonus adds to the [Stamina](../health/stamina.md) bonus granted by other treasures. Additionally, you can use a maneuver to make the shield's lion face roar, choosing one adjacent creature or object and pushing that target up to 3 squares.
 
-**5th Level:** The shield's bonus to Stamina increases to +6. When you cause the shield to roar, you target one creature or object within 3 squares and push that target up to 4 squares.
+**5th Level:** The shield's bonus to [Stamina](../health/stamina.md) increases to +6. When you cause the shield to roar, you target one creature or object within 3 squares and push that target up to 4 squares.
 
-**9th Level:** The shield's bonus to Stamina increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you push that target up to 5 squares, and the target is [slowed](../../condition/slowed.md) until the end of their next turn.
+**9th Level:** The shield's bonus to [Stamina](../health/stamina.md) increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you push that target up to 5 squares, and the target is [slowed](../../condition/slowed.md) until the end of their next turn.
 
 ### Kuran'zoi Prismscale {data-scc="mcdm.heroes.v1/treasure.leveled.armor/kuranzoi-prismscale"}
 
@@ -126,11 +126,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** You gain a +6 bonus to Stamina while you wear this armor. Additionally, whenever a creature within 5 squares deals damage to you, you can use a triggered action to capture a moment of time in the armor, making that creature [slowed](../../condition/slowed.md) until the end of their next turn.
+**1st Level:** You gain a +6 bonus to [Stamina](../health/stamina.md) while you wear this armor. Additionally, whenever a creature within 5 squares deals damage to you, you can use a triggered action to capture a moment of time in the armor, making that creature [slowed](../../condition/slowed.md) until the end of their next turn.
 
-**5th Level:** The armor's bonus to Stamina increases to +12. Additionally, when you capture a moment of time in the armor, the triggering creature also takes corruption damage equal to twice your highest characteristic score.
+**5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12. Additionally, when you capture a moment of time in the armor, the triggering creature also takes corruption damage equal to twice your highest characteristic score.
 
-**9th Level:** The armor's bonus to Stamina increases to +21. Additionally, whenever you capture a moment of time in the armor, you can immediately release it to gain a +3 bonus to speed that lasts until the end of your next turn.
+**9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21. Additionally, whenever you capture a moment of time in the armor, you can immediately release it to gain a +3 bonus to speed that lasts until the end of your next turn.
 
 ### Paper Trappings {data-scc="mcdm.heroes.v1/treasure.leveled.armor/paper-trappings"}
 
@@ -146,11 +146,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina. Additionally, you can use a main action to fold in on yourself until you and your gear are paper thin. This effect lasts for 1 minute, letting you easily slip through any opening that is 1 inch wide or more. When you return to your three-dimensional form, you are [dazed](../../condition/dazed.md) for 1 minute. If you return to your true form while in a space that is too small for you, you are violently expelled into the nearest open space of your choice and take 3d6 damage.
+**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../health/stamina.md). Additionally, you can use a main action to fold in on yourself until you and your gear are paper thin. This effect lasts for 1 minute, letting you easily slip through any opening that is 1 inch wide or more. When you return to your three-dimensional form, you are [dazed](../../condition/dazed.md) for 1 minute. If you return to your true form while in a space that is too small for you, you are violently expelled into the nearest open space of your choice and take 3d6 damage.
 
-**5th Level:** The armor's bonus to Stamina increases to +12, and when you return to your true form, you are [dazed](../../condition/dazed.md) only until the end of your next turn. Additionally, while you are paper thin, you can use a maneuver to wrap yourself around an adjacent target who is the same size or smaller than you, automatically grabbing them.
+**5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12, and when you return to your true form, you are [dazed](../../condition/dazed.md) only until the end of your next turn. Additionally, while you are paper thin, you can use a maneuver to wrap yourself around an adjacent target who is the same size or smaller than you, automatically grabbing them.
 
-**9th Level:** The armor's bonus to Stamina increases to +21, and you are no longer [dazed](../../condition/dazed.md) when you return to your true form. Additionally, while you have a target [grabbed](../../condition/grabbed.md) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a bane when using the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver against you and when making strikes against you.
+**9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21, and you are no longer [dazed](../../condition/dazed.md) when you return to your true form. Additionally, while you have a target [grabbed](../../condition/grabbed.md) when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a bane when using the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver against you and when making strikes against you.
 
 ### Shrouded Memory {data-scc="mcdm.heroes.v1/treasure.leveled.armor/shrouded-memory"}
 
@@ -166,11 +166,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** You gain a +6 bonus to Stamina while you wear this armor. Additionally, you gain an edge on tests made to lie about or conceal your identity.
+**1st Level:** You gain a +6 bonus to [Stamina](../health/stamina.md) while you wear this armor. Additionally, you gain an edge on tests made to lie about or conceal your identity.
 
-**5th Level:** The armor's bonus to Stamina increases to +12. Additionally, whenever you take damage, you can use a triggered action to [teleport](../../movement/teleport.md) up to 5 squares. If you do, you create an illusion of you dying in your previous space, which fades at the end of your next turn.
+**5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12. Additionally, whenever you take damage, you can use a triggered action to [teleport](../../movement/teleport.md) up to 5 squares. If you do, you create an illusion of you [dying](../health/dying.md) in your previous space, which fades at the end of your next turn.
 
-**9th Level:** The armor's bonus to Stamina increases to +21. Whenever you use the armor's triggered action to [teleport](../../movement/teleport.md), you can [teleport](../../movement/teleport.md) up to a number of squares equal to the damage taken (minimum 5 squares). Additionally, if a creature dealt you the triggering damage, you become invisible to that creature until the end of your next turn.
+**9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21. Whenever you use the armor's triggered action to [teleport](../../movement/teleport.md), you can [teleport](../../movement/teleport.md) up to a number of squares equal to the damage taken (minimum 5 squares). Additionally, if a creature dealt you the triggering damage, you become invisible to that creature until the end of your next turn.
 
 ### Spiny Turtle {data-scc="mcdm.heroes.v1/treasure.leveled.armor/spiny-turtle"}
 
@@ -186,11 +186,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina. Additionally, you can use a main action to expand the armor on your back to create a 4 wall of metal behind you. The wall is an object that retracts if you move, or if it takes 15 damage. It then requires a main action to recalibrate before it can be deployed again.
+**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../health/stamina.md). Additionally, you can use a main action to expand the armor on your back to create a 4 wall of metal behind you. The wall is an object that retracts if you move, or if it takes 15 damage. It then requires a main action to recalibrate before it can be deployed again.
 
-**5th Level:** The armor's bonus to Stamina increases to +12, and the damage the wall can take before retracting increases to 25. Additionally, while the wall is expanded, spikes extrude from it, and any creature who deals damage to the wall while adjacent to it takes 3 damage.
+**5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12, and the damage the wall can take before retracting increases to 25. Additionally, while the wall is expanded, spikes extrude from it, and any creature who deals damage to the wall while adjacent to it takes 3 damage.
 
-**9th Level:** The armor's bonus to Stamina increases to +21. Additionally, spikes cover the armor, and any adjacent creature who deals damage to you takes 6 damage.
+**9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21. Additionally, spikes cover the armor, and any adjacent creature who deals damage to you takes 6 damage.
 
 ### Star-Hunter {data-scc="mcdm.heroes.v1/treasure.leveled.armor/star-hunter"}
 
@@ -206,11 +206,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this armor, you gain a +6 bonus to Stamina, but any magic ability gains an edge when targeting you. Additionally, you instinctively know the location of any creature with concealment within 2 squares. You can also turn invisible as a maneuver. Your invisibility ends if you take damage or use an ability, or at the end of your next turn.
+**1st Level:** While you wear this armor, you gain a +6 bonus to [Stamina](../health/stamina.md), but any magic ability gains an edge when targeting you. Additionally, you instinctively know the location of any creature with [concealment](../combat/concealment.md) within 2 squares. You can also turn invisible as a maneuver. Your invisibility ends if you take damage or use an ability, or at the end of your next turn.
 
-**5th Level:** The armor's bonus to Stamina increases to +12, you instinctively know the location of any creature with concealment within 5 squares, and your invisibility no longer ends at the end of your next turn. Additionally, you have psychic immunity 5.
+**5th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +12, you instinctively know the location of any creature with [concealment](../combat/concealment.md) within 5 squares, and your invisibility no longer ends at the end of your next turn. Additionally, you have psychic immunity 5.
 
-**9th Level:** The armor's bonus to Stamina increases to +21, and you instinctively know the location of any creature with concealment within 10 squares. Your invisibility no longer ends when you use an ability, and you have psychic immunity 10.
+**9th Level:** The armor's bonus to [Stamina](../health/stamina.md) increases to +21, and you instinctively know the location of any creature with [concealment](../combat/concealment.md) within 10 squares. Your invisibility no longer ends when you use an ability, and you have psychic immunity 10.
 
 ### Telekinetic Bulwark {data-scc="mcdm.heroes.v1/treasure.leveled.armor/telekinetic-bulwark"}
 
@@ -226,11 +226,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wield or carry this shield, you gain a +2 bonus to Stamina. This Stamina bonus adds to the Stamina bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the [Grab](../../feature/common/maneuvers/grab.md) maneuver against that enemy. You can have any number of enemies [grabbed](../../condition/grabbed.md) in this way.
+**1st Level:** While you wield or carry this shield, you gain a +2 bonus to [Stamina](../health/stamina.md). This [Stamina](../health/stamina.md) bonus adds to the [Stamina](../health/stamina.md) bonus granted by other treasures. Additionally, once per turn when an adjacent enemy uses an ability, you can use a free triggered action to use the [Grab](../../feature/common/maneuvers/grab.md) maneuver against that enemy. You can have any number of enemies [grabbed](../../condition/grabbed.md) in this way.
 
-**5th Level:** The shield's bonus to Stamina increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver while [grabbed](../../condition/grabbed.md) this way takes a bane on the test.
+**5th Level:** The shield's bonus to [Stamina](../health/stamina.md) increases to +5, and you can use the shield's free triggered action against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver while [grabbed](../../condition/grabbed.md) this way takes a bane on the test.
 
-**9th Level:** The shield's bonus to Stamina increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](../../condition/grabbed.md) up to 5 squares.
+**9th Level:** The shield's bonus to [Stamina](../health/stamina.md) increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](../../condition/grabbed.md) up to 5 squares.
 
 ## Leveled Implement Treasures
 
@@ -250,11 +250,11 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **Project Goal:** 450
 
-**1st Level:** While you wield this implement, your magic or psionic abilities that deal rolled damage gain a +1 damage bonus. Additionally, whenever you deal rolled damage to a creature using a magic or psionic ability, you gain temporary Stamina equal to your highest characteristic score.
+**1st Level:** While you wield this implement, your magic or psionic abilities that deal rolled damage gain a +1 damage bonus. Additionally, whenever you deal rolled damage to a creature using a magic or psionic ability, you gain [temporary Stamina](../health/temporary-stamina.md) equal to your highest characteristic score.
 
 **5th Level:** The implement's damage bonus increases to +2. Additionally, whenever you deal rolled damage using a magic or psionic ability, you can use a maneuver to create an immobile field of protection that is a 1 cube, around yourself or around an ally within 5 squares. While in the area, you or the chosen ally has damage immunity 5. The field disappears at the start of your next turn.
 
-**9th Level:** The implement's damage bonus increases to +3. Whenever you deal rolled damage to a creature using a magic or psionic ability, you and each ally within 5 squares of you gains temporary Stamina equal to your highest characteristic score. Additionally, the size of your field of protection increases to a 3 cube, and it can be placed anywhere within 10 squares of you. You and each ally in the area gain its benefits.
+**9th Level:** The implement's damage bonus increases to +3. Whenever you deal rolled damage to a creature using a magic or psionic ability, you and each ally within 5 squares of you gains [temporary Stamina](../health/temporary-stamina.md) equal to your highest characteristic score. Additionally, the size of your field of protection increases to a 3 cube, and it can be placed anywhere within 10 squares of you. You and each ally in the area gain its benefits.
 
 ### Brittlebreaker {data-scc="mcdm.heroes.v1/treasure.leveled.implement/brittlebreaker"}
 
@@ -270,7 +270,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **Project Goal:** 450
 
-**1st Level:** While you wield this implement, your magic or psionic abilities that deal rolled damage deal an extra 2 psychic damage. Additionally, you have damage weakness 3, and you gain an edge on magic or psionic abilities if you aren't at full Stamina, or a double edge if you are winded.
+**1st Level:** While you wield this implement, your magic or psionic abilities that deal rolled damage deal an extra 2 psychic damage. Additionally, you have damage weakness 3, and you gain an edge on magic or psionic abilities if you aren't at full [Stamina](../health/stamina.md), or a double edge if you are [winded](../health/winded.md).
 
 **5th Level:** The implement's extra psychic damage increases to 3. Additionally, once per round when you take more than 20 damage from a single source, the implement's extra damage is doubled until the end of your next turn.
 
@@ -354,7 +354,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **5th Level:** While the tome is open, the bonus to distance for your ranged magic or psionic abilities increases to +5. Additionally, when you or a creature you have line of effect to uses a magic or psionic ability, you can use a triggered action to grant a +3 bonus to the power roll.
 
-**9th Level:** While the tome is open, you automatically obtain a tier 3 outcome on Reason tests made to recall lore, and when you use a heroic ability, its Heroic Resource cost is reduced by 1 (to a minimum of 1).
+**9th Level:** While the tome is open, you automatically obtain a tier 3 outcome on Reason tests made to recall lore, and when you use a heroic ability, its [Heroic Resource](../resource/heroic-resource.md) cost is reduced by 1 (to a minimum of 1).
 
 ## Leveled Weapon Treasures
 
@@ -438,7 +438,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **5th Level:** The weapon's extra psychic damage increases to 2. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to trade places with that creature or any creature within 4 squares of them, provided you both fit into each other's spaces.
 
-**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to trade places with that creature or any creature within 8 squares of them, provided you both fit into each other's spaces. Additionally, you can cause the creature you traded places with to be [weakened](../../condition/weakened.md) until the end of their next turn, or you can spend a Recovery.
+**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, whenever you deal rolled damage to a creature, you can use a maneuver to trade places with that creature or any creature within 8 squares of them, provided you both fit into each other's spaces. Additionally, you can cause the creature you traded places with to be [weakened](../../condition/weakened.md) until the end of their next turn, or you can spend a [Recovery](../health/recoveries.md).
 
 ### Executioner's Blade {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/executioners-blade"}
 
@@ -454,11 +454,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage, or an extra 2 psychic damage if the target is winded. Additionally, the first time in an encounter that you cause an enemy to become winded with an ability using the weapon, you gain 10 temporary Stamina.
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage, or an extra 2 psychic damage if the target is [winded](../health/winded.md). Additionally, the first time in an encounter that you cause an enemy to become [winded](../health/winded.md) with an ability using the weapon, you gain 10 [temporary Stamina](../health/temporary-stamina.md).
 
-**5th Level:** The weapon's extra psychic damage increases to 2, or to 4 if the target is winded. Additionally, whenever you cause an enemy to become winded with an ability using the weapon, you gain 2 surges that you can immediately spend.
+**5th Level:** The weapon's extra psychic damage increases to 2, or to 4 if the target is [winded](../health/winded.md). Additionally, whenever you cause an enemy to become [winded](../health/winded.md) with an ability using the weapon, you gain 2 [surges](../resource/surge.md) that you can immediately spend.
 
-**9th Level:** The weapon's extra psychic damage increases to 3, or to 6 if the target is winded. Additionally, you gain an edge on any ability using the weapon against a winded target.
+**9th Level:** The weapon's extra psychic damage increases to 3, or to 6 if the target is [winded](../health/winded.md). Additionally, you gain an edge on any ability using the weapon against a [winded](../health/winded.md) target.
 
 ### Icemaker Maul {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/icemaker-maul"}
 
@@ -476,9 +476,9 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 cold damage. Additionally, you can use a maneuver to create an ice field in a 3 burst. The ground in this area is [difficult terrain](../../movement/difficult-terrain.md) for enemies, and lasts until the end of the encounter or when you use this ability again.
 
-**5th Level:** The weapon's extra cold damage increases to 2, and the ice field becomes a 4 burst. Additionally, whenever you use a weapon ability using this weapon against one or more enemies in the ice field, you gain 1 surge that you can use immediately.
+**5th Level:** The weapon's extra cold damage increases to 2, and the ice field becomes a 4 burst. Additionally, whenever you use a weapon ability using this weapon against one or more enemies in the ice field, you gain 1 [surge](../resource/surge.md) that you can use immediately.
 
-**9th Level:** The weapon's extra cold damage increases to 3, and the ice field becomes a 5 burst. Additionally, any enemy in the ice field who is reduced to 0 Stamina by an ability using the weapon can be shattered, killing them and dealing 15 cold damage to each enemy within 3 squares of them.
+**9th Level:** The weapon's extra cold damage increases to 3, and the ice field becomes a 5 burst. Additionally, any enemy in the ice field who is reduced to 0 [Stamina](../health/stamina.md) by an ability using the weapon can be shattered, killing them and dealing 15 cold damage to each enemy within 3 squares of them.
 
 ### Knife of Nine {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/knife-of-nine"}
 
@@ -496,7 +496,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. This extra damage increases by 1 each time you deal rolled damage using the weapon to the same target during the same encounter (to a maximum of 3).
 
-**5th Level:** Whenever you reduce a creature to 0 Stamina with an ability using this weapon, one of its indentations glows brighter. When you use a signature ability using the weapon, you can use a triggered action to expend any number of bright-glowing indentations, with the ability dealing extra psychic damage equal to the number of indentations. The expended indentations then return to a dim glow.
+**5th Level:** Whenever you reduce a creature to 0 [Stamina](../health/stamina.md) with an ability using this weapon, one of its indentations glows brighter. When you use a signature ability using the weapon, you can use a triggered action to expend any number of bright-glowing indentations, with the ability dealing extra psychic damage equal to the number of indentations. The expended indentations then return to a dim glow.
 
 **9th Level:** If you make a weapon strike using this weapon against a target after dropping down on them from a height of 2 squares or more, the attack deals an extra 10 psychic damage. You can distribute all extra psychic damage dealt by the attack between the target and any enemies adjacent to them.
 
@@ -632,11 +632,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, if you reduce a creature to 0 Stamina using this weapon, you can immediately use a maneuver to make a melee [free strike](../../feature/common/main-actions/free-strike.md).
+**1st Level:** Any weapon ability that deals rolled damage using this weapon deals an extra 1 psychic damage. Additionally, if you reduce a creature to 0 [Stamina](../health/stamina.md) using this weapon, you can immediately use a maneuver to make a melee [free strike](../../feature/common/main-actions/free-strike.md).
 
-**5th Level:** The weapon's extra psychic damage increases to 2. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to make a melee [free strike](../../feature/common/main-actions/free-strike.md) and can move up to 2 squares before or after the strike.
+**5th Level:** The weapon's extra psychic damage increases to 2. Additionally, if you reduce a creature to 0 [Stamina](../health/stamina.md) using the weapon, you can use a maneuver to make a melee [free strike](../../feature/common/main-actions/free-strike.md) and can move up to 2 squares before or after the strike.
 
-**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 Stamina using the weapon, you can use a maneuver to move up to your speed and make either a signature ability strike or a melee [free strike](../../feature/common/main-actions/free-strike.md).
+**9th Level:** The weapon's extra psychic damage increases to 3. Additionally, if you reduce a creature to 0 [Stamina](../health/stamina.md) using the weapon, you can use a maneuver to move up to your speed and make either a signature ability strike or a melee [free strike](../../feature/common/main-actions/free-strike.md).
 
 ## Other Leveled Treasures
 
@@ -656,11 +656,11 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this ring, you gain a +6 bonus to Stamina. Additionally, during a respite, you can touch the ring to any number of other Bloodbound Bands worn by willing creatures to form a bond among all of you. Creatures related by blood can't form bonds in this way. Bonded creatures can each use the highest recovery value of any bonded creature in place of their own, and can spend each other's Recoveries as if they were their own. Whenever any other bonded creature takes damage, each bonded creature takes 1 damage that can't be reduced in any way. Your bond ends if you remove the ring, use it to bond with one or more other creatures, or die, but other rings continue to be bonded to each other.
+**1st Level:** While you wear this ring, you gain a +6 bonus to [Stamina](../health/stamina.md). Additionally, during a respite, you can touch the ring to any number of other Bloodbound Bands worn by willing creatures to form a bond among all of you. Creatures related by blood can't form bonds in this way. Bonded creatures can each use the highest [recovery value](../health/recoveries.md) of any bonded creature in place of their own, and can spend each other's [Recoveries](../health/recoveries.md) as if they were their own. Whenever any other bonded creature takes damage, each bonded creature takes 1 damage that can't be reduced in any way. Your bond ends if you remove the ring, use it to bond with one or more other creatures, or die, but other rings continue to be bonded to each other.
 
-**5th Level:** The ring's bonus to Stamina increases to +12. Additionally, you have damage immunity 2.
+**5th Level:** The ring's bonus to [Stamina](../health/stamina.md) increases to +12. Additionally, you have damage immunity 2.
 
-**9th Level:** The ring's bonus to Stamina increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain Stamina equal to their winded value. Your ring then [teleports](../../movement/teleport.md) into their possession and ceases to be magic.
+**9th Level:** The ring's bonus to [Stamina](../health/stamina.md) increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain [Stamina](../health/stamina.md) equal to their [winded](../health/winded.md) value. Your ring then [teleports](../../movement/teleport.md) into their possession and ceases to be magic.
 
 ### Bloody Hand Wraps {data-scc="mcdm.heroes.v1/treasure.leveled.other/bloody-hand-wraps"}
 
@@ -736,10 +736,10 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **Project Goal:** 450
 
-**1st Level:** While you wear this torque, you gain a bonus to Stamina equal to twice your highest characteristic score. Additionally, you can use a maneuver to choose a creature in your line of effect and learn their level. If their level is higher than yours, the torque grants you envy. If their level is equal to or lower than yours, the torque grants you disdain. You can have both envy and disdain from different creatures, but not more than one instance of either.
+**1st Level:** While you wear this torque, you gain a bonus to [Stamina](../health/stamina.md) equal to twice your highest characteristic score. Additionally, you can use a maneuver to choose a creature in your line of effect and learn their level. If their level is higher than yours, the torque grants you envy. If their level is equal to or lower than yours, the torque grants you disdain. You can have both envy and disdain from different creatures, but not more than one instance of either.
 
 Whenever a creature within 10 squares of you deals damage to another creature, you can use a triggered action to expend your envy or disdain. If you expend envy, you deal damage equal to the triggering damage to a creature adjacent to you. If you expend disdain, you reduce the triggering damage by half. At the end of the encounter, you lose any envy or disdain granted by the torque.
 
-**5th Level:** The torque's bonus to Stamina increases to three times your highest characteristic score. Additionally, when you use the torque's maneuver and the target creature is the same level as you, you gain your choice of envy or disdain.
+**5th Level:** The torque's bonus to [Stamina](../health/stamina.md) increases to three times your highest characteristic score. Additionally, when you use the torque's maneuver and the target creature is the same level as you, you gain your choice of envy or disdain.
 
-**9th Level:** The torque's bonus to Stamina increases to five times your highest characteristic score. Additionally, you can have multiple instances of envy and disdain, with no limit on either.
+**9th Level:** The torque's bonus to [Stamina](../health/stamina.md) increases to five times your highest characteristic score. Additionally, you can have multiple instances of envy and disdain, with no limit on either.

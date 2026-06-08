@@ -35,11 +35,11 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 **Strong Potency:** Intuition
 
-**Starting Stamina at 1st Level:** 21
+**Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 21
 
-**Stamina Gained at 2nd and Higher Levels:** 9
+**[Stamina](../rule/health/stamina.md) Gained at 2nd and Higher Levels:** 9
 
-**Recoveries:** 8
+**[Recoveries](../rule/health/recoveries.md):** 8
 
 **Skills:** You gain the [Psionics](../skill/psionics.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, [Read Person](../skill/read-person.md), Timescape.)
 
@@ -74,7 +74,7 @@ Your [null tradition](../feature/null/level-1/null-tradition.md) is your subclas
 
 ### Discipline {data-scc="mcdm.heroes.v1/feature.null.level-1/discipline"}
 
-As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called discipline.
+As your mastery of your body and tradition grows, it imbues you with a [Heroic Resource](../rule/resource/heroic-resource.md) called discipline.
 
 #### Discipline in Combat
 
@@ -111,7 +111,7 @@ Once as a free maneuver on each of your turns, you can spend 1 discipline and gi
 - Inertial Anchor: Any target who starts their turn in the area can't [shift](../movement/shifting.md).
 - Synaptic Break: Whenever you or any ally uses an ability against a target that has a potency effect, the potency is increased by 1.
 
-This ability remains active even after an encounter ends. It ends only if you are dying or if you willingly end it (no action required).
+This ability remains active even after an encounter ends. It ends only if you are [dying](../rule/health/dying.md) or if you willingly end it (no action required).
 
 ### Inertial Shield {data-scc="mcdm.heroes.v1/feature.null.level-1/inertial-shield"}
 
@@ -149,11 +149,11 @@ Additionally, as your discipline grows, your psionic mastery of your body intens
 | Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can use the [Disengage](../feature/common/move-actions/disengage.md) move action as a free triggered action either before or after the maneuver.                                              |
-| 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 surge.                                                                                 |
+| 4               | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 1 [surge](../rule/resource/surge.md).                                                                                 |
 | 6               | You gain an edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
-| 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 surges.                                                                                |
+| 8 (4th level)   | The first time on a turn that you willingly move 1 or more squares as part of an ability, you gain 2 [surges](../rule/resource/surge.md).                                                                                |
 | 10 (7th level)  | You have a double edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
-| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
+| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). |
 
 #### Cryokinetic Mastery {data-scc="mcdm.heroes.v1/feature.null.level-1/cryokinetic-mastery"}
 
@@ -166,11 +166,11 @@ Additionally, as your discipline grows, you strengthen the psionic power suffusi
 | Discipline      | Benefit                                                                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature. Additionally, whenever you deal untyped damage with a psionic ability, you can change it to cold damage instead. |
-| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../feature/null/level-1/null-field.md) ability, you gain 1 surge.                                                   |
+| 4               | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../feature/null/level-1/null-field.md) ability, you gain 1 [surge](../rule/resource/surge.md).                                                   |
 | 6               | You gain an edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                             |
-| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../feature/null/level-1/null-field.md) ability, you gain 2 surges.                                                  |
+| 8 (4th level)   | The first time on a turn that you grab a creature or an enemy moves 1 or more squares in the area of your [Null Field](../feature/null/level-1/null-field.md) ability, you gain 2 [surges](../rule/resource/surge.md).                                                  |
 | 10 (7th level)  | You have a double edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
-| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina.       |
+| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md).       |
 
 #### Metakinetic Mastery {data-scc="mcdm.heroes.v1/feature.null.level-1/metakinetic-mastery"}
 
@@ -183,11 +183,11 @@ Additionally, as your discipline grows, your psionic potential is amplified, gra
 | Discipline      | Benefit                                                                                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score.                                                                          |
-| 4               | The first time in a combat round that you take damage or are [force moved](../movement/forced-movement.md), you gain 1 surge, even if you resist the effect.                                                                  |
+| 4               | The first time in a combat round that you take damage or are [force moved](../movement/forced-movement.md), you gain 1 [surge](../rule/resource/surge.md), even if you resist the effect.                                                                  |
 | 6               | You gain an edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                       |
-| 8 (4th level)   | The first time in a combat round that you take damage or are [force moved](../movement/forced-movement.md), you gain 2 surges, even if you resist the effect.                                                                 |
+| 8 (4th level)   | The first time in a combat round that you take damage or are [force moved](../movement/forced-movement.md), you gain 2 [surges](../rule/resource/surge.md), even if you resist the effect.                                                                 |
 | 10 (7th level)  | You have a double edge on the [Grab](../feature/common/maneuvers/grab.md) and [Knockback](../feature/common/maneuvers/knockback.md) maneuvers.                                                                                                                                 |
-| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 temporary Stamina. |
+| 12 (10th level) | Whenever you force move a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Intuition score. Additionally, whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). |
 
 ### Null Speed {data-scc="mcdm.heroes.v1/feature.null.level-1/null-speed"}
 
@@ -199,7 +199,7 @@ Your training has turned your body into the perfect psionic weapon, shaping path
 
 #### Density Augmentation {data-scc="mcdm.heroes.v1/feature.null.level-1/density-augmentation"}
 
-You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
+You gain a +6 bonus to [Stamina](../rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
 
 #### Force Augmentation {data-scc="mcdm.heroes.v1/feature.null.level-1/force-augmentation"}
 
@@ -585,7 +585,7 @@ Choose one of the following heroic abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the start of your next turn, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
+**Effect:** Until the start of your next turn, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1, and you and any ally benefit from [concealment](../rule/combat/concealment.md) while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.
 
 #### 2nd-Level Metakinetic Ability
 
@@ -617,11 +617,11 @@ Choose one of the following abilities.
 
 **Power Roll + Intuition:**
 
-- **≤11:** You gain 10 temporary Stamina.
-- **12-16:** You gain 15 temporary Stamina.
-- **17+:** You gain 20 temporary Stamina.
+- **≤11:** You gain 10 [temporary Stamina](../rule/health/temporary-stamina.md).
+- **12-16:** You gain 15 [temporary Stamina](../rule/health/temporary-stamina.md).
+- **17+:** You gain 20 [temporary Stamina](../rule/health/temporary-stamina.md).
 
-**Effect:** While you have temporary Stamina from this ability, you can't be made [bleeding](../condition/bleeding.md) even while dying.
+**Effect:** While you have [temporary Stamina](../rule/health/temporary-stamina.md) from this ability, you can't be made [bleeding](../condition/bleeding.md) even while [dying](../rule/health/dying.md).
 
 ## 3rd-Level Features
 
@@ -659,7 +659,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
+**Effect:** Until the end of the encounter, the size of your [Null Field](../feature/null/level-1/null-field.md) ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is [bleeding](../condition/bleeding.md) (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your Intuition score.
 
 #### Stabilizing Field {data-scc="mcdm.heroes.v1/feature.ability.null.level-3/stabilizing-field"}
 
@@ -729,7 +729,7 @@ Your [null tradition](../feature/null/level-1/null-tradition.md) grants you a fe
 
 ### Chilling Readiness {data-scc="mcdm.heroes.v1/feature.null.level-5/chilling-readiness"}
 
-You steel yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of surges equal to your Victories.
+You steel yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of [surges](../rule/resource/surge.md) equal to your Victories.
 
 ### Inertial Fulcrum {data-scc="mcdm.heroes.v1/feature.null.level-5/inertial-fulcrum"}
 
@@ -737,7 +737,7 @@ Whenever you use an ability to reduce damage dealt to you or to reduce the dista
 
 ### Instant Action {data-scc="mcdm.heroes.v1/feature.null.level-5/instant-action"}
 
-If you're not surprised at the start of your first turn in combat, you gain an edge on ability rolls and gain 2 surges. If you are surprised, you can spend 3 discipline to no longer be surprised and gain the benefits of this feature.
+If you're not surprised at the start of your first turn in combat, you gain an edge on ability rolls and gain 2 [surges](../rule/resource/surge.md). If you are surprised, you can spend 3 discipline to no longer be surprised and gain the benefits of this feature.
 
 ### 9-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-5/9-discipline-ability"}
 
@@ -799,7 +799,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 |-------------------|--------------------------------------:|
 | **📏 3 burst**    | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can end any conditions or effects on themself, and gains 5 temporary Stamina for each condition or effect removed.
+**Effect:** Each target can end any conditions or effects on themself, and gains 5 [temporary Stamina](../rule/health/temporary-stamina.md) for each condition or effect removed.
 
 ## 6th-Level Features
 
@@ -811,7 +811,7 @@ Whenever you use your [Inertial Shield](../feature/ability/null/level-1/inertial
 
 ### Elemental Buffer {data-scc="mcdm.heroes.v1/feature.null.level-6/elemental-buffer"}
 
-Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with damage immunity, you gain 2 surges that can be used only to increase the damage of your next strike.
+Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with damage immunity, you gain 2 [surges](../rule/resource/surge.md) that can be used only to increase the damage of your next strike.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.null.level-6/perk"}
 
@@ -883,7 +883,7 @@ Choose one of the following abilities.
 |---------------------------|----------------:|
 | **📏 10 wall within 10**  |  **🎯 Special** |
 
-**Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](../condition/slowed.md) (save ends). Each enemy who is [force moved](../movement/forced-movement.md) into the wall and has M < AVERAGE is [restrained](../condition/restrained.md) (save ends).
+**Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are [dying](../rule/health/dying.md). The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M < AVERAGE is [slowed](../condition/slowed.md) (save ends). Each enemy who is [force moved](../movement/forced-movement.md) into the wall and has M < AVERAGE is [restrained](../condition/restrained.md) (save ends).
 
 #### 6th-Level Metakinetic Abilities
 
@@ -915,7 +915,7 @@ Choose one of the following abilities.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You gain 20 temporary Stamina. Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score.
+**Effect:** You gain 20 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score.
 
 ## 7th-Level Features
 
@@ -999,7 +999,7 @@ When you take the [Disengage](../feature/common/move-actions/disengage.md) move 
 
 #### Synaptic Triage {data-scc="mcdm.heroes.v1/feature.null.level-8/synaptic-triage"}
 
-As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null Field](../feature/null/level-1/null-field.md) ability also gains this benefit.
+As a free maneuver, you can spend 1d6 [Stamina](../rule/health/stamina.md) to remove one effect on you. Each creature of your choice in the area of your [Null Field](../feature/null/level-1/null-field.md) ability also gains this benefit.
 
 ### 11-Discipline Ability {data-scc="mcdm.heroes.v1/feature.null.level-8/11-discipline-ability"}
 
@@ -1073,7 +1073,7 @@ As a 9th-level [null](null.md), you gain the following features.
 
 ### I Am the Weapon {data-scc="mcdm.heroes.v1/feature.null.level-9/i-am-the-weapon"}
 
-Your Stamina increases by 21 and you can't be made [bleeding](../condition/bleeding.md) even while dying. You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
+Your [Stamina](../rule/health/stamina.md) increases by 21 and you can't be made [bleeding](../condition/bleeding.md) even while [dying](../rule/health/dying.md). You no longer age or have need of food. Additionally, you can use Intuition instead of another characteristic when resisting potencies.
 
 ### 9th-Level Tradition Ability {data-scc="mcdm.heroes.v1/feature.null.level-9/9th-level-tradition-ability"}
 
@@ -1130,11 +1130,11 @@ Choose one of the following abilities.
 
 **Power Roll + Intuition:**
 
-- **≤11:** You gain 20 temporary Stamina.
-- **12-16:** You gain 30 temporary Stamina.
-- **17+:** You gain 40 temporary Stamina.
+- **≤11:** You gain 20 [temporary Stamina](../rule/health/temporary-stamina.md).
+- **12-16:** You gain 30 [temporary Stamina](../rule/health/temporary-stamina.md).
+- **17+:** You gain 40 [temporary Stamina](../rule/health/temporary-stamina.md).
 
-**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](../feature/null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of dying, and you have a +2 bonus to potencies.
+**Effect:** Until the end of the encounter or until you are dead, you become an avatar of uttermost cold. You gain immunity to all damage equal to the cold damage immunity granted by your [Entropic Adaptability](../feature/null/level-2/entropic-adaptability.md) trait, you ignore the negative effects of [dying](../rule/health/dying.md), and you have a +2 bonus to potencies.
 
 ##### Heat Drain {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/heat-drain"}
 
@@ -1168,7 +1168,7 @@ Choose one of the following abilities.
 
 **Trigger:** Another creature damages you using an ability.
 
-**Effect:** You take half the damage, negate any effects associated with the damage for you, and gain 3 surges.
+**Effect:** You take half the damage, negate any effects associated with the damage for you, and gain 3 [surges](../rule/resource/surge.md).
 
 ##### Realitas {data-scc="mcdm.heroes.v1/feature.ability.null.level-9/realitas"}
 
@@ -1185,7 +1185,7 @@ Choose one of the following abilities.
 - **12-16:** 10 + A psychic damage; I < AVERAGE, [dazed](../condition/dazed.md)
 - **17+:** 13 + A psychic damage; I < STRONG, [dazed](../condition/dazed.md)
 
-**Effect:** While [dazed](../condition/dazed.md) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become winded, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
+**Effect:** While [dazed](../condition/dazed.md) this way, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability causes a creature who is not a leader or solo creature to become [winded](../rule/health/winded.md), they are instead reduced to 0 [Stamina](../rule/health/stamina.md). Any creature reduced to 0 [Stamina](../rule/health/stamina.md) by this ability is forgotten by all creatures of your level or lower in the timescape who are not present in the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy. This effect can be reversed only at the Director's discretion.
 
 ## 10th-Level Features
 

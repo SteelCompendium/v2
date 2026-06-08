@@ -54,6 +54,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>

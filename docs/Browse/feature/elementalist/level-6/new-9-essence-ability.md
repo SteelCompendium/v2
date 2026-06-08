@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has a +3 bonus to speed, they can <a href="../../../../movement/fly/">fly</a>, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.</p></div>
+<div class="sc-ability__section-body"><p>The target has a +3 bonus to speed, they can <a href="../../../../movement/fly/">fly</a>, and their abilities ignore <a href="../../../../rule/combat/concealment/">concealment</a>. Additionally, whenever the target gains their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, they gain 1 additional <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>. This effect lasts until the start of your next turn.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>
@@ -67,7 +67,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
-<div class="sc-ability__section-body"><p>The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 Recoveries.</p></div>
+<div class="sc-ability__section-body"><p>The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 <a href="../../../../rule/health/recoveries/">Recoveries</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -115,11 +115,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies, and any ally who ends their turn in the area has cover.</p></div>
+<div class="sc-ability__section-body"><p>The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies, and any ally who ends their turn in the area has <a href="../../../../rule/combat/cover/">cover</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
-<div class="sc-ability__section-body"><p>The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
 </div>

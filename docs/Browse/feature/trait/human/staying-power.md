@@ -18,6 +18,6 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your <a href="../../../../ancestry/human/">human</a> physiology allows you to fight, run, and stay awake longer than others. You increase your number of Recoveries by 2.</p>
+<p>Your <a href="../../../../ancestry/human/">human</a> physiology allows you to fight, run, and stay awake longer than others. You increase your number of <a href="../../../../rule/health/recoveries/">Recoveries</a> by 2.</p>
 </div>
 </section>

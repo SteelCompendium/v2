@@ -2,14 +2,14 @@
 action_type: Maneuver
 class: shadow
 distance: Self
-effect: You gain 2 surges. Additionally, whenever you use a surge before the end of the encounter, you can choose to have it deal poison damage.
+effect: You gain 2 [surges](../../../../rule/resource/surge.md). Additionally, whenever you use a [surge](../../../../rule/resource/surge.md) before the end of the encounter, you can choose to have it deal poison damage.
 flavor: A little poison goes a long way.
 keywords:
     - '-'
 level: "1"
 name: Coat the Blade
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/coat-the-blade
-spend: '1+ Insight: For each insight you spend, you gain 1 additional surge.'
+spend: '1+ Insight: For each insight you spend, you gain 1 additional [surge](../../../../rule/resource/surge.md).'
 target: Self
 type: ability
 ---
@@ -35,7 +35,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 2 surges. Additionally, whenever you use a surge before the end of the encounter, you can choose to have it deal poison damage.</p></div>
+<div class="sc-ability__section-body"><p>You gain 2 <a href="../../../../../rule/resource/surge/">surges</a>. Additionally, whenever you use a <a href="../../../../../rule/resource/surge/">surge</a> before the end of the encounter, you can choose to have it deal poison damage.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1+ Insight</span><span class="txt">For each insight you spend, you gain 1 additional surge.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1+ Insight</span><span class="txt">For each insight you spend, you gain 1 additional <a href="../../../../../rule/resource/surge/">surge</a>.</span></div>
 </article>

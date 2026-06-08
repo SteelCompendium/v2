@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 11 Piety
 distance: Ranged 10
-effect: Each ally the target comes adjacent to during the [forced movement](../../../../movement/forced-movement.md) can spend a Recovery.
+effect: Each ally the target comes adjacent to during the [forced movement](../../../../movement/forced-movement.md) can spend a [Recovery](../../../../rule/health/recoveries.md).
 flavor: You conjure an angel who moves a foe and heals your allies.
 keywords:
     - Magic
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally the target comes adjacent to during the <a href="../../../../../movement/forced-movement/">forced movement</a> can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>Each ally the target comes adjacent to during the <a href="../../../../../movement/forced-movement/">forced movement</a> can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>

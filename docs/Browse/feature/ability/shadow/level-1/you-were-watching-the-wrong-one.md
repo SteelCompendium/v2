@@ -2,7 +2,7 @@
 action_type: Main action
 class: shadow
 distance: Melee 1
-effect: As long as you have one or more allies within 5 squares of the target, you gain 1 surge. If you are flanking the target when you use this ability, choose one ally who is flanking with you. That ally also gains 1 surge.
+effect: As long as you have one or more allies within 5 squares of the target, you gain 1 [surge](../../../../rule/resource/surge.md). If you are [flanking](../../../../rule/combat/flanking.md) the target when you use this ability, choose one ally who is [flanking](../../../../rule/combat/flanking.md) with you. That ally also gains 1 [surge](../../../../rule/resource/surge.md).
 flavor: They can't watch both of you at once.
 keywords:
     - Melee
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>As long as you have one or more allies within 5 squares of the target, you gain 1 surge. If you are flanking the target when you use this ability, choose one ally who is flanking with you. That ally also gains 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>As long as you have one or more allies within 5 squares of the target, you gain 1 <a href="../../../../../rule/resource/surge/">surge</a>. If you are <a href="../../../../../rule/combat/flanking/">flanking</a> the target when you use this ability, choose one ally who is <a href="../../../../../rule/combat/flanking/">flanking</a> with you. That ally also gains 1 <a href="../../../../../rule/resource/surge/">surge</a>.</p></div>
 </div>
 </article>

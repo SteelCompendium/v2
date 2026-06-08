@@ -35,11 +35,11 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **Strong Potency:** Reason
 
-**Starting Stamina at 1st Level:** 21
+**Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 21
 
-**Stamina Gained at 2nd and Higher Levels:** 9
+**[Stamina](../rule/health/stamina.md) Gained at 2nd and Higher Levels:** 9
 
-**Recoveries:** 10
+**[Recoveries](../rule/health/recoveries.md):** 10
 
 **Skills:** You gain the [Lead](../skill/lead.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy.)
 
@@ -74,7 +74,7 @@ Your [tactical doctrine](../feature/tactician/level-1/tactical-doctrine.md) is y
 
 ### Focus {data-scc="mcdm.heroes.v1/feature.tactician.level-1/focus"}
 
-The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.
+The ring of steel panics others but brings order to your mind, granting you a [Heroic Resource](../rule/resource/heroic-resource.md) called focus.
 
 #### Focus in Combat
 
@@ -157,7 +157,7 @@ Your [tactical doctrine](../feature/tactician/level-1/tactical-doctrine.md) gran
 
 **Trigger:** The target deals damage to another creature.
 
-**Effect:** The target gains 2 surges, which they can use on the triggering damage.
+**Effect:** The target gains 2 [surges](../rule/resource/surge.md), which they can use on the triggering damage.
 
 **Spend 1 Focus:** If the damage has any potency effect associated with it, the potency is increased by 1.
 
@@ -199,7 +199,7 @@ If both kits grant you the same benefit, you take one or the other and can't cha
 
 For example, if you take the [Shining Armor](../kit/shining-armor.md) and [Sniper](../kit/sniper.md) kits, you gain the following benefits overall:
 
-- Stamina Bonus: +12 per echelon
+- [Stamina](../rule/health/stamina.md) Bonus: +12 per echelon
 - Stability Bonus: +1
 - Melee Damage Bonus: +2/+2/+2
 - Ranged Damage Bonus: +0/+0/+4
@@ -223,14 +223,14 @@ You know how to focus the attention of your allies as you push them toward victo
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 One creature** |
 
-**Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](tactician.md) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
+**Effect:** The target is marked by you until the end of the encounter, until you are [dying](../rule/health/dying.md), or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another [tactician](tactician.md) marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 [Stamina](../rule/health/stamina.md), you can use a free triggered action to mark a new target within distance.
 
 You can initially mark only one creature using this ability, though other [tactician](tactician.md) abilities allow you to mark additional creatures at the same time. The mastermind [tactical doctrine](../feature/tactician/level-1/tactical-doctrine.md)'s [Anticipation](../feature/tactician/level-5/anticipation.md) feature allows you to target additional creatures with this ability starting at 5th level.
 
 While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:
 
 - The ability deals extra damage equal to twice your Reason score.
-- The creature dealing the damage can spend a Recovery.
+- The creature dealing the damage can spend a [Recovery](../rule/health/recoveries.md).
 - The creature dealing the damage can [shift](../movement/shifting.md) up to a number of squares equal to your Reason score.
 - If you damage a creature marked by you with a melee ability, the creature is [taunted](../condition/taunted.md) by you until the end of their next turn.
 
@@ -280,9 +280,9 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 
 **Power Roll + Reason:**
 
-- **≤11:** Each target gains 1 surge.
-- **12-16:** Each target gains 2 surges.
-- **17+:** Each target gains 3 surges.
+- **≤11:** Each target gains 1 [surge](../rule/resource/surge.md).
+- **12-16:** Each target gains 2 [surges](../rule/resource/surge.md).
+- **17+:** Each target gains 3 [surges](../rule/resource/surge.md).
 
 ##### Concussive Strike {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/concussive-strike"}
 
@@ -310,9 +310,9 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M damage; you or one ally within 10 squares of you can spend a Recovery
-- **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a Recovery
-- **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a Recovery, and each of you gains an edge on the next ability roll you make during the encounter
+- **≤11:** 3 + M damage; you or one ally within 10 squares of you can spend a [Recovery](../rule/health/recoveries.md)
+- **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a [Recovery](../rule/health/recoveries.md)
+- **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a [Recovery](../rule/health/recoveries.md), and each of you gains an edge on the next ability roll you make during the encounter
 
 ##### Squad! Forward! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/squad-forward"}
 
@@ -344,7 +344,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 - **12-16:** 9 + M damage; one ally within 10 squares of you can use a strike signature ability that gains an edge against the target as a free triggered action
 - **17+:** 12 + M damage; two allies within 10 squares of you can each use a strike signature ability that gains an edge against the target as a free triggered action
 
-**Effect:** If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.
+**Effect:** If the target is reduced to 0 [Stamina](../rule/health/stamina.md) before one or both chosen allies has made their strike, the ally or allies can pick a different target.
 
 #### Mind Game {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/mind-game"}
 
@@ -363,7 +363,7 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 - **12-16:** 6 + M damage; R < AVERAGE, [weakened](../condition/weakened.md) (save ends)
 - **17+:** 10 + M damage; R < STRONG, [weakened](../condition/weakened.md) (save ends)
 
-**Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.
+**Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a [Recovery](../rule/health/recoveries.md).
 
 #### Now! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-1/now"}
 
@@ -413,7 +413,7 @@ You have learned to leverage your marked foes' psychology and goad them into act
 
 #### Infiltration Tactics {data-scc="mcdm.heroes.v1/feature.tactician.level-2/infiltration-tactics"}
 
-You have trained your squad to work together, stay silent, and wait for the opportune time to strike. Whenever you or any ally within 10 squares of you becomes hidden, that creature gains 1 surge.
+You have trained your squad to work together, stay silent, and wait for the opportune time to strike. Whenever you or any ally within 10 squares of you becomes hidden, that creature gains 1 [surge](../rule/resource/surge.md).
 
 #### Melee Superiority {data-scc="mcdm.heroes.v1/feature.tactician.level-2/melee-superiority"}
 
@@ -451,7 +451,7 @@ Choose one of the following abilities.
 |---------------------------|----------------:|
 | **📏 Self; see below**    |     **🎯 Self** |
 
-**Effect:** You [shift](../movement/shifting.md) up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.
+**Effect:** You [shift](../movement/shifting.md) up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other's spaces. The ally can spend a [Recovery](../rule/health/recoveries.md), and you can make the following weapon strike with a distance of melee 1 against a creature.
 
 **Power Roll + Reason:**
 
@@ -478,7 +478,7 @@ Choose one of the following abilities.
 - **12-16:** 9 + R damage; [taunted](../condition/taunted.md) (EoT)
 - **17+:** 12 + R damage; [taunted](../condition/taunted.md) (EoT)
 
-**Effect:** One ally adjacent to the target can spend a Recovery.
+**Effect:** One ally adjacent to the target can spend a [Recovery](../rule/health/recoveries.md).
 
 ##### Targets of Opportunity {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-2/targets-of-opportunity"}
 
@@ -489,7 +489,7 @@ Choose one of the following abilities.
 |-----------------|---------------------:|
 | **📏 Ranged 5** | **🎯 Two creatures** |
 
-**Effect:** Each target is marked by you, and you gain two surges.
+**Effect:** Each target is marked by you, and you gain two [surges](../rule/resource/surge.md).
 
 **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.
 
@@ -508,7 +508,7 @@ Choose one of the following abilities.
 
 **Trigger:** The target deals damage to an ally.
 
-**Effect:** You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a Recovery and gains 5 temporary Stamina for each enemy you came adjacent to during the move. You then make a power roll against the target.
+**Effect:** You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../rule/health/recoveries.md) and gains 5 [temporary Stamina](../rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a power roll against the target.
 
 **Power Roll + Might:**
 
@@ -525,7 +525,7 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 1 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 surges.
+**Effect:** Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 [surges](../rule/resource/surge.md).
 
 ## 3rd-Level Features
 
@@ -533,7 +533,7 @@ As a 3rd-level [tactician](tactician.md), you gain the following features.
 
 ### Out of Position {data-scc="mcdm.heroes.v1/feature.tactician.level-3/out-of-position"}
 
-Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your Mark ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 squares, ignoring stability. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your Mark ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 squares, ignoring stability. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../rule/health/dying.md), or result in them suffering a condition or other negative effect.
 
 ### 7-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-3/7-focus-ability"}
 
@@ -548,7 +548,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../feature/common/main-actions/charge.md) main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](../feature/common/main-actions/free-strike.md).
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../feature/common/main-actions/charge.md) main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee [free strike](../feature/common/main-actions/free-strike.md).
 
 #### Hit 'Em Hard! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-3/hit-em-hard"}
 
@@ -559,7 +559,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, that creature gains 2 surges, which they can use immediately.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you, that creature gains 2 [surges](../rule/resource/surge.md), which they can use immediately.
 
 #### Rout {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-3/rout"}
 
@@ -570,7 +570,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](../condition/frightened.md) of the creature who dealt the damage (save ends).
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](../condition/frightened.md) of the creature who dealt the damage (save ends).
 
 #### Stay Strong and Focus! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-3/stay-strong-and-focus"}
 
@@ -581,7 +581,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a Recovery.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a [Recovery](../rule/health/recoveries.md).
 
 ## 4th-Level Features
 
@@ -629,7 +629,7 @@ You have learned to be more preemptive on the battlefield, thinking more steps a
 
 #### Distracted {data-scc="mcdm.heroes.v1/feature.tactician.level-5/distracted"}
 
-You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to hide, any creature marked by you doesn't count as an observer. Additionally, you and your allies can use other allies as cover for the purpose of hiding.
+You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to hide, any creature marked by you doesn't count as an observer. Additionally, you and your allies can use other allies as [cover](../rule/combat/cover.md) for the purpose of hiding.
 
 #### I Predicted That {data-scc="mcdm.heroes.v1/feature.tactician.level-5/i-predicted-that"}
 
@@ -641,7 +641,7 @@ You and any ally within 10 squares of you can move at full speed while sneaking.
 
 #### Shake It Off {data-scc="mcdm.heroes.v1/feature.tactician.level-5/shake-it-off"}
 
-As a free maneuver, you can spend 1d6 Stamina to ignore a consequence from a test, or to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Any ally adjacent to you can also spend Stamina as a free maneuver to gain this benefit.
+As a free maneuver, you can spend 1d6 [Stamina](../rule/health/stamina.md) to ignore a consequence from a test, or to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Any ally adjacent to you can also spend [Stamina](../rule/health/stamina.md) as a free maneuver to gain this benefit.
 
 #### Tactical Offensive {data-scc="mcdm.heroes.v1/feature.tactician.level-5/tactical-offensive"}
 
@@ -666,7 +666,7 @@ Choose one heroic ability from the following options, each of which costs 9 focu
 - **12-16:** 13 + M damage
 - **17+:** 18 + M damage
 
-**Effect:** You and each ally adjacent to the target gain 10 temporary Stamina.
+**Effect:** You and each ally adjacent to the target gain 10 [temporary Stamina](../rule/health/temporary-stamina.md).
 
 #### Squad! Remember Your Training! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-5/squad-remember-your-training"}
 
@@ -677,7 +677,7 @@ Choose one heroic ability from the following options, each of which costs 9 focu
 |------------------------------|----------------------------------------:|
 | **📏 Ranged 10**  | **🎯 Self and two allies** |
 
-**Effect:** Each target gains 1 surge and can use a signature ability that has a double edge.
+**Effect:** Each target gains 1 [surge](../rule/resource/surge.md) and can use a signature ability that has a double edge.
 
 #### Win This Day! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-5/win-this-day"}
 
@@ -688,7 +688,7 @@ Choose one heroic ability from the following options, each of which costs 9 focu
 |----------------|--------------------------------------:|
 | **📏 3 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they [are prone](../condition/prone.md).
+**Effect:** Each target gains 2 [surges](../rule/resource/surge.md). Additionally, they can spend a [Recovery](../rule/health/recoveries.md), remove any conditions or effects on them, and stand up if they [are prone](../condition/prone.md).
 
 #### You've Still Got Something Left {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-5/youve-still-got-something-left"}
 
@@ -699,7 +699,7 @@ Choose one heroic ability from the following options, each of which costs 9 focu
 |------------------|----------------:|
 | **📏 Ranged 10** | **🎯 One ally** |
 
-**Effect:** The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its Heroic Resource cost reduced by 1 + your Reason score (minimum cost 0).
+**Effect:** The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its [Heroic Resource](../rule/resource/heroic-resource.md) cost reduced by 1 + your Reason score (minimum cost 0).
 
 ## 6th-Level Features
 
@@ -732,7 +732,7 @@ Choose one of the following abilities.
 
 **Trigger:** The target uses an ability to deal rolled damage to a creature while hidden.
 
-**Effect:** If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 Stamina. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's power roll automatically obtains a tier 3 outcome.
+**Effect:** If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 [Stamina](../rule/health/stamina.md). If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability's power roll automatically obtains a tier 3 outcome.
 
 ##### Panic in Their Lines {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-6/panic-in-their-lines"}
 
@@ -764,7 +764,7 @@ Choose one of the following abilities.
 |------------------|-----------------------:|
 | **📏 Ranged 10** | **🎯 Three creatures** |
 
-**Effect:** Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 surges.
+**Effect:** Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 [surges](../rule/resource/surge.md).
 
 **Mark Benefit:** Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to make the strike ignore damage immunity and deal extra damage equal to three times your Reason score.
 
@@ -777,7 +777,7 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 2 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** You mark two enemies within 10 squares of you. Each target can [shift](../movement/shifting.md) up to their speed. You and each target gain 2 surges.
+**Effect:** You mark two enemies within 10 squares of you. Each target can [shift](../movement/shifting.md) up to their speed. You and each target gain 2 [surges](../rule/resource/surge.md).
 
 #### 6th-Level Vanguard Abilities
 
@@ -817,7 +817,7 @@ Choose one of the following abilities.
 - **12-16:** 9 + M damage; one ally within 10 squares can use the [Charge](../feature/common/main-actions/charge.md) main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a [free strike](../feature/common/main-actions/free-strike.md) for the charge
 - **17+:** 13 + M damage; two allies within 10 squares can use the [Charge](../feature/common/main-actions/charge.md) main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a [free strike](../feature/common/main-actions/free-strike.md) for the charge
 
-**Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../condition/dazed.md) (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
+**Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are [dazed](../condition/dazed.md) (save ends). If the target is reduced to 0 [Stamina](../rule/health/stamina.md) before one or both allies has made their strike, the ally or allies can pick a different target.
 
 ## 7th-Level Features
 
@@ -914,7 +914,7 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 |------------------|------------------------:|
 | **📏 Ranged 10** | **🎯 Self or one ally** |
 
-**Effect:** The target gains 2 surges and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.
+**Effect:** The target gains 2 [surges](../rule/resource/surge.md) and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.
 
 #### Finish Them! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-8/finish-them"}
 
@@ -925,9 +925,9 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 One creature** |
 
-**Trigger:** The target is not a leader or solo creature, and becomes winded.
+**Trigger:** The target is not a leader or solo creature, and becomes [winded](../rule/health/winded.md).
 
-**Effect:** The target is killed. Additionally, the creature who caused the target to be winded can spend a Recovery.
+**Effect:** The target is killed. Additionally, the creature who caused the target to be [winded](../rule/health/winded.md) can spend a [Recovery](../rule/health/recoveries.md).
 
 #### Floodgates Open {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-8/floodgates-open"}
 
@@ -938,7 +938,7 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 |------------------|--------------------:|
 | **📏 Ranged 10** | **🎯 Three allies** |
 
-**Effect:** Each target gains 1 surge and can use a signature ability as a free triggered action. That ability gains an edge on the power roll and increases the potency of any potency effects by 1.
+**Effect:** Each target gains 1 [surge](../rule/resource/surge.md) and can use a signature ability as a free triggered action. That ability gains an edge on the power roll and increases the potency of any potency effects by 1.
 
 #### I'll Open and You'll Close {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-8/ill-open-and-youll-close"}
 
@@ -955,7 +955,7 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 - **12-16:** 10 + M damage
 - **17+:** 14 + M damage
 
-**Effect:** One ally within 10 squares of you can use a heroic ability against the target as a free triggered action without spending any of their Heroic Resource, as long as they have enough Heroic Resource to pay for the ability. If the target is reduced to 0 Stamina before the chosen ally has used their ability, the ally can pick a different target.
+**Effect:** One ally within 10 squares of you can use a heroic ability against the target as a free triggered action without spending any of their [Heroic Resource](../rule/resource/heroic-resource.md), as long as they have enough [Heroic Resource](../rule/resource/heroic-resource.md) to pay for the ability. If the target is reduced to 0 [Stamina](../rule/health/stamina.md) before the chosen ally has used their ability, the ally can pick a different target.
 
 ## 9th-Level Features
 
@@ -982,7 +982,7 @@ Choose one of the following abilities.
 |------------------|---------------------------:|
 | **📏 Ranged 10** | **🎯 Self and two allies** |
 
-**Effect:** Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can [shift](../movement/shifting.md) up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.
+**Effect:** Each target gains 2 [surges](../rule/resource/surge.md), and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can [shift](../movement/shifting.md) up to 2 squares and become hidden even if they have no [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md), or if they are observed.
 
 ##### Their Lack of Focus Is Their Undoing {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/their-lack-of-focus-is-their-undoing"}
 
@@ -1025,7 +1025,7 @@ Choose one of the following abilities.
 |-------------|----------------:|
 | **📏 Self** |     **🎯 Self** |
 
-**Effect:** You gain 6 surges. Until the end of the encounter or until you are dying, whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their Heroic Resource.
+**Effect:** You gain 6 [surges](../rule/resource/surge.md). Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their [Heroic Resource](../rule/resource/heroic-resource.md).
 
 #### 9th-Level Vanguard Abilities
 
@@ -1067,7 +1067,7 @@ Choose one of the following abilities.
 - **12-16:** 13 + M damage
 - **17+:** 17 + M damage
 
-**Effect:** Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a [free strike](../feature/common/main-actions/free-strike.md) against any target marked by you.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), you can use a signature or heroic ability instead of a [free strike](../feature/common/main-actions/free-strike.md) against any target marked by you.
 
 ## 10th-Level Features
 
@@ -1101,4 +1101,4 @@ When you gain focus at the start of each of your turns during combat, you gain 4
 
 You have mastered the entirety of possible strategies and tactics. Whenever you or any ally makes an ability roll against a target marked by you, the character making the roll can roll three dice and choose which two to use.
 
-Additionally, whenever an ally uses a heroic ability that targets one or more creatures marked by you, they spend 2 fewer of their Heroic Resource on that ability (minimum 1).
+Additionally, whenever an ally uses a heroic ability that targets one or more creatures marked by you, they spend 2 fewer of their [Heroic Resource](../rule/resource/heroic-resource.md) on that ability (minimum 1).

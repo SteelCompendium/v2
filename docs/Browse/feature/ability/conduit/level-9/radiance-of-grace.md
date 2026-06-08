@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 11 Piety
 distance: Ranged 10
-effect: You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../../../../condition/prone.md).
+effect: You can target yourself instead of one ally with this ability. Each target can spend any number of [Recoveries](../../../../rule/health/recoveries.md), can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they [are prone](../../../../condition/prone.md).
 flavor: Intense light is emitted from your body, healing your allies.
 keywords:
     - Magic
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they <a href="../../../../../condition/prone/">are prone</a>.</p></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability. Each target can spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they <a href="../../../../../condition/prone/">are prone</a>.</p></div>
 </div>
 </article>

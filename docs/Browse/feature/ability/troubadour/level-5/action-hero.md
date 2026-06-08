@@ -3,7 +3,7 @@ action_type: Main action
 class: troubadour
 cost: 9 Drama
 distance: 3 burst
-effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 Stamina.
+effect: Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](../../../../rule/health/stamina.md).
 flavor: You wield your weapon at blistering speed, leaving everyone around you fighting for their lives.
 keywords:
     - Area
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Unless you score a critical hit, this ability can&#39;t reduce a non-minion target below 1 Stamina.</p></div>
+<div class="sc-ability__section-body"><p>Unless you score a critical hit, this ability can&#39;t reduce a non-minion target below 1 <a href="../../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>

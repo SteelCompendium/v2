@@ -58,7 +58,7 @@ Combat takes place over a series of combat rounds. During a combat round, each c
 
 #### When Does Combat Start?
 
-Combat starts as soon as one creature intends to harm another, or when some environmental effect is in a position to deal damage to or impose other negative effects on one or more creatures. This means that even before the action happens, a hero can't use a heroic ability without spending their Heroic Resource on it, because combat has already begun!
+Combat starts as soon as one creature intends to harm another, or when some environmental effect is in a position to deal damage to or impose other negative effects on one or more creatures. This means that even before the action happens, a hero can't use a heroic ability without spending their [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) on it, because combat has already begun!
 
 #### Determine Surprise {data-scc="mcdm.heroes.v1/rule.combat/surprised"}
 
@@ -180,11 +180,11 @@ When a creature uses the Dig maneuver, they can move vertically up to a number o
 
 ###### Targeting Burrowing Creatures
 
-If you are on the ground, you have line of effect to a [burrowing](../../Browse/movement/burrow.md) creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The [burrowing](../../Browse/movement/burrow.md) creature gains the benefit of cover from you.
+If you are on the ground, you have line of effect to a [burrowing](../../Browse/movement/burrow.md) creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The [burrowing](../../Browse/movement/burrow.md) creature gains the benefit of [cover](../../Browse/rule/combat/cover.md) from you.
 
 If you are completely beneath the ground while [burrowing](../../Browse/movement/burrow.md), you don't have line of effect to any creature on the surface unless a rule states otherwise.
 
-If you are completely beneath the ground while [burrowing](../../Browse/movement/burrow.md) and are adjacent to another creature who is [burrowing](../../Browse/movement/burrow.md), you have line of effect to that creature, though you both have cover from each other.
+If you are completely beneath the ground while [burrowing](../../Browse/movement/burrow.md) and are adjacent to another creature who is [burrowing](../../Browse/movement/burrow.md), you have line of effect to that creature, though you both have [cover](../../Browse/rule/combat/cover.md) from each other.
 
 You can't gain the benefit of [high ground](../../Browse/movement/high-ground.md) (see below) against creatures who are completely beneath the ground while [burrowing](../../Browse/movement/burrow.md).
 
@@ -385,7 +385,7 @@ Certain abilities and effects trigger when a creature moves into a particular ar
 
 ##### Death Effects and Forced Movement
 
-Some creatures have traits or abilities that trigger when they die or are reduced to 0 Stamina. If such a creature is reduced to 0 Stamina by damage from an ability or effect that also force moves them, the [forced movement](../../Browse/movement/forced-movement.md) takes place before the triggered effect.
+Some creatures have traits or abilities that trigger when they die or are reduced to 0 [Stamina](../../Browse/rule/health/stamina.md). If such a creature is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by damage from an ability or effect that also force moves them, the [forced movement](../../Browse/movement/forced-movement.md) takes place before the triggered effect.
 
 ### Move Actions
 
@@ -415,9 +415,9 @@ A creature who uses the [Aid Attack](../../Browse/feature/common/maneuvers/aid-a
 
 #### Catch Breath {data-scc="mcdm.heroes.v1/feature.common.maneuvers/catch-breath"}
 
-A creature who uses the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for Stamina. See Recoveries in Chapter 1: [The Basics](the-basics.md).)
+A creature who uses the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver spends a [Recovery](../../Browse/rule/health/recoveries.md) and regains [Stamina](../../Browse/rule/health/stamina.md) equal to their [recovery value](../../Browse/rule/health/recoveries.md). (See below for [Stamina](../../Browse/rule/health/stamina.md). See [Recoveries](../../Browse/rule/health/recoveries.md) in Chapter 1: [The Basics](the-basics.md).)
 
-A creature who is dying (see Dying and Death in Stamina below) can't use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver, but other creatures can help them spend Recoveries in other ways.
+A creature who is [dying](../../Browse/rule/health/dying.md) (see [Dying](../../Browse/rule/health/dying.md) and Death in [Stamina](../../Browse/rule/health/stamina.md) below) can't use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver, but other creatures can help them spend [Recoveries](../../Browse/rule/health/recoveries.md) in other ways.
 
 #### Escape Grab {data-scc="mcdm.heroes.v1/feature.common.maneuvers/escape-grab"}
 
@@ -465,7 +465,7 @@ See Conditions in Chapter 5: [Classes](classes.md) for information on the [grabb
 
 #### Hide {data-scc="mcdm.heroes.v1/feature.common.maneuvers/hide"}
 
-Using the [Hide](../../Browse/feature/common/maneuvers/hide.md) maneuver, a creature attempts to hide from other creatures who aren't observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: [Tests](tests.md) for full details.
+Using the [Hide](../../Browse/feature/common/maneuvers/hide.md) maneuver, a creature attempts to hide from other creatures who aren't observing them while they have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md). See Hide and Sneak in Chapter 9: [Tests](tests.md) for full details.
 
 #### Knockback {data-scc="mcdm.heroes.v1/feature.common.maneuvers/knockback"}
 
@@ -508,7 +508,7 @@ Unless otherwise noted in its description, a creature can activate a consumable 
 
 When you take a main action, you most often do so to use a unique ability granted by your class, kit, or a treasure (see Abilities in Chapter 5: [Classes](classes.md)). These abilities represent the most unique, flavorful, and impactful things you can do with your main action.
 
-You can also use your main action to help another creature regain Stamina, [charge](../../Browse/feature/common/main-actions/charge.md) into battle, [defend](../../Browse/feature/common/main-actions/defend.md) yourself, or make a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+You can also use your main action to help another creature regain [Stamina](../../Browse/rule/health/stamina.md), [charge](../../Browse/feature/common/main-actions/charge.md) into battle, [defend](../../Browse/feature/common/main-actions/defend.md) yourself, or make a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 You can convert your main action into a maneuver or a move action, allowing you to [take two](../../Browse/feature/ability/troubadour/level-5/take-two.md) maneuvers or move actions on your turn.
 
@@ -528,7 +528,7 @@ A creature can use this main action to make a [free strike](../../Browse/feature
 
 #### Heal {data-scc="mcdm.heroes.v1/feature.common.main-actions/heal"}
 
-A creature who uses the [Heal](../../Browse/feature/common/main-actions/heal.md) main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.
+A creature who uses the [Heal](../../Browse/feature/common/main-actions/heal.md) main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a [Recovery](../../Browse/rule/health/recoveries.md) to regain [Stamina](../../Browse/rule/health/stamina.md), or can make a saving throw against one effect they are suffering that is ended by a saving throw.
 
 ### Free Strikes
 
@@ -594,11 +594,11 @@ Darkness, fog, invisibility magic, and any other effect that fully obscures a cr
 
 #### Invisible Creatures
 
-Invisible creatures always have concealment from other creatures. If an invisible creature isn't hidden, they can still be targeted by abilities. The test made to find a hidden creature who is invisible takes a bane.
+Invisible creatures always have [concealment](../../Browse/rule/combat/concealment.md) from other creatures. If an invisible creature isn't hidden, they can still be targeted by abilities. The test made to find a hidden creature who is invisible takes a bane.
 
 ### Damage {data-scc="mcdm.heroes.v1/rule.damage/damage"}
 
-Strikes, area attacks, environmental effects, and other hazards can all deal damage to the heroes and their foes. Whenever a creature takes damage, they reduce their Stamina (see below) by an amount equal to the damage taken.
+Strikes, area attacks, environmental effects, and other hazards can all deal damage to the heroes and their foes. Whenever a creature takes damage, they reduce their [Stamina](../../Browse/rule/health/stamina.md) (see below) by an amount equal to the damage taken.
 
 #### Damage Types {data-scc="mcdm.heroes.v1/rule.damage/damage-type"}
 
@@ -634,35 +634,35 @@ After any damage you take is reduced by damage immunity or other effects, your S
 
 #### Recoveries and Recovery Value {data-scc="mcdm.heroes.v1/rule.health/recoveries"}
 
-Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina maximum, rounded down. When you use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver in combat (see Maneuvers above), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
+Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their [Stamina](../../Browse/rule/health/stamina.md) maximum, rounded down. When you use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver in combat (see Maneuvers above), you spend a Recovery and regain [Stamina](../../Browse/rule/health/stamina.md) equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain [Stamina](../../Browse/rule/health/stamina.md) equal to your recovery value plus a little extra (as described by the effect), or to regain [Stamina](../../Browse/rule/health/stamina.md) without spending a Recovery.
 
 #### Winded {data-scc="mcdm.heroes.v1/rule.health/winded"}
 
-Your winded value equals half your Stamina maximum. When your Stamina is equal to or less than your winded value, you are winded. Although being winded has no effects on its own, certain ancestry, class, item, title, and monster abilities affect winded creatures.
+Your winded value equals half your [Stamina](../../Browse/rule/health/stamina.md) maximum. When your [Stamina](../../Browse/rule/health/stamina.md) is equal to or less than your winded value, you are winded. Although being winded has no effects on its own, certain ancestry, class, item, title, and monster abilities affect winded creatures.
 
 You can tell when other creatures are winded and vice versa.
 
 #### Dying and Death {data-scc="mcdm.heroes.v1/rule.health/dying"}
 
-When your Stamina is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver in combat. Additionally, you are [bleeding](../../Browse/condition/bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
+When your [Stamina](../../Browse/rule/health/stamina.md) is 0 or lower, you are dying. While dying, you can't use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver in combat. Additionally, you are [bleeding](../../Browse/condition/bleeding.md), and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend [Recoveries](../../Browse/rule/health/recoveries.md) in combat, and you can spend [Recoveries](../../Browse/rule/health/recoveries.md) out of combat as usual.
 
-While your Stamina is lower than 0, if it reaches the negative of your winded value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
+While your [Stamina](../../Browse/rule/health/stamina.md) is lower than 0, if it reaches the negative of your [winded](../../Browse/rule/health/winded.md) value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
 
 #### Director-Controlled Creatures
 
-In most circumstances, Director-controlled creatures die or are destroyed when their Stamina drops to 0.
+In most circumstances, Director-controlled creatures die or are destroyed when their [Stamina](../../Browse/rule/health/stamina.md) drops to 0.
 
 ##### No Recoveries
 
-Director-controlled creatures don't have Recoveries or a recovery value. Any such creatures who regain Stamina during a battle do so by way of a special item or an ability in their stat block. However, there are times when a hero might wish to use an ability that allows another creature to spend a Recovery or to regain Stamina equal to their recovery value on an injured NPC. In such cases, a Director-controlled creature regains Stamina equal to one-third of their Stamina maximum.
+Director-controlled creatures don't have [Recoveries](../../Browse/rule/health/recoveries.md) or a [recovery value](../../Browse/rule/health/recoveries.md). Any such creatures who regain [Stamina](../../Browse/rule/health/stamina.md) during a battle do so by way of a special item or an ability in their stat block. However, there are times when a hero might wish to use an ability that allows another creature to spend a [Recovery](../../Browse/rule/health/recoveries.md) or to regain [Stamina](../../Browse/rule/health/stamina.md) equal to their [recovery value](../../Browse/rule/health/recoveries.md) on an injured NPC. In such cases, a Director-controlled creature regains [Stamina](../../Browse/rule/health/stamina.md) equal to one-third of their [Stamina](../../Browse/rule/health/stamina.md) maximum.
 
 #### Knocking Creatures Out
 
 If you damage a creature with an ability that would kill them, you can choose to instead knock them unconscious. If a creature takes damage while unconscious in this way, they die.
 
-Director-controlled creatures remain unconscious for 1 hour if no one does anything to wake them. They then gain 1 Stamina and are no longer unconscious.
+Director-controlled creatures remain unconscious for 1 hour if no one does anything to wake them. They then gain 1 [Stamina](../../Browse/rule/health/stamina.md) and are no longer unconscious.
 
-Heroes remain unconscious for 1 hour if no one does anything to wake them. After 1 hour, they can spend a Recovery and are no longer unconscious. If the hero has no Recoveries left, they can't wake up until they finish a respite.
+Heroes remain unconscious for 1 hour if no one does anything to wake them. After 1 hour, they can spend a [Recovery](../../Browse/rule/health/recoveries.md) and are no longer unconscious. If the hero has no [Recoveries](../../Browse/rule/health/recoveries.md) left, they can't wake up until they finish a respite.
 
 ##### Unconscious
 
@@ -670,24 +670,24 @@ While you are unconscious, you can't take main actions, maneuvers, triggered act
 
 #### Temporary Stamina {data-scc="mcdm.heroes.v1/rule.health/temporary-stamina"}
 
-Some abilities, treasures, and other effects grant a creature temporary Stamina. Temporary Stamina shouldn't be included in a creature's Stamina total when figuring out a creature's recovery value or winded value. If you have temporary Stamina while winded, dying, or dead, the temporary Stamina doesn't change those states.
+Some abilities, treasures, and other effects grant a creature temporary [Stamina](../../Browse/rule/health/stamina.md). Temporary [Stamina](../../Browse/rule/health/stamina.md) shouldn't be included in a creature's [Stamina](../../Browse/rule/health/stamina.md) total when figuring out a creature's [recovery value](../../Browse/rule/health/recoveries.md) or [winded](../../Browse/rule/health/winded.md) value. If you have temporary [Stamina](../../Browse/rule/health/stamina.md) while [winded](../../Browse/rule/health/winded.md), [dying](../../Browse/rule/health/dying.md), or dead, the temporary [Stamina](../../Browse/rule/health/stamina.md) doesn't change those states.
 
-Whenever you take damage while you have temporary Stamina, the temporary Stamina decreases first, and any leftover damage is applied to your Stamina as usual. For instance, if you have 10 temporary Stamina and take 16 damage, you lose the temporary Stamina and then lose another 6 Stamina.
+Whenever you take damage while you have temporary [Stamina](../../Browse/rule/health/stamina.md), the temporary [Stamina](../../Browse/rule/health/stamina.md) decreases first, and any leftover damage is applied to your [Stamina](../../Browse/rule/health/stamina.md) as usual. For instance, if you have 10 temporary [Stamina](../../Browse/rule/health/stamina.md) and take 16 damage, you lose the temporary [Stamina](../../Browse/rule/health/stamina.md) and then lose another 6 [Stamina](../../Browse/rule/health/stamina.md).
 
-There is no maximum to how much temporary Stamina you can have. Regaining Stamina can't restore temporary Stamina. If you have temporary Stamina and then gain more temporary Stamina, you get whichever amount of temporary Stamina is greater, rather than adding the two pools together. For instance, if an ability grants you 10 temporary Stamina when you already have 5, you have 10 temporary Stamina, not 15.
+There is no maximum to how much temporary [Stamina](../../Browse/rule/health/stamina.md) you can have. Regaining [Stamina](../../Browse/rule/health/stamina.md) can't restore temporary [Stamina](../../Browse/rule/health/stamina.md). If you have temporary [Stamina](../../Browse/rule/health/stamina.md) and then gain more temporary [Stamina](../../Browse/rule/health/stamina.md), you get whichever amount of temporary [Stamina](../../Browse/rule/health/stamina.md) is greater, rather than adding the two pools together. For instance, if an ability grants you 10 temporary [Stamina](../../Browse/rule/health/stamina.md) when you already have 5, you have 10 temporary [Stamina](../../Browse/rule/health/stamina.md), not 15.
 
-Unless otherwise indicated, temporary Stamina disappears at the end of an encounter.
+Unless otherwise indicated, temporary [Stamina](../../Browse/rule/health/stamina.md) disappears at the end of an encounter.
 
 #### Object Stamina {data-scc="mcdm.heroes.v1/rule.general/unattended-object"}
 
-Mundane objects in the game have Stamina based on the material they're made of. When an object's Stamina is reduced to 0, the object is destroyed. Objects have poison immunity all and psychic immunity all, though the Director can remove one or both of these immunities in the case of living objects, such as plants. A size 1 object or 1 square of a larger object made of common materials has Stamina as follows:
+Mundane objects in the game have [Stamina](../../Browse/rule/health/stamina.md) based on the material they're made of. When an object's [Stamina](../../Browse/rule/health/stamina.md) is reduced to 0, the object is destroyed. Objects have poison immunity all and psychic immunity all, though the Director can remove one or both of these immunities in the case of living objects, such as plants. A size 1 object or 1 square of a larger object made of common materials has [Stamina](../../Browse/rule/health/stamina.md) as follows:
 
-- Glass: 1 Stamina
-- Wood: 3 Stamina
-- Stone: 6 Stamina
-- Metal: 9 Stamina
+- Glass: 1 [Stamina](../../Browse/rule/health/stamina.md)
+- Wood: 3 [Stamina](../../Browse/rule/health/stamina.md)
+- Stone: 6 [Stamina](../../Browse/rule/health/stamina.md)
+- Metal: 9 [Stamina](../../Browse/rule/health/stamina.md)
 
-The Director can decide that a well-made or poorly made object has more or less Stamina. Destroying a supernatural object often (but not always) requires a specific quest, such as throwing a magic ring back into the volcano where it was forged.
+The Director can decide that a well-made or poorly made object has more or less [Stamina](../../Browse/rule/health/stamina.md). Destroying a supernatural object often (but not always) requires a specific quest, such as throwing a magic ring back into the volcano where it was forged.
 
 ### Underwater Combat {data-scc="mcdm.heroes.v1/rule.combat/underwater-combat"}
 
@@ -709,11 +709,11 @@ If your mount dies, they [fall prone](../../Browse/condition/prone.md), and you 
 
 ### End of Combat
 
-At the end of combat, the Director determines if the heroes earn any Victories. Any effect or condition on you that you suffered during combat (except for being winded, unconscious, or dying) ends if you want it to.
+At the end of combat, the Director determines if the heroes earn any Victories. Any effect or condition on you that you suffered during combat (except for being [winded](../../Browse/rule/health/winded.md), unconscious, or [dying](../../Browse/rule/health/dying.md)) ends if you want it to.
 
 #### How Combat Ends
 
-The Director determines when a combat encounter is over. While some battles—especially showdowns with important villains—can be about a fight to the bitter end, many other encounters can become a tedious slog if the heroes need to fight until every last enemy's Stamina is reduced to 0.
+The Director determines when a combat encounter is over. While some battles—especially showdowns with important villains—can be about a fight to the bitter end, many other encounters can become a tedious slog if the heroes need to fight until every last enemy's [Stamina](../../Browse/rule/health/stamina.md) is reduced to 0.
 
 To avoid a battle dragging, the Director can set objectives when they build the encounter. Once the heroes achieve those objectives, or if it becomes clear that they can win the fight with minimal effort, the Director can end the encounter. They might do so by calling "Cut!" like a film director, or they can use some other phrase or indicator.
 

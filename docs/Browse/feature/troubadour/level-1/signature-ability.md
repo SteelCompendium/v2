@@ -130,7 +130,7 @@ type: feature
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">The chosen ally can spend a Recovery.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">The chosen ally can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</span></div>
 </article>
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -290,7 +290,7 @@ type: feature
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target can <a href="../../../../movement/shifting/">shift</a> 1 square and make a <a href="../../../common/main-actions/free-strike/">free strike</a>.</span></div>
 <div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target can <a href="../../../../movement/shifting/">shift</a> up to 2 squares and make a <a href="../../../common/main-actions/free-strike/">free strike</a> that gains an edge.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target can <a href="../../../../movement/shifting/">shift</a> up to 3 squares and make a <a href="../../../common/main-actions/free-strike/">free strike</a> that gains an edge, then can spend a Recovery.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target can <a href="../../../../movement/shifting/">shift</a> up to 3 squares and make a <a href="../../../common/main-actions/free-strike/">free strike</a> that gains an edge, then can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</span></div>
 </div>
 </div>
 </article>

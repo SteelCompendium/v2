@@ -17,7 +17,7 @@ type: title
 **Effect:** Choose one of the following benefits:
 
 - *Smallfolk Dodge:* Any creature of size 2 or larger takes a bane on strikes against you.
-- *The Harder They Fall:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *The Harder They Fall:* You have the following ability, which can be paid for using the [Heroic Resource](../rule/resource/heroic-resource.md) of your class.
 
 ## The Harder They Fall (7 Heroic Resource)
 

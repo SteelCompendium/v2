@@ -21,6 +21,6 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You have mastered the entirety of possible strategies and tactics. Whenever you or any ally makes an ability roll against a target marked by you, the character making the roll can roll three dice and choose which two to use.</p>
-<p>Additionally, whenever an ally uses a heroic ability that targets one or more creatures marked by you, they spend 2 fewer of their Heroic Resource on that ability (minimum 1).</p>
+<p>Additionally, whenever an ally uses a heroic ability that targets one or more creatures marked by you, they spend 2 fewer of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> on that ability (minimum 1).</p>
 </div>
 </section>

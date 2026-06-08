@@ -119,7 +119,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can end any conditions or effects on themself, and gains 5 temporary Stamina for each condition or effect removed.</p></div>
+<div class="sc-ability__section-body"><p>Each target can end any conditions or effects on themself, and gains 5 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> for each condition or effect removed.</p></div>
 </div>
 </article>
 </div>

@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 5 Piety
 distance: Ranged 10
-effect: Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.
+effect: Until the start of your next turn, each time a target kills an enemy, they regain [Stamina](../../../../rule/health/stamina.md) equal to 5 + your Intuition score.
 flavor: The gods reward those who smite their foes.
 keywords:
     - Magic
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, each time a target kills an enemy, they regain <a href="../../../../../rule/health/stamina/">Stamina</a> equal to 5 + your Intuition score.</p></div>
 </div>
 </article>

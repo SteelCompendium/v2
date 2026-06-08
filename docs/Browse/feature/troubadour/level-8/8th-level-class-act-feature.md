@@ -59,7 +59,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can&#39;t spend Recoveries or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can&#39;t spend <a href="../../../../rule/health/recoveries/">Recoveries</a> or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="none">
@@ -104,7 +104,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 surge that you can use only on this ability.</p>
+<p>Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 <a href="../../../../rule/resource/surge/">surge</a> that you can use only on this ability.</p>
 <p>Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your <a href="../../level-4/zeitgeist/">Zeitgeist</a> feature to tell tales of your exploits after the encounter ends.</p>
 </div>
 </section>

@@ -8,7 +8,7 @@ type: rule
 
 ---
 
-Armor imbued with an enhancement grants you special benefits while it is worn. Additionally, when your armor receives its 1st-level enhancement, it also grants a +6 bonus to Stamina. A 5th-level enhancement increases the Stamina bonus to +12, and a 9th-level enhancement increases it to +21.
+Armor imbued with an enhancement grants you special benefits while it is worn. Additionally, when your armor receives its 1st-level enhancement, it also grants a +6 bonus to [Stamina](../health/stamina.md). A 5th-level enhancement increases the [Stamina](../health/stamina.md) bonus to +12, and a 9th-level enhancement increases it to +21.
 
 > **Clothing as Armor Treasures**
 >
@@ -71,11 +71,11 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Absorption:** Whenever you are targeted by a magic or psionic ability that targets only one creature, you can use a free triggered action to cause this armor to absorb the ability after the ability's effects resolve. While the armor has an ability absorbed, you can't absorb another.
 
-You can use an absorbed ability as if you knew it, making power rolls for the ability using your choice of Reason, Intuition, or Presence. You don't need to spend any Heroic Resource to activate the ability. Once you use the ability, the armor loses it, and you can absorb another.
+You can use an absorbed ability as if you knew it, making power rolls for the ability using your choice of Reason, Intuition, or Presence. You don't need to spend any [Heroic Resource](../resource/heroic-resource.md) to activate the ability. Once you use the ability, the armor loses it, and you can absorb another.
 
 **Damage Immunity II:** The damage immunity conveyed by the armor increases to 10.
 
-**Dragon Soul:** When another creature causes you to be winded or dying, you can use a free triggered action to cause the soul of a dragon to emerge from this armor and hurtle toward the creature. Make the following power roll against the creature.
+**Dragon Soul:** When another creature causes you to be [winded](../health/winded.md) or [dying](../health/dying.md), you can use a free triggered action to cause the soul of a dragon to emerge from this armor and hurtle toward the creature. Make the following power roll against the creature.
 
 **Power Roll + Your Highest Characteristic Score:**
 
@@ -93,7 +93,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Reactive:** Whenever you take damage, you have damage immunity 2 until the end of your next turn after the triggering damage is resolved.
 
-**Second Wind:** Whenever you become winded, you can use a free triggered action to spend a Recovery.
+**Second Wind:** Whenever you become [winded](../health/winded.md), you can use a free triggered action to spend a [Recovery](../health/recoveries.md).
 
 **Shattering:** Whenever an enemy scores a critical hit against you, they take 10 sonic damage.
 
@@ -125,9 +125,9 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Project Goal:** 150
 
-**Devil's Bargain:** You can [fly](../../movement/fly.md). Additionally, if an effect would make you [prone](../../condition/prone.md) while [flying](../../movement/fly.md), you can choose to not make you [prone](../../condition/prone.md) by losing Stamina equal to the distance you would have fallen from make you [prone](../../condition/prone.md).
+**Devil's Bargain:** You can [fly](../../movement/fly.md). Additionally, if an effect would make you [prone](../../condition/prone.md) while [flying](../../movement/fly.md), you can choose to not make you [prone](../../condition/prone.md) by losing [Stamina](../health/stamina.md) equal to the distance you would have fallen from make you [prone](../../condition/prone.md).
 
-**Dragon Soul II:** While you are winded, your head transforms into a dragon's head and you have the following ability.
+**Dragon Soul II:** While you are [winded](../health/winded.md), your head transforms into a dragon's head and you have the following ability.
 
 ## Dragon's Fire {data-scc="mcdm.heroes.v1/feature.ability.common/dragons-fire"}
 
@@ -147,7 +147,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead [teleport](../../movement/teleport.md) that distance.
 
-**Life:** Whenever you would die, you can spend a Recovery to regain Stamina instead. If you have no Recoveries to spend, you die.
+**Life:** Whenever you would die, you can spend a [Recovery](../health/recoveries.md) to regain [Stamina](../health/stamina.md) instead. If you have no [Recoveries](../health/recoveries.md) to spend, you die.
 
 **Magic Resistance III:** The benefit of the armor's Magic Resistance II enhancement extends to each ally within 3 squares of you.
 

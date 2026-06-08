@@ -3,7 +3,7 @@ action_type: Maneuver
 class: shadow
 cost: 9 Insight
 distance: 3 burst
-effect: A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../../../../movement/shifting.md) to a new location within the area and make a [free strike](../../../common/main-actions/free-strike.md) against them.
+effect: A black cloud fills the area until the end of your next turn, granting you and your allies [concealment](../../../../rule/combat/concealment.md) against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../../../../movement/shifting.md) to a new location within the area and make a [free strike](../../../common/main-actions/free-strike.md) against them.
 flavor: You cause a plume of shadow to erupt from your eyes and create a cloud of darkness.
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to <a href="../../../../../movement/shifting/">shift</a> to a new location within the area and make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against them.</p></div>
+<div class="sc-ability__section-body"><p>A black cloud fills the area until the end of your next turn, granting you and your allies <a href="../../../../../rule/combat/concealment/">concealment</a> against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to <a href="../../../../../movement/shifting/">shift</a> to a new location within the area and make a <a href="../../../../common/main-actions/free-strike/">free strike</a> against them.</p></div>
 </div>
 </article>

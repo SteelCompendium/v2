@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your deity is aware of your growing influence, making it easier to draw their attention and power when you heal your allies. Whenever you allow another creature to spend a Recovery, you can also spend a Recovery.</p>
+<p>Your deity is aware of your growing influence, making it easier to draw their attention and power when you heal your allies. Whenever you allow another creature to spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, you can also spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p>
 </div>
 </section>

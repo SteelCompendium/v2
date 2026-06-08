@@ -3,7 +3,7 @@ action_type: Maneuver
 class: tactician
 cost: 5 Focus
 distance: Ranged 5
-effect: Each target is marked by you, and you gain two surges.
+effect: Each target is marked by you, and you gain two [surges](../../../../rule/resource/surge.md).
 flavor: You point out easy targets to your friends, allowing them to include more enemies in their attacks.
 keywords:
     - Ranged
@@ -35,7 +35,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target is marked by you, and you gain two surges.</p></div>
+<div class="sc-ability__section-body"><p>Each target is marked by you, and you gain two <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>

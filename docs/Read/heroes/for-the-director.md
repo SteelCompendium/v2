@@ -160,7 +160,7 @@ If your players participate in other games of *Draw Steel*, it's a good idea to 
 
 ### House Rules
 
-You can always change the rules of the game to fit your campaign and taste! Maybe it better suits the pace of the campaign to have a respite last 8 hours, or perhaps a respite should take a week. You might prefer if critical hits are super rare and happen only on a natural 20. You could allow heroes to spend hero tokens to reduce the amount of Malice you have (see *Draw Steel: Monsters*). You might decide that all heroes have a free +1 bonus to any characteristic of their choice at 1st level.
+You can always change the rules of the game to fit your campaign and taste! Maybe it better suits the pace of the campaign to have a respite last 8 hours, or perhaps a respite should take a week. You might prefer if critical hits are super rare and happen only on a natural 20. You could allow heroes to spend [hero tokens](../../Browse/rule/resource/hero-token.md) to reduce the amount of Malice you have (see *Draw Steel: Monsters*). You might decide that all heroes have a free +1 bonus to any characteristic of their choice at 1st level.
 
 The rules you create or modify to suit your group are called house rules. You can have as many house rules as you like, but you should discuss these rule changes with the players before implementing them. If you decide that critical hits only occur on a natural 20, the worst time for a player to find that out is right after they roll a natural 19 in combat.
 
@@ -252,12 +252,12 @@ Discuss the details of a hero's complication with that hero's player. Complicati
 
 Once you understand a hero's desires for their complication, you can create an echelon outline for the complication to give the hero's backstory some narrative teeth throughout the campaign. Consider the following example.
 
-Matt, playing Linn the [talent](../../Browse/class/talent.md), has the [Elemental Inside](../../Browse/complication/elemental-inside.md) complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth [elementalist](../../Browse/class/elementalist.md). Sorin wanted to abduct Linn's [talent](../../Browse/class/talent.md) mentor, a [dwarf](../../Browse/ancestry/dwarf.md) who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is dying, Bruulv takes control of her body and goes on a violent rampage.
+Matt, playing Linn the [talent](../../Browse/class/talent.md), has the [Elemental Inside](../../Browse/complication/elemental-inside.md) complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth [elementalist](../../Browse/class/elementalist.md). Sorin wanted to abduct Linn's [talent](../../Browse/class/talent.md) mentor, a [dwarf](../../Browse/ancestry/dwarf.md) who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is [dying](../../Browse/rule/health/dying.md), Bruulv takes control of her body and goes on a violent rampage.
 
 Matt tells the Director that Linn enjoys the extra protection afforded to her by Bruulv, since it makes her a tougher hero, and she would like to find a way to keep her benefit while losing the drawback. The Director comes up with an echelon outline for Linn that will enrich the [talent's](../../Browse/class/talent.md) story and have ties to the main campaign (which happens to be the example campaign in the echelon outline above).
 
 - **1st Echelon:** After the heroes start riling up Lord Saxton's forces, Sorin offers her services to the tyrant for a chance to face Linn. During the heroes' assault on the keep, Sorin attacks.
-- **2nd Echelon:** Assuming Sorin's defeat, Bruulv becomes even angrier, and can now try to wrestle control away from Linn whenever she is winded in addition to when she is dying. Linn finds a Crown of Elements, a special magic treasure that allows her to force Bruulv back to a "takes control only while dying" state as long as she wears it. The crown has other elemental powers too—and is one of the items desired by Ajax.
+- **2nd Echelon:** Assuming Sorin's defeat, Bruulv becomes even angrier, and can now try to wrestle control away from Linn whenever she is [winded](../../Browse/rule/health/winded.md) in addition to when she is [dying](../../Browse/rule/health/dying.md). Linn finds a Crown of Elements, a special magic treasure that allows her to force Bruulv back to a "takes control only while [dying](../../Browse/rule/health/dying.md)" state as long as she wears it. The crown has other elemental powers too—and is one of the items desired by Ajax.
 - **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly [high elf](../../Browse/ancestry/high-elf.md) named Leaves of the Autumn Wind offers to enhance the crown, allowing the [talent](../../Browse/class/talent.md) to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
 - **4th Echelon:** With the crown enhanced, Linn can speak directly to Bruulv. By learning the elemental's history and desires through negotiation, she can see that Bruulv mostly wants to return to the City of Brass so they might once again see the raw elemental powers come together. If Linn can visit this city that is literally worlds away, she earns Bruulv's trust and the elemental stops taking over her form.
 
@@ -399,7 +399,7 @@ Once you have your villain, your adventure goal, your NPCs, and your general loc
 
 When you're thinking about scenes, write down which sites and NPCs are tied to those scenes, then try to arrange the scenes in an order that makes sense for the story. It might be that after your inciting incident, certain scenes can be tackled in any order. For example, if the adventure goal is to recover three pieces of an ancient staff before the villain does, the heroes might be able to explore the three sites where the pieces are hidden in any order they choose. Their choice might even have consequences. It might be that the first site they choose has none of the villain's lackeys investigating it yet, the second site features a showdown with those lackeys, and the third site has already been cleaned out by the villain by the time the characters get there! Other scenes might have to happen more linearly. An investigation typically includes a trail of clues that takes the heroes from one scene to the next, but the players can surprise you.
 
-Don't get married to the order in which you plan your scenes. If the heroes have terrible luck with dice in a couple of combat encounters, they might stop to take a respite and regain their Stamina and Recoveries before you anticipated they would. If the heroes are unraveling a mystery, they might make unexpected deductions or good guesses that allow them to skip a scene altogether! This is part of the fun of the game. The dice and the players will surprise you.
+Don't get married to the order in which you plan your scenes. If the heroes have terrible luck with dice in a couple of combat encounters, they might stop to take a respite and regain their [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md) before you anticipated they would. If the heroes are unraveling a mystery, they might make unexpected deductions or good guesses that allow them to skip a scene altogether! This is part of the fun of the game. The dice and the players will surprise you.
 
 Embrace this unpredictability by keeping an open mind as you plan out your scenes and allowing yourself to be flexible. Odds are that a combat encounter the characters skipped over during one session can be tweaked and moved to another session, so don't sweat it. The game is most rewarding for you and the other players if you let the heroes' choices and actions mean something and affect the game.
 
@@ -423,7 +423,7 @@ Not everything the heroes do is worthy of a scene, and you don't need to play ou
 
 #### Director Sheets
 
-Director sheets are a resource you can use to prepare and track the progress of characters during combat encounters, negotiations, and montage tests. These sheets allow you to track the objectives and numbers relevant to the challenge, such as the Stamina of enemies, NPC interest and patience, and the number of successes and failures in a montage test. Each sheet has an optional second page you can use to track narrative details, potential rewards, and supporting NPCs in the scene. You can download these sheets at *https://mcdm.gg/DS-Resources*.
+Director sheets are a resource you can use to prepare and track the progress of characters during combat encounters, negotiations, and montage tests. These sheets allow you to track the objectives and numbers relevant to the challenge, such as the [Stamina](../../Browse/rule/health/stamina.md) of enemies, NPC interest and patience, and the number of successes and failures in a montage test. Each sheet has an optional second page you can use to track narrative details, potential rewards, and supporting NPCs in the scene. You can download these sheets at *https://mcdm.gg/DS-Resources*.
 
 #### Creating and Running Combat
 
@@ -514,7 +514,7 @@ If a test is a **success with a consequence**, the hero succeeds but suffers a s
 
 If a test is a **success**, the hero does what they set out to do! You can even let a player narrate the outcome of a successful test by asking them, "How did you pull this off ?"
 
-If the test is a **success with a reward**, the hero does what they set out to do—and then some. A reward might grant another character who needs to make the same test an automatic success, grant an edge on a future test for the hero, reveal a hidden treasure the hero wasn't looking for, inspire a nearby NPC to come forth and offer aid, or earn the group a hero token. A reward on a test is yours to choose.
+If the test is a **success with a reward**, the hero does what they set out to do—and then some. A reward might grant another character who needs to make the same test an automatic success, grant an edge on a future test for the hero, reveal a hidden treasure the hero wasn't looking for, inspire a nearby NPC to come forth and offer aid, or earn the group a [hero token](../../Browse/rule/resource/hero-token.md). A reward on a test is yours to choose.
 
 Sample consequences and rewards for tests are detailed in Chapter 9: [Tests](tests.md).
 
@@ -544,7 +544,7 @@ Once a trigger is noticed, the heroes might get a chance to disarm it if that's 
 
 ##### Hazard Damage
 
-The damage dealt by a hazard depends on two factors. First, how deadly would you like the hazard to be? Do you want it to leave the heroes just a little banged up, or should it cost them a Recovery or two? Second, is the hazard a perpetual hazard or a one-time hazard? If it's an obstruction, answer this question by asking whether you expect a creature to be able to take damage from the obstruction more than once? If the answer is yes, treat it as a perpetual hazard in terms of damage. If not, it's a one-time hazard.
+The damage dealt by a hazard depends on two factors. First, how deadly would you like the hazard to be? Do you want it to leave the heroes just a little banged up, or should it cost them a [Recovery](../../Browse/rule/health/recoveries.md) or two? Second, is the hazard a perpetual hazard or a one-time hazard? If it's an obstruction, answer this question by asking whether you expect a creature to be able to take damage from the obstruction more than once? If the answer is yes, treat it as a perpetual hazard in terms of damage. If not, it's a one-time hazard.
 
 A hero might get a chance to mitigate damage from a hazard, such as by making an Agility test to outrun or dodge an avalanche, or making a Reason test to resist the psychic damage of a psionic cloud. You can decide what sort of test needs to be made based on the circumstances.
 
@@ -584,7 +584,7 @@ The One-Time Hazard Deadliness and Perpetual Hazard Deadliness tables show the d
 
 Some hazards deal effects in addition to or instead of damage. A hazard that is part of a combat encounter can impose just about any effect, including conditions, and can have a real impact on the story. However, if the heroes are facing a hazard outside of combat, you want any effects it imposes to be something more impactful and lasting. The following effects each reflect the interesting and lasting consequences a noncombat hazard should have:
 
-- A character loses a Recovery.
+- A character loses a [Recovery](../../Browse/rule/health/recoveries.md).
 - A curse leaves a character with a demonic-sounding voice that imposes a bane on Presence tests.
 - A character receives a gaping wound that causes them to take 1d10 damage whenever they roll a natural 2 before they next finish a respite.
 - A character is [teleport](../../Browse/movement/teleport.md)ed into the middle of a nearby body of water.
@@ -640,7 +640,7 @@ A negotiation should always be initiated by the heroes, and the character (as wi
 
 New Directors and players might feel a bit overwhelmed by negotiation, wondering if they need the rules at all for roleplaying a quid pro quo discussion. If you'd rather play without the negotiation rules, go for it! The *Draw Steel* designers aren't going to come to your house and take your books if you do so. However, the negotiation rules exist to provide you with robust mechanics that create an exciting back and forth between two parties, with high stakes and drama.
 
-An NPC's interest helps you determine their attitude toward the party's proposals, while their patience indicates how much time they're willing to give the heroes. In the same way that Stamina tells you when a monster is done with a fight, patience tells you when an NPC is done talking and is ready to deal. The negotiation rules mean you never have to just roleplay a conversation until you and the players become bored with the scene, then someone makes a single test to see what happens. The negotiation rules let you roleplay with structure, risks, and rewards!
+An NPC's interest helps you determine their attitude toward the party's proposals, while their patience indicates how much time they're willing to give the heroes. In the same way that [Stamina](../../Browse/rule/health/stamina.md) tells you when a monster is done with a fight, patience tells you when an NPC is done talking and is ready to deal. The negotiation rules mean you never have to just roleplay a conversation until you and the players become bored with the scene, then someone makes a single test to see what happens. The negotiation rules let you roleplay with structure, risks, and rewards!
 
 The most important thing to remember when it comes to negotiation is that the rules are meant to work with you—not against you. They're flexible on purpose. If a hero makes an excellent argument that you think should work without a test, then it does. If a hero makes an unfortunate argument that should fail no matter what, then they're out of luck. You're empowered to run negotiation in whatever way will be the most fun for you and your players.
 
@@ -664,7 +664,7 @@ Once a negotiation starts, the players and characters can obtain information abo
 
 > **Sharing Interest and Patience**
 >
-> It's up to you as the Director to decide whether to share an NPC's interest or patience during a negotiation. Sometimes sharing this information can make an encounter more dramatic, with the players watching their progress rise and fall in real time. Other groups might find negotiation more fun and immersive if those exact numbers are hidden from the players, just as some groups like knowing the Stamina of every creature in a battle and others prefer to keep that information secret. Talk to your players about what they'd prefer.
+> It's up to you as the Director to decide whether to share an NPC's interest or patience during a negotiation. Sometimes sharing this information can make an encounter more dramatic, with the players watching their progress rise and fall in real time. Other groups might find negotiation more fun and immersive if those exact numbers are hidden from the players, just as some groups like knowing the [Stamina](../../Browse/rule/health/stamina.md) of every creature in a battle and others prefer to keep that information secret. Talk to your players about what they'd prefer.
 
 #### Sample Negotiators
 
@@ -994,7 +994,7 @@ You can use montage tests to play out chases, escapes, investigations, wildernes
 
 When you prepare a montage test, you'll want to write down some key information.
 
-First, make a list of potential challenges the heroes can face during the montage test. This list should be at least as long as the number of successes the heroes must achieve to earn a total success. You might also prepare a list of consequences and rewards that could come up for individual tests made during the montage test, but since you can't predict what approaches the players will take to their characters' tests, don't worry about covering every scenario. You can always fall back on earning Malice and giving out hero tokens as a default consequence and reward (see Test Outcomes in Chapter 9: [Tests](tests.md)).
+First, make a list of potential challenges the heroes can face during the montage test. This list should be at least as long as the number of successes the heroes must achieve to earn a total success. You might also prepare a list of consequences and rewards that could come up for individual tests made during the montage test, but since you can't predict what approaches the players will take to their characters' tests, don't worry about covering every scenario. You can always fall back on earning Malice and giving out [hero tokens](../../Browse/rule/resource/hero-token.md) as a default consequence and reward (see Test Outcomes in Chapter 9: [Tests](tests.md)).
 
 You'll then need to create the three outcomes of the montage: total success, partial success, and total failure. With a total success, the heroes should accomplish whatever they set out to do. With a partial success, they should accomplish their goal at a cost, create a new problem for themselves after doing what they set out to do, or not quite accomplish their full goal. With a total failure, the characters fail to do whatever they set out to do, but this result should not grind the story to a halt. Maybe they lose track of the fleeing lackeys they were pursuing, but they know they can now raid a mage's tower to find that information. Even if failure costs the characters dearly, they should still have options for continuing the adventure.
 
@@ -1033,11 +1033,11 @@ Fire blazes in several buildings whose occupants need to be rescued. Elsewhere, 
 The following challenges can be part of the montage test:
 
 - **Bucket Brigades:** Characters can organize the would-be firefighters into disciplined bucket brigades, or can fight the fire directly in some other way. *Suggested* C*haracteristics:* Presence, Reason. *Suggested Skills:* Architecture, Intimidate, Lead.
-- **Clearing a Firebreak:** Preventing the fire from spreading might involve clearing the ground of flammable materials, either by moving it or burning it away under controlled conditions. *Suggested Characteristics:* Might, Reason. *Suggested Skills and Abilities:* Endurance, Lift; abilities that deal fire damage. *Special:* A creature loses a Recovery if they incur a consequence on the test for this challenge.
-- **Evacuating Buildings:** Characters must save people trapped in burning buildings. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Climb, Endurance, Persuade. *Special:* A creature who doesn't have fire immunity loses a Recovery if they incur a consequence on the test for this challenge. The heroes can attempt this challenge twice during the montage test.
+- **Clearing a Firebreak:** Preventing the fire from spreading might involve clearing the ground of flammable materials, either by moving it or burning it away under controlled conditions. *Suggested Characteristics:* Might, Reason. *Suggested Skills and Abilities:* Endurance, Lift; abilities that deal fire damage. *Special:* A creature loses a [Recovery](../../Browse/rule/health/recoveries.md) if they incur a consequence on the test for this challenge.
+- **Evacuating Buildings:** Characters must save people trapped in burning buildings. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Climb, Endurance, Persuade. *Special:* A creature who doesn't have fire immunity loses a [Recovery](../../Browse/rule/health/recoveries.md) if they incur a consequence on the test for this challenge. The heroes can attempt this challenge twice during the montage test.
 - **Find More Firefighters:** By finding groups that aren't fighting the fire, such as fleeing civilians, characters can convince them to help. *Suggested Characteristic:* Presence. *Suggested Skills:* Intimidate, Lead, Persuade.
 - **Free the Horses:** Characters can loose the stabled horses threatened by the fire and lead them to safety. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Handle Animals, Lift, Ride.
-- **Move Burning Rubble:** [Shifting](../../Browse/movement/shifting.md) burning debris blocking doorways can allow people to escape the blaze. *Suggested Characteristic:* Might. *Suggested Skills:* Endurance, Lift. *Special:* A creature who doesn't have fire immunity loses a Recovery if they incur a consequence on the test for this challenge.
+- **Move Burning Rubble:** [Shifting](../../Browse/movement/shifting.md) burning debris blocking doorways can allow people to escape the blaze. *Suggested Characteristic:* Might. *Suggested Skills:* Endurance, Lift. *Special:* A creature who doesn't have fire immunity loses a [Recovery](../../Browse/rule/health/recoveries.md) if they incur a consequence on the test for this challenge.
 - **Use the Freed Horses (if the Free the Horses challenge was successful):**  Characters can put the horses to work clearing rubble or bringing people to safety. *Suggested Characteristics:* Reason, Presence. *Suggested Skills:* Drive, Handle Animals, Ride.
 
 ###### Optional Twists
@@ -1132,7 +1132,7 @@ One of the following outcomes ends the montage test:
 
 - **Total Success:** The settlement is fully fortified, and even if the heroes don't fight in its defense, the settlement and its people survive. If the heroes wish, they can leave the settlement and fight a standard combat encounter against the leader of the invaders and their lackeys, possibly killing or capturing the leader. Each character earns 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate, in addition to any Victories earned from combat during the montage test.
 - **Partial Success:** The settlement's fortifications are improved, but the settlement will still fall unless the heroes fight in its defense. To save the settlement, the heroes must triumph in a hard combat encounter against the leader of the invaders and their lackeys. If the heroes lose the encounter, the settlement falls. Each character earns 1 Victory if the montage test was moderate or hard, in addition to any Victories earned from combat during the montage test.
-- **Total Failure:** The heroes each lose a Recovery from their failed efforts to defend the settlement, which is taken over by the invaders. If the players wish, the characters can fight two hard combat encounters against waves of invaders to allow some of the settlement's inhabitants to retreat to safety. Characters earn no Victories from the montage test, but might earn Victories from combat undertaken during the montage test.
+- **Total Failure:** The heroes each lose a [Recovery](../../Browse/rule/health/recoveries.md) from their failed efforts to defend the settlement, which is taken over by the invaders. If the players wish, the characters can fight two hard combat encounters against waves of invaders to allow some of the settlement's inhabitants to retreat to safety. Characters earn no Victories from the montage test, but might earn Victories from combat undertaken during the montage test.
 
 ##### Track the Fugitive
 
@@ -1150,7 +1150,7 @@ The following challenges can be part of the montage test:
 - **Follow the Trail:** Looking for tracks or other signs of the fugitive's passage can lead the characters on. *Suggested Characteristic:* Intuition. *Suggested Skills:* Alertness, Search, Track. *Special:* The heroes can attempt this challenge twice during the montage test.
 - **Obtain a Good View:** Characters can climb up high to get the big picture of where the fugitive might have gone. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* Climb, Gymnastics, Jump.
 - **Predict the Next Move:** The heroes might have an idea where the quarry is headed. A character gains an edge on the test for this challenge if they know the quarry well. *Suggested Characteristics:* Intuition, Reason. *Suggested Skills:* Navigate, Read Person, an appropriate skill from the lore skill group (Nature to follow an animal, Criminal Underworld to follow a criminal, and so forth).
-- **Push Ahead:** While the quarry is resting, the heroes have a chance to close in. Suggested Characteristic: Might. Suggested Skills: Drive, Endurance, Navigate, Ride. Special: The hero making the test for this challenge loses a Recovery.
+- **Push Ahead:** While the quarry is resting, the heroes have a chance to close in. Suggested Characteristic: Might. Suggested Skills: Drive, Endurance, Navigate, Ride. Special: The hero making the test for this challenge loses a [Recovery](../../Browse/rule/health/recoveries.md).
 
 ###### Optional Twist
 
@@ -1190,14 +1190,14 @@ At the end of the first round of the montage test, the characters' journey is in
 
 **Predatory Monster:** The characters stumble into or are stalked by a monstrous predator, and must engage in a standard combat encounter to overcome the threat or drive it off. If any character has obtained a success on the Scout Ahead challenge, you can let the characters make a group test to sneak past or set an ambush for the monster.
 
-**Unexpected Hazard:** A natural hazard such as an avalanche, rockslide, or wildfire interrupts the journey. Each hero must make a test of your choice to avoid the hazard, losing a Recovery on a failure.
+**Unexpected Hazard:** A natural hazard such as an avalanche, rockslide, or wildfire interrupts the journey. Each hero must make a test of your choice to avoid the hazard, losing a [Recovery](../../Browse/rule/health/recoveries.md) on a failure.
 
 ###### Montage Test Outcomes
 
 One of the following outcomes ends the montage test:
 
 - **Total Success:** The heroes reach their goal in time. Each character earns 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate, in addition to any Victories earned from combat during the montage test.
-- **Partial Success:** To reach their goal in time, the heroes must sprint over the last leg of the journey, with each character spending 2 Recoveries to do so. (If even one character doesn't have 2 Recoveries remaining, the characters instead earn a total failure for the montage test.) Each character earns 1 Victory if the montage test was moderate or hard, in addition to any Victories earned from combat during the montage test.
+- **Partial Success:** To reach their goal in time, the heroes must sprint over the last leg of the journey, with each character spending 2 [Recoveries](../../Browse/rule/health/recoveries.md) to do so. (If even one character doesn't have 2 [Recoveries](../../Browse/rule/health/recoveries.md) remaining, the characters instead earn a total failure for the montage test.) Each character earns 1 Victory if the montage test was moderate or hard, in addition to any Victories earned from combat during the montage test.
 - **Total Failure:** The heroes don't arrive in time to avert catastrophe. Characters earn no Victories from the montage test, but might earn Victories from combat undertaken during the montage test.
 
 ### Running Respites
@@ -1208,7 +1208,7 @@ When the heroes decide to take a respite (see Respite in Chapter 1: [The Basics]
 
 Heroes can't take a respite unless they're in a safe place. This typically means a place with a bed and four walls and a roof around them, where they're unlikely to get stabbed in their sleep. Characters aren't going to find 24 hours of peace to take a respite in a villain's lair, even if they barricade a door. However, this can become more of a gray area if the heroes attempt to take a respite while traveling in the wild.
 
-"Why can't we camp in this seemingly peaceful wode for a day?" is the kind of thing you might decide is fine if you want the characters to be able to regain Stamina and Recoveries. Alternatively, you might want them to work harder for those resources, marking the wode as a dangerous place in the story. If the players want the heroes to take a respite in a place you deem unsafe, let them know it's impossible to get any meaningful rest or make progress on projects in that place while remaining constantly on guard for danger.
+"Why can't we camp in this seemingly peaceful wode for a day?" is the kind of thing you might decide is fine if you want the characters to be able to regain [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md). Alternatively, you might want them to work harder for those resources, marking the wode as a dangerous place in the story. If the players want the heroes to take a respite in a place you deem unsafe, let them know it's impossible to get any meaningful rest or make progress on projects in that place while remaining constantly on guard for danger.
 
 #### Too Many Respites?
 
@@ -1224,7 +1224,7 @@ When you're running downtime events, be sure to rotate which heroes are in the s
 
 #### Respites Between Sessions
 
-If your play time is limited, you can have the players do everything they need to do during a respite between your game sessions, provided they end a game session by taking a respite. Doing so lets you run any events over email or through a chat app. Then when folks return for the next session, they'll be ready to go with project rolls completed, XP tallied, and Stamina and Recoveries restored.
+If your play time is limited, you can have the players do everything they need to do during a respite between your game sessions, provided they end a game session by taking a respite. Doing so lets you run any events over email or through a chat app. Then when folks return for the next session, they'll be ready to go with project rolls completed, XP tallied, and [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md) restored.
 
 #### How Many Respites?
 
@@ -1304,7 +1304,7 @@ The heroes increase their wealth whenever they score a big payday or recover a h
 
 #### Awarding Hero Tokens
 
-You can award hero tokens to the players for taking risks with their heroes beyond what the game typically expects of them. For instance, battling a group of monsters is part of the game and doesn't earn a hero token. However, the following activities might:
+You can award [hero tokens](../../Browse/rule/resource/hero-token.md) to the players for taking risks with their heroes beyond what the game typically expects of them. For instance, battling a group of monsters is part of the game and doesn't earn a [hero token](../../Browse/rule/resource/hero-token.md). However, the following activities might:
 
 - A hero stands alone against a group of enemies to allow their comrades to escape.
 - A hero willingly jumps into quicksand, into lava, off a cliff, or into similar peril to save another character.

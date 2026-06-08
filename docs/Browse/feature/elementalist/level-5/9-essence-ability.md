@@ -47,7 +47,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.</p></div>
+<div class="sc-ability__section-body"><p>When the target ends their next turn, or if they drop to 0 <a href="../../../../rule/health/stamina/">Stamina</a> before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -75,7 +75,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area lasts until the start of your next turn. It is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies, and you and your allies have concealment while in the area.</p></div>
+<div class="sc-ability__section-body"><p>The area lasts until the start of your next turn. It is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies, and you and your allies have <a href="../../../../rule/combat/concealment/">concealment</a> while in the area.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>

@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 5 Wrath
 distance: Ranged 10
-effect: The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).
+effect: The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost by 3 (to a minimum cost of 0).
 flavor: A word in prayer, and the gods show the way.
 keywords:
     - Magic
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).</p></div>
+<div class="sc-ability__section-body"><p>The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a> cost by 3 (to a minimum cost of 0).</p></div>
 </div>
 </article>

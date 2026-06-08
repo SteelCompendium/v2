@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You steel yourself for imminent danger by tapping into your body&#39;s cold energy. At the start of any combat, you gain a number of surges equal to your Victories.</p>
+<p>You steel yourself for imminent danger by tapping into your body&#39;s cold energy. At the start of any combat, you gain a number of <a href="../../../../rule/resource/surge/">surges</a> equal to your Victories.</p>
 </div>
 </section>

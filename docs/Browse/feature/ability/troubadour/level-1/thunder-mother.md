@@ -2,7 +2,7 @@
 action_type: No action
 class: troubadour
 distance: Ranged 10
-effect: At the end of each combat round while this performance is active, you can make a power roll against the target that ignores cover. You can't target the same creature twice with this effect.
+effect: At the end of each combat round while this performance is active, you can make a power roll against the target that ignores [cover](../../../../rule/combat/cover.md). You can't target the same creature twice with this effect.
 flavor: All for thunder motherrr! ♪ Run and hide for coverrr!♪
 keywords:
     - Magic
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each combat round while this performance is active, you can make a power roll against the target that ignores cover. You can&#39;t target the same creature twice with this effect.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each combat round while this performance is active, you can make a power roll against the target that ignores <a href="../../../../../rule/combat/cover/">cover</a>. You can&#39;t target the same creature twice with this effect.</p></div>
 </div>
 </article>

@@ -49,11 +49,11 @@ In a tactical game, *positioning matters*. So our game is played on a grid. Effe
 
 That means *teamwork matters*. That's why the order of combat works the way it does—to encourage the players to plan! "Okay, you use [Concussive Slam](../../Browse/feature/ability/time-raider/concussive-slam.md) on that trooper, it'll push him back, and on my turn, I can use Squad! Forward! to get us all into melee with the death captain." We think focusing on teamwork also makes the game more heroic!
 
-In a tactical game, you have many choices each combat round. You are never reduced to just swinging your sword. You have options. If we do a good job, you don't feel as if you outlasted your opponents because you wore their Stamina down before they could reduce yours to 0-you feel like you *beat* those hobgoblins! Through stealth and sorcery, coordination and ferocity!
+In a tactical game, you have many choices each combat round. You are never reduced to just swinging your sword. You have options. If we do a good job, you don't feel as if you outlasted your opponents because you wore their [Stamina](../../Browse/rule/health/stamina.md) down before they could reduce yours to 0-you feel like you *beat* those hobgoblins! Through stealth and sorcery, coordination and ferocity!
 
 As you play with the same group of characters, you learn what they can all do. You discover synergies, "combos." Some of them intended by the designers, some not! You start to learn these unique characters, and to rely on them to do their cool things. It's a great feeling when another player comes up with a cool plan that relies on your unique abilities.
 
-You learn which characters are the "squishies" who need to be protected or healed. You learn which characters can push themselves right to the edge and keep fighting. "Don't worry about healing Barlaca. She's our [fury](../../Browse/class/fury.md). She's happier with 3 Stamina." Our game is not *about* tactics. It's not a wargame. But it is tactical.
+You learn which characters are the "squishies" who need to be protected or healed. You learn which characters can push themselves right to the edge and keep fighting. "Don't worry about healing Barlaca. She's our [fury](../../Browse/class/fury.md). She's happier with 3 [Stamina](../../Browse/rule/health/stamina.md)." Our game is not *about* tactics. It's not a wargame. But it is tactical.
 
 ### Heroic
 
@@ -99,10 +99,10 @@ For us, fantasy includes magic, like wizards casting spells, and psionics, the n
 
 We know that many folks are coming to this game having only experienced d20 fantasy RPGs. This section details a few key distinctions between this game and typical d20 fantasy that you'll notice right away. These aren't the only distinctions, but they're the most obvious.
 
-- **Character options are different.** We strongly recommend you start exploring *Draw Steel* by looking through the character creation section before you decide what you want to play. You can't just assume the [conduit](../../Browse/class/conduit.md) is "basically a cleric." In some ways, it is! But in other ways, it's quite different. You might have some cool character archetype you love to play in d20 fantasy, and you're dying to see how that might work in *Draw Steel*. But you'll have a lot more fun if you start by browsing the [Ancestries](ancestries.md) and [Classes](classes.md) sections and getting inspired. Once you know a bit more about how the game works, you'll have a better handle on how to build your favorite character the *Draw Steel* way.
+- **Character options are different.** We strongly recommend you start exploring *Draw Steel* by looking through the character creation section before you decide what you want to play. You can't just assume the [conduit](../../Browse/class/conduit.md) is "basically a cleric." In some ways, it is! But in other ways, it's quite different. You might have some cool character archetype you love to play in d20 fantasy, and you're [dying](../../Browse/rule/health/dying.md) to see how that might work in *Draw Steel*. But you'll have a lot more fun if you start by browsing the [Ancestries](ancestries.md) and [Classes](classes.md) sections and getting inspired. Once you know a bit more about how the game works, you'll have a better handle on how to build your favorite character the *Draw Steel* way.
 - **Smaller bonuses and penalties.** *Draw Steel* is built around the roll of two ten-sided dice to produce three possible outcomes—tier 1, tier 2, or tier 3. On the surface, this might not seem that different from rolling a twenty-sided die and having two outcomes—success or failure. But we've run the math. A lot. A bonus of +1 or penalty of −2 is significant in *Draw Steel*, much more so than in a typical d20 fantasy game. That means you should feel pretty good attempting most power rolls—the rolls you make to determine success both in and out of combat—if you have a decent characteristic bonus to add to those rolls. And if you have a specific skill that applies to a power roll made as a test outside of combat, you'll do even better.
 - **Abilities automatically deal damage.** When you use an ability—one of the unique combat features that defines your character—you can still have a bad turn! A tier 1 outcome with minimal damage and effects is the worst outcome you can obtain with an ability. It's not awesome. But you're still always making progress. The question is: Who's making progress faster? You or the monsters? Since there's no, "I miss, who's next?" in this game, fights typically last 3 or fewer rounds. A fight that lasts 5 rounds is a *long* fight. Because everyone's always doing damage!
-- **You don't need to rest all the time.** Most d20 fantasy games are games of attrition. Your spell slots and other features dwindle as the adventuring day goes on. In *Draw Steel*, you need to rest to regain your Stamina and Recoveries—the stats that determine how robust you are in combat. But all characters earn the capability to use their magic and other awesome abilities as they adventure, encouraging you to press on heroically.
+- **You don't need to rest all the time.** Most d20 fantasy games are games of attrition. Your spell slots and other features dwindle as the adventuring day goes on. In *Draw Steel*, you need to rest to regain your [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md)—the stats that determine how robust you are in combat. But all characters earn the capability to use their magic and other awesome abilities as they adventure, encouraging you to press on heroically.
 - **Our game has a lot of skills.** Your character can make use of a long list of skills, but we don't expect you to memorize that list. We get into why the [Tests](tests.md) chapter features so many skills, but the short version is that we think having a lot of skills allows you to create more distinct and specialized heroes, which supports the sort of gameplay we want to see in *Draw Steel*. And skills in the game aren't tied to characteristics. If you're trying to lose someone in a crowd, you can use Presence—the characteristic that represents your character's force of personality—to try to hide! Why not?
 - **We won't be able to point out every difference.** Beyond what's noted here, don't assume that these rules work like any d20 fantasy game you've played. We don't have the space to point out every exception. So if you're in doubt about how something works, put d20 fantasy out of your mind and read our rules without those assumptions, and you'll find that things make better sense. If you're still confused, stop by the *MCDM Discord* and ask. We've got tons of awesome community members ready to help!
 - **We don't expect you to do everything to the letter.** This is actually one thing *Draw Steel* does have in common with d20 fantasy. This is a big book of rules! Don't stress if you need to look something up or make a ruling about an edge case on the fly. If everyone's having fun, you're doing it right.
@@ -157,7 +157,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Career](careers.md):** The job a hero had before becoming a hero.
 
-**[Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) Maneuver:** A maneuver that allows a hero to spend a Recovery and regain Stamina equal to their recovery value.
+**[Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) Maneuver:** A maneuver that allows a hero to spend a [Recovery](../../Browse/rule/health/recoveries.md) and regain [Stamina](../../Browse/rule/health/stamina.md) equal to their [recovery value](../../Browse/rule/health/recoveries.md).
 
 **[Censor](../../Browse/class/censor.md):** A class for a hero who is a trained warrior devoted to a saint or god.
 
@@ -167,7 +167,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Ceiling](../../Browse/rule/general/ground.md):** Any solid surface above a creature.
 
-**[Clarity](../../Browse/feature/talent/level-1/clarity-and-strain.md):** The [talent's](../../Browse/class/talent.md) Heroic Resource. Unlike other Heroic Resources, clarity can go below 0, leaving a [talent](../../Browse/class/talent.md) strained.
+**[Clarity](../../Browse/feature/talent/level-1/clarity-and-strain.md):** The [talent's](../../Browse/class/talent.md) [Heroic Resource](../../Browse/rule/resource/heroic-resource.md). Unlike other [Heroic Resources](../../Browse/rule/resource/heroic-resource.md), clarity can go below 0, leaving a [talent](../../Browse/class/talent.md) strained.
 
 **[Class](classes.md):** A hero's current role, which largely determines how they interact with the game's rules.
 
@@ -211,7 +211,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **d100:** A hundred-sided die, usually rolled using two d10s.
 
-**[Damage](../../Browse/rule/damage/damage.md):** A harmful effect that reduces the Stamina of a creature or object.
+**[Damage](../../Browse/rule/damage/damage.md):** A harmful effect that reduces the [Stamina](../../Browse/rule/health/stamina.md) of a creature or object.
 
 **[Damage Immunity](../../Browse/rule/damage/damage-immunity.md):** A trait that allows a target to reduce damage they take of a specific damage type. Damage immunity is expressed as "[damage type] immunity X," or "damage immunity X" to represent immunity to all damage. Damage of the specified type dealt to the target is reduced by X.
 
@@ -233,7 +233,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Director](for-the-director.md):** The player who prepares, presents, and adjudicates the game for all the other players, who each create and run a hero.
 
-**[Discipline](../../Browse/feature/null/level-1/discipline.md):** The [null's](../../Browse/class/null.md) Heroic Resource.
+**[Discipline](../../Browse/feature/null/level-1/discipline.md):** The [null's](../../Browse/class/null.md) [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
 **[Disengage](../../Browse/feature/common/move-actions/disengage.md) Move Action:** A move action that allows a creature to [shift](../../Browse/movement/shifting.md) 1 square.
 
@@ -247,11 +247,11 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Dragon Knight](../../Browse/ancestry/dragon-knight.md):** An ancestry with a draconic heritage.
 
-**[Drama](../../Browse/feature/troubadour/level-1/drama.md):** The [troubadour's](../../Browse/class/troubadour.md) Heroic Resource.
+**[Drama](../../Browse/feature/troubadour/level-1/drama.md):** The [troubadour's](../../Browse/class/troubadour.md) [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
 **[Dwarf](../../Browse/ancestry/dwarf.md):** An ancestry with stone skin and short stature.
 
-**[Dying](../../Browse/rule/health/dying.md):** A state a hero enters when their Stamina is 0 or lower but doesn't reach the negative of their winded value. While dying, a hero is [bleeding](../../Browse/condition/bleeding.md) and they can't use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver in combat. A hero dies when their Stamina equals the negative of their winded value.
+**[Dying](../../Browse/rule/health/dying.md):** A state a hero enters when their [Stamina](../../Browse/rule/health/stamina.md) is 0 or lower but doesn't reach the negative of their [winded](../../Browse/rule/health/winded.md) value. While dying, a hero is [bleeding](../../Browse/condition/bleeding.md) and they can't use the [Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) maneuver in combat. A hero dies when their [Stamina](../../Browse/rule/health/stamina.md) equals the negative of their [winded](../../Browse/rule/health/winded.md) value.
 
 **[Echelon](../../Browse/rule/general/echelon.md):** A grouping of heroic levels that informs players of the types of heroic deeds the heroes can achieve. There are four echelons of play: 1st echelon (1st to 3rd level), 2nd echelon (4th to 6th level), 3rd echelon (7th to 9th level), and 4th echelon (10th level).
 
@@ -267,19 +267,19 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md) Maneuver:** A maneuver that allows a [grabbed](../../Browse/condition/grabbed.md) creature to make an ability roll to escape.
 
-**[Essence](../../Browse/feature/elementalist/level-1/essence.md):** The [elementalist's](../../Browse/class/elementalist.md) Heroic Resource.
+**[Essence](../../Browse/feature/elementalist/level-1/essence.md):** The [elementalist's](../../Browse/class/elementalist.md) [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
 **[Experience (XP)](../../Browse/rule/resource/experience.md):** A hero's Victories convert to Experience when they finish a respite. Experience permanently increases a hero's capabilities by allowing them to increase in level.
 
 **[Falling](../../Browse/rule/health/falling.md):** When a creature falls 2 or more squares, they take 2 damage for each square they fall (to a maximum of 50 damage) and land [prone](../../Browse/condition/prone.md). A falling creature can reduce the effective height of their fall by a number of squares equal to their Agility score (minimum 0).
 
-**[Ferocity](../../Browse/feature/fury/level-1/ferocity.md):** The [fury's](../../Browse/class/fury.md) Heroic Resource.
+**[Ferocity](../../Browse/feature/fury/level-1/ferocity.md):** The [fury's](../../Browse/class/fury.md) [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
 **[Flanking](../../Browse/rule/combat/flanking.md):** When two or more allied creatures are adjacent to and on opposite sides of an enemy, those creatures are flanking that enemy. A creature flanking an enemy gains an edge on melee strikes against that enemy.
 
 **[Fly](../../Browse/movement/fly.md):** A movement mode available to creatures with "[fly](../../Browse/movement/fly.md)" in their speed entry, or who gain the capability to temporarily [fly](../../Browse/movement/fly.md). Such creatures can move through the air horizontally or diagonally at full speed and remain in midair. If a flying creature is made [prone](../../Browse/condition/prone.md) or has their speed reduced to 0, they fall.
 
-**[Focus](../../Browse/feature/tactician/level-1/focus.md):** The [tactician's](../../Browse/class/tactician.md) Heroic Resource.
+**[Focus](../../Browse/feature/tactician/level-1/focus.md):** The [tactician's](../../Browse/class/tactician.md) [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
 **[Forced Movement](../../Browse/movement/forced-movement.md):** When an ability or effect compels a creature to move, usually against their will. There are three types of [forced movement](../../Browse/movement/forced-movement.md): a pull, a push, and a slide. [Forced movement](../../Browse/movement/forced-movement.md) is always along the ground unless noted as vertical. [Forced movement](../../Browse/movement/forced-movement.md) can be reduced by stability.
 
@@ -309,13 +309,13 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Hakaan](../../Browse/ancestry/hakaan.md):** An ancestry with stone giant blood.
 
-**[Heal](../../Browse/feature/common/main-actions/heal.md) Main Action:** A main action that allows a creature to target an adjacent creature to make them feel better. The target can spend a Recovery to regain Stamina, or can make a saving throw against one effect.
+**[Heal](../../Browse/feature/common/main-actions/heal.md) Main Action:** A main action that allows a creature to target an adjacent creature to make them feel better. The target can spend a [Recovery](../../Browse/rule/health/recoveries.md) to regain [Stamina](../../Browse/rule/health/stamina.md), or can make a saving throw against one effect.
 
 **[Hero](making-a-hero.md):** A player character, created and run by a player other than the Director.
 
-**[Heroic Ability](../../Browse/rule/general/heroic-ability.md):** An ability used by a hero that costs a Heroic Resource to activate.
+**[Heroic Ability](../../Browse/rule/general/heroic-ability.md):** An ability used by a hero that costs a [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) to activate.
 
-**[Hero Tokens](../../Browse/rule/resource/hero-token.md):** A group resource that is shared by all heroes, and which can be spent to gain surges, succeed on saving throws, reroll tests, or regain Stamina.
+**[Hero Tokens](../../Browse/rule/resource/hero-token.md):** A group resource that is shared by all heroes, and which can be spent to gain [surges](../../Browse/rule/resource/surge.md), succeed on saving throws, reroll tests, or regain [Stamina](../../Browse/rule/health/stamina.md).
 
 **[Heroic Resource](../../Browse/rule/resource/heroic-resource.md):** A measure of a hero's combat power that increases during battle, and which can be spent to use abilities or improve their effectiveness.
 
@@ -333,7 +333,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Implement](../../Browse/rule/treasure/implement.md):** A piece of jewelry, a staff, an orb, a wand, or some other object used by a creature to channel supernatural power.
 
-**[Insight](../../Browse/feature/shadow/level-1/insight.md):** The [shadow's](../../Browse/class/shadow.md) Heroic Resource.
+**[Insight](../../Browse/feature/shadow/level-1/insight.md):** The [shadow's](../../Browse/class/shadow.md) [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
 **[Interest](../../Browse/rule/negotiation/interest.md):** A negotiation statistic that determines how interested an NPC is in helping out the heroes.
 
@@ -413,7 +413,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Perk](perks.md):** A feature available to all heroes that helps with exploration, investigation, negotiation, and more.
 
-**[Piety](../../Browse/feature/conduit/level-1/piety.md):** The [conduit's](../../Browse/class/conduit.md) Heroic Resource.
+**[Piety](../../Browse/feature/conduit/level-1/piety.md):** The [conduit's](../../Browse/class/conduit.md) [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 
 **[Pitfall](../../Browse/rule/negotiation/pitfall.md):** A negotiation trait an NPC has that determines what type of arguments will not work on them.
 
@@ -449,15 +449,15 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Reason](../../Browse/rule/character/reason.md):** A characteristic that represents a creature's logical mind and education.
 
-**[Recoveries](../../Browse/rule/health/recoveries.md):** A limited healing resource that all heroes have, allowing them to regain Stamina lost to damage.
+**[Recoveries](../../Browse/rule/health/recoveries.md):** A limited healing resource that all heroes have, allowing them to regain [Stamina](../../Browse/rule/health/stamina.md) lost to damage.
 
-**[Recovery Value](../../Browse/rule/health/recoveries.md):** The amount of Stamina a hero regains when they spend a Recovery, equal to one-third of their Stamina maximum.
+**[Recovery Value](../../Browse/rule/health/recoveries.md):** The amount of [Stamina](../../Browse/rule/health/stamina.md) a hero regains when they spend a Recovery, equal to one-third of their [Stamina](../../Browse/rule/health/stamina.md) maximum.
 
 **[Renown](../../Browse/rule/resource/renown.md):** A measure of a hero's fame.
 
 **[Research Project](../../Browse/rule/downtime/research-project.md):** A downtime project undertaken to discover lore or learn something new.
 
-**[Respite](../../Browse/rule/resource/respite.md):** A 24-hour period of focused rest that allows heroes to regain Stamina and Recoveries, and to work on downtime projects.
+**[Respite](../../Browse/rule/resource/respite.md):** A 24-hour period of focused rest that allows heroes to regain [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md), and to work on downtime projects.
 
 **[Respite Activity](../../Browse/rule/resource/respite.md):** An activity that can be undertaken during a respite. A hero can take one respite activity per respite.
 
@@ -489,7 +489,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Side](../../Browse/rule/combat/side.md):** A group of creatures working together in a combat encounter.
 
-**[Signature Ability](../../Browse/rule/combat/signature-ability.md):** An ability a character can use without spending a Heroic Resource, or that a monster can use without the Director spending Malice.
+**[Signature Ability](../../Browse/rule/combat/signature-ability.md):** An ability a character can use without spending a [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), or that a monster can use without the Director spending Malice.
 
 **[Size](../../Browse/rule/character/size.md):** An indication of a creature's space and their overall weight and height relative to other creatures.
 
@@ -507,7 +507,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Stability](../../Browse/rule/character/stability.md):** A measure of a creature's immovability. When a creature is [force moved](../../Browse/movement/forced-movement.md), the distance they can be [force moved](../../Browse/movement/forced-movement.md) is reduced by a number of squares equal to their stability.
 
-**[Stamina](../../Browse/rule/health/stamina.md):** A measure of a creature's health and vitality. When a hero's Stamina is reduced to 0 or lower, they are dying. When a nonhero creature's Stamina is reduced to 0, they die or are knocked unconscious, as determined by the creature who reduced them to 0 Stamina.
+**[Stamina](../../Browse/rule/health/stamina.md):** A measure of a creature's health and vitality. When a hero's Stamina is reduced to 0 or lower, they are [dying](../../Browse/rule/health/dying.md). When a nonhero creature's Stamina is reduced to 0, they die or are knocked unconscious, as determined by the creature who reduced them to 0 Stamina.
 
 **[Stand Up](../../Browse/feature/common/maneuvers/stand-up.md) Maneuver:** A maneuver that a [prone](../../Browse/condition/prone.md) creature can use to end the [prone](../../Browse/condition/prone.md) condition on themself. Alternatively, a creature can use this maneuver on a willing adjacent [prone](../../Browse/condition/prone.md) creature to end the [prone](../../Browse/condition/prone.md) condition on them.
 
@@ -537,7 +537,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Teleport](../../Browse/movement/teleport.md):** Moving from one location to another instantaneously. [Teleporting](../../Browse/movement/teleport.md) requires line of effect to the space where a creature ends up, bypasses obstacles, and doesn't provoke opportunity attacks or other effects triggered by moving.
 
-**[Temporary Stamina](../../Browse/rule/health/temporary-stamina.md):** An additional pool of Stamina that decreases first when a creature takes damage, and which disappears at the end of an encounter if not already lost.
+**[Temporary Stamina](../../Browse/rule/health/temporary-stamina.md):** An additional pool of [Stamina](../../Browse/rule/health/stamina.md) that decreases first when a creature takes damage, and which disappears at the end of an encounter if not already lost.
 
 **[Test](../../Browse/rule/test/test.md):** A power roll made by a creature to affect or interact with the world around them that doesn't use an ability. Skills can be applied to tests.
 
@@ -585,8 +585,8 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Wealth](../../Browse/rule/resource/wealth.md):** A measure of a hero's material worth.
 
-**[Winded](../../Browse/rule/health/winded.md):** A state a creature enters when their Stamina is equal to or less than their winded value (half their Stamina maximum).
+**[Winded](../../Browse/rule/health/winded.md):** A state a creature enters when their [Stamina](../../Browse/rule/health/stamina.md) is equal to or less than their winded value (half their [Stamina](../../Browse/rule/health/stamina.md) maximum).
 
 **[Wode Elf](../../Browse/ancestry/wode-elf.md):** A fey ancestry in tune with magical forests.
 
-**[Wrath](../../Browse/feature/censor/level-1/wrath.md):** The [censor's](../../Browse/class/censor.md) Heroic Resource.
+**[Wrath](../../Browse/feature/censor/level-1/wrath.md):** The [censor's](../../Browse/class/censor.md) [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).

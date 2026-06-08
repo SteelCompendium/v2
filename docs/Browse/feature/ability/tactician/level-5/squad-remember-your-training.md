@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 9 Focus
 distance: Ranged 10
-effect: Each target gains 1 surge and can use a signature ability that has a double edge.
+effect: Each target gains 1 [surge](../../../../rule/resource/surge.md) and can use a signature ability that has a double edge.
 flavor: You remind your allies how to best use their gear.
 keywords:
     - Ranged
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 1 surge and can use a signature ability that has a double edge.</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 1 <a href="../../../../../rule/resource/surge/">surge</a> and can use a signature ability that has a double edge.</p></div>
 </div>
 </article>

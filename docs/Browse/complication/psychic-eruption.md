@@ -23,12 +23,12 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 > |-------------------|---------------------------------:|
 > | **📏 3 burst**    | **🎯 Each creature in the area** |
 >
-> **Effect:** Using this ability costs all your Heroic Resource.
+> **Effect:** Using this ability costs all your [Heroic Resource](../rule/resource/heroic-resource.md).
 >
 > **Power Roll + Your Highest Characteristic Score:**
 >
-> - **≤11:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level
-> - **12-16:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level + your highest characteristic
-> - **17+:** 1 psychic damage for each Heroic Resource you spend
+> - **≤11:** 1 psychic damage for each [Heroic Resource](../rule/resource/heroic-resource.md) you spend, to a maximum equal to your level
+> - **12-16:** 1 psychic damage for each [Heroic Resource](../rule/resource/heroic-resource.md) you spend, to a maximum equal to your level + your highest characteristic
+> - **17+:** 1 psychic damage for each [Heroic Resource](../rule/resource/heroic-resource.md) you spend
 
 **Drawback:** Whenever you become [bleeding](../condition/bleeding.md), [frightened](../condition/frightened.md), or [weakened](../condition/weakened.md), you must use Psychic Blast as a free triggered action.

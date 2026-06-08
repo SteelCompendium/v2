@@ -1,6 +1,6 @@
 ---
 echelon: "2"
-effect: As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 surge.
+effect: As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 [surge](../../../rule/resource/surge.md).
 keywords:
     - Neck
     - Psionic
@@ -26,4 +26,4 @@ type: treasure
 
 **Project Goal:** 300
 
-**Effect:** As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 surge.
+**Effect:** As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 [surge](../../../rule/resource/surge.md).

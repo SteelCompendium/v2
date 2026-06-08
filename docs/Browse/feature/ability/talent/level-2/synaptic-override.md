@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 5 Clarity
 distance: Ranged 10
-effect: You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
+effect: You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../../../rule/health/dying.md), or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
 flavor: You control an enemy's nervous system. How pleasant for them.
 keywords:
     - Psionic
@@ -49,7 +49,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You control the target&#39;s movement. The target can&#39;t be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.</p></div>
+<div class="sc-ability__section-body"><p>You control the target&#39;s movement. The target can&#39;t be moved in a way that would harm them (such as over a cliff), leave them <a href="../../../../../rule/health/dying/">dying</a>, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

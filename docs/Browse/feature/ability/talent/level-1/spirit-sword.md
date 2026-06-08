@@ -2,7 +2,7 @@
 action_type: Main action
 class: talent
 distance: Melee 2
-effect: You gain 1 surge.
+effect: You gain 1 [surge](../../../../rule/resource/surge.md).
 flavor: You form a blade of mind energy and stab your target, invigorating yourself.
 keywords:
     - Animapathy
@@ -50,7 +50,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>You gain 1 <a href="../../../../../rule/resource/surge/">surge</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

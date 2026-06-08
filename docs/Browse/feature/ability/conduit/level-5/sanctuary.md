@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 9 Piety
 distance: Ranged 10
-effect: The target is removed from the encounter map until the start of their next turn and can spend any number of Recoveries. At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.
+effect: The target is removed from the encounter map until the start of their next turn and can spend any number of [Recoveries](../../../../rule/health/recoveries.md). At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.
 flavor: You send yourself or an ally to a divine manifold to instantaneously regain health.
 keywords:
     - Magic
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is removed from the encounter map until the start of their next turn and can spend any number of Recoveries. At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.</p></div>
+<div class="sc-ability__section-body"><p>The target is removed from the encounter map until the start of their next turn and can spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>. At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.</p></div>
 </div>
 </article>

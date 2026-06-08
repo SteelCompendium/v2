@@ -56,7 +56,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>One ally within 5 squares of the target gains 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>One ally within 5 squares of the target gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -84,7 +84,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target has none of your allies adjacent to them, you gain 1 surge before making the power roll.</p></div>
+<div class="sc-ability__section-body"><p>If the target has none of your allies adjacent to them, you gain 1 <a href="../../../../rule/resource/surge/">surge</a> before making the power roll.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -112,7 +112,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If any ally is adjacent to the target, you gain 1 surge before making the power roll.</p></div>
+<div class="sc-ability__section-body"><p>If any ally is adjacent to the target, you gain 1 <a href="../../../../rule/resource/surge/">surge</a> before making the power roll.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -140,7 +140,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>As long as you have one or more allies within 5 squares of the target, you gain 1 surge. If you are flanking the target when you use this ability, choose one ally who is flanking with you. That ally also gains 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>As long as you have one or more allies within 5 squares of the target, you gain 1 <a href="../../../../rule/resource/surge/">surge</a>. If you are <a href="../../../../rule/combat/flanking/">flanking</a> the target when you use this ability, choose one ally who is <a href="../../../../rule/combat/flanking/">flanking</a> with you. That ally also gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</p></div>
 </div>
 </article>
 </div>

@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then <a href="../../../../movement/shifting/">shift</a> up to 2 squares. Additionally, any ally using the <a href="../../../common/main-actions/charge/">Charge</a> main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee <a href="../../../common/main-actions/free-strike/">free strike</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, the first time on a turn that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then <a href="../../../../movement/shifting/">shift</a> up to 2 squares. Additionally, any ally using the <a href="../../../common/main-actions/charge/">Charge</a> main action to target a creature marked by you can use a melee strike signature ability or a melee strike heroic ability instead of a melee <a href="../../../common/main-actions/free-strike/">free strike</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -59,7 +59,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, that creature gains 2 surges, which they can use immediately.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, whenever you or any ally deals damage to a target marked by you, that creature gains 2 <a href="../../../../rule/resource/surge/">surges</a>, which they can use immediately.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -79,7 +79,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R &lt; AVERAGE, the target is <a href="../../../../condition/frightened/">frightened</a> of the creature who dealt the damage (save ends).</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, whenever you or any ally deals damage to a target marked by you who has R &lt; AVERAGE, the target is <a href="../../../../condition/frightened/">frightened</a> of the creature who dealt the damage (save ends).</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -99,7 +99,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, whenever you or any ally deals damage to a target marked by you, the creature who dealt the damage can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
 </div>

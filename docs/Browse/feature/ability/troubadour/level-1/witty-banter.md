@@ -13,7 +13,7 @@ level: "1"
 name: Witty Banter
 power_roll_characteristic: Presence
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/witty-banter
-spend: '1 Drama: The chosen ally can spend a Recovery.'
+spend: '1 Drama: The chosen ally can spend a [Recovery](../../../../rule/health/recoveries.md).'
 subtype: signature
 target: One creature
 tier1: 4 + P psychic damage
@@ -53,5 +53,5 @@ type: ability
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">The chosen ally can spend a Recovery.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1 Drama</span><span class="txt">The chosen ally can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</span></div>
 </article>

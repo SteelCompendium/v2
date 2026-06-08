@@ -234,7 +234,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Goal:** 300
 
-**Effect:** While worn, this belt grants you a +3 bonus to Stamina and a +1 bonus to Stability. This Stamina bonus adds to the Stamina bonus granted by other treasures.
+**Effect:** While worn, this belt grants you a +3 bonus to [Stamina](../health/stamina.md) and a +1 bonus to Stability. This [Stamina](../health/stamina.md) bonus adds to the [Stamina](../health/stamina.md) bonus granted by other treasures.
 
 ### Evilest Eye {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.trinket/evilest-eye"}
 
@@ -250,7 +250,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Project Goal:** 300
 
-**Effect:** As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 surge.
+**Effect:** As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain 1 [surge](../resource/surge.md).
 
 ### Insightful Crown {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.trinket/insightful-crown"}
 

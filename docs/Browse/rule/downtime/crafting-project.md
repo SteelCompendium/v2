@@ -117,7 +117,7 @@ Imbuing treasure with supernatural power as a downtime project typically means y
 
 ### Imbue Armor {data-scc="mcdm.heroes.v1/rule.treasure/enhancement"}
 
-Armor imbued with an enhancement grants you special benefits while it is worn. Additionally, when your armor receives its 1st-level enhancement, it also grants a +6 bonus to Stamina. A 5th-level enhancement increases the Stamina bonus to +12, and a 9th-level enhancement increases it to +21.
+Armor imbued with an enhancement grants you special benefits while it is worn. Additionally, when your armor receives its 1st-level enhancement, it also grants a +6 bonus to [Stamina](../health/stamina.md). A 5th-level enhancement increases the [Stamina](../health/stamina.md) bonus to +12, and a 9th-level enhancement increases it to +21.
 
 > **Clothing as Armor Treasures**
 >
@@ -180,11 +180,11 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Absorption:** Whenever you are targeted by a magic or psionic ability that targets only one creature, you can use a free triggered action to cause this armor to absorb the ability after the ability's effects resolve. While the armor has an ability absorbed, you can't absorb another.
 
-You can use an absorbed ability as if you knew it, making power rolls for the ability using your choice of Reason, Intuition, or Presence. You don't need to spend any Heroic Resource to activate the ability. Once you use the ability, the armor loses it, and you can absorb another.
+You can use an absorbed ability as if you knew it, making power rolls for the ability using your choice of Reason, Intuition, or Presence. You don't need to spend any [Heroic Resource](../resource/heroic-resource.md) to activate the ability. Once you use the ability, the armor loses it, and you can absorb another.
 
 **Damage Immunity II:** The damage immunity conveyed by the armor increases to 10.
 
-**Dragon Soul:** When another creature causes you to be winded or dying, you can use a free triggered action to cause the soul of a dragon to emerge from this armor and hurtle toward the creature. Make the following power roll against the creature.
+**Dragon Soul:** When another creature causes you to be [winded](../health/winded.md) or [dying](../health/dying.md), you can use a free triggered action to cause the soul of a dragon to emerge from this armor and hurtle toward the creature. Make the following power roll against the creature.
 
 **Power Roll + Your Highest Characteristic Score:**
 
@@ -202,7 +202,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Reactive:** Whenever you take damage, you have damage immunity 2 until the end of your next turn after the triggering damage is resolved.
 
-**Second Wind:** Whenever you become winded, you can use a free triggered action to spend a Recovery.
+**Second Wind:** Whenever you become [winded](../health/winded.md), you can use a free triggered action to spend a [Recovery](../health/recoveries.md).
 
 **Shattering:** Whenever an enemy scores a critical hit against you, they take 10 sonic damage.
 
@@ -234,9 +234,9 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Project Goal:** 150
 
-**Devil's Bargain:** You can [fly](../../movement/fly.md). Additionally, if an effect would make you [prone](../../condition/prone.md) while [flying](../../movement/fly.md), you can choose to not make you [prone](../../condition/prone.md) by losing Stamina equal to the distance you would have fallen from make you [prone](../../condition/prone.md).
+**Devil's Bargain:** You can [fly](../../movement/fly.md). Additionally, if an effect would make you [prone](../../condition/prone.md) while [flying](../../movement/fly.md), you can choose to not make you [prone](../../condition/prone.md) by losing [Stamina](../health/stamina.md) equal to the distance you would have fallen from make you [prone](../../condition/prone.md).
 
-**Dragon Soul II:** While you are winded, your head transforms into a dragon's head and you have the following ability.
+**Dragon Soul II:** While you are [winded](../health/winded.md), your head transforms into a dragon's head and you have the following ability.
 
 #### Dragon's Fire {data-scc="mcdm.heroes.v1/feature.ability.common/dragons-fire"}
 
@@ -256,7 +256,7 @@ You can use an absorbed ability as if you knew it, making power rolls for the ab
 
 **Leyline Walker:** Once per turn as a move action, you can spend any amount of your movement to instead [teleport](../../movement/teleport.md) that distance.
 
-**Life:** Whenever you would die, you can spend a Recovery to regain Stamina instead. If you have no Recoveries to spend, you die.
+**Life:** Whenever you would die, you can spend a [Recovery](../health/recoveries.md) to regain [Stamina](../health/stamina.md) instead. If you have no [Recoveries](../health/recoveries.md) to spend, you die.
 
 **Magic Resistance III:** The benefit of the armor's Magic Resistance II enhancement extends to each ally within 3 squares of you.
 
@@ -311,13 +311,13 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have speed 5 and can automatically climb at full speed while moving, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
 
-**Rejuvenating I:** Whenever you use an ability that costs 1 or more of your Heroic Resource, roll a d10. On a 9 or higher, you gain 1 Heroic Resource.
+**Rejuvenating I:** Whenever you use an ability that costs 1 or more of your [Heroic Resource](../resource/heroic-resource.md), roll a d10. On a 9 or higher, you gain 1 [Heroic Resource](../resource/heroic-resource.md).
 
 **Seeking:** Your ranged magic or psionic abilities gain a +2 distance bonus. Additionally, if you think the name of a specific creature, place, or object to the implement, the implement points toward that target, provided you are on the same world.
 
 **Thought Sending:** Your ranged magic and psionic abilities gain a +2 distance bonus. Additionally, you can telepathically communicate with any willing creature who knows a language and whose name you know, provided they are on the same world as you. You must initiate the conversation, but once you do, the creature can respond until you end the conversation.
 
-**Warding I:** You gain a +6 bonus to Stamina.
+**Warding I:** You gain a +6 bonus to [Stamina](../health/stamina.md).
 
 #### 1st-Level Implement Enhancements Table
 
@@ -357,9 +357,9 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Lingering I:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature takes 8 damage at the start of your next turn.
 
-**Rejuvenating II:** Whenever you use an ability that costs 1 or more of your Heroic Resource, roll a d10. On an 8 or higher, you gain 1 Heroic Resource and you can spend a Recovery. This replaces the benefit of Rejuvenating I.
+**Rejuvenating II:** Whenever you use an ability that costs 1 or more of your [Heroic Resource](../resource/heroic-resource.md), roll a d10. On an 8 or higher, you gain 1 [Heroic Resource](../resource/heroic-resource.md) and you can spend a [Recovery](../health/recoveries.md). This replaces the benefit of Rejuvenating I.
 
-**Warding II:** The Stamina bonus for the Warding I enhancement becomes +12. Additionally, your characteristic scores are treated as 1 higher for the purpose of resisting potencies.
+**Warding II:** The [Stamina](../health/stamina.md) bonus for the Warding I enhancement becomes +12. Additionally, your characteristic scores are treated as 1 higher for the purpose of resisting potencies.
 
 #### 5th-Level Implement Enhancements Table
 
@@ -397,11 +397,11 @@ An implement imbued with an enhancement grants you special benefits while it is 
 
 **Piercing:** Your magic and psionic abilities ignore damage immunities.
 
-**Psionic Siphon:** Once per turn when you damage one or more creatures using a magic or psionic ability and obtain a tier 3 outcome, you gain Stamina equal to your highest characteristic score, and one creature you damage takes an extra 5 damage.
+**Psionic Siphon:** Once per turn when you damage one or more creatures using a magic or psionic ability and obtain a tier 3 outcome, you gain [Stamina](../health/stamina.md) equal to your highest characteristic score, and one creature you damage takes an extra 5 damage.
 
-**Rejuvenating III:** Whenever you use an ability that costs 1 or more of your Heroic Resource, roll a d10. On a 7 or higher, you gain 1 Heroic Resource, and you or a creature of your choice within 3 squares can spend a Recovery. This replaces the benefit of Rejuvenating II.
+**Rejuvenating III:** Whenever you use an ability that costs 1 or more of your [Heroic Resource](../resource/heroic-resource.md), roll a d10. On a 7 or higher, you gain 1 [Heroic Resource](../resource/heroic-resource.md), and you or a creature of your choice within 3 squares can spend a [Recovery](../health/recoveries.md). This replaces the benefit of Rejuvenating II.
 
-**Warding III:** The Stamina bonus for the Warding I enhancement becomes +18. Additionally, you and each ally within 3 squares of you has their characteristic scores treated as 1 higher for the purpose of resisting potencies. This replaces the benefit of Warding II.
+**Warding III:** The [Stamina](../health/stamina.md) bonus for the Warding I enhancement becomes +18. Additionally, you and each ally within 3 squares of you has their characteristic scores treated as 1 higher for the purpose of resisting potencies. This replaces the benefit of Warding II.
 
 #### 9th-Level Implement Enhancements Table
 
@@ -435,15 +435,15 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Project Goal:** 150
 
-**Blood Bargain:** As a maneuver, you can harm yourself with the weapon, taking 1d6 damage that can't be reduced in any way. An ally within 5 squares can then spend a Recovery.
+**Blood Bargain:** As a maneuver, you can harm yourself with the weapon, taking 1d6 damage that can't be reduced in any way. An ally within 5 squares can then spend a [Recovery](../health/recoveries.md).
 
 **Chilling I:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 3 cold damage.
 
-**Disrupting I:** Whenever you damage an undead using this weapon and leave that undead with 15 Stamina or less, they drop to 0 Stamina.
+**Disrupting I:** Whenever you damage an undead using this weapon and leave that undead with 15 [Stamina](../health/stamina.md) or less, they drop to 0 [Stamina](../health/stamina.md).
 
 **Hurling:** Whenever you use a melee ability using this weapon, you can throw the weapon by treating the ability's distance as ranged 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the [grabbed](../../condition/grabbed.md) or [restrained](../../condition/restrained.md) conditions.
 
-**Merciful:** Whenever you reduce a non-undead creature to 0 Stamina using this weapon, the creature falls unconscious and wakes up 1d6 hours later. A creature with the Heal skill can wake the unconscious creature early with 1 uninterrupted minute of medical treatment. Whenever the creature wakes, they regain 1 Stamina.
+**Merciful:** Whenever you reduce a non-undead creature to 0 [Stamina](../health/stamina.md) using this weapon, the creature falls unconscious and wakes up 1d6 hours later. A creature with the Heal skill can wake the unconscious creature early with 1 uninterrupted minute of medical treatment. Whenever the creature wakes, they regain 1 [Stamina](../health/stamina.md).
 
 **Terrifying I:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 2 psychic damage.
 
@@ -496,7 +496,7 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 >
 > **Devastating:** Whenever you make an ability roll using this weapon, the number you need to roll to score a critical hit is reduced by 1.
 >
-> **Disrupting II:** Whenever you damage an undead using this weapon and leave that undead with 30 Stamina or less, they drop to 0 Stamina. This replaces the benefit of Disrupting I.
+> **Disrupting II:** Whenever you damage an undead using this weapon and leave that undead with 30 [Stamina](../health/stamina.md) or less, they drop to 0 [Stamina](../health/stamina.md). This replaces the benefit of Disrupting I.
 >
 > **Metamorphic:** You can change this weapon's shape and form as a maneuver, granting one of the following benefits of your choice:
 >
@@ -538,13 +538,13 @@ A hero who has a kit that uses unarmed strikes, such as the [Martial Artist](../
 
 **Chilling III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 9 cold damage and is [slowed](../../condition/slowed.md) (save ends). This replaces the benefit of Chilling II.
 
-**Disrupting III:** Whenever you damage an undead using this weapon and leave that undead with 50 Stamina or less, they immediately drop to 0 Stamina. If you instead leave the undead with 100 Stamina or less, they are [frightened](../../condition/frightened.md) (save ends). This replaces the benefit of Disrupting II.
+**Disrupting III:** Whenever you damage an undead using this weapon and leave that undead with 50 [Stamina](../health/stamina.md) or less, they immediately drop to 0 [Stamina](../health/stamina.md). If you instead leave the undead with 100 [Stamina](../health/stamina.md) or less, they are [frightened](../../condition/frightened.md) (save ends). This replaces the benefit of Disrupting II.
 
-**Draining:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also [weakened](../../condition/weakened.md) (save ends). Each time you weaken a creature with this weapon, you gain 1 surge.
+**Draining:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also [weakened](../../condition/weakened.md) (save ends). Each time you weaken a creature with this weapon, you gain 1 [surge](../resource/surge.md).
 
 **Imprisoning:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature is also [restrained](../../condition/restrained.md) (save ends). While [restrained](../../condition/restrained.md) in this way, the creature can't use magic or psionic abilities.
 
-**Nova:** Whenever you damage a creature using this weapon, each enemy adjacent to you takes damage based on the tier outcome of the power roll-2 damage for tier 1, 6 for tier 2, or 10 for tier 3. Additionally, while you are winded, you have the following ability.
+**Nova:** Whenever you damage a creature using this weapon, each enemy adjacent to you takes damage based on the tier outcome of the power roll-2 damage for tier 1, 6 for tier 2, or 10 for tier 3. Additionally, while you are [winded](../health/winded.md), you have the following ability.
 
 #### Nova
 

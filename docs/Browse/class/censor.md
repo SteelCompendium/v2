@@ -39,11 +39,11 @@ As a [censor](censor.md), you're at your best against the strongest foes. Your [
 
 **Strong Potency:** Presence
 
-**Starting Stamina at 1st Level:** 21
+**Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 21
 
-**Stamina Gained at 2nd and Higher Levels:** 9
+**[Stamina](../rule/health/stamina.md) Gained at 2nd and Higher Levels:** 9
 
-**Recoveries:** 12
+**[Recoveries](../rule/health/recoveries.md):** 12
 
 **Skills:** Choose any two skills from the interpersonal or lore skill groups (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). (*Quick Build:* [Intimidate](../skill/intimidate.md), [Religion](../skill/religion.md).)
 
@@ -84,7 +84,7 @@ After choosing your deity, pick one domain from their portfolio. Your choice of 
 
 ### Wrath {data-scc="mcdm.heroes.v1/feature.censor.level-1/wrath"}
 
-The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you [censor](censor.md) those your church deems to be heretics.
+The power you serve grants you a [Heroic Resource](../rule/resource/heroic-resource.md) called wrath, fueling your abilities as you [censor](censor.md) those your church deems to be heretics.
 
 #### Wrath in Combat
 
@@ -117,7 +117,7 @@ You pick out the enemies most worthy of your wrath and place a divine [judgment]
 
 Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
 
-When a creature judged by you is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target.
+When a creature judged by you is reduced to 0 [Stamina](../rule/health/stamina.md), you can use a free triggered action to use this ability against a new target.
 
 Additionally, you can spend 1 wrath to take one of the following free triggered actions:
 
@@ -155,7 +155,7 @@ You channel your will to mend your wounds or the wounds of your allies. You have
 
 **Trigger:** The target starts their turn or takes damage.
 
-**Effect:** You spend a Recovery and the target regains Stamina equal to your recovery value.
+**Effect:** You spend a [Recovery](../rule/health/recoveries.md) and the target regains [Stamina](../rule/health/stamina.md) equal to your [recovery value](../rule/health/recoveries.md).
 
 **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a [prone](../condition/prone.md) target can stand up.
 
@@ -232,7 +232,7 @@ You have the following ability.
 |----------------|-------------------------:|
 | **📏 Melee 1** | **🎯 One dead creature** |
 
-**Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
+**Effect:** You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of [dying](../rule/health/dying.md) can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 
 #### Hands of the Maker {data-scc="mcdm.heroes.v1/feature.censor.level-1/hands-of-the-maker"}
 
@@ -267,7 +267,7 @@ You can spend 10 uninterrupted minutes to create a [protective circle](../featur
 
 #### Revitalizing Ritual {data-scc="mcdm.heroes.v1/feature.censor.level-1/revitalizing-ritual"}
 
-Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. The chosen character gains a bonus to their recovery value equal to your level that lasts until you finish another respite.
+Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. The chosen character gains a bonus to their [recovery value](../rule/health/recoveries.md) equal to your level that lasts until you finish another respite.
 
 #### Sanctified Weapon {data-scc="mcdm.heroes.v1/feature.censor.level-1/sanctified-weapon"}
 
@@ -402,7 +402,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 - **12-16:** 8 + M holy damage
 - **17+:** 11 + M holy damage
 
-**Effect:** You can spend a Recovery to allow yourself or one ally within 10 squares to regain Stamina equal to your recovery value.
+**Effect:** You can spend a [Recovery](../rule/health/recoveries.md) to allow yourself or one ally within 10 squares to regain [Stamina](../rule/health/stamina.md) equal to your [recovery value](../rule/health/recoveries.md).
 
 ##### Repent! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/repent"}
 
@@ -472,7 +472,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 - **12-16:** 3 + M holy damage
 - **17+:** 5 + M holy damage
 
-**Effect:** When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.
+**Effect:** When a target who is not a leader or solo creature is made [winded](../rule/health/winded.md) by this ability, they are reduced to 0 [Stamina](../rule/health/stamina.md).
 
 ##### Purifying Fire {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/purifying-fire"}
 
@@ -521,7 +521,7 @@ Your focus on your fragmentary visions grants divine insight into the world and 
 
 #### Lead by Example {data-scc="mcdm.heroes.v1/feature.censor.level-2/lead-by-example"}
 
-Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are adjacent to a creature, your allies gain the benefits of flanking against that creature. Additionally, your allies gain an edge on tests made to aid other creatures with their tests.
+Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are adjacent to a creature, your allies gain the benefits of [flanking](../rule/combat/flanking.md) against that creature. Additionally, your allies gain an edge on tests made to aid other creatures with their tests.
 
 #### Saint's Vigilance {data-scc="mcdm.heroes.v1/feature.censor.level-2/saints-vigilance"}
 
@@ -586,7 +586,7 @@ Choose one of the following abilities.
 
 **Trigger:** An enemy within 10 squares starts their turn.
 
-**Effect:** You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.
+**Effect:** You can spend a [Recovery](../rule/health/recoveries.md) to allow the target to regain [Stamina](../rule/health/stamina.md) equal to your [recovery value](../rule/health/recoveries.md). The target can then take their turn immediately before the triggering enemy.
 
 ##### With My Blessing {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/with-my-blessing"}
 
@@ -597,7 +597,7 @@ Choose one of the following abilities.
 |-------------------|------------------------:|
 | **📏 Ranged 10**  | **🎯 Self or one ally** |
 
-**Effect:** The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).
+**Effect:** The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its [Heroic Resource](../rule/resource/heroic-resource.md) cost by 3 (to a minimum cost of 0).
 
 #### 2nd-Level Paragon Ability
 
@@ -612,7 +612,7 @@ Choose one of the following abilities.
 |-----------------|--------------------------------------:|
 | **📏 3 aura**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target gains 1 [surge](../rule/resource/surge.md) at the end of each of your turns.
 
 ##### Sentenced {data-scc="mcdm.heroes.v1/feature.ability.censor.level-2/sentenced"}
 
@@ -637,7 +637,7 @@ As a 3rd-level [censor](censor.md), you gain the following features.
 
 ### Look On My Work and Despair {data-scc="mcdm.heroes.v1/feature.censor.level-3/look-on-my-work-and-despair"}
 
-Your [judgment](../feature/ability/censor/level-1/judgment.md) has grown in [divine power](../feature/conduit/level-10/divine-power.md), instilling fear in those you condemn. Whenever you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are [frightened](../condition/frightened.md) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 Stamina and you use [Judgment](../feature/ability/censor/level-1/judgment.md) as a free triggered action, if the new target has P < STRONG, they are [frightened](../condition/frightened.md) of you (save ends). If the target is already [frightened](../condition/frightened.md) of you, they instead take holy damage equal to twice your Presence score.
+Your [judgment](../feature/ability/censor/level-1/judgment.md) has grown in [divine power](../feature/conduit/level-10/divine-power.md), instilling fear in those you condemn. Whenever you use your [Judgment](../feature/ability/censor/level-1/judgment.md) ability, you can spend 1 wrath, and if the target has P < AVERAGE, they are [frightened](../condition/frightened.md) of you (save ends). Additionally, whenever a creature judged by you is reduced to 0 [Stamina](../rule/health/stamina.md) and you use [Judgment](../feature/ability/censor/level-1/judgment.md) as a free triggered action, if the new target has P < STRONG, they are [frightened](../condition/frightened.md) of you (save ends). If the target is already [frightened](../condition/frightened.md) of you, they instead take holy damage equal to twice your Presence score.
 
 ### 7-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-3/7-wrath-ability"}
 
@@ -652,7 +652,7 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 |-----------------|------------------------------:|
 | **📏 2 aura**   | **🎯 Each enemy in the area** |
 
-**Effect:** Until the end of the encounter or until you are dying, each target takes holy damage equal to your Presence score at the end of each of your turns. A target takes an extra 2d6 holy damage if they are judged by you or if they are adjacent to any enemy.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target takes holy damage equal to your Presence score at the end of each of your turns. A target takes an extra 2d6 holy damage if they are judged by you or if they are adjacent to any enemy.
 
 #### Edict of Perfect Order {data-scc="mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-perfect-order"}
 
@@ -663,7 +663,7 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 |-----------------|------------------------------:|
 | **📏 2 aura**   | **🎯 Each enemy in the area** |
 
-**Effect:** Until the end of the encounter or until you are dying, whenever a target uses an ability that costs Malice (see *Draw Steel: Monsters*), they take holy damage equal to three times your Presence score. A target judged by you takes an extra 2d6 holy damage.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever a target uses an ability that costs Malice (see *Draw Steel: Monsters*), they take holy damage equal to three times your Presence score. A target judged by you takes an extra 2d6 holy damage.
 
 #### Edict of Purifying Pacifism {data-scc="mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-purifying-pacifism"}
 
@@ -674,7 +674,7 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 |-----------------|------------------------------:|
 | **📏 2 aura**   | **🎯 Each enemy in the area** |
 
-**Effect:** Until the end of the encounter or until you are dying, whenever a target makes a strike, they take holy damage equal to twice your Presence score. A target judged by you takes an extra 2d6 holy damage.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever a target makes a strike, they take holy damage equal to twice your Presence score. A target judged by you takes an extra 2d6 holy damage.
 
 #### Edict of Stillness {data-scc="mcdm.heroes.v1/feature.ability.censor.level-3/edict-of-stillness"}
 
@@ -685,7 +685,7 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 |-----------------|------------------------------:|
 | **📏 2 aura**   | **🎯 Each enemy in the area** |
 
-**Effect:** Until the end of the encounter or until you are dying, whenever a target moves or is [force moved](../movement/forced-movement.md) out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever a target moves or is [force moved](../movement/forced-movement.md) out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
 
 ## 4th-Level Features
 
@@ -730,7 +730,7 @@ You gain a domain feature from your domain, as shown on the 4th-Level [Censor](c
 
 #### Blessing of Life {data-scc="mcdm.heroes.v1/feature.censor.level-4/blessing-of-life"}
 
-Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) ability regains Stamina, they regain additional Stamina equal to your Presence score.
+Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) ability regains [Stamina](../rule/health/stamina.md), they regain additional [Stamina](../rule/health/stamina.md) equal to your Presence score.
 
 #### Blessing of Secrets {data-scc="mcdm.heroes.v1/feature.censor.level-4/blessing-of-secrets"}
 
@@ -771,7 +771,7 @@ As a maneuver, you make your body shine brightly, illuminating your space and ea
 
 #### Oracular Warning {data-scc="mcdm.heroes.v1/feature.censor.level-4/oracular-warning"}
 
-Each time you finish a respite, you can share the vague dreams of the future granted to you by the gods with allies who finished the respite with you. These premonitions help you and your allies stay alive, granting each of you temporary Stamina equal to 10 + your level that lasts until you finish another respite.
+Each time you finish a respite, you can share the vague dreams of the future granted to you by the gods with allies who finished the respite with you. These premonitions help you and your allies stay alive, granting each of you [temporary Stamina](../rule/health/temporary-stamina.md) equal to 10 + your level that lasts until you finish another respite.
 
 #### Seance {data-scc="mcdm.heroes.v1/feature.censor.level-4/seance"}
 
@@ -817,7 +817,7 @@ You discard each roll as it is used, and each time you earn Victories, you add n
 
 #### Stand Fast! {data-scc="mcdm.heroes.v1/feature.censor.level-5/stand-fast"}
 
-Your divine spark grows in power, allowing you and your allies to focus and endure. At the start of each of your turns, you can spend 1d6 Stamina to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Any ally who starts their turn within 5 squares of you can also spend Stamina to gain this benefit.
+Your divine spark grows in power, allowing you and your allies to focus and endure. At the start of each of your turns, you can spend 1d6 [Stamina](../rule/health/stamina.md) to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Any ally who starts their turn within 5 squares of you can also spend [Stamina](../rule/health/stamina.md) to gain this benefit.
 
 ### 9-Wrath Ability {data-scc="mcdm.heroes.v1/feature.censor.level-5/9-wrath-ability"}
 
@@ -832,7 +832,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 |------------------|------------------------:|
 | **📏 Ranged 10** | **🎯 Self or one ally** |
 
-**Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../condition/prone.md) can stand up. The target then gains 2 surges, can [shift](../movement/shifting.md) up to their speed while ignoring [difficult terrain](../movement/difficult-terrain.md), and can use a strike signature ability as a free triggered action.
+**Effect:** The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../condition/prone.md) can stand up. The target then gains 2 [surges](../rule/resource/surge.md), can [shift](../movement/shifting.md) up to their speed while ignoring [difficult terrain](../movement/difficult-terrain.md), and can use a strike signature ability as a free triggered action.
 
 #### Orison of Victory {data-scc="mcdm.heroes.v1/feature.ability.censor.level-5/orison-of-victory"}
 
@@ -845,9 +845,9 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 
 **Power Roll + Presence:**
 
-- **≤11:** Each target gains 1 surge.
-- **12-16:** Each target gains 2 surges.
-- **17+:** Each target gains 3 surges.
+- **≤11:** Each target gains 1 [surge](../rule/resource/surge.md).
+- **12-16:** Each target gains 2 [surges](../rule/resource/surge.md).
+- **17+:** Each target gains 3 [surges](../rule/resource/surge.md).
 
 **Effect:** A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a [prone target](../condition/prone.md) can stand up.
 
@@ -866,7 +866,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 - **12-16:** 14 + M damage
 - **17+:** 20 + M damage
 
-**Effect:** Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 surge.
+**Effect:** Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 [surge](../rule/resource/surge.md).
 
 #### Shield of the Righteous {data-scc="mcdm.heroes.v1/feature.ability.censor.level-5/shield-of-the-righteous"}
 
@@ -879,9 +879,9 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 
 **Power Roll + Might:**
 
-- **≤11:** 10 + M damage; you and each ally adjacent to you gain 10 temporary Stamina
-- **12-16:** 14 + M damage; you and each ally adjacent to you gain 15 temporary Stamina
-- **17+:** 20 + M damage; you and each ally adjacent to you gain 20 temporary Stamina
+- **≤11:** 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md)
+- **12-16:** 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../rule/health/temporary-stamina.md)
+- **17+:** 20 + M damage; you and each ally adjacent to you gain 20 [temporary Stamina](../rule/health/temporary-stamina.md)
 
 ## 6th-Level Features
 
@@ -893,7 +893,7 @@ Each time you finish a respite, you can choose one hero's weapon, including your
 
 - Strikes with the weapon deal extra holy damage equal to the wielder's highest characteristic score.
 - Any creature struck by the weapon who has holy weakness and has P < STRONG is [frightened](../condition/frightened.md) and [weakened](../condition/weakened.md) (save ends).
-- Any minion targeted by a strike using the weapon dies. That minion's Stamina maximum is removed from the minion Stamina pool before any damage is applied to the rest of the squad.
+- Any minion targeted by a strike using the weapon dies. That minion's [Stamina](../rule/health/stamina.md) maximum is removed from the minion [Stamina](../rule/health/stamina.md) pool before any damage is applied to the rest of the squad.
 - The weapon's wielder can't be made [frightened](../condition/frightened.md).
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.censor.level-6/perk"}
@@ -964,7 +964,7 @@ Choose one of the following abilities.
 |-----------------|------------------------------:|
 | **📏 3 aura**   | **🎯 Each enemy in the area** |
 
-**Effect:** Until the end of the encounter or until you are dying, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.
 
 #### 6th-Level Paragon Abilities
 
@@ -985,7 +985,7 @@ Choose one of the following abilities.
 - **12-16:** 12 + M damage; as a free triggered action, one ally within 10 squares of the target can use a strike signature ability that gains an edge against the target
 - **17+:** 16 + M damage; as a free triggered action, two allies within 10 squares of the target can each use a strike signature ability that gains an edge against the target
 
-**Effect:** Each ally can [shift](../movement/shifting.md) up to 2 squares and gains 2 surges before making the strike.
+**Effect:** Each ally can [shift](../movement/shifting.md) up to 2 squares and gains 2 [surges](../rule/resource/surge.md) before making the strike.
 
 ##### Intercede {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/intercede"}
 
@@ -998,7 +998,7 @@ Choose one of the following abilities.
 
 **Trigger:** A creature makes a strike against the target.
 
-**Effect:** The target is unaffected by the strike and you become the target instead, even if you aren't a valid target for it. You take half the damage from the strike, and the target gains 3 surges.
+**Effect:** The target is unaffected by the strike and you become the target instead, even if you aren't a valid target for it. You take half the damage from the strike, and the target gains 3 [surges](../rule/resource/surge.md).
 
 ## 7th-Level Features
 
@@ -1031,7 +1031,7 @@ You gain a domain feature from your domain, as shown on the 7th-Level [Censor](c
 
 #### Blessing of Iron {data-scc="mcdm.heroes.v1/feature.censor.level-7/blessing-of-iron"}
 
-The gods send divine favor to you and your allies. While you are not dying, enemies take a bane on strikes against you or any ally within 3 squares of you.
+The gods send divine favor to you and your allies. While you are not [dying](../rule/health/dying.md), enemies take a bane on strikes against you or any ally within 3 squares of you.
 
 #### Covenant of the Heart {data-scc="mcdm.heroes.v1/feature.censor.level-7/covenant-of-the-heart"}
 
@@ -1054,7 +1054,7 @@ Each time you finish a respite, you can choose a treasure with a project goal eq
 
 #### Font of Grace {data-scc="mcdm.heroes.v1/feature.censor.level-7/font-of-grace"}
 
-Each time you use your [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this wrath, it is lost. Additionally, the target of [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) gains 10 temporary Stamina.
+Each time you use your [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don't use this wrath, it is lost. Additionally, the target of [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) gains 10 [temporary Stamina](../rule/health/temporary-stamina.md).
 
 #### Gods' Library {data-scc="mcdm.heroes.v1/feature.censor.level-7/gods-library"}
 
@@ -1069,7 +1069,7 @@ Sun infuses your body. Whenever you use an ability to deal rolled damage to anot
 When you finish a respite, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:
 
 - Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different damage immunity each time.
-- Each creature gains 20 temporary Stamina.
+- Each creature gains 20 [temporary Stamina](../rule/health/temporary-stamina.md).
 - Each creature gains a +1 bonus to speed.
 - Each creature gains a +1 bonus to saving throws.
 - Each creature gains an edge on tests made to influence other creatures.
@@ -1097,13 +1097,13 @@ You have the following ability.
 
 #### Word of Death Deferred {data-scc="mcdm.heroes.v1/feature.censor.level-7/word-of-death-deferred"}
 
-You can stop death from taking your allies. When an ally within distance of your [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
+You can stop death from taking your allies. When an ally within distance of your [My Life for Yours](../feature/ability/censor/level-1/my-life-for-yours.md) ability dies and you are not [dying](../rule/health/dying.md), you can use a free triggered action to instead have that ally fall unconscious until they regain [Stamina](../rule/health/stamina.md).
 
-Additionally, your abilities deal an extra 5 damage to winded creatures.
+Additionally, your abilities deal an extra 5 damage to [winded](../rule/health/winded.md) creatures.
 
 #### Word of Fate Denied {data-scc="mcdm.heroes.v1/feature.censor.level-7/word-of-fate-denied"}
 
-When an ally within 10 squares takes damage that would leave them dying, you can use a free triggered action to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can't be reduced in any way.
+When an ally within 10 squares takes damage that would leave them [dying](../rule/health/dying.md), you can use a free triggered action to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can't be reduced in any way.
 
 #### Your Triumphs Are Remembered {data-scc="mcdm.heroes.v1/feature.censor.level-7/your-triumphs-are-remembered"}
 
@@ -1143,7 +1143,7 @@ The most esoteric secrets of your order teach you that to defeat your enemy, you
 
 #### Their Past Revealed {data-scc="mcdm.heroes.v1/feature.censor.level-8/their-past-revealed"}
 
-Your constant fragmentary visions become clearer, and can be honed to understand the past of creatures you interact with. While speaking with any creature, you can make a medium Presence test to see visions from their past. On a success, you see a clear view of any subject related to the creature's past that you wish to understand. On a success with a consequence, you see two visions, one false and one true. On a failure, you lose 2d6 Stamina.
+Your constant fragmentary visions become clearer, and can be honed to understand the past of creatures you interact with. While speaking with any creature, you can make a medium Presence test to see visions from their past. On a success, you see a clear view of any subject related to the creature's past that you wish to understand. On a success with a consequence, you see two visions, one false and one true. On a failure, you lose 2d6 [Stamina](../rule/health/stamina.md).
 
 #### Vow {data-scc="mcdm.heroes.v1/feature.censor.level-8/vow"}
 
@@ -1185,7 +1185,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 - **12-16:** 15 + M damage
 - **17+:** 21 + M damage
 
-**Effect:** Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of flanking.
+**Effect:** Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of [flanking](../rule/combat/flanking.md).
 
 #### Pillar of Holy Fire {data-scc="mcdm.heroes.v1/feature.ability.censor.level-8/pillar-of-holy-fire"}
 
@@ -1256,7 +1256,7 @@ Choose one of the following abilities.
 - **12-16:** 8 + M damage; P < AVERAGE, the target is banished (save ends)
 - **17+:** 11 + M damage; P < STRONG, the target is banished (save ends)
 
-**Effect:** This ability gains an edge against demons, [devils](../ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.
+**Effect:** This ability gains an edge against demons, [devils](../ancestry/devil.md), undead, and creatures not native to your current world. If you know the target's true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 [Stamina](../rule/health/stamina.md) while banished, they are lost to the timescape.
 
 ##### Terror Manifest {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/terror-manifest"}
 
@@ -1273,7 +1273,7 @@ Choose one of the following abilities.
 - **12-16:** 10 + P psychic damage; P < AVERAGE, [frightened](../condition/frightened.md) (save ends)
 - **17+:** 13 + P psychic damage; P < STRONG, [frightened](../condition/frightened.md) (save ends)
 
-**Effect:** While [frightened](../condition/frightened.md) this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target [frightened](../condition/frightened.md) this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
+**Effect:** While [frightened](../condition/frightened.md) this way, if a target who is a leader or solo creature is [winded](../rule/health/winded.md), they take an extra 25 psychic damage. If a target [frightened](../condition/frightened.md) this way is not a leader or solo creature and is [winded](../rule/health/winded.md), they are reduced to 0 [Stamina](../rule/health/stamina.md).
 
 #### 9th-Level Oracle Abilities
 
@@ -1324,7 +1324,7 @@ Choose one of the following abilities.
 - **12-16:** 19 + M holy damage
 - **17+:** 26 + M holy damage
 
-**Effect:** Until the end of the encounter or until you are dying, the target has damage weakness 10.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), the target has damage weakness 10.
 
 ##### Edict of Unyielding Resolve {data-scc="mcdm.heroes.v1/feature.ability.censor.level-9/edict-of-unyielding-resolve"}
 
@@ -1335,7 +1335,7 @@ Choose one of the following abilities.
 |-----------------|--------------------------------------:|
 | **📏 2 aura**   | **🎯 Self and each ally in the area** |
 
-**Effect:** Until the end of the encounter or until you are dying, each target who starts their turn in the area gains 10 temporary Stamina.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), each target who starts their turn in the area gains 10 [temporary Stamina](../rule/health/temporary-stamina.md).
 
 ## 10th-Level Features
 

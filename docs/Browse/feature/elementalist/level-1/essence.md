@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You channel the substance of creation in the form of a Heroic Resource called essence, gathering and burning it to cast and maintain spells.</p>
+<p>You channel the substance of creation in the form of a <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> called essence, gathering and burning it to cast and maintain spells.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">

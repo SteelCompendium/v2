@@ -43,7 +43,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The target gains 2 surges. You are <a href="../../../../condition/weakened/">weakened</a> and <a href="../../../../condition/slowed/">slowed</a> (save ends).</p></div>
+<div class="sc-ability__section-body"><p>The target gains 2 <a href="../../../../rule/resource/surge/">surges</a>. You are <a href="../../../../condition/weakened/">weakened</a> and <a href="../../../../condition/slowed/">slowed</a> (save ends).</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

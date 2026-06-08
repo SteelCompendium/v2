@@ -3,7 +3,7 @@ action_type: Maneuver
 class: fury
 cost: 7 Ferocity
 distance: Self
-effect: You gain 20 temporary Stamina.
+effect: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 flavor: See how useless their weapons are!
 keywords:
     - Magic
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 20 temporary Stamina.</p></div>
+<div class="sc-ability__section-body"><p>You gain 20 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p></div>
 </div>
 </article>

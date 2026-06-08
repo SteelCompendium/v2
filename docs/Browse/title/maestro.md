@@ -16,8 +16,8 @@ type: title
 
 **Effect:** Choose one of the following benefits:
 
-- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one class act triggered action from the [troubadour](../class/troubadour.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the Heroic Resource of your class in place of drama.
-- *Devil's Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one class act triggered action from the [troubadour](../class/troubadour.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the [Heroic Resource](../rule/resource/heroic-resource.md) of your class in place of drama.
+- *Devil's Opera:* You have the following ability, which can be paid for using the [Heroic Resource](../rule/resource/heroic-resource.md) of your class.
 
 ## The Devil's Chord (9 Heroic Resource)
 

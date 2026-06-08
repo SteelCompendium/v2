@@ -7,7 +7,6 @@ ranged_damage_bonus: +1/+1/+1
 ranged_distance_bonus: "+5"
 scc: mcdm.heroes.v1/kit/ranger
 speed_bonus: "+1"
-stamina_bonus: +6 per echelon
 type: kit
 ---
 
@@ -23,7 +22,7 @@ You wear medium armor and wield a bow and a medium weapon.
 
 ## Kit Bonuses
 
-**Stamina Bonus:** +6 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +6 per echelon
 
 **Speed Bonus:** +1
 

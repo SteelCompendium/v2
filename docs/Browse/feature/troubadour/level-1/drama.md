@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called drama.</p>
+<p>During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> called drama.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -31,8 +31,8 @@ type: feature
 <div class="sc-trait__body">
 <p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain drama equal to your Victories. At the start of each of your turns during combat, you gain 1d3 drama.</p>
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>Additionally, you gain drama when certain events occur during a combat encounter:</p>
-<ul><li>The first time three or more heroes use an ability on the same turn, you gain 2 drama.</li><li>The first time any hero is made winded during the encounter, you gain 2 drama.</li><li>Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 drama.</li><li>When you or another hero dies, you gain 10 drama.</li></ul>
-<p>When you are dead, you continue to gain drama during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can&#39;t gain drama during future encounters.</p>
+<ul><li>The first time three or more heroes use an ability on the same turn, you gain 2 drama.</li><li>The first time any hero is made <a href="../../../../rule/health/winded/">winded</a> during the encounter, you gain 2 drama.</li><li>Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 drama.</li><li>When you or another hero dies, you gain 10 drama.</li></ul>
+<p>When you are dead, you continue to gain drama during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 <a href="../../../../rule/health/stamina/">Stamina</a> and 0 drama (no action required). If you are still dead after the encounter in which you died, you can&#39;t gain drama during future encounters.</p>
 <p>You lose any remaining drama at the end of the encounter.</p>
 </div>
 </section>

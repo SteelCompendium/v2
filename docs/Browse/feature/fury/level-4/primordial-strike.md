@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can manifest your ferocity directly as an elemental force created by the Primordial Chaos. As part of any strike, you can spend 1 ferocity to gain 1 surge that must be used for that strike. The extra damage dealt by the surge can be acid, cold, corruption, fire, lightning, poison, or sonic (your choice).</p>
+<p>You can manifest your ferocity directly as an elemental force created by the Primordial Chaos. As part of any strike, you can spend 1 ferocity to gain 1 <a href="../../../../rule/resource/surge/">surge</a> that must be used for that strike. The extra damage dealt by the <a href="../../../../rule/resource/surge/">surge</a> can be acid, cold, corruption, fire, lightning, poison, or sonic (your choice).</p>
 </div>
 </section>

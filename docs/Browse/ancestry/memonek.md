@@ -43,7 +43,7 @@ Count Revile shook his head. "Not like this. We are creatures of reason, we of A
 
 "At yourself ? Why? What did you...?"
 
-"John," the [memonek](memonek.md) said, and now it was his turn to whisper. "I was afraid. Afraid of... of being wounded, of failing you, failing my friends. Of dying. And out of that fear came... enormous anger. At myself. Anger that I was so weak so... useless. Anger so... strong, so powerful... I forgot who I was."
+"John," the [memonek](memonek.md) said, and now it was his turn to whisper. "I was afraid. Afraid of... of being wounded, of failing you, failing my friends. Of [dying](../rule/health/dying.md). And out of that fear came... enormous anger. At myself. Anger that I was so weak so... useless. Anger so... strong, so powerful... I forgot who I was."
 
 John chuckled. "That's just..." He smiled broadly. "That's just normal. We all feel that way."
 
@@ -139,4 +139,4 @@ Your ordered mind can't be caught off guard. You can't be made surprised.
 
 #### Useful Emotion {data-scc="mcdm.heroes.v1/feature.trait.memonek/useful-emotion"}
 
-Velloparatha—the worldsickness—might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 surge.
+Velloparatha—the worldsickness—might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 [surge](../rule/resource/surge.md).

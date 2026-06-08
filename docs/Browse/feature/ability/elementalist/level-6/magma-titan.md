@@ -43,6 +43,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 2</span></div>
-<div class="sc-ability__section-body"><p>The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 Recoveries.</p></div>
+<div class="sc-ability__section-body"><p>The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 <a href="../../../../../rule/health/recoveries/">Recoveries</a>.</p></div>
 </div>
 </article>

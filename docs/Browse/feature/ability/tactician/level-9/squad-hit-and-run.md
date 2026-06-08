@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 11 Focus
 distance: Ranged 10
-effect: Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can [shift](../../../../movement/shifting.md) up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.
+effect: Each target gains 2 [surges](../../../../rule/resource/surge.md), and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can [shift](../../../../movement/shifting.md) up to 2 squares and become hidden even if they have no [cover](../../../../rule/combat/cover.md) or [concealment](../../../../rule/combat/concealment.md), or if they are observed.
 flavor: I had to pry this secret from the [shadow college](../../../shadow/level-1/shadow-college.md)s.
 keywords:
     - Ranged
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares and become hidden even if they have no <a href="../../../../../rule/combat/cover/">cover</a> or <a href="../../../../../rule/combat/concealment/">concealment</a>, or if they are observed.</p></div>
 </div>
 </article>

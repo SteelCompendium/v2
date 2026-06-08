@@ -21,6 +21,6 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>Your connection to fire allows you to protect yourself from it, even as you rip away the protections of others. You have fire immunity equal to 5 plus your level. Additionally, fire damage you deal ignores a target&#39;s fire immunity.</p>
-<p>At the start of a combat encounter, you gain a number of surges equal to your Victories. Whenever you spend a surge to deal extra damage, you can make that damage fire damage.</p>
+<p>At the start of a combat encounter, you gain a number of <a href="../../../../rule/resource/surge/">surges</a> equal to your Victories. Whenever you spend a <a href="../../../../rule/resource/surge/">surge</a> to deal extra damage, you can make that damage fire damage.</p>
 </div>
 </section>

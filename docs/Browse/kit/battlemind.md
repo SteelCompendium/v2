@@ -5,7 +5,6 @@ name: Battlemind
 scc: mcdm.heroes.v1/kit/battlemind
 speed_bonus: "+2"
 stability_bonus: "+1"
-stamina_bonus: +3 per echelon
 type: kit
 ---
 
@@ -21,7 +20,7 @@ You wear light armor and wield a medium weapon.
 
 ## Kit Bonuses
 
-**Stamina Bonus:** +3 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +3 per echelon
 
 **Speed Bonus:** +2
 

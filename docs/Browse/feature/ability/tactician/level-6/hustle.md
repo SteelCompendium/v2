@@ -3,7 +3,7 @@ action_type: Maneuver
 class: tactician
 cost: 9 Focus
 distance: 2 burst
-effect: You mark two enemies within 10 squares of you. Each target can [shift](../../../../movement/shifting.md) up to their speed. You and each target gain 2 surges.
+effect: You mark two enemies within 10 squares of you. Each target can [shift](../../../../movement/shifting.md) up to their speed. You and each target gain 2 [surges](../../../../rule/resource/surge.md).
 flavor: You and your allies coordinate to form a new battle line.
 keywords:
     - Area
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You mark two enemies within 10 squares of you. Each target can <a href="../../../../../movement/shifting/">shift</a> up to their speed. You and each target gain 2 surges.</p></div>
+<div class="sc-ability__section-body"><p>You mark two enemies within 10 squares of you. Each target can <a href="../../../../../movement/shifting/">shift</a> up to their speed. You and each target gain 2 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>

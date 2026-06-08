@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The first time each combat round that you deal damage incorporating 1 or more surges, you gain 3 insight instead of 2.</p>
+<p>The first time each combat round that you deal damage incorporating 1 or more <a href="../../../../rule/resource/surge/">surges</a>, you gain 3 insight instead of 2.</p>
 </div>
 </section>

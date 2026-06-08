@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you spend a Recovery to regain Stamina while strained, you can forgo the Stamina and gain 3 clarity instead.</p>
+<p>Whenever you spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to regain <a href="../../../../rule/health/stamina/">Stamina</a> while strained, you can forgo the <a href="../../../../rule/health/stamina/">Stamina</a> and gain 3 clarity instead.</p>
 <p>Additionally, the first time each combat round that a creature is <a href="../../../../movement/forced-movement/">force moved</a>, you gain 2 clarity instead of 1.</p>
 </div>
 </section>

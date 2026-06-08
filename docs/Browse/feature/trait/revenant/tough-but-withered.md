@@ -19,7 +19,7 @@ type: trait
 </header>
 <div class="sc-trait__body">
 <p>Your undead body grants you immunity to cold, corruption, lightning, and poison damage equal to your level, but you have fire weakness 5. You can&#39;t suffocate, and you don&#39;t need to eat or drink to stay alive.</p>
-<p>Additionally, when your Stamina reaches the negative of your winded value, you become inert instead of dying. You fall <a href="../../../../condition/prone/">prone</a> and can&#39;t stand. You continue to observe your surroundings, but you can&#39;t speak, take main actions, maneuvers, move actions, or triggered actions. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.</p>
+<p>Additionally, when your <a href="../../../../rule/health/stamina/">Stamina</a> reaches the negative of your <a href="../../../../rule/health/winded/">winded</a> value, you become inert instead of <a href="../../../../rule/health/dying/">dying</a>. You fall <a href="../../../../condition/prone/">prone</a> and can&#39;t stand. You continue to observe your surroundings, but you can&#39;t speak, take main actions, maneuvers, move actions, or triggered actions. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain <a href="../../../../rule/health/stamina/">Stamina</a> equal to your <a href="../../../../rule/health/recoveries/">recovery value</a>.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -38,7 +38,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>For you, an open wound is indistinguishable from a scratch. You can&#39;t be made <a href="../../../../condition/bleeding/">bleeding</a> even while dying.</p>
+<p>For you, an open wound is indistinguishable from a scratch. You can&#39;t be made <a href="../../../../condition/bleeding/">bleeding</a> even while <a href="../../../../rule/health/dying/">dying</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

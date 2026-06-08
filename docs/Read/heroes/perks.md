@@ -55,7 +55,7 @@ Without needing to make a test—and even without tools—you can quickly jury-r
 
 #### Inspired Artisan {data-scc="mcdm.heroes.v1/perk/inspired-artisan"}
 
-When you make a project roll using a skill from the crafting skill group, you can spend a hero token to make another project roll for the same project as part of the same respite activity. You can't use this perk more than once per respite.
+When you make a project roll using a skill from the crafting skill group, you can spend a [hero token](../../Browse/rule/resource/hero-token.md) to make another project roll for the same project as part of the same respite activity. You can't use this perk more than once per respite.
 
 #### Traveling Artisan {data-scc="mcdm.heroes.v1/perk/traveling-artisan"}
 
@@ -73,11 +73,11 @@ This section presents exploration perks in alphabetical order.
 
 #### Brawny {data-scc="mcdm.heroes.v1/perk/brawny"}
 
-Whenever you fail a Might test, you can lose Stamina equal to 1d6 + your level to improve the outcome of the test by one tier. You can use this perk only once per test.
+Whenever you fail a Might test, you can lose [Stamina](../../Browse/rule/health/stamina.md) equal to 1d6 + your level to improve the outcome of the test by one tier. You can use this perk only once per test.
 
 #### Camouflage Hunter {data-scc="mcdm.heroes.v1/perk/camouflage-hunter"}
 
-Whenever you are in wilderness, once you are hidden from a creature, you don't need cover or concealment to stay hidden from them.
+Whenever you are in wilderness, once you are hidden from a creature, you don't need [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) to stay hidden from them.
 
 #### Danger Sense {data-scc="mcdm.heroes.v1/perk/danger-sense"}
 
@@ -101,7 +101,7 @@ During montage tests, whenever you make a test to assist a test and obtain a tie
 
 #### Team Leader {data-scc="mcdm.heroes.v1/perk/team-leader"}
 
-At the start of a group test or montage test, you can spend a hero token. If you do, all participants make tests as if they also had any skill you have from the exploration group.
+At the start of a group test or montage test, you can spend a [hero token](../../Browse/rule/resource/hero-token.md). If you do, all participants make tests as if they also had any skill you have from the exploration group.
 
 #### Teamwork {data-scc="mcdm.heroes.v1/perk/teamwork"}
 
@@ -133,7 +133,7 @@ You can make a Presence test using the Music skill to influence creatures who do
 
 #### Lie Detector {data-scc="mcdm.heroes.v1/perk/lie-detector"}
 
-In response to another creature communicating information to you, you can spend a hero token to determine whether that information contained any knowing lies. If so, you know what the lies are, but not what the truth is.
+In response to another creature communicating information to you, you can spend a [hero token](../../Browse/rule/resource/hero-token.md) to determine whether that information contained any knowing lies. If so, you know what the lies are, but not what the truth is.
 
 #### Open Book {data-scc="mcdm.heroes.v1/perk/open-book"}
 
@@ -173,7 +173,7 @@ Whenever a mundane trap activates within 3 squares, you can use a triggered acti
 
 #### Lucky Dog {data-scc="mcdm.heroes.v1/perk/lucky-dog"}
 
-Whenever you fail a test using any skill from the intrigue skill group, you can lose Stamina equal to 1d6 + your level to improve the outcome of the test by one tier. You can use this perk only once per test.
+Whenever you fail a test using any skill from the intrigue skill group, you can lose [Stamina](../../Browse/rule/health/stamina.md) equal to 1d6 + your level to improve the outcome of the test by one tier. You can use this perk only once per test.
 
 #### Master of Disguise {data-scc="mcdm.heroes.v1/perk/master-of-disguise"}
 
@@ -264,7 +264,7 @@ The spirit uses the [familiar](../../Browse/perk/familiar.md) stat block.
 
 The [familiar](../../Browse/perk/familiar.md) can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
 
-If your [familiar](../../Browse/perk/familiar.md) is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them back into existence in an unoccupied space adjacent to you.
+If your [familiar](../../Browse/perk/familiar.md) is destroyed, you can restore them as a respite activity, or by spending a [Recovery](../../Browse/rule/health/recoveries.md) as a main action to bring them back into existence in an unoccupied space adjacent to you.
 
 ###### Familiar Statblock
 
@@ -272,7 +272,7 @@ If your [familiar](../../Browse/perk/familiar.md) is destroyed, you can restore 
 
 |      [Familiar](../../Browse/perk/familiar.md)       |         -         |           Level -            |           -           |         EV -         |
 |:-------------------:|:-----------------:|:----------------------------:|:---------------------:|:--------------------:|
-|   **1T**<br>Size    |  **5**<br>Speed   | **2x your level**<br>Stamina |  **0**<br>Stability   | **-**<br>[Free Strike](../../Browse/feature/common/main-actions/free-strike.md) |
+|   **1T**<br>Size    |  **5**<br>Speed   | **2x your level**<br>[Stamina](../../Browse/rule/health/stamina.md) |  **0**<br>Stability   | **-**<br>[Free Strike](../../Browse/feature/common/main-actions/free-strike.md) |
 | **-**<br>Immunities | **-**<br>Movement |                              | **-**<br>With Captain | **-**<br>Weaknesses  |
 |   **-3**<br>Might   | **+2**<br>Agility |       **0**<br>Reason        |  **0**<br>Intuition   |  **+1**<br>Presence  |
 

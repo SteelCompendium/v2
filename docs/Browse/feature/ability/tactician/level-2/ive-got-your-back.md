@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 5 Focus
 distance: Ranged 5
-effect: One ally adjacent to the target can spend a Recovery.
+effect: One ally adjacent to the target can spend a [Recovery](../../../../rule/health/recoveries.md).
 flavor: Your enemy will think twice about attacking your friend.
 keywords:
     - Ranged
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>One ally adjacent to the target can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>One ally adjacent to the target can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>

@@ -18,7 +18,7 @@ type: title
 
 - *Blessed Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal holy damage instead of its usual damage type.
 - *Divine Health:* You gain corruption immunity equal to your highest characteristic score. Additionally, you can't be turned into an undead creature.
-- *Holy Terror:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *Holy Terror:* You have the following ability, which can be paid for using the [Heroic Resource](../rule/resource/heroic-resource.md) of your class.
 
 ## Holy Terror (3 Heroic Resource)
 

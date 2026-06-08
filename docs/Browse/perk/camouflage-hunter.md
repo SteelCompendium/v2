@@ -8,4 +8,4 @@ type: perk
 
 ---
 
-Whenever you are in wilderness, once you are hidden from a creature, you don't need cover or concealment to stay hidden from them.
+Whenever you are in wilderness, once you are hidden from a creature, you don't need [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md) to stay hidden from them.

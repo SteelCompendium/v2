@@ -240,7 +240,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You gain 1 surge that you can use immediately, and you take damage equal to your Reason score that can&#39;t be reduced in any way.</p></div>
+<div class="sc-ability__section-body"><p>You gain 1 <a href="../../../../rule/resource/surge/">surge</a> that you can use immediately, and you take damage equal to your Reason score that can&#39;t be reduced in any way.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -268,7 +268,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>You gain 1 <a href="../../../../rule/resource/surge/">surge</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -322,7 +322,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.</p></div>
+<div class="sc-ability__section-body"><p>If you target an ally, they gain <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -428,7 +428,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target uses an ability with a base Heroic Resource cost of 7 or lower that they&#39;ve previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.</p></div>
+<div class="sc-ability__section-body"><p>The target uses an ability with a base <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> cost of 7 or lower that they&#39;ve previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -476,7 +476,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target&#39;s stability increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This stability increase lasts until the target no longer has temporary Stamina from this ability.</p></div>
+<div class="sc-ability__section-body"><p>The target&#39;s stability increases by an amount equal to your Reason score, and they gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> and 2 <a href="../../../../rule/resource/surge/">surges</a>. This stability increase lasts until the target no longer has <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> from this ability.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

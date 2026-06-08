@@ -21,6 +21,6 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p>You are empowered by your audience, near and far. You can&#39;t be made <a href="../../../../condition/frightened/">frightened</a>, and if you <a href="../../../../condition/prone/">are prone</a>, you can stand up as a free maneuver.</p>
-<p>Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your <a href="../../level-1/scene-partner/">Scene Partner</a> feature + either your Victories or the number of players in your game (whichever is higher).</p>
+<p>Additionally, whenever you spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, you can forgo regaining <a href="../../../../rule/health/stamina/">Stamina</a> to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to 10 + the number of active bonds from your <a href="../../level-1/scene-partner/">Scene Partner</a> feature + either your Victories or the number of players in your game (whichever is higher).</p>
 </div>
 </section>

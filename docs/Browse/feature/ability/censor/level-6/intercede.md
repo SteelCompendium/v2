@@ -3,7 +3,7 @@ action_type: Free triggered
 class: censor
 cost: 9 Wrath
 distance: Ranged 10
-effect: The target is unaffected by the strike and you become the target instead, even if you aren't a valid target for it. You take half the damage from the strike, and the target gains 3 surges.
+effect: The target is unaffected by the strike and you become the target instead, even if you aren't a valid target for it. You take half the damage from the strike, and the target gains 3 [surges](../../../../rule/resource/surge.md).
 flavor: You take your ally's place.
 keywords:
     - Magic
@@ -42,6 +42,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is unaffected by the strike and you become the target instead, even if you aren&#39;t a valid target for it. You take half the damage from the strike, and the target gains 3 surges.</p></div>
+<div class="sc-ability__section-body"><p>The target is unaffected by the strike and you become the target instead, even if you aren&#39;t a valid target for it. You take half the damage from the strike, and the target gains 3 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>

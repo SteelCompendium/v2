@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can&#39;t be <a href="../../../../movement/forced-movement/">force moved</a>. You and any ally can touch the tree to use the <a href="../../../common/maneuvers/catch-breath/">Catch Breath</a> maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you <a href="../../../../condition/prone/">are prone</a>. Each ally within distance also gains this benefit.</p><p>Each enemy who ends their turn within 3 squares of the tree is <a href="../../../../condition/restrained/">restrained</a> until the end of their next turn. A creature <a href="../../../../condition/restrained/">restrained</a> this way can use a main action to end the effect early.</p></div>
+<div class="sc-ability__section-body"><p>A size 5 tree appears in an unoccupied space within distance. The tree has 100 <a href="../../../../rule/health/stamina/">Stamina</a> and can&#39;t be <a href="../../../../movement/forced-movement/">force moved</a>. You and any ally can touch the tree to use the <a href="../../../common/maneuvers/catch-breath/">Catch Breath</a> maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you <a href="../../../../condition/prone/">are prone</a>. Each ally within distance also gains this benefit.</p><p>Each enemy who ends their turn within 3 squares of the tree is <a href="../../../../condition/restrained/">restrained</a> until the end of their next turn. A creature <a href="../../../../condition/restrained/">restrained</a> this way can use a main action to end the effect early.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -87,7 +87,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is <a href="../../../../condition/prone/">knocked prone</a>. At the end of the round, if a winded enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.</p></div>
+<div class="sc-ability__section-body"><p>You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is <a href="../../../../condition/prone/">knocked prone</a>. At the end of the round, if a <a href="../../../../rule/health/winded/">winded</a> enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

@@ -34,11 +34,11 @@ Subtlety is your art, the tip of the blade your brush. You studied at a secret c
 
 **Strong Potency:** Agility
 
-**Starting Stamina at 1st Level:** 18
+**Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 18
 
-**Stamina Gained at 2nd and Higher Levels:** 6
+**[Stamina](../rule/health/stamina.md) Gained at 2nd and Higher Levels:** 6
 
-**Recoveries:** 8
+**[Recoveries](../rule/health/recoveries.md):** 8
 
 **Skills:** You gain the Hide and Sneak skills (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:*  Criminal Underworld, Hide, Lie, Pick Lock, Pick Pocket, Sabotage, Sneak.)
 
@@ -75,13 +75,13 @@ Your [shadow college](../feature/shadow/level-1/shadow-college.md) is your subcl
 
 ### Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-1/insight"}
 
-By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called insight.
+By observing your enemy, you learn how to use their weaknesses against them, building up a [Heroic Resource](../rule/resource/heroic-resource.md) called insight.
 
 #### Insight in Combat
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain insight equal to your Victories. At the start of each of your turns during combat, you gain 1d3 insight.
 
-Additionally, the first time each combat round that you deal damage incorporating 1 or more surges, you gain 1 insight.
+Additionally, the first time each combat round that you deal damage incorporating 1 or more [surges](../rule/resource/surge.md), you gain 1 insight.
 
 Whenever you use a heroic ability that makes use of a power roll, that ability costs 1 fewer insight if you have an edge or double edge on it. If the ability has multiple targets, the cost is reduced even if the ability gains an edge or has a double edge against only one target.
 
@@ -118,7 +118,7 @@ You have the following ability.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You [teleport](../movement/teleport.md) up to 5 squares. If you have concealment or cover at your destination, you can use the [Hide](../feature/common/maneuvers/hide.md) maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 surge.
+**Effect:** You [teleport](../movement/teleport.md) up to 5 squares. If you have [concealment](../rule/combat/concealment.md) or [cover](../rule/combat/cover.md) at your destination, you can use the [Hide](../feature/common/maneuvers/hide.md) maneuver even if you are observed. If you successfully hide using this maneuver, you gain 1 [surge](../rule/resource/surge.md).
 
 **Spend 1+ Insight:** You [teleport](../movement/teleport.md) 1 additional square for each insight spent.
 
@@ -135,9 +135,9 @@ You have the following ability.
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** You gain 2 surges. Additionally, whenever you use a surge before the end of the encounter, you can choose to have it deal poison damage.
+**Effect:** You gain 2 [surges](../rule/resource/surge.md). Additionally, whenever you use a [surge](../rule/resource/surge.md) before the end of the encounter, you can choose to have it deal poison damage.
 
-**Spend 1+ Insight:** For each insight you spend, you gain 1 additional surge.
+**Spend 1+ Insight:** For each insight you spend, you gain 1 additional [surge](../rule/resource/surge.md).
 
 #### I'm No Threat {data-scc="mcdm.heroes.v1/feature.shadow.level-1/im-no-threat"}
 
@@ -154,13 +154,13 @@ You have the following ability.
 
 **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the [Disengage](../feature/common/move-actions/disengage.md) move action, you gain a +1 bonus to the distance you can [shift](../movement/shifting.md).
 
-The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
+The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 [surge](../rule/resource/surge.md).
 
 **Spend 1 Insight:** Choose a creature whose size is no more than 1 greater than yours and who is within 10 squares. This ability's illusion makes you appear as that creature. This illusion covers your entire body, including clothing and armor, and alters your voice to sound like that of the creature. You gain an edge on tests made to convince the creature's allies that you are the creature.
 
 #### Smoke Bomb {data-scc="mcdm.heroes.v1/feature.shadow.level-1/smoke-bomb"}
 
-You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the [Hide](../feature/common/maneuvers/hide.md) maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can [shift](../movement/shifting.md) a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.
+You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the [Hide](../feature/common/maneuvers/hide.md) maneuver even if you are observed and don't initially have [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md). When you do so, you can [shift](../movement/shifting.md) a number of squares equal to your Agility score. If you end this movement with [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md), you are automatically hidden.
 
 ### College Triggered Action {data-scc="mcdm.heroes.v1/feature.shadow.level-1/college-triggered-action"}
 
@@ -198,7 +198,7 @@ Your [shadow college](../feature/shadow/level-1/shadow-college.md) grants you a 
 
 **Trigger:** Another creature damages you.
 
-**Effect:** You take half the triggering damage, then can [shift](../movement/shifting.md) up to 2 squares after the triggering effect resolves. If you end this [shift](../movement/shifting.md) with concealment or cover, you can use the [Hide](../feature/common/maneuvers/hide.md) maneuver even if you are observed.
+**Effect:** You take half the triggering damage, then can [shift](../movement/shifting.md) up to 2 squares after the triggering effect resolves. If you end this [shift](../movement/shifting.md) with [concealment](../rule/combat/concealment.md) or [cover](../rule/combat/cover.md), you can use the [Hide](../feature/common/maneuvers/hide.md) maneuver even if you are observed.
 
 **Spend 1 Insight:** The potency of any effects associated with the damage are reduced by 1 for you.
 
@@ -261,7 +261,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 5 + A damage
 - **17+:** 8 + A damage; I < STRONG[, prone](../condition/prone.md)
 
-**Effect:** One ally within 5 squares of the target gains 1 surge.
+**Effect:** One ally within 5 squares of the target gains 1 [surge](../rule/resource/surge.md).
 
 ##### I Work Better Alone {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/i-work-better-alone"}
 
@@ -278,7 +278,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 6 + A damage
 - **17+:** 9 + A damage
 
-**Effect:** If the target has none of your allies adjacent to them, you gain 1 surge before making the power roll.
+**Effect:** If the target has none of your allies adjacent to them, you gain 1 [surge](../rule/resource/surge.md) before making the power roll.
 
 ##### Teamwork Has Its Place {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/teamwork-has-its-place"}
 
@@ -295,7 +295,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 6 + A damage
 - **17+:** 9 + A damage
 
-**Effect:** If any ally is adjacent to the target, you gain 1 surge before making the power roll.
+**Effect:** If any ally is adjacent to the target, you gain 1 [surge](../rule/resource/surge.md) before making the power roll.
 
 ##### You Were Watching the Wrong One {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/you-were-watching-the-wrong-one"}
 
@@ -312,7 +312,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 5 + A damage
 - **17+:** 8 + A damage
 
-**Effect:** As long as you have one or more allies within 5 squares of the target, you gain 1 surge. If you are flanking the target when you use this ability, choose one ally who is flanking with you. That ally also gains 1 surge.
+**Effect:** As long as you have one or more allies within 5 squares of the target, you gain 1 [surge](../rule/resource/surge.md). If you are [flanking](../rule/combat/flanking.md) the target when you use this ability, choose one ally who is [flanking](../rule/combat/flanking.md) with you. That ally also gains 1 [surge](../rule/resource/surge.md).
 
 #### Heroic Abilities
 
@@ -480,7 +480,7 @@ Additionally, when you use your [I'm No Threat](../feature/ability/shadow/level-
 
 #### Trained Assassin {data-scc="mcdm.heroes.v1/feature.shadow.level-2/trained-assassin"}
 
-You know just where to cut your enemies. Whenever you make a strike that has no bane or double bane, and that incorporates 1 or more surges, you gain 1 additional surge that you can use only on that strike.
+You know just where to cut your enemies. Whenever you make a strike that has no bane or double bane, and that incorporates 1 or more [surges](../rule/resource/surge.md), you gain 1 additional [surge](../rule/resource/surge.md) that you can use only on that strike.
 
 ### 2nd-Level College Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-2/2nd-level-college-ability"}
 
@@ -516,7 +516,7 @@ Choose one of the following abilities.
 
 **Trigger:** You use your [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md) ability.
 
-**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md) ability. Before you [teleport](../movement/teleport.md), you can make a [free strike](../feature/common/main-actions/free-strike.md) against a creature who damaged you to trigger [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md). After you [teleport](../movement/teleport.md), you can spend a Recovery.
+**Effect:** You ignore any effects associated with the damage that triggered your [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md) ability. Before you [teleport](../movement/teleport.md), you can make a [free strike](../feature/common/main-actions/free-strike.md) against a creature who damaged you to trigger [In All This Confusion](../feature/ability/shadow/level-1/in-all-this-confusion.md). After you [teleport](../movement/teleport.md), you can spend a [Recovery](../rule/health/recoveries.md).
 
 #### 2nd-Level Caustic Alchemy Ability
 
@@ -588,7 +588,7 @@ Choose one of the following abilities.
 
 **Trigger:** Another creature targets you with a strike.
 
-**Effect:** You use your [Clever Trick](../feature/ability/shadow/level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../feature/common/main-actions/free-strike.md) against them. You can then spend a Recovery.
+**Effect:** You use your [Clever Trick](../feature/ability/shadow/level-1/clever-trick.md) ability with no insight cost against the triggering creature and strike. You can [teleport](../movement/teleport.md) to an unoccupied space within 3 squares of that creature and can make a [free strike](../feature/common/main-actions/free-strike.md) against them. You can then spend a [Recovery](../rule/health/recoveries.md).
 
 ## 3rd-Level Features
 
@@ -607,7 +607,7 @@ You have the following ability.
 |------------------|--------------------:|
 | **📏 Ranged 20** | **🎯 One creature** |
 
-**Effect:** As long as you remain within distance of the target, maintain line of effect to them, and strike no other creature first, you gain an edge on the next strike you make against the assessed creature, and gain 1 surge you can use only on that strike.
+**Effect:** As long as you remain within distance of the target, maintain line of effect to them, and strike no other creature first, you gain an edge on the next strike you make against the assessed creature, and gain 1 [surge](../rule/resource/surge.md) you can use only on that strike.
 
 ### 7-Insight Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-3/7-insight-ability"}
 
@@ -712,7 +712,7 @@ You gain one skill of your choice. See Skills in Chapter 9: [Tests](../../Read/h
 
 ### Surge of Insight {data-scc="mcdm.heroes.v1/feature.shadow.level-4/surge-of-insight"}
 
-The first time each combat round that you deal damage incorporating 1 or more surges, you gain 2 insight instead of 1.
+The first time each combat round that you deal damage incorporating 1 or more [surges](../rule/resource/surge.md), you gain 2 insight instead of 1.
 
 ## 5th-Level Features
 
@@ -732,13 +732,13 @@ Your [shadow college](../feature/shadow/level-1/shadow-college.md) grants you a 
 
 #### Harlequin Gambit {data-scc="mcdm.heroes.v1/feature.shadow.level-5/harlequin-gambit"}
 
-Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your [I'm No Threat](../feature/ability/shadow/level-1/im-no-threat.md) ability and then move up to your speed.
+Whenever you reduce an adjacent non-minion creature to 0 [Stamina](../rule/health/stamina.md), you can immediately use a free maneuver to use your [I'm No Threat](../feature/ability/shadow/level-1/im-no-threat.md) ability and then move up to your speed.
 
 If the creature is the same size as you, you can disguise yourself as them using [I'm No Threat](../feature/ability/shadow/level-1/im-no-threat.md) without spending insight. If you do, while [I'm No Threat](../feature/ability/shadow/level-1/im-no-threat.md) is active, the creature's body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
 
 #### Trail of Cinders {data-scc="mcdm.heroes.v1/feature.shadow.level-5/trail-of-cinders"}
 
-Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your [Black Ash Teleport](../feature/ability/shadow/level-1/black-ash-teleport.md) ability.
+Whenever you reduce a non-minion creature to 0 [Stamina](../rule/health/stamina.md), you can immediately use a free maneuver to use your [Black Ash Teleport](../feature/ability/shadow/level-1/black-ash-teleport.md) ability.
 
 Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to [teleport](../movement/teleport.md). The creature appears in an unoccupied space adjacent to the space into which you [teleport](../movement/teleport.md)ed. If no such space exists, they can't [teleport](../movement/teleport.md) with you.
 
@@ -761,7 +761,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 |-----------------|---------------:|
 | **📏 3 burst**  | **🎯 Special** |
 
-**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../movement/shifting.md) to a new location within the area and make a [free strike](../feature/common/main-actions/free-strike.md) against them.
+**Effect:** A black cloud fills the area until the end of your next turn, granting you and your allies [concealment](../rule/combat/concealment.md) against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to [shift](../movement/shifting.md) to a new location within the area and make a [free strike](../feature/common/main-actions/free-strike.md) against them.
 
 #### Into the Shadows {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-5/into-the-shadows"}
 
@@ -824,12 +824,12 @@ You gain one perk of your choice.
 
 ### Umbral Form {data-scc="mcdm.heroes.v1/feature.shadow.level-6/umbral-form"}
 
-As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
+As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are [dying](../rule/health/dying.md), or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
 
 - You can automatically climb at full speed while moving.
 - Enemies' spaces don't count as [difficult terrain](../movement/difficult-terrain.md) for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
-- If you end your turn with cover or concealment from another creature, you are automatically hidden from that creature.
-- You gain 1 surge at the start of each of your turns.
+- If you end your turn with [cover](../rule/combat/cover.md) or [concealment](../rule/combat/concealment.md) from another creature, you are automatically hidden from that creature.
+- You gain 1 [surge](../rule/resource/surge.md) at the start of each of your turns.
 - You have corruption immunity equal to 5 + your level.
 - Creatures gain an edge on strikes against you.
 - You take a bane on Presence tests made to interact with other creatures.
@@ -868,7 +868,7 @@ Choose one of the following abilities.
 |----------------|--------------------------------------:|
 | **📏 4 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can [teleport](../movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the [Hide](../feature/common/maneuvers/hide.md) maneuver even if they are observed.
+**Effect:** Each target can [teleport](../movement/teleport.md) up to 5 squares. For each target in addition to you who [teleports](../movement/teleport.md) away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in [concealment](../rule/combat/concealment.md) or [cover](../rule/combat/cover.md) can use the [Hide](../feature/common/maneuvers/hide.md) maneuver even if they are observed.
 
 #### 6th-Level Caustic Alchemy Abilities
 
@@ -885,7 +885,7 @@ Choose one of the following abilities.
 
 **Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the [Use Consumable](../feature/common/maneuvers/use-consumable.md) maneuver to consume it later. The potion loses its potency at the end of the encounter.
 
-A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.
+A creature who drinks the potion can spend up to 2 [Recoveries](../rule/health/recoveries.md), and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.
 
 ##### One Vial Makes You Faster {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-faster"}
 
@@ -988,7 +988,7 @@ Whenever you willingly move, you can [teleport](../movement/teleport.md). When y
 
 #### Parkour {data-scc="mcdm.heroes.v1/feature.shadow.level-8/parkour"}
 
-Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../feature/shadow/level-5/harlequin-gambit.md) feature as a free triggered action when a creature is reduced to 0 Stamina by your [Clever Trick](../feature/ability/shadow/level-1/clever-trick.md) ability.
+Your movement no longer provokes opportunity attacks. Additionally, you can use your [Harlequin Gambit](../feature/shadow/level-5/harlequin-gambit.md) feature as a free triggered action when a creature is reduced to 0 [Stamina](../rule/health/stamina.md) by your [Clever Trick](../feature/ability/shadow/level-1/clever-trick.md) ability.
 
 #### Time Bomb {data-scc="mcdm.heroes.v1/feature.shadow.level-8/time-bomb"}
 
@@ -1005,9 +1005,9 @@ You have damage immunity against area abilities and effects equal to your Agilit
 
 **Effect:** Each target takes acid, fire, or poison damage (your choice) equal to your Agility score.
 
-For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.
+For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 [surge](../rule/resource/surge.md) that must be used with this ability. After using the ability or at the end of the encounter, its area and [surges](../rule/resource/surge.md) are reset.
 
-**Spend 2+ Insight:** For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
+**Spend 2+ Insight:** For every 2 insight spent, you increase the cube's size by 1 and gain 1 [surge](../rule/resource/surge.md) that can be used only with this ability.
 
 ### 11-Insight Ability {data-scc="mcdm.heroes.v1/feature.shadow.level-8/11-insight-ability"}
 
@@ -1028,7 +1028,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 - **12-16:** 18 + A damage
 - **17+:** 24 + A damage
 
-**Effect:** A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.
+**Effect:** A target who is not a minion, leader, or solo creature and who is [winded](../rule/health/winded.md) after taking this damage is reduced to 0 [Stamina](../rule/health/stamina.md).
 
 #### Shadowgrasp {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-8/shadowgrasp"}
 
@@ -1077,7 +1077,7 @@ As a 9th-level [shadow](shadow.md), you gain the following features.
 
 ### Gloom Squad {data-scc="mcdm.heroes.v1/feature.shadow.level-9/gloom-squad"}
 
-At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have insight and can't use the [Careful Observation](../feature/ability/shadow/level-3/careful-observation.md) ability, the [Umbral Form](../feature/shadow/level-6/umbral-form.md) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../feature/common/main-actions/free-strike.md). While making a [free strike](../feature/common/main-actions/free-strike.md), a clone must choose targets that you or another clone aren't also striking.
+At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 [Stamina](../rule/health/stamina.md). They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have insight and can't use the [Careful Observation](../feature/ability/shadow/level-3/careful-observation.md) ability, the [Umbral Form](../feature/shadow/level-6/umbral-form.md) feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a [free strike](../feature/common/main-actions/free-strike.md). While making a [free strike](../feature/common/main-actions/free-strike.md), a clone must choose targets that you or another clone aren't also striking.
 
 Outside of combat, you can have one clone active for every 2 Victories you have. If a clone is destroyed, you must wait 1 hour before creating another one.
 
@@ -1203,7 +1203,7 @@ Your Agility score increases to 5. Additionally, you can increase one of your ch
 
 ### Death Pool {data-scc="mcdm.heroes.v1/feature.shadow.level-10/death-pool"}
 
-The first time each combat round that you deal damage incorporating 1 or more surges, you gain 3 insight instead of 2.
+The first time each combat round that you deal damage incorporating 1 or more [surges](../rule/resource/surge.md), you gain 3 insight instead of 2.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.shadow.level-10/perk"}
 
@@ -1219,7 +1219,7 @@ You can target three creatures simultaneously with your [Careful Observation](..
 
 ### Improved Umbral Form {data-scc="mcdm.heroes.v1/feature.shadow.level-10/improved-umbral-form"}
 
-You gain full control over the [shadow](shadow.md) creature you become with your [Umbral Form](../feature/shadow/level-6/umbral-form.md) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
+You gain full control over the [shadow](shadow.md) creature you become with your [Umbral Form](../feature/shadow/level-6/umbral-form.md) feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you [concealment](../rule/combat/concealment.md) while in this form, and creatures no longer gain an edge on strikes against you.
 
 While you are in your [umbral form](../feature/shadow/level-6/umbral-form.md), you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can [teleport](../movement/teleport.md) to unoccupied spaces of your choice within that location. Each creature who [teleports](../movement/teleport.md) this way is invisible for 1 hour or until they use an ability.
 

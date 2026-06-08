@@ -2,7 +2,7 @@
 action_type: Maneuver
 class: shadow
 distance: Ranged 20
-effect: As long as you remain within distance of the target, maintain line of effect to them, and strike no other creature first, you gain an edge on the next strike you make against the assessed creature, and gain 1 surge you can use only on that strike.
+effect: As long as you remain within distance of the target, maintain line of effect to them, and strike no other creature first, you gain an edge on the next strike you make against the assessed creature, and gain 1 [surge](../../../../rule/resource/surge.md) you can use only on that strike.
 flavor: A moment of focus leaves a foe firmly in your sights.
 keywords:
     - Ranged
@@ -34,6 +34,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>As long as you remain within distance of the target, maintain line of effect to them, and strike no other creature first, you gain an edge on the next strike you make against the assessed creature, and gain 1 surge you can use only on that strike.</p></div>
+<div class="sc-ability__section-body"><p>As long as you remain within distance of the target, maintain line of effect to them, and strike no other creature first, you gain an edge on the next strike you make against the assessed creature, and gain 1 <a href="../../../../../rule/resource/surge/">surge</a> you can use only on that strike.</p></div>
 </div>
 </article>

@@ -3,7 +3,7 @@ action_type: Main action
 class: elementalist
 cost: 9 Essence
 distance: 4 cube within 10
-effect: The area lasts until the start of your next turn. It is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and you and your allies have concealment while in the area.
+effect: The area lasts until the start of your next turn. It is [difficult terrain](../../../../movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../../../../rule/combat/concealment.md) while in the area.
 flavor: Dirt and debris swirl into a dark, pulsing hurricane.
 keywords:
     - Area
@@ -50,7 +50,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The area lasts until the start of your next turn. It is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies, and you and your allies have concealment while in the area.</p></div>
+<div class="sc-ability__section-body"><p>The area lasts until the start of your next turn. It is <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for enemies, and you and your allies have <a href="../../../../../rule/combat/concealment/">concealment</a> while in the area.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Persistent 1</span></div>

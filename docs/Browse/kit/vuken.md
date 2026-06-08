@@ -20,7 +20,7 @@ While you are in your wolf form, your size is 1L, you have a +2 bonus to speed, 
 
 ## Hybrid Form: Wolf {data-scc="mcdm.heroes.v1/feature.fury.vuken/hybrid-form-wolf"}
 
-While you are in your hybrid form, your size is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../movement/difficult-terrain.md). At 4th level, the first time you take hybrid form in an encounter, you gain 10 temporary Stamina.
+While you are in your hybrid form, your size is 1L, you have a +2 bonus to speed, and you ignore [difficult terrain](../movement/difficult-terrain.md). At 4th level, the first time you take hybrid form in an encounter, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md).
 
 ## Primordial Storm: Lightning Storm {data-scc="mcdm.heroes.v1/feature.fury.vuken/primordial-storm-lightning-storm"}
 
@@ -28,7 +28,7 @@ Your primordial damage type is lightning.
 
 ## Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.vuken/kit-bonuses"}
 
-- **Stamina Bonus:** +9 per echelon
+- **[Stamina](../rule/health/stamina.md) Bonus:** +9 per echelon
 - **Speed Bonus:** +2
 - **Melee Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
@@ -58,8 +58,8 @@ As your ferocity grows, you gain benefits as noted on the [Vuken](vuken.md) [Gro
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature.                                                                                                                                                 |
-| 4               | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 1 surge.                                                                                                                                   |
+| 4               | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 1 [surge](../rule/resource/surge.md).                                                                                                                                   |
 | 6               | You gain an edge on Agility tests and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 2 surges.                                                                                                                                  |
+| 8 (4th level)   | The first time on a turn that you push a creature or knock a [creature prone](../condition/prone.md), you gain 2 [surges](../rule/resource/surge.md).                                                                                                                                  |
 | 10 (7th level)  | You have a double edge on Agility tests and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Agility score. |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, whenever you make a power roll that imposes [forced movement](../movement/forced-movement.md) on a target, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Agility score. |

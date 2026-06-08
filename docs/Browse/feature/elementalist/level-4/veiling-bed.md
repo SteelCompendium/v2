@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The area provides concealment for you and your allies.</p>
+<p>The area provides <a href="../../../../rule/combat/concealment/">concealment</a> for you and your allies.</p>
 </div>
 </section>

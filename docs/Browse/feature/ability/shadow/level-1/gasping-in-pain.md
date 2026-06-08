@@ -2,7 +2,7 @@
 action_type: Main action
 class: shadow
 distance: Melee 1
-effect: One ally within 5 squares of the target gains 1 surge.
+effect: One ally within 5 squares of the target gains 1 [surge](../../../../rule/resource/surge.md).
 flavor: Your precise strikes let your allies take advantage of a target's agony.
 keywords:
     - Melee
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>One ally within 5 squares of the target gains 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>One ally within 5 squares of the target gains 1 <a href="../../../../../rule/resource/surge/">surge</a>.</p></div>
 </div>
 </article>

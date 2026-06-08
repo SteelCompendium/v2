@@ -83,7 +83,7 @@ Choose the ancestry you were before you died. Your size is that ancestry's size 
 
 Your undead body grants you immunity to cold, corruption, lightning, and poison damage equal to your level, but you have fire weakness 5. You can't suffocate, and you don't need to eat or drink to stay alive.
 
-Additionally, when your Stamina reaches the negative of your winded value, you become inert instead of dying. You fall [prone](../condition/prone.md) and can't stand. You continue to observe your surroundings, but you can't speak, take main actions, maneuvers, move actions, or triggered actions. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
+Additionally, when your [Stamina](../rule/health/stamina.md) reaches the negative of your [winded](../rule/health/winded.md) value, you become inert instead of [dying](../rule/health/dying.md). You fall [prone](../condition/prone.md) and can't stand. You continue to observe your surroundings, but you can't speak, take main actions, maneuvers, move actions, or triggered actions. While inert this way, if you take any fire damage, your body is destroyed and you die. Otherwise, after 12 hours, you regain [Stamina](../rule/health/stamina.md) equal to your [recovery value](../rule/health/recoveries.md).
 
 #### Purchased Revenant Traits
 
@@ -91,7 +91,7 @@ You have 2 ancestry points to spend on the following traits, or 3 ancestry point
 
 #### Bloodless {data-scc="mcdm.heroes.v1/feature.trait.revenant/bloodless"}
 
-For you, an open wound is indistinguishable from a scratch. You can't be made [bleeding](../condition/bleeding.md) even while dying.
+For you, an open wound is indistinguishable from a scratch. You can't be made [bleeding](../condition/bleeding.md) even while [dying](../rule/health/dying.md).
 
 #### Previous Life: 1 Point {data-scc="mcdm.heroes.v1/feature.trait.revenant/previous-life-1-point"}
 

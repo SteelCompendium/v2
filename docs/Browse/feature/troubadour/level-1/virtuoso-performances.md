@@ -47,7 +47,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each combat round while this performance is active, you can make a power roll against the target that ignores cover. You can&#39;t target the same creature twice with this effect.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each combat round while this performance is active, you can make a power roll against the target that ignores <a href="../../../../rule/combat/cover/">cover</a>. You can&#39;t target the same creature twice with this effect.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="none">
@@ -67,7 +67,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area gains 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>While this performance is active, each target who starts their turn in the area gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</p></div>
 </div>
 </article>
 </div>

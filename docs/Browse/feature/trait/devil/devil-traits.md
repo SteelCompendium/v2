@@ -76,7 +76,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your eyes let you see through darkness, fog, and other obscuring effects. You don&#39;t take a bane on strikes made against creatures with concealment.</p>
+<p>Your eyes let you see through darkness, fog, and other obscuring effects. You don&#39;t take a bane on strikes made against creatures with <a href="../../../../rule/combat/concealment/">concealment</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

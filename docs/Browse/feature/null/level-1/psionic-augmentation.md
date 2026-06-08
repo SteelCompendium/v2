@@ -30,7 +30,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.</p>
+<p>You gain a +6 bonus to <a href="../../../../rule/health/stamina/">Stamina</a>, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

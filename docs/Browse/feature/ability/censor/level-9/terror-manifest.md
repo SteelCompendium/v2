@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 11 Wrath
 distance: Ranged 10
-effect: While [frightened](../../../../condition/frightened.md) this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target [frightened](../../../../condition/frightened.md) this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.
+effect: While [frightened](../../../../condition/frightened.md) this way, if a target who is a leader or solo creature is [winded](../../../../rule/health/winded.md), they take an extra 25 psychic damage. If a target [frightened](../../../../condition/frightened.md) this way is not a leader or solo creature and is [winded](../../../../rule/health/winded.md), they are reduced to 0 [Stamina](../../../../rule/health/stamina.md).
 flavor: '"I know what you fear."'
 keywords:
     - Magic
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/frightened/">frightened</a> this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target <a href="../../../../../condition/frightened/">frightened</a> this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../../condition/frightened/">frightened</a> this way, if a target who is a leader or solo creature is <a href="../../../../../rule/health/winded/">winded</a>, they take an extra 25 psychic damage. If a target <a href="../../../../../condition/frightened/">frightened</a> this way is not a leader or solo creature and is <a href="../../../../../rule/health/winded/">winded</a>, they are reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>

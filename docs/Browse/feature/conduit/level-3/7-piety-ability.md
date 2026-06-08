@@ -67,7 +67,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 20 temporary Stamina and 3 surges.</p></div>
+<div class="sc-ability__section-body"><p>The target gains 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> and 3 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -95,7 +95,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>One ally within distance can spend any number of Recoveries.</p></div>
+<div class="sc-ability__section-body"><p>One ally within distance can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -123,7 +123,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally in the area can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>Each ally in the area can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
 </div>

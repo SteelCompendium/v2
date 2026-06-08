@@ -3,7 +3,7 @@ action_type: Triggered
 class: tactician
 cost: 5 Focus
 distance: Ranged 5
-effect: You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a Recovery and gains 5 temporary Stamina for each enemy you came adjacent to during the move. You then make a power roll against the target.
+effect: You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can't reach an adjacent square. The triggering ally can spend a [Recovery](../../../../rule/health/recoveries.md) and gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md) for each enemy you came adjacent to during the move. You then make a power roll against the target.
 flavor: You prioritize saving an ally over your own safety.
 keywords:
     - Ranged
@@ -55,6 +55,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can&#39;t reach an adjacent square. The triggering ally can spend a Recovery and gains 5 temporary Stamina for each enemy you came adjacent to during the move. You then make a power roll against the target.</p></div>
+<div class="sc-ability__section-body"><p>You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can&#39;t reach an adjacent square. The triggering ally can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a> and gains 5 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> for each enemy you came adjacent to during the move. You then make a power roll against the target.</p></div>
 </div>
 </article>

@@ -139,7 +139,7 @@ Your eyes are a solid, vibrant color that flares to show your excitement or rage
 
 #### Hellsight {data-scc="mcdm.heroes.v1/feature.trait.devil/hellsight"}
 
-Your eyes let you see through darkness, fog, and other obscuring effects. You don't take a bane on strikes made against creatures with concealment.
+Your eyes let you see through darkness, fog, and other obscuring effects. You don't take a bane on strikes made against creatures with [concealment](../rule/combat/concealment.md).
 
 #### Impressive Horns {data-scc="mcdm.heroes.v1/feature.trait.devil/impressive-horns"}
 

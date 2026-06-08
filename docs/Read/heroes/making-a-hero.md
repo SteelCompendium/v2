@@ -86,7 +86,7 @@ Choose your hero's career, which describes what you did for a living before you 
 
 #### 5. Class
 
-Choose your hero's class. This choice has the biggest impact on how your hero interacts with the rules of the game, particularly the rules for combat. Your class provides your starting characteristic scores that determine your character's physical and mental acumen, as well as the Stamina and Recoveries that determine your physical hardiness. A class also provides your character with skills, several abilities—the unique features that define what your hero can do—and other features and benefits. You can be a [censor](../../Browse/class/censor.md), [conduit](../../Browse/class/conduit.md), [elementalist](../../Browse/class/elementalist.md), [fury](../../Browse/class/fury.md), [null](../../Browse/class/null.md), [shadow](../../Browse/class/shadow.md), [tactician](../../Browse/class/tactician.md), [talent](../../Browse/class/talent.md), or [troubadour](../../Browse/class/troubadour.md). See Chapter 5: [Classes](classes.md) for more information on each class, as well as the different types of abilities—signature abilities, heroic abilities, and more—that heroes of a specific class have access to.
+Choose your hero's class. This choice has the biggest impact on how your hero interacts with the rules of the game, particularly the rules for combat. Your class provides your starting characteristic scores that determine your character's physical and mental acumen, as well as the [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md) that determine your physical hardiness. A class also provides your character with skills, several abilities—the unique features that define what your hero can do—and other features and benefits. You can be a [censor](../../Browse/class/censor.md), [conduit](../../Browse/class/conduit.md), [elementalist](../../Browse/class/elementalist.md), [fury](../../Browse/class/fury.md), [null](../../Browse/class/null.md), [shadow](../../Browse/class/shadow.md), [tactician](../../Browse/class/tactician.md), [talent](../../Browse/class/talent.md), or [troubadour](../../Browse/class/troubadour.md). See Chapter 5: [Classes](classes.md) for more information on each class, as well as the different types of abilities—signature abilities, heroic abilities, and more—that heroes of a specific class have access to.
 
 #### 6. Kit
 
@@ -167,7 +167,7 @@ An optional rule the Director can include in your game is to allow heroes to cha
 
 ### Heroic Advancement
 
-Your character's heroic advancement is marked by level. Each time you gain a new level in your class, your Stamina increases, and you gain new features or abilities according to your class's advancement, as detailed in Chapter 5: [Classes](classes.md).
+Your character's heroic advancement is marked by level. Each time you gain a new level in your class, your [Stamina](../../Browse/rule/health/stamina.md) increases, and you gain new features or abilities according to your class's advancement, as detailed in Chapter 5: [Classes](classes.md).
 
 In the standard setup for the game, heroes gain Experience each time they finish a respite (see Building a Heroic Narrative in Chapter 1: [The Basics](the-basics.md)). When you gain sufficient Experience, you gain a level during the same respite. The Heroic Advancement table shows exactly how much Experience (XP) you need to advance from one level to the next. The amount of Experience you gain is cumulative.
 

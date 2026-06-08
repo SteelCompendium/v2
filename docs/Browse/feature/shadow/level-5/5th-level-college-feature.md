@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your <a href="../../../ability/shadow/level-1/im-no-threat/">I&#39;m No Threat</a> ability and then move up to your speed.</p>
+<p>Whenever you reduce an adjacent non-minion creature to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, you can immediately use a free maneuver to use your <a href="../../../ability/shadow/level-1/im-no-threat/">I&#39;m No Threat</a> ability and then move up to your speed.</p>
 <p>If the creature is the same size as you, you can disguise yourself as them using <a href="../../../ability/shadow/level-1/im-no-threat/">I&#39;m No Threat</a> without spending insight. If you do, while <a href="../../../ability/shadow/level-1/im-no-threat/">I&#39;m No Threat</a> is active, the creature&#39;s body is disguised to look like your body. The illusion ends on their body if another creature physically interacts with it. When the illusion would end for either you or the creature&#39;s body, it ends for both.</p>
 </div>
 </section>
@@ -52,7 +52,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your <a href="../../../ability/shadow/level-1/black-ash-teleport/">Black Ash Teleport</a> ability.</p>
+<p>Whenever you reduce a non-minion creature to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, you can immediately use a free maneuver to use your <a href="../../../ability/shadow/level-1/black-ash-teleport/">Black Ash Teleport</a> ability.</p>
 <p>Additionally, you can now bring an adjacent willing creature along with you whenever you use a shadow ability to <a href="../../../../movement/teleport/">teleport</a>. The creature appears in an unoccupied space adjacent to the space into which you <a href="../../../../movement/teleport/">teleport</a>ed. If no such space exists, they can&#39;t <a href="../../../../movement/teleport/">teleport</a> with you.</p>
 </div>
 </section>

@@ -10,10 +10,10 @@ keywords:
 level: "1"
 name: Harmonize
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/harmonize
-spend: '1+ Drama: You can trigger this ability when a target uses an ability that has a Heroic Resource cost of 3 + each additional drama spent.'
+spend: '1+ Drama: You can trigger this ability when a target uses an ability that has a [Heroic Resource](../../../../rule/resource/heroic-resource.md) cost of 3 + each additional drama spent.'
 subtype: triggered
 target: One ally
-trigger: The target uses an ability that targets only one enemy and costs 3 or fewer of their Heroic Resource.
+trigger: The target uses an ability that targets only one enemy and costs 3 or fewer of their [Heroic Resource](../../../../rule/resource/heroic-resource.md).
 type: ability
 ---
 
@@ -38,11 +38,11 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target uses an ability that targets only one enemy and costs 3 or fewer of their Heroic Resource.</p></div>
+<div class="sc-ability__section-body"><p>The target uses an ability that targets only one enemy and costs 3 or fewer of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>The target can choose one additional target for the triggering ability. Any damage dealt to the additional target is sonic damage.</p></div>
 </div>
-<div class="sc-ability__enh"><span class="cost">Spend 1+ Drama</span><span class="txt">You can trigger this ability when a target uses an ability that has a Heroic Resource cost of 3 + each additional drama spent.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 1+ Drama</span><span class="txt">You can trigger this ability when a target uses an ability that has a <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a> cost of 3 + each additional drama spent.</span></div>
 </article>

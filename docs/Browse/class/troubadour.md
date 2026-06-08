@@ -35,11 +35,11 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **Strong Potency:** Presence
 
-**Starting Stamina at 1st Level:** 18
+**Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 18
 
-**Stamina Gained at 2nd and Higher Levels:** 6
+**[Stamina](../rule/health/stamina.md) Gained at 2nd and Higher Levels:** 6
 
-**Recoveries:** 8
+**[Recoveries](../rule/health/recoveries.md):** 8
 
 **Skills:** You gain the [Read Person](../skill/read-person.md) skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, [Read Person](../skill/read-person.md), Rumors.)
 
@@ -74,7 +74,7 @@ Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.m
 
 ### Drama {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/drama"}
 
-During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called drama.
+During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a [Heroic Resource](../rule/resource/heroic-resource.md) called drama.
 
 #### Drama in Combat
 
@@ -83,11 +83,11 @@ At the start of a combat encounter or some other stressful situation tracked in 
 Additionally, you gain drama when certain events occur during a combat encounter:
 
 - The first time three or more heroes use an ability on the same turn, you gain 2 drama.
-- The first time any hero is made winded during the encounter, you gain 2 drama.
+- The first time any hero is made [winded](../rule/health/winded.md) during the encounter, you gain 2 drama.
 - Whenever a creature within your line of effect rolls a natural 19 or 20, you gain 3 drama.
 - When you or another hero dies, you gain 10 drama.
 
-When you are dead, you continue to gain drama during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 Stamina and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain drama during future encounters.
+When you are dead, you continue to gain drama during combat as long as your body is intact. If you have 30 drama during the encounter in which you died, you can come back to life with 1 [Stamina](../rule/health/stamina.md) and 0 drama (no action required). If you are still dead after the encounter in which you died, you can't gain drama during future encounters.
 
 You lose any remaining drama at the end of the encounter.
 
@@ -143,7 +143,7 @@ You start off with the [Choreography](../feature/ability/troubadour/level-1/chor
 |------------------------------|--------------------------------------:|
 | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 
-**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score. Each chosen target can spend a Recovery.
+**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score. Each chosen target can spend a [Recovery](../rule/health/recoveries.md).
 
 ### 1st-Level Class Act Features {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/1st-level-class-act-features"}
 
@@ -185,7 +185,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|---------------------------------:|
 | **📏 2 aura**                | **🎯 Each creature in the area** |
 
-**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
+**Effect:** At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and [teleport](../movement/teleport.md) those targets to unoccupied spaces in the area. A target can't be [teleport](../movement/teleport.md)ed in a way that would harm them (such as over a cliff), leave them [dying](../rule/health/dying.md), or result in them suffering a condition or other negative effect.
 
 #### Dramatic Monologue {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/dramatic-monologue"}
 
@@ -203,7 +203,7 @@ You have the following ability.
 **Effect:** Choose one of the following effects:
 
 - You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn.
-- You weave a tale of high-stakes heroics. One ally within distance gains 1 surge.
+- You weave a tale of high-stakes heroics. One ally within distance gains 1 [surge](../rule/resource/surge.md).
 - You insult a foe where they're most vulnerable. One enemy within distance takes a bane on the next power roll they make before the end of their next turn.
 
 **Spend 1 Drama:** You can choose two targets for the chosen effect.
@@ -257,7 +257,7 @@ You have the following performance abilities, which are usable with your [Routin
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
-**Effect:** At the end of each combat round while this performance is active, you can make a power roll against the target that ignores cover. You can't target the same creature twice with this effect.
+**Effect:** At the end of each combat round while this performance is active, you can make a power roll against the target that ignores [cover](../rule/combat/cover.md). You can't target the same creature twice with this effect.
 
 **Power Roll + Presence:**
 
@@ -274,7 +274,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area gains 1 surge.
+**Effect:** While this performance is active, each target who starts their turn in the area gains 1 [surge](../rule/resource/surge.md).
 
 ### Class Act Triggered Action {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/class-act-triggered-action"}
 
@@ -297,11 +297,11 @@ Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.m
 |-----------------|----------------:|
 | **📏 Ranged 5** | **🎯 One ally** |
 
-**Trigger:** The target uses an ability that targets only one enemy and costs 3 or fewer of their Heroic Resource.
+**Trigger:** The target uses an ability that targets only one enemy and costs 3 or fewer of their [Heroic Resource](../rule/resource/heroic-resource.md).
 
 **Effect:** The target can choose one additional target for the triggering ability. Any damage dealt to the additional target is sonic damage.
 
-**Spend 1+ Drama:** You can trigger this ability when a target uses an ability that has a Heroic Resource cost of 3 + each additional drama spent.
+**Spend 1+ Drama:** You can trigger this ability when a target uses an ability that has a [Heroic Resource](../rule/resource/heroic-resource.md) cost of 3 + each additional drama spent.
 
 ##### Riposte {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/riposte"}
 
@@ -407,7 +407,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
 
-**Spend 1 Drama:** The chosen ally can spend a Recovery.
+**Spend 1 Drama:** The chosen ally can spend a [Recovery](../rule/health/recoveries.md).
 
 #### Heroic Abilities
 
@@ -502,7 +502,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 
 - **≤11:** The target can [shift](../movement/shifting.md) 1 square and make a [free strike](../feature/common/main-actions/free-strike.md).
 - **12-16:** The target can [shift](../movement/shifting.md) up to 2 squares and make a [free strike](../feature/common/main-actions/free-strike.md) that gains an edge.
-- **17+:** The target can [shift](../movement/shifting.md) up to 3 squares and make a [free strike](../feature/common/main-actions/free-strike.md) that gains an edge, then can spend a Recovery.
+- **17+:** The target can [shift](../movement/shifting.md) up to 3 squares and make a [free strike](../feature/common/main-actions/free-strike.md) that gains an edge, then can spend a [Recovery](../rule/health/recoveries.md).
 
 ##### Fake Your Death {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-1/fake-your-death"}
 
@@ -554,8 +554,8 @@ You can give a rousing speech, invoke your inspirations, or lift your fellows' s
 Before you roll to gain drama at the start of your turn, you can make your appeal (no action required). If you do, your roll gains the following additional effects:
 
 - If the roll is a 1, you gain 1 additional drama. The Director gains 1d3 Malice (see *Draw Steel: Monsters*).
-- If the roll is a 2, you gain 1 Heroic Resource, which you can keep or give to an ally within the distance of your active performance. The Director gains 1 Malice.
-- If the roll is a 3, you gain 2 of a Heroic Resource, which you can distribute among yourself and any allies within the distance of your active performance.
+- If the roll is a 2, you gain 1 [Heroic Resource](../rule/resource/heroic-resource.md), which you can keep or give to an ally within the distance of your active performance. The Director gains 1 Malice.
+- If the roll is a 3, you gain 2 of a [Heroic Resource](../rule/resource/heroic-resource.md), which you can distribute among yourself and any allies within the distance of your active performance.
 
 ### Invocation {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/invocation"}
 
@@ -569,13 +569,13 @@ Whenever you take the first turn in a combat encounter, you can use a main actio
 
 As a respite activity, you can scribe a notice of your arrival (such as a calling card or a formal letter) addressed to an enemy. You can deliver the notice to the target personally if you are in the same general area, send it by courier, or leave it in a covert location for the target to find. You can have only one notice active at a time.
 
-The Director determines when the target receives your notice. When the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per combat round during encounters involving the target. The heroes start each such encounter with 2 additional hero tokens (Chapter 1: [The Basics](../../Read/heroes/the-basics.md)). These hero tokens disappear at the end of the encounter.
+The Director determines when the target receives your notice. When the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per combat round during encounters involving the target. The heroes start each such encounter with 2 additional [hero tokens](../rule/resource/hero-token.md) (Chapter 1: [The Basics](../../Read/heroes/the-basics.md)). These [hero tokens](../rule/resource/hero-token.md) disappear at the end of the encounter.
 
 #### My Reputation Precedes Me {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/my-reputation-precedes-me"}
 
 You can invoke your reputation at the start of a social interaction with one or more NPCs who haven't met you before, automatically creating a bond with one of those NPCs from that group as if using your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature (above). This bond counts against the limit on active bonds from your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature. While the bond is active, all heroes present treat their Renown as 2 higher than usual for the purpose of entering into a negotiation with the bonded NPC.
 
-The Director can award the heroes 1 hero token to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a bane on tests made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature to find allies within the group.
+The Director can award the heroes 1 [hero token](../rule/resource/hero-token.md) to make you infamous among the group of creatures instead, and preventing you from forming this bond. Until you take action to improve your reputation, all heroes present take a bane on tests made to interact with creatures in the group using skills from the interpersonal skill group. You can still use your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature to find allies within the group.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.troubadour.level-2/perk"}
 
@@ -598,7 +598,7 @@ Choose one of the following abilities.
 |-------------------|----------------:|
 | **📏 Ranged 10**  |  **🎯 Special** |
 
-**Effect:** A [guest star](../feature/ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This [guest star](../feature/ability/troubadour/level-2/guest-star.md) is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../feature/common/main-actions/free-strike.md). At the end of the encounter, or when the [guest star](../feature/ability/troubadour/level-2/guest-star.md) is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
+**Effect:** A [guest star](../feature/ability/troubadour/level-2/guest-star.md) appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This [guest star](../feature/ability/troubadour/level-2/guest-star.md) is controlled by you, has their own turn, and shares your characteristics. Their [Stamina](../rule/health/stamina.md) maximum is half yours. They have no abilities other than your melee and ranged [free strikes](../feature/common/main-actions/free-strike.md). At the end of the encounter, or when the [guest star](../feature/ability/troubadour/level-2/guest-star.md) is reduced to 0 [Stamina](../rule/health/stamina.md), they retreat or revert to a bystander. The same bystander can't be uplifted this way more than once during an encounter.
 
 ##### Twist at the End {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/twist-at-the-end"}
 
@@ -609,7 +609,7 @@ Choose one of the following abilities.
 |-------------------|----------------------:|
 | **📏 Ranged 10**  | **🎯 One dead enemy** |
 
-**Effect:** A target who is not a leader or solo creature comes back to life with half their Stamina and becomes an ally under the Director's control. The players can work with the Director to determine when the target takes their turn each combat round. At the end of the encounter, the target turns to dust and is blown away.
+**Effect:** A target who is not a leader or solo creature comes back to life with half their [Stamina](../rule/health/stamina.md) and becomes an ally under the Director's control. The players can work with the Director to determine when the target takes their turn each combat round. At the end of the encounter, the target turns to dust and is blown away.
 
 #### 2nd-Level Duelist Ability
 
@@ -656,7 +656,7 @@ Choose one of the following abilities.
 |-------------------|----------------:|
 | **📏 Special**    |  **🎯 Special** |
 
-**Effect:** You use an ability that you have observed being used this combat round. The ability must have the Strike keyword, cost 5 or fewer of a Heroic Resource, and cost no Malice. When you make the strike, you use your Presence score for any power rolls, and any damage you deal is sonic damage.
+**Effect:** You use an ability that you have observed being used this combat round. The ability must have the Strike keyword, cost 5 or fewer of a [Heroic Resource](../rule/resource/heroic-resource.md), and cost no Malice. When you make the strike, you use your Presence score for any power rolls, and any damage you deal is sonic damage.
 
 ##### Tough Crowd {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-2/tough-crowd"}
 
@@ -693,7 +693,7 @@ Your [troubadour class act](../feature/troubadour/level-1/troubadour-class-act.m
 
 #### Foil {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/foil"}
 
-At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new foil at the start of the next combat round.
+At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 [Stamina](../rule/health/stamina.md), you can choose a new foil at the start of the next combat round.
 
 #### Missed Cue {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/missed-cue"}
 
@@ -712,7 +712,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../Read/heroes/tests.md)).
+**Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with [concealment](../rule/combat/concealment.md). Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: [Tests](../../Read/heroes/tests.md)).
 
 ##### "Never-Ending Hero" {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/never-ending-hero"}
 
@@ -723,7 +723,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|--------------------------------------:|
 | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of [bleeding](../condition/bleeding.md) until the end of their turn.
+**Effect:** While this performance is active, each target who starts their turn [dying](../rule/health/dying.md) while in the area gains an edge on power rolls and ignores the effects of [bleeding](../condition/bleeding.md) until the end of their turn.
 
 ### 7-Drama Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-3/7-drama-ability"}
 
@@ -791,7 +791,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 **Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond distance, with the distance of this ability replacing those abilities' distances. The target can't be [force moved](../movement/forced-movement.md) by an ability used beyond distance this way.
 
-Additionally, once on each of your turns, you can use a free maneuver to communicate a motivating or dispiriting message to the target, either granting them 2 surges or forcing them to take a bane on the next ability roll they make before the start of your next turn.
+Additionally, once on each of your turns, you can use a free maneuver to communicate a motivating or dispiriting message to the target, either granting them 2 [surges](../rule/resource/surge.md) or forcing them to take a bane on the next ability roll they make before the start of your next turn.
 
 ## 4th-Level Features
 
@@ -808,8 +808,8 @@ You have more ways of getting the most drama out of a situation. Choose two of t
 - Whenever a creature rolls a natural 2 on a power roll, you gain 2 drama.
 - The first time the Director deals damage to a hero using a Villain action or an ability that costs Malice, you gain 2 drama.
 - The first time a hero unwillingly falls 5 or more squares, you gain 2 drama.
-- The first time a hero deals damage with 3 surges, you gain 2 drama.
-- Whenever a hero spends their last Recovery, you gain 2 drama.
+- The first time a hero deals damage with 3 [surges](../rule/resource/surge.md), you gain 2 drama.
+- Whenever a hero spends their last [Recovery](../rule/health/recoveries.md), you gain 2 drama.
 
 Alternatively, you can forgo choosing a new event to choose one event you already have (including an event gained with this feature). Whenever the chosen event grants you drama, you gain 1 additional drama.
 
@@ -834,7 +834,7 @@ You can ask the Director for two clues regarding an upcoming encounter or negoti
 By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a Presence test:
 
 - **≤11:** Your information reaches no one.
-- **12-16:** Your information reaches the nearest populated area of town size or larger. You and each ally present when you make the test gain an edge on Presence tests in that area until one of you spends a Recovery.
+- **12-16:** Your information reaches the nearest populated area of town size or larger. You and each ally present when you make the test gain an edge on Presence tests in that area until one of you spends a [Recovery](../rule/health/recoveries.md).
 - **17+:** Your information reaches the nearest populated area of town size or larger, plus the next closest such population. You and allies present for your test gain an edge on Presence tests made in those areas until you start your next respite.
 
 #### Latest Goss {data-scc="mcdm.heroes.v1/feature.troubadour.level-4/latest-goss"}
@@ -901,7 +901,7 @@ Choose one of the following features.
 
 ##### Bolstering Banter
 
-Once on each of your turns, you can use a free maneuver to exchange words with a target of your current performance, other than yourself. The target can spend a Recovery to gain temporary Stamina equal to their recovery value.
+Once on each of your turns, you can use a free maneuver to exchange words with a target of your current performance, other than yourself. The target can spend a [Recovery](../rule/health/recoveries.md) to gain [temporary Stamina](../rule/health/temporary-stamina.md) equal to their [recovery value](../rule/health/recoveries.md).
 
 ##### Medley
 
@@ -926,7 +926,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 - **12-16:** 14 damage
 - **17+:** 20 damage
 
-**Effect:** Unless you score a critical hit, this ability can't reduce a non-minion target below 1 Stamina.
+**Effect:** Unless you score a critical hit, this ability can't reduce a non-minion target below 1 [Stamina](../rule/health/stamina.md).
 
 #### Continuity Error {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/continuity-error"}
 
@@ -937,7 +937,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 |-------------------|---------------------------:|
 | **📏 Ranged 10**  | **🎯 One enemy or object** |
 
-**Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's Stamina, is [weakened](../condition/weakened.md), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.
+**Effect:** The target is split into two separate entities, one of which remains in the target's space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director's control. Each entity has half the original target's [Stamina](../rule/health/stamina.md), is [weakened](../condition/weakened.md), and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 [Stamina](../rule/health/stamina.md), the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current [Stamina](../rule/health/stamina.md).
 
 #### Love Song {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/love-song"}
 
@@ -948,7 +948,7 @@ Choose one heroic ability from the following options, each of which costs 9 dram
 |-------------------|------------------------------:|
 | **📏 Ranged 10**  | **🎯 One creature or object** |
 
-**Effect:** The target gains 20 temporary Stamina. Until the end of the encounter, whenever the target takes damage while you're within distance, you can choose to take the damage instead of the target.
+**Effect:** The target gains 20 [temporary Stamina](../rule/health/temporary-stamina.md). Until the end of the encounter, whenever the target takes damage while you're within distance, you can choose to take the damage instead of the target.
 
 #### Patter Song {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-5/patter-song"}
 
@@ -986,7 +986,7 @@ You have the following performance ability, which is usable with your [Routines]
 |------------------------------|--------------------------------------:|
 | **📏 5 aura**                | **🎯 Self and each ally in the area** |
 
-**Effect:** While this performance is active, each target who starts their turn in the area gains 1 of their Heroic Resource. This Heroic Resource disappears at the end of the target's turn if they don't spend it.
+**Effect:** While this performance is active, each target who starts their turn in the area gains 1 of their [Heroic Resource](../rule/resource/heroic-resource.md). This [Heroic Resource](../rule/resource/heroic-resource.md) disappears at the end of the target's turn if they don't spend it.
 
 ### 6th-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-6/6th-level-class-act-ability"}
 
@@ -1082,7 +1082,7 @@ Choose one of the following abilities.
 |-----------------|--------------------------------------:|
 | **📏 4 burst**  | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target gains 1 surge, then gains 1 surge at the start of each combat round until the end of the encounter.
+**Effect:** Each target gains 1 [surge](../rule/resource/surge.md), then gains 1 [surge](../rule/resource/surge.md) at the start of each combat round until the end of the encounter.
 
 ## 7th-Level Features
 
@@ -1096,7 +1096,7 @@ Each of your characteristic scores increases by 1, to a maximum of 4.
 
 You can use your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature to form a bond with one willing hero instead of an NPC you interact with using a test. If you bond with another hero, you lose your existing bond with a hero.
 
-Additionally, you and creatures you are bonded with gain a +1 bonus to saving throws. Whenever you or a bonded creature succeeds on a saving throw, you and each creature you are bonded with gains temporary Stamina equal to your level.
+Additionally, you and creatures you are bonded with gain a +1 bonus to saving throws. Whenever you or a bonded creature succeeds on a saving throw, you and each creature you are bonded with gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your level.
 
 ### A Muse's Muse {data-scc="mcdm.heroes.v1/feature.troubadour.level-7/a-muses-muse"}
 
@@ -1139,7 +1139,7 @@ You have the following performance abilities, which are usable with your [Routin
 |------------------------------|-----------------------------:|
 | **📏 5 aura**                | **🎯 Each ally in the area** |
 
-**Effect:** While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend Recoveries or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
+**Effect:** While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend [Recoveries](../rule/health/recoveries.md) or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
 
 ##### Radical Fantasia {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/radical-fantasia"}
 
@@ -1158,7 +1158,7 @@ Whenever a creature within distance of your [Dramatic Monologue](../feature/abil
 
 #### Masterwork {data-scc="mcdm.heroes.v1/feature.troubadour.level-8/masterwork"}
 
-Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 surge that you can use only on this ability.
+Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 [surge](../rule/resource/surge.md) that you can use only on this ability.
 
 Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your [Zeitgeist](../feature/troubadour/level-4/zeitgeist.md) feature to tell tales of your exploits after the encounter ends.
 
@@ -1175,7 +1175,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to [teleport](../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../movement/teleport.md)ed ally can then make a melee [free strike](../feature/common/main-actions/free-strike.md).
+**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 [Stamina](../rule/health/stamina.md) using an ability, you can use a free triggered action to [teleport](../movement/teleport.md) an ally within distance of that ability into the creature's space in a plume of rose petals. You or the [teleport](../movement/teleport.md)ed ally can then make a melee [free strike](../feature/common/main-actions/free-strike.md).
 
 #### Power Ballad {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/power-ballad"}
 
@@ -1186,7 +1186,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 |-------------------|------------------------:|
 | **📏 Ranged 10**  | **🎯 Self or one ally** |
 
-**Effect:** Until the end of the encounter, whenever the target takes damage while winded, they can use a free triggered action to deal half the damage they took to the source of the damage.
+**Effect:** Until the end of the encounter, whenever the target takes damage while [winded](../rule/health/winded.md), they can use a free triggered action to deal half the damage they took to the source of the damage.
 
 #### Saved in the Edit {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-8/saved-in-the-edit"}
 
@@ -1197,7 +1197,7 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever you deal rolled damage to a creature or object, or enable a creature to spend a Recovery, you can use a free triggered action to give that creature or object one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending Recoveries simultaneously, each target receives the same effect:
+**Effect:** Until the end of the encounter, whenever you deal rolled damage to a creature or object, or enable a creature to spend a [Recovery](../rule/health/recoveries.md), you can use a free triggered action to give that creature or object one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending [Recoveries](../rule/health/recoveries.md) simultaneously, each target receives the same effect:
 
 - The target has damage weakness equal to your Presence score against any magic, psionic, or weapon ability.
 - The target has damage immunity equal to your Presence score.
@@ -1229,7 +1229,7 @@ As a 9th-level [troubadour](troubadour.md), you gain the following features.
 
 You are empowered by your audience, near and far. You can't be made [frightened](../condition/frightened.md), and if you [are prone](../condition/prone.md), you can stand up as a free maneuver.
 
-Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains temporary Stamina equal to 10 + the number of active bonds from your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature + either your Victories or the number of players in your game (whichever is higher).
+Additionally, whenever you spend a [Recovery](../rule/health/recoveries.md), you can forgo regaining [Stamina](../rule/health/stamina.md) to invoke the roar of an invisible applauding audience. You and each ally within 3 squares of you gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to 10 + the number of active bonds from your [Scene Partner](../feature/troubadour/level-1/scene-partner.md) feature + either your Victories or the number of players in your game (whichever is higher).
 
 ### 9th-Level Class Act Ability {data-scc="mcdm.heroes.v1/feature.troubadour.level-9/9th-level-class-act-ability"}
 
@@ -1265,7 +1265,7 @@ Choose one of the following abilities.
 |-------------------|----------------:|
 | **📏 Ranged 10**  | **🎯 One ally** |
 
-**Effect:** The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](../condition/slowed.md) or [weakened](../condition/weakened.md) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
+**Effect:** The target gains 3 of their [Heroic Resource](../rule/resource/heroic-resource.md), has a double edge on a power roll of their choice made during their next turn, is no longer [slowed](../condition/slowed.md) or [weakened](../condition/weakened.md) if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.
 
 #### 9th-Level Duelist Abilities
 
@@ -1286,7 +1286,7 @@ Choose one of the following abilities.
 - **12-16:** 21 + A damage
 - **17+:** 28 + A damage; M < STRONG, [bleeding](../condition/bleeding.md) (save ends)
 
-**Effect:** This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.
+**Effect:** This ability can't obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 [surges](../rule/resource/surge.md) that you can use immediately.
 
 ##### Renegotiated Contract {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-9/renegotiated-contract"}
 
@@ -1297,7 +1297,7 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 Melee 1**            | **🎯 One creature** |
 
-**Effect:** Add your current Stamina to your target's current Stamina, then you have half that total Stamina and the target has the remainder. If either of you would gain more Stamina this way than their Stamina maximum, the difference in Stamina between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more Stamina than your maximum this way. You then make a power roll.
+**Effect:** Add your current [Stamina](../rule/health/stamina.md) to your target's current [Stamina](../rule/health/stamina.md), then you have half that total [Stamina](../rule/health/stamina.md) and the target has the remainder. If either of you would gain more [Stamina](../rule/health/stamina.md) this way than their [Stamina](../rule/health/stamina.md) maximum, the difference in [Stamina](../rule/health/stamina.md) between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more [Stamina](../rule/health/stamina.md) than your maximum this way. You then make a power roll.
 
 **Power Roll + Presence:**
 
@@ -1361,7 +1361,7 @@ Your Agility and Presence scores each increase to 5.
 
 ### Dramaturgy {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/dramaturgy"}
 
-You gain 1 additional [drama](../feature/troubadour/level-1/drama.md) or other Heroic Resource whenever you use your [Appeal to the Muses](../feature/troubadour/level-2/appeal-to-the-muses.md) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
+You gain 1 additional [drama](../feature/troubadour/level-1/drama.md) or other [Heroic Resource](../rule/resource/heroic-resource.md) whenever you use your [Appeal to the Muses](../feature/troubadour/level-2/appeal-to-the-muses.md) feature. Additionally, your performances no longer have a distance, but can affect any target on the encounter map within your line of effect.
 
 ### Greatest of All Time {data-scc="mcdm.heroes.v1/feature.troubadour.level-10/greatest-of-all-time"}
 

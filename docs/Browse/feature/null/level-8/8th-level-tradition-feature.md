@@ -62,7 +62,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">8</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your <a href="../../level-1/null-field/">Null Field</a> ability also gains this benefit.</p>
+<p>As a free maneuver, you can spend 1d6 <a href="../../../../rule/health/stamina/">Stamina</a> to remove one effect on you. Each creature of your choice in the area of your <a href="../../level-1/null-field/">Null Field</a> ability also gains this benefit.</p>
 </div>
 </section>
 </div>

@@ -342,7 +342,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Mushrooms cover the target&#39;s body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.</p></div>
+<div class="sc-ability__section-body"><p>Mushrooms cover the target&#39;s body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 <a href="../../../../rule/resource/surge/">surge</a> whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

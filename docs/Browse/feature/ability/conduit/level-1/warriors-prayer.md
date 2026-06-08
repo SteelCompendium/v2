@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 distance: Ranged 10
-effect: You or one ally within distance gains temporary Stamina equal to your Intuition score.
+effect: You or one ally within distance gains [temporary Stamina](../../../../rule/health/temporary-stamina.md) equal to your Intuition score.
 flavor: Your quickly uttered prayer lends aggressive divine energy to a friend engaged in melee.
 keywords:
     - Magic
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You or one ally within distance gains temporary Stamina equal to your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>You or one ally within distance gains <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your Intuition score.</p></div>
 </div>
 </article>

@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 9 Piety
 distance: Ranged 10
-effect: Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to move this effect to another creature within distance.
+effect: Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a [Recovery](../../../../rule/health/recoveries.md). If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) before the end of the encounter, you can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to move this effect to another creature within distance.
 flavor: You ignite a foe with holy radiance, rewarding allies who attack them.
 keywords:
     - Magic
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free <a href="../../../../conduit/level-1/triggered-action/">triggered action</a> to move this effect to another creature within distance.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>. If the target is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> before the end of the encounter, you can use a free <a href="../../../../conduit/level-1/triggered-action/">triggered action</a> to move this effect to another creature within distance.</p></div>
 </div>
 </article>

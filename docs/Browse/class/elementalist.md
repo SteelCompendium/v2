@@ -36,11 +36,11 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 **Strong Potency:** Reason
 
-**Starting Stamina at 1st Level:** 18
+**Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 18
 
-**Stamina Gained at 2nd and Higher Levels:** 6
+**[Stamina](../rule/health/stamina.md) Gained at 2nd and Higher Levels:** 6
 
-**Recoveries:** 8
+**[Recoveries](../rule/health/recoveries.md):** 8
 
 **Skills:** You gain the Magic skill (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any three skills from the crafting or lore skill groups. (*Quick Build:* Alchemy, Blacksmithing, History, Magic.)
 
@@ -87,7 +87,7 @@ You become an expert at wielding destructive flames. Your abilities that have th
 
 #### Green: Acolyte of the Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/green-acolyte-of-the-green"}
 
-You harness the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to one or more creatures using an ability that has the Green and Magic keywords and that costs essence to use (see below), you or one creature within 10 squares of you gains temporary Stamina equal to your Reason score.
+You harness the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to one or more creatures using an ability that has the Green and Magic keywords and that costs essence to use (see below), you or one creature within 10 squares of you gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your Reason score.
 
 #### Void: Acolyte of the Mystery {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/void-acolyte-of-the-mystery"}
 
@@ -95,7 +95,7 @@ You use your immersion in the mystery of void magic to expand the reach of that 
 
 ### Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/essence"}
 
-You channel the substance of creation in the form of a Heroic Resource called essence, gathering and burning it to cast and maintain spells.
+You channel the substance of creation in the form of a [Heroic Resource](../rule/resource/heroic-resource.md) called essence, gathering and burning it to cast and maintain spells.
 
 #### Essence in Combat
 
@@ -255,9 +255,9 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 **Trigger:** The target starts their turn or takes damage.
 
-**Effect:** The target can spend a Recovery.
+**Effect:** The target can spend a [Recovery](../rule/health/recoveries.md).
 
-**Spend 1+ Essence:** The target can spend an additional Recovery for each essence spent.
+**Spend 1+ Essence:** The target can spend an additional [Recovery](../rule/health/recoveries.md) for each essence spent.
 
 ##### Explosive Assistance {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/explosive-assistance"}
 
@@ -310,7 +310,7 @@ You weave an elemental [enchantment](../feature/elementalist/level-1/enchantment
 
 #### Enchantment of Battle {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-battle"}
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to [Stamina](../rule/health/stamina.md), and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this [enchantment](../feature/elementalist/level-1/enchantment.md).
 
@@ -328,7 +328,7 @@ You have a +2 bonus to the distance of your ranged magic abilities.
 
 #### Enchantment of Permanence {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/enchantment-of-permanence"}
 
-You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
+You gain a +6 bonus to [Stamina](../rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
 
 ### Elementalist Ward {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-ward"}
 
@@ -336,7 +336,7 @@ You create an invisible elemental ward that protects you. Choose one of the foll
 
 #### Ward of Delightful Consequences {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-delightful-consequences"}
 
-A protective field of void magic absorbs violence aimed at you, then lets you hurl it back at your enemies. The first time each round that you take damage, you gain 1 surge.
+A protective field of void magic absorbs violence aimed at you, then lets you hurl it back at your enemies. The first time each round that you take damage, you gain 1 [surge](../rule/resource/surge.md).
 
 #### Ward of Excellent Protection {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-excellent-protection"}
 
@@ -543,7 +543,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 - **12-16:** 7 + R poison damage
 - **17+:** 11 + R poison damage
 
-**Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
+**Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 [surge](../rule/resource/surge.md) whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.
 
 ##### Ripples in the Earth {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/ripples-in-the-earth"}
 
@@ -655,27 +655,27 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 #### Disciple of Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/disciple-of-earth"}
 
-Your body is strengthened by your mind's connection to the element of permanence. You have a +6 bonus to Stamina, and you gain an additional +3 bonus to Stamina whenever you gain a level past 2nd.
+Your body is strengthened by your mind's connection to the element of permanence. You have a +6 bonus to [Stamina](../rule/health/stamina.md), and you gain an additional +3 bonus to [Stamina](../rule/health/stamina.md) whenever you gain a level past 2nd.
 
 #### Disciple of Fire {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/disciple-of-fire"}
 
 Your connection to fire allows you to protect yourself from it, even as you rip away the protections of others. You have fire immunity equal to 5 plus your level. Additionally, fire damage you deal ignores a target's fire immunity.
 
-At the start of a combat encounter, you gain a number of surges equal to your Victories. Whenever you spend a surge to deal extra damage, you can make that damage fire damage.
+At the start of a combat encounter, you gain a number of [surges](../rule/resource/surge.md) equal to your Victories. Whenever you spend a [surge](../rule/resource/surge.md) to deal extra damage, you can make that damage fire damage.
 
 #### Disciple of the Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-2/disciple-of-the-green"}
 
 You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in [animal form](../complication/animal-form.md), you can speak, and you use your Reason score to make melee [free strikes](../feature/common/main-actions/free-strike.md). Your statistics stay the same except as noted on the table.
 
-Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you temporary Stamina. You lose this temporary Stamina when you revert back to your true form.
+Each form has a prerequisite level that you must attain before you can adopt it. Some animal forms grant you [temporary Stamina](../rule/health/temporary-stamina.md). You lose this [temporary Stamina](../rule/health/temporary-stamina.md) when you revert back to your true form.
 
 You choose a specific animal and appearance while in [animal form](../complication/animal-form.md). For example, if you become a rodent, you might become a mouse, a rat, a shrew, or any other size 1T animal who fits the rodent type. When you take on an [animal form](../complication/animal-form.md), your equipment either melds into your new form or falls undamaged to the ground (your choice). When you return to your true form, any melded gear reappears on your person.
 
-You can revert back to your true form as a maneuver. You can't enter an [animal form](../complication/animal-form.md) unless you are in your true form. When you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
+You can revert back to your true form as a maneuver. You can't enter an [animal form](../complication/animal-form.md) unless you are in your true form. When you are [dying](../rule/health/dying.md), you revert to your true form and can't turn back into an animal until you are no longer [dying](../rule/health/dying.md).
 
 ##### Green Animal Forms Table
 
-| Animal Type         | Level | Temporary Stamina | Speed         | Size | Stability Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                         |
+| Animal Type         | Level | [Temporary Stamina](../rule/health/temporary-stamina.md) | Speed         | Size | Stability Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                                                         |
 |---------------------|-------|-------------------|---------------|------|-----------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Canine              | 2nd   | 5                 | 7             | 1M   | +0              | +1/+1/+1           | You gain an edge on tests that involve smell.                                                                                                                                                                                                                                   |
 | Fish                | 2nd   | 0                 | 5 (swim only) | 1T   | +0              | +0/+0/+0           | You can breathe in water but can't breathe outside of it.                                                                                                                                                                                                                       |
@@ -693,7 +693,7 @@ You can revert back to your true form as a maneuver. You can't enter an [animal 
 | Kangaroo            | 7th   | 0                 | 7             | 1L   | +1              | +0/+0/+4           | When you score a critical hit with a melee [free strike](../feature/common/main-actions/free-strike.md), the target is [dazed](../condition/dazed.md) (save<br>ends). When you take the [Advance](../feature/common/move-actions/advance.md) move action, you can high jump or long<br>jump up to half your speed. This jump can allow you to move more squares<br>than your speed.                    |
 | Spiny armadillo     | 7th   | 10                | 5             | 1M   | +2              | +0/+0/+0           | Whenever you take damage from an adjacent creature's melee ability, that<br>creature takes 3 damage.                                                                                                                                                                            |
 | Ostrich             | 8th   | 0                 | 10            | 2    | +0              | +1/+1/+1           | Your movement does not provoke opportunity attacks.                                                                                                                                                                                                                             |
-| Shark               | 8th   | 0                 | 8 (swim only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an edge on strikes against targets who are [bleeding](../condition/bleeding.md) or winded.                                                                                                                              |
+| Shark               | 8th   | 0                 | 8 (swim only) | 2    | +0              | +2/+2/+2           | You can breathe in water but can't breathe outside of it. Additionally, you gain<br>an edge on strikes against targets who are [bleeding](../condition/bleeding.md) or [winded](../rule/health/winded.md).                                                                                                                              |
 | Giant octopus       | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | You can breathe in water. Additionally, you can target two creatures or objects<br>with your melee [free strike](../feature/common/main-actions/free-strike.md). Whenever you obtain a tier 2 or tier 3 outcome on<br>a melee [free strike](../feature/common/main-actions/free-strike.md), you can automatically grab the target. You can have up to<br>eight creatures [grabbed](../condition/grabbed.md). |
 | Rhinoceros          | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | Whenever you make a melee [free strike](../feature/common/main-actions/free-strike.md) as part of the Charge action, that<br>strike gains an edge.                                                                                                                                                                               |
 | King terror lizard  | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | Your melee [free strike](../feature/common/main-actions/free-strike.md) is a 1 burst with the Area and Strike keywords.                                                                                                                                                                                                          |
@@ -711,7 +711,7 @@ You have the following ability.
 |-------------------------|---------------:|
 | **📏 Ranged 10**        | **🎯 Special** |
 
-**Effect:** You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleport](../movement/teleport.md)ed to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their [forced movement](../movement/forced-movement.md) ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
+**Effect:** You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are [dying](../rule/health/dying.md). Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly [teleport](../movement/teleport.md)ed to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their [forced movement](../movement/forced-movement.md) ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
 
 At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who [force move](../movement/forced-movement.md)s an enemy into a portal chooses that enemy's destination portal.
 
@@ -730,7 +730,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 **Effect:** Until the start of your next turn, the area gains the following effects:
 
-- Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries.
+- Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of [Recoveries](../rule/health/recoveries.md).
 - The area is [difficult terrain](../movement/difficult-terrain.md) for enemies.
 - Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.
 
@@ -926,7 +926,7 @@ The first time each combat round that you or a creature within 10 squares takes 
 
 ### Mantle of Essence {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/mantle-of-essence"}
 
-While you have 3 or more essence and are not dying, you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
+While you have 3 or more essence and are not [dying](../rule/health/dying.md), you exude an aura of magic whose distance is equal to your Reason score. The effects within the area of the aura are based on your specialization, as shown on the [Mantle of Essence](../feature/elementalist/level-4/mantle-of-essence.md) Specialization Effects table. You can activate and deactivate the aura at will (no action required).
 
 ##### Mantle of Essence Specialization Effects Table
 
@@ -943,7 +943,7 @@ At the end of each of your turns, each enemy in the area takes fire damage equal
 
 #### Flowering Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/flowering-bed"}
 
-At the end of each of your turns, each ally in the area gains temporary Stamina equal to your Reason score.
+At the end of each of your turns, each ally in the area gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to your Reason score.
 
 #### Quaking Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/quaking-earth"}
 
@@ -951,7 +951,7 @@ At the end of each of your turns, you can push each enemy in the area up to a nu
 
 #### Veiling Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/veiling-bed"}
 
-The area provides concealment for you and your allies.
+The area provides [concealment](../rule/combat/concealment.md) for you and your allies.
 
 ### Perk {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/perk"}
 
@@ -980,9 +980,9 @@ Your [elemental specialization](../feature/elementalist/level-1/elemental-specia
 
 #### Hide of Tenfold Shields {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/hide-of-tenfold-shields"}
 
-Your animal forms become hardier. You gain temporary Stamina equal to your level when you enter an [animal form](../complication/animal-form.md) in combat, which is added to any temporary Stamina provided by the [animal form](../complication/animal-form.md).
+Your animal forms become hardier. You gain [temporary Stamina](../rule/health/temporary-stamina.md) equal to your level when you enter an [animal form](../complication/animal-form.md) in combat, which is added to any [temporary Stamina](../rule/health/temporary-stamina.md) provided by the [animal form](../complication/animal-form.md).
 
-Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose temporary Stamina down to a minimum of 0. The ally gains temporary Stamina equal to the amount you lost.
+Additionally, an adjacent ally can use a maneuver to pet you. If they do so, you can lose [temporary Stamina](../rule/health/temporary-stamina.md) down to a minimum of 0. The ally gains [temporary Stamina](../rule/health/temporary-stamina.md) equal to the amount you lost.
 
 #### The Mountain Does Not Move {data-scc="mcdm.heroes.v1/feature.elementalist.level-5/the-mountain-does-not-move"}
 
@@ -1021,7 +1021,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 - **12-16:** 13 + R fire damage
 - **17+:** 17 + R fire damage
 
-**Effect:** When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.
+**Effect:** When the target ends their next turn, or if they drop to 0 [Stamina](../rule/health/stamina.md) before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.
 
 #### Storm of Sands {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-5/storm-of-sands"}
 
@@ -1038,7 +1038,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 - **12-16:** 5 damage
 - **17+:** 7 damage
 
-**Effect:** The area lasts until the start of your next turn. It is [difficult terrain](../movement/difficult-terrain.md) for enemies, and you and your allies have concealment while in the area.
+**Effect:** The area lasts until the start of your next turn. It is [difficult terrain](../movement/difficult-terrain.md) for enemies, and you and your allies have [concealment](../rule/combat/concealment.md) while in the area.
 
 **Persistent 1:** The area remains until the start of your next turn, and you can move it up to 5 squares (no action required). As a maneuver, you can make the power roll again without spending essence.
 
@@ -1090,7 +1090,7 @@ You can spend 10 uninterrupted minutes to create a freeform magic spell for a va
 
 - You create a mundane object of a size equal to your Reason score or smaller.
 - You construct a place of shelter suitable for twenty creatures that lasts for 24 hours and can't be detected by enemies.
-- You restore all Stamina to a mundane object of a size equal to your Reason score or smaller.
+- You restore all [Stamina](../rule/health/stamina.md) to a mundane object of a size equal to your Reason score or smaller.
 - Choose a cube with a size up to your Reason score within 5 squares. You can fill that area with [difficult terrain](../movement/difficult-terrain.md) or natural phenomena such as fire, water, or plant life, or can clear the area of those things.
 - You can preserve a corpse or up to 5 pounds of food for a week, or can cause a corpse or that amount of food to instantly rot.
 - You create a seal on a surface that can't be seen or felt by anyone but you. When a creature comes adjacent to the surface, you can see and hear through the seal for as long as the creature remains adjacent to it. When you create the seal, you can decide to limit the number of creatures who activate it by choosing a creature keyword (such as Undead) or a specific name (such as Ajax the Invincible) or organization (such as the Black Iron Pact). If you do, the seal alerts you only when creatures with the keyword, name, or organizational affiliation you provide pass by it. If you create a second seal, the first one disappears. You can dispel a seal at any time (no action required).
@@ -1108,7 +1108,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 |--------------------------------------|------------------------:|
 | **📏 Ranged 10**                     | **🎯 Self or one ally** |
 
-**Effect:** The target has a +3 bonus to speed, they can [fly](../movement/fly.md), and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.
+**Effect:** The target has a +3 bonus to speed, they can [fly](../movement/fly.md), and their abilities ignore [concealment](../rule/combat/concealment.md). Additionally, whenever the target gains their [Heroic Resource](../rule/resource/heroic-resource.md), they gain 1 additional [Heroic Resource](../rule/resource/heroic-resource.md). This effect lasts until the start of your next turn.
 
 **Persistent 1:** The effect lasts until the start of your next turn.
 
@@ -1129,7 +1129,7 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 - When the target force moves a creature or object, the [forced movement](../movement/forced-movement.md) distance gains a +2 bonus.
 - They can use their highest characteristic instead of Might for Might power rolls.
 
-**Persistent 2:** The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 Recoveries.
+**Persistent 2:** The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 [Recoveries](../rule/health/recoveries.md).
 
 #### Meteor {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-6/meteor"}
 
@@ -1157,9 +1157,9 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 |-------------------------------------|----------------:|
 | **📏 4 burst**                      |  **🎯 Special** |
 
-**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has cover.
+**Effect:** The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is [difficult terrain](../movement/difficult-terrain.md) for enemies, and any ally who ends their turn in the area has [cover](../rule/combat/cover.md).
 
-**Persistent 2:** The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a Recovery.
+**Persistent 2:** The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a [Recovery](../rule/health/recoveries.md).
 
 ## 7th-Level Features
 
@@ -1239,7 +1239,7 @@ You have the following ability.
 
 **Effect:** A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
 
-The source starts an encounter at full Stamina, but maintains their current Stamina throughout the encounter, even if they are dismissed and you use this ability again. They can't regain Stamina during the encounter. When the source's Stamina is reduced to 0, you can't use this ability again until you earn 1 or more Victories.
+The source starts an encounter at full [Stamina](../rule/health/stamina.md), but maintains their current [Stamina](../rule/health/stamina.md) throughout the encounter, even if they are dismissed and you use this ability again. They can't regain [Stamina](../rule/health/stamina.md) during the encounter. When the source's [Stamina](../rule/health/stamina.md) is reduced to 0, you can't use this ability again until you earn 1 or more Victories.
 
 **Persistent 2:** The source takes another turn. They are dismissed at the start of your next turn.
 
@@ -1251,7 +1251,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 >
 >|      Elemental      |           -            |      Level 8      |         BRUTE         |         EV -         |
 >|:-------------------:|:----------------------:|:-----------------:|:---------------------:|:--------------------:|
->|    **2**<br>Size    |     **6**<br>Speed     | **45**<br>Stamina |  **5**<br>Stability   | **5**<br>[Free Strike](../feature/common/main-actions/free-strike.md) |
+>|    **2**<br>Size    |     **6**<br>Speed     | **45**<br>[Stamina](../rule/health/stamina.md) |  **5**<br>Stability   | **5**<br>[Free Strike](../feature/common/main-actions/free-strike.md) |
 >| **-**<br>Immunities | **[Burrow](../movement/burrow.md)**<br>Movement |                   | **-**<br>With Captain | **-**<br>Weaknesses  |
 >|   **+3**<br>Might   |   **+1**<br>Agility    | **-5**<br>Reason  |  **-5**<br>Intuition  |  **-3**<br>Presence  |
 >
@@ -1292,7 +1292,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 |--------------------------|----------------:|
 | **📏 Ranged 10**         |  **🎯 Special** |
 
-**Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 Stamina and can't be [force moved](../movement/forced-movement.md). You and any ally can touch the tree to use the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you [are prone](../condition/prone.md). Each ally within distance also gains this benefit.
+**Effect:** A size 5 tree appears in an unoccupied space within distance. The tree has 100 [Stamina](../rule/health/stamina.md) and can't be [force moved](../movement/forced-movement.md). You and any ally can touch the tree to use the [Catch Breath](../feature/common/maneuvers/catch-breath.md) maneuver as a free maneuver. Additionally, when you start your turn with line of effect to the tree, you can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn, or you can stand up if you [are prone](../condition/prone.md). Each ally within distance also gains this benefit.
 
 Each enemy who ends their turn within 3 squares of the tree is [restrained](../condition/restrained.md) until the end of their next turn. A creature [restrained](../condition/restrained.md) this way can use a main action to end the effect early.
 
@@ -1322,7 +1322,7 @@ Each enemy who ends their turn within 3 squares of the tree is [restrained](../c
 |-------------------------------|----------------:|
 | **📏 Ranged 10**              |  **🎯 Special** |
 
-**Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../condition/prone.md). At the end of the round, if a winded enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+**Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each combat round while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../condition/prone.md). At the end of the round, if a [winded](../rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 
 #### World Torn Asunder {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/world-torn-asunder"}
 
@@ -1381,7 +1381,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 |--------------------------|------------------------:|
 | **📏 Ranged 10**         | **🎯 Self or one ally** |
 
-**Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the [Defend](../feature/common/main-actions/defend.md) main action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or until the effect ends. If this temporary Stamina disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
+**Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the [Defend](../feature/common/main-actions/defend.md) main action as a maneuver on each of their turns. The target gains 30 [temporary Stamina](../rule/health/temporary-stamina.md) that lasts until depleted or until the effect ends. If this [temporary Stamina](../rule/health/temporary-stamina.md) disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.
 
 **Persistent 2:** The effect lasts until the start of your next turn.
 
@@ -1458,11 +1458,11 @@ Additionally, your [Return to Formlessness](../feature/ability/elementalist/leve
 
 #### Master of Green {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-green"}
 
-The number of Recoveries you have increases by 2, and each time you finish a respite, you can grant each ally who finished the respite with you 2 additional Recoveries. Your allies' additional Recoveries disappear when they finish their next respite.
+The number of [Recoveries](../rule/health/recoveries.md) you have increases by 2, and each time you finish a respite, you can grant each ally who finished the respite with you 2 additional [Recoveries](../rule/health/recoveries.md). Your allies' additional [Recoveries](../rule/health/recoveries.md) disappear when they finish their next respite.
 
 Additionally, as a respite activity, you can perform a ritual that causes a fruit tree to spring from the ground, grow, mature, and produce 1d6 of a treasure called Life Fruit. You can use a respite activity to cause an existing tree to produce another 1d6 Life Fruit, but it does not grow these magic consumables on its own.
 
-As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their Stamina, they can end all conditions or effects on themself, and they can stand up if [prone](../condition/prone.md). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
+As a maneuver, a creature can consume a Life Fruit or feed it to an adjacent willing ally. When a creature eats a Life Fruit, they restore all their [Stamina](../rule/health/stamina.md), they can end all conditions or effects on themself, and they can stand up if [prone](../condition/prone.md). Additionally, if the creature desires, their aging pauses for 1d10 years. If the creature eats additional Life Fruit and chooses to pause their aging, the effects don't stack. Instead, the creature gains the benefit from the Life Fruit that pauses their aging for the longest time.
 
 #### Master of Void {data-scc="mcdm.heroes.v1/feature.elementalist.level-10/master-of-void"}
 

@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they <a href="../../../../condition/prone/">are prone</a>. Additionally, at the start of each of their turns until the end of the encounter or until they are dying, the target gains 3 surges.</p></div>
+<div class="sc-ability__section-body"><p>The target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they <a href="../../../../condition/prone/">are prone</a>. Additionally, at the start of each of their turns until the end of the encounter or until they are <a href="../../../../rule/health/dying/">dying</a>, the target gains 3 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -79,7 +79,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>At the end of each of your turns until the end of the encounter or until you are dying, each target gains 3 surges.</p></div>
+<div class="sc-ability__section-body"><p>At the end of each of your turns until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each target gains 3 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -107,7 +107,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally the target comes adjacent to during the <a href="../../../../movement/forced-movement/">forced movement</a> can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>Each ally the target comes adjacent to during the <a href="../../../../movement/forced-movement/">forced movement</a> can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
 </div>

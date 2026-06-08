@@ -54,7 +54,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You harness the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to one or more creatures using an ability that has the Green and Magic keywords and that costs essence to use (see below), you or one creature within 10 squares of you gains temporary Stamina equal to your Reason score.</p>
+<p>You harness the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to one or more creatures using an ability that has the Green and Magic keywords and that costs essence to use (see below), you or one creature within 10 squares of you gains <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to your Reason score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

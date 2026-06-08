@@ -101,7 +101,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Duck!:* When an enemy strikes you while a second creature is flanking you, you can use a triggered action to redirect the strike against the second creature. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
+- *Duck!:* When an enemy strikes you while a second creature is [flanking](../../Browse/rule/combat/flanking.md) you, you can use a triggered action to redirect the strike against the second creature. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Furniture Fighter:* When you use a weapon ability with an improvised weapon or a weapon that isn't part of your kit, the ability benefits from your kit's melee weapon damage bonus.
 - *Headbutt:* While you are [grabbed](../../Browse/condition/grabbed.md) or [restrained](../../Browse/condition/restrained.md), your [free strikes](../../Browse/feature/common/main-actions/free-strike.md) don't take a bane when those conditions would impose one.
 - *If I Wanted You Dead, You'd Be Dead:* Whenever you defeat foes without killing any of them (including the foes you defeat to meet the prerequisite for this title), you gain an edge on tests during negotiations with those foes.
@@ -115,7 +115,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Discerning Shopper:* When looking for an item prerequisite for a crafting project, you can remember meeting someone who might have the item—or at least information about it.
-- *One with the Crowd:* While you're using one or more creatures as cover, you gain an edge on tests made to hide and sneak.
+- *One with the Crowd:* While you're using one or more creatures as [cover](../../Browse/rule/combat/cover.md), you gain an edge on tests made to hide and sneak.
 - *Street Smart:* While in a settlement, you can't be surprised.
 
 ### Doomed {data-scc="mcdm.heroes.v1/title/doomed"}
@@ -124,7 +124,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 **Prerequisite:** You aren't a [hakaan](../../Browse/ancestry/hakaan.md) but have witnessed the death of a [hakaan](../../Browse/ancestry/hakaan.md).
 
-**Effect:** You aren't destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but remain conscious, you can become [doomed](../../Browse/title/doomed.md). If you do, you can't regain Stamina, you automatically obtain a tier 3 outcome on tests and power rolls, and you don't die until your Stamina reaches the negative of your Stamina maximum. At the end of the encounter, you die.
+**Effect:** You aren't destined for a meaningful death, but you still might achieve one. When you're reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) but remain conscious, you can become [doomed](../../Browse/title/doomed.md). If you do, you can't regain [Stamina](../../Browse/rule/health/stamina.md), you automatically obtain a tier 3 outcome on tests and power rolls, and you don't die until your [Stamina](../../Browse/rule/health/stamina.md) reaches the negative of your [Stamina](../../Browse/rule/health/stamina.md) maximum. At the end of the encounter, you die.
 
 ### Dwarven Legionnaire {data-scc="mcdm.heroes.v1/title/dwarven-legionnaire"}
 
@@ -136,7 +136,7 @@ Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
 - *Close Formation:* While adjacent to two or more allies, you gain a +2 bonus to stability.
 - *Rune of Alarm:* You can spend 10 uninterrupted minutes to inscribe a magic eye-shaped rune on a surface. The rune sheds light for 2 squares. The rune is dispelled 1 minute after it is activated or if you inscribe the rune elsewhere. The rune activates when an enemy comes within 2 squares of it. When the rune is activated, you wake up if you are nonmagically asleep, and you can perceive through the rune for 1 minute as if you were in its square.
-- *Stonemeld:* While adjacent to a stone wall, you can use a maneuver to gain concealment. This concealment lasts until you leave the square or use an ability.
+- *Stonemeld:* While adjacent to a stone wall, you can use a maneuver to gain [concealment](../../Browse/rule/combat/concealment.md). This [concealment](../../Browse/rule/combat/concealment.md) lasts until you leave the square or use an ability.
 
 ### Elemental Dabbler {data-scc="mcdm.heroes.v1/title/elemental-dabbler"}
 
@@ -177,7 +177,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 - *Easy Marks:* You gain an edge on tests made using skills from the interpersonal and intrigue skill groups when influencing members of a community that you have saved.
 - *Local Fame:* You earn 1 Renown.
-- *A New Dawn:* Each time you finish a respite while in a community you have saved, the party gains a hero token. This hero token disappears at the end of your next respite if it hasn't been used.
+- *A New Dawn:* Each time you finish a respite while in a community you have saved, the party gains a [hero token](../../Browse/rule/resource/hero-token.md). This [hero token](../../Browse/rule/resource/hero-token.md) disappears at the end of your next respite if it hasn't been used.
 
 > **Renown and Wealth**
 >
@@ -236,7 +236,7 @@ Additionally, the faction is a good source of information. The Director chooses 
 
 **Prerequisite:** You die in a way that prevents your body from being recovered or examined (for instance, by falling off a cliff).
 
-**Effect:** While it might appear that you died, you did not. Instead, you regain 1 Stamina and can spend 1 or more Recoveries. Additionally, you gain a 1st-echelon trinket of the Director's choice (see Treasures earlier in this chapter).
+**Effect:** While it might appear that you died, you did not. Instead, you regain 1 [Stamina](../../Browse/rule/health/stamina.md) and can spend 1 or more [Recoveries](../../Browse/rule/health/recoveries.md). Additionally, you gain a 1st-echelon trinket of the Director's choice (see Treasures earlier in this chapter).
 
 At a dramatic moment determined by the Director, you rejoin your party with an explanation for your narrow escape, and how you found your new trinket along the way.
 
@@ -248,7 +248,7 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 
 **Effect:** Choose one of the following benefits:
 
-- *Come Out to Play:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *Come Out to Play:* You have the following ability, which can be paid for using the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) of your class.
 
 #### Come Out to Play (1 Heroic Resource)
 
@@ -270,12 +270,12 @@ At a dramatic moment determined by the Director, you rejoin your party with an e
 
 **Prerequisite:** The entire party is killed or captured by sapient foes.
 
-**Effect:** After being defeated, each character awakes, alive and with full Stamina and Recoveries. You are all captives of the creatures who defeated you, and a gruesome end awaits you—unless you can escape or overcome the nefarious challenge your captors have planned.
+**Effect:** After being defeated, each character awakes, alive and with full [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md). You are all captives of the creatures who defeated you, and a gruesome end awaits you—unless you can escape or overcome the nefarious challenge your captors have planned.
 
 The Director chooses one of the following benefits, based on the fate your captors have in mind for you. Each hero gains the same benefit. Additionally, you must face an encounter, montage test, or adventure related to the benefit, as the Director determines.
 
 - *Gladiators:* You must fight to the death for your captors' amusement. Your intended opponents wield or guard a trinket or leveled treasure, which you can earn if you are victorious.
-- *Prey:* Your captors plan to release you and hunt you down, but it's no fun unless you offer a challenge. Each of you is given a medicinal draught that grants a +1 bonus to speed and increases your Recoveries by 2. This benefit lasts until the end of your next respite.
+- *Prey:* Your captors plan to release you and hunt you down, but it's no fun unless you offer a challenge. Each of you is given a medicinal draught that grants a +1 bonus to speed and increases your [Recoveries](../../Browse/rule/health/recoveries.md) by 2. This benefit lasts until the end of your next respite.
 - *Sacrifices:* You are to be dropped in a volcano, fed to a sacred monster, abandoned in a desert, or otherwise sacrificed to a higher power. You are bedecked with holy jewelry. Each hero earns 1 Wealth.
 - *Saviors:* Your captors fear an even stronger foe, and they want you to defeat this enemy for them. You can even keep any treasure you find while doing so.
 
@@ -327,7 +327,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 - *Blessed Weapons:* Whenever you use a damage-dealing weapon ability, that ability can deal holy damage instead of its usual damage type.
 - *Divine Health:* You gain corruption immunity equal to your highest characteristic score. Additionally, you can't be turned into an undead creature.
-- *Holy Terror:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *Holy Terror:* You have the following ability, which can be paid for using the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) of your class.
 
 #### Holy Terror (3 Heroic Resource)
 
@@ -355,7 +355,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 - *Dirty Fighting:* While you are standing, your melee strikes gain a +3 damage bonus against [prone creature](../../Browse/condition/prone.md)s. Additionally, being prone doesn't impose a bane on your strikes.
 - *Foes as Weapons:* Whenever you have a creature of your size or smaller [grabbed](../../Browse/condition/grabbed.md), you can use them as a weapon when you make a melee weapon free strike. Both the target and the [grabbed](../../Browse/condition/grabbed.md) enemy take the strike's damage.
 - *Instant Celebrity:* You earn 1 Renown.
-- *Showstopper:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *Showstopper:* You have the following ability, which can be paid for using the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) of your class.
 
 #### Showstopper (5 Heroic Resource)
 
@@ -380,7 +380,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Foresight:* You don't take a bane when using abilities against creatures with concealment.
+- *Foresight:* You don't take a bane when using abilities against creatures with [concealment](../../Browse/rule/combat/concealment.md).
 - *Rogue [Talent](../../Browse/class/talent.md):* Choose one triggered action that the [talent](../../Browse/class/talent.md) class has access to at 1st level. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend clarity, you can't do so unless you have the Clarity class feature.
 - *Telepathy:* As a maneuver, you communicate telepathically with a creature within 10 squares who understands a language you know. The creature can respond telepathically as part of the same maneuver.
 
@@ -392,7 +392,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Charge!:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *Charge!:* You have the following ability, which can be paid for using the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) of your class.
 
 #### Charge! (9 Heroic Resource)
 
@@ -417,7 +417,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Blood Mage:* When you use an area ability with the Magic or Psionic keyword, you can take damage equal to your level to increase the ability's area by 1 until the end of the encounter. If the area is a line, you increase the size of one dimension, not both. This damage can't be reduced in any way. You can use this benefit only once per use of an ability.
-- *Bloody Murder:* When you deal rolled damage to a creature with a strike, you can take damage equal to your level to deal twice that much corruption damage to the creature. The damage you take from this title can't be reduced in any way. You can use this benefit only once per ability. If the creature is reduced to 0 Stamina by this corruption damage, the creature explodes in a [shower of blood](../../Browse/feature/ability/fury/level-9/shower-of-blood.md) and you regain the Stamina you lost. You can't use this benefit on creatures without blood, such as constructs, elementals, or undead.
+- *Bloody Murder:* When you deal rolled damage to a creature with a strike, you can take damage equal to your level to deal twice that much corruption damage to the creature. The damage you take from this title can't be reduced in any way. You can use this benefit only once per ability. If the creature is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by this corruption damage, the creature explodes in a [shower of blood](../../Browse/feature/ability/fury/level-9/shower-of-blood.md) and you regain the [Stamina](../../Browse/rule/health/stamina.md) you lost. You can't use this benefit on creatures without blood, such as constructs, elementals, or undead.
 - *I Reject This Evil Power!:* You gain corruption immunity equal to your level.
 
 ### Corsair {data-scc="mcdm.heroes.v1/title/corsair"}
@@ -465,7 +465,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Smallfolk Dodge:* Any creature of size 2 or larger takes a bane on strikes against you.
-- *The Harder They Fall:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *The Harder They Fall:* You have the following ability, which can be paid for using the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) of your class.
 
 #### The Harder They Fall (7 Heroic Resource)
 
@@ -493,7 +493,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Healing Gift:* You can use the 1st-level [Conduit](../../Browse/class/conduit.md) feature [Healing Grace](../../Browse/feature/ability/conduit/level-1/healing-grace.md) as if you had spent 1 [piety](../../Browse/feature/conduit/level-1/piety.md) (see Chapter 5: [Classes](classes.md)). Once you use this benefit, you can't use it again until you earn 1 or more Victories.
-- *Last-Ditch Prayer:* As a free maneuver, you recite a prayer for help, gaining a pool of 2d10 of the Heroic Resource granted by your class. This pool disappears at the end of your turn if you haven't used it. Once you use this benefit, you can't use it again until you perform another service for a god or saint, or until you gain a level.
+- *Last-Ditch Prayer:* As a free maneuver, you recite a prayer for help, gaining a pool of 2d10 of the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) granted by your class. This pool disappears at the end of your turn if you haven't used it. Once you use this benefit, you can't use it again until you perform another service for a god or saint, or until you gain a level.
 - *Touched by the Divine:* Choose a god or saint from the Deities and  Domains table in Chapter 14: [Gods and Religion](gods-and-religion.md). From that god or saint's domains, choose a [Conduit](../../Browse/class/conduit.md) 1st-level domain feature (see Chapter 5: [Classes](classes.md)).
 
 ### Heist Hero {data-scc="mcdm.heroes.v1/title/heist-hero"}
@@ -530,8 +530,8 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 **Effect:** Choose one of the following benefits:
 
 - *Heraldic Fame:* You earn 1 Renown.
-- *Knightly Aegis:* Your Stamina maximum increases by 6.
-- *Knightly Challenge:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *Knightly Aegis:* Your [Stamina](../../Browse/rule/health/stamina.md) maximum increases by 6.
+- *Knightly Challenge:* You have the following ability, which can be paid for using the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) of your class.
 
 #### Knightly Challenge (5 Heroic Resource)
 
@@ -604,21 +604,21 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 **Prerequisite:** You are killed by an undead creature.
 
-**Effect:** You return to life 1 minute after being killed with Stamina equal to your winded value. You gain corruption immunity equal to your level and one of the benefits below, based on the type of creature who killed you. If you die again, you rise as an undead creature under the Director's control.
+**Effect:** You return to life 1 minute after being killed with [Stamina](../../Browse/rule/health/stamina.md) equal to your [winded](../../Browse/rule/health/winded.md) value. You gain corruption immunity equal to your level and one of the benefits below, based on the type of creature who killed you. If you die again, you rise as an undead creature under the Director's control.
 
-- *Ghoul or Vampire:* When you make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against an adjacent creature, you can bite that creature. If you do so and obtain a tier 3 outcome, you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
+- *Ghoul or Vampire:* When you make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against an adjacent creature, you can bite that creature. If you do so and obtain a tier 3 outcome, you gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to the damage dealt. If not lost beforehand, this [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) lasts until the end of your next respite.
 - *Incorporeal Undead:* You can move through other creatures and objects. The first time in a combat round that you pass through a creature, that creature takes corruption damage equal to half your level. You don't take damage from being [force moved](../../Browse/movement/forced-movement.md) into objects.
-- *Other Corporeal Undead:* When you are reduced to 0 Stamina by damage that isn't fire or holy damage and your body isn't destroyed, you can regain half your Stamina and [fall prone](../../Browse/condition/prone.md). Once you use this benefit, you can't use it again until you earn 10 or more Victories.
+- *Other Corporeal Undead:* When you are reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by damage that isn't fire or holy damage and your body isn't destroyed, you can regain half your [Stamina](../../Browse/rule/health/stamina.md) and [fall prone](../../Browse/condition/prone.md). Once you use this benefit, you can't use it again until you earn 10 or more Victories.
 
 ### Unstoppable {data-scc="mcdm.heroes.v1/title/unstoppable"}
 
 *I seen the goblin king run 'im through with a spear. Then I seen 'im pull 'imself back up, spear still in 'im, and headbutt the goblin king... then he pulls out the spear and throws it on the goblin king's corpse.*
 
-**Prerequisite:** You defeat a foe while at or below 0 Stamina.
+**Prerequisite:** You defeat a foe while at or below 0 [Stamina](../../Browse/rule/health/stamina.md).
 
 **Effect:** Choose one of the following benefits:
 
-- *From Hell's Heart:* While you are winded, your melee strikes gain a +3 damage bonus.
+- *From Hell's Heart:* While you are [winded](../../Browse/rule/health/winded.md), your melee strikes gain a +3 damage bonus.
 - *Furious Attack:* Choose one signature ability from the [fury](../../Browse/class/fury.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
 - *Furious Charge:* When you use the [Charge](../../Browse/feature/common/main-actions/charge.md) action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
 
@@ -652,7 +652,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 *Demonic Lore:* You know the Proto-Ctholl language. Additionally, when you deal damage using a magic ability, you can change the ability's damage type to holy.
 
-- *Lethe:* While you are winded, your strikes gain a +5 damage bonus
+- *Lethe:* While you are [winded](../../Browse/rule/health/winded.md), your strikes gain a +5 damage bonus
 - *Made of Teeth:* Your body can sprout teeth in unusual places. Whenever a creature makes physical contact with you or starts their turn touching you, you can deal 5 damage to them (no action required).
 - *Soulsight:* Any creature within 2 squares can't be hidden from you.
 
@@ -708,8 +708,8 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 **Effect:** Choose one of the following benefits:
 
-- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one class act triggered action from the [troubadour](../../Browse/class/troubadour.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the Heroic Resource of your class in place of drama.
-- *Devil's Opera:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *Angelic Chorus:* You can use the lessons of musical improvisation in combat. Choose one class act triggered action from the [troubadour](../../Browse/class/troubadour.md) class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend drama, you can gain or spend the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) of your class in place of drama.
+- *Devil's Opera:* You have the following ability, which can be paid for using the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) of your class.
 
 #### The Devil's Chord (9 Heroic Resource)
 
@@ -773,9 +773,9 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 *Last time we fought, I gave you a little token to remember me by... now it appears you need another reminder of my power.*
 
-**Prerequisite:** An enemy leader or solo creature reduces you to 0 Stamina.
+**Prerequisite:** An enemy leader or solo creature reduces you to 0 [Stamina](../../Browse/rule/health/stamina.md).
 
-**Effect:** You gain a visible scar in a location of your choice. Additionally, your Stamina maximum increases by 20, and the creature who [scarred](../../Browse/title/scarred.md) you takes a bane on abilities against you.
+**Effect:** You gain a visible scar in a location of your choice. Additionally, your [Stamina](../../Browse/rule/health/stamina.md) maximum increases by 20, and the creature who [scarred](../../Browse/title/scarred.md) you takes a bane on abilities against you.
 
 **Special:** You can gain this title multiple times. The second and each subsequent time that you gain it, your Stamima maximum doesn't increase..
 
@@ -789,7 +789,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 - *Death From Above:* When you gain an edge on an ability due to [high ground](../../Browse/movement/high-ground.md), the ability gains a +8 damage bonus.
 - *Hold the Line:* While you're within 5 squares of an ally, you and each ally within 5 squares of you gains a +3 bonus to stability.
-- *Last Defender:* Whenever an ally within 5 squares is reduced to 0 Stamina, you gain temporary Stamina equal to the ally's level (or 1 if they have no level). If you already have temporary Stamina granted by this title, you increase your temporary Stamina by the amount you would have gained.
+- *Last Defender:* Whenever an ally within 5 squares is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), you gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to the ally's level (or 1 if they have no level). If you already have [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) granted by this title, you increase your [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) by the amount you would have gained.
 
 ### Teacher {data-scc="mcdm.heroes.v1/title/teacher"}
 
@@ -842,7 +842,7 @@ Additionally, choose one of the following benefits:
 **Effect:** Your choice of your Reason or Intuition increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Cosmic Revelation:* When you make a test with a skill from the lore skill group and obtain a tier 1 or tier 2 outcome, you can instead obtain a tier 3 outcome. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
-- *Mind Over Matter:* Whenever you spend a Recovery, you can end one condition on yourself.
+- *Mind Over Matter:* Whenever you spend a [Recovery](../../Browse/rule/health/recoveries.md), you can end one condition on yourself.
 - *Rearrange the Game Pieces:* You can reach behind the curtain and alter reality. At the start of combat, choose yourself or any creature within 5 squares. The chosen target must move up to their speed to a space you choose, but can't enter [damaging terrain](../../Browse/movement/damaging-terrain.md) or terrain that could impose a condition on them. The target doesn't appear to move or [teleport](../../Browse/movement/teleport.md) to that space—they are simply there. No one but you has any memory of the target's previous position.
 
 ### Forsaken {data-scc="mcdm.heroes.v1/title/forsaken"}
@@ -853,7 +853,7 @@ Additionally, choose one of the following benefits:
 
 **Effect:** A characteristic of your choice increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
-- *Brief Reunion:* While you're winded, you can use a maneuver to summon the artifact to your hand. It disappears at the end of your next turn. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
+- *Brief Reunion:* While you're [winded](../../Browse/rule/health/winded.md), you can use a maneuver to summon the artifact to your hand. It disappears at the end of your next turn. Once you use this benefit, you can't use it again until you earn 1 or more Victories.
 - *Perfect Protection:* The Director chooses a damage type that is dealt by or thematically related to the artifact—for instance, holy for the Blade of a Thousand Years, psychic for the Encepter, or corruption for the Mortal Coil. You have immunity all to the chosen damage type.
 - *Poor Compensation:* Instead of disappearing or otherwise departing, the artifact turns into a trinket or leveled treasure of the Director's choice that has the same approximate shape as the lost item—for instance, any magic sword for the Blade of a Thousand Years, any implement for the Encepter, or a Thief of Joy or any other torque for the Mortal Coil.
 
@@ -896,7 +896,7 @@ Additionally, choose one of the following benefits:
 
 **Prerequisite:** You died in glorious battle while on a quest for a higher power.
 
-**Effect:** A god or other powerful being has determined that it is not yet your time to die. Your body fades away, but you reappear alive 24 hours later in a location of your choice. You regain all your Stamina and Recoveries, and your choice of your Intuition or Presence increases by 1 (to a maximum of 6).
+**Effect:** A god or other powerful being has determined that it is not yet your time to die. Your body fades away, but you reappear alive 24 hours later in a location of your choice. You regain all your [Stamina](../../Browse/rule/health/stamina.md) and [Recoveries](../../Browse/rule/health/recoveries.md), and your choice of your Intuition or Presence increases by 1 (to a maximum of 6).
 
 Additionally, choose one of the following benefits:
 
@@ -914,7 +914,7 @@ Additionally, choose one of the following benefits:
 
 **Effect:** Your choice of your Reason or Intuition increases by 1 (to a maximum of 6).
 
-Additionally, choose a heroic ability belonging to any class. You gain this heroic ability, which can be paid for using the Heroic Resource of your class. You can't use a heroic ability that requires a class feature you don't have.
+Additionally, choose a heroic ability belonging to any class. You gain this heroic ability, which can be paid for using the [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) of your class. You can't use a heroic ability that requires a class feature you don't have.
 
 ### Tireless {data-scc="mcdm.heroes.v1/title/tireless"}
 
@@ -925,7 +925,7 @@ Additionally, choose a heroic ability belonging to any class. You gain this hero
 **Effect:** Your choice of your Might or Agility increases by 1 (to a maximum of 6). Additionally, choose one of the following benefits:
 
 - *Bounce Back Fast:* Whenever you rest for 8 hours or more, you can gain the benefit of a respite. Once you use this benefit, you can't use it again until you have taken a regular respite.
-- *Reserves of Strength:* Your recovery value is half your Stamina
+- *Reserves of Strength:* Your [recovery value](../../Browse/rule/health/recoveries.md) is half your [Stamina](../../Browse/rule/health/stamina.md)
 - *Undying:* You can't be affected by the [bleeding](../../Browse/condition/bleeding.md) condition.
 
 ### Unchained {data-scc="mcdm.heroes.v1/title/unchained"}

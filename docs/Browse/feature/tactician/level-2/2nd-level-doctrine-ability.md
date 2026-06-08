@@ -80,7 +80,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../movement/shifting/">shift</a> up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other&#39;s spaces. The ally can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, and you can make the following weapon strike with a distance of melee 1 against a creature.</p></div>
 </div>
 </article>
 </div>
@@ -120,7 +120,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>One ally adjacent to the target can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>One ally adjacent to the target can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -140,7 +140,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target is marked by you, and you gain two surges.</p></div>
+<div class="sc-ability__section-body"><p>Each target is marked by you, and you gain two <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>
@@ -188,7 +188,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can&#39;t reach an adjacent square. The triggering ally can spend a Recovery and gains 5 temporary Stamina for each enemy you came adjacent to during the move. You then make a power roll against the target.</p></div>
+<div class="sc-ability__section-body"><p>You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can&#39;t reach an adjacent square. The triggering ally can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> and gains 5 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> for each enemy you came adjacent to during the move. You then make a power roll against the target.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -208,7 +208,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 surges.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
 </div>

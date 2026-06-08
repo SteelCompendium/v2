@@ -141,7 +141,7 @@ Your heavy stone body and connection to the earth make it difficult for others t
 
 #### Spark Off Your Skin {data-scc="mcdm.heroes.v1/feature.trait.dwarf/spark-off-your-skin"}
 
-Your stone skin affords you potent protection. You have a +6 bonus to Stamina, and that bonus increases by 6 at 4th, 7th, and 10th levels.
+Your stone skin affords you potent protection. You have a +6 bonus to [Stamina](../rule/health/stamina.md), and that bonus increases by 6 at 4th, 7th, and 10th levels.
 
 #### Stand Tough {data-scc="mcdm.heroes.v1/feature.trait.dwarf/stand-tough"}
 

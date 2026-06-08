@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 11 Wrath
 distance: Melee 1
-effect: Until the end of the encounter or until you are dying, the target has damage weakness 10.
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), the target has damage weakness 10.
 flavor: You channel holy energy to seal an enemy's fate.
 keywords:
     - Melee
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, the target has damage weakness 10.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, the target has damage weakness 10.</p></div>
 </div>
 </article>

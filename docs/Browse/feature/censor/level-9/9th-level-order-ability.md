@@ -56,7 +56,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This ability gains an edge against demons, <a href="../../../../ancestry/devil/">devils</a>, undead, and creatures not native to your current world. If you know the target&#39;s true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 Stamina while banished, they are lost to the timescape.</p></div>
+<div class="sc-ability__section-body"><p>This ability gains an edge against demons, <a href="../../../../ancestry/devil/">devils</a>, undead, and creatures not native to your current world. If you know the target&#39;s true name, this ability has a double edge. While banished, the target is sent to another manifold in the timescape and removed from the encounter map. A banished target can do nothing but make saving throws, and takes 10 holy damage each time they do so. If the target is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> while banished, they are lost to the timescape.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -84,7 +84,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>While <a href="../../../../condition/frightened/">frightened</a> this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target <a href="../../../../condition/frightened/">frightened</a> this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.</p></div>
+<div class="sc-ability__section-body"><p>While <a href="../../../../condition/frightened/">frightened</a> this way, if a target who is a leader or solo creature is <a href="../../../../rule/health/winded/">winded</a>, they take an extra 25 psychic damage. If a target <a href="../../../../condition/frightened/">frightened</a> this way is not a leader or solo creature and is <a href="../../../../rule/health/winded/">winded</a>, they are reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>
 </div>
@@ -184,7 +184,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, the target has damage weakness 10.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, the target has damage weakness 10.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -204,7 +204,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each target who starts their turn in the area gains 10 temporary Stamina.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each target who starts their turn in the area gains 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p></div>
 </div>
 </article>
 </div>

@@ -116,7 +116,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>You reduce a creature to 0 Stamina with a strike.</p></div>
+<div class="sc-ability__section-body"><p>You reduce a creature to 0 <a href="../../../../rule/health/stamina/">Stamina</a> with a strike.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -152,7 +152,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P &lt; AVERAGE, they are <a href="../../../../condition/frightened/">frightened</a> of you (save ends).</p></div>
+<div class="sc-ability__section-body"><p>If a target who is not a leader or solo creature is <a href="../../../../rule/health/winded/">winded</a> by this strike, they are reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> and you choose an enemy within 5 squares of you. If that enemy has P &lt; AVERAGE, they are <a href="../../../../condition/frightened/">frightened</a> of you (save ends).</p></div>
 </div>
 </article>
 </div>
@@ -212,7 +212,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can <a href="../../../../movement/fly/">fly</a> while the aura is active. Each ally target who starts or ends their turn in the area can also <a href="../../../../movement/fly/">fly</a> until the start of their next turn or until the effect ends.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can <a href="../../../../movement/fly/">fly</a> while the aura is active. Each ally target who starts or ends their turn in the area can also <a href="../../../../movement/fly/">fly</a> until the start of their next turn or until the effect ends.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>

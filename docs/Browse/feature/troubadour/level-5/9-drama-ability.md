@@ -47,7 +47,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Unless you score a critical hit, this ability can&#39;t reduce a non-minion target below 1 Stamina.</p></div>
+<div class="sc-ability__section-body"><p>Unless you score a critical hit, this ability can&#39;t reduce a non-minion target below 1 <a href="../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -67,7 +67,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is split into two separate entities, one of which remains in the target&#39;s space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director&#39;s control. Each entity has half the original target&#39;s Stamina, is <a href="../../../../condition/weakened/">weakened</a>, and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 Stamina, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current Stamina.</p></div>
+<div class="sc-ability__section-body"><p>The target is split into two separate entities, one of which remains in the target&#39;s space while the other appears in an unoccupied space of your choice within distance. If the target is a creature, this creates a new creature under the Director&#39;s control. Each entity has half the original target&#39;s <a href="../../../../rule/health/stamina/">Stamina</a>, is <a href="../../../../condition/weakened/">weakened</a>, and takes 1d6 corruption damage at the start of each of their turns. If either entity is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, the other entity persists as the original entity and this effect ends. The effect also ends if both entities occupy the same space, causing them to automatically merge and combine their current <a href="../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -87,7 +87,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 20 temporary Stamina. Until the end of the encounter, whenever the target takes damage while you&#39;re within distance, you can choose to take the damage instead of the target.</p></div>
+<div class="sc-ability__section-body"><p>The target gains 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>. Until the end of the encounter, whenever the target takes damage while you&#39;re within distance, you can choose to take the damage instead of the target.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">

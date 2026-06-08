@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 11 Piety
 distance: 5 cube within 5
-effect: A raging storm fills the area until the end of the encounter or until you are dying. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.
+effect: A raging storm fills the area until the end of the encounter or until you are [dying](../../../../rule/health/dying.md). At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.
 flavor: You summon a divine storm that remains under your control.
 keywords:
     - Area
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A raging storm fills the area until the end of the encounter or until you are dying. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.</p></div>
+<div class="sc-ability__section-body"><p>A raging storm fills the area until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.</p></div>
 </div>
 </article>

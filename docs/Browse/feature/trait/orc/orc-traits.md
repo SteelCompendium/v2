@@ -27,7 +27,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever a creature deals damage to you that leaves you dying, you can make a <a href="../../../common/main-actions/free-strike/">free strike</a> against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.</p>
+<p>Whenever a creature deals damage to you that leaves you <a href="../../../../rule/health/dying/">dying</a>, you can make a <a href="../../../common/main-actions/free-strike/">free strike</a> against any creature. If the creature is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> by your strike, you can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -37,7 +37,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Glowing Recovery, Grounded.)</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>You have 3 ancestry points to spend on the following traits. (<em>Quick Build:</em> Glowing <a href="../../../../rule/health/recoveries/">Recovery</a>, Grounded.)</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">
@@ -56,7 +56,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your bloodfire allows you to regain your strength quicker than others. Whenever you use the <a href="../../../common/maneuvers/catch-breath/">Catch Breath</a> maneuver, you can spend as many Recoveries as you like.</p>
+<p>Your bloodfire allows you to regain your strength quicker than others. Whenever you use the <a href="../../../common/maneuvers/catch-breath/">Catch Breath</a> maneuver, you can spend as many <a href="../../../../rule/health/recoveries/">Recoveries</a> as you like.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

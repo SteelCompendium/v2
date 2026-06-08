@@ -1,5 +1,5 @@
 ---
-effect: A god or other powerful being has determined that it is not yet your time to die. Your body fades away, but you reappear alive 24 hours later in a location of your choice. You regain all your Stamina and Recoveries, and your choice of your Intuition or Presence increases by 1 (to a maximum of 6).
+effect: A god or other powerful being has determined that it is not yet your time to die. Your body fades away, but you reappear alive 24 hours later in a location of your choice. You regain all your [Stamina](../rule/health/stamina.md) and [Recoveries](../rule/health/recoveries.md), and your choice of your Intuition or Presence increases by 1 (to a maximum of 6).
 name: Reborn
 prerequisite: You died in glorious battle while on a quest for a higher power.
 scc: mcdm.heroes.v1/title/reborn
@@ -14,7 +14,7 @@ type: title
 
 **Prerequisite:** You died in glorious battle while on a quest for a higher power.
 
-**Effect:** A god or other powerful being has determined that it is not yet your time to die. Your body fades away, but you reappear alive 24 hours later in a location of your choice. You regain all your Stamina and Recoveries, and your choice of your Intuition or Presence increases by 1 (to a maximum of 6).
+**Effect:** A god or other powerful being has determined that it is not yet your time to die. Your body fades away, but you reappear alive 24 hours later in a location of your choice. You regain all your [Stamina](../rule/health/stamina.md) and [Recoveries](../rule/health/recoveries.md), and your choice of your Intuition or Presence increases by 1 (to a maximum of 6).
 
 Additionally, choose one of the following benefits:
 

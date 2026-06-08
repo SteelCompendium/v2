@@ -47,7 +47,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free <a href="../../level-1/triggered-action/">triggered action</a> to move this effect to another creature within distance.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>. If the target is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> before the end of the encounter, you can use a free <a href="../../level-1/triggered-action/">triggered action</a> to move this effect to another creature within distance.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -91,7 +91,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is removed from the encounter map until the start of their next turn and can spend any number of Recoveries. At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.</p></div>
+<div class="sc-ability__section-body"><p>The target is removed from the encounter map until the start of their next turn and can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>. At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -111,7 +111,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The first time the target is dying or winded before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.</p></div>
+<div class="sc-ability__section-body"><p>The first time the target is <a href="../../../../rule/health/dying/">dying</a> or <a href="../../../../rule/health/winded/">winded</a> before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.</p></div>
 </div>
 </article>
 </div>

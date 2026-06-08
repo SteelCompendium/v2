@@ -2,7 +2,7 @@
 action_type: Triggered
 class: tactician
 distance: Ranged 10
-effect: The target gains 2 surges, which they can use on the triggering damage.
+effect: The target gains 2 [surges](../../../../rule/resource/surge.md), which they can use on the triggering damage.
 flavor: Your leadership aids an ally.
 keywords:
     - Ranged
@@ -41,7 +41,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 2 surges, which they can use on the triggering damage.</p></div>
+<div class="sc-ability__section-body"><p>The target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>, which they can use on the triggering damage.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 1 Focus</span><span class="txt">If the damage has any potency effect associated with it, the potency is increased by 1.</span></div>
 </article>

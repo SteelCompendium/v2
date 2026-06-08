@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability regains Stamina, they regain additional Stamina equal to your Presence score.</p>
+<p>Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability regains <a href="../../../../rule/health/stamina/">Stamina</a>, they regain additional <a href="../../../../rule/health/stamina/">Stamina</a> equal to your Presence score.</p>
 </div>
 </section>

@@ -3,7 +3,7 @@ action_type: Maneuver
 class: troubadour
 cost: 9 Drama
 distance: Ranged 10
-effect: The target gains 20 temporary Stamina. Until the end of the encounter, whenever the target takes damage while you're within distance, you can choose to take the damage instead of the target.
+effect: The target gains 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md). Until the end of the encounter, whenever the target takes damage while you're within distance, you can choose to take the damage instead of the target.
 flavor: You play a small ditty that plants you inside your target's heart.
 keywords:
     - Magic
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 20 temporary Stamina. Until the end of the encounter, whenever the target takes damage while you&#39;re within distance, you can choose to take the damage instead of the target.</p></div>
+<div class="sc-ability__section-body"><p>The target gains 20 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>. Until the end of the encounter, whenever the target takes damage while you&#39;re within distance, you can choose to take the damage instead of the target.</p></div>
 </div>
 </article>

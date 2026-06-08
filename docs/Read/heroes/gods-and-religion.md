@@ -359,7 +359,7 @@ Grole is the orcish hero of those facing impossible decisions. He is favored by 
 
 Khravila Who Ran Forty Leagues, The Eternal Runner, Khravila The Unstoppable.
 
-On the eve of a war between elves and [humans](../../Browse/ancestry/human.md) that would certainly result in the death of many [orcs](../../Browse/ancestry/orc.md) caught between the two great powers, Khravila's dying father had been incapable of deciding what should be done. Equally incapable of choosing who should succeed him as chieftain—his son or daughter.
+On the eve of a war between elves and [humans](../../Browse/ancestry/human.md) that would certainly result in the death of many [orcs](../../Browse/ancestry/orc.md) caught between the two great powers, Khravila's [dying](../../Browse/rule/health/dying.md) father had been incapable of deciding what should be done. Equally incapable of choosing who should succeed him as chieftain—his son or daughter.
 
 At the moment of his death, when the god-caller rang the bell of souls officially announcing her father's passing to the tribe, Khravila looked at her brother and saw hesitation. Khravila had never known doubt.
 

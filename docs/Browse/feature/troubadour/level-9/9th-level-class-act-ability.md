@@ -76,7 +76,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer <a href="../../../../condition/slowed/">slowed</a> or <a href="../../../../condition/weakened/">weakened</a> if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.</p></div>
+<div class="sc-ability__section-body"><p>The target gains 3 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, has a double edge on a power roll of their choice made during their next turn, is no longer <a href="../../../../condition/slowed/">slowed</a> or <a href="../../../../condition/weakened/">weakened</a> if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.</p></div>
 </div>
 </article>
 </div>
@@ -116,7 +116,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This ability can&#39;t obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.</p></div>
+<div class="sc-ability__section-body"><p>This ability can&#39;t obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 <a href="../../../../rule/resource/surge/">surges</a> that you can use immediately.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -144,7 +144,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Add your current Stamina to your target&#39;s current Stamina, then you have half that total Stamina and the target has the remainder. If either of you would gain more Stamina this way than their Stamina maximum, the difference in Stamina between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more Stamina than your maximum this way. You then make a power roll.</p></div>
+<div class="sc-ability__section-body"><p>Add your current <a href="../../../../rule/health/stamina/">Stamina</a> to your target&#39;s current <a href="../../../../rule/health/stamina/">Stamina</a>, then you have half that total <a href="../../../../rule/health/stamina/">Stamina</a> and the target has the remainder. If either of you would gain more <a href="../../../../rule/health/stamina/">Stamina</a> this way than their <a href="../../../../rule/health/stamina/">Stamina</a> maximum, the difference in <a href="../../../../rule/health/stamina/">Stamina</a> between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more <a href="../../../../rule/health/stamina/">Stamina</a> than your maximum this way. You then make a power roll.</p></div>
 </div>
 </article>
 </div>

@@ -52,7 +52,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 Stamina. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability&#39;s power roll automatically obtains a tier 3 outcome.</p></div>
+<div class="sc-ability__section-body"><p>If the target of the triggering ability is not a leader or solo creature, they are reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>. If the target of the triggering ability is a minion, the entire squad is killed. If the target of the triggering ability is a leader or solo creature, the triggering ability&#39;s power roll automatically obtains a tier 3 outcome.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -112,7 +112,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 surges.</p></div>
+<div class="sc-ability__section-body"><p>Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Mark Benefit</span></div>
@@ -136,7 +136,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You mark two enemies within 10 squares of you. Each target can <a href="../../../../movement/shifting/">shift</a> up to their speed. You and each target gain 2 surges.</p></div>
+<div class="sc-ability__section-body"><p>You mark two enemies within 10 squares of you. Each target can <a href="../../../../movement/shifting/">shift</a> up to their speed. You and each target gain 2 <a href="../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>
 </div>
@@ -208,7 +208,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is hit with two or more strikes as part of this ability and they have R &lt; STRONG, they are <a href="../../../../condition/dazed/">dazed</a> (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.</p></div>
+<div class="sc-ability__section-body"><p>If the target is hit with two or more strikes as part of this ability and they have R &lt; STRONG, they are <a href="../../../../condition/dazed/">dazed</a> (save ends). If the target is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> before one or both allies has made their strike, the ally or allies can pick a different target.</p></div>
 </div>
 </article>
 </div>

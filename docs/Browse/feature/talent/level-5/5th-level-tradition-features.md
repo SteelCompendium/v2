@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>While you are not dying, time behaves irregularly around you in a 3 aura. That area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies. Additionally, when an ally enters the area for the first time in a combat round or starts their turn there, they gain a +2 bonus to speed until the end of the turn.</p>
+<p>While you are not <a href="../../../../rule/health/dying/">dying</a>, time behaves irregularly around you in a 3 aura. That area is <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for enemies. Additionally, when an ally enters the area for the first time in a combat round or starts their turn there, they gain a +2 bonus to speed until the end of the turn.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -62,7 +62,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you force move a creature, you can spend up to 2 surges. For each surge spent, the <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Reason score.</p>
+<p>Whenever you force move a creature, you can spend up to 2 <a href="../../../../rule/resource/surge/">surges</a>. For each <a href="../../../../rule/resource/surge/">surge</a> spent, the <a href="../../../../movement/forced-movement/">forced movement</a> distance gains a bonus equal to your Reason score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -84,7 +84,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Once per combat round while you are not dying, you can spend 2 clarity when you use a triggered action to turn it into a free triggered action.</p>
+<p>Once per combat round while you are not <a href="../../../../rule/health/dying/">dying</a>, you can spend 2 clarity when you use a triggered action to turn it into a free triggered action.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

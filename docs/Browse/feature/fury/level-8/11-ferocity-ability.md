@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 10 temporary Stamina. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 Stamina, you gain 10 temporary Stamina.</p></div>
+<div class="sc-ability__section-body"><p>You gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, you gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -67,7 +67,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is a minion or is winded but isn&#39;t a leader or solo creature, they are reduced to 0 Stamina before this ability&#39;s damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.</p></div>
+<div class="sc-ability__section-body"><p>If the target is a minion or is <a href="../../../../rule/health/winded/">winded</a> but isn&#39;t a leader or solo creature, they are reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> before this ability&#39;s damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -87,7 +87,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, you can choose one target of any ability you use, with that target taking an extra 15 damage of the chosen type. Additionally, whenever you gain ferocity from taking damage, the source of the damage takes 5 damage of the chosen type.</p></div>
+<div class="sc-ability__section-body"><p>Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, you can choose one target of any ability you use, with that target taking an extra 15 damage of the chosen type. Additionally, whenever you gain ferocity from taking damage, the source of the damage takes 5 damage of the chosen type.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -108,9 +108,9 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Any target whose Stamina is equal to or less than 8 dies.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Any target whose Stamina is equal to or less than 11 dies.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Any target whose Stamina is equal to or less than 17 dies.</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Any target whose <a href="../../../../rule/health/stamina/">Stamina</a> is equal to or less than 8 dies.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Any target whose <a href="../../../../rule/health/stamina/">Stamina</a> is equal to or less than 11 dies.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Any target whose <a href="../../../../rule/health/stamina/">Stamina</a> is equal to or less than 17 dies.</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

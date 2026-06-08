@@ -16,7 +16,7 @@ type: title
 
 **Effect:** Choose one of the following benefits:
 
-- *Come Out to Play:* You have the following ability, which can be paid for using the Heroic Resource of your class.
+- *Come Out to Play:* You have the following ability, which can be paid for using the [Heroic Resource](../rule/resource/heroic-resource.md) of your class.
 
 ## Come Out to Play (1 Heroic Resource)
 

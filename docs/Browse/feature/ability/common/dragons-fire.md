@@ -48,7 +48,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Life</span></div>
-<div class="sc-ability__section-body"><p>Whenever you would die, you can spend a Recovery to regain Stamina instead. If you have no Recoveries to spend, you die.</p></div>
+<div class="sc-ability__section-body"><p>Whenever you would die, you can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to regain <a href="../../../../rule/health/stamina/">Stamina</a> instead. If you have no <a href="../../../../rule/health/recoveries/">Recoveries</a> to spend, you die.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Magic Resistance III</span></div>

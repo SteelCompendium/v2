@@ -13,9 +13,9 @@ name: Shield of the Righteous
 power_roll_characteristic: Might
 scc: mcdm.heroes.v1/feature.ability.censor.level-5/shield-of-the-righteous
 target: One creature
-tier1: 10 + M damage; you and each ally adjacent to you gain 10 temporary Stamina
-tier2: 14 + M damage; you and each ally adjacent to you gain 15 temporary Stamina
-tier3: 20 + M damage; you and each ally adjacent to you gain 20 temporary Stamina
+tier1: 10 + M damage; you and each ally adjacent to you gain 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+tier2: 14 + M damage; you and each ally adjacent to you gain 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
+tier3: 20 + M damage; you and each ally adjacent to you gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md)
 type: ability
 ---
 
@@ -41,9 +41,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage; you and each ally adjacent to you gain 10 temporary Stamina</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + M damage; you and each ally adjacent to you gain 15 temporary Stamina</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + M damage; you and each ally adjacent to you gain 20 temporary Stamina</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage; you and each ally adjacent to you gain 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + M damage; you and each ally adjacent to you gain 15 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + M damage; you and each ally adjacent to you gain 20 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a></span></div>
 </div>
 </div>
 </article>

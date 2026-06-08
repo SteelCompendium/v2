@@ -54,6 +54,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>The potency of this ability increases by 1. You take 2d6 damage and gain 3 surges that you can use immediately.</p></div>
+<div class="sc-ability__section-body"><p>The potency of this ability increases by 1. You take 2d6 damage and gain 3 <a href="../../../../../rule/resource/surge/">surges</a> that you can use immediately.</p></div>
 </div>
 </article>

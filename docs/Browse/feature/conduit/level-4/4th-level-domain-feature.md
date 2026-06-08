@@ -39,7 +39,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your <a href="../../../ability/conduit/level-1/healing-grace/">Healing Grace</a> ability regains Stamina, they regain additional Stamina equal to your Intuition score.</p>
+<p>Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your <a href="../../../ability/conduit/level-1/healing-grace/">Healing Grace</a> ability regains <a href="../../../../rule/health/stamina/">Stamina</a>, they regain additional <a href="../../../../rule/health/stamina/">Stamina</a> equal to your Intuition score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -130,7 +130,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Each time you finish a respite, you can share the vague dreams of the future granted to you by the gods with allies who finished the respite with you. These premonitions help you and your allies stay alive, granting each of you temporary Stamina equal to 10 + your level that lasts until you finish a respite.</p>
+<p>Each time you finish a respite, you can share the vague dreams of the future granted to you by the gods with allies who finished the respite with you. These premonitions help you and your allies stay alive, granting each of you <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to 10 + your level that lasts until you finish a respite.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

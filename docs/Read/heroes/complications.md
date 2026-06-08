@@ -219,13 +219,13 @@ Due to a magical accident, your being has fused with that of a small, harmless a
 
 Unless you use this benefit again, you return to your true form at the start of your next turn.
 
-**Drawback:** At the start of any turn while you are winded, the Director can spend 1 Malice to force you to take your [animal form](../../Browse/complication/animal-form.md). Once the Director has done so, they can't do so again until you have finished a respite.
+**Drawback:** At the start of any turn while you are [winded](../../Browse/rule/health/winded.md), the Director can spend 1 Malice to force you to take your [animal form](../../Browse/complication/animal-form.md). Once the Director has done so, they can't do so again until you have finished a respite.
 
 #### Antihero {data-scc="mcdm.heroes.v1/complication/antihero"}
 
 You used to be a villain. You're (mostly) reformed now, but in desperate moments, you sometimes draw on the rage and hatred that fueled your old life. In those moments, even your friends aren't sure whose side you're on. They don't need to worry, though. Once you leave evil behind, you can't go back. You've made too many enemies on the other side.
 
-**Benefit:** You have 3 [antihero](../../Browse/complication/antihero.md) tokens. Whenever you use an ability or other effect that costs your Heroic Resource, you can spend 1 [antihero](../../Browse/complication/antihero.md) token in place of 1 Heroic Resource. Whenever you have fewer than 3 [antihero](../../Browse/complication/antihero.md) tokens and you would earn a hero token for your party through your deeds, you instead regain 1 [antihero](../../Browse/complication/antihero.md) token.
+**Benefit:** You have 3 [antihero](../../Browse/complication/antihero.md) tokens. Whenever you use an ability or other effect that costs your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), you can spend 1 [antihero](../../Browse/complication/antihero.md) token in place of 1 [Heroic Resource](../../Browse/rule/resource/heroic-resource.md). Whenever you have fewer than 3 [antihero](../../Browse/complication/antihero.md) tokens and you would earn a [hero token](../../Browse/rule/resource/hero-token.md) for your party through your deeds, you instead regain 1 [antihero](../../Browse/complication/antihero.md) token.
 
 **Drawback:** While you have fewer than 3 [antihero](../../Browse/complication/antihero.md) tokens, you exude a villainous aspect. You and each ally within 5 squares of you take a bane on any test made to interact with other creatures.
 
@@ -233,15 +233,15 @@ You used to be a villain. You're (mostly) reformed now, but in desperate moments
 
 A powerful artifact has bonded to you, though you don't know whether you're destined to wield the artifact or to destroy it. You're not powerful enough to use it at the moment, although you might be someday. For now, though, the artifact has no effect beyond getting you in trouble.
 
-**Benefit:** Choose an artifact (see Treasures in Chapter 13: [Rewards](rewards.md)). The first time in an encounter that you are reduced to 0 Stamina against your will, the artifact appears on your person. It disappears at the end of your next turn, when you benefit from one of its properties, or when you have more than 0 Stamina, whichever comes first.
+**Benefit:** Choose an artifact (see Treasures in Chapter 13: [Rewards](rewards.md)). The first time in an encounter that you are reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) against your will, the artifact appears on your person. It disappears at the end of your next turn, when you benefit from one of its properties, or when you have more than 0 [Stamina](../../Browse/rule/health/stamina.md), whichever comes first.
 
-**Drawback:** Each time the artifact appears, you lose a Recovery. If you have no Recoveries remaining, you take 1d10 damage instead, which can't be reduced in any way.
+**Drawback:** Each time the artifact appears, you lose a [Recovery](../../Browse/rule/health/recoveries.md). If you have no [Recoveries](../../Browse/rule/health/recoveries.md) remaining, you take 1d10 damage instead, which can't be reduced in any way.
 
 #### Bereaved {data-scc="mcdm.heroes.v1/complication/bereaved"}
 
 The most important person to you—perhaps a family member, mentor, or lover—was killed. The only thing that keeps you going is the faint connection you have with this person's spirit, and the hope that one day you can tie up their unfinished business and let them rest.
 
-**Benefit:** Whenever you don't know what to do, you can appeal to your loved one's spirit for help. You spend a hero token to let the Director determine the next thing you do, whether in or out of combat. The Director chooses the best course of action they can think of for you, even if it relies on information you don't have. If the Director can't think of a particularly good course of action for you to take, you don't spend the hero token.
+**Benefit:** Whenever you don't know what to do, you can appeal to your loved one's spirit for help. You spend a [hero token](../../Browse/rule/resource/hero-token.md) to let the Director determine the next thing you do, whether in or out of combat. The Director chooses the best course of action they can think of for you, even if it relies on information you don't have. If the Director can't think of a particularly good course of action for you to take, you don't spend the [hero token](../../Browse/rule/resource/hero-token.md).
 
 **Drawback:** You have corruption weakness 5.
 
@@ -259,13 +259,13 @@ You came into contact with a mote of pure chaos energy, or were subjected to a s
 
 **Benefit:** You gain an edge on the [Escape Grab](../../Browse/feature/common/maneuvers/escape-grab.md), [Grab](../../Browse/feature/common/maneuvers/grab.md), and [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuvers. Additionally, you can hold an additional item even when your hands are full.
 
-**Drawback:** While dying, you grow and retract uncoordinated limbs at random, imposing a bane on your power rolls.
+**Drawback:** While [dying](../../Browse/rule/health/dying.md), you grow and retract uncoordinated limbs at random, imposing a bane on your power rolls.
 
 #### Chosen One {data-scc="mcdm.heroes.v1/complication/chosen-one"}
 
 Perhaps the stars marked you out at birth, or maybe your name appears in an ancient prophecy. In any case, a sinister cult has decided that you're important to their plans—though you don't particularly like the fate those plans have in store for you.
 
-**Benefit:** You have 3 destiny points. Whenever you spend your Heroic Resource for your class, you can spend 1 or more destiny points instead. Each time you earn a Victory, you regain 1 destiny point.
+**Benefit:** You have 3 destiny points. Whenever you spend your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) for your class, you can spend 1 or more destiny points instead. Each time you earn a Victory, you regain 1 destiny point.
 
 **Drawback:** Whenever you spend 1 or more destiny points, you take 1d10 psychic damage that can't be reduced in any way, and the cult that seeks you becomes aware of your location.
 
@@ -306,7 +306,7 @@ Your mentor taught you everything and you trusted them completely until they wen
 >
 > **Effect:** Until the end of your turn, whenever you use a damage-dealing heroic ability against a single target, you can weaken that target's life force. The ability deals extra corruption damage equal to your highest characteristic score.
 
-**Drawback:** You have holy weakness 1. Each time you use Corrupt Spirit, your holy weakness increases by 1, to a maximum equal to your recovery value. Whenever you take holy damage, this weakness resets to 1.
+**Drawback:** You have holy weakness 1. Each time you use Corrupt Spirit, your holy weakness increases by 1, to a maximum equal to your [recovery value](../../Browse/rule/health/recoveries.md). Whenever you take holy damage, this weakness resets to 1.
 
 #### Coward {data-scc="mcdm.heroes.v1/complication/coward"}
 
@@ -344,7 +344,7 @@ When you were young, you did something reckless and unthinking that endangered a
 
 For as long as you can remember, you've never gotten older. You've simply adventured through one age after another. Still, your memory of past events—even those you were involved with—is a little hazy. Apparently, your memory isn't as long-lived as you are.
 
-**Benefit:** You don't age. Additionally, whenever you would die, you instead enter a state of suspended animation indistinguishable from death. If your body isn't destroyed by dying or while you remain in this state, you come back to life after 12 hours and regain Stamina equal to your recovery value.
+**Benefit:** You don't age. Additionally, whenever you would die, you instead enter a state of suspended animation indistinguishable from death. If your body isn't destroyed by [dying](../../Browse/rule/health/dying.md) or while you remain in this state, you come back to life after 12 hours and regain [Stamina](../../Browse/rule/health/stamina.md) equal to your [recovery value](../../Browse/rule/health/recoveries.md).
 
 **Drawback:** You take a bane on any test made to recall lore.
 
@@ -358,15 +358,15 @@ You should have never pissed off that mage! Maybe they deserved your ire, or may
 
 A soothsayer once predicted you would have a long life, even as they told you you'd never be rich. But you're determined to prove them wrong. You'll get rich or die trying!
 
-**Benefit and Drawback:** Whenever you take a respite while your Wealth is higher than 1, some improbable event occurs that causes most of your money to vanish—including money you've hidden, loaned to others, or given away. Your Wealth is reduced to 1. For each point of Wealth you lose this way, your number of Recoveries increases by 1. Your Recoveries reset to their usual value the first time you take a respite with fewer Recoveries than your maximum.
+**Benefit and Drawback:** Whenever you take a respite while your Wealth is higher than 1, some improbable event occurs that causes most of your money to vanish—including money you've hidden, loaned to others, or given away. Your Wealth is reduced to 1. For each point of Wealth you lose this way, your number of [Recoveries](../../Browse/rule/health/recoveries.md) increases by 1. Your [Recoveries](../../Browse/rule/health/recoveries.md) reset to their usual value the first time you take a respite with fewer [Recoveries](../../Browse/rule/health/recoveries.md) than your maximum.
 
 #### Curse of Punishment {data-scc="mcdm.heroes.v1/complication/curse-of-punishment"}
 
 Through ignorance, fear, spite, or selfishness, you refused to help someone in need. To teach you a lesson, a deity offered you what seemed to be a blessing—extra power to help you heal yourself in times of need, but harsh consequences should your need become excessive. You took the deal, and now benefit from the blessing but also suffer from a curse.
 
-**Benefit:** You have 1 additional Recovery.
+**Benefit:** You have 1 additional [Recovery](../../Browse/rule/health/recoveries.md).
 
-**Drawback:** When you are out of Recoveries, you are dying, no matter what your current Stamina is.
+**Drawback:** When you are out of [Recoveries](../../Browse/rule/health/recoveries.md), you are [dying](../../Browse/rule/health/dying.md), no matter what your current [Stamina](../../Browse/rule/health/stamina.md) is.
 
 #### Curse of Stone {data-scc="mcdm.heroes.v1/complication/curse-of-stone"}
 
@@ -374,7 +374,7 @@ As a child, you met a creature who turns people to stone, such as a medusa. You 
 
 **Benefit:** You have a +1 bonus to stability. Additionally, you can use a free maneuver to cause your body, gear, and any items you hold to take on the appearance of stone, making you appear to be a [mundane](../../Browse/complication/mundane.md) statue while you remain unmoving.
 
-**Drawback:** You have sonic weakness 5. Additionally, while you are winded, you are [dazed](../../Browse/condition/dazed.md).
+**Drawback:** You have sonic weakness 5. Additionally, while you are [winded](../../Browse/rule/health/winded.md), you are [dazed](../../Browse/condition/dazed.md).
 
 #### Cursed Weapon {data-scc="mcdm.heroes.v1/complication/cursed-weapon"}
 
@@ -398,15 +398,15 @@ You sometimes have strange dreams of a raging inferno... a gleaming pile of trea
 
 **Benefit:** Choose 2 ancestry points' worth of purchased [dragon knight](../../Browse/ancestry/dragon-knight.md) traits (see Chapter 3: [Ancestries](ancestries.md)). You can use these traits whenever you have 5 or more Victories.
 
-**Drawback:** Whenever you are reduced to 0 Stamina, you explode with heat and fire. You and each creature within 5 squares of you takes fire damage equal to twice your level. You can't reduce this damage for yourself in any way.
+**Drawback:** Whenever you are reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), you explode with heat and fire. You and each creature within 5 squares of you takes fire damage equal to twice your level. You can't reduce this damage for yourself in any way.
 
 #### Elemental Inside {data-scc="mcdm.heroes.v1/complication/elemental-inside"}
 
 When an evil mage threatened someone you loved, you blocked that foe's summoning of an elemental creature by absorbing their magic with your body. You are now infused with the power of that elemental—who isn't at all happy about it.
 
-**Benefit:** You gain a +3 bonus to Stamina at 1st level, then again at 4th, 7th, and 10th levels.
+**Benefit:** You gain a +3 bonus to [Stamina](../../Browse/rule/health/stamina.md) at 1st level, then again at 4th, 7th, and 10th levels.
 
-**Drawback:** While you are dying, your possessing elemental takes control of your body. The elemental yearns for destruction, causing you to attack the nearest creature you notice without regard for your desires or your body's safety. If you don't do your best to fulfill the elemental's rage, the Director can take temporary control of your hero.
+**Drawback:** While you are [dying](../../Browse/rule/health/dying.md), your possessing elemental takes control of your body. The elemental yearns for destruction, causing you to attack the nearest creature you notice without regard for your desires or your body's safety. If you don't do your best to fulfill the elemental's rage, the Director can take temporary control of your hero.
 
 #### Evanesceria {data-scc="mcdm.heroes.v1/complication/evanesceria"}
 
@@ -444,7 +444,7 @@ Sure, you're a promising young hero in your own right—but people always ask yo
 
 Your birth was attended by faeries. A friendly fairy blessed you, granting you strength so you could defend yourself. In response, an unfriendly fairy granted you a life filled with peril so that you might prove your strength.
 
-**Benefit and Drawback:** At the start of each combat encounter, you can choose to gain 1 additional Heroic Resource. If you do so, the Director gains 3 Malice.
+**Benefit and Drawback:** At the start of each combat encounter, you can choose to gain 1 additional [Heroic Resource](../../Browse/rule/resource/heroic-resource.md). If you do so, the Director gains 3 Malice.
 
 #### Fiery Ideal {data-scc="mcdm.heroes.v1/complication/fiery-ideal"}
 
@@ -466,9 +466,9 @@ A great monster who breathed fire burned your home to the ground. While everythi
 
 Your personal idol was a mighty hero, and you have modeled yourself after them. From studying the many heroic tales told of them, you hope to someday learn your idol's most famous battle technique.
 
-**Benefit:** Choose a heroic ability for your class of a higher level than you currently are. When you take this ability in future, its Heroic Resource cost is permanently reduced by 2 (to a minimum of 1).
+**Benefit:** Choose a heroic ability for your class of a higher level than you currently are. When you take this ability in future, its [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) cost is permanently reduced by 2 (to a minimum of 1).
 
-**Drawback:** In your quest for advanced techniques, you have neglected the basics. Choose a heroic ability you already know. That ability's Heroic Resource cost is permanently increased by 1.
+**Drawback:** In your quest for advanced techniques, you have neglected the basics. Choose a heroic ability you already know. That ability's [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) cost is permanently increased by 1.
 
 #### Forbidden Romance {data-scc="mcdm.heroes.v1/complication/forbidden-romance"}
 
@@ -490,15 +490,15 @@ At the edge of the world, you were lost in a winter storm and [presumed dead](..
 
 You were once a renowned hero, but you've been living the last few years in blissful peace. Now you're coming out of retirement for one last hurrah. Your fighting skills might have atrophied to the point where you're no stronger than a wet-behind-the-ears novice adventurer, but you still remember some of your old tricks.
 
-**Benefit:** On your turn, you can choose a heroic ability that you would be able to learn if you were one level higher. Provided you meet the ability's other prerequisites and can spend any required Heroic Resource, you can use the ability. Once you use this benefit, you can't do so again until you earn 2 or more Victories.
+**Benefit:** On your turn, you can choose a heroic ability that you would be able to learn if you were one level higher. Provided you meet the ability's other prerequisites and can spend any required [Heroic Resource](../../Browse/rule/resource/heroic-resource.md), you can use the ability. Once you use this benefit, you can't do so again until you earn 2 or more Victories.
 
-**Drawback:** While you are winded, you take a −2 penalty to speed.
+**Drawback:** While you are [winded](../../Browse/rule/health/winded.md), you take a −2 penalty to speed.
 
 #### Gnoll-Mauled {data-scc="mcdm.heroes.v1/complication/gnoll-mauled"}
 
 As a child, you survived a gnoll attack. But that attack left you with a jagged scar and the occasional fit of bloodlust.
 
-**Benefit:** Whenever an ally within 5 squares is reduced to 0 Stamina, you can use a triggered action to move up to your speed and make a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+**Benefit:** Whenever an ally within 5 squares is reduced to 0 [Stamina](../../Browse/rule/health/stamina.md), you can use a triggered action to move up to your speed and make a [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 **Drawback:** While you are [dazed](../../Browse/condition/dazed.md), if you start your turn adjacent to one or more creatures, you must use your main action to make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against an adjacent creature.
 
@@ -518,7 +518,7 @@ You used to be a con artist, but those days are pretty much behind you. Being a 
 
 **Benefit:** You have one skill of your choice from the intrigue skill group.
 
-**Drawback:** Whenever you meet an NPC for the first time, the Director can decide that NPC was a victim of one of your previous cons and remembers you. If they do so, the party gains a hero token.
+**Drawback:** Whenever you meet an NPC for the first time, the Director can decide that NPC was a victim of one of your previous cons and remembers you. If they do so, the party gains a [hero token](../../Browse/rule/resource/hero-token.md).
 
 #### Grounded {data-scc="mcdm.heroes.v1/complication/grounded"}
 
@@ -532,7 +532,7 @@ Once when you were a child, your settlement was in danger and you called out to 
 
 The world is in trouble—and it's partly your fault. Maybe you helped a villain rise to power or inadvertently released a demon from imprisonment. Now it's your mission to repair the damage you caused.
 
-**Benefit:** You're determined to stay alive so you can set things right. When your Stamina reaches the negative of your winded value, you can use a free triggered action to spend a Recovery.
+**Benefit:** You're determined to stay alive so you can set things right. When your [Stamina](../../Browse/rule/health/stamina.md) reaches the negative of your [winded](../../Browse/rule/health/winded.md) value, you can use a free triggered action to spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
 **Drawback:** Many people blame you for the evils you caused. They might be unfriendly or hostile to you—and you can understand their point of view. You take a bane on any test made to interact with those who know what you did, and on strikes made against such creatures.
 
@@ -540,7 +540,7 @@ The world is in trouble—and it's partly your fault. Maybe you helped a villain
 
 You travel with a giant hawk who you stole from the Hawklords (see Vasloria in Chapter 1: [The Basics](the-basics.md)). You might once have been a Hawklord yourself, or perhaps you escaped their captivity. Having a giant hawk companion comes with its share of inconveniences and dangers, but those are a small price to pay for the freedom of the open sky.
 
-**Benefit:** As long as you are not in a building or other structure, you can spend 1 uninterrupted minute to summon your giant hawk (see the [Humans](../../Browse/ancestry/human.md) entry in *Draw Steel: Monsters*), which acts as your mount. You can dismiss the hawk at any time (no action required). The hawk won't go inside buildings, dungeons, or other structures, and it won't accept anyone but you as a rider. If the hawk takes damage or dies, you can restore them to full Stamina as a respite activity.
+**Benefit:** As long as you are not in a building or other structure, you can spend 1 uninterrupted minute to summon your giant hawk (see the [Humans](../../Browse/ancestry/human.md) entry in *Draw Steel: Monsters*), which acts as your mount. You can dismiss the hawk at any time (no action required). The hawk won't go inside buildings, dungeons, or other structures, and it won't accept anyone but you as a rider. If the hawk takes damage or dies, you can restore them to full [Stamina](../../Browse/rule/health/stamina.md) as a respite activity.
 
 **Drawback:** People aware of the origin of your mount are afraid to interact with you, since they worry the Hawklords will come after them by association. You take a bane on any test made to influence anyone who knows of the Hawklords and who has observed you with your giant hawk. Such people might also report you to the Hawklords, who come looking for you at the Director's discretion.
 
@@ -548,7 +548,7 @@ You travel with a giant hawk who you stole from the Hawklords (see Vasloria in C
 
 "Do not be alarmed! We are not the humanoid we appear to be. We are an intelligent fungal collective, using this body as a host. No, we are doing nothing unsavory! This body was dead when we found it, and we merely gave it another chance at life. We are friendly. Please put down those torches!"
 
-**Benefit:** You are a sapient fungus who inhabits a humanoid body. Your [host body](../../Browse/complication/host-body.md) follows all the usual rules for a character and is considered to be alive. At any time while your [host body](../../Browse/complication/host-body.md) is alive, or for 24 hours after it dies, you can use a main action to move to a dead humanoid within 10 squares of the body and use it as your new [host body](../../Browse/complication/host-body.md), provided the body belongs to a playable ancestry. When you do so, your original [host body](../../Browse/complication/host-body.md) dies if it was alive. Your new [host body](../../Browse/complication/host-body.md) gains all your statistics except size, [ancestry traits](ancestries.md), and other statistics related to your former [host body's](../../Browse/complication/host-body.md) ancestry, which you instead gain from your new [host body](../../Browse/complication/host-body.md). When you inhabit a new [host body](../../Browse/complication/host-body.md), you start with 1 Stamina and can immediately spend a Recovery.
+**Benefit:** You are a sapient fungus who inhabits a humanoid body. Your [host body](../../Browse/complication/host-body.md) follows all the usual rules for a character and is considered to be alive. At any time while your [host body](../../Browse/complication/host-body.md) is alive, or for 24 hours after it dies, you can use a main action to move to a dead humanoid within 10 squares of the body and use it as your new [host body](../../Browse/complication/host-body.md), provided the body belongs to a playable ancestry. When you do so, your original [host body](../../Browse/complication/host-body.md) dies if it was alive. Your new [host body](../../Browse/complication/host-body.md) gains all your statistics except size, [ancestry traits](ancestries.md), and other statistics related to your former [host body's](../../Browse/complication/host-body.md) ancestry, which you instead gain from your new [host body](../../Browse/complication/host-body.md). When you inhabit a new [host body](../../Browse/complication/host-body.md), you start with 1 [Stamina](../../Browse/rule/health/stamina.md) and can immediately spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
 **Drawback:** You have fire weakness 5. Additionally, you take a bane on any test made to read a humanoid creature's emotions or body language.
 
@@ -598,7 +598,7 @@ You made a deal with a [devil](../../Browse/ancestry/devil.md). Not a very good 
 
 - You earn 2 Renown.
 - Your Wealth increases by 2.
-- You gain a +3 bonus to Stamina.
+- You gain a +3 bonus to [Stamina](../../Browse/rule/health/stamina.md).
 
 **Drawback:** Your body bears a fiendish mark. Any creature who understands religion and notes the mark can tell that your soul belongs to Hell, imposing a bane on any test you make to interact with those creatures (unless they're into that). Additionally, when you die, your soul goes to Hell and you can't be restored to life.
 
@@ -622,7 +622,7 @@ In a sinister ritual, your soul has been bound to that of another creature. This
 
 You were caught in a storm and struck by lightning—but something saved you from death. Perhaps it was a gods—given miracle, a latent psionic gift, or the magic of a helpful [elementalist](../../Browse/class/elementalist.md), but you absorbed the lightning into your body. It's always there now, simmering under the surface.
 
-**Benefit:** Whenever you regain Stamina in combat, you gain 1 surge. Whenever you spend a surge to deal extra damage, you can make that extra damage into lightning damage.
+**Benefit:** Whenever you regain [Stamina](../../Browse/rule/health/stamina.md) in combat, you gain 1 [surge](../../Browse/rule/resource/surge.md). Whenever you spend a [surge](../../Browse/rule/resource/surge.md) to deal extra damage, you can make that extra damage into lightning damage.
 
 **Drawback:** Whenever you are wet, you have damage weakness 5.
 
@@ -632,7 +632,7 @@ You've always been a lone wolf. With no one else to lean on, you've picked up a 
 
 **Benefit:** When you finish a respite, choose a skill you don't have. You have that skill until the end of your next respite.
 
-**Drawback:** Now that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 Stamina, you are [taunted](../../Browse/condition/taunted.md) by that creature until your ally's Stamina is higher than 0, another creature makes you [taunted](../../Browse/condition/taunted.md), or the end of the encounter.
+**Drawback:** Now that you finally have people who care about you, you won't let anyone take them away! Whenever a creature reduces one of your allies to 0 [Stamina](../../Browse/rule/health/stamina.md), you are [taunted](../../Browse/condition/taunted.md) by that creature until your ally's [Stamina](../../Browse/rule/health/stamina.md) is higher than 0, another creature makes you [taunted](../../Browse/condition/taunted.md), or the end of the encounter.
 
 #### Lost in Time {data-scc="mcdm.heroes.v1/complication/lost-in-time"}
 
@@ -665,17 +665,17 @@ A bredbeddle stole your head! Usually, being beheaded by one of those magical gi
 
 You've always had a [lucky](../../Browse/complication/lucky.md) streak. When you leave things in the hands of fate, you succeed more than you fail. But luck is fickle—and when you don't trust it, it deserts you.
 
-**Benefit:** When you spend a hero token to succeed on a saving throw or to reroll a test, roll a d10. On a 6 or higher, you gain the benefit but don't spend the hero token.
+**Benefit:** When you spend a [hero token](../../Browse/rule/resource/hero-token.md) to succeed on a saving throw or to reroll a test, roll a d10. On a 6 or higher, you gain the benefit but don't spend the [hero token](../../Browse/rule/resource/hero-token.md).
 
-**Drawback:** Whenever you obtain a tier 1 outcome on a test and don't spend a hero token to reroll, you take a bane on the next test you make.
+**Drawback:** Whenever you obtain a tier 1 outcome on a test and don't spend a [hero token](../../Browse/rule/resource/hero-token.md) to reroll, you take a bane on the next test you make.
 
 #### Master Chef {data-scc="mcdm.heroes.v1/complication/master-chef"}
 
 Before you were a hero, you were a chef—and when you retire, you have big plans for your next restaurant or inn. In the meantime, you're on the lookout for rare ingredients that only a wandering adventurer can find. After all, it's food that makes the world go round.
 
-**Benefit:** You have the Cooking skill (from the crafting skill group). Additionally, whenever you finish a respite or wake up after a night's sleep, you can spend 1 uninterrupted hour to prepare an excellent meal for up to ten creatures, provided you have ingredients and cooking tools. Once over the next 24 hours, each creature who eats the meal can gain the benefit of spending a Recovery without spending a Recovery.
+**Benefit:** You have the Cooking skill (from the crafting skill group). Additionally, whenever you finish a respite or wake up after a night's sleep, you can spend 1 uninterrupted hour to prepare an excellent meal for up to ten creatures, provided you have ingredients and cooking tools. Once over the next 24 hours, each creature who eats the meal can gain the benefit of spending a [Recovery](../../Browse/rule/health/recoveries.md) without spending a [Recovery](../../Browse/rule/health/recoveries.md).
 
-**Drawback:** The first time each day you eat food you didn't prepare, you lose 2 Recoveries.
+**Drawback:** The first time each day you eat food you didn't prepare, you lose 2 [Recoveries](../../Browse/rule/health/recoveries.md).
 
 #### Meddling Butler {data-scc="mcdm.heroes.v1/complication/meddling-butler"}
 
@@ -729,7 +729,7 @@ Your mother and father never saw eye to eye. You know this because your father i
 > - **12-16:** 4 damage; M < AVERAGE, [slowed](../../Browse/condition/slowed.md) (save ends)
 > - **17+:** 6 damage; M < STRONG, [slowed](../../Browse/condition/slowed.md) (save ends)
 >
-> **Effect:** This ability has no effect on a creature who can't see you or who purposefully avoids looking at your eyes. A creature reduced to 0 Stamina by this ability is turned to inanimate stone.
+> **Effect:** This ability has no effect on a creature who can't see you or who purposefully avoids looking at your eyes. A creature reduced to 0 [Stamina](../../Browse/rule/health/stamina.md) by this ability is turned to inanimate stone.
 
 **Drawback:** Out of combat, you use your Stone Eyes ability on anyone who meets your gaze, whether you intend to or not. Your companions know not to make eye contact, but strangers are likely to trigger the ability unless you cover your eyes.
 
@@ -777,7 +777,7 @@ You once contracted a terrible illness for which no one could find a cure. You s
 
 **Benefit:** You have corruption immunity 5 and poison immunity 5.
 
-**Drawback:** Your number of Recoveries is permanently reduced by 1.
+**Drawback:** Your number of [Recoveries](../../Browse/rule/health/recoveries.md) is permanently reduced by 1.
 
 #### Prisoner of the Synlirii {data-scc="mcdm.heroes.v1/complication/prisoner-of-the-synlirii"}
 
@@ -810,13 +810,13 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 > |-------------------|---------------------------------:|
 > | **📏 3 burst**    | **🎯 Each creature in the area** |
 >
-> **Effect:** Using this ability costs all your Heroic Resource.
+> **Effect:** Using this ability costs all your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md).
 >
 > **Power Roll + Your Highest Characteristic Score:**
 >
-> - **≤11:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level
-> - **12-16:** 1 psychic damage for each Heroic Resource you spend, to a maximum equal to your level + your highest characteristic
-> - **17+:** 1 psychic damage for each Heroic Resource you spend
+> - **≤11:** 1 psychic damage for each [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) you spend, to a maximum equal to your level
+> - **12-16:** 1 psychic damage for each [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) you spend, to a maximum equal to your level + your highest characteristic
+> - **17+:** 1 psychic damage for each [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) you spend
 
 **Drawback:** Whenever you become [bleeding](../../Browse/condition/bleeding.md), [frightened](../../Browse/condition/frightened.md), or [weakened](../../Browse/condition/weakened.md), you must use Psychic Blast as a free triggered action.
 
@@ -903,7 +903,7 @@ You have an identical twin—either a sibling or someone who looks so much like 
 
 While your peers were learning their trades in fancy schools, you honed your capabilities on the mean streets with nothing but your own instinct as a guide. What you lost in polish and tactical acumen, you now make up for in raw power.
 
-**Benefit and Drawback:** At the start of each of your turns during combat, you can forgo gaining your Heroic Resource until the start of your next turn. If you do, your strikes gain a damage bonus equal to your highest characteristic score until the start of your next turn.
+**Benefit and Drawback:** At the start of each of your turns during combat, you can forgo gaining your [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) until the start of your next turn. If you do, your strikes gain a damage bonus equal to your highest characteristic score until the start of your next turn.
 
 #### Sewer Folk {data-scc="mcdm.heroes.v1/complication/sewer-folk"}
 
@@ -917,7 +917,7 @@ Impoverished or on the run, you spent your formative years living in the sewers 
 
 You were born in the dusk land ruled by the Queen of [Shadows](../../Browse/class/shadow.md), and its darkness has seeped into your bones. (See The Myriad Worlds of the Timescape in Chapter 1: [The Basics](the-basics.md).)
 
-**Benefit:** Whenever you start your turn with concealment, you gain 1 surge.
+**Benefit:** Whenever you start your turn with [concealment](../../Browse/rule/combat/concealment.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).
 
 **Drawback:** You have holy weakness 5.
 
@@ -949,7 +949,7 @@ You were tasked with delivering a ceremonial shield to your older sibling, a cel
 
 **Benefit:** While you wear your sibling's shield on your back, you can't be flanked.
 
-**Drawback:** Visions of your dead sibling haunt you at night. Whenever you take a respite, make an Intuition test that can't make use of any skill. On a tier 1 or tier 2 outcome, you regain 1 fewer Recoveries than usual when you finish the respite.
+**Drawback:** Visions of your dead sibling haunt you at night. Whenever you take a respite, make an Intuition test that can't make use of any skill. On a tier 1 or tier 2 outcome, you regain 1 fewer [Recoveries](../../Browse/rule/health/recoveries.md) than usual when you finish the respite.
 
 #### Silent Sentinel {data-scc="mcdm.heroes.v1/complication/silent-sentinel"}
 
@@ -963,9 +963,9 @@ You were trained by a group of spies, who psionically infused silence into your 
 
 Maybe you were bitten as a child, or maybe it's a family curse. Either way, you have a malady that is best not discussed in public, lest torches and pitchforks make an appearance.
 
-**Benefit:** Whenever you make a non-minion creature winded or kill a non-minion creature, you gain 1 surge.
+**Benefit:** Whenever you make a non-minion creature [winded](../../Browse/rule/health/winded.md) or kill a non-minion creature, you gain 1 [surge](../../Browse/rule/resource/surge.md).
 
-**Drawback:** At the start of each of your turns, if you have five or more surges—or one or more surges while in moonlight—you lose all your surges and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the nearest creature if you can. You can [shift](../../Browse/movement/shifting.md) up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
+**Drawback:** At the start of each of your turns, if you have five or more [surges](../../Browse/rule/resource/surge.md)—or one or more [surges](../../Browse/rule/resource/surge.md) while in moonlight—you lose all your [surges](../../Browse/rule/resource/surge.md) and become a wolfish hybrid until the end of your turn. While in that form, you have your usual statistics, but you must make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against the nearest creature if you can. You can [shift](../../Browse/movement/shifting.md) up to your speed toward that creature if necessary. If allies and enemies are equally near, you target an ally.
 
 **Special:** You can't take this complication if you are a [fury](../../Browse/class/fury.md) with the stormwight [primordial aspect](../../Browse/feature/fury/level-1/primordial-aspect.md).
 
@@ -1010,17 +1010,17 @@ You were trained as an officer, but you no longer serve. Whether you fled from a
 
 You live for danger. Whether in battle or [mundane](../../Browse/complication/mundane.md) peril, you can transcend your usual limits—and once you've tasted that excitement, you want more.
 
-**Benefit:** Each time your party reaches 2, 4, and 6 Victories, you earn the party a hero token.
+**Benefit:** Each time your party reaches 2, 4, and 6 Victories, you earn the party a [hero token](../../Browse/rule/resource/hero-token.md).
 
-**Drawback:** At the start of a new game session, the party doesn't earn a hero token for your character.
+**Drawback:** At the start of a new game session, the party doesn't earn a [hero token](../../Browse/rule/resource/hero-token.md) for your character.
 
 #### Vampire Scion {data-scc="mcdm.heroes.v1/complication/vampire-scion"}
 
 A vampire has bitten you. You're not undead—or not yet, anyway—but your connection with your vampire progenitor fills you with urges you fight to control.
 
-**Benefit:** Whenever you make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against an adjacent creature, you can do so by biting that creature. If you obtain a tier 3 outcome on the [free strike](../../Browse/feature/common/main-actions/free-strike.md), you gain temporary Stamina equal to the damage dealt. If not lost beforehand, this temporary Stamina lasts until the end of your next respite.
+**Benefit:** Whenever you make a melee [free strike](../../Browse/feature/common/main-actions/free-strike.md) against an adjacent creature, you can do so by biting that creature. If you obtain a tier 3 outcome on the [free strike](../../Browse/feature/common/main-actions/free-strike.md), you gain [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) equal to the damage dealt. If not lost beforehand, this [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) lasts until the end of your next respite.
 
-**Drawback:** While you have temporary Stamina from this complication, you grow visible fangs, you take a bane on Presence tests made to interact with humanoids, and your vampire progenitor can sense your location.
+**Drawback:** While you have [temporary Stamina](../../Browse/rule/health/temporary-stamina.md) from this complication, you grow visible fangs, you take a bane on Presence tests made to interact with humanoids, and your vampire progenitor can sense your location.
 
 #### Voice in Your Head {data-scc="mcdm.heroes.v1/complication/voice-in-your-head"}
 
@@ -1028,7 +1028,7 @@ You occasionally hear a [voice in your head](../../Browse/complication/voice-in-
 
 **Benefit:** The Director tells you when you hear the voice. The voice seems to be aware of your surroundings, and its advice is usually vague but helpful. Someday its motivations might be different from your own, but for now, the voice seems keen on making sure you survive.
 
-**Drawback:** Eventually, the voice reveals it wants something from you that you might not want to provide. If the voice is displeased with you, it can interrupt your rest during a respite, causing you to regain 2 fewer Recoveries than usual.
+**Drawback:** Eventually, the voice reveals it wants something from you that you might not want to provide. If the voice is displeased with you, it can interrupt your rest during a respite, causing you to regain 2 fewer [Recoveries](../../Browse/rule/health/recoveries.md) than usual.
 
 #### Vow of Duty {data-scc="mcdm.heroes.v1/complication/vow-of-duty"}
 
@@ -1052,7 +1052,7 @@ You broke a magic amulet, immersing your mind in weird energy that granted you t
 
 **Benefit:** With a tier 2 outcome, you experience a vision of an event currently happening in your world. The vision lasts for only a few seconds, but the information you glean is helpful to you. With a tier 3 outcome, the vision lasts for 1 minute or more.
 
-**Drawback:** With a tier 1 outcome, you receive a painful vision that is fractal and inscrutable. When you finish the respite, you lose 1 Recovery.
+**Drawback:** With a tier 1 outcome, you receive a painful vision that is fractal and inscrutable. When you finish the respite, you lose 1 [Recovery](../../Browse/rule/health/recoveries.md).
 
 #### War Dog Collar {data-scc="mcdm.heroes.v1/complication/war-dog-collar"}
 
@@ -1118,7 +1118,7 @@ You nearly lost your life at sea, but then you heard the voice. Someone—or som
 
 You were dying in the wode, collapsing while starving and wounded. When you woke, you discovered that a group of green [elementalists](../../Browse/class/elementalist.md) had saved your life by infusing the regenerative bark of a tree to your body.
 
-**Benefit:** Your recovery value increases by an amount equal to your highest characteristic score.
+**Benefit:** Your [recovery value](../../Browse/rule/health/recoveries.md) increases by an amount equal to your highest characteristic score.
 
 **Drawback:** You have fire weakness 5.
 
@@ -1126,9 +1126,9 @@ You were dying in the wode, collapsing while starving and wounded. When you woke
 
 You're quick to anger, never letting an insult go without slinging one right back. In combat, you fight as if possessed by a literal spirit of wrath. No matter the tactical circumstances, when someone injures you, you feel compelled to answer blood with blood.
 
-**Benefit:** While you are [taunted](../../Browse/condition/taunted.md) by a creature, you gain an edge on strikes against that creature. Additionally, you can spend 1 Heroic Resource to have a double edge instead.
+**Benefit:** While you are [taunted](../../Browse/condition/taunted.md) by a creature, you gain an edge on strikes against that creature. Additionally, you can spend 1 [Heroic Resource](../../Browse/rule/resource/heroic-resource.md) to have a double edge instead.
 
-**Drawback:** In combat, whenever a creature makes a strike against you and you are not [taunted](../../Browse/condition/taunted.md), you are [taunted](../../Browse/condition/taunted.md) by that creature until the end of your next turn. Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a Recovery or be compelled to reply with an insult.
+**Drawback:** In combat, whenever a creature makes a strike against you and you are not [taunted](../../Browse/condition/taunted.md), you are [taunted](../../Browse/condition/taunted.md) by that creature until the end of your next turn. Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a [Recovery](../../Browse/rule/health/recoveries.md) or be compelled to reply with an insult.
 
 #### Wrongly Imprisoned {data-scc="mcdm.heroes.v1/complication/wrongly-imprisoned"}
 
@@ -1136,4 +1136,4 @@ You spent many years imprisoned for a crime you didn't commit. During your long 
 
 **Benefit:** You have two skills of your choice, neither of which can be from the interpersonal skill group.
 
-**Drawback:** Your health suffered in prison. Whenever you are winded, you are stricken with a hacking cough that makes it impossible for you to hide or sneak.
+**Drawback:** Your health suffered in prison. Whenever you are [winded](../../Browse/rule/health/winded.md), you are stricken with a hacking cough that makes it impossible for you to hide or sneak.

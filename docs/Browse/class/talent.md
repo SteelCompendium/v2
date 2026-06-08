@@ -35,11 +35,11 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **Strong Potency:** Reason
 
-**Starting Stamina at 1st Level:** 18
+**Starting [Stamina](../rule/health/stamina.md) at 1st Level:** 18
 
-**Stamina Gained at 2nd and Higher Levels:** 6
+**[Stamina](../rule/health/stamina.md) Gained at 2nd and Higher Levels:** 6
 
-**Recoveries:** 8
+**[Recoveries](../rule/health/recoveries.md):** 8
 
 **Skills:** You gain the Psionics and [Read Person](../skill/read-person.md) skills (see Skills in Chapter 9: [Tests](../../Read/heroes/tests.md)). Then choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Empathize, Psionics, [Read Person](../skill/read-person.md), Timescape.)
 
@@ -79,7 +79,7 @@ You choose a [talent tradition](../feature/talent/level-1/talent-tradition.md) f
 
 ### Clarity and Strain {data-scc="mcdm.heroes.v1/feature.talent.level-1/clarity-and-strain"}
 
-The focus and precision of your thoughts grant you a Heroic Resource called clarity that empowers your psionic abilities.
+The focus and precision of your thoughts grant you a [Heroic Resource](../rule/resource/heroic-resource.md) called clarity that empowers your psionic abilities.
 
 #### Clarity in Combat
 
@@ -87,7 +87,7 @@ At the start of a combat encounter or some other stressful situation tracked in 
 
 Additionally, the first time each combat round that a creature is [force moved](../movement/forced-movement.md), you gain 1 clarity.
 
-You can spend clarity you don't have, pushing that Heroic Resource into negative numbers to a maximum negative value equal to 1 + your Reason score. At the end of each of your turns, you take 1 damage for each negative point of clarity.
+You can spend clarity you don't have, pushing that [Heroic Resource](../rule/resource/heroic-resource.md) into negative numbers to a maximum negative value equal to 1 + your Reason score. At the end of each of your turns, you take 1 damage for each negative point of clarity.
 
 Whenever you have clarity below 0, you are strained. Some psionic abilities have additional effects if you are already strained or become strained when you use them. Strained effects can still impact you even after you are no longer strained.
 
@@ -128,13 +128,13 @@ Through meditation, you create pathways in your mind that enhance your statistic
 
 #### Battle Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/battle-augmentation"}
 
-You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
+You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to [Stamina](../rule/health/stamina.md), and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including [free strikes](../feature/common/main-actions/free-strike.md). You can use light armor treasures and light weapon treasures.
 
 If you have a kit, you can't take this augmentation.
 
 #### Density Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/density-augmentation"}
 
-You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
+You gain a +6 bonus to [Stamina](../rule/health/stamina.md), and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
 
 #### Distance Augmentation {data-scc="mcdm.heroes.v1/feature.talent.level-1/distance-augmentation"}
 
@@ -422,7 +422,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Effect:** When targeting an object with a solid reflective surface or a creature carrying or wearing such an object (such as a mirror, an unpainted metal shield, or shiny metal plate armor), you can target one additional creature or object within 3 squares of the first target.
 
-**Strained:** You gain 1 surge that you can use immediately, and you take damage equal to your Reason score that can't be reduced in any way.
+**Strained:** You gain 1 [surge](../rule/resource/surge.md) that you can use immediately, and you take damage equal to your Reason score that can't be reduced in any way.
 
 ##### Spirit Sword {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/spirit-sword"}
 
@@ -439,7 +439,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 6 + P damage
 - **17+:** 9 + P damage
 
-**Effect:** You gain 1 surge.
+**Effect:** You gain 1 [surge](../rule/resource/surge.md).
 
 **Strained:** The target takes an extra 3 damage. You also take 3 damage that can't be reduced in any way.
 
@@ -460,7 +460,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 |----------------------------------------|--------------------:|
 | **📏 Ranged 10**                       | **🎯 One creature** |
 
-**Effect:** If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
+**Effect:** If you target an ally, they gain [temporary Stamina](../rule/health/temporary-stamina.md) equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
 
 **Power Roll + Presence:**
 
@@ -526,7 +526,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 |----------------------------------|------------------------:|
 | **📏 Ranged 10**                 | **🎯 Self or one ally** |
 
-**Effect:** The target uses an ability with a base Heroic Resource cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
+**Effect:** The target uses an ability with a base [Heroic Resource](../rule/resource/heroic-resource.md) cost of 7 or lower that they've previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.
 
 **Strained:** You take 1d6 damage and are [slowed](../condition/slowed.md) (save ends).
 
@@ -552,7 +552,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 |------------------------------------|------------------------:|
 | **📏 Ranged 10**                   | **🎯 Self or one ally** |
 
-**Effect:** The target's stability increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This stability increase lasts until the target no longer has temporary Stamina from this ability.
+**Effect:** The target's stability increases by an amount equal to your Reason score, and they gain 10 [temporary Stamina](../rule/health/temporary-stamina.md) and 2 [surges](../rule/resource/surge.md). This stability increase lasts until the target no longer has [temporary Stamina](../rule/health/temporary-stamina.md) from this ability.
 
 **Strained:** You can't use maneuvers (save ends).
 
@@ -721,7 +721,7 @@ Choose one of the following abilities.
 - **12-16:** The target shifts up to their speed and uses their signature ability against any enemies of your choice.
 - **17+:** The target moves up to their speed and uses their signature ability against any enemies of your choice.
 
-**Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
+**Effect:** You control the target's movement. The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../rule/health/dying.md), or result in them suffering a condition or other negative effect. However, you can move them to provoke opportunity attacks.
 
 **Strained:** You take 1d6 damage and are [weakened](../condition/weakened.md) until the end of your turn.
 
@@ -807,7 +807,7 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 
 **Effect:** The target takes a bane on Presence tests until the end of the encounter.
 
-**Strained:** The potency of this ability increases by 1. You take 2d6 damage and gain 3 surges that you can use immediately.
+**Strained:** The potency of this ability increases by 1. You take 2d6 damage and gain 3 [surges](../rule/resource/surge.md) that you can use immediately.
 
 ## 4th-Level Features
 
@@ -819,13 +819,13 @@ Your Reason and Presence scores each increase to 3.
 
 ### Mind Projection {data-scc="mcdm.heroes.v1/feature.talent.level-4/mind-projection"}
 
-As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious [and prone](../condition/prone.md), and your mind is a separate entity with size 1T. Your mind automatically has concealment, and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
+As a maneuver, you project your mind outside your body. While you are in this state, your body remains unconscious [and prone](../condition/prone.md), and your mind is a separate entity with size 1T. Your mind automatically has [concealment](../rule/combat/concealment.md), and can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space where you entered it.
 
-Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your Stamina. Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a free maneuver.
+Any abilities or features you use originate from your mind. Both your mind and your body can take damage while separated, with any such damage applied to your [Stamina](../rule/health/stamina.md). Your mind is instantly forced back into your body if you take any damage, and you can immediately return to your body as a free maneuver.
 
 ### Mind Recovery {data-scc="mcdm.heroes.v1/feature.talent.level-4/mind-recovery"}
 
-Whenever you spend a Recovery to regain Stamina while strained, you can forgo the Stamina and gain 3 clarity instead.
+Whenever you spend a [Recovery](../rule/health/recoveries.md) to regain [Stamina](../rule/health/stamina.md) while strained, you can forgo the [Stamina](../rule/health/stamina.md) and gain 3 clarity instead.
 
 Additionally, the first time each combat round that a creature is [force moved](../movement/forced-movement.md), you gain 2 clarity instead of 1.
 
@@ -865,11 +865,11 @@ Whenever you obtain a success on a test using a skill from the interpersonal ski
 
 #### Distortion Temporal {data-scc="mcdm.heroes.v1/feature.talent.level-5/distortion-temporal"}
 
-While you are not dying, time behaves irregularly around you in a 3 aura. That area is [difficult terrain](../movement/difficult-terrain.md) for enemies. Additionally, when an ally enters the area for the first time in a combat round or starts their turn there, they gain a +2 bonus to speed until the end of the turn.
+While you are not [dying](../rule/health/dying.md), time behaves irregularly around you in a 3 aura. That area is [difficult terrain](../movement/difficult-terrain.md) for enemies. Additionally, when an ally enters the area for the first time in a combat round or starts their turn there, they gain a +2 bonus to speed until the end of the turn.
 
 #### Kinetic Amplifier {data-scc="mcdm.heroes.v1/feature.talent.level-5/kinetic-amplifier"}
 
-Whenever you force move a creature, you can spend up to 2 surges. For each surge spent, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
+Whenever you force move a creature, you can spend up to 2 [surges](../rule/resource/surge.md). For each [surge](../rule/resource/surge.md) spent, the [forced movement](../movement/forced-movement.md) distance gains a bonus equal to your Reason score.
 
 #### Remote Amplification {data-scc="mcdm.heroes.v1/feature.talent.level-5/remote-amplification"}
 
@@ -877,7 +877,7 @@ The distance of your ranged psionic abilities increases by 5. Additionally, the 
 
 #### Speed of Thought {data-scc="mcdm.heroes.v1/feature.talent.level-5/speed-of-thought"}
 
-Once per combat round while you are not dying, you can spend 2 clarity when you use a triggered action to turn it into a free triggered action.
+Once per combat round while you are not [dying](../rule/health/dying.md), you can spend 2 clarity when you use a triggered action to turn it into a free triggered action.
 
 #### Triangulate {data-scc="mcdm.heroes.v1/feature.talent.level-5/triangulate"}
 
@@ -898,7 +898,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 
 **Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 
-**Strained:** The target gains 2 surges. You are [weakened](../condition/weakened.md) and [slowed](../condition/slowed.md) (save ends).
+**Strained:** The target gains 2 [surges](../rule/resource/surge.md). You are [weakened](../condition/weakened.md) and [slowed](../condition/slowed.md) (save ends).
 
 #### Hypersonic {data-scc="mcdm.heroes.v1/feature.ability.talent.level-5/hypersonic"}
 
@@ -1033,7 +1033,7 @@ Choose one of the following abilities.
 |----------------------------------------|--------------------------------------------:|
 | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 
-**Effect:** The area is frozen in time until the start of your next turn. Each object in the area is [restrained](../condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
+**Effect:** The area is frozen in time until the start of your next turn. Each object in the area is [restrained](../condition/restrained.md) and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 [Stamina](../rule/health/stamina.md) or would die stay alive, and objects in the area that are reduced to 0 [Stamina](../rule/health/stamina.md) remain undestroyed.
 
 Make a power roll that targets each enemy in the area.
 
@@ -1196,7 +1196,7 @@ Your mind can carry your body through tough times. You ignore [difficult terrain
 
 #### Mindlink {data-scc="mcdm.heroes.v1/feature.talent.level-8/mindlink"}
 
-During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more Recoveries, each other linked creature can spend a Recovery.
+During a respite, you can choose a number of creatures up to your Reason score who you have communicated with using your [Telepathic Speech](../feature/talent/level-1/telepathic-speech.md) feature, creating a telepathic link among all of you. Whenever a linked creature spends one or more [Recoveries](../rule/health/recoveries.md), each other linked creature can spend a [Recovery](../rule/health/recoveries.md).
 
 ### Stasis Shield {data-scc="mcdm.heroes.v1/feature.talent.level-8/stasis-shield"}
 
@@ -1274,9 +1274,9 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 
 **Effect:** Choose two of the following effects:
 
-- The target can spend any number of Recoveries.
-- The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
-- The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.
+- The target can spend any number of [Recoveries](../rule/health/recoveries.md).
+- The target gains 1 of their [Heroic Resource](../rule/resource/heroic-resource.md), and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
+- The target gains 2 [surges](../rule/resource/surge.md), and gains a +3 bonus to speed until the end of the encounter.
 
 **Strained:** You and the target both permanently grow visibly younger (the equivalent of 20 [human](../ancestry/human.md) years, to the minimum of an 18-year-old). Additionally, you are [weakened](../condition/weakened.md) and [slowed](../condition/slowed.md) (save ends).
 
@@ -1343,7 +1343,7 @@ Choose one of the following abilities.
 |--------------------------------|-----------------------------:|
 | **📏 2 burst**                 | **🎯 Each ally in the area** |
 
-**Effect:** The targets share 6 of their Heroic Resource among themselves, as you determine. A target can't gain more than 3 of their Heroic Resource this way. After using this ability, you can't gain any clarity until the end of the next combat round.
+**Effect:** The targets share 6 of their [Heroic Resource](../rule/resource/heroic-resource.md) among themselves, as you determine. A target can't gain more than 3 of their [Heroic Resource](../rule/resource/heroic-resource.md) this way. After using this ability, you can't gain any clarity until the end of the next combat round.
 
 #### 9th-Level Telekinesis Abilities
 
@@ -1406,7 +1406,7 @@ Choose one of the following abilities.
 - **12-16:** 24 + R psychic damage
 - **17+:** 28 + R psychic damage
 
-**Effect:** This ability ignores cover and concealment.
+**Effect:** This ability ignores [cover](../rule/combat/cover.md) and [concealment](../rule/combat/concealment.md).
 
 **Strained:** The ability roll scores a critical hit on a natural 17 or higher. You take half the damage the target takes, and you can't reduce this damage in any way.
 

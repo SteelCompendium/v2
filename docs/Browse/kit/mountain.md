@@ -4,7 +4,6 @@ melee_damage_bonus: +0/+0/+4
 name: Mountain
 scc: mcdm.heroes.v1/kit/mountain
 stability_bonus: "+2"
-stamina_bonus: +9 per echelon
 type: kit
 ---
 
@@ -20,7 +19,7 @@ You wear heavy armor and wield a heavy weapon.
 
 ## Kit Bonuses
 
-**Stamina Bonus:** +9 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +9 per echelon
 
 **Stability Bonus:** +2
 

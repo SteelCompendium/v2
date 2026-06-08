@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 11 Wrath
 distance: Ranged 10
-effect: Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of flanking.
+effect: Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of [flanking](../../../../rule/combat/flanking.md).
 flavor: You use your foe as a tool against your enemies.
 keywords:
     - Ranged
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of flanking.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of <a href="../../../../../rule/combat/flanking/">flanking</a>.</p></div>
 </div>
 </article>

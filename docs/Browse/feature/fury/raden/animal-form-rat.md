@@ -19,6 +19,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>While you are in your rat form, your size is 1T and you can automatically climb at full speed while moving. You can use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to climb other creatures. You can&#39;t use any abilities while in this form except for <a href="../../../ability/fury/stormwight-kits/aspect-of-the-wild/">Aspect of the Wild</a>.</p>
+<p>While you are in your rat form, your size is 1T and you can automatically climb at full speed while moving. You can use the <a href="../../../common/maneuvers/hide/">Hide</a> maneuver as a free maneuver, you can use your allies as <a href="../../../../rule/combat/cover/">cover</a> when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to climb other creatures. You can&#39;t use any abilities while in this form except for <a href="../../../ability/fury/stormwight-kits/aspect-of-the-wild/">Aspect of the Wild</a>.</p>
 </div>
 </section>

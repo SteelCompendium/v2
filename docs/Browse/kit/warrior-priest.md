@@ -5,7 +5,6 @@ name: Warrior Priest
 scc: mcdm.heroes.v1/kit/warrior-priest
 speed_bonus: "+1"
 stability_bonus: "+1"
-stamina_bonus: +9 per echelon
 type: kit
 ---
 
@@ -21,7 +20,7 @@ You wear heavy armor and wield a light weapon.
 
 ## Kit Bonuses
 
-**Stamina Bonus:** +9 per echelon
+**[Stamina](../rule/health/stamina.md) Bonus:** +9 per echelon
 
 **Speed Bonus:** +1
 

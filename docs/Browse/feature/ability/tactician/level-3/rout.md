@@ -3,7 +3,7 @@ action_type: Maneuver
 class: tactician
 cost: 7 Focus
 distance: Self
-effect: Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the creature who dealt the damage (save ends).
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever you or any ally deals damage to a target marked by you who has R < AVERAGE, the target is [frightened](../../../../condition/frightened.md) of the creature who dealt the damage (save ends).
 flavor: The tide begins to turn.
 keywords:
     - '-'
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R &lt; AVERAGE, the target is <a href="../../../../../condition/frightened/">frightened</a> of the creature who dealt the damage (save ends).</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, whenever you or any ally deals damage to a target marked by you who has R &lt; AVERAGE, the target is <a href="../../../../../condition/frightened/">frightened</a> of the creature who dealt the damage (save ends).</p></div>
 </div>
 </article>

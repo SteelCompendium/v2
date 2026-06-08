@@ -3,7 +3,7 @@ action_type: Maneuver
 class: conduit
 cost: 11 Piety
 distance: Ranged 10
-effect: The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.
+effect: The target has an additional main action they can use on their next turn, and gains 3 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md).
 flavor: You speak inspiring words to a friend and spur them to incredible feats.
 keywords:
     - Magic
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.</p></div>
+<div class="sc-ability__section-body"><p>The target has an additional main action they can use on their next turn, and gains 3 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
 </div>
 </article>

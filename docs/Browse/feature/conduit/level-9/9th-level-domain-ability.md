@@ -49,7 +49,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.</p></div>
+<div class="sc-ability__section-body"><p>The target has an additional main action they can use on their next turn, and gains 3 of their <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -69,7 +69,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each of the target&#39;s power rolls has its outcome improved by one tier.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each of the target&#39;s power rolls has its outcome improved by one tier.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -89,7 +89,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you by moving or by being <a href="../../../../movement/forced-movement/">force moved</a> by any enemy. Targets can be <a href="../../../../movement/forced-movement/">force moved</a> closer to you by you or your allies, or can move closer because of your movement.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, no enemy can approach within 5 squares of you by moving or by being <a href="../../../../movement/forced-movement/">force moved</a> by any enemy. Targets can be <a href="../../../../movement/forced-movement/">force moved</a> closer to you by you or your allies, or can move closer because of your movement.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -117,7 +117,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can <a href="../../../../movement/fly/">fly</a>, stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.</p><p>On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.</p></div>
+<div class="sc-ability__section-body"><p>You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can <a href="../../../../movement/fly/">fly</a>, stability 4, 100 <a href="../../../../rule/health/stamina/">Stamina</a>, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their <a href="../../../../rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../../../rule/health/dying/">dying</a>.</p><p>On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-body"><p>Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a <a href="../../../common/main-actions/free-strike/">free strike</a>.</p></div>
@@ -148,7 +148,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A raging storm fills the area until the end of the encounter or until you are dying. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.</p></div>
+<div class="sc-ability__section-body"><p>A raging storm fills the area until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -168,7 +168,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, the area is filled with magic darkness that your enemies can&#39;t see through, but you and your allies can.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, the area is filled with magic darkness that your enemies can&#39;t see through, but you and your allies can.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -188,7 +188,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they <a href="../../../../condition/prone/">are prone</a>.</p></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one ally with this ability. Each target can spend any number of <a href="../../../../rule/health/recoveries/">Recoveries</a>, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they <a href="../../../../condition/prone/">are prone</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -208,7 +208,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The wall lasts until the end of the encounter or until you are dying, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 15 damage.</p></div>
+<div class="sc-ability__section-body"><p>The wall lasts until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 15 damage.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -284,7 +284,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Before the target dies, you can look at their stat block and force them to use one ability that is a main action or a maneuver. If the ability costs a Heroic Resource or Malice, the creature can use it without any cost. For the purpose of using this ability, your allies and enemies are the target&#39;s allies and enemies, and you decide who the ability targets.</p></div>
+<div class="sc-ability__section-body"><p>Before the target dies, you can look at their stat block and force them to use one ability that is a main action or a maneuver. If the ability costs a <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> or Malice, the creature can use it without any cost. For the purpose of using this ability, your allies and enemies are the target&#39;s allies and enemies, and you decide who the ability targets.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

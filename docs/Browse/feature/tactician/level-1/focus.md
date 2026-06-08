@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.</p>
+<p>The ring of steel panics others but brings order to your mind, granting you a <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> called focus.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">

@@ -49,7 +49,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:</p><ul><li>Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use.</li><li>Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls.</li></ul></div>
+<div class="sc-ability__section-body"><p>You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>:</p><ul><li>Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use.</li><li>Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls.</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -69,7 +69,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each target gains 1 surge at the end of each of your turns.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each target gains 1 <a href="../../../../rule/resource/surge/">surge</a> at the end of each of your turns.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -185,7 +185,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until the target is dying, at the start of each of the target&#39;s turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until the target is <a href="../../../../rule/health/dying/">dying</a>, at the start of each of the target&#39;s turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -205,7 +205,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, each time a target kills an enemy, they regain <a href="../../../../rule/health/stamina/">Stamina</a> equal to 5 + your Intuition score.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -225,7 +225,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever one target takes damage, the other target can use a free <a href="../../level-1/triggered-action/">triggered action</a> to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free <a href="../../level-1/triggered-action/">triggered action</a> to spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever one target takes damage, the other target can use a free <a href="../../level-1/triggered-action/">triggered action</a> to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a <a href="../../../../rule/health/recoveries/">Recovery</a>, the other target can use a free <a href="../../level-1/triggered-action/">triggered action</a> to spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -269,7 +269,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 surge at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.</p></div>
+<div class="sc-ability__section-body"><p>A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 <a href="../../../../rule/resource/surge/">surge</a> at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -289,7 +289,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, whenever a target starts their turn in the area, they can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, whenever a target starts their turn in the area, they can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
 </div>

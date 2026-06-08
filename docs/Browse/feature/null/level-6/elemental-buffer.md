@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">6</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with damage immunity, you gain 2 surges that can be used only to increase the damage of your next strike.</p>
+<p>Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with damage immunity, you gain 2 <a href="../../../../rule/resource/surge/">surges</a> that can be used only to increase the damage of your next strike.</p>
 </div>
 </section>

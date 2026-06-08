@@ -3,7 +3,7 @@ action_type: Maneuver
 class: fury
 cost: 9 Ferocity
 distance: 3 aura
-effect: Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can [fly](../../../../movement/fly.md) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](../../../../movement/fly.md) until the start of their next turn or until the effect ends.
+effect: Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can [fly](../../../../movement/fly.md) while the aura is active. Each ally target who starts or ends their turn in the area can also [fly](../../../../movement/fly.md) until the start of their next turn or until the effect ends.
 flavor: You focus your connection to the Primordial Chaos into a seething storm.
 keywords:
     - Area
@@ -36,7 +36,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can <a href="../../../../../movement/fly/">fly</a> while the aura is active. Each ally target who starts or ends their turn in the area can also <a href="../../../../../movement/fly/">fly</a> until the start of their next turn or until the effect ends.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can <a href="../../../../../movement/fly/">fly</a> while the aura is active. Each ally target who starts or ends their turn in the area can also <a href="../../../../../movement/fly/">fly</a> until the start of their next turn or until the effect ends.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>

@@ -17,6 +17,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Using the <a href="../hide/">Hide</a> maneuver, a creature attempts to hide from other creatures who aren&#39;t observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a> for full details.</p>
+<p>Using the <a href="../hide/">Hide</a> maneuver, a creature attempts to hide from other creatures who aren&#39;t observing them while they have <a href="../../../../rule/combat/cover/">cover</a> or <a href="../../../../rule/combat/concealment/">concealment</a>. See Hide and Sneak in Chapter 9: <a href="../../../../../Read/heroes/tests/">Tests</a> for full details.</p>
 </div>
 </section>

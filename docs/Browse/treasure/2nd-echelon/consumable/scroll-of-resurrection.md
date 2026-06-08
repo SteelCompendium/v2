@@ -28,4 +28,4 @@ type: treasure
 
 **Effect:** As a respite activity, you repeatedly chant the contents of this scroll over the remains of a creature who has been dead for less than 1 year. The creature's soul must be willing to return to life for the scroll to work. If they are not willing, you instinctively understand that as you start the respite activity and can cease it immediately. The scroll is not consumed, and you can undertake a new respite activity.
 
-A creature with a willing soul returns to life at the end of the respite with full Stamina and half their Recoveries. You regain only half your Recoveries at the end of the respite, and the scroll is consumed.
+A creature with a willing soul returns to life at the end of the respite with full [Stamina](../../../rule/health/stamina.md) and half their [Recoveries](../../../rule/health/recoveries.md). You regain only half your [Recoveries](../../../rule/health/recoveries.md) at the end of the respite, and the scroll is consumed.

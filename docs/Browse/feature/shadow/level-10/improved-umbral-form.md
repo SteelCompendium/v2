@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">10</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You gain full control over the <a href="../../../../class/shadow/">shadow</a> creature you become with your <a href="../../level-6/umbral-form/">Umbral Form</a> feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.</p>
+<p>You gain full control over the <a href="../../../../class/shadow/">shadow</a> creature you become with your <a href="../../level-6/umbral-form/">Umbral Form</a> feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you <a href="../../../../rule/combat/concealment/">concealment</a> while in this form, and creatures no longer gain an edge on strikes against you.</p>
 <p>While you are in your <a href="../../level-6/umbral-form/">umbral form</a>, you can spend 1 uninterrupted minute concentrating on a location where you&#39;ve been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can <a href="../../../../movement/teleport/">teleport</a> to unoccupied spaces of your choice within that location. Each creature who <a href="../../../../movement/teleport/">teleports</a> this way is invisible for 1 hour or until they use an ability.</p>
 </div>
 </section>

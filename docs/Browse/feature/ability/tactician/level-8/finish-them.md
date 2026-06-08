@@ -3,7 +3,7 @@ action_type: Free triggered
 class: tactician
 cost: 11 Focus
 distance: Ranged 10
-effect: The target is killed. Additionally, the creature who caused the target to be winded can spend a Recovery.
+effect: The target is killed. Additionally, the creature who caused the target to be [winded](../../../../rule/health/winded.md) can spend a [Recovery](../../../../rule/health/recoveries.md).
 flavor: You point out an opening to your ally so they can land a killing blow.
 keywords:
     - Ranged
@@ -12,7 +12,7 @@ name: Finish Them!
 scc: mcdm.heroes.v1/feature.ability.tactician.level-8/finish-them
 subtype: triggered
 target: One creature
-trigger: The target is not a leader or solo creature, and becomes winded.
+trigger: The target is not a leader or solo creature, and becomes [winded](../../../../rule/health/winded.md).
 type: ability
 ---
 
@@ -37,10 +37,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The target is not a leader or solo creature, and becomes winded.</p></div>
+<div class="sc-ability__section-body"><p>The target is not a leader or solo creature, and becomes <a href="../../../../../rule/health/winded/">winded</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target is killed. Additionally, the creature who caused the target to be winded can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>The target is killed. Additionally, the creature who caused the target to be <a href="../../../../../rule/health/winded/">winded</a> can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>

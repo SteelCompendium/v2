@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 11 Focus
 distance: Self
-effect: 'You gain 6 surges. Until the end of the encounter or until you are dying, whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their Heroic Resource.'
+effect: 'You gain 6 [surges](../../../../rule/resource/surge.md). Until the end of the encounter or until you are [dying](../../../../rule/health/dying.md), whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their [Heroic Resource](../../../../rule/resource/heroic-resource.md).'
 flavor: I've identified a way to negate their strengths.
 keywords:
     - '-'
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 6 surges. Until the end of the encounter or until you are dying, whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their Heroic Resource.</p></div>
+<div class="sc-ability__section-body"><p>You gain 6 <a href="../../../../../rule/resource/surge/">surges</a>. Until the end of the encounter or until you are <a href="../../../../../rule/health/dying/">dying</a>, whenever the Director spends Malice (see *Draw Steel: Monsters*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their <a href="../../../../../rule/resource/heroic-resource/">Heroic Resource</a>.</p></div>
 </div>
 </article>

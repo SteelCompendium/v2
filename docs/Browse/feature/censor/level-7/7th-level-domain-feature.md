@@ -40,7 +40,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>The gods send divine favor to you and your allies. While you are not dying, enemies take a bane on strikes against you or any ally within 3 squares of you.</p>
+<p>The gods send divine favor to you and your allies. While you are not <a href="../../../../rule/health/dying/">dying</a>, enemies take a bane on strikes against you or any ally within 3 squares of you.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -95,7 +95,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each time you use your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don&#39;t use this wrath, it is lost. Additionally, the target of <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> gains 10 temporary Stamina.</p>
+<p>Each time you use your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don&#39;t use this wrath, it is lost. Additionally, the target of <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> gains 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -129,7 +129,7 @@ type: feature
 </header>
 <div class="sc-trait__body">
 <p class="sc-trait__leadin"><span class="sc-trait__dia"></span>When you finish a respite, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:</p>
-<ul><li>Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different damage immunity each time.</li><li>Each creature gains 20 temporary Stamina.</li><li>Each creature gains a +1 bonus to speed.</li><li>Each creature gains a +1 bonus to saving throws.</li><li>Each creature gains an edge on tests made to influence other creatures.</li></ul>
+<ul><li>Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different damage immunity each time.</li><li>Each creature gains 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li>Each creature gains a +1 bonus to speed.</li><li>Each creature gains a +1 bonus to saving throws.</li><li>Each creature gains an edge on tests made to influence other creatures.</li></ul>
 <p>Each benefit lasts until the creature who gains it finishes another respite.</p>
 </div>
 </section>
@@ -185,8 +185,8 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You can stop death from taking your allies. When an ally within distance of your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.</p>
-<p>Additionally, your abilities deal an extra 5 damage to winded creatures.</p>
+<p>You can stop death from taking your allies. When an ally within distance of your <a href="../../../ability/censor/level-1/my-life-for-yours/">My Life for Yours</a> ability dies and you are not <a href="../../../../rule/health/dying/">dying</a>, you can use a free triggered action to instead have that ally fall unconscious until they regain <a href="../../../../rule/health/stamina/">Stamina</a>.</p>
+<p>Additionally, your abilities deal an extra 5 damage to <a href="../../../../rule/health/winded/">winded</a> creatures.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">
@@ -197,7 +197,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">7</span></div>
 </header>
 <div class="sc-trait__body">
-<p>When an ally within 10 squares takes damage that would leave them dying, you can use a free triggered action to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can&#39;t be reduced in any way.</p>
+<p>When an ally within 10 squares takes damage that would leave them <a href="../../../../rule/health/dying/">dying</a>, you can use a free triggered action to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can&#39;t be reduced in any way.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

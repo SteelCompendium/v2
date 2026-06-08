@@ -29,7 +29,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Once on each of your turns, you can use a free maneuver to exchange words with a target of your current performance, other than yourself. The target can spend a Recovery to gain temporary Stamina equal to their recovery value.</p>
+<p>Once on each of your turns, you can use a free maneuver to exchange words with a target of your current performance, other than yourself. The target can spend a <a href="../../../../rule/health/recoveries/">Recovery</a> to gain <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to their <a href="../../../../rule/health/recoveries/">recovery value</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

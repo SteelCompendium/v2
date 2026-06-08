@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 7 Piety
 distance: Ranged 10
-effect: One ally within distance can spend any number of Recoveries.
+effect: One ally within distance can spend any number of [Recoveries](../../../../rule/health/recoveries.md).
 flavor: A beam of energy connects a foe to a friend, draining life from one to heal the other.
 keywords:
     - Magic
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>One ally within distance can spend any number of Recoveries.</p></div>
+<div class="sc-ability__section-body"><p>One ally within distance can spend any number of <a href="../../../../../rule/health/recoveries/">Recoveries</a>.</p></div>
 </div>
 </article>

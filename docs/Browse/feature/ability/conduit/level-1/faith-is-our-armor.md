@@ -13,9 +13,9 @@ name: Faith Is Our Armor
 power_roll_characteristic: Intuition
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/faith-is-our-armor
 target: Four allies
-tier1: The target gains 5 temporary Stamina.
-tier2: The target gains 10 temporary Stamina.
-tier3: The target gains 15 temporary Stamina.
+tier1: The target gains 5 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+tier2: The target gains 10 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+tier3: The target gains 15 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 type: ability
 ---
 
@@ -41,9 +41,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Intuition</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target gains 5 temporary Stamina.</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target gains 10 temporary Stamina.</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target gains 15 temporary Stamina.</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target gains 5 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target gains 10 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target gains 15 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

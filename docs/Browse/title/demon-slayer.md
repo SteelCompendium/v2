@@ -18,7 +18,7 @@ type: title
 
 *Demonic Lore:* You know the Proto-Ctholl language. Additionally, when you deal damage using a magic ability, you can change the ability's damage type to holy.
 
-- *Lethe:* While you are winded, your strikes gain a +5 damage bonus
+- *Lethe:* While you are [winded](../rule/health/winded.md), your strikes gain a +5 damage bonus
 - *Made of Teeth:* Your body can sprout teeth in unusual places. Whenever a creature makes physical contact with you or starts their turn touching you, you can deal 5 damage to them (no action required).
 - *Soulsight:* Any creature within 2 squares can't be hidden from you.
 

@@ -47,7 +47,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and each ally adjacent to the target gain 10 temporary Stamina.</p></div>
+<div class="sc-ability__section-body"><p>You and each ally adjacent to the target gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -67,7 +67,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 1 surge and can use a signature ability that has a double edge.</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 1 <a href="../../../../rule/resource/surge/">surge</a> and can use a signature ability that has a double edge.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -87,7 +87,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target gains 2 surges. Additionally, they can spend a Recovery, remove any conditions or effects on them, and stand up if they <a href="../../../../condition/prone/">are prone</a>.</p></div>
+<div class="sc-ability__section-body"><p>Each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>. Additionally, they can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, remove any conditions or effects on them, and stand up if they <a href="../../../../condition/prone/">are prone</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -107,7 +107,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its Heroic Resource cost reduced by 1 + your Reason score (minimum cost 0).</p></div>
+<div class="sc-ability__section-body"><p>The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> cost reduced by 1 + your Reason score (minimum cost 0).</p></div>
 </div>
 </article>
 </div>

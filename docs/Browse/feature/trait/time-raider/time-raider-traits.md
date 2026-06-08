@@ -56,7 +56,7 @@ type: trait
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with concealment who isn&#39;t hidden from you within 20, and you negate the usual bane on strikes against such creatures. Additionally, whenever you are targeted by a strike, you can use a triggered action to impose a bane on the power roll.</p>
+<p>Your senses extend past mundane obscuration and the veil of the future alike. You automatically know the location of any creature with <a href="../../../../rule/combat/concealment/">concealment</a> who isn&#39;t hidden from you within 20, and you negate the usual bane on strikes against such creatures. Additionally, whenever you are targeted by a strike, you can use a triggered action to impose a bane on the power roll.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

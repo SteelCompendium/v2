@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 9 Wrath
 distance: Melee 1
-effect: Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 surges before making the strike.
+effect: Each ally can [shift](../../../../movement/shifting.md) up to 2 squares and gains 2 [surges](../../../../rule/resource/surge.md) before making the strike.
 flavor: You focus your allies' wrath on a chosen foe.
 keywords:
     - Melee
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each ally can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares and gains 2 surges before making the strike.</p></div>
+<div class="sc-ability__section-body"><p>Each ally can <a href="../../../../../movement/shifting/">shift</a> up to 2 squares and gains 2 <a href="../../../../../rule/resource/surge/">surges</a> before making the strike.</p></div>
 </div>
 </article>

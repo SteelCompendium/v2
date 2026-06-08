@@ -16,6 +16,6 @@ You made a deal with a [devil](../ancestry/devil.md). Not a very good deal, beca
 
 - You earn 2 Renown.
 - Your Wealth increases by 2.
-- You gain a +3 bonus to Stamina.
+- You gain a +3 bonus to [Stamina](../rule/health/stamina.md).
 
 **Drawback:** Your body bears a fiendish mark. Any creature who understands religion and notes the mark can tell that your soul belongs to Hell, imposing a bane on any test you make to interact with those creatures (unless they're into that). Additionally, when you die, your soul goes to Hell and you can't be restored to life.

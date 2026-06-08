@@ -8,4 +8,4 @@ type: rule
 
 ---
 
-Some abilities granted by your class, kit, and other parts of the game are signature abilities. The rules specifically state when an ability is a signature ability. Signature abilities don't require your Heroic Resource to use, but sometimes let you spend your Heroic Resource to enhance or add to their effects.
+Some abilities granted by your class, kit, and other parts of the game are signature abilities. The rules specifically state when an ability is a signature ability. Signature abilities don't require your [Heroic Resource](../resource/heroic-resource.md) to use, but sometimes let you spend your [Heroic Resource](../resource/heroic-resource.md) to enhance or add to their effects.

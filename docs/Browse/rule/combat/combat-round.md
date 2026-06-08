@@ -12,7 +12,7 @@ Combat takes place over a series of combat rounds. During a combat round, each c
 
 ## When Does Combat Start?
 
-Combat starts as soon as one creature intends to harm another, or when some environmental effect is in a position to deal damage to or impose other negative effects on one or more creatures. This means that even before the action happens, a hero can't use a heroic ability without spending their Heroic Resource on it, because combat has already begun!
+Combat starts as soon as one creature intends to harm another, or when some environmental effect is in a position to deal damage to or impose other negative effects on one or more creatures. This means that even before the action happens, a hero can't use a heroic ability without spending their [Heroic Resource](../resource/heroic-resource.md) on it, because combat has already begun!
 
 ## Determine Surprise {data-scc="mcdm.heroes.v1/rule.combat/surprised"}
 

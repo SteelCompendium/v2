@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you reduce a creature to 0 Stamina using an ability, you can use a free triggered action to <a href="../../../../movement/teleport/">teleport</a> an ally within distance of that ability into the creature&#39;s space in a plume of rose petals. You or the <a href="../../../../movement/teleport/">teleport</a>ed ally can then make a melee <a href="../../../common/main-actions/free-strike/">free strike</a>.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you reduce a creature to 0 <a href="../../../../rule/health/stamina/">Stamina</a> using an ability, you can use a free triggered action to <a href="../../../../movement/teleport/">teleport</a> an ally within distance of that ability into the creature&#39;s space in a plume of rose petals. You or the <a href="../../../../movement/teleport/">teleport</a>ed ally can then make a melee <a href="../../../common/main-actions/free-strike/">free strike</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -59,7 +59,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever the target takes damage while winded, they can use a free triggered action to deal half the damage they took to the source of the damage.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever the target takes damage while <a href="../../../../rule/health/winded/">winded</a>, they can use a free triggered action to deal half the damage they took to the source of the damage.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -79,7 +79,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you deal rolled damage to a creature or object, or enable a creature to spend a Recovery, you can use a free triggered action to give that creature or object one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending Recoveries simultaneously, each target receives the same effect:</p><ul><li>The target has damage weakness equal to your Presence score against any magic, psionic, or weapon ability.</li><li>The target has damage immunity equal to your Presence score.</li><li>The target has a bonus to stability and a penalty to speed equal to your Presence score.</li><li>The target has a bonus to speed and a penalty to stability equal to your Presence score.</li></ul></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever you deal rolled damage to a creature or object, or enable a creature to spend a <a href="../../../../rule/health/recoveries/">Recovery</a>, you can use a free triggered action to give that creature or object one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending <a href="../../../../rule/health/recoveries/">Recoveries</a> simultaneously, each target receives the same effect:</p><ul><li>The target has damage weakness equal to your Presence score against any magic, psionic, or weapon ability.</li><li>The target has damage immunity equal to your Presence score.</li><li>The target has a bonus to stability and a penalty to speed equal to your Presence score.</li><li>The target has a bonus to speed and a penalty to stability equal to your Presence score.</li></ul></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">

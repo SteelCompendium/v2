@@ -2,7 +2,7 @@
 action_type: Main action
 class: shadow
 distance: Melee 1 or ranged 5
-effect: If any ally is adjacent to the target, you gain 1 surge before making the power roll.
+effect: If any ally is adjacent to the target, you gain 1 [surge](../../../../rule/resource/surge.md) before making the power roll.
 flavor: You attack an enemy as an ally exposes their weakness.
 keywords:
     - Melee
@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If any ally is adjacent to the target, you gain 1 surge before making the power roll.</p></div>
+<div class="sc-ability__section-body"><p>If any ally is adjacent to the target, you gain 1 <a href="../../../../../rule/resource/surge/">surge</a> before making the power roll.</p></div>
 </div>
 </article>

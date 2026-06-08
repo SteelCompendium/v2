@@ -19,6 +19,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<ul><li><b>Stamina Bonus:</b> +9 per echelon</li><li><b>Stability Bonus:</b> +2</li><li><b>Melee Damage Bonus:</b> +0/+0/+4</li></ul>
+<ul><li><b><a href="../../../../rule/health/stamina/">Stamina</a> Bonus:</b> +9 per echelon</li><li><b>Stability Bonus:</b> +2</li><li><b>Melee Damage Bonus:</b> +0/+0/+4</li></ul>
 </div>
 </section>

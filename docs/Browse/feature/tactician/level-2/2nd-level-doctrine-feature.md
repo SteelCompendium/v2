@@ -51,7 +51,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">2</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have trained your squad to work together, stay silent, and wait for the opportune time to strike. Whenever you or any ally within 10 squares of you becomes hidden, that creature gains 1 surge.</p>
+<p>You have trained your squad to work together, stay silent, and wait for the opportune time to strike. Whenever you or any ally within 10 squares of you becomes hidden, that creature gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

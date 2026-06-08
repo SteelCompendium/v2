@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 11 Clarity
 distance: Ranged 10
-effect: This ability ignores cover and concealment.
+effect: This ability ignores [cover](../../../../rule/combat/cover.md) and [concealment](../../../../rule/combat/concealment.md).
 flavor: You fire a telepathic bolt empowered by every consciousness within reach directly into your foe's mind.
 keywords:
     - Psionic
@@ -50,7 +50,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>This ability ignores cover and concealment.</p></div>
+<div class="sc-ability__section-body"><p>This ability ignores <a href="../../../../../rule/combat/cover/">cover</a> and <a href="../../../../../rule/combat/concealment/">concealment</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

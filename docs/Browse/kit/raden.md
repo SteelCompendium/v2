@@ -16,7 +16,7 @@ You gain an edge on tests made to hide and sneak. Additionally, you ignore [diff
 
 ## Animal Form: Rat {data-scc="mcdm.heroes.v1/feature.fury.raden/animal-form-rat"}
 
-While you are in your rat form, your size is 1T and you can automatically climb at full speed while moving. You can use the [Hide](../feature/common/maneuvers/hide.md) maneuver as a free maneuver, you can use your allies as cover when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to climb other creatures. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md).
+While you are in your rat form, your size is 1T and you can automatically climb at full speed while moving. You can use the [Hide](../feature/common/maneuvers/hide.md) maneuver as a free maneuver, you can use your allies as [cover](../rule/combat/cover.md) when you hide, and you can stay hidden while you move through squares occupied by any creature. Additionally, you gain an edge on tests made to climb other creatures. You can't use any abilities while in this form except for [Aspect of the Wild](../feature/ability/fury/stormwight-kits/aspect-of-the-wild.md).
 
 ## Hybrid Form: Rat {data-scc="mcdm.heroes.v1/feature.fury.raden/hybrid-form-rat"}
 
@@ -28,7 +28,7 @@ Your primordial damage type is corruption.
 
 ## Kit Bonuses {data-scc="mcdm.heroes.v1/feature.fury.raden/kit-bonuses"}
 
-- **Stamina Bonus:** +3 per echelon
+- **[Stamina](../rule/health/stamina.md) Bonus:** +3 per echelon
 - **Speed Bonus:** +3
 - **Melee Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
@@ -60,8 +60,8 @@ As your ferocity grows, you gain benefits as noted on the [Raden](raden.md) [Gro
 | Ferocity        | Benefit                                                                                                                                           |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Disengage](../feature/common/move-actions/disengage.md) move action, the distance you can [shift](../movement/shifting.md) gains a bonus equal to your Agility score.                                 |
-| 4               | The first time you [shift](../movement/shifting.md) on a turn, you gain 1 surge.                                                                                             |
+| 4               | The first time you [shift](../movement/shifting.md) on a turn, you gain 1 [surge](../rule/resource/surge.md).                                                                                             |
 | 6               | You gain an edge on Agility tests, the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver.                                                          |
-| 8 (4th level)   | The first time you [shift](../movement/shifting.md) on a turn, you gain 2 surges instead of 1.                                                                               |
+| 8 (4th level)   | The first time you [shift](../movement/shifting.md) on a turn, you gain 2 [surges](../rule/resource/surge.md) instead of 1.                                                                               |
 | 10 (7th level)  | You have a double edge on Agility tests, the [Escape Grab](../feature/common/maneuvers/escape-grab.md) maneuver, and the [Knockback](../feature/common/maneuvers/knockback.md) maneuver                                                     |
-| 12 (10th level) | Whenever you use a heroic ability, you gain 10 temporary Stamina. Additionally, the potency of any effects targeting you is reduced by 2 for you. |
+| 12 (10th level) | Whenever you use a heroic ability, you gain 10 [temporary Stamina](../rule/health/temporary-stamina.md). Additionally, the potency of any effects targeting you is reduced by 2 for you. |

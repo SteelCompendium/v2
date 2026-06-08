@@ -3,7 +3,7 @@ action_type: Maneuver
 class: tactician
 cost: 5 Focus
 distance: 1 burst
-effect: Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 surges.
+effect: Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 [surges](../../../../rule/resource/surge.md).
 flavor: Together we are invincible!
 keywords:
     - Area
@@ -35,6 +35,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 surges.</p></div>
+<div class="sc-ability__section-body"><p>Until the start of your next turn, each target has a bonus to stability equal to your Might score. Additionally, each target gains 2 <a href="../../../../../rule/resource/surge/">surges</a>.</p></div>
 </div>
 </article>

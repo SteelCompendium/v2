@@ -3,7 +3,7 @@ action_type: Free triggered
 class: fury
 cost: 9 Ferocity
 distance: Melee 1
-effect: You can spend a Recovery.
+effect: You can spend a [Recovery](../../../../rule/health/recoveries.md).
 flavor: You quickly strike back at a foe.
 keywords:
     - Melee
@@ -18,7 +18,7 @@ target: The triggering creature
 tier1: 6 + M damage
 tier2: 9 + M damage
 tier3: 13 + M damage
-trigger: A creature causes you to be winded or dying, or damages you while you are winded or dying.
+trigger: A creature causes you to be [winded](../../../../rule/health/winded.md) or [dying](../../../../rule/health/dying.md), or damages you while you are [winded](../../../../rule/health/winded.md) or [dying](../../../../rule/health/dying.md).
 type: ability
 ---
 
@@ -51,10 +51,10 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>A creature causes you to be winded or dying, or damages you while you are winded or dying.</p></div>
+<div class="sc-ability__section-body"><p>A creature causes you to be <a href="../../../../../rule/health/winded/">winded</a> or <a href="../../../../../rule/health/dying/">dying</a>, or damages you while you are <a href="../../../../../rule/health/winded/">winded</a> or <a href="../../../../../rule/health/dying/">dying</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>You can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>

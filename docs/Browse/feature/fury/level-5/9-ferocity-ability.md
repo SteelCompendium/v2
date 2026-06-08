@@ -75,11 +75,11 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>A creature causes you to be winded or dying, or damages you while you are winded or dying.</p></div>
+<div class="sc-ability__section-body"><p>A creature causes you to be <a href="../../../../rule/health/winded/">winded</a> or <a href="../../../../rule/health/dying/">dying</a>, or damages you while you are <a href="../../../../rule/health/winded/">winded</a> or <a href="../../../../rule/health/dying/">dying</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can spend a Recovery.</p></div>
+<div class="sc-ability__section-body"><p>You can spend a <a href="../../../../rule/health/recoveries/">Recovery</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

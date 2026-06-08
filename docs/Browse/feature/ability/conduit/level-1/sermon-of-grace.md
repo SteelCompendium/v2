@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 5 Piety
 distance: 4 burst
-effect: Each target can spend a Recovery. Additionally, each target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../../../condition/prone.md).
+effect: Each target can spend a [Recovery](../../../../rule/health/recoveries.md). Additionally, each target can use a free [triggered action](../../../conduit/level-1/triggered-action.md) to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if [prone](../../../../condition/prone.md).
 flavor: You inspire your allies with tales of your saint's great deeds.
 keywords:
     - Area
@@ -36,6 +36,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each target can spend a Recovery. Additionally, each target can use a free <a href="../../../../conduit/level-1/triggered-action/">triggered action</a> to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if <a href="../../../../../condition/prone/">prone</a>.</p></div>
+<div class="sc-ability__section-body"><p>Each target can spend a <a href="../../../../../rule/health/recoveries/">Recovery</a>. Additionally, each target can use a free <a href="../../../../conduit/level-1/triggered-action/">triggered action</a> to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if <a href="../../../../../condition/prone/">prone</a>.</p></div>
 </div>
 </article>

@@ -20,7 +20,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called discipline.</p>
+<p>As your mastery of your body and tradition grows, it imbues you with a <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a> called discipline.</p>
 <div class="sc-trait__nest">
 <section class="sc-trait" data-action="trait">
 <header class="sc-trait__head">

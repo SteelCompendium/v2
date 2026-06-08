@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">4</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each time you finish a respite, you can share the vague dreams of the future granted to you by the gods with allies who finished the respite with you. These premonitions help you and your allies stay alive, granting each of you temporary Stamina equal to 10 + your level that lasts until you finish another respite.</p>
+<p>Each time you finish a respite, you can share the vague dreams of the future granted to you by the gods with allies who finished the respite with you. These premonitions help you and your allies stay alive, granting each of you <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a> equal to 10 + your level that lasts until you finish another respite.</p>
 </div>
 </section>

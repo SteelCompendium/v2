@@ -54,6 +54,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You gain 1 surge that you can use immediately, and you take damage equal to your Reason score that can&#39;t be reduced in any way.</p></div>
+<div class="sc-ability__section-body"><p>You gain 1 <a href="../../../../../rule/resource/surge/">surge</a> that you can use immediately, and you take damage equal to your Reason score that can&#39;t be reduced in any way.</p></div>
 </div>
 </article>

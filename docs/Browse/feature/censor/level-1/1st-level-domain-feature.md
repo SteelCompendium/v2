@@ -131,7 +131,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature&#39;s memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can&#39;t use this ability on the same creature twice.</p></div>
+<div class="sc-ability__section-body"><p>You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of <a href="../../../../rule/health/dying/">dying</a> can make a creature&#39;s memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can&#39;t use this ability on the same creature twice.</p></div>
 </div>
 </article>
 </div>
@@ -222,7 +222,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. The chosen character gains a bonus to their recovery value equal to your level that lasts until you finish another respite.</p>
+<p>Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. The chosen character gains a bonus to their <a href="../../../../rule/health/recoveries/">recovery value</a> equal to your level that lasts until you finish another respite.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 5 Wrath
 distance: Melee 1
-effect: When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.
+effect: When a target who is not a leader or solo creature is made [winded](../../../../rule/health/winded.md) by this ability, they are reduced to 0 [Stamina](../../../../rule/health/stamina.md).
 flavor: Judged and [sentenced](../level-2/sentenced.md).
 keywords:
     - Melee
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.</p></div>
+<div class="sc-ability__section-body"><p>When a target who is not a leader or solo creature is made <a href="../../../../../rule/health/winded/">winded</a> by this ability, they are reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a>.</p></div>
 </div>
 </article>

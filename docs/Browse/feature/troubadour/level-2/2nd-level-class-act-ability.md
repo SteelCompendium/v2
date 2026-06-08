@@ -48,7 +48,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A <a href="../../../ability/troubadour/level-2/guest-star/">guest star</a> appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This <a href="../../../ability/troubadour/level-2/guest-star/">guest star</a> is controlled by you, has their own turn, and shares your characteristics. Their Stamina maximum is half yours. They have no abilities other than your melee and ranged <a href="../../../common/main-actions/free-strike/">free strikes</a>. At the end of the encounter, or when the <a href="../../../ability/troubadour/level-2/guest-star/">guest star</a> is reduced to 0 Stamina, they retreat or revert to a bystander. The same bystander can&#39;t be uplifted this way more than once during an encounter.</p></div>
+<div class="sc-ability__section-body"><p>A <a href="../../../ability/troubadour/level-2/guest-star/">guest star</a> appears to help you during the encounter: either a bystander within distance uplifted by your magic, or a mysterious new hero who appears in an unoccupied space within distance. This <a href="../../../ability/troubadour/level-2/guest-star/">guest star</a> is controlled by you, has their own turn, and shares your characteristics. Their <a href="../../../../rule/health/stamina/">Stamina</a> maximum is half yours. They have no abilities other than your melee and ranged <a href="../../../common/main-actions/free-strike/">free strikes</a>. At the end of the encounter, or when the <a href="../../../ability/troubadour/level-2/guest-star/">guest star</a> is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, they retreat or revert to a bystander. The same bystander can&#39;t be uplifted this way more than once during an encounter.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -68,7 +68,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>A target who is not a leader or solo creature comes back to life with half their Stamina and becomes an ally under the Director&#39;s control. The players can work with the Director to determine when the target takes their turn each combat round. At the end of the encounter, the target turns to dust and is blown away.</p></div>
+<div class="sc-ability__section-body"><p>A target who is not a leader or solo creature comes back to life with half their <a href="../../../../rule/health/stamina/">Stamina</a> and becomes an ally under the Director&#39;s control. The players can work with the Director to determine when the target takes their turn each combat round. At the end of the encounter, the target turns to dust and is blown away.</p></div>
 </div>
 </article>
 </div>
@@ -160,7 +160,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You use an ability that you have observed being used this combat round. The ability must have the Strike keyword, cost 5 or fewer of a Heroic Resource, and cost no Malice. When you make the strike, you use your Presence score for any power rolls, and any damage you deal is sonic damage.</p></div>
+<div class="sc-ability__section-body"><p>You use an ability that you have observed being used this combat round. The ability must have the Strike keyword, cost 5 or fewer of a <a href="../../../../rule/resource/heroic-resource/">Heroic Resource</a>, and cost no Malice. When you make the strike, you use your Presence score for any power rolls, and any damage you deal is sonic damage.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

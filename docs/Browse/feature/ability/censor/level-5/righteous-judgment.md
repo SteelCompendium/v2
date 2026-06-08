@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 9 Wrath
 distance: Melee 1
-effect: Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 surge.
+effect: Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 [surge](../../../../rule/resource/surge.md).
 flavor: You amplify the power of your [judgment](../level-1/judgment.md).
 keywords:
     - Melee
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 surge.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 <a href="../../../../../rule/resource/surge/">surge</a>.</p></div>
 </div>
 </article>

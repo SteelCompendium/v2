@@ -27,7 +27,7 @@ I was here, teaching this class during the fire of Chaos 373. The fire *leveled 
 
 *Six months* after the Great Fire, your ancestors had rebuilt... everything. I have seen many miracles in my life. Witnessing that feat might be chief among them.
 
-Liches are almost always [humans](human.md). Did you know that? I think I know why. Your lives are so short—almost as soon as you're born, you're thinking about dying, and you refuse to yield.
+Liches are almost always [humans](human.md). Did you know that? I think I know why. Your lives are so short—almost as soon as you're born, you're thinking about [dying](../rule/health/dying.md), and you refuse to yield.
 
 That refusal to yield to death... to *death*... is what drives you, I think. Drives you to leave the world better than you found it. Causes ruined people to rebuild great city.
 
@@ -79,4 +79,4 @@ Your instinctive resilience protects you from injuries beyond the routine. Whene
 
 #### Staying Power {data-scc="mcdm.heroes.v1/feature.trait.human/staying-power"}
 
-Your [human](human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of Recoveries by 2.
+Your [human](human.md) physiology allows you to fight, run, and stay awake longer than others. You increase your number of [Recoveries](../rule/health/recoveries.md) by 2.

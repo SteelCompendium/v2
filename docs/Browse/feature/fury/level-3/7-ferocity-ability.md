@@ -39,7 +39,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P &lt; STRONG is <a href="../../../../condition/frightened/">frightened</a> until the end of their turn.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each enemy who starts their turn adjacent to you and has P &lt; STRONG is <a href="../../../../condition/frightened/">frightened</a> until the end of their turn.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -59,7 +59,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P &lt; AVERAGE is <a href="../../../../condition/taunted/">taunted</a> until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy <a href="../../../../condition/taunted/">taunted</a> by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, each creature you make a melee strike against who has P &lt; AVERAGE is <a href="../../../../condition/taunted/">taunted</a> until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy <a href="../../../../condition/taunted/">taunted</a> by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -79,7 +79,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You gain 20 temporary Stamina.</p></div>
+<div class="sc-ability__section-body"><p>You gain 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -99,7 +99,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee <a href="../../../common/main-actions/free-strike/">free strike</a> against them.</p></div>
+<div class="sc-ability__section-body"><p>If the target is not a leader or solo creature, they are reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a> at the end of their next turn. If the target is a leader or solo creature, you gain 3 <a href="../../../../rule/resource/surge/">surges</a> and can make a melee <a href="../../../common/main-actions/free-strike/">free strike</a> against them.</p></div>
 </div>
 </article>
 </div>

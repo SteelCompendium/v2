@@ -88,7 +88,7 @@ The Test Difficulty Outcomes table shows all the possible outcomes of the differ
 
 Whenever the rules talk about obtaining a success on a test, that includes a straight success, a success with a consequence, or a success with a reward. Whenever the rules talk about a failure on a test, that includes a straight failure or a failure with a consequence.
 
-Whenever you make a test whose outcome you don't like, you can spend a hero token to reroll the test. You must use the new roll.
+Whenever you make a test whose outcome you don't like, you can spend a [hero token](../../Browse/rule/resource/hero-token.md) to reroll the test. You must use the new roll.
 
 ##### Easy Tests
 
@@ -147,7 +147,7 @@ If you fail a test without incurring a consequence, you simply don't do what you
 
 On a failed test, the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the test. This penalty shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an Agility test made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm... yet.
 
-When a hero rolls a failure without a consequence, the Director can offer to let them succeed with a consequence instead. For instance, when a hero rolls a 10 on a medium Might test to break down a locked door, that's a failure and the door stays closed. But the Director could suggest to the player that instead of not breaking down the door, they can break down the door and lose 1d6 Stamina from being injured in the effort.
+When a hero rolls a failure without a consequence, the Director can offer to let them succeed with a consequence instead. For instance, when a hero rolls a 10 on a medium Might test to break down a locked door, that's a failure and the door stays closed. But the Director could suggest to the player that instead of not breaking down the door, they can break down the door and lose 1d6 [Stamina](../../Browse/rule/health/stamina.md) from being injured in the effort.
 
 ##### Success With a Consequence
 
@@ -178,11 +178,11 @@ Common rewards accompanying success on a test include the following:
 - Impressing or ingratiating yourself with someone who grants you a small favor
 - Noticing a hidden danger well before it strikes, giving you time to avoid or prepare for it
 
-In lieu of other rewards, the Director can also decide that a hero who succeeds on a test with a reward earns the players a hero token (see Hero Tokens in Chapter 1: [The Basics](the-basics.md)).
+In lieu of other rewards, the Director can also decide that a hero who succeeds on a test with a reward earns the players a [hero token](../../Browse/rule/resource/hero-token.md) (see [Hero Tokens](../../Browse/rule/resource/hero-token.md) in Chapter 1: [The Basics](the-basics.md)).
 
 > **Optional Rule: Pitching Consequences and Rewards**
 >
-> Coming up with consequences and rewards for tests can be a big part of the fun for many Directors, but even the best Directors occasionally run low on ideas. That's why the game gives the default option of consequences and rewards in the form of Malice and hero tokens. However, a Director who prefers narrative consequences and rewards can ask the players to pitch different consequences and rewards when they make a test. The Director can reject, add to, or modify the players' ideas as they choose, and will remind the players that they need to pitch real consequences, and not minor rewards disguised as consequences.
+> Coming up with consequences and rewards for tests can be a big part of the fun for many Directors, but even the best Directors occasionally run low on ideas. That's why the game gives the default option of consequences and rewards in the form of Malice and [hero tokens](../../Browse/rule/resource/hero-token.md). However, a Director who prefers narrative consequences and rewards can ask the players to pitch different consequences and rewards when they make a test. The Director can reject, add to, or modify the players' ideas as they choose, and will remind the players that they need to pitch real consequences, and not minor rewards disguised as consequences.
 
 #### How Long Does It Take?
 
@@ -744,17 +744,17 @@ Hiding and sneaking are important tools for heroes and their foes. You might wan
 
 #### Hiding
 
-To hide from a creature, you must have cover or concealment from that creature (see Chapter 10: [Combat](combat.md)), who can't observe you attempting to hide. A creature is observing you if they're aware of your specific location before you attempt to hide. This means they can pinpoint you with their senses and point a finger (or paw or tentacle) at you as if to shout, "There they are!" If you duck behind a barrel to hide from a foe, your attempt to hide has a chance of succeeding only if your foe doesn't notice you doing so. If you're being chased by a hungry dragon, you can hide only if you first move to a location where the dragon can't observe you—for instance, by turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your hide attempt.
+To hide from a creature, you must have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from that creature (see Chapter 10: [Combat](combat.md)), who can't observe you attempting to hide. A creature is observing you if they're aware of your specific location before you attempt to hide. This means they can pinpoint you with their senses and point a finger (or paw or tentacle) at you as if to shout, "There they are!" If you duck behind a barrel to hide from a foe, your attempt to hide has a chance of succeeding only if your foe doesn't notice you doing so. If you're being chased by a hungry dragon, you can hide only if you first move to a location where the dragon can't observe you—for instance, by turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your hide attempt.
 
-When you use the [Hide](../../Browse/feature/common/maneuvers/hide.md) maneuver to hide during combat while you have cover or concealment from a creature who isn't observing you, you are automatically hidden from them unless the Director deems otherwise. If you hide outside of combat, the Director might ask you to make a test using the [Hide](../../Browse/skill/hide.md) skill to determine how well hidden you are.
+When you use the [Hide](../../Browse/feature/common/maneuvers/hide.md) maneuver to hide during combat while you have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from a creature who isn't observing you, you are automatically hidden from them unless the Director deems otherwise. If you hide outside of combat, the Director might ask you to make a test using the [Hide](../../Browse/skill/hide.md) skill to determine how well hidden you are.
 
 While you are hidden from another creature, the creature can't target you with abilities that don't have the Area keyword. This benefit ends as soon as you are no longer hidden from that creature.
 
-Additionally, while you are hidden from another creature, you gain an edge on ability rolls made against that creature. This benefit lasts until the end of the turn in which you are no longer hidden. This means you can be hidden from another creature at the start of your turn, move out of cover or concealment toward them and use an ability against them, and still gain an edge on ability rolls made against the creature as long as you use the ability before the end of that turn.
+Additionally, while you are hidden from another creature, you gain an edge on ability rolls made against that creature. This benefit lasts until the end of the turn in which you are no longer hidden. This means you can be hidden from another creature at the start of your turn, move out of [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) toward them and use an ability against them, and still gain an edge on ability rolls made against the creature as long as you use the ability before the end of that turn.
 
 Draw Steel
 
-You are no longer hidden from a creature if you don't have cover or concealment from them. If you use an ability, interact with an enemy, move without sneaking, or otherwise make noise or reveal yourself while hidden, you are no longer hidden once the activity that reveals you resolves. For instance, if you are hidden and then make a strike, you resolve the strike first, then are no longer hidden.
+You are no longer hidden from a creature if you don't have [cover](../../Browse/rule/combat/cover.md) or [concealment](../../Browse/rule/combat/concealment.md) from them. If you use an ability, interact with an enemy, move without sneaking, or otherwise make noise or reveal yourself while hidden, you are no longer hidden once the activity that reveals you resolves. For instance, if you are hidden and then make a strike, you resolve the strike first, then are no longer hidden.
 
 ##### Searching for Hidden Creatures
 
@@ -788,7 +788,7 @@ Each hero participating in the group test makes the test individually as usual, 
 
 When interpreting the outcome of a group test, the Director first determines if the task succeeded or not before figuring out rewards and consequences. If half or more of the heroes making the group test succeed, then the group test succeeds. Otherwise, the group test fails.
 
-If the heroes succeeded and half or more of them obtained a reward from the test, the Director gives the group a collective reward and ignores any consequences incurred in the test. This collective reward should be equivalent to earning two individual rewards. In fact, it could be two consumable items, juicy pieces of information, or hero tokens. However, it could also be something more tailored to the task. For instance, if the heroes earn a collective reward while sneaking through the camp of an enemy army, the Director might allow them to sabotage a bunch of war engines or steal a few horses on their way out.
+If the heroes succeeded and half or more of them obtained a reward from the test, the Director gives the group a collective reward and ignores any consequences incurred in the test. This collective reward should be equivalent to earning two individual rewards. In fact, it could be two consumable items, juicy pieces of information, or [hero tokens](../../Browse/rule/resource/hero-token.md). However, it could also be something more tailored to the task. For instance, if the heroes earn a collective reward while sneaking through the camp of an enemy army, the Director might allow them to sabotage a bunch of war engines or steal a few horses on their way out.
 
 If the heroes failed the group test and more than half of them incurred a consequence as a result, the Director gives the group a collective consequence and ignores any earned rewards. This collective consequence should affect everyone. An easy option is for the stress of failing the test to cause each hero to take a bane on their next power roll, or for the Director to gain 2 Malice per hero at the start of the next combat encounter. But the consequence could also be tailored to the task. For instance, if the heroes fail in their attempt to sneak through the camp of an enemy army, they're spotted and the camp immediately goes on alert as waves of enemies attack them.
 
@@ -822,7 +822,7 @@ The same rules and guidelines that apply to all individual tests apply in montag
 
 The Director should couch each success or failure as it relates to the overall goal of the montage test. If the heroes are trying to reach an ancient temple, failing a Might test to ford a river in their path doesn't mean they don't cross the river and are stuck on the other side. But it could mean that failing to cross the river in a timely manner gives a rival group of villains the chance to beat the party to the temple.
 
-The rewards and consequences of individual tests made during a montage test are handled on an individual basis. The Director can use the default of gaining additional Malice in the next combat encounter for consequences and having the party gain hero tokens for rewards to keep the montage moving.
+The rewards and consequences of individual tests made during a montage test are handled on an individual basis. The Director can use the default of gaining additional Malice in the next combat encounter for consequences and having the party gain [hero tokens](../../Browse/rule/resource/hero-token.md) for rewards to keep the montage moving.
 
 #### Can't Use the Same Skill Twice
 

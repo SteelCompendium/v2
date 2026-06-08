@@ -2,7 +2,7 @@
 action_type: Main action
 class: conduit
 distance: Ranged 10
-effect: One ally within distance gains a number of surges equal to the tier outcome of your power roll.
+effect: One ally within distance gains a number of [surges](../../../../rule/resource/surge.md) equal to the tier outcome of your power roll.
 flavor: Burning radiance falls upon your foe, transferring some of their energy to a nearby ally.
 keywords:
     - Magic
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>One ally within distance gains a number of surges equal to the tier outcome of your power roll.</p></div>
+<div class="sc-ability__section-body"><p>One ally within distance gains a number of <a href="../../../../../rule/resource/surge/">surges</a> equal to the tier outcome of your power roll.</p></div>
 </div>
 </article>

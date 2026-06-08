@@ -69,7 +69,7 @@ The Test Difficulty Outcomes table shows all the possible outcomes of the differ
 
 Whenever the rules talk about obtaining a success on a test, that includes a straight success, a success with a consequence, or a success with a reward. Whenever the rules talk about a failure on a test, that includes a straight failure or a failure with a consequence.
 
-Whenever you make a test whose outcome you don't like, you can spend a hero token to reroll the test. You must use the new roll.
+Whenever you make a test whose outcome you don't like, you can spend a [hero token](../resource/hero-token.md) to reroll the test. You must use the new roll.
 
 ### Easy Tests
 
@@ -128,7 +128,7 @@ If you fail a test without incurring a consequence, you simply don't do what you
 
 On a failed test, the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the test. This penalty shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an Agility test made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm... yet.
 
-When a hero rolls a failure without a consequence, the Director can offer to let them succeed with a consequence instead. For instance, when a hero rolls a 10 on a medium Might test to break down a locked door, that's a failure and the door stays closed. But the Director could suggest to the player that instead of not breaking down the door, they can break down the door and lose 1d6 Stamina from being injured in the effort.
+When a hero rolls a failure without a consequence, the Director can offer to let them succeed with a consequence instead. For instance, when a hero rolls a 10 on a medium Might test to break down a locked door, that's a failure and the door stays closed. But the Director could suggest to the player that instead of not breaking down the door, they can break down the door and lose 1d6 [Stamina](../health/stamina.md) from being injured in the effort.
 
 ### Success With a Consequence
 
@@ -159,11 +159,11 @@ Common rewards accompanying success on a test include the following:
 - Impressing or ingratiating yourself with someone who grants you a small favor
 - Noticing a hidden danger well before it strikes, giving you time to avoid or prepare for it
 
-In lieu of other rewards, the Director can also decide that a hero who succeeds on a test with a reward earns the players a hero token (see Hero Tokens in Chapter 1: [The Basics](../../../Read/heroes/the-basics.md)).
+In lieu of other rewards, the Director can also decide that a hero who succeeds on a test with a reward earns the players a [hero token](../resource/hero-token.md) (see [Hero Tokens](../resource/hero-token.md) in Chapter 1: [The Basics](../../../Read/heroes/the-basics.md)).
 
 > **Optional Rule: Pitching Consequences and Rewards**
 >
-> Coming up with consequences and rewards for tests can be a big part of the fun for many Directors, but even the best Directors occasionally run low on ideas. That's why the game gives the default option of consequences and rewards in the form of Malice and hero tokens. However, a Director who prefers narrative consequences and rewards can ask the players to pitch different consequences and rewards when they make a test. The Director can reject, add to, or modify the players' ideas as they choose, and will remind the players that they need to pitch real consequences, and not minor rewards disguised as consequences.
+> Coming up with consequences and rewards for tests can be a big part of the fun for many Directors, but even the best Directors occasionally run low on ideas. That's why the game gives the default option of consequences and rewards in the form of Malice and [hero tokens](../resource/hero-token.md). However, a Director who prefers narrative consequences and rewards can ask the players to pitch different consequences and rewards when they make a test. The Director can reject, add to, or modify the players' ideas as they choose, and will remind the players that they need to pitch real consequences, and not minor rewards disguised as consequences.
 
 ## How Long Does It Take?
 

@@ -52,7 +52,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don&#39;t have a kit. While you wear light armor, you gain a +3 bonus to Stamina, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including <a href="../../../common/main-actions/free-strike/">free strikes</a>. You can use light armor treasures and light weapon treasures.</p>
+<p>Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don&#39;t have a kit. While you wear light armor, you gain a +3 bonus to <a href="../../../../rule/health/stamina/">Stamina</a>, and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including <a href="../../../common/main-actions/free-strike/">free strikes</a>. You can use light armor treasures and light weapon treasures.</p>
 <p>If you have a kit, you can&#39;t take this blessing.</p>
 </div>
 </section>
@@ -75,7 +75,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.</p>
+<p>Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to <a href="../../../../rule/health/stamina/">Stamina</a>, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.</p>
 </div>
 </section>
 </div>

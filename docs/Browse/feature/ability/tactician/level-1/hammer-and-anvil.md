@@ -3,7 +3,7 @@ action_type: Main action
 class: tactician
 cost: 5 Focus
 distance: Melee 1 or ranged 5
-effect: If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.
+effect: If the target is reduced to 0 [Stamina](../../../../rule/health/stamina.md) before one or both chosen allies has made their strike, the ally or allies can pick a different target.
 flavor: '"Let''s not argue about who''s the hammer and who''s the anvil!"'
 keywords:
     - Melee
@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.</p></div>
+<div class="sc-ability__section-body"><p>If the target is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a> before one or both chosen allies has made their strike, the ally or allies can pick a different target.</p></div>
 </div>
 </article>

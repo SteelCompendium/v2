@@ -185,9 +185,9 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars">Might</span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 psychic damage; any target who is a minion is reduced to 0 Stamina</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 psychic damage; any target who is a minion is reduced to 0 Stamina, as does one winded target who is not a leader or solo creature</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 psychic damage; each target who is not a leader or solo creature is winded; any target who is a minion is reduced to 0 Stamina, as does one winded target who is not a leader or solo creature</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 psychic damage; any target who is a minion is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 psychic damage; any target who is a minion is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, as does one <a href="../../../../rule/health/winded/">winded</a> target who is not a leader or solo creature</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 psychic damage; each target who is not a leader or solo creature is <a href="../../../../rule/health/winded/">winded</a>; any target who is a minion is reduced to 0 <a href="../../../../rule/health/stamina/">Stamina</a>, as does one <a href="../../../../rule/health/winded/">winded</a> target who is not a leader or solo creature</span></div>
 </div>
 </div>
 </article>

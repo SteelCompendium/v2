@@ -20,6 +20,6 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">5</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to hide, any creature marked by you doesn&#39;t count as an observer. Additionally, you and your allies can use other allies as cover for the purpose of hiding.</p>
+<p>You have mastered the ability to distract your foes, allowing you and your allies to take advantage of their gaps in attention. Whenever you or any ally attempts to hide, any creature marked by you doesn&#39;t count as an observer. Additionally, you and your allies can use other allies as <a href="../../../../rule/combat/cover/">cover</a> for the purpose of hiding.</p>
 </div>
 </section>
