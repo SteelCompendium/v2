@@ -12,9 +12,9 @@ name: Avalanche Impact
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-6/avalanche-impact
 target: Self
-tier1: 4 damage; push 1
-tier2: 7 damage; push 2
-tier3: 11 damage; push 3
+tier1: 4 damage; [push](../../../../movement/forced-movement.md) 1
+tier2: 7 damage; [push](../../../../movement/forced-movement.md) 2
+tier3: 11 damage; [push](../../../../movement/forced-movement.md) 3
 type: ability
 ---
 
@@ -40,9 +40,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 damage; push 2</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; push 3</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 damage; <a href="../../../../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 damage; <a href="../../../../../movement/forced-movement/">push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; <a href="../../../../../movement/forced-movement/">push</a> 3</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

@@ -128,7 +128,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and the target each make a <a href="../../../../rule/combat/melee/">melee</a> <a href="../../../common/main-actions/free-strike/">free strike</a> that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your <a href="../../../common/main-actions/free-strike/">free strike</a> targets and which enemies the target creature&#39;s <a href="../../../common/main-actions/free-strike/">free strike</a> targets. You then slide the target 5 squares, ignoring <a href="../../../../rule/character/stability/">stability</a>.</p></div>
+<div class="sc-ability__section-body"><p>You and the target each make a <a href="../../../../rule/combat/melee/">melee</a> <a href="../../../common/main-actions/free-strike/">free strike</a> that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your <a href="../../../common/main-actions/free-strike/">free strike</a> targets and which enemies the target creature&#39;s <a href="../../../common/main-actions/free-strike/">free strike</a> targets. You then <a href="../../../../movement/forced-movement/">slide</a> the target 5 squares, ignoring <a href="../../../../rule/character/stability/">stability</a>.</p></div>
 </div>
 </article>
 </div>

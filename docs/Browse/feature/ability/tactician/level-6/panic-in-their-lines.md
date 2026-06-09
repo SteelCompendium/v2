@@ -15,9 +15,9 @@ name: Panic in Their Lines
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.tactician.level-6/panic-in-their-lines
 target: Two creatures
-tier1: 6 + M damage; slide 1
-tier2: 9 + M damage; slide 3
-tier3: 13 + M damage; slide 5
+tier1: 6 + M damage; [slide](../../../../movement/forced-movement.md) 1
+tier2: 9 + M damage; [slide](../../../../movement/forced-movement.md) 3
+tier3: 13 + M damage; [slide](../../../../movement/forced-movement.md) 5
 type: ability
 ---
 
@@ -43,9 +43,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M damage; slide 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + M damage; slide 3</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + M damage; slide 5</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + M damage; <a href="../../../../../movement/forced-movement/">slide</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + M damage; <a href="../../../../../movement/forced-movement/">slide</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + M damage; <a href="../../../../../movement/forced-movement/">slide</a> 5</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

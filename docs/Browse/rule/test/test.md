@@ -24,7 +24,7 @@ Though the Director can decide to call for [tests](test.md) in any circumstances
 
 ### Might Tests
 
-You make a [Might](../character/might.md) [test](test.md) whenever a risky task calls for the use of physical strength. [Might](../character/might.md) [tests](test.md) are most often used for breaking down doors and other structures, hurling heavy objects, pulling your body up a sheer wall, swimming against a mighty current, and other feats of physical power.
+You make a [Might](../character/might.md) [test](test.md) whenever a risky task calls for the use of physical strength. [Might](../character/might.md) [tests](test.md) are most often used for breaking down doors and other structures, hurling heavy objects, [pulling](../../movement/forced-movement.md) your body up a sheer wall, swimming against a mighty current, and other feats of physical power.
 
 ### Agility Tests
 

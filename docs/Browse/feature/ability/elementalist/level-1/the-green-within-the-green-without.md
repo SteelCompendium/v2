@@ -2,7 +2,7 @@
 action_type: Main action
 class: elementalist
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: You slide one creature within 10 squares of the target up to 2 squares.
+effect: You [slide](../../../../movement/forced-movement.md) one creature within 10 squares of the target up to 2 squares.
 flavor: Whipping vines erupt from a foe's body to grasp at another close by.
 keywords:
     - Green
@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You slide one creature within 10 squares of the target up to 2 squares.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/forced-movement/">slide</a> one creature within 10 squares of the target up to 2 squares.</p></div>
 </div>
 </article>

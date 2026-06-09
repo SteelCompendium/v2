@@ -14,9 +14,9 @@ name: Drag the Unworthy
 power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-8/drag-the-unworthy
 target: One creature or object
-tier1: 9 + I holy damage; slide 3
-tier2: 13 + I holy damage; slide 4
-tier3: 18 + I holy damage; slide 6
+tier1: 9 + I holy damage; [slide](../../../../movement/forced-movement.md) 3
+tier2: 13 + I holy damage; [slide](../../../../movement/forced-movement.md) 4
+tier3: 18 + I holy damage; [slide](../../../../movement/forced-movement.md) 6
 type: ability
 ---
 
@@ -42,9 +42,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + I holy damage; slide 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + I holy damage; slide 4</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + I holy damage; slide 6</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + I holy damage; <a href="../../../../../movement/forced-movement/">slide</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">13 + I holy damage; <a href="../../../../../movement/forced-movement/">slide</a> 4</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">18 + I holy damage; <a href="../../../../../movement/forced-movement/">slide</a> 6</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

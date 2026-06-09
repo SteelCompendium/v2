@@ -13,9 +13,9 @@ name: Gravitic Burst
 power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/gravitic-burst
 target: Each enemy in the area
-tier1: 3 damage; vertical push 2
-tier2: 6 damage; vertical push 4
-tier3: 9 damage; vertical push 6
+tier1: 3 damage; vertical [push](../../../../movement/forced-movement.md) 2
+tier2: 6 damage; vertical [push](../../../../movement/forced-movement.md) 4
+tier3: 9 damage; vertical [push](../../../../movement/forced-movement.md) 6
 type: ability
 ---
 
@@ -41,9 +41,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; vertical push 2</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; vertical push 4</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage; vertical push 6</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; vertical <a href="../../../../../movement/forced-movement/">push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 damage; vertical <a href="../../../../../movement/forced-movement/">push</a> 4</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 damage; vertical <a href="../../../../../movement/forced-movement/">push</a> 6</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

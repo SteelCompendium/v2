@@ -28,7 +28,7 @@ You can't gain the benefit of [high ground](high-ground.md) (see below) against 
 
 ## Non-Burrowing Creatures
 
-If you are on the ground and [adjacent](../rule/combat/adjacent.md) to a creature who is beneath the ground while [burrowing](burrow.md), you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
+If you are on the ground and [adjacent](../rule/combat/adjacent.md) to a creature who is beneath the ground while [burrowing](burrow.md), you can use a maneuver to [pull](forced-movement.md) that creature up 1 square out of the ground, provided the creature is willing.
 
 If a creature who can't [burrow](burrow.md) wants to dig into the ground, they can use the following ability provided their [speed](../rule/character/speed.md) is 2 or more.
 

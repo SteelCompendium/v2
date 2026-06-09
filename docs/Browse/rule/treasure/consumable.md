@@ -280,7 +280,7 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 **Project Goal:** 45 (yields 1d6 + 1 snapdragons)
 
-**Effect:** As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 [bonus](../dice/bonuses-and-penalties.md) to the [distance](../combat/distance.md) of any [forced movement](../../movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../../movement/forced-movement.md), you can push each creature targeted by the ability up to 2 squares.
+**Effect:** As a maneuver, you sniff a magic snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals an extra 5 damage and gains a +2 [bonus](../dice/bonuses-and-penalties.md) to the [distance](../combat/distance.md) of any [forced movement](../../movement/forced-movement.md) it imposes. If the ability does not impose [forced movement](../../movement/forced-movement.md), you can [push](../../movement/forced-movement.md) each creature targeted by the ability up to 2 squares.
 
 ## 2nd-Echelon Consumables
 
@@ -414,13 +414,13 @@ A creature with a willing soul returns to life at the end of the [respite](../re
 
 **Project Goal:** 90
 
-**Effect:** As a maneuver, you snap this wand in half, letting you vertically pull one object or creature of [size](../character/size.md) 3 or less a number of squares based on that target's [size](../character/size.md):
+**Effect:** As a maneuver, you snap this wand in half, letting you vertically [pull](../../movement/forced-movement.md) one object or creature of [size](../character/size.md) 3 or less a number of squares based on that target's [size](../character/size.md):
 
-- **[Size](../character/size.md) 1L or smaller:** vertical pull 6
-- **[Size](../character/size.md) 2:** vertical pull 3
-- **[Size](../character/size.md) 3:** vertical pull 1
+- **[Size](../character/size.md) 1L or smaller:** vertical [pull](../../movement/forced-movement.md) 6
+- **[Size](../character/size.md) 2:** vertical [pull](../../movement/forced-movement.md) 3
+- **[Size](../character/size.md) 3:** vertical [pull](../../movement/forced-movement.md) 1
 
-If you pull a [size](../character/size.md) 1T object [adjacent](../combat/adjacent.md) to you, you can catch it. This treasure can affect any target within [line of effect](../combat/line-of-effect.md).
+If you [pull](../../movement/forced-movement.md) a [size](../character/size.md) 1T object [adjacent](../combat/adjacent.md) to you, you can catch it. This treasure can affect any target within [line of effect](../combat/line-of-effect.md).
 
 ### Vial of Ethereal Attack {data-scc="mcdm.heroes.v1/treasure.2nd-echelon.consumable/vial-of-ethereal-attack"}
 
@@ -456,7 +456,7 @@ This section presents 3rd-[echelon](../general/echelon.md) [consumable](consumab
 
 **Project Goal:** 180
 
-**Effect:** When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh [adjacent](../combat/adjacent.md) to you. The wall can't be created to fill any square occupied by a creature with [stability](../character/stability.md) 1 or higher. Each other creature in the wall when it is created is pushed to the nearest unoccupied space.
+**Effect:** When you release the larva as a maneuver, it feeds on psychic energy to grow exponentially, creating a 10 wall of larval flesh [adjacent](../combat/adjacent.md) to you. The wall can't be created to fill any square occupied by a creature with [stability](../character/stability.md) 1 or higher. Each other creature in the wall when it is created is [pushed](../../movement/forced-movement.md) to the nearest unoccupied space.
 
 At the start of each of your [turns](../combat/turn.md), each creature [adjacent](../combat/adjacent.md) to the wall takes psychic damage equal to three times their [Intuition](../character/intuition.md) score, and you can add 1 square to the wall for each creature who takes this damage. If no creature takes damage at the start of your [turn](../combat/turn.md), the larva dies and the wall disappears.
 

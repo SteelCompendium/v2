@@ -3,7 +3,7 @@ action_type: Maneuver
 class: troubadour
 cost: 7 Drama
 distance: 4 [burst](../../../../rule/combat/burst.md)
-effect: Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
+effect: Instead of [sliding](../../../../movement/forced-movement.md) a target, you can swap their location with another target as long as each can fit into the other's space. You can't [slide](../../../../movement/forced-movement.md) targets into other creatures or objects using this ability.
 flavor: No, this isn't right. That foe was over there!
 keywords:
     - Area
@@ -13,9 +13,9 @@ name: Extensive Rewrites
 power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-3/extensive-rewrites
 target: Each enemy in the area
-tier1: Slide 3; P < WEAK, this slide ignores the target's [stability](../../../../rule/character/stability.md)
-tier2: Slide 5; P < AVERAGE, this slide ignores the target's [stability](../../../../rule/character/stability.md)
-tier3: Slide 7; P < STRONG, this slide ignores the target's [stability](../../../../rule/character/stability.md)
+tier1: '[Slide](../../../../movement/forced-movement.md) 3; P < WEAK, this [slide](../../../../movement/forced-movement.md) ignores the target''s [stability](../../../../rule/character/stability.md)'
+tier2: '[Slide](../../../../movement/forced-movement.md) 5; P < AVERAGE, this [slide](../../../../movement/forced-movement.md) ignores the target''s [stability](../../../../rule/character/stability.md)'
+tier3: '[Slide](../../../../movement/forced-movement.md) 7; P < STRONG, this [slide](../../../../movement/forced-movement.md) ignores the target''s [stability](../../../../rule/character/stability.md)'
 type: ability
 ---
 
@@ -41,13 +41,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 3; P &lt; WEAK, this slide ignores the target&#39;s <a href="../../../../../rule/character/stability/">stability</a></span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 5; P &lt; AVERAGE, this slide ignores the target&#39;s <a href="../../../../../rule/character/stability/">stability</a></span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 7; P &lt; STRONG, this slide ignores the target&#39;s <a href="../../../../../rule/character/stability/">stability</a></span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../../../../movement/forced-movement/">Slide</a> 3; P &lt; WEAK, this <a href="../../../../../movement/forced-movement/">slide</a> ignores the target&#39;s <a href="../../../../../rule/character/stability/">stability</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../../../../movement/forced-movement/">Slide</a> 5; P &lt; AVERAGE, this <a href="../../../../../movement/forced-movement/">slide</a> ignores the target&#39;s <a href="../../../../../rule/character/stability/">stability</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../../../movement/forced-movement/">Slide</a> 7; P &lt; STRONG, this <a href="../../../../../movement/forced-movement/">slide</a> ignores the target&#39;s <a href="../../../../../rule/character/stability/">stability</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Instead of sliding a target, you can swap their location with another target as long as each can fit into the other&#39;s space. You can&#39;t slide targets into other creatures or objects using this ability.</p></div>
+<div class="sc-ability__section-body"><p>Instead of <a href="../../../../../movement/forced-movement/">sliding</a> a target, you can swap their location with another target as long as each can fit into the other&#39;s space. You can&#39;t <a href="../../../../../movement/forced-movement/">slide</a> targets into other creatures or objects using this ability.</p></div>
 </div>
 </article>

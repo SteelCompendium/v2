@@ -2,7 +2,7 @@
 action_type: Main action
 class: "null"
 distance: 1 [burst](../../../../rule/combat/burst.md)
-effect: You can slide one [adjacent](../../../../rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score.
+effect: You can [slide](../../../../movement/forced-movement.md) one [adjacent](../../../../rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../../../rule/character/intuition.md) score.
 flavor: You strike everywhere at once, tricking an enemy into moving out of position.
 keywords:
     - Area
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can slide one <a href="../../../../../rule/combat/adjacent/">adjacent</a> enemy up to a number of squares equal to your <a href="../../../../../rule/character/intuition/">Intuition</a> score.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/forced-movement/">slide</a> one <a href="../../../../../rule/combat/adjacent/">adjacent</a> enemy up to a number of squares equal to your <a href="../../../../../rule/character/intuition/">Intuition</a> score.</p></div>
 </div>
 </article>

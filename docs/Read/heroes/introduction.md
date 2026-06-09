@@ -345,7 +345,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Kit](kits.md):** A fighting style that comes with equipment to match. Kits are available to most heroes who wield weapons and wear armor.
 
-**[Knockback](../../Browse/feature/common/maneuvers/knockback.md) Maneuver:** A maneuver that allows a creature to push away an [adjacent](../../Browse/rule/combat/adjacent.md) creature.
+**[Knockback](../../Browse/feature/common/maneuvers/knockback.md) Maneuver:** A maneuver that allows a creature to [push](../../Browse/movement/forced-movement.md) away an [adjacent](../../Browse/rule/combat/adjacent.md) creature.
 
 **[Level](../../Browse/rule/general/echelon.md):** A measure of a hero's, creature's, or effect's overall power. The higher the level, the more powerful the hero, creature, or effect. Level 1 is the lowest level in *Draw Steel*, and level 10 is the highest.
 

@@ -15,9 +15,9 @@ name: Primordial Vortex
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/primordial-vortex
 target: Each enemy in the area
-tier1: 3 damage; vertical pull 3
-tier2: 5 damage; vertical pull 5
-tier3: 8 damage; vertical pull 7
+tier1: 3 damage; vertical [pull](../../../../movement/forced-movement.md) 3
+tier2: 5 damage; vertical [pull](../../../../movement/forced-movement.md) 5
+tier3: 8 damage; vertical [pull](../../../../movement/forced-movement.md) 7
 type: ability
 ---
 
@@ -43,9 +43,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; vertical pull 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; vertical pull 5</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 damage; vertical pull 7</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage; vertical <a href="../../../../../movement/forced-movement/">pull</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; vertical <a href="../../../../../movement/forced-movement/">pull</a> 5</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 damage; vertical <a href="../../../../../movement/forced-movement/">pull</a> 7</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

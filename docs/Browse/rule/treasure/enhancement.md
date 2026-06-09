@@ -42,7 +42,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Swift:** You gain a +1 [bonus](../dice/bonuses-and-penalties.md) to [speed](../character/speed.md).
 
-**Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an [adjacent](../combat/adjacent.md) creature deals damage to you before the end of your next [turn](../combat/turn.md), they take lightning damage equal to your highest [characteristic](../character/characteristic.md) score and you can push them 1 square.
+**Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an [adjacent](../combat/adjacent.md) creature deals damage to you before the end of your next [turn](../combat/turn.md), they take lightning damage equal to your highest [characteristic](../character/characteristic.md) score and you can [push](../../movement/forced-movement.md) them 1 square.
 
 ## 1st-Level Armor Enhancements Table
 
@@ -79,9 +79,9 @@ You can use an absorbed ability as if you knew it, making [power rolls](../dice/
 
 **[Power Roll](../dice/power-roll.md) + Your Highest [Characteristic](../character/characteristic.md) Score:**
 
-- **≤11:** 8 damage; push 3
-- **12-16:** 12 damage; push 4
-- **17+:** 15 damage; push 5
+- **≤11:** 8 damage; [push](../../movement/forced-movement.md) 3
+- **12-16:** 12 damage; [push](../../movement/forced-movement.md) 4
+- **17+:** 15 damage; [push](../../movement/forced-movement.md) 5
 
 **Levitating:** On your [turn](../combat/turn.md), you can treat up to 5 consecutive squares of movement as [flying](../../movement/fly.md) movement. If you are still in midair at the end of your [turn](../combat/turn.md), you [fall prone](../../condition/prone.md).
 
@@ -97,7 +97,7 @@ You can use an absorbed ability as if you knew it, making [power rolls](../dice/
 
 **Shattering:** Whenever an enemy scores a [critical hit](../combat/critical-hit.md) against you, they take 10 sonic damage.
 
-**Tempest II:** When you use the armor's Tempest I [enhancement](enhancement.md), the affected creature takes 8 lightning damage and you push them up to 3 squares.
+**Tempest II:** When you use the armor's Tempest I [enhancement](enhancement.md), the affected creature takes 8 lightning damage and you [push](../../movement/forced-movement.md) them up to 3 squares.
 
 ## 5th-Level Armor Enhancements Table
 

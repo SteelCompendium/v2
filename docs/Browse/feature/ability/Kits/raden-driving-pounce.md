@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1'
-effect: You can [shift](../../../movement/shifting.md) up to the same number of squares that you pushed the target.
+effect: You can [shift](../../../movement/shifting.md) up to the same number of squares that you [pushed](../../../movement/forced-movement.md) the target.
 flavor: Your enemies try in vain to fall back from your pouncing attack.
 keywords:
     - '[Melee](../../../rule/combat/melee.md)'
@@ -14,8 +14,8 @@ scc: mcdm.heroes.v1/feature.ability.raden/driving-pounce
 subtype: signature
 target: One creature or object
 tier1: 4 + A damage
-tier2: 7 + A damage; push 1
-tier3: 9 + A damage; push 2
+tier2: 7 + A damage; [push](../../../movement/forced-movement.md) 1
+tier3: 9 + A damage; [push](../../../movement/forced-movement.md) 2
 type: ability
 ---
 
@@ -42,12 +42,12 @@ type: ability
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + A damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + A damage; push 2</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + A damage; <a href="../../../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + A damage; <a href="../../../../movement/forced-movement/">push</a> 2</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> up to the same number of squares that you pushed the target.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> up to the same number of squares that you <a href="../../../../movement/forced-movement/">pushed</a> the target.</p></div>
 </div>
 </article>

@@ -13,9 +13,9 @@ name: Ice Pillars
 power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-6/ice-pillars
 target: Three creatures or objects
-tier1: Vertical slide 6
-tier2: Vertical slide 8
-tier3: Vertical slide 10
+tier1: Vertical [slide](../../../../movement/forced-movement.md) 6
+tier2: Vertical [slide](../../../../movement/forced-movement.md) 8
+tier3: Vertical [slide](../../../../movement/forced-movement.md) 10
 type: ability
 ---
 
@@ -41,9 +41,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Vertical slide 6</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Vertical slide 8</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Vertical slide 10</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Vertical <a href="../../../../../movement/forced-movement/">slide</a> 6</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Vertical <a href="../../../../../movement/forced-movement/">slide</a> 8</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Vertical <a href="../../../../../movement/forced-movement/">slide</a> 10</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

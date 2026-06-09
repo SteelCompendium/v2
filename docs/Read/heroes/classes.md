@@ -233,9 +233,9 @@ If an ability requires a [power roll](../../Browse/rule/dice/power-roll.md), it 
 
 Unlike [power rolls](../../Browse/rule/dice/power-roll.md) made as [tests](../../Browse/rule/test/test.md) (see Chapter 9), ability rolls always do something useful. You're rolling to determine the impact of the ability, including how much damage it deals and any other effects it imposes based on the [tier outcome](../../Browse/rule/dice/tier-outcome.md) of the [power roll](../../Browse/rule/dice/power-roll.md). For instance, the [fury's](../../Browse/class/fury.md) [Brutal Slam](../../Browse/feature/ability/fury/level-1/brutal-slam.md) ability is a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) that targets one [adjacent](../../Browse/rule/combat/adjacent.md) creature (within 1 square), and which has the following effects:
 
-- **Tier 1 (11 or lower):** The ability deals damage equal to 3 + your [Might](../../Browse/rule/character/might.md) score, then pushes the target back 1 square.
-- **Tier 2 (12-16):** The ability deals damage equal to 6 + your [Might](../../Browse/rule/character/might.md) score, then pushes the target back 2 squares.
-- **Tier 3 (17 or higher):** The ability deals damage equal to 9 + your [Might](../../Browse/rule/character/might.md) score, then pushes the target back 4 squares.
+- **Tier 1 (11 or lower):** The ability deals damage equal to 3 + your [Might](../../Browse/rule/character/might.md) score, then [pushes](../../Browse/movement/forced-movement.md) the target back 1 square.
+- **Tier 2 (12-16):** The ability deals damage equal to 6 + your [Might](../../Browse/rule/character/might.md) score, then [pushes](../../Browse/movement/forced-movement.md) the target back 2 squares.
+- **Tier 3 (17 or higher):** The ability deals damage equal to 9 + your [Might](../../Browse/rule/character/might.md) score, then [pushes](../../Browse/movement/forced-movement.md) the target back 4 squares.
 
 ###### Characteristics and Damage
 
@@ -267,9 +267,9 @@ To keep things moving quickly and to make abilities easy to read during play, da
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** 3 + M damage; push 1
-- **12-16:** 6 + M damage; push 2
-- **17+:** 9 + M damage; push 4
+- **≤11:** 3 + M damage; [push](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 6 + M damage; [push](../../Browse/movement/forced-movement.md) 2
+- **17+:** 9 + M damage; [push](../../Browse/movement/forced-movement.md) 4
 
 Unless otherwise indicated, any effects that are determined by a [power roll](../../Browse/rule/dice/power-roll.md)'s [tier outcome](../../Browse/rule/dice/tier-outcome.md) occur after the [power roll](../../Browse/rule/dice/power-roll.md)'s damage has been dealt to all targets. If an [ability roll](../../Browse/rule/dice/ability-roll.md) deals damage to multiple targets but its effect targets the creature using the ability or the Director, such as [Muse of Fire](../../Browse/feature/ability/elementalist/level-8/muse-of-fire.md), then the effect only occurs once, not once per target. If different tiered outcomes affect multiple targets, the creature using the ability picks which tier of rolled effect applies to them or the Director. If an ability creates multiple effects, those effects resolve in the order in which they are presented.
 
@@ -617,7 +617,7 @@ The first time on a [turn](../../Browse/rule/combat/turn.md) that you use your [
 
 - **Exorcist:** You can [teleport](../../Browse/movement/teleport.md) up to a number of squares equal to twice your [Presence](../../Browse/rule/character/presence.md) score. This movement must take you closer to the judged creature. You do not need [line of effect](../../Browse/rule/combat/line-of-effect.md) to your destination.
 - **Oracle:** You can deal holy damage equal to twice your [Presence](../../Browse/rule/character/presence.md) score to the judged creature.
-- **Paragon:** You can vertical pull the judged creature up to a number of squares equal to twice your [Presence](../../Browse/rule/character/presence.md) score.
+- **Paragon:** You can vertical [pull](../../Browse/movement/forced-movement.md) the judged creature up to a number of squares equal to twice your [Presence](../../Browse/rule/character/presence.md) score.
 
 #### Kit {data-scc="mcdm.heroes.v1/feature.censor.level-1/kit"}
 
@@ -775,9 +775,9 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
-- **≤11:** 2 holy damage; push 1
-- **12-16:** 4 holy damage; push 2
-- **17+:** 6 holy damage; push 3
+- **≤11:** 2 holy damage; [push](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 4 holy damage; [push](../../Browse/movement/forced-movement.md) 2
+- **17+:** 6 holy damage; [push](../../Browse/movement/forced-movement.md) 3
 
 ###### Every Step... Death! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/every-step-death"}
 
@@ -826,7 +826,7 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 - **12-16:** 5 + M holy damage
 - **17+:** 8 + M holy damage
 
-**Effect:** Each enemy [adjacent](../../Browse/rule/combat/adjacent.md) to the target is pushed away from the target up to a number of squares equal to your [Presence](../../Browse/rule/character/presence.md) score.
+**Effect:** Each enemy [adjacent](../../Browse/rule/combat/adjacent.md) to the target is [pushed](../../Browse/movement/forced-movement.md) away from the target up to a number of squares equal to your [Presence](../../Browse/rule/character/presence.md) score.
 
 ##### Heroic Abilities
 
@@ -864,11 +864,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** 3 + M damage; push 1
-- **12-16:** 6 + M damage; push 3
-- **17+:** 9 + M damage; push 5
+- **≤11:** 3 + M damage; [push](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 6 + M damage; [push](../../Browse/movement/forced-movement.md) 3
+- **17+:** 9 + M damage; [push](../../Browse/movement/forced-movement.md) 5
 
-**Effect:** You can [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md) in a straight line toward the target after pushing them.
+**Effect:** You can [shift](../../Browse/movement/shifting.md) up to your [speed](../../Browse/rule/character/speed.md) in a straight line toward the target after [pushing](../../Browse/movement/forced-movement.md) them.
 
 ###### The Gods Punish and Defend {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/the-gods-punish-and-defend"}
 
@@ -938,7 +938,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](../../Browse/condition/frightened.md) of you (save ends)
 - **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](../../Browse/condition/frightened.md) of you (save ends)
 
-**Effect:** Each enemy [frightened](../../Browse/condition/frightened.md) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your [Presence](../../Browse/rule/character/presence.md) score.
+**Effect:** Each enemy [frightened](../../Browse/condition/frightened.md) this way is [pushed](../../Browse/movement/forced-movement.md) up to 2 squares away from the target and takes psychic damage equal to your [Presence](../../Browse/rule/character/presence.md) score.
 
 ###### Censored {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/censored"}
 
@@ -1402,9 +1402,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
-- **≤11:** 4 psychic damage; slide 3
-- **12-16:** 6 psychic damage; slide 5
-- **17+:** 8 psychic damage; slide 7
+- **≤11:** 4 psychic damage; [slide](../../Browse/movement/forced-movement.md) 3
+- **12-16:** 6 psychic damage; [slide](../../Browse/movement/forced-movement.md) 5
+- **17+:** 8 psychic damage; [slide](../../Browse/movement/forced-movement.md) 7
 
 ###### Pain of Your Own Making {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/pain-of-your-own-making"}
 
@@ -1434,9 +1434,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
-- **≤11:** Slide 3; I < WEAK, [dazed](../../Browse/condition/dazed.md) (save ends)
-- **12-16:** Slide 5; I < AVERAGE, [dazed](../../Browse/condition/dazed.md) (save ends)
-- **17+:** Slide 7; I < STRONG, [dazed](../../Browse/condition/dazed.md) (save ends)
+- **≤11:** [Slide](../../Browse/movement/forced-movement.md) 3; I < WEAK, [dazed](../../Browse/condition/dazed.md) (save ends)
+- **12-16:** [Slide](../../Browse/movement/forced-movement.md) 5; I < AVERAGE, [dazed](../../Browse/condition/dazed.md) (save ends)
+- **17+:** [Slide](../../Browse/movement/forced-movement.md) 7; I < STRONG, [dazed](../../Browse/condition/dazed.md) (save ends)
 
 ###### Edict of Peace {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/edict-of-peace"}
 
@@ -1975,7 +1975,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ###### Nature Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
-- **Prayer Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your [Intuition](../../Browse/rule/character/intuition.md) score. You can slide each creature up to a number of squares equal to your [Intuition](../../Browse/rule/character/intuition.md) score. The vines then fade away.
+- **Prayer Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your [Intuition](../../Browse/rule/character/intuition.md) score. You can [slide](../../Browse/movement/forced-movement.md) each creature up to a number of squares equal to your [Intuition](../../Browse/rule/character/intuition.md) score. The vines then fade away.
 
 ###### Protection Domain Piety and Effect
 
@@ -1995,7 +1995,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ###### Trickery Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../../Browse/feature/common/maneuvers/aid-attack.md) or [Hide](../../Browse/skill/hide.md) maneuver.
-- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../Browse/class/conduit.md) level.
+- **Prayer Effect:** You [slide](../../Browse/movement/forced-movement.md) one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](../../Browse/class/conduit.md) level.
 
 ###### War Domain Piety and Effect
 
@@ -2290,9 +2290,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
-- **≤11:** 3 + I holy damage; vertical pull 2
-- **12-16:** 5 + I holy damage; vertical pull 3
-- **17+:** 8 + I holy damage; vertical pull 4
+- **≤11:** 3 + I holy damage; vertical [pull](../../Browse/movement/forced-movement.md) 2
+- **12-16:** 5 + I holy damage; vertical [pull](../../Browse/movement/forced-movement.md) 3
+- **17+:** 8 + I holy damage; vertical [pull](../../Browse/movement/forced-movement.md) 4
 
 ###### Lightfall {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/lightfall"}
 
@@ -2339,9 +2339,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
-- **≤11:** 3 + I holy damage; slide 1
-- **12-16:** 5 + I holy damage; slide 2
-- **17+:** 8 + I holy damage; slide 3
+- **≤11:** 3 + I holy damage; [slide](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 5 + I holy damage; [slide](../../Browse/movement/forced-movement.md) 2
+- **17+:** 8 + I holy damage; [slide](../../Browse/movement/forced-movement.md) 3
 
 ###### Warrior's Prayer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/warriors-prayer"}
 
@@ -2394,11 +2394,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
-- **≤11:** 2 sonic damage; push 1
-- **12-16:** 3 sonic damage; push 2
-- **17+:** 5 sonic damage; push 3
+- **≤11:** 2 sonic damage; [push](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 3 sonic damage; [push](../../Browse/movement/forced-movement.md) 2
+- **17+:** 5 sonic damage; [push](../../Browse/movement/forced-movement.md) 3
 
-**Effect:** You can push each willing ally in the area the same [distance](../../Browse/rule/combat/distance.md), ignoring [stability](../../Browse/rule/character/stability.md).
+**Effect:** You can [push](../../Browse/movement/forced-movement.md) each willing ally in the area the same [distance](../../Browse/rule/combat/distance.md), ignoring [stability](../../Browse/rule/character/stability.md).
 
 ###### Font of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/font-of-wrath"}
 
@@ -2669,9 +2669,9 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
-- **≤11:** 2 lightning damage; vertical slide 1
-- **12-16:** 5 lightning damage; vertical slide 2
-- **17+:** 7 lightning damage; vertical slide 3
+- **≤11:** 2 lightning damage; vertical [slide](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 5 lightning damage; vertical [slide](../../Browse/movement/forced-movement.md) 2
+- **17+:** 7 lightning damage; vertical [slide](../../Browse/movement/forced-movement.md) 3
 
 ###### Statue of Power {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/statue-of-power"}
 
@@ -2986,7 +2986,7 @@ Choose one of your domains. You gain a [heroic ability](../../Browse/rule/genera
 |------------------|---------------------------------:|
 | **📏 4 [aura](../../Browse/rule/combat/aura.md)**    | **🎯 Each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), at the end of each of your [turns](../../Browse/rule/combat/turn.md), you can slide each creature in the area up to a number of squares equal to your [Intuition](../../Browse/rule/character/intuition.md) score. This [forced movement](../../Browse/movement/forced-movement.md) ignores [stability](../../Browse/rule/character/stability.md) for your allies.
+**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), at the end of each of your [turns](../../Browse/rule/combat/turn.md), you can [slide](../../Browse/movement/forced-movement.md) each creature in the area up to a number of squares equal to your [Intuition](../../Browse/rule/character/intuition.md) score. This [forced movement](../../Browse/movement/forced-movement.md) ignores [stability](../../Browse/rule/character/stability.md) for your allies.
 
 ###### Blade of the Heavens {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/blade-of-the-heavens"}
 
@@ -3066,11 +3066,11 @@ Once on each subsequent [turn](../../Browse/rule/combat/turn.md), you can use a 
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
-- **≤11:** 3 sonic damage; push 3
-- **12-16:** 6 sonic damage; push 5
-- **17+:** 9 sonic damage; push 7
+- **≤11:** 3 sonic damage; [push](../../Browse/movement/forced-movement.md) 3
+- **12-16:** 6 sonic damage; [push](../../Browse/movement/forced-movement.md) 5
+- **17+:** 9 sonic damage; [push](../../Browse/movement/forced-movement.md) 7
 
-**Special:** You can choose to have this ability deal damage to and push objects, and to deal damage to buildings.
+**Special:** You can choose to have this ability deal damage to and [push](../../Browse/movement/forced-movement.md) objects, and to deal damage to buildings.
 
 ###### Lauded by God {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/lauded-by-god"}
 
@@ -3094,11 +3094,11 @@ Once on each subsequent [turn](../../Browse/rule/combat/turn.md), you can use a 
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
-- **≤11:** 6 lightning damage; push 1
-- **12-16:** 9 lightning damage; push 2
-- **17+:** 13 lightning damage; push 3
+- **≤11:** 6 lightning damage; [push](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 9 lightning damage; [push](../../Browse/movement/forced-movement.md) 2
+- **17+:** 13 lightning damage; [push](../../Browse/movement/forced-movement.md) 3
 
-**Effect:** The targets are [force moved](../../Browse/movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+**Effect:** The targets are [force moved](../../Browse/movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be [pushed](../../Browse/movement/forced-movement.md) into other targets in the same line.
 
 ###### Revitalizing Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/revitalizing-grace"}
 
@@ -3320,9 +3320,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
-- **≤11:** 9 + I holy damage; slide 3
-- **12-16:** 13 + I holy damage; slide 4
-- **17+:** 18 + I holy damage; slide 6
+- **≤11:** 9 + I holy damage; [slide](../../Browse/movement/forced-movement.md) 3
+- **12-16:** 13 + I holy damage; [slide](../../Browse/movement/forced-movement.md) 4
+- **17+:** 18 + I holy damage; [slide](../../Browse/movement/forced-movement.md) 6
 
 **Effect:** Each ally the target comes [adjacent](../../Browse/rule/combat/adjacent.md) to during the [forced movement](../../Browse/movement/forced-movement.md) can spend a [Recovery](../../Browse/rule/health/recoveries.md).
 
@@ -3898,11 +3898,11 @@ You weave a shield of all the elements around yourself, channeling their full pr
 
 ##### Ward of Nature's Affection {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-natures-affection"}
 
-The green energy writhing within your body allows you to produce powerful vines when you're in danger. Whenever a creature within a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score deals damage to you, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to slide that creature up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
+The green energy writhing within your body allows you to produce powerful vines when you're in danger. Whenever a creature within a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score deals damage to you, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to [slide](../../Browse/movement/forced-movement.md) that creature up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 ##### Ward of Surprising Reactivity {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/ward-of-surprising-reactivity"}
 
-You use the magic of fire to create a ward of explosive energy. Whenever an [adjacent](../../Browse/rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to push that creature up to a number of squares equal to twice your [Reason](../../Browse/rule/character/reason.md) score.
+You use the magic of fire to create a ward of explosive energy. Whenever an [adjacent](../../Browse/rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to [push](../../Browse/movement/forced-movement.md) that creature up to a number of squares equal to twice your [Reason](../../Browse/rule/character/reason.md) score.
 
 #### Elementalist Abilities {data-scc="mcdm.heroes.v1/feature.elementalist.level-1/elementalist-abilities"}
 
@@ -3976,7 +3976,7 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 - **12-16:** 5 + R damage
 - **17+:** 7 + R damage
 
-**Effect:** You slide one creature within 10 squares of the target up to 2 squares.
+**Effect:** You [slide](../../Browse/movement/forced-movement.md) one creature within 10 squares of the target up to 2 squares.
 
 ###### Meteoric Introduction {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/meteoric-introduction"}
 
@@ -3989,9 +3989,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
-- **≤11:** 3 + R damage; push 2
-- **12-16:** 5 + R damage; push 3
-- **17+:** 8 + R damage; push 4
+- **≤11:** 3 + R damage; [push](../../Browse/movement/forced-movement.md) 2
+- **12-16:** 5 + R damage; [push](../../Browse/movement/forced-movement.md) 3
+- **17+:** 8 + R damage; [push](../../Browse/movement/forced-movement.md) 4
 
 ###### Ray of Agonizing Self-Reflection {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-1/ray-of-agonizing-self-reflection"}
 
@@ -4036,9 +4036,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
-- **≤11:** 2 + R fire damage; push 2
-- **12-16:** 5 + R fire damage; push 3
-- **17+:** 7 + R fire damage; push 4
+- **≤11:** 2 + R fire damage; [push](../../Browse/movement/forced-movement.md) 2
+- **12-16:** 5 + R fire damage; [push](../../Browse/movement/forced-movement.md) 3
+- **17+:** 7 + R fire damage; [push](../../Browse/movement/forced-movement.md) 4
 
 ##### Heroic Abilities
 
@@ -4501,7 +4501,7 @@ At the end of each of your [turns](../../Browse/rule/combat/turn.md), each ally 
 
 ##### Quaking Earth {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/quaking-earth"}
 
-At the end of each of your [turns](../../Browse/rule/combat/turn.md), you can push each enemy in the area up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
+At the end of each of your [turns](../../Browse/rule/combat/turn.md), you can [push](../../Browse/movement/forced-movement.md) each enemy in the area up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 ##### Veiling Bed {data-scc="mcdm.heroes.v1/feature.elementalist.level-4/veiling-bed"}
 
@@ -4677,7 +4677,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 **Effect:** Until the start of your next [turn](../../Browse/rule/combat/turn.md), the target has the following benefits:
 
-- Their [size](../../Browse/rule/character/size.md) and [stability](../../Browse/rule/character/stability.md) increase by 2, with any [size](../../Browse/rule/character/size.md) 1 target becoming [size](../../Browse/rule/character/size.md) 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring [stability](../../Browse/rule/character/stability.md). If the target doesn't have space to grow, they grow as much as they can and become [restrained](../../Browse/condition/restrained.md) until the effect ends.
+- Their [size](../../Browse/rule/character/size.md) and [stability](../../Browse/rule/character/stability.md) increase by 2, with any [size](../../Browse/rule/character/size.md) 1 target becoming [size](../../Browse/rule/character/size.md) 3. Each creature who is within the target's new space [slides](../../Browse/movement/forced-movement.md) to the nearest unoccupied space, ignoring [stability](../../Browse/rule/character/stability.md). If the target doesn't have space to grow, they grow as much as they can and become [restrained](../../Browse/condition/restrained.md) until the effect ends.
 - They have fire immunity 10.
 - Their [strikes](../../Browse/rule/combat/strike.md) deal extra fire damage equal to twice your [Reason](../../Browse/rule/character/reason.md) score.
 - When the target force moves a creature or object, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).
@@ -4760,7 +4760,7 @@ Your [elemental specialization](../../Browse/feature/elementalist/level-1/elemen
 
 ##### Black Hole Star {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/black-hole-star"}
 
-You warp gravity around your heavenly body and can pull even the sturdiest titans toward your core. At the end of each of your [turns](../../Browse/rule/combat/turn.md), you target one creature or object within [distance](../../Browse/rule/combat/distance.md) of your [Hurl Element](../../Browse/feature/ability/elementalist/level-1/hurl-element.md) ability and vertical pull that target up to 5 squares. If their [stability](../../Browse/rule/character/stability.md) reduces this [forced movement](../../Browse/movement/forced-movement.md), they are pulled a minimum of 2 squares. This [forced movement](../../Browse/movement/forced-movement.md) ignores [stability](../../Browse/rule/character/stability.md) for your allies.
+You warp gravity around your heavenly body and can [pull](../../Browse/movement/forced-movement.md) even the sturdiest titans toward your core. At the end of each of your [turns](../../Browse/rule/combat/turn.md), you target one creature or object within [distance](../../Browse/rule/combat/distance.md) of your [Hurl Element](../../Browse/feature/ability/elementalist/level-1/hurl-element.md) ability and vertical [pull](../../Browse/movement/forced-movement.md) that target up to 5 squares. If their [stability](../../Browse/rule/character/stability.md) reduces this [forced movement](../../Browse/movement/forced-movement.md), they are [pulled](../../Browse/movement/forced-movement.md) a minimum of 2 squares. This [forced movement](../../Browse/movement/forced-movement.md) ignores [stability](../../Browse/rule/character/stability.md) for your allies.
 
 Additionally, your [Mantle of Essence](../../Browse/feature/elementalist/level-4/mantle-of-essence.md) improves. While in the area of the [aura](../../Browse/rule/combat/aura.md), enemies and objects have their [stability](../../Browse/rule/character/stability.md) reduced by an amount equal to your level.
 
@@ -4829,9 +4829,9 @@ The source starts an encounter at full [Stamina](../../Browse/rule/health/stamin
 >>
 >> **[Power Roll](../../Browse/rule/dice/power-roll.md) + 3:**
 >>
->> - **≤11:** 5 damage; push 3
->> - **12-16:** 9 damage; push 4
->> - **17+:** 12 damage; push 5
+>> - **≤11:** 5 damage; [push](../../Browse/movement/forced-movement.md) 3
+>> - **12-16:** 9 damage; [push](../../Browse/movement/forced-movement.md) 4
+>> - **17+:** 12 damage; [push](../../Browse/movement/forced-movement.md) 5
 
 #### 11-Essence Ability {data-scc="mcdm.heroes.v1/feature.elementalist.level-8/11-essence-ability"}
 
@@ -4876,7 +4876,7 @@ Each enemy who ends their [turn](../../Browse/rule/combat/turn.md) within 3 squa
 |-------------------------------|----------------:|
 | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**              |  **🎯 Special** |
 
-**Effect:** You create a [size](../../Browse/rule/character/size.md) 1L vortex that lasts until the end of the encounter. At the start of each [combat round](../../Browse/rule/combat/combat-round.md) while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../../Browse/condition/prone.md). At the end of the round, if a [winded](../../Browse/rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
+**Effect:** You create a [size](../../Browse/rule/character/size.md) 1L vortex that lasts until the end of the encounter. At the start of each [combat round](../../Browse/rule/combat/combat-round.md) while the vortex is unoccupied, the vortex vertical [pulls](../../Browse/movement/forced-movement.md) 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is [knocked prone](../../Browse/condition/prone.md). At the end of the round, if a [winded](../../Browse/rule/health/winded.md) enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.
 
 ##### World Torn Asunder {data-scc="mcdm.heroes.v1/feature.ability.elementalist.level-8/world-torn-asunder"}
 
@@ -5126,9 +5126,9 @@ Some [Growing Ferocity](../../Browse/feature/fury/boren/growing-ferocity.md) ben
 | Ferocity        | Benefit                                                                                                                                                                                                                        |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Might](../../Browse/rule/character/might.md) score.                                                                                                                 |
-| 4               | The first time you push a creature on a [turn](../../Browse/rule/combat/turn.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                                                                                                |
+| 4               | The first time you [push](../../Browse/movement/forced-movement.md) a creature on a [turn](../../Browse/rule/combat/turn.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                                                                                                |
 | 6               | You gain an [edge](../../Browse/rule/dice/edge.md) on [Might](../../Browse/rule/character/might.md) [tests](../../Browse/rule/test/test.md) and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time you push a creature on a [turn](../../Browse/rule/combat/turn.md), you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                                                                                                                               |
+| 8 (4th level)   | The first time you [push](../../Browse/movement/forced-movement.md) a creature on a [turn](../../Browse/rule/combat/turn.md), you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                                                                                                                               |
 | 10 (7th level)  | You have a double [edge](../../Browse/rule/dice/edge.md) on [Might](../../Browse/rule/character/might.md) [tests](../../Browse/rule/test/test.md) and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
 | 12 (10th level) | Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, whenever you make a [power roll](../../Browse/rule/dice/power-roll.md) that imposes [forced movement](../../Browse/movement/forced-movement.md) on a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Might](../../Browse/rule/character/might.md) score. |
 
@@ -5137,9 +5137,9 @@ Some [Growing Ferocity](../../Browse/feature/fury/boren/growing-ferocity.md) ben
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Agility](../../Browse/rule/character/agility.md) score.                                                                                                                 |
-| 4               | The first time you slide a creature on a [turn](../../Browse/rule/combat/turn.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                                                                                                 |
+| 4               | The first time you [slide](../../Browse/movement/forced-movement.md) a creature on a [turn](../../Browse/rule/combat/turn.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                                                                                                 |
 | 6               | You gain an [edge](../../Browse/rule/dice/edge.md) on [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md) and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time you slide a creature on a [turn](../../Browse/rule/combat/turn.md), you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                                                                                                                                |
+| 8 (4th level)   | The first time you [slide](../../Browse/movement/forced-movement.md) a creature on a [turn](../../Browse/rule/combat/turn.md), you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                                                                                                                                |
 | 10 (7th level)  | You have a double [edge](../../Browse/rule/dice/edge.md) on [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md) and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
 | 12 (10th level) | Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, whenever you make a [power roll](../../Browse/rule/dice/power-roll.md) that imposes [forced movement](../../Browse/movement/forced-movement.md) on a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Agility](../../Browse/rule/character/agility.md) score. |
 
@@ -5165,13 +5165,13 @@ You can use and gain the benefits of a kit. See Chapter 6: [Kits](kits.md) for m
 
 ##### Primordial Cunning {data-scc="mcdm.heroes.v1/feature.fury.level-1/primordial-cunning"}
 
-You are never [surprised](../../Browse/rule/combat/surprised.md). Additionally, whenever you would push a target with [forced movement](../../Browse/movement/forced-movement.md), you can slide them instead.
+You are never [surprised](../../Browse/rule/combat/surprised.md). Additionally, whenever you would [push](../../Browse/movement/forced-movement.md) a target with [forced movement](../../Browse/movement/forced-movement.md), you can [slide](../../Browse/movement/forced-movement.md) them instead.
 
 As your ferocity grows, you gain benefits as noted on the Reaver [Growing Ferocity](../../Browse/feature/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
 ##### Primordial Strength {data-scc="mcdm.heroes.v1/feature.fury.level-1/primordial-strength"}
 
-Whenever you damage an object with a weapon [strike](../../Browse/rule/combat/strike.md), the [strike](../../Browse/rule/combat/strike.md) deals extra damage equal to your [Might](../../Browse/rule/character/might.md) score. Additionally, whenever you push another creature into an object, the creature takes extra damage equal to your [Might](../../Browse/rule/character/might.md) score.
+Whenever you damage an object with a weapon [strike](../../Browse/rule/combat/strike.md), the [strike](../../Browse/rule/combat/strike.md) deals extra damage equal to your [Might](../../Browse/rule/character/might.md) score. Additionally, whenever you [push](../../Browse/movement/forced-movement.md) another creature into an object, the creature takes extra damage equal to your [Might](../../Browse/rule/character/might.md) score.
 
 As your ferocity grows, you gain benefits as noted on the Berserker [Growing Ferocity](../../Browse/feature/fury/boren/growing-ferocity.md) table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -5217,7 +5217,7 @@ Your [primordial aspect](../../Browse/feature/fury/level-1/primordial-aspect.md)
 
 **Trigger:** The target would be [force moved](../../Browse/movement/forced-movement.md).
 
-**Effect:** You can select a new target of the same [size](../../Browse/rule/character/size.md) or smaller within [distance](../../Browse/rule/combat/distance.md) to be force moved instead. You become the source of the [forced movement](../../Browse/movement/forced-movement.md), determine the new target's destination, and can push the target instead of using the original [forced movement](../../Browse/movement/forced-movement.md) type. Additionally, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Might](../../Browse/rule/character/might.md) score.
+**Effect:** You can select a new target of the same [size](../../Browse/rule/character/size.md) or smaller within [distance](../../Browse/rule/combat/distance.md) to be force moved instead. You become the source of the [forced movement](../../Browse/movement/forced-movement.md), determine the new target's destination, and can [push](../../Browse/movement/forced-movement.md) the target instead of using the original [forced movement](../../Browse/movement/forced-movement.md) type. Additionally, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Might](../../Browse/rule/character/might.md) score.
 
 **Spend 1 Ferocity:** The [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to twice your [Might](../../Browse/rule/character/might.md) score instead.
 
@@ -5259,9 +5259,9 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** 3 + M damage; push 1
-- **12-16:** 6 + M damage; push 2
-- **17+:** 9 + M damage; push 4
+- **≤11:** 3 + M damage; [push](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 6 + M damage; [push](../../Browse/movement/forced-movement.md) 2
+- **17+:** 9 + M damage; [push](../../Browse/movement/forced-movement.md) 4
 
 ###### Hit and Run {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/hit-and-run"}
 
@@ -5332,8 +5332,8 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
 - **≤11:** 5 damage
-- **12-16:** 8 damage; push 1
-- **17+:** 11 damage; push 3
+- **12-16:** 8 damage; [push](../../Browse/movement/forced-movement.md) 1
+- **17+:** 11 damage; [push](../../Browse/movement/forced-movement.md) 3
 
 ###### Out of the Way! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/out-of-the-way"}
 
@@ -5346,11 +5346,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** 3 + M damage; slide 2
-- **12-16:** 5 + M damage; slide 3
-- **17+:** 8 + M damage; slide 5
+- **≤11:** 3 + M damage; [slide](../../Browse/movement/forced-movement.md) 2
+- **12-16:** 5 + M damage; [slide](../../Browse/movement/forced-movement.md) 3
+- **17+:** 8 + M damage; [slide](../../Browse/movement/forced-movement.md) 5
 
-**Effect:** When you slide the target, you can move into any square they leave. If you take damage from an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md) by moving this way, the target takes the same damage.
+**Effect:** When you [slide](../../Browse/movement/forced-movement.md) the target, you can move into any square they leave. If you take damage from an [opportunity attack](../../Browse/rule/combat/opportunity-attack.md) by moving this way, the target takes the same damage.
 
 ###### Tide of Death {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/tide-of-death"}
 
@@ -5431,11 +5431,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** 6 damage; push 2
-- **12-16:** 9 damage; push 4
-- **17+:** 13 damage; push 6
+- **≤11:** 6 damage; [push](../../Browse/movement/forced-movement.md) 2
+- **12-16:** 9 damage; [push](../../Browse/movement/forced-movement.md) 4
+- **17+:** 13 damage; [push](../../Browse/movement/forced-movement.md) 6
 
-**Effect:** The targets are [force moved](../../Browse/movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+**Effect:** The targets are [force moved](../../Browse/movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be [pushed](../../Browse/movement/forced-movement.md) into other targets in the same line.
 
 ###### To the Uttermost End {data-scc="mcdm.heroes.v1/feature.ability.fury.level-1/to-the-uttermost-end"}
 
@@ -5503,7 +5503,7 @@ Choose one of the following abilities.
 |-------------------|------------------------:|
 | **📏 [Melee](../../Browse/rule/combat/melee.md) 1**    | **🎯 One willing ally** |
 
-**Effect:** You vertically push the target up to 4 squares. This [forced movement](../../Browse/movement/forced-movement.md) ignores the target's [stability](../../Browse/rule/character/stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) that deals extra damage equal to your [Might](../../Browse/rule/character/might.md) score.
+**Effect:** You vertically [push](../../Browse/movement/forced-movement.md) the target up to 4 squares. This [forced movement](../../Browse/movement/forced-movement.md) ignores the target's [stability](../../Browse/rule/character/stability.md), and the target takes no damage from colliding with creatures or objects. At the end of this movement, the target can make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) that deals extra damage equal to your [Might](../../Browse/rule/character/might.md) score.
 
 ###### Wrecking Ball {data-scc="mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball"}
 
@@ -5520,9 +5520,9 @@ Additionally, you make one [power roll](../../Browse/rule/dice/power-roll.md) th
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** Push 1
-- **12-16:** Push 2
-- **17+:** Push 3
+- **≤11:** [Push](../../Browse/movement/forced-movement.md) 1
+- **12-16:** [Push](../../Browse/movement/forced-movement.md) 2
+- **17+:** [Push](../../Browse/movement/forced-movement.md) 3
 
 ##### 2nd-Level Reaver Ability
 
@@ -5592,9 +5592,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** 2 damage; push 1; M < WEAK, [dazed](../../Browse/condition/dazed.md) (save ends)
-- **12-16:** 5 damage; push 2; M < AVERAGE, [dazed](../../Browse/condition/dazed.md) (save ends)
-- **17+:** 7 damage; push 3; M < STRONG, [dazed](../../Browse/condition/dazed.md) (save ends)
+- **≤11:** 2 damage; [push](../../Browse/movement/forced-movement.md) 1; M < WEAK, [dazed](../../Browse/condition/dazed.md) (save ends)
+- **12-16:** 5 damage; [push](../../Browse/movement/forced-movement.md) 2; M < AVERAGE, [dazed](../../Browse/condition/dazed.md) (save ends)
+- **17+:** 7 damage; [push](../../Browse/movement/forced-movement.md) 3; M < STRONG, [dazed](../../Browse/condition/dazed.md) (save ends)
 
 **Effect:** This ability deals your primordial [damage type](../../Browse/rule/damage/damage-type.md) (see [Stormwight Kits](../../Browse/feature/fury/stormwight-kits/kit-features.md)).
 
@@ -5789,11 +5789,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** 9 damage; push 3
-- **12-16:** 14 damage; push 5
-- **17+:** 19 damage; push 7
+- **≤11:** 9 damage; [push](../../Browse/movement/forced-movement.md) 3
+- **12-16:** 14 damage; [push](../../Browse/movement/forced-movement.md) 5
+- **17+:** 19 damage; [push](../../Browse/movement/forced-movement.md) 7
 
-**Effect:** When a target would end this [forced movement](../../Browse/movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are pushed the remaining [distance](../../Browse/rule/combat/distance.md) away from the creature or object in the direction they came from. As long as [forced movement](../../Browse/movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
+**Effect:** When a target would end this [forced movement](../../Browse/movement/forced-movement.md) by colliding with a creature or object, they take damage as usual, then are [pushed](../../Browse/movement/forced-movement.md) the remaining [distance](../../Browse/rule/combat/distance.md) away from the creature or object in the direction they came from. As long as [forced movement](../../Browse/movement/forced-movement.md) remains, this effect continues if the target collides with another creature or object.
 
 ##### To Stone! {data-scc="mcdm.heroes.v1/feature.ability.fury.level-5/to-stone"}
 
@@ -5853,9 +5853,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** 4 damage; push 1
-- **12-16:** 7 damage; push 2
-- **17+:** 11 damage; push 3
+- **≤11:** 4 damage; [push](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 7 damage; [push](../../Browse/movement/forced-movement.md) 2
+- **17+:** 11 damage; [push](../../Browse/movement/forced-movement.md) 3
 
 ###### Force of Storms {data-scc="mcdm.heroes.v1/feature.ability.fury.level-6/force-of-storms"}
 
@@ -5868,11 +5868,11 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** 7 + M damage; push 3
-- **12-16:** 11 + M damage; push 5
-- **17+:** 16 + M damage; push 7
+- **≤11:** 7 + M damage; [push](../../Browse/movement/forced-movement.md) 3
+- **12-16:** 11 + M damage; [push](../../Browse/movement/forced-movement.md) 5
+- **17+:** 16 + M damage; [push](../../Browse/movement/forced-movement.md) 7
 
-**Effect:** When the target ends this [forced movement](../../Browse/movement/forced-movement.md), each creature within 2 squares of the target is pushed 3 squares.
+**Effect:** When the target ends this [forced movement](../../Browse/movement/forced-movement.md), each creature within 2 squares of the target is [pushed](../../Browse/movement/forced-movement.md) 3 squares.
 
 ##### 6th-Level Reaver Abilities
 
@@ -6089,9 +6089,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** 7 damage; push 3
-- **12-16:** 10 damage; push 5
-- **17+:** 15 damage; push 7
+- **≤11:** 7 damage; [push](../../Browse/movement/forced-movement.md) 3
+- **12-16:** 10 damage; [push](../../Browse/movement/forced-movement.md) 5
+- **17+:** 15 damage; [push](../../Browse/movement/forced-movement.md) 7
 
 **Effect:** If this [forced movement](../../Browse/movement/forced-movement.md) causes a target to be hurled through an object, that target takes an extra 10 damage.
 
@@ -6106,9 +6106,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** 3 damage; vertical pull 3
-- **12-16:** 5 damage; vertical pull 5
-- **17+:** 8 damage; vertical pull 7
+- **≤11:** 3 damage; vertical [pull](../../Browse/movement/forced-movement.md) 3
+- **12-16:** 5 damage; vertical [pull](../../Browse/movement/forced-movement.md) 5
+- **17+:** 8 damage; vertical [pull](../../Browse/movement/forced-movement.md) 7
 
 **Effect:** If this [forced movement](../../Browse/movement/forced-movement.md) causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.
 
@@ -6283,7 +6283,7 @@ With this stormwight kit, you channel your [primordial ferocity](../../Browse/fe
 
 ##### Aspect Benefits {data-scc="mcdm.heroes.v1/feature.fury.boren/aspect-benefits"}
 
-Whenever you use [forced movement](../../Browse/movement/forced-movement.md) to push a creature, you can pull that creature instead. Whenever you pull a creature [adjacent](../../Browse/rule/combat/adjacent.md) to you and that creature has M < AVERAGE, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to make that creature [grabbed](../../Browse/condition/grabbed.md) by you.
+Whenever you use [forced movement](../../Browse/movement/forced-movement.md) to [push](../../Browse/movement/forced-movement.md) a creature, you can [pull](../../Browse/movement/forced-movement.md) that creature instead. Whenever you [pull](../../Browse/movement/forced-movement.md) a creature [adjacent](../../Browse/rule/combat/adjacent.md) to you and that creature has M < AVERAGE, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to make that creature [grabbed](../../Browse/condition/grabbed.md) by you.
 
 ##### Animal Form: Bear {data-scc="mcdm.heroes.v1/feature.fury.boren/animal-form-bear"}
 
@@ -6434,10 +6434,10 @@ Your primordial [damage type](../../Browse/rule/damage/damage-type.md) is corrup
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 4 + A damage
-- **12-16:** 7 + A damage; push 1
-- **17+:** 9 + A damage; push 2
+- **12-16:** 7 + A damage; [push](../../Browse/movement/forced-movement.md) 1
+- **17+:** 9 + A damage; [push](../../Browse/movement/forced-movement.md) 2
 
-**Effect:** You can [shift](../../Browse/movement/shifting.md) up to the same number of squares that you pushed the target.
+**Effect:** You can [shift](../../Browse/movement/shifting.md) up to the same number of squares that you [pushed](../../Browse/movement/forced-movement.md) the target.
 
 ##### Growing Ferocity {data-scc="mcdm.heroes.v1/feature.fury.raden/growing-ferocity"}
 
@@ -6506,9 +6506,9 @@ As your ferocity grows, you gain benefits as noted on the [Vuken](../../Browse/k
 | Ferocity        | Benefit                                                                                                                                                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2               | Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, you can target one additional creature.                                                                                                                                                 |
-| 4               | The first time on a [turn](../../Browse/rule/combat/turn.md) that you push a creature or knock a [creature prone](../../Browse/condition/prone.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                                                                   |
+| 4               | The first time on a [turn](../../Browse/rule/combat/turn.md) that you [push](../../Browse/movement/forced-movement.md) a creature or knock a [creature prone](../../Browse/condition/prone.md), you gain 1 [surge](../../Browse/rule/resource/surge.md).                                                                                                                                   |
 | 6               | You gain an [edge](../../Browse/rule/dice/edge.md) on [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md) and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                                    |
-| 8 (4th level)   | The first time on a [turn](../../Browse/rule/combat/turn.md) that you push a creature or knock a [creature prone](../../Browse/condition/prone.md), you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                                                                                                  |
+| 8 (4th level)   | The first time on a [turn](../../Browse/rule/combat/turn.md) that you [push](../../Browse/movement/forced-movement.md) a creature or knock a [creature prone](../../Browse/condition/prone.md), you gain 2 [surges](../../Browse/rule/resource/surge.md).                                                                                                                                  |
 | 10 (7th level)  | You have a double [edge](../../Browse/rule/dice/edge.md) on [Agility](../../Browse/rule/character/agility.md) [tests](../../Browse/rule/test/test.md) and the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver.                                                                                                                                                              |
 | 12 (10th level) | Whenever you use a [heroic ability](../../Browse/rule/general/heroic-ability.md), you gain 10 [temporary Stamina](../../Browse/rule/health/temporary-stamina.md). Additionally, whenever you make a [power roll](../../Browse/rule/dice/power-roll.md) that imposes [forced movement](../../Browse/movement/forced-movement.md) on a target, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) equal to your [Agility](../../Browse/rule/character/agility.md) score. |
 
@@ -6608,7 +6608,7 @@ You project a psionic field of order around your body, dampening the effects of 
 
 Once as a [free maneuver](../../Browse/rule/combat/free-maneuver.md) on each of your [turns](../../Browse/rule/combat/turn.md), you can spend 1 discipline and give your [Null Field](../../Browse/feature/null/level-1/null-field.md) one of the following additional effects until the start of your next [turn](../../Browse/rule/combat/turn.md):
 
-- Gravitic Disruption: The first time on a [turn](../../Browse/rule/combat/turn.md) that a target takes damage, you can slide them up to 2 squares.
+- Gravitic Disruption: The first time on a [turn](../../Browse/rule/combat/turn.md) that a target takes damage, you can [slide](../../Browse/movement/forced-movement.md) them up to 2 squares.
 - Inertial Anchor: Any target who starts their [turn](../../Browse/rule/combat/turn.md) in the area can't [shift](../../Browse/movement/shifting.md).
 - Synaptic Break: Whenever you or any ally uses an ability against a target that has a [potency](../../Browse/rule/character/potency.md) effect, the [potency](../../Browse/rule/character/potency.md) is increased by 1.
 
@@ -6712,7 +6712,7 @@ You gain a +1 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to [speed
 
 #### Psionic Martial Arts {data-scc="mcdm.heroes.v1/feature.null.level-1/psionic-martial-arts"}
 
-Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) or [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver, you use [Intuition](../../Browse/rule/character/intuition.md) instead of [Might](../../Browse/rule/character/might.md) for the [power roll](../../Browse/rule/dice/power-roll.md) and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, you can choose to slide the target instead of pushing them.
+Whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) or [Grab](../../Browse/feature/common/maneuvers/grab.md) maneuver, you use [Intuition](../../Browse/rule/character/intuition.md) instead of [Might](../../Browse/rule/character/might.md) for the [power roll](../../Browse/rule/dice/power-roll.md) and for determining if you can target creatures larger than you. Additionally, whenever you use the [Knockback](../../Browse/feature/common/maneuvers/knockback.md) maneuver, you can choose to [slide](../../Browse/movement/forced-movement.md) the target instead of [pushing](../../Browse/movement/forced-movement.md) them.
 
 #### Null Abilities {data-scc="mcdm.heroes.v1/feature.null.level-1/null-abilities"}
 
@@ -6737,7 +6737,7 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 - **12-16:** 4 damage
 - **17+:** 5 damage
 
-**Effect:** You can slide one [adjacent](../../Browse/rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
+**Effect:** You can [slide](../../Browse/movement/forced-movement.md) one [adjacent](../../Browse/rule/combat/adjacent.md) enemy up to a number of squares equal to your [Intuition](../../Browse/rule/character/intuition.md) score.
 
 ###### Faster Than the Eye {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/faster-than-the-eye"}
 
@@ -6800,8 +6800,8 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 4 + A damage; [taunted](../../Browse/condition/taunted.md) ([EoT](../../Browse/rule/combat/end-of-turn.md))
-- **12-16:** 5 + A damage; [taunted](../../Browse/condition/taunted.md) ([EoT](../../Browse/rule/combat/end-of-turn.md)), slide 1
-- **17+:** 6 + A damage; [taunted](../../Browse/condition/taunted.md) ([EoT](../../Browse/rule/combat/end-of-turn.md)), slide 2
+- **12-16:** 5 + A damage; [taunted](../../Browse/condition/taunted.md) ([EoT](../../Browse/rule/combat/end-of-turn.md)), [slide](../../Browse/movement/forced-movement.md) 1
+- **17+:** 6 + A damage; [taunted](../../Browse/condition/taunted.md) ([EoT](../../Browse/rule/combat/end-of-turn.md)), [slide](../../Browse/movement/forced-movement.md) 2
 
 ###### Magnetic Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/magnetic-strike"}
 
@@ -6814,9 +6814,9 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
-- **≤11:** 5 + A psychic damage; vertical pull 1
-- **12-16:** 8 + A psychic damage; vertical pull 2
-- **17+:** 11 + A psychic damage; vertical pull 3
+- **≤11:** 5 + A psychic damage; vertical [pull](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 8 + A psychic damage; vertical [pull](../../Browse/movement/forced-movement.md) 2
+- **17+:** 11 + A psychic damage; vertical [pull](../../Browse/movement/forced-movement.md) 3
 
 ###### Phase Inversion Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/phase-inversion-strike"}
 
@@ -6829,11 +6829,11 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
-- **≤11:** 4 + A damage; push 2
-- **12-16:** 6 + A damage; push 4
-- **17+:** 8 + A damage; push 6
+- **≤11:** 4 + A damage; [push](../../Browse/movement/forced-movement.md) 2
+- **12-16:** 6 + A damage; [push](../../Browse/movement/forced-movement.md) 4
+- **17+:** 8 + A damage; [push](../../Browse/movement/forced-movement.md) 6
 
-**Effect:** Before the push is resolved, you [teleport](../../Browse/movement/teleport.md) the target to a square [adjacent](../../Browse/rule/combat/adjacent.md) to you and opposite the one they started in. If the target can't be [teleport](../../Browse/movement/teleport.md)ed this way, you can't push them.
+**Effect:** Before the [push](../../Browse/movement/forced-movement.md) is resolved, you [teleport](../../Browse/movement/teleport.md) the target to a square [adjacent](../../Browse/rule/combat/adjacent.md) to you and opposite the one they started in. If the target can't be [teleport](../../Browse/movement/teleport.md)ed this way, you can't [push](../../Browse/movement/forced-movement.md) them.
 
 ###### Pressure Points {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/pressure-points"}
 
@@ -6950,11 +6950,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
-- **≤11:** Push 3
-- **12-16:** Push 5
-- **17+:** Push 7
+- **≤11:** [Push](../../Browse/movement/forced-movement.md) 3
+- **12-16:** [Push](../../Browse/movement/forced-movement.md) 5
+- **17+:** [Push](../../Browse/movement/forced-movement.md) 7
 
-**Effect:** An object you target must be your [size](../../Browse/rule/character/size.md) or smaller. You gain an [edge](../../Browse/rule/dice/edge.md) on this ability. Additionally, for each square you push the target, they take 1 psychic damage.
+**Effect:** An object you target must be your [size](../../Browse/rule/character/size.md) or smaller. You gain an [edge](../../Browse/rule/dice/edge.md) on this ability. Additionally, for each square you [push](../../Browse/movement/forced-movement.md) the target, they take 1 psychic damage.
 
 ###### Phase Strike {data-scc="mcdm.heroes.v1/feature.ability.null.level-1/phase-strike"}
 
@@ -7054,9 +7054,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
-- **≤11:** 8 + A damage; slide 1
-- **12-16:** 12 + A damage; slide 3
-- **17+:** 16 + A damage; slide 5
+- **≤11:** 8 + A damage; [slide](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 12 + A damage; [slide](../../Browse/movement/forced-movement.md) 3
+- **17+:** 16 + A damage; [slide](../../Browse/movement/forced-movement.md) 5
 
 ##### 2nd-Level Cryokinetic Ability
 
@@ -7103,9 +7103,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
-- **≤11:** 8 + A psychic damage; vertical pull 3
-- **12-16:** 12 + A psychic damage; vertical pull 5
-- **17+:** 16 + A psychic damage; vertical pull 7
+- **≤11:** 8 + A psychic damage; vertical [pull](../../Browse/movement/forced-movement.md) 3
+- **12-16:** 12 + A psychic damage; vertical [pull](../../Browse/movement/forced-movement.md) 5
+- **17+:** 16 + A psychic damage; vertical [pull](../../Browse/movement/forced-movement.md) 7
 
 ###### Kinetic Shield {data-scc="mcdm.heroes.v1/feature.ability.null.level-2/kinetic-shield"}
 
@@ -7369,9 +7369,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
-- **≤11:** Vertical slide 6
-- **12-16:** Vertical slide 8
-- **17+:** Vertical slide 10
+- **≤11:** Vertical [slide](../../Browse/movement/forced-movement.md) 6
+- **12-16:** Vertical [slide](../../Browse/movement/forced-movement.md) 8
+- **17+:** Vertical [slide](../../Browse/movement/forced-movement.md) 10
 
 **Effect:** The pillars vanish as soon as the effects of the [forced movement](../../Browse/movement/forced-movement.md) are resolved.
 
@@ -7384,7 +7384,7 @@ Choose one of the following abilities.
 |---------------------------|----------------:|
 | **📏 10 wall within 10**  |  **🎯 Special** |
 
-**Effect:** You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md). The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square [adjacent](../../Browse/rule/combat/adjacent.md) to the wall and has M < AVERAGE is [slowed](../../Browse/condition/slowed.md) (save ends). Each enemy who is [force moved](../../Browse/movement/forced-movement.md) into the wall and has M < AVERAGE is [restrained](../../Browse/condition/restrained.md) (save ends).
+**Effect:** You can place this wall in occupied squares, [sliding](../../Browse/movement/forced-movement.md) each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md). The wall's squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square [adjacent](../../Browse/rule/combat/adjacent.md) to the wall and has M < AVERAGE is [slowed](../../Browse/condition/slowed.md) (save ends). Each enemy who is [force moved](../../Browse/movement/forced-movement.md) into the wall and has M < AVERAGE is [restrained](../../Browse/condition/restrained.md) (save ends).
 
 ##### 6th-Level Metakinetic Abilities
 
@@ -7401,11 +7401,11 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Intuition](../../Browse/rule/character/intuition.md):**
 
-- **≤11:** Vertical slide 5
-- **12-16:** Vertical slide 7
-- **17+:** Vertical slide 9
+- **≤11:** Vertical [slide](../../Browse/movement/forced-movement.md) 5
+- **12-16:** Vertical [slide](../../Browse/movement/forced-movement.md) 7
+- **17+:** Vertical [slide](../../Browse/movement/forced-movement.md) 9
 
-**Effect:** This movement ignores [stability](../../Browse/rule/character/stability.md). If you slide into another creature, you resolve damage to both of you as if your [force move](../../Browse/movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
+**Effect:** This movement ignores [stability](../../Browse/rule/character/stability.md). If you [slide](../../Browse/movement/forced-movement.md) into another creature, you resolve damage to both of you as if your [force move](../../Browse/movement/forced-movement.md)ment had ended, but you keep moving through that creature's space.
 
 ###### Iron Body {data-scc="mcdm.heroes.v1/feature.ability.null.level-6/iron-body"}
 
@@ -7534,9 +7534,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
-- **≤11:** 9 + A damage; push 5; I < WEAK, [dazed](../../Browse/condition/dazed.md) (save ends)
-- **12-16:** 13 + A damage; push 7; I < AVERAGE, [dazed](../../Browse/condition/dazed.md) (save ends)
-- **17+:** 18 + A damage; push 10; I < STRONG, [dazed](../../Browse/condition/dazed.md) (save ends)
+- **≤11:** 9 + A damage; [push](../../Browse/movement/forced-movement.md) 5; I < WEAK, [dazed](../../Browse/condition/dazed.md) (save ends)
+- **12-16:** 13 + A damage; [push](../../Browse/movement/forced-movement.md) 7; I < AVERAGE, [dazed](../../Browse/condition/dazed.md) (save ends)
+- **17+:** 18 + A damage; [push](../../Browse/movement/forced-movement.md) 10; I < STRONG, [dazed](../../Browse/condition/dazed.md) (save ends)
 
 **Effect:** The target and each creature or object they collide with from this [forced movement](../../Browse/movement/forced-movement.md) takes psychic damage equal to the total number of squares the target was force moved. While the target is [dazed](../../Browse/condition/dazed.md) this way, they see glimpses of creatures from other parts of the timescape.
 
@@ -7551,9 +7551,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
-- **≤11:** 12 psychic damage; push 3
-- **12-16:** 17 psychic damage; push 5
-- **17+:** 23 psychic damage; push 7
+- **≤11:** 12 psychic damage; [push](../../Browse/movement/forced-movement.md) 3
+- **12-16:** 17 psychic damage; [push](../../Browse/movement/forced-movement.md) 5
+- **17+:** 23 psychic damage; [push](../../Browse/movement/forced-movement.md) 7
 
 ##### Synaptic Anchor {data-scc="mcdm.heroes.v1/feature.ability.null.level-8/synaptic-anchor"}
 
@@ -8048,11 +8048,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
-- **≤11:** 4 + A damage; slide 2
-- **12-16:** 6 + A damage; slide 3
-- **17+:** 10 + A damage; slide 5
+- **≤11:** 4 + A damage; [slide](../../Browse/movement/forced-movement.md) 2
+- **12-16:** 6 + A damage; [slide](../../Browse/movement/forced-movement.md) 3
+- **17+:** 10 + A damage; [slide](../../Browse/movement/forced-movement.md) 5
 
-**Effect:** You can [shift](../../Browse/movement/shifting.md) into any square the target leaves when you slide them.
+**Effect:** You can [shift](../../Browse/movement/shifting.md) into any square the target leaves when you [slide](../../Browse/movement/forced-movement.md) them.
 
 ###### Eviscerate {data-scc="mcdm.heroes.v1/feature.ability.shadow.level-1/eviscerate"}
 
@@ -8286,9 +8286,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
-- **≤11:** Slide 4
-- **12-16:** Slide 5
-- **17+:** Slide 7
+- **≤11:** [Slide](../../Browse/movement/forced-movement.md) 4
+- **12-16:** [Slide](../../Browse/movement/forced-movement.md) 5
+- **17+:** [Slide](../../Browse/movement/forced-movement.md) 7
 
 **Effect:** This [forced movement](../../Browse/movement/forced-movement.md) ignores [stability](../../Browse/rule/character/stability.md). Instead, the [forced movement](../../Browse/movement/forced-movement.md) is reduced by a number equal to the target's [Intuition](../../Browse/rule/character/intuition.md) score.
 
@@ -8568,9 +8568,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
-- **≤11:** 3 + A damage; vertical push 5
-- **12-16:** 6 + A damage; vertical push 10
-- **17+:** 9 + A damage; vertical push 15
+- **≤11:** 3 + A damage; vertical [push](../../Browse/movement/forced-movement.md) 5
+- **12-16:** 6 + A damage; vertical [push](../../Browse/movement/forced-movement.md) 10
+- **17+:** 9 + A damage; vertical [push](../../Browse/movement/forced-movement.md) 15
 
 **Effect:** A creature [force moved](../../Browse/movement/forced-movement.md) by this ability must be moved straight upward.
 
@@ -8832,11 +8832,11 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
-- **≤11:** 13 + A corruption damage; push 3
-- **12-16:** 18 + A corruption damage; push 5
-- **17+:** 25 + A corruption damage; push 7
+- **≤11:** 13 + A corruption damage; [push](../../Browse/movement/forced-movement.md) 3
+- **12-16:** 18 + A corruption damage; [push](../../Browse/movement/forced-movement.md) 5
+- **17+:** 25 + A corruption damage; [push](../../Browse/movement/forced-movement.md) 7
 
-**Effect:** On a [critical hit](../../Browse/rule/combat/critical-hit.md), the target is [grabbed](../../Browse/condition/grabbed.md) by the demon and pulled through the portal before it closes, never to be seen again.
+**Effect:** On a [critical hit](../../Browse/rule/combat/critical-hit.md), the target is [grabbed](../../Browse/condition/grabbed.md) by the demon and [pulled](../../Browse/movement/forced-movement.md) through the portal before it closes, never to be seen again.
 
 ##### 9th-Level Caustic Alchemy Abilities
 
@@ -8870,9 +8870,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Agility](../../Browse/rule/character/agility.md):**
 
-- **≤11:** 4 + A fire damage; vertical push 8
-- **12-16:** 7 + A fire damage; vertical push 10
-- **17+:** 11 + A fire damage; vertical push 15
+- **≤11:** 4 + A fire damage; vertical [push](../../Browse/movement/forced-movement.md) 8
+- **12-16:** 7 + A fire damage; vertical [push](../../Browse/movement/forced-movement.md) 10
+- **17+:** 11 + A fire damage; vertical [push](../../Browse/movement/forced-movement.md) 15
 
 **Effect:** The ground beneath a 3-[cube](../../Browse/rule/combat/cube.md) area around the target's starting position is [difficult terrain](../../Browse/movement/difficult-terrain.md).
 
@@ -9468,7 +9468,7 @@ As a 3rd-level [tactician](../../Browse/class/tactician.md), you gain the follow
 
 #### Out of Position {data-scc="mcdm.heroes.v1/feature.tactician.level-3/out-of-position"}
 
-Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to use your Mark ability against one enemy you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to, even if you are [surprised](../../Browse/rule/combat/surprised.md). You can then slide the marked target up to 3 squares, ignoring [stability](../../Browse/rule/character/stability.md). The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../Browse/rule/health/dying.md), or result in them suffering a [condition](../../Browse/rule/combat/condition.md) or other negative effect.
+Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to use your Mark ability against one enemy you have [line of effect](../../Browse/rule/combat/line-of-effect.md) to, even if you are [surprised](../../Browse/rule/combat/surprised.md). You can then [slide](../../Browse/movement/forced-movement.md) the marked target up to 3 squares, ignoring [stability](../../Browse/rule/character/stability.md). The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../../Browse/rule/health/dying.md), or result in them suffering a [condition](../../Browse/rule/combat/condition.md) or other negative effect.
 
 #### 7-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-3/7-focus-ability"}
 
@@ -9483,7 +9483,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), the first time on a [turn](../../Browse/rule/combat/turn.md) that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../../Browse/movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../../Browse/feature/common/main-actions/charge.md) main action to target a creature marked by you can use a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) [signature ability](../../Browse/rule/combat/signature-ability.md) or a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) [heroic ability](../../Browse/rule/general/heroic-ability.md) instead of a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md).
+**Effect:** Until the end of the encounter or until you are [dying](../../Browse/rule/health/dying.md), the first time on a [turn](../../Browse/rule/combat/turn.md) that you or any ally deals damage to a target marked by you, the creature who dealt the damage can [push](../../Browse/movement/forced-movement.md) the target up to 2 squares and then [shift](../../Browse/movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../../Browse/feature/common/main-actions/charge.md) main action to target a creature marked by you can use a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) [signature ability](../../Browse/rule/combat/signature-ability.md) or a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) [heroic ability](../../Browse/rule/general/heroic-ability.md) instead of a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md).
 
 ##### Hit 'Em Hard! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-3/hit-em-hard"}
 
@@ -9680,9 +9680,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md):**
 
-- **≤11:** 6 + M damage; slide 1
-- **12-16:** 9 + M damage; slide 3
-- **17+:** 13 + M damage; slide 5
+- **≤11:** 6 + M damage; [slide](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 9 + M damage; [slide](../../Browse/movement/forced-movement.md) 3
+- **17+:** 13 + M damage; [slide](../../Browse/movement/forced-movement.md) 5
 
 **Effect:** If a target is [force moved](../../Browse/movement/forced-movement.md) into another creature, they must make a [free strike](../../Browse/feature/common/main-actions/free-strike.md) against that creature.
 
@@ -9834,7 +9834,7 @@ You have trained your squad to coordinate their movements to maximize combat imp
 
 You have trained your squad to maximize impact and break enemy lines when they attack.
 
-**Mark Benefit:** When you or any ally makes a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to have the character making the [strike](../../Browse/rule/combat/strike.md) push the target up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score. That character can then [shift](../../Browse/movement/shifting.md) up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score, ending this [shift](../../Browse/movement/shifting.md) [adjacent](../../Browse/rule/combat/adjacent.md) to the target.
+**Mark Benefit:** When you or any ally makes a [melee](../../Browse/rule/combat/melee.md) [strike](../../Browse/rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to have the character making the [strike](../../Browse/rule/combat/strike.md) [push](../../Browse/movement/forced-movement.md) the target up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score. That character can then [shift](../../Browse/movement/shifting.md) up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score, ending this [shift](../../Browse/movement/shifting.md) [adjacent](../../Browse/rule/combat/adjacent.md) to the target.
 
 #### 11-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-8/11-focus-ability"}
 
@@ -9983,7 +9983,7 @@ Choose one of the following abilities.
 - **12-16:** 16 + M damage
 - **17+:** 21 + M damage
 
-**Effect:** If you use this ability as part of the [Charge](../../Browse/feature/common/main-actions/charge.md) main action, enemies' spaces don't count as [difficult terrain](../../Browse/movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
+**Effect:** If you use this ability as part of the [Charge](../../Browse/feature/common/main-actions/charge.md) main action, enemies' spaces don't count as [difficult terrain](../../Browse/movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can [slide](../../Browse/movement/forced-movement.md) that creature 1 square out of the path of your charge.
 
 ###### That One Is Mine! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/that-one-is-mine"}
 
@@ -10185,7 +10185,7 @@ Your ward slows time for your enemies. Whenever a creature deals damage to you, 
 
 ##### Repulsive Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/repulsive-ward"}
 
-You surround yourself with an invisible ward of telekinetic energy. Whenever an [adjacent](../../Browse/rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to push them up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
+You surround yourself with an invisible ward of telekinetic energy. Whenever an [adjacent](../../Browse/rule/combat/adjacent.md) creature deals damage to you, you can use a free [triggered action](../../Browse/rule/combat/triggered-action.md) to [push](../../Browse/movement/forced-movement.md) them up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 ##### Steel Ward {data-scc="mcdm.heroes.v1/feature.talent.level-1/steel-ward"}
 
@@ -10275,11 +10275,11 @@ You have the following ability.
 |---------------------|---------------------------------------------:|
 | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**    | **🎯 Self or one [size](../../Browse/rule/character/size.md) 1 creature or object** |
 
-**Effect:** You slide the target up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
+**Effect:** You [slide](../../Browse/movement/forced-movement.md) the target up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 **Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity spent.
 
-**Spend 3 Clarity:** You can vertical slide the target.
+**Spend 3 Clarity:** You can vertical [slide](../../Browse/movement/forced-movement.md) the target.
 
 ##### Remote Assistance {data-scc="mcdm.heroes.v1/feature.talent.level-1/remote-assistance"}
 
@@ -10314,7 +10314,7 @@ You have the following ability.
 
 **Trigger:** The target takes damage or is [force moved](../../Browse/movement/forced-movement.md).
 
-**Effect:** The target takes half the triggering damage, or the [distance](../../Browse/rule/combat/distance.md) of the triggering [forced movement](../../Browse/movement/forced-movement.md) is reduced by a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../../Browse/movement/forced-movement.md) is reduced to 0 squares, the target can push the source of the [forced movement](../../Browse/movement/forced-movement.md) a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
+**Effect:** The target takes half the triggering damage, or the [distance](../../Browse/rule/combat/distance.md) of the triggering [forced movement](../../Browse/movement/forced-movement.md) is reduced by a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score. If the target took damage and was force moved, you choose the effect. If the [forced movement](../../Browse/movement/forced-movement.md) is reduced to 0 squares, the target can [push](../../Browse/movement/forced-movement.md) the source of the [forced movement](../../Browse/movement/forced-movement.md) a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score.
 
 #### Talent Abilities {data-scc="mcdm.heroes.v1/feature.talent.level-1/talent-abilities"}
 
@@ -10390,11 +10390,11 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
-- **≤11:** Slide 2 + R
-- **12-16:** Slide 4 + R
-- **17+:** Slide 6 + R; [prone](../../Browse/condition/prone.md)
+- **≤11:** [Slide](../../Browse/movement/forced-movement.md) 2 + R
+- **12-16:** [Slide](../../Browse/movement/forced-movement.md) 4 + R
+- **17+:** [Slide](../../Browse/movement/forced-movement.md) 6 + R; [prone](../../Browse/condition/prone.md)
 
-**Strained:** You must vertical push the target instead of sliding them.
+**Strained:** You must vertical [push](../../Browse/movement/forced-movement.md) the target instead of [sliding](../../Browse/movement/forced-movement.md) them.
 
 ###### Kinetic Pulse {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-pulse"}
 
@@ -10408,8 +10408,8 @@ Choose two [signature abilities](../../Browse/rule/combat/signature-ability.md) 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
 - **≤11:** 2 psychic damage
-- **12-16:** 5 psychic damage; push 1
-- **17+:** 7 psychic damage; push 2
+- **12-16:** 5 psychic damage; [push](../../Browse/movement/forced-movement.md) 1
+- **17+:** 7 psychic damage; [push](../../Browse/movement/forced-movement.md) 2
 
 **Strained:** The size of the [burst](../../Browse/rule/combat/burst.md) increases by 2, and you are [bleeding](../../Browse/condition/bleeding.md) until the start of your next [turn](../../Browse/rule/combat/turn.md).
 
@@ -10510,7 +10510,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 - **12-16:** 5 + R damage; M < AVERAGE, [slowed](../../Browse/condition/slowed.md) (save ends)
 - **17+:** 8 + R damage; M < STRONG, [restrained](../../Browse/condition/restrained.md) (save ends)
 
-**Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](../../Browse/condition/restrained.md) by this ability, this [forced movement](../../Browse/movement/forced-movement.md) ignores their [stability](../../Browse/rule/character/stability.md).
+**Effect:** You can vertical [pull](../../Browse/movement/forced-movement.md) the target up to 2 squares. If the target is made [restrained](../../Browse/condition/restrained.md) by this ability, this [forced movement](../../Browse/movement/forced-movement.md) ignores their [stability](../../Browse/rule/character/stability.md).
 
 ###### Precognition {data-scc="mcdm.heroes.v1/feature.ability.talent.level-1/precognition"}
 
@@ -10566,7 +10566,7 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 |----------------------------------|------------------------:|
 | **📏 [Ranged](../../Browse/rule/combat/ranged.md) 10**                 | **🎯 Self or one ally** |
 
-**Effect:** The target ignores [difficult terrain](../../Browse/movement/difficult-terrain.md) and takes no damage from [forced movement](../../Browse/movement/forced-movement.md) until the start of your next [turn](../../Browse/rule/combat/turn.md). Whenever the target enters a square while under this effect, they can push one [adjacent](../../Browse/rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score. When pushing an ally, the target can ignore that ally's [stability](../../Browse/rule/character/stability.md). A creature can only be force moved this way once a [turn](../../Browse/rule/combat/turn.md).
+**Effect:** The target ignores [difficult terrain](../../Browse/movement/difficult-terrain.md) and takes no damage from [forced movement](../../Browse/movement/forced-movement.md) until the start of your next [turn](../../Browse/rule/combat/turn.md). Whenever the target enters a square while under this effect, they can [push](../../Browse/movement/forced-movement.md) one [adjacent](../../Browse/rule/combat/adjacent.md) creature up to a number of squares equal to your [Reason](../../Browse/rule/character/reason.md) score. When [pushing](../../Browse/movement/forced-movement.md) an ally, the target can ignore that ally's [stability](../../Browse/rule/character/stability.md). A creature can only be force moved this way once a [turn](../../Browse/rule/combat/turn.md).
 
 **Strained:** You are [weakened](../../Browse/condition/weakened.md) (save ends). While you are [weakened](../../Browse/condition/weakened.md) this way, whenever you are force moved, the [forced movement](../../Browse/movement/forced-movement.md) [distance](../../Browse/rule/combat/distance.md) gains a +5 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md).
 
@@ -10689,9 +10689,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
-- **≤11:** 3 damage; vertical push 2
-- **12-16:** 6 damage; vertical push 4
-- **17+:** 9 damage; vertical push 6
+- **≤11:** 3 damage; vertical [push](../../Browse/movement/forced-movement.md) 2
+- **12-16:** 6 damage; vertical [push](../../Browse/movement/forced-movement.md) 4
+- **17+:** 9 damage; vertical [push](../../Browse/movement/forced-movement.md) 6
 
 **Strained:** The size of the [burst](../../Browse/rule/combat/burst.md) increases by 1, and you are [weakened](../../Browse/condition/weakened.md) until the end of your [turn](../../Browse/rule/combat/turn.md).
 
@@ -11087,11 +11087,11 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
-- **≤11:** 6 damage; vertical pull 5 toward the center of the area
-- **12-16:** 9 damage; vertical pull 7 toward the center of the area
-- **17+:** 13 damage; vertical pull 10 toward the center of the area
+- **≤11:** 6 damage; vertical [pull](../../Browse/movement/forced-movement.md) 5 toward the center of the area
+- **12-16:** 9 damage; vertical [pull](../../Browse/movement/forced-movement.md) 7 toward the center of the area
+- **17+:** 13 damage; vertical [pull](../../Browse/movement/forced-movement.md) 10 toward the center of the area
 
-**Effect:** Targets closest to the center of the area are pulled first.
+**Effect:** Targets closest to the center of the area are [pulled](../../Browse/movement/forced-movement.md) first.
 
 **Strained:** The size of the area increases by 2. You also target yourself and each ally within [distance](../../Browse/rule/combat/distance.md).
 
@@ -11106,9 +11106,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
-- **≤11:** Slide 4 + R; M < WEAK, the [forced movement](../../Browse/movement/forced-movement.md) is vertical
-- **12-16:** Slide 8 + R; M < AVERAGE, the [forced movement](../../Browse/movement/forced-movement.md) is vertical
-- **17+:** Slide 12 + R; [prone](../../Browse/condition/prone.md); M < STRONG, the [forced movement](../../Browse/movement/forced-movement.md) is vertical
+- **≤11:** [Slide](../../Browse/movement/forced-movement.md) 4 + R; M < WEAK, the [forced movement](../../Browse/movement/forced-movement.md) is vertical
+- **12-16:** [Slide](../../Browse/movement/forced-movement.md) 8 + R; M < AVERAGE, the [forced movement](../../Browse/movement/forced-movement.md) is vertical
+- **17+:** [Slide](../../Browse/movement/forced-movement.md) 12 + R; [prone](../../Browse/condition/prone.md); M < STRONG, the [forced movement](../../Browse/movement/forced-movement.md) is vertical
 
 **Strained:** The [forced movement](../../Browse/movement/forced-movement.md) ignores [stability](../../Browse/rule/character/stability.md). You take 2d6 damage and are [weakened](../../Browse/condition/weakened.md) (save ends).
 
@@ -11385,7 +11385,7 @@ Choose one of the following abilities.
 |--------------------------------|-----------------------------------------:|
 | **📏 Special**                 | **🎯 Each enemy and object in the area** |
 
-**Effect:** Make a [power roll](../../Browse/rule/dice/power-roll.md) to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](../../Browse/rule/character/size.md) 1L or smaller.
+**Effect:** Make a [power roll](../../Browse/rule/dice/power-roll.md) to determine the area of this ability. Each target is vertical [pushed](../../Browse/movement/forced-movement.md) 6 squares. You can target only objects of [size](../../Browse/rule/character/size.md) 1L or smaller.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
@@ -11406,9 +11406,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md):**
 
-- **≤11:** 6 damage; push 7
-- **12-16:** 9 damage; push 10
-- **17+:** 13 damage; push 15
+- **≤11:** 6 damage; [push](../../Browse/movement/forced-movement.md) 7
+- **12-16:** 9 damage; [push](../../Browse/movement/forced-movement.md) 10
+- **17+:** 13 damage; [push](../../Browse/movement/forced-movement.md) 15
 
 **Effect:** On a [critical hit](../../Browse/rule/combat/critical-hit.md), the size of the area increases by 3, and this ability deals an extra 10 damage.
 
@@ -11706,9 +11706,9 @@ You have the following ability.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
-- **≤11:** Push 1
-- **12-16:** Push 2
-- **17+:** Push 3
+- **≤11:** [Push](../../Browse/movement/forced-movement.md) 1
+- **12-16:** [Push](../../Browse/movement/forced-movement.md) 2
+- **17+:** [Push](../../Browse/movement/forced-movement.md) 3
 
 ##### Star Power {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/star-power"}
 
@@ -11928,9 +11928,9 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
-- **≤11:** Slide 1; I < WEAK, [dazed](../../Browse/condition/dazed.md) (save ends)
-- **12-16:** Slide 1; I < AVERAGE, [dazed](../../Browse/condition/dazed.md) (save ends)
-- **17+:** Slide 2; I < STRONG, [dazed](../../Browse/condition/dazed.md) (save ends)
+- **≤11:** [Slide](../../Browse/movement/forced-movement.md) 1; I < WEAK, [dazed](../../Browse/condition/dazed.md) (save ends)
+- **12-16:** [Slide](../../Browse/movement/forced-movement.md) 1; I < AVERAGE, [dazed](../../Browse/condition/dazed.md) (save ends)
+- **17+:** [Slide](../../Browse/movement/forced-movement.md) 2; I < STRONG, [dazed](../../Browse/condition/dazed.md) (save ends)
 
 **Spend 2+ Drama:** The size of the [burst](../../Browse/rule/combat/burst.md) increases by 1 for every 2 drama spent.
 
@@ -12154,9 +12154,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
-- **≤11:** 5 corruption damage; M < WEAK, pull 1 toward the center of the area
-- **12-16:** 9 corruption damage; M < AVERAGE, pull 2 toward the center of the area
-- **17+:** 12 corruption damage; M < STRONG, pull 3 toward the center of the area
+- **≤11:** 5 corruption damage; M < WEAK, [pull](../../Browse/movement/forced-movement.md) 1 toward the center of the area
+- **12-16:** 9 corruption damage; M < AVERAGE, [pull](../../Browse/movement/forced-movement.md) 2 toward the center of the area
+- **17+:** 12 corruption damage; M < STRONG, [pull](../../Browse/movement/forced-movement.md) 3 toward the center of the area
 
 ### 3rd-Level Features
 
@@ -12223,11 +12223,11 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
-- **≤11:** Slide 3; P < WEAK, this slide ignores the target's [stability](../../Browse/rule/character/stability.md)
-- **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's [stability](../../Browse/rule/character/stability.md)
-- **17+:** Slide 7; P < STRONG, this slide ignores the target's [stability](../../Browse/rule/character/stability.md)
+- **≤11:** [Slide](../../Browse/movement/forced-movement.md) 3; P < WEAK, this [slide](../../Browse/movement/forced-movement.md) ignores the target's [stability](../../Browse/rule/character/stability.md)
+- **12-16:** [Slide](../../Browse/movement/forced-movement.md) 5; P < AVERAGE, this [slide](../../Browse/movement/forced-movement.md) ignores the target's [stability](../../Browse/rule/character/stability.md)
+- **17+:** [Slide](../../Browse/movement/forced-movement.md) 7; P < STRONG, this [slide](../../Browse/movement/forced-movement.md) ignores the target's [stability](../../Browse/rule/character/stability.md)
 
-**Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
+**Effect:** Instead of [sliding](../../Browse/movement/forced-movement.md) a target, you can swap their location with another target as long as each can fit into the other's space. You can't [slide](../../Browse/movement/forced-movement.md) targets into other creatures or objects using this ability.
 
 ##### Infernal Gavotte {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/infernal-gavotte"}
 
@@ -12258,8 +12258,8 @@ Choose one [heroic ability](../../Browse/rule/general/heroic-ability.md) from th
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** 5 + P damage
-- **12-16:** 8 + P damage; push 3
-- **17+:** 11 + P damage; push 5
+- **12-16:** 8 + P damage; [push](../../Browse/movement/forced-movement.md) 3
+- **17+:** 11 + P damage; [push](../../Browse/movement/forced-movement.md) 5
 
 **Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 [combat rounds](../../Browse/rule/combat/combat-round.md) without spending drama.
 
@@ -12533,7 +12533,7 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 [Melee](../../Browse/rule/combat/melee.md) 1**            | **🎯 One creature** |
 
-**Effect:** You and the target each make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../Browse/feature/common/main-actions/free-strike.md) targets and which enemies the target creature's [free strike](../../Browse/feature/common/main-actions/free-strike.md) targets. You then slide the target 5 squares, ignoring [stability](../../Browse/rule/character/stability.md).
+**Effect:** You and the target each make a [melee](../../Browse/rule/combat/melee.md) [free strike](../../Browse/feature/common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../../Browse/feature/common/main-actions/free-strike.md) targets and which enemies the target creature's [free strike](../../Browse/feature/common/main-actions/free-strike.md) targets. You then [slide](../../Browse/movement/forced-movement.md) the target 5 squares, ignoring [stability](../../Browse/rule/character/stability.md).
 
 ##### 6th-Level Virtuoso Abilities
 
@@ -12820,9 +12820,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Presence](../../Browse/rule/character/presence.md):**
 
-- **≤11:** 12 + P sonic damage; push 5
-- **12-16:** 16 + P sonic damage; push 10
-- **17+:** 22 + P sonic damage; push 15
+- **≤11:** 12 + P sonic damage; [push](../../Browse/movement/forced-movement.md) 5
+- **12-16:** 16 + P sonic damage; [push](../../Browse/movement/forced-movement.md) 10
+- **17+:** 22 + P sonic damage; [push](../../Browse/movement/forced-movement.md) 15
 
 **Effect:** [Forced movement](../../Browse/movement/forced-movement.md) from this ability ignores [stability](../../Browse/rule/character/stability.md).
 

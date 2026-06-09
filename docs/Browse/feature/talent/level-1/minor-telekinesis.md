@@ -39,10 +39,10 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You slide the target up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../movement/forced-movement/">slide</a> the target up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p></div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2+ Clarity</span><span class="txt">The size of the creature or object you can target increases by 1 for every 2 clarity spent.</span></div>
-<div class="sc-ability__enh"><span class="cost">Spend 3 Clarity</span><span class="txt">You can vertical slide the target.</span></div>
+<div class="sc-ability__enh"><span class="cost">Spend 3 Clarity</span><span class="txt">You can vertical <a href="../../../../movement/forced-movement/">slide</a> the target.</span></div>
 </article>
 </div>
 </div>

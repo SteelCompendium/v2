@@ -40,14 +40,14 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 3; P &lt; WEAK, this slide ignores the target&#39;s <a href="../../../../rule/character/stability/">stability</a></span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 5; P &lt; AVERAGE, this slide ignores the target&#39;s <a href="../../../../rule/character/stability/">stability</a></span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 7; P &lt; STRONG, this slide ignores the target&#39;s <a href="../../../../rule/character/stability/">stability</a></span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../../../movement/forced-movement/">Slide</a> 3; P &lt; WEAK, this <a href="../../../../movement/forced-movement/">slide</a> ignores the target&#39;s <a href="../../../../rule/character/stability/">stability</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../../../movement/forced-movement/">Slide</a> 5; P &lt; AVERAGE, this <a href="../../../../movement/forced-movement/">slide</a> ignores the target&#39;s <a href="../../../../rule/character/stability/">stability</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../../movement/forced-movement/">Slide</a> 7; P &lt; STRONG, this <a href="../../../../movement/forced-movement/">slide</a> ignores the target&#39;s <a href="../../../../rule/character/stability/">stability</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Instead of sliding a target, you can swap their location with another target as long as each can fit into the other&#39;s space. You can&#39;t slide targets into other creatures or objects using this ability.</p></div>
+<div class="sc-ability__section-body"><p>Instead of <a href="../../../../movement/forced-movement/">sliding</a> a target, you can swap their location with another target as long as each can fit into the other&#39;s space. You can&#39;t <a href="../../../../movement/forced-movement/">slide</a> targets into other creatures or objects using this ability.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -97,8 +97,8 @@ type: feature
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + P damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + P damage; push 3</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + P damage; push 5</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + P damage; <a href="../../../../movement/forced-movement/">push</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + P damage; <a href="../../../../movement/forced-movement/">push</a> 5</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

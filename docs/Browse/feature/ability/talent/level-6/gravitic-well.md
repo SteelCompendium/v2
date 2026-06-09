@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 9 Clarity
 distance: 4 [cube](../../../../rule/combat/cube.md) within 10
-effect: Targets closest to the center of the area are pulled first.
+effect: Targets closest to the center of the area are [pulled](../../../../movement/forced-movement.md) first.
 flavor: You bend gravity into a fine point and pull your foes toward it.
 keywords:
     - Area
@@ -15,9 +15,9 @@ name: Gravitic Well
 power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/gravitic-well
 target: Each creature and object in the area
-tier1: 6 damage; vertical pull 5 toward the center of the area
-tier2: 9 damage; vertical pull 7 toward the center of the area
-tier3: 13 damage; vertical pull 10 toward the center of the area
+tier1: 6 damage; vertical [pull](../../../../movement/forced-movement.md) 5 toward the center of the area
+tier2: 9 damage; vertical [pull](../../../../movement/forced-movement.md) 7 toward the center of the area
+tier3: 13 damage; vertical [pull](../../../../movement/forced-movement.md) 10 toward the center of the area
 type: ability
 ---
 
@@ -43,14 +43,14 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; vertical pull 5 toward the center of the area</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; vertical pull 7 toward the center of the area</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; vertical pull 10 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; vertical <a href="../../../../../movement/forced-movement/">pull</a> 5 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; vertical <a href="../../../../../movement/forced-movement/">pull</a> 7 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; vertical <a href="../../../../../movement/forced-movement/">pull</a> 10 toward the center of the area</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Targets closest to the center of the area are pulled first.</p></div>
+<div class="sc-ability__section-body"><p>Targets closest to the center of the area are <a href="../../../../../movement/forced-movement/">pulled</a> first.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

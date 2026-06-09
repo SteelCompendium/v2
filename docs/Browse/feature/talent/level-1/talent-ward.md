@@ -41,7 +41,7 @@ type: feature
 <div class="sc-trait__tag">Level <span class="num">1</span></div>
 </header>
 <div class="sc-trait__body">
-<p>You surround yourself with an invisible ward of telekinetic energy. Whenever an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature deals damage to you, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to push them up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
+<p>You surround yourself with an invisible ward of telekinetic energy. Whenever an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature deals damage to you, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to <a href="../../../../movement/forced-movement/">push</a> them up to a number of squares equal to your <a href="../../../../rule/character/reason/">Reason</a> score.</p>
 </div>
 </section>
 <section class="sc-trait" data-action="trait">

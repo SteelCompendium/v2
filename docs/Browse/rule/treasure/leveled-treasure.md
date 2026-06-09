@@ -106,11 +106,11 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **Project Goal:** 450
 
-**1st Level:** While you wield or carry this shield, you gain a +3 [bonus](../dice/bonuses-and-penalties.md) to [Stamina](../health/stamina.md). This [Stamina](../health/stamina.md) [bonus](../dice/bonuses-and-penalties.md) adds to the [Stamina](../health/stamina.md) [bonus](../dice/bonuses-and-penalties.md) granted by other treasures. Additionally, you can use a maneuver to make the shield's lion face roar, choosing one [adjacent](../combat/adjacent.md) creature or object and pushing that target up to 3 squares.
+**1st Level:** While you wield or carry this shield, you gain a +3 [bonus](../dice/bonuses-and-penalties.md) to [Stamina](../health/stamina.md). This [Stamina](../health/stamina.md) [bonus](../dice/bonuses-and-penalties.md) adds to the [Stamina](../health/stamina.md) [bonus](../dice/bonuses-and-penalties.md) granted by other treasures. Additionally, you can use a maneuver to make the shield's lion face roar, choosing one [adjacent](../combat/adjacent.md) creature or object and [pushing](../../movement/forced-movement.md) that target up to 3 squares.
 
-**5th Level:** The shield's [bonus](../dice/bonuses-and-penalties.md) to [Stamina](../health/stamina.md) increases to +6. When you cause the shield to roar, you target one creature or object within 3 squares and push that target up to 4 squares.
+**5th Level:** The shield's [bonus](../dice/bonuses-and-penalties.md) to [Stamina](../health/stamina.md) increases to +6. When you cause the shield to roar, you target one creature or object within 3 squares and [push](../../movement/forced-movement.md) that target up to 4 squares.
 
-**9th Level:** The shield's [bonus](../dice/bonuses-and-penalties.md) to [Stamina](../health/stamina.md) increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you push that target up to 5 squares, and the target is [slowed](../../condition/slowed.md) until the end of their next [turn](../combat/turn.md).
+**9th Level:** The shield's [bonus](../dice/bonuses-and-penalties.md) to [Stamina](../health/stamina.md) increases to +9. When you cause the shield to roar, you target one creature or object within 6 squares, you [push](../../movement/forced-movement.md) that target up to 5 squares, and the target is [slowed](../../condition/slowed.md) until the end of their next [turn](../combat/turn.md).
 
 ### Kuran'zoi Prismscale {data-scc="mcdm.heroes.v1/treasure.leveled.armor/kuranzoi-prismscale"}
 
@@ -230,7 +230,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 **5th Level:** The shield's [bonus](../dice/bonuses-and-penalties.md) to [Stamina](../health/stamina.md) increases to +5, and you can use the shield's free [triggered action](../combat/triggered-action.md) against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver while [grabbed](../../condition/grabbed.md) this way takes a [bane](../dice/bane.md) on the [test](../test/test.md).
 
-**9th Level:** The shield's [bonus](../dice/bonuses-and-penalties.md) to [Stamina](../health/stamina.md) increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](../../condition/grabbed.md) up to 5 squares.
+**9th Level:** The shield's [bonus](../dice/bonuses-and-penalties.md) to [Stamina](../health/stamina.md) increases to +9. Additionally, you can use a maneuver to [pull](../../movement/forced-movement.md) any number of targets the shield has [grabbed](../../condition/grabbed.md) up to 5 squares.
 
 ## Leveled Implement Treasures
 
@@ -514,11 +514,11 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals [rolled damage](../damage/rolled-damage.md) using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can [shift](../../movement/shifting.md) to any square [adjacent](../combat/adjacent.md) to the target after the push.
+**1st Level:** Any weapon ability that deals [rolled damage](../damage/rolled-damage.md) using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to [push](../../movement/forced-movement.md) a target, you can [shift](../../movement/shifting.md) to any square [adjacent](../combat/adjacent.md) to the target after the [push](../../movement/forced-movement.md).
 
 **5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the [Charge](../../feature/common/main-actions/charge.md) main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to [shift](../../movement/shifting.md), you can [fly](../../movement/fly.md) as part of the charge movement or the [shift](../../movement/shifting.md). If you don't end your [flying](../../movement/fly.md) movement on the ground, you fall.
 
-**9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to push or slide a target, that [forced movement](../../movement/forced-movement.md) can be vertical.
+**9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to [push](../../movement/forced-movement.md) or [slide](../../movement/forced-movement.md) a target, that [forced movement](../../movement/forced-movement.md) can be vertical.
 
 ### Molten Constrictor {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/molten-constrictor"}
 
@@ -612,9 +612,9 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals [rolled damage](../damage/rolled-damage.md) using this weapon deals an extra 1 sonic damage. Additionally, when the weapon is used with any ability that pushes a target, you gain a +1 [bonus](../dice/bonuses-and-penalties.md) to the [forced movement](../../movement/forced-movement.md) [distance](../combat/distance.md). If the weapon is used with a damage-dealing ability that doesn't impose [forced movement](../../movement/forced-movement.md), you can push the target 1 square.
+**1st Level:** Any weapon ability that deals [rolled damage](../damage/rolled-damage.md) using this weapon deals an extra 1 sonic damage. Additionally, when the weapon is used with any ability that [pushes](../../movement/forced-movement.md) a target, you gain a +1 [bonus](../dice/bonuses-and-penalties.md) to the [forced movement](../../movement/forced-movement.md) [distance](../combat/distance.md). If the weapon is used with a damage-dealing ability that doesn't impose [forced movement](../../movement/forced-movement.md), you can [push](../../movement/forced-movement.md) the target 1 square.
 
-**5th Level:** The weapon's extra sonic damage increases to 2, and the additional [distance](../combat/distance.md) or [distance](../combat/distance.md) of a push for abilities using the weapon increases to 2 squares. Additionally, the weapon can be used with [ranged](../combat/ranged.md) weapon abilities, and gains power the farther it is hurled. For each 2 squares the weapon travels to the target of a [ranged](../combat/ranged.md) [strike](../combat/strike.md), the [strike](../combat/strike.md) deals an extra 1 sonic damage.
+**5th Level:** The weapon's extra sonic damage increases to 2, and the additional [distance](../combat/distance.md) or [distance](../combat/distance.md) of a [push](../../movement/forced-movement.md) for abilities using the weapon increases to 2 squares. Additionally, the weapon can be used with [ranged](../combat/ranged.md) weapon abilities, and gains power the farther it is hurled. For each 2 squares the weapon travels to the target of a [ranged](../combat/ranged.md) [strike](../combat/strike.md), the [strike](../combat/strike.md) deals an extra 1 sonic damage.
 
 **9th Level:** The weapon's extra sonic damage increases to 3, and it deals an extra 1 sonic damage for each square it travels as part of a [ranged](../combat/ranged.md) [strike](../combat/strike.md). Additionally, whenever you make a weapon [strike](../combat/strike.md) using this weapon, each enemy [adjacent](../combat/adjacent.md) to the target takes 6 sonic damage.
 
@@ -700,7 +700,7 @@ In addition to armor, shields, [implements](implement.md), and weapons, heroes c
 
 **5th Level:** The extra lightning damage granted by the treads increases to 2. Additionally, for each square you move on your [turn](../combat/turn.md) before you use a weapon ability that deals [rolled damage](../damage/rolled-damage.md) using your unarmed [strikes](../combat/strike.md), this extra damage increases by 1 (to a maximum of 4).
 
-**9th Level:** The extra lightning damage granted by the treads increases to 3, and your movement can increase that extra damage to a maximum of 6. Additionally, you can use a maneuver to perform a [flying](../../movement/fly.md) lightning kick on one [adjacent](../combat/adjacent.md) creature. That target is pushed up to 5 squares, and you can move to any square [adjacent](../combat/adjacent.md) to the target after the push.
+**9th Level:** The extra lightning damage granted by the treads increases to 3, and your movement can increase that extra damage to a maximum of 6. Additionally, you can use a maneuver to perform a [flying](../../movement/fly.md) lightning kick on one [adjacent](../combat/adjacent.md) creature. That target is [pushed](../../movement/forced-movement.md) up to 5 squares, and you can move to any square [adjacent](../combat/adjacent.md) to the target after the [push](../../movement/forced-movement.md).
 
 ### Revenger's Wrap {data-scc="mcdm.heroes.v1/treasure.leveled.other/revengers-wrap"}
 

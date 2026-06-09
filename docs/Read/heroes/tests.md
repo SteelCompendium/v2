@@ -43,7 +43,7 @@ Though the Director can decide to call for [tests](../../Browse/rule/test/test.m
 
 ##### Might Tests
 
-You make a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) whenever a risky task calls for the use of physical strength. [Might](../../Browse/rule/character/might.md) [tests](../../Browse/rule/test/test.md) are most often used for breaking down doors and other structures, hurling heavy objects, pulling your body up a sheer wall, swimming against a mighty current, and other feats of physical power.
+You make a [Might](../../Browse/rule/character/might.md) [test](../../Browse/rule/test/test.md) whenever a risky task calls for the use of physical strength. [Might](../../Browse/rule/character/might.md) [tests](../../Browse/rule/test/test.md) are most often used for breaking down doors and other structures, hurling heavy objects, [pulling](../../Browse/movement/forced-movement.md) your body up a sheer wall, swimming against a mighty current, and other feats of physical power.
 
 ##### Agility Tests
 

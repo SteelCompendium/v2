@@ -3,7 +3,7 @@ action_type: Main action
 class: censor
 cost: 5 Wrath
 distance: '[Melee](../../../../rule/combat/melee.md) 1 or [ranged](../../../../rule/combat/ranged.md) 5'
-effect: Each enemy [frightened](../../../../condition/frightened.md) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your [Presence](../../../../rule/character/presence.md) score.
+effect: Each enemy [frightened](../../../../condition/frightened.md) this way is [pushed](../../../../movement/forced-movement.md) up to 2 squares away from the target and takes psychic damage equal to your [Presence](../../../../rule/character/presence.md) score.
 flavor: You attack a foe and your enemies behold a vision of the true nature of your resolve.
 keywords:
     - Magic
@@ -51,6 +51,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy <a href="../../../../../condition/frightened/">frightened</a> this way is pushed up to 2 squares away from the target and takes psychic damage equal to your <a href="../../../../../rule/character/presence/">Presence</a> score.</p></div>
+<div class="sc-ability__section-body"><p>Each enemy <a href="../../../../../condition/frightened/">frightened</a> this way is <a href="../../../../../movement/forced-movement/">pushed</a> up to 2 squares away from the target and takes psychic damage equal to your <a href="../../../../../rule/character/presence/">Presence</a> score.</p></div>
 </div>
 </article>

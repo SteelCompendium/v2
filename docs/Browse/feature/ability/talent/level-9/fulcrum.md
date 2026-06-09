@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 11 Clarity
 distance: Special
-effect: Make a [power roll](../../../../rule/dice/power-roll.md) to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of [size](../../../../rule/character/size.md) 1L or smaller.
+effect: Make a [power roll](../../../../rule/dice/power-roll.md) to determine the area of this ability. Each target is vertical [pushed](../../../../movement/forced-movement.md) 6 squares. You can target only objects of [size](../../../../rule/character/size.md) 1L or smaller.
 flavor: You precisely manipulate the creatures around you.
 keywords:
     - Area
@@ -49,7 +49,7 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of <a href="../../../../../rule/character/size/">size</a> 1L or smaller.</p></div>
+<div class="sc-ability__section-body"><p>Make a <a href="../../../../../rule/dice/power-roll/">power roll</a> to determine the area of this ability. Each target is vertical <a href="../../../../../movement/forced-movement/">pushed</a> 6 squares. You can target only objects of <a href="../../../../../rule/character/size/">size</a> 1L or smaller.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

@@ -13,9 +13,9 @@ power_roll_characteristic: '[Reason](../../../rule/character/reason.md), [Intuit
 scc: mcdm.heroes.v1/feature.ability.revenant/detonate-sigil
 subtype: signature
 target: One creature bearing your sigil
-tier1: 3 + R, I, or P damage; slide 1
-tier2: 5 + R, I, or P damage; slide 2
-tier3: 7 + R, I, or P damage; slide 3
+tier1: 3 + R, I, or P damage; [slide](../../../movement/forced-movement.md) 1
+tier2: 5 + R, I, or P damage; [slide](../../../movement/forced-movement.md) 2
+tier3: 7 + R, I, or P damage; [slide](../../../movement/forced-movement.md) 3
 type: ability
 ---
 
@@ -41,9 +41,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/reason/">Reason</a>, <a href="../../../../rule/character/intuition/">Intuition</a>, or <a href="../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + R, I, or P damage; slide 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R, I, or P damage; slide 2</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + R, I, or P damage; slide 3</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + R, I, or P damage; <a href="../../../../movement/forced-movement/">slide</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R, I, or P damage; <a href="../../../../movement/forced-movement/">slide</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + R, I, or P damage; <a href="../../../../movement/forced-movement/">slide</a> 3</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

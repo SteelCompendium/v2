@@ -532,8 +532,8 @@ You have the following [signature ability](../../Browse/rule/combat/signature-ab
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** 2 damage
-- **12-16:** 5 damage; push 1
-- **17+:** 7 damage; push 2
+- **12-16:** 5 damage; [push](../../Browse/movement/forced-movement.md) 1
+- **17+:** 7 damage; [push](../../Browse/movement/forced-movement.md) 2
 
 ##### Dragon Breath {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/dragon-breath"}
 
@@ -1737,9 +1737,9 @@ Additionally, you have the following [signature ability](../../Browse/rule/comba
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 
-- **≤11:** 3 + R, I, or P damage; slide 1
-- **12-16:** 5 + R, I, or P damage; slide 2
-- **17+:** 7 + R, I, or P damage; slide 3
+- **≤11:** 3 + R, I, or P damage; [slide](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 5 + R, I, or P damage; [slide](../../Browse/movement/forced-movement.md) 2
+- **17+:** 7 + R, I, or P damage; [slide](../../Browse/movement/forced-movement.md) 3
 
 **Effect:** The sigil disappears from the creature.
 
@@ -1880,8 +1880,8 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 
 - **≤11:** 2 + R, I, or P damage;
-- **12-16:** 5 + R, I, or P damage; push 1
-- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../Browse/condition/prone.md)
+- **12-16:** 5 + R, I, or P damage; [push](../../Browse/movement/forced-movement.md) 1
+- **17+:** 7 + R, I, or P damage; [push](../../Browse/movement/forced-movement.md) 2; M < STRONG, [prone](../../Browse/condition/prone.md)
 
 ###### Psionic Bolt {data-scc="mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt"}
 
@@ -1893,9 +1893,9 @@ Choose one [signature ability](../../Browse/rule/combat/signature-ability.md) fr
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Reason](../../Browse/rule/character/reason.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 
-- **≤11:** 2 + R, I, or P psychic damage; slide 1
-- **12-16:** 5 + R, I, or P psychic damage; slide 2
-- **17+:** 7 + R, I, or P psychic damage; slide 3
+- **≤11:** 2 + R, I, or P psychic damage; [slide](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 5 + R, I, or P psychic damage; [slide](../../Browse/movement/forced-movement.md) 2
+- **17+:** 7 + R, I, or P psychic damage; [slide](../../Browse/movement/forced-movement.md) 3
 
 ###### Minor Acceleration {data-scc="mcdm.heroes.v1/feature.ability.time-raider/minor-acceleration"}
 

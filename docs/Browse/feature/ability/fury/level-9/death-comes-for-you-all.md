@@ -15,9 +15,9 @@ name: Death Comes for You All!
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/death-comes-for-you-all
 target: Each enemy in the area
-tier1: 7 damage; push 3
-tier2: 10 damage; push 5
-tier3: 15 damage; push 7
+tier1: 7 damage; [push](../../../../movement/forced-movement.md) 3
+tier2: 10 damage; [push](../../../../movement/forced-movement.md) 5
+tier3: 15 damage; [push](../../../../movement/forced-movement.md) 7
 type: ability
 ---
 
@@ -43,9 +43,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage; push 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage; push 5</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 damage; push 7</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">7 damage; <a href="../../../../../movement/forced-movement/">push</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 damage; <a href="../../../../../movement/forced-movement/">push</a> 5</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 damage; <a href="../../../../../movement/forced-movement/">push</a> 7</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

@@ -12,9 +12,9 @@ power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agilit
 scc: mcdm.heroes.v1/feature.ability.whirlwind/extension-of-my-arm
 subtype: signature
 target: One creature
-tier1: 4 + M or A damage; vertical pull 1
-tier2: 7 + M or A damage; vertical pull 2
-tier3: 10 + M or A damage; vertical pull 3
+tier1: 4 + M or A damage; vertical [pull](../../../movement/forced-movement.md) 1
+tier2: 7 + M or A damage; vertical [pull](../../../movement/forced-movement.md) 2
+tier3: 10 + M or A damage; vertical [pull](../../../movement/forced-movement.md) 3
 type: ability
 ---
 
@@ -40,9 +40,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/might/">Might</a> or <a href="../../../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M or A damage; vertical pull 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + M or A damage; vertical pull 2</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + M or A damage; vertical pull 3</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M or A damage; vertical <a href="../../../../movement/forced-movement/">pull</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + M or A damage; vertical <a href="../../../../movement/forced-movement/">pull</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + M or A damage; vertical <a href="../../../../movement/forced-movement/">pull</a> 3</span></div>
 </div>
 </div>
 </article>

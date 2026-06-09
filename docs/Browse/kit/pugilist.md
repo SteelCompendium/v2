@@ -39,7 +39,7 @@ You wear no armor and wield only your unarmed [strikes](../rule/combat/strike.md
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage
-- **12-16:** 6 + M or A damage; slide 1
-- **17+:** 8 + M or A damage; slide 2
+- **12-16:** 6 + M or A damage; [slide](../movement/forced-movement.md) 1
+- **17+:** 8 + M or A damage; [slide](../movement/forced-movement.md) 2
 
-**Effect:** You can [shift](../movement/shifting.md) into any square the target leaves after you slide them.
+**Effect:** You can [shift](../movement/shifting.md) into any square the target leaves after you [slide](../movement/forced-movement.md) them.

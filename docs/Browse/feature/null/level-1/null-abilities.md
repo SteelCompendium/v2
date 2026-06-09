@@ -56,7 +56,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can slide one <a href="../../../../rule/combat/adjacent/">adjacent</a> enemy up to a number of squares equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/forced-movement/">slide</a> one <a href="../../../../rule/combat/adjacent/">adjacent</a> enemy up to a number of squares equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -158,8 +158,8 @@ type: feature
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A damage; <a href="../../../../condition/taunted/">taunted</a> (<a href="../../../../rule/combat/end-of-turn/">EoT</a>)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + A damage; <a href="../../../../condition/taunted/">taunted</a> (<a href="../../../../rule/combat/end-of-turn/">EoT</a>), slide 1</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + A damage; <a href="../../../../condition/taunted/">taunted</a> (<a href="../../../../rule/combat/end-of-turn/">EoT</a>), slide 2</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + A damage; <a href="../../../../condition/taunted/">taunted</a> (<a href="../../../../rule/combat/end-of-turn/">EoT</a>), <a href="../../../../movement/forced-movement/">slide</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 + A damage; <a href="../../../../condition/taunted/">taunted</a> (<a href="../../../../rule/combat/end-of-turn/">EoT</a>), <a href="../../../../movement/forced-movement/">slide</a> 2</span></div>
 </div>
 </div>
 </article>
@@ -181,9 +181,9 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + A psychic damage; vertical pull 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + A psychic damage; vertical pull 2</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + A psychic damage; vertical pull 3</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + A psychic damage; vertical <a href="../../../../movement/forced-movement/">pull</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 + A psychic damage; vertical <a href="../../../../movement/forced-movement/">pull</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + A psychic damage; vertical <a href="../../../../movement/forced-movement/">pull</a> 3</span></div>
 </div>
 </div>
 </article>
@@ -205,14 +205,14 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A damage; push 2</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + A damage; push 4</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + A damage; push 6</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A damage; <a href="../../../../movement/forced-movement/">push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + A damage; <a href="../../../../movement/forced-movement/">push</a> 4</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + A damage; <a href="../../../../movement/forced-movement/">push</a> 6</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Before the push is resolved, you <a href="../../../../movement/teleport/">teleport</a> the target to a square <a href="../../../../rule/combat/adjacent/">adjacent</a> to you and opposite the one they started in. If the target can&#39;t be <a href="../../../../movement/teleport/">teleport</a>ed this way, you can&#39;t push them.</p></div>
+<div class="sc-ability__section-body"><p>Before the <a href="../../../../movement/forced-movement/">push</a> is resolved, you <a href="../../../../movement/teleport/">teleport</a> the target to a square <a href="../../../../rule/combat/adjacent/">adjacent</a> to you and opposite the one they started in. If the target can&#39;t be <a href="../../../../movement/teleport/">teleport</a>ed this way, you can&#39;t <a href="../../../../movement/forced-movement/">push</a> them.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -417,14 +417,14 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Push 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Push 5</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Push 7</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../../../movement/forced-movement/">Push</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../../../movement/forced-movement/">Push</a> 5</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../../movement/forced-movement/">Push</a> 7</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>An object you target must be your <a href="../../../../rule/character/size/">size</a> or smaller. You gain an <a href="../../../../rule/dice/edge/">edge</a> on this ability. Additionally, for each square you push the target, they take 1 psychic damage.</p></div>
+<div class="sc-ability__section-body"><p>An object you target must be your <a href="../../../../rule/character/size/">size</a> or smaller. You gain an <a href="../../../../rule/dice/edge/">edge</a> on this ability. Additionally, for each square you <a href="../../../../movement/forced-movement/">push</a> the target, they take 1 psychic damage.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

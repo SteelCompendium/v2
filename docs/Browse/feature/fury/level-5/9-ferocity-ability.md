@@ -100,14 +100,14 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 damage; push 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 damage; push 5</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">19 damage; push 7</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 damage; <a href="../../../../movement/forced-movement/">push</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 damage; <a href="../../../../movement/forced-movement/">push</a> 5</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">19 damage; <a href="../../../../movement/forced-movement/">push</a> 7</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>When a target would end this <a href="../../../../movement/forced-movement/">forced movement</a> by colliding with a creature or object, they take damage as usual, then are pushed the remaining <a href="../../../../rule/combat/distance/">distance</a> away from the creature or object in the direction they came from. As long as <a href="../../../../movement/forced-movement/">forced movement</a> remains, this effect continues if the target collides with another creature or object.</p></div>
+<div class="sc-ability__section-body"><p>When a target would end this <a href="../../../../movement/forced-movement/">forced movement</a> by colliding with a creature or object, they take damage as usual, then are <a href="../../../../movement/forced-movement/">pushed</a> the remaining <a href="../../../../rule/combat/distance/">distance</a> away from the creature or object in the direction they came from. As long as <a href="../../../../movement/forced-movement/">forced movement</a> remains, this effect continues if the target collides with another creature or object.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

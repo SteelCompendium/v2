@@ -13,9 +13,9 @@ name: Burden of Evil
 power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-6/burden-of-evil
 target: Three enemies
-tier1: Slide 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: Slide 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: Slide 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+tier1: '[Slide](../../../../movement/forced-movement.md) 3; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)'
+tier2: '[Slide](../../../../movement/forced-movement.md) 5; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)'
+tier3: '[Slide](../../../../movement/forced-movement.md) 7; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)'
 type: ability
 ---
 
@@ -41,9 +41,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 3; I &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 5; I &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 7; I &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../../../../movement/forced-movement/">Slide</a> 3; I &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../../../../movement/forced-movement/">Slide</a> 5; I &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../../../movement/forced-movement/">Slide</a> 7; I &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
 </div>
 </div>
 </article>

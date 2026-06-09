@@ -861,9 +861,9 @@ You are the only survivor of a cataclysmic psionic event—an experiment gone wr
 >
 > **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md), [Intuition](../../Browse/rule/character/intuition.md), or [Presence](../../Browse/rule/character/presence.md):**
 >
-> - **≤11:** Push or pull 1
-> - **12-16:** Push or pull 2
-> - **17+:** Push or pull 3
+> - **≤11:** [Push](../../Browse/movement/forced-movement.md) or [pull](../../Browse/movement/forced-movement.md) 1
+> - **12-16:** [Push](../../Browse/movement/forced-movement.md) or [pull](../../Browse/movement/forced-movement.md) 2
+> - **17+:** [Push](../../Browse/movement/forced-movement.md) or [pull](../../Browse/movement/forced-movement.md) 3
 
 **Drawback:** You have psychic weakness 5.
 
@@ -1106,9 +1106,9 @@ You nearly lost your life at sea, but then you heard the voice. Someone—or som
 >
 > **[Power Roll](../../Browse/rule/dice/power-roll.md) + Your Highest [Characteristic](../../Browse/rule/character/characteristic.md) Score:**
 >
-> - **≤11:** 2 damage; push or pull 1
-> - **12-16:** 5 damage; push or pull 2
-> - **17+:** 7 damage; push or pull 3
+> - **≤11:** 2 damage; [push](../../Browse/movement/forced-movement.md) or [pull](../../Browse/movement/forced-movement.md) 1
+> - **12-16:** 5 damage; [push](../../Browse/movement/forced-movement.md) or [pull](../../Browse/movement/forced-movement.md) 2
+> - **17+:** 7 damage; [push](../../Browse/movement/forced-movement.md) or [pull](../../Browse/movement/forced-movement.md) 3
 >
 > **Effect:** You can forgo dealing damage with this ability.
 

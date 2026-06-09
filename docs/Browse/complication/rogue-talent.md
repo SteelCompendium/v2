@@ -26,8 +26,8 @@ You are the only survivor of a cataclysmic psionic event—an experiment gone wr
 >
 > **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 >
-> - **≤11:** Push or pull 1
-> - **12-16:** Push or pull 2
-> - **17+:** Push or pull 3
+> - **≤11:** [Push](../movement/forced-movement.md) or [pull](../movement/forced-movement.md) 1
+> - **12-16:** [Push](../movement/forced-movement.md) or [pull](../movement/forced-movement.md) 2
+> - **17+:** [Push](../movement/forced-movement.md) or [pull](../movement/forced-movement.md) 3
 
 **Drawback:** You have psychic weakness 5.

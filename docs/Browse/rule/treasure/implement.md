@@ -28,7 +28,7 @@ An implement imbued with an [enhancement](enhancement.md) grants you special ben
 
 **Elemental:** Whenever you use an ability with the Air, Earth, Fire, Green, Rot, Void, or Water keyword, you can attune this [implement](implement.md) to that element until the end of the encounter. While the [implement](implement.md) is attuned, you gain an [edge](../dice/edge.md) on [power rolls](../dice/power-roll.md) with that elemental keyword. The [implement](implement.md) can be attuned to only one element at a time.
 
-**Forceful I:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 2 squares.
+**Forceful I:** Whenever you use a magic or psionic ability to [push](../../movement/forced-movement.md) or [pull](../../movement/forced-movement.md) a creature, you can move that creature an additional 2 squares.
 
 **Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have [speed](../character/speed.md) 5 and can automatically climb at full [speed](../character/speed.md) while moving, your [size](../character/size.md) is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your [Might](../character/might.md) is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
 
@@ -66,13 +66,13 @@ An implement imbued with an [enhancement](enhancement.md) grants you special ben
 
 **Celerity:** Immediately after using a magic or psionic ability that requires a main action, you can [shift](../../movement/shifting.md) up to 3 squares, or you can use the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver as a [free maneuver](../combat/free-maneuver.md) (see Maneuvers in Chapter 10: [Combat](../../../Read/heroes/combat.md)).
 
-**Celestine:** As a main action, you conjure up to three stars, which [hover](../../movement/hover.md) in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have [line of effect](../combat/line-of-effect.md) to the enemy, you can also slide them 1 square. Otherwise, the enemy slides 1 square in a random direction.
+**Celestine:** As a main action, you conjure up to three stars, which [hover](../../movement/hover.md) in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have [line of effect](../combat/line-of-effect.md) to the enemy, you can also [slide](../../movement/forced-movement.md) them 1 square. Otherwise, the enemy [slides](../../movement/forced-movement.md) 1 square in a random direction.
 
 **Displacing II:** When you use the [implement](implement.md)'s Displacing I [enhancement](enhancement.md), you can [teleport](../../movement/teleport.md) the creature up to 4 squares. Additionally, the creature takes a [bane](../dice/bane.md) on their next [power roll](../dice/power-roll.md) made before the end of their next [turn](../combat/turn.md).
 
 **Erupting I:** Whenever you damage a creature using a magic or psionic ability that targets only a single creature and obtain a tier 3 outcome, each enemy within 2 squares of the creature takes 3 fire damage after the ability's effects resolve.
 
-**Forceful II:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 3 squares. This replaces the benefit of Forceful I.
+**Forceful II:** Whenever you use a magic or psionic ability to [push](../../movement/forced-movement.md) or [pull](../../movement/forced-movement.md) a creature, you can move that creature an additional 3 squares. This replaces the benefit of Forceful I.
 
 **Hallucinatory:** As a maneuver, you create an area of sensory in[stability](../character/stability.md) in a 2 [aura](../combat/aura.md) centered on yourself. The area is [difficult terrain](../../movement/difficult-terrain.md) for your enemies until the end of the encounter.
 
@@ -112,7 +112,7 @@ An implement imbued with an [enhancement](enhancement.md) grants you special ben
 
 **Erupting II:** The fire damage dealt by the [implement](implement.md)'s Erupting I [enhancement](enhancement.md) increases to 6.
 
-**Forceful III:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 3 squares and that movement can be vertical. This replaces the benefit of Forceful II.
+**Forceful III:** Whenever you use a magic or psionic ability to [push](../../movement/forced-movement.md) or [pull](../../movement/forced-movement.md) a creature, you can move that creature an additional 3 squares and that movement can be vertical. This replaces the benefit of Forceful II.
 
 **Lingering II:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature takes 15 damage at the start of your next [turn](../combat/turn.md). This replaces the benefit of Lingering I.
 

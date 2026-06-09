@@ -2,7 +2,7 @@
 action_type: Main action
 class: "null"
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: Before the push is resolved, you [teleport](../../../../movement/teleport.md) the target to a square [adjacent](../../../../rule/combat/adjacent.md) to you and opposite the one they started in. If the target can't be [teleport](../../../../movement/teleport.md)ed this way, you can't push them.
+effect: Before the [push](../../../../movement/forced-movement.md) is resolved, you [teleport](../../../../movement/teleport.md) the target to a square [adjacent](../../../../rule/combat/adjacent.md) to you and opposite the one they started in. If the target can't be [teleport](../../../../movement/teleport.md)ed this way, you can't [push](../../../../movement/forced-movement.md) them.
 flavor: You step momentarily out of phase as you pull an enemy through you.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'
@@ -15,9 +15,9 @@ power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-1/phase-inversion-strike
 subtype: signature
 target: One creature or object
-tier1: 4 + A damage; push 2
-tier2: 6 + A damage; push 4
-tier3: 8 + A damage; push 6
+tier1: 4 + A damage; [push](../../../../movement/forced-movement.md) 2
+tier2: 6 + A damage; [push](../../../../movement/forced-movement.md) 4
+tier3: 8 + A damage; [push](../../../../movement/forced-movement.md) 6
 type: ability
 ---
 
@@ -43,13 +43,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A damage; push 2</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + A damage; push 4</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + A damage; push 6</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A damage; <a href="../../../../../movement/forced-movement/">push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + A damage; <a href="../../../../../movement/forced-movement/">push</a> 4</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + A damage; <a href="../../../../../movement/forced-movement/">push</a> 6</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Before the push is resolved, you <a href="../../../../../movement/teleport/">teleport</a> the target to a square <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you and opposite the one they started in. If the target can&#39;t be <a href="../../../../../movement/teleport/">teleport</a>ed this way, you can&#39;t push them.</p></div>
+<div class="sc-ability__section-body"><p>Before the <a href="../../../../../movement/forced-movement/">push</a> is resolved, you <a href="../../../../../movement/teleport/">teleport</a> the target to a square <a href="../../../../../rule/combat/adjacent/">adjacent</a> to you and opposite the one they started in. If the target can&#39;t be <a href="../../../../../movement/teleport/">teleport</a>ed this way, you can&#39;t <a href="../../../../../movement/forced-movement/">push</a> them.</p></div>
 </div>
 </article>

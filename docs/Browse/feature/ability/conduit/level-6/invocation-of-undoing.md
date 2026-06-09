@@ -12,9 +12,9 @@ name: Invocation of Undoing
 power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-6/invocation-of-undoing
 target: Each enemy in the area
-tier1: 3 sonic damage; push 3
-tier2: 6 sonic damage; push 5
-tier3: 9 sonic damage; push 7
+tier1: 3 sonic damage; [push](../../../../movement/forced-movement.md) 3
+tier2: 6 sonic damage; [push](../../../../movement/forced-movement.md) 5
+tier3: 9 sonic damage; [push](../../../../movement/forced-movement.md) 7
 type: ability
 ---
 
@@ -40,13 +40,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 sonic damage; push 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 sonic damage; push 5</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 sonic damage; push 7</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 sonic damage; <a href="../../../../../movement/forced-movement/">push</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 sonic damage; <a href="../../../../../movement/forced-movement/">push</a> 5</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 sonic damage; <a href="../../../../../movement/forced-movement/">push</a> 7</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>You can choose to have this ability deal damage to and push objects, and to deal damage to buildings.</p></div>
+<div class="sc-ability__section-body"><p>You can choose to have this ability deal damage to and <a href="../../../../../movement/forced-movement/">push</a> objects, and to deal damage to buildings.</p></div>
 </div>
 </article>

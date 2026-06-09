@@ -3,7 +3,7 @@ action_type: Main action
 class: talent
 cost: 3 Clarity
 distance: '[Ranged](../../../../rule/combat/ranged.md) 10'
-effect: You can vertical pull the target up to 2 squares. If the target is made [restrained](../../../../condition/restrained.md) by this ability, this [forced movement](../../../../movement/forced-movement.md) ignores their [stability](../../../../rule/character/stability.md).
+effect: You can vertical [pull](../../../../movement/forced-movement.md) the target up to 2 squares. If the target is made [restrained](../../../../condition/restrained.md) by this ability, this [forced movement](../../../../movement/forced-movement.md) ignores their [stability](../../../../rule/character/stability.md).
 flavor: You crush a foe in a telekinetic grip.
 keywords:
     - Psionic
@@ -50,6 +50,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can vertical pull the target up to 2 squares. If the target is made <a href="../../../../../condition/restrained/">restrained</a> by this ability, this <a href="../../../../../movement/forced-movement/">forced movement</a> ignores their <a href="../../../../../rule/character/stability/">stability</a>.</p></div>
+<div class="sc-ability__section-body"><p>You can vertical <a href="../../../../../movement/forced-movement/">pull</a> the target up to 2 squares. If the target is made <a href="../../../../../condition/restrained/">restrained</a> by this ability, this <a href="../../../../../movement/forced-movement/">forced movement</a> ignores their <a href="../../../../../rule/character/stability/">stability</a>.</p></div>
 </div>
 </article>

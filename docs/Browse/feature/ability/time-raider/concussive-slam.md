@@ -13,8 +13,8 @@ scc: mcdm.heroes.v1/feature.ability.time-raider/concussive-slam
 subtype: signature
 target: One creature or object
 tier1: 2 + R, I, or P damage;
-tier2: 5 + R, I, or P damage; push 1
-tier3: 7 + R, I, or P damage; push 2; M < STRONG, [prone](../../../condition/prone.md)
+tier2: 5 + R, I, or P damage; [push](../../../movement/forced-movement.md) 1
+tier3: 7 + R, I, or P damage; [push](../../../movement/forced-movement.md) 2; M < STRONG, [prone](../../../condition/prone.md)
 type: ability
 ---
 
@@ -41,8 +41,8 @@ type: ability
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/reason/">Reason</a>, <a href="../../../../rule/character/intuition/">Intuition</a>, or <a href="../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R, I, or P damage;</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R, I, or P damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + R, I, or P damage; push 2; M &lt; STRONG, <a href="../../../../condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R, I, or P damage; <a href="../../../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + R, I, or P damage; <a href="../../../../movement/forced-movement/">push</a> 2; M &lt; STRONG, <a href="../../../../condition/prone/">prone</a></span></div>
 </div>
 </div>
 </article>

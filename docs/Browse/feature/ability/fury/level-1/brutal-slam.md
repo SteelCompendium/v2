@@ -13,9 +13,9 @@ power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/brutal-slam
 subtype: signature
 target: One creature or object
-tier1: 3 + M damage; push 1
-tier2: 6 + M damage; push 2
-tier3: 9 + M damage; push 4
+tier1: 3 + M damage; [push](../../../../movement/forced-movement.md) 1
+tier2: 6 + M damage; [push](../../../../movement/forced-movement.md) 2
+tier3: 9 + M damage; [push](../../../../movement/forced-movement.md) 4
 type: ability
 ---
 
@@ -41,9 +41,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M damage; push 2</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + M damage; push 4</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M damage; <a href="../../../../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M damage; <a href="../../../../../movement/forced-movement/">push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + M damage; <a href="../../../../../movement/forced-movement/">push</a> 4</span></div>
 </div>
 </div>
 </article>

@@ -49,9 +49,9 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 holy damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 holy damage; push 2</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 holy damage; push 3</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 holy damage; <a href="../../../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">4 holy damage; <a href="../../../../movement/forced-movement/">push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">6 holy damage; <a href="../../../../movement/forced-movement/">push</a> 3</span></div>
 </div>
 </div>
 </article>
@@ -132,7 +132,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy <a href="../../../../rule/combat/adjacent/">adjacent</a> to the target is pushed away from the target up to a number of squares equal to your <a href="../../../../rule/character/presence/">Presence</a> score.</p></div>
+<div class="sc-ability__section-body"><p>Each enemy <a href="../../../../rule/combat/adjacent/">adjacent</a> to the target is <a href="../../../../movement/forced-movement/">pushed</a> away from the target up to a number of squares equal to your <a href="../../../../rule/character/presence/">Presence</a> score.</p></div>
 </div>
 </article>
 </div>
@@ -203,14 +203,14 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M damage; push 3</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + M damage; push 5</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M damage; <a href="../../../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M damage; <a href="../../../../movement/forced-movement/">push</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + M damage; <a href="../../../../movement/forced-movement/">push</a> 5</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a> in a straight line toward the target after pushing them.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a> in a straight line toward the target after <a href="../../../../movement/forced-movement/">pushing</a> them.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -328,7 +328,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy <a href="../../../../condition/frightened/">frightened</a> this way is pushed up to 2 squares away from the target and takes psychic damage equal to your <a href="../../../../rule/character/presence/">Presence</a> score.</p></div>
+<div class="sc-ability__section-body"><p>Each enemy <a href="../../../../condition/frightened/">frightened</a> this way is <a href="../../../../movement/forced-movement/">pushed</a> up to 2 squares away from the target and takes psychic damage equal to your <a href="../../../../rule/character/presence/">Presence</a> score.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

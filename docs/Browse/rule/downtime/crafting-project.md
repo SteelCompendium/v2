@@ -151,7 +151,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Swift:** You gain a +1 [bonus](../dice/bonuses-and-penalties.md) to [speed](../character/speed.md).
 
-**Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an [adjacent](../combat/adjacent.md) creature deals damage to you before the end of your next [turn](../combat/turn.md), they take lightning damage equal to your highest [characteristic](../character/characteristic.md) score and you can push them 1 square.
+**Tempest I:** As a maneuver, you infuse this armor with the essence of a storm. The first time an [adjacent](../combat/adjacent.md) creature deals damage to you before the end of your next [turn](../combat/turn.md), they take lightning damage equal to your highest [characteristic](../character/characteristic.md) score and you can [push](../../movement/forced-movement.md) them 1 square.
 
 #### 1st-Level Armor Enhancements Table
 
@@ -188,9 +188,9 @@ You can use an absorbed ability as if you knew it, making [power rolls](../dice/
 
 **[Power Roll](../dice/power-roll.md) + Your Highest [Characteristic](../character/characteristic.md) Score:**
 
-- **≤11:** 8 damage; push 3
-- **12-16:** 12 damage; push 4
-- **17+:** 15 damage; push 5
+- **≤11:** 8 damage; [push](../../movement/forced-movement.md) 3
+- **12-16:** 12 damage; [push](../../movement/forced-movement.md) 4
+- **17+:** 15 damage; [push](../../movement/forced-movement.md) 5
 
 **Levitating:** On your [turn](../combat/turn.md), you can treat up to 5 consecutive squares of movement as [flying](../../movement/fly.md) movement. If you are still in midair at the end of your [turn](../combat/turn.md), you [fall prone](../../condition/prone.md).
 
@@ -206,7 +206,7 @@ You can use an absorbed ability as if you knew it, making [power rolls](../dice/
 
 **Shattering:** Whenever an enemy scores a [critical hit](../combat/critical-hit.md) against you, they take 10 sonic damage.
 
-**Tempest II:** When you use the armor's Tempest I [enhancement](../treasure/enhancement.md), the affected creature takes 8 lightning damage and you push them up to 3 squares.
+**Tempest II:** When you use the armor's Tempest I [enhancement](../treasure/enhancement.md), the affected creature takes 8 lightning damage and you [push](../../movement/forced-movement.md) them up to 3 squares.
 
 #### 5th-Level Armor Enhancements Table
 
@@ -307,7 +307,7 @@ An implement imbued with an [enhancement](../treasure/enhancement.md) grants you
 
 **Elemental:** Whenever you use an ability with the Air, Earth, Fire, Green, Rot, Void, or Water keyword, you can attune this [implement](../treasure/implement.md) to that element until the end of the encounter. While the [implement](../treasure/implement.md) is attuned, you gain an [edge](../dice/edge.md) on [power rolls](../dice/power-roll.md) with that elemental keyword. The [implement](../treasure/implement.md) can be attuned to only one element at a time.
 
-**Forceful I:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 2 squares.
+**Forceful I:** Whenever you use a magic or psionic ability to [push](../../movement/forced-movement.md) or [pull](../../movement/forced-movement.md) a creature, you can move that creature an additional 2 squares.
 
 **Rat Form:** As a maneuver, you transform into a rat. Your equipment transforms with you. As a rat, you have [speed](../character/speed.md) 5 and can automatically climb at full [speed](../character/speed.md) while moving, your [size](../character/size.md) is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your [Might](../character/might.md) is −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
 
@@ -345,13 +345,13 @@ An implement imbued with an [enhancement](../treasure/enhancement.md) grants you
 
 **Celerity:** Immediately after using a magic or psionic ability that requires a main action, you can [shift](../../movement/shifting.md) up to 3 squares, or you can use the [Escape Grab](../../feature/common/maneuvers/escape-grab.md) maneuver as a [free maneuver](../combat/free-maneuver.md) (see Maneuvers in Chapter 10: [Combat](../../../Read/heroes/combat.md)).
 
-**Celestine:** As a main action, you conjure up to three stars, which [hover](../../movement/hover.md) in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have [line of effect](../combat/line-of-effect.md) to the enemy, you can also slide them 1 square. Otherwise, the enemy slides 1 square in a random direction.
+**Celestine:** As a main action, you conjure up to three stars, which [hover](../../movement/hover.md) in unoccupied squares of your choice within 5 squares of you. The stars remain in place, and disappear if you create more stars. When an enemy enters any star's space, the star detonates and is destroyed, and the enemy takes 10 fire damage. If you have [line of effect](../combat/line-of-effect.md) to the enemy, you can also [slide](../../movement/forced-movement.md) them 1 square. Otherwise, the enemy [slides](../../movement/forced-movement.md) 1 square in a random direction.
 
 **Displacing II:** When you use the [implement](../treasure/implement.md)'s Displacing I [enhancement](../treasure/enhancement.md), you can [teleport](../../movement/teleport.md) the creature up to 4 squares. Additionally, the creature takes a [bane](../dice/bane.md) on their next [power roll](../dice/power-roll.md) made before the end of their next [turn](../combat/turn.md).
 
 **Erupting I:** Whenever you damage a creature using a magic or psionic ability that targets only a single creature and obtain a tier 3 outcome, each enemy within 2 squares of the creature takes 3 fire damage after the ability's effects resolve.
 
-**Forceful II:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 3 squares. This replaces the benefit of Forceful I.
+**Forceful II:** Whenever you use a magic or psionic ability to [push](../../movement/forced-movement.md) or [pull](../../movement/forced-movement.md) a creature, you can move that creature an additional 3 squares. This replaces the benefit of Forceful I.
 
 **Hallucinatory:** As a maneuver, you create an area of sensory in[stability](../character/stability.md) in a 2 [aura](../combat/aura.md) centered on yourself. The area is [difficult terrain](../../movement/difficult-terrain.md) for your enemies until the end of the encounter.
 
@@ -391,7 +391,7 @@ An implement imbued with an [enhancement](../treasure/enhancement.md) grants you
 
 **Erupting II:** The fire damage dealt by the [implement](../treasure/implement.md)'s Erupting I [enhancement](../treasure/enhancement.md) increases to 6.
 
-**Forceful III:** Whenever you use a magic or psionic ability to push or pull a creature, you can move that creature an additional 3 squares and that movement can be vertical. This replaces the benefit of Forceful II.
+**Forceful III:** Whenever you use a magic or psionic ability to [push](../../movement/forced-movement.md) or [pull](../../movement/forced-movement.md) a creature, you can move that creature an additional 3 squares and that movement can be vertical. This replaces the benefit of Forceful II.
 
 **Lingering II:** Whenever you damage a creature using a magic or psionic ability and obtain a tier 3 outcome, that creature takes 15 damage at the start of your next [turn](../combat/turn.md). This replaces the benefit of Lingering I.
 
@@ -447,7 +447,7 @@ A hero who has a kit that uses unarmed [strikes](../combat/strike.md), such as t
 
 **Terrifying I:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 2 psychic damage.
 
-**Thundering I:** Whenever you deal [rolled damage](../damage/rolled-damage.md) to a creature using this weapon, you can push that creature 1 square after the other effects of the ability resolve.
+**Thundering I:** Whenever you deal [rolled damage](../damage/rolled-damage.md) to a creature using this weapon, you can [push](../../movement/forced-movement.md) that creature 1 square after the other effects of the ability resolve.
 
 **Vengeance I:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last [turn](../combat/turn.md), the ability deals an extra 2 damage.
 
@@ -508,7 +508,7 @@ A hero who has a kit that uses unarmed [strikes](../combat/strike.md), such as t
 >
 > **Terrifying II:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 4 psychic damage and is [frightened](../../condition/frightened.md) (save ends). This replaces the benefit of Terrifying I.
 >
-> **Thundering II:** Whenever you deal [rolled damage](../damage/rolled-damage.md) to a creature using this weapon, you can push that creature up to 3 squares after the other effects of the ability resolve. If you obtained a tier 3 outcome, the creature is also [knocked prone](../../condition/prone.md) after being pushed. This replaces the benefit of Thundering I.
+> **Thundering II:** Whenever you deal [rolled damage](../damage/rolled-damage.md) to a creature using this weapon, you can [push](../../movement/forced-movement.md) that creature up to 3 squares after the other effects of the ability resolve. If you obtained a tier 3 outcome, the creature is also [knocked prone](../../condition/prone.md) after being [pushed](../../movement/forced-movement.md). This replaces the benefit of Thundering I.
 >
 > **Vengeance II:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last [turn](../combat/turn.md), the ability deals an extra 4 damage. This replaces the benefit of Vengeance I.
 
@@ -563,7 +563,7 @@ A hero who has a kit that uses unarmed [strikes](../combat/strike.md), such as t
 >
 > **Terrifying III:** Whenever you damage a creature with an ability using this weapon and obtain a tier 3 outcome, that creature takes 6 psychic damage and is [frightened](../../condition/frightened.md) (save ends). This replaces the benefit of Terrifying II.
 >
-> **Thundering III:** Whenever you deal [rolled damage](../damage/rolled-damage.md) to a creature using this weapon, you can vertical push that creature up to 5 squares and knock them [prone](../../condition/prone.md) after the other effects of the ability resolve. If the creature takes or deals damage as a result of this movement, they also take 5 thunder damage. This replaces the benefit of Thundering II.
+> **Thundering III:** Whenever you deal [rolled damage](../damage/rolled-damage.md) to a creature using this weapon, you can vertical [push](../../movement/forced-movement.md) that creature up to 5 squares and knock them [prone](../../condition/prone.md) after the other effects of the ability resolve. If the creature takes or deals damage as a result of this movement, they also take 5 thunder damage. This replaces the benefit of Thundering II.
 >
 > **Vengeance III:** Whenever you use a damage-dealing ability using this weapon against a creature who has dealt damage to you since the end of your last [turn](../combat/turn.md), the ability deals an extra 6 damage. This replaces the benefit of Vengeance II.
 >

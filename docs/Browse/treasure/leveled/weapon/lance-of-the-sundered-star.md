@@ -26,8 +26,8 @@ type: treasure
 
 **Project Goal:** 450
 
-**1st Level:** Any weapon ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to push a target, you can [shift](../../../movement/shifting.md) to any square [adjacent](../../../rule/combat/adjacent.md) to the target after the push.
+**1st Level:** Any weapon ability that deals [rolled damage](../../../rule/damage/rolled-damage.md) using this weapon deals an extra 1 holy damage. Additionally, when the weapon is used with a weapon ability that allows you to [push](../../../movement/forced-movement.md) a target, you can [shift](../../../movement/shifting.md) to any square [adjacent](../../../rule/combat/adjacent.md) to the target after the [push](../../../movement/forced-movement.md).
 
 **5th Level:** The weapon's extra holy damage increases to 2. Additionally, whenever you use the [Charge](../../../feature/common/main-actions/charge.md) main action and use an ability with the Charge keyword, or whenever you use an ability that allows you to [shift](../../../movement/shifting.md), you can [fly](../../../movement/fly.md) as part of the charge movement or the [shift](../../../movement/shifting.md). If you don't end your [flying](../../../movement/fly.md) movement on the ground, you fall.
 
-**9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to push or slide a target, that [forced movement](../../../movement/forced-movement.md) can be vertical.
+**9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to [push](../../../movement/forced-movement.md) or [slide](../../../movement/forced-movement.md) a target, that [forced movement](../../../movement/forced-movement.md) can be vertical.

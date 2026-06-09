@@ -13,9 +13,9 @@ name: Visceral Roar
 power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-2/visceral-roar
 target: Each enemy in the area
-tier1: 2 damage; push 1; M < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: 5 damage; push 2; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: 7 damage; push 3; M < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+tier1: 2 damage; [push](../../../../movement/forced-movement.md) 1; M < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+tier2: 5 damage; [push](../../../../movement/forced-movement.md) 2; M < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+tier3: 7 damage; [push](../../../../movement/forced-movement.md) 3; M < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 
@@ -41,9 +41,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; push 1; M &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; push 2; M &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; push 3; M &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; <a href="../../../../../movement/forced-movement/">push</a> 1; M &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; <a href="../../../../../movement/forced-movement/">push</a> 2; M &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; <a href="../../../../../movement/forced-movement/">push</a> 3; M &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

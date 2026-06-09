@@ -128,7 +128,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ##### Nature Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes acid, cold, fire, lightning, poison, or sonic damage.
-- **Prayer Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your [Intuition](../rule/character/intuition.md) score. You can slide each creature up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score. The vines then fade away.
+- **Prayer Effect:** Vines whip up from the floor or ground within 10 squares, wrapping around a number of creatures equal to your [Intuition](../rule/character/intuition.md) score. You can [slide](../movement/forced-movement.md) each creature up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score. The vines then fade away.
 
 ##### Protection Domain Piety and Effect
 
@@ -148,7 +148,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 ##### Trickery Domain Piety and Effect
 
 - **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the [Aid Attack](../feature/common/maneuvers/aid-attack.md) or [Hide](../skill/hide.md) maneuver.
-- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](conduit.md) level.
+- **Prayer Effect:** You [slide](../movement/forced-movement.md) one creature within 10 squares of you up to a number of squares equal to 5 + your [conduit](conduit.md) level.
 
 ##### War Domain Piety and Effect
 
@@ -443,9 +443,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
-- **≤11:** 3 + I holy damage; vertical pull 2
-- **12-16:** 5 + I holy damage; vertical pull 3
-- **17+:** 8 + I holy damage; vertical pull 4
+- **≤11:** 3 + I holy damage; vertical [pull](../movement/forced-movement.md) 2
+- **12-16:** 5 + I holy damage; vertical [pull](../movement/forced-movement.md) 3
+- **17+:** 8 + I holy damage; vertical [pull](../movement/forced-movement.md) 4
 
 ##### Lightfall {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/lightfall"}
 
@@ -492,9 +492,9 @@ Choose two [signature abilities](../rule/combat/signature-ability.md) from the f
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
-- **≤11:** 3 + I holy damage; slide 1
-- **12-16:** 5 + I holy damage; slide 2
-- **17+:** 8 + I holy damage; slide 3
+- **≤11:** 3 + I holy damage; [slide](../movement/forced-movement.md) 1
+- **12-16:** 5 + I holy damage; [slide](../movement/forced-movement.md) 2
+- **17+:** 8 + I holy damage; [slide](../movement/forced-movement.md) 3
 
 ##### Warrior's Prayer {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/warriors-prayer"}
 
@@ -547,11 +547,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
-- **≤11:** 2 sonic damage; push 1
-- **12-16:** 3 sonic damage; push 2
-- **17+:** 5 sonic damage; push 3
+- **≤11:** 2 sonic damage; [push](../movement/forced-movement.md) 1
+- **12-16:** 3 sonic damage; [push](../movement/forced-movement.md) 2
+- **17+:** 5 sonic damage; [push](../movement/forced-movement.md) 3
 
-**Effect:** You can push each willing ally in the area the same [distance](../rule/combat/distance.md), ignoring [stability](../rule/character/stability.md).
+**Effect:** You can [push](../movement/forced-movement.md) each willing ally in the area the same [distance](../rule/combat/distance.md), ignoring [stability](../rule/character/stability.md).
 
 ##### Font of Wrath {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-1/font-of-wrath"}
 
@@ -822,9 +822,9 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
-- **≤11:** 2 lightning damage; vertical slide 1
-- **12-16:** 5 lightning damage; vertical slide 2
-- **17+:** 7 lightning damage; vertical slide 3
+- **≤11:** 2 lightning damage; vertical [slide](../movement/forced-movement.md) 1
+- **12-16:** 5 lightning damage; vertical [slide](../movement/forced-movement.md) 2
+- **17+:** 7 lightning damage; vertical [slide](../movement/forced-movement.md) 3
 
 ##### Statue of Power {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-2/statue-of-power"}
 
@@ -1139,7 +1139,7 @@ Choose one of your domains. You gain a [heroic ability](../rule/general/heroic-a
 |------------------|---------------------------------:|
 | **📏 4 [aura](../rule/combat/aura.md)**    | **🎯 Each creature in the area** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), at the end of each of your [turns](../rule/combat/turn.md), you can slide each creature in the area up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score. This [forced movement](../movement/forced-movement.md) ignores [stability](../rule/character/stability.md) for your allies.
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), at the end of each of your [turns](../rule/combat/turn.md), you can [slide](../movement/forced-movement.md) each creature in the area up to a number of squares equal to your [Intuition](../rule/character/intuition.md) score. This [forced movement](../movement/forced-movement.md) ignores [stability](../rule/character/stability.md) for your allies.
 
 ##### Blade of the Heavens {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/blade-of-the-heavens"}
 
@@ -1219,11 +1219,11 @@ Once on each subsequent [turn](../rule/combat/turn.md), you can use a [free mane
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
-- **≤11:** 3 sonic damage; push 3
-- **12-16:** 6 sonic damage; push 5
-- **17+:** 9 sonic damage; push 7
+- **≤11:** 3 sonic damage; [push](../movement/forced-movement.md) 3
+- **12-16:** 6 sonic damage; [push](../movement/forced-movement.md) 5
+- **17+:** 9 sonic damage; [push](../movement/forced-movement.md) 7
 
-**Special:** You can choose to have this ability deal damage to and push objects, and to deal damage to buildings.
+**Special:** You can choose to have this ability deal damage to and [push](../movement/forced-movement.md) objects, and to deal damage to buildings.
 
 ##### Lauded by God {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/lauded-by-god"}
 
@@ -1247,11 +1247,11 @@ Once on each subsequent [turn](../rule/combat/turn.md), you can use a [free mane
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
-- **≤11:** 6 lightning damage; push 1
-- **12-16:** 9 lightning damage; push 2
-- **17+:** 13 lightning damage; push 3
+- **≤11:** 6 lightning damage; [push](../movement/forced-movement.md) 1
+- **12-16:** 9 lightning damage; [push](../movement/forced-movement.md) 2
+- **17+:** 13 lightning damage; [push](../movement/forced-movement.md) 3
 
-**Effect:** The targets are [force moved](../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
+**Effect:** The targets are [force moved](../movement/forced-movement.md) one at a time, starting with the target nearest to you, and can be [pushed](../movement/forced-movement.md) into other targets in the same line.
 
 ##### Revitalizing Grace {data-scc="mcdm.heroes.v1/feature.ability.conduit.level-6/revitalizing-grace"}
 
@@ -1473,9 +1473,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 **[Power Roll](../rule/dice/power-roll.md) + [Intuition](../rule/character/intuition.md):**
 
-- **≤11:** 9 + I holy damage; slide 3
-- **12-16:** 13 + I holy damage; slide 4
-- **17+:** 18 + I holy damage; slide 6
+- **≤11:** 9 + I holy damage; [slide](../movement/forced-movement.md) 3
+- **12-16:** 13 + I holy damage; [slide](../movement/forced-movement.md) 4
+- **17+:** 18 + I holy damage; [slide](../movement/forced-movement.md) 6
 
 **Effect:** Each ally the target comes [adjacent](../rule/combat/adjacent.md) to during the [forced movement](../movement/forced-movement.md) can spend a [Recovery](../rule/health/recoveries.md).
 

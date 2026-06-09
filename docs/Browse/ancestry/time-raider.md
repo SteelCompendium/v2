@@ -145,8 +145,8 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 2 + R, I, or P damage;
-- **12-16:** 5 + R, I, or P damage; push 1
-- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, [prone](../condition/prone.md)
+- **12-16:** 5 + R, I, or P damage; [push](../movement/forced-movement.md) 1
+- **17+:** 7 + R, I, or P damage; [push](../movement/forced-movement.md) 2; M < STRONG, [prone](../condition/prone.md)
 
 ##### Psionic Bolt {data-scc="mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt"}
 
@@ -158,9 +158,9 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
-- **≤11:** 2 + R, I, or P psychic damage; slide 1
-- **12-16:** 5 + R, I, or P psychic damage; slide 2
-- **17+:** 7 + R, I, or P psychic damage; slide 3
+- **≤11:** 2 + R, I, or P psychic damage; [slide](../movement/forced-movement.md) 1
+- **12-16:** 5 + R, I, or P psychic damage; [slide](../movement/forced-movement.md) 2
+- **17+:** 7 + R, I, or P psychic damage; [slide](../movement/forced-movement.md) 3
 
 ##### Minor Acceleration {data-scc="mcdm.heroes.v1/feature.ability.time-raider/minor-acceleration"}
 

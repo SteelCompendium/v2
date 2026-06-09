@@ -12,9 +12,9 @@ power_roll_characteristic: '[Might](../../../rule/character/might.md) or [Agilit
 scc: mcdm.heroes.v1/feature.ability.sword-and-board/shield-bash
 subtype: signature
 target: One creature
-tier1: 4 + M or A damage; push 1
-tier2: 7 + M or A damage; push 2
-tier3: 9 + M or A damage; push 3; M < STRONG[, prone](../../../condition/prone.md)
+tier1: 4 + M or A damage; [push](../../../movement/forced-movement.md) 1
+tier2: 7 + M or A damage; [push](../../../movement/forced-movement.md) 2
+tier3: 9 + M or A damage; [push](../../../movement/forced-movement.md) 3; M < STRONG[, prone](../../../condition/prone.md)
 type: ability
 ---
 
@@ -40,9 +40,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/might/">Might</a> or <a href="../../../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M or A damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + M or A damage; push 2</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + M or A damage; push 3; M &lt; STRONG<a href="../../../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M or A damage; <a href="../../../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + M or A damage; <a href="../../../../movement/forced-movement/">push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + M or A damage; <a href="../../../../movement/forced-movement/">push</a> 3; M &lt; STRONG<a href="../../../../condition/prone/">, prone</a></span></div>
 </div>
 </div>
 </article>

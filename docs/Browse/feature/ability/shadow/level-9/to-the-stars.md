@@ -14,9 +14,9 @@ name: To the Stars
 power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-9/to-the-stars
 target: One creature or object
-tier1: 4 + A fire damage; vertical push 8
-tier2: 7 + A fire damage; vertical push 10
-tier3: 11 + A fire damage; vertical push 15
+tier1: 4 + A fire damage; vertical [push](../../../../movement/forced-movement.md) 8
+tier2: 7 + A fire damage; vertical [push](../../../../movement/forced-movement.md) 10
+tier3: 11 + A fire damage; vertical [push](../../../../movement/forced-movement.md) 15
 type: ability
 ---
 
@@ -42,9 +42,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A fire damage; vertical push 8</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + A fire damage; vertical push 10</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + A fire damage; vertical push 15</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + A fire damage; vertical <a href="../../../../../movement/forced-movement/">push</a> 8</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + A fire damage; vertical <a href="../../../../../movement/forced-movement/">push</a> 10</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + A fire damage; vertical <a href="../../../../../movement/forced-movement/">push</a> 15</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

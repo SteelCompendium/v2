@@ -17,7 +17,7 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>A creature wanting to push an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature away from them can attempt to shove that creature using the following ability.</p>
+<p class="sc-trait__leadin"><span class="sc-trait__dia"></span>A creature wanting to <a href="../../../../movement/forced-movement/">push</a> an <a href="../../../../rule/combat/adjacent/">adjacent</a> creature away from them can attempt to shove that creature using the following ability.</p>
 <div class="sc-trait__nest">
 <article class="sc-ability sc-fil" data-action="maneuver">
 <div class="sc-ability__head">
@@ -36,9 +36,9 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Push 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Push 2</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Push 3</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../../../movement/forced-movement/">Push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../../../movement/forced-movement/">Push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../../movement/forced-movement/">Push</a> 3</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

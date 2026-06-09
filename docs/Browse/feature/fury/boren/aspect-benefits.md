@@ -19,6 +19,6 @@ type: feature
 </div>
 </header>
 <div class="sc-trait__body">
-<p>Whenever you use <a href="../../../../movement/forced-movement/">forced movement</a> to push a creature, you can pull that creature instead. Whenever you pull a creature <a href="../../../../rule/combat/adjacent/">adjacent</a> to you and that creature has M &lt; AVERAGE, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to make that creature <a href="../../../../condition/grabbed/">grabbed</a> by you.</p>
+<p>Whenever you use <a href="../../../../movement/forced-movement/">forced movement</a> to <a href="../../../../movement/forced-movement/">push</a> a creature, you can <a href="../../../../movement/forced-movement/">pull</a> that creature instead. Whenever you <a href="../../../../movement/forced-movement/">pull</a> a creature <a href="../../../../rule/combat/adjacent/">adjacent</a> to you and that creature has M &lt; AVERAGE, you can use a free <a href="../../../../rule/combat/triggered-action/">triggered action</a> to make that creature <a href="../../../../condition/grabbed/">grabbed</a> by you.</p>
 </div>
 </section>

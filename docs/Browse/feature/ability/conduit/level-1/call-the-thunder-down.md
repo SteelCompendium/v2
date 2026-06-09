@@ -3,7 +3,7 @@ action_type: Main action
 class: conduit
 cost: 3 Piety
 distance: 3 [cube](../../../../rule/combat/cube.md) within 10
-effect: You can push each willing ally in the area the same [distance](../../../../rule/combat/distance.md), ignoring [stability](../../../../rule/character/stability.md).
+effect: You can [push](../../../../movement/forced-movement.md) each willing ally in the area the same [distance](../../../../rule/combat/distance.md), ignoring [stability](../../../../rule/character/stability.md).
 flavor: You ask your [saint](../../../../rule/world/saint.md) for thunder and your prayer is answered.
 keywords:
     - Area
@@ -14,9 +14,9 @@ name: Call the Thunder Down
 power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down
 target: Each enemy in the area
-tier1: 2 sonic damage; push 1
-tier2: 3 sonic damage; push 2
-tier3: 5 sonic damage; push 3
+tier1: 2 sonic damage; [push](../../../../movement/forced-movement.md) 1
+tier2: 3 sonic damage; [push](../../../../movement/forced-movement.md) 2
+tier3: 5 sonic damage; [push](../../../../movement/forced-movement.md) 3
 type: ability
 ---
 
@@ -42,13 +42,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 sonic damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 sonic damage; push 2</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 sonic damage; push 3</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 sonic damage; <a href="../../../../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 sonic damage; <a href="../../../../../movement/forced-movement/">push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 sonic damage; <a href="../../../../../movement/forced-movement/">push</a> 3</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can push each willing ally in the area the same <a href="../../../../../rule/combat/distance/">distance</a>, ignoring <a href="../../../../../rule/character/stability/">stability</a>.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../../movement/forced-movement/">push</a> each willing ally in the area the same <a href="../../../../../rule/combat/distance/">distance</a>, ignoring <a href="../../../../../rule/character/stability/">stability</a>.</p></div>
 </div>
 </article>

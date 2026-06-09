@@ -38,6 +38,6 @@ You wear medium armor and wield a shield and a medium weapon.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
-- **≤11:** 4 + M or A damage; push 1
-- **12-16:** 7 + M or A damage; push 2
-- **17+:** 9 + M or A damage; push 3; M < STRONG[, prone](../condition/prone.md)
+- **≤11:** 4 + M or A damage; [push](../movement/forced-movement.md) 1
+- **12-16:** 7 + M or A damage; [push](../movement/forced-movement.md) 2
+- **17+:** 9 + M or A damage; [push](../movement/forced-movement.md) 3; M < STRONG[, prone](../condition/prone.md)

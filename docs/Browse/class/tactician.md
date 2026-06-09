@@ -531,7 +531,7 @@ As a 3rd-level [tactician](tactician.md), you gain the following features.
 
 ### Out of Position {data-scc="mcdm.heroes.v1/feature.tactician.level-3/out-of-position"}
 
-Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free [triggered action](../rule/combat/triggered-action.md) to use your Mark ability against one enemy you have [line of effect](../rule/combat/line-of-effect.md) to, even if you are [surprised](../rule/combat/surprised.md). You can then slide the marked target up to 3 squares, ignoring [stability](../rule/character/stability.md). The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../rule/health/dying.md), or result in them suffering a [condition](../rule/combat/condition.md) or other negative effect.
+Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free [triggered action](../rule/combat/triggered-action.md) to use your Mark ability against one enemy you have [line of effect](../rule/combat/line-of-effect.md) to, even if you are [surprised](../rule/combat/surprised.md). You can then [slide](../movement/forced-movement.md) the marked target up to 3 squares, ignoring [stability](../rule/character/stability.md). The target can't be moved in a way that would harm them (such as over a cliff), leave them [dying](../rule/health/dying.md), or result in them suffering a [condition](../rule/combat/condition.md) or other negative effect.
 
 ### 7-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-3/7-focus-ability"}
 
@@ -546,7 +546,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 |-------------|-------------:|
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), the first time on a [turn](../rule/combat/turn.md) that you or any ally deals damage to a target marked by you, the creature who dealt the damage can push the target up to 2 squares and then [shift](../movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../feature/common/main-actions/charge.md) main action to target a creature marked by you can use a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md) [signature ability](../rule/combat/signature-ability.md) or a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md) [heroic ability](../rule/general/heroic-ability.md) instead of a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md).
+**Effect:** Until the end of the encounter or until you are [dying](../rule/health/dying.md), the first time on a [turn](../rule/combat/turn.md) that you or any ally deals damage to a target marked by you, the creature who dealt the damage can [push](../movement/forced-movement.md) the target up to 2 squares and then [shift](../movement/shifting.md) up to 2 squares. Additionally, any ally using the [Charge](../feature/common/main-actions/charge.md) main action to target a creature marked by you can use a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md) [signature ability](../rule/combat/signature-ability.md) or a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md) [heroic ability](../rule/general/heroic-ability.md) instead of a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md).
 
 #### Hit 'Em Hard! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-3/hit-em-hard"}
 
@@ -743,9 +743,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
-- **≤11:** 6 + M damage; slide 1
-- **12-16:** 9 + M damage; slide 3
-- **17+:** 13 + M damage; slide 5
+- **≤11:** 6 + M damage; [slide](../movement/forced-movement.md) 1
+- **12-16:** 9 + M damage; [slide](../movement/forced-movement.md) 3
+- **17+:** 13 + M damage; [slide](../movement/forced-movement.md) 5
 
 **Effect:** If a target is [force moved](../movement/forced-movement.md) into another creature, they must make a [free strike](../feature/common/main-actions/free-strike.md) against that creature.
 
@@ -897,7 +897,7 @@ You have trained your squad to coordinate their movements to maximize combat imp
 
 You have trained your squad to maximize impact and break enemy lines when they attack.
 
-**Mark Benefit:** When you or any ally makes a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to have the character making the [strike](../rule/combat/strike.md) push the target up to a number of squares equal to your [Reason](../rule/character/reason.md) score. That character can then [shift](../movement/shifting.md) up to a number of squares equal to your [Reason](../rule/character/reason.md) score, ending this [shift](../movement/shifting.md) [adjacent](../rule/combat/adjacent.md) to the target.
+**Mark Benefit:** When you or any ally makes a [melee](../rule/combat/melee.md) [strike](../rule/combat/strike.md) against a creature marked by you, you can spend 2 focus to have the character making the [strike](../rule/combat/strike.md) [push](../movement/forced-movement.md) the target up to a number of squares equal to your [Reason](../rule/character/reason.md) score. That character can then [shift](../movement/shifting.md) up to a number of squares equal to your [Reason](../rule/character/reason.md) score, ending this [shift](../movement/shifting.md) [adjacent](../rule/combat/adjacent.md) to the target.
 
 ### 11-Focus Ability {data-scc="mcdm.heroes.v1/feature.tactician.level-8/11-focus-ability"}
 
@@ -1046,7 +1046,7 @@ Choose one of the following abilities.
 - **12-16:** 16 + M damage
 - **17+:** 21 + M damage
 
-**Effect:** If you use this ability as part of the [Charge](../feature/common/main-actions/charge.md) main action, enemies' spaces don't count as [difficult terrain](../movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
+**Effect:** If you use this ability as part of the [Charge](../feature/common/main-actions/charge.md) main action, enemies' spaces don't count as [difficult terrain](../movement/difficult-terrain.md) for your movement. Additionally, if you move through any creature's space, you can [slide](../movement/forced-movement.md) that creature 1 square out of the path of your charge.
 
 ##### That One Is Mine! {data-scc="mcdm.heroes.v1/feature.ability.tactician.level-9/that-one-is-mine"}
 

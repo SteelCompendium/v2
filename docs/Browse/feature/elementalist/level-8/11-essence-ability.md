@@ -87,7 +87,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create a <a href="../../../../rule/character/size/">size</a> 1L vortex that lasts until the end of the encounter. At the start of each <a href="../../../../rule/combat/combat-round/">combat round</a> while the vortex is unoccupied, the vortex vertical pulls 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is <a href="../../../../condition/prone/">knocked prone</a>. At the end of the round, if a <a href="../../../../rule/health/winded/">winded</a> enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.</p></div>
+<div class="sc-ability__section-body"><p>You create a <a href="../../../../rule/character/size/">size</a> 1L vortex that lasts until the end of the encounter. At the start of each <a href="../../../../rule/combat/combat-round/">combat round</a> while the vortex is unoccupied, the vortex vertical <a href="../../../../movement/forced-movement/">pulls</a> 3 each enemy within 5 squares of it. Each enemy who enters the vortex or starts their turn there is <a href="../../../../condition/prone/">knocked prone</a>. At the end of the round, if a <a href="../../../../rule/health/winded/">winded</a> enemy who is not a leader or solo creature is in the vortex, they are instantly destroyed.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

@@ -26,9 +26,9 @@ You nearly lost your life at sea, but then you heard the voice. Someone—or som
 >
 > **[Power Roll](../rule/dice/power-roll.md) + Your Highest [Characteristic](../rule/character/characteristic.md) Score:**
 >
-> - **≤11:** 2 damage; push or pull 1
-> - **12-16:** 5 damage; push or pull 2
-> - **17+:** 7 damage; push or pull 3
+> - **≤11:** 2 damage; [push](../movement/forced-movement.md) or [pull](../movement/forced-movement.md) 1
+> - **12-16:** 5 damage; [push](../movement/forced-movement.md) or [pull](../movement/forced-movement.md) 2
+> - **17+:** 7 damage; [push](../movement/forced-movement.md) or [pull](../movement/forced-movement.md) 3
 >
 > **Effect:** You can forgo dealing damage with this ability.
 

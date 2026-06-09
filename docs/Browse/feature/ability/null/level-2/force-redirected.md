@@ -14,9 +14,9 @@ name: Force Redirected
 power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-2/force-redirected
 target: One creature
-tier1: 8 + A damage; slide 1
-tier2: 12 + A damage; slide 3
-tier3: 16 + A damage; slide 5
+tier1: 8 + A damage; [slide](../../../../movement/forced-movement.md) 1
+tier2: 12 + A damage; [slide](../../../../movement/forced-movement.md) 3
+tier3: 16 + A damage; [slide](../../../../movement/forced-movement.md) 5
 type: ability
 ---
 
@@ -42,9 +42,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + A damage; slide 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + A damage; slide 3</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + A damage; slide 5</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + A damage; <a href="../../../../../movement/forced-movement/">slide</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + A damage; <a href="../../../../../movement/forced-movement/">slide</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + A damage; <a href="../../../../../movement/forced-movement/">slide</a> 5</span></div>
 </div>
 </div>
 </article>

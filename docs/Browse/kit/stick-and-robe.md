@@ -41,5 +41,5 @@ You wear light armor and wield a polearm.
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 4 + M or A damage
-- **12-16:** 7 + M or A damage; slide 1
-- **17+:** 10 + M or A damage; slide 3
+- **12-16:** 7 + M or A damage; [slide](../movement/forced-movement.md) 1
+- **17+:** 10 + M or A damage; [slide](../movement/forced-movement.md) 3

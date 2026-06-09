@@ -15,9 +15,9 @@ name: Black Ash Eruption
 power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-6/black-ash-eruption
 target: One creature
-tier1: 3 + A damage; vertical push 5
-tier2: 6 + A damage; vertical push 10
-tier3: 9 + A damage; vertical push 15
+tier1: 3 + A damage; vertical [push](../../../../movement/forced-movement.md) 5
+tier2: 6 + A damage; vertical [push](../../../../movement/forced-movement.md) 10
+tier3: 9 + A damage; vertical [push](../../../../movement/forced-movement.md) 15
 type: ability
 ---
 
@@ -43,9 +43,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + A damage; vertical push 5</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + A damage; vertical push 10</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + A damage; vertical push 15</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + A damage; vertical <a href="../../../../../movement/forced-movement/">push</a> 5</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + A damage; vertical <a href="../../../../../movement/forced-movement/">push</a> 10</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + A damage; vertical <a href="../../../../../movement/forced-movement/">push</a> 15</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

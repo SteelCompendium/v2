@@ -125,8 +125,8 @@ You have the following [signature ability](../rule/combat/signature-ability.md).
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Presence](../rule/character/presence.md):**
 
 - **≤11:** 2 damage
-- **12-16:** 5 damage; push 1
-- **17+:** 7 damage; push 2
+- **12-16:** 5 damage; [push](../movement/forced-movement.md) 1
+- **17+:** 7 damage; [push](../movement/forced-movement.md) 2
 
 #### Dragon Breath {data-scc="mcdm.heroes.v1/feature.trait.dragon-knight/dragon-breath"}
 

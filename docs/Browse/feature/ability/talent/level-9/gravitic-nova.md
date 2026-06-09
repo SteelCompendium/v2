@@ -14,9 +14,9 @@ name: Gravitic Nova
 power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-9/gravitic-nova
 target: Each enemy and object in the area
-tier1: 6 damage; push 7
-tier2: 9 damage; push 10
-tier3: 13 damage; push 15
+tier1: 6 damage; [push](../../../../movement/forced-movement.md) 7
+tier2: 9 damage; [push](../../../../movement/forced-movement.md) 10
+tier3: 13 damage; [push](../../../../movement/forced-movement.md) 15
 type: ability
 ---
 
@@ -42,9 +42,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; push 7</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; push 10</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; push 15</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; <a href="../../../../../movement/forced-movement/">push</a> 7</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; <a href="../../../../../movement/forced-movement/">push</a> 10</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; <a href="../../../../../movement/forced-movement/">push</a> 15</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

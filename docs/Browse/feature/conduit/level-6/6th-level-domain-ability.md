@@ -49,7 +49,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, at the end of each of your <a href="../../../../rule/combat/turn/">turns</a>, you can slide each creature in the area up to a number of squares equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score. This <a href="../../../../movement/forced-movement/">forced movement</a> ignores <a href="../../../../rule/character/stability/">stability</a> for your allies.</p></div>
+<div class="sc-ability__section-body"><p>Until the end of the encounter or until you are <a href="../../../../rule/health/dying/">dying</a>, at the end of each of your <a href="../../../../rule/combat/turn/">turns</a>, you can <a href="../../../../movement/forced-movement/">slide</a> each creature in the area up to a number of squares equal to your <a href="../../../../rule/character/intuition/">Intuition</a> score. This <a href="../../../../movement/forced-movement/">forced movement</a> ignores <a href="../../../../rule/character/stability/">stability</a> for your allies.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -185,14 +185,14 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 sonic damage; push 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 sonic damage; push 5</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 sonic damage; push 7</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 sonic damage; <a href="../../../../movement/forced-movement/">push</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 sonic damage; <a href="../../../../movement/forced-movement/">push</a> 5</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 sonic damage; <a href="../../../../movement/forced-movement/">push</a> 7</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
-<div class="sc-ability__section-body"><p>You can choose to have this ability deal damage to and push objects, and to deal damage to buildings.</p></div>
+<div class="sc-ability__section-body"><p>You can choose to have this ability deal damage to and <a href="../../../../movement/forced-movement/">push</a> objects, and to deal damage to buildings.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -233,14 +233,14 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 lightning damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 lightning damage; push 2</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 lightning damage; push 3</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 lightning damage; <a href="../../../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 lightning damage; <a href="../../../../movement/forced-movement/">push</a> 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 lightning damage; <a href="../../../../movement/forced-movement/">push</a> 3</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The targets are <a href="../../../../movement/forced-movement/">force moved</a> one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.</p></div>
+<div class="sc-ability__section-body"><p>The targets are <a href="../../../../movement/forced-movement/">force moved</a> one at a time, starting with the target nearest to you, and can be <a href="../../../../movement/forced-movement/">pushed</a> into other targets in the same line.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

@@ -39,7 +39,7 @@ You wear light armor and wield a medium weapon.
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md) or [Agility](../rule/character/agility.md):**
 
 - **≤11:** 5 + M or A damage
-- **12-16:** 7 + M or A damage; push 1
-- **17+:** 10 + M or A damage; push 2
+- **12-16:** 7 + M or A damage; [push](../movement/forced-movement.md) 1
+- **17+:** 10 + M or A damage; [push](../movement/forced-movement.md) 2
 
-**Effect:** You can [shift](../movement/shifting.md) into any square the target leaves after you push them.
+**Effect:** You can [shift](../movement/shifting.md) into any square the target leaves after you [push](../movement/forced-movement.md) them.

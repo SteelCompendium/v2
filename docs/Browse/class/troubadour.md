@@ -221,9 +221,9 @@ You have the following ability.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** Push 1
-- **12-16:** Push 2
-- **17+:** Push 3
+- **≤11:** [Push](../movement/forced-movement.md) 1
+- **12-16:** [Push](../movement/forced-movement.md) 2
+- **17+:** [Push](../movement/forced-movement.md) 3
 
 #### Star Power {data-scc="mcdm.heroes.v1/feature.troubadour.level-1/star-power"}
 
@@ -443,9 +443,9 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** Slide 1; I < WEAK, [dazed](../condition/dazed.md) (save ends)
-- **12-16:** Slide 1; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
-- **17+:** Slide 2; I < STRONG, [dazed](../condition/dazed.md) (save ends)
+- **≤11:** [Slide](../movement/forced-movement.md) 1; I < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** [Slide](../movement/forced-movement.md) 1; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** [Slide](../movement/forced-movement.md) 2; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 **Spend 2+ Drama:** The size of the [burst](../rule/combat/burst.md) increases by 1 for every 2 drama spent.
 
@@ -669,9 +669,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** 5 corruption damage; M < WEAK, pull 1 toward the center of the area
-- **12-16:** 9 corruption damage; M < AVERAGE, pull 2 toward the center of the area
-- **17+:** 12 corruption damage; M < STRONG, pull 3 toward the center of the area
+- **≤11:** 5 corruption damage; M < WEAK, [pull](../movement/forced-movement.md) 1 toward the center of the area
+- **12-16:** 9 corruption damage; M < AVERAGE, [pull](../movement/forced-movement.md) 2 toward the center of the area
+- **17+:** 12 corruption damage; M < STRONG, [pull](../movement/forced-movement.md) 3 toward the center of the area
 
 ## 3rd-Level Features
 
@@ -738,11 +738,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** Slide 3; P < WEAK, this slide ignores the target's [stability](../rule/character/stability.md)
-- **12-16:** Slide 5; P < AVERAGE, this slide ignores the target's [stability](../rule/character/stability.md)
-- **17+:** Slide 7; P < STRONG, this slide ignores the target's [stability](../rule/character/stability.md)
+- **≤11:** [Slide](../movement/forced-movement.md) 3; P < WEAK, this [slide](../movement/forced-movement.md) ignores the target's [stability](../rule/character/stability.md)
+- **12-16:** [Slide](../movement/forced-movement.md) 5; P < AVERAGE, this [slide](../movement/forced-movement.md) ignores the target's [stability](../rule/character/stability.md)
+- **17+:** [Slide](../movement/forced-movement.md) 7; P < STRONG, this [slide](../movement/forced-movement.md) ignores the target's [stability](../rule/character/stability.md)
 
-**Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
+**Effect:** Instead of [sliding](../movement/forced-movement.md) a target, you can swap their location with another target as long as each can fit into the other's space. You can't [slide](../movement/forced-movement.md) targets into other creatures or objects using this ability.
 
 #### Infernal Gavotte {data-scc="mcdm.heroes.v1/feature.ability.troubadour.level-3/infernal-gavotte"}
 
@@ -773,8 +773,8 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
 - **≤11:** 5 + P damage
-- **12-16:** 8 + P damage; push 3
-- **17+:** 11 + P damage; push 5
+- **12-16:** 8 + P damage; [push](../movement/forced-movement.md) 3
+- **17+:** 11 + P damage; [push](../movement/forced-movement.md) 5
 
 **Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability against the same target for the next 2 [combat rounds](../rule/combat/combat-round.md) without spending drama.
 
@@ -1048,7 +1048,7 @@ Choose one of the following abilities.
 |---------------------------|--------------------:|
 | **📏 [Melee](../rule/combat/melee.md) 1**            | **🎯 One creature** |
 
-**Effect:** You and the target each make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../feature/common/main-actions/free-strike.md) targets and which enemies the target creature's [free strike](../feature/common/main-actions/free-strike.md) targets. You then slide the target 5 squares, ignoring [stability](../rule/character/stability.md).
+**Effect:** You and the target each make a [melee](../rule/combat/melee.md) [free strike](../feature/common/main-actions/free-strike.md) that targets each enemy within 3 squares of either of you, dividing the enemies between each of you. You choose which enemies your [free strike](../feature/common/main-actions/free-strike.md) targets and which enemies the target creature's [free strike](../feature/common/main-actions/free-strike.md) targets. You then [slide](../movement/forced-movement.md) the target 5 squares, ignoring [stability](../rule/character/stability.md).
 
 #### 6th-Level Virtuoso Abilities
 
@@ -1335,9 +1335,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** 12 + P sonic damage; push 5
-- **12-16:** 16 + P sonic damage; push 10
-- **17+:** 22 + P sonic damage; push 15
+- **≤11:** 12 + P sonic damage; [push](../movement/forced-movement.md) 5
+- **12-16:** 16 + P sonic damage; [push](../movement/forced-movement.md) 10
+- **17+:** 22 + P sonic damage; [push](../movement/forced-movement.md) 15
 
 **Effect:** [Forced movement](../movement/forced-movement.md) from this ability ignores [stability](../rule/character/stability.md).
 

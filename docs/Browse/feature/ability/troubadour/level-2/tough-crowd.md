@@ -14,9 +14,9 @@ name: Tough Crowd
 power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-2/tough-crowd
 target: Special
-tier1: 5 corruption damage; M < WEAK, pull 1 toward the center of the area
-tier2: 9 corruption damage; M < AVERAGE, pull 2 toward the center of the area
-tier3: 12 corruption damage; M < STRONG, pull 3 toward the center of the area
+tier1: 5 corruption damage; M < WEAK, [pull](../../../../movement/forced-movement.md) 1 toward the center of the area
+tier2: 9 corruption damage; M < AVERAGE, [pull](../../../../movement/forced-movement.md) 2 toward the center of the area
+tier3: 12 corruption damage; M < STRONG, [pull](../../../../movement/forced-movement.md) 3 toward the center of the area
 type: ability
 ---
 
@@ -42,9 +42,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 corruption damage; M &lt; WEAK, pull 1 toward the center of the area</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 corruption damage; M &lt; AVERAGE, pull 2 toward the center of the area</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 corruption damage; M &lt; STRONG, pull 3 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 corruption damage; M &lt; WEAK, <a href="../../../../../movement/forced-movement/">pull</a> 1 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 corruption damage; M &lt; AVERAGE, <a href="../../../../../movement/forced-movement/">pull</a> 2 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 corruption damage; M &lt; STRONG, <a href="../../../../../movement/forced-movement/">pull</a> 3 toward the center of the area</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

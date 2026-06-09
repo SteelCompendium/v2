@@ -2,7 +2,7 @@
 action_type: Main action
 class: censor
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is pushed away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
+effect: Each enemy [adjacent](../../../../rule/combat/adjacent.md) to the target is [pushed](../../../../movement/forced-movement.md) away from the target up to a number of squares equal to your [Presence](../../../../rule/character/presence.md) score.
 flavor: Your magic [strike](../../../../rule/combat/strike.md) [turns](../../../../rule/combat/turn.md) your foe's guilt into a burst of holy power.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'
@@ -49,6 +49,6 @@ type: ability
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Each enemy <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target is pushed away from the target up to a number of squares equal to your <a href="../../../../../rule/character/presence/">Presence</a> score.</p></div>
+<div class="sc-ability__section-body"><p>Each enemy <a href="../../../../../rule/combat/adjacent/">adjacent</a> to the target is <a href="../../../../../movement/forced-movement/">pushed</a> away from the target up to a number of squares equal to your <a href="../../../../../rule/character/presence/">Presence</a> score.</p></div>
 </div>
 </article>

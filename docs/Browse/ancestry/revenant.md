@@ -124,8 +124,8 @@ Additionally, you have the following [signature ability](../rule/combat/signatur
 
 **[Power Roll](../rule/dice/power-roll.md) + [Reason](../rule/character/reason.md), [Intuition](../rule/character/intuition.md), or [Presence](../rule/character/presence.md):**
 
-- **≤11:** 3 + R, I, or P damage; slide 1
-- **12-16:** 5 + R, I, or P damage; slide 2
-- **17+:** 7 + R, I, or P damage; slide 3
+- **≤11:** 3 + R, I, or P damage; [slide](../movement/forced-movement.md) 1
+- **12-16:** 5 + R, I, or P damage; [slide](../movement/forced-movement.md) 2
+- **17+:** 7 + R, I, or P damage; [slide](../movement/forced-movement.md) 3
 
 **Effect:** The sigil disappears from the creature.

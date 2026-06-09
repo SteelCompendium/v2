@@ -12,9 +12,9 @@ If an ability requires a [power roll](power-roll.md), it has a "[Power Roll](pow
 
 Unlike [power rolls](power-roll.md) made as [tests](../test/test.md) (see Chapter 9), ability rolls always do something useful. You're rolling to determine the impact of the ability, including how much damage it deals and any other effects it imposes based on the [tier outcome](tier-outcome.md) of the [power roll](power-roll.md). For instance, the [fury's](../../class/fury.md) [Brutal Slam](../../feature/ability/fury/level-1/brutal-slam.md) ability is a [melee](../combat/melee.md) [strike](../combat/strike.md) that targets one [adjacent](../combat/adjacent.md) creature (within 1 square), and which has the following effects:
 
-- **Tier 1 (11 or lower):** The ability deals damage equal to 3 + your [Might](../character/might.md) score, then pushes the target back 1 square.
-- **Tier 2 (12-16):** The ability deals damage equal to 6 + your [Might](../character/might.md) score, then pushes the target back 2 squares.
-- **Tier 3 (17 or higher):** The ability deals damage equal to 9 + your [Might](../character/might.md) score, then pushes the target back 4 squares.
+- **Tier 1 (11 or lower):** The ability deals damage equal to 3 + your [Might](../character/might.md) score, then [pushes](../../movement/forced-movement.md) the target back 1 square.
+- **Tier 2 (12-16):** The ability deals damage equal to 6 + your [Might](../character/might.md) score, then [pushes](../../movement/forced-movement.md) the target back 2 squares.
+- **Tier 3 (17 or higher):** The ability deals damage equal to 9 + your [Might](../character/might.md) score, then [pushes](../../movement/forced-movement.md) the target back 4 squares.
 
 ### Characteristics and Damage
 
@@ -46,8 +46,8 @@ To keep things moving quickly and to make abilities easy to read during play, da
 
 **[Power Roll](power-roll.md) + [Might](../character/might.md):**
 
-- **≤11:** 3 + M damage; push 1
-- **12-16:** 6 + M damage; push 2
-- **17+:** 9 + M damage; push 4
+- **≤11:** 3 + M damage; [push](../../movement/forced-movement.md) 1
+- **12-16:** 6 + M damage; [push](../../movement/forced-movement.md) 2
+- **17+:** 9 + M damage; [push](../../movement/forced-movement.md) 4
 
 Unless otherwise indicated, any effects that are determined by a [power roll](power-roll.md)'s [tier outcome](tier-outcome.md) occur after the [power roll](power-roll.md)'s damage has been dealt to all targets. If an [ability roll](ability-roll.md) deals damage to multiple targets but its effect targets the creature using the ability or the Director, such as [Muse of Fire](../../feature/ability/elementalist/level-8/muse-of-fire.md), then the effect only occurs once, not once per target. If different tiered outcomes affect multiple targets, the creature using the ability picks which tier of rolled effect applies to them or the Director. If an ability creates multiple effects, those effects resolve in the order in which they are presented.

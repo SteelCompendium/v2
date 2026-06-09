@@ -85,7 +85,7 @@ Whenever you are in a natural environment (but not in a settlement in that envir
 
 #### Friend Catapult {data-scc="mcdm.heroes.v1/perk/friend-catapult"}
 
-As a maneuver, you grab a willing [adjacent](../../Browse/rule/combat/adjacent.md) ally or object of your [size](../../Browse/rule/character/size.md) or smaller, then vertical push that target up to a number of squares equal to twice your [Might](../../Browse/rule/character/might.md) score. If a creature you push falls as a result of this movement, the effective [distance](../../Browse/rule/combat/distance.md) of the fall is reduced by a number of squares equal to twice your [Might](../../Browse/rule/character/might.md) score. When you use this perk, you can't use it again until you earn 1 or more [Victories](../../Browse/rule/resource/victories.md).
+As a maneuver, you grab a willing [adjacent](../../Browse/rule/combat/adjacent.md) ally or object of your [size](../../Browse/rule/character/size.md) or smaller, then vertical [push](../../Browse/movement/forced-movement.md) that target up to a number of squares equal to twice your [Might](../../Browse/rule/character/might.md) score. If a creature you [push](../../Browse/movement/forced-movement.md) falls as a result of this movement, the effective [distance](../../Browse/rule/combat/distance.md) of the fall is reduced by a number of squares equal to twice your [Might](../../Browse/rule/character/might.md) score. When you use this perk, you can't use it again until you earn 1 or more [Victories](../../Browse/rule/resource/victories.md).
 
 #### I've Got You! {data-scc="mcdm.heroes.v1/perk/ive-got-you"}
 

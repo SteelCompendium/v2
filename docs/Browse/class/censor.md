@@ -132,7 +132,7 @@ The first time on a [turn](../rule/combat/turn.md) that you use your [Judgment](
 
 - **Exorcist:** You can [teleport](../movement/teleport.md) up to a number of squares equal to twice your [Presence](../rule/character/presence.md) score. This movement must take you closer to the judged creature. You do not need [line of effect](../rule/combat/line-of-effect.md) to your destination.
 - **Oracle:** You can deal holy damage equal to twice your [Presence](../rule/character/presence.md) score to the judged creature.
-- **Paragon:** You can vertical pull the judged creature up to a number of squares equal to twice your [Presence](../rule/character/presence.md) score.
+- **Paragon:** You can vertical [pull](../movement/forced-movement.md) the judged creature up to a number of squares equal to twice your [Presence](../rule/character/presence.md) score.
 
 ### Kit {data-scc="mcdm.heroes.v1/feature.censor.level-1/kit"}
 
@@ -290,9 +290,9 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** 2 holy damage; push 1
-- **12-16:** 4 holy damage; push 2
-- **17+:** 6 holy damage; push 3
+- **≤11:** 2 holy damage; [push](../movement/forced-movement.md) 1
+- **12-16:** 4 holy damage; [push](../movement/forced-movement.md) 2
+- **17+:** 6 holy damage; [push](../movement/forced-movement.md) 3
 
 ##### Every Step... Death! {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/every-step-death"}
 
@@ -341,7 +341,7 @@ Choose one [signature ability](../rule/combat/signature-ability.md) from the fol
 - **12-16:** 5 + M holy damage
 - **17+:** 8 + M holy damage
 
-**Effect:** Each enemy [adjacent](../rule/combat/adjacent.md) to the target is pushed away from the target up to a number of squares equal to your [Presence](../rule/character/presence.md) score.
+**Effect:** Each enemy [adjacent](../rule/combat/adjacent.md) to the target is [pushed](../movement/forced-movement.md) away from the target up to a number of squares equal to your [Presence](../rule/character/presence.md) score.
 
 #### Heroic Abilities
 
@@ -379,11 +379,11 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 
 **[Power Roll](../rule/dice/power-roll.md) + [Might](../rule/character/might.md):**
 
-- **≤11:** 3 + M damage; push 1
-- **12-16:** 6 + M damage; push 3
-- **17+:** 9 + M damage; push 5
+- **≤11:** 3 + M damage; [push](../movement/forced-movement.md) 1
+- **12-16:** 6 + M damage; [push](../movement/forced-movement.md) 3
+- **17+:** 9 + M damage; [push](../movement/forced-movement.md) 5
 
-**Effect:** You can [shift](../movement/shifting.md) up to your [speed](../rule/character/speed.md) in a straight line toward the target after pushing them.
+**Effect:** You can [shift](../movement/shifting.md) up to your [speed](../rule/character/speed.md) in a straight line toward the target after [pushing](../movement/forced-movement.md) them.
 
 ##### The Gods Punish and Defend {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/the-gods-punish-and-defend"}
 
@@ -453,7 +453,7 @@ Choose one [heroic ability](../rule/general/heroic-ability.md) from the followin
 - **12-16:** 5 + M holy damage; if the target has P < AVERAGE, each enemy within 2 squares of them is [frightened](../condition/frightened.md) of you (save ends)
 - **17+:** 8 + M holy damage; if the target has P < STRONG, each enemy within 2 squares of them is [frightened](../condition/frightened.md) of you (save ends)
 
-**Effect:** Each enemy [frightened](../condition/frightened.md) this way is pushed up to 2 squares away from the target and takes psychic damage equal to your [Presence](../rule/character/presence.md) score.
+**Effect:** Each enemy [frightened](../condition/frightened.md) this way is [pushed](../movement/forced-movement.md) up to 2 squares away from the target and takes psychic damage equal to your [Presence](../rule/character/presence.md) score.
 
 ##### Censored {data-scc="mcdm.heroes.v1/feature.ability.censor.level-1/censored"}
 
@@ -917,9 +917,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** 4 psychic damage; slide 3
-- **12-16:** 6 psychic damage; slide 5
-- **17+:** 8 psychic damage; slide 7
+- **≤11:** 4 psychic damage; [slide](../movement/forced-movement.md) 3
+- **12-16:** 6 psychic damage; [slide](../movement/forced-movement.md) 5
+- **17+:** 8 psychic damage; [slide](../movement/forced-movement.md) 7
 
 ##### Pain of Your Own Making {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/pain-of-your-own-making"}
 
@@ -949,9 +949,9 @@ Choose one of the following abilities.
 
 **[Power Roll](../rule/dice/power-roll.md) + [Presence](../rule/character/presence.md):**
 
-- **≤11:** Slide 3; I < WEAK, [dazed](../condition/dazed.md) (save ends)
-- **12-16:** Slide 5; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
-- **17+:** Slide 7; I < STRONG, [dazed](../condition/dazed.md) (save ends)
+- **≤11:** [Slide](../movement/forced-movement.md) 3; I < WEAK, [dazed](../condition/dazed.md) (save ends)
+- **12-16:** [Slide](../movement/forced-movement.md) 5; I < AVERAGE, [dazed](../condition/dazed.md) (save ends)
+- **17+:** [Slide](../movement/forced-movement.md) 7; I < STRONG, [dazed](../condition/dazed.md) (save ends)
 
 ##### Edict of Peace {data-scc="mcdm.heroes.v1/feature.ability.censor.level-6/edict-of-peace"}
 

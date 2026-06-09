@@ -13,9 +13,9 @@ power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones
 spend: '2+ Drama: The size of the [burst](../../../../rule/combat/burst.md) increases by 1 for every 2 drama spent.'
 target: Each enemy in the area
-tier1: Slide 1; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
-tier2: Slide 1; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
-tier3: Slide 2; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
+tier1: '[Slide](../../../../movement/forced-movement.md) 1; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)'
+tier2: '[Slide](../../../../movement/forced-movement.md) 1; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)'
+tier3: '[Slide](../../../../movement/forced-movement.md) 2; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)'
 type: ability
 ---
 
@@ -41,9 +41,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 1; I &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 1; I &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 2; I &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../../../../movement/forced-movement/">Slide</a> 1; I &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../../../../movement/forced-movement/">Slide</a> 1; I &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../../../movement/forced-movement/">Slide</a> 2; I &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
 </div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2+ Drama</span><span class="txt">The size of the <a href="../../../../../rule/combat/burst/">burst</a> increases by 1 for every 2 drama spent.</span></div>

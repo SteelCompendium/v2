@@ -13,9 +13,9 @@ power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-1/kinetic-grip
 subtype: signature
 target: One creature or object
-tier1: Slide 2 + R
-tier2: Slide 4 + R
-tier3: Slide 6 + R; [prone](../../../../condition/prone.md)
+tier1: '[Slide](../../../../movement/forced-movement.md) 2 + R'
+tier2: '[Slide](../../../../movement/forced-movement.md) 4 + R'
+tier3: '[Slide](../../../../movement/forced-movement.md) 6 + R; [prone](../../../../condition/prone.md)'
 type: ability
 ---
 
@@ -41,13 +41,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 2 + R</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 4 + R</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 6 + R; <a href="../../../../../condition/prone/">prone</a></span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../../../../movement/forced-movement/">Slide</a> 2 + R</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../../../../movement/forced-movement/">Slide</a> 4 + R</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../../../movement/forced-movement/">Slide</a> 6 + R; <a href="../../../../../condition/prone/">prone</a></span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>You must vertical push the target instead of sliding them.</p></div>
+<div class="sc-ability__section-body"><p>You must vertical <a href="../../../../../movement/forced-movement/">push</a> the target instead of <a href="../../../../../movement/forced-movement/">sliding</a> them.</p></div>
 </div>
 </article>

@@ -30,4 +30,4 @@ type: treasure
 
 **5th Level:** The shield's [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md) increases to +5, and you can use the shield's free [triggered action](../../../rule/combat/triggered-action.md) against any enemy within 10 squares who uses an ability. Additionally, any enemy who uses the [Escape Grab](../../../feature/common/maneuvers/escape-grab.md) maneuver while [grabbed](../../../condition/grabbed.md) this way takes a [bane](../../../rule/dice/bane.md) on the [test](../../../rule/test/test.md).
 
-**9th Level:** The shield's [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md) increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has [grabbed](../../../condition/grabbed.md) up to 5 squares.
+**9th Level:** The shield's [bonus](../../../rule/dice/bonuses-and-penalties.md) to [Stamina](../../../rule/health/stamina.md) increases to +9. Additionally, you can use a maneuver to [pull](../../../movement/forced-movement.md) any number of targets the shield has [grabbed](../../../condition/grabbed.md) up to 5 squares.

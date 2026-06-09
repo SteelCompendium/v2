@@ -172,7 +172,7 @@ type: feature
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>If you use this ability as part of the <a href="../../../common/main-actions/charge/">Charge</a> main action, enemies&#39; spaces don&#39;t count as <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for your movement. Additionally, if you move through any creature&#39;s space, you can slide that creature 1 square out of the path of your charge.</p></div>
+<div class="sc-ability__section-body"><p>If you use this ability as part of the <a href="../../../common/main-actions/charge/">Charge</a> main action, enemies&#39; spaces don&#39;t count as <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for your movement. Additionally, if you move through any creature&#39;s space, you can <a href="../../../../movement/forced-movement/">slide</a> that creature 1 square out of the path of your charge.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">

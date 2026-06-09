@@ -125,14 +125,14 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; vertical pull 5 toward the center of the area</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; vertical pull 7 toward the center of the area</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; vertical pull 10 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; vertical <a href="../../../../movement/forced-movement/">pull</a> 5 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; vertical <a href="../../../../movement/forced-movement/">pull</a> 7 toward the center of the area</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; vertical <a href="../../../../movement/forced-movement/">pull</a> 10 toward the center of the area</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Targets closest to the center of the area are pulled first.</p></div>
+<div class="sc-ability__section-body"><p>Targets closest to the center of the area are <a href="../../../../movement/forced-movement/">pulled</a> first.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -157,9 +157,9 @@ type: feature
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/reason/">Reason</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 4 + R; M &lt; WEAK, the <a href="../../../../movement/forced-movement/">forced movement</a> is vertical</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 8 + R; M &lt; AVERAGE, the <a href="../../../../movement/forced-movement/">forced movement</a> is vertical</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 12 + R; <a href="../../../../condition/prone/">prone</a>; M &lt; STRONG, the <a href="../../../../movement/forced-movement/">forced movement</a> is vertical</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../../../movement/forced-movement/">Slide</a> 4 + R; M &lt; WEAK, the <a href="../../../../movement/forced-movement/">forced movement</a> is vertical</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../../../movement/forced-movement/">Slide</a> 8 + R; M &lt; AVERAGE, the <a href="../../../../movement/forced-movement/">forced movement</a> is vertical</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../../movement/forced-movement/">Slide</a> 12 + R; <a href="../../../../condition/prone/">prone</a>; M &lt; STRONG, the <a href="../../../../movement/forced-movement/">forced movement</a> is vertical</span></div>
 </div>
 </div>
 <div class="sc-ability__section">

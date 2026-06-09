@@ -12,9 +12,9 @@ name: Begone!
 power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.censor.level-6/begone
 target: Each enemy in the area
-tier1: 4 psychic damage; slide 3
-tier2: 6 psychic damage; slide 5
-tier3: 8 psychic damage; slide 7
+tier1: 4 psychic damage; [slide](../../../../movement/forced-movement.md) 3
+tier2: 6 psychic damage; [slide](../../../../movement/forced-movement.md) 5
+tier3: 8 psychic damage; [slide](../../../../movement/forced-movement.md) 7
 type: ability
 ---
 
@@ -40,9 +40,9 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/presence/">Presence</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 psychic damage; slide 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 psychic damage; slide 5</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 psychic damage; slide 7</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 psychic damage; <a href="../../../../../movement/forced-movement/">slide</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 psychic damage; <a href="../../../../../movement/forced-movement/">slide</a> 5</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 psychic damage; <a href="../../../../../movement/forced-movement/">slide</a> 7</span></div>
 </div>
 </div>
 </article>

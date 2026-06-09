@@ -466,10 +466,10 @@ You wear no armor and wield only your unarmed [strikes](../../Browse/rule/combat
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 3 + M or A damage
-- **12-16:** 6 + M or A damage; slide 1
-- **17+:** 8 + M or A damage; slide 2
+- **12-16:** 6 + M or A damage; [slide](../../Browse/movement/forced-movement.md) 1
+- **17+:** 8 + M or A damage; [slide](../../Browse/movement/forced-movement.md) 2
 
-**Effect:** You can [shift](../../Browse/movement/shifting.md) into any square the target leaves after you slide them.
+**Effect:** You can [shift](../../Browse/movement/shifting.md) into any square the target leaves after you [slide](../../Browse/movement/forced-movement.md) them.
 
 #### Raider {data-scc="mcdm.heroes.v1/kit/raider"}
 
@@ -760,8 +760,8 @@ You wear light armor and wield a polearm.
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 4 + M or A damage
-- **12-16:** 7 + M or A damage; slide 1
-- **17+:** 10 + M or A damage; slide 3
+- **12-16:** 7 + M or A damage; [slide](../../Browse/movement/forced-movement.md) 1
+- **17+:** 10 + M or A damage; [slide](../../Browse/movement/forced-movement.md) 3
 
 #### Swashbuckler {data-scc="mcdm.heroes.v1/kit/swashbuckler"}
 
@@ -794,10 +794,10 @@ You wear light armor and wield a medium weapon.
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
 - **≤11:** 5 + M or A damage
-- **12-16:** 7 + M or A damage; push 1
-- **17+:** 10 + M or A damage; push 2
+- **12-16:** 7 + M or A damage; [push](../../Browse/movement/forced-movement.md) 1
+- **17+:** 10 + M or A damage; [push](../../Browse/movement/forced-movement.md) 2
 
-**Effect:** You can [shift](../../Browse/movement/shifting.md) into any square the target leaves after you push them.
+**Effect:** You can [shift](../../Browse/movement/shifting.md) into any square the target leaves after you [push](../../Browse/movement/forced-movement.md) them.
 
 #### Sword and Board {data-scc="mcdm.heroes.v1/kit/sword-and-board"}
 
@@ -829,9 +829,9 @@ You wear medium armor and wield a shield and a medium weapon.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
-- **≤11:** 4 + M or A damage; push 1
-- **12-16:** 7 + M or A damage; push 2
-- **17+:** 9 + M or A damage; push 3; M < STRONG[, prone](../../Browse/condition/prone.md)
+- **≤11:** 4 + M or A damage; [push](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 7 + M or A damage; [push](../../Browse/movement/forced-movement.md) 2
+- **17+:** 9 + M or A damage; [push](../../Browse/movement/forced-movement.md) 3; M < STRONG[, prone](../../Browse/condition/prone.md)
 
 #### Warrior Priest {data-scc="mcdm.heroes.v1/kit/warrior-priest"}
 
@@ -899,9 +899,9 @@ You wear no armor and wield a whip.
 
 **[Power Roll](../../Browse/rule/dice/power-roll.md) + [Might](../../Browse/rule/character/might.md) or [Agility](../../Browse/rule/character/agility.md):**
 
-- **≤11:** 4 + M or A damage; vertical pull 1
-- **12-16:** 7 + M or A damage; vertical pull 2
-- **17+:** 10 + M or A damage; vertical pull 3
+- **≤11:** 4 + M or A damage; vertical [pull](../../Browse/movement/forced-movement.md) 1
+- **12-16:** 7 + M or A damage; vertical [pull](../../Browse/movement/forced-movement.md) 2
+- **17+:** 10 + M or A damage; vertical [pull](../../Browse/movement/forced-movement.md) 3
 
 ### Optional Rule: Losing Equipment
 

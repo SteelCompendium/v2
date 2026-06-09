@@ -14,8 +14,8 @@ power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/back
 target: Each enemy in the area
 tier1: 5 damage
-tier2: 8 damage; push 1
-tier3: 11 damage; push 3
+tier2: 8 damage; [push](../../../../movement/forced-movement.md) 1
+tier3: 11 damage; [push](../../../../movement/forced-movement.md) 3
 type: ability
 ---
 
@@ -42,8 +42,8 @@ type: ability
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; push 1</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; push 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; <a href="../../../../../movement/forced-movement/">push</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; <a href="../../../../../movement/forced-movement/">push</a> 3</span></div>
 </div>
 </div>
 </article>

@@ -1,7 +1,7 @@
 ---
 action_type: Main action
 distance: '[Melee](../../../rule/combat/melee.md) 1'
-effect: You can [shift](../../../movement/shifting.md) into any square the target leaves after you slide them.
+effect: You can [shift](../../../movement/shifting.md) into any square the target leaves after you [slide](../../../movement/forced-movement.md) them.
 flavor: Keeping your enemies stumbling around the battlefield is second nature to you.
 keywords:
     - '[Melee](../../../rule/combat/melee.md)'
@@ -14,8 +14,8 @@ scc: mcdm.heroes.v1/feature.ability.pugilist/lets-dance
 subtype: signature
 target: One creature
 tier1: 3 + M or A damage
-tier2: 6 + M or A damage; slide 1
-tier3: 8 + M or A damage; slide 2
+tier2: 6 + M or A damage; [slide](../../../movement/forced-movement.md) 1
+tier3: 8 + M or A damage; [slide](../../../movement/forced-movement.md) 2
 type: ability
 ---
 
@@ -42,12 +42,12 @@ type: ability
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/might/">Might</a> or <a href="../../../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + M or A damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M or A damage; slide 1</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M or A damage; slide 2</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M or A damage; <a href="../../../../movement/forced-movement/">slide</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + M or A damage; <a href="../../../../movement/forced-movement/">slide</a> 2</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> into any square the target leaves after you slide them.</p></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> into any square the target leaves after you <a href="../../../../movement/forced-movement/">slide</a> them.</p></div>
 </div>
 </article>

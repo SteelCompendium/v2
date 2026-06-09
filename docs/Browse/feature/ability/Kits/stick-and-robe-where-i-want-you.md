@@ -13,8 +13,8 @@ scc: mcdm.heroes.v1/feature.ability.stick-and-robe/where-i-want-you
 subtype: signature
 target: One creature
 tier1: 4 + M or A damage
-tier2: 7 + M or A damage; slide 1
-tier3: 10 + M or A damage; slide 3
+tier2: 7 + M or A damage; [slide](../../../movement/forced-movement.md) 1
+tier3: 10 + M or A damage; [slide](../../../movement/forced-movement.md) 3
 type: ability
 ---
 
@@ -41,8 +41,8 @@ type: ability
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/might/">Might</a> or <a href="../../../../rule/character/agility/">Agility</a></span></div>
 <div class="sc-ability__pr-rows">
 <div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M or A damage</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + M or A damage; slide 1</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + M or A damage; slide 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + M or A damage; <a href="../../../../movement/forced-movement/">slide</a> 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + M or A damage; <a href="../../../../movement/forced-movement/">slide</a> 3</span></div>
 </div>
 </div>
 </article>

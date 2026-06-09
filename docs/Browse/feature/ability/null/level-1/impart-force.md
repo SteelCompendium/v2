@@ -3,7 +3,7 @@ action_type: Maneuver
 class: "null"
 cost: 5 Discipline
 distance: '[Melee](../../../../rule/combat/melee.md) 1'
-effect: An object you target must be your [size](../../../../rule/character/size.md) or smaller. You gain an [edge](../../../../rule/dice/edge.md) on this ability. Additionally, for each square you push the target, they take 1 psychic damage.
+effect: An object you target must be your [size](../../../../rule/character/size.md) or smaller. You gain an [edge](../../../../rule/dice/edge.md) on this ability. Additionally, for each square you [push](../../../../movement/forced-movement.md) the target, they take 1 psychic damage.
 flavor: A single touch from you, and your enemy flies backward.
 keywords:
     - '[Melee](../../../../rule/combat/melee.md)'
@@ -15,9 +15,9 @@ name: Impart Force
 power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-1/impart-force
 target: One creature or object
-tier1: Push 3
-tier2: Push 5
-tier3: Push 7
+tier1: '[Push](../../../../movement/forced-movement.md) 3'
+tier2: '[Push](../../../../movement/forced-movement.md) 5'
+tier3: '[Push](../../../../movement/forced-movement.md) 7'
 type: ability
 ---
 
@@ -43,13 +43,13 @@ type: ability
 <div class="sc-ability__pr">
 <div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/intuition/">Intuition</a></span></div>
 <div class="sc-ability__pr-rows">
-<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Push 3</span></div>
-<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Push 5</span></div>
-<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Push 7</span></div>
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../../../../movement/forced-movement/">Push</a> 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../../../../movement/forced-movement/">Push</a> 5</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../../../movement/forced-movement/">Push</a> 7</span></div>
 </div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>An object you target must be your <a href="../../../../../rule/character/size/">size</a> or smaller. You gain an <a href="../../../../../rule/dice/edge/">edge</a> on this ability. Additionally, for each square you push the target, they take 1 psychic damage.</p></div>
+<div class="sc-ability__section-body"><p>An object you target must be your <a href="../../../../../rule/character/size/">size</a> or smaller. You gain an <a href="../../../../../rule/dice/edge/">edge</a> on this ability. Additionally, for each square you <a href="../../../../../movement/forced-movement/">push</a> the target, they take 1 psychic damage.</p></div>
 </div>
 </article>
