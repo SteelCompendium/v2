@@ -46,8 +46,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 3 + A damage; vertical push 5</li><li><b>12-16:</b> 6 + A damage; vertical push 10</li><li><b>17+:</b> 9 + A damage; vertical push 15</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + A damage; vertical push 5</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + A damage; vertical push 10</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + A damage; vertical push 15</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -121,9 +126,17 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div>
 </div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature&#39;s <a href="../../../../rule/character/speed/">speed</a> is increased by 2 until the end of the encounter.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature can <a href="../../../../movement/fly/">fly</a> until the end of the encounter.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature <a href="../../../../rule/combat/turn/">turns</a> invisible until the end of their next <a href="../../../../rule/combat/turn/">turn</a>.</span></div>
+</div>
+</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../../common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its <a href="../../../../rule/character/potency/">potency</a> at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your <a href="../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> The creature&#39;s <a href="../../../../rule/character/speed/">speed</a> is increased by 2 until the end of the encounter.</li><li><b>12-16:</b> The creature can <a href="../../../../movement/fly/">fly</a> until the end of the encounter.</li><li><b>17+:</b> The creature <a href="../../../../rule/combat/turn/">turns</a> invisible until the end of their next <a href="../../../../rule/combat/turn/">turn</a>.</li></ul></div>
+<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../../common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its <a href="../../../../rule/character/potency/">potency</a> at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 </div>
@@ -173,8 +186,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Two enemies</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 2 damage; if the target has R &lt; WEAK, before the damage is resolved, they make a <a href="../../../common/main-actions/free-strike/">free strike</a>.</li><li><b>12-16:</b> 5 damage; if the target has R &lt; AVERAGE, before the damage is resolved, they use a main action ability of your choice.</li><li><b>17+:</b> 7 damage; if the target has R &lt; STRONG, before the damage is resolved, they can <a href="../../../../movement/shifting/">shift</a> up to their <a href="../../../../rule/character/speed/">speed</a> and use a main action ability of your choice.</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage; if the target has R &lt; WEAK, before the damage is resolved, they make a <a href="../../../common/main-actions/free-strike/">free strike</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage; if the target has R &lt; AVERAGE, before the damage is resolved, they use a main action ability of your choice.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 damage; if the target has R &lt; STRONG, before the damage is resolved, they can <a href="../../../../movement/shifting/">shift</a> up to their <a href="../../../../rule/character/speed/">speed</a> and use a main action ability of your choice.</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

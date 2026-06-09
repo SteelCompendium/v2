@@ -8,9 +8,13 @@ keywords:
     - '[Ranged](../../../rule/combat/ranged.md)'
     - '[Strike](../../../rule/combat/strike.md)'
 name: Psionic Bolt
+power_roll_characteristic: '[Reason](../../../rule/character/reason.md), [Intuition](../../../rule/character/intuition.md), or [Presence](../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.time-raider/psionic-bolt
 subtype: signature
 target: One creature or object
+tier1: 2 + R, I, or P psychic damage; slide 1
+tier2: 5 + R, I, or P psychic damage; slide 2
+tier3: 7 + R, I, or P psychic damage; slide 3
 type: ability
 ---
 
@@ -33,7 +37,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>, <a href="../../../../rule/character/intuition/">Intuition</a>, or <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 2 + R, I, or P psychic damage; slide 1</li><li><b>12-16:</b> 5 + R, I, or P psychic damage; slide 2</li><li><b>17+:</b> 7 + R, I, or P psychic damage; slide 3</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/reason/">Reason</a>, <a href="../../../../rule/character/intuition/">Intuition</a>, or <a href="../../../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + R, I, or P psychic damage; slide 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + R, I, or P psychic damage; slide 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + R, I, or P psychic damage; slide 3</span></div>
+</div>
 </div>
 </article>

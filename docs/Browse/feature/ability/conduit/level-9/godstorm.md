@@ -11,8 +11,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Godstorm
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-9/godstorm
 target: Each enemy in the area
+tier1: 2 lightning damage, 2 sonic damage
+tier2: 3 lightning damage, 3 sonic damage
+tier3: 5 lightning damage, 5 sonic damage
 type: ability
 ---
 
@@ -35,8 +39,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../../rule/combat/cube/">cube</a> within 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 2 lightning damage, 2 sonic damage</li><li><b>12-16:</b> 3 lightning damage, 3 sonic damage</li><li><b>17+:</b> 5 lightning damage, 5 sonic damage</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 lightning damage, 2 sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 lightning damage, 3 sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 lightning damage, 5 sonic damage</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

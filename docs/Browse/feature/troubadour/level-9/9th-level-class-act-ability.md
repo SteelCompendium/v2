@@ -46,8 +46,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../rule/combat/ranged/">ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> The target takes a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/ability-roll/">ability rolls</a> (save ends).</li><li><b>12-16:</b> The target has a double <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/ability-roll/">ability rolls</a> (save ends).</li><li><b>17+:</b> The target has a double <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a> (save ends).</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target takes a <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/ability-roll/">ability rolls</a> (save ends).</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target has a double <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/ability-roll/">ability rolls</a> (save ends).</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target has a double <a href="../../../../rule/dice/bane/">bane</a> on <a href="../../../../rule/dice/power-roll/">power rolls</a> (save ends).</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -101,8 +106,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 3</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 15 + A damage</li><li><b>12-16:</b> 21 + A damage</li><li><b>17+:</b> 28 + A damage; M &lt; STRONG, <a href="../../../../condition/bleeding/">bleeding</a> (save ends)</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">15 + A damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">21 + A damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">28 + A damage; M &lt; STRONG, <a href="../../../../condition/bleeding/">bleeding</a> (save ends)</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -124,9 +134,17 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You and the target can each end one effect on yourselves that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your <a href="../../../../rule/combat/turn/">turns</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You and the target can end any effects on yourselves that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of your <a href="../../../../rule/combat/turn/">turns</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You can choose any of the current effects on you and the target that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of your <a href="../../../../rule/combat/turn/">turns</a>, apply the chosen effects to the target, and end the rest.</span></div>
+</div>
+</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Add your current <a href="../../../../rule/health/stamina/">Stamina</a> to your target&#39;s current <a href="../../../../rule/health/stamina/">Stamina</a>, then you have half that total <a href="../../../../rule/health/stamina/">Stamina</a> and the target has the remainder. If either of you would gain more <a href="../../../../rule/health/stamina/">Stamina</a> this way than their <a href="../../../../rule/health/stamina/">Stamina</a> maximum, the difference in <a href="../../../../rule/health/stamina/">Stamina</a> between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more <a href="../../../../rule/health/stamina/">Stamina</a> than your maximum this way. You then make a <a href="../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> You and the target can each end one effect on yourselves that is ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that ends at the end of your <a href="../../../../rule/combat/turn/">turns</a>.</li><li><b>12-16:</b> You and the target can end any effects on yourselves that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of your <a href="../../../../rule/combat/turn/">turns</a>.</li><li><b>17+:</b> You can choose any of the current effects on you and the target that are ended by a <a href="../../../../rule/general/saving-throw/">saving throw</a> or that end at the end of your <a href="../../../../rule/combat/turn/">turns</a>, apply the chosen effects to the target, and end the rest.</li></ul></div>
+<div class="sc-ability__section-body"><p>Add your current <a href="../../../../rule/health/stamina/">Stamina</a> to your target&#39;s current <a href="../../../../rule/health/stamina/">Stamina</a>, then you have half that total <a href="../../../../rule/health/stamina/">Stamina</a> and the target has the remainder. If either of you would gain more <a href="../../../../rule/health/stamina/">Stamina</a> this way than their <a href="../../../../rule/health/stamina/">Stamina</a> maximum, the difference in <a href="../../../../rule/health/stamina/">Stamina</a> between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more <a href="../../../../rule/health/stamina/">Stamina</a> than your maximum this way. You then make a <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 </div>
@@ -156,8 +174,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">5 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 8 sonic damage</li><li><b>12-16:</b> 11 sonic damage</li><li><b>17+:</b> 15 sonic damage</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">11 sonic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 sonic damage</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -179,8 +202,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../rule/combat/ranged/">ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 12 + P sonic damage; push 5</li><li><b>12-16:</b> 16 + P sonic damage; push 10</li><li><b>17+:</b> 22 + P sonic damage; push 15</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">12 + P sonic damage; push 5</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">16 + P sonic damage; push 10</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">22 + P sonic damage; push 15</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

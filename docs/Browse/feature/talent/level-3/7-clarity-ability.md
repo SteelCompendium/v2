@@ -37,8 +37,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 3 + P corruption damage; P &lt; WEAK, <a href="../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>12-16:</b> 5 + P corruption damage; the target is flung through time, and if P &lt; AVERAGE, they are <a href="../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>17+:</b> 8 + P corruption damage; the target is flung through time, and if P &lt; STRONG, they are <a href="../../../../condition/weakened/">weakened</a> (save ends)</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + P corruption damage; P &lt; WEAK, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + P corruption damage; the target is flung through time, and if P &lt; AVERAGE, they are <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 + P corruption damage; the target is flung through time, and if P &lt; STRONG, they are <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -64,9 +69,17 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 damage</span></div>
+</div>
+</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You create three <a href="../../../../rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your <a href="../../../../rule/combat/turn/">turns</a>, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to fire an orb at a creature or object within 5 squares as a <a href="../../../../rule/combat/ranged/">ranged</a> <a href="../../../../rule/combat/strike/">strike</a>, losing the orb after the <a href="../../../../rule/combat/strike/">strike</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 damage</li><li><b>12-16:</b> 3 damage</li><li><b>17+:</b> 5 damage</li></ul></div>
+<div class="sc-ability__section-body"><p>You create three <a href="../../../../rule/character/size/">size</a> 1T orbs that orbit your body. Each orb gives you a cumulative <a href="../../../../rule/damage/damage-immunity/">damage immunity</a> 1. Each time you take damage, you lose 1 orb.</p><p>Once on each of your <a href="../../../../rule/combat/turn/">turns</a>, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to fire an orb at a creature or object within 5 squares as a <a href="../../../../rule/combat/ranged/">ranged</a> <a href="../../../../rule/combat/strike/">strike</a>, losing the orb after the <a href="../../../../rule/combat/strike/">strike</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -112,8 +125,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 6 + P damage; P &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>12-16:</b> 10 + P damage; P &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>17+:</b> 14 + P damage; P &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + P damage; P &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + P damage; P &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">14 + P damage; P &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

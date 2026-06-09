@@ -9,9 +9,13 @@ keywords:
     - Magic
 level: "1"
 name: Hypnotic Overtones
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/hypnotic-overtones
 spend: '2+ Drama: The size of the [burst](../../../../rule/combat/burst.md) increases by 1 for every 2 drama spent.'
 target: Each enemy in the area
+tier1: Slide 1; I < WEAK, [dazed](../../../../condition/dazed.md) (save ends)
+tier2: Slide 1; I < AVERAGE, [dazed](../../../../condition/dazed.md) (save ends)
+tier3: Slide 2; I < STRONG, [dazed](../../../../condition/dazed.md) (save ends)
 type: ability
 ---
 
@@ -34,8 +38,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">2 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> Slide 1; I &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>12-16:</b> Slide 1; I &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</li><li><b>17+:</b> Slide 2; I &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 1; I &lt; WEAK, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 1; I &lt; AVERAGE, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 2; I &lt; STRONG, <a href="../../../../../condition/dazed/">dazed</a> (save ends)</span></div>
+</div>
 </div>
 <div class="sc-ability__enh"><span class="cost">Spend 2+ Drama</span><span class="txt">The size of the <a href="../../../../../rule/combat/burst/">burst</a> increases by 1 for every 2 drama spent.</span></div>
 </article>

@@ -67,8 +67,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 8 + I damage; A &lt; WEAK, <a href="../../../../condition/prone/">prone and</a> <a href="../../../../condition/restrained/">restrained</a> (save ends)</li><li><b>12-16:</b> 12 + I damage; A &lt; AVERAGE, <a href="../../../../condition/prone/">prone and</a> <a href="../../../../condition/restrained/">restrained</a> (save ends)</li><li><b>17+:</b> 16 + I damage; A &lt; STRONG, <a href="../../../../condition/prone/">prone and</a> <a href="../../../../condition/restrained/">restrained</a> (save ends)</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + I damage; A &lt; WEAK, <a href="../../../../condition/prone/">prone and</a> <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + I damage; A &lt; AVERAGE, <a href="../../../../condition/prone/">prone and</a> <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + I damage; A &lt; STRONG, <a href="../../../../condition/prone/">prone and</a> <a href="../../../../condition/restrained/">restrained</a> (save ends)</span></div>
+</div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -126,9 +131,20 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">8 damage</span></div>
+</div>
+</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You conjure a <a href="../../../../rule/character/size/">size</a> 2 rolling machine that appears in an unoccupied space within <a href="../../../../rule/combat/distance/">distance</a>. The machine has 50 <a href="../../../../rule/health/stamina/">Stamina</a> and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its <a href="../../../../rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../../../rule/health/dying/">dying</a>. When the machine first appears, make the following <a href="../../../../rule/dice/power-roll/">power roll</a> once, targeting each enemy <a href="../../../../rule/combat/adjacent/">adjacent</a> to it.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 3 damage</li><li><b>12-16:</b> 5 damage</li><li><b>17+:</b> 8 damage</li></ul><p>Once on each subsequent <a href="../../../../rule/combat/turn/">turn</a>, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to move the machine a number of squares up to your <a href="../../../../rule/character/intuition/">Intuition</a> score then repeat the <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
+<div class="sc-ability__section-body"><p>You conjure a <a href="../../../../rule/character/size/">size</a> 2 rolling machine that appears in an unoccupied space within <a href="../../../../rule/combat/distance/">distance</a>. The machine has 50 <a href="../../../../rule/health/stamina/">Stamina</a> and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its <a href="../../../../rule/health/stamina/">Stamina</a> drops to 0, or if you are <a href="../../../../rule/health/dying/">dying</a>. When the machine first appears, make the following <a href="../../../../rule/dice/power-roll/">power roll</a> once, targeting each enemy <a href="../../../../rule/combat/adjacent/">adjacent</a> to it.</p></div>
+</div>
+<div class="sc-ability__section">
+<div class="sc-ability__section-body"><p>Once on each subsequent <a href="../../../../rule/combat/turn/">turn</a>, you can use a <a href="../../../../rule/combat/free-maneuver/">free maneuver</a> to move the machine a number of squares up to your <a href="../../../../rule/character/intuition/">Intuition</a> score then repeat the <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -166,8 +182,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">4 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 3 sonic damage; push 3</li><li><b>12-16:</b> 6 sonic damage; push 5</li><li><b>17+:</b> 9 sonic damage; push 7</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 sonic damage; push 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 sonic damage; push 5</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 sonic damage; push 7</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Special</span></div>
@@ -209,8 +230,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Three 10 x 1 lines within 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 6 lightning damage; push 1</li><li><b>12-16:</b> 9 lightning damage; push 2</li><li><b>17+:</b> 13 lightning damage; push 3</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 lightning damage; push 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 lightning damage; push 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 lightning damage; push 3</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -252,8 +278,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">10 x 2 line within 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 5 damage; M &lt; WEAK, <a href="../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</li><li><b>12-16:</b> 8 damage; M &lt; AVERAGE, <a href="../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</li><li><b>17+:</b> 11 damage; M &lt; STRONG, <a href="../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage; M &lt; WEAK, <a href="../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; M &lt; AVERAGE, <a href="../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; M &lt; STRONG, <a href="../../../../condition/prone/">prone and</a> can&#39;t stand (save ends)</span></div>
+</div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="main">
@@ -271,8 +302,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 9 + I corruption damage; R &lt; WEAK, <a href="../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>12-16:</b> 14 + I corruption damage; R &lt; AVERAGE, <a href="../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>17+:</b> 19 + I corruption damage; R &lt; STRONG, <a href="../../../../condition/weakened/">weakened</a> (save ends)</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + I corruption damage; R &lt; WEAK, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + I corruption damage; R &lt; AVERAGE, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">19 + I corruption damage; R &lt; STRONG, <a href="../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

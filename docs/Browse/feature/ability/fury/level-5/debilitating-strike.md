@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "5"
 name: Debilitating Strike
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-5/debilitating-strike
 target: One creature
+tier1: 10 + M damage; M < WEAK, [slowed](../../../../condition/slowed.md) (save ends)
+tier2: 14 + M damage; M < AVERAGE, [slowed](../../../../condition/slowed.md) (save ends)
+tier3: 20 + M damage; M < STRONG, [slowed](../../../../condition/slowed.md) (save ends)
 type: ability
 ---
 
@@ -35,8 +39,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 10 + M damage; M &lt; WEAK, <a href="../../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>12-16:</b> 14 + M damage; M &lt; AVERAGE, <a href="../../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>17+:</b> 20 + M damage; M &lt; STRONG, <a href="../../../../../condition/slowed/">slowed</a> (save ends)</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage; M &lt; WEAK, <a href="../../../../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + M damage; M &lt; AVERAGE, <a href="../../../../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + M damage; M &lt; STRONG, <a href="../../../../../condition/slowed/">slowed</a> (save ends)</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

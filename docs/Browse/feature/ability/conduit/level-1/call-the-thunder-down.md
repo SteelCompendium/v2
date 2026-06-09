@@ -11,8 +11,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "1"
 name: Call the Thunder Down
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/call-the-thunder-down
 target: Each enemy in the area
+tier1: 2 sonic damage; push 1
+tier2: 3 sonic damage; push 2
+tier3: 5 sonic damage; push 3
 type: ability
 ---
 
@@ -35,8 +39,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/cube/">cube</a> within 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 2 sonic damage; push 1</li><li><b>12-16:</b> 3 sonic damage; push 2</li><li><b>17+:</b> 5 sonic damage; push 3</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 sonic damage; push 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 sonic damage; push 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">5 sonic damage; push 3</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

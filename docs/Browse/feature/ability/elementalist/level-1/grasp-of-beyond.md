@@ -11,9 +11,13 @@ keywords:
     - Void
 level: "1"
 name: Grasp of Beyond
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-1/grasp-of-beyond
 subtype: signature
 target: One creature
+tier1: 3 + R corruption damage
+tier2: 6 + R corruption damage
+tier3: 9 + R corruption damage
 type: ability
 ---
 
@@ -36,8 +40,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 3 + R corruption damage</li><li><b>12-16:</b> 6 + R corruption damage</li><li><b>17+:</b> 9 + R corruption damage</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + R corruption damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + R corruption damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + R corruption damage</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

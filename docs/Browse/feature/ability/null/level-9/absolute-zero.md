@@ -9,8 +9,12 @@ keywords:
     - Psionic
 level: "9"
 name: Absolute Zero
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-9/absolute-zero
 target: Self
+tier1: You gain 20 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+tier2: You gain 30 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
+tier3: You gain 40 [temporary Stamina](../../../../rule/health/temporary-stamina.md).
 type: ability
 ---
 
@@ -33,8 +37,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> You gain 20 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li><b>12-16:</b> You gain 30 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li><li><b>17+:</b> You gain 40 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">You gain 20 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You gain 30 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You gain 40 <a href="../../../../../rule/health/temporary-stamina/">temporary Stamina</a>.</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

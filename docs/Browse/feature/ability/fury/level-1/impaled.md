@@ -9,9 +9,13 @@ keywords:
     - Weapon
 level: "1"
 name: Impaled!
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/impaled
 subtype: signature
 target: One creature of your [size](../../../../rule/character/size.md) or smaller
+tier1: 2 + M damage; M < WEAK, [grabbed](../../../../condition/grabbed.md)
+tier2: 5 + M damage; M < AVERAGE, [grabbed](../../../../condition/grabbed.md)
+tier3: 7 + M damage; M < STRONG, [grabbed](../../../../condition/grabbed.md)
 type: ability
 ---
 
@@ -34,7 +38,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature of your <a href="../../../../../rule/character/size/">size</a> or smaller</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 2 + M damage; M &lt; WEAK, <a href="../../../../../condition/grabbed/">grabbed</a></li><li><b>12-16:</b> 5 + M damage; M &lt; AVERAGE, <a href="../../../../../condition/grabbed/">grabbed</a></li><li><b>17+:</b> 7 + M damage; M &lt; STRONG, <a href="../../../../../condition/grabbed/">grabbed</a></li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 + M damage; M &lt; WEAK, <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">5 + M damage; M &lt; AVERAGE, <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">7 + M damage; M &lt; STRONG, <a href="../../../../../condition/grabbed/">grabbed</a></span></div>
+</div>
 </div>
 </article>

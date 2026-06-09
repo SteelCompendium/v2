@@ -10,9 +10,13 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "9"
 name: Arrestor Cycle
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-9/arrestor-cycle
 subtype: triggered
 target: One creature
+tier1: I < WEAK, the target loses their [turn](../../../../rule/combat/turn.md)
+tier2: I < AVERAGE, the target loses their [turn](../../../../rule/combat/turn.md)
+tier3: I < STRONG, the target loses their [turn](../../../../rule/combat/turn.md)
 trigger: The triggering creature starts their [turn](../../../../rule/combat/turn.md).
 type: ability
 ---
@@ -36,9 +40,17 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">I &lt; WEAK, the target loses their <a href="../../../../../rule/combat/turn/">turn</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">I &lt; AVERAGE, the target loses their <a href="../../../../../rule/combat/turn/">turn</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">I &lt; STRONG, the target loses their <a href="../../../../../rule/combat/turn/">turn</a></span></div>
+</div>
+</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Trigger</span></div>
-<div class="sc-ability__section-body"><p>The triggering creature starts their <a href="../../../../../rule/combat/turn/">turn</a>.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> I &lt; WEAK, the target loses their <a href="../../../../../rule/combat/turn/">turn</a></li><li><b>12-16:</b> I &lt; AVERAGE, the target loses their <a href="../../../../../rule/combat/turn/">turn</a></li><li><b>17+:</b> I &lt; STRONG, the target loses their <a href="../../../../../rule/combat/turn/">turn</a></li></ul></div>
+<div class="sc-ability__section-body"><p>The triggering creature starts their <a href="../../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

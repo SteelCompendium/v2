@@ -11,8 +11,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "2"
 name: Slow
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-2/slow
 target: Three creatures or objects
+tier1: The target's [speed](../../../../rule/character/speed.md) is halved (save ends), or if P < WEAK, the target is [slowed](../../../../condition/slowed.md) (save ends).
+tier2: The target is [slowed](../../../../condition/slowed.md) (save ends), or if P < AVERAGE, the target's [speed](../../../../rule/character/speed.md) is 0 (save ends).
+tier3: The target is [slowed](../../../../condition/slowed.md) (save ends), or if P < STRONG, the target's [speed](../../../../rule/character/speed.md) is 0 (save ends).
 type: ability
 ---
 
@@ -35,8 +39,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures or objects</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> The target&#39;s <a href="../../../../../rule/character/speed/">speed</a> is halved (save ends), or if P &lt; WEAK, the target is <a href="../../../../../condition/slowed/">slowed</a> (save ends).</li><li><b>12-16:</b> The target is <a href="../../../../../condition/slowed/">slowed</a> (save ends), or if P &lt; AVERAGE, the target&#39;s <a href="../../../../../rule/character/speed/">speed</a> is 0 (save ends).</li><li><b>17+:</b> The target is <a href="../../../../../condition/slowed/">slowed</a> (save ends), or if P &lt; STRONG, the target&#39;s <a href="../../../../../rule/character/speed/">speed</a> is 0 (save ends).</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The target&#39;s <a href="../../../../../rule/character/speed/">speed</a> is halved (save ends), or if P &lt; WEAK, the target is <a href="../../../../../condition/slowed/">slowed</a> (save ends).</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The target is <a href="../../../../../condition/slowed/">slowed</a> (save ends), or if P &lt; AVERAGE, the target&#39;s <a href="../../../../../rule/character/speed/">speed</a> is 0 (save ends).</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The target is <a href="../../../../../condition/slowed/">slowed</a> (save ends), or if P &lt; STRONG, the target&#39;s <a href="../../../../../rule/character/speed/">speed</a> is 0 (save ends).</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

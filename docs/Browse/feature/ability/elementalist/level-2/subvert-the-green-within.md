@@ -13,8 +13,12 @@ keywords:
     - Void
 level: "2"
 name: Subvert the Green Within
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-2/subvert-the-green-within
 target: One creature
+tier1: 5 + R poison damage
+tier2: 9 + R poison damage
+tier3: 12 + R poison damage
 type: ability
 ---
 
@@ -37,8 +41,16 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + R poison damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + R poison damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + R poison damage</span></div>
+</div>
+</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>The target uses their <a href="../../../../../rule/combat/signature-ability/">signature ability</a> against a creature of your choice. This <a href="../../../../../rule/combat/signature-ability/">signature ability</a> can target the creature even if it usually wouldn&#39;t. You then make a <a href="../../../../../rule/dice/power-roll/">power roll</a> against the target of this ability.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 5 + R poison damage</li><li><b>12-16:</b> 9 + R poison damage</li><li><b>17+:</b> 12 + R poison damage</li></ul></div>
+<div class="sc-ability__section-body"><p>The target uses their <a href="../../../../../rule/combat/signature-ability/">signature ability</a> against a creature of your choice. This <a href="../../../../../rule/combat/signature-ability/">signature ability</a> can target the creature even if it usually wouldn&#39;t. You then make a <a href="../../../../../rule/dice/power-roll/">power roll</a> against the target of this ability.</p></div>
 </div>
 </article>

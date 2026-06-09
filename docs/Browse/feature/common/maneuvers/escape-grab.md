@@ -33,8 +33,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a> or <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> No effect.</li><li><b>12-16:</b> You can escape the grab, but if you do, a creature who has you <a href="../../../../condition/grabbed/">grabbed</a> can make a <a href="../../../../rule/combat/melee/">melee</a> <a href="../../main-actions/free-strike/">free strike</a> against you before you are no longer <a href="../../../../condition/grabbed/">grabbed</a>.</li><li><b>17+:</b> You are no longer <a href="../../../../condition/grabbed/">grabbed</a>.</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/might/">Might</a> or <a href="../../../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">No effect.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">You can escape the grab, but if you do, a creature who has you <a href="../../../../condition/grabbed/">grabbed</a> can make a <a href="../../../../rule/combat/melee/">melee</a> <a href="../../main-actions/free-strike/">free strike</a> against you before you are no longer <a href="../../../../condition/grabbed/">grabbed</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">You are no longer <a href="../../../../condition/grabbed/">grabbed</a>.</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

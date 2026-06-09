@@ -57,8 +57,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self and each ally in the area</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> Each target gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</li><li><b>12-16:</b> Each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>.</li><li><b>17+:</b> Each target gains 3 <a href="../../../../rule/resource/surge/">surges</a>.</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Each target gains 1 <a href="../../../../rule/resource/surge/">surge</a>.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Each target gains 2 <a href="../../../../rule/resource/surge/">surges</a>.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Each target gains 3 <a href="../../../../rule/resource/surge/">surges</a>.</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -80,8 +85,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 10 + M damage</li><li><b>12-16:</b> 14 + M damage</li><li><b>17+:</b> 20 + M damage</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + M damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + M damage</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -103,8 +113,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/melee/">Melee</a> 1</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 10 + M damage; you and each ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to you gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></li><li><b>12-16:</b> 14 + M damage; you and each ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to you gain 15 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></li><li><b>17+:</b> 20 + M damage; you and each ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to you gain 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">10 + M damage; you and each ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to you gain 10 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">14 + M damage; you and each ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to you gain 15 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">20 + M damage; you and each ally <a href="../../../../rule/combat/adjacent/">adjacent</a> to you gain 20 <a href="../../../../rule/health/temporary-stamina/">temporary Stamina</a></span></div>
+</div>
 </div>
 </article>
 </div>

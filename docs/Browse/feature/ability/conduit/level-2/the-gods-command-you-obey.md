@@ -10,8 +10,12 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "2"
 name: The Gods Command You Obey
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-2/the-gods-command-you-obey
 target: One creature
+tier1: 4 + I holy damage; P < WEAK, before taking damage, the target makes a [free strike](../../../common/main-actions/free-strike.md) against a target you choose
+tier2: 7 + I holy damage; P < AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability
+tier3: 11 + I holy damage; P < STRONG, before taking damage, the target shifts up to their [speed](../../../../rule/character/speed.md) to a location you choose, uses an ability of your choice, and you choose any targets for that ability
 type: ability
 ---
 
@@ -34,7 +38,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 4 + I holy damage; P &lt; WEAK, before taking damage, the target makes a <a href="../../../../common/main-actions/free-strike/">free strike</a> against a target you choose</li><li><b>12-16:</b> 7 + I holy damage; P &lt; AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability</li><li><b>17+:</b> 11 + I holy damage; P &lt; STRONG, before taking damage, the target shifts up to their <a href="../../../../../rule/character/speed/">speed</a> to a location you choose, uses an ability of your choice, and you choose any targets for that ability</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + I holy damage; P &lt; WEAK, before taking damage, the target makes a <a href="../../../../common/main-actions/free-strike/">free strike</a> against a target you choose</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">7 + I holy damage; P &lt; AVERAGE, before taking damage, the target uses an ability of your choice and you choose any targets for that ability</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 + I holy damage; P &lt; STRONG, before taking damage, the target shifts up to their <a href="../../../../../rule/character/speed/">speed</a> to a location you choose, uses an ability of your choice, and you choose any targets for that ability</span></div>
+</div>
 </div>
 </article>

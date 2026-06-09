@@ -10,8 +10,12 @@ keywords:
     - '[Strike](../../../../rule/combat/strike.md)'
 level: "1"
 name: Corruption's Curse
+power_roll_characteristic: '[Intuition](../../../../rule/character/intuition.md)'
 scc: mcdm.heroes.v1/feature.ability.conduit.level-1/corruptions-curse
 target: One creature or object
+tier1: 3 + I corruption damage; M < WEAK, [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)
+tier2: 6 + I corruption damage; M < AVERAGE, [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)
+tier3: 9 + I corruption damage; M < STRONG, [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)
 type: ability
 ---
 
@@ -34,7 +38,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> 3 + I corruption damage; M &lt; WEAK, <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</li><li><b>12-16:</b> 6 + I corruption damage; M &lt; AVERAGE, <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</li><li><b>17+:</b> 9 + I corruption damage; M &lt; STRONG, <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">3 + I corruption damage; M &lt; WEAK, <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + I corruption damage; M &lt; AVERAGE, <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">9 + I corruption damage; M &lt; STRONG, <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</span></div>
+</div>
 </div>
 </article>

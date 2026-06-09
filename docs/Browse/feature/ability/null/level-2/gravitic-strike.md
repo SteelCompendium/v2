@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "2"
 name: Gravitic Strike
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.null.level-2/gravitic-strike
 target: One creature
+tier1: 8 + A psychic damage; vertical pull 3
+tier2: 12 + A psychic damage; vertical pull 5
+tier3: 16 + A psychic damage; vertical pull 7
 type: ability
 ---
 
@@ -35,7 +39,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 3</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 8 + A psychic damage; vertical pull 3</li><li><b>12-16:</b> 12 + A psychic damage; vertical pull 5</li><li><b>17+:</b> 16 + A psychic damage; vertical pull 7</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">8 + A psychic damage; vertical pull 3</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">12 + A psychic damage; vertical pull 5</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">16 + A psychic damage; vertical pull 7</span></div>
+</div>
 </div>
 </article>

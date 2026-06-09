@@ -10,8 +10,12 @@ keywords:
     - Weapon
 level: "1"
 name: Setup
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-1/setup
 target: One creature
+tier1: 6 + A damage; R < WEAK, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)
+tier2: 9 + A damage; R < AVERAGE, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)
+tier3: 13 + A damage; R < STRONG, the target has [damage weakness](../../../../rule/damage/damage-weakness.md) 5 (save ends)
 type: ability
 ---
 
@@ -34,7 +38,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 6 + A damage; R &lt; WEAK, the target has <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</li><li><b>12-16:</b> 9 + A damage; R &lt; AVERAGE, the target has <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</li><li><b>17+:</b> 13 + A damage; R &lt; STRONG, the target has <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 + A damage; R &lt; WEAK, the target has <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + A damage; R &lt; AVERAGE, the target has <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 + A damage; R &lt; STRONG, the target has <a href="../../../../../rule/damage/damage-weakness/">damage weakness</a> 5 (save ends)</span></div>
+</div>
 </div>
 </article>

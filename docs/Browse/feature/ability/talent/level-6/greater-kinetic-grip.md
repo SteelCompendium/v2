@@ -11,8 +11,12 @@ keywords:
     - Telekinesis
 level: "6"
 name: Greater Kinetic Grip
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.talent.level-6/greater-kinetic-grip
 target: One creature or object
+tier1: Slide 4 + R; M < WEAK, the [forced movement](../../../../movement/forced-movement.md) is vertical
+tier2: Slide 8 + R; M < AVERAGE, the [forced movement](../../../../movement/forced-movement.md) is vertical
+tier3: Slide 12 + R; [prone](../../../../condition/prone.md); M < STRONG, the [forced movement](../../../../movement/forced-movement.md) is vertical
 type: ability
 ---
 
@@ -35,8 +39,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> Slide 4 + R; M &lt; WEAK, the <a href="../../../../../movement/forced-movement/">forced movement</a> is vertical</li><li><b>12-16:</b> Slide 8 + R; M &lt; AVERAGE, the <a href="../../../../../movement/forced-movement/">forced movement</a> is vertical</li><li><b>17+:</b> Slide 12 + R; <a href="../../../../../condition/prone/">prone</a>; M &lt; STRONG, the <a href="../../../../../movement/forced-movement/">forced movement</a> is vertical</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Slide 4 + R; M &lt; WEAK, the <a href="../../../../../movement/forced-movement/">forced movement</a> is vertical</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Slide 8 + R; M &lt; AVERAGE, the <a href="../../../../../movement/forced-movement/">forced movement</a> is vertical</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Slide 12 + R; <a href="../../../../../condition/prone/">prone</a>; M &lt; STRONG, the <a href="../../../../../movement/forced-movement/">forced movement</a> is vertical</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

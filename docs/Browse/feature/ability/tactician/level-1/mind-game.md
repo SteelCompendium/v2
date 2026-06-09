@@ -12,8 +12,12 @@ keywords:
     - Weapon
 level: "1"
 name: Mind Game
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/mind-game
 target: One creature or object
+tier1: 4 + M damage; R < WEAK, [weakened](../../../../condition/weakened.md) (save ends)
+tier2: 6 + M damage; R < AVERAGE, [weakened](../../../../condition/weakened.md) (save ends)
+tier3: 10 + M damage; R < STRONG, [weakened](../../../../condition/weakened.md) (save ends)
 type: ability
 ---
 
@@ -36,9 +40,17 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../../rule/combat/ranged/">ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 + M damage; R &lt; WEAK, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 + M damage; R &lt; AVERAGE, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 + M damage; R &lt; STRONG, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</span></div>
+</div>
+</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You mark the target.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 4 + M damage; R &lt; WEAK, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>12-16:</b> 6 + M damage; R &lt; AVERAGE, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</li><li><b>17+:</b> 10 + M damage; R &lt; STRONG, <a href="../../../../../condition/weakened/">weakened</a> (save ends)</li></ul></div>
+<div class="sc-ability__section-body"><p>You mark the target.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

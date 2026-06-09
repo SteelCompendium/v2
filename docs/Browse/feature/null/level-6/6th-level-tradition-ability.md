@@ -66,9 +66,17 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; M &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; M &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 damage; M &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a></span></div>
+</div>
+</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a>, and squares occupied by enemies or objects are not <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for this <a href="../../../../movement/shifting/">shift</a>. You make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each enemy you moved through during this <a href="../../../../movement/shifting/">shift</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> 6 damage; M &lt; WEAK, <a href="../../../../condition/dazed/">dazed</a></li><li><b>12-16:</b> 8 damage; M &lt; AVERAGE, <a href="../../../../condition/dazed/">dazed</a></li><li><b>17+:</b> 12 damage; M &lt; STRONG, <a href="../../../../condition/dazed/">dazed</a></li></ul></div>
+<div class="sc-ability__section-body"><p>You can <a href="../../../../movement/shifting/">shift</a> up to your <a href="../../../../rule/character/speed/">speed</a>, and squares occupied by enemies or objects are not <a href="../../../../movement/difficult-terrain/">difficult terrain</a> for this <a href="../../../../movement/shifting/">shift</a>. You make one <a href="../../../../rule/dice/power-roll/">power roll</a> that targets each enemy you moved through during this <a href="../../../../movement/shifting/">shift</a>.</p></div>
 </div>
 </article>
 </div>
@@ -98,8 +106,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures or objects</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> Vertical slide 6</li><li><b>12-16:</b> Vertical slide 8</li><li><b>17+:</b> Vertical slide 10</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Vertical slide 6</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Vertical slide 8</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Vertical slide 10</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -153,8 +166,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/intuition/">Intuition</a>:</b></p><ul><li><b>≤11:</b> Vertical slide 5</li><li><b>12-16:</b> Vertical slide 7</li><li><b>17+:</b> Vertical slide 9</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/intuition/">Intuition</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Vertical slide 5</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Vertical slide 7</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Vertical slide 9</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

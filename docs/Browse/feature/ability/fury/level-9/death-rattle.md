@@ -9,8 +9,12 @@ keywords:
     - Magic
 level: "9"
 name: Death Rattle
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-9/death-rattle
 target: Each enemy in the area
+tier1: 4 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md)
+tier2: 6 psychic damage; any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature
+tier3: 10 psychic damage; each target who is not a leader or solo creature is [winded](../../../../rule/health/winded.md); any target who is a minion is reduced to 0 [Stamina](../../../../rule/health/stamina.md), as does one [winded](../../../../rule/health/winded.md) target who is not a leader or solo creature
 type: ability
 ---
 
@@ -33,7 +37,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 4 psychic damage; any target who is a minion is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a></li><li><b>12-16:</b> 6 psychic damage; any target who is a minion is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a>, as does one <a href="../../../../../rule/health/winded/">winded</a> target who is not a leader or solo creature</li><li><b>17+:</b> 10 psychic damage; each target who is not a leader or solo creature is <a href="../../../../../rule/health/winded/">winded</a>; any target who is a minion is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a>, as does one <a href="../../../../../rule/health/winded/">winded</a> target who is not a leader or solo creature</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 psychic damage; any target who is a minion is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 psychic damage; any target who is a minion is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a>, as does one <a href="../../../../../rule/health/winded/">winded</a> target who is not a leader or solo creature</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 psychic damage; each target who is not a leader or solo creature is <a href="../../../../../rule/health/winded/">winded</a>; any target who is a minion is reduced to 0 <a href="../../../../../rule/health/stamina/">Stamina</a>, as does one <a href="../../../../../rule/health/winded/">winded</a> target who is not a leader or solo creature</span></div>
+</div>
 </div>
 </article>

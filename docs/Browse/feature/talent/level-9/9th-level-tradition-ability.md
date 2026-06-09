@@ -46,13 +46,21 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three allies</div></div>
 </div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">4 corruption damage; <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">6 corruption damage; <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">10 corruption damage; <a href="../../../../condition/slowed/">slowed</a> (save ends)</span></div>
+</div>
+</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
 <div class="sc-ability__section-body"><p>Each target can use any main action available to them as a free <a href="../../../../rule/combat/triggered-action/">triggered action</a>, but they lose their main action on their next <a href="../../../../rule/combat/turn/">turn</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
-<div class="sc-ability__section-body"><p>Make a <a href="../../../../rule/dice/power-roll/">power roll</a> that targets you and each enemy within <a href="../../../../rule/combat/distance/">distance</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> 4 corruption damage; <a href="../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>12-16:</b> 6 corruption damage; <a href="../../../../condition/slowed/">slowed</a> (save ends)</li><li><b>17+:</b> 10 corruption damage; <a href="../../../../condition/slowed/">slowed</a> (save ends)</li></ul></div>
+<div class="sc-ability__section-body"><p>Make a <a href="../../../../rule/dice/power-roll/">power roll</a> that targets you and each enemy within <a href="../../../../rule/combat/distance/">distance</a>.</p></div>
 </div>
 </article>
 <article class="sc-ability sc-fil" data-action="maneuver">
@@ -102,9 +110,17 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Special</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy and object in the area</div></div>
 </div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">2 <a href="../../../../rule/combat/burst/">burst</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">3 <a href="../../../../rule/combat/burst/">burst</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">4 <a href="../../../../rule/combat/burst/">burst</a></span></div>
+</div>
+</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>Make a <a href="../../../../rule/dice/power-roll/">power roll</a> to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of <a href="../../../../rule/character/size/">size</a> 1L or smaller.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 2 <a href="../../../../rule/combat/burst/">burst</a></li><li><b>12-16:</b> 3 <a href="../../../../rule/combat/burst/">burst</a></li><li><b>17+:</b> 4 <a href="../../../../rule/combat/burst/">burst</a></li></ul></div>
+<div class="sc-ability__section-body"><p>Make a <a href="../../../../rule/dice/power-roll/">power roll</a> to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of <a href="../../../../rule/character/size/">size</a> 1L or smaller.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>
@@ -126,8 +142,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy and object in the area</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 6 damage; push 7</li><li><b>12-16:</b> 9 damage; push 10</li><li><b>17+:</b> 13 damage; push 15</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">6 damage; push 7</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 damage; push 10</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">13 damage; push 15</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -165,8 +186,13 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 15 + R psychic damage</li><li><b>12-16:</b> 24 + R psychic damage</li><li><b>17+:</b> 28 + R psychic damage</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">15 + R psychic damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">24 + R psychic damage</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">28 + R psychic damage</span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
@@ -192,9 +218,17 @@ type: feature
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">3 <a href="../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each ally and enemy in the area</div></div>
 </div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">R &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">R &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">R &lt; STRONG, <a href="../../../../condition/frightened/">frightened</a> (save ends)</span></div>
+</div>
+</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You and each target ally can&#39;t obtain lower than a tier 2 outcome on <a href="../../../../rule/dice/power-roll/">power rolls</a> until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. Each target enemy is affected by the ability&#39;s <a href="../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> R &lt; WEAK, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>12-16:</b> R &lt; AVERAGE, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li><li><b>17+:</b> R &lt; STRONG, <a href="../../../../condition/frightened/">frightened</a> (save ends)</li></ul></div>
+<div class="sc-ability__section-body"><p>You and each target ally can&#39;t obtain lower than a tier 2 outcome on <a href="../../../../rule/dice/power-roll/">power rolls</a> until the start of your next <a href="../../../../rule/combat/turn/">turn</a>. Each target enemy is affected by the ability&#39;s <a href="../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Strained</span></div>

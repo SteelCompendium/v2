@@ -11,8 +11,12 @@ keywords:
     - Weapon
 level: "1"
 name: Upstage
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md) or [Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-1/upstage
 target: Self
+tier1: '[Taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)); A < WEAK[, prone](../../../../condition/prone.md)'
+tier2: '[Taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)); A < AVERAGE[, prone](../../../../condition/prone.md)'
+tier3: '[Taunted](../../../../condition/taunted.md) ([EoT](../../../../rule/combat/end-of-turn.md)); A < STRONG, [prone and](../../../../condition/prone.md) can''t stand ([EoT](../../../../rule/combat/end-of-turn.md))'
 type: ability
 ---
 
@@ -35,8 +39,16 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/agility/">Agility</a> or <a href="../../../../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res"><a href="../../../../../condition/taunted/">Taunted</a> (<a href="../../../../../rule/combat/end-of-turn/">EoT</a>); A &lt; WEAK<a href="../../../../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res"><a href="../../../../../condition/taunted/">Taunted</a> (<a href="../../../../../rule/combat/end-of-turn/">EoT</a>); A &lt; AVERAGE<a href="../../../../../condition/prone/">, prone</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res"><a href="../../../../../condition/taunted/">Taunted</a> (<a href="../../../../../rule/combat/end-of-turn/">EoT</a>); A &lt; STRONG, <a href="../../../../../condition/prone/">prone and</a> can&#39;t stand (<a href="../../../../../rule/combat/end-of-turn/">EoT</a>)</span></div>
+</div>
+</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your <a href="../../../../../rule/character/speed/">speed</a>. You make one <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../../../../rule/combat/adjacent/">adjacent</a> to during this <a href="../../../../../movement/shifting/">shift</a>.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a> or <a href="../../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> <a href="../../../../../condition/taunted/">Taunted</a> (<a href="../../../../../rule/combat/end-of-turn/">EoT</a>); A &lt; WEAK<a href="../../../../../condition/prone/">, prone</a></li><li><b>12-16:</b> <a href="../../../../../condition/taunted/">Taunted</a> (<a href="../../../../../rule/combat/end-of-turn/">EoT</a>); A &lt; AVERAGE<a href="../../../../../condition/prone/">, prone</a></li><li><b>17+:</b> <a href="../../../../../condition/taunted/">Taunted</a> (<a href="../../../../../rule/combat/end-of-turn/">EoT</a>); A &lt; STRONG, <a href="../../../../../condition/prone/">prone and</a> can&#39;t stand (<a href="../../../../../rule/combat/end-of-turn/">EoT</a>)</li></ul></div>
+<div class="sc-ability__section-body"><p>You <a href="../../../../../movement/shifting/">shift</a> up to your <a href="../../../../../rule/character/speed/">speed</a>. You make one <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../../../../rule/combat/adjacent/">adjacent</a> to during this <a href="../../../../../movement/shifting/">shift</a>.</p></div>
 </div>
 </article>

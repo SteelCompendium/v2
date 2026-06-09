@@ -10,8 +10,12 @@ keywords:
     - Weapon
 level: "2"
 name: Wrecking Ball
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-2/wrecking-ball
 target: Self
+tier1: Push 1
+tier2: Push 2
+tier3: Push 3
 type: ability
 ---
 
@@ -34,8 +38,16 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">Self; see below</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Self</div></div>
 </div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">Push 1</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Push 2</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Push 3</span></div>
+</div>
+</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You move up to your <a href="../../../../../rule/character/speed/">speed</a> in a straight line. During this movement, you can move through mundane structures, including walls, which are <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for you. You automatically destroy each square of structure you move through and leave behind a square of <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p><p>Additionally, you make one <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../../../../rule/combat/adjacent/">adjacent</a> to during this movement.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> Push 1</li><li><b>12-16:</b> Push 2</li><li><b>17+:</b> Push 3</li></ul></div>
+<div class="sc-ability__section-body"><p>You move up to your <a href="../../../../../rule/character/speed/">speed</a> in a straight line. During this movement, you can move through mundane structures, including walls, which are <a href="../../../../../movement/difficult-terrain/">difficult terrain</a> for you. You automatically destroy each square of structure you move through and leave behind a square of <a href="../../../../../movement/difficult-terrain/">difficult terrain</a>.</p><p>Additionally, you make one <a href="../../../../../rule/dice/power-roll/">power roll</a> that targets each enemy you move <a href="../../../../../rule/combat/adjacent/">adjacent</a> to during this movement.</p></div>
 </div>
 </article>

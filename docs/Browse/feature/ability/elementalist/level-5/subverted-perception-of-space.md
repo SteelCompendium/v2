@@ -11,8 +11,12 @@ keywords:
     - Void
 level: "5"
 name: Subverted Perception of Space
+power_roll_characteristic: '[Reason](../../../../rule/character/reason.md)'
 scc: mcdm.heroes.v1/feature.ability.elementalist.level-5/subverted-perception-of-space
 target: One creature or object
+tier1: 9 + R corruption damage
+tier2: 10 + R corruption damage; the target has [line of effect](../../../../rule/combat/line-of-effect.md) only to creatures and objects within 4 squares of them until the start of your next [turn](../../../../rule/combat/turn.md)
+tier3: 15 + R corruption damage; the target has [line of effect](../../../../rule/combat/line-of-effect.md) only to [adjacent](../../../../rule/combat/adjacent.md) creatures and objects until the start of your next [turn](../../../../rule/combat/turn.md)
 type: ability
 ---
 
@@ -35,7 +39,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/reason/">Reason</a>:</b></p><ul><li><b>≤11:</b> 9 + R corruption damage</li><li><b>12-16:</b> 10 + R corruption damage; the target has <a href="../../../../../rule/combat/line-of-effect/">line of effect</a> only to creatures and objects within 4 squares of them until the start of your next <a href="../../../../../rule/combat/turn/">turn</a></li><li><b>17+:</b> 15 + R corruption damage; the target has <a href="../../../../../rule/combat/line-of-effect/">line of effect</a> only to <a href="../../../../../rule/combat/adjacent/">adjacent</a> creatures and objects until the start of your next <a href="../../../../../rule/combat/turn/">turn</a></li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/reason/">Reason</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">9 + R corruption damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">10 + R corruption damage; the target has <a href="../../../../../rule/combat/line-of-effect/">line of effect</a> only to creatures and objects within 4 squares of them until the start of your next <a href="../../../../../rule/combat/turn/">turn</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">15 + R corruption damage; the target has <a href="../../../../../rule/combat/line-of-effect/">line of effect</a> only to <a href="../../../../../rule/combat/adjacent/">adjacent</a> creatures and objects until the start of your next <a href="../../../../../rule/combat/turn/">turn</a></span></div>
+</div>
 </div>
 </article>

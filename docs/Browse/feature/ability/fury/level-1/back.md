@@ -10,8 +10,12 @@ keywords:
     - Weapon
 level: "1"
 name: Back!
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.fury.level-1/back
 target: Each enemy in the area
+tier1: 5 damage
+tier2: 8 damage; push 1
+tier3: 11 damage; push 3
 type: ability
 ---
 
@@ -34,7 +38,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v">1 <a href="../../../../../rule/combat/burst/">burst</a></div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Each enemy in the area</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 5 damage</li><li><b>12-16:</b> 8 damage; push 1</li><li><b>17+:</b> 11 damage; push 3</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 damage</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">8 damage; push 1</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">11 damage; push 3</span></div>
+</div>
 </div>
 </article>

@@ -12,8 +12,12 @@ keywords:
     - Weapon
 level: "1"
 name: Hammer and Anvil
+power_roll_characteristic: '[Might](../../../../rule/character/might.md)'
 scc: mcdm.heroes.v1/feature.ability.tactician.level-1/hammer-and-anvil
 target: One creature or object
+tier1: 5 + M damage; one ally within 10 squares of you can use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) against the target as a free [triggered action](../../../../rule/combat/triggered-action.md)
+tier2: 9 + M damage; one ally within 10 squares of you can use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md) against the target as a free [triggered action](../../../../rule/combat/triggered-action.md)
+tier3: 12 + M damage; two allies within 10 squares of you can each use a [strike](../../../../rule/combat/strike.md) [signature ability](../../../../rule/combat/signature-ability.md) that gains an [edge](../../../../rule/dice/edge.md) against the target as a free [triggered action](../../../../rule/combat/triggered-action.md)
 type: ability
 ---
 
@@ -36,8 +40,13 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/melee/">Melee</a> 1 or <a href="../../../../../rule/combat/ranged/">ranged</a> 5</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">One creature or object</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/might/">Might</a>:</b></p><ul><li><b>≤11:</b> 5 + M damage; one ally within 10 squares of you can use a <a href="../../../../../rule/combat/strike/">strike</a> <a href="../../../../../rule/combat/signature-ability/">signature ability</a> against the target as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a></li><li><b>12-16:</b> 9 + M damage; one ally within 10 squares of you can use a <a href="../../../../../rule/combat/strike/">strike</a> <a href="../../../../../rule/combat/signature-ability/">signature ability</a> that gains an <a href="../../../../../rule/dice/edge/">edge</a> against the target as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a></li><li><b>17+:</b> 12 + M damage; two allies within 10 squares of you can each use a <a href="../../../../../rule/combat/strike/">strike</a> <a href="../../../../../rule/combat/signature-ability/">signature ability</a> that gains an <a href="../../../../../rule/dice/edge/">edge</a> against the target as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a></li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/might/">Might</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">5 + M damage; one ally within 10 squares of you can use a <a href="../../../../../rule/combat/strike/">strike</a> <a href="../../../../../rule/combat/signature-ability/">signature ability</a> against the target as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a></span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">9 + M damage; one ally within 10 squares of you can use a <a href="../../../../../rule/combat/strike/">strike</a> <a href="../../../../../rule/combat/signature-ability/">signature ability</a> that gains an <a href="../../../../../rule/dice/edge/">edge</a> against the target as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a></span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">12 + M damage; two allies within 10 squares of you can each use a <a href="../../../../../rule/combat/strike/">strike</a> <a href="../../../../../rule/combat/signature-ability/">signature ability</a> that gains an <a href="../../../../../rule/dice/edge/">edge</a> against the target as a free <a href="../../../../../rule/combat/triggered-action/">triggered action</a></span></div>
+</div>
 </div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>

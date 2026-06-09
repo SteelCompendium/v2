@@ -9,8 +9,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "5"
 name: Patter Song
+power_roll_characteristic: '[Presence](../../../../rule/character/presence.md)'
 scc: mcdm.heroes.v1/feature.ability.troubadour.level-5/patter-song
 target: Special
+tier1: One ally within [distance](../../../../rule/combat/distance.md) can take their [turn](../../../../rule/combat/turn.md) immediately after yours.
+tier2: Two allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order.
+tier3: Three allies within [distance](../../../../rule/combat/distance.md) can take their [turns](../../../../rule/combat/turn.md) immediately after yours in any order. One of those allies can have already taken a [turn](../../../../rule/combat/turn.md) this [combat round](../../../../rule/combat/combat-round.md).
 type: ability
 ---
 
@@ -33,7 +37,12 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Special</div></div>
 </div>
-<div class="sc-ability__section">
-<div class="sc-ability__section-body"><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/presence/">Presence</a>:</b></p><ul><li><b>≤11:</b> One ally within <a href="../../../../../rule/combat/distance/">distance</a> can take their <a href="../../../../../rule/combat/turn/">turn</a> immediately after yours.</li><li><b>12-16:</b> Two allies within <a href="../../../../../rule/combat/distance/">distance</a> can take their <a href="../../../../../rule/combat/turn/">turns</a> immediately after yours in any order.</li><li><b>17+:</b> Three allies within <a href="../../../../../rule/combat/distance/">distance</a> can take their <a href="../../../../../rule/combat/turn/">turns</a> immediately after yours in any order. One of those allies can have already taken a <a href="../../../../../rule/combat/turn/">turn</a> this <a href="../../../../../rule/combat/combat-round/">combat round</a>.</li></ul></div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/presence/">Presence</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">One ally within <a href="../../../../../rule/combat/distance/">distance</a> can take their <a href="../../../../../rule/combat/turn/">turn</a> immediately after yours.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">Two allies within <a href="../../../../../rule/combat/distance/">distance</a> can take their <a href="../../../../../rule/combat/turn/">turns</a> immediately after yours in any order.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">Three allies within <a href="../../../../../rule/combat/distance/">distance</a> can take their <a href="../../../../../rule/combat/turn/">turns</a> immediately after yours in any order. One of those allies can have already taken a <a href="../../../../../rule/combat/turn/">turn</a> this <a href="../../../../../rule/combat/combat-round/">combat round</a>.</span></div>
+</div>
 </div>
 </article>

@@ -9,8 +9,12 @@ keywords:
     - '[Ranged](../../../../rule/combat/ranged.md)'
 level: "6"
 name: One Vial Makes You Faster
+power_roll_characteristic: '[Agility](../../../../rule/character/agility.md)'
 scc: mcdm.heroes.v1/feature.ability.shadow.level-6/one-vial-makes-you-faster
 target: Three creatures
+tier1: The creature's [speed](../../../../rule/character/speed.md) is increased by 2 until the end of the encounter.
+tier2: The creature can [fly](../../../../movement/fly.md) until the end of the encounter.
+tier3: The creature [turns](../../../../rule/combat/turn.md) invisible until the end of their next [turn](../../../../rule/combat/turn.md).
 type: ability
 ---
 
@@ -33,8 +37,16 @@ type: ability
 <div class="sc-ability__cell"><div class="l">Distance</div><div class="v"><a href="../../../../../rule/combat/ranged/">Ranged</a> 10</div></div>
 <div class="sc-ability__cell"><div class="l">Targets</div><div class="v">Three creatures</div></div>
 </div>
+<div class="sc-ability__pr">
+<div class="sc-ability__pr-head"><span class="sc-ability__dia"></span><span class="pre">Power Roll +</span><span class="chars"><a href="../../../../../rule/character/agility/">Agility</a></span></div>
+<div class="sc-ability__pr-rows">
+<div class="sc-ability__tier" data-tier="low"><span class="badge">!</span><span class="res">The creature&#39;s <a href="../../../../../rule/character/speed/">speed</a> is increased by 2 until the end of the encounter.</span></div>
+<div class="sc-ability__tier" data-tier="mid"><span class="badge">@</span><span class="res">The creature can <a href="../../../../../movement/fly/">fly</a> until the end of the encounter.</span></div>
+<div class="sc-ability__tier" data-tier="high"><span class="badge">#</span><span class="res">The creature <a href="../../../../../rule/combat/turn/">turns</a> invisible until the end of their next <a href="../../../../../rule/combat/turn/">turn</a>.</span></div>
+</div>
+</div>
 <div class="sc-ability__section">
 <div class="sc-ability__section-head"><span class="sc-ability__dia"></span><span class="tag">Effect</span></div>
-<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../../../common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its <a href="../../../../../rule/character/potency/">potency</a> at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your <a href="../../../../../rule/dice/power-roll/">power roll</a>.</p><p><b><a href="../../../../../rule/dice/power-roll/">Power Roll</a> + <a href="../../../../../rule/character/agility/">Agility</a>:</b></p><ul><li><b>≤11:</b> The creature&#39;s <a href="../../../../../rule/character/speed/">speed</a> is increased by 2 until the end of the encounter.</li><li><b>12-16:</b> The creature can <a href="../../../../../movement/fly/">fly</a> until the end of the encounter.</li><li><b>17+:</b> The creature <a href="../../../../../rule/combat/turn/">turns</a> invisible until the end of their next <a href="../../../../../rule/combat/turn/">turn</a>.</li></ul></div>
+<div class="sc-ability__section-body"><p>You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&#39;t drink the potion right away, they must use the <a href="../../../../common/maneuvers/use-consumable/">Use Consumable</a> maneuver to consume it later. The potion loses its <a href="../../../../../rule/character/potency/">potency</a> at the end of the encounter.</p><p>A creature who drinks the potion receives benefits based on your <a href="../../../../../rule/dice/power-roll/">power roll</a>.</p></div>
 </div>
 </article>
