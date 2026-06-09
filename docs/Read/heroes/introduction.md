@@ -133,7 +133,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Argument](negotiation.md):** A plea the heroes make during a negotiation to convince one or more [NPCs](../../Browse/rule/general/npc.md) to work with them.
 
-**[Artifact](treasures.md):** A powerful treasure that can unbalance the game.
+**[Artifact](rewards.md):** A powerful treasure that can unbalance the game.
 
 **[Artisan](../../Browse/career/artisan.md):** A [follower](../../Browse/rule/general/follower.md) who undertakes [crafting projects](../../Browse/rule/downtime/crafting-project.md) for a hero.
 
@@ -155,7 +155,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Capital](../../Browse/rule/world/capital.md):** The largest city in [Orden](../../Browse/rule/world/orden.md), filled with art, culture, and intrigue.
 
-**[Career](careers.md):** The job a hero had before becoming a hero.
+**[Career](background.md):** The job a hero had before becoming a hero.
 
 **[Catch Breath](../../Browse/feature/common/maneuvers/catch-breath.md) Maneuver:** A maneuver that allows a hero to spend a [Recovery](../../Browse/rule/health/recoveries.md) and regain [Stamina](../../Browse/rule/health/stamina.md) equal to their [recovery value](../../Browse/rule/health/recoveries.md).
 
@@ -201,7 +201,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Cube](../../Browse/rule/combat/cube.md):** When an ability or other effect creates a [cube](../../Browse/rule/combat/cube.md), that area is expressed as "X [cube](../../Browse/rule/combat/cube.md)." The number X is the length of each of the area's sides. A [cube](../../Browse/rule/combat/cube.md) effect might last only as long as it takes to affect its targets, or it might have a duration specified by the effect.
 
-**[Culture](cultures.md):** The community in which a hero was raised.
+**[Culture](background.md):** The community in which a hero was raised.
 
 **d3:** A three-sided die, often rolled using a d6.
 
@@ -493,7 +493,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Size](../../Browse/rule/character/size.md):** An indication of a creature's space and their overall weight and height relative to other creatures.
 
-**[Skill](skills.md):** Special knowledge or training that can be applied to a [test](../../Browse/rule/test/test.md). When a skill applies to a [test](../../Browse/rule/test/test.md), it grants a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [power roll](../../Browse/rule/dice/power-roll.md).
+**[Skill](tests.md):** Special knowledge or training that can be applied to a [test](../../Browse/rule/test/test.md). When a skill applies to a [test](../../Browse/rule/test/test.md), it grants a +2 [bonus](../../Browse/rule/dice/bonuses-and-penalties.md) to the [power roll](../../Browse/rule/dice/power-roll.md).
 
 **[Slide](../../Browse/movement/forced-movement.md):** A form of [forced movement](../../Browse/movement/forced-movement.md) that slides a target in any direction, moving them along any horizontal line.
 
@@ -549,13 +549,13 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **[Tier 3](../../Browse/rule/dice/tier-outcome.md):** The best [tier outcome](../../Browse/rule/dice/tier-outcome.md) of a [power roll](../../Browse/rule/dice/power-roll.md) (other than a [critical hit](../../Browse/rule/combat/critical-hit.md)), achieved when the total of the roll is 17 or higher.
 
-**[Title](titles.md):** A special reward that a hero can earn while adventuring, and which grants benefits or new abilities.
+**[Title](rewards.md):** A special reward that a hero can earn while adventuring, and which grants benefits or new abilities.
 
 **[Time Raider](../../Browse/ancestry/time-raider.md):** An ancestry of four-armed psionic folk with ocular sensors instead of eyes.
 
 **[Timescape](../../Browse/rule/world/orden.md):** A multiverse of worlds, also known as manifolds, connected by the Sea of Stars.
 
-**[Treasure](treasures.md):** A piece of [supernatural](../../Browse/rule/general/supernatural.md) equipment, from weapons and armor to [implements](../../Browse/rule/treasure/implement.md) and more.
+**[Treasure](rewards.md):** A piece of [supernatural](../../Browse/rule/general/supernatural.md) equipment, from weapons and armor to [implements](../../Browse/rule/treasure/implement.md) and more.
 
 **[Triggered Action](../../Browse/rule/combat/triggered-action.md):** An action a creature can use on any [turn](../../Browse/rule/combat/turn.md), including their own, but only when a specific trigger occurs. Each creature can use one triggered action per round.
 

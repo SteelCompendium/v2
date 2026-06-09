@@ -15,7 +15,7 @@ What makes a hero? Is their desire to stand up for the innocent and protect othe
 
 No. A hero's life experience and background make them what they are. That background starts with the culture in which a hero was raised, and is threaded through the career that led them to a life of adventuring.
 
-## Culture {data-scc="mcdm.heroes.v1/chapter/cultures"}
+## Culture
 
 A hero's culture describes the beliefs, customs, values, and way of life held by the community in which they were raised. This community provides life experiences that give a character some of their game statistics. Even if a hero doesn't share their culture's values, those values shaped their early development and way of life. In fact, some people become heroes primarily from the rejection of the ways of their culture.
 
@@ -300,7 +300,7 @@ The Dead Languages table shows some of the dead languages of [Orden](../../Brows
 
 Khamish is still spoken by lizardfolk and other creatures connected to the beast lords. However, the forms spoken today only vaguely resemble their original tongues and have been adapted for use within their speakers' own circles.
 
-## Careers {data-scc="mcdm.heroes.v1/chapter/careers"}
+## Careers
 
 Being a hero isn't a job. It's a calling. But before you answered that call, you had a different job or vocation that paid the bills. Thank the gods for that, because the experience you gained in that career is now helping you save lives and slay monsters.
 

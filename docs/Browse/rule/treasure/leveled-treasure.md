@@ -12,7 +12,7 @@ Like [trinkets](trinket.md), leveled treasures can be used at will without a red
 
 ## Leveled Benefits
 
-Each [leveled treasure](leveled-treasure.md) has benefits that you gain at 1st, 5th, and 9th levels. You can't use a treasure's benefit until you achieve the appropriate benefits level. [Leveled benefits](../../../Read/heroes/treasures.md) are cumulative.
+Each [leveled treasure](leveled-treasure.md) has benefits that you gain at 1st, 5th, and 9th levels. You can't use a treasure's benefit until you achieve the appropriate benefits level. [Leveled benefits](../../../Read/heroes/rewards.md) are cumulative.
 
 ## Carry Three Safely
 
@@ -30,7 +30,7 @@ It's fine to own or possess more than three [leveled treasures](leveled-treasure
 
 ## Leveled Armor Treasures
 
-Magic and psionic armor and shields are the primary tools of heroes always ready to hurl themselves into combat. This section presents [leveled armor treasures](../../../Read/heroes/treasures.md) in alphabetical order.
+Magic and psionic armor and shields are the primary tools of heroes always ready to hurl themselves into combat. This section presents [leveled armor treasures](../../../Read/heroes/rewards.md) in alphabetical order.
 
 ### Adaptive Second Skin of Toxins {data-scc="mcdm.heroes.v1/treasure.leveled.armor/adaptive-second-skin-of-toxins"}
 
@@ -234,7 +234,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 ## Leveled Implement Treasures
 
-[Implements](implement.md) are pieces of jewelry, orbs, staffs, tomes, wands, and other objects used by magic and psionic heroes to focus their power. This section presents [leveled implement treasures](../../../Read/heroes/treasures.md) in alphabetical order.
+[Implements](implement.md) are pieces of jewelry, orbs, staffs, tomes, wands, and other objects used by magic and psionic heroes to focus their power. This section presents [leveled implement treasures](../../../Read/heroes/rewards.md) in alphabetical order.
 
 ### Abjurer's Bastion {data-scc="mcdm.heroes.v1/treasure.leveled.implement/abjurers-bastion"}
 
@@ -358,7 +358,7 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 ## Leveled Weapon Treasures
 
-For combat-focused heroes, weapons channeling magic and psionic power can easily tip the balance of any battle. This section presents [leveled weapon treasures](../../../Read/heroes/treasures.md) in alphabetical order.
+For combat-focused heroes, weapons channeling magic and psionic power can easily tip the balance of any battle. This section presents [leveled weapon treasures](../../../Read/heroes/rewards.md) in alphabetical order.
 
 ### Authority's End {data-scc="mcdm.heroes.v1/treasure.leveled.weapon/authoritys-end"}
 
@@ -640,7 +640,7 @@ For combat-focused heroes, weapons channeling magic and psionic power can easily
 
 ## Other Leveled Treasures
 
-In addition to armor, shields, [implements](implement.md), and weapons, heroes can make use of a wide range of [magic and psionic treasures](../../../Read/heroes/treasures.md). This section presents other types of [leveled treasures](leveled-treasure.md) in alphabetical order.
+In addition to armor, shields, [implements](implement.md), and weapons, heroes can make use of a wide range of [magic and psionic treasures](../../../Read/heroes/rewards.md). This section presents other types of [leveled treasures](leveled-treasure.md) in alphabetical order.
 
 ### Bloodbound Band {data-scc="mcdm.heroes.v1/treasure.leveled.other/bloodbound-band"}
 

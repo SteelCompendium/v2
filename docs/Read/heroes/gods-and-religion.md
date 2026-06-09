@@ -2,7 +2,7 @@
 search:
   exclude: true
 name: Gods and Religion
-order: 19
+order: 14
 scc: mcdm.heroes.v1/chapter/gods-and-religion
 type: chapter
 ---

@@ -2,7 +2,7 @@
 search:
   exclude: true
 name: Downtime Projects
-order: 15
+order: 12
 scc: mcdm.heroes.v1/chapter/downtime-projects
 type: chapter
 ---
