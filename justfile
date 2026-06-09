@@ -20,9 +20,9 @@ update push="true":
     etl_date="$(date +%Y-%m-%d)"
     cd "$v2_dir"
 
-    # 2. Embed version info in mkdocs.yml
-    copyright="The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.<br><small>steel-etl<a href=\"https://github.com/SteelCompendium/steel-etl/commit/${etl_sha}\">${etl_sha}</a> (${etl_date})</small>"
-    VAL="$copyright" yq -i '.copyright = env(VAL)' mkdocs.yml
+    # 2. Stamp the steel-etl pipeline version into mkdocs.yml extra.* fields.
+    # (The legal copyright text is now static; CI fills extra.site_* at deploy.)
+    yq -i ".extra.etl_sha = \"${etl_sha}\" | .extra.etl_date = \"${etl_date}\"" mkdocs.yml
 
     # 3. Build MkDocs docs directory from steel-etl output
     echo >&2 "[INFO] Running steel-etl site..."
@@ -50,8 +50,6 @@ update push="true":
 clean_docs:
     #!/usr/bin/env bash
     set -euo pipefail
-    # Reset data version placeholder in mkdocs.yml for idempotent re-runs
-    sed -i -E 's|Data: steel-etl <a[^<]*</a> \([0-9]{4}-[0-9]{2}-[0-9]{2}\)|Data: DATA_VERSION|g' mkdocs.yml
     cd docs
     find . -maxdepth 1 -mindepth 1 \
       ! -name 'javascripts' \
