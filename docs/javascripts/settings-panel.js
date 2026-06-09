@@ -50,8 +50,9 @@
     ]
   };
 
+  // Canonical Material Design "cog" path (mdiCog) — symmetric teeth.
   var GEAR =
-    '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15.5A3.5 3.5 0 0 1 8.5 12 3.5 3.5 0 0 1 12 8.5a3.5 3.5 0 0 1 3.5 3.5 3.5 3.5 0 0 1-3.5 3.5m7.43-2.53c.04-.32.07-.64.07-.97 0-.33-.03-.66-.07-1l2.11-1.63c.19-.15.24-.42.12-.64l-2-3.46c-.12-.22-.39-.31-.61-.22l-2.49 1c-.52-.39-1.06-.73-1.69-.98l-.37-2.65A.506.506 0 0 0 14 2h-4c-.25 0-.46.18-.5.42l-.37 2.65c-.63.25-1.17.59-1.69.98l-2.49-1c-.22-.09-.49 0-.61.22l-2 3.46c-.13.22-.07.49.12.64L2.57 11c-.04.34-.07.67-.07 1 0 .33.03.65.07.97l-2.11 1.66c-.19.15-.25.42-.12.64l2 3.46c.12.22.39.3.61.22l2.49-1.01c.52.4 1.06.74 1.69.99l.37 2.65c.04.24.25.42.5.42h4c.25 0 .46-.18.5-.42l.37-2.65c.63-.26 1.17-.59 1.69-.99l2.49 1.01c.22.08.49 0 .61-.22l2-3.46c.12-.22.07-.49-.12-.64z"/></svg>';
+    '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12,15.5A3.5,3.5 0 0,1 8.5,12A3.5,3.5 0 0,1 12,8.5A3.5,3.5 0 0,1 15.5,12A3.5,3.5 0 0,1 12,15.5M19.43,12.97C19.47,12.65 19.5,12.33 19.5,12C19.5,11.67 19.47,11.34 19.43,11L21.54,9.37C21.73,9.22 21.78,8.95 21.66,8.73L19.66,5.27C19.54,5.05 19.27,4.96 19.05,5.05L16.56,6.05C16.04,5.66 15.5,5.32 14.87,5.07L14.5,2.42C14.46,2.18 14.25,2 14,2H10C9.75,2 9.54,2.18 9.5,2.42L9.13,5.07C8.5,5.32 7.96,5.66 7.44,6.05L4.95,5.05C4.73,4.96 4.46,5.05 4.34,5.27L2.34,8.73C2.21,8.95 2.27,9.22 2.46,9.37L4.57,11C4.53,11.34 4.5,11.67 4.5,12C4.5,12.33 4.53,12.65 4.57,12.97L2.46,14.63C2.27,14.78 2.21,15.05 2.34,15.27L4.34,18.73C4.46,18.95 4.73,19.04 4.95,18.95L7.44,17.95C7.96,18.34 8.5,18.68 9.13,18.93L9.5,21.58C9.54,21.82 9.75,22 10,22H14C14.25,22 14.46,21.82 14.5,21.58L14.87,18.93C15.5,18.68 16.04,18.34 16.56,17.95L19.05,18.95C19.27,19.04 19.54,18.95 19.66,18.73L21.66,15.27C21.78,15.05 21.73,14.78 21.54,14.63L19.43,12.97Z"/></svg>';
 
   // ---------- apply (side-effecting) ----------
   function applyFonts(prefs) {
@@ -144,17 +145,9 @@
       '</div>' +
       '<div class="sc-settings-body">' +
 
-        '<div class="sc-set__group"><h3>Theme</h3>' +
-          '<div class="sc-set__row">' +
-            '<label class="sc-set__label" for="set-site-theme">Color theme</label>' +
-            '<select class="sc-set__select" id="set-site-theme">' +
-              '<option value="steel">Steel (default)</option>' +
-              '<option value="parchment">Parchment</option>' +
-              '<option value="obsidian">Obsidian</option>' +
-            '</select>' +
-            '<span class="sc-set__hint">Use the header toggle for light / dark.</span>' +
-          '</div>' +
-        '</div>' +
+        // NOTE: "Theme → Color theme" (data-sc-theme: parchment/obsidian) is hidden
+        // until the alternate palettes are fully supported. Apply fn + palette.css
+        // remain in place; re-add the markup + binding below to re-enable.
 
         '<div class="sc-set__group"><h3>Reading</h3>' +
           '<div class="sc-set__row">' +
@@ -179,14 +172,9 @@
               '<span>Compact mode &mdash; tighter spacing for dense display</span>' +
             '</label>' +
           '</div>' +
-          '<div class="sc-set__row">' +
-            '<label class="sc-set__label" for="set-card-style">Ability card style</label>' +
-            '<select class="sc-set__select" id="set-card-style">' +
-              '<option value="classic">Classic (default)</option>' +
-              '<option value="modern">Modern</option>' +
-            '</select>' +
-            '<span class="sc-set__hint">Classic uses Draw Steel glyph badges; Modern uses colored borders. Changing this reloads the page.</span>' +
-          '</div>' +
+          // NOTE: "Ability card style" (data-card-style: modern) is hidden until the
+          // Modern card style is fully supported. Apply fn + ability-cards.js handling
+          // remain in place; re-add the markup + binding below to re-enable.
         '</div>' +
 
         '<div class="sc-set__group"><h3>Page width</h3>' +
@@ -276,15 +264,17 @@
       });
     });
 
-    // Site theme
+    // Site theme (control currently hidden — guard in case markup is absent)
     var themeSel = drawer.querySelector("#set-site-theme");
-    themeSel.value = prefs.siteTheme || "steel";
-    themeSel.addEventListener("change", function () {
-      if (!themeSel.value || themeSel.value === "steel") delete prefs.siteTheme;
-      else prefs.siteTheme = themeSel.value;
-      applySiteTheme(prefs.siteTheme);
-      persist();
-    });
+    if (themeSel) {
+      themeSel.value = prefs.siteTheme || "steel";
+      themeSel.addEventListener("change", function () {
+        if (!themeSel.value || themeSel.value === "steel") delete prefs.siteTheme;
+        else prefs.siteTheme = themeSel.value;
+        applySiteTheme(prefs.siteTheme);
+        persist();
+      });
+    }
 
     // Content scale slider
     var scale = drawer.querySelector("#set-scale");
@@ -340,16 +330,19 @@
       persist();
     });
 
-    // Card style (reloads — markup parity with prior behavior)
+    // Card style (control currently hidden — guard in case markup is absent).
+    // Reloads on change to re-render cards in the chosen style.
     var card = drawer.querySelector("#set-card-style");
-    card.value = prefs.cardStyle || "classic";
-    card.addEventListener("change", function () {
-      if (!card.value || card.value === "classic") delete prefs.cardStyle;
-      else prefs.cardStyle = card.value;
-      applyCardStyle(prefs.cardStyle);
-      persist();
-      location.reload();
-    });
+    if (card) {
+      card.value = prefs.cardStyle || "classic";
+      card.addEventListener("change", function () {
+        if (!card.value || card.value === "classic") delete prefs.cardStyle;
+        else prefs.cardStyle = card.value;
+        applyCardStyle(prefs.cardStyle);
+        persist();
+        location.reload();
+      });
+    }
 
     // Page width: full toggle + em slider
     var full = drawer.querySelector("#set-fullwidth");
@@ -390,13 +383,13 @@
       Object.keys(fontIds).forEach(function (k) {
         drawer.querySelector("#" + fontIds[k]).selectedIndex = 0;
       });
-      themeSel.value = "steel";
+      if (themeSel) themeSel.value = "steel";
       scale.value = String(C.SCALE_DEFAULT);
       scaleVal.textContent = "100%";
       cardScale.value = String(C.CARD_DEFAULT);
       cardScaleVal.textContent = "100%";
       compact.checked = false;
-      card.value = "classic";
+      if (card) card.value = "classic";
       syncWidthUI(C.widthToControls(undefined));
       persist();
     });

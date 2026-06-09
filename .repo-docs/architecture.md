@@ -129,7 +129,7 @@ header (`docs/javascripts/settings-panel.js`), which opens a steel-styled drawer
 (`docs/stylesheets/steel-settings.css`) — a right-side panel on desktop, a bottom
 sheet on mobile. All settings write to `localStorage["mkdocs:fontPrefs"]` and apply
 live via `<html>` attributes / CSS custom properties (fonts, page width, compact,
-site theme, card style, a **text-size** slider that drives `--sc-content-scale`
+a **text-size** slider that drives `--sc-content-scale`
 multiplied into `.md-typeset` font-size in `extra.css`/`mobile.css`/compact, and a
 **card-size** slider that drives `--sc-card-scale` applied as `zoom` on top-level
 `.sc-ability`/`.sc-trait` cards in `extra.css`. The generated cards size everything in
@@ -138,6 +138,12 @@ proportionally, and nested cards are reset to `zoom:1` so they inherit rather th
 compound the parent's zoom).
 
 The page-width control is a live slider (44–500em, step 2) plus a Full-width toggle.
+The **Color theme** (`data-sc-theme`: parchment/obsidian) and **Ability card style**
+(`data-card-style`: modern) controls are hidden from the drawer markup until those
+palettes/styles are fully supported — the `applySiteTheme`/`applyCardStyle` functions,
+their null-guarded bindings, the `palette.css` `[data-sc-theme]` blocks, and the
+`ability-cards.js` modern handling all remain in place (re-add the two commented
+markup blocks to re-enable; see workspace `FOLLOWUPS.md` #6).
 Pure parsing/normalization logic lives in the DOM-free `docs/javascripts/settings-core.js`
 and is unit-tested (`devbox run -- node --test tests/`). The anti-FOUC early-apply
 script in `overrides/main.html` reads the same storage key to apply everything
