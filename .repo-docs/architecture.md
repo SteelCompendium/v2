@@ -155,6 +155,10 @@ retired to a redirect note (still reachable for old bookmarks) and dropped from
 ## Key Features
 
 - `navigation.instant` + `navigation.instant.preview`: SPA-like navigation
+  - Gotcha: on client-side nav it recreates inline `<script>` elements and strips all
+    their attributes (class/type). Locate inline-`<script>` data islands by a
+    container-scoped fallback, not by class — see
+    [decisions/2026-06-09-instant-nav-strips-script-attrs.md](decisions/2026-06-09-instant-nav-strips-script-attrs.md).
 - `navigation.tabs` + `navigation.tabs.sticky`: top-level tab navigation (Browse, Bestiary, Read)
 - `toc.permalink`: heading anchor links
 - `material.extensions.preview`: link preview popups for Browse and Read sections

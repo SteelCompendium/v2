@@ -88,3 +88,4 @@ Leave blank if recent. Fill in once there's real experience to report.
 | 2026-05-31 | [Retire the SCC address-bar rewrite](2026-05-31-retire-scc-address-bar-rewrite.md) | accepted |
 | 2026-05-31 | [Disable link previews for performance](2026-05-31-disable-link-previews-perf.md) | accepted |
 | 2026-06-05 | [CI deploy build-time performance investigation](2026-06-05-ci-deploy-build-time-perf.md) | proposed |
+| 2026-06-09 | [Data islands must be found without their attributes (instant-nav script stripping)](2026-06-09-instant-nav-strips-script-attrs.md) | accepted |
