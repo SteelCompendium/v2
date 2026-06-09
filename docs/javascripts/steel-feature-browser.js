@@ -121,7 +121,12 @@
   }
 
   function mount(root) {
-    var island = root.querySelector("script.sc-browse-data");
+    // Material's `navigation.instant` recreates inline <script> elements to force
+    // execution, but strips ALL their attributes (class + type) — keeping only the
+    // text body. So after a client-side nav the data island is a bare <script> with
+    // no `sc-browse-data` class. Try the precise selector first (direct page loads),
+    // then fall back to the only <script> the mount ever contains (instant nav).
+    var island = root.querySelector("script.sc-browse-data") || root.querySelector("script");
     if (!island) return;
     var items;
     try { items = JSON.parse(island.textContent); } catch (e) { return; }
